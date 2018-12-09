@@ -1,13 +1,13 @@
 ---
-title: <Sample Program> in <Language>
+title: Hello World in Never
 layout: default
-last-modified: YYYY-MM-DD
-featured-image: <name of featured image file in assets folder>
-tags: [<a list of tags>]
+last-modified: 2018-11-25
+featured-image:
+tags: [never, hello-world]
 authors:
-  - <author username from _data/authors.yml>
+  - the_renegade_coder
 ---
-  
+
 [Insert article introduction here]
 
 ## How to Implement the Solution

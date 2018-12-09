@@ -1,13 +1,13 @@
 ---
-title: <Sample Program> in <Language>
+title: Hello World in Idris
 layout: default
-last-modified: YYYY-MM-DD
-featured-image: <name of featured image file in assets folder>
-tags: [<a list of tags>]
+last-modified: 2018-11-24
+featured-image:
+tags: [idris, hello-world]
 authors:
-  - <author username from _data/authors.yml>
+  - the_renegade_coder
 ---
-  
+
 [Insert article introduction here]
 
 ## How to Implement the Solution
