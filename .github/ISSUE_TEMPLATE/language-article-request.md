@@ -1,6 +1,6 @@
 ---
 name: Language Article Request
-about: Suggest a language article for this project (i.e. The Java Programming Language)
+about: Suggest a language article (i.e. The Java Programming Language)
 title: Add [Language] Language Article
 labels: article, enhancement
 assignees: ''
