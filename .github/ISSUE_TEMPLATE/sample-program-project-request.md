@@ -1,8 +1,8 @@
 ---
-name: Sample Program Project Request
+name: Sample Program Project Article Request
 about: Suggest a sample program project for this project (i.e. Bubble Sort in Every
   Language)
-title: Add [Project] in Every Language
+title: Add [Project] in Every Language Article
 labels: enhancement
 assignees: ''
 
