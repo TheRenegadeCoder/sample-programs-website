@@ -3,7 +3,7 @@ name: Project Article Request
 about: Suggest a project article (i.e. Bubble Sort in Every
   Language)
 title: Add [Project] in Every Language Article
-labels: enhancement
+labels: documentation
 assignees: ''
 
 ---
