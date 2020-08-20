@@ -2,7 +2,7 @@
 name: Language Article Request
 about: Suggest a language article (i.e. The Java Programming Language)
 title: Add [Language] Language Article
-labels: documentation
+labels: language
 assignees: ''
 
 ---
