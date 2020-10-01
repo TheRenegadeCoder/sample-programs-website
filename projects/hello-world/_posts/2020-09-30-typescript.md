@@ -2,7 +2,6 @@
 title: Hello World in TypeScript
 layout: default
 last-modified: 2020-09-30
-featured-image: hello-world-in-typescript-featured-image.JPEG
 tags: [TypeScript, hello-world]
 authors:
   - bracciata
