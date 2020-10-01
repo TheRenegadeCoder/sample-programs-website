@@ -4,7 +4,7 @@ layout: default
 last-modified: 2020-09-30
 tags: [emojicode, hello-world]
 authors:
-  - chrboe
+  - bracciata
 ---
 
 Welcome to Hello World in Emojicode, a modern language that was created because why not.
