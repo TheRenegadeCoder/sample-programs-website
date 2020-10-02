@@ -9,11 +9,22 @@ authors:
   - the_renegade_coder, mowies
 ---
 
-[Insert intro sentence here]
+In this article, we lay out all the requirements for a depth first search program.
 
 ## Description
 
-[Insert description of project here]
+Depth first search is a type of graph search algorithm. It is often used on trees 
+(which are special types of graphs).
+It takes linear time to traverse a graph, specifically O(num_vertices + num_edges).
+This search algorithm is often used by web crawlers or in machine learning tasks.
+There, the graph that should be traversed is often too big to be traversed in a single go.
+In such cases, the algorithm can be limited in different ways, for example depth or visited nodes.
+
+The algorithm traverses the graph one node after the other, but takes priority in going deeper into 
+the graph opposed to going broader first. This means, that it visits further children of children before visiting
+potential siblings of them.
+
+![Visualization of depth first search][1]
 
 ## Requirements
 
@@ -54,3 +65,5 @@ and the integer to find ("11")`.
 ## Further Reading
 
 - Fill out as needed
+
+[1]: https://upload.wikimedia.org/wikipedia/commons/7/7f/Depth-First-Search.gif
