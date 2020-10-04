@@ -18,7 +18,7 @@ In linear algebra, the transpose of a matrix is an operator which flips a matrix
 The solution can be generated using nested loops and exchanging the indexes of the matrix.
 
 ## Requirements
-Input 1:
+Input:
 
 | 1 | 2 | 3 |
 | - |:-:| -:|
