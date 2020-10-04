@@ -19,36 +19,21 @@ The solution can be generated using nested loops and exchanging the indexes of t
 
 ## Requirements
 Input 1:
-1 2 3   
-4 5 6 
-7 8 9
+
+| 1 | 2 | 3 |
+| 4 | 5 | 6 |
+| 7 | 8 | 9 |
 
 The following is the expected output:
-1 4 7
-2 5 8
-3 6 9
-
-Input 2:
-1 9
-8 6
-5 4
-
-The folllowing is the expected output:
-1 8 5
-9 6 4
+| 1 | 4 | 7 |
+| 2 | 5 | 8 |
+| 3 | 6 | 9 |
 
 1.  The first matrix is from the given input.
 2.  The second  matrix is the desired output i.e, the transpose of the matrix.
 
 ## Testing
 
-Verify that the actual output matches the expected output
-Input:
-1 2 3   
-4 5 6 
-7 8 9
+Verify that the actual output matches the expected output((see [requirements][1])
 
-The following is the expected output:
-1 4 7
-2 5 8
-3 6 9
+[1]: #requirements
