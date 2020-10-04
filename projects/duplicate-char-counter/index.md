@@ -21,9 +21,9 @@ The code should return the count of all duplicate, case-insensitive, alphanumeri
 
 ## Examples
 
-"Hello, World!"  # 'l' occurs 3 times and 'o' occurs 2 times
-"Goodbye, Blues!"  # 'o' occurs 2 times and 'e' occurs 2 times
-"aaaAAA"  # 'a' occurs 3 times and 'A' occurs 3 times
+* "Hello, World!"  # 'l' occurs 3 times and 'o' occurs 2 times
+* "Goodbye, Blues!"  # 'o' occurs 2 times and 'e' occurs 2 times
+* "aaaAAA"  # 'a' occurs 3 times and 'A' occurs 3 times
 
 ## Articles
 
