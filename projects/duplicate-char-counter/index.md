@@ -4,7 +4,7 @@ layout: default
 date: 2020-10-04
 last-modified: 2020-10-04
 featured-image: <name of featured image file in assets folder>
-tags: [<a list of tags>]
+tags: [duplicate-character-counting]
 authors:
   - GoodbyeBlues
 ---
@@ -19,15 +19,16 @@ Although a one line solution for this problem is feasible, just as huge brute fo
 
 The code should return the count of all duplicate, case-insensitive, alphanumeric characters, that occur more than once in the given string. 
 
-## Examples
+## Testing
 
-* "Hello, World!"  # 'l' occurs 3 times and 'o' occurs 2 times
-* "Goodbye, Blues!"  # 'o' occurs 2 times and 'e' occurs 2 times
-* "aaaAAA"  # 'a' occurs 3 times and 'A' occurs 3 times
+|Description| Input              | Output                                    |
+| :-------| :------------------: | ----------------------------------------: |
+| Basic String   | "Goodbye, Blues!"  | 'o' occurs 2 times and 'e' occurs 2 times |
+| Case Sensitive   | "aaaAAA"           | 'a' occurs 3 times and 'A' occurs 3 times |
 
 ## Articles
 
-{% include article_list.md collection=site.categories.[name of project] % }
+{% include article_list.md collection=site.categories.duplicate-character-counting % }
 
 ## Further Reading
 
