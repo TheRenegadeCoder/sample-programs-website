@@ -17,14 +17,15 @@ Although a one line solution for this problem is feasible, just as huge brute fo
 
 ## Requirements
 
-The code should return the count of all duplicate, case-insensitive, alphanumeric characters, that occur more than once in the given string. 
+The code should return the count of all duplicate, case-insensitive, alphanumeric characters, that occur more than once in the given string. Characters should also be presented in the order in which they appear in the string. For instance, 'abba' should output 'a' as the firstcharacter that has a duplicate.
 
 ## Testing
 
-|Description| Input              | Output                                    |
-| :-------| :------------------: | ----------------------------------------: |
-| Basic String   | "Goodbye, Blues!"  | 'o' occurs 2 times and 'e' occurs 2 times |
-| Case Sensitive   | "aaaAAA"           | 'a' occurs 3 times and 'A' occurs 3 times |
+|   Description  | Input           | Output                                                                                      |
+| :--------------| :-------------: | :-----------------------------------------------------------------------------------------: |
+| Basic String   | "goodbyeblues"  | Characters: o, Occurrences: 2, Characters: b, Occurrences: 2, Characters: e, Occurrences: 2 |
+| Correct Order  | "abba"          | Characters: a, Occurrences: 2, Characters: b, Occurrences: 2                                |
+| Case Distinct  | "aAbB"          | No duplicate characters                                                                     |
 
 ## Articles
 
