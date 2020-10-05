@@ -12,7 +12,8 @@ authors:
 Given a string, we need to find the smallest substring inside the main string which is a palindrome.
 
 ## How to Implement the Solution
-We will implement the solution using the best method which has
+We will implement the solution using Method 3.
+The idea is to generate all even length and odd length palindromes and keep track of the longest palindrome seen so far.
 * Time Complexity: O ( n^2 )
 * Auxiliary Space: O ( 1 )
 
@@ -180,7 +181,8 @@ This function can be broken into 3 sections -
 	2. Find the longest odd length palindrome with center point as i <br>
 
 	Lets go over both these sections -
-	1. Finding longest even length palindrome
+	1. Finding longest even length palindrome. 
+	The idea is to fix two centres ( low and high ) and expand in both directions for longer palindromes.
 		```c++
 				low = i - 1; 
 				high = i; 
@@ -202,7 +204,8 @@ This function can be broken into 3 sections -
 		* If length of ```str[low..high]``` is more than current ```maxLength```, update ```maxLength``` as well as ```start```
 		* Finally, we perform increment and decrement on the iterables
 
-	2. Find the longest odd length palindrome with center point as i
+	2. Find the longest odd length palindrome.
+	The idea is to fix a centre and expand in both directions for longer palindromes.
 		```c++
 				low = i - 1; 
 				high = i + 1; 
