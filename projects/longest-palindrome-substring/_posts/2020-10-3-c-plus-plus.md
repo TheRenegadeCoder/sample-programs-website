@@ -12,8 +12,11 @@ authors:
 Given a string, we need to find the smallest substring inside the main string which is a palindrome.
 
 ## How to Implement the Solution
+	We will implement the solution using the best method which has
+	# Time Complexity: O ( n^2 )
+	* Auxiliary Space: O ( 1 )
 
-### Solution
+### Solution Code
 	```c++
 	#include <bits/stdc++.h> 
 	using namespace std; 
