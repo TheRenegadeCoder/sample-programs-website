@@ -152,29 +152,29 @@ This function can be broken into 3 sections -
 	```c++
 	for (int i = 1; i < len; ++i) { 
 
-			low = i - 1; 
-			high = i; 
-			while (low >= 0 && high < len 
-				&& str[low] == str[high]) { 
-				if (high - low + 1 > maxLength) { 
-					start = low; 
-					maxLength = high - low + 1; 
-				} 
-				--low; 
-				++high; 
+		low = i - 1; 
+		high = i; 
+		while (low >= 0 && high < len 
+			&& str[low] == str[high]) { 
+			if (high - low + 1 > maxLength) { 
+				start = low; 
+				maxLength = high - low + 1; 
 			} 
-			low = i - 1; 
-			high = i + 1; 
-			while (low >= 0 && high < len 
-				&& str[low] == str[high]) { 
-				if (high - low + 1 > maxLength) { 
-					start = low; 
-					maxLength = high - low + 1; 
-				} 
-				--low; 
-				++high; 
-			} 
+			--low; 
+			++high; 
 		} 
+		low = i - 1; 
+		high = i + 1; 
+		while (low >= 0 && high < len 
+			&& str[low] == str[high]) { 
+			if (high - low + 1 > maxLength) { 
+				start = low; 
+				maxLength = high - low + 1; 
+			} 
+			--low; 
+			++high; 
+		} 
+	} 
 	```
 	This can further be divided in two sections - <br> 
 	1. Find the longest even length palindrome with center points as i-1 and i. 
@@ -184,19 +184,19 @@ This function can be broken into 3 sections -
 	1. Finding longest even length palindrome. 
 	The idea is to fix two centres ( low and high ) and expand in both directions for longer palindromes.
 		```c++
-				low = i - 1; 
-				high = i; 
-				while (low >= 0 && high < len 
-					&& str[low] == str[high]) { 
+		low = i - 1; 
+		high = i; 
+		while (low >= 0 && high < len 
+			&& str[low] == str[high]) { 
 
-					if (high - low + 1 > maxLength) { 
-						start = low; 
-						maxLength = high - low + 1; 
-					} 
+			if (high - low + 1 > maxLength) { 
+				start = low; 
+				maxLength = high - low + 1; 
+			} 
 
-					++high; 
-					--low; 
-				} 
+			++high; 
+			--low; 
+		} 
 		```
 		* ```low``` and ```high``` start with the center values ```i-1``` & ```i```
 		* Hence, length of ```str[low..high]``` is always even
@@ -207,17 +207,17 @@ This function can be broken into 3 sections -
 	2. Find the longest odd length palindrome.
 	The idea is to fix a centre and expand in both directions for longer palindromes.
 		```c++
-				low = i - 1; 
-				high = i + 1; 
-				while (low >= 0 && high < len 
-					&& str[low] == str[high]) { 
-					if (high - low + 1 > maxLength) { 
-						start = low; 
-						maxLength = high - low + 1; 
-					} 
-					++high; 
-					--low; 
+		low = i - 1; 
+		high = i + 1; 
+		while (low >= 0 && high < len 
+			&& str[low] == str[high]) { 
+			if (high - low + 1 > maxLength) { 
+				start = low; 
+				maxLength = high - low + 1; 
 			} 
+			++high; 
+			--low; 
+		} 
 		```
 		* Every character is a palindrome so ```str[i]``` is already a palindrome
 		* So, ```low``` and ```high``` start with the center values ```i-1``` & ```i+1```
@@ -229,11 +229,10 @@ This function can be broken into 3 sections -
 
 3. The display section is pretty obvious. We print the LPS using our stored values of ```start``` and ```maxLength```, & then we return the ```maxLength```
 	```c++
-		cout << "Longest palindrome substring is: "; 
-		printSubStr(str, start, start + maxLength - 1); 
+	cout << "Longest palindrome substring is: "; 
+	printSubStr(str, start, start + maxLength - 1); 
 
-		return maxLength; 
-	} 
+	return maxLength; 
 	```
 
 ### The Main Function
