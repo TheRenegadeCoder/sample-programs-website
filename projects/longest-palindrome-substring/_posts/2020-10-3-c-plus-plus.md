@@ -18,7 +18,7 @@ The idea is to generate all even length and odd length palindromes and keep trac
 * Auxiliary Space: O ( 1 )
 
 ### Solution Code
-	```c++
+```c++
 	#include <bits/stdc++.h> 
 	using namespace std; 
 
