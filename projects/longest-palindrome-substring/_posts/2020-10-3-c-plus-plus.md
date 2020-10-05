@@ -13,8 +13,8 @@ Given a string, we need to find the smallest substring inside the main string wh
 
 ## How to Implement the Solution
 We will implement the solution using the best method which has
-	* Time Complexity: O ( n^2 )
-	* Auxiliary Space: O ( 1 )
+* Time Complexity: O ( n^2 )
+* Auxiliary Space: O ( 1 )
 
 ### Solution Code
 	```c++
