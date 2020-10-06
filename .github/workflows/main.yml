@@ -26,4 +26,4 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Generate Image
-        run: image-titler --path "assests/images/bubble-sort-in-python-featured-image.JPEG"
+        run: image-titler --path "assets/images/bubble-sort-in-python-featured-image.JPEG"
