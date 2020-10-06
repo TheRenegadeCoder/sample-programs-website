@@ -37,9 +37,7 @@ jobs:
             filename=$(basename "$file")
             base="${filename%.*}"
             edit=$(find "$images" -name "$base*")
-            echo $base
-            echo $edit
-            #mv "$edit" "$images$base" 
+            mv "$edit" "$images$filename" 
           done
       
       - name: Commit Changes
