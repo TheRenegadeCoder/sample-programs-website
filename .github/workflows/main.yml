@@ -35,11 +35,11 @@ jobs:
           do
             image-titler --path "$file" --output "$images"
             filename=$(basename "$file")
-            base="${file%.*}"
+            base="${filename%.*}"
             edit=$(find "$images" -name "$base*")
             echo $base
             echo $edit
-            #mv "$edit" "$base" 
+            #mv "$edit" "$images$base" 
           done
       
       - name: Commit Changes
