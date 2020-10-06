@@ -5,7 +5,7 @@ layout: default
 date: 2020-10-03
 last-modified: 2020-10-03
 featured-image: 
-tags: [recursion]
+tags: [josephus-problem]
 authors:
 ---
 
