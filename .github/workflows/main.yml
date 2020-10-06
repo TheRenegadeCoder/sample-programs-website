@@ -24,7 +24,5 @@ jobs:
         run: pip install image-titler
 
       # Runs a set of commands using the runners shell
-      - name: Print working directory
-        run: |
-          pwd
-          git status
+      - name: Generate Image
+        run: image-titler --path "assests/images/bubble-sort-in-python-featured-image.JPEG"
