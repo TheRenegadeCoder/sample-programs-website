@@ -17,14 +17,9 @@ Where necessary add screenshots for your pull request
 ## PR Type
 What kind of change does this PR introduce?
 ```
-[ ] Bugfix
-[ ] Feature
-[ ] Code style update (formatting, local variables)
-[ ] Refactoring (no functional changes)
-[ ] Build related changes
+[ ] New articles
 [ ] Documentation content changes
-[ ] Tests
 [ ] Other
 
 
-For a guide, on making your pull request, see [Pull_Request](https://github.com)
+For a guide, on making your pull request, see [Pull_Request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
