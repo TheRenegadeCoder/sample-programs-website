@@ -26,7 +26,7 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Generate Image
-        run: image-titler --path "assets/sources/sample-programs-in-every-language-featured-image.jpg" --output "assets/images/sample-programs-in-every-language-featured-image.JPEG"
+        run: image-titler --path "assets/sources/sample-programs-in-every-language-featured-image.jpg" --output "assets/images/"
       
       - name: Commit Change
         run: |
