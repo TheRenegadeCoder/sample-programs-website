@@ -24,7 +24,7 @@ n = 5 (total number of people in circle)
 
 k = 2 (number of people - 1 are skipped and kth person is killed)
 
-Output: (Number of people in the circle currently, number of people to skip, index of the person to be killed or removed)
+__Output__: (Number of people in the circle currently, number of people to skip, index of the person to be killed or removed)
 
 [1, 2, 3, 4, 5] 1 0
 
