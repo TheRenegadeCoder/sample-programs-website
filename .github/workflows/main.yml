@@ -25,4 +25,6 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Print working directory
-        run: pwd
+        run: |
+          pwd
+          git status
