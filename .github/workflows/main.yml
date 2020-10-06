@@ -27,10 +27,14 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Generate Images
         run: |
-          for file in assets/sources/*
+          sources=assets/sources
+          images=assets/images
+          for file in "$sources"*
           do
-            echo $file
-            # image-titler --path "$file" --output "assets/images/"
+            image-titler --path "$file" --output "$images"
+            base=$(basename "$file")
+            echo $base
+            #mv "" "$base" 
           done
       
       - name: Commit Changes
