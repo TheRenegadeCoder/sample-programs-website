@@ -34,7 +34,7 @@ jobs:
           for file in "$sources"*
           do
             image-titler --path "$file" --output "$images"
-            base=$(basename "$file%.*")
+            base=$(basename "${file%.*}")
             echo $base
             #mv "" "$base" 
           done
