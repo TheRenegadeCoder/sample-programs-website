@@ -23,7 +23,11 @@ The code should return the count of all duplicate, case-insensitive, alphanumeri
 
 |   Description  | Input           | Output                                                                                      |
 | :--------------| :-------------: | :-----------------------------------------------------------------------------------------: |
-| Basic String   | "goodbyeblues"  | Characters: o, Occurrences: 2, Characters: b, Occurrences: 2, Characters: e, Occurrences: 2 |
+| Basic String   | "goodbyeblues"  | ```
+Characters: o, Occurrences: 2
+Characters: b, Occurrences: 2
+Characters: e, Occurrences: 2
+``` |
 | Correct Order  | "abba"          | Characters: a, Occurrences: 2, Characters: b, Occurrences: 2                                |
 | Case Distinct  | "aAbB"          | No duplicate characters                                                                     |
 
