@@ -26,7 +26,7 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Generate Image
-        run: image-titler --path "assets/sources/bubble-sort-in-python-featured-image.JPEG" --output "assets/images/bubble-sort-in-python-featured-image.JPEG"
+        run: image-titler --path "assets/sources/sample-programs-in-every-language-featured-image.JPEG" --output "assets/images/sample-programs-in-every-language-featured-image.JPEG"
       
       - name: Commit Change
         run: |
