@@ -28,6 +28,49 @@ jobs:
       - name: Generate Image
         run: image-titler --path "assets/sources/sample-programs-in-every-language-featured-image.jpg" --output "assets/images/"
       
+      - name: Prepare Git
+        uses: EndBug/add-and-commit@v5 # You can change this to use a specific version
+        with:
+          # The arguments for the `git add` command (see the paragraph below for more info)
+          # Default: '.'
+          add: '.'
+
+          # The name of the user that will be displayed as the author of the commit
+          # Default: author of the commit that triggered the run
+          author_name: Jeremy Grifski
+
+          # The email of the user that will be displayed as the author of the commit
+          # Default: author of the commit that triggered the run
+          author_email: jeremy.grifski@therenegadecoder.com
+
+          # Name of the branch to use, if different from the one that triggered the workflow
+          # Default: the branch that triggered the run
+          branch: master
+
+          # The local path to the directory where your repository is located. You should use actions/checkout first to set it up
+          # Default: '.'
+          cwd: '.'
+
+          # The message for the commit
+          # Default: 'Commit from GitHub Actions'
+          message: 'Processed featured images'
+
+          # The arguments for the `git rm` command (see the paragraph below for more info)
+          # Default: ''
+          remove: ""
+
+          # Whether to use the --signoff option on `git commit` (only `true` and `false` are accepted)
+          # Default: false
+          signoff: false
+
+          # Arguments for the git tag command (the tag name always needs to be the first word not preceded by an hyphen)
+          # Default: ''
+          tag: ""
+
+        env:
+          # This is necessary in order to push a commit to the repo
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Leave this line unchanged
+      
       - name: Commit Change
         run: |
           git add .
