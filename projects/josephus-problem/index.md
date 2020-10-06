@@ -38,7 +38,7 @@ Some tests for your program are:
 
 ## Articles
 
-{% include article_list.md collection=site.categories.[name of project] % }
+{% include article_list.md collection=site.categories.josephus-problem %}
 
 ## Further Reading
 
