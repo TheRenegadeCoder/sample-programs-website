@@ -2,7 +2,7 @@
 title: Josephus Problem in Every Language
 
 layout: default
-date: 2020-10-03
+date: 2020-10-06
 last-modified: 2020-10-03
 featured-image: 
 tags: [josephus-problem]
