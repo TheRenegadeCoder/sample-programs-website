@@ -36,8 +36,6 @@ jobs:
           do
             image-titler --path "$file" --output "$images" --logo "$images$logo"
             filename=$(basename "$file")
-            #base="${filename%.*}"
-            #edit=$(find "$images" -name "$base*")
             edit=$(cd "$images" && ls -t | head -n1)
             mv "$images$edit" "$images$filename" 
           done
