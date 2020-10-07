@@ -4,7 +4,7 @@ layout: default
 date: 2020-10-07
 last-modified: 2020-10-07
 featured-image: 
-tags: [panlindrome]
+tags: [palindrome]
 authors:
   - anohene1
 ---
