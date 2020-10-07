@@ -29,7 +29,7 @@ The code should return the count of all duplicate, case-insensitive, alphanumeri
 
 ## Articles
 
-{% include article_list.md collection=site.categories.duplicate-character-counting % }
+{% include article_list.md collection=site.categories.duplicate-character-counting %}
 
 ## Further Reading
 
