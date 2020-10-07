@@ -31,9 +31,10 @@ jobs:
         run: |
           sources=assets/sources/
           images=assets/images/
+          logo=icon-small.png
           for file in "$sources"*
           do
-            image-titler --path "$file" --output "$images"
+            image-titler --path "$file" --output "$images" --logo "$images$logo"
             filename=$(basename "$file")
             base="${filename%.*}"
             edit=$(find "$images" -name "$base*")
