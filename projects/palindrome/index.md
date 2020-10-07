@@ -35,7 +35,7 @@ The following table contains various test cases that you can use to verify the c
 
 ## Articles
 
-{% include article_list.md collection=site.categories.palindrome % }
+{% include article_list.md collection=site.categories.palindrome %}
 
 ## Further Reading
 
