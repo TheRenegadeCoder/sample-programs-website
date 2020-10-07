@@ -1,11 +1,5 @@
-## BUG DESCRIPTION
-Clearly describe the problem
-
-## ROOT CAUSE
-Describe the cause and analysis of the problem
-
 ## SOLUTION DESCRIPTION
-Describe your code changes in details for reviewers, the solution you provided and how it fixes the issue.
+Describe your changes in details for reviewers, the solution you provided and how it fixes the issue.
 - Note: Reference the issue your pull request solves. 
 Like;
 ```
@@ -17,8 +11,9 @@ Where necessary add screenshots for your pull request
 ## PR Type
 What kind of change does this PR introduce?
 ```
-[ ] New articles
-[ ] Documentation content changes
+[ ] Sample program 
+[ ] Language Documentation content 
+[ ] Project Documentation content
 [ ] Other
 
 
