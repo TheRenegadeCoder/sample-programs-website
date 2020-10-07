@@ -1,5 +1,5 @@
 ---
-title: Palindrome in Every Language
+title: Palindromic Numbers in Every Language
 layout: default
 date: 2020-10-07
 last-modified: 2020-10-07
