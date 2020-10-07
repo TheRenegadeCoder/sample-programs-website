@@ -21,19 +21,15 @@ The code should return the count of all duplicate, case-insensitive, alphanumeri
 
 ## Testing
 
-|   Description  | Input           | Output                                                                                      |
-| :--------------| :-------------: | :-----------------------------------------------------------------------------------------: |
-| Basic String   | "goodbyeblues"  | ```
-Characters: o, Occurrences: 2
-Characters: b, Occurrences: 2
-Characters: e, Occurrences: 2
-``` |
-| Correct Order  | "abba"          | Characters: a, Occurrences: 2, Characters: b, Occurrences: 2                                |
-| Case Distinct  | "aAbB"          | No duplicate characters                                                                     |
+|   Description  | Input           | Output                                                                                              |
+| :--------------| :-------------: | :-------------------------------------------------------------------------------------------------: |
+| Basic String   | "goodbyeblues"  | Characters: o, Occurrences: 2<br />Characters: b, Occurrences: 2<br />Characters: e, Occurrences: 2 |
+| Correct Order  | "abba"          | Characters: a, Occurrences: 2<br />Characters: b, Occurrences: 2                                    |
+| Case Distinct  | "aAbB"          | No duplicate characters                                                                             |
 
 ## Articles
 
-{% include article_list.md collection=site.categories.duplicate-character-counting % }
+{% include article_list.md collection=site.categories.duplicate-character-counting %}
 
 ## Further Reading
 
