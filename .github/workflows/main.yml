@@ -32,13 +32,14 @@ jobs:
           sources=assets/sources/
           images=assets/images/
           logo=icon-small.png
-          rm "$images*"
           for file in "$sources"*
           do
             image-titler --path "$file" --output "$images" --logo "$images$logo"
             filename=$(basename "$file")
-            base="${filename%.*}"
-            edit=$(find "$images" -name "$base*")
+            #base="${filename%.*}"
+            #edit=$(find "$images" -name "$base*")
+            edit=$(cd "$images" && ls -t | head -n1)
+            echo $edit
             mv "$edit" "$images$filename" 
           done
       
