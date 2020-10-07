@@ -6,7 +6,7 @@ last-modified: 2020-10-07
 featured-image: 
 tags: [panlindrome]
 authors:
-  - anohene
+  - anohene1
 ---
 
 This is an article on how to check if a number is a palindrome in every language.
