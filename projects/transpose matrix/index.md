@@ -38,4 +38,7 @@ The following is the expected output:
 
 Verify that the actual output matches the expected output((see [requirements][1])
 
+To execute the program :
+```transpose.lang 3 3 "1, 2, 3, 4, 5, 6, 7, 8, 9"```
+
 [1]: #requirements
