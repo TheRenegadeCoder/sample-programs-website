@@ -43,18 +43,6 @@ jobs:
       - name: Commit Changes
         uses: EndBug/add-and-commit@v5 # You can change this to use a specific version
         with:
-          # The arguments for the `git add` command (see the paragraph below for more info)
-          # Default: '.'
-          add: '.'
-
-          # The name of the user that will be displayed as the author of the commit
-          # Default: author of the commit that triggered the run
-          author_name: Jeremy Grifski
-
-          # The email of the user that will be displayed as the author of the commit
-          # Default: author of the commit that triggered the run
-          author_email: jeremy.grifski@therenegadecoder.com
-
           # The message for the commit
           # Default: 'Commit from GitHub Actions'
           message: 'Generated featured images from sources'
