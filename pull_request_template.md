@@ -1,16 +1,13 @@
-## SOLUTION DESCRIPTION
-Describe your changes in details for reviewers, the solution you provided and how it fixes the issue.
-- Note: Reference the issue your pull request solves. 
-Like;
-```
- The pull request fixes issue #issue_number
-```
-## Screenshoots
-Where necessary add screenshots for your pull request
+Thanks for helping us build up our knowledge base! 
+What kind of pull request hav you brought us today?
 
-## PR Type
-What kind of change does this PR introduce?
-[ ] Sample program Documentation
-[ ] Language Documentation
-[ ] Project Documentation
-[ ] Other
+## Pull Request Type
+
+- [ ] Sample program Documentation
+- [ ] Language Documentation
+- [ ] Project Documentation
+- [ ] Other (explain below)
+
+## Notes
+
+Feel free to share any details you feel are relevant.
