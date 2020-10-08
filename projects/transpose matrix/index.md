@@ -34,11 +34,19 @@ The following is the expected output:
 1.  The first matrix is from the given input.
 2.  The second  matrix is the desired output i.e, the transpose of the matrix.
 
+To execute the program :
+```transpose.lang 3 3 "1, 2, 3, 4, 5, 6, 7, 8, 9"```
+Here the first two input numbers indicate the size of the matrix and the next input is the list of numbers to be included in the matrix.
+
 ## Testing
 
 Verify that the actual output matches the expected output((see [requirements][1])
 
-To execute the program :
-```transpose.lang 3 3 "1, 2, 3, 4, 5, 6, 7, 8, 9"```
+| Description | size1 | size2 | integers | Output |
+| - |:-:|:-:|:-:| -:|
+| No input |   |   |   | error |
+| Missing input: Size |   |   | ```1, 2, 3, 4, 5, 6``` | error |
+| Missing input: integers | 3 | 3 |   | error |
+| Sample input | 3 | 2 | ```1, 2, 3, 4, 5, 6``` | ```1, 4, 2, 5, 3, 6``` |
 
 [1]: #requirements
