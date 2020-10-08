@@ -5,7 +5,7 @@ date: 2020-10-03
 last-modified: 2020-10-03
 featured-image:
 tags: [transpose-matrix]
-authors:
+authors:[DedAvocado]
 ---
 
 In this article, we'll demonstrate how to find Transpose of a Matrix, its requirements, and how
