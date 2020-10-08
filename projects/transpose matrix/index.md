@@ -40,7 +40,7 @@ Here the first two input numbers indicate the size of the matrix and the next in
 
 ## Testing
 
-Verify that the actual output matches the expected output((see [requirements][1])
+Verify that the actual output matches the expected output (see [requirements][1])
 
 | Description | size1 | size2 | integers | Output |
 | - |:-:|:-:|:-:| -:|
