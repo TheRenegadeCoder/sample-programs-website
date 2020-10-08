@@ -35,7 +35,7 @@ The following is the expected output:
 2.  The second  matrix is the desired output i.e, the transpose of the matrix.
 
 To execute the program :
-```transpose.lang 3 3 "1, 2, 3, 4, 5, 6, 7, 8, 9"```
+```transpose.lang 3 3 "1, 2, 3, 4, 5, 6, 7, 8, 9"``` </br>
 Here the first two input numbers indicate the size of the matrix and the next input is the list of numbers to be included in the matrix.
 
 ## Testing
