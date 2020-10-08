@@ -1,7 +1,7 @@
 ---
 title: Transpose matrix in Every Language
 layout: default
-date: 2020-10-03
+date: 2020-10-08
 last-modified: 2020-10-08
 featured-image:
 tags: [transpose-matrix]
