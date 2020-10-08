@@ -10,7 +10,6 @@ Where necessary add screenshots for your pull request
 
 ## PR Type
 What kind of change does this PR introduce?
-```
 [ ] Sample program Documentation
 [ ] Language Documentation
 [ ] Project Documentation
