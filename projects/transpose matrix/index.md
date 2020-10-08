@@ -45,9 +45,9 @@ Verify that the actual output matches the expected output (see [requirements][1]
 
 | Description | size1 | size2 | integers | Output |
 | - |:-:|:-:|:-:| -:|
-| No input |   |   |   | error:please enter the dimension of the matrix and the serialized matrix |
-| Missing input: Size |   |   | ```1, 2, 3, 4, 5, 6``` | error:please enter the dimension of the matrix |
-| Missing input: integers | 3 | 3 |   | error:please enter the serialized matrix |
+| No input |   |   |   | error: please enter the dimension of the matrix and the serialized matrix |
+| Missing input: Size |   |   | ```1, 2, 3, 4, 5, 6``` | error: please enter the dimension of the matrix |
+| Missing input: integers | 3 | 3 |   | error: please enter the serialized matrix |
 | Sample input | 3 | 2 | ```1, 2, 3, 4, 5, 6``` | ```1, 4, 2, 5, 3, 6``` |
 
 ## Articles
