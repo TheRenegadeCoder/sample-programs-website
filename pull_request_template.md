@@ -11,10 +11,7 @@ Where necessary add screenshots for your pull request
 ## PR Type
 What kind of change does this PR introduce?
 ```
-[ ] Sample program 
-[ ] Language Documentation content 
-[ ] Project Documentation content
+[ ] Sample program Documentation
+[ ] Language Documentation
+[ ] Project Documentation
 [ ] Other
-
-
-For a guide, on making your pull request, see [Pull_Request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
