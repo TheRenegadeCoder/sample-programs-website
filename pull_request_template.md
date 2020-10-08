@@ -3,7 +3,7 @@ What kind of pull request hav you brought us today?
 
 ## Pull Request Type
 
-- [ ] Sample program Documentation
+- [ ] Sample Program Documentation
 - [ ] Language Documentation
 - [ ] Project Documentation
 - [ ] Other (explain below)
