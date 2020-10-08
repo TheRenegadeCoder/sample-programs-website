@@ -49,4 +49,8 @@ Verify that the actual output matches the expected output (see [requirements][1]
 | Missing input: integers | 3 | 3 |   | error |
 | Sample input | 3 | 2 | ```1, 2, 3, 4, 5, 6``` | ```1, 4, 2, 5, 3, 6``` |
 
+## Articles
+
+{% include article_list.md collection=site.categories.transpose-matrix %}
+
 [1]: #requirements
