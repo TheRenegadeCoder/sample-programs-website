@@ -1,9 +1,9 @@
 ---
 title: Duplicate Character Counting in Every Language
 layout: default
-date: 2020-10-04
-last-modified: 2020-10-04
-featured-image: <name of featured image file in assets folder>
+date: 2020-10-11
+last-modified: 2020-10-11
+featured-image: 
 tags: [duplicate-character-counting]
 authors:
   - GoodbyeBlues
