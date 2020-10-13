@@ -2,7 +2,7 @@
 title: FizzBuzz in JavaScript
 layout: default
 last-modified: 2020-05-02
-featured-image:
+featured-image: fizz-buzz.png
 tags: [javascript, fizzbuzz]
 authors:
   - herrfugbaum
