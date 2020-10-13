@@ -29,7 +29,7 @@ You must write an executable program that accepts a string of comma separated in
 Note that the Kadane's algorithm assumes that there is atleast 1 negative integer in the array.
 If there is no negative integer, then the max subarray sum value is the sum of all the elements of the array.
 
-Also note that if the input array is empty, then the output is "Usage: Please provide a list of at least two integers to sort in the format: '1, 2, 3, 4, 5'".
+Also note that if the input string is empty, then the output is "Usage: Please provide a list of at least two integers to sort in the format: '1, 2, 3, 4, 5'".
 
 ## Testing
 
@@ -37,7 +37,7 @@ Some tests for your program are:
 
 | Description                                                  | Input                     | Output                                                                                       |
 | :----------------------------------------------------------- | :------------------------ | :------------------------------------------------------------------------------------------- |
-| No input                                                     | []                        | Usage: Please provide a list of at least two integers to sort in the format: "1, 2, 3, 4, 5" |
+| No input                                                     |                           | Usage: Please provide a list of at least two integers to sort in the format: "1, 2, 3, 4, 5" |
 | Sample Input: Array with size 1                              | 1                         | 1                                                                                            |
 | Sample Input: Array with no negative integers                | '1, 2, 3'                 | 6                                                                                            |
 | Sample Input: Array with all negative integers               | '-1, -2, -3'              | -1                                                                                           |
