@@ -2,7 +2,7 @@
 title: Maximum Subarray in Every Language
 layout: default
 date: 2020-10-06
-last-modified: 2020-10-13
+last-modified: 2020-10-14
 featured-image:
 tags: [maximum-subarray]
 authors:
@@ -24,7 +24,7 @@ Explanation: The subarray `[1, 2, 3, 4, 5, 23]` gives the max sum value. `(1 + 2
 
 ## Requirements
 
-You must write an executable program that accepts a string of comma separated integers on `standard input` via the command line, and outputs the maximum subarray sum value to `standard output`.
+You must write an executable program that accepts a string of comma separated integers on `standard input` via the sys args, and outputs the maximum subarray sum value to `standard output`.
 
 Note that the Kadane's algorithm assumes that there is atleast 1 negative integer in the array.
 If there is no negative integer, then the max subarray sum value is the sum of all the elements of the array.
