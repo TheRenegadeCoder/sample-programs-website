@@ -3,7 +3,7 @@ title: Jump Search in Python
 layout: default
 date: 2020-10-02
 last-modified: 2020-10-02
-featured-image: jump-search-python.jpg
+featured-image: jump-search-python.png
 tags: [jump-search]
 authors:
   - soumalyatheking22012001
