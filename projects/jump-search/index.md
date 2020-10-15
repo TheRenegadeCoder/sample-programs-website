@@ -16,10 +16,15 @@ In this article, we lay out all the requirements for Jump search algorithm in py
 Like Binary Search, Jump Search is a searching algorithm for sorted arrays. The basic idea is to check fewer elements (than linear search) by jumping ahead by fixed steps or skipping some elements in place of searching all elements.
 For example, suppose we have an array arr[] of size n and block (to be jumped) size m. Then we search at the indexes arr[0], arr[m], arr[2m]…..arr[km] and so on. Once we find the interval (arr[km] < x < arr[(k+1)m]), we perform a linear search operation from the index km to find the element x.
 Let’s consider the following array: (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610). Length of the array is 16. Jump search will find the value of 55 with the following steps assuming that the block size to be jumped is 4.
+
 STEP 1: Jump from index 0 to index 4;
+
 STEP 2: Jump from index 4 to index 8;
+
 STEP 3: Jump from index 8 to index 12;
+
 STEP 4: Since the element at index 12 is greater than 55 we will jump back a step to come to index 8.
+
 STEP 5: Perform linear search from index 8 to get the element 55.
 
 ## Requirements
@@ -34,13 +39,16 @@ Enter array elements: 3 4 1 7
 Sorting the array for better results!
 Sorted array:
 [1, 3, 4, 7]
-Enter the element to be searched: 1
-number 1 is at index 1
+Enter the element to be searched: 4
+number 1 is at index 3
 ```
 
-If successful, the script should return `true`. Otherwise, the script should return `false`. 
+If successful, the script should return `true`. Otherwise, the script should return `false`.
 If any user input errors occur, the script should output the following usage message:
 
+## What is the optimal block size to be skipped
+
+In the worst case, we have to do n/m jumps and if the last checked value is greater than the element to be searched for, we perform m-1 comparisons more for linear search. Therefore the total number of comparisons in the worst case will be ((n/m) + m-1). The value of the function ((n/m) + m-1) will be minimum when m = √n. Therefore, the best step size is m = √n.
 
 ## Testing
 
@@ -58,6 +66,14 @@ If any user input errors occur, the script should output the following usage mes
 | Sample Input: Many False | `1, 3, 5, 6` | `7` | `-1` |
 
 \*The error string to print: `Usage: please provide a list of  integers ("1, 4, 5, 11, 12") and the integer to find ("11")`
+
+## Time complexity
+
+O(√n)
+
+## Auxillary Space
+
+O(1)
 
 ## Articles
 
