@@ -3,7 +3,7 @@ title: Linear Search in Every Language
 layout: default
 date: 2019-10-17
 last-modified: 2020-10-15
-featured-image:
+featured-image: linear-search-in-every-language.jpg
 tags: [linear-search]
 authors:
   - frankhart2017
