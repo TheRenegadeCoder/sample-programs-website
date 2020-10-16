@@ -1,8 +1,8 @@
 ---
 title: Hello World in PowerShell
 layout: default
-last-modified: 2020-05-02
-featured-image: hello-world-in-powershell-featured-image.JPEG
+last-modified: 2020-10-15
+featured-image: hello-world-in-powershell.jpg
 tags: [powershell, hello-world]
 authors:
   - alcha
