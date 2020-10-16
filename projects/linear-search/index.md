@@ -2,11 +2,12 @@
 title: Linear Search in Every Language
 layout: default
 date: 2019-10-17
-last-modified: 2020-05-02
+last-modified: 2020-10-15
 featured-image:
 tags: [linear-search]
 authors:
   - frankhart2017
+  - the_renegade_coder
 ---
 
 This article introduces Linear Search which is the simplest search algorithm.
@@ -47,7 +48,7 @@ Linear search is not efficient for large arrays, but for relatively smaller arra
 <br>key != array[i]
 
 <b>Iteration 2</b>
-<br>array[i] = array[i] = 2
+<br>array[i] = array[1] = 2
 <br>key = 3
 <br>key != array[i]
 
@@ -61,8 +62,7 @@ Linear search is not efficient for large arrays, but for relatively smaller arra
 
 ## Requirements
 
-Write a sample program that takes a key in the format 3 and a list of numbers in the 
-format "1, 2, 3, 4, 5".
+Write a sample program that takes a list of numbers (e.g. "1, 2, 3, 4, 5") and a key (e.g. "3").
 
 ```
 linear-search.lang "1, 4, 2, 9" "3"
@@ -73,15 +73,15 @@ doesn't supply correct input.
 
 ## Testing
 
-| Description               | List Input   | Target Integer Input | Output |
-|---------------------------|--------------|----------------------|--------|
+| Description               | List Input   | Target Integer Input | Output  |
+|---------------------------|--------------|----------------------|---------|
 | No Input                  |              |                      | error\* |
 | Missing Input: List       | `1, 2, 3, 4` |                      | error\* |
 | Missing Input: Target     | `""`         | `5`                  | error\* |
-| Sample Input: First True  | `1, 3, 5, 7` | `1`                  | `true` |
-| Sample Input: Last True   | `1, 3, 5, 7` | `7`                  | `true` |
-| Sample Input: Middle True | `1, 3, 5, 7` | `5`                  | `true` |
-| Sample Input: One True    | `5`          | `5`                  | `true` |
+| Sample Input: First True  | `1, 3, 5, 7` | `1`                  | `true`  |
+| Sample Input: Last True   | `1, 3, 5, 7` | `7`                  | `true`  |
+| Sample Input: Middle True | `1, 3, 5, 7` | `5`                  | `true`  |
+| Sample Input: One True    | `5`          | `5`                  | `true`  |
 | Sample Input: One False   | `5`          | `7`                  | `false` |
 | Sample Input: Many False  | `1, 3, 5, 6` | `7`                  | `false` |
 
@@ -93,10 +93,10 @@ doesn't supply correct input.
 
 ## Further Readings
 
-- [Linear search on Wikipedia][1]
-- [A beginner's guide to Big O notation- Rob Bell][2]
-- [Big O notation on Wikipedia][3]
+- [Linear search on Wikipedia][linear-search-wiki]
+- [A beginner's guide to Big O notation- Rob Bell][big-o-notation-guide]
+- [Big O notation on Wikipedia][big-o-notation-wiki]
 
-[1]: https://en.wikipedia.org/wiki/Linear_search
-[2]: https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
-[3]: https://en.wikipedia.org/wiki/Big_O_notation
+[linear-search-wiki]: https://en.wikipedia.org/wiki/Linear_search
+[big-o-notation-guide]: https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
+[big-o-notation-wiki]: https://en.wikipedia.org/wiki/Big_O_notation
