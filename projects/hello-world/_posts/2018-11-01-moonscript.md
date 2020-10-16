@@ -1,8 +1,8 @@
 ---
 title: Hello World in MoonScript
 layout: default
-last-modified: 2020-05-02
-featured-image: hello-world-in-moonscript-featured-image.JPEG
+last-modified: 2020-10-15
+featured-image: hello-world-in-moonscript.jpg
 tags: [moonscript, hello-world]
 authors:
   - bassem_mohamed
