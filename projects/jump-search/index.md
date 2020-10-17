@@ -1,5 +1,5 @@
 ---
-title: Jump Search in Python
+title: Jump Search in Every Language
 layout: default
 date: 2020-10-02
 last-modified: 2020-10-02
