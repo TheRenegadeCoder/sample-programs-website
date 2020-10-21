@@ -6,7 +6,7 @@ last-modified: 2020-10-14
 featured-image: {FEATURED IMAGE NAME}
 tags: Array/ List
 authors:
-  - {AUTHOR USERNAME FROM _data/authors.yml}
+  - agasheaditya
 ---
 
 ## Print/return maximum sum of weighted rotated array/list of size 'n' after 'n' rotations.
@@ -50,12 +50,13 @@ authors:
 
 | Description | {EXAMPLE INPUT COLUMN} | Output             |
 | ----------- | ---------------------- | ------------------ |
-| List/ Array |    input =[8,3,1,2]    | Mximum Sum is :29  |
-
+| List/ Array |    input =[8,3,1,2]    | Maximum Sum is:29  |
+| List/ Array |  input = [15,18,20,70] | Maximum Sum is: 268|
+| List/ Array |ip= [24,4,7,-8,6,77,14] | Maximum Sum is: 531|
 
 ## Articles
 
-{% include article_list.md collection=site.categories.{PROJECT NAME} %}
+{% include article_list.md collection=site.categories.Array-rotation %}
 
 ## Further Reading
 
