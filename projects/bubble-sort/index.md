@@ -2,8 +2,8 @@
 title: Bubble Sort in Every Language
 layout: default
 date: 2018-11-29
-last-modified: 2020-05-02
-featured-image:
+last-modified: 2020-10-12
+featured-image: bubble-sort-in-every-language.jpg
 tags: [bubble-sort]
 authors:
   - auroq

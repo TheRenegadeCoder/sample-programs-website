@@ -2,8 +2,8 @@
 title: Projects
 layout: default
 date: 2018-11-01
-last-modified: 2020-05-02
-featured-image: projects-in-every-language-featured-image.JPEG
+last-modified: 2020-10-15
+featured-image: projects-in-every-language.jpg
 authors:
   - the_renegade_coder
 ---

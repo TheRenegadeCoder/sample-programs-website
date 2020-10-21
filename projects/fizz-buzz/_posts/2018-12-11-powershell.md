@@ -2,13 +2,13 @@
 title: Fizz Buzz in PowerShell
 layout: default
 last-modified: 2020-05-02
-featured-image:
+featured-image: fizz-buzz.png
 tags: [powershell, fizz-buzz]
 authors:
   - alcha
 ---
 
-In this article, we'll be showing you how to implement Fizz Buzz in PowerShell. 
+In this article, we'll be showing you how to implement Fizz Buzz in PowerShell.
 Check it out!
 
 ## How to Implement the Solution
