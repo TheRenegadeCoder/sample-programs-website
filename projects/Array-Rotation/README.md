@@ -4,7 +4,7 @@ layout: default
 date: 2020-10-14
 last-modified: 2020-10-14
 featured-image: {FEATURED IMAGE NAME}
-tags: Array/ List
+tags: [array-rotation]
 authors:
   - agasheaditya
 ---
