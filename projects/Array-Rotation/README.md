@@ -1,5 +1,5 @@
 ---
-title: List/Array rotation in Python
+title: Array Rotation in Every Language
 layout: default
 date: 2020-10-14
 last-modified: 2020-10-14
