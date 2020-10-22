@@ -1,32 +1,38 @@
 ---
-title: <Sample Program> in Every Language
+title: {SAMPLE PROGRAM} in Every Language
 layout: default
 date: YYYY-MM-DD
 last-modified: YYYY-MM-DD
-featured-image: <name of featured image file in assets folder>
-tags: [<a list of tags>]
+featured-image: {FEATURED IMAGE NAME}
+tags: [{PROJECT NAME}]
 authors:
-  - <author username from _data/authors.yml>
+  - {AUTHOR USERNAME FROM _data/authors.yml}
 ---
 
-[Insert intro sentence here]
+{INTRO SENTENCE}
 
 ## Description
 
-[Insert description of project here]
+{PROJECT DESCRIPTION}
 
 ## Requirements
 
-[Outline program requirements here]
+{PROJECT REQUIREMENTS}
+
+```shell
+./sample-program.lang sample_input
+```
 
 ## Testing
 
-[Outline a comprehensive set of tests here]
+| Description | {EXAMPLE INPUT COLUMN} | Output             |
+| ----------- | ---------------------- | ------------------ |
+| {EXAMPLE 1} | {EXAMPLE INPUT 1}      | {EXAMPLE OUTPUT 1} |
 
 ## Articles
 
-{% include article_list.md collection=site.categories.[name of project] % }
+{% include article_list.md collection=site.categories.{PROJECT NAME} %}
 
 ## Further Reading
 
-- [List useful links here]
+- {USEFUL REFERENCES}

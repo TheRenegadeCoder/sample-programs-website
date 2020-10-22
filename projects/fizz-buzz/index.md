@@ -3,7 +3,7 @@ title: Fizz Buzz in Every Language
 layout: default
 date: 2018-11-01
 last-modified: 2020-05-02
-featured-image:
+featured-image: fizz-buzz.png
 tags: [fizz-buzz]
 authors:
   - the_renegade_coder

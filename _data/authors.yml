@@ -30,6 +30,12 @@ Alina1Black:
   web:
   bio:
 
+anohene1:
+  name: Isaac Anohene
+  email: anoheneisaac@gmail.com
+  web: isaacanohene.me
+  bio:
+
 auroq:
   name: Parker Johansen
   email: johansen.parker@gmail.com
@@ -46,6 +52,15 @@ bassem_mohamed:
     experience to land a job as a core system engineer in one of the biggest
     banks in Egypt. Being a junior developer and 24 years old, he still has a
     long way to go.
+
+belide_aakash:
+  name: Belide Aakash
+  email: aakash.belide@gmail.com
+  web: https://belideaakash.tech/
+  bio: |
+    I am a tech enthusiast seeking to learn new technologies every day. Despite 
+    my passion for technology, I have professional skills in designing and 
+    management.
 
 bracciata:
   name: Thomas Braccia
@@ -66,6 +81,27 @@ daniellunsc:
   email: danlunasc@gmail.com
   web:
   bio:
+  
+DedAvocado:
+  name: Pranjal
+  email: pranjalb907@gmail.com
+  web: 
+  bio: 
+  
+fuboki10:
+  name: Abdelrhman Tarek
+  email: Abdelrahman.tarek1910@gmail.com
+  web: 
+  bio: |
+    A Computer Engineering student at Faculty of Engineering Cairo University EG (2022).
+    Competitive Programmer 🔥. 
+    
+GoodbyeBlues:
+  name: Elizabeth Graham
+  email: elizabethgraham2000@gmail.com
+  web: 
+  bio: |
+    Computer Science major. Jeg snakker litt norsk også :)
 
 herrfugbaum:
   name: Pascal Spiesz
@@ -96,6 +132,15 @@ martyav:
     Previous to all that, gigs included (in no particular order) A) writing for
     AskJeeves, B) handing out safe sex packets, C) painting houses, and D)
     making flyers for local NYC nonprofits.
+
+nickkeers:
+  name: Nick Keers
+  email:
+  web: https://nickkeers.co.uk/
+  bio: |
+    A software developer from the UK, I graduated from Keele University in 2015 with a bachelors in
+    Computer Science. Interested in mainly functional programming (Elixir, Erlang, F#) and writing
+    resilient, scalable systems.
 
 nicovillanueva:
   name: Nico Villanueva
@@ -200,15 +245,6 @@ virtual_flat:
   web: virtual-flat.com
   bio:
 
-nickkeers:
-  name: Nick Keers
-  email:
-  web: https://nickkeers.co.uk/
-  bio: |
-    A software developer from the UK, I graduated from Keele University in 2015 with a bachelors in
-    Computer Science. Interested in mainly functional programming (Elixir, Erlang, F#) and writing
-    resilient, scalable systems.
-
 wileymab:
   name: Matt Wiley
   email: wileymab@gmail.com
@@ -217,12 +253,10 @@ wileymab:
     I'm just person.
     Sitting in front of some code.
     Asking it to start working.
- 
-fuboki10:
-  name: Abdelrhman Tarek
-  email: Abdelrahman.tarek1910@gmail.com
-  web: 
+
+Senpai1199:
+  name: Divyansh Agarwal
+  email: divyansh1199@gmail.com
+  web:
   bio: |
-    A Computer Engineering student at Faculty of Engineering Cairo University EG (2022).
-    Competitive Programmer 🔥. 
- 
+    Tech enthusiast and a gamer!
