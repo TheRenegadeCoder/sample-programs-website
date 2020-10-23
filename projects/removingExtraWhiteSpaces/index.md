@@ -24,7 +24,7 @@ A string is nothing but an array of characters. The value of a string is determi
 
 As given in the example above, you need to enter a string first up.
 
-The string entered here is as follows: " Removing   Extra White   Spaces  "
+The string entered here is as follows: "&nbsp;&nbsp;Removing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extra&nbsp;White&nbsp;&nbsp;&nbsp;Spaces&nbsp;&nbsp;&nbsp;&nbsp;"
 
 As you can see, there are quite a few blank spaces in the string entered above.
 
@@ -34,8 +34,14 @@ Hence, the string becomes like this after removing all the blank spaces:
 
 ## Testing
 
-Some tests for your program are:
+The following table contains various test cases that you can use to verify the 
+correctness of your solution:
 
+| Description | Input | Output |
+|--------------|-------|--------|
+| No Input | | "Wrong input! , please try again." |
+| Empty Input | "" | "Wrong input! , please try again." |
+| Any String Input| "&nbsp;&nbsp;Removing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extra&nbsp;White&nbsp;&nbsp;&nbsp;Spaces&nbsp;&nbsp;&nbsp;&nbsp;" | "removingExtraWhiteSpaces" |
 
 ## Articles
 
