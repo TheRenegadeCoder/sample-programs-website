@@ -1,5 +1,5 @@
 ---
-title: Removing All Whitespace in Every Language
+title: Remove All Whitespace in Every Language
 layout: default
 date: 2020-10-21
 last-modified: 2020-10-21
