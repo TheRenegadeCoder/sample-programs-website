@@ -48,11 +48,11 @@ authors:
 
 ## Testing
 
-| Description | Input | Output             |
-| ----------- | ---------------------- | ------------------ |
-| List/ Array | "8,3,1,2" | 29 |
-| List/ Array |  input = [15,18,20,70] | Maximum Sum is: 268|
-| List/ Array |ip= [24,4,7,-8,6,77,14] | Maximum Sum is: 531|
+| Description      | Input                     | Output |
+| ---------------- | ------------------------- | ------ |
+| Sample Input: ?? | "8, 3, 1, 2"              | 29     |
+| Sample Input: ?? | "15, 18, 20, 70"          | 268    |
+| Sample Input: ?? | "24, 4, 7, -8, 6, 77, 14" | 531    |
 
 ## Articles
 
