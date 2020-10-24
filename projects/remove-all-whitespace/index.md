@@ -2,7 +2,7 @@
 title: Remove All Whitespace in Every Language
 layout: default
 date: 2020-10-21
-last-modified: 2020-10-21
+last-modified: 2020-10-24
 featured-image:
 tags: [remove-extra-whitespace, c]
 authors:
@@ -41,7 +41,7 @@ correctness of your solution:
 |--------------|-------|--------|
 | No Input | | "Usage: please provide a string" |
 | Empty Input | "" | "Usage: please provide a string" |
-| Any String Input| "&nbsp;&nbsp;Removing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extra&nbsp;White&nbsp;&nbsp;&nbsp;Spaces&nbsp;&nbsp;&nbsp;&nbsp;" | "removingExtraWhiteSpaces" |
+| Simple Input | "&nbsp;&nbsp;Removing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extra&nbsp;White&nbsp;&nbsp;&nbsp;Spaces&nbsp;&nbsp;&nbsp;&nbsp;" | "removingExtraWhiteSpaces" |
 
 ## Articles
 
