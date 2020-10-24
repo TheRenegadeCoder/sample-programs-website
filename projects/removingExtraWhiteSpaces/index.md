@@ -6,7 +6,7 @@ last-modified: 2020-10-21
 featured-image:
 tags: [removingExtraWhiteSpaces, c]
 authors:
-    - [BHMBS Ibrahim](https://github.com/barhouum7)
+    - barhouum7
 ---
 
 Removing extra white spaces from a given string
