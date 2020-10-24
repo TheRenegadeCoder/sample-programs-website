@@ -34,7 +34,11 @@ jobs:
       - name: Commit Changes
         uses: EndBug/add-and-commit@v5 
         with:
-          message: 'Generated featured images from sources'
+          message: |
+            'Generated featured images from sources
+            
+            
+            on-behalf-of: @TheRenegadeCoder <jeremy.grifski@therenegadecoder.com>'
           author_name: Jeremy Grifski
           author_email: jeremy.grifski@gmail.com
 
