@@ -4,7 +4,7 @@ layout: default
 date: 2020-10-21
 last-modified: 2020-10-24
 featured-image:
-tags: [remove-extra-whitespace, c]
+tags: [remove-all-whitespace, c]
 authors:
     - barhouum7
 ---
@@ -45,7 +45,7 @@ correctness of your solution:
 
 ## Articles
 
-{% include article_list.md collection=site.categories.remove-extra-whitespace %}
+{% include article_list.md collection=site.categories.remove-all-whitespace %}
 
 ## Further Reading
 
