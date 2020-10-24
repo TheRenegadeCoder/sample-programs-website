@@ -9,28 +9,20 @@ authors:
     - barhouum7
 ---
 
-Removing extra white spaces from a given string
-
-Given a string, remove all spaces from the string and return it with it's _length_.
-
-```c
-Input:  " Removing   Extra White   Spaces  "
-Output: "removingExtraWhiteSpaces"
-```
+In this article, we'll outline the Remove All Whitespace project. 
 
 ## Requirements
 
-A string is nothing but an array of characters. The value of a string is determined by the terminating character. Its value is considered to be 0.
+A string is a collection of characters. Sometimes strings contain whitespace characters like " ", "\t", and "\n". 
+The purpose of this program is to remove all such spaces from a string as follows:
 
-As given in the example above, you need to enter a string first up.
+```
+remove-all-whitespace.lang "   Hello, World!   "
+"Hello,World!"
+```
 
-The string entered here is as follows: "&nbsp;&nbsp;Removing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extra&nbsp;White&nbsp;&nbsp;&nbsp;Spaces&nbsp;&nbsp;&nbsp;&nbsp;"
-
-As you can see, there are quite a few blank spaces in the string entered above.
-
-Hence, the string becomes like this after removing all the blank spaces:
-
-"removingExtraWhiteSpaces"
+In this case, we start with a string that has leading, trailing, and inner spaces. Ultimately, we want to
+return a string with all of the spaces removed.
 
 ## Testing
 
