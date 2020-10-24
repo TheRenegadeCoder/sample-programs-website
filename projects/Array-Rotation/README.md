@@ -56,7 +56,7 @@ authors:
 
 ## Articles
 
-{% include article_list.md collection=site.categories.Array-rotation %}
+{% include article_list.md collection=site.categories.array-rotation %}
 
 ## Further Reading
 
