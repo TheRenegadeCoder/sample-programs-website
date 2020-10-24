@@ -24,6 +24,9 @@ remove-all-whitespace.lang "   Hello, World!   "
 In this case, we start with a string that has leading, trailing, and inner spaces. Ultimately, we want to
 return a string with all of the spaces removed.
 
+For simplicity, we will be restricting the types of whitespace to these four types of characters: spaces (" "),
+tabs ("\t"), newlines ("\n"), and carriage returns ("\r").
+
 ## Testing
 
 The following table contains various test cases that you can use to verify the 
