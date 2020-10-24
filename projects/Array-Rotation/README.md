@@ -48,7 +48,7 @@ authors:
 
 ## Testing
 
-| Description | {EXAMPLE INPUT COLUMN} | Output             |
+| Description | Input | Output             |
 | ----------- | ---------------------- | ------------------ |
 | List/ Array | "8,3,1,2" | 29 |
 | List/ Array |  input = [15,18,20,70] | Maximum Sum is: 268|
