@@ -29,11 +29,12 @@ return a string with all of the spaces removed.
 The following table contains various test cases that you can use to verify the 
 correctness of your solution:
 
-| Description | Input | Output |
-|--------------|-------|--------|
-| No Input | | "Usage: please provide a string" |
-| Empty Input | "" | "Usage: please provide a string" |
-| Simple Input | "&nbsp;&nbsp;Removing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extra&nbsp;White&nbsp;&nbsp;&nbsp;Spaces&nbsp;&nbsp;&nbsp;&nbsp;" | "removingExtraWhiteSpaces" |
+| Description                  | Input                         | Output                           |
+|------------------------------|-------------------------------|----------------------------------|
+| No Input                     |                               | "Usage: please provide a string" |
+| Empty Input                  | ""                            | "Usage: please provide a string" |
+| Sample Input: No Spaces      | "RemoveAllWhitespace"       | "RemoveAllWhitespace"            |
+| Sample Input: Leading Spaces | "      RemoveAllWhitespace" | "RemoveAllWhitespace"          |
 
 ## Articles
 
