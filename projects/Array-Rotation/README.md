@@ -50,7 +50,7 @@ authors:
 
 | Description | {EXAMPLE INPUT COLUMN} | Output             |
 | ----------- | ---------------------- | ------------------ |
-| List/ Array |    input =[8,3,1,2]    | Maximum Sum is:29  |
+| List/ Array | "8,3,1,2" | 29 |
 | List/ Array |  input = [15,18,20,70] | Maximum Sum is: 268|
 | List/ Array |ip= [24,4,7,-8,6,77,14] | Maximum Sum is: 531|
 
