@@ -4,7 +4,7 @@ layout: default
 date: 2020-10-21
 last-modified: 2020-10-21
 featured-image:
-tags: [removingExtraWhiteSpaces, c]
+tags: [remove-extra-whitespace, c]
 authors:
     - [BHMBS Ibrahim](https://github.com/barhouum7)
 ---
