@@ -39,13 +39,13 @@ correctness of your solution:
 
 | Description | Input | Output |
 |--------------|-------|--------|
-| No Input | | "Wrong input! , please try again." |
-| Empty Input | "" | "Wrong input! , please try again." |
+| No Input | | "Usage: please provide a string" |
+| Empty Input | "" | "Usage: please provide a string" |
 | Any String Input| "&nbsp;&nbsp;Removing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extra&nbsp;White&nbsp;&nbsp;&nbsp;Spaces&nbsp;&nbsp;&nbsp;&nbsp;" | "removingExtraWhiteSpaces" |
 
 ## Articles
 
-{% include article_list.md collection=site.categories.removingExtraWhiteSpaces %}
+{% include article_list.md collection=site.categories.remove-extra-whitespace %}
 
 ## Further Reading
 
