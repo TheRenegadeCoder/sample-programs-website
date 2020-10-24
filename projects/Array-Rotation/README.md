@@ -3,7 +3,7 @@ title: Array Rotation in Every Language
 layout: default
 date: 2020-10-14
 last-modified: 2020-10-14
-featured-image: {FEATURED IMAGE NAME}
+featured-image: 
 tags: [array-rotation]
 authors:
   - agasheaditya
