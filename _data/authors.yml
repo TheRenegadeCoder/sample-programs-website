@@ -3,7 +3,7 @@ abhishek_raut:
   email:
   web: http://abhishekraut.com/
   bio: code + coffee = happy Me!
-  
+
 agilob:
   name: agilob
   email:
@@ -69,7 +69,7 @@ bracciata:
   bio: |
     Thomas is a Software Engineering Major at the University of Nebraska - Lincoln.
     He is passionate about learning, teaching, and accessibility.
-    
+
 chrboe:
   name: Christoph Böhmwalder
   email: christoph@boehmwalder.at
@@ -81,25 +81,25 @@ daniellunsc:
   email: danlunasc@gmail.com
   web:
   bio:
-  
+
 DedAvocado:
   name: Pranjal
   email: pranjalb907@gmail.com
-  web: 
-  bio: 
-  
+  web:
+  bio:
+
 fuboki10:
   name: Abdelrhman Tarek
   email: Abdelrahman.tarek1910@gmail.com
-  web: 
+  web:
   bio: |
     A Computer Engineering student at Faculty of Engineering Cairo University EG (2022).
-    Competitive Programmer 🔥. 
-    
+    Competitive Programmer 🔥.
+
 GoodbyeBlues:
   name: Elizabeth Graham
   email: elizabethgraham2000@gmail.com
-  web: 
+  web:
   bio: |
     Computer Science major. Jeg snakker litt norsk også :)
 
@@ -166,7 +166,7 @@ ray6464:
   web: https://twitter.com/Rayshorthead
   bio: |
     I like to code & write.
-    
+
 rayavarapuvikram1:
   name: Vikram Rayavarapu
   email: rayavarapuvikram1@gmail.com
@@ -184,8 +184,8 @@ shubhragupta-code:
   name: Shubhra Gupta
   email:
   web:
-  bio: 
-  
+  bio:
+
 slashdoom:
   name: P. Ryon (slashdoom)
   email: patrick@slashdoom.com
@@ -226,7 +226,7 @@ two_clutch:
   email: maximillianaza@gmail.com
   web:
   bio: I'm me. I code. And I chill.
-  
+
 underscoreanuj:
   name: Anuj Singh
   email: underscoreanuj@gmail.com
@@ -260,3 +260,10 @@ Senpai1199:
   web:
   bio: |
     Tech enthusiast and a gamer!
+
+barhouum7:
+  name: BHMBS Ibrahim
+  email: bb.med2000@gmail.com
+  web: bhmbsibrahim.ml
+  bio: |
+    A tech enthusiast, programmer🐱‍💻, Student but self-taught learner and Open-source contributor.
