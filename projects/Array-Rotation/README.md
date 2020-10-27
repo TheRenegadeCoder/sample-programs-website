@@ -50,9 +50,11 @@ authors:
 
 | Description      | Input                     | Output |
 | ---------------- | ------------------------- | ------ |
-| Sample Input: ?? | "8, 3, 1, 2"              | 29     |
-| Sample Input: ?? | "15, 18, 20, 70"          | 268    |
-| Sample Input: ?? | "24, 4, 7, -8, 6, 77, 14" | 531    |
+| Array/List       | "8, 3, 1, 2"              | 29     |
+| Array/List       | "15, 18, 20, 70"          | 268    |
+| Array/List       | "24, 4, 7, -8, 6, 77, 14" | 531    |
+| Empty array/List | ""                        |empty array provided|
+| No imput         | ***                       |Traceback error for empty input|
 
 ## Articles
 
