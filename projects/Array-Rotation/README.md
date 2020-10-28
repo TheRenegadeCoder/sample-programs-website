@@ -1,10 +1,10 @@
 ---
-title: Array Rotation in Every Language
+title: Maximum Array Rotation in Every Language
 layout: default
 date: 2020-10-14
 last-modified: 2020-10-14
 featured-image: 
-tags: [array-rotation]
+tags: [maximum-array-rotation]
 authors:
   - agasheaditya
 ---
@@ -40,25 +40,24 @@ authors:
 
 ## Requirements
 
-##### Python 3.* 
-
 ```shell
-./sample-program.lang sample_input
+./sample-program.lang "8, 3, 1, 2"
 ```
 
 ## Testing
 
-| Description      | Input                     | Output |
-| ---------------- | ------------------------- | ------ |
-| Array/List       | "8, 3, 1, 2"              | 29     |
-| Array/List       | "15, 18, 20, 70"          | 268    |
-| Array/List       | "24, 4, 7, -8, 6, 77, 14" | 531    |
-| Empty array/List | ""                        |empty array provided|
-| No imput         | ***                       |Traceback error for empty input|
+| Description                  | Input                     | Output                                                         |
+| ---------------------------- | ------------------------- | -------------------------------------------------------------- |
+| No Input                     |                           | "Usage: please provide a list of integers (e.g. "8, 3, 1, 2")" |
+| Empty Input                  | ""                        | "Usage: please provide a list of integers (e.g. "8, 3, 1, 2")" |
+| Sample Input: No Rotation    | "3, 1, 2, 8"              | 29                                                             |
+| Sample Input: One Rotation   | "1, 2, 8, 3"              | 29                                                             |
+| Sample Input: Many Rotations | "8, 3, 1, 2"              | 29                                                             |
+
 
 ## Articles
 
-{% include article_list.md collection=site.categories.array-rotation %}
+{% include article_list.md collection=site.categories.maximum-array-rotation %}
 
 ## Further Reading
 
