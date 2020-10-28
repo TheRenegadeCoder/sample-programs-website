@@ -7,6 +7,7 @@ featured-image:
 tags: [maximum-array-rotation]
 authors:
   - agasheaditya
+  - the_renegade_coder
 ---
 
 In this article, we'll learn about the Maximum Array Rotation project.
@@ -24,14 +25,12 @@ the last term in the list would be multiplied by 4.
 
 Given that we can compute the weighted sum, the purpose of this project is to
 find the maximum array rotation. In other words, if we were to rotate the list N 
-times, what's the largest weighted sum we could get? Here's what that would look
-like with this list (2, 8, 3, 1): 
+times (note: rotation direction does not matter), what's the largest weighted sum 
+we could get? Here's what that would look like with this list (2, 8, 3, 1):
 
- > array after 1st rotation ->[2, 8, 3, 1]
-                                            0
-                                            8
-                                            6
-                                            3
+1. `(2, 8, 3, 1) = (2 * 0) + (8 * 1) + (3 * 2) + (1 * 3) = 0 + 8 + 6 + 3 = 17`
+2. `(1, 2, 8, 3) = (1 * 0) + (2 * 1) + (8 * 2) + (3 * 3) = 0 + 2 + 16 + 9 = 27`
+
 -----------------------------------------------
  > array after 2nd rotation ->[1, 2, 8, 3]
                                             0
