@@ -1,8 +1,8 @@
 ---
 title: Maximum Array Rotation in Every Language
 layout: default
-date: 2020-10-14
-last-modified: 2020-10-14
+date: 2020-10-28
+last-modified: 2020-10-28
 featured-image: 
 tags: [maximum-array-rotation]
 authors:
@@ -30,32 +30,24 @@ we could get? Here's what that would look like with this list (2, 8, 3, 1):
 
 1. `(2, 8, 3, 1) = (2 * 0) + (8 * 1) + (3 * 2) + (1 * 3) = 0 + 8 + 6 + 3 = 17`
 2. `(1, 2, 8, 3) = (1 * 0) + (2 * 1) + (8 * 2) + (3 * 3) = 0 + 2 + 16 + 9 = 27`
+3. `(3, 1, 2, 8) = (3 * 0) + (1 * 1) + (2 * 2) + (8 * 3) = 0 + 1 + 4 + 24 = 29`
+4. `(8, 3, 1, 2) = (8 * 0) + (3 * 1) + (1 * 2) + (2 * 3) = 0 + 3 + 2 + 6 = 11`
 
------------------------------------------------
- > array after 2nd rotation ->[1, 2, 8, 3]
-                                            0
-                                            2
-                                            16
-                                            9
-------------------------------------------------
- > array after 3rd rotation ->[3, 1, 2, 8]
-                                            0
-                                            1
-                                            4
-                                            24
-------------------------------------------------
- > array after 4th rotation ->[8, 3, 1, 2]
-                                            0
-                                            3
-                                            2
-                                            6
-------------------------------------------------
+Ultimately, we want to find the largest sum. That appears to happen during our
+second rotation (i.e. line 3) where we get a weighted sum of 29. 
 
 ## Requirements
 
+A Maximum Array Rotation program should function as follows:
+
 ```shell
-./sample-program.lang "8, 3, 1, 2"
+$ ./maximum-array-rotation.lang "8, 3, 1, 2"
+$ 29
 ```
+
+In other words, the user should call the program on the command line with a string
+of comma separeted integers. If done properly, the program should output the 
+Maximum Array Rotation. See the following testing section for more specific requirements.
 
 ## Testing
 
@@ -66,7 +58,6 @@ we could get? Here's what that would look like with this list (2, 8, 3, 1):
 | Sample Input: No Rotation    | "3, 1, 2, 8"              | 29                                                             |
 | Sample Input: One Rotation   | "1, 2, 8, 3"              | 29                                                             |
 | Sample Input: Many Rotations | "8, 3, 1, 2"              | 29                                                             |
-
 
 ## Articles
 
