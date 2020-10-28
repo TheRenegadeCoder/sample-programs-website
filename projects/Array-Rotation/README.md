@@ -9,10 +9,24 @@ authors:
   - agasheaditya
 ---
 
-## Print/return maximum sum of weighted rotated array/list of size 'n' after 'n' rotations.
+In this article, we'll learn about the Maximum Array Rotation project.
+
 ## Description
 
-##### weight distribution array (a[0]* 0,a[1]* 1,a[2]* 2,a[3]* 3,...,a[n]*n)
+Given a list, L, of integers, we can compute the weighted sum, W, as followed:
+
+```
+W = L[0] * 0 + L[1] * 1 + ... + L[N - 1] * N - 1
+```
+
+In this case, N is the length of the list. As a result, if the list contained 5 items,
+the last term in the list would be multiplied by 4.
+
+Given that we can compute the weighted sum, the purpose of this project is to
+find the maximum array rotation. In other words, if we were to rotate the list N 
+times, what's the largest weighted sum we could get? Here's what that would look
+like with this list (2, 8, 3, 1): 
+
  > array after 1st rotation ->[2, 8, 3, 1]
                                             0
                                             8
