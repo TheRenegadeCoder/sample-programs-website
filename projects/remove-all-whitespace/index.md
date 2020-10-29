@@ -53,7 +53,7 @@ The following table contains various test cases that you can use to verify the c
 | Sample Input: Newlines         | "\nRemove\nAll\nWhitespace\n"  | "RemoveAllWhitespace"            |
 | Sample Input: Carriage Returns | "\rRemove\rAll\rWhitespace\r"  | "RemoveAllWhitespace"            |
 
-As always, these tests will be run against any code submitted to the repo via Glotter. 
+As always, these tests will be run against any code submitted to the repo via [Glotter][glotter-github].
 
 ## Articles
 
@@ -62,3 +62,5 @@ As always, these tests will be run against any code submitted to the repo via Gl
 ## Further Reading
 
 - Fill out as needed
+
+[glotter-github]: https://github.com/auroq/glotter
