@@ -1,5 +1,5 @@
 ---
-title: Longest word in a string in JavaScript
+title: Longest Word in JavaScript
 layout: default
 date: 2020-10-26
 last-modified: 2020-10-26
