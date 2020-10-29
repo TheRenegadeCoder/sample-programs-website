@@ -15,7 +15,7 @@ In this article, we'll outline the longest word in a string project.
 
 The purpose of this program is to return the length of the longest word in the provided sentence as follows:
 
-```javascript
+```shell
 longest-word-in-string.lang "Google do a barrel roll"
 Output: "6"
 ```
