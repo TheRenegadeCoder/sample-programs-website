@@ -61,6 +61,7 @@ As always, these tests will be run against any code submitted to the repo via [G
 
 ## Further Reading
 
-- Fill out as needed
+- [What Is a String?][what-is-string] by the Linux Information Project
 
 [glotter-github]: https://github.com/auroq/glotter
+[what-is-string]: http://www.linfo.org/string.html
