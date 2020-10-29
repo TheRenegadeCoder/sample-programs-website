@@ -31,7 +31,7 @@ correctness of your solution:
 |--------------|-------|--------|
 | No Input | | "Usage: please provide a string" |
 | Empty Input | "" | "Usage: please provide a string" |
-| Simple Input | "May the force be with you" | "5" |
+| Sample Input: Many Words | "May the force be with you" | "5" |
 
 ## Articles
 
