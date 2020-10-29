@@ -61,7 +61,9 @@ As always, these tests will be run against any code submitted to the repo via [G
 
 ## Further Reading
 
+- [List of Unicode Characters of Category “Space Separator”][whitespace-list]
 - [What Is a String?][what-is-string] by the Linux Information Project
 
 [glotter-github]: https://github.com/auroq/glotter
 [what-is-string]: http://www.linfo.org/string.html
+[whitespace-list]: https://www.compart.com/en/unicode/category/Zs
