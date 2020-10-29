@@ -35,7 +35,7 @@ correctness of your solution:
 
 ## Articles
 
-{% include article_list.md collection=site.categories.longest-word-in-string %}
+{% include article_list.md collection=site.categories.longest-word %}
 
 ## Further Reading
 
