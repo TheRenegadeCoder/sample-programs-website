@@ -1,5 +1,5 @@
 ---
-title: Find length of the longest word in Every Language
+title: Longest Word in Every Language
 layout: default
 date: 2020-10-25
 last-modified: 2020-10-25
