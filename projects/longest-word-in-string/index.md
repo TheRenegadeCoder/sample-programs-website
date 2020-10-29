@@ -4,7 +4,7 @@ layout: default
 date: 2020-10-25
 last-modified: 2020-10-25
 featured-image:
-tags: [longest-word-in-string, javascript]
+tags: [longest-word, javascript]
 authors:
     - barhouum7
 ---
