@@ -3,7 +3,13 @@ abhishek_raut:
   email:
   web: http://abhishekraut.com/
   bio: code + coffee = happy Me!
-
+  
+agasheaditya:
+  name: Aditya Agashe
+  email: aditya.agashe1234@gmail.com  
+  web: https://github.com/agasheaditya
+  bio:  I am a python programmer and I do work on deep learning and machine learning stuff.
+  
 agilob:
   name: agilob
   email:
@@ -253,7 +259,7 @@ wileymab:
     I'm just person.
     Sitting in front of some code.
     Asking it to start working.
-
+    
 Senpai1199:
   name: Divyansh Agarwal
   email: divyansh1199@gmail.com
