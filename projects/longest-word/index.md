@@ -2,7 +2,7 @@
 title: Longest Word in Every Language
 layout: default
 date: 2020-10-25
-last-modified: 2020-10-25
+last-modified: 2020-10-30
 featured-image:
 tags: [longest-word, javascript]
 authors:
@@ -10,6 +10,12 @@ authors:
 ---
 
 In this article, we'll outline the longest word in a string project.
+
+## Description
+
+You have to go through each word and figure out which one is the longest and return not the word, but how many characters it has.
+
+In this program, we want to look at each individual word and count how many letters are in each. Then, compare the counts to determine which word has the most characters and return the length of the longest word.
 
 ## Requirements
 
@@ -32,6 +38,7 @@ correctness of your solution:
 | No Input | | "Usage: please provide a string" |
 | Empty Input | "" | "Usage: please provide a string" |
 | Sample Input: Many Words | "May the force be with you" | "5" |
+| Sample Input: Single Word | "Floccinaucinihilipilification" | "29" |
 
 ## Articles
 
