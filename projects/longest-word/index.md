@@ -14,12 +14,26 @@ In this article, we'll outline the longest word in a string project.
 
 ## Description
 
-You have to go through each word and figure out which one is the longest and 
-return not the word, but how many characters it has.
+Given a string, this program should break it up into words and determine
+the length of the longest word. In this case, a word is defined as anything
+surrounded by whitespace. For simplicity, we'll restrict whitespace to the
+following four special characters:
 
-In this program, we want to look at each individual word and count how many 
-letters are in each. Then, compare the counts to determine which word has the 
-most characters and return the length of the longest word.
+- Spaces: " "
+- Tabs: "\t"
+- Newlines: "\n"
+- Carriage Returns: "\r"
+
+For example, if we had a string, "How now brown cow", we can figure out which
+word is the longest by breaking up the string into words. In this case, this
+string has the following four words:
+
+- "How"
+- "now"
+- "brown"
+- "cow"
+
+In this case, "brown" is clearly the longest word, so we'll return 5 as a result.
 
 ## Requirements
 
@@ -47,6 +61,7 @@ correctness of your solution:
 | Empty Input               | ""                              | "Usage: please provide a string" |
 | Sample Input: Many Words  | "May the force be with you"     | 5                                |
 | Sample Input: Single Word | "Floccinaucinihilipilification" | 29                               |
+| Sample Input: Multiline   | "Hi,\nMy name is Paul!"         | 4                                |
 
 As always, these tests will be run against any code submitted to the repo via [Glotter][glotter-github].
 
