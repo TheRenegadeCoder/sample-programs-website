@@ -45,6 +45,8 @@ correctness of your solution:
 | Sample Input: Many Words  | "May the force be with you"     | 5                                |
 | Sample Input: Single Word | "Floccinaucinihilipilification" | 29                               |
 
+As always, these tests will be run against any code submitted to the repo via [Glotter][glotter-github].
+
 ## Articles
 
 {% include article_list.md collection=site.categories.longest-word %}
@@ -52,3 +54,5 @@ correctness of your solution:
 ## Further Reading
 
 - Fill out as needed
+
+[glotter-github]: https://github.com/auroq/glotter
