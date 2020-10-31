@@ -1,8 +1,8 @@
 ---
 title: Longest Word in Every Language
 layout: default
-date: 2020-10-25
-last-modified: 2020-10-30
+date: 2020-10-31
+last-modified: 2020-10-31
 featured-image:
 tags: [longest-word]
 authors:
