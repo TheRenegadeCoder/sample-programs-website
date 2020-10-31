@@ -4,9 +4,10 @@ layout: default
 date: 2020-10-25
 last-modified: 2020-10-30
 featured-image:
-tags: [longest-word, javascript]
+tags: [longest-word]
 authors:
     - barhouum7
+    - the_renegade_coder
 ---
 
 In this article, we'll outline the longest word in a string project.
@@ -22,8 +23,8 @@ In this program, we want to look at each individual word and count how many lett
 The purpose of this program is to return the length of the longest word in the provided sentence as follows:
 
 ```shell
-longest-word-in-string.lang "Google do a barrel roll"
-Output: "6"
+$ ./longest-word-in-string.lang "Google do a barrel roll"
+$ 6
 ```
 
 The result should be a number.
