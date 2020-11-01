@@ -2,46 +2,54 @@
 title: Import/Export in Every Language
 layout: default
 date: 2019-10-04
-last-modified: 2020-05-02
+last-modified: 2020-11-01
 featured-image:
-tags: [export, import]
-authors: [Ray6464]
+tags: [import-export]
+authors: 
+  - ray6464
 ---
 
-Exporting and Importing data is required to create modules. What we basically do is create variables in one file (say this file's name is "export"), export them from the "export" file; then import them from another file (say the file's name is "import"), then use them in the "import" file.
+In this article, we'll learn about the Import/Export project.
+
+## Description
+
+Exporting and importing data is required to create modules. For this project, we want to create 
+variables in one file (say this file's name is "export") and export them from the "export" file. 
+Then, import them from another file (say the file's name is "import"), and use them in the 
+"import" file.
 
 ## Requirements
 
-In this example the goal is to write a variable in one file, and log it's value in another file. Preferably using keywords like import, export, require, etc.
+To satisfy these requirements, both files must be in the same folder. Then, the `export` file must 
+contain a variable with some value. If everything works correctly, we should be able to execute 
+`import` as follows:
+
+```shell
+$ ./import.lang
+$ "Sample Programs"
+```
+
+In this case, the import script loaded a variable containing the value "Sample Programs" and
+printed it to the user. For consistency and testing purposes, we ask that all `export` files
+store this value.
 
 ## Testing
 
-Supposing that you have 2 files in the same directory, named "import" and "export" with your code in them. If "export" has a variable, then you should be able to log/print it from "import". Follow is some mock-code as an example:-  
+The following table contains various test cases that you can use to verify the correctness of 
+your solution: 
 
-export file:-  
+| Description       | Output            |
+|-------------------|-------------------|
+| Standard Behavior | "Sample Programs" | 
 
-```
-int x = 123;  
-```
-
-```
-let y = "Hello";  
-```  
-
-import file:- 
-
-```
-printf(x);       //prints: 123
-```
-
-```
-console.log(y);  //logs: "Hello"  
-```
+As always, these tests will be run against any code submitted to the repo via [Glotter][glotter-github].
 
 ## Articles
 
-{% include article_list.md collection=site.categories.reverse-a-string %}
+{% include article_list.md collection=site.categories.import-export %}
 
 ## Further Reading
 
 - Fill out as needed
+
+[glotter-github]: https://github.com/auroq/glotter
