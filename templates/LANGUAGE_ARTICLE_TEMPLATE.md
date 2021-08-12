@@ -13,10 +13,6 @@ authors:
 ## Features
   
 [Insert list of features]
-  
-## Resources
-  
-- [Insert external resources]
 
 ## Articles
 
