@@ -9,6 +9,10 @@ authors:
 ---
 
 [Insert description of language here]
+  
+## Resources
+  
+[Insert external resources]
 
 ## Articles
 
