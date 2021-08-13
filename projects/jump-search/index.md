@@ -2,7 +2,7 @@
 title: Jump Search in Every Language
 layout: default
 date: 2020-10-02
-last-modified: 2020-10-02
+last-modified: 2021-08-12
 featured-image: 
 tags: [jump-search]
 authors:
