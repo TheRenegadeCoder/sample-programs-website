@@ -55,13 +55,6 @@ number 1 is at index 3
 If successful, the script should return `true`. Otherwise, the script should return `false`.
 If any user input errors occur, the script should output the following usage message:
 
-## What is the optimal block size to be skipped
-
-In the worst case, we have to do n/m jumps and if the last checked value is greater than 
-the element to be searched for, we perform m-1 comparisons more for linear search. Therefore 
-the total number of comparisons in the worst case will be ((n/m) + m-1). The value of the 
-function ((n/m) + m-1) will be minimum when m = √n. Therefore, the best step size is m = √n.
-
 ## Testing
 
 | Description               | List Input   | Target Integer Input | Output  |
