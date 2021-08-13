@@ -7,7 +7,7 @@ featured-image:
 tags: [longest-palindrome-substring]
 authors: 
   - Sayantan Paul
-  - Hemabh Ravee
+  - hemabhravee
 ---
 
 Given a string, we need to find the smallest substring inside the main string which is a palindrome.
