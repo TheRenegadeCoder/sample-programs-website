@@ -1,5 +1,5 @@
 ---
-title: Longest Palindromic Substring in Every Language
+title: Longest Palindromic Substring in C++
 layout: default
 date: 2019-10-08
 last-modified: 2020-05-02
