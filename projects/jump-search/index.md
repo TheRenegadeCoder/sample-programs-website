@@ -3,7 +3,7 @@ title: Jump Search in Every Language
 layout: default
 date: 2020-10-02
 last-modified: 2020-10-02
-featured-image: jump-search-in-every-language.png
+featured-image: 
 tags: [jump-search]
 authors:
   - soumalyatheking22012001
