@@ -6,7 +6,6 @@ last-modified: 2020-05-02
 featured-image:
 tags: [longest-palindrome-substring]
 authors: 
-  - Sayantan Paul
   - hemabhravee
 ---
 
