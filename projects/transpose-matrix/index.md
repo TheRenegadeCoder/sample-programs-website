@@ -1,8 +1,8 @@
 ---
-title: Transpose matrix in Every Language
+title: Transpose Matrix in Every Language
 layout: default
 date: 2020-10-08
-last-modified: 2020-10-08
+last-modified: 2021-10-06
 featured-image:
 tags: [transpose-matrix]
 authors: 
@@ -16,36 +16,34 @@ to test it.
 
 In linear algebra, the transpose of a matrix is an operator which flips a matrix over its diagonal; 
 that is, it switches the row and column indices of the matrix A by producing another matrix, often 
-denoted by Aᵀ. The transpose of a matrix was introduced in 1858 by the British mathematician Arthur Cayley.
-
-The solution can be generated using nested loops and exchanging the indexes of the matrix.
-
-## Requirements
-
-Input:
+denoted by Aᵀ. For example, the following matrix could be the matrix A:
 
 | 1 | 2 | 3 |
 | - |:-:| -:|
 | 4 | 5 | 6 |
 | 7 | 8 | 9 |
 
-The following is the expected output:
+Once transposed, A becomes the following matrix, Aᵀ:
 
 | 1 | 4 | 7 |
 | - |:-:| -:|
 | 2 | 5 | 8 |
 | 3 | 6 | 9 |
 
-1.  The first matrix is from the given input.
-2.  The second  matrix is the desired output i.e, the transpose of the matrix.
+The transpose of a matrix was introduced in 1858 by the British mathematician Arthur Cayley.
 
-To execute the program:
+## Requirements
+
+For the purposes of this project, we'll ask that you create a program which accepts
+a matrix as a list of integers and the dimensions of that matrix in the following
+format:
 
 ```
-transpose.lang 3 3 "1, 2, 3, 4, 5, 6, 7, 8, 9"
+transpose-matrix.lang 3 3 "1, 2, 3, 4, 5, 6, 7, 8, 9"
 ```
 
-Here the first two input numbers indicate the size of the matrix and the next input is the list of numbers to be included in the matrix.
+Here, the first two input numbers indicate the column and row size of the matrix, respectively, and the 
+next input is the list of numbers to be included in the matrix.
 
 ## Testing
 
