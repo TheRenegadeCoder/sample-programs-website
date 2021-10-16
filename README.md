@@ -11,7 +11,7 @@ If you'd like to contribute, you have three options:
 2. Add language documentation (see [template][language-template])
 3. Add sample program documentation (see [template][sample-program-template])
 
-See our list of issues to get started!
+See our list of issues to get started or create your own! 
 
 [language-template]: https://github.com/TheRenegadeCoder/sample-programs-website/blob/master/templates/LANGUAGE_ARTICLE_TEMPLATE.md
 [project-template]: https://github.com/TheRenegadeCoder/sample-programs-website/blob/master/templates/PROJECT_ARTICLE_TEMPLATE.md
