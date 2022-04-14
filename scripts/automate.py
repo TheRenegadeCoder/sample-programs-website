@@ -3,8 +3,6 @@ import pathlib
 import subete
 import snakemd
 
-repo = subete.load()
-
 
 def generate_project_paths(repo: subete.Repo):
     """
@@ -19,6 +17,16 @@ def generate_project_paths(repo: subete.Repo):
         project.touch(exist_ok=True)
 
 
+def generate_language_index(language: subete.LanguageCollection):
+    """
+    Creates a language file for a single language. The path is assumed
+    to be `languages/language/index.md`. 
+    """
+    doc: snakemd.Document = snakemd.new_doc("index")
+    doc.add_header(str(language))
+    doc.output_page(f"languages/{language.pathlike_name()}")
+
+
 def generate_language_paths(repo: subete.Repo):
     """
     Creates the language directory which contains all of the language folders
@@ -28,5 +36,8 @@ def generate_language_paths(repo: subete.Repo):
     for _, language in languages.items():
         path = pathlib.Path(f"languages/{language.pathlike_name()}")
         path.mkdir(exist_ok=True, parents=True)
-        lang = path / "index.md"
-        lang.touch(exist_ok=True)
+        generate_language_index(language)
+
+if __name__ == "__main__":
+    repo = subete.load()
+    generate_language_paths(repo)
