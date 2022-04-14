@@ -1,7 +1,27 @@
 import pathlib
+import logging
 
 import subete
 import snakemd
+
+
+def generate_project_index(project: str):
+    """
+    Creates an index file for a single project. The path is assumed
+    to be `projects/project/index.md`. 
+    """
+    doc: snakemd.Document = snakemd.new_doc("index")
+    title = ' '.join([
+        word.capitalize() if len(project) > 3 else word.upper() 
+        for word in project.split('-')
+    ])
+    doc.add_header(f"{title} in Every Language")
+    doc.add_header("Description", level=2)
+    doc.add_header("Requirements", level=2)
+    doc.add_header("Testing", level=2)
+    doc.add_header("Articles", level=2)
+    doc.add_header("Further Reading", level=2)
+    doc.output_page(f"docs/projects/{project}")
 
 
 def generate_project_paths(repo: subete.Repo):
@@ -11,10 +31,9 @@ def generate_project_paths(repo: subete.Repo):
     """
     projects = repo._projects
     for project in projects:
-        path = pathlib.Path(f"projects/{project}")
+        path = pathlib.Path(f"docs/projects/{project}")
         path.mkdir(exist_ok=True, parents=True)
-        project = path / "index.md"
-        project.touch(exist_ok=True)
+        generate_project_index(project)
 
 
 def generate_language_index(language: subete.LanguageCollection):
@@ -28,7 +47,7 @@ def generate_language_index(language: subete.LanguageCollection):
     # TODO: Add a list of articles for this language
     doc.add_header("Further Reading", level=2)
     # TODO: Add a list of resources
-    doc.output_page(f"languages/{language.pathlike_name()}")
+    doc.output_page(f"docs/languages/{language.pathlike_name()}")
 
 
 def generate_language_paths(repo: subete.Repo):
@@ -38,10 +57,12 @@ def generate_language_paths(repo: subete.Repo):
     """
     languages: dict = repo.language_collections()
     for _, language in languages.items():
-        path = pathlib.Path(f"languages/{language.pathlike_name()}")
+        path = pathlib.Path(f"docs/languages/{language.pathlike_name()}")
         path.mkdir(exist_ok=True, parents=True)
         generate_language_index(language)
 
 if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO)
     repo = subete.load()
     generate_language_paths(repo)
+    generate_project_paths(repo)
