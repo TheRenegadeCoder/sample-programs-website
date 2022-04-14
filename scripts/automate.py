@@ -23,7 +23,11 @@ def generate_language_index(language: subete.LanguageCollection):
     to be `languages/language/index.md`. 
     """
     doc: snakemd.Document = snakemd.new_doc("index")
-    doc.add_header(str(language))
+    doc.add_header(f"The {str(language)} Programming Language")
+    doc.add_header("Articles", level=2)
+    # TODO: Add a list of articles for this language
+    doc.add_header("Further Reading", level=2)
+    # TODO: Add a list of resources
     doc.output_page(f"languages/{language.pathlike_name()}")
 
 
