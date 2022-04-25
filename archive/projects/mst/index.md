@@ -9,6 +9,8 @@ authors:
   - the_renegade_coder
 ---
 
+## Description
+
 A minimum spanning tree is defined as the minimum set of edges needed to connect
 every node in a graph without cycles. For our purposes, we're concerned with
 weighted undirected graphs. In other words, we want to find the minimum cost

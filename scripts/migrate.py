@@ -11,7 +11,7 @@ def project_section(section: str, bound: str):
                 description = "".join(doc[start + 2: end - 1])
                 with open(f"sources/projects/{item}/{section.lower()}.md", "w") as desc:
                     desc.write(description)
-            except ValueError:
+            except ValueError as err:
                 print(f"{item} has no {section}")
 
 

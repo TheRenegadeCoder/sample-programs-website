@@ -9,6 +9,8 @@ authors:
   - Senpai1199
 ---
 
+## Description
+
 Given an array, the maximum subarray is the subarray which gives the maximum sum possible in the array.
 Kadane's algorithm is a popular algorithm used to find out this maximum sum value.
 

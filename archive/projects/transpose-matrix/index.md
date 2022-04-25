@@ -16,14 +16,14 @@ to test it.
 
 In linear algebra, the transpose of a matrix is an operator which flips a matrix over its diagonal; 
 that is, it switches the row and column indices of the matrix A by producing another matrix, often 
-denoted by Aᵀ. For example, the following matrix could be the matrix A:
+denoted by A<sup>T</sup>. For example, the following matrix could be the matrix A:
 
 | 1 | 2 | 3 |
 | - |:-:| -:|
 | 4 | 5 | 6 |
 | 7 | 8 | 9 |
 
-Once transposed, A becomes the following matrix, Aᵀ:
+Once transposed, A becomes the following matrix, A<sup>T</sup>:
 
 | 1 | 4 | 7 |
 | - |:-:| -:|

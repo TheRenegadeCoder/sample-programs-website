@@ -9,6 +9,8 @@ authors:
   - auroq
 ---
 
+## Description
+
 ROT-13 is a letter substitution cipher where every letter is replaced by the
 letter 13 letters after it alphabetically and wrapping from `Z` to `A` if necessary:
 
