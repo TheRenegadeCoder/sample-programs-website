@@ -75,6 +75,7 @@ The Output will be the Cost of the Shortest Path from Source to Destination.
 
 ## Articles
 
-
+- [Dijkstra in C++](https://sampleprograms.io/projects/dijkstra/c-plus-plus)
+- [Dijkstra in Javascript](https://sampleprograms.io/projects/dijkstra/javascript)
 
 ## Further Reading

@@ -40,6 +40,33 @@ Some tests for your program are:
 
 ## Articles
 
-
+- [Factorial in Bash](https://sampleprograms.io/projects/factorial/bash)
+- [Factorial in C](https://sampleprograms.io/projects/factorial/c)
+- [Factorial in C#](https://sampleprograms.io/projects/factorial/c-sharp)
+- [Factorial in C++](https://sampleprograms.io/projects/factorial/c-plus-plus)
+- [Factorial in Cobol](https://sampleprograms.io/projects/factorial/cobol)
+- [Factorial in Coffeescript](https://sampleprograms.io/projects/factorial/coffeescript)
+- [Factorial in D](https://sampleprograms.io/projects/factorial/d)
+- [Factorial in Elixir](https://sampleprograms.io/projects/factorial/elixir)
+- [Factorial in Erlang](https://sampleprograms.io/projects/factorial/erlang)
+- [Factorial in Fortran](https://sampleprograms.io/projects/factorial/fortran)
+- [Factorial in Go](https://sampleprograms.io/projects/factorial/go)
+- [Factorial in Groovy](https://sampleprograms.io/projects/factorial/groovy)
+- [Factorial in Haskell](https://sampleprograms.io/projects/factorial/haskell)
+- [Factorial in Java](https://sampleprograms.io/projects/factorial/java)
+- [Factorial in Javascript](https://sampleprograms.io/projects/factorial/javascript)
+- [Factorial in Julia](https://sampleprograms.io/projects/factorial/julia)
+- [Factorial in Kotlin](https://sampleprograms.io/projects/factorial/kotlin)
+- [Factorial in Lisp](https://sampleprograms.io/projects/factorial/lisp)
+- [Factorial in Lua](https://sampleprograms.io/projects/factorial/lua)
+- [Factorial in Matlab](https://sampleprograms.io/projects/factorial/matlab)
+- [Factorial in Objective C](https://sampleprograms.io/projects/factorial/objective-c)
+- [Factorial in Perl](https://sampleprograms.io/projects/factorial/perl)
+- [Factorial in Php](https://sampleprograms.io/projects/factorial/php)
+- [Factorial in Python](https://sampleprograms.io/projects/factorial/python)
+- [Factorial in R](https://sampleprograms.io/projects/factorial/r)
+- [Factorial in Racket](https://sampleprograms.io/projects/factorial/racket)
+- [Factorial in Rust](https://sampleprograms.io/projects/factorial/rust)
+- [Factorial in Scala](https://sampleprograms.io/projects/factorial/scala)
 
 ## Further Reading

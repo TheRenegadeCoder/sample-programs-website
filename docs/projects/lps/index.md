@@ -75,6 +75,8 @@ The following table contains various test cases that you can use to verify the c
 
 ## Articles
 
-
+- [Lps in Go](https://sampleprograms.io/projects/lps/go)
+- [Lps in Javascript](https://sampleprograms.io/projects/lps/javascript)
+- [Lps in Python](https://sampleprograms.io/projects/lps/python)
 
 ## Further Reading

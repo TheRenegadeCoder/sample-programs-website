@@ -45,6 +45,35 @@ Some tests for your program are:
 
 ## Articles
 
-
+- [Fibonacci in Bash](https://sampleprograms.io/projects/fibonacci/bash)
+- [Fibonacci in Boo](https://sampleprograms.io/projects/fibonacci/boo)
+- [Fibonacci in C](https://sampleprograms.io/projects/fibonacci/c)
+- [Fibonacci in C#](https://sampleprograms.io/projects/fibonacci/c-sharp)
+- [Fibonacci in C++](https://sampleprograms.io/projects/fibonacci/c-plus-plus)
+- [Fibonacci in Dart](https://sampleprograms.io/projects/fibonacci/dart)
+- [Fibonacci in Go](https://sampleprograms.io/projects/fibonacci/go)
+- [Fibonacci in Groovy](https://sampleprograms.io/projects/fibonacci/groovy)
+- [Fibonacci in Haskell](https://sampleprograms.io/projects/fibonacci/haskell)
+- [Fibonacci in Java](https://sampleprograms.io/projects/fibonacci/java)
+- [Fibonacci in Javascript](https://sampleprograms.io/projects/fibonacci/javascript)
+- [Fibonacci in Julia](https://sampleprograms.io/projects/fibonacci/julia)
+- [Fibonacci in Kotlin](https://sampleprograms.io/projects/fibonacci/kotlin)
+- [Fibonacci in Lisp](https://sampleprograms.io/projects/fibonacci/lisp)
+- [Fibonacci in Lua](https://sampleprograms.io/projects/fibonacci/lua)
+- [Fibonacci in Matlab](https://sampleprograms.io/projects/fibonacci/matlab)
+- [Fibonacci in Nim](https://sampleprograms.io/projects/fibonacci/nim)
+- [Fibonacci in Objective C](https://sampleprograms.io/projects/fibonacci/objective-c)
+- [Fibonacci in Pascal](https://sampleprograms.io/projects/fibonacci/pascal)
+- [Fibonacci in Perl](https://sampleprograms.io/projects/fibonacci/perl)
+- [Fibonacci in Php](https://sampleprograms.io/projects/fibonacci/php)
+- [Fibonacci in Python](https://sampleprograms.io/projects/fibonacci/python)
+- [Fibonacci in Quack](https://sampleprograms.io/projects/fibonacci/quack)
+- [Fibonacci in Racket](https://sampleprograms.io/projects/fibonacci/racket)
+- [Fibonacci in Ruby](https://sampleprograms.io/projects/fibonacci/ruby)
+- [Fibonacci in Rust](https://sampleprograms.io/projects/fibonacci/rust)
+- [Fibonacci in Scala](https://sampleprograms.io/projects/fibonacci/scala)
+- [Fibonacci in Swift](https://sampleprograms.io/projects/fibonacci/swift)
+- [Fibonacci in Typescript](https://sampleprograms.io/projects/fibonacci/typescript)
+- [Fibonacci in Verilog](https://sampleprograms.io/projects/fibonacci/verilog)
 
 ## Further Reading

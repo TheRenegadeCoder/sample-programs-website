@@ -39,6 +39,31 @@ Feel free to use the following table when testing capitalize programs
 
 ## Articles
 
-
+- [Capitalize in Bash](https://sampleprograms.io/projects/capitalize/bash)
+- [Capitalize in C](https://sampleprograms.io/projects/capitalize/c)
+- [Capitalize in C#](https://sampleprograms.io/projects/capitalize/c-sharp)
+- [Capitalize in C++](https://sampleprograms.io/projects/capitalize/c-plus-plus)
+- [Capitalize in Clojure](https://sampleprograms.io/projects/capitalize/clojure)
+- [Capitalize in Dart](https://sampleprograms.io/projects/capitalize/dart)
+- [Capitalize in Elixir](https://sampleprograms.io/projects/capitalize/elixir)
+- [Capitalize in Fortran](https://sampleprograms.io/projects/capitalize/fortran)
+- [Capitalize in Go](https://sampleprograms.io/projects/capitalize/go)
+- [Capitalize in Groovy](https://sampleprograms.io/projects/capitalize/groovy)
+- [Capitalize in Haskell](https://sampleprograms.io/projects/capitalize/haskell)
+- [Capitalize in Java](https://sampleprograms.io/projects/capitalize/java)
+- [Capitalize in Javascript](https://sampleprograms.io/projects/capitalize/javascript)
+- [Capitalize in Kotlin](https://sampleprograms.io/projects/capitalize/kotlin)
+- [Capitalize in Lisp](https://sampleprograms.io/projects/capitalize/lisp)
+- [Capitalize in Lua](https://sampleprograms.io/projects/capitalize/lua)
+- [Capitalize in Matlab](https://sampleprograms.io/projects/capitalize/matlab)
+- [Capitalize in Objective C](https://sampleprograms.io/projects/capitalize/objective-c)
+- [Capitalize in Pascal](https://sampleprograms.io/projects/capitalize/pascal)
+- [Capitalize in Perl](https://sampleprograms.io/projects/capitalize/perl)
+- [Capitalize in Php](https://sampleprograms.io/projects/capitalize/php)
+- [Capitalize in Python](https://sampleprograms.io/projects/capitalize/python)
+- [Capitalize in R](https://sampleprograms.io/projects/capitalize/r)
+- [Capitalize in Ruby](https://sampleprograms.io/projects/capitalize/ruby)
+- [Capitalize in Rust](https://sampleprograms.io/projects/capitalize/rust)
+- [Capitalize in Typescript](https://sampleprograms.io/projects/capitalize/typescript)
 
 ## Further Reading

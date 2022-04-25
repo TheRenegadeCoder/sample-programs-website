@@ -56,6 +56,15 @@ verify the correctness of your solution:
 
 ## Articles
 
-
+- [Lcs in C](https://sampleprograms.io/projects/lcs/c)
+- [Lcs in C#](https://sampleprograms.io/projects/lcs/c-sharp)
+- [Lcs in C++](https://sampleprograms.io/projects/lcs/c-plus-plus)
+- [Lcs in Elixir](https://sampleprograms.io/projects/lcs/elixir)
+- [Lcs in Go](https://sampleprograms.io/projects/lcs/go)
+- [Lcs in Haskell](https://sampleprograms.io/projects/lcs/haskell)
+- [Lcs in Java](https://sampleprograms.io/projects/lcs/java)
+- [Lcs in Javascript](https://sampleprograms.io/projects/lcs/javascript)
+- [Lcs in Kotlin](https://sampleprograms.io/projects/lcs/kotlin)
+- [Lcs in Python](https://sampleprograms.io/projects/lcs/python)
 
 ## Further Reading

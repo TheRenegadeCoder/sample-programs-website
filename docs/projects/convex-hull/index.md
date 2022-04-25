@@ -56,6 +56,11 @@ could produce the output starting from a different point, and/or in the opposite
 
 ## Articles
 
-
+- [Convex Hull in C](https://sampleprograms.io/projects/convex-hull/c)
+- [Convex Hull in C#](https://sampleprograms.io/projects/convex-hull/c-sharp)
+- [Convex Hull in Java](https://sampleprograms.io/projects/convex-hull/java)
+- [Convex Hull in Javascript](https://sampleprograms.io/projects/convex-hull/javascript)
+- [Convex Hull in Php](https://sampleprograms.io/projects/convex-hull/php)
+- [Convex Hull in Python](https://sampleprograms.io/projects/convex-hull/python)
 
 ## Further Reading

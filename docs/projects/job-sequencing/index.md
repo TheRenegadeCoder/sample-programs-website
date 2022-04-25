@@ -71,6 +71,12 @@ verify the correctness of your solution:
 
 ## Articles
 
-
+- [Job Sequencing in Go](https://sampleprograms.io/projects/job-sequencing/go)
+- [Job Sequencing in Haskell](https://sampleprograms.io/projects/job-sequencing/haskell)
+- [Job Sequencing in Java](https://sampleprograms.io/projects/job-sequencing/java)
+- [Job Sequencing in Javascript](https://sampleprograms.io/projects/job-sequencing/javascript)
+- [Job Sequencing in Kotlin](https://sampleprograms.io/projects/job-sequencing/kotlin)
+- [Job Sequencing in Php](https://sampleprograms.io/projects/job-sequencing/php)
+- [Job Sequencing in Python](https://sampleprograms.io/projects/job-sequencing/python)
 
 ## Further Reading

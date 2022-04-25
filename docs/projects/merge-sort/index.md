@@ -77,6 +77,19 @@ verify the correctness of your solution:
 
 ## Articles
 
-
+- [Merge Sort in C](https://sampleprograms.io/projects/merge-sort/c)
+- [Merge Sort in C#](https://sampleprograms.io/projects/merge-sort/c-sharp)
+- [Merge Sort in C++](https://sampleprograms.io/projects/merge-sort/c-plus-plus)
+- [Merge Sort in Go](https://sampleprograms.io/projects/merge-sort/go)
+- [Merge Sort in Groovy](https://sampleprograms.io/projects/merge-sort/groovy)
+- [Merge Sort in Haskell](https://sampleprograms.io/projects/merge-sort/haskell)
+- [Merge Sort in Java](https://sampleprograms.io/projects/merge-sort/java)
+- [Merge Sort in Javascript](https://sampleprograms.io/projects/merge-sort/javascript)
+- [Merge Sort in Kotlin](https://sampleprograms.io/projects/merge-sort/kotlin)
+- [Merge Sort in Matlab](https://sampleprograms.io/projects/merge-sort/matlab)
+- [Merge Sort in Objective C](https://sampleprograms.io/projects/merge-sort/objective-c)
+- [Merge Sort in Php](https://sampleprograms.io/projects/merge-sort/php)
+- [Merge Sort in Python](https://sampleprograms.io/projects/merge-sort/python)
+- [Merge Sort in Rust](https://sampleprograms.io/projects/merge-sort/rust)
 
 ## Further Reading

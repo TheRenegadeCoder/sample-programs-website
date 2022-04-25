@@ -26,6 +26,20 @@ Verify that the actual output matches the expected output. See the
 
 ## Articles
 
-
+- [Quine in Bash](https://sampleprograms.io/projects/quine/bash)
+- [Quine in Befunge](https://sampleprograms.io/projects/quine/befunge)
+- [Quine in C](https://sampleprograms.io/projects/quine/c)
+- [Quine in C#](https://sampleprograms.io/projects/quine/c-sharp)
+- [Quine in Coffeescript](https://sampleprograms.io/projects/quine/coffeescript)
+- [Quine in Dg](https://sampleprograms.io/projects/quine/dg)
+- [Quine in Go](https://sampleprograms.io/projects/quine/go)
+- [Quine in Haskell](https://sampleprograms.io/projects/quine/haskell)
+- [Quine in Java](https://sampleprograms.io/projects/quine/java)
+- [Quine in Javascript](https://sampleprograms.io/projects/quine/javascript)
+- [Quine in Kotlin](https://sampleprograms.io/projects/quine/kotlin)
+- [Quine in Perl](https://sampleprograms.io/projects/quine/perl)
+- [Quine in Php](https://sampleprograms.io/projects/quine/php)
+- [Quine in Python](https://sampleprograms.io/projects/quine/python)
+- [Quine in Ruby](https://sampleprograms.io/projects/quine/ruby)
 
 ## Further Reading

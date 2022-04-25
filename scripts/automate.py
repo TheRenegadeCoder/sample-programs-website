@@ -24,11 +24,14 @@ def _add_article_section(doc: snakemd.Document, repo: subete.Repo, project: str)
     doc.add_header("Articles", level=2)
     articles = []
     for lang in repo.language_collections().values():
-        for program in lang.sample_programs().values():
-            print(program, project)
-            if program == project:
-                articles.append(program.language())
-    doc.add_unordered_list(articles)
+        for key, program in lang.sample_programs().items():
+            if key.replace(" ", "-").lower() == project:
+                link = snakemd.InlineText(
+                    str(program), 
+                    url=program._sample_program_doc_url
+                )
+                articles.append(link)
+    doc.add_element(snakemd.MDList(articles))
 
 
 def generate_project_index(project: str):
