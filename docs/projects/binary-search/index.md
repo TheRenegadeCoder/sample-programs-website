@@ -59,5 +59,3 @@ If any user input errors occur, the script should output the following usage mes
 - [Binary Search in Javascript](https://sampleprograms.io/projects/binary-search/javascript)
 - [Binary Search in Python](https://sampleprograms.io/projects/binary-search/python)
 - [Binary Search in Rust](https://sampleprograms.io/projects/binary-search/rust)
-
-## Further Reading

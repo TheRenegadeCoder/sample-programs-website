@@ -91,5 +91,3 @@ Verify that the actual output matches the expected output. See the
 - [Fizz Buzz in Typescript](https://sampleprograms.io/projects/fizz-buzz/typescript)
 - [Fizz Buzz in Vimscript](https://sampleprograms.io/projects/fizz-buzz/vimscript)
 - [Fizz Buzz in Visual Basic](https://sampleprograms.io/projects/fizz-buzz/visual-basic)
-
-## Further Reading

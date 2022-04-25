@@ -183,5 +183,3 @@ Verify that the actual output matches the expected output. See the
 - [Hello World in Wu](https://sampleprograms.io/projects/hello-world/wu)
 - [Hello World in Wyvern](https://sampleprograms.io/projects/hello-world/wyvern)
 - [Hello World in Zig](https://sampleprograms.io/projects/hello-world/zig)
-
-## Further Reading

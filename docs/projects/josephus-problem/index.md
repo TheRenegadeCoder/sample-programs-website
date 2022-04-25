@@ -53,5 +53,3 @@ Some tests for your program are:
 ## Articles
 
 - [Josephus Problem in Javascript](https://sampleprograms.io/projects/josephus-problem/javascript)
-
-## Further Reading

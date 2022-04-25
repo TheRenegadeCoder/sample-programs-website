@@ -83,5 +83,3 @@ and the integer to find ("11")`.
 ## Articles
 
 - [Depth First Search in Python](https://sampleprograms.io/projects/depth-first-search/python)
-
-## Further Reading

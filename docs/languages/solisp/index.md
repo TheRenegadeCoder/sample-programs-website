@@ -1,5 +1,9 @@
 # The Solisp Programming Language
 
+## Description
+
+No description available.
+
 ## Articles
 
 ## Further Reading

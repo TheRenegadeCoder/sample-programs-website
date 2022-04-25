@@ -68,5 +68,3 @@ Some tests for your program are:
 - [Factorial in Racket](https://sampleprograms.io/projects/factorial/racket)
 - [Factorial in Rust](https://sampleprograms.io/projects/factorial/rust)
 - [Factorial in Scala](https://sampleprograms.io/projects/factorial/scala)
-
-## Further Reading

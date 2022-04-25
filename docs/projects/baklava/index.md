@@ -79,5 +79,3 @@ Verify that the actual output matches the expected output (see [requirements][1]
 - [Baklava in Solisp](https://sampleprograms.io/projects/baklava/solisp)
 - [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
 - [Baklava in Typescript](https://sampleprograms.io/projects/baklava/typescript)
-
-## Further Reading

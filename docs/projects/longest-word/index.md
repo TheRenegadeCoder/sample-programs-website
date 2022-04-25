@@ -58,6 +58,3 @@ As always, these tests will be run against any code submitted to the repo via [G
 
 ## Articles
 
-
-
-## Further Reading

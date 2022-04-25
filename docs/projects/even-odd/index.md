@@ -65,5 +65,3 @@ The following table contains various test cases that you can use to verify the c
 - [Even Odd in Ruby](https://sampleprograms.io/projects/even-odd/ruby)
 - [Even Odd in Rust](https://sampleprograms.io/projects/even-odd/rust)
 - [Even Odd in Swift](https://sampleprograms.io/projects/even-odd/swift)
-
-## Further Reading

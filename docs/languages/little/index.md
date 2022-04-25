@@ -1,5 +1,9 @@
 # The Little Programming Language
 
+## Description
+
+No description available.
+
 ## Articles
 
 ## Further Reading

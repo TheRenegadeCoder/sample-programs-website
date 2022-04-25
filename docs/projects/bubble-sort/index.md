@@ -126,5 +126,3 @@ verify the correctness of your solution:
 - [Bubble Sort in Rust](https://sampleprograms.io/projects/bubble-sort/rust)
 - [Bubble Sort in Scala](https://sampleprograms.io/projects/bubble-sort/scala)
 - [Bubble Sort in Visual Basic](https://sampleprograms.io/projects/bubble-sort/visual-basic)
-
-## Further Reading

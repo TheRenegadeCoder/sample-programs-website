@@ -65,5 +65,3 @@ Feel free to use the following table when testing capitalize programs
 - [Capitalize in Ruby](https://sampleprograms.io/projects/capitalize/ruby)
 - [Capitalize in Rust](https://sampleprograms.io/projects/capitalize/rust)
 - [Capitalize in Typescript](https://sampleprograms.io/projects/capitalize/typescript)
-
-## Further Reading

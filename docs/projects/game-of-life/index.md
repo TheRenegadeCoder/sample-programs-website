@@ -61,5 +61,3 @@ Verify that the actual output matches the expected output. See the
 - [Game Of Life in Python](https://sampleprograms.io/projects/game-of-life/python)
 - [Game Of Life in Scala](https://sampleprograms.io/projects/game-of-life/scala)
 - [Game Of Life in Typescript](https://sampleprograms.io/projects/game-of-life/typescript)
-
-## Further Reading

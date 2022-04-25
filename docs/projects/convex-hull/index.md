@@ -62,5 +62,3 @@ could produce the output starting from a different point, and/or in the opposite
 - [Convex Hull in Javascript](https://sampleprograms.io/projects/convex-hull/javascript)
 - [Convex Hull in Php](https://sampleprograms.io/projects/convex-hull/php)
 - [Convex Hull in Python](https://sampleprograms.io/projects/convex-hull/python)
-
-## Further Reading

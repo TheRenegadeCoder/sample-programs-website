@@ -75,5 +75,3 @@ Some tests for your program are:
 - [Fibonacci in Swift](https://sampleprograms.io/projects/fibonacci/swift)
 - [Fibonacci in Typescript](https://sampleprograms.io/projects/fibonacci/typescript)
 - [Fibonacci in Verilog](https://sampleprograms.io/projects/fibonacci/verilog)
-
-## Further Reading

@@ -101,5 +101,3 @@ verify the correctness of your solution:
 - [Quick Sort in Php](https://sampleprograms.io/projects/quick-sort/php)
 - [Quick Sort in Python](https://sampleprograms.io/projects/quick-sort/python)
 - [Quick Sort in Scala](https://sampleprograms.io/projects/quick-sort/scala)
-
-## Further Reading

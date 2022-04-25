@@ -78,5 +78,3 @@ Conversion program:
 - [Roman Numeral in Python](https://sampleprograms.io/projects/roman-numeral/python)
 - [Roman Numeral in Ruby](https://sampleprograms.io/projects/roman-numeral/ruby)
 - [Roman Numeral in Rust](https://sampleprograms.io/projects/roman-numeral/rust)
-
-## Further Reading

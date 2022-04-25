@@ -66,5 +66,3 @@ verify the correctness of your solution:
 - [Lcs in Javascript](https://sampleprograms.io/projects/lcs/javascript)
 - [Lcs in Kotlin](https://sampleprograms.io/projects/lcs/kotlin)
 - [Lcs in Python](https://sampleprograms.io/projects/lcs/python)
-
-## Further Reading

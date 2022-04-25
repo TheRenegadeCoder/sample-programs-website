@@ -50,5 +50,3 @@ Some tests for your program are:
 - [Fractions in C++](https://sampleprograms.io/projects/fractions/c-plus-plus)
 - [Fractions in Python](https://sampleprograms.io/projects/fractions/python)
 - [Fractions in Swift](https://sampleprograms.io/projects/fractions/swift)
-
-## Further Reading

@@ -22,5 +22,3 @@ The code should return the count of all duplicate, case-insensitive, alphanumeri
 ## Articles
 
 - [Duplicate Char Counter in Javascript](https://sampleprograms.io/projects/duplicate-char-counter/javascript)
-
-## Further Reading

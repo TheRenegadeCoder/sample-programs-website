@@ -91,5 +91,3 @@ verify the correctness of your solution:
 - [Merge Sort in Php](https://sampleprograms.io/projects/merge-sort/php)
 - [Merge Sort in Python](https://sampleprograms.io/projects/merge-sort/python)
 - [Merge Sort in Rust](https://sampleprograms.io/projects/merge-sort/rust)
-
-## Further Reading

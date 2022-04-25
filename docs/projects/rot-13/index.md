@@ -69,5 +69,3 @@ verify the correctness of your solution:
 - [Rot 13 in Php](https://sampleprograms.io/projects/rot-13/php)
 - [Rot 13 in Python](https://sampleprograms.io/projects/rot-13/python)
 - [Rot 13 in Rust](https://sampleprograms.io/projects/rot-13/rust)
-
-## Further Reading

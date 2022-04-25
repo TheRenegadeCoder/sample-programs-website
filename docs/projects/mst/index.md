@@ -73,5 +73,3 @@ In other words, what is the cost of the minimum spanning tree?
 
 - [Mst in C](https://sampleprograms.io/projects/mst/c)
 - [Mst in Python](https://sampleprograms.io/projects/mst/python)
-
-## Further Reading

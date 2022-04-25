@@ -78,5 +78,3 @@ verify the correctness of your solution:
 - [Job Sequencing in Kotlin](https://sampleprograms.io/projects/job-sequencing/kotlin)
 - [Job Sequencing in Php](https://sampleprograms.io/projects/job-sequencing/php)
 - [Job Sequencing in Python](https://sampleprograms.io/projects/job-sequencing/python)
-
-## Further Reading

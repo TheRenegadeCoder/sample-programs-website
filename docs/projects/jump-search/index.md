@@ -65,6 +65,3 @@ If any user input errors occur, the script should output the following usage mes
 
 ## Articles
 
-
-
-## Further Reading

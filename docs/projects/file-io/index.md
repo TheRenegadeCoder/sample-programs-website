@@ -55,5 +55,3 @@ Verify that the actual output matches the expected output. See the
 - [File Io in Ruby](https://sampleprograms.io/projects/file-io/ruby)
 - [File Io in Rust](https://sampleprograms.io/projects/file-io/rust)
 - [File Io in Scala](https://sampleprograms.io/projects/file-io/scala)
-
-## Further Reading

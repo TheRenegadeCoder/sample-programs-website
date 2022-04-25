@@ -35,5 +35,3 @@ Write a program that accepts an input of an integer and prints whether the numbe
 - [Palindromic Number in Pascal](https://sampleprograms.io/projects/palindromic-number/pascal)
 - [Palindromic Number in Perl](https://sampleprograms.io/projects/palindromic-number/perl)
 - [Palindromic Number in Python](https://sampleprograms.io/projects/palindromic-number/python)
-
-## Further Reading
