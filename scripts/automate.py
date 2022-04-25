@@ -49,7 +49,6 @@ def generate_project_index(project: str):
     _add_section(doc, project, "Requirements")
     _add_section(doc, project, "Testing")
     _add_article_section(doc, repo, project)
-    doc.add_header("Further Reading", level=2)
     doc.output_page(f"docs/projects/{project}")
 
 
