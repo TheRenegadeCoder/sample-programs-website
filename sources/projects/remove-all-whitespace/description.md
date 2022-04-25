@@ -7,4 +7,3 @@ For simplicity, we will be restricting the types of whitespace to these four typ
 tabs ("\t"), newlines ("\n"), and carriage returns ("\r"). We are aware that other types of whitespace exist.
 That said, programs in this collection tend to be simple, so we can replicate them in as many programming
 languages as possible. 
-

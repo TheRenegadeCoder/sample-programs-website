@@ -19,4 +19,3 @@ STEP 3: Jump from index 8 to index 12;
 STEP 4: Since the element at index 12 is greater than 55 we will jump back a step to come to index 8.
 
 STEP 5: Perform linear search from index 8 to get the element 55.
-

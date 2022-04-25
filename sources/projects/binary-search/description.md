@@ -13,4 +13,3 @@ From there, we can try the element in the middle of the left half, and so on.
 Eventually, we'll find the element we're looking for, or we'll reach the end of our search.
 In either case, we'll only explore O(log(N)) elements. This gives us a dramatic improvement
 over linear search.
-

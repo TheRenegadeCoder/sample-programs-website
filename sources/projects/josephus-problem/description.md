@@ -21,4 +21,3 @@ __Output__: (Number of people in the circle currently, number of people to skip,
 3
 
 At the end, 3rd person stays alive.
-

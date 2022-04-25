@@ -19,4 +19,3 @@ sub_7 = 'apaapa'
 ```
 
 Out of the seven,  `sub_3 = 'paapaap'` is the longest. hence the output would be `'paapaap'`
-

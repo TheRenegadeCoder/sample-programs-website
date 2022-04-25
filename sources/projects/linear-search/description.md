@@ -43,4 +43,3 @@ Linear search is not efficient for large arrays, but for relatively smaller arra
 <br>break
 <br>flag = 1
 <br>pos = 2
-

@@ -5,4 +5,3 @@ Sleep sort is a sorting algorithm that for each input numeric variable it starts
 
 Time complexity of this algorithm strictly depends on value of the highest number, therefore it's always O(n), space complexity is dependent on numbers of threads started - O(n) where n is number of inputs.
 
-

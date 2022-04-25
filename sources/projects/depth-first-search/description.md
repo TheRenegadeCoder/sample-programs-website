@@ -10,4 +10,3 @@ the graph opposed to going broader first. This means, that it visits further chi
 potential siblings of them.
 
 ![Visualization of depth first search][1]
-

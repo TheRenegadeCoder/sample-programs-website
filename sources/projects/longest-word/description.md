@@ -18,4 +18,3 @@ string has the following four words:
 - "cow"
 
 In this case, "brown" is clearly the longest word, so we'll return 5 as a result.
-

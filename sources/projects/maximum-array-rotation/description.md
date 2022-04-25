@@ -19,4 +19,3 @@ we could get? Here's what that would look like with this list (2, 8, 3, 1):
 
 Ultimately, we want to find the largest sum. That appears to happen during our
 second rotation (i.e. line 3) where we get a weighted sum of 29. 
-

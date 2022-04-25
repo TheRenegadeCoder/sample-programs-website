@@ -46,4 +46,3 @@ The element in __bold__ is the main pointer.
 -   3     4     5   __1__   2   
 -   1     3     4     5   __2__ 
 -   1     2     3     4     5    
-

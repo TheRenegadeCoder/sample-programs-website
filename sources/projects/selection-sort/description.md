@@ -73,4 +73,3 @@ The element in __bold__ is the one that will be moved to the end of the sorted s
 -   1     2     3     5   __4__ 
 -   1     2     3     4   __5__ 
 -   1     2     3     4     5    
-

@@ -40,4 +40,3 @@ The arrows convey splitting each list into sublists and then bringing them back 
 4-5).
 
 ![Quick sort example](https://upload.wikimedia.org/wikipedia/commons/a/af/Quicksort-diagram.svg)
-
