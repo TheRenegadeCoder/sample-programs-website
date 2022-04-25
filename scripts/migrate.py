@@ -15,7 +15,21 @@ def project_section(section: str, bound: str):
                 print(f"{item} has no {section}")
 
 
+def language_section(bound: str):
+    for item in os.listdir("archive/languages/_posts/"):
+        doc = open(f"archive/languages/_posts/{item}", encoding="utf-8").readlines()
+        try:
+            start = doc.index("---\n", 1)
+            end = doc.index(f"## {bound}\n")
+            description = "".join(doc[start + 2: end - 1])
+            with open(f"sources/languages/{item.split('.')[0].split('-')[-1]}/description.md", "w") as desc:
+                desc.write(description)
+        except ValueError as err:
+            print(f"{item} has no {bound}")
+
+
 if __name__ == "__main__":
     project_section("Description", "Requirements")
     project_section("Requirements", "Testing")
     project_section("Testing", "Articles")
+    language_section("Articles")
