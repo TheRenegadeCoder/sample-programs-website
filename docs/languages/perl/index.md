@@ -27,4 +27,20 @@ and preferably only one — obvious way to do it“
 
 ## Articles
 
+- [Baklava in Perl](https://sampleprograms.io/projects/baklava/perl)
+- [Bubble Sort in Perl](https://sampleprograms.io/projects/bubble-sort/perl)
+- [Capitalize in Perl](https://sampleprograms.io/projects/capitalize/perl)
+- [Even Odd in Perl](https://sampleprograms.io/projects/even-odd/perl)
+- [Factorial in Perl](https://sampleprograms.io/projects/factorial/perl)
+- [Fibonacci in Perl](https://sampleprograms.io/projects/fibonacci/perl)
+- [File Io in Perl](https://sampleprograms.io/projects/file-io/perl)
+- [Fizz Buzz in Perl](https://sampleprograms.io/projects/fizz-buzz/perl)
+- [Hello World in Perl](https://sampleprograms.io/projects/hello-world/perl)
+- [Insertion Sort in Perl](https://sampleprograms.io/projects/insertion-sort/perl)
+- [Palindromic Number in Perl](https://sampleprograms.io/projects/palindromic-number/perl)
+- [Prime Number in Perl](https://sampleprograms.io/projects/prime-number/perl)
+- [Quine in Perl](https://sampleprograms.io/projects/quine/perl)
+- [Reverse String in Perl](https://sampleprograms.io/projects/reverse-string/perl)
+- [Rot 13 in Perl](https://sampleprograms.io/projects/rot-13/perl)
+
 ## Further Reading

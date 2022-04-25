@@ -109,4 +109,15 @@ implement Hello World in Lisp, so we should probably get to that.
 
 ## Articles
 
+- [Baklava in Lisp](https://sampleprograms.io/projects/baklava/lisp)
+- [Capitalize in Lisp](https://sampleprograms.io/projects/capitalize/lisp)
+- [Even Odd in Lisp](https://sampleprograms.io/projects/even-odd/lisp)
+- [Factorial in Lisp](https://sampleprograms.io/projects/factorial/lisp)
+- [Fibonacci in Lisp](https://sampleprograms.io/projects/fibonacci/lisp)
+- [Fizz Buzz in Lisp](https://sampleprograms.io/projects/fizz-buzz/lisp)
+- [Hello World in Lisp](https://sampleprograms.io/projects/hello-world/lisp)
+- [Prime Number in Lisp](https://sampleprograms.io/projects/prime-number/lisp)
+- [Quick Sort in Lisp](https://sampleprograms.io/projects/quick-sort/lisp)
+- [Reverse String in Lisp](https://sampleprograms.io/projects/reverse-string/lisp)
+
 ## Further Reading

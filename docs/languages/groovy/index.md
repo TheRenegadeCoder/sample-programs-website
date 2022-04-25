@@ -2,8 +2,17 @@
 
 ## Description
 
-No description available.
+No description available. Please consider contributing.
 
 ## Articles
+
+- [Baklava in Groovy](https://sampleprograms.io/projects/baklava/groovy)
+- [Capitalize in Groovy](https://sampleprograms.io/projects/capitalize/groovy)
+- [Even Odd in Groovy](https://sampleprograms.io/projects/even-odd/groovy)
+- [Factorial in Groovy](https://sampleprograms.io/projects/factorial/groovy)
+- [Fibonacci in Groovy](https://sampleprograms.io/projects/fibonacci/groovy)
+- [Hello World in Groovy](https://sampleprograms.io/projects/hello-world/groovy)
+- [Merge Sort in Groovy](https://sampleprograms.io/projects/merge-sort/groovy)
+- [Reverse String in Groovy](https://sampleprograms.io/projects/reverse-string/groovy)
 
 ## Further Reading

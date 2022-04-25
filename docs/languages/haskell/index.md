@@ -25,4 +25,26 @@ At any rate, I think that’s plenty of background for now.
 
 ## Articles
 
+- [Baklava in Haskell](https://sampleprograms.io/projects/baklava/haskell)
+- [Bubble Sort in Haskell](https://sampleprograms.io/projects/bubble-sort/haskell)
+- [Capitalize in Haskell](https://sampleprograms.io/projects/capitalize/haskell)
+- [Even Odd in Haskell](https://sampleprograms.io/projects/even-odd/haskell)
+- [Factorial in Haskell](https://sampleprograms.io/projects/factorial/haskell)
+- [Fibonacci in Haskell](https://sampleprograms.io/projects/fibonacci/haskell)
+- [File Io in Haskell](https://sampleprograms.io/projects/file-io/haskell)
+- [Fizz Buzz in Haskell](https://sampleprograms.io/projects/fizz-buzz/haskell)
+- [Game Of Life in Haskell](https://sampleprograms.io/projects/game-of-life/haskell)
+- [Hello World in Haskell](https://sampleprograms.io/projects/hello-world/haskell)
+- [Insertion Sort in Haskell](https://sampleprograms.io/projects/insertion-sort/haskell)
+- [Job Sequencing in Haskell](https://sampleprograms.io/projects/job-sequencing/haskell)
+- [Lcs in Haskell](https://sampleprograms.io/projects/lcs/haskell)
+- [Merge Sort in Haskell](https://sampleprograms.io/projects/merge-sort/haskell)
+- [Prime Number in Haskell](https://sampleprograms.io/projects/prime-number/haskell)
+- [Quick Sort in Haskell](https://sampleprograms.io/projects/quick-sort/haskell)
+- [Quine in Haskell](https://sampleprograms.io/projects/quine/haskell)
+- [Reverse String in Haskell](https://sampleprograms.io/projects/reverse-string/haskell)
+- [Roman Numeral in Haskell](https://sampleprograms.io/projects/roman-numeral/haskell)
+- [Rot 13 in Haskell](https://sampleprograms.io/projects/rot-13/haskell)
+- [Selection Sort in Haskell](https://sampleprograms.io/projects/selection-sort/haskell)
+
 ## Further Reading

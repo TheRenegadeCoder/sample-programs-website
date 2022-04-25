@@ -17,4 +17,7 @@ information, check out the PicoLisp Official Website.
 
 ## Articles
 
+- [Hello World in Picolisp](https://sampleprograms.io/projects/hello-world/picolisp)
+- [Reverse String in Picolisp](https://sampleprograms.io/projects/reverse-string/picolisp)
+
 ## Further Reading

@@ -18,4 +18,13 @@ originates.
 
 ## Articles
 
+- [Capitalize in R](https://sampleprograms.io/projects/capitalize/r)
+- [Even Odd in R](https://sampleprograms.io/projects/even-odd/r)
+- [Factorial in R](https://sampleprograms.io/projects/factorial/r)
+- [File Io in R](https://sampleprograms.io/projects/file-io/r)
+- [Fizz Buzz in R](https://sampleprograms.io/projects/fizz-buzz/r)
+- [Hello World in R](https://sampleprograms.io/projects/hello-world/r)
+- [Prime Number in R](https://sampleprograms.io/projects/prime-number/r)
+- [Reverse String in R](https://sampleprograms.io/projects/reverse-string/r)
+
 ## Further Reading

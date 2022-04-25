@@ -2,8 +2,10 @@
 
 ## Description
 
-No description available.
+No description available. Please consider contributing.
 
 ## Articles
+
+- [Hello World in Bracmat](https://sampleprograms.io/projects/hello-world/bracmat)
 
 ## Further Reading

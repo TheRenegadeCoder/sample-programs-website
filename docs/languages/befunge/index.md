@@ -11,4 +11,9 @@ Instead of variables, all operations act on one global stack of integers, simila
 
 ## Articles
 
+- [Baklava in Befunge](https://sampleprograms.io/projects/baklava/befunge)
+- [Fizz Buzz in Befunge](https://sampleprograms.io/projects/fizz-buzz/befunge)
+- [Hello World in Befunge](https://sampleprograms.io/projects/hello-world/befunge)
+- [Quine in Befunge](https://sampleprograms.io/projects/quine/befunge)
+
 ## Further Reading

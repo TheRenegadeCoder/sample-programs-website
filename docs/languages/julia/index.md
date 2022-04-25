@@ -26,4 +26,13 @@ expect several different dialects of it to emerge.
 
 ## Articles
 
+- [Baklava in Julia](https://sampleprograms.io/projects/baklava/julia)
+- [Bubble Sort in Julia](https://sampleprograms.io/projects/bubble-sort/julia)
+- [Even Odd in Julia](https://sampleprograms.io/projects/even-odd/julia)
+- [Factorial in Julia](https://sampleprograms.io/projects/factorial/julia)
+- [Fibonacci in Julia](https://sampleprograms.io/projects/fibonacci/julia)
+- [Fizz Buzz in Julia](https://sampleprograms.io/projects/fizz-buzz/julia)
+- [Hello World in Julia](https://sampleprograms.io/projects/hello-world/julia)
+- [Selection Sort in Julia](https://sampleprograms.io/projects/selection-sort/julia)
+
 ## Further Reading

@@ -19,4 +19,16 @@ framework which helps developers build web applications quickly and easily.
 
 ## Articles
 
+- [Baklava in Ruby](https://sampleprograms.io/projects/baklava/ruby)
+- [Bubble Sort in Ruby](https://sampleprograms.io/projects/bubble-sort/ruby)
+- [Capitalize in Ruby](https://sampleprograms.io/projects/capitalize/ruby)
+- [Even Odd in Ruby](https://sampleprograms.io/projects/even-odd/ruby)
+- [Fibonacci in Ruby](https://sampleprograms.io/projects/fibonacci/ruby)
+- [File Io in Ruby](https://sampleprograms.io/projects/file-io/ruby)
+- [Fizz Buzz in Ruby](https://sampleprograms.io/projects/fizz-buzz/ruby)
+- [Hello World in Ruby](https://sampleprograms.io/projects/hello-world/ruby)
+- [Quine in Ruby](https://sampleprograms.io/projects/quine/ruby)
+- [Reverse String in Ruby](https://sampleprograms.io/projects/reverse-string/ruby)
+- [Roman Numeral in Ruby](https://sampleprograms.io/projects/roman-numeral/ruby)
+
 ## Further Reading

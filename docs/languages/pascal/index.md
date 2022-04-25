@@ -67,4 +67,13 @@ At any rate, I think we’ve played around enough
 
 ## Articles
 
+- [Capitalize in Pascal](https://sampleprograms.io/projects/capitalize/pascal)
+- [Even Odd in Pascal](https://sampleprograms.io/projects/even-odd/pascal)
+- [Fibonacci in Pascal](https://sampleprograms.io/projects/fibonacci/pascal)
+- [Fizz Buzz in Pascal](https://sampleprograms.io/projects/fizz-buzz/pascal)
+- [Hello World in Pascal](https://sampleprograms.io/projects/hello-world/pascal)
+- [Palindromic Number in Pascal](https://sampleprograms.io/projects/palindromic-number/pascal)
+- [Prime Number in Pascal](https://sampleprograms.io/projects/prime-number/pascal)
+- [Reverse String in Pascal](https://sampleprograms.io/projects/reverse-string/pascal)
+
 ## Further Reading

@@ -23,4 +23,28 @@ great features like garbage collection which offset some of these complaints.
 
 ## Articles
 
+- [Baklava in Java](https://sampleprograms.io/projects/baklava/java)
+- [Bubble Sort in Java](https://sampleprograms.io/projects/bubble-sort/java)
+- [Capitalize in Java](https://sampleprograms.io/projects/capitalize/java)
+- [Convex Hull in Java](https://sampleprograms.io/projects/convex-hull/java)
+- [Even Odd in Java](https://sampleprograms.io/projects/even-odd/java)
+- [Factorial in Java](https://sampleprograms.io/projects/factorial/java)
+- [Fibonacci in Java](https://sampleprograms.io/projects/fibonacci/java)
+- [File Io in Java](https://sampleprograms.io/projects/file-io/java)
+- [Fizz Buzz in Java](https://sampleprograms.io/projects/fizz-buzz/java)
+- [Game Of Life in Java](https://sampleprograms.io/projects/game-of-life/java)
+- [Hello World in Java](https://sampleprograms.io/projects/hello-world/java)
+- [Insertion Sort in Java](https://sampleprograms.io/projects/insertion-sort/java)
+- [Job Sequencing in Java](https://sampleprograms.io/projects/job-sequencing/java)
+- [Lcs in Java](https://sampleprograms.io/projects/lcs/java)
+- [Linear Search in Java](https://sampleprograms.io/projects/linear-search/java)
+- [Merge Sort in Java](https://sampleprograms.io/projects/merge-sort/java)
+- [Palindromic Number in Java](https://sampleprograms.io/projects/palindromic-number/java)
+- [Prime Number in Java](https://sampleprograms.io/projects/prime-number/java)
+- [Quick Sort in Java](https://sampleprograms.io/projects/quick-sort/java)
+- [Quine in Java](https://sampleprograms.io/projects/quine/java)
+- [Reverse String in Java](https://sampleprograms.io/projects/reverse-string/java)
+- [Rot 13 in Java](https://sampleprograms.io/projects/rot-13/java)
+- [Selection Sort in Java](https://sampleprograms.io/projects/selection-sort/java)
+
 ## Further Reading

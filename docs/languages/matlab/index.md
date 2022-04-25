@@ -16,4 +16,18 @@ sports over 3 million users world-wide.
 
 ## Articles
 
+- [Bubble Sort in Matlab](https://sampleprograms.io/projects/bubble-sort/matlab)
+- [Capitalize in Matlab](https://sampleprograms.io/projects/capitalize/matlab)
+- [Even Odd in Matlab](https://sampleprograms.io/projects/even-odd/matlab)
+- [Factorial in Matlab](https://sampleprograms.io/projects/factorial/matlab)
+- [Fibonacci in Matlab](https://sampleprograms.io/projects/fibonacci/matlab)
+- [File Io in Matlab](https://sampleprograms.io/projects/file-io/matlab)
+- [Fizz Buzz in Matlab](https://sampleprograms.io/projects/fizz-buzz/matlab)
+- [Hello World in Matlab](https://sampleprograms.io/projects/hello-world/matlab)
+- [Insertion Sort in Matlab](https://sampleprograms.io/projects/insertion-sort/matlab)
+- [Merge Sort in Matlab](https://sampleprograms.io/projects/merge-sort/matlab)
+- [Prime Number in Matlab](https://sampleprograms.io/projects/prime-number/matlab)
+- [Reverse String in Matlab](https://sampleprograms.io/projects/reverse-string/matlab)
+- [Selection Sort in Matlab](https://sampleprograms.io/projects/selection-sort/matlab)
+
 ## Further Reading

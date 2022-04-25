@@ -17,4 +17,30 @@ while C has static typing, variables are weakly typed and can be converted impli
 
 ## Articles
 
+- [Baklava in C](https://sampleprograms.io/projects/baklava/c)
+- [Bubble Sort in C](https://sampleprograms.io/projects/bubble-sort/c)
+- [Capitalize in C](https://sampleprograms.io/projects/capitalize/c)
+- [Convex Hull in C](https://sampleprograms.io/projects/convex-hull/c)
+- [Even Odd in C](https://sampleprograms.io/projects/even-odd/c)
+- [Export in C](https://sampleprograms.io/projects/import-export/c)
+- [Factorial in C](https://sampleprograms.io/projects/factorial/c)
+- [Fibonacci in C](https://sampleprograms.io/projects/fibonacci/c)
+- [File Io in C](https://sampleprograms.io/projects/file-io/c)
+- [Fizz Buzz in C](https://sampleprograms.io/projects/fizz-buzz/c)
+- [Game Of Life in C](https://sampleprograms.io/projects/game-of-life/c)
+- [Hello World in C](https://sampleprograms.io/projects/hello-world/c)
+- [Import in C](https://sampleprograms.io/projects/import-export/c)
+- [Insertion Sort in C](https://sampleprograms.io/projects/insertion-sort/c)
+- [Lcs in C](https://sampleprograms.io/projects/lcs/c)
+- [Merge Sort in C](https://sampleprograms.io/projects/merge-sort/c)
+- [Mst in C](https://sampleprograms.io/projects/mst/c)
+- [Palindromic Number in C](https://sampleprograms.io/projects/palindromic-number/c)
+- [Prime Number in C](https://sampleprograms.io/projects/prime-number/c)
+- [Quick Sort in C](https://sampleprograms.io/projects/quick-sort/c)
+- [Quine in C](https://sampleprograms.io/projects/quine/c)
+- [Reverse String in C](https://sampleprograms.io/projects/reverse-string/c)
+- [Roman Numeral in C](https://sampleprograms.io/projects/roman-numeral/c)
+- [Rot 13 in C](https://sampleprograms.io/projects/rot-13/c)
+- [Selection Sort in C](https://sampleprograms.io/projects/selection-sort/c)
+
 ## Further Reading

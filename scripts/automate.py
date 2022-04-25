@@ -7,7 +7,7 @@ import snakemd
 log = logging.getLogger(__name__)
 
 
-def _add_project_section(doc: snakemd.Document, source: str, source_instance: str, section: str):
+def _add_section(doc: snakemd.Document, source: str, source_instance: str, section: str):
     """
     Adds a section to the document.
 
@@ -24,12 +24,13 @@ def _add_project_section(doc: snakemd.Document, source: str, source_instance: st
     else:
         log.warning(f"Failed to find {section} in {fp}")
         doc.add_paragraph(
-            f"No {section.lower()} available. Please consider contributing.")
+            f"No {section.lower()} available. Please consider contributing."
+        )
 
 
-def _add_article_section(doc: snakemd.Document, repo: subete.Repo, project: str):
+def _add_project_article_section(doc: snakemd.Document, repo: subete.Repo, project: str):
     """
-    Generates a list of articles.
+    Generates a list of articles for each project page.
     """
     doc.add_header("Articles", level=2)
     articles = []
@@ -44,6 +45,21 @@ def _add_article_section(doc: snakemd.Document, repo: subete.Repo, project: str)
     doc.add_element(snakemd.MDList(articles))
 
 
+def _add_language_article_section(doc: snakemd.Document, repo: subete.Repo, language: str):
+    """
+    Generates a list of articles for each project page.
+    """
+    doc.add_header("Articles", level=2)
+    articles = []
+    for program in repo[language].sample_programs().values():
+        link = snakemd.InlineText(
+            str(program),
+            url=program._sample_program_doc_url
+        )
+        articles.append(link)
+    doc.add_element(snakemd.MDList(articles))
+
+
 def generate_project_index(project: str):
     """
     Creates an index file for a single project. The path is assumed
@@ -55,10 +71,10 @@ def generate_project_index(project: str):
         for word in project.split('-')
     ])
     doc.add_header(f"{title} in Every Language")
-    _add_project_section(doc, "projects", project, "Description")
-    _add_project_section(doc, "projects", project, "Requirements")
-    _add_project_section(doc, "projects", project, "Testing")
-    _add_article_section(doc, repo, project)
+    _add_section(doc, "projects", project, "Description")
+    _add_section(doc, "projects", project, "Requirements")
+    _add_section(doc, "projects", project, "Testing")
+    _add_project_article_section(doc, repo, project)
     doc.output_page(f"docs/projects/{project}")
 
 
@@ -81,9 +97,8 @@ def generate_language_index(language: subete.LanguageCollection):
     """
     doc: snakemd.Document = snakemd.new_doc("index")
     doc.add_header(f"The {str(language)} Programming Language")
-    _add_project_section(doc, "languages", language, "Description")
-    doc.add_header("Articles", level=2)
-    # TODO: Add a list of articles for this language
+    _add_section(doc, "languages", language, "Description")
+    _add_language_article_section(doc, repo, str(language))
     doc.add_header("Further Reading", level=2)
     # TODO: Add a list of resources
     doc.output_page(f"docs/languages/{language.pathlike_name()}")

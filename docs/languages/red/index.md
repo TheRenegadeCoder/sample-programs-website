@@ -26,4 +26,6 @@ Now, that’s awesome!
 
 ## Articles
 
+- [Hello World in Red](https://sampleprograms.io/projects/hello-world/red)
+
 ## Further Reading

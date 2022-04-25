@@ -22,4 +22,20 @@ builds.
 
 ## Articles
 
+- [Baklava in Bash](https://sampleprograms.io/projects/baklava/bash)
+- [Bubble Sort in Bash](https://sampleprograms.io/projects/bubble-sort/bash)
+- [Capitalize in Bash](https://sampleprograms.io/projects/capitalize/bash)
+- [Even Odd in Bash](https://sampleprograms.io/projects/even-odd/bash)
+- [Factorial in Bash](https://sampleprograms.io/projects/factorial/bash)
+- [Fibonacci in Bash](https://sampleprograms.io/projects/fibonacci/bash)
+- [File Io in Bash](https://sampleprograms.io/projects/file-io/bash)
+- [Fizz Buzz in Bash](https://sampleprograms.io/projects/fizz-buzz/bash)
+- [Game Of Life in Bash](https://sampleprograms.io/projects/game-of-life/bash)
+- [Hello World in Bash](https://sampleprograms.io/projects/hello-world/bash)
+- [Prime Number in Bash](https://sampleprograms.io/projects/prime-number/bash)
+- [Quick Sort in Bash](https://sampleprograms.io/projects/quick-sort/bash)
+- [Quine in Bash](https://sampleprograms.io/projects/quine/bash)
+- [Reverse String in Bash](https://sampleprograms.io/projects/reverse-string/bash)
+- [Selection Sort in Bash](https://sampleprograms.io/projects/selection-sort/bash)
+
 ## Further Reading

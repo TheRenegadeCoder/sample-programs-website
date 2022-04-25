@@ -51,4 +51,13 @@ we have to get to our implementation of Hello World in Elixir.
 
 ## Articles
 
+- [Baklava in Elixir](https://sampleprograms.io/projects/baklava/elixir)
+- [Bubble Sort in Elixir](https://sampleprograms.io/projects/bubble-sort/elixir)
+- [Capitalize in Elixir](https://sampleprograms.io/projects/capitalize/elixir)
+- [Even Odd in Elixir](https://sampleprograms.io/projects/even-odd/elixir)
+- [Factorial in Elixir](https://sampleprograms.io/projects/factorial/elixir)
+- [Fizz Buzz in Elixir](https://sampleprograms.io/projects/fizz-buzz/elixir)
+- [Hello World in Elixir](https://sampleprograms.io/projects/hello-world/elixir)
+- [Lcs in Elixir](https://sampleprograms.io/projects/lcs/elixir)
+
 ## Further Reading

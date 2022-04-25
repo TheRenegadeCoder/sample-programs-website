@@ -55,4 +55,6 @@ Once again, I think I’ve explored a topic a bit too deeply, so I’ll stop there.
 
 ## Articles
 
+- [Hello World in Hack](https://sampleprograms.io/projects/hello-world/hack)
+
 ## Further Reading

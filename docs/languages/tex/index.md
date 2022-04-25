@@ -2,8 +2,11 @@
 
 ## Description
 
-No description available.
+No description available. Please consider contributing.
 
 ## Articles
+
+- [Fizz Buzz in Tex](https://sampleprograms.io/projects/fizz-buzz/tex)
+- [Hello World in Tex](https://sampleprograms.io/projects/hello-world/tex)
 
 ## Further Reading

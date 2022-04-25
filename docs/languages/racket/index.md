@@ -24,4 +24,9 @@ of Racket, there’s a module for that: typed/racket.
 
 ## Articles
 
+- [Factorial in Racket](https://sampleprograms.io/projects/factorial/racket)
+- [Fibonacci in Racket](https://sampleprograms.io/projects/fibonacci/racket)
+- [Fizz Buzz in Racket](https://sampleprograms.io/projects/fizz-buzz/racket)
+- [Hello World in Racket](https://sampleprograms.io/projects/hello-world/racket)
+
 ## Further Reading

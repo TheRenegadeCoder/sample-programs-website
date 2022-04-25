@@ -2,8 +2,10 @@
 
 ## Description
 
-No description available.
+No description available. Please consider contributing.
 
 ## Articles
+
+- [Hello World in Discus](https://sampleprograms.io/projects/hello-world/discus)
 
 ## Further Reading

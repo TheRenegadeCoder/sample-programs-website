@@ -27,4 +27,6 @@ JavaScript. Game developers should be pretty happy about this.
 
 ## Articles
 
+- [Hello World in Wren](https://sampleprograms.io/projects/hello-world/wren)
+
 ## Further Reading

@@ -36,4 +36,6 @@ the language in action.
 
 ## Articles
 
+- [Hello World in Goby](https://sampleprograms.io/projects/hello-world/goby)
+
 ## Further Reading
