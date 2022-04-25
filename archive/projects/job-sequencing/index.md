@@ -9,6 +9,8 @@ authors:
   - the_renegade_coder
 ---
 
+## Description
+
 Job sequencing is an optimization problem where the goal is to maximize the
 profit earned by completing jobs. In this particular rendition of the problem,
 jobs have both a profit and a deadline, and all jobs can be completed in the
