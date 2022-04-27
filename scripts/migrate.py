@@ -36,8 +36,8 @@ def program_section(section: str, bound: str):
                 doc = open(f"archive/projects/{item}/_posts/{post}", encoding="utf-8").readlines()
                 lower_copy = [x.lower().replace("the ", "") for x in doc]
                 try:
-                    start = lower_copy.index(f"## {section.lower()}\n") 
-                    end = lower_copy.index(f"## {bound.lower()}\n")
+                    start = lower_copy.index(f"## {section.lower().replace('the ', '')}\n") 
+                    end = lower_copy.index(f"## {bound.lower().replace('the ', '')}\n")
                     description = "".join(doc[start + 2: end - 1])
                     Path(f"sources/programs/{item}/{'-'.join(post.split('.')[0].split('-')[3:])}/").mkdir(parents=True, exist_ok=True)
                     with open(f"sources/programs/{item}/{'-'.join(post.split('.')[0].split('-')[3:])}/{section.lower().replace(' ', '-')}.md", "w", encoding="utf-8") as desc:
@@ -51,5 +51,5 @@ if __name__ == "__main__":
     project_section("Requirements", "Testing")
     project_section("Testing", "Articles")
     language_section("Articles")
-    program_section("How to Implement Solution", "How to Run Solution")
-    program_section("How to Run Solution", "Further Reading")
+    program_section("How to Implement the Solution", "How to Run the Solution")
+    program_section("How to Run the Solution", "Further Reading")
