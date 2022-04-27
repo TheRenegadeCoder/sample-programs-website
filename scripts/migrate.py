@@ -14,6 +14,10 @@ def project_section(section: str, bound: str):
                     desc.write(description)
             except ValueError as err:
                 print(f"{item} has no {section}")
+            generate_front_matter(
+                Path(f"archive/projects/{item}/index.md"),
+                Path(f"sources/projects/{item}/front_matter.yaml")
+            )
 
 
 def language_section(bound: str):
@@ -27,6 +31,10 @@ def language_section(bound: str):
                 desc.write(description)
         except ValueError as err:
             print(f"{item} has no {bound}")
+        generate_front_matter(
+            Path(f"archive/languages/_posts/{item}"),
+            Path(f"sources/languages/{item.split('.')[0].split('-')[-1]}/front_matter.yaml")
+        )
 
 
 def program_section(section: str, bound: str):
@@ -44,6 +52,21 @@ def program_section(section: str, bound: str):
                         desc.write(description)
                 except ValueError as err:
                     print(f"{item}:{post} has no {section}")
+                generate_front_matter(
+                    Path(f"archive/projects/{item}/_posts/{post}"),
+                    Path(f"sources/programs/{item}/{'-'.join(post.split('.')[0].split('-')[3:])}/front_matter.yaml")
+                )
+
+
+
+def generate_front_matter(input: Path, output: Path):
+    with open(input, "r", encoding="utf-8") as f:
+        doc = f.readlines()
+    start = doc.index("---\n")
+    end = doc.index("---\n", start + 1)
+    front_matter = "".join(doc[start + 1: end])
+    with open(output, "w", encoding="utf-8") as f:
+        f.write(front_matter)
 
 
 if __name__ == "__main__":
