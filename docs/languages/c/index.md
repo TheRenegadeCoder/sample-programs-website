@@ -42,5 +42,3 @@ while C has static typing, variables are weakly typed and can be converted impli
 - [Roman Numeral in C](https://sampleprograms.io/projects/roman-numeral/c)
 - [Rot 13 in C](https://sampleprograms.io/projects/rot-13/c)
 - [Selection Sort in C](https://sampleprograms.io/projects/selection-sort/c)
-
-## Further Reading

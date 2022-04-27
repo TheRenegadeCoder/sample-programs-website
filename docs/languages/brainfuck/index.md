@@ -28,5 +28,3 @@ That’s it!
 - [Fizz Buzz in Brainfuck](https://sampleprograms.io/projects/fizz-buzz/brainfuck)
 - [Hello World in Brainfuck](https://sampleprograms.io/projects/hello-world/brainfuck)
 - [Reverse String in Brainfuck](https://sampleprograms.io/projects/reverse-string/brainfuck)
-
-## Further Reading

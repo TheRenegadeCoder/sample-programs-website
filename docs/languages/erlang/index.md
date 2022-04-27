@@ -12,5 +12,3 @@ No description available. Please consider contributing.
 - [Fizz Buzz in Erlang](https://sampleprograms.io/projects/fizz-buzz/erlang)
 - [Hello World in Erlang](https://sampleprograms.io/projects/hello-world/erlang)
 - [Reverse String in Erlang](https://sampleprograms.io/projects/reverse-string/erlang)
-
-## Further Reading

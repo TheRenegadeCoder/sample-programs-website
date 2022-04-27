@@ -29,5 +29,3 @@ sports over 3 million users world-wide.
 - [Prime Number in Matlab](https://sampleprograms.io/projects/prime-number/matlab)
 - [Reverse String in Matlab](https://sampleprograms.io/projects/reverse-string/matlab)
 - [Selection Sort in Matlab](https://sampleprograms.io/projects/selection-sort/matlab)
-
-## Further Reading

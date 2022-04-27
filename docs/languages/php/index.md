@@ -27,5 +27,3 @@ No description available. Please consider contributing.
 - [Roman Numeral in Php](https://sampleprograms.io/projects/roman-numeral/php)
 - [Rot 13 in Php](https://sampleprograms.io/projects/rot-13/php)
 - [Selection Sort in Php](https://sampleprograms.io/projects/selection-sort/php)
-
-## Further Reading

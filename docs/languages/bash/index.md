@@ -37,5 +37,3 @@ builds.
 - [Quine in Bash](https://sampleprograms.io/projects/quine/bash)
 - [Reverse String in Bash](https://sampleprograms.io/projects/reverse-string/bash)
 - [Selection Sort in Bash](https://sampleprograms.io/projects/selection-sort/bash)
-
-## Further Reading

@@ -23,5 +23,3 @@ for the full syntax and features list.
 ## Articles
 
 - [Hello World in Algol68](https://sampleprograms.io/projects/hello-world/algol68)
-
-## Further Reading

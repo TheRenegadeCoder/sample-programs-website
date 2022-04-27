@@ -8,5 +8,3 @@ No description available. Please consider contributing.
 
 - [Fizz Buzz in Lolcode](https://sampleprograms.io/projects/fizz-buzz/lolcode)
 - [Hello World in Lolcode](https://sampleprograms.io/projects/hello-world/lolcode)
-
-## Further Reading

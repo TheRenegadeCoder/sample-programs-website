@@ -42,5 +42,3 @@ and preferably only one — obvious way to do it“
 - [Quine in Perl](https://sampleprograms.io/projects/quine/perl)
 - [Reverse String in Perl](https://sampleprograms.io/projects/reverse-string/perl)
 - [Rot 13 in Perl](https://sampleprograms.io/projects/rot-13/perl)
-
-## Further Reading

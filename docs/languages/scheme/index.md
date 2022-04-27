@@ -24,5 +24,3 @@ education, Scheme is mainly used by hobbyists for scripting purposes.
 
 - [Hello World in Scheme](https://sampleprograms.io/projects/hello-world/scheme)
 - [Reverse String in Scheme](https://sampleprograms.io/projects/reverse-string/scheme)
-
-## Further Reading

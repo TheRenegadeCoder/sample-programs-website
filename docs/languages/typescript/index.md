@@ -15,5 +15,3 @@ No description available. Please consider contributing.
 - [Hello World in Typescript](https://sampleprograms.io/projects/hello-world/typescript)
 - [Import in Typescript](https://sampleprograms.io/projects/import-export/typescript)
 - [Reverse String in Typescript](https://sampleprograms.io/projects/reverse-string/typescript)
-
-## Further Reading

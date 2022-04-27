@@ -12,5 +12,3 @@ No description available. Please consider contributing.
 - [Fizz Buzz in Coffeescript](https://sampleprograms.io/projects/fizz-buzz/coffeescript)
 - [Hello World in Coffeescript](https://sampleprograms.io/projects/hello-world/coffeescript)
 - [Quine in Coffeescript](https://sampleprograms.io/projects/quine/coffeescript)
-
-## Further Reading

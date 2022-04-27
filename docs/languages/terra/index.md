@@ -7,5 +7,3 @@ No description available. Please consider contributing.
 ## Articles
 
 - [Hello World in Terra](https://sampleprograms.io/projects/hello-world/terra)
-
-## Further Reading

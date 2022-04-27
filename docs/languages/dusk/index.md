@@ -7,5 +7,3 @@ No description available. Please consider contributing.
 ## Articles
 
 - [Hello World in Dusk](https://sampleprograms.io/projects/hello-world/dusk)
-
-## Further Reading

@@ -30,5 +30,3 @@ framework which helps developers build web applications quickly and easily.
 - [Quine in Ruby](https://sampleprograms.io/projects/quine/ruby)
 - [Reverse String in Ruby](https://sampleprograms.io/projects/reverse-string/ruby)
 - [Roman Numeral in Ruby](https://sampleprograms.io/projects/roman-numeral/ruby)
-
-## Further Reading

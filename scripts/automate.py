@@ -90,6 +90,13 @@ def generate_project_paths(repo: subete.Repo):
         generate_project_index(project)
 
 
+def generate_sample_programs(repo: subete.Repo):
+    for language in repo.language_collections().values():
+        for program in language.sample_programs().values():
+            path = pathlib.Path(f"docs/projects/{program.pathlike_name()}/{language}")
+            path.mkdir(exist_ok=True, parents=True)
+
+
 def generate_language_index(language: subete.LanguageCollection):
     """
     Creates a language file for a single language. The path is assumed
@@ -99,8 +106,6 @@ def generate_language_index(language: subete.LanguageCollection):
     doc.add_header(f"The {str(language)} Programming Language")
     _add_section(doc, "languages", language, "Description")
     _add_language_article_section(doc, repo, str(language))
-    doc.add_header("Further Reading", level=2)
-    # TODO: Add a list of resources
     doc.output_page(f"docs/languages/{language.pathlike_name()}")
 
 
@@ -121,3 +126,4 @@ if __name__ == "__main__":
     repo = subete.load()
     generate_language_paths(repo)
     generate_project_paths(repo)
+    generate_sample_programs(repo)

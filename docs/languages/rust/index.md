@@ -30,5 +30,3 @@ In terms of syntax, Rust resembles languages like C and C++, but it borrows quit
 - [Reverse String in Rust](https://sampleprograms.io/projects/reverse-string/rust)
 - [Roman Numeral in Rust](https://sampleprograms.io/projects/roman-numeral/rust)
 - [Rot 13 in Rust](https://sampleprograms.io/projects/rot-13/rust)
-
-## Further Reading

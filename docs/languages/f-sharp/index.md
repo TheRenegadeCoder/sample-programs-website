@@ -8,5 +8,3 @@ No description available. Please consider contributing.
 
 - [Baklava in F#](https://sampleprograms.io/projects/baklava/f-sharp)
 - [Hello World in F#](https://sampleprograms.io/projects/hello-world/f-sharp)
-
-## Further Reading

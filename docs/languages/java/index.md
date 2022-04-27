@@ -46,5 +46,3 @@ great features like garbage collection which offset some of these complaints.
 - [Reverse String in Java](https://sampleprograms.io/projects/reverse-string/java)
 - [Rot 13 in Java](https://sampleprograms.io/projects/rot-13/java)
 - [Selection Sort in Java](https://sampleprograms.io/projects/selection-sort/java)
-
-## Further Reading

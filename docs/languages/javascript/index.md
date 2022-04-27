@@ -37,5 +37,3 @@ No description available. Please consider contributing.
 - [Roman Numeral in Javascript](https://sampleprograms.io/projects/roman-numeral/javascript)
 - [Rot 13 in Javascript](https://sampleprograms.io/projects/rot-13/javascript)
 - [Selection Sort in Javascript](https://sampleprograms.io/projects/selection-sort/javascript)
-
-## Further Reading

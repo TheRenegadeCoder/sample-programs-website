@@ -30,5 +30,3 @@ No description available. Please consider contributing.
 - [Reverse String in C++](https://sampleprograms.io/projects/reverse-string/c-plus-plus)
 - [Roman Numeral in C++](https://sampleprograms.io/projects/roman-numeral/c-plus-plus)
 - [Selection Sort in C++](https://sampleprograms.io/projects/selection-sort/c-plus-plus)
-
-## Further Reading

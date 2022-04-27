@@ -14,5 +14,3 @@ No description available. Please consider contributing.
 - [Hello World in Fortran](https://sampleprograms.io/projects/hello-world/fortran)
 - [Prime Number in Fortran](https://sampleprograms.io/projects/prime-number/fortran)
 - [Reverse String in Fortran](https://sampleprograms.io/projects/reverse-string/fortran)
-
-## Further Reading

@@ -28,5 +28,3 @@ No description available. Please consider contributing.
 - [Rot 13 in C#](https://sampleprograms.io/projects/rot-13/c-sharp)
 - [Selection Sort in C#](https://sampleprograms.io/projects/selection-sort/c-sharp)
 - [Sleep Sort in C#](https://sampleprograms.io/projects/sleep-sort/c-sharp)
-
-## Further Reading

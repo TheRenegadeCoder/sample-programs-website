@@ -28,5 +28,3 @@ Luckily, there’s this cute technology called containers.
 ## Articles
 
 - [Hello World in Opa](https://sampleprograms.io/projects/hello-world/opa)
-
-## Further Reading

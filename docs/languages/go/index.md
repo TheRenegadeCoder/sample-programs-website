@@ -28,5 +28,3 @@ No description available. Please consider contributing.
 - [Roman Numeral in Go](https://sampleprograms.io/projects/roman-numeral/go)
 - [Rot 13 in Go](https://sampleprograms.io/projects/rot-13/go)
 - [Selection Sort in Go](https://sampleprograms.io/projects/selection-sort/go)
-
-## Further Reading

@@ -16,5 +16,3 @@ No description available. Please consider contributing.
 - [Merge Sort in Objective C](https://sampleprograms.io/projects/merge-sort/objective-c)
 - [Quick Sort in Objective C](https://sampleprograms.io/projects/quick-sort/objective-c)
 - [Reverse String in Objective C](https://sampleprograms.io/projects/reverse-string/objective-c)
-
-## Further Reading

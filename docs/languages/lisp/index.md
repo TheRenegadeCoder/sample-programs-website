@@ -119,5 +119,3 @@ implement Hello World in Lisp, so we should probably get to that.
 - [Prime Number in Lisp](https://sampleprograms.io/projects/prime-number/lisp)
 - [Quick Sort in Lisp](https://sampleprograms.io/projects/quick-sort/lisp)
 - [Reverse String in Lisp](https://sampleprograms.io/projects/reverse-string/lisp)
-
-## Further Reading

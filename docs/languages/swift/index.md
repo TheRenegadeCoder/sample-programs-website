@@ -13,5 +13,3 @@ No description available. Please consider contributing.
 - [Fractions in Swift](https://sampleprograms.io/projects/fractions/swift)
 - [Hello World in Swift](https://sampleprograms.io/projects/hello-world/swift)
 - [Reverse String in Swift](https://sampleprograms.io/projects/reverse-string/swift)
-
-## Further Reading

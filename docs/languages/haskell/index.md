@@ -46,5 +46,3 @@ At any rate, I think that’s plenty of background for now.
 - [Roman Numeral in Haskell](https://sampleprograms.io/projects/roman-numeral/haskell)
 - [Rot 13 in Haskell](https://sampleprograms.io/projects/rot-13/haskell)
 - [Selection Sort in Haskell](https://sampleprograms.io/projects/selection-sort/haskell)
-
-## Further Reading

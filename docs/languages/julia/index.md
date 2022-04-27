@@ -34,5 +34,3 @@ expect several different dialects of it to emerge.
 - [Fizz Buzz in Julia](https://sampleprograms.io/projects/fizz-buzz/julia)
 - [Hello World in Julia](https://sampleprograms.io/projects/hello-world/julia)
 - [Selection Sort in Julia](https://sampleprograms.io/projects/selection-sort/julia)
-
-## Further Reading

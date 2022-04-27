@@ -8,5 +8,3 @@ No description available. Please consider contributing.
 
 - [Hello World in Never](https://sampleprograms.io/projects/hello-world/never)
 - [Reverse String in Never](https://sampleprograms.io/projects/reverse-string/never)
-
-## Further Reading

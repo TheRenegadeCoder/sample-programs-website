@@ -51,5 +51,3 @@ yet to implement Hello World in Scala.
 - [Hello World in Scala](https://sampleprograms.io/projects/hello-world/scala)
 - [Quick Sort in Scala](https://sampleprograms.io/projects/quick-sort/scala)
 - [Reverse String in Scala](https://sampleprograms.io/projects/reverse-string/scala)
-
-## Further Reading

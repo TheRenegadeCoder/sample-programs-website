@@ -26,5 +26,3 @@ originates.
 - [Hello World in R](https://sampleprograms.io/projects/hello-world/r)
 - [Prime Number in R](https://sampleprograms.io/projects/prime-number/r)
 - [Reverse String in R](https://sampleprograms.io/projects/reverse-string/r)
-
-## Further Reading

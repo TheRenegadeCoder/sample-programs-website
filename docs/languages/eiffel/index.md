@@ -7,5 +7,3 @@ No description available. Please consider contributing.
 ## Articles
 
 - [Hello World in Eiffel](https://sampleprograms.io/projects/hello-world/eiffel)
-
-## Further Reading

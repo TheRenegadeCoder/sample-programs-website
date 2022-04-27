@@ -59,5 +59,3 @@ we have to get to our implementation of Hello World in Elixir.
 - [Fizz Buzz in Elixir](https://sampleprograms.io/projects/fizz-buzz/elixir)
 - [Hello World in Elixir](https://sampleprograms.io/projects/hello-world/elixir)
 - [Lcs in Elixir](https://sampleprograms.io/projects/lcs/elixir)
-
-## Further Reading

@@ -48,5 +48,3 @@ In this example, the lastChar method is added to the String class. How cool is t
 - [Quine in Kotlin](https://sampleprograms.io/projects/quine/kotlin)
 - [Reverse String in Kotlin](https://sampleprograms.io/projects/reverse-string/kotlin)
 - [Rot 13 in Kotlin](https://sampleprograms.io/projects/rot-13/kotlin)
-
-## Further Reading

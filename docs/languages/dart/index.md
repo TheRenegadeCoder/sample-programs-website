@@ -50,5 +50,3 @@ A programmer can just get started from the get-go!
 - [Roman Numeral in Dart](https://sampleprograms.io/projects/roman-numeral/dart)
 - [Rot 13 in Dart](https://sampleprograms.io/projects/rot-13/dart)
 - [Sleep Sort in Dart](https://sampleprograms.io/projects/sleep-sort/dart)
-
-## Further Reading

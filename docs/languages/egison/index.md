@@ -7,5 +7,3 @@ No description available. Please consider contributing.
 ## Articles
 
 - [Hello World in Egison](https://sampleprograms.io/projects/hello-world/egison)
-
-## Further Reading

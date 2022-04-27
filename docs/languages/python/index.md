@@ -46,5 +46,3 @@ But, Python 2 is slowly losing support.
 - [Rot 13 in Python](https://sampleprograms.io/projects/rot-13/python)
 - [Selection Sort in Python](https://sampleprograms.io/projects/selection-sort/python)
 - [Sleep Sort in Python](https://sampleprograms.io/projects/sleep-sort/python)
-
-## Further Reading

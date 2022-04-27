@@ -24,5 +24,3 @@ lower-level languages like C.
 - [Baklava in Crystal](https://sampleprograms.io/projects/baklava/crystal)
 - [Fizz Buzz in Crystal](https://sampleprograms.io/projects/fizz-buzz/crystal)
 - [Hello World in Crystal](https://sampleprograms.io/projects/hello-world/crystal)
-
-## Further Reading

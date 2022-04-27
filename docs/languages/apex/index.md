@@ -8,5 +8,3 @@ No description available. Please consider contributing.
 
 - [Hello World in Apex](https://sampleprograms.io/projects/hello-world/apex)
 - [Reverse String in Apex](https://sampleprograms.io/projects/reverse-string/apex)
-
-## Further Reading

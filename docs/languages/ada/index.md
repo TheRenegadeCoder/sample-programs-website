@@ -8,5 +8,3 @@ No description available. Please consider contributing.
 
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
 - [Hello World in Ada](https://sampleprograms.io/projects/hello-world/ada)
-
-## Further Reading

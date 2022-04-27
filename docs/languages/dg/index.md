@@ -11,5 +11,3 @@ No description available. Please consider contributing.
 - [Hello World in Dg](https://sampleprograms.io/projects/hello-world/dg)
 - [Quine in Dg](https://sampleprograms.io/projects/quine/dg)
 - [Reverse String in Dg](https://sampleprograms.io/projects/reverse-string/dg)
-
-## Further Reading

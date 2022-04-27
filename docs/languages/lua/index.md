@@ -38,5 +38,3 @@ gaming community. How have I never used it?
 - [Reverse String in Lua](https://sampleprograms.io/projects/reverse-string/lua)
 - [Roman Numeral in Lua](https://sampleprograms.io/projects/roman-numeral/lua)
 - [Rot 13 in Lua](https://sampleprograms.io/projects/rot-13/lua)
-
-## Further Reading
