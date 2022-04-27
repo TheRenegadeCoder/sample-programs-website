@@ -36,7 +36,10 @@ def program_section(section: str, bound: str):
                 doc = open(f"archive/projects/{item}/_posts/{post}", encoding="utf-8").readlines()
                 try:
                     start = doc.index(f"## {section}\n") 
-                    end = doc.index(f"## {bound}\n")
+                    try:
+                        end = doc.index(f"## {bound}\n")
+                    except ValueError as err:
+                        end = doc.index("## How to Run Solution\n")
                     description = "".join(doc[start + 2: end - 1])
                     Path(f"sources/programs/{item}/{'-'.join(post.split('.')[0].split('-')[3:])}/").mkdir(parents=True, exist_ok=True)
                     with open(f"sources/programs/{item}/{'-'.join(post.split('.')[0].split('-')[3:])}/{section.lower().replace(' ', '-')}.md", "w") as desc:
