@@ -1,0 +1,3 @@
+Swift is often run via [XCode](https://developer.apple.com/xcode/), Apple's IDE, or by installing [Swift on Linux](https://medium.com/@agavatar/open-source-swift-on-ubuntu-linux-cd00e697dff0). However, XCode in particular is a heavy download, so unless you already have it installed, or are seriously contemplating iOS development, you probably should use [this handy online Swift compiler](https://www.onlinegdb.com/online_swift_compiler).
+
+Please be aware that Swift updates very frequently, and many online compilers use earlier versions of the language, which may present with incompatibilities and errors when trying to run this code. This code was written in [Swift 4](https://docs.swift.org/swift-book/GuidedTour/Compatibility.html).
