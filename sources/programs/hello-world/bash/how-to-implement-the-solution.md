@@ -1,4 +1,4 @@
-At any rate, letís implement Hello World in Bash:
+At any rate, let‚Äôs implement Hello World in Bash:
 
 ```bash
 echo Hello, World!
@@ -11,7 +11,7 @@ Or, if we want to be a bit more verbose:
 echo Hello, World!
 ```
 
-As we can see, printing ìHello, World!î in Bash is quite simple. All we do is call the 
+As we can see, printing ‚ÄúHello, World!‚Äù in Bash is quite simple. All we do is call the 
 echo command to print the string.
 
 As an added note, the shebang (#!) tells the environment how to run the script. 

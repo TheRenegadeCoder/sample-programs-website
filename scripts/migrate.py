@@ -10,7 +10,7 @@ def project_section(section: str, bound: str):
                 start = doc.index(f"## {section}\n") 
                 end = doc.index(f"## {bound}\n")
                 description = "".join(doc[start + 2: end - 1])
-                with open(f"sources/projects/{item}/{section.lower()}.md", "w") as desc:
+                with open(f"sources/projects/{item}/{section.lower()}.md", "w", encoding="utf-8") as desc:
                     desc.write(description)
             except ValueError as err:
                 print(f"{item} has no {section}")
@@ -23,7 +23,7 @@ def language_section(bound: str):
             start = doc.index("---\n", 1)
             end = doc.index(f"## {bound}\n")
             description = "".join(doc[start + 2: end - 1])
-            with open(f"sources/languages/{item.split('.')[0].split('-')[-1]}/description.md", "w") as desc:
+            with open(f"sources/languages/{item.split('.')[0].split('-')[-1]}/description.md", "w", encoding="utf-8") as desc:
                 desc.write(description)
         except ValueError as err:
             print(f"{item} has no {bound}")
@@ -35,17 +35,11 @@ def program_section(section: str, bound: str):
             for post in os.listdir(f"archive/projects/{item}/_posts/"):
                 doc = open(f"archive/projects/{item}/_posts/{post}", encoding="utf-8").readlines()
                 try:
-                    try: 
-                        start = doc.index(f"## {section}\n") 
-                    except:
-                        start = doc.index(f"## How to Implement Solution\n")
-                    try:
-                        end = doc.index(f"## {bound}\n")
-                    except ValueError as err:
-                        end = doc.index("## How to Run Solution\n")
+                    start = doc.index(f"## {section}\n") 
+                    end = doc.index(f"## {bound}\n")
                     description = "".join(doc[start + 2: end - 1])
                     Path(f"sources/programs/{item}/{'-'.join(post.split('.')[0].split('-')[3:])}/").mkdir(parents=True, exist_ok=True)
-                    with open(f"sources/programs/{item}/{'-'.join(post.split('.')[0].split('-')[3:])}/{section.lower().replace(' ', '-')}.md", "w") as desc:
+                    with open(f"sources/programs/{item}/{'-'.join(post.split('.')[0].split('-')[3:])}/{section.lower().replace(' ', '-')}.md", "w", encoding="utf-8") as desc:
                         desc.write(description)
                 except ValueError as err:
                     print(f"{item}:{post} has no {section}")

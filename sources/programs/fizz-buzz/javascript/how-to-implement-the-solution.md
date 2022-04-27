@@ -19,7 +19,7 @@ fizzbuzz(100);
 
 FizzBuzz is quite a simple program.
 In line 1 the `fizzbuzz` function gets declared. It takes a parameter `num` that determines how far the program should count.
-The counting logic takes place in a for-loop in line 2. It starts counting at 1, increases the counter `ì` by 1 in every iteration and stops once it reaches `num`.
+The counting logic takes place in a for-loop in line 2. It starts counting at 1, increases the counter `Ã¬` by 1 in every iteration and stops once it reaches `num`.
 
 To understand the main logic of this programm you need to know
 

@@ -100,14 +100,14 @@ Next, we'll take a look at the inside of the main method:
 
 ```java
 if (args.length > 0) {
-  StringBuilder builder = new StringBuilder(args[0]); 
-  String reversed = builder.reverse().toString(); 
+  StringBuilderÂ builderÂ =Â newÂ StringBuilder(args[0]);Â 
+  StringÂ reversedÂ =Â builder.reverse().toString();Â 
   System.out.println(reversed);
 }
 ```
 
 All we're really doing here is checking that we have command line arguments. If
-we do, we attempt to reverse them and print them to the user—that simple!
+we do, we attempt to reverse them and print them to the userâ€”that simple!
 
 Of course, instead of reversing the string using the character array, we
 leverage the StringBuilder library which handles surrogates for us. In other
@@ -217,7 +217,7 @@ that defeats the purpose of this series.
 Instead, we start by converting our input String to a character array:
 
 ```java
-// i.e. ['H', 'e', 'l', 'l', 'o', ',', ' ', 'W', 'o', 'r', 'l', 'd', '!'] 
+//Â i.e. ['H',Â 'e',Â 'l',Â 'l',Â 'o',Â ',',Â 'Â ',Â 'W',Â 'o',Â 'r',Â 'l',Â 'd', '!']Â 
 char[] characters = toReverse.toCharArray();
 ```
 
@@ -237,7 +237,7 @@ char temp;
 ```
 
 As we can probably imagine, start and end refer to the indices at the start and
-end of the character array. The temp variable will be used to track swaps.
+end of the character array. TheÂ temp variable will be used to track swaps.
 We'll see that play out later.[^1]
 
 #### The Loop Structure
@@ -251,13 +251,13 @@ while(end > start) {
 }
 ```
 
-Our loop condition is pretty simple. All we do is monitor the start and end
-variables. If at any point start crosses end, we break out of the loop. As we
-can probably imagine, we will be manipulating start and end inside the loop.[^1]
+Our loop condition is pretty simple. All we do is monitor theÂ start andÂ end
+variables. If at any pointÂ start crossesÂ end, we break out of the loop. As we
+can probably imagine, we will be manipulatingÂ start andÂ end inside the loop.[^1]
 
 #### The Loop Internals
 
-Inside the loop, we pretty much just swap the characters at the start and end
+Inside the loop, we pretty much just swap the characters at theÂ start andÂ end
 indices and move those pointers inward by one:
 
 ```java
@@ -268,12 +268,12 @@ end--;
 start++;
 ```
 
-To do this, we leverage the temp variable to hold the start character. Then, we
-overwrite the start character with the end character. At that point, we overwrite
-the end character with the start character that we stored in temp.
+To do this, we leverage theÂ temp variable to hold theÂ start character. Then, we
+overwrite theÂ start character with theÂ end character. At that point, we overwrite
+theÂ end character with theÂ start character that we stored inÂ temp.
 
-When we've completed the character swap, we decrement the end pointer and increment
-the start pointer. This allows us to slowly reverse each pair of characters
+When we've completed the character swap, we decrement theÂ end pointer and increment
+theÂ start pointer. This allows us to slowly reverse each pair of characters
 until we reach the middle of the String.[^1]
 
 #### The Return Statement

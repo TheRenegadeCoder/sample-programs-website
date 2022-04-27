@@ -1,5 +1,5 @@
 Since Kotlin is a bit more popular than most of the newer languages, it 
-actually has a Wikipedia page. So, we’ll use that to learn more.
+actually has a Wikipedia page. So, weâ€™ll use that to learn more.
 
 According to Wikipedia, Kotlin is a programming language that runs on 
 the Java Virtual Machine. In other words, Kotlin compiles down to Java 

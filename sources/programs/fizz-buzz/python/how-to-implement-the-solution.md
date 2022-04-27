@@ -1,4 +1,4 @@
-Letís start by looking at the complete Fizz Buzz algorithm in Python:
+Let‚Äôs start by looking at the complete Fizz Buzz algorithm in Python:
 
 ```python
 for i in range(1, 101):
@@ -12,28 +12,28 @@ for i in range(1, 101):
     print(line)
 ```
 
-Before we dig into the code too much, letís take a look at the rules:
+Before we dig into the code too much, let‚Äôs take a look at the rules:
 
-If a number is divisible by 3, print the word ëFizzí instead of the number.
-If the number is divisible by 5, print the word ëBuzzí instead of the number.
-Finally, if the number is divisible by both 3 and 5, print ëFizzBuzzí instead of
+If a number is divisible by 3, print the word ‚ÄòFizz‚Äô instead of the number.
+If the number is divisible by 5, print the word ‚ÄòBuzz‚Äô instead of the number.
+Finally, if the number is divisible by both 3 and 5, print ‚ÄòFizzBuzz‚Äô instead of
 the number. Otherwise, just print the number.
 
 You can test for divisibility using the modulo operator.  The modulo operator
 divides two numbers and yields the remainder, so i modulo j is 0 if i is
-divisible by j. In Python, this is written as i % j.  Then, itís a simple matter
+divisible by j. In Python, this is written as i % j.  Then, it‚Äôs a simple matter
 of checking whether i % 3 == 0 or i % 5 == 0.
 
 ### Code Style
 
-Youíll notice first how everything is properly indented. This is not just good
-code style, Python actually enforces it.  Thereís no need to declare variables
-as Python is whatís called a weakly typed language. That means it can figure out
+You‚Äôll notice first how everything is properly indented. This is not just good
+code style, Python actually enforces it.  There‚Äôs no need to declare variables
+as Python is what‚Äôs called a weakly typed language. That means it can figure out
 what type a variable should be on the fly.
 
 ### The Loop
 
-In the very first line, weíll notice a loop:
+In the very first line, we‚Äôll notice a loop:
 
 ```python
 for i in range(1, 101):
@@ -55,15 +55,15 @@ if not line:
     line += str(i)
 ```
 
-If the number is divisible by 3, as explained above, we add the word ìFizzî to
-the empty string.  If itís divisible by 5, we add the word ìBuzzî. Notice the
-efficiency here. We donít need and because by simply adding ìBuzzî, we meet the
+If the number is divisible by 3, as explained above, we add the word ‚ÄúFizz‚Äù to
+the empty string.  If it‚Äôs divisible by 5, we add the word ‚ÄúBuzz‚Äù. Notice the
+efficiency here. We don‚Äôt need and because by simply adding ‚ÄúBuzz‚Äù, we meet the
 requirement for the case where the number is divisible by 3 and 5, or just 5.  
 Then we add i to the empty string if the string is still empty.
 
 Notice that an empty string returns false.  This is a concept called falsey.  
 In a weakly typed language, like Python and JavaScript, values such as 0,
-undefined, null, and '' all return false when theyíre used in logical comparisons.
+undefined, null, and '' all return false when they‚Äôre used in logical comparisons.
 
 ### Printing
 
@@ -73,5 +73,5 @@ Finally, we print the result of line on every iteration:
 print(line)
 ```
 
-Since we declare an empty string at every iteration, we donít have to worry about
+Since we declare an empty string at every iteration, we don‚Äôt have to worry about
 line containing any junk from the previous iteration.

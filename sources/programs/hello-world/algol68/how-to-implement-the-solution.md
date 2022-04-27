@@ -1,28 +1,28 @@
-Without further ado, letís implement Hello World in ALGOL 68:
+Without further ado, let‚Äôs implement Hello World in ALGOL 68:
 
 ```algol
 printf(($gl$, "Hello, World!"))
 ```
 
 Now, I believe we can actually shorten this implementation to look identical to the 
-[Python implementation][1]. But, that wouldnít be too interesting. Instead, we opted 
+[Python implementation][1]. But, that wouldn‚Äôt be too interesting. Instead, we opted 
 to use a *printf* solution to show off a couple of features.
 
-If youíre unfamiliar with *printf*, itís typically a version of the print function 
-which allows for string formatting. Unfortunately, thatís about where the similarities 
-end. In ALGOL 68, the syntax for formatting text is about as bizarre as Iíve ever seen. 
+If you‚Äôre unfamiliar with *printf*, it‚Äôs typically a version of the print function 
+which allows for string formatting. Unfortunately, that‚Äôs about where the similarities 
+end. In ALGOL 68, the syntax for formatting text is about as bizarre as I‚Äôve ever seen. 
 Luckily, we have a simple example: `$gl$`.
 
 In this example, everything between the dollar signs is considered a format string. 
 In this case, we have two characters: *g* and *l*.
 
-Since weíre formatting strings, one of those tokens will be replaced by our ìHello, World!î 
-string. In this case, itís *g*. As for *l*, thatís actually the newline token ó something 
-we havenít paid a lot of attention to in this series. When put together, ìHello, World!î 
+Since we‚Äôre formatting strings, one of those tokens will be replaced by our ‚ÄúHello, World!‚Äù 
+string. In this case, it‚Äôs *g*. As for *l*, that‚Äôs actually the newline token ‚Äî something 
+we haven‚Äôt paid a lot of attention to in this series. When put together, ‚ÄúHello, World!‚Äù 
 will print to the console.
 
 Another interesting bit about this program is the fact that we have double parentheses 
-that almost look redundant. But make no mistake, theyíre important:
+that almost look redundant. But make no mistake, they‚Äôre important:
 
 ```console
 1     printf($gl$, "Hello, World!")
@@ -30,7 +30,7 @@ that almost look redundant. But make no mistake, theyíre important:
 a68g: error: 1: incorrect number of arguments for PROC ([] "SIMPLOUT") VOID (detected in particular-program).
 ```
 
-To be honest, I donít understand the error. My best guess is *printf* requires an array 
-of arguments. Whereas, the *varargs* solution Iím proposing issues the format string 
-and ìHello, World!î as separate arguments. Fortunately, [James Jones has a great 
+To be honest, I don‚Äôt understand the error. My best guess is *printf* requires an array 
+of arguments. Whereas, the *varargs* solution I‚Äôm proposing issues the format string 
+and ‚ÄúHello, World!‚Äù as separate arguments. Fortunately, [James Jones has a great 
 explanation for this][1].

@@ -6,23 +6,23 @@ the preferred way to manage Windows servers in the future.
 Bruce Payette and James Truher were also on the project, and in an interview in
 2017, [Snover explained the motivation behind creating PowerShell][7]:
 
-    Iíd been driving a bunch of managing changes, and then I originally took the UNIX
-    tools and made them available on Windows, and then it just didnít work. Right?
-    Because thereís a core architectural difference between Windows and Linux. On
-    Linux, everythingís an ASCII text file, so anything that can manipulate that is
+    I‚Äôd been driving a bunch of managing changes, and then I originally took the UNIX
+    tools and made them available on Windows, and then it just didn‚Äôt work. Right?
+    Because there‚Äôs a core architectural difference between Windows and Linux. On
+    Linux, everything‚Äôs an ASCII text file, so anything that can manipulate that is
     a managing tool. AWK, grep, sed? Happy days!
 
-    I brought those tools available on Windows, and then they didnít help manage Windows
-    because in Windows, everythingís an API that returns structured data. So, that
-    didnít help. [Ö] I came up with this idea of PowerShell, and I said, ìHey,
-    we can do this better.î
+    I brought those tools available on Windows, and then they didn‚Äôt help manage Windows
+    because in Windows, everything‚Äôs an API that returns structured data. So, that
+    didn‚Äôt help. [‚Ä¶] I came up with this idea of PowerShell, and I said, ‚ÄúHey,
+    we can do this better.‚Äù
 
-Originally, PowerShell was to be called Monad and itís ideas were published in a
+Originally, PowerShell was to be called Monad and it‚Äôs ideas were published in a
 white paper titled [Monad Manifesto][3]. Shortly after releasing the Beta 3 version
 Microsoft formally renamed Monad to Windows PowerShell, followed by the release
 candidate 1 version.
 
 PowerShell is now up to version 5.1 for stable builds and the new 6.0 version
 which was announced in [2016 is in public beta][8]. The largest change in this version
-is itís now open-source and will now be called PowerShell Core as it runs on
+is it‚Äôs now open-source and will now be called PowerShell Core as it runs on
 [.NET Core][4] as opposed to the [.NET Framework][5] which previous versions use.[^3]

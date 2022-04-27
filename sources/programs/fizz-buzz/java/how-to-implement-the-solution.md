@@ -22,9 +22,9 @@ public class FizzBuzz {
 
 The rules of the problem are quite straightforward:
 
-    If a number is divisible by 3, print the word ‘Fizz’ instead of the number.
-    If the number is divisible by 5, print the word ‘Buzz’ instead of the number.
-    Finally, if the number is divisible by both 3 and 5, print ‘FizzBuzz’ instead
+    If a number is divisible by 3, print the word â€˜Fizzâ€™ instead of the number.
+    If the number is divisible by 5, print the word â€˜Buzzâ€™ instead of the number.
+    Finally, if the number is divisible by both 3 and 5, print â€˜FizzBuzzâ€™ instead
     of the number. Otherwise, just print the number.
 
 The modulo operator will let us easily check for divisibility, as it returns the remainder

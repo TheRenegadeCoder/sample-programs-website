@@ -1,4 +1,4 @@
-At any rate, let’s get to the implementation of Hello World in D:
+At any rate, letâ€™s get to the implementation of Hello World in D:
 
 ```d
 import std.stdio;
@@ -21,7 +21,7 @@ library. In this case, D references std.stdio as opposed to stdio.h
 in C.
 
 Up next, we have our usual main function. At this point in the series, 
-we’re pretty use to this syntax.
+weâ€™re pretty use to this syntax.
 
 Finally, we have our typical print function. In this case, we call 
 writeln and pass a string to it.

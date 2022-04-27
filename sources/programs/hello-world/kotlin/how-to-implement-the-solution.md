@@ -1,4 +1,4 @@
-Anyway, let’s get down to business—Hello World in Kotlin:
+Anyway, letâ€™s get down to businessâ€”Hello World in Kotlin:
 
 ```kotlin
 package hello

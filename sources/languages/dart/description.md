@@ -1,7 +1,7 @@
 Dart is a general-purpose language that was designed with five goals:
 
 - Productive
-  - Dart’s syntax is clear and concise, its tooling simple yet powerful.
+  - Dartâ€™s syntax is clear and concise, its tooling simple yet powerful.
   Sound typing helps you to identify subtle errors early. Dart has
   battle-hardened [core libraries][1] and an [ecosystem][2] of thousands of packages
 - Fast
@@ -16,14 +16,14 @@ Dart is a general-purpose language that was designed with five goals:
   be productive with Dart in just a few days.
 - Reactive
   - Dart is well-suited to reactive programming, with support for managing
-  short-lived objects—such as UI widgets—through Dart’s fast object allocation
+  short-lived objectsâ€”such as UI widgetsâ€”through Dartâ€™s fast object allocation
   and generational garbage collector. Dart supports asynchronous programming
   through language features and APIs that use [Future][3] and [Stream][4] objects.
 
 Since its inception, Dart has gone through different phases as Google tried to
-sell its potential to developers. Google has rebuilt it’s advertising service
-AdSense with Dart. That demonstrate’s Google’s commitment to Dart by depending
-on the language for it’s main method of generating revenue.
+sell its potential to developers. Google has rebuilt itâ€™s advertising service
+AdSense with Dart. That demonstrateâ€™s Googleâ€™s commitment to Dart by depending
+on the language for itâ€™s main method of generating revenue.
 
 The language also has many great features like garbage collection and a strong
 typing system ([as of Dart 2.0][5]). All of it sits on top of a VM like Java, which

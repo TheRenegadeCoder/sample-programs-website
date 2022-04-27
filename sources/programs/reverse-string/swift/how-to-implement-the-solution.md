@@ -1,4 +1,4 @@
-At long last, let’s take a look at the solution to Reverse a String in Swift:
+At long last, letâ€™s take a look at the solution to Reverse a String in Swift:
 
 ```swift
 import Foundation
@@ -13,7 +13,7 @@ print(reversedString)
 ```
 
 As we can see, reversing a string in Swift is pretty short and sweet. At this
-point, let’s dig into the code a bit.
+point, letâ€™s dig into the code a bit.
 
 ### Foundation
 
@@ -25,12 +25,12 @@ import Foundation
 
 Foundation is a framework that contains many basic data types. This framework
 also bridges between Swift types, such as String, and Objective-C types, such
-as [NSString][2]. When you import almost any of Apple’s Swift frameworks, you are
+as [NSString][2]. When you import almost any of Appleâ€™s Swift frameworks, you are
 implicitly importing Foundation along with them.
 
 ### Guard
 
-The guard statement on line 3 is one of Swift’s many syntax features which favor
+The guard statement on line 3 is one of Swiftâ€™s many syntax features which favor
 safety and human readability:
 
 ```swift
@@ -39,10 +39,10 @@ guard CommandLine.argc > 1 else {
 }
 ```
 
-A [guard statement][3] is a conditional that only fires off if something isn’t true.
+A [guard statement][3] is a conditional that only fires off if something isnâ€™t true.
 This is good for highlighting error conditions, and prevents code from becoming
 littered with nested if-else statements. It is especially powerful when dealing
-with Swift’s Optionals.
+with Swiftâ€™s Optionals.
 
 ### Commandline
 
@@ -78,16 +78,16 @@ let reversedCollection = usersString.reversed()
 ```
 
 Swift has an unusual approach to Strings. Swift stores all characters in Strings
-as Unicode, even if they are within the ASCII character set. Therefore, we don’t
+as Unicode, even if they are within the ASCII character set. Therefore, we donâ€™t
 need to do anything funky to cover all our edge cases: Swift can innately handle
 accented characters, Cyrillic, kanji, and so on.
 
 While this allows Swift to seamlessly handle emoji and languages that use
 non-English characters, it can make working with Strings a bit more complicated.
 
-Swift’s String API has changed frequently from version to version, as Apple
+Swiftâ€™s String API has changed frequently from version to version, as Apple
 continually tries to balance universal language support with ease of use. In
-early versions, Swift Strings were more like Javascript’s String implementation,
+early versions, Swift Strings were more like Javascriptâ€™s String implementation,
 where Strings were not quite arrays, but you could still call a specific
 character by indexing into it with an integer value.
 
@@ -96,7 +96,7 @@ quite distinct from arrays. Indexing into a String is done via special methods
 and indexing objects specific to the task. This makes looping over all of the
 characters in a String a more difficult task than in other languages.
 
-Thankfully, we do not have to resort to this to reverse a String — we can simply
+Thankfully, we do not have to resort to this to reverse a String â€” we can simply
 call the .reversed() method (or .reverse(), in earlier Swift versions).
 
 ### Reversed()
@@ -121,6 +121,6 @@ Finally, on line 11, we come to a nice, straight-forward print statement:
 print(reversedString)
 ```
 
-Unlike other languages, we don’t need to specify the console. The compiler
+Unlike other languages, we donâ€™t need to specify the console. The compiler
 implicitly knows. Apple also offers a logging system, for more robust results
 when debugging.

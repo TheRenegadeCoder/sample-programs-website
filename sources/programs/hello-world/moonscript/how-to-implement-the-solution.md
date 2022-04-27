@@ -5,7 +5,7 @@ implementation:
 print "Hello, World!"
 ```
 
-All we have to do is call the built-in Lua function print, and that’s it.
+All we have to do is call the built-in Lua function print, and thatâ€™s it.
 Behind the scenes, the code is compiled into Lua which is, in this case,
 exactly the same.
 

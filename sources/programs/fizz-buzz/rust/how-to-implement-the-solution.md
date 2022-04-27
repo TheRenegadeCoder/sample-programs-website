@@ -1,4 +1,4 @@
-Let’s start by looking at the complete Fizz Buzz algorithm in Rust:
+Letâ€™s start by looking at the complete Fizz Buzz algorithm in Rust:
 
 ```rust
 fn main() {
@@ -16,14 +16,14 @@ fn main() {
 }
 ```
 
-Before we dig into the code too much, let’s take a look at the rules:
+Before we dig into the code too much, letâ€™s take a look at the rules:
 
 * If a number is divisible by 3, print the word 'Fizz' instead of the number.
 * If the number is divisible by 5, print the word 'Buzz' instead of the number.
 * Finally, if the number is divisible by both 3 and 5, print 'FizzBuzz' instead of the number.
 * Otherwise, just print the number.
 
-You can test for divisibility using the modulo operator `%`. The modulo operator divides two numbers and yields the remainder, so `i` modulo `j` is `0` if `i` is divisible by `j`. In Rust, this is written as `i % j`. Then, it’s a simple matter of checking whether `i % 3 == 0` or `i % 5 == 0`.
+You can test for divisibility using the modulo operator `%`. The modulo operator divides two numbers and yields the remainder, so `i` modulo `j` is `0` if `i` is divisible by `j`. In Rust, this is written as `i % j`. Then, itâ€™s a simple matter of checking whether `i % 3 == 0` or `i % 5 == 0`.
 
 ### The Loop
 

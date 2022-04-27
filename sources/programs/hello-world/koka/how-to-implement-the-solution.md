@@ -1,4 +1,4 @@
-Now, letís see how we can print a simple ìHello Worldî in Koka:
+Now, let‚Äôs see how we can print a simple ‚ÄúHello World‚Äù in Koka:
 
 ```koka
 function main()
@@ -12,4 +12,4 @@ point of the code execution. To print, we use println, a built-in method that
 prints a given string or variable to the console.
 
 Like many of the high-level language implementations in this series, this one
-wasnít too bad. Wanna try it out? Check out this [online Koka editor][1].
+wasn‚Äôt too bad. Wanna try it out? Check out this [online Koka editor][1].

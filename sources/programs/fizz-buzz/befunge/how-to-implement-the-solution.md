@@ -2,9 +2,9 @@ Befunge, like many other esoteric languages, has a very unique look to it, and i
 
 The Fizz-Buzz problem itself is here:
 
-    If a number is divisible by 3, print the word ‘Fizz’ instead of the number.
-    If the number is divisible by 5, print the word ‘Buzz’ instead of the number.
-    Finally, if the number is divisible by both 3 and 5, print ‘FizzBuzz’ instead
+    If a number is divisible by 3, print the word â€˜Fizzâ€™ instead of the number.
+    If the number is divisible by 5, print the word â€˜Buzzâ€™ instead of the number.
+    Finally, if the number is divisible by both 3 and 5, print â€˜FizzBuzzâ€™ instead
     of the number. Otherwise, just print the number.
 
 Followed by the Befunge code:

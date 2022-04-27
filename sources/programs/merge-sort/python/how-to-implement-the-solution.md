@@ -34,7 +34,7 @@ def input_list(list_str):
 
 
 def exit_with_error():
-    print('Usage: please provide a list of at least two integers to sort in the format ì1, 2, 3, 4, 5î')
+    print('Usage: please provide a list of at least two integers to sort in the format ‚Äú1, 2, 3, 4, 5‚Äù')
     sys.exit(1)
 
 
@@ -102,7 +102,7 @@ becomes `[2, 1, 10, 5, 3]`.
 
 ```python
 def exit_with_error():
-    print('Usage: please provide a list of at least two integers to sort in the format ì1, 2, 3, 4, 5î')
+    print('Usage: please provide a list of at least two integers to sort in the format ‚Äú1, 2, 3, 4, 5‚Äù')
     sys.exit(1)
 ```
 

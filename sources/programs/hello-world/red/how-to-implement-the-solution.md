@@ -1,4 +1,4 @@
-Anyway, let’s get right to our implementation of Hello World in Red:
+Anyway, letâ€™s get right to our implementation of Hello World in Red:
 
 ```red
 Red [Title: "Hello World in Red"]
@@ -6,11 +6,11 @@ Red [Title: "Hello World in Red"]
 print "Hello, World!"
 ```
 
-Well, that’s just about it. Honestly, this is about the weirdest syntax
-I’ve ever seen, so I really had to dig into the docs.
+Well, thatâ€™s just about it. Honestly, this is about the weirdest syntax
+Iâ€™ve ever seen, so I really had to dig into the docs.
 
-[According to Helpin’Red][1], the first line in our solution is the header,
-and it’s absolutely necessary for all scripts. The header is composed of two
+[According to Helpinâ€™Red][1], the first line in our solution is the header,
+and itâ€™s absolutely necessary for all scripts. The header is composed of two
 parts: the Red keyword and the block.
 
 Now, every script will have the Red keyword. As for the block, well, that
@@ -32,8 +32,8 @@ view [
 ```
 
 Here, we use the header block to import the graphics view library. Then,
-we use that library to display a window containing “Hello, World!”
+we use that library to display a window containing â€œHello, World!â€
 
 At any rate, the last line in our original implementation clearly prints
-“Hello, World!” to the user. We’ve seen this plenty of times already so
+â€œHello, World!â€ to the user. Weâ€™ve seen this plenty of times already so
 no need to dig into it.

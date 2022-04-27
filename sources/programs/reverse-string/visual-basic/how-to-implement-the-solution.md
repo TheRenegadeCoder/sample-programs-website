@@ -1,4 +1,4 @@
-Let’s start by looking at the complete algorithm to reverse a string in Visual Basic:
+Letâ€™s start by looking at the complete algorithm to reverse a string in Visual Basic:
 
 ```vb
 Module ReverseString
@@ -18,17 +18,17 @@ Module ReverseString
 End Module
 ```
 
-As we can see, VB.NET is a structured language. In other words, there’s a very 
+As we can see, VB.NET is a structured language. In other words, thereâ€™s a very 
 strong focus on code blocks and control flow structures.
 
-Our first code block is the module declaration. In this case, we’ve declared a 
+Our first code block is the module declaration. In this case, weâ€™ve declared a 
 public module called `ReverseString`. If other libraries needed access to this module, 
 they could simply import it by name.
 
 ### The `main()` Function
 
 Next, we have our typical main function declaration. Of course, in VB.NET, we 
-call them subroutines rather than functions—as indicated by the Sub keyword.
+call them subroutines rather than functionsâ€”as indicated by the Sub keyword.
 
 The first thing we do in our `main` function is create a variable named `input` to store the value to be reversed.
 

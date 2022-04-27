@@ -1,4 +1,4 @@
-If you haven’t heard of D, I’m hardly surprised. After all, it’s 
+If you havenâ€™t heard of D, Iâ€™m hardly surprised. After all, itâ€™s 
 not exactly a popular language. In fact, it currently ranks 39th by 
 popularity on GitHub. For reference, languages ahead of D include 
 Visual Basic .NET (31st), Haskell (21st), Swift (18th), and C (8th). 
@@ -7,7 +7,7 @@ and Elixir (45th).
 
 That said, according to Wikipedia, D is still a pretty interesting 
 language. As you can probably imagine, D is supposed to be an 
-improvement on C++. Apparently, the designers weren’t a fan of the 
+improvement on C++. Apparently, the designers werenâ€™t a fan of the 
 practical issues surrounding C++ (surprise, surprise!). As a result, 
 D includes features like design by contract, garbage collection, 
 associative arrays, array slicing, and lazy evaluation.

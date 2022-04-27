@@ -1,4 +1,4 @@
-[According to Wikipedia][1], ALGOL 68—also known as Algorithmic Language 68—is a 
+[According to Wikipedia][1], ALGOL 68â€”also known as Algorithmic Language 68â€”is a 
 successor to the ALGOL 60 language. As the name suggests, ALGOL 68 first appeared 
 in 1968 as an imperative programming language.
 
@@ -6,7 +6,7 @@ That said, ALGOL 68 has a much wider scope than ALGOL 60. For instance, ALGOL 68
 includes user-declared types, expression-based syntax, concurrency, and even slicing.
 
 Of course, I think the most interesting language feature is the overwhelming list of 
-reserved words which includes 60 different symbols. Most of these symbols I couldn’t 
+reserved words which includes 60 different symbols. Most of these symbols I couldnâ€™t 
 even guess their purpose. For example, what do you think `esac` does? How about 
 `ouse`? [James Jones offers a great explanation][2].
 

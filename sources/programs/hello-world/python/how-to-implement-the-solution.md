@@ -4,8 +4,8 @@ Hello World implementation in the realm of programming languages:
 ```python
 print("Hello, World!")
 ```
-And, we’re done. In fact, we don’t even have to compile anything. If we’re in 
-the interpreter, we’ll print right away. Otherwise, we can easily call the 
+And, weâ€™re done. In fact, we donâ€™t even have to compile anything. If weâ€™re in 
+the interpreter, weâ€™ll print right away. Otherwise, we can easily call the 
 script from the command line to get our result.
 
 As you can probably imagine, this code works because Python has a built-in 

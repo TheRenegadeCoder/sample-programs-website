@@ -1,4 +1,4 @@
-As usual, let’s dive right into the implementation of 
+As usual, letâ€™s dive right into the implementation of 
 Hello World in Elm:
 
 ```elm
@@ -8,12 +8,12 @@ main =
   text "Hello, World!"
 ```
 
-And, that’s it! We can write Hello World in Elm in just 
-a few lines of code, but what’s really going on in this 
+And, thatâ€™s it! We can write Hello World in Elm in just 
+a few lines of code, but whatâ€™s really going on in this 
 code?
 
 Up first, we have the module declaration line. In other 
-words, we’ve defined a module with the name HelloWorld. 
+words, weâ€™ve defined a module with the name HelloWorld. 
 If anyone wanted to use this module, everything would be 
 completely exposed.
 
@@ -25,5 +25,5 @@ Finally, as with many functional languages, we have the
 main function. To no surprise, the main function is a 
 special function which provides the starting point for 
 the program. In the case of Elm, the main function must 
-retain an element to draw into the page. In our case, we’re 
+retain an element to draw into the page. In our case, weâ€™re 
 returning a HTML element from the text function.

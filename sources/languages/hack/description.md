@@ -12,14 +12,14 @@ Apparently, the most important features of Hack are:
 - Lambdas
 
 Now, I think the most interesting feature has to be the type annotations. 
-That’s because Hack is actually dynamically typed like Python.
+Thatâ€™s because Hack is actually dynamically typed like Python.
 
-However, if you’ve used Python, then you know that it has a relatively 
+However, if youâ€™ve used Python, then you know that it has a relatively 
 new type hinting feature. Typing hinting allows you to arbitrarily 
 enforce static type checking in your code. I say arbitrarily because 
 no one is forcing you to use type hints.
 
-At any rate, Hack has essentially the same feature, but it’s restricted 
+At any rate, Hack has essentially the same feature, but itâ€™s restricted 
 to parameters, class variables, and return values. For example:
 
 ```hack
@@ -28,7 +28,7 @@ function foo(int $x): int {
 }
 ```
 
-Here we’ve defined some function foo which takes an integer parameter and 
+Here weâ€™ve defined some function foo which takes an integer parameter and 
 returns an integer. Of course, nothing is stopping us from removing those 
 annotations:
 
@@ -38,12 +38,12 @@ function bar($x) {
 }
 ```
 
-Now, this function would run exactly the same except we wouldn’t discover 
+Now, this function would run exactly the same except we wouldnâ€™t discover 
 any type issues until runtime.
 
 So, what kind of typing system does Hack have? Is it static? How about 
-dynamic? Well, there’s actually a new term for the kind of type system that 
-languages like Hack and Python have. It’s called gradual typing, and it allows 
+dynamic? Well, thereâ€™s actually a new term for the kind of type system that 
+languages like Hack and Python have. Itâ€™s called gradual typing, and it allows 
 users to specify exactly when they want static or dynamic typing.
 
-Once again, I think I’ve explored a topic a bit too deeply, so I’ll stop there.
+Once again, I think Iâ€™ve explored a topic a bit too deeply, so Iâ€™ll stop there.

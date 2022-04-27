@@ -1,4 +1,4 @@
-Without further ado, letís dive straight into our implementation 
+Without further ado, let‚Äôs dive straight into our implementation 
 of Hello World in Perl:
 
 ```perl
@@ -7,19 +7,19 @@ print "Hello, World!";
 
 Well, that was anticlimactic. In fact, it was about as disappointing 
 as our implementations of Hello World in Python and Ruby. That said, 
-who doesnít love a simple implementation (talking to you, Java).
+who doesn‚Äôt love a simple implementation (talking to you, Java).
 
-At any rate, letís dig into this a little bit. For starters, weíll 
-notice there are no parentheses required for Perlís print function. 
-I use the word ìrequiredî because we can actually call print with them:
+At any rate, let‚Äôs dig into this a little bit. For starters, we‚Äôll 
+notice there are no parentheses required for Perl‚Äôs print function. 
+I use the word ‚Äúrequired‚Äù because we can actually call print with them:
 
 ```perl
 print("Hello, World!");
 ```
 
-However, from my understanding, itís good Perl style to omit the parentheses 
+However, from my understanding, it‚Äôs good Perl style to omit the parentheses 
 for built-in functions.
 
-Oh, I should probably clarify something. In Perl, theyíre not called 
-functions. Instead, theyíre called subroutines, and you can declare one 
-of your own using the sub keyword. Thatís a new one for me!
+Oh, I should probably clarify something. In Perl, they‚Äôre not called 
+functions. Instead, they‚Äôre called subroutines, and you can declare one 
+of your own using the sub keyword. That‚Äôs a new one for me!

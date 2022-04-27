@@ -1,4 +1,4 @@
-At long last, hereís Hello World in C*:
+At long last, here‚Äôs Hello World in C*:
 
 ```cstar
 #include <stdio.h>
@@ -9,17 +9,17 @@ main ()
 ```
 
 As we can see, Hello World in C* looks alarmingly similar to C. That said, C*
-is a superset of C, so this shouldnít be too much of a surprise. At any rate,
-letís dig in.
+is a superset of C, so this shouldn‚Äôt be too much of a surprise. At any rate,
+let‚Äôs dig in.
 
 Up first, we have the include statement which pulls in the stdio header. With
-the standard IO header included, weíre able to write to standard output using
+the standard IO header included, we‚Äôre able to write to standard output using
 printf.
 
 Next, we have our usual main function declaration which serves as the drop in
-function for our program. We should be used to seeing this convention since itís
+function for our program. We should be used to seeing this convention since it‚Äôs
 common in the popular industrial languages like C++ and Java.
 
 Finally, we make a call to printf which is a special print function that allows
-for string formatting. Of course, all weíre going to pass to it is the ìHello,
-World!î string. And, thatís it!
+for string formatting. Of course, all we‚Äôre going to pass to it is the ‚ÄúHello,
+World!‚Äù string. And, that‚Äôs it!
