@@ -1,17 +1,3 @@
----
-title: Capitalize in Python
-layout: default
-date: 2021-10-24
-last-modified: 2021-10-24
-featured-image:
-tags: [capitalize, python]
-authors: [shubhragupta-code]
----
-
-In this article, we will see how to implement Capitalize program using Python.
-
-## How to Implement the Solution
-
 Let's take a look on code for capitalize.py:
 
 ```python
@@ -47,23 +33,3 @@ def capitalize(input):
         print(input[0].capitalize() + input[1:])
 ```
 If the length provided by the user string is greater than 0, then it prints first letter of the string capitalized and concatenates the rest of the string.
-
-## How to Run Solution
-If we want to run this program, we should probably download a copy of
-Capitalize in Python. After that, we should make sure we have the
-[latest Python interpreter][1]. From there, we can simply run the following
-command in the terminal:
-
-```console
-python capitalize.py
-```
-
-Alternatively, we can copy the solution into an [online Python interpreter][2]
-and hit run.
-
-## Further Reading
-- [Hello World in Python][3] on sample-programs
-
-[1]: https://www.python.org/downloads/  
-[2]: https://www.tutorialspoint.com/execute_python3_online.php  
-[3]: /projects/hello-world/python/

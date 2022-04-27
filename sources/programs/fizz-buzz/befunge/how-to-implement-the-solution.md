@@ -1,24 +1,10 @@
----
-title: Fizz Buzz in Befunge
-layout: default
-last-modified: 2020-08-30
-featured-image: fizz-buzz-in-befunge.jpg
-tags: [befunge, fizz-buzz]
-authors:
-  - stuin
----
-
-Here we will go over Fizz Buzz in Befunge.
-
-## How to Implement the Solution
-
 Befunge, like many other esoteric languages, has a very unique look to it, and is very complex at first glance. Each operation is denoted by a single character, and the file can be traversed in four directions. If you have not read about it before, do that first, starting here: [The Befunge Programming Language][1].
 
 The Fizz-Buzz problem itself is here:
 
-    If a number is divisible by 3, print the word â€˜Fizzâ€™ instead of the number.
-    If the number is divisible by 5, print the word â€˜Buzzâ€™ instead of the number.
-    Finally, if the number is divisible by both 3 and 5, print â€˜FizzBuzzâ€™ instead
+    If a number is divisible by 3, print the word ‘Fizz’ instead of the number.
+    If the number is divisible by 5, print the word ‘Buzz’ instead of the number.
+    Finally, if the number is divisible by both 3 and 5, print ‘FizzBuzz’ instead
     of the number. Otherwise, just print the number.
 
 Followed by the Befunge code:
@@ -87,28 +73,3 @@ The middle line has three main statements. `:25*` copies the current value and p
 At the end, `|` checks for a zero on top of the stack, sending the pointer downward if it is found. If there is a 1 and the current iteration is > 99, then the `@` symbol is activated instead, ending the program.
 
 If the counter has not yet reached 100, `1+` adds 1 to it, and the pointer is sent back to the beginning of the loop.
-
-## How to Run the Solution
-
-Because of the particular design of the language, it is recommended to use a Befunge interpreter. It is a lot easier to learn and play around with when you can step through and see what the pointer is doing.
-
-- [Befunge Playground][2]
-- [jsFunge IDE][3]
-- [Befunge-93 Interpreter][4]
-
-If you do want to use a compiler, here are some options:
-
-- [Timâ€™s Befunge Compiler][5]
-- [BefunUtils][6]
-
-## Further Reading
-
-For more information on Befunge, check the [Esolang Wiki][7].
-
-[1]: https://sample-programs.therenegadecoder.com/languages/befunge/
-[2]: https://www.bedroomlan.org/tools/befunge-playground/#prog=hello,mode=edit
-[3]: https://befunge.flogisoft.com/
-[4]: http://www.quirkster.com/iano/js/befunge.html
-[5]: https://quadium.net/funge/tbc/
-[6]: https://www.mikescher.de/programs/view/BefunUtils
-[7]: https://esolangs.org/wiki/Befunge

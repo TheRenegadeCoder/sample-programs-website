@@ -35,7 +35,10 @@ def program_section(section: str, bound: str):
             for post in os.listdir(f"archive/projects/{item}/_posts/"):
                 doc = open(f"archive/projects/{item}/_posts/{post}", encoding="utf-8").readlines()
                 try:
-                    start = doc.index(f"## {section}\n") 
+                    try: 
+                        start = doc.index(f"## {section}\n") 
+                    except:
+                        start = doc.index(f"## How to Implement Solution\n")
                     try:
                         end = doc.index(f"## {bound}\n")
                     except ValueError as err:

@@ -1,27 +1,3 @@
----
-title: Fizz Buzz in Swift
-layout: default
-last-modified: 2020-05-02
-featured-image: fizz-buzz.png
-tags: [swift, fizz-buzz]
-authors:
-  - martyav
----
-
-We return to [the Swift programming language](https://developer.apple.com/swift/) with that old chestnut, Fizz Buzz. [According to urban legend](http://wiki.c2.com/?FizzBuzzTest), Fizz Buzz is frequently used on job interviews to see if the candidate can really code (I've never been so lucky).
-
-To review: Fizz Buzz tests basic mastery of programming concepts such as conditionals and loops. It involves printing out the word "Fizz" if a number is divisible by 3, and the word "Buzz" if a number is divisible by 5. If the number is divisible by both 3 and 5, we print the word "FizzBuzz". If it is not divisible by 3 or 5, we print the number itself.
-
-The result should look something like like this:
-
-```
-1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz
-```
-
-So, without any further adieu, let's get into the code!
-
-## How to Implement the Solution
-
 ```swift
 func fizzBuzz(start: Int = 1, end: Int = 100) -> Void {
     let range = start...end
@@ -94,13 +70,3 @@ Line 14 [uses `+=`](https://riptutorial.com/swift/example/1416/concatenate-strin
 Finally, we print whatever is inside `fizzAndOrBuzz` at the end of our loop.
 
 We exit the loop, we end the function, and we call `fizzBuzz` at the very bottom. Since we've defined some default values, the script knows to go over the numbers 1 through 100 without having to be told to. We could also pass in arguments for the start and end of our range later, if we want.
-
-## How to Run the Solution
-
-Swift is often run via [XCode](https://developer.apple.com/xcode/), Apple's IDE, or by installing [Swift on Linux](https://medium.com/@agavatar/open-source-swift-on-ubuntu-linux-cd00e697dff0). However, XCode in particular is a heavy download, so unless you already have it installed, or are seriously contemplating iOS development, you probably should use [this handy online Swift compiler](https://www.onlinegdb.com/online_swift_compiler).
-
-Please be aware that Swift updates very frequently, and many online compilers use earlier versions of the language, which may present with incompatibilities and errors when trying to run this code. This code was written in [Swift 4](https://docs.swift.org/swift-book/GuidedTour/Compatibility.html).
-
-## Further Reading
-
-- Fill in as needed

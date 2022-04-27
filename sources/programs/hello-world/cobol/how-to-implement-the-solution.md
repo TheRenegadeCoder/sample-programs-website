@@ -1,16 +1,3 @@
----
-title: Hello World in COBOL
-layout: default
-last-modified: 2021-10-08
-tags: [COBOL, hello-world]
-authors:
-  - sudhanshu_dubey
----
-
-In this article, we will see how Hello World can be written in one of the oldest and still relevant programming language, COBOL.
-
-## How to Implement the Solution
-
 From it's very nature, COBOL is a very readable language.
 But even though it's readable, it follows very strict rules.
 
@@ -51,19 +38,3 @@ Then we have another Statement ,which is a Sentence in itself, `STOP RUN`.
 And well, it stops the run and returns the control to either the calling program or the OS.
 Also you should end any part of the program with a period. It might be optional at some places but it is recommended.
 That's it! Apart from the little nuances of indentation and program structure, it's a very readable program.
-
-## How to Run the Solution
-
-To run the solution we will need [a COBOL compiler][1] installed and of the course [the actual code file][2].
-Finally we need to run these commands in order:
-
-```console
-cobc -x hello-world.cbl
-$ ./hello-world
-```
-The commands first compile the source code into an executable and then execute it.
-Alternatively, you might want to use an [online COBOL compiler][3]
-
-[1]: https://gnucobol.sourceforge.io/
-[2]: https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/c/cobol/hello-world.cbl
-[3]: https://www.jdoodle.com/execute-cobol-online/
