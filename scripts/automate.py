@@ -91,10 +91,32 @@ def generate_project_paths(repo: subete.Repo):
 
 
 def generate_sample_programs(repo: subete.Repo):
+    """
+    Creates the language folders in each project directory.
+    """
     for language in repo.language_collections().values():
         for program in language.sample_programs().values():
-            path = pathlib.Path(f"docs/projects/{program.pathlike_name()}/{language}")
+            path = pathlib.Path(f"docs/projects/{program._normalize_program_name()}/{language.pathlike_name()}")
             path.mkdir(exist_ok=True, parents=True)
+            generate_sample_program_doc(program, path / "index.md")
+
+
+def generate_sample_program_doc(program: subete.SampleProgram, path: pathlib.Path):
+    """
+    Creates a sample program documentation file.
+    """
+    doc: snakemd.Document = snakemd.new_doc("index")
+    doc.add_header(f"{program}")
+    doc.add_header("Solution", level=2)
+    doc.add_code(program.code(), lang=program.language())
+    #_add_section(doc, "projects", program._normalize_program_name(), "Description")
+    #_add_section(doc, "projects", program._normalize_program_name(), "Requirements")
+    #_add_section(doc, "projects", program._normalize_program_name(), "Testing")
+    #_add_section(doc, "projects", program._normalize_program_name(), "Sample Code")
+    try:
+        doc.output_page(str(path))
+    except Exception:
+        log.exception(f"Failed to write {path}")
 
 
 def generate_language_index(language: subete.LanguageCollection):

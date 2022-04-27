@@ -1,0 +1,10 @@
+# Fibonacci in Quack
+
+## Solution
+
+```Quack
+fn fibonacci(0) :- 0
+fn fibonacci(1) :- 1
+fn fibonacci(n) :- fibonacci(n - 1) + fibonacci(n - 2)
+
+```

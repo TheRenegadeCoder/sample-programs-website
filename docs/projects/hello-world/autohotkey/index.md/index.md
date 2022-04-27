@@ -1,0 +1,7 @@
+# Hello World in Autohotkey
+
+## Solution
+
+```Autohotkey
+﻿MsgBox, 0x30, Sample Programs, Hello, World!
+```

@@ -1,0 +1,14 @@
+# Fizz Buzz in Solisp
+
+## Solution
+
+```Solisp
+(Join (Map num (Seq 1 100)
+	(Switch
+        {(== (% num 3) (% num 5) 0) "FizzBuzz"}
+        {(== (% num 3) 0) "Fizz"}
+        {(== (% num 5) 0) "Buzz"}
+        {true num}
+    )
+) "\n")
+```
