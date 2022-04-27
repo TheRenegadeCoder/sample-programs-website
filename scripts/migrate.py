@@ -34,7 +34,7 @@ def program_section(section: str, bound: str):
         if item != "index.md" and os.path.exists(f"archive/projects/{item}/_posts/"):
             for post in os.listdir(f"archive/projects/{item}/_posts/"):
                 doc = open(f"archive/projects/{item}/_posts/{post}", encoding="utf-8").readlines()
-                lower_copy = [x.lower() for x in doc]
+                lower_copy = [x.lower().replace("the ", "") for x in doc]
                 try:
                     start = lower_copy.index(f"## {section.lower()}\n") 
                     end = lower_copy.index(f"## {bound.lower()}\n")
@@ -51,5 +51,5 @@ if __name__ == "__main__":
     project_section("Requirements", "Testing")
     project_section("Testing", "Articles")
     language_section("Articles")
-    program_section("How to Implement the Solution", "How to Run the Solution")
-    program_section("How to Run the Solution", "Further Reading")
+    program_section("How to Implement Solution", "How to Run Solution")
+    program_section("How to Run Solution", "Further Reading")
