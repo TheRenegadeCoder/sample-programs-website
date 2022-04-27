@@ -107,7 +107,8 @@ def generate_sample_program_doc(program: subete.SampleProgram, path: pathlib.Pat
     """
     doc: snakemd.Document = snakemd.new_doc("index")
     doc.add_header(f"{program}")
-    doc.add_header("Solution", level=2)
+    doc.add_header("Current Solution", level=2)
+    doc.add_paragraph("Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.")
     doc.add_code(program.code(), lang=program.language())
     #_add_section(doc, "projects", program._normalize_program_name(), "Description")
     #_add_section(doc, "projects", program._normalize_program_name(), "Requirements")
