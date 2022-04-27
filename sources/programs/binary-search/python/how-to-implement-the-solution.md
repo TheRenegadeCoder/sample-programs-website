@@ -1,17 +1,3 @@
----
-title: Binary Search in Python
-layout: default
-last-modified: 2020-05-02
-featured-image: binary-search-in-every-language.jpg
-tags: [python, binary_search]
-authors:
-  - rayavarapuvikram1
----
-
-In this article, we'll be talking about Binary Search algorithm implementation in Python.
-
-## How to Implement the Solution
-
 ### Solution
 
 ```python
@@ -38,7 +24,7 @@ def input_list(array_of_numbers):
     array_of_numbers = [int(x) for x in array_of_numbers]
     return array_of_numbers
 def exit_with_error():
-    print('Usage: please provide a list of at least two integers to sort in the format ‚Äú1, 2, 3, 4, 5‚Äù')
+    print('Usage: please provide a list of at least two integers to sort in the format ì1, 2, 3, 4, 5î')
     sys.exit(1)
 
 if __name__ == "__main__":
@@ -132,7 +118,7 @@ for every item in the list so our original input `"1, 4, 5, 11, 12"` becomes `[1
 
 ```python
 def exit_with_error():
-    print('Usage: please provide a list of at least two integers to sort in the format ‚Äú1, 2, 3, 4, 5‚Äù')
+    print('Usage: please provide a list of at least two integers to sort in the format ì1, 2, 3, 4, 5î')
     sys.exit(1)
 ```
 
@@ -175,17 +161,3 @@ For example, if `[1, 4, 5, 11, 12]` is the input:
 * If the middle value(mid) is less than than key_value then we take end as middle value + 1(mid + 1) and continue searching.
 
 * If key_value is neither great nor less than that of the middle value then it means that the value that we are searching is at mid. So we return the index of the key_value(If value in the given list) or -1 (If value is not in the given list of integers).
-
-## How to Run the Solution
-
-If we want to run this program, we should probably download a copy of Binary Search in Python
-After that, we should make sure we have the latest Python interpreter.
-From there, we can run the following command in the terminal:
-
-`python binary_search.py "1, 4, 5, 11, 12" "11"`
-
-Alternatively, we can copy the solution into an online Python interpreter and hit run then u need to modify sys.argv[i] to your inputs.
-
-## Further Reading
-
-- Fill out as needed

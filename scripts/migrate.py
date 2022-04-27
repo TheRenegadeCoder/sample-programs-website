@@ -42,7 +42,7 @@ def program_section(section: str, bound: str):
                     with open(f"sources/programs/{item}/{'-'.join(post.split('.')[0].split('-')[3:])}/{section.lower().replace(' ', '-')}.md", "w") as desc:
                         desc.write(description)
                 except ValueError as err:
-                    print(f"{post} has no {section}")
+                    print(f"{item}:{post} has no {section}")
 
 
 if __name__ == "__main__":

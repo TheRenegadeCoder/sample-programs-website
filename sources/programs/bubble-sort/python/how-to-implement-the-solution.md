@@ -1,17 +1,3 @@
----
-title: Bubble Sort in Python
-layout: default
-last-modified: 2020-05-02
-featured-image: bubble-sort-in-python-featured-image.JPEG
-tags: [python, bubble-sort]
-authors:
-  - hmajid2301
----
-  
-In this article, we'll be tackling Bubble Sort in Python.
-
-## How to Implement the Solution
-
 At this point, let's dig into the code a bit. The following sections break
 down the Bubble Sort in Python functionality.
 
@@ -41,7 +27,7 @@ def input_list(list_str):
 
 
 def exit_with_error():
-    print('Usage: please provide a list of at least two integers to sort in the format ‚Äú1, 2, 3, 4, 5‚Äù')
+    print('Usage: please provide a list of at least two integers to sort in the format ì1, 2, 3, 4, 5î')
     sys.exit(1)
 
 
@@ -108,7 +94,7 @@ for every item in the list so our original input of `"2, 1, 10, 5, 3"` becomes `
 
 ```python
 def exit_with_error():
-    print('Usage: please provide a list of at least two integers to sort in the format ‚Äú1, 2, 3, 4, 5‚Äù')
+    print('Usage: please provide a list of at least two integers to sort in the format ì1, 2, 3, 4, 5î')
     sys.exit(1)
 ```
 
@@ -168,17 +154,3 @@ For example:
 * Then input `[3, 2, 5, 7, 10]` output is `[2, 3, 5, 7, 10]`
 * Then input is `[2, 3, 5, 7, 10]` output is `[2, 3, 5, 7, 10]`
 * ...
-
-## How to Run the Solution
-
-If we want to run this program, we should probably download a copy of [Bubble Sort in Python](https://github.com/TheRenegadeCoder/sample-programs/blob/master/archive/p/python/bubble-sort.py). 
-After that, we should make sure we have the latest Python interpreter.
-From there, we can run the following command in the terminal:
-
-`python bubble-sort.py "3, 2, 10, 6, 1, 7"`
-
-Alternatively, we can copy the solution into an online Python interpreter and hit run.
-
-## Further Reading
-
-- Fill out as needed
