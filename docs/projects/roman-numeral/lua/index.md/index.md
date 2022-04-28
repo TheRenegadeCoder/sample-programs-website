@@ -2,7 +2,7 @@
 
 ---
 
-# Roman Numeral in Lua
+Welcome to the Roman Numeral in Lua page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

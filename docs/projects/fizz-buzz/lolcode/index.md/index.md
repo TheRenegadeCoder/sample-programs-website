@@ -2,7 +2,7 @@
 
 ---
 
-# Fizz Buzz in Lolcode
+Welcome to the Fizz Buzz in Lolcode page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

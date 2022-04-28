@@ -10,7 +10,7 @@ authors:
 
 ---
 
-# Hello World in Moonscript
+Welcome to the Hello World in Moonscript page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

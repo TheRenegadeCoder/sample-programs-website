@@ -2,7 +2,7 @@
 
 ---
 
-# Job Sequencing in Javascript
+Welcome to the Job Sequencing in Javascript page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

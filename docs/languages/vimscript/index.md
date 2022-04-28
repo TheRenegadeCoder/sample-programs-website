@@ -1,4 +1,4 @@
-# The Vimscript Programming Language
+Welcome to the Vimscript page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 ## Description
 

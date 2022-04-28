@@ -2,7 +2,7 @@
 
 ---
 
-# Hello World in Forth
+Welcome to the Hello World in Forth page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

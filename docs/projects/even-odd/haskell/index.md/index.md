@@ -2,7 +2,7 @@
 
 ---
 
-# Even Odd in Haskell
+Welcome to the Even Odd in Haskell page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

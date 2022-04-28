@@ -72,18 +72,26 @@ def generate_project_index(project: str):
     """
     Creates an index file for a single project. The path is assumed
     to be `projects/project/index.md`. 
+
+    :param project: the project to create the index file for in the normalized form (e.g., hello-world).
     """
     doc: snakemd.Document = snakemd.new_doc("index")
+    root_path = pathlib.Path(f"sources/projects/{project}")
+    generate_front_matter(doc, root_path / "front_matter.yaml")
     title = ' '.join([
         word.capitalize() if len(project) > 3 else word.upper()
         for word in project.split('-')
     ])
-    doc.add_header(f"{title} in Every Language")
+    doc.add_paragraph(
+        f"Welcome to the {title} page! Here, you'll find a description "
+        f"of the project as well as a list of sample programs "
+        f"written in various languages."
+    )
     _add_section(doc, "projects", project, "Description")
     _add_section(doc, "projects", project, "Requirements")
     _add_section(doc, "projects", project, "Testing")
     _add_project_article_section(doc, repo, project)
-    doc.output_page(f"docs/projects/{project}")
+    doc.output_page(str(root_path))
 
 
 def generate_project_paths(repo: subete.Repo):
@@ -126,7 +134,10 @@ def generate_sample_program_doc(program: subete.SampleProgram, path: pathlib.Pat
     doc: snakemd.Document = snakemd.new_doc("index")
     root_path = pathlib.Path(f"programs/{program._normalize_program_name()}/{language}")
     generate_front_matter(doc, root_path / "front_matter.yaml")
-    doc.add_header(f"{program}")
+    doc.add_paragraph(
+        f"Welcome to the {program} page! Here, you'll find the source code for this program "
+        f"as well as a description of how the program works."
+    )
     doc.add_header("Current Solution", level=2)
     doc.add_paragraph("Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.")
     doc.add_code(program.code(), lang=program.language())
@@ -144,7 +155,11 @@ def generate_language_index(language: subete.LanguageCollection):
     to be `languages/language/index.md`. 
     """
     doc: snakemd.Document = snakemd.new_doc("index")
-    doc.add_header(f"The {str(language)} Programming Language")
+    doc.add_paragraph(
+        f"Welcome to the {language} page! Here, you'll find a description " 
+        f"of the language as well as a list of sample programs "
+        f"in that language."
+    )
     _add_section(doc, "languages", language, "Description")
     _add_language_article_section(doc, repo, str(language))
     try:

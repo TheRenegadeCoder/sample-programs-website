@@ -9,7 +9,7 @@ authors: [ MandyMericle ]
 
 ---
 
-# Even Odd in Python
+Welcome to the Even Odd in Python page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

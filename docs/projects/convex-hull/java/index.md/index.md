@@ -2,7 +2,7 @@
 
 ---
 
-# Convex Hull in Java
+Welcome to the Convex Hull in Java page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

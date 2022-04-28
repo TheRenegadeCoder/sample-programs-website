@@ -2,7 +2,7 @@
 
 ---
 
-# Insertion Sort in Rust
+Welcome to the Insertion Sort in Rust page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

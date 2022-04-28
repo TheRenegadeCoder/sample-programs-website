@@ -10,7 +10,7 @@ authors:
 
 ---
 
-# Reverse String in C
+Welcome to the Reverse String in C page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

@@ -2,7 +2,7 @@
 
 ---
 
-# Rot 13 in Php
+Welcome to the Rot 13 in Php page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

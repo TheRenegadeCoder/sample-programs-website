@@ -2,7 +2,7 @@
 
 ---
 
-# Factorial in Matlab
+Welcome to the Factorial in Matlab page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

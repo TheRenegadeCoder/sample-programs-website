@@ -2,7 +2,7 @@
 
 ---
 
-# Hello World in Agda
+Welcome to the Hello World in Agda page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

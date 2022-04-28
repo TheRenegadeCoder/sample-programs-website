@@ -2,7 +2,7 @@
 
 ---
 
-# Fibonacci in Verilog
+Welcome to the Fibonacci in Verilog page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

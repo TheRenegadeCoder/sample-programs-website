@@ -2,7 +2,7 @@
 
 ---
 
-# Prime Number in Perl
+Welcome to the Prime Number in Perl page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

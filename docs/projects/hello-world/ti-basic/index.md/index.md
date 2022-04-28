@@ -2,7 +2,7 @@
 
 ---
 
-# Hello World in Ti Basic
+Welcome to the Hello World in Ti Basic page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

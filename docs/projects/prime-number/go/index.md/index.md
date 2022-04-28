@@ -2,7 +2,7 @@
 
 ---
 
-# Prime Number in Go
+Welcome to the Prime Number in Go page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
