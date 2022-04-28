@@ -1,5 +1,13 @@
 ---
 
+title: Hello World in Solidity
+layout: default
+last-modified: 2020-05-02
+featured-image: hello-world-in-solidity-featured-image.JPEG
+tags: [solidity, hello-world]
+authors:
+  - two_clutch
+
 ---
 
 # Hello World in Solidity

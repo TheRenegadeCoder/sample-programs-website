@@ -1,5 +1,13 @@
 ---
 
+title: Hello World in Rust
+layout: default
+last-modified: 2020-05-02
+featured-image: hello-world-in-rust-featured-image.JPEG
+tags: [rust, hello-world]
+authors:
+  - the_renegade_coder
+
 ---
 
 # Hello World in Rust

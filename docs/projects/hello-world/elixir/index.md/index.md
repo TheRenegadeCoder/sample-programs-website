@@ -1,5 +1,13 @@
 ---
 
+title: Hello World in Elixir
+layout: default
+last-modified: 2020-05-02
+featured-image: hello-world-in-elixir-featured-image.JPEG
+tags: [elixir, hello-world]
+authors:
+  - the_renegade_coder
+
 ---
 
 # Hello World in Elixir

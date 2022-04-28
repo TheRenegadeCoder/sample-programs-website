@@ -1,5 +1,13 @@
 ---
 
+title: Reverse a String in Java
+layout: default
+last-modified: 2020-05-02
+featured-image:
+tags: [java, reverse-a-string]
+authors:
+  - the_renegade_coder
+
 ---
 
 # Reverse String in Java

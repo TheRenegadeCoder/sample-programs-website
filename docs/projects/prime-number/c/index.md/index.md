@@ -1,5 +1,14 @@
 ---
 
+title: Prime Number in C  
+layout: default  
+date: 2021-10-26
+last-modified: 2021-10-26
+featured-image:
+tags: [c, prime-number]  
+authors:
+- shubhragupta-code
+
 ---
 
 # Prime Number in C

@@ -1,5 +1,13 @@
 ---
 
+title: Merge Sort in Python
+layout: default
+last-modified: 2020-05-02
+featured-image: merge-sort-in-python-featured-image.JPEG
+tags: [python, merge-sort]
+authors:
+  - hmajid2301
+
 ---
 
 # Merge Sort in Python

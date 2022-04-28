@@ -1,5 +1,13 @@
 ---
 
+title: Palindromic Numbers in Kotlin
+layout: default
+last-modified: 2020-10-07
+featured-image:
+tags: [palindrome]
+authors:
+  - anohene1
+
 ---
 
 # Palindromic Number in Kotlin

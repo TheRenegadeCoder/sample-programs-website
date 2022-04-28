@@ -1,5 +1,13 @@
 ---
 
+title: File IO in Ruby
+layout: default
+last-modified: 2020-05-02
+featured-image:
+tags: [ruby, file-io]
+authors:
+  - noah11012
+
 ---
 
 # File Io in Ruby

@@ -1,5 +1,13 @@
 ---
 
+title: Hello World in Pascal
+layout: default
+last-modified: 2020-05-02
+featured-image: hello-world-in-pascal-featured-image.JPEG
+tags: [pascal, hello-world]
+authors:
+  - the_renegade_coder
+
 ---
 
 # Hello World in Pascal

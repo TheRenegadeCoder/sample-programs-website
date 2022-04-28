@@ -1,5 +1,13 @@
 ---
 
+title: File IO in Scala
+layout: default
+last-modified: 2020-05-02
+featured-image:
+tags: [scala, file-io]
+authors:
+  - veevidify
+
 ---
 
 # File Io in Scala

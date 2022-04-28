@@ -1,5 +1,14 @@
 ---
 
+title: Hello World in Erlang
+layout: default
+last-modified: 2020-05-02
+featured-image: hello-world-in-erlang-featured-image.JPEG
+tags: [erlang, hello-world]
+authors:
+  - nickkeers
+  - the_renegade_coder
+
 ---
 
 # Hello World in Erlang

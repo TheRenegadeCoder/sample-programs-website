@@ -1,5 +1,13 @@
 ---
 
+title: Reverse a String in Python
+layout: default
+last-modified: 2020-05-02
+featured-image: reverse-a-string-in-python.jpg
+tags: [python, reverse-a-string]
+authors:
+  - the_renegade_coder
+
 ---
 
 # Reverse String in Python

@@ -1,5 +1,13 @@
 ---
 
+title: Baklava in C
+layout: default
+date: 2020-10-05
+featured-image: baklava-in-c.jpg
+tags: [c, baklava]
+authors:
+  - stuin
+
 ---
 
 # Baklava in C

@@ -1,5 +1,13 @@
 ---
 
+title: Hello World in PicoLisp
+layout: default
+last-modified: 2020-05-02
+featured-image: hello-world-in-picolisp-featured-image.JPEG
+tags: [picolisp, hello-world]
+authors:
+  - the_renegade_coder
+
 ---
 
 # Hello World in Picolisp

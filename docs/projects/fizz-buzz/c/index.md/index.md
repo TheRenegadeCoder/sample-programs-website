@@ -1,5 +1,13 @@
 ---
 
+title: Fizz Buzz in C
+layout: default
+date: 2020-10-05
+featured-image: fizz-buzz.png
+tags: [c, fizz-buzz]
+authors:
+  - shubhragupta-code
+
 ---
 
 # Fizz Buzz in C

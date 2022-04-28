@@ -1,5 +1,13 @@
 ---
 
+title: Reverse a String in JavaScript
+layout: default
+last-modified: 2020-05-02
+featured-image:
+tags: [javascript, reverse-a-string, string-reversal]
+authors:
+  - herrfugbaum
+
 ---
 
 # Reverse String in Javascript

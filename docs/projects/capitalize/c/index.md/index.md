@@ -1,5 +1,14 @@
 ---
 
+title: Capitalize in C  
+layout: default  
+date: 2021-10-25
+last-modified: 2021-10-26
+featured-image:
+tags: [c, capitalize]  
+authors:
+- shubhragupta-code
+
 ---
 
 # Capitalize in C

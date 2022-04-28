@@ -1,5 +1,13 @@
 ---
 
+title: Hello World in D
+layout: default
+last-modified: 2020-05-02
+featured-image: hello-world-in-d-featured-image.JPEG
+tags: [d, hello-world]
+authors:
+  - the_renegade_coder
+
 ---
 
 # Hello World in D

@@ -1,5 +1,13 @@
 ---
 
+title: Fizz Buzz in Befunge
+layout: default
+last-modified: 2020-08-30
+featured-image: fizz-buzz-in-befunge.jpg
+tags: [befunge, fizz-buzz]
+authors:
+  - stuin
+
 ---
 
 # Fizz Buzz in Befunge

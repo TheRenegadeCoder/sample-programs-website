@@ -1,5 +1,13 @@
 ---
 
+title: Insertion Sort in Python
+layout: default
+last-modified: 2020-05-02
+featured-image: insertion-sort-in-python-featured-image.JPEG
+tags: [python, insertion-sort]
+authors:
+  - hmajid2301
+
 ---
 
 # Insertion Sort in Python

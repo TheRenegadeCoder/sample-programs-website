@@ -1,5 +1,13 @@
 ---
 
+title: Fizz Buzz in Rust
+layout: default
+last-modified: 2021-12-11
+featured-image: fizz-buzz.png
+tags: [rust, fizz-buzz]
+authors:
+  - niftycode
+
 ---
 
 # Fizz Buzz in Rust

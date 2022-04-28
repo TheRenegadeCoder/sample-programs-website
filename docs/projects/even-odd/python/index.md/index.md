@@ -1,5 +1,12 @@
 ---
 
+title: Even Odd in Python  
+layout: default  
+last-modified: 2020-05-02
+featured-image: even-odd-in-every-language-featured-image.JPEG 
+tags: [python, even-odd]  
+authors: [ MandyMericle ]
+
 ---
 
 # Even Odd in Python

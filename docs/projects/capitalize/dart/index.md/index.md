@@ -1,5 +1,13 @@
 ---
 
+title: Capitalize in Dart
+layout: default
+last-modified: 2020-05-02
+featured-image: 
+tags: [dart, capitalize]
+authors:
+  - slashdoom
+
 ---
 
 # Capitalize in Dart

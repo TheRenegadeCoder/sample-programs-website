@@ -1,5 +1,13 @@
 ---
 
+title: Selection Sort in Python
+layout: default
+last-modified: 2020-05-02
+featured-image: selection-sort-in-python-featured-image.JPEG
+tags: [python, selection-sort]
+authors:
+  - hmajid2301
+
 ---
 
 # Selection Sort in Python

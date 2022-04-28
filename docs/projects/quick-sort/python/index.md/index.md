@@ -1,5 +1,13 @@
 ---
 
+title: Quick Sort in Python
+layout: default
+last-modified: 2020-05-02
+featured-image: quick-sort-in-python-featured-image.JPEG
+tags: [python, quick-sort]
+authors:
+  - hmajid2301
+
 ---
 
 # Quick Sort in Python

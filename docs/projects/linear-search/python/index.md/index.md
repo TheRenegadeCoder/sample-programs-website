@@ -1,5 +1,12 @@
 ---
 
+title: Linear Search in Python
+layout: default
+last-modified: 2020-05-02
+tags: [python, linear-search]
+authors:
+  - frankhart2017
+
 ---
 
 # Linear Search in Python

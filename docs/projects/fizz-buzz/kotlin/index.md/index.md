@@ -1,5 +1,13 @@
 ---
 
+title: Fizz Buzz in Kotlin
+layout: default
+last-modified: 2020-05-02
+featured-image: fizz-buzz.png
+tags: [kotlin, fizz-buzz]
+authors:
+  - stuin
+
 ---
 
 # Fizz Buzz in Kotlin

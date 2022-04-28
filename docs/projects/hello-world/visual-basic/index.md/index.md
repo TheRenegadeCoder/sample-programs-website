@@ -1,5 +1,13 @@
 ---
 
+title: Hello World in Visual Basic
+layout: default
+last-modified: 2020-05-02
+featured-image: hello-world-in-visual-basic-featured-image.JPEG
+tags: [visual-basic, hello-world]
+authors:
+  - the_renegade_coder
+
 ---
 
 # Hello World in Visual Basic

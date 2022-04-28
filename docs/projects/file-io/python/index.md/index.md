@@ -1,5 +1,13 @@
 ---
 
+title: File IO in Python
+layout: default
+last-modified: 2020-05-02
+featured-image:
+tags: [python, file-io]
+authors:
+  - noah11012
+
 ---
 
 # File Io in Python

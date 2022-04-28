@@ -1,5 +1,13 @@
 ---
 
+title: Reverse a String in Scheme
+layout: default
+last-modified: 2020-05-02
+featured-image:
+tags: [scheme, reverse-a-string]
+authors:
+  - alexandra_woerner
+
 ---
 
 # Reverse String in Scheme

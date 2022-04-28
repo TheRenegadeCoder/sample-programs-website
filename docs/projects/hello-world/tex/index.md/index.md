@@ -1,5 +1,12 @@
 ---
 
+title: Hello World in Tex
+layout: default
+last-modified: 2020-09-30
+tags: [tex, hello-world]
+authors:
+  - bracciata
+
 ---
 
 # Hello World in Tex

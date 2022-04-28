@@ -1,5 +1,13 @@
 ---
 
+title: Hello World in Python
+layout: default
+last-modified: 2020-05-02
+featured-image: hello-world-in-python-featured-image.JPEG
+tags: [python, hello-world]
+authors:
+  - the_renegade_coder
+
 ---
 
 # Hello World in Python

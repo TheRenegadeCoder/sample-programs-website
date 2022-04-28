@@ -1,5 +1,13 @@
 ---
 
+title: fractions in C++
+layout: default
+last-modified: 2020-05-02
+featured-image:
+tags: [c-plus-plus, fractions]
+authors:
+  - niraj-kamdar
+
 ---
 
 # Fractions in C++

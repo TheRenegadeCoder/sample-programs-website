@@ -1,5 +1,13 @@
 ---
 
+title: Hello World in R
+layout: default
+last-modified: 2020-10-15
+featured-image: hello-world-in-r.jpg
+tags: [r, hello-world]
+authors:
+  - alexandra_woerner
+
 ---
 
 # Hello World in R

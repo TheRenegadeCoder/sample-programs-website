@@ -1,5 +1,13 @@
 ---
 
+title: Reverse a String in Ruby
+layout: default
+last-modified: 2020-05-02
+featured-image:
+tags: [ruby, reverse-a-string]
+authors:
+  - noah11012
+
 ---
 
 # Reverse String in Ruby

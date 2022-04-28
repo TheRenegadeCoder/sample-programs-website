@@ -1,5 +1,13 @@
 ---
 
+title: Reverse a String in Dart
+layout: default
+last-modified: 2020-05-02
+featured-image:
+tags: [dart, reverse-a-string, string-reversal]
+authors:
+  - slashdoom
+
 ---
 
 # Reverse String in Dart

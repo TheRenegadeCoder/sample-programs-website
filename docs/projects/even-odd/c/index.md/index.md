@@ -1,5 +1,13 @@
 ---
 
+title: Even Odd in C  
+layout: default  
+date: 2020-10-05
+featured-image: even-odd-in-every-language-featured-image.JPEG
+tags: [c, even-odd]  
+authors:
+- shubhragupta-code
+
 ---
 
 # Even Odd in C

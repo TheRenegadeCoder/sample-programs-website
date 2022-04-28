@@ -1,5 +1,13 @@
 ---
 
+title: Fractions in Python
+layout: default
+last-modified: 2020-05-02
+featured-image:
+tags: [python, fractions]
+authors:
+  - niraj-kamdar
+
 ---
 
 # Fractions in Python

@@ -1,5 +1,13 @@
 ---
 
+title: Hello World in MATLAB
+layout: default
+last-modified: 2020-05-02
+featured-image: hello-world-in-matlab-featured-image.JPEG
+tags: [matlab, hello-world]
+author:
+  - virtual_flat
+
 ---
 
 # Hello World in Matlab

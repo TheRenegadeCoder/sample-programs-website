@@ -102,12 +102,13 @@ def generate_sample_programs(repo: subete.Repo):
 
 
 def generate_front_matter(doc: snakemd.Document, path: pathlib.Path):
-    if path.exists():
-        doc._contents.append(path.read_text(encoding="utf-8"))
+    source_path = pathlib.Path("sources") / path
+    doc.add_paragraph("---")
+    if source_path.exists():
+        doc._contents.append(source_path.read_text(encoding="utf-8").strip())
     else:
         log.warning(f"Failed to find {path}")
-        doc.add_paragraph("---")
-        doc.add_paragraph("---")
+    doc.add_paragraph("---")
 
 
 def generate_sample_program_doc(program: subete.SampleProgram, path: pathlib.Path, language: str):

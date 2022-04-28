@@ -1,5 +1,13 @@
 ---
 
+title: Hello World in Brainfuck
+layout: default
+last-modified: 2020-10-15
+featured-image: hello-world-in-brainfuck.jpg
+tags: [brainfuck, hello-world]
+authors:
+  - chrboe
+
 ---
 
 # Hello World in Brainfuck

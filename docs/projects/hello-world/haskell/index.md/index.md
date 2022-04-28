@@ -1,5 +1,13 @@
 ---
 
+title: Hello World in Haskell
+layout: default
+last-modified: 2021-02-22
+featured-image: hello-world-in-haskell-featured-image.JPEG
+tags: [haskell, hello-world]
+authors:
+  - the_renegade_coder
+
 ---
 
 # Hello World in Haskell

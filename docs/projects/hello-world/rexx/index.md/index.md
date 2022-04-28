@@ -1,5 +1,13 @@
 ---
 
+title: Hello World in Rexx
+layout: default
+last-modified: 2021-10-13
+featured-image: hello-world-in-rexx.jpg
+tags: [rexx, hello-world]
+authors:
+  - ShivaniThevar
+
 ---
 
 # Hello World in Rexx

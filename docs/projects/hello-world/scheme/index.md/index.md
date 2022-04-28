@@ -1,5 +1,13 @@
 ---
 
+title: Hello World in Scheme
+layout: default
+last-modified: 2020-05-02
+featured-image: hello-world-in-scheme-featured-image.JPEG
+tags: [scheme, hello-world]
+authors:
+  - the_renegade_coder
+
 ---
 
 # Hello World in Scheme

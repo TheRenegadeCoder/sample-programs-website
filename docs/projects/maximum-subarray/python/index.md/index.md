@@ -1,5 +1,13 @@
 ---
 
+title: Maximum Subarray in Python
+layout: default
+last-modified: 2020-10-14
+featured-image:
+tags: [python, maximum-subarray]
+authors:
+  - Senpai1199
+
 ---
 
 # Maximum Subarray in Python

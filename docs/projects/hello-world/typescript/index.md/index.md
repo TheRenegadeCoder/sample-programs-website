@@ -1,5 +1,12 @@
 ---
 
+title: Hello World in TypeScript
+layout: default
+last-modified: 2020-09-30
+tags: [TypeScript, hello-world]
+authors:
+  - bracciata
+
 ---
 
 # Hello World in Typescript

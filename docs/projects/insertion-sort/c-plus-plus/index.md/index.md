@@ -1,5 +1,13 @@
 ---
 
+title: Insertion Sort in C++
+layout: default
+last-modified: 2020-05-02
+featured-image:
+tags: [c-plus-plus, Insertion-sort]
+authors:
+  - sun-fox
+
 ---
 
 # Insertion Sort in C++

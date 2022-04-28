@@ -1,5 +1,13 @@
 ---
 
+title: Bubble Sort in Python
+layout: default
+last-modified: 2020-05-02
+featured-image: bubble-sort-in-python-featured-image.JPEG
+tags: [python, bubble-sort]
+authors:
+  - hmajid2301
+
 ---
 
 # Bubble Sort in Python

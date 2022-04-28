@@ -1,5 +1,13 @@
 ---
 
+title: Hello World in Dart
+layout: default
+last-modified: 2020-10-15
+featured-image: hello-world-in-dart.jpg
+tags: [dart, hello-world]
+authors:
+  - stargator
+
 ---
 
 # Hello World in Dart

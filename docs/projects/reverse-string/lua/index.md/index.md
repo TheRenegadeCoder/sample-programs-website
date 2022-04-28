@@ -1,5 +1,13 @@
 ---
 
+title: Reverse a String in Lua
+layout: default
+last-modified: 2020-05-02
+featured-image:
+tags: [lua, reverse-a-string, string-reversal]
+authors:
+  - wileymab
+
 ---
 
 # Reverse String in Lua

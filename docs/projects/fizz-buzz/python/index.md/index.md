@@ -1,5 +1,13 @@
 ---
 
+title: Fizz Buzz in Python
+layout: default
+last-modified: 2020-05-02
+featured-image: fizz-buzz.png
+tags: [python, fizz-buzz]
+authors:
+  - samdoj
+
 ---
 
 # Fizz Buzz in Python

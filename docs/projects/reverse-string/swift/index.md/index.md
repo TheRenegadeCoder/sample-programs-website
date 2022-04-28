@@ -1,5 +1,13 @@
 ---
 
+title: Reverse a String in Swift
+layout: default
+last-modified: 2020-05-02
+featured-image:
+tags: [swift, reverse-a-string]
+authors:
+  - martyav
+
 ---
 
 # Reverse String in Swift

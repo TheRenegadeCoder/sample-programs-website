@@ -1,5 +1,13 @@
 ---
 
+title: Hello World in Scala
+layout: default
+last-modified: 2020-05-02
+featured-image: hello-world-in-scala-featured-image.JPEG
+tags: [scala, hello-world]
+authors:
+  - the_renegade_coder
+
 ---
 
 # Hello World in Scala

@@ -1,5 +1,13 @@
 ---
 
+title: Prime Number in Python
+layout: default
+last-modified: 2020-05-02
+featured-image: prime-numbers-in-python-featured-image.JPEG
+tags: [python, prime-number]
+authors:
+  - hmajid2301
+
 ---
 
 # Prime Number in Python

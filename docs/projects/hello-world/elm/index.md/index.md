@@ -1,5 +1,13 @@
 ---
 
+title: Hello World in Elm
+layout: default
+last-modified: 2020-05-02
+featured-image: hello-world-in-elm-featured-image.JPEG
+tags: [elm, hello-world]
+authors:
+  - the_renegade_coder
+
 ---
 
 # Hello World in Elm

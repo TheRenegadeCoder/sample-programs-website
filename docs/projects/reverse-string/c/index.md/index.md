@@ -1,5 +1,13 @@
 ---
 
+title: Reverse a String in C
+layout: default
+last-modified: 2020-10-01
+featured-image: reverse-a-string-in-c.jpg
+tags: [c, reverse-a-string]
+authors:
+  - abhishek_raut
+
 ---
 
 # Reverse String in C

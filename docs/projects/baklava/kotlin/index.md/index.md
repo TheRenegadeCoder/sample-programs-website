@@ -1,5 +1,13 @@
 ---
 
+title: Baklava in Kotlin
+layout: default
+date: 2020-10-22
+featured-image: baklava-in-kotlin.jpg
+tags: [kotlin, baklava]
+authors:
+  - stuin
+
 ---
 
 # Baklava in Kotlin

@@ -1,5 +1,13 @@
 ---
 
+title: Hello World in Befunge
+layout: default
+last-modified: 2020-05-02
+featured-image: hello-world-in-befunge-featured-image.JPEG
+tags: [befunge, hello-world]
+authors:
+  - stuin
+
 ---
 
 # Hello World in Befunge

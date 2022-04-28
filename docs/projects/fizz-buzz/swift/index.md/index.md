@@ -1,5 +1,13 @@
 ---
 
+title: Fizz Buzz in Swift
+layout: default
+last-modified: 2020-05-02
+featured-image: fizz-buzz.png
+tags: [swift, fizz-buzz]
+authors:
+  - martyav
+
 ---
 
 # Fizz Buzz in Swift

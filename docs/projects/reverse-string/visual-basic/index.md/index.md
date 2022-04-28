@@ -1,5 +1,13 @@
 ---
 
+title: Reverse a String in Visual Basic
+layout: default
+last-modified: 2020-05-02
+featured-image:
+tags: [visual-basic, reverse-a-string]
+authors:
+  -manxbiker
+
 ---
 
 # Reverse String in Visual Basic

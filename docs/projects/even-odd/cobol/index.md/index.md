@@ -1,5 +1,12 @@
 ---
 
+title: Even Odd in COBOL
+layout: default
+last-modified: 2021-10-16
+featured-image: even-odd-in-cobol.jpg
+tags: [COBOL, even-odd]
+authors: [ShivaniThevar]
+
 ---
 
 # Even Odd in Cobol

@@ -1,5 +1,13 @@
 ---
 
+title: Factorial in Python
+layout: default
+last-modified: 2020-05-02
+featured-image:
+tags: [python, factorial]
+authors:
+  - underscoreanuj
+
 ---
 
 # Factorial in Python

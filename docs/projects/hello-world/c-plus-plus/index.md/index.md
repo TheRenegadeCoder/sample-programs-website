@@ -1,5 +1,13 @@
 ---
 
+title: Hello World in C++
+layout: default
+last-modified: 2020-05-02
+featured-image: 
+tags: [c-plus-plus, hello-world]
+authors:
+  - the_renegade_coder
+
 ---
 
 # Hello World in C++

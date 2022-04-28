@@ -1,5 +1,14 @@
 ---
 
+title: Roman Numeral in C  
+layout: default  
+date: 2021-10-27
+last-modified: 2021-10-27
+featured-image:
+tags: [c, roman-numeral]  
+authors:
+- shubhragupta-code
+
 ---
 
 # Roman Numeral in C

@@ -1,5 +1,12 @@
 ---
 
+title: Fibonacci in JavaScript  
+layout: default  
+last-modified: 2020-05-02
+featured-image:  
+tags: [javascript, fibonacci]  
+authors: [Alina1Black]
+
 ---
 
 # Fibonacci in Javascript
