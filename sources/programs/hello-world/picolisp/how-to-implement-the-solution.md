@@ -1,13 +1,13 @@
-Without further ado, let’s implement Hello World in PicoLisp:
+Without further ado, let's implement Hello World in PicoLisp:
 
 ```picolisp
 (prinl "Hello, World!")'
 ```
 
-And, perhaps unsurprisingly, that’s it! With a single line, we can print Hello 
+And, perhaps unsurprisingly, that's it! With a single line, we can print Hello 
 World in PicoLisp.
 
-Of course, let’s break down what’s happening. Since PicoLisp is a dialect of 
+Of course, let's break down what's happening. Since PicoLisp is a dialect of 
 Lisp, we can expect a ton of parentheses. In fact, our solution requires a single 
 set of parentheses at a minimum.
 

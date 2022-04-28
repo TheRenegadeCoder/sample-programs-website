@@ -23,17 +23,17 @@ println("Hello, World!")
 
 ## How to Implement the Solution
 
-With the background out of the way, let’s get right into our 
+With the background out of the way, let's get right into our 
 implementation of Hello World in Julia:
 
 ```julia
 println("Hello, World!")
 ```
 
-And unsurprisingly, that’s it! We can implement Hello World 
+And unsurprisingly, that's it! We can implement Hello World 
 in Julia in a single line.
 
-Despite how easy the print functionality seems in Julia, there’s 
+Despite how easy the print functionality seems in Julia, there's 
 actually a lot going on. First of all, println makes a call to 
 print with an added newline character.
 
@@ -42,18 +42,18 @@ pass our string to any IO stream. In this case, we leave the default
 standard output.
 
 Regardless, print makes a call to a function named show. At that 
-point, I’m not sure what happens, but I suspect there’s some C-level 
+point, I'm not sure what happens, but I suspect there's some C-level 
 call to printf. If you know, let me know in the comments.
 
 
 ## How to Run the Solution
 
 With our solution ready, we probably want to run it. Perhaps the easiest 
-thing to do would be to take advantage of Julia’s online editor. 
-Unfortunately, it appears sign up is required to use it, but it’s great 
+thing to do would be to take advantage of Julia's online editor. 
+Unfortunately, it appears sign up is required to use it, but it's great 
 for running some code snippets.
 
-Alternatively, we can download the latest version of Julia. While we’re 
+Alternatively, we can download the latest version of Julia. While we're 
 at it, we should probably get a copy of the Hello World in Julia solution. 
 With everything read to go, navigate the command line to the folder 
 containing the solution. Then, run the following:
@@ -62,5 +62,5 @@ containing the solution. Then, run the following:
 julia hello-world.jl
 ```
 
-That should execute the script. Don’t be afraid to leverage the Julia 
+That should execute the script. Don't be afraid to leverage the Julia 
 documentation if you get stuck.[^grifski_hwjulia_2018]

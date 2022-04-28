@@ -1,4 +1,4 @@
-Let’s take a look at the Hello World sample:
+Let's take a look at the Hello World sample:
 
 ```emojicode
 🏁 🍇

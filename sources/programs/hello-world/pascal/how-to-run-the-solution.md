@@ -3,7 +3,7 @@ we can use an online Pascal compiler. We just need to drop the snippets
 into the online editor and hit run.
 
 Of course, we can always download and install Pascal locally. While 
-we’re downloading stuff, we should probably get a copy of the solution.
+we're downloading stuff, we should probably get a copy of the solution.
 
 Assuming Pascal is now in our path, we can navigate to our folder 
 containing the solution and run the following commands from the terminal:
@@ -15,5 +15,5 @@ hello-world.exe  # Windows
 ```
 
 Since Pascal is a compiled language, we first need to compile our script. 
-After compilation, we’ll have an executable we can run. When we run it, the 
+After compilation, we'll have an executable we can run. When we run it, the 
 “Hello, World!” string should print to the console.

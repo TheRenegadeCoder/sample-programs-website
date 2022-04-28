@@ -2,7 +2,7 @@ To run the Fizz Buzz script, launch a PowerShell console, grab a copy of the
 Fizz Buzz script from the repository (or copy/paste the code from above 😉),
 and then execute it.
 
-NOTE: If you have a secure Execution Policy, you’ll have to set it to unrestricted
+NOTE: If you have a secure Execution Policy, you'll have to set it to unrestricted
 before executing this script.
 
 ```console

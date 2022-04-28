@@ -36,9 +36,9 @@ Befunge, like many other esoteric languages, has a very unique look to it, and i
 
 The Fizz-Buzz problem itself is here:
 
-    If a number is divisible by 3, print the word ‘Fizz’ instead of the number.
-    If the number is divisible by 5, print the word ‘Buzz’ instead of the number.
-    Finally, if the number is divisible by both 3 and 5, print ‘FizzBuzz’ instead
+    If a number is divisible by 3, print the word ‘Fizz' instead of the number.
+    If the number is divisible by 5, print the word ‘Buzz' instead of the number.
+    Finally, if the number is divisible by both 3 and 5, print ‘FizzBuzz' instead
     of the number. Otherwise, just print the number.
 
 Followed by the Befunge code:
@@ -119,5 +119,5 @@ Because of the particular design of the language, it is recommended to use a Bef
 
 If you do want to use a compiler, here are some options:
 
-- [Tim’s Befunge Compiler][5]
+- [Tim's Befunge Compiler][5]
 - [BefunUtils][6]

@@ -1,4 +1,4 @@
-At any rate, let’s implement Hello World in Bash:
+At any rate, let's implement Hello World in Bash:
 
 ```bash
 echo Hello, World!

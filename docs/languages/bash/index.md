@@ -23,11 +23,11 @@ known as wildcard matching. Globbing can be used to retrieves sets of files that
 match a wildcard expression.
 
 Beyond that, Bash is ubiquitous in the Linux/Unix/Mac communities. After all,
-it’s the standard shell on most systems. In fact, it even has support on
+it's the standard shell on most systems. In fact, it even has support on
 Windows 10. That means shell scripts are fairly portable. However, users will
-have to pay attention to code that doesn’t conform the Bourne shell standards.
+have to pay attention to code that doesn't conform the Bourne shell standards.
 
-You’d be hard pressed to find a popular system that doesn’t support Bash today.
+You'd be hard pressed to find a popular system that doesn't support Bash today.
 Even Jenkins, a continuous integration utility, supports Bash scripting during
 builds.
 

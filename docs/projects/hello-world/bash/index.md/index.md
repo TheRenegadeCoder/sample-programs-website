@@ -25,7 +25,7 @@ echo Hello, World!
 
 ## How to Implement the Solution
 
-At any rate, let’s implement Hello World in Bash:
+At any rate, let's implement Hello World in Bash:
 
 ```bash
 echo Hello, World!

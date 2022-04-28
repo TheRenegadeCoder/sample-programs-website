@@ -46,7 +46,7 @@ End Module
 
 ## How to Implement the Solution
 
-Let’s start by looking at the complete algorithm to reverse a string in Visual Basic:
+Let's start by looking at the complete algorithm to reverse a string in Visual Basic:
 
 ```vb
 Module ReverseString
@@ -66,10 +66,10 @@ Module ReverseString
 End Module
 ```
 
-As we can see, VB.NET is a structured language. In other words, there’s a very 
+As we can see, VB.NET is a structured language. In other words, there's a very 
 strong focus on code blocks and control flow structures.
 
-Our first code block is the module declaration. In this case, we’ve declared a 
+Our first code block is the module declaration. In this case, we've declared a 
 public module called `ReverseString`. If other libraries needed access to this module, 
 they could simply import it by name.
 
@@ -145,6 +145,6 @@ This function executes correctly with any ASCII string. I also executes with an 
 With our solution implemented, we should probably give it a run. Perhaps the easiest
 way to run the solution is to copy it into an online VB.NET compiler.
 
-Alternatively, we can run the solution using Microsoft’s very own Visual Studio.
-Of course, I’m not sure of it’s support on platforms beyond Windows. Don’t forget
+Alternatively, we can run the solution using Microsoft's very own Visual Studio.
+Of course, I'm not sure of it's support on platforms beyond Windows. Don't forget
 to grab a copy of the Hello World in Visual Basic .NET solution.

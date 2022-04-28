@@ -1,12 +1,12 @@
 Dijkstra's algorithm (or Dijkstra's Shortest Path First algorithm, SPF algorithm) is an algorithm for finding the shortest paths between nodes in a graph, which may represent, for example, road networks. It was conceived by computer scientist Edsger W. Dijkstra in 1956 and published three years later.
 
-Dijkstra’s algorithm doesn’t work for graphs with negative weight edges.
+Dijkstra's algorithm doesn't work for graphs with negative weight edges.
 
-Below are the detailed steps used in Dijkstra’s algorithm to find the shortest path from a single source vertex to all other vertices in the given graph.
+Below are the detailed steps used in Dijkstra's algorithm to find the shortest path from a single source vertex to all other vertices in the given graph.
 Algorithm
 1) Create a set sptSet (shortest path tree set) that keeps track of vertices included in shortest path tree, i.e., whose minimum distance from source is calculated and finalized. Initially, this set is empty.
 2) Assign a distance value to all vertices in the input graph. Initialize all distance values as INFINITE. Assign distance value as 0 for the source vertex so that it is picked first.
-3) While sptSet doesn’t include all vertices
+3) While sptSet doesn't include all vertices
 
     a) Pick a vertex u which is not there in sptSet and has minimum distance value.
   

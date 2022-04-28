@@ -16,4 +16,4 @@ execution jumps to the end of the loop. Likewise, a loop ends when the value is
 zero, otherwise the program jumps to the beginning of the loop. The remaining
 two instructions, `,` and `.` read one character from the input into the current
 cell and write one character from the current cell to the output, respectively.
-That’s it!
+That's it!

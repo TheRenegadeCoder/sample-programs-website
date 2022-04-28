@@ -1,8 +1,8 @@
-I’m going to start with a little anecdote before getting started on the meaty
-portion of this article so feel free to skip ahead to No More Anecdote if you’re
+I'm going to start with a little anecdote before getting started on the meaty
+portion of this article so feel free to skip ahead to No More Anecdote if you're
 just not that interested 😅 I completely understand.
 
-I realized about two weeks ago that I hadn’t written anything in a while and had
+I realized about two weeks ago that I hadn't written anything in a while and had
 a bit of a desire to write, with nothing coming to mind on what to write. I was
 also dealing with a nagging feeling in my brain of “Should I really write another
 article?” and if I did “Who really cares if I write another article? There are
@@ -13,36 +13,36 @@ tequila, and just enjoy each others company. While I was there, one of my more
 technically oriented friends came up to me and we began talking about my work,
 playing Overwatch, and other nerdy things, when he mentions to me that he enjoyed
 reading my past articles. While he may not be a currently active developer and
-that some of the stuff goes over his head, I’ve “got a knack for it” as he said.
+that some of the stuff goes over his head, I've “got a knack for it” as he said.
 
 > Tron that are heavily requested by the user base. It was enough to remind me the
 > whole reason I started writing these is for the off-chance that someone like that
 > would enjoy my writing and possibly get them more interested in programming, learn
 > something new, or simply enjoy the read for the sake of reading something interesting.
 
-In the end, I’d like to say thank you again to that friend of mine for the
-encouraging words, as I probably wouldn’t have had the motivation to start on
+In the end, I'd like to say thank you again to that friend of mine for the
+encouraging words, as I probably wouldn't have had the motivation to start on
 this without them 💗
 
 ### No More Anecdote
 
-And now we’re off to the juicy bits of the article! 🤤 If you’re unfamiliar with
-the Fizz Buzz interview problem, it’s a relatively simple problem that is adept
+And now we're off to the juicy bits of the article! 🤤 If you're unfamiliar with
+the Fizz Buzz interview problem, it's a relatively simple problem that is adept
 at testing your knowledge and fundamental understanding of a given programming
 language as well as showing the interviewer what kind of developer you are.
 
 For example, do you prefer to toss a bunch of things at the wall and see what
 works and whittle away the excess? Or do you prefer to lay out a plan for the
-program before you even write some code? If you’d like more information on the
+program before you even write some code? If you'd like more information on the
 things interviewers can glean from a Fizz Buzz solution, feel free to check out
 this article from Lionell Pack on Forbes.
 
-### What’s The Problem?
+### What's The Problem?
 
-The actual problem was (from what I can tell, please correct me if I’m wrong)
+The actual problem was (from what I can tell, please correct me if I'm wrong)
 initially put forth by Imron Ghory over on his blog and it was based on a “group
-word game for children to teach them about division.” While there’s a number of
-different ways to word this problem, here’s the wording we’re going to be working
+word game for children to teach them about division.” While there's a number of
+different ways to word this problem, here's the wording we're going to be working
 with:
 
 > Write a program that prints the numbers 1 to 100. However, for multiples of
@@ -58,7 +58,7 @@ Determine which order to check for multiples to avoid missing edge cases.
 Write the output to the console.
 Where to Start?
 Well, this is where it varies for everyone. Depending on how you tend to work
-as a developer, your entry point will vary. Personally, I’ll be starting by
+as a developer, your entry point will vary. Personally, I'll be starting by
 creating the for loop that will iterate through all the numbers we need to analyze.
 This starts us off with something like the following for PowerShell:
 
@@ -97,9 +97,9 @@ for($x = 1; $x -le 100; $x++) {
 
 ### Cleaning Up Our First Draft
 
-While this works, it’s a bit clunky and doesn’t allow for us to easily modify it
+While this works, it's a bit clunky and doesn't allow for us to easily modify it
 in the future if we want to add cases other than being a multiple of 3 or 5. I
-hadn’t quite realized this until I went looking for more information on this
+hadn't quite realized this until I went looking for more information on this
 problem and found a video by Tom Scott. He pointed out that you could easily
 account for future adjustments by combining the output as a single variable for
 each number.
@@ -138,7 +138,7 @@ PowerShell.
 
 ### Finally, A Script!
 
-Now, since this is PowerShell, it’s no fun just having a for loop that we need
+Now, since this is PowerShell, it's no fun just having a for loop that we need
 to copy paste. No, we need a script! 😈
 
 I created a file simply titled FizzBuzz.ps1 and got to work by adding the standard
@@ -165,7 +165,7 @@ param (
 ```
 
 The Mandatory and Position attributes tell PowerShell that the parameters have
-default values and that they aren’t mandatory, and the position attribute makes
+default values and that they aren't mandatory, and the position attribute makes
 it possible to do something like .\FizzBuzz.ps1 0 75 to adjust the min and max
 without having to specify the parameter names. Then, with some minor changes to
 the for loop, we have our finished result!

@@ -1,8 +1,8 @@
 If we want to try the code above, we can use an online Scala compiler. Just 
 take the code above and drop it into the editor before hitting run.
 
-Alternatively, we can always try to run the code locally. First, we’ll need 
-to follow the directions when downloading and installing Scala. Then, we’ll 
+Alternatively, we can always try to run the code locally. First, we'll need 
+to follow the directions when downloading and installing Scala. Then, we'll 
 probably want to get a copy of the solution.
 
 With the heavy lifting out of the way, we should be able to simply run the 

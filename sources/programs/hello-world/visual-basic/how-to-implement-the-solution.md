@@ -1,4 +1,4 @@
-At any rate, let’s dive right into Hello World in Visual Basic .NET:
+At any rate, let's dive right into Hello World in Visual Basic .NET:
 
 ```vb
 Public Module HelloWorld
@@ -8,10 +8,10 @@ Public Module HelloWorld
 End Module
 ```
 
-As we can see, VB.NET is a structured language. In other words, there’s a very 
+As we can see, VB.NET is a structured language. In other words, there's a very 
 strong focus on code blocks and control flow structures.
 
-Our first code block is the module declaration. In this case, we’ve declared a 
+Our first code block is the module declaration. In this case, we've declared a 
 public module called HelloWorld. If other libraries needed access to this module, 
 they could simply import it by name.
 

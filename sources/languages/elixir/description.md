@@ -28,7 +28,7 @@ myVal = 5
 
 In this example, we assign myVal a value of 5. Or in Elixir terminology, 
 we actually bind a value of 5 to myVal through pattern matching. Then, we 
-compare 5 to myVal which is a valid match. With that in mind, it’s clear 
+compare 5 to myVal which is a valid match. With that in mind, it's clear 
 why we get an error when we try to match 6 to myVal.
 
 Of course, pattern matching gets much more fun than that. We can also use 

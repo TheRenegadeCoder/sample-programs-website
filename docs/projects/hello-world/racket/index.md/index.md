@@ -24,7 +24,7 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 
 ## How to Implement the Solution
 
-Alright, let’s go ahead and dig into our implementation of Hello World in Racket:
+Alright, let's go ahead and dig into our implementation of Hello World in Racket:
 
 ```racket
 #lang racket/base
@@ -33,7 +33,7 @@ Alright, let’s go ahead and dig into our implementation of Hello World in Racket
 
 Up first, we have this peculiar line that looks kind of like a comment in Python
 or an import in C. As it turns out, the lang line specifies the language used by
-the interpreter. In fact, I already mentioned that there’s a module which
+the interpreter. In fact, I already mentioned that there's a module which
 provides syntax for static typing in Racket.
 
 In this case, the language we have chosen is racket/base. This only provides us
@@ -49,7 +49,7 @@ functionality:
 ```
 
 However, I wanted to show that you can implement Hello World without the mess of
-parentheses. That’s because Racket automatically prints constants. If we had a
+parentheses. That's because Racket automatically prints constants. If we had a
 slightly more complicated expression:
 
 ```racket
@@ -70,7 +70,7 @@ We would need parentheses to actually evaluate this expression.
 
 ## How to Run the Solution
 
-At any rate, I think we’re done here. If we want to try to run the solution, we
+At any rate, I think we're done here. If we want to try to run the solution, we
 can plug some of this code into an online Racket interpreter.
 
 Alternatively, we can download the latest version of Racket and get a copy of
@@ -81,4 +81,4 @@ to execute Hello World in Racket:
 racket hello-world.rkt
 ```
 
-And, that’s it. If successful, the “Hello, World!” string should print to the console.
+And, that's it. If successful, the “Hello, World!” string should print to the console.

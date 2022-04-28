@@ -23,16 +23,16 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 
 ## How to Implement the Solution
 
-Without further ado, let’s implement Hello World in PicoLisp:
+Without further ado, let's implement Hello World in PicoLisp:
 
 ```picolisp
 (prinl "Hello, World!")'
 ```
 
-And, perhaps unsurprisingly, that’s it! With a single line, we can print Hello 
+And, perhaps unsurprisingly, that's it! With a single line, we can print Hello 
 World in PicoLisp.
 
-Of course, let’s break down what’s happening. Since PicoLisp is a dialect of 
+Of course, let's break down what's happening. Since PicoLisp is a dialect of 
 Lisp, we can expect a ton of parentheses. In fact, our solution requires a single 
 set of parentheses at a minimum.
 
@@ -52,4 +52,4 @@ video proving that this solution works:
 
 [![asciicast](https://asciinema.org/a/HdFjKizOUYKdcyFoG6h4RPhjn.svg)](https://asciinema.org/a/HdFjKizOUYKdcyFoG6h4RPhjn)
 
-And, that’s it! If implemented correctly, the solution should print “Hello, World!” to the console.
+And, that's it! If implemented correctly, the solution should print “Hello, World!” to the console.

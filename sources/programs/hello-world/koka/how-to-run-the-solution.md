@@ -1,6 +1,6 @@
 If you want to run Koka at your local machine, you can always install the Koka
 compiler and try the snippet locally. There are no binary releases of Koka though.
-You will have to build the compiler yourself. Don’t worry! It sounds harder than
+You will have to build the compiler yourself. Don't worry! It sounds harder than
 it is. All you need to do is install the following programs:
 
 - The [Haskell platform][2] (version 7.4 or later)

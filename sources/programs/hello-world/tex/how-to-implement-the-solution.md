@@ -1,4 +1,4 @@
-At any rate, let’s dive right into Hello World in Tex:
+At any rate, let's dive right into Hello World in Tex:
 
 ```tex
 %&pdftex

@@ -1,11 +1,11 @@
-Let’s get something working! 😊
+Let's get something working! 😊
 
 ```powershell
 Write-Host 'Hello, World!'
 ```
 
 To execute this code, open a [PowerShell][1] console on any Windows machine as it
-comes installed by default. You’ll see the reply output in the window like so:
+comes installed by default. You'll see the reply output in the window like so:
 
 ```console
 [20:35:40]:Alcha$ Write-Host 'Hello, World!'

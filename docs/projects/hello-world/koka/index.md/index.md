@@ -26,7 +26,7 @@ function main()
 
 ## How to Implement the Solution
 
-Now, let’s see how we can print a simple “Hello World” in Koka:
+Now, let's see how we can print a simple “Hello World” in Koka:
 
 ```koka
 function main()
@@ -40,14 +40,14 @@ point of the code execution. To print, we use println, a built-in method that
 prints a given string or variable to the console.
 
 Like many of the high-level language implementations in this series, this one
-wasn’t too bad. Wanna try it out? Check out this [online Koka editor][1].
+wasn't too bad. Wanna try it out? Check out this [online Koka editor][1].
 
 
 ## How to Run the Solution
 
 If you want to run Koka at your local machine, you can always install the Koka
 compiler and try the snippet locally. There are no binary releases of Koka though.
-You will have to build the compiler yourself. Don’t worry! It sounds harder than
+You will have to build the compiler yourself. Don't worry! It sounds harder than
 it is. All you need to do is install the following programs:
 
 - The [Haskell platform][2] (version 7.4 or later)

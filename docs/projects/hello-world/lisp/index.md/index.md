@@ -29,7 +29,7 @@ of Hello World will likely only be applicable to handful of those flavors:
 (format t "Hello, World!")
 ```
 
-That said, I’m happy to dig into this implementation of Hello World in Lisp.
+That said, I'm happy to dig into this implementation of Hello World in Lisp.
 
 First things first, we have the format keyword. In Common Lisp, format is 
 basically the equivalent to printf in C. It basically takes some string and 

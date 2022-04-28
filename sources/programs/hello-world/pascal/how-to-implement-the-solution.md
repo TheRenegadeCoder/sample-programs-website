@@ -1,4 +1,4 @@
-There’s no time to waste! Let’s dig right into Hello World 
+There's no time to waste! Let's dig right into Hello World 
 in Pascal:
 
 ```pascal
@@ -8,7 +8,7 @@ begin
 end.
 ```
 
-As usual, we’ll tackle this implementation line by line. Up 
+As usual, we'll tackle this implementation line by line. Up 
 first, we have the program line which declares the name of 
 the program and a list of file descriptors.
 

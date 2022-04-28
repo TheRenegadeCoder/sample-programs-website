@@ -1,6 +1,6 @@
-At this point, it’s probably no surprise that I took to [Wikipedia to learn more about Rust][1].
+At this point, it's probably no surprise that I took to [Wikipedia to learn more about Rust][1].
 
-According to Wikipedia, Rust is our first systems programming language. Up until now, we’ve really only played with general-purpose languages, so this is a nice change of pace. That said, __what is a systems programming language?__
+According to Wikipedia, Rust is our first systems programming language. Up until now, we've really only played with general-purpose languages, so this is a nice change of pace. That said, __what is a systems programming language?__
 
 Again, [according to Wikipedia][2], systems programming languages are designed for system software like device drivers and operating systems. Back when I took a compilers course, the professor used Rust for their example compiler, so I guess that checks out.
 

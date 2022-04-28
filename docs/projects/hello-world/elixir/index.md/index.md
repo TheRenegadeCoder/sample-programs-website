@@ -23,23 +23,23 @@ IO.puts "Hello, World!"
 
 ## How to Implement the Solution
 
-Alright, let’s get right to it:
+Alright, let's get right to it:
 
 ```elixir
 IO.puts "Hello, World!"
 ```
 
 As we can see, Hello World in Elixir is just a single line of 
-code. As usual, let’s dig into it a bit.
+code. As usual, let's dig into it a bit.
 
 Up first, we have a reference to the IO module. In Elixir, the IO 
 module is the standard tool for working with standard input and 
 output as well as files and other devices. So, it makes sense that 
-we’d use it here to gain access to standard output.
+we'd use it here to gain access to standard output.
 
 Up next, we call the puts function of the IO module. Like print in 
 most languages, puts simply writes a value to standard output. In 
-fact, we aren’t limited to standard output. We can redirect the output 
+fact, we aren't limited to standard output. We can redirect the output 
 to other streams such as standard error:
 
 ```elixir
@@ -47,8 +47,8 @@ IO.puts :stderr, "Uh Oh!"
 ```
 
 At any rate, puts, in our primary example, will simply write “Hello, 
-World!” to the user. To be honest, I’m surprised this is only the 
-second time we’ve seen the puts keyword in this series—the first being 
+World!” to the user. To be honest, I'm surprised this is only the 
+second time we've seen the puts keyword in this series—the first being 
 Ruby.
 
 
@@ -58,7 +58,7 @@ As always, if we want to give the code above a try, we can use an online
 Elixir editor. Copy the code into the editor and hit run.
 
 Alternatively, we can run the solution locally if we download the latest 
-version of Elixir. After that, we’ll want to get a copy of the solution. 
+version of Elixir. After that, we'll want to get a copy of the solution. 
 Assuming Elixir is in our path, all we have to do is run the following 
 commands from the command line:
 

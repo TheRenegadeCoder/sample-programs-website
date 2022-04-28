@@ -23,18 +23,18 @@ System.print("Hello, World!")
 
 ## How to Implement the Solution
 
-At any rate, let’s get right to our implementation of Hello 
+At any rate, let's get right to our implementation of Hello 
 World in Wren:
 
 ```wren
 System.print("Hello, World!")
 ```
 
-And, that’s it! Personally, I’m getting hints of Java and 
+And, that's it! Personally, I'm getting hints of Java and 
 Python here just in terms of syntax.
 
-At any rate, let’s break it down. Obviously, we only have 
-one line, but it’s at least a little more interesting than 
+At any rate, let's break it down. Obviously, we only have 
+one line, but it's at least a little more interesting than 
 most scripting languages.
 
 For starters, we have the built-in System class. This class 
@@ -42,8 +42,8 @@ comes with the core module along with a few other goodies like
 String, Sequence, Fiber, and Bool.
 
 Now, one of the functions of System is print. Obviously, print 
-writes text to standard output. But, I find Wren’s print 
-functionality particularly interesting because it’s similar to 
+writes text to standard output. But, I find Wren's print 
+functionality particularly interesting because it's similar to 
 Java. In fact, it accepts any object as input. If the input is 
 not a String, print will convert it to a String using the 
 toString functionality, a method available to all objects.
@@ -56,7 +56,7 @@ which prints the input to the user. How cool is that?
 
 Normally, at this point, I would share an example of how to run 
 the solution on your machine. Unfortunately, Wren is rather new 
-and a little clunky to get running. That said, I won’t leave you 
+and a little clunky to get running. That said, I won't leave you 
 hanging, There are some directions for Mac and Linux users on the 
 Wren website.
 

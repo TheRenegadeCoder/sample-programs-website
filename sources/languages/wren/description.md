@@ -9,7 +9,7 @@ makes Wren different?
 
 Well, according to the website, Wren was created as an object-oriented game 
 scripting language. Apparently, Lua is the go-to for game scripting currently, 
-but it’s class system is pretty unnatural. Thus, Wren was born!
+but it's class system is pretty unnatural. Thus, Wren was born!
 
 In addition to filling the object-oriented game scripting niche, Wren has some 
 pretty sweet support for concurrency through a feature called fibers. Fibers 

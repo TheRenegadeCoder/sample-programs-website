@@ -27,7 +27,7 @@ End Module
 
 ## How to Implement the Solution
 
-At any rate, let’s dive right into Hello World in Visual Basic .NET:
+At any rate, let's dive right into Hello World in Visual Basic .NET:
 
 ```vb
 Public Module HelloWorld
@@ -37,10 +37,10 @@ Public Module HelloWorld
 End Module
 ```
 
-As we can see, VB.NET is a structured language. In other words, there’s a very 
+As we can see, VB.NET is a structured language. In other words, there's a very 
 strong focus on code blocks and control flow structures.
 
-Our first code block is the module declaration. In this case, we’ve declared a 
+Our first code block is the module declaration. In this case, we've declared a 
 public module called HelloWorld. If other libraries needed access to this module, 
 they could simply import it by name.
 
@@ -58,6 +58,6 @@ class from the System namespace.
 With our solution implemented, we should probably give it a run. Perhaps the easiest 
 way to run the solution is to copy it into an online VB.NET compiler.
 
-Alternatively, we can run the solution using Microsoft’s very own Visual Studio. 
-Of course, I’m not sure of it’s support on platforms beyond Windows. Don’t forget 
+Alternatively, we can run the solution using Microsoft's very own Visual Studio. 
+Of course, I'm not sure of it's support on platforms beyond Windows. Don't forget 
 to grab a copy of the Hello World in Visual Basic .NET solution.

@@ -23,7 +23,7 @@ digitally facilitate, verify, or enforce the negotiation or performance of a
 contract. They allow the performance of credible transactions without third-parties.
 
 The contracts used in this sense are the exact same as the regular contracts
-you’re familiar with. By removing the human factor and voiding the need for a
+you're familiar with. By removing the human factor and voiding the need for a
 third-party, people and business are able to save money and reduce the chance of
 fraud. Smart contracts are the main driving force of blockchains.
 

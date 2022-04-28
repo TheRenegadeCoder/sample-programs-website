@@ -22,7 +22,7 @@ That said, ALGOL 68 has a much wider scope than ALGOL 60. For instance, ALGOL 68
 includes user-declared types, expression-based syntax, concurrency, and even slicing.
 
 Of course, I think the most interesting language feature is the overwhelming list of 
-reserved words which includes 60 different symbols. Most of these symbols I couldn’t 
+reserved words which includes 60 different symbols. Most of these symbols I couldn't 
 even guess their purpose. For example, what do you think `esac` does? How about 
 `ouse`? [James Jones offers a great explanation][2].
 

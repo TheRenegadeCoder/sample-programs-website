@@ -68,7 +68,7 @@ Because of the particular design of the language, your best option is a Befunge 
 
 There are compilers as well, even through the technical challenges:
 
-- [Tim’s Befunge Compiler][5]
+- [Tim's Befunge Compiler][5]
 - [BefunUtils][6]
 
-For a much more thorough look at Befunge, it’s list of operators, and its various derivatives, I recommend the [Esolang Wiki][7].
+For a much more thorough look at Befunge, it's list of operators, and its various derivatives, I recommend the [Esolang Wiki][7].

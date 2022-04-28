@@ -6,5 +6,5 @@ Because of the particular design of the language, it is recommended to use a Bef
 
 If you do want to use a compiler, here are some options:
 
-- [Tim’s Befunge Compiler][5]
+- [Tim's Befunge Compiler][5]
 - [BefunUtils][6]

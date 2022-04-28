@@ -28,7 +28,7 @@ main =
 
 ## How to Implement the Solution
 
-As usual, let’s dive right into the implementation of 
+As usual, let's dive right into the implementation of 
 Hello World in Elm:
 
 ```elm
@@ -38,12 +38,12 @@ main =
   text "Hello, World!"
 ```
 
-And, that’s it! We can write Hello World in Elm in just 
-a few lines of code, but what’s really going on in this 
+And, that's it! We can write Hello World in Elm in just 
+a few lines of code, but what's really going on in this 
 code?
 
 Up first, we have the module declaration line. In other 
-words, we’ve defined a module with the name HelloWorld. 
+words, we've defined a module with the name HelloWorld. 
 If anyone wanted to use this module, everything would be 
 completely exposed.
 
@@ -55,7 +55,7 @@ Finally, as with many functional languages, we have the
 main function. To no surprise, the main function is a 
 special function which provides the starting point for 
 the program. In the case of Elm, the main function must 
-retain an element to draw into the page. In our case, we’re 
+retain an element to draw into the page. In our case, we're 
 returning a HTML element from the text function.
 
 
@@ -63,7 +63,7 @@ returning a HTML element from the text function.
 
 Okay, so we have a solution, but how do we run it? Well, 
 Elm is a bit different than our typical languages because 
-it’s for web use only. As a result, we’ll want to download 
+it's for web use only. As a result, we'll want to download 
 the necessary utilities first.
 
 Now would be a good time to install Elm. With that installed, 
@@ -83,7 +83,7 @@ elm reactor
 
 This will basically launch a local server for testing. Now, go 
 to the local server location in a browser and open the HelloWorld 
-file. That’s it!
+file. That's it!
 
 Alternatively, use an online Elm compiler for testing code snippets. 
 Give it a go!

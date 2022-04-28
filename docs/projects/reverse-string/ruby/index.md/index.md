@@ -28,7 +28,7 @@ end
 
 ## How to Implement the Solution
 
-First, like always, here’s the complete solution:
+First, like always, here's the complete solution:
 
 ```ruby
 if ARGV.length < 1
@@ -61,7 +61,7 @@ end
 Then, we reverse the string using the built-in method of the string class and
 print the result onto the screen.
 
-As we can see, our solution is very brief. That’s because we’re using a
+As we can see, our solution is very brief. That's because we're using a
 high-level language that offers many different tools, so we can concentrate on
 building our application instead of worrying about implementation details.
 

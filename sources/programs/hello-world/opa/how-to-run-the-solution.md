@@ -1,23 +1,23 @@
 Typically at this point, we would cover a couple methods for running the solution.
-For instance, we might share a link to an online editor. If that isn’t available,
-sometimes we’ll even offer a way to run the solution locally on your PC. And,
-you can do that with Opa, but we’ve opted instead to run Opa using Docker.
+For instance, we might share a link to an online editor. If that isn't available,
+sometimes we'll even offer a way to run the solution locally on your PC. And,
+you can do that with Opa, but we've opted instead to run Opa using Docker.
 
 ### But First, Lemme Explain Docker
 
 To give a small overview of Docker and containers, imagine a virtual machine that
 can boot up in less than a second, and the cost of provisioning, screwing up and
-starting from scratch, is negligible. (Disclaimer: it’s totally not like that,
-but let’s go with it.)
+starting from scratch, is negligible. (Disclaimer: it's totally not like that,
+but let's go with it.)
 
 I absolutely despise installing stuff, using it once or twice, and then forgetting
 about it. I rarely remember to uninstall such things, and you can never be too
-sure that it hasn’t spread it’s 1kB-sized temp/config files all over. That’s why
+sure that it hasn't spread it's 1kB-sized temp/config files all over. That's why
 I use containers.
 
 Would you like to see what happens when you create a thousand random files
 in / ? Or how the system screws up when deleting /var ? Or even try out a
-fork-bomb (Disclaimer 2: It’s sorta dangerous in a container too)?
+fork-bomb (Disclaimer 2: It's sorta dangerous in a container too)?
 
 Well now you can! You can spin up a container with a fresh Ubuntu in it, toy
 around with it, and have it deleted upon exit.
@@ -104,7 +104,7 @@ What we just did was run my image (if you want to use your own, replace
 mapping the current directory ($PWD) to /data inside the container.
 
 This allows the Opa container to pick up the .opa file and compile it, inside
-the container. It gave no output, but notice that there’s a new hello-world.js
+the container. It gave no output, but notice that there's a new hello-world.js
 
 As this .js has some npm dependencies, we can also run it inside a container,
 using the same image:
@@ -122,5 +122,5 @@ Http serving on http://e9aa732ccc83:8080
 ```
 
 Now we also --published the 8080 port. This maps your own 8080 port, to the
-container’s 8080. Having this up, if you fire up your browser and navigate
-to http://localhost:8080, you’ll see “Hello, World!”, printed using Opa.
+container's 8080. Having this up, if you fire up your browser and navigate
+to http://localhost:8080, you'll see “Hello, World!”, printed using Opa.
