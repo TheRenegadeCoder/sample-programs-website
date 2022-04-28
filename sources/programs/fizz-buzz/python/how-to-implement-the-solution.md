@@ -14,9 +14,9 @@ for i in range(1, 101):
 
 Before we dig into the code too much, let's take a look at the rules:
 
-If a number is divisible by 3, print the word ‘Fizz' instead of the number.
-If the number is divisible by 5, print the word ‘Buzz' instead of the number.
-Finally, if the number is divisible by both 3 and 5, print ‘FizzBuzz' instead of
+If a number is divisible by 3, print the word 'Fizz' instead of the number.
+If the number is divisible by 5, print the word 'Buzz' instead of the number.
+Finally, if the number is divisible by both 3 and 5, print 'FizzBuzz' instead of
 the number. Otherwise, just print the number.
 
 You can test for divisibility using the modulo operator.  The modulo operator

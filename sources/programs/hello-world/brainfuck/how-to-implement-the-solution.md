@@ -44,7 +44,7 @@ Then we start a loop, in which we move left (back to cell 0), add nine to that
 cell, move right again, and subtract one from the value of cell 1. Remember that
 the loop runs until the cell value is zero, so this would run 8 times, adding 9
 to cell 0 every time. So we can already see that the value of cell 0 at this
-point is 72, which corresponds to the uppercase letter ‘H' in the [ASCII table][2].
+point is 72, which corresponds to the uppercase letter 'H' in the [ASCII table][2].
 
 So, we got our first character printed. Let's look at the second line:
 
@@ -56,7 +56,7 @@ You might immediately notice that this line looks quite similar to the last one.
 That might be because it does pretty much exactly the same thing. The only
 difference is in the numbers. It adds the value 28 (4 times 7) to cell 0,
 and then adds one more at the end of the loop, giving us a value of 101, or
-a lowercase ‘e'.
+a lowercase 'e'.
 
 This is basically how the entire program works. It's just a matter of choosing
 the right path in order to get from one value to the next by only using simple
