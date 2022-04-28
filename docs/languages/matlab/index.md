@@ -1,3 +1,14 @@
+---
+
+title: The MATLAB Programming Language
+layout: default
+last-modified: 2020-05-02
+tags: [matlab]
+authors:
+  - virtual_flat
+
+---
+
 Welcome to the Matlab page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 ## Description

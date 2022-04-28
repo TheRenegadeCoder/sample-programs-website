@@ -1,3 +1,15 @@
+---
+
+title: The Lisp Programming Language
+layout: default
+last-modified: 2021-08-12
+featured-image: 
+tags: [lisp]
+authors:
+  - the_renegade_coder
+
+---
+
 Welcome to the Lisp page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 ## Description

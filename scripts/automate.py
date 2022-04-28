@@ -68,7 +68,29 @@ def _add_language_article_section(doc: snakemd.Document, repo: subete.Repo, lang
     doc.add_element(snakemd.MDList(articles))
 
 
-def generate_project_index(project: str):
+def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.Path, language: str):
+    """
+    Creates a sample program documentation file.
+    """
+    doc: snakemd.Document = snakemd.new_doc("index")
+    root_path = pathlib.Path(f"programs/{program._normalize_program_name()}/{language}")
+    generate_front_matter(doc, root_path / "front_matter.yaml")
+    doc.add_paragraph(
+        f"Welcome to the {program} page! Here, you'll find the source code for this program "
+        f"as well as a description of how the program works."
+    )
+    doc.add_header("Current Solution", level=2)
+    doc.add_paragraph("Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.")
+    doc.add_code(program.code(), lang=program.language())
+    _add_section(doc, str(root_path / ".."), language, "How to Implement the Solution")
+    _add_section(doc, str(root_path / ".."), language, "How to Run the Solution")
+    try:
+        doc.output_page(str(path))
+    except Exception:
+        log.exception(f"Failed to write {path}")
+
+
+def _generate_project_index(project: str):
     """
     Creates an index file for a single project. The path is assumed
     to be `projects/project/index.md`. 
@@ -91,70 +113,17 @@ def generate_project_index(project: str):
     _add_section(doc, "projects", project, "Requirements")
     _add_section(doc, "projects", project, "Testing")
     _add_project_article_section(doc, repo, project)
-    doc.output_page(str(root_path))
+    doc.output_page(f"docs/projects/{project}")
 
 
-def generate_project_paths(repo: subete.Repo):
-    """
-    Creates the project directory which contains all of the project folders
-    and index.md files.
-    """
-    projects = repo._projects
-    for project in projects:
-        path = pathlib.Path(f"docs/projects/{project}")
-        path.mkdir(exist_ok=True, parents=True)
-        generate_project_index(project)
-
-
-def generate_sample_programs(repo: subete.Repo):
-    """
-    Creates the language folders in each project directory.
-    """
-    for language in repo.language_collections().values():
-        for program in language.sample_programs().values():
-            path = pathlib.Path(f"docs/projects/{program._normalize_program_name()}/{language.pathlike_name()}")
-            path.mkdir(exist_ok=True, parents=True)
-            generate_sample_program_doc(program, path / "index.md", language.pathlike_name())
-
-
-def generate_front_matter(doc: snakemd.Document, path: pathlib.Path):
-    source_path = pathlib.Path("sources") / path
-    doc.add_paragraph("---")
-    if source_path.exists():
-        doc._contents.append(source_path.read_text(encoding="utf-8").strip())
-    else:
-        log.warning(f"Failed to find {path}")
-    doc.add_paragraph("---")
-
-
-def generate_sample_program_doc(program: subete.SampleProgram, path: pathlib.Path, language: str):
-    """
-    Creates a sample program documentation file.
-    """
-    doc: snakemd.Document = snakemd.new_doc("index")
-    root_path = pathlib.Path(f"programs/{program._normalize_program_name()}/{language}")
-    generate_front_matter(doc, root_path / "front_matter.yaml")
-    doc.add_paragraph(
-        f"Welcome to the {program} page! Here, you'll find the source code for this program "
-        f"as well as a description of how the program works."
-    )
-    doc.add_header("Current Solution", level=2)
-    doc.add_paragraph("Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.")
-    doc.add_code(program.code(), lang=program.language())
-    _add_section(doc, str(root_path / ".."), language, "How to Implement the Solution")
-    _add_section(doc, str(root_path / ".."), language, "How to Run the Solution")
-    try:
-        doc.output_page(str(path))
-    except Exception:
-        log.exception(f"Failed to write {path}")
-
-
-def generate_language_index(language: subete.LanguageCollection):
+def _generate_language_index(language: subete.LanguageCollection):
     """
     Creates a language file for a single language. The path is assumed
     to be `languages/language/index.md`. 
     """
     doc: snakemd.Document = snakemd.new_doc("index")
+    root_path = pathlib.Path(f"languages/{language.pathlike_name()}")
+    generate_front_matter(doc, root_path / "front_matter.yaml")
     doc.add_paragraph(
         f"Welcome to the {language} page! Here, you'll find a description " 
         f"of the language as well as a list of sample programs "
@@ -168,6 +137,39 @@ def generate_language_index(language: subete.LanguageCollection):
         log.exception(f"Failed to write {language.pathlike_name()}")
 
 
+def generate_project_paths(repo: subete.Repo):
+    """
+    Creates the project directory which contains all of the project folders
+    and index.md files.
+    """
+    projects = repo._projects
+    for project in projects:
+        path = pathlib.Path(f"docs/projects/{project}")
+        path.mkdir(exist_ok=True, parents=True)
+        _generate_project_index(project)
+
+
+def generate_sample_programs(repo: subete.Repo):
+    """
+    Creates the language folders in each project directory.
+    """
+    for language in repo.language_collections().values():
+        for program in language.sample_programs().values():
+            path = pathlib.Path(f"docs/projects/{program._normalize_program_name()}/{language.pathlike_name()}")
+            path.mkdir(exist_ok=True, parents=True)
+            _generate_sample_program_index(program, path / "index.md", language.pathlike_name())
+
+
+def generate_front_matter(doc: snakemd.Document, path: pathlib.Path):
+    source_path = pathlib.Path("sources") / path
+    doc.add_paragraph("---")
+    if source_path.exists():
+        doc._contents.append(source_path.read_text(encoding="utf-8").strip())
+    else:
+        log.warning(f"Failed to find {path}")
+    doc.add_paragraph("---")
+
+
 def generate_language_paths(repo: subete.Repo):
     """
     Creates the language directory which contains all of the language folders
@@ -177,7 +179,7 @@ def generate_language_paths(repo: subete.Repo):
     for _, language in languages.items():
         path = pathlib.Path(f"docs/languages/{language.pathlike_name()}")
         path.mkdir(exist_ok=True, parents=True)
-        generate_language_index(language)
+        _generate_language_index(language)
 
 
 if __name__ == "__main__":

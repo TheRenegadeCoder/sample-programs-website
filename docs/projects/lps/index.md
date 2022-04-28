@@ -1,4 +1,8 @@
-# LPS in Every Language
+---
+
+---
+
+Welcome to the LPS page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
 
 ## Description
 

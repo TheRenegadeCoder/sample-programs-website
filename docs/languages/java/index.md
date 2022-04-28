@@ -1,3 +1,15 @@
+---
+
+title: The Java Programming Language
+layout: default
+last-modified: 2021-08-12
+featured-image: 
+tags: [java]
+authors:
+  - the_renegade_coder
+
+---
+
 Welcome to the Java page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 ## Description

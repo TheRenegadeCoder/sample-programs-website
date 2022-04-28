@@ -1,4 +1,8 @@
-# Fractions in Every Language
+---
+
+---
+
+Welcome to the Fractions page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
 
 ## Description
 

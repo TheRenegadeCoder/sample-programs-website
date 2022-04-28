@@ -1,4 +1,8 @@
-# Longest Word in Every Language
+---
+
+---
+
+Welcome to the Longest Word page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
 
 ## Description
 
