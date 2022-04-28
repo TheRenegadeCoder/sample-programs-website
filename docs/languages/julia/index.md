@@ -28,7 +28,7 @@ of arguments.
 
 In addition, Julia is capable of calling C and Python functions directly. 
 Personally, I think that's a fun little feature considering Julia is 
-compiled at runtime. So, it gets C-like performance as well—perfect for 
+compiled at runtime. So, it gets C-like performance as well, perfect for 
 numerical analysis.
 
 Finally, Julia has metaprogramming features, so the language can be 

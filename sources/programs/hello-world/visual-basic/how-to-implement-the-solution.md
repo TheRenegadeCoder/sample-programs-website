@@ -16,7 +16,7 @@ public module called HelloWorld. If other libraries needed access to this module
 they could simply import it by name.
 
 Next, we have our typical main function declaration. Of course, in VB.NET, we 
-call them subroutines rather than functions—as indicated by the Sub keyword.
+call them subroutines rather than functions, as indicated by the Sub keyword.
 
 Finally, we have our print line. Much like languages like Java, we have to string 
 together a few references before we can actually write to the console. In other 

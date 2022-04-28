@@ -32,7 +32,7 @@ Dart is a general-purpose language that was designed with five goals:
   be productive with Dart in just a few days.
 - Reactive
   - Dart is well-suited to reactive programming, with support for managing
-  short-lived objects—such as UI widgets—through Dart's fast object allocation
+  short-lived objects, such as UI widgets, through Dart's fast object allocation
   and generational garbage collector. Dart supports asynchronous programming
   through language features and APIs that use [Future][3] and [Stream][4] objects.
 

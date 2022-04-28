@@ -107,7 +107,7 @@ if (args.length > 0) {
 ```
 
 All we're really doing here is checking that we have command line arguments. If
-we do, we attempt to reverse them and print them to the user—that simple!
+we do, we attempt to reverse them and print them to the user, that simple!
 
 Of course, instead of reversing the string using the character array, we
 leverage the StringBuilder library which handles surrogates for us. In other

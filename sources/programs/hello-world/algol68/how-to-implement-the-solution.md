@@ -17,7 +17,7 @@ In this example, everything between the dollar signs is considered a format stri
 In this case, we have two characters: *g* and *l*.
 
 Since we're formatting strings, one of those tokens will be replaced by our “Hello, World!” 
-string. In this case, it's *g*. As for *l*, that's actually the newline token — something 
+string. In this case, it's *g*. As for *l*, that's actually the newline token ,  something 
 we haven't paid a lot of attention to in this series. When put together, “Hello, World!” 
 will print to the console.
 

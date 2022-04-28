@@ -64,7 +64,7 @@ Let's look at it line by line:
 ```brainfuck
 >++++++++[<+++++++++>-]<.
 We can see that we immediately move one cell to the right and increment that
-cell's value eight times. This gives us—you guessed it—the value 8 in cell 1.
+cell's value eight times. This gives us, you guessed it, the value 8 in cell 1.
 ```
 
 Then we start a loop, in which we move left (back to cell 0), add nine to that

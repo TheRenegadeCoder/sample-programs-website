@@ -25,7 +25,7 @@ fun main(args: Array<String>) {
 
 ## How to Implement the Solution
 
-Anyway, let's get down to business—Hello World in Kotlin:
+Anyway, let's get down to business, Hello World in Kotlin:
 
 ```kotlin
 package hello

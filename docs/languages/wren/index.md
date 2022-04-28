@@ -30,7 +30,7 @@ but it's class system is pretty unnatural. Thus, Wren was born!
 In addition to filling the object-oriented game scripting niche, Wren has some 
 pretty sweet support for concurrency through a feature called fibers. Fibers 
 are lightweight threads which eliminate random context switching. In other words, 
-fibers generally only switch when they are told to—much like coroutines.
+fibers generally only switch when they are told to, much like coroutines.
 
 Finally, Wren is incredibly fast for a scripting language. In fact, the website 
 shares some benchmarks which demonstrate it outperforming Python, Lua, and 

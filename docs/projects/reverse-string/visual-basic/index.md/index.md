@@ -76,7 +76,7 @@ they could simply import it by name.
 ### The `main()` Function
 
 Next, we have our typical main function declaration. Of course, in VB.NET, we 
-call them subroutines rather than functions—as indicated by the Sub keyword.
+call them subroutines rather than functions, as indicated by the Sub keyword.
 
 The first thing we do in our `main` function is create a variable named `input` to store the value to be reversed.
 

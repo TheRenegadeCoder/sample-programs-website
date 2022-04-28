@@ -1,4 +1,4 @@
-[According to Wikipedia][1], ALGOL 68—also known as Algorithmic Language 68—is a 
+[According to Wikipedia][1], ALGOL 68, also known as Algorithmic Language 68, is a 
 successor to the ALGOL 60 language. As the name suggests, ALGOL 68 first appeared 
 in 1968 as an imperative programming language.
 

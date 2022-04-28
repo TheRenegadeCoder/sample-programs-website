@@ -7,7 +7,7 @@ O(N).
 Jargon aside, binary search works by taking advantage of a sorted collection. As a result,
 we don't have to search every element in the collection. Instead, we can try the middle.
 If the middle element is greater than the element we want to find, we know that the element
-must be "to the left" of that element—assuming the collection is sorted least to greatest. 
+must be "to the left" of that element, assuming the collection is sorted least to greatest. 
 From there, we can try the element in the middle of the left half, and so on. 
 
 Eventually, we'll find the element we're looking for, or we'll reach the end of our search.

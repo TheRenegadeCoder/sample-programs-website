@@ -7,7 +7,7 @@ instance, VB.NET is statically typed, but the type system is both strong
 and weak as well as safe and unsafe.
 
 As for syntax, VB.NET is structured which reminds me of languages like 
-Pascal and MATLAB where blocks of code are marked by keywords—rather than 
+Pascal and MATLAB where blocks of code are marked by keywords, rather than 
 braces or whitespace.
 
 Beyond that, VB.NET has several versions. In fact, VB.NET only really refers 

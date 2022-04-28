@@ -96,7 +96,7 @@ quite distinct from arrays. Indexing into a String is done via special methods
 and indexing objects specific to the task. This makes looping over all of the
 characters in a String a more difficult task than in other languages.
 
-Thankfully, we do not have to resort to this to reverse a String — we can simply
+Thankfully, we do not have to resort to this to reverse a String ,  we can simply
 call the .reversed() method (or .reverse(), in earlier Swift versions).
 
 ### Reversed()
