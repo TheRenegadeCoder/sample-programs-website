@@ -186,6 +186,6 @@ int main()
 Here the getline function is used to input data in a line from the user.
 
 The for loop is responsible for the input into the array.
-Here, we make a call to each function we've created: `insertion_sort(str, arr)`, bypassing
+Here, we make a call to each function we've created: `insertion_sort(str, arr)`, bypassing
 the string input and the array to the function such that they match with their respective function signatures. And, that's it!
 
