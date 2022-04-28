@@ -22,7 +22,7 @@ long long get_val(int tmp[],int len){
     long long value=0,mult=1;
     for(int i=len-1;i>-1;--i){
         if(tmp[i]==' '-'0'){
-            printf("Usage: please provide a list of at least two integers to sort in the format “1, 2, 3, 4, 5”\n");
+            printf("Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\"\n");
             exit(0);
         }
         value+=tmp[i]*mult;
@@ -110,7 +110,7 @@ int floorSqrt(int x){
 int main(int argc,char **argv)
 {
     if(argv[1]==NULL||strlen(argv[1])==0){
-        printf("“Usage: please provide a comma-separated list of integers”");
+        printf("Usage: please provide a comma-separated list of integers");
         return 0;
     }
     
@@ -134,7 +134,7 @@ int main(int argc,char **argv)
     arr[pos++]=get_val(tmp,ind);
     int sq=floorSqrt(pos);
     if(pos!=sq*sq){
-        printf("“Usage: please provide a comma-separated list of integers”");
+        printf("Usage: please provide a comma-separated list of integers");
         return 0;
     }
     int V=sq;
@@ -149,6 +149,7 @@ int main(int argc,char **argv)
     }
     KruskalMST(graph);
 }
+
 ```
 
 ## How to Implement the Solution
