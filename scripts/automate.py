@@ -172,7 +172,7 @@ def generate_sample_programs(repo: subete.Repo):
         for program in language.sample_programs().values():
             path = pathlib.Path(f"docs/projects/{program._normalize_program_name()}/{language.pathlike_name()}")
             path.mkdir(exist_ok=True, parents=True)
-            _generate_sample_program_index(program, path / "index.md", language.pathlike_name())
+            _generate_sample_program_index(program, path, language.pathlike_name())
 
 
 def generate_language_paths(repo: subete.Repo):
