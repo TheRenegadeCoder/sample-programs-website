@@ -31,23 +31,31 @@ def _add_section(doc: snakemd.Document, source: str, source_instance: str, secti
 def _add_project_article_section(doc: snakemd.Document, repo: subete.Repo, project: str):
     """
     Generates a list of articles for each project page.
+
+    :param doc: the document to add the section to.
+    :param repo: the repo to pull from.
+    :param project: the project to add to the document in the normalized form (e.g., hello-world).
     """
+    log.info(f"Generating article section of {project}")
     doc.add_header("Articles", level=2)
     articles = []
     for lang in repo.language_collections().values():
-        for key, program in lang.sample_programs().items():
-            if key.replace(" ", "-").lower() == project:
-                link = snakemd.InlineText(
-                    str(program),
-                    url=program._sample_program_doc_url
-                )
-                articles.append(link)
+        if program := lang.sample_programs().get(project.replace('-', ' ').title()):
+            link = snakemd.InlineText(
+                str(program),
+                url=program._sample_program_doc_url
+            )
+            articles.append(link)
     doc.add_element(snakemd.MDList(articles))
 
 
 def _add_language_article_section(doc: snakemd.Document, repo: subete.Repo, language: str):
     """
-    Generates a list of articles for each project page.
+    Generates a list of articles for each language page.
+
+    :param doc: the document to add the section to.
+    :param repo: the repo to pull from.
+    :param language: the language to add to the document in its lookup form (e.g., Python).
     """
     doc.add_header("Articles", level=2)
     articles = []
