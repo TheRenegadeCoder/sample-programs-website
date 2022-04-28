@@ -1,6 +1,8 @@
 # Capitalize in Typescript
 
-## Solution
+## Current Solution
+
+Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 ```Typescript
 const myStr: string = "hello world";
@@ -9,3 +11,11 @@ const capitalize = (str: string = "no input was provided") => str[0].toUpperCase
 
 console.log(capitalize(myStr));
 ```
+
+## How to Implement the Solution
+
+No how to implement the solution available. Please consider contributing.
+
+## How to Run the Solution
+
+No how to run the solution available. Please consider contributing.

@@ -1,6 +1,8 @@
 # Factorial in Erlang
 
-## Solution
+## Current Solution
+
+Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 ```Erlang
 -module(factorial).
@@ -24,3 +26,11 @@ factorial(1,Acc) ->
 factorial(N,Acc) ->
     factorial(N-1, (N-1)*Acc).
 ```
+
+## How to Implement the Solution
+
+No how to implement the solution available. Please consider contributing.
+
+## How to Run the Solution
+
+No how to run the solution available. Please consider contributing.

@@ -1,6 +1,8 @@
 # Fizz Buzz in Lolcode
 
-## Solution
+## Current Solution
+
+Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 ```Lolcode
 HAI 1.2
@@ -37,3 +39,11 @@ IM IN YR loop UPPIN YR var TIL BOTH SAEM var AN 101
 IM OUTTA YR loop
 KTHXBYE
 ```
+
+## How to Implement the Solution
+
+No how to implement the solution available. Please consider contributing.
+
+## How to Run the Solution
+
+No how to run the solution available. Please consider contributing.

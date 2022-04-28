@@ -1,6 +1,8 @@
 # Insertion Sort in Matlab
 
-## Solution
+## Current Solution
+
+Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 ```Matlab
 function sorted = insertion_sort(array)
@@ -32,3 +34,11 @@ input_array = [9 8 7 6 5 4];
 output_array = insertion_sort(input_array);
 
 ```
+
+## How to Implement the Solution
+
+No how to implement the solution available. Please consider contributing.
+
+## How to Run the Solution
+
+No how to run the solution available. Please consider contributing.

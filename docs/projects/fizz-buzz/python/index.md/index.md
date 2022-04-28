@@ -1,6 +1,8 @@
 # Fizz Buzz in Python
 
-## Solution
+## Current Solution
+
+Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 ```Python
 for n in range(1, 101):
@@ -10,3 +12,11 @@ for n in range(1, 101):
     print("Buzz" if n % 5 == 0 else n)
 
 ```
+
+## How to Implement the Solution
+
+No how to implement the solution available. Please consider contributing.
+
+## How to Run the Solution
+
+No how to run the solution available. Please consider contributing.

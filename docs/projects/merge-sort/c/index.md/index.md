@@ -1,6 +1,8 @@
 # Merge Sort in C
 
-## Solution
+## Current Solution
+
+Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 ```C
 // Merge Sort In C Language
@@ -142,3 +144,11 @@ void merge_array(long *arr_sort,int a, int b, int c, int d) {
 
 
 ```
+
+## How to Implement the Solution
+
+No how to implement the solution available. Please consider contributing.
+
+## How to Run the Solution
+
+No how to run the solution available. Please consider contributing.

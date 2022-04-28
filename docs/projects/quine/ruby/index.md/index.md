@@ -1,8 +1,18 @@
 # Quine in Ruby
 
-## Solution
+## Current Solution
+
+Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 ```Ruby
 s="s=%c%s%c; printf s,34,s,34,10%c"; printf s,34,s,34,10
 
 ```
+
+## How to Implement the Solution
+
+No how to implement the solution available. Please consider contributing.
+
+## How to Run the Solution
+
+No how to run the solution available. Please consider contributing.

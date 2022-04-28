@@ -20,7 +20,7 @@ def _add_section(doc: snakemd.Document, source: str, source_instance: str, secti
     fp = pathlib.Path(f"sources/{source}/{source_instance}/{section.lower()}.md")
     if fp.exists():
         log.info(f"Adding {section} section to document from source, {fp}")
-        doc._contents.append(fp.read_text())
+        doc._contents.append(fp.read_text(encoding="utf-8"))
     else:
         log.warning(f"Failed to find {section} in {fp}")
         doc.add_paragraph(
@@ -110,10 +110,8 @@ def generate_sample_program_doc(program: subete.SampleProgram, path: pathlib.Pat
     doc.add_header("Current Solution", level=2)
     doc.add_paragraph("Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.")
     doc.add_code(program.code(), lang=program.language())
-    #_add_section(doc, "projects", program._normalize_program_name(), "Description")
-    #_add_section(doc, "projects", program._normalize_program_name(), "Requirements")
-    #_add_section(doc, "projects", program._normalize_program_name(), "Testing")
-    #_add_section(doc, "projects", program._normalize_program_name(), "Sample Code")
+    _add_section(doc, f"program/{program.project()}/{program.language()}", program._normalize_program_name(), "How to Implement the Solution")
+    _add_section(doc, f"program/{program.project()}/{program.language()}", program._normalize_program_name(), "How to Run the Solution")
     try:
         doc.output_page(str(path))
     except Exception:
@@ -129,7 +127,10 @@ def generate_language_index(language: subete.LanguageCollection):
     doc.add_header(f"The {str(language)} Programming Language")
     _add_section(doc, "languages", language, "Description")
     _add_language_article_section(doc, repo, str(language))
-    doc.output_page(f"docs/languages/{language.pathlike_name()}")
+    try:
+        doc.output_page(f"docs/languages/{language.pathlike_name()}")
+    except Exception:
+        log.exception(f"Failed to write {language.pathlike_name()}")
 
 
 def generate_language_paths(repo: subete.Repo):

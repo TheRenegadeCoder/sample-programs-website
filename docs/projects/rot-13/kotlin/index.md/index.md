@@ -1,6 +1,8 @@
 # Rot 13 in Kotlin
 
-## Solution
+## Current Solution
+
+Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 ```Kotlin
 data class EncodingBounds(val lowerBound: Int, val upperBound: Int)
@@ -58,3 +60,11 @@ fun main(args: Array<String>) {
 }
 
 ```
+
+## How to Implement the Solution
+
+No how to implement the solution available. Please consider contributing.
+
+## How to Run the Solution
+
+No how to run the solution available. Please consider contributing.

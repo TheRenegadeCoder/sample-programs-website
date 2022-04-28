@@ -1,6 +1,8 @@
 # Duplicate Char Counter in Javascript
 
-## Solution
+## Current Solution
+
+Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 ```Javascript
 const string = process.argv[2];
@@ -22,3 +24,11 @@ for (const char_count of Object.entries(chars_counter)) {
 }
 
 ```
+
+## How to Implement the Solution
+
+No how to implement the solution available. Please consider contributing.
+
+## How to Run the Solution
+
+No how to run the solution available. Please consider contributing.

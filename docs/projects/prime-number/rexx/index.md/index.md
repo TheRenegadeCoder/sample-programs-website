@@ -1,6 +1,8 @@
 # Prime Number in Rexx
 
-## Solution
+## Current Solution
+
+Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 ```Rexx
 /* ARG with source string named in REXX program invocation */
@@ -30,3 +32,11 @@ Err:
 say 'Usage: please input a non-negative integer'; exit
 
 ```
+
+## How to Implement the Solution
+
+No how to implement the solution available. Please consider contributing.
+
+## How to Run the Solution
+
+No how to run the solution available. Please consider contributing.
