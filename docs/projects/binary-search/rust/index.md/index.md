@@ -1,3 +1,7 @@
+---
+
+---
+
 # Binary Search in Rust
 
 ## Current Solution

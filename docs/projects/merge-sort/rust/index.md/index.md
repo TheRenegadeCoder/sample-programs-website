@@ -1,3 +1,7 @@
+---
+
+---
+
 # Merge Sort in Rust
 
 ## Current Solution

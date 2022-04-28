@@ -1,3 +1,7 @@
+---
+
+---
+
 # Bubble Sort in Haskell
 
 ## Current Solution

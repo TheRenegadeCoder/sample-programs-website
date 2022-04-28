@@ -1,3 +1,7 @@
+---
+
+---
+
 # Game Of Life in C#
 
 ## Current Solution

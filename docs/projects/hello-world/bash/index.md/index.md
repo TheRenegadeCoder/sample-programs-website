@@ -1,3 +1,7 @@
+---
+
+---
+
 # Hello World in Bash
 
 ## Current Solution
@@ -13,8 +17,57 @@ echo Hello, World!
 
 ## How to Implement the Solution
 
-No how to implement the solution available. Please consider contributing.
+At any rate, let’s implement Hello World in Bash:
+
+```bash
+echo Hello, World!
+```
+
+Or, if we want to be a bit more verbose:
+
+```bash
+#!/bin/bash
+echo Hello, World!
+```
+
+As we can see, printing “Hello, World!” in Bash is quite simple. All we do is call the 
+echo command to print the string.
+
+As an added note, the shebang (#!) tells the environment how to run the script. 
+In this case, we want to run the script using Bash. But, we can use this same 
+notation for other languages as well:
+
+```python
+#!/usr/bin/env python
+print("Hello, World!")
+```
+
+```ruby
+#!/usr/bin/env ruby
+puts "Hello, World!"
+```
+
+```node
+#!/usr/bin/env node
+console.log("Hello, World!")
+```
+
+Here, we have Hello World in Python, Ruby, and Node.js, respectively. Each of these 
+scripting languages can leverage the shebang syntax for easy execution in Unix, Linux, 
+and Mac environments.
+
 
 ## How to Run the Solution
 
-No how to run the solution available. Please consider contributing.
+If we want to run the solution, we can easily leverage an online Bash shell. To use 
+the tool, we just have to drop our solution into the editor and hit run.
+
+Alternatively, if we have a bash shell available, we can easily download the script, 
+navigate to its folder from the command line, and run it:
+
+```console
+./hello-world.sh
+```
+
+In fact, even Windows 10 users can leverage Bash. How-To Geek has a nice tutorial 
+on how to use Bash on Windows 10. If that sounds interesting, check it out!

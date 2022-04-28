@@ -1,3 +1,7 @@
+---
+
+---
+
 # Quine in Javascript
 
 ## Current Solution

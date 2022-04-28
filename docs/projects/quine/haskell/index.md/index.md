@@ -1,3 +1,7 @@
+---
+
+---
+
 # Quine in Haskell
 
 ## Current Solution

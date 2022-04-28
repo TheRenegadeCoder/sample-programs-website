@@ -1,3 +1,7 @@
+---
+
+---
+
 # Merge Sort in Go
 
 ## Current Solution

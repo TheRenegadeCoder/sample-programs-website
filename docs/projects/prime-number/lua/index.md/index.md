@@ -1,3 +1,7 @@
+---
+
+---
+
 # Prime Number in Lua
 
 ## Current Solution

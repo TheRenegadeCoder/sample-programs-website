@@ -1,3 +1,7 @@
+---
+
+---
+
 # Bubble Sort in Rust
 
 ## Current Solution

@@ -1,3 +1,7 @@
+---
+
+---
+
 # Depth First Search in Python
 
 ## Current Solution

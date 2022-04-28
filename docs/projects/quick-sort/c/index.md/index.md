@@ -1,3 +1,7 @@
+---
+
+---
+
 # Quick Sort in C
 
 ## Current Solution

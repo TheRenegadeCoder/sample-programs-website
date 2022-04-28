@@ -1,3 +1,7 @@
+---
+
+---
+
 # Game Of Life in Bash
 
 ## Current Solution

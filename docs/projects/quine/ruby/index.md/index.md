@@ -1,3 +1,7 @@
+---
+
+---
+
 # Quine in Ruby
 
 ## Current Solution

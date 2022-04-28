@@ -17,7 +17,7 @@ def _add_section(doc: snakemd.Document, source: str, source_instance: str, secti
     :param section: the section to add to the document (e.g., Description).
     """
     doc.add_header(section, level=2)
-    fp = pathlib.Path(f"sources/{source}/{source_instance}/{section.lower()}.md")
+    fp = pathlib.Path(f"sources/{source}/{source_instance}/{section.lower().replace(' ', '-')}.md")
     if fp.exists():
         log.info(f"Adding {section} section to document from source, {fp}")
         doc._contents.append(fp.read_text(encoding="utf-8"))
@@ -98,20 +98,31 @@ def generate_sample_programs(repo: subete.Repo):
         for program in language.sample_programs().values():
             path = pathlib.Path(f"docs/projects/{program._normalize_program_name()}/{language.pathlike_name()}")
             path.mkdir(exist_ok=True, parents=True)
-            generate_sample_program_doc(program, path / "index.md")
+            generate_sample_program_doc(program, path / "index.md", language.pathlike_name())
 
 
-def generate_sample_program_doc(program: subete.SampleProgram, path: pathlib.Path):
+def generate_front_matter(doc: snakemd.Document, path: pathlib.Path):
+    if path.exists():
+        doc._contents.append(path.read_text(encoding="utf-8"))
+    else:
+        log.warning(f"Failed to find {path}")
+        doc.add_paragraph("---")
+        doc.add_paragraph("---")
+
+
+def generate_sample_program_doc(program: subete.SampleProgram, path: pathlib.Path, language: str):
     """
     Creates a sample program documentation file.
     """
     doc: snakemd.Document = snakemd.new_doc("index")
+    root_path = pathlib.Path(f"programs/{program._normalize_program_name()}/{language}")
+    generate_front_matter(doc, root_path / "front_matter.yaml")
     doc.add_header(f"{program}")
     doc.add_header("Current Solution", level=2)
     doc.add_paragraph("Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.")
     doc.add_code(program.code(), lang=program.language())
-    _add_section(doc, f"program/{program.project()}/{program.language()}", program._normalize_program_name(), "How to Implement the Solution")
-    _add_section(doc, f"program/{program.project()}/{program.language()}", program._normalize_program_name(), "How to Run the Solution")
+    _add_section(doc, str(root_path / ".."), language, "How to Implement the Solution")
+    _add_section(doc, str(root_path / ".."), language, "How to Run the Solution")
     try:
         doc.output_page(str(path))
     except Exception:

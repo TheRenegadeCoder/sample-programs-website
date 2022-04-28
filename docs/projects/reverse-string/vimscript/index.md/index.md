@@ -1,3 +1,7 @@
+---
+
+---
+
 # Reverse String in Vimscript
 
 ## Current Solution

@@ -1,3 +1,7 @@
+---
+
+---
+
 # Quine in Coffeescript
 
 ## Current Solution

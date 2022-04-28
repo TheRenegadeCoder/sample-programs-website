@@ -1,3 +1,7 @@
+---
+
+---
+
 # Dijkstra in Javascript
 
 ## Current Solution

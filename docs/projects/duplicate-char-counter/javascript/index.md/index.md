@@ -1,3 +1,7 @@
+---
+
+---
+
 # Duplicate Char Counter in Javascript
 
 ## Current Solution

@@ -1,3 +1,7 @@
+---
+
+---
+
 # Hello World in Coffeescript
 
 ## Current Solution

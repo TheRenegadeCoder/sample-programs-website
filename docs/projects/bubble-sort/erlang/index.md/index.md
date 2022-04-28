@@ -1,3 +1,7 @@
+---
+
+---
+
 # Bubble Sort in Erlang
 
 ## Current Solution

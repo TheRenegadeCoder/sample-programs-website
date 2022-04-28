@@ -1,3 +1,7 @@
+---
+
+---
+
 # Quine in Bash
 
 ## Current Solution

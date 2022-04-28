@@ -1,3 +1,7 @@
+---
+
+---
+
 # Quine in Python
 
 ## Current Solution

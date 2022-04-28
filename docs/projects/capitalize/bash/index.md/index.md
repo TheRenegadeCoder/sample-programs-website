@@ -1,3 +1,7 @@
+---
+
+---
+
 # Capitalize in Bash
 
 ## Current Solution

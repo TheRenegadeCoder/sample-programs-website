@@ -1,3 +1,7 @@
+---
+
+---
+
 # Capitalize in Javascript
 
 ## Current Solution

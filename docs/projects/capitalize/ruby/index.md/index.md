@@ -1,3 +1,7 @@
+---
+
+---
+
 # Capitalize in Ruby
 
 ## Current Solution

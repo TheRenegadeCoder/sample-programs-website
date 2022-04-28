@@ -1,3 +1,7 @@
+---
+
+---
+
 # Linear Search in Java
 
 ## Current Solution

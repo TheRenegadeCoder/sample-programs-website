@@ -1,3 +1,7 @@
+---
+
+---
+
 # Hello World in C
 
 ## Current Solution
@@ -17,8 +21,49 @@ int main()
 
 ## How to Implement the Solution
 
-No how to implement the solution available. Please consider contributing.
+Since C predates both Java and Python, the syntax is naturally a bit archaic.
+That said, you’ll find that the syntax for Hello World in C is still easier to
+understand than Java:
+
+```c
+#include <stdio.h>
+int main()
+{
+   printf("Hello, World!");
+   return 0;
+}
+```
+
+At the top, we’ll notice an _include_ statement. Basically, this statement copies
+in functionality from the standard IO library of C. This includes the _printf_
+functionality we’ll need to actually write our string to the command line.
+
+Like Java, we’ll notice that we have a main function. In C, the main function is
+much simpler. In fact, we don’t even have classes in C, so we don’t have to bother
+with that extra layer of abstraction. Instead, we can define the main function
+directly. Again, we can only define one of these per program.
+
+Inside the main function, we’ll find our usual call to print. However, in C,
+we use _printf_ which allows us to format strings as well.
+
+Finally, we’ll notice that we return zero. That’s because the main function is
+like any other function, so it has a return type. In this case, the return type
+is an integer, and that integer is used to indicate status codes. A status code
+of zero means no errors occurred.
+
 
 ## How to Run the Solution
 
-No how to run the solution available. Please consider contributing.
+Now, if we want to run the solution, we’ll need to [get a hold of a C compiler][1].
+In addition, we’ll probably want to [get a copy of Hello World in C][2]. With both
+prerequisites out of the way, all we have to do is navigate to our file and run
+the following commands from the command line:
+
+```console
+gcc -o hello-world hello-world.c
+./hello-world
+```
+
+Of course, these are Unix/Linux instructions. If we’re on Windows, it may be easier
+to take advantage of an [online C compiler][3]. Alternatively, we can leverage a tool
+like [MinGW][4].

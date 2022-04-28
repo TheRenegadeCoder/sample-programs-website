@@ -1,3 +1,7 @@
+---
+
+---
+
 # Insertion Sort in Haskell
 
 ## Current Solution

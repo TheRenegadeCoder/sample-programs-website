@@ -1,3 +1,7 @@
+---
+
+---
+
 # Quine in Go
 
 ## Current Solution
