@@ -1,0 +1,2 @@
+
+Quite possibly the easiest way to run this is to open developer tools in your browser of choice, however, do note that the following is based on Chrome. This is often done by the shortcut "CRTL-SHIFT-I". Clicking on console at the top of the screen. Where the arrow is at the bottom of the console output is a text entry box and in there type the code from above(`console.log("Hello, World!");`). Finally, press enter and see `Hello, World!` in the Console output.
