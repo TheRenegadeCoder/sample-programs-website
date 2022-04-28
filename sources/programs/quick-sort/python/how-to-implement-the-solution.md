@@ -67,7 +67,7 @@ def main(args):
 This is the main function of this file. It parses the input, then calls our quick sort
 function (and prints the results). It also deals with any errors raised.
 
-Finally we wrap this entire block in a try … except, and we catch two exceptions: IndexError and
+Finally we wrap this entire block in a try ... except, and we catch two exceptions: IndexError and
 ValueError. IndexError will be thrown if args isn't a list, and we try to access args[0]. ValueError
 will be thrown if we try to convert a non-integer string into an integer. For example if args[0] was
 "a" -> int("a"). If any exceptions are raised, then we call the exit_with_error() function.
