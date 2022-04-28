@@ -14,4 +14,4 @@ hello-world.exe  # Windows
 ./hello-world  # Unix/Linux/Mac
 ```
 
-And, that's it! The “Hello, World!” string should print straight to the console.
+And, that's it! The "Hello, World!" string should print straight to the console.

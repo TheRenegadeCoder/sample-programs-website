@@ -59,10 +59,10 @@ view [
 ```
 
 Here, we use the header block to import the graphics view library. Then,
-we use that library to display a window containing “Hello, World!”
+we use that library to display a window containing "Hello, World!"
 
 At any rate, the last line in our original implementation clearly prints
-“Hello, World!” to the user. We've seen this plenty of times already so
+"Hello, World!" to the user. We've seen this plenty of times already so
 no need to dig into it.
 
 

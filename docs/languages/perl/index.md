@@ -32,9 +32,9 @@ result, Perl supports associative arrays, lists, regular expressions, and first-
 class functions. In fact, modern Perl even support object-oriented programming.
 
 As a fun tidbit, Perl differs dramatically from Python in terms of complexity. 
-In fact, the creators of Perl live by the slogan “there's more than one way to 
-do it.” In contrary, the creators of Python prefer that “there should be one ,  
-and preferably only one ,  obvious way to do it“
+In fact, the creators of Perl live by the slogan "there's more than one way to 
+do it." In contrary, the creators of Python prefer that "there should be one,  
+and preferably only one, obvious way to do it"
 
 
 ## Articles

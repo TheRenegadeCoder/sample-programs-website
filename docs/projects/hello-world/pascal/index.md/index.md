@@ -72,4 +72,4 @@ hello-world.exe  # Windows
 
 Since Pascal is a compiled language, we first need to compile our script. 
 After compilation, we'll have an executable we can run. When we run it, the 
-“Hello, World!” string should print to the console.
+"Hello, World!" string should print to the console.

@@ -84,9 +84,9 @@ if not line:
     line += str(i)
 ```
 
-If the number is divisible by 3, as explained above, we add the word “Fizz” to
-the empty string.  If it's divisible by 5, we add the word “Buzz”. Notice the
-efficiency here. We don't need and because by simply adding “Buzz”, we meet the
+If the number is divisible by 3, as explained above, we add the word "Fizz" to
+the empty string.  If it's divisible by 5, we add the word "Buzz". Notice the
+efficiency here. We don't need and because by simply adding "Buzz", we meet the
 requirement for the case where the number is divisible by 3 and 5, or just 5.  
 Then we add i to the empty string if the string is still empty.
 

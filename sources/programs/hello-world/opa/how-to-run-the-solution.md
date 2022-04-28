@@ -27,7 +27,7 @@ with your own OS. They also can be constraint via cgroups (hard/soft CPU/memory
 limits, and more). The root filesystem they use is mapped to folders in your
 own machine, and whatever harm you do to them, does nothing on your system.
 
-So, you can “easily” install Opa (or any other language/thing) in a container,
+So, you can "easily" install Opa (or any other language/thing) in a container,
 play around, stop it, and when you delete the container, your OS is still as
 clean as before.
 
@@ -68,7 +68,7 @@ Successfully tagged opalang:1.1.1
 
 Now you have a working image. Congrats.
 
-Docker has a “hub”, conveniently called Docker Hub, where users can upload
+Docker has a "hub", conveniently called Docker Hub, where users can upload
 their public images for others to use. So, instead of building your own image,
 you could have just used mine:
 
@@ -100,7 +100,7 @@ Dockerfile  hello-world.js  hello-world.opa  package.json  README.md
 ```
 
 What we just did was run my image (if you want to use your own, replace
-“nicovillanueva/opalang:1.1.1” for what your provided as --tag in your docker build),
+"nicovillanueva/opalang:1.1.1" for what your provided as --tag in your docker build),
 mapping the current directory ($PWD) to /data inside the container.
 
 This allows the Opa container to pick up the .opa file and compile it, inside
@@ -123,4 +123,4 @@ Http serving on http://e9aa732ccc83:8080
 
 Now we also --published the 8080 port. This maps your own 8080 port, to the
 container's 8080. Having this up, if you fire up your browser and navigate
-to http://localhost:8080, you'll see “Hello, World!”, printed using Opa.
+to http://localhost:8080, you'll see "Hello, World!", printed using Opa.

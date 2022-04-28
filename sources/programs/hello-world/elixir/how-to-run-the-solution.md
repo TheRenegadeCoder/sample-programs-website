@@ -10,4 +10,4 @@ commands from the command line:
 elixir hello-world.ex
 ```
 
-If successful, the “Hello, World” string should print to the console.
+If successful, the "Hello, World" string should print to the console.

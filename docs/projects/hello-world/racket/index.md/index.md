@@ -81,4 +81,4 @@ to execute Hello World in Racket:
 racket hello-world.rkt
 ```
 
-And, that's it. If successful, the “Hello, World!” string should print to the console.
+And, that's it. If successful, the "Hello, World!" string should print to the console.

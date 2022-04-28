@@ -5,5 +5,5 @@ online or offline:
 - [Sange.fi][4]
 - [Dcode.fr][5]
 
-As a starting point, [here's this example on “Brainfuck Visualizer”][6], an online
+As a starting point, [here's this example on "Brainfuck Visualizer"][6], an online
 tool that displays each step of a Brainfuck program's execution.

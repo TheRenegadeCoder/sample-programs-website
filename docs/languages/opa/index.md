@@ -25,7 +25,7 @@ It reminds me a bit of React/JSX, as it's wholeheartedly designed for interopera
 with HTML. It's actually a first-class citizen. Blurring the line between client
 and server code is something that I'm really fond of.
 
-The problem is that, having had only 2 years of activity, the “user experience”
+The problem is that, having had only 2 years of activity, the "user experience"
 is really bad. Setting up the environment is… problematic, to say the least. It
 requires installing NodeJS and OCaml, with dependencies of each one sprinkled in.
 Which in turn need dependencies. Some of which have to be compiled from source.

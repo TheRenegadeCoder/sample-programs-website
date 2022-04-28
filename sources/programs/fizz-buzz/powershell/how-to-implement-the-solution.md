@@ -4,16 +4,16 @@ just not that interested 😅 I completely understand.
 
 I realized about two weeks ago that I hadn't written anything in a while and had
 a bit of a desire to write, with nothing coming to mind on what to write. I was
-also dealing with a nagging feeling in my brain of “Should I really write another
-article?” and if I did “Who really cares if I write another article? There are
-countless others writing about the same stuff”, among other negative thoughts.
+also dealing with a nagging feeling in my brain of "Should I really write another
+article?" and if I did "Who really cares if I write another article? There are
+countless others writing about the same stuff", among other negative thoughts.
 
 I went to a get together with some of my best friends to eat tacos, drink some
 tequila, and just enjoy each others company. While I was there, one of my more
 technically oriented friends came up to me and we began talking about my work,
 playing Overwatch, and other nerdy things, when he mentions to me that he enjoyed
 reading my past articles. While he may not be a currently active developer and
-that some of the stuff goes over his head, I've “got a knack for it” as he said.
+that some of the stuff goes over his head, I've "got a knack for it" as he said.
 
 > Tron that are heavily requested by the user base. It was enough to remind me the
 > whole reason I started writing these is for the off-chance that someone like that
@@ -40,15 +40,15 @@ this article from Lionell Pack on Forbes.
 ### What's The Problem?
 
 The actual problem was (from what I can tell, please correct me if I'm wrong)
-initially put forth by Imron Ghory over on his blog and it was based on a “group
-word game for children to teach them about division.” While there's a number of
+initially put forth by Imron Ghory over on his blog and it was based on a "group
+word game for children to teach them about division." While there's a number of
 different ways to word this problem, here's the wording we're going to be working
 with:
 
 > Write a program that prints the numbers 1 to 100. However, for multiples of
-> three, print “Fizz” instead of the number. Meanwhile, for multiples of five,
-> print “buzz” instead of the number. For numbers which are multiples of both,
-> print “FizzBuzz.”
+> three, print "Fizz" instead of the number. Meanwhile, for multiples of five,
+> print "buzz" instead of the number. For numbers which are multiples of both,
+> print "FizzBuzz."
 
 This means there are a few things we need to keep in mind or consider:
 

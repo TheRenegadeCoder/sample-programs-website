@@ -46,8 +46,8 @@ to other streams such as standard error:
 IO.puts :stderr, "Uh Oh!"
 ```
 
-At any rate, puts, in our primary example, will simply write “Hello, 
-World!” to the user. To be honest, I'm surprised this is only the 
+At any rate, puts, in our primary example, will simply write "Hello, 
+World!" to the user. To be honest, I'm surprised this is only the 
 second time we've seen the puts keyword in this series, the first being 
 Ruby.
 
@@ -66,4 +66,4 @@ commands from the command line:
 elixir hello-world.ex
 ```
 
-If successful, the “Hello, World” string should print to the console.
+If successful, the "Hello, World" string should print to the console.

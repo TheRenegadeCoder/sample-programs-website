@@ -21,5 +21,5 @@ function for our program. We should be used to seeing this convention since it's
 common in the popular industrial languages like C++ and Java.
 
 Finally, we make a call to printf which is a special print function that allows
-for string formatting. Of course, all we're going to pass to it is the “Hello,
-World!” string. And, that's it!
+for string formatting. Of course, all we're going to pass to it is the "Hello,
+World!" string. And, that's it!

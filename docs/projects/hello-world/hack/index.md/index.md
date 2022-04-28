@@ -31,7 +31,7 @@ At long last, let's take a stab at Hello World in Hack:
 echo 'Hello, World!';
 ```
 
-Right away, you should scream “that looks a lot like PHP!” 
+Right away, you should scream "that looks a lot like PHP!" 
 After all, Hack is just a dialect of PHP.
 
 That said, there is at least one obvious syntactic difference: 

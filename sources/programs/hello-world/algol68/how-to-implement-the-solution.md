@@ -16,9 +16,9 @@ Luckily, we have a simple example: `$gl$`.
 In this example, everything between the dollar signs is considered a format string. 
 In this case, we have two characters: *g* and *l*.
 
-Since we're formatting strings, one of those tokens will be replaced by our “Hello, World!” 
+Since we're formatting strings, one of those tokens will be replaced by our "Hello, World!" 
 string. In this case, it's *g*. As for *l*, that's actually the newline token ,  something 
-we haven't paid a lot of attention to in this series. When put together, “Hello, World!” 
+we haven't paid a lot of attention to in this series. When put together, "Hello, World!" 
 will print to the console.
 
 Another interesting bit about this program is the fact that we have double parentheses 
@@ -32,5 +32,5 @@ a68g: error: 1: incorrect number of arguments for PROC ([] "SIMPLOUT") VOID (det
 
 To be honest, I don't understand the error. My best guess is *printf* requires an array 
 of arguments. Whereas, the *varargs* solution I'm proposing issues the format string 
-and “Hello, World!” as separate arguments. Fortunately, [James Jones has a great 
+and "Hello, World!" as separate arguments. Fortunately, [James Jones has a great 
 explanation for this][1].

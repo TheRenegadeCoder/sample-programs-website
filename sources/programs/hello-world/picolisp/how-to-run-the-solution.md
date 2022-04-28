@@ -7,4 +7,4 @@ video proving that this solution works:
 
 [![asciicast](https://asciinema.org/a/HdFjKizOUYKdcyFoG6h4RPhjn.svg)](https://asciinema.org/a/HdFjKizOUYKdcyFoG6h4RPhjn)
 
-And, that's it! If implemented correctly, the solution should print “Hello, World!” to the console.
+And, that's it! If implemented correctly, the solution should print "Hello, World!" to the console.

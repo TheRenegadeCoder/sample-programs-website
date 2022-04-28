@@ -42,4 +42,4 @@ Alternatively, we can download [CHICKEN Scheme][2] and a copy of the solution. A
 ```bash
 csi -s hello-world.scm
 ```
-That will run the Scheme file as a script which will quickly print the “Hello, World!” string.
+That will run the Scheme file as a script which will quickly print the "Hello, World!" string.

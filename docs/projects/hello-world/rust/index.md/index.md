@@ -84,4 +84,4 @@ Of course, in Unix-based environments, the following will run the new binary:
 ./hello-world
 ```
 
-And, that's it! “Hello, World!” should print directly to the console.
+And, that's it! "Hello, World!" should print directly to the console.

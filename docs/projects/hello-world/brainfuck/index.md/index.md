@@ -34,7 +34,7 @@ Let's take a look at the Hello World sample:
 ```
 
 If you're unfamiliar with Brainfuck, this might not really look like a
-“Hello World” example to you. It might even look a little intimidating.
+"Hello World" example to you. It might even look a little intimidating.
 Granted, the syntax might not be the most verbose, but fear not! I'm sure it
 will start making sense once we break it down.
 
@@ -99,5 +99,5 @@ online or offline:
 - [Sange.fi][4]
 - [Dcode.fr][5]
 
-As a starting point, [here's this example on “Brainfuck Visualizer”][6], an online
+As a starting point, [here's this example on "Brainfuck Visualizer"][6], an online
 tool that displays each step of a Brainfuck program's execution.

@@ -7,7 +7,7 @@ Let's take a look at the Hello World sample:
 ```
 
 If you're unfamiliar with Brainfuck, this might not really look like a
-“Hello World” example to you. It might even look a little intimidating.
+"Hello World" example to you. It might even look a little intimidating.
 Granted, the syntax might not be the most verbose, but fear not! I'm sure it
 will start making sense once we break it down.
 

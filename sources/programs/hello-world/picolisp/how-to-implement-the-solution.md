@@ -12,5 +12,5 @@ Lisp, we can expect a ton of parentheses. In fact, our solution requires a singl
 set of parentheses at a minimum.
 
 Inside the parentheses, we have a function call. In this case, the print function 
-is named prinl and the input is our “Hello, World!” string. When executed, our 
+is named prinl and the input is our "Hello, World!" string. When executed, our 
 string will print to the console.

@@ -29,7 +29,7 @@ val myGrade = if (score >= 70) "Pass" else "Fail"
 
 For those familiar with Java, this example probably looks odd. Fortunately, 
 the solution is simple. Just evaluate the if-else expression and store the 
-expected result in myGrade. If score is 90, then myGrade would store “Pass.” 
+expected result in myGrade. If score is 90, then myGrade would store "Pass." 
 That's pretty cool stuff!
 
 At any rate, we probably shouldn't dive too much further. After all, we have 

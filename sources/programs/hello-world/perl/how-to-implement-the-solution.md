@@ -11,7 +11,7 @@ who doesn't love a simple implementation (talking to you, Java).
 
 At any rate, let's dig into this a little bit. For starters, we'll 
 notice there are no parentheses required for Perl's print function. 
-I use the word “required” because we can actually call print with them:
+I use the word "required" because we can actually call print with them:
 
 ```perl
 print("Hello, World!");

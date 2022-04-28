@@ -9,4 +9,4 @@ we can run a lisp file like a script as follows:
 sbcl --script hello-world.lsp
 ```
 
-And, that should produce the “Hello, World!” string on the command line.
+And, that should produce the "Hello, World!" string on the command line.

@@ -11,7 +11,7 @@ Or, if we want to be a bit more verbose:
 echo Hello, World!
 ```
 
-As we can see, printing “Hello, World!” in Bash is quite simple. All we do is call the 
+As we can see, printing "Hello, World!" in Bash is quite simple. All we do is call the 
 echo command to print the string.
 
 As an added note, the shebang (#!) tells the environment how to run the script. 

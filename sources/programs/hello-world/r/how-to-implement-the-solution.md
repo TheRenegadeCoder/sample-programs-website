@@ -18,7 +18,7 @@ cat("Hello", "World!", sep=", ")
 ```
 
 In this call, Hello and World! are glued together by placing the specified
-separator “, ” between the two strings, resulting in the desired output
+separator ", " between the two strings, resulting in the desired output
 Hello, World!.
 
 Now, we know what we need to produce the output. The next section explains how

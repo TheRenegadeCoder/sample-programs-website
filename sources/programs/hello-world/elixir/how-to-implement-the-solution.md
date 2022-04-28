@@ -21,7 +21,7 @@ to other streams such as standard error:
 IO.puts :stderr, "Uh Oh!"
 ```
 
-At any rate, puts, in our primary example, will simply write “Hello, 
-World!” to the user. To be honest, I'm surprised this is only the 
+At any rate, puts, in our primary example, will simply write "Hello, 
+World!" to the user. To be honest, I'm surprised this is only the 
 second time we've seen the puts keyword in this series, the first being 
 Ruby.

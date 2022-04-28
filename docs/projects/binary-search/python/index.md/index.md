@@ -93,7 +93,7 @@ def input_list(array_of_numbers):
     array_of_numbers = [int(x) for x in array_of_numbers]
     return array_of_numbers
 def exit_with_error():
-    print('Usage: please provide a list of at least two integers to sort in the format “1, 2, 3, 4, 5”')
+    print('Usage: please provide a list of at least two integers to sort in the format "1, 2, 3, 4, 5"')
     sys.exit(1)
 
 if __name__ == "__main__":
@@ -187,7 +187,7 @@ for every item in the list so our original input `"1, 4, 5, 11, 12"` becomes `[1
 
 ```python
 def exit_with_error():
-    print('Usage: please provide a list of at least two integers to sort in the format “1, 2, 3, 4, 5”')
+    print('Usage: please provide a list of at least two integers to sort in the format "1, 2, 3, 4, 5"')
     sys.exit(1)
 ```
 

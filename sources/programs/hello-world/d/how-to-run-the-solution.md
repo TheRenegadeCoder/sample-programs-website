@@ -9,4 +9,4 @@ that, we can simply run the following:
 rdmd hello-world.d
 ```
 
-And, that's it! The string “Hello, World!” should appear in the console.
+And, that's it! The string "Hello, World!" should appear in the console.

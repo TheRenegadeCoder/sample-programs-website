@@ -14,4 +14,4 @@ scala hello-world
 ```
 
 As we can see, Scala can be executed in pretty much the same way as Java. If 
-all goes well, the last command should print the “Hello, World!” string.
+all goes well, the last command should print the "Hello, World!" string.

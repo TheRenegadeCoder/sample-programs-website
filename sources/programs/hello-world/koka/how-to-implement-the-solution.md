@@ -1,4 +1,4 @@
-Now, let's see how we can print a simple “Hello World” in Koka:
+Now, let's see how we can print a simple "Hello World" in Koka:
 
 ```koka
 function main()
