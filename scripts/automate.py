@@ -1,5 +1,6 @@
 import pathlib
 import logging
+from string import ascii_lowercase
 
 import subete
 import snakemd
@@ -186,9 +187,55 @@ def generate_language_paths(repo: subete.Repo):
         _generate_language_index(language)
 
 
+def generate_languages_index(repo: subete.Repo):
+    """
+    Creates the index.md files for the root directories.
+    """
+    language_index_path = pathlib.Path("docs/languages")
+    language_index = snakemd.new_doc("index")
+    language_index.add_paragraph(
+        "Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection."
+    )
+    language_index.add_header("Language Collections by Letter", level=2)
+    language_index.add_paragraph(
+        "To help you navigate the collection, the following languages are organized alphabetically and grouped by first letter."
+    )
+    for letter in ascii_lowercase:
+        language_index.add_header(letter, level=3)
+        languages: list[subete.LanguageCollection] = repo.languages_by_letter(letter)
+        languages = [snakemd.InlineText(str(x).upper(), url=x.lang_docs_url()) for x in languages]
+        language_index.add_element(snakemd.MDList(languages))
+    language_index.output_page(str(language_index_path))
+
+
+def generate_projects_index(repo: subete.Repo):
+    projects_index_path = pathlib.Path("docs/projects")
+    projects_index = snakemd.new_doc("index")
+    projects_index.add_paragraph(
+        "Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection."
+    )
+    projects_index.add_header("Projects List", level=2)
+    projects_index.add_paragraph(
+        "To help you navigate the collection, the following projects are organized alphabetically."
+    )
+    projects = [
+        snakemd.InlineText(
+            project.replace("-", " ").title() 
+            if len(project) > 3 
+            else project.upper(),
+            url=f"https://sampleprograms.io/projects/{project}"
+        ) 
+        for project in repo._projects
+    ]
+    projects_index.add_element(snakemd.MDList(projects))
+    projects_index.output_page(str(projects_index_path))
+
+
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
     repo = subete.load()
     generate_language_paths(repo)
     generate_project_paths(repo)
     generate_sample_programs(repo)
+    generate_languages_index(repo)
+    generate_projects_index(repo)
