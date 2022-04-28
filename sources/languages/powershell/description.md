@@ -14,8 +14,8 @@ Bruce Payette and James Truher were also on the project, and in an interview in
 
     I brought those tools available on Windows, and then they didn't help manage Windows
     because in Windows, everything's an API that returns structured data. So, that
-    didn't help. […] I came up with this idea of PowerShell, and I said, “Hey,
-    we can do this better.”
+    didn't help. [...] I came up with this idea of PowerShell, and I said, "Hey,
+    we can do this better."
 
 Originally, PowerShell was to be called Monad and it's ideas were published in a
 white paper titled [Monad Manifesto][3]. Shortly after releasing the Beta 3 version
