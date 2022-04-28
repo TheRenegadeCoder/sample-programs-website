@@ -31,7 +31,7 @@ these differences, but I think Wikipedia already shares several excellent
 examples. In addition, I dug up a couple decent blogs comparing the two 
 languages:
 
-- Scala vs Java – Differences and Similarities
+- Scala vs Java: Differences and Similarities
 - Scala vs. Java: Why Should I Learn Scala?
 
 Since Scala has functional tendencies, I figured I'd dig into that a bit 

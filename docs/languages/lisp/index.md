@@ -32,7 +32,7 @@ than tell.
 ### Expressions
 
 In terms of features, Lisp differs wildly from the languages we've already covered. 
-For example, all data in Lisp is represented with expressions – in particular, symbolic 
+For example, all data in Lisp is represented with expressions, in particular, symbolic 
 expressions. These expressions are written in prefix notation:
 
 ```lisp
