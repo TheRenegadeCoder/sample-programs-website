@@ -1,4 +1,4 @@
-Websites like Repl allow you to write and run code of different programming
+Websites like Repl allow you to write and run code of different programming
 languages in the browser. Feel free to drop our solution into one of your
 favorite online editors.
 

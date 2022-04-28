@@ -6,7 +6,7 @@ def write_file
 
   out << "This is a line written by a Ruby program\n"
   out << "This line also"
-
+ 
   out.flush()
   out.close()
 end
@@ -63,7 +63,7 @@ out << "This line also"
 ```
 
 In this sample code we used the bitshift left operators to write the text. We
-could have used the write() method to write text instead of using the operators.
+could have used the write() method to write text instead of using the operators.
 
 Next, we flush the file:
 
@@ -86,7 +86,7 @@ This is something you should always do with resources when you're done with them
 
 ### Reading
 
-Like with the `write_file()` function, we put the code for reading the file in
+Like with the `write_file()` function, we put the code for reading the file in
 its own function:
 
 ```ruby

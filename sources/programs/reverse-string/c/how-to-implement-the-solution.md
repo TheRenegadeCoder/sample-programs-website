@@ -99,7 +99,7 @@ We traverse through the entire string so that *pointer* `end` can point to the l
         end--; 
     } 
 ```
-And this is the Meat of the matter; this is the logic that reverses the string. The *while loop*  condition `start<end` make sure that once reversed, we don't reverse back the string to the original string (For Math geeks; only 180° and not 360° rotation of string). The `temp` *variable* is used for swapping the characters pointed by two *pointers*. The `--` syntax at the end of the* variable* `end` is called a Decrement operator, and it decrements the value of `end` by 1. Both of these operators change characters pointed by the *pointers*, and we can swap all characters of the string. 
+And this is the Meat of the matter; this is the logic that reverses the string. The *while loop*  condition `start<end` make sure that once reversed, we don't reverse back the string to the original string (For Math geeks; only 180<sup>o</sup> and not 360<sup>o</sup> rotation of string). The `temp` *variable* is used for swapping the characters pointed by two *pointers*. The `--` syntax at the end of the* variable* `end` is called a Decrement operator, and it decrements the value of `end` by 1. Both of these operators change characters pointed by the *pointers*, and we can swap all characters of the string. 
 
 ```c
  int main() 

@@ -100,8 +100,8 @@ Next, we'll take a look at the inside of the main method:
 
 ```java
 if (args.length > 0) {
-  StringBuilder builder = new StringBuilder(args[0]); 
-  String reversed = builder.reverse().toString(); 
+  StringBuilder builder = new StringBuilder(args[0]);
+  String reversed = builder.reverse().toString(); 
   System.out.println(reversed);
 }
 ```
