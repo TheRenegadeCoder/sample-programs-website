@@ -21,8 +21,8 @@ jobs:
 
       - name: Generate Images
         run: |
-          sources=assets/sources/
-          images=assets/images/
+          sources=sources/images
+          images=docs/assets/images/
           logo=icon-small.png
           for file in "$sources"*
           do
