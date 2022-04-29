@@ -69,10 +69,10 @@ except OSError as e:
     print("Cannot open file: {}", e)
 ```
 
-The Python documentation tells us if open() fails to create a new file, it will
-raise an OSError exception. If we do get an exception, we will exit the method.
+The Python documentation tells us if open() fails to create a new file, it will
+raise an OSError exception. If we do get an exception, we will exit the method.
 
-Next, if no exceptions occurred, we can now write to the file using the write() 
+Next, if no exceptions occurred, we can now write to the file using the write() 
 method:
 
 ```python
@@ -91,7 +91,7 @@ out.close()
 
 On the first line we do something known as "flushing". When we call write() not
 everything may be written to the file and as some content may be in a buffer in
-memory. flush() ensures that everything is written to disk.
+memory. flush() ensures that everything is written to disk.
 
 The final line closes the file as it is good practice to close any resources like
 files when you are finished using them.
@@ -131,7 +131,7 @@ except OSError as e:
 
 If an exception occurs, we report the error and exit the function.
 
-Next, we have a while loop that iterates over each line in the file:
+Next, we have a while loop that iterates over each line in the file:
 
 ```python
 line = in_file.readline()

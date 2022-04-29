@@ -160,7 +160,7 @@ void write_file()
 }
 ```
 
-Inside this function, we begin by creating a `std::fstream` object called out:
+Inside this function, we begin by creating a `std::fstream` object called out:
 
 ```c++
 std::fstream out("file.txt", std::ios::out);
@@ -172,12 +172,12 @@ file will be opened. Will the file be opened for reading, writing, or even both?
 Will reading/writing begin at the beginning of the file or the end?
 
 In this constructor, the second argument defaults to both reading and writing.
-We just want write abilities so we use `std::ios::out`. You can mix and match
-different modes together with the bitwise operator `|` (OR).
+We just want write abilities so we use `std::ios::out`. You can mix and match
+different modes together with the bitwise operator `|` (OR).
 
 Example: `std::fstream out_and_append("file.txt", std::ios::out | std::ios::app);`
 
-Of course, there are other modes available which we can find in DevDocs C++ File
+Of course, there are other modes available which we can find in DevDocs C++ File
 I/O documentation. At any rate, let's get back to the code:
 
 ```c++
@@ -243,7 +243,7 @@ void read_function()
 ```
 
 Just like last time, we open the same file. However, this time we're opening it
-for reading purposes. Then, we make sure the file is opened. If it isn't, we
+for reading purposes. Then, we make sure the file is opened. If it isn't, we
 print a message to the screen and return:
 
 ```c++
@@ -266,12 +266,12 @@ while(std::getline(in, line))
 }
 ```
 
-To start, we create an empty `std::string` and loop line by line in the file until
-we reach EOF (end of file). `std::getline` takes a reference to a 
-`std::basic_istream` which `std::fstream` inherits from. The second argument is a
-reference to a `std::string`. It returns a reference to a `std::basic_istream`.
+To start, we create an empty `std::string` and loop line by line in the file until
+we reach EOF (end of file). `std::getline` takes a reference to a 
+`std::basic_istream` which `std::fstream` inherits from. The second argument is a
+reference to a `std::string`. It returns a reference to a `std::basic_istream`.
 
-`std::basic_istream` inherits from `std::basic_ios` which overloads the bool 
+`std::basic_istream` inherits from `std::basic_ios` which overloads the bool 
 operator. This means we can use `std::getline` (or more precisely,
 `std::basic_istream`) in boolean contexts such as while conditionals.
 
@@ -296,19 +296,19 @@ int main()
 }
 ```
 
-Here, we make a call to each function we've created: `write_file()` and
+Here, we make a call to each function we've created: `write_file()` and
 `read_file()`. And, that's it!
 
 
 ## How to Run the Solution
 
-There are many online compilers such as Compiler Explorer that you can use to
+There are many online compilers such as Compiler Explorer that you can use to
 compile C++ code. If you have a compiler installed on your system such g++ or
 clang++ use the following commands:
 
 ```console
 g++ -o program file.cpp
-clang++ -o program file.cpp
+clang++ -o program file.cpp
 ```
 
 And, that's it! You've successfully executed the solution.

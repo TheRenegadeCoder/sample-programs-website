@@ -217,7 +217,7 @@ that defeats the purpose of this series.
 Instead, we start by converting our input String to a character array:
 
 ```java
-// i.e. ['H', 'e', 'l', 'l', 'o', ',', ' ', 'W', 'o', 'r', 'l', 'd', '!'] 
+// i.e. ['H', 'e', 'l', 'l', 'o', ',', ' ', 'W', 'o', 'r', 'l', 'd', '!'] 
 char[] characters = toReverse.toCharArray();
 ```
 
