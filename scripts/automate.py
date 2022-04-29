@@ -30,24 +30,27 @@ def _add_section(doc: snakemd.Document, source: str, source_instance: str, secti
         )
 
 
-def _add_project_article_section(doc: snakemd.Document, repo: subete.Repo, project: str):
+def _add_project_article_section(doc: snakemd.Document, repo: subete.Repo, project: subete.Project):
     """
     Generates a list of articles for each project page.
 
     :param doc: the document to add the section to.
     :param repo: the repo to pull from.
-    :param project: the project to add to the document in the normalized form (e.g., hello-world).
+    :param project: the project to add to the document.
     """
     log.info(f"Generating article section of {project}")
     doc.add_header("Articles", level=2)
     articles = []
     for lang in repo:
-        if program := lang.sample_programs().get(project.replace('-', ' ').title()):
-            link = snakemd.InlineText(
-                str(program),
-                url=program._sample_program_doc_url
-            )
-            articles.append(link)
+        try:
+            program: subete.Project = lang[project.name()]
+        except KeyError:
+            continue
+        link = snakemd.InlineText(
+            str(program),
+            url=program.documentation_url()
+        )
+        articles.append(link)
     doc.add_element(snakemd.MDList(articles))
 
 
@@ -85,12 +88,12 @@ def _generate_front_matter(doc: snakemd.Document, path: pathlib.Path, title: str
     doc.add_paragraph("---")
 
 
-def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.Path, language: str):
+def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.Path):
     """
     Creates a sample program documentation file.
     """
     doc: snakemd.Document = snakemd.new_doc("index")
-    root_path = pathlib.Path(f"programs/{program._normalize_program_name()}/{language}")
+    root_path = pathlib.Path(f"programs/{program.project_pathlike_name()}/{program.language_pathlike_name()}")
     _generate_front_matter(doc, root_path / "front_matter.yaml", str(program))
     doc.add_paragraph(
         f"Welcome to the {program} page! Here, you'll find the source code for this program "
@@ -99,10 +102,10 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
     doc.add_header("Current Solution", level=2)
     doc.add_paragraph("Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.")
     doc.add_paragraph("{% raw %}")
-    doc.add_code(program.code(), lang=program.language())
+    doc.add_code(program.code(), lang=program.language_name())
     doc.add_paragraph("{% endraw %}")
-    _add_section(doc, str(root_path / ".."), language, "How to Implement the Solution")
-    _add_section(doc, str(root_path / ".."), language, "How to Run the Solution")
+    _add_section(doc, str(root_path / ".."), program.language_pathlike_name(), "How to Implement the Solution")
+    _add_section(doc, str(root_path / ".."), program.language_pathlike_name(), "How to Run the Solution")
     try:
         doc.output_page(str(path))
     except Exception:
@@ -157,7 +160,7 @@ def generate_project_paths(repo: subete.Repo):
     Creates the project directory which contains all of the project folders
     and index.md files.
     """
-    projects = repo.approved_pathlike_projects()
+    projects = repo.approved_projects()
     for project in projects:
         project: subete.Project
         path = pathlib.Path(f"docs/projects/{project.pathlike_name()}")
@@ -169,11 +172,13 @@ def generate_sample_programs(repo: subete.Repo):
     """
     Creates the language folders in each project directory.
     """
-    for language in repo.language_collections().values():
-        for program in language.sample_programs().values():
-            path = pathlib.Path(f"docs/projects/{program._normalize_program_name()}/{language.pathlike_name()}")
+    for language in repo:
+        language: subete.LanguageCollection
+        for program in language:
+            program: subete.SampleProgram
+            path = pathlib.Path(f"docs/projects/{program.project_pathlike_name()}/{language.pathlike_name()}")
             path.mkdir(exist_ok=True, parents=True)
-            _generate_sample_program_index(program, path, language.pathlike_name())
+            _generate_sample_program_index(program, path)
 
 
 def generate_language_paths(repo: subete.Repo):
