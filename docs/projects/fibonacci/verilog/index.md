@@ -8,6 +8,8 @@ Welcome to the Fibonacci in Verilog page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Verilog
 //Verilog code Listing first 25 Fibonacci numbers till
 
@@ -34,6 +36,8 @@ endmodule
 
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

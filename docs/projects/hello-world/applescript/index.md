@@ -8,10 +8,14 @@ Welcome to the Hello World in Applescript page! Here, you'll find the source cod
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Applescript
 display dialog "Hello, World!"
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

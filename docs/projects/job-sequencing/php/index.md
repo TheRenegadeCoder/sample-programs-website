@@ -8,6 +8,8 @@ Welcome to the Job Sequencing in Php page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Php
 <?php
 
@@ -55,6 +57,8 @@ function return_error() {
 
 ?>
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

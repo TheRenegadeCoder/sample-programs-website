@@ -8,6 +8,8 @@ Welcome to the Bubble Sort in Matlab page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Matlab
 function result_string= bubble_sort(array_string)
 
@@ -78,6 +80,8 @@ result_string = num2str(array);
 end
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

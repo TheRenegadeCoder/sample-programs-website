@@ -8,6 +8,8 @@ Welcome to the Even Odd in Rexx page! Here, you'll find the source code for this
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Rexx
 /* ARG with source string named in REXX program invocation */
 arg number
@@ -22,6 +24,8 @@ Err:
 say 'Usage: please input a number'; exit
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

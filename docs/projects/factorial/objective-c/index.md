@@ -8,6 +8,8 @@ Welcome to the Factorial in Objective C page! Here, you'll find the source code 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Objective C
 //
 //  main.m
@@ -44,6 +46,8 @@ int main(int argc, const char * argv[]) {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

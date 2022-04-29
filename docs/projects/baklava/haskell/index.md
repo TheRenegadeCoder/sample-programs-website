@@ -8,6 +8,8 @@ Welcome to the Baklava in Haskell page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Haskell
 module Main where
 
@@ -34,6 +36,8 @@ baklavaShrink space asterisk
 line space asterisk = replicate space ' ' ++ replicate asterisk '*'
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Hello World in Never page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Never
 
 func print_str(hw[L] -> int) -> int
@@ -28,6 +30,8 @@ func main() -> int
 
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

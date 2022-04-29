@@ -8,6 +8,8 @@ Welcome to the Job Sequencing in Java page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Java
 import java.util.*;
 
@@ -107,6 +109,8 @@ public class JobSequencing {
 
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

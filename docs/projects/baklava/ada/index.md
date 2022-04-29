@@ -8,6 +8,8 @@ Welcome to the Baklava in Ada page! Here, you'll find the source code for this p
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Ada
 with Ada.Text_IO; use Ada.Text_IO;
 
@@ -37,6 +39,8 @@ begin
    end loop;
 end Baklava;
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

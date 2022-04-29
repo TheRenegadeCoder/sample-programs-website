@@ -8,6 +8,8 @@ Welcome to the Hello World in Clojure page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Clojure
 (ns hello-world
 	(:gen-class))
@@ -21,6 +23,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

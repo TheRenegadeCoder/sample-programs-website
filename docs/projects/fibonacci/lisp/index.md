@@ -8,6 +8,8 @@ Welcome to the Fibonacci in Lisp page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Lisp
 (defun fibonacci (n &optional (a 1) (b 1) (acc))
   (if (<= n 0)
@@ -33,6 +35,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
     (format t "~D: ~D~%" (car item) (cadr item)))))
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

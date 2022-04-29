@@ -8,6 +8,8 @@ Welcome to the Even Odd in Javascript page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 const input = process.argv[2] != '' ? Number(process.argv[2]) : null; //coerce the input into a number, ignore empty string
 if(!Number.isInteger(input)){ //if there is no input, input = undefined and the statement still prints
@@ -17,6 +19,8 @@ if(!Number.isInteger(input)){ //if there is no input, input = undefined and the 
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

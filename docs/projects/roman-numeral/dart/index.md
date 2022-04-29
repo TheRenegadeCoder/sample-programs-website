@@ -8,6 +8,8 @@ Welcome to the Roman Numeral in Dart page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Dart
 void main(List<String> args) {
   try{
@@ -43,6 +45,8 @@ Map numeral_map(){
   return numerals;
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

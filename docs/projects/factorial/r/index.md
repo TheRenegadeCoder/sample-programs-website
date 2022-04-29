@@ -8,6 +8,8 @@ Welcome to the Factorial in R page! Here, you'll find the source code for this p
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```R
 args<-commandArgs(TRUE)
 if(length(args) > 0){
@@ -37,6 +39,8 @@ if(length(args) > 0){
      }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

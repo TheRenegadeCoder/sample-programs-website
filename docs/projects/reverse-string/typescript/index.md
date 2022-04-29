@@ -8,6 +8,8 @@ Welcome to the Reverse String in Typescript page! Here, you'll find the source c
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Typescript
 let myString: string = "Hello World";
 
@@ -16,6 +18,8 @@ const reverse = ( str: string = "no string was provided" ) => str.split("").reve
 console.log(reverse(myString));
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

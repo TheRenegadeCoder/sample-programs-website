@@ -8,6 +8,8 @@ Welcome to the Bubble Sort in Php page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Php
 <?php
 
@@ -37,6 +39,8 @@ echo implode(', ', $numbers);
 
 ?>
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

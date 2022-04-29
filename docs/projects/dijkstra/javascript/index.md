@@ -8,6 +8,8 @@ Welcome to the Dijkstra in Javascript page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 const mat = process.argv[2];
 const src = parseInt(process.argv[3]);
@@ -101,6 +103,8 @@ const dijkstra = (src, des, n) => {
 console.log(dijkstra(src, des, n));
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

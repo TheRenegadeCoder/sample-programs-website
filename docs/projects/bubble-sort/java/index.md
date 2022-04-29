@@ -8,6 +8,8 @@ Welcome to the Bubble Sort in Java page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Java
 import java.util.ArrayList;
 
@@ -57,6 +59,8 @@ public class BubbleSort {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

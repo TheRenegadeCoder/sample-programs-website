@@ -8,6 +8,8 @@ Welcome to the Capitalize in Haskell page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Haskell
 module Main where 
 
@@ -27,6 +29,8 @@ main = do
       _          -> putStrLn "Usage: please provide a string"
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

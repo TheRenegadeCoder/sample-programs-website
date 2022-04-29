@@ -8,6 +8,8 @@ Welcome to the Factorial in C page! Here, you'll find the source code for this p
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```C
 #include <stdio.h>
 #include <stdint.h>
@@ -80,6 +82,8 @@ int uint64_overflow(long a, long b) {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

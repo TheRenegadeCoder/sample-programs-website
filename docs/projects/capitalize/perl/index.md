@@ -8,6 +8,8 @@ Welcome to the Capitalize in Perl page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Perl
 #!/usr/bin/env perl
 use strict;
@@ -24,6 +26,8 @@ if (!defined $string || length $string == 0) {
 print ucfirst $string, "\n";
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

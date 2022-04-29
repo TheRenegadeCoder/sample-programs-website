@@ -8,6 +8,8 @@ Welcome to the Baklava in Julia page! Here, you'll find the source code for this
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Julia
 #!/usr/bin/julia
 
@@ -26,6 +28,8 @@ end
 main()
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Game Of Life in Haskell page! Here, you'll find the source code f
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Haskell
 -- This implementation requires ArgParser. It can be installed using cabal install argparser
 module Main where
@@ -203,6 +205,8 @@ main = do
   runApp interface runGameIO
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

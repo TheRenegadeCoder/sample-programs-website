@@ -8,6 +8,8 @@ Welcome to the Convex Hull in Javascript page! Here, you'll find the source code
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 function ccw(p1, p2, p3) {
   let result = (p3[0] - p2[0]) * (p1[1] - p2[1]) - (p3[1] - p2[1]) * (p1[0] - p2[0]);
@@ -81,6 +83,8 @@ convexHull.forEach(p => {
 });
 return;
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

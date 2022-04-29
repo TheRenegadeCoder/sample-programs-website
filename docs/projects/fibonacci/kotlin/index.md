@@ -8,6 +8,8 @@ Welcome to the Fibonacci in Kotlin page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Kotlin
 import kotlin.system.exitProcess
 
@@ -33,6 +35,8 @@ fun main(args: Array<String>) {
     }
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

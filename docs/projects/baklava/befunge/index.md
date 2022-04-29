@@ -8,6 +8,8 @@ Welcome to the Baklava in Befunge page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Befunge
 56+0 v          > 84*, v
 >    > : 55+\-: | :-1  <
@@ -19,6 +21,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
                         
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

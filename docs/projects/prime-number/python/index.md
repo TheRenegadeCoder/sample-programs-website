@@ -16,6 +16,8 @@ Welcome to the Prime Number in Python page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Python
 import sys
 from math import sqrt, ceil
@@ -46,6 +48,8 @@ if __name__ == "__main__":
     main(sys.argv[1:])
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

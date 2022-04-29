@@ -8,6 +8,8 @@ Welcome to the Fibonacci in Java page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Java
 public class Fibonacci {
 
@@ -33,6 +35,8 @@ public class Fibonacci {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

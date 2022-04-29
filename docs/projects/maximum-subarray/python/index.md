@@ -16,6 +16,8 @@ Welcome to the Maximum Subarray in Python page! Here, you'll find the source cod
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Python
 import sys
 
@@ -45,6 +47,8 @@ if __name__ == "__main__":
     maximum_subarray()  # call function to carry out kadane's algorithm
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -16,12 +16,16 @@ Welcome to the Hello World in Google Apps Script page! Here, you'll find the sou
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Google Apps Script
 function helloWorld() {
   Logger.log("Hello, World!");
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Fizz Buzz in R page! Here, you'll find the source code for this p
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```R
 fizz_buzz <- function(){
   for (x in 1:100){
@@ -30,6 +32,8 @@ fizz_buzz <- function(){
 fizz_buzz()
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Hello World in Ballerina page! Here, you'll find the source code 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Ballerina
 import ballerina/io;
 function main(string... args) {
@@ -15,6 +17,8 @@ function main(string... args) {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

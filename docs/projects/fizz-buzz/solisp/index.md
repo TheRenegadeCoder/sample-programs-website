@@ -8,6 +8,8 @@ Welcome to the Fizz Buzz in Solisp page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Solisp
 (Join (Map num (Seq 1 100)
 	(Switch
@@ -18,6 +20,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
     )
 ) "\n")
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Merge Sort in Php page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Php
 <?php
 function merge_sort($my_array){
@@ -53,6 +55,8 @@ echo implode(', ',merge_sort($test_array))."\n";
 ?>
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

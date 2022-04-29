@@ -8,6 +8,8 @@ Welcome to the File Io in Javascript page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 //Written with node 10.16.3
 //fs.promises API is still experimental in Node at this time, but it should be preferred over callbacks when is fully developed
@@ -38,6 +40,8 @@ function printString(err, data){
 writeFile();
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

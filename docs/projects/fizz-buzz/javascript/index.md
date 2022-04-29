@@ -16,6 +16,8 @@ Welcome to the Fizz Buzz in Javascript page! Here, you'll find the source code f
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 function fizzbuzz(num){
     for(let i=1; i <= num; i++){
@@ -35,6 +37,8 @@ function fizzbuzz(num){
 fizzbuzz(100);
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Capitalize in Rust page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Rust
 // Accept a string in command line from User and Capitalize the first letter of that string
 // Rust is built to support not just ASCII, but Unicode by-default.
@@ -29,6 +31,8 @@ fn main() {
     }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -16,6 +16,8 @@ Welcome to the Reverse String in Java page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Java
 public class ReverseString {
   public static void main(String args[]) {
@@ -28,6 +30,8 @@ public class ReverseString {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

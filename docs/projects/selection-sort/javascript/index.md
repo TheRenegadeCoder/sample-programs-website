@@ -8,6 +8,8 @@ Welcome to the Selection Sort in Javascript page! Here, you'll find the source c
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 const selectionSort = (list) => {
     // Iterate through the list
@@ -48,6 +50,8 @@ const main = (input) => {
 main(process.argv[2])
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

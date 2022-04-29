@@ -8,6 +8,8 @@ Welcome to the Factorial in Racket page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Racket
 #lang racket
 
@@ -32,6 +34,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 (factorial (string->number (read-line)))
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

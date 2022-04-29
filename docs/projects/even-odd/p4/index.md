@@ -8,6 +8,8 @@ Welcome to the Even Odd in P4 page! Here, you'll find the source code for this p
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```P4
 /* -*- P4_16 -*- */
 
@@ -196,6 +198,8 @@ MyDeparser()
 ) main;
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

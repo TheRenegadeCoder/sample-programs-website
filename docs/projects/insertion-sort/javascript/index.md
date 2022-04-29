@@ -8,6 +8,8 @@ Welcome to the Insertion Sort in Javascript page! Here, you'll find the source c
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 const insertionSort =  (arr) => {
     for (let i = 1; i < arr.length; i++){
@@ -48,6 +50,8 @@ const main = (input) => {
 main(process.argv[2])
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

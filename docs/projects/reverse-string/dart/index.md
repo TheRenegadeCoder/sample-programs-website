@@ -16,6 +16,8 @@ Welcome to the Reverse String in Dart page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Dart
 // Run using : dart reverse-string.dart hello-world
 void main(List<String> args) {
@@ -25,6 +27,8 @@ String reverse(input) {
     return input.split('').reversed.join();
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -16,6 +16,8 @@ Welcome to the File Io in Ruby page! Here, you'll find the source code for this 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Ruby
 def write_file
   out = File.new("output.txt", "w")
@@ -41,6 +43,8 @@ end
 write_file()
 read_file()
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

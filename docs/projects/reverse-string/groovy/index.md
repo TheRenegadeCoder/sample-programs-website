@@ -8,6 +8,8 @@ Welcome to the Reverse String in Groovy page! Here, you'll find the source code 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Groovy
 class ReverseAString {
   static void main(String... args) {
@@ -18,6 +20,8 @@ class ReverseAString {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

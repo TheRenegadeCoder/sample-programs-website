@@ -8,6 +8,8 @@ Welcome to the Reverse String in Bash page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Bash
 #!/bin/bash
 
@@ -20,6 +22,8 @@ do
 done
 echo $reverseStr
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

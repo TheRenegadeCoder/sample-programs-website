@@ -8,10 +8,14 @@ Welcome to the Hello World in Nim page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Nim
 echo "Hello, World!"
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

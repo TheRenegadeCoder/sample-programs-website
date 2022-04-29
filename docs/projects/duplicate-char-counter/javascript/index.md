@@ -8,6 +8,8 @@ Welcome to the Duplicate Char Counter in Javascript page! Here, you'll find the 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 const string = process.argv[2];
 if (!string) return console.log("Please provide a string.");
@@ -28,6 +30,8 @@ for (const char_count of Object.entries(chars_counter)) {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

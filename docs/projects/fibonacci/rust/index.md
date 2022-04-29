@@ -8,6 +8,8 @@ Welcome to the Fibonacci in Rust page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Rust
 const LIMIT: u64 = 93;
 
@@ -47,6 +49,8 @@ fn main() {
     fibonacci(terms_n);
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -16,10 +16,14 @@ Welcome to the Hello World in Lua page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Lua
 print("Hello, World!")
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

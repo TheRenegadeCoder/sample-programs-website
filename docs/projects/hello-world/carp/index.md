@@ -8,10 +8,14 @@ Welcome to the Hello World in Carp page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Carp
 (println "Hello, World!")
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

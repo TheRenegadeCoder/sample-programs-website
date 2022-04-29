@@ -8,6 +8,8 @@ Welcome to the Prime Number in Pascal page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Pascal
 program prime_check(input, output, stdErr);
 (* Read a number from Commandline, Check  if it is Prime or Composite*)
@@ -59,6 +61,8 @@ begin
 end.
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

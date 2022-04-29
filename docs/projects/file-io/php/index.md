@@ -8,6 +8,8 @@ Welcome to the File Io in Php page! Here, you'll find the source code for this p
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Php
 <?php
 
@@ -60,6 +62,8 @@ if (write_file($file_name)) {
 ?>
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

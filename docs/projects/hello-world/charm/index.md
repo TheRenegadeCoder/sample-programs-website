@@ -8,9 +8,13 @@ Welcome to the Hello World in Charm page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Charm
 " Hello, World! " pstring
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

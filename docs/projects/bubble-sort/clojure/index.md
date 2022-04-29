@@ -8,6 +8,8 @@ Welcome to the Bubble Sort in Clojure page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Clojure
 (ns bubble-sort
 	(:gen-class))
@@ -57,6 +59,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 
 (main *command-line-args*)
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

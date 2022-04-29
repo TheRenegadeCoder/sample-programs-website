@@ -8,6 +8,8 @@ Welcome to the Sleep Sort in Python page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Python
 import sys
 import threading
@@ -51,6 +53,8 @@ def main():
 main()
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

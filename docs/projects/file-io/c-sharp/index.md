@@ -8,6 +8,8 @@ Welcome to the File Io in C# page! Here, you'll find the source code for this pr
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```C#
 using System;
 using System.IO;
@@ -30,6 +32,8 @@ namespace SamplePrograms
     }
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

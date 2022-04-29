@@ -8,6 +8,8 @@ Welcome to the Factorial in Erlang page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Erlang
 -module(factorial).
 -export([start/1]).
@@ -30,6 +32,8 @@ factorial(1,Acc) ->
 factorial(N,Acc) ->
     factorial(N-1, (N-1)*Acc).
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

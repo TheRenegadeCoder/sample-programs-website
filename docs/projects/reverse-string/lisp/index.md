@@ -8,11 +8,15 @@ Welcome to the Reverse String in Lisp page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Lisp
 (defparameter input (cadr *posix-argv*))
 (write-line (reverse input))
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Palindromic Number in C page! Here, you'll find the source code f
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```C
 /*
  accept an integer, reverse it, compare it with original
@@ -65,6 +67,8 @@ int main(int argc, char **argv){
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

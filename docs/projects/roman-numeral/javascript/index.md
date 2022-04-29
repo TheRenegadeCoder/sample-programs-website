@@ -8,6 +8,8 @@ Welcome to the Roman Numeral in Javascript page! Here, you'll find the source co
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 // Roman Numeral Conversion
 // jsfiddle link for a quick test drive: https://jsfiddle.net/Rani_Kheir/r8wpLagq/10/
@@ -87,6 +89,8 @@ if (args.length < 1) {
 
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

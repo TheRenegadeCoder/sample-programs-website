@@ -8,6 +8,8 @@ Welcome to the Lps in Javascript page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 const [, , input] = process.argv;
 
@@ -36,6 +38,8 @@ console.log(
     'Usage: please provide a string that contains at least one palindrome'
 );
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

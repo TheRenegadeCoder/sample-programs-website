@@ -8,6 +8,8 @@ Welcome to the Quick Sort in Lisp page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Lisp
 (defun qsort (L)
   (cond
@@ -65,6 +67,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
   ((or (null input) (= (length input) 1)) (write-line "Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\""))
   (t (write-line (join-string (qsort input)))))
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

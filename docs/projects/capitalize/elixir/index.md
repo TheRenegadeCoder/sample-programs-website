@@ -8,6 +8,8 @@ Welcome to the Capitalize in Elixir page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Elixir
 defmodule Capitalize do
 
@@ -40,6 +42,8 @@ end
 
 Capitalize.main(System.argv()) |> IO.puts
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

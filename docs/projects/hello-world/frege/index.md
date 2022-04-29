@@ -8,12 +8,16 @@ Welcome to the Hello World in Frege page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Frege
 module HelloWorld where
 
 main :: IO ()
 main = do putStrLn "Hello world"
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

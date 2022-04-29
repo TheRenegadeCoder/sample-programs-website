@@ -8,6 +8,8 @@ Welcome to the Fizz Buzz in Elixir page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Elixir
 1..100
 |> Enum.map(fn
@@ -19,6 +21,8 @@ end)
 |> Enum.each(&IO.puts/1)
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

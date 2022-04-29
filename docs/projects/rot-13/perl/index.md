@@ -8,6 +8,8 @@ Welcome to the Rot 13 in Perl page! Here, you'll find the source code for this p
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Perl
 my ($str) = @ARGV;
 
@@ -20,6 +22,8 @@ $str =~ tr/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz/NOPQRSTUVWXYZABC
 print $str . "\n";
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

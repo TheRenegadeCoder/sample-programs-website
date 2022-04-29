@@ -8,6 +8,8 @@ Welcome to the Capitalize in Kotlin page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Kotlin
 fun main(args: Array<String>) {
     if (args.isNullOrEmpty() || args[0].isBlank()) {
@@ -20,6 +22,8 @@ fun main(args: Array<String>) {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

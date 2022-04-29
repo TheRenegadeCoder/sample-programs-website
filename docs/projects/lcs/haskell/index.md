@@ -8,6 +8,8 @@ Welcome to the Lcs in Haskell page! Here, you'll find the source code for this p
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Haskell
 module Main where
 
@@ -52,6 +54,8 @@ main = do
     putStrLn $ listToString $ reverse $ lcs l1 l2
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

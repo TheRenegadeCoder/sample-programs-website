@@ -8,6 +8,8 @@ Welcome to the Fizz Buzz in Ruby page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Ruby
 def fizzbuzz(number)
     divisibleBy3 = (number % 3 == 0)
@@ -28,6 +30,8 @@ end
 (1..100).each {|n| fizzbuzz n}
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

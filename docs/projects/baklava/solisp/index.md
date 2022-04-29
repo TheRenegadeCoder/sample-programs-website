@@ -8,6 +8,8 @@ Welcome to the Baklava in Solisp page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Solisp
 (Join (Map x (Append (Seq 0 10) (Reverse (Seq 0 9)))
 	(Join (Append
@@ -16,6 +18,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 	))
 ) "\n")
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

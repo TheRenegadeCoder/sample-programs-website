@@ -8,6 +8,8 @@ Welcome to the Fizz Buzz in Brainfuck page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Brainfuck
 ++++++++++>>++++++++++[<++++++++++>-]<[>>+>>+++>>>>+>+>+<<<<<<<<[>+>->+<[>]>[<+>
 -]<<[<]>-]>>>[>>>-<<<[-]][-]<[-]+++++<[<+>-]<[>+>->+<[>]>[<+>-]<<[<]>-]>>>[>>>>-
@@ -19,6 +21,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 -]]<<++++++[-<++++++++>]<.[-]<<[-<+>]<[-]<[-]]<<<<<[-]<[-]<[<+>-]<<<<.>-]
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

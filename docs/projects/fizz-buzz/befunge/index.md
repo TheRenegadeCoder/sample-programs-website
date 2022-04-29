@@ -16,6 +16,8 @@ Welcome to the Fizz Buzz in Befunge page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Befunge
 1 >  :3%   v            
    v  \0   _ "zziF",,,,v
@@ -29,6 +31,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Binary Search in Rust page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Rust
 #![feature(is_sorted)]
 
@@ -67,6 +69,8 @@ fn main() {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

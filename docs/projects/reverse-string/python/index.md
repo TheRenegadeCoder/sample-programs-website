@@ -16,6 +16,8 @@ Welcome to the Reverse String in Python page! Here, you'll find the source code 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Python
 import sys
 
@@ -23,6 +25,8 @@ if len(sys.argv) > 1:
     print(sys.argv[1][::-1])
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

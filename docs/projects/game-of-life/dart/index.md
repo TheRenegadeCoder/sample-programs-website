@@ -8,6 +8,8 @@ Welcome to the Game Of Life in Dart page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Dart
 <!DOCTYPE html>
 <html>
@@ -115,6 +117,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 </style>
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

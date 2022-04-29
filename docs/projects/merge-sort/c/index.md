@@ -8,6 +8,8 @@ Welcome to the Merge Sort in C page! Here, you'll find the source code for this 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```C
 // Merge Sort In C Language
 
@@ -148,6 +150,8 @@ void merge_array(long *arr_sort,int a, int b, int c, int d) {
 
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

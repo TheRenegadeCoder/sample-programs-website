@@ -8,6 +8,8 @@ Welcome to the Roman Numeral in Lua page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Lua
 #!/bin/lua
 
@@ -80,6 +82,8 @@ end
 print(convertToDecimal(input))
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

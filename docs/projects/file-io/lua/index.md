@@ -8,6 +8,8 @@ Welcome to the File Io in Lua page! Here, you'll find the source code for this p
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Lua
 function writer()
 	file_to_be_written = io.open("output.txt","w+")
@@ -28,6 +30,8 @@ writer()
 reader()
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

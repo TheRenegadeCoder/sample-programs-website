@@ -8,6 +8,8 @@ Welcome to the Josephus Problem in Javascript page! Here, you'll find the source
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 const josephus = (n, k) => {
     if (n == 1) return 1;
@@ -27,6 +29,8 @@ if (!n || !k || typeof n !== "number" || typeof k !== "number") {
 console.log(josephus(n, k));
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

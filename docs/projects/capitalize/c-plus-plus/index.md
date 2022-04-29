@@ -8,6 +8,8 @@ Welcome to the Capitalize in C++ page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```C++
 #include <iostream>
 #include <cstring>
@@ -28,6 +30,8 @@ int main(int argc, const char *argv[])
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

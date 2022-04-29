@@ -8,10 +8,14 @@ Welcome to the Quine in Python page! Here, you'll find the source code for this 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Python
 s='s=%r;print(s%%s)';print(s%s)
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

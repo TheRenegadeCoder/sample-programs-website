@@ -16,6 +16,8 @@ Welcome to the Fizz Buzz in Swift page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Swift
 func fizzBuzz(start: Int = 1, end: Int = 100) -> Void {
     let range = start...end
@@ -42,6 +44,8 @@ func fizzBuzz(start: Int = 1, end: Int = 100) -> Void {
 
 fizzBuzz();
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

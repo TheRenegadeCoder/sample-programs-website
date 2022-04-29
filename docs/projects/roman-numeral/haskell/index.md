@@ -8,6 +8,8 @@ Welcome to the Roman Numeral in Haskell page! Here, you'll find the source code 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Haskell
 module Main where
 
@@ -51,6 +53,8 @@ main = do
       Just x -> putStrLn $ show $ x
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

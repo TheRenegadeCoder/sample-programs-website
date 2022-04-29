@@ -8,6 +8,8 @@ Welcome to the Fizz Buzz in Lolcode page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Lolcode
 HAI 1.2
 
@@ -43,6 +45,8 @@ IM IN YR loop UPPIN YR var TIL BOTH SAEM var AN 101
 IM OUTTA YR loop
 KTHXBYE
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

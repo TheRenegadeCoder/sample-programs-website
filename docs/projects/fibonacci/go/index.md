@@ -8,6 +8,8 @@ Welcome to the Fibonacci in Go page! Here, you'll find the source code for this 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Go
 package main
 
@@ -52,6 +54,8 @@ func main() {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

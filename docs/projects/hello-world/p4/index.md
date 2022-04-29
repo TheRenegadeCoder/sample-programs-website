@@ -8,6 +8,8 @@ Welcome to the Hello World in P4 page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```P4
 /* -*- P4_16 -*- */
 
@@ -211,6 +213,8 @@ MyComputeChecksum(),
 MyDeparser()
 ) main;
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Dijkstra in C++ page! Here, you'll find the source code for this 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```C++
 /*** Dijkstra - Single source Multiple Destination ***/
 
@@ -182,6 +184,8 @@ int main(int argc, char *argv[])
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

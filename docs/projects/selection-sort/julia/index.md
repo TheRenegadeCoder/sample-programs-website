@@ -8,6 +8,8 @@ Welcome to the Selection Sort in Julia page! Here, you'll find the source code f
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Julia
 #!/usr/bin/julia
 
@@ -63,6 +65,8 @@ end
 
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Reverse String in Erlang page! Here, you'll find the source code 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Erlang
 -module(reverse_string).
 -export([start/1]).
@@ -26,6 +28,8 @@ start(Atom) when is_atom(Atom) ->
 start(Number) when is_integer(Number) ->
    list_to_integer(lists:reverse(integer_to_list(Number))).
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

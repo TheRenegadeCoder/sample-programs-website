@@ -16,6 +16,8 @@ Welcome to the Fizz Buzz in Python page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Python
 for n in range(1, 101):
     if n % 3 == 0:
@@ -24,6 +26,8 @@ for n in range(1, 101):
     print("Buzz" if n % 5 == 0 else n)
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

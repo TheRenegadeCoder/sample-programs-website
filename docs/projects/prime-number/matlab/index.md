@@ -8,6 +8,8 @@ Welcome to the Prime Number in Matlab page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Matlab
 function result = prime_number(n)
 
@@ -49,6 +51,8 @@ else
 
 end
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Capitalize in Javascript page! Here, you'll find the source code 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 function capitalize(stringToCapitalize) {
     return stringToCapitalize[0].toUpperCase() + stringToCapitalize.slice(1);
@@ -25,6 +27,8 @@ function main() {
 main();
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

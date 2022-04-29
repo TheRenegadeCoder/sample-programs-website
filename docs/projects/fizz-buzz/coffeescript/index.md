@@ -8,6 +8,8 @@ Welcome to the Fizz Buzz in Coffeescript page! Here, you'll find the source code
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Coffeescript
 for i in [1..100]	
     if i % 15 is 0	
@@ -19,6 +21,8 @@ for i in [1..100]
     else	
       console.log i 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Even Odd in Rust page! Here, you'll find the source code for this
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Rust
 // Requirement is in https://sample-programs.therenegadecoder.com/projects/even-odd/
 // Program to accept an integer on the command line and outputs if the integer is Even or Odd.
@@ -33,6 +35,8 @@ fn main() {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

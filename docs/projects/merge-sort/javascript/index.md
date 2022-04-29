@@ -8,6 +8,8 @@ Welcome to the Merge Sort in Javascript page! Here, you'll find the source code 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 function mergeSort (unsortedArray) {
   if (unsortedArray.length <= 1) {
@@ -65,6 +67,8 @@ else {
     console.log(usage);
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

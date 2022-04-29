@@ -8,6 +8,8 @@ Welcome to the Hello World in Ada page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Ada
 with Text_IO;
 procedure Hello_World is
@@ -17,6 +19,8 @@ begin
 end Hello_World;
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

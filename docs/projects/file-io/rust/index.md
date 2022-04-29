@@ -8,6 +8,8 @@ Welcome to the File Io in Rust page! Here, you'll find the source code for this 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Rust
 use std::fs::File;
 use std::io::prelude::*;
@@ -45,6 +47,8 @@ fn main() -> Result<()> {
     Ok(read_file()?)
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Factorial in Javascript page! Here, you'll find the source code f
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 /**
  * Calculate the factorial of a given integer input.
@@ -69,6 +71,8 @@ function main(input) {
 const input = process.argv[2]
 main(input)
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

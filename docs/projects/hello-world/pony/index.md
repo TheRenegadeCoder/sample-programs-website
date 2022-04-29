@@ -8,12 +8,16 @@ Welcome to the Hello World in Pony page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Pony
 actor Main
   new create(env: Env) =>
     env.out.print("Hello, World!")
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

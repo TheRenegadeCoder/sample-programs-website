@@ -8,6 +8,8 @@ Welcome to the Fibonacci in Swift page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Swift
 import Foundation
 
@@ -41,6 +43,8 @@ guard CommandLine.argc == 2, let number = Int(CommandLine.arguments[1]) else {
 
 fibonacciProgram(number)
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

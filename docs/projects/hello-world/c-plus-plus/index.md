@@ -16,6 +16,8 @@ Welcome to the Hello World in C++ page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```C++
 #include <iostream>
 using namespace std;
@@ -27,6 +29,8 @@ int main()
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Sleep Sort in C# page! Here, you'll find the source code for this
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```C#
 using System;
 using System.Linq;
@@ -47,6 +49,8 @@ public class SleepSort
     }
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

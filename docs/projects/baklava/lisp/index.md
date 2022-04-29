@@ -8,6 +8,8 @@ Welcome to the Baklava in Lisp page! Here, you'll find the source code for this 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Lisp
 (defparameter space_list '(#\space))
 (defparameter star_list '(#\*))
@@ -26,6 +28,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
     (push #\space space_list)
 )
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

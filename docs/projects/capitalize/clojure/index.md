@@ -8,6 +8,8 @@ Welcome to the Capitalize in Clojure page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Clojure
 (ns capitalize
 	(:gen-class))
@@ -36,6 +38,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 (main *command-line-args*)
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

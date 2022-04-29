@@ -8,6 +8,8 @@ Welcome to the Baklava in Perl page! Here, you'll find the source code for this 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Perl
 #!/usr/bin/env perl
 use strict;
@@ -23,6 +25,8 @@ for my $j (0..$size){
     print " "x($j), "*"x($size*2 - $j*2 + 1), "\n";
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

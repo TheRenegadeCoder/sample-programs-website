@@ -8,6 +8,8 @@ Welcome to the Hello World in Mojiscript page! Here, you'll find the source code
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Mojiscript
 import log from 'mojiscript/console/log'
 import pipe from 'mojiscript/core/pipe'
@@ -21,6 +23,8 @@ const main = pipe ([
 
 run ({ state, main })
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

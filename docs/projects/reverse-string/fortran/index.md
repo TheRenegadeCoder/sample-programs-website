@@ -8,6 +8,8 @@ Welcome to the Reverse String in Fortran page! Here, you'll find the source code
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Fortran
 program reversestring
 character(len=100) :: argument
@@ -29,6 +31,8 @@ end if
 end program reversestring
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

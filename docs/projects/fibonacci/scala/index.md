@@ -8,6 +8,8 @@ Welcome to the Fibonacci in Scala page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Scala
 import javax.xml.bind.ValidationException
 
@@ -43,6 +45,8 @@ object TestClass {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

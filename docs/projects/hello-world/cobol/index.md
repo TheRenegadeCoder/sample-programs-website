@@ -15,6 +15,8 @@ Welcome to the Hello World in Cobol page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Cobol
 IDENTIFICATION DIVISION.
 PROGRAM-ID. HELLO-WORLD.
@@ -23,6 +25,8 @@ PROCEDURE DIVISION.
 STOP RUN.
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

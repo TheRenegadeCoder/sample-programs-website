@@ -8,9 +8,13 @@ Welcome to the Quine in C# page! Here, you'll find the source code for this prog
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```C#
 class Quine { static void Main() { var s = "class Quine {{ static void Main() {{ var s = {0}{1}{0}; System.Console.WriteLine(s, (char)34, s); }} }}"; System.Console.WriteLine(s, (char)34, s); } }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

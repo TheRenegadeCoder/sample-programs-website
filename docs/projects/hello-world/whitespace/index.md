@@ -8,6 +8,8 @@ Welcome to the Hello World in Whitespace page! Here, you'll find the source code
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Whitespace
 S S S T	S S T	S S S L
 T	L
@@ -40,6 +42,8 @@ L
 L
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

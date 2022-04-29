@@ -8,6 +8,8 @@ Welcome to the Prime Number in Fortran page! Here, you'll find the source code f
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Fortran
 ! In program name, - is not allowed
 !works till 100938872634753805466563377840038871040
@@ -94,6 +96,8 @@ program prime_check
 end program
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

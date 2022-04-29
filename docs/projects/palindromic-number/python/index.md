@@ -8,6 +8,8 @@ Welcome to the Palindromic Number in Python page! Here, you'll find the source c
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Python
 #Check if number is palindromic
 import sys
@@ -52,6 +54,8 @@ if __name__ == "__main__":
 
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,9 +8,13 @@ Welcome to the Hello World in Autohotkey page! Here, you'll find the source code
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Autohotkey
 ﻿MsgBox, 0x30, Sample Programs, Hello, World!
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

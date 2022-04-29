@@ -16,6 +16,8 @@ Welcome to the Hello World in D page! Here, you'll find the source code for this
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```D
 import std.stdio;
 
@@ -25,6 +27,8 @@ void main()
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

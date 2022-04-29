@@ -8,6 +8,8 @@ Welcome to the Capitalize in Lisp page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Lisp
 ;;Taken from the Common Lisp Cookbook Project (strings page)
 (defun split-string (string)
@@ -30,6 +32,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
   (t (write-line (join-string (cons (capitalize (car input)) (cdr input))))))
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

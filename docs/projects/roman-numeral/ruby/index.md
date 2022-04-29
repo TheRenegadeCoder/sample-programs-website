@@ -8,6 +8,8 @@ Welcome to the Roman Numeral in Ruby page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Ruby
 ROMAN_VALUES = {
   "I": 1,
@@ -56,6 +58,8 @@ end
 
 print(roman_to_decimal(ARGV[0]))
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Hello World in Idris page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Idris
 module Main
 
@@ -15,6 +17,8 @@ main : IO ()
 main = putStrLn "Hello, World!"
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

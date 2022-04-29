@@ -8,6 +8,8 @@ Welcome to the File Io in Matlab page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Matlab
 path = "output.txt";
 
@@ -32,6 +34,8 @@ fprintf(a)
 
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Bubble Sort in Visual Basic page! Here, you'll find the source co
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Visual Basic
 Public Module BubbleSort
     Public Sub Main(args As String())
@@ -36,6 +38,8 @@ Public Module BubbleSort
 End Module
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

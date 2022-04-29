@@ -8,6 +8,8 @@ Welcome to the Reverse String in Clojure page! Here, you'll find the source code
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Clojure
 (ns reverse-string
 	(:gen-class))
@@ -17,6 +19,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 
 (main (first *command-line-args*))
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

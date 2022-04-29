@@ -8,6 +8,8 @@ Welcome to the Fizz Buzz in Dg page! Here, you'll find the source code for this 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Dg
 fizz_buzz = n -> if
     n % 15 == 0 => "FizzBuzz"
@@ -22,6 +24,8 @@ main = start end ruleset ->
 main 1 100 fizz_buzz
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

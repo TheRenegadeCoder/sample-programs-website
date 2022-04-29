@@ -8,6 +8,8 @@ Welcome to the Fizz Buzz in Crystal page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Crystal
 i = 1
 while i < 101
@@ -23,6 +25,8 @@ while i < 101
   i = i + 1
 end
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

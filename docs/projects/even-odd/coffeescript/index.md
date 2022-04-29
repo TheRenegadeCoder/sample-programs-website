@@ -8,6 +8,8 @@ Welcome to the Even Odd in Coffeescript page! Here, you'll find the source code 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Coffeescript
 USAGE = "Usage: please input a number"
 main = (arg) ->
@@ -20,6 +22,8 @@ main = (arg) ->
 
 console.log main(process.argv[2])
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

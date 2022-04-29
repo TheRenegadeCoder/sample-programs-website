@@ -16,6 +16,8 @@ Welcome to the Capitalize in Dart page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Dart
 import 'dart:io';
 
@@ -33,6 +35,8 @@ String capitalize(String input) =>
     '${input[0].toUpperCase()}${input.substring(1)}';
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Fibonacci in Pascal page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Pascal
 program Fibonacci(input, output, stdErr);
 (*Read count of fibonnaci numbers into a string
@@ -45,6 +47,8 @@ begin
 end.
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

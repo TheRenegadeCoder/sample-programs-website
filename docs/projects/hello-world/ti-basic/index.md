@@ -8,11 +8,15 @@ Welcome to the Hello World in Ti Basic page! Here, you'll find the source code f
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Ti Basic
 ClrHome
 Disp "HELLO, WORLD!"
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Even Odd in Ruby page! Here, you'll find the source code for this
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Ruby
 # Requirement https://sample-programs.therenegadecoder.com/projects/even-odd/
 # Issue 1839
@@ -36,6 +38,8 @@ else
 end
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

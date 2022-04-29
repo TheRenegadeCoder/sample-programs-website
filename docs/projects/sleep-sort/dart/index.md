@@ -8,6 +8,8 @@ Welcome to the Sleep Sort in Dart page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Dart
 import 'dart:async';
 
@@ -33,6 +35,8 @@ Future<List<int>> sleepsort(Iterable<int> input) async {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

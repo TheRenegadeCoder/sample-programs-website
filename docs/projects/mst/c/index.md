@@ -8,6 +8,8 @@ Welcome to the Mst in C page! Here, you'll find the source code for this program
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```C
 #include  <stdio.h>
 #include <stdlib.h>
@@ -151,6 +153,8 @@ int main(int argc,char **argv)
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

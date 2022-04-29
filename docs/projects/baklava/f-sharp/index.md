@@ -8,6 +8,8 @@ Welcome to the Baklava in F# page! Here, you'll find the source code for this pr
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```F#
 let line space asterisk =
     String.replicate space " "  + String.replicate asterisk "*" + "\n"
@@ -28,6 +30,8 @@ let main argv =
 
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

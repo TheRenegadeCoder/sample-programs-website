@@ -16,6 +16,8 @@ Welcome to the Reverse String in Scheme page! Here, you'll find the source code 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Scheme
 (define (reverse-string x)
   (list->string (reverse (string->list x))))
@@ -23,6 +25,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 (display (reverse-string (list-ref (command-line) 1)))
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

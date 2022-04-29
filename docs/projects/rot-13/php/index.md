@@ -8,6 +8,8 @@ Welcome to the Rot 13 in Php page! Here, you'll find the source code for this pr
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Php
 <?php
 
@@ -24,6 +26,8 @@ function rot13(string $string) {
 echo rot13($argv[1]) . "\n";
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

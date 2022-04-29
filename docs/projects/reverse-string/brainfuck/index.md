@@ -8,10 +8,14 @@ Welcome to the Reverse String in Brainfuck page! Here, you'll find the source co
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Brainfuck
 >,[>,]<[.<]
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Prime Number in Javascript page! Here, you'll find the source cod
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 const isPrime = (number) => {
     if(number <= 1)
@@ -31,6 +33,8 @@ const isPrime = (number) => {
   }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,12 +8,16 @@ Welcome to the Hello World in Fortran page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Fortran
 PROGRAM HELLOWORLD
   PRINT *, 'Hello, World!'
 END
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

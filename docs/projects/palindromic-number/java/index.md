@@ -8,6 +8,8 @@ Welcome to the Palindromic Number in Java page! Here, you'll find the source cod
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Java
 public class PalindromicNumber {
 
@@ -40,6 +42,8 @@ public class PalindromicNumber {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

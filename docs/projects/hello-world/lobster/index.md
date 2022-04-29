@@ -8,6 +8,8 @@ Welcome to the Hello World in Lobster page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Lobster
 import std
 import vec
@@ -20,6 +22,8 @@ while gl_frame() and gl_button("escape") != 1:
     check(gl_set_font_name("data/fonts/US101/US101.TTF") and gl_set_font_size(32), "can\'t load font!")
     gl_text("Hello World!")
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Bubble Sort in Rust page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Rust
 use std::env;
 
@@ -49,6 +51,8 @@ fn main() {
 
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

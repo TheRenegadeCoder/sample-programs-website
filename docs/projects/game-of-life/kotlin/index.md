@@ -8,6 +8,8 @@ Welcome to the Game Of Life in Kotlin page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Kotlin
 import java.awt.BasicStroke
 import java.awt.Color
@@ -147,6 +149,8 @@ fun main(args: Array<String>) {
     gui.run()
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

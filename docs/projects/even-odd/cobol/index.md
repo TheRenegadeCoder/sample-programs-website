@@ -15,6 +15,8 @@ Welcome to the Even Odd in Cobol page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Cobol
         IDENTIFICATION DIVISION.
         PROGRAM-ID. HELLO-WORLD.
@@ -38,6 +40,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
            STOP RUN.
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

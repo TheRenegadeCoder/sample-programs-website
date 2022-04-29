@@ -96,7 +96,9 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
     )
     doc.add_header("Current Solution", level=2)
     doc.add_paragraph("Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.")
+    doc.add_paragraph("{% raw %}")
     doc.add_code(program.code(), lang=program.language())
+    doc.add_paragraph("{% endraw %}")
     _add_section(doc, str(root_path / ".."), language, "How to Implement the Solution")
     _add_section(doc, str(root_path / ".."), language, "How to Run the Solution")
     try:

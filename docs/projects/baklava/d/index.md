@@ -8,6 +8,8 @@ Welcome to the Baklava in D page! Here, you'll find the source code for this pro
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```D
 import std.stdio, std.array;
 
@@ -27,6 +29,8 @@ void main (string[ ] args)
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

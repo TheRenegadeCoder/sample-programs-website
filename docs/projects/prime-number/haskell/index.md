@@ -8,6 +8,8 @@ Welcome to the Prime Number in Haskell page! Here, you'll find the source code f
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Haskell
 module Main where
 
@@ -40,6 +42,8 @@ main = do
       | otherwise   -> putStrLn $ output $ isPrime x
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

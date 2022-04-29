@@ -16,12 +16,16 @@ Welcome to the Reverse String in Javascript page! Here, you'll find the source c
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 const reverse = s => s.split('').reverse().join('');
 
 console.log(reverse(process.argv[2]));
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

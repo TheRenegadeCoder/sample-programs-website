@@ -8,6 +8,8 @@ Welcome to the Fizz Buzz in Pascal page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Pascal
 program FizzBuzz(output);
 var
@@ -25,6 +27,8 @@ begin
 end.
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

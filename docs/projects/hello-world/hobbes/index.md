@@ -8,10 +8,14 @@ Welcome to the Hello World in Hobbes page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Hobbes
 putStr("Hello, World!")
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

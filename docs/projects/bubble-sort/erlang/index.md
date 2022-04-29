@@ -8,6 +8,8 @@ Welcome to the Bubble Sort in Erlang page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Erlang
 -module(bubble_sort).
 -export([start/0, start/1]).
@@ -60,6 +62,8 @@ handle_output([Num|NumList]) ->
     io:format("~p, ", [Num]),
     handle_output(NumList).
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

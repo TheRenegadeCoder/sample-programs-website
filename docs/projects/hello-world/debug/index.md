@@ -8,6 +8,8 @@ Welcome to the Hello World in Debug page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Debug
 ; ------------------------------------------------------------------
 ; helloworld.asm
@@ -35,6 +37,8 @@ _main:                            ; the entry point! void main()
         add     esp, 4            ; clear the stack
         ret                       ; return
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

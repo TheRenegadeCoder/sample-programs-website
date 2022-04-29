@@ -8,6 +8,8 @@ Welcome to the Factorial in Elixir page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Elixir
 defmodule Factorial do
   def main(args) do
@@ -46,6 +48,8 @@ end
 Factorial.main(System.argv())
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

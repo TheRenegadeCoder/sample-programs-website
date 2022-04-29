@@ -8,12 +8,16 @@ Welcome to the Hello World in Egison page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Egison
 ;; Prints "Hello, World!" to the standard output.
 (define $main
   (lambda [$args]
     (write "Hello, World!\n")))
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

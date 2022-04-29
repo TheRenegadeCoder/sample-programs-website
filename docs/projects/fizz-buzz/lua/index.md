@@ -8,6 +8,8 @@ Welcome to the Fizz Buzz in Lua page! Here, you'll find the source code for this
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Lua
 for i = 1, 100 do
     output = ""
@@ -28,6 +30,8 @@ for i = 1, 100 do
 end
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

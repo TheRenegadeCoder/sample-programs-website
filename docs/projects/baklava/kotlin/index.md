@@ -16,6 +16,8 @@ Welcome to the Baklava in Kotlin page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Kotlin
 fun main (args: Array<String>)
 {
@@ -27,6 +29,8 @@ fun main (args: Array<String>)
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

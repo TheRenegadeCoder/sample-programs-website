@@ -8,6 +8,8 @@ Welcome to the Factorial in Fortran page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Fortran
 ! In program name, - is not allowed
 !works till 77
@@ -62,6 +64,8 @@ program factorial_generate
 end program
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

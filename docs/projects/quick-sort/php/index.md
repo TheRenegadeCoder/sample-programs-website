@@ -8,6 +8,8 @@ Welcome to the Quick Sort in Php page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Php
 <?php
  
@@ -43,6 +45,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 ?>
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

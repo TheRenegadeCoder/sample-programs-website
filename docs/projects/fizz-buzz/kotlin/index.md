@@ -16,6 +16,8 @@ Welcome to the Fizz Buzz in Kotlin page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Kotlin
 fun main(args: Array<String>){
     for (i in 1..100){
@@ -28,6 +30,8 @@ fun main(args: Array<String>){
     }
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

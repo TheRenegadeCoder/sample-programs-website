@@ -8,6 +8,8 @@ Welcome to the Convex Hull in Python page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Python
 from math import sqrt
 import sys
@@ -85,6 +87,8 @@ if __name__ == '__main__':
     print(convex_polygon_coords)
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

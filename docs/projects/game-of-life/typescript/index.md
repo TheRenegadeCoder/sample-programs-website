@@ -8,6 +8,8 @@ Welcome to the Game Of Life in Typescript page! Here, you'll find the source cod
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Typescript
 module Conway {
     export class Cell {
@@ -136,6 +138,8 @@ module Conway {
 
 const game = new Conway.GameOfLife();
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

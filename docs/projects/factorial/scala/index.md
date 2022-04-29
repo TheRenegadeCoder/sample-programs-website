@@ -8,6 +8,8 @@ Welcome to the Factorial in Scala page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Scala
 // Scala Program to calculate 
 // Factorial of a number 
@@ -37,6 +39,8 @@ object GFG
 } 
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

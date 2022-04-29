@@ -8,6 +8,8 @@ Welcome to the Quick Sort in Scala page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Scala
 import scala.io.StdIn.readLine
 import scala.reflect.ClassTag
@@ -51,6 +53,8 @@ object QuickSortSample {
   }
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

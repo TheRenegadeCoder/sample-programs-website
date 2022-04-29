@@ -8,6 +8,8 @@ Welcome to the Fizz Buzz in Erlang page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Erlang
 -module(fizz_buzz).
 -export([start/0]).
@@ -24,6 +26,8 @@ fizz_buzz(N, Max) when N rem 3 == 0 -> io:format("Fizz~n", []), fizz_buzz(N+1, M
 fizz_buzz(N, Max) -> io:format("~p~n", [N]), fizz_buzz(N+1, Max).
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

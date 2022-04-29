@@ -8,6 +8,8 @@ Welcome to the Reverse String in Pascal page! Here, you'll find the source code 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Pascal
 program reversestring(input, output, stdErr);
 (*Accept a String from Command Line, Reverse it & Print it*)
@@ -31,6 +33,8 @@ buf := paramStr(1);
 end.
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

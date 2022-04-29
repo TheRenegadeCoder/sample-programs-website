@@ -8,6 +8,8 @@ Welcome to the Lcs in Elixir page! Here, you'll find the source code for this pr
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Elixir
 defmodule LongestCommonSubsequence do
   def main() do
@@ -62,6 +64,8 @@ end
 LongestCommonSubsequence.main()
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

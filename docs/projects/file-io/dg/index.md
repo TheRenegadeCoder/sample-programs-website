@@ -8,6 +8,8 @@ Welcome to the File Io in Dg page! Here, you'll find the source code for this pr
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Dg
 import '/os'
 
@@ -32,6 +34,8 @@ write_file filename "Example text"
 read_file filename
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

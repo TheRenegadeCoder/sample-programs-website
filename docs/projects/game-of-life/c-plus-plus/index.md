@@ -8,6 +8,8 @@ Welcome to the Game Of Life in C++ page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```C++
 #include <iostream>
 #include <cstdlib>
@@ -201,6 +203,8 @@ void determineState(bool gridOne[gridSize+1][gridSize+1]){
     }
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

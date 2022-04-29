@@ -15,10 +15,14 @@ Welcome to the Hello World in Typescript page! Here, you'll find the source code
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Typescript
 console.log("Hello, World!");
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Fizz Buzz in Php page! Here, you'll find the source code for this
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Php
 <?php
 
@@ -34,6 +36,8 @@ for ($i = 1; $i < 101; $i++)
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

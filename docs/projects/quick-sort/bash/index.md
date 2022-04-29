@@ -8,6 +8,8 @@ Welcome to the Quick Sort in Bash page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Bash
 #!/bin/bash
 
@@ -63,6 +65,8 @@ echo "${arrayString// /, }"
 exit 0
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

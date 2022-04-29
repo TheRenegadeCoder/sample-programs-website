@@ -8,6 +8,8 @@ Welcome to the Fizz Buzz in Typescript page! Here, you'll find the source code f
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Typescript
 let line: string;
 
@@ -25,6 +27,8 @@ for (let i = 0; i <= 100; i++) {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Fibonacci in Boo page! Here, you'll find the source code for this
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Boo
 def fib():
     a, b = 0L, 1L       # The 'L's make the numbers double word length (typically 64 bits)
@@ -20,6 +22,8 @@ for index as int, element in zip(range(5), fib()):
     print("${index+1}: ${element}")
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

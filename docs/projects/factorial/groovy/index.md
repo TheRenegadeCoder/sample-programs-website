@@ -8,6 +8,8 @@ Welcome to the Factorial in Groovy page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Groovy
 class Factorial {
     static def factorial(BigInteger n) {
@@ -32,6 +34,8 @@ class Factorial {
     }
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

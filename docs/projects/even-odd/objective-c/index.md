@@ -8,6 +8,8 @@ Welcome to the Even Odd in Objective C page! Here, you'll find the source code f
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Objective C
 #import <Foundation/Foundation.h>
 int main (int argc, char *argv[])
@@ -29,6 +31,8 @@ int main (int argc, char *argv[])
  return 0;
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

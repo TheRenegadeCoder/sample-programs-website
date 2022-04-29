@@ -8,6 +8,8 @@ Welcome to the Factorial in D page! Here, you'll find the source code for this p
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```D
 
 
@@ -34,6 +36,8 @@ int main(string[] args)
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Even Odd in Pascal page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Pascal
 program a1(input, output, stdErr);
 (* Read Number from commandline, print  Even or Odd *)
@@ -34,6 +36,8 @@ begin
 end.
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

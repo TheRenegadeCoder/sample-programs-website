@@ -8,6 +8,8 @@ Welcome to the Palindromic Number in Javascript page! Here, you'll find the sour
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 /*
 Accept a number in command line
@@ -56,6 +58,8 @@ const isPalindromic = (number) => {
   }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

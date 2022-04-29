@@ -8,6 +8,8 @@ Welcome to the Selection Sort in Matlab page! Here, you'll find the source code 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Matlab
 function sorted = selection_sort(array)
   if nargin == 0 || length(array)<=1
@@ -23,6 +25,8 @@ function sorted = selection_sort(array)
   end
 end
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

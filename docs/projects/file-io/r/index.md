@@ -8,6 +8,8 @@ Welcome to the File Io in R page! Here, you'll find the source code for this pro
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```R
 
 file_create_result = tryCatch({
@@ -36,6 +38,8 @@ if(file.exists("output.txt")){
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

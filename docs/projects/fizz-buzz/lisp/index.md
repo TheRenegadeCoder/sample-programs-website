@@ -16,6 +16,8 @@ Welcome to the Fizz Buzz in Lisp page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Lisp
 (defun divides-by (num divisor)
     (= (mod num divisor) 0))
@@ -28,6 +30,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
         ((divides-by (+ num 1) 5) "Buzz")
         (t (write-to-string (+ num 1))))))
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

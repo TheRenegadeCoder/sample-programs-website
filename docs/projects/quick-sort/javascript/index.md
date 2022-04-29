@@ -8,6 +8,8 @@ Welcome to the Quick Sort in Javascript page! Here, you'll find the source code 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 /**
  * Quick sort algorithm
@@ -94,6 +96,8 @@ else {
 
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

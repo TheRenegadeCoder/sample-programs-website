@@ -8,6 +8,8 @@ Welcome to the Fizz Buzz in Vimscript page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Vimscript
 func! FizzBuzz()
     for l:i in range(1, 100)
@@ -31,6 +33,8 @@ endfunc
 au BufEnter,BufReadPost * call FizzBuzz()
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

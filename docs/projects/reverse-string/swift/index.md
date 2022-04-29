@@ -16,6 +16,8 @@ Welcome to the Reverse String in Swift page! Here, you'll find the source code f
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Swift
 import Foundation
 
@@ -30,6 +32,8 @@ let reversedString = String(reversedCollection)
 print(reversedString)
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

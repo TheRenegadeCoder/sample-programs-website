@@ -8,12 +8,16 @@ Welcome to the Fibonacci in Quack page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Quack
 fn fibonacci(0) :- 0
 fn fibonacci(1) :- 1
 fn fibonacci(n) :- fibonacci(n - 1) + fibonacci(n - 2)
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

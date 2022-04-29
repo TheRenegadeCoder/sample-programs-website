@@ -8,6 +8,8 @@ Welcome to the Game Of Life in Java page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Java
 import java.util.ArrayList;
 import javax.swing.*;
@@ -184,6 +186,8 @@ public class GameOfLife {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

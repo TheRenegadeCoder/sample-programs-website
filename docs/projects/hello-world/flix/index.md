@@ -8,9 +8,13 @@ Welcome to the Hello World in Flix page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Flix
 def main(): String = "Hello World!"
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,11 +8,15 @@ Welcome to the Quine in C page! Here, you'll find the source code for this progr
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```C
 #include "stdio.h"
 int main() { char* s="#include %cstdio.h%c%cint main() { char* s=%c%s%c; printf(s,34,34,10,34,s,34,10); return 0; }%c"; printf(s,34,34,10,34,s,34,10); return 0; }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

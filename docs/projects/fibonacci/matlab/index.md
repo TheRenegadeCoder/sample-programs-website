@@ -8,6 +8,8 @@ Welcome to the Fibonacci in Matlab page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Matlab
 function f = fibonacci(n)
 
@@ -37,6 +39,8 @@ f = mat2str(a);
 end
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

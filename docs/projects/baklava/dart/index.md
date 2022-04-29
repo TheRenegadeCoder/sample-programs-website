@@ -8,6 +8,8 @@ Welcome to the Baklava in Dart page! Here, you'll find the source code for this 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Dart
 main() {
   for (var i = 0; i < 10; i++) {
@@ -19,6 +21,8 @@ main() {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

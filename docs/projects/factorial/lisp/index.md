@@ -8,6 +8,8 @@ Welcome to the Factorial in Lisp page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Lisp
 (defun factorial (n)
   (if (= n 0)
@@ -27,6 +29,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
   (t (print (factorial num)))
 )
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

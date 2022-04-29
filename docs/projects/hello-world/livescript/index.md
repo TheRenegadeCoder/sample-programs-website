@@ -8,10 +8,14 @@ Welcome to the Hello World in Livescript page! Here, you'll find the source code
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Livescript
 console.log 'hello, world!'
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

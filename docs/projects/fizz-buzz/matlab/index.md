@@ -8,6 +8,8 @@ Welcome to the Fizz Buzz in Matlab page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Matlab
 function [] = fizzBuzz(x)
 
@@ -35,6 +37,8 @@ function [] = fizzBuzz(x)
   end
 end
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

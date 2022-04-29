@@ -8,6 +8,8 @@ Welcome to the Lcs in Javascript page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 /**
  * Main Code for Longest Commmon Subsequence
@@ -75,6 +77,8 @@ else{
 
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

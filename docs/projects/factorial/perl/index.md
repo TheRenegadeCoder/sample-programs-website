@@ -8,6 +8,8 @@ Welcome to the Factorial in Perl page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Perl
 #!/usr/bin/env perl
 use strict;
@@ -42,6 +44,8 @@ sub usage {
 	exit;
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

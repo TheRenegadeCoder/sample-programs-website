@@ -16,6 +16,8 @@ Welcome to the Reverse String in Visual Basic page! Here, you'll find the source
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Visual Basic
 Public Module ReverseString
   Public Sub Main(args() As String)
@@ -43,6 +45,8 @@ Public Module ReverseString
 End Module
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

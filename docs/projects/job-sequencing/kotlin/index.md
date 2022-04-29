@@ -8,6 +8,8 @@ Welcome to the Job Sequencing in Kotlin page! Here, you'll find the source code 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Kotlin
 fun main(args: Array<String>) {
     val jobs = buildJobs(args)
@@ -59,6 +61,8 @@ class Job(val profit: Int, val deadline: Int)
 fun String.toIntArray() = split(",").mapNotNull { it.trim().toIntOrNull() }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

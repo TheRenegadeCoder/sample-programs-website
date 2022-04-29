@@ -8,10 +8,14 @@ Welcome to the Quine in Ruby page! Here, you'll find the source code for this pr
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Ruby
 s="s=%c%s%c; printf s,34,s,34,10%c"; printf s,34,s,34,10
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

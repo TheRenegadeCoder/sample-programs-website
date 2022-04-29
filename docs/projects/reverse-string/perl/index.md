@@ -8,6 +8,8 @@ Welcome to the Reverse String in Perl page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Perl
 
 my ($str) = @ARGV;
@@ -19,6 +21,8 @@ if (not defined $str) {
 print scalar reverse $str;
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

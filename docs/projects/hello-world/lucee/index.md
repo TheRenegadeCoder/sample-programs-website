@@ -8,6 +8,8 @@ Welcome to the Hello World in Lucee page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Lucee
 <html>
 	<head>
@@ -22,6 +24,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 </html>
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

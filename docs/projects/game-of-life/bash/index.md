@@ -8,6 +8,8 @@ Welcome to the Game Of Life in Bash page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Bash
 #!/bin/bash
 
@@ -265,6 +267,8 @@ done
 
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

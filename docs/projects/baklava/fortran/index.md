@@ -8,6 +8,8 @@ Welcome to the Baklava in Fortran page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Fortran
 program Baklava
     do i = 0, 10, 1
@@ -19,6 +21,8 @@ program Baklava
 end program Baklava
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

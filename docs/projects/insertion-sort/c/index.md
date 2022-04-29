@@ -8,6 +8,8 @@ Welcome to the Insertion Sort in C page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```C
 #include <stdio.h>
 #include <errno.h>
@@ -120,6 +122,8 @@ void insertion_sort(long * arr_sort, int n)
     }
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

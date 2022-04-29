@@ -8,6 +8,8 @@ Welcome to the Capitalize in Pascal page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Pascal
 program Capitalise(input, output, stdErr);
 (* Accept a String from commandline, convert first character to upper case
@@ -25,6 +27,8 @@ begin
 end.
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

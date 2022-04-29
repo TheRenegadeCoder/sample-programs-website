@@ -8,6 +8,8 @@ Welcome to the Bubble Sort in Kotlin page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Kotlin
 fun main(args: Array<String>) 
 {
@@ -54,6 +56,8 @@ fun main(args: Array<String>)
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

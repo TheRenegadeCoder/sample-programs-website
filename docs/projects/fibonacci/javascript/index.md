@@ -15,6 +15,8 @@ Welcome to the Fibonacci in Javascript page! Here, you'll find the source code f
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 function fibonacci(num) {
     let n = Number(num);
@@ -38,6 +40,8 @@ if (num && !isNaN(num)) {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

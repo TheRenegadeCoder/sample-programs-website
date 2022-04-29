@@ -8,6 +8,8 @@ Welcome to the Baklava in Erlang page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Erlang
 -module(baklava).
 -export([start/1]).
@@ -60,6 +62,8 @@ print(N, star) ->
     print(N-1, star).
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

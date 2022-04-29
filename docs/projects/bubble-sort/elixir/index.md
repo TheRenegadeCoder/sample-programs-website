@@ -8,6 +8,8 @@ Welcome to the Bubble Sort in Elixir page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Elixir
 defmodule Bubble do
   @doc """
@@ -56,6 +58,8 @@ end
 Bubble.main(System.argv())
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

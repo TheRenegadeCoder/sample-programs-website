@@ -8,6 +8,8 @@ Welcome to the Merge Sort in Kotlin page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Kotlin
 fun main(args: Array<String>) 
 {
@@ -69,6 +71,8 @@ fun mergeSort(arr1: IntArray):IntArray
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

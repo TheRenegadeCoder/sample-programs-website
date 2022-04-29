@@ -8,6 +8,8 @@ Welcome to the Reverse String in Apex page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Apex
 String original= 'abcdef';
 String revStr = ' ';
@@ -19,6 +21,8 @@ for (Integer i = original.length()-1; i >= 0; i--)
 
 system.debug(revStr );
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

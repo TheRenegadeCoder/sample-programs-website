@@ -8,6 +8,8 @@ Welcome to the Selection Sort in Bash page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Bash
 #!/bin/bash
 # By Jan-Hendrik Ewers (iwishiwasaneagle)
@@ -51,6 +53,8 @@ str=${str:2}
 echo $str
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

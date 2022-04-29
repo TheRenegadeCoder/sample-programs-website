@@ -8,6 +8,8 @@ Welcome to the Quick Sort in Java page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Java
 import java.util.ArrayList;
 
@@ -78,6 +80,8 @@ public class QuickSort {
     } 
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

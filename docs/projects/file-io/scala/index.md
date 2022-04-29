@@ -16,6 +16,8 @@ Welcome to the File Io in Scala page! Here, you'll find the source code for this
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Scala
 import scala.io.Source
 import java.io.{FileNotFoundException, IOException, File, FileOutputStream, PrintWriter}
@@ -126,6 +128,8 @@ object FileIO {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

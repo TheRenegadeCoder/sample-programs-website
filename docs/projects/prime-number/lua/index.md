@@ -8,6 +8,8 @@ Welcome to the Prime Number in Lua page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Lua
 --returns true if prime
 function isPrime(n)
@@ -45,6 +47,8 @@ end
 isPrime(arg[1])
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

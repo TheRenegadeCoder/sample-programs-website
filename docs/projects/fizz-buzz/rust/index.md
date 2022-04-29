@@ -16,6 +16,8 @@ Welcome to the Fizz Buzz in Rust page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Rust
 fn main() {
     for number in 1..101 {
@@ -32,6 +34,8 @@ fn main() {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Reverse String in Vimscript page! Here, you'll find the source co
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Vimscript
 func! Reverse(str)
     let l:r = join(reverse(split(a:str, '\zs')), '')
@@ -15,6 +17,8 @@ func! Reverse(str)
 endfunc
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

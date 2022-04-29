@@ -8,6 +8,8 @@ Welcome to the File Io in Bash page! Here, you'll find the source code for this 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Bash
 #!/bin/bash
 
@@ -23,6 +25,8 @@ write_file "File text line 1\nFile text line 2\nFile text line 3"
 read_file
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

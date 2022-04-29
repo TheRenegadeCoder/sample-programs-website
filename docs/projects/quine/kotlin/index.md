@@ -8,6 +8,8 @@ Welcome to the Quine in Kotlin page! Here, you'll find the source code for this 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Kotlin
 fun main(args: Array<String>) { //Prints out it's own code
 	val s = """fun main(args: Array<String>) { //Prints out it's own code
@@ -17,6 +19,8 @@ fun main(args: Array<String>) { //Prints out it's own code
 	print("$s\"\"\"$s\"\"\"\n\n\tval a = \"\"\"$a\"\"\"\n\tprint(\"${a.replace(']' + 1, '$')}\")\n}\n")
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

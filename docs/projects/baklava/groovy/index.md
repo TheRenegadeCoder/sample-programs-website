@@ -8,6 +8,8 @@ Welcome to the Baklava in Groovy page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Groovy
 (0..9).each{ index ->
     println "${' ' * (10 - index)}${'*' * (index * 2 + 1)}"
@@ -16,6 +18,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
     println "${' ' * (10 - index)}${'*' * (index * 2 + 1)}"
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

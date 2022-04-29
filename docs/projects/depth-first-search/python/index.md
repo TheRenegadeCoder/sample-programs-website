@@ -8,6 +8,8 @@ Welcome to the Depth First Search in Python page! Here, you'll find the source c
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Python
 import sys
 
@@ -69,6 +71,8 @@ if __name__ == '__main__':
     main()
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

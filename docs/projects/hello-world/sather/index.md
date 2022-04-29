@@ -8,6 +8,8 @@ Welcome to the Hello World in Sather page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Sather
 class HELLO_WORLD is
    main is
@@ -16,6 +18,8 @@ class HELLO_WORLD is
 end;
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

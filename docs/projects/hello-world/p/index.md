@@ -8,6 +8,8 @@ Welcome to the Hello World in P page! Here, you'll find the source code for this
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```P
 //HelloWorld.p
 machine HelloWorld
@@ -20,6 +22,8 @@ machine HelloWorld
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

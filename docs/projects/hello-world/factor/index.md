@@ -8,10 +8,14 @@ Welcome to the Hello World in Factor page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Factor
 "Hello, World!" print
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

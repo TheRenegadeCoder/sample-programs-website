@@ -8,6 +8,8 @@ Welcome to the Insertion Sort in Java page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Java
 import java.util.ArrayList;
 
@@ -75,6 +77,8 @@ public class InsertionSort {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

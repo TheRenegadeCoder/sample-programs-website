@@ -8,6 +8,8 @@ Welcome to the Reverse String in Nim page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Nim
 # For reversing a string passed in as a parameter
 import os
@@ -28,6 +30,8 @@ echo reversed_text
 
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

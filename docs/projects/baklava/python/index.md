@@ -8,6 +8,8 @@ Welcome to the Baklava in Python page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Python
 for i in range(0, 10, 1):
     print((" " * (10 - i)) + ("*" * (i * 2 + 1)))
@@ -16,6 +18,8 @@ for i in range(10, -1, -1):
     print((" " * (10 - i)) + ("*" * (i * 2 + 1)))
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

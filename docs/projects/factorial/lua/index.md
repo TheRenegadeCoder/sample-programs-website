@@ -8,6 +8,8 @@ Welcome to the Factorial in Lua page! Here, you'll find the source code for this
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Lua
 
 --
@@ -57,6 +59,8 @@ end
 main(arg[1])
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

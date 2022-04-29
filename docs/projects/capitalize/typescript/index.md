@@ -8,6 +8,8 @@ Welcome to the Capitalize in Typescript page! Here, you'll find the source code 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Typescript
 const myStr: string = "hello world";
 
@@ -15,6 +17,8 @@ const capitalize = (str: string = "no input was provided") => str[0].toUpperCase
 
 console.log(capitalize(myStr));
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

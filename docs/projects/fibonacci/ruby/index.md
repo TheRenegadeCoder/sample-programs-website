@@ -8,6 +8,8 @@ Welcome to the Fibonacci in Ruby page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Ruby
 def fibonacci(number)
     a = 0
@@ -32,6 +34,8 @@ else
     print("Usage: please input the count of fibonacci numbers to output")
 end
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

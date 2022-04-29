@@ -8,6 +8,8 @@ Welcome to the Hello World in Golo page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Golo
 module hello.World
 
@@ -16,6 +18,8 @@ function main = |args| {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

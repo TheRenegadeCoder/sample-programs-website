@@ -16,6 +16,8 @@ Welcome to the Reverse String in Ruby page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Ruby
 if ARGV.length < 1
     puts "Usage: ruby reverse-string.rb [string]"
@@ -25,6 +27,8 @@ else
     puts string.reverse
 end
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

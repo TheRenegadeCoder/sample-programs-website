@@ -8,6 +8,8 @@ Welcome to the Factorial in Java page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Java
 public class Factorial
 {
@@ -45,6 +47,8 @@ public class Factorial
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

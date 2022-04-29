@@ -8,6 +8,8 @@ Welcome to the Hello World in Microsoft Macro Assembler page! Here, you'll find 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Microsoft Macro Assembler
 PAGE 60,132
 ;
@@ -40,6 +42,8 @@ XSEG ENDS
  END
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

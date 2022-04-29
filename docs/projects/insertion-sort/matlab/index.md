@@ -8,6 +8,8 @@ Welcome to the Insertion Sort in Matlab page! Here, you'll find the source code 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Matlab
 function sorted = insertion_sort(array)
 % Insertion sort in ascending order
@@ -38,6 +40,8 @@ input_array = [9 8 7 6 5 4];
 output_array = insertion_sort(input_array);
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

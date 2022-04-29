@@ -8,6 +8,8 @@ Welcome to the Lcs in Kotlin page! Here, you'll find the source code for this pr
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Kotlin
 
 private fun lcsOf(a: MutableList<String>, b: MutableList<String>, indexA: Int, indexB: Int): MutableList<String> {
@@ -42,6 +44,8 @@ fun main(args: Array<String>) {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

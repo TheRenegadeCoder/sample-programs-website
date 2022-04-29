@@ -16,12 +16,16 @@ Welcome to the Hello World in Haskell page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Haskell
 module Main where
 
 main = putStrLn "Hello, World!"
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Fizz Buzz in Fortran page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Fortran
 program fizz_buzz
         integer :: i
@@ -27,6 +29,8 @@ program fizz_buzz
 end program fizz_buzz
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

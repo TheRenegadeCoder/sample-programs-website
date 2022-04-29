@@ -8,6 +8,8 @@ Welcome to the Binary Search in Javascript page! Here, you'll find the source co
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 const [, , array, target] = process.argv;
 const error = 'Usage: please provide a list of sorted integers ("1, 4, 5, 11, 12") and the integer to find ("11")';
@@ -32,6 +34,8 @@ const binarySearch = (array, target, start = 0, end = array.length - 1) => {
 console.log(array && target ? binarySearch(array.split(', '), target) : error);
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

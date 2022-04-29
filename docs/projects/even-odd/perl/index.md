@@ -8,6 +8,8 @@ Welcome to the Even Odd in Perl page! Here, you'll find the source code for this
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Perl
 #!/usr/bin/env perl
 use strict;
@@ -28,6 +30,8 @@ if ($number % 2 == 0) {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

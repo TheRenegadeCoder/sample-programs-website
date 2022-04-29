@@ -8,6 +8,8 @@ Welcome to the Factorial in Rust page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Rust
 //  Requirement     https://sample-programs.therenegadecoder.com/projects/factorial/
 // Accept a number on command line and print it's factorial
@@ -33,6 +35,8 @@ fn main() {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

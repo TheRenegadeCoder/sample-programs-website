@@ -8,6 +8,8 @@ Welcome to the Selection Sort in C page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```C
 // Selection Sort In C Language
 
@@ -134,6 +136,8 @@ void selectionSort(long arr[], size_t n)
     } 
 } 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

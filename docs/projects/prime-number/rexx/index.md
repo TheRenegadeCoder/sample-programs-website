@@ -8,6 +8,8 @@ Welcome to the Prime Number in Rexx page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Rexx
 /* ARG with source string named in REXX program invocation */
 arg number
@@ -36,6 +38,8 @@ Err:
 say 'Usage: please input a non-negative integer'; exit
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

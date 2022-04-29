@@ -8,10 +8,14 @@ Welcome to the Quine in Javascript page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 (function(){console.log('('+arguments.callee.toString()+')()')})()
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

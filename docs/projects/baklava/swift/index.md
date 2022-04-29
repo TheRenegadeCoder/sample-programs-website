@@ -8,6 +8,8 @@ Welcome to the Baklava in Swift page! Here, you'll find the source code for this
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Swift
 func baklava(maxWidth: Int) -> Void {
     for number in 0...maxWidth {
@@ -20,6 +22,8 @@ func baklava(maxWidth: Int) -> Void {
 baklava(maxWidth: 10)
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Game Of Life in Python page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Python
 from random import randint
 
@@ -187,6 +189,8 @@ def main():
 main()
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

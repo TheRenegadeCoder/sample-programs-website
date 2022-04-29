@@ -8,6 +8,8 @@ Welcome to the Hello World in Dale page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Dale
 (import cstdio)
 
@@ -15,6 +17,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
     (printf "hello, world\n")))
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

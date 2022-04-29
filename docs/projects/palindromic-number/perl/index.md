@@ -8,6 +8,8 @@ Welcome to the Palindromic Number in Perl page! Here, you'll find the source cod
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Perl
 
 # accept an integer, reverse it, compare it with original
@@ -62,6 +64,8 @@ sub usage {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

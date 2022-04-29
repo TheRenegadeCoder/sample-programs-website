@@ -8,6 +8,8 @@ Welcome to the Reverse String in Php page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Php
 <?php
   $input = $argv[1];
@@ -16,6 +18,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 ?>
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

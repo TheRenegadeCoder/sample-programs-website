@@ -8,6 +8,8 @@ Welcome to the Hello World in C2 page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```C2
 module hello_world;
 
@@ -19,6 +21,8 @@ func i32 main(i32 argc, char** argv) {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

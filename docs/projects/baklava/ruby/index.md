@@ -8,6 +8,8 @@ Welcome to the Baklava in Ruby page! Here, you'll find the source code for this 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Ruby
 10.times {|n|
     print " " * (10 - n)
@@ -19,6 +21,8 @@ for i in 10.downto(0) do
 end
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

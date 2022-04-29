@@ -8,6 +8,8 @@ Welcome to the Factorial in Kotlin page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Kotlin
 import java.math.BigInteger
 
@@ -26,6 +28,8 @@ fun main(args: Array<String>) {
     println(factorial)
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

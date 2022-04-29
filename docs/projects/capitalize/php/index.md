@@ -8,6 +8,8 @@ Welcome to the Capitalize in Php page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Php
 <?php
 
@@ -20,6 +22,8 @@ if (count($argv) == 2 && strlen($argv[1])) {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

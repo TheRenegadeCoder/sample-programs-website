@@ -8,6 +8,8 @@ Welcome to the Hello World in Quack page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Quack
 from console
 
@@ -16,6 +18,8 @@ effect main
 end
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Even Odd in Swift page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Swift
 // for System.exit()
 import Foundation
@@ -29,6 +31,8 @@ if is_even {
     print("Odd")
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

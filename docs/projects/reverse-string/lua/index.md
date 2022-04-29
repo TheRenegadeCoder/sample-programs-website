@@ -16,12 +16,16 @@ Welcome to the Reverse String in Lua page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Lua
 if #arg > 0 then
     print(string.reverse(arg[1]))
 end
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Fibonacci in Nim page! Here, you'll find the source code for this
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Nim
 # Fibonacci Sample Program in Nim
 # Input the number of iterations as a command-line parameter
@@ -37,6 +39,8 @@ for i in 1..n:
 
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

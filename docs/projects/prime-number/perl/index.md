@@ -8,6 +8,8 @@ Welcome to the Prime Number in Perl page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Perl
 # Requirement https://sample-programs.therenegadecoder.com/projects/prime-number/
 # Issue  #1834
@@ -76,6 +78,8 @@ else {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

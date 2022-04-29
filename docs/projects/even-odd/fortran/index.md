@@ -8,6 +8,8 @@ Welcome to the Even Odd in Fortran page! Here, you'll find the source code for t
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Fortran
 ! In program name, - is not allowed
 program evenodd
@@ -51,6 +53,8 @@ end if
 end program
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

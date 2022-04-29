@@ -8,6 +8,8 @@ Welcome to the Lps in Go page! Here, you'll find the source code for this progra
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Go
 package main
 
@@ -69,6 +71,8 @@ func main() {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

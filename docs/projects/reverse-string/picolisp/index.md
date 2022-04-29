@@ -8,6 +8,8 @@ Welcome to the Reverse String in Picolisp page! Here, you'll find the source cod
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Picolisp
 (loop 
   (prinl "Welcome to the string reverser. For reversing a sentence and not just a single word, quoting with \" is required.")
@@ -19,6 +21,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
           (chop D))))) 
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

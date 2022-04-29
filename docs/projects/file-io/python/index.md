@@ -16,6 +16,8 @@ Welcome to the File Io in Python page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Python
 def write_file():
     try:
@@ -42,6 +44,8 @@ if __name__ == '__main__':
     read_file()
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

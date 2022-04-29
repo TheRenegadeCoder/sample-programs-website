@@ -8,6 +8,8 @@ Welcome to the Merge Sort in Objective C page! Here, you'll find the source code
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Objective C
 ////////////////MERGE-SORT////////////////
 NSArray* mergeArrays(NSArray* A, NSArray* B) 
@@ -51,6 +53,8 @@ NSArray* mergeSort(NSArray* randomArray){
     return mergeArrays(mergeSort(leftArray),mergeSort(rightArray));
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Capitalize in Fortran page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Fortran
 ! upcase and to_upper didn't work, 
 ! had to resort to check ASCII value of first letter & then
@@ -42,6 +44,8 @@ endif
 end program capitalize
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -8,6 +8,8 @@ Welcome to the Prime Number in Java page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Java
 /** Prime number exception to handle errors. */
 class PrimeNumberException extends Exception {}
@@ -64,6 +66,8 @@ public class PrimeNumber {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

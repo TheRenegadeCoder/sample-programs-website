@@ -8,6 +8,8 @@ Welcome to the Fizz Buzz in Perl page! Here, you'll find the source code for thi
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Perl
 #!/usr/bin/perl
 #
@@ -26,6 +28,8 @@ for my $n (1..100) {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -15,6 +15,8 @@ Welcome to the Linear Search in Python page! Here, you'll find the source code f
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Python
 import sys
 
@@ -38,6 +40,8 @@ else:
     print(linear_search(array, key))
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

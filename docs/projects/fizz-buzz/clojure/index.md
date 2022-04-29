@@ -8,6 +8,8 @@ Welcome to the Fizz Buzz in Clojure page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Clojure
 (ns fizzbuzz
   (:gen-class)
@@ -32,6 +34,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 (println (fizzbuzz 100))
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

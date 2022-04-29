@@ -8,6 +8,8 @@ Welcome to the Even Odd in Matlab page! Here, you'll find the source code for th
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Matlab
 function result_string= odd_even(number)
 
@@ -31,6 +33,8 @@ end
 end
         
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

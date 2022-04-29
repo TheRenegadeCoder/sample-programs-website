@@ -8,10 +8,14 @@ Welcome to the Export in Javascript page! Here, you'll find the source code for 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Javascript
 exports.myGreeting = "Hello World";
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

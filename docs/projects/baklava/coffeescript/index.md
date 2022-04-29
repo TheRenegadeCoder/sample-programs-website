@@ -8,6 +8,8 @@ Welcome to the Baklava in Coffeescript page! Here, you'll find the source code f
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Coffeescript
 for i in [0...10]
   pattern = " ".repeat (10 - i)
@@ -19,6 +21,8 @@ for i in [10..0]
   pattern += "*".repeat (i * 2 + 1)
   console.log pattern
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

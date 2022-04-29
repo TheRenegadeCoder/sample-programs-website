@@ -17,6 +17,8 @@ Welcome to the Hello World in Erlang page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Erlang
 -module(hello_world).
 -export([start/0]).
@@ -25,6 +27,8 @@ start() ->
    io:format("Hello, World!~n").
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

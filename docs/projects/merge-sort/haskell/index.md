@@ -8,6 +8,8 @@ Welcome to the Merge Sort in Haskell page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Haskell
 module Main where
 
@@ -62,6 +64,8 @@ main = do
 
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

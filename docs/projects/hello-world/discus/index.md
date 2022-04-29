@@ -8,6 +8,8 @@ Welcome to the Hello World in Discus page! Here, you'll find the source code for
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Discus
 module Main
 import System.IO.Console
@@ -18,6 +20,8 @@ main ()
  = do   writel "Hello, World!"
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

@@ -16,6 +16,8 @@ Welcome to the Hello World in Befunge page! Here, you'll find the source code fo
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Befunge
 0"!dlroW ,olleH"v    
                 > , v
@@ -23,6 +25,8 @@ Note: The solution shown here is the current solution in the Sample Programs rep
                 @    
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

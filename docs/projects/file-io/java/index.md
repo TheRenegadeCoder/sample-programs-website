@@ -8,6 +8,8 @@ Welcome to the File Io in Java page! Here, you'll find the source code for this 
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Java
 import java.io.BufferedReader;
 import java.io.File;
@@ -76,6 +78,8 @@ public class FileIO {
 
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

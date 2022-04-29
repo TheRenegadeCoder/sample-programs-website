@@ -8,6 +8,8 @@ Welcome to the Rot 13 in Kotlin page! Here, you'll find the source code for this
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Kotlin
 data class EncodingBounds(val lowerBound: Int, val upperBound: Int)
 
@@ -64,6 +66,8 @@ fun main(args: Array<String>) {
 }
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

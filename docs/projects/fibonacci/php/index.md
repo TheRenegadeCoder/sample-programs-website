@@ -8,6 +8,8 @@ Welcome to the Fibonacci in Php page! Here, you'll find the source code for this
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Php
 <?php
 
@@ -28,6 +30,8 @@ for ($index = 1; $index <= $input; $index++) {
     echo "$index: $a\n";
 }
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 

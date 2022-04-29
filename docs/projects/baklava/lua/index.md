@@ -8,6 +8,8 @@ Welcome to the Baklava in Lua page! Here, you'll find the source code for this p
 
 Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
+{% raw %}
+
 ```Lua
 function diamondStarPattern(height)
   for i = 1, height do -- loop for printing the upper half of the baklava
@@ -25,6 +27,8 @@ end
 diamondStarPattern(11)
 
 ```
+
+{% endraw %}
 
 ## How to Implement the Solution
 
