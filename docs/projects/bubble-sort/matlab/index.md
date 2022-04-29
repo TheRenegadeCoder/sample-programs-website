@@ -17,10 +17,10 @@ function result_string= bubble_sort(array_string)
 %input validation
 if (nargin==0)
     %if there was no input
-    result_string = 'please provide a list of at least two integers to sort in the format “1, 2, 3, 4, 5”';
+    result_string = 'please provide a list of at least two integers to sort in the format "1, 2, 3, 4, 5"';
     return
 elseif length(array_string)<2
-    result_string = 'please provide a list of at least two integers to sort in the format “1, 2, 3, 4, 5”';  
+    result_string = 'please provide a list of at least two integers to sort in the format "1, 2, 3, 4, 5"';  
     return
 else
     %build array
@@ -34,7 +34,7 @@ else
         
         if ~isnumeric(str2double((array_string(i-1)))) || ...
                 array_string(i)~=','
-            result_string = 'please provide a list of at least two integers to sort in the format “1, 2, 3, 4, 5”';
+            result_string = 'please provide a list of at least two integers to sort in the format "1, 2, 3, 4, 5"';
             return
         else   
             array(count) = str2double(array_string(i-1));
@@ -47,7 +47,7 @@ else
             array(count) = str2double(array_string(length(array_string)));
         else
             result_string = ...
-                'please provide a list of at least two integers to sort in the format “1, 2, 3, 4, 5”';
+                'please provide a list of at least two integers to sort in the format "1, 2, 3, 4, 5"';
         end
     end    
           
