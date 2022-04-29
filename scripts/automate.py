@@ -41,7 +41,7 @@ def _add_project_article_section(doc: snakemd.Document, repo: subete.Repo, proje
     log.info(f"Generating article section of {project}")
     doc.add_header("Articles", level=2)
     articles = []
-    for lang in repo.language_collections().values():
+    for lang in repo:
         if program := lang.sample_programs().get(project.replace('-', ' ').title()):
             link = snakemd.InlineText(
                 str(program),
@@ -61,7 +61,7 @@ def _add_language_article_section(doc: snakemd.Document, repo: subete.Repo, lang
     """
     doc.add_header("Articles", level=2)
     articles = []
-    for program in repo[language].sample_programs().values():
+    for program in repo[language]:
         link = snakemd.InlineText(
             str(program),
             url=program._sample_program_doc_url
@@ -109,7 +109,7 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         log.exception(f"Failed to write {path}")
 
 
-def _generate_project_index(project: str):
+def _generate_project_index(project: subete.Project):
     """
     Creates an index file for a single project. The path is assumed
     to be `projects/project/index.md`. 
@@ -117,14 +117,10 @@ def _generate_project_index(project: str):
     :param project: the project to create the index file for in the normalized form (e.g., hello-world).
     """
     doc: snakemd.Document = snakemd.new_doc("index")
-    root_path = pathlib.Path(f"sources/projects/{project}")
-    title = ' '.join([
-        word.capitalize() if len(project) > 3 else word.upper()
-        for word in project.split('-')
-    ])
-    _generate_front_matter(doc, root_path / "front_matter.yaml", title)
+    root_path = pathlib.Path(f"sources/projects/{project.pathlike_name()}")
+    _generate_front_matter(doc, root_path / "front_matter.yaml", project.name())
     doc.add_paragraph(
-        f"Welcome to the {title} page! Here, you'll find a description "
+        f"Welcome to the {project.name()} page! Here, you'll find a description "
         f"of the project as well as a list of sample programs "
         f"written in various languages."
     )
@@ -161,9 +157,10 @@ def generate_project_paths(repo: subete.Repo):
     Creates the project directory which contains all of the project folders
     and index.md files.
     """
-    projects = repo._projects
+    projects = repo.approved_pathlike_projects()
     for project in projects:
-        path = pathlib.Path(f"docs/projects/{project}")
+        project: subete.Project
+        path = pathlib.Path(f"docs/projects/{project.pathlike_name()}")
         path.mkdir(exist_ok=True, parents=True)
         _generate_project_index(project)
 
@@ -184,8 +181,8 @@ def generate_language_paths(repo: subete.Repo):
     Creates the language directory which contains all of the language folders
     and index.md files. 
     """
-    languages: dict = repo.language_collections()
-    for _, language in languages.items():
+    for language in repo:
+        language: subete.LanguageCollection
         path = pathlib.Path(f"docs/languages/{language.pathlike_name()}")
         path.mkdir(exist_ok=True, parents=True)
         _generate_language_index(language)
