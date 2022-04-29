@@ -3,7 +3,7 @@
 title: Go
 layout: default
 date: 2022-04-28
-last-modified: 2022-04-28
+last-modified: 2022-04-29
 
 ---
 
@@ -27,8 +27,8 @@ No description available. Please consider contributing.
 - [Hello World in Go](https://sampleprograms.io/projects/hello-world/go)
 - [Insertion Sort in Go](https://sampleprograms.io/projects/insertion-sort/go)
 - [Job Sequencing in Go](https://sampleprograms.io/projects/job-sequencing/go)
-- [Lcs in Go](https://sampleprograms.io/projects/lcs/go)
-- [Lps in Go](https://sampleprograms.io/projects/lps/go)
+- [LCS in Go](https://sampleprograms.io/projects/lcs/go)
+- [LPS in Go](https://sampleprograms.io/projects/lps/go)
 - [Merge Sort in Go](https://sampleprograms.io/projects/merge-sort/go)
 - [Prime Number in Go](https://sampleprograms.io/projects/prime-number/go)
 - [Quick Sort in Go](https://sampleprograms.io/projects/quick-sort/go)

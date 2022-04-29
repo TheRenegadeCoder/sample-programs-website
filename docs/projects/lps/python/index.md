@@ -1,13 +1,13 @@
 ---
 
-title: Lps in Python
+title: LPS in Python
 layout: default
 date: 2022-04-28
-last-modified: 2022-04-28
+last-modified: 2022-04-29
 
 ---
 
-Welcome to the Lps in Python page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the LPS in Python page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

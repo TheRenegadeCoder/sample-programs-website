@@ -208,9 +208,9 @@ def generate_languages_index(repo: subete.Repo):
         "To help you navigate the collection, the following languages are organized alphabetically and grouped by first letter."
     )
     for letter in ascii_lowercase:
-        language_index.add_header(letter, level=3)
+        language_index.add_header(letter.upper(), level=3)
         languages: list[subete.LanguageCollection] = repo.languages_by_letter(letter)
-        languages = [snakemd.InlineText(str(x).upper(), url=x.lang_docs_url()) for x in languages]
+        languages = [snakemd.InlineText(x.name(), url=x.lang_docs_url()) for x in languages]
         language_index.add_element(snakemd.MDList(languages))
     language_index.output_page(str(language_index_path))
 
@@ -228,12 +228,10 @@ def generate_projects_index(repo: subete.Repo):
     )
     projects = [
         snakemd.InlineText(
-            project.replace("-", " ").title() 
-            if len(project) > 3 
-            else project.upper(),
+            project.name(),
             url=f"https://sampleprograms.io/projects/{project}"
         ) 
-        for project in repo._projects
+        for project in repo.approved_projects()
     ]
     projects_index.add_element(snakemd.MDList(projects))
     projects_index.output_page(str(projects_index_path))

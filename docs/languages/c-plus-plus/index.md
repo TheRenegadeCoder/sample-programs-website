@@ -3,7 +3,7 @@
 title: C++
 layout: default
 date: 2022-04-28
-last-modified: 2022-04-28
+last-modified: 2022-04-29
 
 ---
 
@@ -31,7 +31,7 @@ No description available. Please consider contributing.
 - [Hello World in C++](https://sampleprograms.io/projects/hello-world/c-plus-plus)
 - [Import in C++](https://sampleprograms.io/projects/import-export/c-plus-plus)
 - [Insertion Sort in C++](https://sampleprograms.io/projects/insertion-sort/c-plus-plus)
-- [Lcs in C++](https://sampleprograms.io/projects/lcs/c-plus-plus)
+- [LCS in C++](https://sampleprograms.io/projects/lcs/c-plus-plus)
 - [Merge Sort in C++](https://sampleprograms.io/projects/merge-sort/c-plus-plus)
 - [Palindromic Number in C++](https://sampleprograms.io/projects/palindromic-number/c-plus-plus)
 - [Prime Number in C++](https://sampleprograms.io/projects/prime-number/c-plus-plus)

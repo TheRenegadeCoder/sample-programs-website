@@ -3,7 +3,7 @@
 title: C#
 layout: default
 date: 2022-04-28
-last-modified: 2022-04-28
+last-modified: 2022-04-29
 
 ---
 
@@ -27,7 +27,7 @@ No description available. Please consider contributing.
 - [Game Of Life in C#](https://sampleprograms.io/projects/game-of-life/c-sharp)
 - [Hello World in C#](https://sampleprograms.io/projects/hello-world/c-sharp)
 - [Insertion Sort in C#](https://sampleprograms.io/projects/insertion-sort/c-sharp)
-- [Lcs in C#](https://sampleprograms.io/projects/lcs/c-sharp)
+- [LCS in C#](https://sampleprograms.io/projects/lcs/c-sharp)
 - [Merge Sort in C#](https://sampleprograms.io/projects/merge-sort/c-sharp)
 - [Prime Number in C#](https://sampleprograms.io/projects/prime-number/c-sharp)
 - [Quick Sort in C#](https://sampleprograms.io/projects/quick-sort/c-sharp)

@@ -70,4 +70,4 @@ we have to get to our implementation of Hello World in Elixir.
 - [Factorial in Elixir](https://sampleprograms.io/projects/factorial/elixir)
 - [Fizz Buzz in Elixir](https://sampleprograms.io/projects/fizz-buzz/elixir)
 - [Hello World in Elixir](https://sampleprograms.io/projects/hello-world/elixir)
-- [Lcs in Elixir](https://sampleprograms.io/projects/lcs/elixir)
+- [LCS in Elixir](https://sampleprograms.io/projects/lcs/elixir)

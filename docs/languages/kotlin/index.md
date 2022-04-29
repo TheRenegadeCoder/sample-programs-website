@@ -52,7 +52,7 @@ In this example, the lastChar method is added to the String class. How cool is t
 - [Game Of Life in Kotlin](https://sampleprograms.io/projects/game-of-life/kotlin)
 - [Hello World in Kotlin](https://sampleprograms.io/projects/hello-world/kotlin)
 - [Job Sequencing in Kotlin](https://sampleprograms.io/projects/job-sequencing/kotlin)
-- [Lcs in Kotlin](https://sampleprograms.io/projects/lcs/kotlin)
+- [LCS in Kotlin](https://sampleprograms.io/projects/lcs/kotlin)
 - [Merge Sort in Kotlin](https://sampleprograms.io/projects/merge-sort/kotlin)
 - [Palindromic Number in Kotlin](https://sampleprograms.io/projects/palindromic-number/kotlin)
 - [Prime Number in Kotlin](https://sampleprograms.io/projects/prime-number/kotlin)

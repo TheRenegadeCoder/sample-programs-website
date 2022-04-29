@@ -1,13 +1,13 @@
 ---
 
-title: Lcs in C#
+title: LCS in C#
 layout: default
 date: 2022-04-28
-last-modified: 2022-04-28
+last-modified: 2022-04-29
 
 ---
 
-Welcome to the Lcs in C# page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the LCS in C# page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
