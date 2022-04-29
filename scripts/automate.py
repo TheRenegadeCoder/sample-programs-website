@@ -1,7 +1,6 @@
 from datetime import date
 import pathlib
 import logging
-from string import ascii_lowercase
 
 import subete
 import snakemd
@@ -13,10 +12,10 @@ def _add_section(doc: snakemd.Document, source: str, source_instance: str, secti
     """
     Adds a section to the document.
 
-    :param doc: the document to add the section to.
-    :param source: the specific source folder to pull from (e.g., languages).
-    :param source_instance: the specific source instance to pull from (e.g., c-plus-plus).
-    :param section: the section to add to the document (e.g., Description).
+    :param snakemd.Document doc: the document to add the section to.
+    :param str source: the specific source folder to pull from (e.g., languages).
+    :param str source_instance: the specific source instance to pull from (e.g., c-plus-plus).
+    :param str section: the section to add to the document (e.g., Description).
     """
     doc.add_header(section, level=2)
     fp = pathlib.Path(f"sources/{source}/{source_instance}/{section.lower().replace(' ', '-')}.md")
@@ -34,9 +33,9 @@ def _add_project_article_section(doc: snakemd.Document, repo: subete.Repo, proje
     """
     Generates a list of articles for each project page.
 
-    :param doc: the document to add the section to.
-    :param repo: the repo to pull from.
-    :param project: the project to add to the document.
+    :param snakemd.Document doc: the document to add the section to.
+    :param subete.Repo repo: the repo to pull from.
+    :param subete.Project project: the project to add to the document.
     """
     log.info(f"Generating article section of {project}")
     doc.add_header("Articles", level=2)
@@ -58,9 +57,9 @@ def _add_language_article_section(doc: snakemd.Document, repo: subete.Repo, lang
     """
     Generates a list of articles for each language page.
 
-    :param doc: the document to add the section to.
-    :param repo: the repo to pull from.
-    :param language: the language to add to the document in its lookup form (e.g., Python).
+    :param snakemd.Document doc: the document to add the section to.
+    :param subete.Repo repo: the repo to pull from.
+    :param str language: the language to add to the document in its lookup form (e.g., Python).
     """
     doc.add_header("Articles", level=2)
     articles = []
@@ -207,7 +206,7 @@ def generate_languages_index(repo: subete.Repo):
     language_index.add_paragraph(
         "To help you navigate the collection, the following languages are organized alphabetically and grouped by first letter."
     )
-    for letter in ascii_lowercase:
+    for letter in repo.sorted_language_letters():
         language_index.add_header(letter.upper(), level=3)
         languages: list[subete.LanguageCollection] = repo.languages_by_letter(letter)
         languages = [snakemd.InlineText(x.name(), url=x.lang_docs_url()) for x in languages]

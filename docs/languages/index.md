@@ -13,7 +13,7 @@ Welcome to the Languages page! Here, you'll find a list of all of the languages 
 
 To help you navigate the collection, the following languages are organized alphabetically and grouped by first letter.
 
-### a
+### A
 
 - [Abap](https://sampleprograms.io/languages/abap)
 - [Ada](https://sampleprograms.io/languages/ada)
@@ -25,7 +25,7 @@ To help you navigate the collection, the following languages are organized alpha
 - [Astro](https://sampleprograms.io/languages/astro)
 - [Autohotkey](https://sampleprograms.io/languages/autohotkey)
 
-### b
+### B
 
 - [Baik](https://sampleprograms.io/languages/baik)
 - [Ballerina](https://sampleprograms.io/languages/ballerina)
@@ -36,7 +36,7 @@ To help you navigate the collection, the following languages are organized alpha
 - [Bracmat](https://sampleprograms.io/languages/bracmat)
 - [Brainfuck](https://sampleprograms.io/languages/brainfuck)
 
-### c
+### C
 
 - [C](https://sampleprograms.io/languages/c)
 - [C++](https://sampleprograms.io/languages/c-plus-plus)
@@ -54,7 +54,7 @@ To help you navigate the collection, the following languages are organized alpha
 - [Crystal](https://sampleprograms.io/languages/crystal)
 - [Cyclone](https://sampleprograms.io/languages/cyclone)
 
-### d
+### D
 
 - [D](https://sampleprograms.io/languages/d)
 - [Dale](https://sampleprograms.io/languages/dale)
@@ -64,7 +64,7 @@ To help you navigate the collection, the following languages are organized alpha
 - [Discus](https://sampleprograms.io/languages/discus)
 - [Dusk](https://sampleprograms.io/languages/dusk)
 
-### e
+### E
 
 - [Egison](https://sampleprograms.io/languages/egison)
 - [Eiffel](https://sampleprograms.io/languages/eiffel)
@@ -77,7 +77,7 @@ To help you navigate the collection, the following languages are organized alpha
 - [Eta](https://sampleprograms.io/languages/eta)
 - [Eve](https://sampleprograms.io/languages/eve)
 
-### f
+### F
 
 - [F#](https://sampleprograms.io/languages/f-sharp)
 - [F\*](https://sampleprograms.io/languages/f-star)
@@ -92,7 +92,7 @@ To help you navigate the collection, the following languages are organized alpha
 - [Fortran](https://sampleprograms.io/languages/fortran)
 - [Frege](https://sampleprograms.io/languages/frege)
 
-### g
+### G
 
 - [Gerbil](https://sampleprograms.io/languages/gerbil)
 - [Gluon](https://sampleprograms.io/languages/gluon)
@@ -106,7 +106,7 @@ To help you navigate the collection, the following languages are organized alpha
 - [Gravity](https://sampleprograms.io/languages/gravity)
 - [Groovy](https://sampleprograms.io/languages/groovy)
 
-### h
+### H
 
 - [Hack](https://sampleprograms.io/languages/hack)
 - [Haskell](https://sampleprograms.io/languages/haskell)
@@ -114,25 +114,25 @@ To help you navigate the collection, the following languages are organized alpha
 - [Hobbes](https://sampleprograms.io/languages/hobbes)
 - [Huginn](https://sampleprograms.io/languages/huginn)
 
-### i
+### I
 
 - [Idris](https://sampleprograms.io/languages/idris)
 - [Io](https://sampleprograms.io/languages/io)
 
-### j
+### J
 
 - [Janet](https://sampleprograms.io/languages/janet)
 - [Java](https://sampleprograms.io/languages/java)
 - [Javascript](https://sampleprograms.io/languages/javascript)
 - [Julia](https://sampleprograms.io/languages/julia)
 
-### k
+### K
 
 - [Kitten](https://sampleprograms.io/languages/kitten)
 - [Koka](https://sampleprograms.io/languages/koka)
 - [Kotlin](https://sampleprograms.io/languages/kotlin)
 
-### l
+### L
 
 - [Latte](https://sampleprograms.io/languages/latte)
 - [Lily](https://sampleprograms.io/languages/lily)
@@ -145,7 +145,7 @@ To help you navigate the collection, the following languages are organized alpha
 - [Lua](https://sampleprograms.io/languages/lua)
 - [Lucee](https://sampleprograms.io/languages/lucee)
 
-### m
+### M
 
 - [Mathematica](https://sampleprograms.io/languages/mathematica)
 - [Matlab](https://sampleprograms.io/languages/matlab)
@@ -155,14 +155,14 @@ To help you navigate the collection, the following languages are organized alpha
 - [Mojiscript](https://sampleprograms.io/languages/mojiscript)
 - [Moonscript](https://sampleprograms.io/languages/moonscript)
 
-### n
+### N
 
 - [Never](https://sampleprograms.io/languages/never)
 - [Nice](https://sampleprograms.io/languages/nice)
 - [Nim](https://sampleprograms.io/languages/nim)
 - [Nit](https://sampleprograms.io/languages/nit)
 
-### o
+### O
 
 - [Objective C](https://sampleprograms.io/languages/objective-c)
 - [Ocaml](https://sampleprograms.io/languages/ocaml)
@@ -172,7 +172,7 @@ To help you navigate the collection, the following languages are organized alpha
 - [Orc](https://sampleprograms.io/languages/orc)
 - [Owl Lisp](https://sampleprograms.io/languages/owl-lisp)
 
-### p
+### P
 
 - [P](https://sampleprograms.io/languages/p)
 - [P4](https://sampleprograms.io/languages/p4)
@@ -190,11 +190,11 @@ To help you navigate the collection, the following languages are organized alpha
 - [Pyret](https://sampleprograms.io/languages/pyret)
 - [Python](https://sampleprograms.io/languages/python)
 
-### q
+### Q
 
 - [Quack](https://sampleprograms.io/languages/quack)
 
-### r
+### R
 
 - [R](https://sampleprograms.io/languages/r)
 - [Racket](https://sampleprograms.io/languages/racket)
@@ -205,7 +205,7 @@ To help you navigate the collection, the following languages are organized alpha
 - [Ruby](https://sampleprograms.io/languages/ruby)
 - [Rust](https://sampleprograms.io/languages/rust)
 
-### s
+### S
 
 - [Sather](https://sampleprograms.io/languages/sather)
 - [Scala](https://sampleprograms.io/languages/scala)
@@ -218,7 +218,7 @@ To help you navigate the collection, the following languages are organized alpha
 - [Spry](https://sampleprograms.io/languages/spry)
 - [Swift](https://sampleprograms.io/languages/swift)
 
-### t
+### T
 
 - [Tcl](https://sampleprograms.io/languages/tcl)
 - [Terra](https://sampleprograms.io/languages/terra)
@@ -226,32 +226,20 @@ To help you navigate the collection, the following languages are organized alpha
 - [Ti Basic](https://sampleprograms.io/languages/ti-basic)
 - [Typescript](https://sampleprograms.io/languages/typescript)
 
-### u
-
-
-
-### v
+### V
 
 - [Verilog](https://sampleprograms.io/languages/verilog)
 - [Verve](https://sampleprograms.io/languages/verve)
 - [Vimscript](https://sampleprograms.io/languages/vimscript)
 - [Visual Basic](https://sampleprograms.io/languages/visual-basic)
 
-### w
+### W
 
 - [Whitespace](https://sampleprograms.io/languages/whitespace)
 - [Wren](https://sampleprograms.io/languages/wren)
 - [Wu](https://sampleprograms.io/languages/wu)
 - [Wyvern](https://sampleprograms.io/languages/wyvern)
 
-### x
-
-
-
-### y
-
-
-
-### z
+### Z
 
 - [Zig](https://sampleprograms.io/languages/zig)
