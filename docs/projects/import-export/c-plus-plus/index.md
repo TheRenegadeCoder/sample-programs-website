@@ -1,13 +1,13 @@
 ---
 
-title: Import in Javascript
+title: Import Export in C++
 layout: default
 date: 2022-04-28
 last-modified: 2022-04-29
 
 ---
 
-Welcome to the Import in Javascript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the Import Export in C++ page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -15,10 +15,15 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 
 {% raw %}
 
-```Javascript
-var myImport = require("./export");
+```C++
+#include <iostream.h>
+#include "export.c"
 
-console.log(myImport.myGreeting);
+extern char[] str;
+void main()
+{
+    cout << str;
+}
 
 ```
 

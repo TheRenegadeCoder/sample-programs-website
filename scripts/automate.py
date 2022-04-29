@@ -80,7 +80,7 @@ def _generate_front_matter(doc: snakemd.Document, path: pathlib.Path, title: str
 
     :param snakemd.Document doc: the document to add the front matter to.
     :param pathlib.Path path: the path to the front matter file.
-    :param str title: the title of the document.
+    :param str title: the title of the document
     """
     source_path = pathlib.Path("sources") / path
     doc.add_paragraph("---")
@@ -155,11 +155,11 @@ def _generate_project_index(project: subete.Project):
         f"of the project as well as a list of sample programs "
         f"written in various languages."
     )
-    _add_section(doc, "projects", project, "Description")
-    _add_section(doc, "projects", project, "Requirements")
-    _add_section(doc, "projects", project, "Testing")
+    _add_section(doc, "projects", project.pathlike_name(), "Description")
+    _add_section(doc, "projects", project.pathlike_name(), "Requirements")
+    _add_section(doc, "projects", project.pathlike_name(), "Testing")
     _add_project_article_section(doc, repo, project)
-    doc.output_page(f"docs/projects/{project}")
+    doc.output_page(f"docs/projects/{project.pathlike_name()}")
 
 
 def _generate_language_index(language: subete.LanguageCollection):

@@ -1,13 +1,13 @@
 ---
 
-title: Export in Typescript
+title: Import Export in C
 layout: default
 date: 2022-04-28
 last-modified: 2022-04-29
 
 ---
 
-Welcome to the Export in Typescript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the Import Export in C page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -15,8 +15,16 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 
 {% raw %}
 
-```Typescript
-export const myGreeting = "Hello World";
+```C
+#include <stdio.h>
+#include "export.c"
+
+extern char[] str;
+void main()
+{
+    printf (str);
+}
+
 ```
 
 {% endraw %}

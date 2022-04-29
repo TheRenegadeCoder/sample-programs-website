@@ -3,7 +3,7 @@
 title: Import Export
 layout: default
 date: 2022-04-28
-last-modified: 2022-04-28
+last-modified: 2022-04-29
 
 ---
 
@@ -47,3 +47,7 @@ As always, these tests will be run against any code submitted to the repo via [G
 
 ## Articles
 
+- [Import Export in C](https://sampleprograms.io/projects/import-export/c)
+- [Import Export in C++](https://sampleprograms.io/projects/import-export/c-plus-plus)
+- [Import Export in Javascript](https://sampleprograms.io/projects/import-export/javascript)
+- [Import Export in Typescript](https://sampleprograms.io/projects/import-export/typescript)
