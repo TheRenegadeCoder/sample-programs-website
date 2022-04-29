@@ -1,3 +1,9 @@
+---
+
+title: Projects
+
+---
+
 Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection.
 
 ## Projects List

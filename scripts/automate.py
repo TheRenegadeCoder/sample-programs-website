@@ -196,6 +196,7 @@ def generate_languages_index(repo: subete.Repo):
     """
     language_index_path = pathlib.Path("docs/languages")
     language_index = snakemd.new_doc("index")
+    _generate_front_matter(language_index, language_index_path / "front_matter.yaml", "Programming Languages")
     language_index.add_paragraph(
         "Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection."
     )
@@ -214,6 +215,7 @@ def generate_languages_index(repo: subete.Repo):
 def generate_projects_index(repo: subete.Repo):
     projects_index_path = pathlib.Path("docs/projects")
     projects_index = snakemd.new_doc("index")
+    _generate_front_matter(projects_index, projects_index_path / "front_matter.yaml", "Projects")
     projects_index.add_paragraph(
         "Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection."
     )

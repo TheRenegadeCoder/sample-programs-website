@@ -1,3 +1,9 @@
+---
+
+title: Programming Languages
+
+---
+
 Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection.
 
 ## Language Collections by Letter
