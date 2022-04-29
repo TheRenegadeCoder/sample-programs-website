@@ -267,7 +267,7 @@ def generate_projects_index(repo: subete.Repo):
     projects = [
         snakemd.InlineText(
             project.name(),
-            url=f"https://sampleprograms.io/projects/{project.pathlike_name()}"
+            url=project.requirements_url()
         )
         for project in repo.approved_projects()
     ]
