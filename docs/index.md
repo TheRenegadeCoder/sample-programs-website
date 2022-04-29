@@ -12,7 +12,7 @@ which currently contains hundreds of articles written by
 
 If you'd like to contribute to this growing collection, check out
 our [contributing document][4] for more information. In addition, you can explore
-our documentation which is organized by [project][1] and by [language][2].If you 
+our documentation which is organized by [project][1] and by [language][2]. If you 
 don't find what you're looking for, check out our list of related 
 [open-source projects][5]. Finally, if code isn't your thing but you'd still 
 like to help, there are plenty of other ways to [support the project][3].
