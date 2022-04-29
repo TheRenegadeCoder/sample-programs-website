@@ -3,7 +3,7 @@
 title: LCS
 layout: default
 date: 2022-04-28
-last-modified: 2022-04-28
+last-modified: 2022-04-29
 
 ---
 
@@ -65,13 +65,13 @@ verify the correctness of your solution:
 
 ## Articles
 
-- [Lcs in C](https://sampleprograms.io/projects/lcs/c)
-- [Lcs in C#](https://sampleprograms.io/projects/lcs/c-sharp)
-- [Lcs in C++](https://sampleprograms.io/projects/lcs/c-plus-plus)
-- [Lcs in Elixir](https://sampleprograms.io/projects/lcs/elixir)
-- [Lcs in Go](https://sampleprograms.io/projects/lcs/go)
-- [Lcs in Haskell](https://sampleprograms.io/projects/lcs/haskell)
-- [Lcs in Java](https://sampleprograms.io/projects/lcs/java)
-- [Lcs in Javascript](https://sampleprograms.io/projects/lcs/javascript)
-- [Lcs in Kotlin](https://sampleprograms.io/projects/lcs/kotlin)
-- [Lcs in Python](https://sampleprograms.io/projects/lcs/python)
+- [LCS in C](https://sampleprograms.io/projects/lcs/c)
+- [LCS in C#](https://sampleprograms.io/projects/lcs/c-sharp)
+- [LCS in C++](https://sampleprograms.io/projects/lcs/c-plus-plus)
+- [LCS in Elixir](https://sampleprograms.io/projects/lcs/elixir)
+- [LCS in Go](https://sampleprograms.io/projects/lcs/go)
+- [LCS in Haskell](https://sampleprograms.io/projects/lcs/haskell)
+- [LCS in Java](https://sampleprograms.io/projects/lcs/java)
+- [LCS in Javascript](https://sampleprograms.io/projects/lcs/javascript)
+- [LCS in Kotlin](https://sampleprograms.io/projects/lcs/kotlin)
+- [LCS in Python](https://sampleprograms.io/projects/lcs/python)

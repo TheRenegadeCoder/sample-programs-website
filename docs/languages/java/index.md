@@ -48,7 +48,7 @@ great features like garbage collection which offset some of these complaints.
 - [Hello World in Java](https://sampleprograms.io/projects/hello-world/java)
 - [Insertion Sort in Java](https://sampleprograms.io/projects/insertion-sort/java)
 - [Job Sequencing in Java](https://sampleprograms.io/projects/job-sequencing/java)
-- [Lcs in Java](https://sampleprograms.io/projects/lcs/java)
+- [LCS in Java](https://sampleprograms.io/projects/lcs/java)
 - [Linear Search in Java](https://sampleprograms.io/projects/linear-search/java)
 - [Merge Sort in Java](https://sampleprograms.io/projects/merge-sort/java)
 - [Palindromic Number in Java](https://sampleprograms.io/projects/palindromic-number/java)

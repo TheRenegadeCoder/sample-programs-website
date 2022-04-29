@@ -3,7 +3,7 @@
 title: Programming Languages
 layout: default
 date: 2022-04-28
-last-modified: 2022-04-28
+last-modified: 2022-04-29
 
 ---
 
@@ -13,245 +13,233 @@ Welcome to the Languages page! Here, you'll find a list of all of the languages 
 
 To help you navigate the collection, the following languages are organized alphabetically and grouped by first letter.
 
-### a
+### A
 
-- [ABAP](https://sampleprograms.io/languages/abap)
-- [ADA](https://sampleprograms.io/languages/ada)
-- [AGDA](https://sampleprograms.io/languages/agda)
-- [ALGOL68](https://sampleprograms.io/languages/algol68)
-- [APEX](https://sampleprograms.io/languages/apex)
-- [APPLESCRIPT](https://sampleprograms.io/languages/applescript)
-- [ARKSCRIPT](https://sampleprograms.io/languages/arkscript)
-- [ASTRO](https://sampleprograms.io/languages/astro)
-- [AUTOHOTKEY](https://sampleprograms.io/languages/autohotkey)
+- [Abap](https://sampleprograms.io/languages/abap)
+- [Ada](https://sampleprograms.io/languages/ada)
+- [Agda](https://sampleprograms.io/languages/agda)
+- [Algol68](https://sampleprograms.io/languages/algol68)
+- [Apex](https://sampleprograms.io/languages/apex)
+- [Applescript](https://sampleprograms.io/languages/applescript)
+- [Arkscript](https://sampleprograms.io/languages/arkscript)
+- [Astro](https://sampleprograms.io/languages/astro)
+- [Autohotkey](https://sampleprograms.io/languages/autohotkey)
 
-### b
+### B
 
-- [BAIK](https://sampleprograms.io/languages/baik)
-- [BALLERINA](https://sampleprograms.io/languages/ballerina)
-- [BASH](https://sampleprograms.io/languages/bash)
-- [BATCH](https://sampleprograms.io/languages/batch)
-- [BEFUNGE](https://sampleprograms.io/languages/befunge)
-- [BOO](https://sampleprograms.io/languages/boo)
-- [BRACMAT](https://sampleprograms.io/languages/bracmat)
-- [BRAINFUCK](https://sampleprograms.io/languages/brainfuck)
+- [Baik](https://sampleprograms.io/languages/baik)
+- [Ballerina](https://sampleprograms.io/languages/ballerina)
+- [Bash](https://sampleprograms.io/languages/bash)
+- [Batch](https://sampleprograms.io/languages/batch)
+- [Befunge](https://sampleprograms.io/languages/befunge)
+- [Boo](https://sampleprograms.io/languages/boo)
+- [Bracmat](https://sampleprograms.io/languages/bracmat)
+- [Brainfuck](https://sampleprograms.io/languages/brainfuck)
 
-### c
+### C
 
 - [C](https://sampleprograms.io/languages/c)
 - [C++](https://sampleprograms.io/languages/c-plus-plus)
 - [C#](https://sampleprograms.io/languages/c-sharp)
 - [C\*](https://sampleprograms.io/languages/c-star)
 - [C2](https://sampleprograms.io/languages/c2)
-- [CARP](https://sampleprograms.io/languages/carp)
-- [CHAISCRIPT](https://sampleprograms.io/languages/chaiscript)
-- [CHAPEL](https://sampleprograms.io/languages/chapel)
-- [CHARM](https://sampleprograms.io/languages/charm)
-- [CLIPPER](https://sampleprograms.io/languages/clipper)
-- [CLOJURE](https://sampleprograms.io/languages/clojure)
-- [COBOL](https://sampleprograms.io/languages/cobol)
-- [COFFEESCRIPT](https://sampleprograms.io/languages/coffeescript)
-- [CRYSTAL](https://sampleprograms.io/languages/crystal)
-- [CYCLONE](https://sampleprograms.io/languages/cyclone)
+- [Carp](https://sampleprograms.io/languages/carp)
+- [Chaiscript](https://sampleprograms.io/languages/chaiscript)
+- [Chapel](https://sampleprograms.io/languages/chapel)
+- [Charm](https://sampleprograms.io/languages/charm)
+- [Clipper](https://sampleprograms.io/languages/clipper)
+- [Clojure](https://sampleprograms.io/languages/clojure)
+- [Cobol](https://sampleprograms.io/languages/cobol)
+- [Coffeescript](https://sampleprograms.io/languages/coffeescript)
+- [Crystal](https://sampleprograms.io/languages/crystal)
+- [Cyclone](https://sampleprograms.io/languages/cyclone)
 
-### d
+### D
 
 - [D](https://sampleprograms.io/languages/d)
-- [DALE](https://sampleprograms.io/languages/dale)
-- [DART](https://sampleprograms.io/languages/dart)
-- [DEBUG](https://sampleprograms.io/languages/debug)
-- [DG](https://sampleprograms.io/languages/dg)
-- [DISCUS](https://sampleprograms.io/languages/discus)
-- [DUSK](https://sampleprograms.io/languages/dusk)
+- [Dale](https://sampleprograms.io/languages/dale)
+- [Dart](https://sampleprograms.io/languages/dart)
+- [Debug](https://sampleprograms.io/languages/debug)
+- [Dg](https://sampleprograms.io/languages/dg)
+- [Discus](https://sampleprograms.io/languages/discus)
+- [Dusk](https://sampleprograms.io/languages/dusk)
 
-### e
+### E
 
-- [EGISON](https://sampleprograms.io/languages/egison)
-- [EIFFEL](https://sampleprograms.io/languages/eiffel)
-- [ELENA](https://sampleprograms.io/languages/elena)
-- [ELIXIR](https://sampleprograms.io/languages/elixir)
-- [ELM](https://sampleprograms.io/languages/elm)
-- [ELVISH](https://sampleprograms.io/languages/elvish)
-- [EMOJICODE](https://sampleprograms.io/languages/emojicode)
-- [ERLANG](https://sampleprograms.io/languages/erlang)
-- [ETA](https://sampleprograms.io/languages/eta)
-- [EVE](https://sampleprograms.io/languages/eve)
+- [Egison](https://sampleprograms.io/languages/egison)
+- [Eiffel](https://sampleprograms.io/languages/eiffel)
+- [Elena](https://sampleprograms.io/languages/elena)
+- [Elixir](https://sampleprograms.io/languages/elixir)
+- [Elm](https://sampleprograms.io/languages/elm)
+- [Elvish](https://sampleprograms.io/languages/elvish)
+- [Emojicode](https://sampleprograms.io/languages/emojicode)
+- [Erlang](https://sampleprograms.io/languages/erlang)
+- [Eta](https://sampleprograms.io/languages/eta)
+- [Eve](https://sampleprograms.io/languages/eve)
 
-### f
+### F
 
 - [F#](https://sampleprograms.io/languages/f-sharp)
 - [F\*](https://sampleprograms.io/languages/f-star)
-- [FACTOR](https://sampleprograms.io/languages/factor)
-- [FELIX](https://sampleprograms.io/languages/felix)
-- [FENNEL](https://sampleprograms.io/languages/fennel)
-- [FERRET](https://sampleprograms.io/languages/ferret)
-- [FETLANG](https://sampleprograms.io/languages/fetlang)
-- [FLIX](https://sampleprograms.io/languages/flix)
-- [FORMALITY](https://sampleprograms.io/languages/formality)
-- [FORTH](https://sampleprograms.io/languages/forth)
-- [FORTRAN](https://sampleprograms.io/languages/fortran)
-- [FREGE](https://sampleprograms.io/languages/frege)
+- [Factor](https://sampleprograms.io/languages/factor)
+- [Felix](https://sampleprograms.io/languages/felix)
+- [Fennel](https://sampleprograms.io/languages/fennel)
+- [Ferret](https://sampleprograms.io/languages/ferret)
+- [Fetlang](https://sampleprograms.io/languages/fetlang)
+- [Flix](https://sampleprograms.io/languages/flix)
+- [Formality](https://sampleprograms.io/languages/formality)
+- [Forth](https://sampleprograms.io/languages/forth)
+- [Fortran](https://sampleprograms.io/languages/fortran)
+- [Frege](https://sampleprograms.io/languages/frege)
 
-### g
+### G
 
-- [GERBIL](https://sampleprograms.io/languages/gerbil)
-- [GLUON](https://sampleprograms.io/languages/gluon)
-- [GO](https://sampleprograms.io/languages/go)
-- [GOBY](https://sampleprograms.io/languages/goby)
-- [GOLO](https://sampleprograms.io/languages/golo)
-- [GOOGLE APPS SCRIPT](https://sampleprograms.io/languages/google-apps-script)
-- [GOSU](https://sampleprograms.io/languages/gosu)
-- [GRAIN](https://sampleprograms.io/languages/grain)
-- [GRANULE](https://sampleprograms.io/languages/granule)
-- [GRAVITY](https://sampleprograms.io/languages/gravity)
-- [GROOVY](https://sampleprograms.io/languages/groovy)
+- [Gerbil](https://sampleprograms.io/languages/gerbil)
+- [Gluon](https://sampleprograms.io/languages/gluon)
+- [Go](https://sampleprograms.io/languages/go)
+- [Goby](https://sampleprograms.io/languages/goby)
+- [Golo](https://sampleprograms.io/languages/golo)
+- [Google Apps Script](https://sampleprograms.io/languages/google-apps-script)
+- [Gosu](https://sampleprograms.io/languages/gosu)
+- [Grain](https://sampleprograms.io/languages/grain)
+- [Granule](https://sampleprograms.io/languages/granule)
+- [Gravity](https://sampleprograms.io/languages/gravity)
+- [Groovy](https://sampleprograms.io/languages/groovy)
 
-### h
+### H
 
-- [HACK](https://sampleprograms.io/languages/hack)
-- [HASKELL](https://sampleprograms.io/languages/haskell)
-- [HAXE](https://sampleprograms.io/languages/haxe)
-- [HOBBES](https://sampleprograms.io/languages/hobbes)
-- [HUGINN](https://sampleprograms.io/languages/huginn)
+- [Hack](https://sampleprograms.io/languages/hack)
+- [Haskell](https://sampleprograms.io/languages/haskell)
+- [Haxe](https://sampleprograms.io/languages/haxe)
+- [Hobbes](https://sampleprograms.io/languages/hobbes)
+- [Huginn](https://sampleprograms.io/languages/huginn)
 
-### i
+### I
 
-- [IDRIS](https://sampleprograms.io/languages/idris)
-- [IO](https://sampleprograms.io/languages/io)
+- [Idris](https://sampleprograms.io/languages/idris)
+- [Io](https://sampleprograms.io/languages/io)
 
-### j
+### J
 
-- [JANET](https://sampleprograms.io/languages/janet)
-- [JAVA](https://sampleprograms.io/languages/java)
-- [JAVASCRIPT](https://sampleprograms.io/languages/javascript)
-- [JULIA](https://sampleprograms.io/languages/julia)
+- [Janet](https://sampleprograms.io/languages/janet)
+- [Java](https://sampleprograms.io/languages/java)
+- [Javascript](https://sampleprograms.io/languages/javascript)
+- [Julia](https://sampleprograms.io/languages/julia)
 
-### k
+### K
 
-- [KITTEN](https://sampleprograms.io/languages/kitten)
-- [KOKA](https://sampleprograms.io/languages/koka)
-- [KOTLIN](https://sampleprograms.io/languages/kotlin)
+- [Kitten](https://sampleprograms.io/languages/kitten)
+- [Koka](https://sampleprograms.io/languages/koka)
+- [Kotlin](https://sampleprograms.io/languages/kotlin)
 
-### l
+### L
 
-- [LATTE](https://sampleprograms.io/languages/latte)
-- [LILY](https://sampleprograms.io/languages/lily)
-- [LISP](https://sampleprograms.io/languages/lisp)
-- [LITTLE](https://sampleprograms.io/languages/little)
-- [LIVESCRIPT](https://sampleprograms.io/languages/livescript)
-- [LOBSTER](https://sampleprograms.io/languages/lobster)
-- [LOGO](https://sampleprograms.io/languages/logo)
-- [LOLCODE](https://sampleprograms.io/languages/lolcode)
-- [LUA](https://sampleprograms.io/languages/lua)
-- [LUCEE](https://sampleprograms.io/languages/lucee)
+- [Latte](https://sampleprograms.io/languages/latte)
+- [Lily](https://sampleprograms.io/languages/lily)
+- [Lisp](https://sampleprograms.io/languages/lisp)
+- [Little](https://sampleprograms.io/languages/little)
+- [Livescript](https://sampleprograms.io/languages/livescript)
+- [Lobster](https://sampleprograms.io/languages/lobster)
+- [Logo](https://sampleprograms.io/languages/logo)
+- [Lolcode](https://sampleprograms.io/languages/lolcode)
+- [Lua](https://sampleprograms.io/languages/lua)
+- [Lucee](https://sampleprograms.io/languages/lucee)
 
-### m
+### M
 
-- [MATHEMATICA](https://sampleprograms.io/languages/mathematica)
-- [MATLAB](https://sampleprograms.io/languages/matlab)
-- [MICROSOFT MACRO ASSEMBLER](https://sampleprograms.io/languages/microsoft-macro-assembler)
-- [MIRTH](https://sampleprograms.io/languages/mirth)
-- [MODULA2](https://sampleprograms.io/languages/modula2)
-- [MOJISCRIPT](https://sampleprograms.io/languages/mojiscript)
-- [MOONSCRIPT](https://sampleprograms.io/languages/moonscript)
+- [Mathematica](https://sampleprograms.io/languages/mathematica)
+- [Matlab](https://sampleprograms.io/languages/matlab)
+- [Microsoft Macro Assembler](https://sampleprograms.io/languages/microsoft-macro-assembler)
+- [Mirth](https://sampleprograms.io/languages/mirth)
+- [Modula2](https://sampleprograms.io/languages/modula2)
+- [Mojiscript](https://sampleprograms.io/languages/mojiscript)
+- [Moonscript](https://sampleprograms.io/languages/moonscript)
 
-### n
+### N
 
-- [NEVER](https://sampleprograms.io/languages/never)
-- [NICE](https://sampleprograms.io/languages/nice)
-- [NIM](https://sampleprograms.io/languages/nim)
-- [NIT](https://sampleprograms.io/languages/nit)
+- [Never](https://sampleprograms.io/languages/never)
+- [Nice](https://sampleprograms.io/languages/nice)
+- [Nim](https://sampleprograms.io/languages/nim)
+- [Nit](https://sampleprograms.io/languages/nit)
 
-### o
+### O
 
-- [OBJECTIVE C](https://sampleprograms.io/languages/objective-c)
-- [OCAML](https://sampleprograms.io/languages/ocaml)
-- [OCTAVE](https://sampleprograms.io/languages/octave)
-- [ODIN](https://sampleprograms.io/languages/odin)
-- [OPA](https://sampleprograms.io/languages/opa)
-- [ORC](https://sampleprograms.io/languages/orc)
-- [OWL LISP](https://sampleprograms.io/languages/owl-lisp)
+- [Objective C](https://sampleprograms.io/languages/objective-c)
+- [Ocaml](https://sampleprograms.io/languages/ocaml)
+- [Octave](https://sampleprograms.io/languages/octave)
+- [Odin](https://sampleprograms.io/languages/odin)
+- [Opa](https://sampleprograms.io/languages/opa)
+- [Orc](https://sampleprograms.io/languages/orc)
+- [Owl Lisp](https://sampleprograms.io/languages/owl-lisp)
 
-### p
+### P
 
 - [P](https://sampleprograms.io/languages/p)
 - [P4](https://sampleprograms.io/languages/p4)
-- [PASCAL](https://sampleprograms.io/languages/pascal)
-- [PERL](https://sampleprograms.io/languages/perl)
-- [PHIX](https://sampleprograms.io/languages/phix)
-- [PHP](https://sampleprograms.io/languages/php)
-- [PICOLISP](https://sampleprograms.io/languages/picolisp)
-- [PIKELET](https://sampleprograms.io/languages/pikelet)
-- [PINEAPPLE](https://sampleprograms.io/languages/pineapple)
-- [PINECONE](https://sampleprograms.io/languages/pinecone)
-- [PONY](https://sampleprograms.io/languages/pony)
-- [POWERSHELL](https://sampleprograms.io/languages/powershell)
-- [PURESCRIPT](https://sampleprograms.io/languages/purescript)
-- [PYRET](https://sampleprograms.io/languages/pyret)
-- [PYTHON](https://sampleprograms.io/languages/python)
+- [Pascal](https://sampleprograms.io/languages/pascal)
+- [Perl](https://sampleprograms.io/languages/perl)
+- [Phix](https://sampleprograms.io/languages/phix)
+- [Php](https://sampleprograms.io/languages/php)
+- [Picolisp](https://sampleprograms.io/languages/picolisp)
+- [Pikelet](https://sampleprograms.io/languages/pikelet)
+- [Pineapple](https://sampleprograms.io/languages/pineapple)
+- [Pinecone](https://sampleprograms.io/languages/pinecone)
+- [Pony](https://sampleprograms.io/languages/pony)
+- [Powershell](https://sampleprograms.io/languages/powershell)
+- [Purescript](https://sampleprograms.io/languages/purescript)
+- [Pyret](https://sampleprograms.io/languages/pyret)
+- [Python](https://sampleprograms.io/languages/python)
 
-### q
+### Q
 
-- [QUACK](https://sampleprograms.io/languages/quack)
+- [Quack](https://sampleprograms.io/languages/quack)
 
-### r
+### R
 
 - [R](https://sampleprograms.io/languages/r)
-- [RACKET](https://sampleprograms.io/languages/racket)
-- [RAKU](https://sampleprograms.io/languages/raku)
-- [RED](https://sampleprograms.io/languages/red)
-- [REXX](https://sampleprograms.io/languages/rexx)
-- [RING](https://sampleprograms.io/languages/ring)
-- [RUBY](https://sampleprograms.io/languages/ruby)
-- [RUST](https://sampleprograms.io/languages/rust)
+- [Racket](https://sampleprograms.io/languages/racket)
+- [Raku](https://sampleprograms.io/languages/raku)
+- [Red](https://sampleprograms.io/languages/red)
+- [Rexx](https://sampleprograms.io/languages/rexx)
+- [Ring](https://sampleprograms.io/languages/ring)
+- [Ruby](https://sampleprograms.io/languages/ruby)
+- [Rust](https://sampleprograms.io/languages/rust)
 
-### s
+### S
 
-- [SATHER](https://sampleprograms.io/languages/sather)
-- [SCALA](https://sampleprograms.io/languages/scala)
-- [SCHEME](https://sampleprograms.io/languages/scheme)
-- [SCILAB](https://sampleprograms.io/languages/scilab)
-- [SHEN](https://sampleprograms.io/languages/shen)
-- [SMALLTALK](https://sampleprograms.io/languages/smalltalk)
-- [SOLIDITY](https://sampleprograms.io/languages/solidity)
-- [SOLISP](https://sampleprograms.io/languages/solisp)
-- [SPRY](https://sampleprograms.io/languages/spry)
-- [SWIFT](https://sampleprograms.io/languages/swift)
+- [Sather](https://sampleprograms.io/languages/sather)
+- [Scala](https://sampleprograms.io/languages/scala)
+- [Scheme](https://sampleprograms.io/languages/scheme)
+- [Scilab](https://sampleprograms.io/languages/scilab)
+- [Shen](https://sampleprograms.io/languages/shen)
+- [Smalltalk](https://sampleprograms.io/languages/smalltalk)
+- [Solidity](https://sampleprograms.io/languages/solidity)
+- [Solisp](https://sampleprograms.io/languages/solisp)
+- [Spry](https://sampleprograms.io/languages/spry)
+- [Swift](https://sampleprograms.io/languages/swift)
 
-### t
+### T
 
-- [TCL](https://sampleprograms.io/languages/tcl)
-- [TERRA](https://sampleprograms.io/languages/terra)
-- [TEX](https://sampleprograms.io/languages/tex)
-- [TI BASIC](https://sampleprograms.io/languages/ti-basic)
-- [TYPESCRIPT](https://sampleprograms.io/languages/typescript)
+- [Tcl](https://sampleprograms.io/languages/tcl)
+- [Terra](https://sampleprograms.io/languages/terra)
+- [Tex](https://sampleprograms.io/languages/tex)
+- [Ti Basic](https://sampleprograms.io/languages/ti-basic)
+- [Typescript](https://sampleprograms.io/languages/typescript)
 
-### u
+### V
 
+- [Verilog](https://sampleprograms.io/languages/verilog)
+- [Verve](https://sampleprograms.io/languages/verve)
+- [Vimscript](https://sampleprograms.io/languages/vimscript)
+- [Visual Basic](https://sampleprograms.io/languages/visual-basic)
 
+### W
 
-### v
+- [Whitespace](https://sampleprograms.io/languages/whitespace)
+- [Wren](https://sampleprograms.io/languages/wren)
+- [Wu](https://sampleprograms.io/languages/wu)
+- [Wyvern](https://sampleprograms.io/languages/wyvern)
 
-- [VERILOG](https://sampleprograms.io/languages/verilog)
-- [VERVE](https://sampleprograms.io/languages/verve)
-- [VIMSCRIPT](https://sampleprograms.io/languages/vimscript)
-- [VISUAL BASIC](https://sampleprograms.io/languages/visual-basic)
+### Z
 
-### w
-
-- [WHITESPACE](https://sampleprograms.io/languages/whitespace)
-- [WREN](https://sampleprograms.io/languages/wren)
-- [WU](https://sampleprograms.io/languages/wu)
-- [WYVERN](https://sampleprograms.io/languages/wyvern)
-
-### x
-
-
-
-### y
-
-
-
-### z
-
-- [ZIG](https://sampleprograms.io/languages/zig)
+- [Zig](https://sampleprograms.io/languages/zig)

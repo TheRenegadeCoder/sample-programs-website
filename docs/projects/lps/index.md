@@ -3,7 +3,7 @@
 title: LPS
 layout: default
 date: 2022-04-28
-last-modified: 2022-04-28
+last-modified: 2022-04-29
 
 ---
 
@@ -84,6 +84,6 @@ The following table contains various test cases that you can use to verify the c
 
 ## Articles
 
-- [Lps in Go](https://sampleprograms.io/projects/lps/go)
-- [Lps in Javascript](https://sampleprograms.io/projects/lps/javascript)
-- [Lps in Python](https://sampleprograms.io/projects/lps/python)
+- [LPS in Go](https://sampleprograms.io/projects/lps/go)
+- [LPS in Javascript](https://sampleprograms.io/projects/lps/javascript)
+- [LPS in Python](https://sampleprograms.io/projects/lps/python)

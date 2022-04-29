@@ -1,13 +1,13 @@
 ---
 
-title: Lcs in Elixir
+title: LCS in Elixir
 layout: default
 date: 2022-04-28
-last-modified: 2022-04-28
+last-modified: 2022-04-29
 
 ---
 
-Welcome to the Lcs in Elixir page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the LCS in Elixir page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

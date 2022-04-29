@@ -3,7 +3,7 @@
 title: Javascript
 layout: default
 date: 2022-04-28
-last-modified: 2022-04-28
+last-modified: 2022-04-29
 
 ---
 
@@ -34,9 +34,9 @@ No description available. Please consider contributing.
 - [Insertion Sort in Javascript](https://sampleprograms.io/projects/insertion-sort/javascript)
 - [Job Sequencing in Javascript](https://sampleprograms.io/projects/job-sequencing/javascript)
 - [Josephus Problem in Javascript](https://sampleprograms.io/projects/josephus-problem/javascript)
-- [Lcs in Javascript](https://sampleprograms.io/projects/lcs/javascript)
+- [LCS in Javascript](https://sampleprograms.io/projects/lcs/javascript)
+- [LPS in Javascript](https://sampleprograms.io/projects/lps/javascript)
 - [Linear Search in Javascript](https://sampleprograms.io/projects/linear-search/javascript)
-- [Lps in Javascript](https://sampleprograms.io/projects/lps/javascript)
 - [Merge Sort in Javascript](https://sampleprograms.io/projects/merge-sort/javascript)
 - [Palindromic Number in Javascript](https://sampleprograms.io/projects/palindromic-number/javascript)
 - [Prime Number in Javascript](https://sampleprograms.io/projects/prime-number/javascript)

@@ -49,7 +49,7 @@ At any rate, I think that's plenty of background for now.
 - [Hello World in Haskell](https://sampleprograms.io/projects/hello-world/haskell)
 - [Insertion Sort in Haskell](https://sampleprograms.io/projects/insertion-sort/haskell)
 - [Job Sequencing in Haskell](https://sampleprograms.io/projects/job-sequencing/haskell)
-- [Lcs in Haskell](https://sampleprograms.io/projects/lcs/haskell)
+- [LCS in Haskell](https://sampleprograms.io/projects/lcs/haskell)
 - [Merge Sort in Haskell](https://sampleprograms.io/projects/merge-sort/haskell)
 - [Prime Number in Haskell](https://sampleprograms.io/projects/prime-number/haskell)
 - [Quick Sort in Haskell](https://sampleprograms.io/projects/quick-sort/haskell)

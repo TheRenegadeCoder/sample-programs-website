@@ -3,7 +3,7 @@
 title: MST
 layout: default
 date: 2022-04-28
-last-modified: 2022-04-28
+last-modified: 2022-04-29
 
 ---
 
@@ -80,5 +80,5 @@ In other words, what is the cost of the minimum spanning tree?
 
 ## Articles
 
-- [Mst in C](https://sampleprograms.io/projects/mst/c)
-- [Mst in Python](https://sampleprograms.io/projects/mst/python)
+- [MST in C](https://sampleprograms.io/projects/mst/c)
+- [MST in Python](https://sampleprograms.io/projects/mst/python)
