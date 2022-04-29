@@ -178,7 +178,7 @@ different modes together with the bitwise operator `|` (OR).
 Example: `std::fstream out_and_append("file.txt", std::ios::out | std::ios::app);`
 
 Of course, there are other modes available which we can find in DevDocs C++ File
-I/O documentation. At any rate, let's get back to the code:
+I/O documentation. At any rate, let's get back to the code:
 
 ```c++
 if(!out.is_open())

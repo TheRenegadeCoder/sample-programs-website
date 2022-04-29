@@ -237,7 +237,7 @@ char temp;
 ```
 
 As we can probably imagine, start and end refer to the indices at the start and
-end of the character array. The temp variable will be used to track swaps.
+end of the character array. The temp variable will be used to track swaps.
 We'll see that play out later.[^1]
 
 #### The Loop Structure
@@ -251,13 +251,13 @@ while(end > start) {
 }
 ```
 
-Our loop condition is pretty simple. All we do is monitor the start and end
-variables. If at any point start crosses end, we break out of the loop. As we
-can probably imagine, we will be manipulating start and end inside the loop.[^1]
+Our loop condition is pretty simple. All we do is monitor the start and end
+variables. If at any point start crosses end, we break out of the loop. As we
+can probably imagine, we will be manipulating start and end inside the loop.[^1]
 
 #### The Loop Internals
 
-Inside the loop, we pretty much just swap the characters at the start and end
+Inside the loop, we pretty much just swap the characters at the start and end
 indices and move those pointers inward by one:
 
 ```java
@@ -268,12 +268,12 @@ end--;
 start++;
 ```
 
-To do this, we leverage the temp variable to hold the start character. Then, we
-overwrite the start character with the end character. At that point, we overwrite
-the end character with the start character that we stored in temp.
+To do this, we leverage the temp variable to hold the start character. Then, we
+overwrite the start character with the end character. At that point, we overwrite
+the end character with the start character that we stored in temp.
 
-When we've completed the character swap, we decrement the end pointer and increment
-the start pointer. This allows us to slowly reverse each pair of characters
+When we've completed the character swap, we decrement the end pointer and increment
+the start pointer. This allows us to slowly reverse each pair of characters
 until we reach the middle of the String.[^1]
 
 #### The Return Statement

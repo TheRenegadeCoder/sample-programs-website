@@ -189,8 +189,8 @@ while line:
 
 As we can see, the loop performs some basic processing before we print the line
 out onto the screen. When we get a line from the file, we also get the newline.
-If we print it with the newline we print an extra empty line because print 
-automatically adds a newline by default. To fix this problem we use rstrip() to
+If we print it with the newline we print an extra empty line because print 
+automatically adds a newline by default. To fix this problem we use rstrip() to
 strip away any newlines at the end of the line. This loop will end when we reach
 EOF (end of file).
 
@@ -220,7 +220,7 @@ And, that's it! We've conquered File IO in Python.
 ## How to Run the Solution
 
 As usual, you're free to use an online Python interpreter such as the one on 
-Repl and run the solution there. Alternatively, if you have a Python interpreter
+Repl and run the solution there. Alternatively, if you have a Python interpreter
 installed on your machine, you can use the following command:
 
 ```console

@@ -142,8 +142,8 @@ while line:
 
 As we can see, the loop performs some basic processing before we print the line
 out onto the screen. When we get a line from the file, we also get the newline.
-If we print it with the newline we print an extra empty line because print 
-automatically adds a newline by default. To fix this problem we use rstrip() to
+If we print it with the newline we print an extra empty line because print 
+automatically adds a newline by default. To fix this problem we use rstrip() to
 strip away any newlines at the end of the line. This loop will end when we reach
 EOF (end of file).
 
