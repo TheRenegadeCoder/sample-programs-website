@@ -5,11 +5,9 @@
 Welcome to the Sample Programs in Every Language Website repository. Here, the documentation
 for all the code snippets is maintained. 
 
-If you'd like to contribute, you have three options:
-
-1. Add project documentation (see [template][project-template])
-2. Add language documentation (see [template][language-template])
-3. Add sample program documentation (see [template][sample-program-template])
+If you'd like to contribute, you're welcome to make any additions or changes you like
+to the source files (see sources folder). These files are used to automatically
+generate the documentation.
 
 See our list of issues to get started or create your own! 
 
