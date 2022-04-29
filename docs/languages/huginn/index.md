@@ -1,6 +1,9 @@
 ---
 
 title: Huginn
+layout: default
+date: 2022-04-28
+last-modified: 2022-04-28
 
 ---
 

@@ -1,3 +1,4 @@
+from datetime import date
 import pathlib
 import logging
 from string import ascii_lowercase
@@ -79,7 +80,7 @@ def _generate_front_matter(doc: snakemd.Document, path: pathlib.Path, title: str
     if source_path.exists():
         doc._contents.append(source_path.read_text(encoding="utf-8").strip())
     else:
-        doc.add_paragraph(f"title: {title}")
+        doc._contents.append(f"title: {title}\nlayout: default\ndate: 2022-04-28\nlast-modified: {date.today().strftime('%Y-%m-%d')}")
         log.warning(f"Failed to find {path}")
     doc.add_paragraph("---")
 
