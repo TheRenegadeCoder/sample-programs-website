@@ -1,5 +1,7 @@
 ---
 
+title: Hello World in Mojiscript
+
 ---
 
 Welcome to the Hello World in Mojiscript page! Here, you'll find the source code for this program as well as a description of how the program works.

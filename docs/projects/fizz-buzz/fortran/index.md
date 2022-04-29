@@ -1,5 +1,7 @@
 ---
 
+title: Fizz Buzz in Fortran
+
 ---
 
 Welcome to the Fizz Buzz in Fortran page! Here, you'll find the source code for this program as well as a description of how the program works.

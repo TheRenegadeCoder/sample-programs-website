@@ -1,5 +1,7 @@
 ---
 
+title: Hello World in P4
+
 ---
 
 Welcome to the Hello World in P4 page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,5 +1,7 @@
 ---
 
+title: Hello World in Spry
+
 ---
 
 Welcome to the Hello World in Spry page! Here, you'll find the source code for this program as well as a description of how the program works.

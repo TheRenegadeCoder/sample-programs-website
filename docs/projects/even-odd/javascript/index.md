@@ -1,5 +1,7 @@
 ---
 
+title: Even Odd in Javascript
+
 ---
 
 Welcome to the Even Odd in Javascript page! Here, you'll find the source code for this program as well as a description of how the program works.

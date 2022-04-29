@@ -1,5 +1,7 @@
 ---
 
+title: Hello World in Terra
+
 ---
 
 Welcome to the Hello World in Terra page! Here, you'll find the source code for this program as well as a description of how the program works.

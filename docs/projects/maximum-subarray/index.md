@@ -1,5 +1,7 @@
 ---
 
+title: Maximum Subarray
+
 ---
 
 Welcome to the Maximum Subarray page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

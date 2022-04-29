@@ -1,5 +1,7 @@
 ---
 
+title: Capitalize in Perl
+
 ---
 
 Welcome to the Capitalize in Perl page! Here, you'll find the source code for this program as well as a description of how the program works.

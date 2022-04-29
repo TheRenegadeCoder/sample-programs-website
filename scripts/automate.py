@@ -69,7 +69,7 @@ def _add_language_article_section(doc: snakemd.Document, repo: subete.Repo, lang
     doc.add_element(snakemd.MDList(articles))
 
 
-def _generate_front_matter(doc: snakemd.Document, path: pathlib.Path):
+def _generate_front_matter(doc: snakemd.Document, path: pathlib.Path, title: str):
     """
     Takes the existing front matter and adds it to the document.
     If no front matter exists, a default one is created.
@@ -79,6 +79,7 @@ def _generate_front_matter(doc: snakemd.Document, path: pathlib.Path):
     if source_path.exists():
         doc._contents.append(source_path.read_text(encoding="utf-8").strip())
     else:
+        doc.add_paragraph(f"title: {title}")
         log.warning(f"Failed to find {path}")
     doc.add_paragraph("---")
 
@@ -89,7 +90,7 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
     """
     doc: snakemd.Document = snakemd.new_doc("index")
     root_path = pathlib.Path(f"programs/{program._normalize_program_name()}/{language}")
-    _generate_front_matter(doc, root_path / "front_matter.yaml")
+    _generate_front_matter(doc, root_path / "front_matter.yaml", str(program))
     doc.add_paragraph(
         f"Welcome to the {program} page! Here, you'll find the source code for this program "
         f"as well as a description of how the program works."
@@ -116,11 +117,11 @@ def _generate_project_index(project: str):
     """
     doc: snakemd.Document = snakemd.new_doc("index")
     root_path = pathlib.Path(f"sources/projects/{project}")
-    _generate_front_matter(doc, root_path / "front_matter.yaml")
     title = ' '.join([
         word.capitalize() if len(project) > 3 else word.upper()
         for word in project.split('-')
     ])
+    _generate_front_matter(doc, root_path / "front_matter.yaml", title)
     doc.add_paragraph(
         f"Welcome to the {title} page! Here, you'll find a description "
         f"of the project as well as a list of sample programs "
@@ -140,7 +141,7 @@ def _generate_language_index(language: subete.LanguageCollection):
     """
     doc: snakemd.Document = snakemd.new_doc("index")
     root_path = pathlib.Path(f"languages/{language.pathlike_name()}")
-    _generate_front_matter(doc, root_path / "front_matter.yaml")
+    _generate_front_matter(doc, root_path / "front_matter.yaml", str(language))
     doc.add_paragraph(
         f"Welcome to the {language} page! Here, you'll find a description " 
         f"of the language as well as a list of sample programs "

@@ -1,5 +1,7 @@
 ---
 
+title: Hello World in Octave
+
 ---
 
 Welcome to the Hello World in Octave page! Here, you'll find the source code for this program as well as a description of how the program works.

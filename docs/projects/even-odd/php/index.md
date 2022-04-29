@@ -1,5 +1,7 @@
 ---
 
+title: Even Odd in Php
+
 ---
 
 Welcome to the Even Odd in Php page! Here, you'll find the source code for this program as well as a description of how the program works.

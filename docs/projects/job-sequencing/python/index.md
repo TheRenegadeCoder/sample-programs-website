@@ -1,5 +1,7 @@
 ---
 
+title: Job Sequencing in Python
+
 ---
 
 Welcome to the Job Sequencing in Python page! Here, you'll find the source code for this program as well as a description of how the program works.

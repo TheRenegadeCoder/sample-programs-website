@@ -1,5 +1,7 @@
 ---
 
+title: Baklava in Bash
+
 ---
 
 Welcome to the Baklava in Bash page! Here, you'll find the source code for this program as well as a description of how the program works.

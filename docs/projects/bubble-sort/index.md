@@ -1,5 +1,7 @@
 ---
 
+title: Bubble Sort
+
 ---
 
 Welcome to the Bubble Sort page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

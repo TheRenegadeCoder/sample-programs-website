@@ -1,5 +1,7 @@
 ---
 
+title: Selection Sort
+
 ---
 
 Welcome to the Selection Sort page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

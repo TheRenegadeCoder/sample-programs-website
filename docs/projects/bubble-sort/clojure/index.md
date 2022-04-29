@@ -1,5 +1,7 @@
 ---
 
+title: Bubble Sort in Clojure
+
 ---
 
 Welcome to the Bubble Sort in Clojure page! Here, you'll find the source code for this program as well as a description of how the program works.

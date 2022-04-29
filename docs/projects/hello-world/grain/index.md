@@ -1,5 +1,7 @@
 ---
 
+title: Hello World in Grain
+
 ---
 
 Welcome to the Hello World in Grain page! Here, you'll find the source code for this program as well as a description of how the program works.
