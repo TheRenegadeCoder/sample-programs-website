@@ -1,4 +1,4 @@
-name: "Image Generation"
+name: Website Automation
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   images:
-    name: "Image Titler"
+    name: Deployment
     runs-on: ubuntu-latest
 
     steps:
@@ -20,7 +20,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Generate Webpages
-        run: py scripts/automate.py
+        run: python scripts/automate.py
 
       - name: Generate Images
         run: |
