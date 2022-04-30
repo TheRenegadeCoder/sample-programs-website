@@ -20,9 +20,7 @@ Welcome to the Import Export in Javascript page! Here, you'll find the source co
 {% raw %}
 
 ```Javascript
-var myImport = require("./export");
-
-console.log(myImport.myGreeting);
+exports.myGreeting = "Hello World";
 ```
 
 {% endraw %}
