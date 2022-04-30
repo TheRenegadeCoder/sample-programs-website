@@ -251,10 +251,12 @@ def generate_languages_index(repo: subete.Repo):
     )
     for letter in repo.sorted_language_letters():
         language_index.add_header(letter.upper(), level=3)
-        languages: list[subete.LanguageCollection] = repo.languages_by_letter(
-            letter)
-        languages = [snakemd.InlineText(
-            x.name(), url=x.lang_docs_url()) for x in languages]
+        languages: list[subete.LanguageCollection] = repo.languages_by_letter(letter)
+        languages.sort(key=lambda x: x.name().casefold())
+        languages = [
+            snakemd.InlineText(x.name(), url=x.lang_docs_url()) 
+            for x in languages
+        ]
         language_index.add_element(snakemd.MDList(languages))
     language_index.output_page(str(language_index_path))
 
