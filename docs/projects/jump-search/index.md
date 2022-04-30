@@ -1,9 +1,13 @@
 ---
 
-title: Jump Search
+title: Jump Search in Every Language
 layout: default
-date: 2022-04-28
-last-modified: 2022-04-30
+date: 2020-10-02
+last-modified: 2021-08-12
+featured-image: 
+tags: [jump-search]
+authors:
+  - soumalyatheking22012001
 
 ---
 

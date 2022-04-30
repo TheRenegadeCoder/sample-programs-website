@@ -1,9 +1,13 @@
 ---
 
-title: Palindromic Number
+title: Palindromic Numbers in Every Language
 layout: default
-date: 2022-04-28
-last-modified: 2022-04-30
+date: 2020-10-07
+last-modified: 2020-10-07
+featured-image: 
+tags: [palindrome]
+authors:
+  - anohene1
 
 ---
 

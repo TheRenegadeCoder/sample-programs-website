@@ -1,9 +1,14 @@
 ---
 
-title: Import Export
+title: Import/Export in Every Language
 layout: default
-date: 2022-04-28
-last-modified: 2022-04-30
+date: 2019-10-04
+last-modified: 2020-11-01
+featured-image:
+tags: [import-export]
+authors: 
+  - ray6464
+  - the_renegade_coder
 
 ---
 

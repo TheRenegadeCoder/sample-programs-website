@@ -1,9 +1,14 @@
 ---
 
-title: Josephus Problem
+title: Josephus Problem in Every Language
+
 layout: default
-date: 2022-04-28
-last-modified: 2022-04-30
+date: 2020-10-06
+last-modified: 2020-10-06
+featured-image: 
+tags: [josephus-problem]
+authors:
+ - belide_aakash
 
 ---
 

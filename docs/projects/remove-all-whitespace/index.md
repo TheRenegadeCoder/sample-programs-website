@@ -1,9 +1,14 @@
 ---
 
-title: Remove All Whitespace
+title: Remove All Whitespace in Every Language
 layout: default
-date: 2022-04-28
-last-modified: 2022-04-30
+date: 2020-10-21
+last-modified: 2020-10-28
+featured-image:
+tags: [remove-all-whitespace]
+authors:
+    - barhouum7
+    - the_renegade_coder
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 
-title: Game Of Life
+title: Game of Life in Every Language
 layout: default
-date: 2022-04-28
-last-modified: 2022-04-30
+date: 2018-11-01
+last-modified: 2018-11-02
+featured-image:
+tags: [game-of-life]
+authors:
 
 ---
 

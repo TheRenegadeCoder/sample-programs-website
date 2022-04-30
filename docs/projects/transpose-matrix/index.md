@@ -1,9 +1,13 @@
 ---
 
-title: Transpose Matrix
+title: Transpose Matrix in Every Language
 layout: default
-date: 2022-04-28
-last-modified: 2022-04-30
+date: 2020-10-08
+last-modified: 2021-10-06
+featured-image:
+tags: [transpose-matrix]
+authors: 
+  - DedAvocado
 
 ---
 

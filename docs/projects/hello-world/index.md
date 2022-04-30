@@ -1,9 +1,13 @@
 ---
 
-title: Hello World
+title: Hello World in Every Language
 layout: default
-date: 2022-04-28
-last-modified: 2022-04-30
+date: 2018-11-01
+last-modified: 2018-11-09
+featured-image: hello-world-in-every-language-featured-image.JPEG
+tags: [hello-world]
+authors:
+  - the_renegade_coder
 
 ---
 
