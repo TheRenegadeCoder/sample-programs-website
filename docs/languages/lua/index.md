@@ -13,7 +13,26 @@ Welcome to the Lua page! Here, you'll find a description of the language as well
 
 ## Description
 
-No 'Description' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
+As usual, I'm not super familiar with the language we're working with today,
+so let's consult [Wikipedia][1].
+
+Like many of the languages we've touched on already, Lua is a scripting language.
+Unlike many of the scripting languages we've covered, Lua is extremely lightweight,
+so it shines in embedded applications.
+
+Perhaps the oddest featured of Lua is the fact that it's compiled, but this is
+not readily apparent to the user. That's because the compilation occurs at
+run-time where the bytecode is then interpreted. However, it's possible to
+precompile Lua to save a few CPU cycles during runtime.
+
+Because Lua is built for embedded applications, it has its own C API which can
+be used to write Lua code in C. Personally, I don't find the API to be that
+user-friendly, but it does eliminate the need for reference management, so I
+can't really complain.
+
+Due to its lightweight and embedded nature, Lua has also found a home in the
+gaming community. How have I never used it?
+
 
 ## Articles
 
