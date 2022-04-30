@@ -15,7 +15,7 @@ Welcome to the Factorial in Matlab page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Matlab
+```matlab
 function result=factorial(n)
 
 if n<0

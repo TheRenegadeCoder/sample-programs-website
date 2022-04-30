@@ -15,7 +15,7 @@ Welcome to the Reverse String in Pascal page! Here, you'll find the source code 
 
 {% raw %}
 
-```Pascal
+```pascal
 program reversestring(input, output, stdErr);
 (*Accept a String from Command Line, Reverse it & Print it*)
 var

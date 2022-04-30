@@ -17,7 +17,7 @@ Welcome to the Fibonacci in Javascript page! Here, you'll find the source code f
 
 {% raw %}
 
-```Javascript
+```javascript
 function fibonacci(num) {
     let n = Number(num);
     let first = 0;

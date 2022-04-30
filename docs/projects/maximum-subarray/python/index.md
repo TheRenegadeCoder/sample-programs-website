@@ -18,7 +18,7 @@ Welcome to the Maximum Subarray in Python page! Here, you'll find the source cod
 
 {% raw %}
 
-```Python
+```python
 import sys
 
 

@@ -18,7 +18,7 @@ Welcome to the Hello World in Elixir page! Here, you'll find the source code for
 
 {% raw %}
 
-```Elixir
+```elixir
 IO.puts "Hello, World!"
 ```
 

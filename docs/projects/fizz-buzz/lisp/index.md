@@ -18,7 +18,7 @@ Welcome to the Fizz Buzz in Lisp page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Lisp
+```lisp
 (defun divides-by (num divisor)
     (= (mod num divisor) 0))
 

@@ -15,7 +15,7 @@ Welcome to the Hello World in Logo page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Logo
+```logo
 hideturtle
 print [Hello World!]
 ```

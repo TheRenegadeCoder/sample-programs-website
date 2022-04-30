@@ -15,7 +15,7 @@ Welcome to the Hello World in Raku page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Raku
+```raku
 say 'Hello, World!'
 ```
 

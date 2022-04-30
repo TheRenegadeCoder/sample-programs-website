@@ -15,7 +15,7 @@ Welcome to the Baklava in Go page! Here, you'll find the source code for this pr
 
 {% raw %}
 
-```Go
+```go
 package main
 
 import (

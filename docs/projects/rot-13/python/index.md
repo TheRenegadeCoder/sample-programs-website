@@ -15,7 +15,7 @@ Welcome to the Rot 13 in Python page! Here, you'll find the source code for this
 
 {% raw %}
 
-```Python
+```python
 import sys
 from string import ascii_uppercase, ascii_lowercase
 

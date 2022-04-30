@@ -15,7 +15,7 @@ Welcome to the Even Odd in C# page! Here, you'll find the source code for this p
 
 {% raw %}
 
-```C#
+```c#
 using System;
 
 namespace SamplePrograms

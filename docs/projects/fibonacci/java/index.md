@@ -15,7 +15,7 @@ Welcome to the Fibonacci in Java page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Java
+```java
 public class Fibonacci {
 
     public static void main(String[] args) {

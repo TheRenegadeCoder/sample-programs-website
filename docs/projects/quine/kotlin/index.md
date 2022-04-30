@@ -15,7 +15,7 @@ Welcome to the Quine in Kotlin page! Here, you'll find the source code for this 
 
 {% raw %}
 
-```Kotlin
+```kotlin
 fun main(args: Array<String>) { //Prints out it's own code
 	val s = """fun main(args: Array<String>) { //Prints out it's own code
 	val s = """

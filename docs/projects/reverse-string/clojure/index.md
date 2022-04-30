@@ -15,7 +15,7 @@ Welcome to the Reverse String in Clojure page! Here, you'll find the source code
 
 {% raw %}
 
-```Clojure
+```clojure
 (ns reverse-string
 	(:gen-class))
 

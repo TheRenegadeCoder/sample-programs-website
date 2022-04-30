@@ -15,7 +15,7 @@ Welcome to the Rot 13 in Perl page! Here, you'll find the source code for this p
 
 {% raw %}
 
-```Perl
+```perl
 my ($str) = @ARGV;
 
 

@@ -15,7 +15,7 @@ Welcome to the Prime Number in Lisp page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Lisp
+```lisp
 (defun primep (n)
  (cond
   ((= 0    n)          nil)

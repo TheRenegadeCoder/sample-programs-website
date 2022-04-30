@@ -15,7 +15,7 @@ Welcome to the File Io in Javascript page! Here, you'll find the source code for
 
 {% raw %}
 
-```Javascript
+```javascript
 //Written with node 10.16.3
 //fs.promises API is still experimental in Node at this time, but it should be preferred over callbacks when is fully developed
 fs = require('fs'); 

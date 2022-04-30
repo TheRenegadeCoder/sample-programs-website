@@ -15,7 +15,7 @@ Welcome to the Hello World in Lobster page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Lobster
+```lobster
 import std
 import vec
 import color

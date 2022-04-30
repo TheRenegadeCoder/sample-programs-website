@@ -15,7 +15,7 @@ Welcome to the Hello World in Wyvern page! Here, you'll find the source code for
 
 {% raw %}
 
-```Wyvern
+```wyvern
 require stdout
 
 stdout.print("Hello, World!")

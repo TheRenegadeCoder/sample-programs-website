@@ -15,7 +15,7 @@ Welcome to the Hello World in Egison page! Here, you'll find the source code for
 
 {% raw %}
 
-```Egison
+```egison
 ;; Prints "Hello, World!" to the standard output.
 (define $main
   (lambda [$args]

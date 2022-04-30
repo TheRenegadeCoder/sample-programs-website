@@ -15,7 +15,7 @@ Welcome to the Selection Sort in Matlab page! Here, you'll find the source code 
 
 {% raw %}
 
-```Matlab
+```matlab
 function sorted = selection_sort(array)
   if nargin == 0 || length(array)<=1
       fprintf("Usage: please provide a list of at least two integers to sort in the format [1 2 3 4 5]\n");

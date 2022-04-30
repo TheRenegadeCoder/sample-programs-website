@@ -15,7 +15,7 @@ Welcome to the Capitalize in Javascript page! Here, you'll find the source code 
 
 {% raw %}
 
-```Javascript
+```javascript
 function capitalize(stringToCapitalize) {
     return stringToCapitalize[0].toUpperCase() + stringToCapitalize.slice(1);
 }

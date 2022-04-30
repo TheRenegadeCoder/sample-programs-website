@@ -15,7 +15,7 @@ Welcome to the Rot 13 in Go page! Here, you'll find the source code for this pro
 
 {% raw %}
 
-```Go
+```go
 package main
 
 import (

@@ -15,7 +15,7 @@ Welcome to the Hello World in Zig page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Zig
+```zig
 const std = @import("std");
 
 pub fn main() !void {

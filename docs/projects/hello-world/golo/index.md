@@ -15,7 +15,7 @@ Welcome to the Hello World in Golo page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Golo
+```golo
 module hello.World
 
 function main = |args| {

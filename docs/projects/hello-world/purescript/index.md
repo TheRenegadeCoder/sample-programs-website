@@ -15,7 +15,7 @@ Welcome to the Hello World in Purescript page! Here, you'll find the source code
 
 {% raw %}
 
-```Purescript
+```purescript
 module Main where
 
 import Effect.Console (log)

@@ -15,7 +15,7 @@ Welcome to the Capitalize in Java page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Java
+```java
 public class Capitalize
 {
 

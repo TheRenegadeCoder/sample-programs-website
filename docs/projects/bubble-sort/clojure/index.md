@@ -15,7 +15,7 @@ Welcome to the Bubble Sort in Clojure page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Clojure
+```clojure
 (ns bubble-sort
 	(:gen-class))
   

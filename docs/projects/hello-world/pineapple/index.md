@@ -15,7 +15,7 @@ Welcome to the Hello World in Pineapple page! Here, you'll find the source code 
 
 {% raw %}
 
-```Pineapple
+```pineapple
 def ().main
     'Hello, World!'.show
 ```

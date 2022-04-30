@@ -15,7 +15,7 @@ Welcome to the Even Odd in Java page! Here, you'll find the source code for this
 
 {% raw %}
 
-```Java
+```java
 public class EvenOdd
 {
     public static void verifyNumber(String n) throws NumberFormatException

@@ -15,7 +15,7 @@ Welcome to the Insertion Sort in Php page! Here, you'll find the source code for
 
 {% raw %}
 
-```Php
+```php
 <?php
 
 function insertion_Sort($my_array)

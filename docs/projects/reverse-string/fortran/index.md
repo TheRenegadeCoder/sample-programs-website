@@ -15,7 +15,7 @@ Welcome to the Reverse String in Fortran page! Here, you'll find the source code
 
 {% raw %}
 
-```Fortran
+```fortran
 program reversestring
 character(len=100) :: argument
 character(len=:), allocatable :: buff, reversed

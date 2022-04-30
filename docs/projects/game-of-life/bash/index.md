@@ -15,7 +15,7 @@ Welcome to the Game Of Life in Bash page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Bash
+```bash
 #!/bin/bash
 
 # Build grid.

@@ -18,7 +18,7 @@ Welcome to the Hello World in Kotlin page! Here, you'll find the source code for
 
 {% raw %}
 
-```Kotlin
+```kotlin
 fun main(args: Array<String>) {
   println("Hello, World!")
 }

@@ -15,7 +15,7 @@ Welcome to the Rot 13 in Java page! Here, you'll find the source code for this p
 
 {% raw %}
 
-```Java
+```java
 public class Rot13
 {
    public static void main(String[] args)

@@ -15,7 +15,7 @@ Welcome to the Prime Number in Pascal page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Pascal
+```pascal
 program prime_check(input, output, stdErr);
 (* Read a number from Commandline, Check  if it is Prime or Composite*)
 var

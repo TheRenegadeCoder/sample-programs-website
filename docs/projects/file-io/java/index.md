@@ -15,7 +15,7 @@ Welcome to the File Io in Java page! Here, you'll find the source code for this 
 
 {% raw %}
 
-```Java
+```java
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;

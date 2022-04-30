@@ -15,7 +15,7 @@ Welcome to the Merge Sort in Groovy page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Groovy
+```groovy
 class MergeSort {
 
     static sort(int[] data) { sort(data, 0, data.length - 1) }

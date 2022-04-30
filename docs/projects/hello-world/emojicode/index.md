@@ -17,7 +17,7 @@ Welcome to the Hello World in Emojicode page! Here, you'll find the source code 
 
 {% raw %}
 
-```Emojicode
+```emojicode
 🏁 🍇
   😀 🔤Howdy, World!🔤
 🍉

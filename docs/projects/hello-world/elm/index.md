@@ -18,7 +18,7 @@ Welcome to the Hello World in Elm page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Elm
+```elm
 module HelloWorld exposing (..)
 
 import Html exposing (text)

@@ -15,7 +15,7 @@ Welcome to the Fibonacci in Lua page! Here, you'll find the source code for this
 
 {% raw %}
 
-```Lua
+```lua
 function fib(n)
   local a, b = 0, 1
   for k = 1, n do

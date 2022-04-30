@@ -15,7 +15,7 @@ Welcome to the Reverse String in Kotlin page! Here, you'll find the source code 
 
 {% raw %}
 
-```Kotlin
+```kotlin
 fun main(args: Array<String>){
   // Get input, or use default value
   val targetValue = when (args.size > 0 && !args[0].isNullOrBlank()) {

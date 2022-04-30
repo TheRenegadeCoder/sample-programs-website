@@ -15,7 +15,7 @@ Welcome to the Fibonacci in Boo page! Here, you'll find the source code for this
 
 {% raw %}
 
-```Boo
+```boo
 def fib():
     a, b = 0L, 1L       # The 'L's make the numbers double word length (typically 64 bits)
     while true:

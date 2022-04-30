@@ -15,7 +15,7 @@ Welcome to the Bubble Sort in Rust page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Rust
+```rust
 use std::env;
 
 fn bubble_sort(arr: &mut Vec<i32>) {

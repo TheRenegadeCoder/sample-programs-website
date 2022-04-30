@@ -15,7 +15,7 @@ Welcome to the Hello World in Idris page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Idris
+```idris
 module Main
 
 main : IO ()

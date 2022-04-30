@@ -15,7 +15,7 @@ Welcome to the Fibonacci in Lisp page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Lisp
+```lisp
 (defun fibonacci (n &optional (a 1) (b 1) (acc))
   (if (<= n 0)
       (reverse acc)

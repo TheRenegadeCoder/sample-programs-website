@@ -15,7 +15,7 @@ Welcome to the Hello World in Latte page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Latte
+```latte
 println('Hello, World!')
 ```
 

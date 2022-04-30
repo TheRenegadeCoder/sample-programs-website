@@ -15,7 +15,7 @@ Welcome to the Factorial in Julia page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Julia
+```julia
 #!/usr/bin/julia
 
 function err() 

@@ -15,7 +15,7 @@ Welcome to the Hello World in Boo page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Boo
+```boo
 print "Hello, World!"
 ```
 

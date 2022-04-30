@@ -15,7 +15,7 @@ Welcome to the Binary Search in Rust page! Here, you'll find the source code for
 
 {% raw %}
 
-```Rust
+```rust
 #![feature(is_sorted)]
 
 use std::env;

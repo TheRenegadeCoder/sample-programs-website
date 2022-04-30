@@ -18,7 +18,7 @@ Welcome to the Reverse String in Javascript page! Here, you'll find the source c
 
 {% raw %}
 
-```Javascript
+```javascript
 const reverse = s => s.split('').reverse().join('');
 
 console.log(reverse(process.argv[2]));

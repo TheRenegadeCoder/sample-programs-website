@@ -15,7 +15,7 @@ Welcome to the Baklava in Crystal page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Crystal
+```crystal
 a = -1
 loop do
   a += 1

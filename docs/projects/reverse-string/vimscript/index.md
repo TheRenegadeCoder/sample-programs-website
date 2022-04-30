@@ -15,7 +15,7 @@ Welcome to the Reverse String in Vimscript page! Here, you'll find the source co
 
 {% raw %}
 
-```Vimscript
+```vimscript
 func! Reverse(str)
     let l:r = join(reverse(split(a:str, '\zs')), '')
     call append(0, l:r)

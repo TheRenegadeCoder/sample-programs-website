@@ -15,7 +15,7 @@ Welcome to the Hello World in Sather page! Here, you'll find the source code for
 
 {% raw %}
 
-```Sather
+```sather
 class HELLO_WORLD is
    main is
       #OUT+"Hello, World!";

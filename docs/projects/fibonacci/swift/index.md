@@ -15,7 +15,7 @@ Welcome to the Fibonacci in Swift page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Swift
+```swift
 import Foundation
 
 func fibonacciProgram(_ n: Int) {

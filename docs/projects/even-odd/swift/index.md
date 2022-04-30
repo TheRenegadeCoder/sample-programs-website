@@ -15,7 +15,7 @@ Welcome to the Even Odd in Swift page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Swift
+```swift
 // for System.exit()
 import Foundation
 

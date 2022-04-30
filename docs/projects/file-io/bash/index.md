@@ -15,7 +15,7 @@ Welcome to the File Io in Bash page! Here, you'll find the source code for this 
 
 {% raw %}
 
-```Bash
+```bash
 #!/bin/bash
 
 read_file () {

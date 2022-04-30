@@ -15,7 +15,7 @@ Welcome to the Hello World in Chapel page! Here, you'll find the source code for
 
 {% raw %}
 
-```Chapel
+```chapel
 writeln("Hello, World!");
 ```
 

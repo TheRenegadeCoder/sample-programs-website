@@ -15,7 +15,7 @@ Welcome to the Hello World in Autohotkey page! Here, you'll find the source code
 
 {% raw %}
 
-```Autohotkey
+```autohotkey
 ﻿MsgBox, 0x30, Sample Programs, Hello, World!
 ```
 

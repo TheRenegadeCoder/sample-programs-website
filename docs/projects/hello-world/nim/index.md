@@ -15,7 +15,7 @@ Welcome to the Hello World in Nim page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Nim
+```nim
 echo "Hello, World!"
 ```
 

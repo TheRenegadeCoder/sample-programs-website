@@ -15,7 +15,7 @@ Welcome to the LCS in Kotlin page! Here, you'll find the source code for this pr
 
 {% raw %}
 
-```Kotlin
+```kotlin
 private fun lcsOf(a: MutableList<String>, b: MutableList<String>, indexA: Int, indexB: Int): MutableList<String> {
     return if (indexA < 0 || indexB < 0) {
         mutableListOf()

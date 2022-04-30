@@ -18,7 +18,7 @@ Welcome to the Hello World in Matlab page! Here, you'll find the source code for
 
 {% raw %}
 
-```Matlab
+```matlab
 disp('Hello, World!');
 ```
 

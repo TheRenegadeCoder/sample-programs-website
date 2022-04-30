@@ -15,7 +15,7 @@ Welcome to the Hello World in Gluon page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Gluon
+```gluon
 let io = import! std.io
 io.print "Hello, World!"
 ```

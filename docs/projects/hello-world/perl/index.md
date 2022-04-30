@@ -18,7 +18,7 @@ Welcome to the Hello World in Perl page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Perl
+```perl
 print "Hello, World!";
 ```
 

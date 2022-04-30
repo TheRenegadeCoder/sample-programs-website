@@ -15,7 +15,7 @@ Welcome to the Hello World in Lily page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Lily
+```lily
 "Hello, World!" |> print
 ```
 

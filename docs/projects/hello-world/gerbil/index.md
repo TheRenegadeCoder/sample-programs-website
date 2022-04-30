@@ -15,7 +15,7 @@ Welcome to the Hello World in Gerbil page! Here, you'll find the source code for
 
 {% raw %}
 
-```Gerbil
+```gerbil
 (displayln "Hello, World!")
 ```
 

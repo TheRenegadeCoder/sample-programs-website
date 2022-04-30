@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Julia page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Julia
+```julia
 #!/usr/bin/julia
 
 for i = 1:100

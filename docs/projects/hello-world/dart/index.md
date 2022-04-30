@@ -18,7 +18,7 @@ Welcome to the Hello World in Dart page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Dart
+```dart
 void main() => print('Hello, World!');
 ```
 

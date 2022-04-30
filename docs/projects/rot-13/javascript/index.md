@@ -15,7 +15,7 @@ Welcome to the Rot 13 in Javascript page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Javascript
+```javascript
 const lower = "abcdefghijklmnopqrstuvwxyz";
 const upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 

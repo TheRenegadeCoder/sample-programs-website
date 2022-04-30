@@ -15,7 +15,7 @@ Welcome to the Hello World in Gosu page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Gosu
+```gosu
 print("Hello, World!")
 ```
 

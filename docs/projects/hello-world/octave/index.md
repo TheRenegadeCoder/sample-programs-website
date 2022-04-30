@@ -15,7 +15,7 @@ Welcome to the Hello World in Octave page! Here, you'll find the source code for
 
 {% raw %}
 
-```Octave
+```octave
 disp('Hello, World!');
 ```
 

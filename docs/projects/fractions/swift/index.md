@@ -15,7 +15,7 @@ Welcome to the Fractions in Swift page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Swift
+```swift
 // for System.exit()
 import Foundation
 

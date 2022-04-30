@@ -15,7 +15,7 @@ Welcome to the Even Odd in Matlab page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Matlab
+```matlab
 function result_string= odd_even(number)
 
 %number - input by user

@@ -15,7 +15,7 @@ Welcome to the Roman Numeral in Go page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Go
+```go
 package main
 
 import "fmt"

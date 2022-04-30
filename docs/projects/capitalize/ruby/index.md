@@ -15,7 +15,7 @@ Welcome to the Capitalize in Ruby page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Ruby
+```ruby
 def capitalize_str(str)
     s = str.split(' ')
     s[0][0] = s[0][0].upcase

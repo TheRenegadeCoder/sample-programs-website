@@ -15,7 +15,7 @@ Welcome to the Rot 13 in Haskell page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Haskell
+```haskell
 module Main where
 
 import Data.Char

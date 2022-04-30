@@ -15,7 +15,7 @@ Welcome to the Fibonacci in Nim page! Here, you'll find the source code for this
 
 {% raw %}
 
-```Nim
+```nim
 # Fibonacci Sample Program in Nim
 # Input the number of iterations as a command-line parameter
 import os

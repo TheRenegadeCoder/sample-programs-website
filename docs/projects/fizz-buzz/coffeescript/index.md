@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Coffeescript page! Here, you'll find the source code
 
 {% raw %}
 
-```Coffeescript
+```coffeescript
 for i in [1..100]	
     if i % 15 is 0	
       console.log "FizzBuzz"	

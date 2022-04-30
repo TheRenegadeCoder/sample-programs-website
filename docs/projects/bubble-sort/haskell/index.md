@@ -15,7 +15,7 @@ Welcome to the Bubble Sort in Haskell page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Haskell
+```haskell
 module Main where
 
 import Text.Read

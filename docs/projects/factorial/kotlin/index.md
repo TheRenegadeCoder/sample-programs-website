@@ -15,7 +15,7 @@ Welcome to the Factorial in Kotlin page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Kotlin
+```kotlin
 import java.math.BigInteger
 
 fun main(args: Array<String>) {

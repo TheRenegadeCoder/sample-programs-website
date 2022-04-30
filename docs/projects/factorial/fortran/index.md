@@ -15,7 +15,7 @@ Welcome to the Factorial in Fortran page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Fortran
+```fortran
 ! In program name, - is not allowed
 !works till 77
 ! 78 and above is out of the reasonable bounds for calculation

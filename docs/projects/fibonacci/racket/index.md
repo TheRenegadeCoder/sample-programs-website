@@ -15,7 +15,7 @@ Welcome to the Fibonacci in Racket page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Racket
+```racket
 #lang racket
 
 ;; A naive iimplementation of fibonacci

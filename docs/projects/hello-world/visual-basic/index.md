@@ -18,7 +18,7 @@ Welcome to the Hello World in Visual Basic page! Here, you'll find the source co
 
 {% raw %}
 
-```Visual Basic
+```visual basic
 Public Module HelloWorld
   Public Sub Main()
     System.Console.WriteLine("Hello, World!")

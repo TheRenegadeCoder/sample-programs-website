@@ -15,7 +15,7 @@ Welcome to the Even Odd in Haskell page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Haskell
+```haskell
 module Main where
 
 import System.Environment

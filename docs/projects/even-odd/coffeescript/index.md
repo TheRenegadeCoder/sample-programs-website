@@ -15,7 +15,7 @@ Welcome to the Even Odd in Coffeescript page! Here, you'll find the source code 
 
 {% raw %}
 
-```Coffeescript
+```coffeescript
 USAGE = "Usage: please input a number"
 main = (arg) ->
   numberParsed = parseInt(arg)

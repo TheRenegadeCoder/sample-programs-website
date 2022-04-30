@@ -15,7 +15,7 @@ Welcome to the LCS in C# page! Here, you'll find the source code for this progra
 
 {% raw %}
 
-```C#
+```c#
 using System;
 using System.Collections.Generic;
 using System.Linq;

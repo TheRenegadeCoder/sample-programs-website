@@ -15,7 +15,7 @@ Welcome to the Baklava in Fortran page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Fortran
+```fortran
 program Baklava
     do i = 0, 10, 1
         print '(10a)', repeat (" ", (10 - i)), repeat ("*", (i * 2 + 1))

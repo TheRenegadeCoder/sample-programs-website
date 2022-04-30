@@ -15,7 +15,7 @@ Welcome to the Hello World in Ruby page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Ruby
+```ruby
 puts 'Hello, World!'
 ```
 

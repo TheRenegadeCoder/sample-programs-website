@@ -15,7 +15,7 @@ Welcome to the Merge Sort in Javascript page! Here, you'll find the source code 
 
 {% raw %}
 
-```Javascript
+```javascript
 function mergeSort (unsortedArray) {
   if (unsortedArray.length <= 1) {
     return unsortedArray;

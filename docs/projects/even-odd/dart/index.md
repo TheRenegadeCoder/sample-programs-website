@@ -15,7 +15,7 @@ Welcome to the Even Odd in Dart page! Here, you'll find the source code for this
 
 {% raw %}
 
-```Dart
+```dart
 void main(List<String> args) {
   try{
     (int.parse(args[0])%2 == 0)?print("Even"):print("Odd");

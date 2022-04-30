@@ -15,7 +15,7 @@ Welcome to the Capitalize in Clojure page! Here, you'll find the source code for
 
 {% raw %}
 
-```Clojure
+```clojure
 (ns capitalize
 	(:gen-class))
 

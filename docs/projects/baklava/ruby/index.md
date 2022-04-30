@@ -15,7 +15,7 @@ Welcome to the Baklava in Ruby page! Here, you'll find the source code for this 
 
 {% raw %}
 
-```Ruby
+```ruby
 10.times {|n|
     print " " * (10 - n)
     puts "*" * (2 * n + 1)

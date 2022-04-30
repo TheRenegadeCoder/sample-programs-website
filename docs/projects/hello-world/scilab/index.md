@@ -15,7 +15,7 @@ Welcome to the Hello World in Scilab page! Here, you'll find the source code for
 
 {% raw %}
 
-```Scilab
+```scilab
 clc
 disp('Hello, World!')
 ```

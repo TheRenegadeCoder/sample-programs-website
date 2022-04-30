@@ -15,7 +15,7 @@ Welcome to the Reverse String in Solisp page! Here, you'll find the source code 
 
 {% raw %}
 
-```Solisp
+```solisp
 (If (== (Length args) 0)
 	""
 	(If (== (Length (Get 0 args)) 0)

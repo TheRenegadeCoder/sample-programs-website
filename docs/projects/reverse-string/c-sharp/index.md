@@ -15,7 +15,7 @@ Welcome to the Reverse String in C# page! Here, you'll find the source code for 
 
 {% raw %}
 
-```C#
+```c#
 using System;
 
 namespace SamplePrograms

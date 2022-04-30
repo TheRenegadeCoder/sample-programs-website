@@ -15,7 +15,7 @@ Welcome to the Maximum Array Rotation in Python page! Here, you'll find the sour
 
 {% raw %}
 
-```Python
+```python
 import sys
 
 def findMax(arr):

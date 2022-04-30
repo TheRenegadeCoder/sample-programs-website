@@ -18,7 +18,7 @@ Welcome to the File Io in Ruby page! Here, you'll find the source code for this 
 
 {% raw %}
 
-```Ruby
+```ruby
 def write_file
   out = File.new("output.txt", "w")
 

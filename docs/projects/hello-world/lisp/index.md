@@ -18,7 +18,7 @@ Welcome to the Hello World in Lisp page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Lisp
+```lisp
 (format t "Hello, World!")
 ```
 

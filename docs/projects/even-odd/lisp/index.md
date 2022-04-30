@@ -15,7 +15,7 @@ Welcome to the Even Odd in Lisp page! Here, you'll find the source code for this
 
 {% raw %}
 
-```Lisp
+```lisp
 (defun even-odd (x)
    (cond
      ((evenp x) "Even")

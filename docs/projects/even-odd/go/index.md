@@ -15,7 +15,7 @@ Welcome to the Even Odd in Go page! Here, you'll find the source code for this p
 
 {% raw %}
 
-```Go
+```go
 package main
 
 import (

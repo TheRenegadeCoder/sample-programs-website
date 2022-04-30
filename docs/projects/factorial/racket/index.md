@@ -15,7 +15,7 @@ Welcome to the Factorial in Racket page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Racket
+```racket
 #lang racket
 
 ;; A naive implementation of factorial

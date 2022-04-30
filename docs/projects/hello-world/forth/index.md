@@ -15,7 +15,7 @@ Welcome to the Hello World in Forth page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Forth
+```forth
 .( Hello, World!)
 ```
 

@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Lua page! Here, you'll find the source code for this
 
 {% raw %}
 
-```Lua
+```lua
 for i = 1, 100 do
     output = ""
 

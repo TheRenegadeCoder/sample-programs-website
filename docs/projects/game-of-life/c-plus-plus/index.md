@@ -15,7 +15,7 @@ Welcome to the Game Of Life in C++ page! Here, you'll find the source code for t
 
 {% raw %}
 
-```C++
+```c++
 #include <iostream>
 #include <cstdlib>
 #include <unistd.h>

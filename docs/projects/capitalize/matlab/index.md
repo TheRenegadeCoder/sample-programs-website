@@ -15,7 +15,7 @@ Welcome to the Capitalize in Matlab page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Matlab
+```matlab
 function capString = capitalize(string)
     if(nargin==0)
         fprintf("Usage: please provide a string\n");

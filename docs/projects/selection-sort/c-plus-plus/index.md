@@ -15,7 +15,7 @@ Welcome to the Selection Sort in C++ page! Here, you'll find the source code for
 
 {% raw %}
 
-```C++
+```c++
 #include <iostream>
 #include <bits/stdc++.h>
  

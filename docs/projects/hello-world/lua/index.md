@@ -18,7 +18,7 @@ Welcome to the Hello World in Lua page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Lua
+```lua
 print("Hello, World!")
 ```
 

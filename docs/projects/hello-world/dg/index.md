@@ -15,7 +15,7 @@ Welcome to the Hello World in Dg page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Dg
+```dg
 print "Hello, World!"
 ```
 

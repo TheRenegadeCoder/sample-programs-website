@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Typescript page! Here, you'll find the source code f
 
 {% raw %}
 
-```Typescript
+```typescript
 let line: string;
 
 for (let i = 0; i <= 100; i++) {

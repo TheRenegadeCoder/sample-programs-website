@@ -15,7 +15,7 @@ Welcome to the Hello World in Formality page! Here, you'll find the source code 
 
 {% raw %}
 
-```Formality
+```formality
 import Base@0
 
 main : Output

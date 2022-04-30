@@ -15,7 +15,7 @@ Welcome to the Fibonacci in Dart page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Dart
+```dart
 void main(List<String> args) {
   try{
     int first = 0;

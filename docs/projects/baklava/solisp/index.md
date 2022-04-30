@@ -15,7 +15,7 @@ Welcome to the Baklava in Solisp page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Solisp
+```solisp
 (Join (Map x (Append (Seq 0 10) (Reverse (Seq 0 9)))
 	(Join (Append
 		(Clone (- 10 x) " ")

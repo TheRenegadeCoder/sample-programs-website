@@ -15,7 +15,7 @@ Welcome to the File Io in Objective C page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Objective C
+```objective c
 #import <Foundation/Foundation.h>
 
 NSString* readFileWith(NSString* path) {

@@ -18,7 +18,7 @@ Welcome to the Bubble Sort in Go page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Go
+```go
 package main
 
 import (

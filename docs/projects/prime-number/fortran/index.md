@@ -15,7 +15,7 @@ Welcome to the Prime Number in Fortran page! Here, you'll find the source code f
 
 {% raw %}
 
-```Fortran
+```fortran
 ! In program name, - is not allowed
 !works till 100938872634753805466563377840038871040
 ! Commenting out of the reasonable bounds for calculation

@@ -15,7 +15,7 @@ Welcome to the LPS in Python page! Here, you'll find the source code for this pr
 
 {% raw %}
 
-```Python
+```python
 import sys
 
 errorMessage = "Usage: please provide a string that contains at least one palindrome"

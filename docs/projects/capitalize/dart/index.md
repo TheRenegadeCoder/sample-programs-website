@@ -18,7 +18,7 @@ Welcome to the Capitalize in Dart page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Dart
+```dart
 import 'dart:io';
 
 main(List<String> args) {

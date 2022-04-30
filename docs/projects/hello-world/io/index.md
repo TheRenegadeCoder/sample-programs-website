@@ -15,7 +15,7 @@ Welcome to the Hello World in Io page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Io
+```io
 "Hello, World!" println
 ```
 

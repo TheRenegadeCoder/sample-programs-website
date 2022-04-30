@@ -18,7 +18,7 @@ Welcome to the Hello World in Google Apps Script page! Here, you'll find the sou
 
 {% raw %}
 
-```Google Apps Script
+```google apps script
 function helloWorld() {
   Logger.log("Hello, World!");
 }

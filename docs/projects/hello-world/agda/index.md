@@ -15,7 +15,7 @@ Welcome to the Hello World in Agda page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Agda
+```agda
 module helloworld where
   open import IO
   main = run (putStrLn "Hello, World!")

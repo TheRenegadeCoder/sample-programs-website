@@ -17,7 +17,7 @@ Welcome to the Even Odd in Python page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Python
+```python
 import sys
 
 

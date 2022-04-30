@@ -15,7 +15,7 @@ Welcome to the Hello World in Charm page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Charm
+```charm
 " Hello, World! " pstring
 ```
 

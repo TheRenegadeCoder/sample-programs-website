@@ -15,7 +15,7 @@ Welcome to the Hello World in Janet page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Janet
+```janet
 (print "Hello, World!")
 ```
 

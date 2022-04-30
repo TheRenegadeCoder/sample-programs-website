@@ -18,7 +18,7 @@ Welcome to the Hello World in Bash page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Bash
+```bash
 #!/bin/bash
 
 echo Hello, World!

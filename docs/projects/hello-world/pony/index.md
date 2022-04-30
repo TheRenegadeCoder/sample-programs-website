@@ -15,7 +15,7 @@ Welcome to the Hello World in Pony page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Pony
+```pony
 actor Main
   new create(env: Env) =>
     env.out.print("Hello, World!")

@@ -15,7 +15,7 @@ Welcome to the Hello World in Java page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Java
+```java
 class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); 

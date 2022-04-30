@@ -15,7 +15,7 @@ Welcome to the Prime Number in Kotlin page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Kotlin
+```kotlin
 fun main(args: Array<String>) 
 {
     if (args.isNullOrEmpty() || args[0].isBlank() || args[0].toIntOrNull()?.takeIf { it >= 0 } == null) {

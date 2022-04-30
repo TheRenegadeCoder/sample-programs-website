@@ -15,7 +15,7 @@ Welcome to the Reverse String in Erlang page! Here, you'll find the source code 
 
 {% raw %}
 
-```Erlang
+```erlang
 -module(reverse_string).
 -export([start/1]).
 

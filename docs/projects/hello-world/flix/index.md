@@ -15,7 +15,7 @@ Welcome to the Hello World in Flix page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Flix
+```flix
 def main(): String = "Hello World!"
 ```
 

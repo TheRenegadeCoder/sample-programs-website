@@ -15,7 +15,7 @@ Welcome to the Baklava in Erlang page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Erlang
+```erlang
 -module(baklava).
 -export([start/1]).
 

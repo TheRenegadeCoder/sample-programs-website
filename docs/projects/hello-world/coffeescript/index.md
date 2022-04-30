@@ -15,7 +15,7 @@ Welcome to the Hello World in Coffeescript page! Here, you'll find the source co
 
 {% raw %}
 
-```Coffeescript
+```coffeescript
 console.log("Hello, World!")
 ```
 

@@ -15,7 +15,7 @@ Welcome to the Bubble Sort in Elixir page! Here, you'll find the source code for
 
 {% raw %}
 
-```Elixir
+```elixir
 defmodule Bubble do
   @doc """
   Sort the giveen input using bubble sort

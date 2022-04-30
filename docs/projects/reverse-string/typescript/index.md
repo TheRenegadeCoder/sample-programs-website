@@ -15,7 +15,7 @@ Welcome to the Reverse String in Typescript page! Here, you'll find the source c
 
 {% raw %}
 
-```Typescript
+```typescript
 let myString: string = "Hello World";
 
 const reverse = ( str: string = "no string was provided" ) => str.split("").reverse().join("");

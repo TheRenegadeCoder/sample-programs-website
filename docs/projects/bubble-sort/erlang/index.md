@@ -15,7 +15,7 @@ Welcome to the Bubble Sort in Erlang page! Here, you'll find the source code for
 
 {% raw %}
 
-```Erlang
+```erlang
 -module(bubble_sort).
 -export([start/0, start/1]).
 

@@ -15,7 +15,7 @@ Welcome to the Dijkstra in C++ page! Here, you'll find the source code for this 
 
 {% raw %}
 
-```C++
+```c++
 /*** Dijkstra - Single source Multiple Destination ***/
 
 #include <iostream>

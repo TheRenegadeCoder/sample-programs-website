@@ -18,7 +18,7 @@ Welcome to the Hello World in Solidity page! Here, you'll find the source code f
 
 {% raw %}
 
-```Solidity
+```solidity
 pragma solidity ^0.4.22;
 
 contract helloWorld {

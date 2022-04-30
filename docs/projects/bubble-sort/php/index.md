@@ -15,7 +15,7 @@ Welcome to the Bubble Sort in Php page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Php
+```php
 <?php
 
 $numbers = array_map('intval', explode(',', $argv[1]));

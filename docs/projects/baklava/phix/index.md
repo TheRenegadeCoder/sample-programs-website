@@ -15,7 +15,7 @@ Welcome to the Baklava in Phix page! Here, you'll find the source code for this 
 
 {% raw %}
 
-```Phix
+```phix
 for i=-10 to 10 do
     printf(1,"%s%s\n",{repeat(' ',abs(i)),repeat('*',21-abs(i)*2)})
 end for

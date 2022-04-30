@@ -15,7 +15,7 @@ Welcome to the Hello World in Elena page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Elena
+```elena
 program =
 [
     console writeLine:"Hello, World!".

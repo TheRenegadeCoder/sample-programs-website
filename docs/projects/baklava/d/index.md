@@ -15,7 +15,7 @@ Welcome to the Baklava in D page! Here, you'll find the source code for this pro
 
 {% raw %}
 
-```D
+```d
 import std.stdio, std.array;
 
 void main (string[ ] args)

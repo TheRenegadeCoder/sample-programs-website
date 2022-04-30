@@ -15,7 +15,7 @@ Welcome to the Hello World in Abap page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Abap
+```abap
 REPORT ZHELLO.
 WRITE 'Hello, World!'.
 ```

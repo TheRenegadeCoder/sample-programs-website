@@ -18,7 +18,7 @@ Welcome to the Insertion Sort in C++ page! Here, you'll find the source code for
 
 {% raw %}
 
-```C++
+```c++
 #include <iostream>
 #include <vector>
 #include <string>

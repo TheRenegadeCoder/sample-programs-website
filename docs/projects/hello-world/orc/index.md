@@ -15,7 +15,7 @@ Welcome to the Hello World in Orc page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Orc
+```orc
 Println("Hello, World!") >>
 stop
 ```

@@ -15,7 +15,7 @@ Welcome to the Convex Hull in Php page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Php
+```php
 <?php
 
 /** Our error class. */

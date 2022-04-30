@@ -15,7 +15,7 @@ Welcome to the Capitalize in C++ page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```C++
+```c++
 #include <iostream>
 #include <cstring>
 

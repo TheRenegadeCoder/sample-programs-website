@@ -18,7 +18,7 @@ Welcome to the Fizz Buzz in Javascript page! Here, you'll find the source code f
 
 {% raw %}
 
-```Javascript
+```javascript
 function fizzbuzz(num){
     for(let i=1; i <= num; i++){
       if(i % 15 == 0){

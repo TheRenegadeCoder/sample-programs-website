@@ -18,7 +18,7 @@ Welcome to the File Io in Scala page! Here, you'll find the source code for this
 
 {% raw %}
 
-```Scala
+```scala
 import scala.io.Source
 import java.io.{FileNotFoundException, IOException, File, FileOutputStream, PrintWriter}
 

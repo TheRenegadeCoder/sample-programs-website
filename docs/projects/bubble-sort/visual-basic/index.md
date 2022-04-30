@@ -15,7 +15,7 @@ Welcome to the Bubble Sort in Visual Basic page! Here, you'll find the source co
 
 {% raw %}
 
-```Visual Basic
+```visual basic
 Public Module BubbleSort
     Public Sub Main(args As String())
         Console.WriteLine("GetCommandLineArgs: {0}", String.Join(", ", args))

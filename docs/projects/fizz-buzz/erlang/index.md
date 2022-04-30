@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Erlang page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Erlang
+```erlang
 -module(fizz_buzz).
 -export([start/0]).
 

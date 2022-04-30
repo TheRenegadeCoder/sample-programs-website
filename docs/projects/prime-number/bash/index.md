@@ -15,7 +15,7 @@ Welcome to the Prime Number in Bash page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Bash
+```bash
 #!/bin/bash
 
 ERROR="Usage: please input a non-negative integer"

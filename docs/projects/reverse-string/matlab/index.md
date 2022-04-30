@@ -15,7 +15,7 @@ Welcome to the Reverse String in Matlab page! Here, you'll find the source code 
 
 {% raw %}
 
-```Matlab
+```matlab
 function rev = reverse_a_string(string)
     rev = reverse(string);
 end

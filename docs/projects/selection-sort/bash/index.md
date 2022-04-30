@@ -15,7 +15,7 @@ Welcome to the Selection Sort in Bash page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Bash
+```bash
 #!/bin/bash
 # By Jan-Hendrik Ewers (iwishiwasaneagle)
 # 04/10/2020

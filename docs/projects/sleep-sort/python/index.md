@@ -15,7 +15,7 @@ Welcome to the Sleep Sort in Python page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Python
+```python
 import sys
 import threading
 from time import sleep

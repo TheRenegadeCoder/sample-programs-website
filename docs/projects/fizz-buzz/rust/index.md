@@ -18,7 +18,7 @@ Welcome to the Fizz Buzz in Rust page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Rust
+```rust
 fn main() {
     for number in 1..101 {
         if number % 3 == 0 && number % 5 == 0 {

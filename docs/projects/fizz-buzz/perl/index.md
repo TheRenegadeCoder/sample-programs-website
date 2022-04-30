@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Perl page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Perl
+```perl
 #!/usr/bin/perl
 #
 # FizzBuzz in Perl

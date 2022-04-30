@@ -15,7 +15,7 @@ Welcome to the Fibonacci in C page! Here, you'll find the source code for this p
 
 {% raw %}
 
-```C
+```c
 #include <stdio.h>
 #include <errno.h>
 #include <inttypes.h>

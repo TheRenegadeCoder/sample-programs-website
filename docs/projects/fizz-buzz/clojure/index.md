@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Clojure page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Clojure
+```clojure
 (ns fizzbuzz
   (:gen-class)
   (:require [clojure.string :refer [join]]))

@@ -15,7 +15,7 @@ Welcome to the Capitalize in Pascal page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Pascal
+```pascal
 program Capitalise(input, output, stdErr);
 (* Accept a String from commandline, convert first character to upper case
    Pascal Strings begins with 1, not 0

@@ -15,7 +15,7 @@ Welcome to the Prime Number in Java page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Java
+```java
 /** Prime number exception to handle errors. */
 class PrimeNumberException extends Exception {}
 

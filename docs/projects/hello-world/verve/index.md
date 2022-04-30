@@ -15,7 +15,7 @@ Welcome to the Hello World in Verve page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Verve
+```verve
 print("Hello, World!")
 ```
 

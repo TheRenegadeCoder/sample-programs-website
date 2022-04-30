@@ -15,7 +15,7 @@ Welcome to the Convex Hull in Python page! Here, you'll find the source code for
 
 {% raw %}
 
-```Python
+```python
 from math import sqrt
 import sys
 

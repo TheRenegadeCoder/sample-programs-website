@@ -15,7 +15,7 @@ Welcome to the Baklava in Coffeescript page! Here, you'll find the source code f
 
 {% raw %}
 
-```Coffeescript
+```coffeescript
 for i in [0...10]
   pattern = " ".repeat (10 - i)
   pattern += "*".repeat (i * 2 + 1)

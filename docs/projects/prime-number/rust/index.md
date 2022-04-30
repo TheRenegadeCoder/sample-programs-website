@@ -15,7 +15,7 @@ Welcome to the Prime Number in Rust page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Rust
+```rust
 //  Requirement     https://sample-programs.therenegadecoder.com/projects/prime-number/
 // Accept a number on command line and print if it is Composite or Prime 
 // Works till  39 digits, ...

@@ -15,7 +15,7 @@ Welcome to the Fibonacci in Ruby page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Ruby
+```ruby
 def fibonacci(number)
     a = 0
     b = 1

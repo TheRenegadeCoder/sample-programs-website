@@ -15,7 +15,7 @@ Welcome to the Roman Numeral in C# page! Here, you'll find the source code for t
 
 {% raw %}
 
-```C#
+```c#
 using System;
 using System.Collections.Generic;
 

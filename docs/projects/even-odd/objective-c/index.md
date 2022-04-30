@@ -15,7 +15,7 @@ Welcome to the Even Odd in Objective C page! Here, you'll find the source code f
 
 {% raw %}
 
-```Objective C
+```objective c
 #import <Foundation/Foundation.h>
 int main (int argc, char *argv[])
 {

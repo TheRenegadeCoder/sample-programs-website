@@ -15,7 +15,7 @@ Welcome to the Hello World in Fetlang page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Fetlang
+```fetlang
 make slave scream "Hello, World!"
 ```
 

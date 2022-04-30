@@ -15,7 +15,7 @@ Welcome to the Quine in Dg page! Here, you'll find the source code for this prog
 
 {% raw %}
 
-```Dg
+```dg
 s = 's = %r\nprint $ s%%s'
 print $ s%s
 ```

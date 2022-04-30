@@ -15,7 +15,7 @@ Welcome to the Quine in Go page! Here, you'll find the source code for this prog
 
 {% raw %}
 
-```Go
+```go
 package main
 
 import "fmt"

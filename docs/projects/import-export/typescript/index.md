@@ -19,7 +19,7 @@ Welcome to the Import Export in Typescript page! Here, you'll find the source co
 
 {% raw %}
 
-```Typescript
+```typescript
 import { myGreeting } from "./export";
 
 console.log(myGreeting);

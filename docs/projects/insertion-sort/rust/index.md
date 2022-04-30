@@ -15,7 +15,7 @@ Welcome to the Insertion Sort in Rust page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Rust
+```rust
 use std::env;
 
 fn insertion_sort(arr: &mut Vec<i32>) {

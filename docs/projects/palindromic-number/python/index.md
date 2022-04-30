@@ -15,7 +15,7 @@ Welcome to the Palindromic Number in Python page! Here, you'll find the source c
 
 {% raw %}
 
-```Python
+```python
 #Check if number is palindromic
 import sys
 import math

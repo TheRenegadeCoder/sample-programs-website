@@ -15,7 +15,7 @@ Welcome to the Linear Search in Javascript page! Here, you'll find the source co
 
 {% raw %}
 
-```Javascript
+```javascript
 function LinSearch(arr = [], valToSearch) {
     let check = false;
     if (arr.length == 0) return check

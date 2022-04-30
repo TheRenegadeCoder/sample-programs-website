@@ -15,7 +15,7 @@ Welcome to the Baklava in Lua page! Here, you'll find the source code for this p
 
 {% raw %}
 
-```Lua
+```lua
 function diamondStarPattern(height)
   for i = 1, height do -- loop for printing the upper half of the baklava
     for j = i, height - 1 do io.write(" ") end --to print the leading spaces

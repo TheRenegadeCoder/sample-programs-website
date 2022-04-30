@@ -18,7 +18,7 @@ Welcome to the Reverse String in C page! Here, you'll find the source code for t
 
 {% raw %}
 
-```C
+```c
 #include <stdio.h>
 #include <string.h>
 

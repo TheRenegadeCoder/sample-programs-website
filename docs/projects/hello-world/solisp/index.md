@@ -15,7 +15,7 @@ Welcome to the Hello World in Solisp page! Here, you'll find the source code for
 
 {% raw %}
 
-```Solisp
+```solisp
 "Hello, World!"
 ```
 

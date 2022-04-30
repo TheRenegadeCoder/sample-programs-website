@@ -15,7 +15,7 @@ Welcome to the Baklava in Groovy page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Groovy
+```groovy
 (0..9).each{ index ->
     println "${' ' * (10 - index)}${'*' * (index * 2 + 1)}"
 }

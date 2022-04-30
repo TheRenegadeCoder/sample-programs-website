@@ -15,7 +15,7 @@ Welcome to the Palindromic Number in Perl page! Here, you'll find the source cod
 
 {% raw %}
 
-```Perl
+```perl
 # accept an integer, reverse it, compare it with original
 # print true, if original and reversed number are same
 # print false, if original and reversed number are same

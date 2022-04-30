@@ -15,7 +15,7 @@ Welcome to the Quine in Python page! Here, you'll find the source code for this 
 
 {% raw %}
 
-```Python
+```python
 s='s=%r;print(s%%s)';print(s%s)
 ```
 

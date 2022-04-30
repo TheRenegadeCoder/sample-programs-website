@@ -18,7 +18,7 @@ Welcome to the File Io in Python page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Python
+```python
 def write_file():
     try:
         with open("output.txt", "w") as out:

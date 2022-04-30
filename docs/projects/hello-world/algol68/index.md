@@ -18,7 +18,7 @@ Welcome to the Hello World in Algol68 page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Algol68
+```algol68
 printf(($gl$, "Hello, World!"))
 ```
 

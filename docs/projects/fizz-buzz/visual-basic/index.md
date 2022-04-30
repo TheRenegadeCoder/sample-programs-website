@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Visual Basic page! Here, you'll find the source code
 
 {% raw %}
 
-```Visual Basic
+```visual basic
 Option Explicit On
 Module FizzBuzz
     Public Sub Main()

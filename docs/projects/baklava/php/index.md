@@ -15,7 +15,7 @@ Welcome to the Baklava in Php page! Here, you'll find the source code for this p
 
 {% raw %}
 
-```Php
+```php
 <?php
 
     for ($i=0; $i < 10; $i++)

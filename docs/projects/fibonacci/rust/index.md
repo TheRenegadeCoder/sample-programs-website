@@ -15,7 +15,7 @@ Welcome to the Fibonacci in Rust page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Rust
+```rust
 const LIMIT: u64 = 93;
 
 fn fibonacci(terms: u64) {

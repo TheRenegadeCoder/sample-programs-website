@@ -15,7 +15,7 @@ Welcome to the Quine in Befunge page! Here, you'll find the source code for this
 
 {% raw %}
 
-```Befunge
+```befunge
 <Quine>:#,_$$98+2*00$$,#00@#"
 ```
 

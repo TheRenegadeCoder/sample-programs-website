@@ -15,7 +15,7 @@ Welcome to the Hello World in Nice page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Nice
+```nice
 void main(String[] args)
 {
   System.out.println("Hello, world!");

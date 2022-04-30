@@ -15,7 +15,7 @@ Welcome to the Even Odd in Lua page! Here, you'll find the source code for this 
 
 {% raw %}
 
-```Lua
+```lua
 main = function(input)
     usage = "Usage: please input a number"
     

@@ -15,7 +15,7 @@ Welcome to the Hello World in Baik page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Baik
+```baik
 tulis "Hello World"
 ```
 

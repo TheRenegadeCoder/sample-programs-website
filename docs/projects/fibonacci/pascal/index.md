@@ -15,7 +15,7 @@ Welcome to the Fibonacci in Pascal page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Pascal
+```pascal
 program Fibonacci(input, output, stdErr);
 (*Read count of fibonnaci numbers into a string
 

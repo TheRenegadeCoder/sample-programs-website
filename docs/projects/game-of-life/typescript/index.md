@@ -15,7 +15,7 @@ Welcome to the Game Of Life in Typescript page! Here, you'll find the source cod
 
 {% raw %}
 
-```Typescript
+```typescript
 module Conway {
     export class Cell {
         public row: number;

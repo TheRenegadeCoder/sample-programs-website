@@ -18,7 +18,7 @@ Welcome to the Hello World in Rexx page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Rexx
+```rexx
 say "Hello, World!"
 ```
 

@@ -15,7 +15,7 @@ Welcome to the Hello World in P4 page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```P4
+```p4
 /* -*- P4_16 -*- */
 
 

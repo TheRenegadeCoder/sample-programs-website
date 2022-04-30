@@ -18,7 +18,7 @@ Welcome to the Palindromic Number in Kotlin page! Here, you'll find the source c
 
 {% raw %}
 
-```Kotlin
+```kotlin
 fun main(args: Array<String>) {
     var n: Int
     var num: Int

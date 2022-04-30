@@ -15,7 +15,7 @@ Welcome to the Bubble Sort in Matlab page! Here, you'll find the source code for
 
 {% raw %}
 
-```Matlab
+```matlab
 function result_string= bubble_sort(array_string)
 
 %array_string - string containing unsorted input

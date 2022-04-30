@@ -15,7 +15,7 @@ Welcome to the Hello World in Modula2 page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Modula2
+```modula2
 MODULE PrintHelloWorld;
 
 FROM InOut IMPORT WriteString, WriteLn;

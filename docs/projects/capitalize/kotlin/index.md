@@ -15,7 +15,7 @@ Welcome to the Capitalize in Kotlin page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Kotlin
+```kotlin
 fun main(args: Array<String>) {
     if (args.isNullOrEmpty() || args[0].isBlank()) {
         println("Usage: please provide a string")

@@ -15,7 +15,7 @@ Welcome to the Capitalize in Php page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Php
+```php
 <?php
 
 if (count($argv) == 2 && strlen($argv[1])) {

@@ -15,7 +15,7 @@ Welcome to the Hello World in Lolcode page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Lolcode
+```lolcode
 HAI 1.2
 VISIBLE "Hello, World!"
 KTHXBYE

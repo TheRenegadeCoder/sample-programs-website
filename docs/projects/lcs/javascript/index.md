@@ -15,7 +15,7 @@ Welcome to the LCS in Javascript page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Javascript
+```javascript
 /**
  * Main Code for Longest Commmon Subsequence
  *

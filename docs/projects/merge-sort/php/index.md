@@ -15,7 +15,7 @@ Welcome to the Merge Sort in Php page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Php
+```php
 <?php
 function merge_sort($my_array){
 	if(count($my_array) == 1 ) return $my_array;

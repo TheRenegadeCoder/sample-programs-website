@@ -15,7 +15,7 @@ Welcome to the Convex Hull in C page! Here, you'll find the source code for this
 
 {% raw %}
 
-```C
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>

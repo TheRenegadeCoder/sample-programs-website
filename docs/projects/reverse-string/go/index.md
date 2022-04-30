@@ -15,7 +15,7 @@ Welcome to the Reverse String in Go page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Go
+```go
 package main
 
 import "fmt"

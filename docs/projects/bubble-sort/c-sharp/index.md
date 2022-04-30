@@ -15,7 +15,7 @@ Welcome to the Bubble Sort in C# page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```C#
+```c#
 using System;
 using System.Linq;
 using System.Collections.Generic;

@@ -18,7 +18,7 @@ Welcome to the Hello World in Rust page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Rust
+```rust
 fn main() {
     println!("Hello, World!");
 }

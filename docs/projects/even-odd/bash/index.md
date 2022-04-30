@@ -15,7 +15,7 @@ Welcome to the Even Odd in Bash page! Here, you'll find the source code for this
 
 {% raw %}
 
-```Bash
+```bash
 #!/bin/bash
 count=$1
 

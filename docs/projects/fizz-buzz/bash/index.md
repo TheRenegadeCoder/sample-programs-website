@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Bash page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Bash
+```bash
 #!/bin/bash
 
 for i in {1..100}; do

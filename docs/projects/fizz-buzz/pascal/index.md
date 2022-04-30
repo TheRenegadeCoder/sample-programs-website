@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Pascal page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Pascal
+```pascal
 program FizzBuzz(output);
 var
    i : integer;

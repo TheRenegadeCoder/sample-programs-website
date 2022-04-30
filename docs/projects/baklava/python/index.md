@@ -15,7 +15,7 @@ Welcome to the Baklava in Python page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Python
+```python
 for i in range(0, 10, 1):
     print((" " * (10 - i)) + ("*" * (i * 2 + 1)))
 

@@ -15,7 +15,7 @@ Welcome to the Even Odd in Rexx page! Here, you'll find the source code for this
 
 {% raw %}
 
-```Rexx
+```rexx
 /* ARG with source string named in REXX program invocation */
 arg number
 If (DATATYPE(number, 'W') == 0) then signal err

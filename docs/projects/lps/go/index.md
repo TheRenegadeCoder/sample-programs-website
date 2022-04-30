@@ -15,7 +15,7 @@ Welcome to the LPS in Go page! Here, you'll find the source code for this progra
 
 {% raw %}
 
-```Go
+```go
 package main
 
 import (

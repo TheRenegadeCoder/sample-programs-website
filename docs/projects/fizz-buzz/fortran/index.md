@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Fortran page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Fortran
+```fortran
 program fizz_buzz
         integer :: i
 

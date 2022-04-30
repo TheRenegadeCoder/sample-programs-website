@@ -15,7 +15,7 @@ Welcome to the Job Sequencing in Python page! Here, you'll find the source code 
 
 {% raw %}
 
-```Python
+```python
 import sys
 
 

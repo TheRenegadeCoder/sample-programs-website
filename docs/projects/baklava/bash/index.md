@@ -15,7 +15,7 @@ Welcome to the Baklava in Bash page! Here, you'll find the source code for this 
 
 {% raw %}
 
-```Bash
+```bash
 #!/bin/bash
 
 for i in {0..9}; do

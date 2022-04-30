@@ -15,7 +15,7 @@ Welcome to the File Io in R page! Here, you'll find the source code for this pro
 
 {% raw %}
 
-```R
+```r
 file_create_result = tryCatch({
 #Open and write 2 lines to the file.
   fileConn<-file("output.txt")

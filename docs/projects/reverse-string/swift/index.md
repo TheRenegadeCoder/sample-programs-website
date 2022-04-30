@@ -18,7 +18,7 @@ Welcome to the Reverse String in Swift page! Here, you'll find the source code f
 
 {% raw %}
 
-```Swift
+```swift
 import Foundation
 
 guard CommandLine.argc > 1 else {

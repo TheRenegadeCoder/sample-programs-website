@@ -15,7 +15,7 @@ Welcome to the Factorial in Php page! Here, you'll find the source code for this
 
 {% raw %}
 
-```Php
+```php
 <?php
 /**
  * by: Italo Sousa

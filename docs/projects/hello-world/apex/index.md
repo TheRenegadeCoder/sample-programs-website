@@ -15,7 +15,7 @@ Welcome to the Hello World in Apex page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Apex
+```apex
 global class HelloWorld {
     public String helloWorld() {
       System.debug('Hello, World!');

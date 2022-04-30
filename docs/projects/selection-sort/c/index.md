@@ -15,7 +15,7 @@ Welcome to the Selection Sort in C page! Here, you'll find the source code for t
 
 {% raw %}
 
-```C
+```c
 // Selection Sort In C Language
 
 #include <stdio.h>

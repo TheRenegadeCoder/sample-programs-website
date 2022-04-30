@@ -15,7 +15,7 @@ Welcome to the Game Of Life in Python page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Python
+```python
 from random import randint
 
 

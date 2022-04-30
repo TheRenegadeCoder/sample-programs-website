@@ -15,7 +15,7 @@ Welcome to the Job Sequencing in Javascript page! Here, you'll find the source c
 
 {% raw %}
 
-```Javascript
+```javascript
 /**
  * Job Sequencing with deadlines
  */

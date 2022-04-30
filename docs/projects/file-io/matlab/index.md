@@ -15,7 +15,7 @@ Welcome to the File Io in Matlab page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Matlab
+```matlab
 path = "output.txt";
 
 % Write content to file

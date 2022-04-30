@@ -15,7 +15,7 @@ Welcome to the Hello World in Debug page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Debug
+```debug
 ; ------------------------------------------------------------------
 ; helloworld.asm
 ;

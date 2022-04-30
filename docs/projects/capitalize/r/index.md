@@ -15,7 +15,7 @@ Welcome to the Capitalize in R page! Here, you'll find the source code for this 
 
 {% raw %}
 
-```R
+```r
 args<-commandArgs(TRUE)
 if(length(args) > 0){
   if (args[1] != ""){

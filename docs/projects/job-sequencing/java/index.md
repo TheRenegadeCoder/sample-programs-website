@@ -15,7 +15,7 @@ Welcome to the Job Sequencing in Java page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Java
+```java
 import java.util.*;
 
 /** Invalid input exception to handle errors. */

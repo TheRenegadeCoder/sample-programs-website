@@ -18,7 +18,7 @@ Welcome to the Fizz Buzz in Befunge page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Befunge
+```befunge
 1 >  :3%   v            
    v  \0   _ "zziF",,,,v
    v  \1               <

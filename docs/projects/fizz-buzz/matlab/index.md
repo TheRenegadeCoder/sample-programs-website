@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Matlab page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Matlab
+```matlab
 function [] = fizzBuzz(x)
 
   % Loop from 1 to 100

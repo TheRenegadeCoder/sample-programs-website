@@ -18,7 +18,7 @@ Welcome to the Reverse String in Lua page! Here, you'll find the source code for
 
 {% raw %}
 
-```Lua
+```lua
 if #arg > 0 then
     print(string.reverse(arg[1]))
 end

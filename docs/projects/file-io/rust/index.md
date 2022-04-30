@@ -15,7 +15,7 @@ Welcome to the File Io in Rust page! Here, you'll find the source code for this 
 
 {% raw %}
 
-```Rust
+```rust
 use std::fs::File;
 use std::io::prelude::*;
 use std::io::Result;

@@ -18,7 +18,7 @@ Welcome to the Hello World in Opa page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Opa
+```opa
 function page() {
 	<h1>Hello, World!</h1>
 }

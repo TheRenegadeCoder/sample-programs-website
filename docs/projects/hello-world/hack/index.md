@@ -18,7 +18,7 @@ Welcome to the Hello World in Hack page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Hack
+```hack
 <?hh
 echo "Hello, World!";
 ```

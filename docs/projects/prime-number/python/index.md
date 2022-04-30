@@ -18,7 +18,7 @@ Welcome to the Prime Number in Python page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Python
+```python
 import sys
 from math import sqrt, ceil
 

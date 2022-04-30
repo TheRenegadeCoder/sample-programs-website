@@ -15,7 +15,7 @@ Welcome to the Hello World in Ring page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Ring
+```ring
 see "Hello, World!"
 ```
 

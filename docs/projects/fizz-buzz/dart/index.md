@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Dart page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Dart
+```dart
 void fizzBuzz(int maxNumber){
   for(int i=1;i<=maxNumber;i++){
     String output = "";

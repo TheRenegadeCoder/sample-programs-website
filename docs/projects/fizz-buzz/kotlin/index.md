@@ -18,7 +18,7 @@ Welcome to the Fizz Buzz in Kotlin page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Kotlin
+```kotlin
 fun main(args: Array<String>){
     for (i in 1..100){
         when {

@@ -15,7 +15,7 @@ Welcome to the Merge Sort in Java page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Java
+```java
 import java.util.ArrayList;
 
 public class MergeSort {

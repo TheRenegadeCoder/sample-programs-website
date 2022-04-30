@@ -15,7 +15,7 @@ Welcome to the Quine in Php page! Here, you'll find the source code for this pro
 
 {% raw %}
 
-```Php
+```php
 <?php $s='<?php $s=%c%s%c; printf($s,39,$s,39,10); ?>%c'; printf($s,39,$s,39,10); ?>
 ```
 

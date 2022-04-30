@@ -15,7 +15,7 @@ Welcome to the Bubble Sort in Lua page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Lua
+```lua
 -- Initialize table
 nums = {}
 

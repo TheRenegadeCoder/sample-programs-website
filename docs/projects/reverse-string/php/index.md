@@ -15,7 +15,7 @@ Welcome to the Reverse String in Php page! Here, you'll find the source code for
 
 {% raw %}
 
-```Php
+```php
 <?php
   $input = $argv[1];
   echo strrev($input);

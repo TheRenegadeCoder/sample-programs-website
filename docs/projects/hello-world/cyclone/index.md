@@ -15,7 +15,7 @@ Welcome to the Hello World in Cyclone page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Cyclone
+```cyclone
 #include <stdio.h>
 int main() {
 	puts("Hello, World!");

@@ -15,7 +15,7 @@ Welcome to the Hello World in Eta page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Eta
+```eta
 module Main where
 main :: IO ()
 main = putStrLn "Hello, World!"

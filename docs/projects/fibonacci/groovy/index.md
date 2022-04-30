@@ -15,7 +15,7 @@ Welcome to the Fibonacci in Groovy page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Groovy
+```groovy
 class Fibonacci {
     static void main(String[] args) {
         if (args.length < 1 || !args[0].isInteger()) {

@@ -15,7 +15,7 @@ Welcome to the Game Of Life in Haskell page! Here, you'll find the source code f
 
 {% raw %}
 
-```Haskell
+```haskell
 -- This implementation requires ArgParser. It can be installed using cabal install argparser
 module Main where
 

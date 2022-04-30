@@ -15,7 +15,7 @@ Welcome to the Hello World in Microsoft Macro Assembler page! Here, you'll find 
 
 {% raw %}
 
-```Microsoft Macro Assembler
+```microsoft macro assembler
 PAGE 60,132
 ;
 .8086

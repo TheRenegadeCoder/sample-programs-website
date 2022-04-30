@@ -15,7 +15,7 @@ Welcome to the Selection Sort in Javascript page! Here, you'll find the source c
 
 {% raw %}
 
-```Javascript
+```javascript
 const selectionSort = (list) => {
     // Iterate through the list
     for (let i = 0; i < list.length; i++) {
