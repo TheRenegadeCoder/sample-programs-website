@@ -15,7 +15,7 @@ Welcome to the Insertion Sort in Javascript page! Here, you'll find the source c
 
 {% raw %}
 
-```Javascript
+```javascript
 const insertionSort =  (arr) => {
     for (let i = 1; i < arr.length; i++){
         let key = arr[i];

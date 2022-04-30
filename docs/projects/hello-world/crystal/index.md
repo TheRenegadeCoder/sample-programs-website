@@ -18,7 +18,7 @@ Welcome to the Hello World in Crystal page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Crystal
+```crystal
 puts "Hello, World!"
 ```
 

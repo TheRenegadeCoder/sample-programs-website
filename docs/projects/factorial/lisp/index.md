@@ -15,7 +15,7 @@ Welcome to the Factorial in Lisp page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Lisp
+```lisp
 (defun factorial (n)
   (if (= n 0)
       1

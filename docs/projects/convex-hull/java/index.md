@@ -15,7 +15,7 @@ Welcome to the Convex Hull in Java page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Java
+```java
 import java.util.*;
 public class ConvexHull
 {

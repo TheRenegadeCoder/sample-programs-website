@@ -15,7 +15,7 @@ Welcome to the Quick Sort in Objective C page! Here, you'll find the source code
 
 {% raw %}
 
-```Objective C
+```objective c
 //
 //  main.m
 //

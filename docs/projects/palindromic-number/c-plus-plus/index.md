@@ -15,7 +15,7 @@ Welcome to the Palindromic Number in C++ page! Here, you'll find the source code
 
 {% raw %}
 
-```C++
+```c++
 /*
  accept an integer, reverse it, compare it with original
  print true, if original and reversed number are same

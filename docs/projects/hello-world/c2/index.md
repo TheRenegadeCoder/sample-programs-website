@@ -15,7 +15,7 @@ Welcome to the Hello World in C2 page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```C2
+```c2
 module hello_world;
 
 import stdio as io;

@@ -17,7 +17,7 @@ Welcome to the Even Odd in Cobol page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Cobol
+```cobol
 IDENTIFICATION DIVISION.
         PROGRAM-ID. HELLO-WORLD.
         DATA DIVISION.

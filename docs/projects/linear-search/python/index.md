@@ -17,7 +17,7 @@ Welcome to the Linear Search in Python page! Here, you'll find the source code f
 
 {% raw %}
 
-```Python
+```python
 import sys
 
 

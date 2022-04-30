@@ -15,7 +15,7 @@ Welcome to the File Io in Kotlin page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Kotlin
+```kotlin
 import java.io.File
 import java.nio.charset.Charset
 

@@ -15,7 +15,7 @@ Welcome to the Job Sequencing in Haskell page! Here, you'll find the source code
 
 {% raw %}
 
-```Haskell
+```haskell
 module Main where
 
 import System.Environment

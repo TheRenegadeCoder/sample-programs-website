@@ -15,7 +15,7 @@ Welcome to the Reverse String in Bash page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Bash
+```bash
 #!/bin/bash
 
 string=$1

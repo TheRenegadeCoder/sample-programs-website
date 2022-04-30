@@ -18,7 +18,7 @@ Welcome to the Factorial in Python page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Python
+```python
 import sys
 
 

@@ -15,7 +15,7 @@ Welcome to the Hello World in Whitespace page! Here, you'll find the source code
 
 {% raw %}
 
-```Whitespace
+```whitespace
 S S S T	S S T	S S S L
 T	L
 S S S S S T	T	S S T	S T	L

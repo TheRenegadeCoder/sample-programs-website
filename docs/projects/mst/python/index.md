@@ -15,7 +15,7 @@ Welcome to the MST in Python page! Here, you'll find the source code for this pr
 
 {% raw %}
 
-```Python
+```python
 import sys
 
 USAGE = 'Usage: please provide a comma-separated list of integers'

@@ -15,7 +15,7 @@ Welcome to the Even Odd in Ruby page! Here, you'll find the source code for this
 
 {% raw %}
 
-```Ruby
+```ruby
 # Requirement https://sample-programs.therenegadecoder.com/projects/even-odd/
 # Issue 1839
 

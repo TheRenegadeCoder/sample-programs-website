@@ -15,7 +15,7 @@ Welcome to the Game Of Life in C page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```C
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <errno.h>

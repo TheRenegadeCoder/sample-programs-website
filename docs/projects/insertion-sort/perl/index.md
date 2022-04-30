@@ -15,7 +15,7 @@ Welcome to the Insertion Sort in Perl page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Perl
+```perl
 #!/usr/bin/perl
 $num_args = $#ARGV + 1;
 if ($num_args == 0) {

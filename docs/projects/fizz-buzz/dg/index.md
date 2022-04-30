@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Dg page! Here, you'll find the source code for this 
 
 {% raw %}
 
-```Dg
+```dg
 fizz_buzz = n -> if
     n % 15 == 0 => "FizzBuzz"
     n % 3  == 0 => "Fizz"

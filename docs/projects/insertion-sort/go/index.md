@@ -15,7 +15,7 @@ Welcome to the Insertion Sort in Go page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Go
+```go
 package main
 
 import (

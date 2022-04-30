@@ -15,7 +15,7 @@ Welcome to the Hello World in Groovy page! Here, you'll find the source code for
 
 {% raw %}
 
-```Groovy
+```groovy
 println "Hello, World!"
 ```
 

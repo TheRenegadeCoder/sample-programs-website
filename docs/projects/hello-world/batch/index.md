@@ -15,7 +15,7 @@ Welcome to the Hello World in Batch page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Batch
+```batch
 @echo off
 echo Hello world!
 ```

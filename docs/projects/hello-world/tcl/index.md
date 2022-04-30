@@ -15,7 +15,7 @@ Welcome to the Hello World in Tcl page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Tcl
+```tcl
 puts "Hello, World!"
 ```
 

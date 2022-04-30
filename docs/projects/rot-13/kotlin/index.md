@@ -15,7 +15,7 @@ Welcome to the Rot 13 in Kotlin page! Here, you'll find the source code for this
 
 {% raw %}
 
-```Kotlin
+```kotlin
 data class EncodingBounds(val lowerBound: Int, val upperBound: Int)
 
 fun encodingBoundsForCharValue(c: Char): EncodingBounds? {

@@ -15,7 +15,7 @@ Welcome to the Hello World in Factor page! Here, you'll find the source code for
 
 {% raw %}
 
-```Factor
+```factor
 "Hello, World!" print
 ```
 

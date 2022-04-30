@@ -18,7 +18,7 @@ Welcome to the Baklava in Kotlin page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Kotlin
+```kotlin
 fun main (args: Array<String>)
 {
     for (i in 0..9)

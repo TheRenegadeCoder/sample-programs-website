@@ -15,7 +15,7 @@ Welcome to the Roman Numeral in Rust page! Here, you'll find the source code for
 
 {% raw %}
 
-```Rust
+```rust
 use std::env;
 
 fn main() {

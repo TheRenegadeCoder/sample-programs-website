@@ -15,7 +15,7 @@ Welcome to the LCS in C++ page! Here, you'll find the source code for this progr
 
 {% raw %}
 
-```C++
+```c++
 #include<iostream>
 #include<algorithm>
 #include<vector>

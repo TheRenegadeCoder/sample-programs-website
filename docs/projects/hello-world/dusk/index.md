@@ -15,7 +15,7 @@ Welcome to the Hello World in Dusk page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Dusk
+```dusk
 println("Hello, World!")
 ```
 

@@ -15,7 +15,7 @@ Welcome to the Quick Sort in Haskell page! Here, you'll find the source code for
 
 {% raw %}
 
-```Haskell
+```haskell
 module Main where
 
 import Text.Read

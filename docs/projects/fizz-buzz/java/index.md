@@ -18,7 +18,7 @@ Welcome to the Fizz Buzz in Java page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Java
+```java
 public class FizzBuzz {
   public static void main(String[] args) {
     for (int i = 1; i < 101; i++) {

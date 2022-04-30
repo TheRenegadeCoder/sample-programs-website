@@ -15,7 +15,7 @@ Welcome to the Hello World in Smalltalk page! Here, you'll find the source code 
 
 {% raw %}
 
-```Smalltalk
+```smalltalk
 Transcript show: 'Hello, World!'.
 ```
 

@@ -15,7 +15,7 @@ Welcome to the Fibonacci in Verilog page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Verilog
+```verilog
 //Verilog code Listing first 25 Fibonacci numbers till
 
 module Fibonacci();

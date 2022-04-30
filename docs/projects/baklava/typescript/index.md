@@ -15,7 +15,7 @@ Welcome to the Baklava in Typescript page! Here, you'll find the source code for
 
 {% raw %}
 
-```Typescript
+```typescript
 for (var i = 0; i < 10; i++)
     console.log (
         " ".repeat (10 - i) + "*".repeat (i * 2 + 1)

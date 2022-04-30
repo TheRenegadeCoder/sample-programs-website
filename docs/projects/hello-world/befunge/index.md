@@ -18,7 +18,7 @@ Welcome to the Hello World in Befunge page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Befunge
+```befunge
 0"!dlroW ,olleH"v    
                 > , v
                 | : <

@@ -15,7 +15,7 @@ Welcome to the Merge Sort in Matlab page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Matlab
+```matlab
 function [result] = MyMergeSort( x )
 % Sort vector 'x' using the merge sort algorithm
 % result is a vector consisting of the sorted values of 'x' 

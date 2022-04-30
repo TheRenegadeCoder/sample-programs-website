@@ -15,7 +15,7 @@ Welcome to the Bubble Sort in C++ page! Here, you'll find the source code for th
 
 {% raw %}
 
-```C++
+```c++
 #include <cstring>
 #include <iostream>
 #include <vector>

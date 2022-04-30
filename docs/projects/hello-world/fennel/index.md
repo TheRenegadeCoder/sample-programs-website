@@ -15,7 +15,7 @@ Welcome to the Hello World in Fennel page! Here, you'll find the source code for
 
 {% raw %}
 
-```Fennel
+```fennel
 (print "Hello, World!")
 ```
 

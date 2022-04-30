@@ -15,7 +15,7 @@ Welcome to the Even Odd in Julia page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Julia
+```julia
 #!/usr/bin/julia
 
 function err() 

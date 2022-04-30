@@ -15,7 +15,7 @@ Welcome to the Prime Number in C# page! Here, you'll find the source code for th
 
 {% raw %}
 
-```C#
+```c#
 using System;
 using Math = System.Math;
 

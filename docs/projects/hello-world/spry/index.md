@@ -15,7 +15,7 @@ Welcome to the Hello World in Spry page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Spry
+```spry
 echo "Hello, World!"
 ```
 

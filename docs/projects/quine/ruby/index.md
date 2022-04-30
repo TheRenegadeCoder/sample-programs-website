@@ -15,7 +15,7 @@ Welcome to the Quine in Ruby page! Here, you'll find the source code for this pr
 
 {% raw %}
 
-```Ruby
+```ruby
 s="s=%c%s%c; printf s,34,s,34,10%c"; printf s,34,s,34,10
 ```
 

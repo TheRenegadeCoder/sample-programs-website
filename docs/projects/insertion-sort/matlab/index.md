@@ -15,7 +15,7 @@ Welcome to the Insertion Sort in Matlab page! Here, you'll find the source code 
 
 {% raw %}
 
-```Matlab
+```matlab
 function sorted = insertion_sort(array)
 % Insertion sort in ascending order
 

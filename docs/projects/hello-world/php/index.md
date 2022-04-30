@@ -15,7 +15,7 @@ Welcome to the Hello World in Php page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Php
+```php
 <?="Hello, World!";
 ```
 

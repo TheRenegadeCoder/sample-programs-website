@@ -18,7 +18,7 @@ Welcome to the Hello World in Moonscript page! Here, you'll find the source code
 
 {% raw %}
 
-```Moonscript
+```moonscript
 print "Hello, World!"
 ```
 

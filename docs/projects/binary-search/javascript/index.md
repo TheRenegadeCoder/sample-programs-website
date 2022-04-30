@@ -15,7 +15,7 @@ Welcome to the Binary Search in Javascript page! Here, you'll find the source co
 
 {% raw %}
 
-```Javascript
+```javascript
 const [, , array, target] = process.argv;
 const error = 'Usage: please provide a list of sorted integers ("1, 4, 5, 11, 12") and the integer to find ("11")';
 

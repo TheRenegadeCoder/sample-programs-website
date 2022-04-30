@@ -18,7 +18,7 @@ Welcome to the Hello World in Koka page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Koka
+```koka
 function main() 
 {
   println("Hello, World!")

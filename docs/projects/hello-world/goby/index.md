@@ -18,7 +18,7 @@ Welcome to the Hello World in Goby page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Goby
+```goby
 puts("Hello, World!")
 ```
 

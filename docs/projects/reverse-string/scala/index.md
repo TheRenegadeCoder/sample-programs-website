@@ -15,7 +15,7 @@ Welcome to the Reverse String in Scala page! Here, you'll find the source code f
 
 {% raw %}
 
-```Scala
+```scala
 import scala.io.StdIn.readLine
 
 object ReverseStringSample {

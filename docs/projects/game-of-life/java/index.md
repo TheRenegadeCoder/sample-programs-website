@@ -15,7 +15,7 @@ Welcome to the Game Of Life in Java page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Java
+```java
 import java.util.ArrayList;
 import javax.swing.*;
 import java.awt.GridLayout;

@@ -15,7 +15,7 @@ Welcome to the Palindromic Number in Java page! Here, you'll find the source cod
 
 {% raw %}
 
-```Java
+```java
 public class PalindromicNumber {
 
     public static void main(String[] args) {

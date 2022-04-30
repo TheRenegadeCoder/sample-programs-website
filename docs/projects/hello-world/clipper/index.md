@@ -15,7 +15,7 @@ Welcome to the Hello World in Clipper page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Clipper
+```clipper
 function MAIN
  clear
  ?"Hello, World!"

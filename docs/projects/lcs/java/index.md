@@ -15,7 +15,7 @@ Welcome to the LCS in Java page! Here, you'll find the source code for this prog
 
 {% raw %}
 
-```Java
+```java
 import java.util.*;
 public class Lcs{
 

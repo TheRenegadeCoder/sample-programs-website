@@ -15,7 +15,7 @@ Welcome to the Hello World in Objective C page! Here, you'll find the source cod
 
 {% raw %}
 
-```Objective C
+```objective c
 #import <Foundation/Foundation.h>
 
 int main (int argc, const char * argv[])

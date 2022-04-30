@@ -15,7 +15,7 @@ Welcome to the Hello World in Eiffel page! Here, you'll find the source code for
 
 {% raw %}
 
-```Eiffel
+```eiffel
 class 
     HELLO
 

@@ -15,7 +15,7 @@ Welcome to the Capitalize in Groovy page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Groovy
+```groovy
 class Capitalize {
   static void main(String... args) {
     if(args?.length >= 1 && args[0]?.length() >= 1) {

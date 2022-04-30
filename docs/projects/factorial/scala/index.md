@@ -15,7 +15,7 @@ Welcome to the Factorial in Scala page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Scala
+```scala
 // Scala Program to calculate 
 // Factorial of a number 
 

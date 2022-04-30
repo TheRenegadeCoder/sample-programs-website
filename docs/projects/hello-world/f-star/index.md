@@ -15,7 +15,7 @@ Welcome to the Hello World in F\* page! Here, you'll find the source code for th
 
 {% raw %}
 
-```F\*
+```f\*
 module Hello
 
 open FStar.IO

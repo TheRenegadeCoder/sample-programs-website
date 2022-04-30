@@ -17,7 +17,7 @@ Welcome to the Hello World in Typescript page! Here, you'll find the source code
 
 {% raw %}
 
-```Typescript
+```typescript
 console.log("Hello, World!");
 ```
 

@@ -15,7 +15,7 @@ Welcome to the Reverse String in Objective C page! Here, you'll find the source 
 
 {% raw %}
 
-```Objective C
+```objective c
 #import <Foundation/Foundation.h>
 
 @interface StringHelper:NSObject

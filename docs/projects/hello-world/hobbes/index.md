@@ -15,7 +15,7 @@ Welcome to the Hello World in Hobbes page! Here, you'll find the source code for
 
 {% raw %}
 
-```Hobbes
+```hobbes
 putStr("Hello, World!")
 ```
 

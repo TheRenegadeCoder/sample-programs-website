@@ -15,7 +15,7 @@ Welcome to the Baklava in Elixir page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Elixir
+```elixir
 defmodule Baklava do
   @doc """
   Create baklava where the top has 10 spaces and then 1 asterisk.

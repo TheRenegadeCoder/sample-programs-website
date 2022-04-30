@@ -15,7 +15,7 @@ Welcome to the Job Sequencing in Php page! Here, you'll find the source code for
 
 {% raw %}
 
-```Php
+```php
 <?php
 
 if ($argc < 3 || empty($argv[1]) || empty($argv[2]))

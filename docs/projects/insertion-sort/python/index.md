@@ -18,7 +18,7 @@ Welcome to the Insertion Sort in Python page! Here, you'll find the source code 
 
 {% raw %}
 
-```Python
+```python
 import sys
 from itertools import takewhile
 

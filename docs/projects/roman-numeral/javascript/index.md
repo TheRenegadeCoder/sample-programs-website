@@ -15,7 +15,7 @@ Welcome to the Roman Numeral in Javascript page! Here, you'll find the source co
 
 {% raw %}
 
-```Javascript
+```javascript
 // Roman Numeral Conversion
 // jsfiddle link for a quick test drive: https://jsfiddle.net/Rani_Kheir/r8wpLagq/10/
 

@@ -15,7 +15,7 @@ Welcome to the Reverse String in Apex page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Apex
+```apex
 String original= 'abcdef';
 String revStr = ' ';
 

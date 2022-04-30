@@ -18,7 +18,7 @@ Welcome to the Hello World in Pascal page! Here, you'll find the source code for
 
 {% raw %}
 
-```Pascal
+```pascal
 program HelloWorld(output);
 begin
   writeln('Hello, World!');

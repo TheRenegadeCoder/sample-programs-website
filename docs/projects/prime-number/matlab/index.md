@@ -15,7 +15,7 @@ Welcome to the Prime Number in Matlab page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Matlab
+```matlab
 function result = prime_number(n)
 
 if n < 0

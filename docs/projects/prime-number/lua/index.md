@@ -15,7 +15,7 @@ Welcome to the Prime Number in Lua page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Lua
+```lua
 --returns true if prime
 function isPrime(n)
     comp = "Composite"

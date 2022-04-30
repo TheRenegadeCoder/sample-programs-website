@@ -15,7 +15,7 @@ Welcome to the Even Odd in Groovy page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Groovy
+```groovy
 class EvenOdd {
   static void main(String... args) {
     if(args?.length != 1 || !args[0]?.isInteger()) {

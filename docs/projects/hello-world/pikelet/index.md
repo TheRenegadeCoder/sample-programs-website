@@ -15,7 +15,7 @@ Welcome to the Hello World in Pikelet page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Pikelet
+```pikelet
 "Hello, World!"
 ```
 

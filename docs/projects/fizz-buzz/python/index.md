@@ -18,7 +18,7 @@ Welcome to the Fizz Buzz in Python page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Python
+```python
 for n in range(1, 101):
     if n % 3 == 0:
         print("FizzBuzz" if n % 5 == 0 else "Fizz")

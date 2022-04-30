@@ -15,7 +15,7 @@ Welcome to the Hello World in Swift page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Swift
+```swift
 print("Hello, World!")
 ```
 

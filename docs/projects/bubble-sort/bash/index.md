@@ -15,7 +15,7 @@ Welcome to the Bubble Sort in Bash page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Bash
+```bash
 #!/bin/bash
 
 ERROR="Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\""

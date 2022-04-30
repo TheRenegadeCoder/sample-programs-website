@@ -15,7 +15,7 @@ Welcome to the Game Of Life in Javascript page! Here, you'll find the source cod
 
 {% raw %}
 
-```Javascript
+```javascript
 main();
 
 async function main() {

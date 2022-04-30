@@ -15,7 +15,7 @@ Welcome to the Even Odd in Fortran page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Fortran
+```fortran
 ! In program name, - is not allowed
 program evenodd
 character(len=10) :: argument

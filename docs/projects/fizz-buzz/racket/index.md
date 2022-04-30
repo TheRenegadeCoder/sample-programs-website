@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Racket page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Racket
+```racket
 ;fizzbuzz in racket
 ;Author: Emblazion
 

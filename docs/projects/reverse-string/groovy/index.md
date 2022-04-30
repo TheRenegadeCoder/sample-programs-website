@@ -15,7 +15,7 @@ Welcome to the Reverse String in Groovy page! Here, you'll find the source code 
 
 {% raw %}
 
-```Groovy
+```groovy
 class ReverseAString {
   static void main(String... args) {
     if(args?.length >= 1 && args[0]?.length() >= 1) {

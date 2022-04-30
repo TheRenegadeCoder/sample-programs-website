@@ -15,7 +15,7 @@ Welcome to the Quine in Haskell page! Here, you'll find the source code for this
 
 {% raw %}
 
-```Haskell
+```haskell
 main = putStrLn $ (++) <*> show $ "main = putStrLn $ (++) <*> show $ "
 ```
 

@@ -15,7 +15,7 @@ Welcome to the Capitalize in Bash page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Bash
+```bash
 #!/bin/bash
 
 if [ -z "$1" ]; then

@@ -15,7 +15,7 @@ Welcome to the Even Odd in Pascal page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Pascal
+```pascal
 program a1(input, output, stdErr);
 (* Read Number from commandline, print  Even or Odd *)
 var

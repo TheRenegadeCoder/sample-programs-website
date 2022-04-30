@@ -15,7 +15,7 @@ Welcome to the Factorial in Coffeescript page! Here, you'll find the source code
 
 {% raw %}
 
-```Coffeescript
+```coffeescript
 factorial = (n) ->
     return usage() if n < 0
     return 1 if n == "0"

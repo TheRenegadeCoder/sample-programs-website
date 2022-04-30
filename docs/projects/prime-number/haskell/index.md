@@ -15,7 +15,7 @@ Welcome to the Prime Number in Haskell page! Here, you'll find the source code f
 
 {% raw %}
 
-```Haskell
+```haskell
 module Main where
 
 import System.Environment

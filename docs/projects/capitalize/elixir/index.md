@@ -15,7 +15,7 @@ Welcome to the Capitalize in Elixir page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Elixir
+```elixir
 defmodule Capitalize do
 
     @doc """

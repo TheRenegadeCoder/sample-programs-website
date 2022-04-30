@@ -15,7 +15,7 @@ Welcome to the Selection Sort in Julia page! Here, you'll find the source code f
 
 {% raw %}
 
-```Julia
+```julia
 #!/usr/bin/julia
 
 function SelectionSort(arr)

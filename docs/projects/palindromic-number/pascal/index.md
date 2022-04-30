@@ -15,7 +15,7 @@ Welcome to the Palindromic Number in Pascal page! Here, you'll find the source c
 
 {% raw %}
 
-```Pascal
+```pascal
 (*
 Description 	Input 	Output
 no input 	None 	Usage: please input a number

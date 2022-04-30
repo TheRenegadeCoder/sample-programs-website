@@ -15,7 +15,7 @@ Welcome to the Hello World in Livescript page! Here, you'll find the source code
 
 {% raw %}
 
-```Livescript
+```livescript
 console.log 'hello, world!'
 ```
 

@@ -15,7 +15,7 @@ Welcome to the Factorial in Java page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Java
+```java
 public class Factorial
 {
     public static long fact(long n)

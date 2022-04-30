@@ -15,7 +15,7 @@ Welcome to the Capitalize in Typescript page! Here, you'll find the source code 
 
 {% raw %}
 
-```Typescript
+```typescript
 const myStr: string = "hello world";
 
 const capitalize = (str: string = "no input was provided") => str[0].toUpperCase() + str.slice(1);

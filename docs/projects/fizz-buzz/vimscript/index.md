@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Vimscript page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Vimscript
+```vimscript
 func! FizzBuzz()
     for l:i in range(1, 100)
         if l:i % 15 == 0

@@ -18,7 +18,7 @@ Welcome to the Hello World in C++ page! Here, you'll find the source code for th
 
 {% raw %}
 
-```C++
+```c++
 #include <iostream>
 using namespace std;
 

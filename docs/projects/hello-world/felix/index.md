@@ -15,7 +15,7 @@ Welcome to the Hello World in Felix page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Felix
+```felix
 println$ "Hello, World!";
 ```
 

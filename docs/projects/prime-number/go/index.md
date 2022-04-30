@@ -15,7 +15,7 @@ Welcome to the Prime Number in Go page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Go
+```go
 package main
 
 import (

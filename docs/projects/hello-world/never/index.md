@@ -15,7 +15,7 @@ Welcome to the Hello World in Never page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Never
+```never
 func print_str(hw[L] -> int) -> int
 {
     func __print(hw[L] -> int, i -> int) -> int

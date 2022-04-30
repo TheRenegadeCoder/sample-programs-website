@@ -15,7 +15,7 @@ Welcome to the Even Odd in P4 page! Here, you'll find the source code for this p
 
 {% raw %}
 
-```P4
+```p4
 /* -*- P4_16 -*- */
 
 

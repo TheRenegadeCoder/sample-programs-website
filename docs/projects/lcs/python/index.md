@@ -15,7 +15,7 @@ Welcome to the LCS in Python page! Here, you'll find the source code for this pr
 
 {% raw %}
 
-```Python
+```python
 import sys
 
 

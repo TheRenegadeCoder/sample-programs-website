@@ -15,7 +15,7 @@ Welcome to the LPS in Javascript page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Javascript
+```javascript
 const [, , input] = process.argv;
 
 const getLongestPalindromic = (string) => {

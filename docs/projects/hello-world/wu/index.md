@@ -15,7 +15,7 @@ Welcome to the Hello World in Wu page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Wu
+```wu
 print: extern def<T>(..T)
 
 print("Hello World")

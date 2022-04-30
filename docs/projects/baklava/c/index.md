@@ -18,7 +18,7 @@ Welcome to the Baklava in C page! Here, you'll find the source code for this pro
 
 {% raw %}
 
-```C
+```c
 #include "stdio.h"
 
 int main (void)

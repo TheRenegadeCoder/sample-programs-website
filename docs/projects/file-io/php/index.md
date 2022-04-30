@@ -15,7 +15,7 @@ Welcome to the File Io in Php page! Here, you'll find the source code for this p
 
 {% raw %}
 
-```Php
+```php
 <?php
 
 /**

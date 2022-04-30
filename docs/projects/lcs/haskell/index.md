@@ -15,7 +15,7 @@ Welcome to the LCS in Haskell page! Here, you'll find the source code for this p
 
 {% raw %}
 
-```Haskell
+```haskell
 module Main where
 
 import System.Environment

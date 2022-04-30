@@ -15,7 +15,7 @@ Welcome to the Hello World in Ti Basic page! Here, you'll find the source code f
 
 {% raw %}
 
-```Ti Basic
+```ti basic
 ClrHome
 Disp "HELLO, WORLD!"
 ```

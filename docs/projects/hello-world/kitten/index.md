@@ -15,7 +15,7 @@ Welcome to the Hello World in Kitten page! Here, you'll find the source code for
 
 {% raw %}
 
-```Kitten
+```kitten
 "Hello, World!" say
 ```
 

@@ -15,7 +15,7 @@ Welcome to the Fibonacci in Haskell page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Haskell
+```haskell
 module Main where
 
 import System.Environment

@@ -15,7 +15,7 @@ Welcome to the Baklava in Dart page! Here, you'll find the source code for this 
 
 {% raw %}
 
-```Dart
+```dart
 main() {
   for (var i = 0; i < 10; i++) {
     print(" " * (10 - i) + "*" * (i * 2 + 1));

@@ -15,7 +15,7 @@ Welcome to the Hello World in Fortran page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Fortran
+```fortran
 PROGRAM HELLOWORLD
   PRINT *, 'Hello, World!'
 END

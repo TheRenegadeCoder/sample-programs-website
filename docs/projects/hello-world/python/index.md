@@ -18,7 +18,7 @@ Welcome to the Hello World in Python page! Here, you'll find the source code for
 
 {% raw %}
 
-```Python
+```python
 print('Hello, World!')
 ```
 

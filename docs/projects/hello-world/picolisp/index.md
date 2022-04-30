@@ -18,7 +18,7 @@ Welcome to the Hello World in Picolisp page! Here, you'll find the source code f
 
 {% raw %}
 
-```Picolisp
+```picolisp
 (prinl "Hello, World!")
 ```
 

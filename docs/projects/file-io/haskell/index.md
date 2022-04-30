@@ -15,7 +15,7 @@ Welcome to the File Io in Haskell page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Haskell
+```haskell
 module Main where
 
 import System.IO

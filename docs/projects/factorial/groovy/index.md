@@ -15,7 +15,7 @@ Welcome to the Factorial in Groovy page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Groovy
+```groovy
 class Factorial {
     static def factorial(BigInteger n) {
         if (n == 0) {

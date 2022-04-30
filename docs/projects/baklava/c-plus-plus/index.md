@@ -15,7 +15,7 @@ Welcome to the Baklava in C++ page! Here, you'll find the source code for this p
 
 {% raw %}
 
-```C++
+```c++
 #include <iostream>
 
 using namespace std;

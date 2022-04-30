@@ -15,7 +15,7 @@ Welcome to the Game Of Life in Dart page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Dart
+```dart
 <!DOCTYPE html>
 <html>
 

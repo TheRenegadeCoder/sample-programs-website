@@ -15,7 +15,7 @@ Welcome to the Reverse String in Picolisp page! Here, you'll find the source cod
 
 {% raw %}
 
-```Picolisp
+```picolisp
 (loop 
   (prinl "Welcome to the string reverser. For reversing a sentence and not just a single word, quoting with \" is required.")
   (prinl "Enter a string: ")

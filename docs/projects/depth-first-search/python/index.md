@@ -15,7 +15,7 @@ Welcome to the Depth First Search in Python page! Here, you'll find the source c
 
 {% raw %}
 
-```Python
+```python
 import sys
 
 

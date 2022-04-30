@@ -15,7 +15,7 @@ Welcome to the Baklava in Befunge page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Befunge
+```befunge
 56+0 v          > 84*, v
 >    > : 55+\-: | :-1  <
  v < <   v *2 :$<       

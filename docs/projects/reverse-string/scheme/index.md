@@ -18,7 +18,7 @@ Welcome to the Reverse String in Scheme page! Here, you'll find the source code 
 
 {% raw %}
 
-```Scheme
+```scheme
 (define (reverse-string x)
   (list->string (reverse (string->list x))))
 

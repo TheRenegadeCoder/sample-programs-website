@@ -15,7 +15,7 @@ Welcome to the Hello World in Eve page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Eve
+```eve
 bind @browser
   [tag: "div", text: "Hello, World!"]
 ```

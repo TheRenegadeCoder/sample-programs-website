@@ -15,7 +15,7 @@ Welcome to the Reverse String in Rust page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Rust
+```rust
 use std::env;
 
 fn main() {

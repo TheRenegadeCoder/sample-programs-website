@@ -15,7 +15,7 @@ Welcome to the Hello World in Lucee page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Lucee
+```lucee
 <html>
 	<head>
 		<title>My first page</title>

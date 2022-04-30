@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Tex page! Here, you'll find the source code for this
 
 {% raw %}
 
-```Tex
+```tex
 %&pdftex
 
 \countdef\counter=1

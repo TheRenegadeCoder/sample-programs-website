@@ -15,7 +15,7 @@ Welcome to the File Io in Perl page! Here, you'll find the source code for this 
 
 {% raw %}
 
-```Perl
+```perl
 #!/usr/bin/env perl
 
 sub Main {

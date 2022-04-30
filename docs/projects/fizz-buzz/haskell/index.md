@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Haskell page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Haskell
+```haskell
 module Main where
 
 fizzbuzz :: Int -> String

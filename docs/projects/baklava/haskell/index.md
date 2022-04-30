@@ -15,7 +15,7 @@ Welcome to the Baklava in Haskell page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Haskell
+```haskell
 module Main where
 
 main :: IO ()

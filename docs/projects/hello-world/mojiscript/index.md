@@ -15,7 +15,7 @@ Welcome to the Hello World in Mojiscript page! Here, you'll find the source code
 
 {% raw %}
 
-```Mojiscript
+```mojiscript
 import log from 'mojiscript/console/log'
 import pipe from 'mojiscript/core/pipe'
 import run from 'mojiscript/core/run'

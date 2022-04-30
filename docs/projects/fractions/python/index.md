@@ -18,7 +18,7 @@ Welcome to the Fractions in Python page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Python
+```python
 import operator
 import sys
 from fractions import Fraction

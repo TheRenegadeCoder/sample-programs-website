@@ -15,7 +15,7 @@ Welcome to the Prime Number in Javascript page! Here, you'll find the source cod
 
 {% raw %}
 
-```Javascript
+```javascript
 const isPrime = (number) => {
     if(number <= 1)
       return false

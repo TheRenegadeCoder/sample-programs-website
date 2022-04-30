@@ -18,7 +18,7 @@ Welcome to the File Io in C++ page! Here, you'll find the source code for this p
 
 {% raw %}
 
-```C++
+```c++
 #include <iostream>
 #include <fstream>
 #include <string>

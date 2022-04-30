@@ -15,7 +15,7 @@ Welcome to the Quick Sort in Bash page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Bash
+```bash
 #!/bin/bash
 
 # based on https://stackoverflow.com/questions/7442417/how-to-sort-an-array-in-bash

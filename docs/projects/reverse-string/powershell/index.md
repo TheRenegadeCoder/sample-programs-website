@@ -15,7 +15,7 @@ Welcome to the Reverse String in Powershell page! Here, you'll find the source c
 
 {% raw %}
 
-```Powershell
+```powershell
 ﻿<#
 .SYNOPSIS
   A simple script for reversing a String.

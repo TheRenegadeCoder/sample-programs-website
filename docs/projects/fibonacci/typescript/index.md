@@ -15,7 +15,7 @@ Welcome to the Fibonacci in Typescript page! Here, you'll find the source code f
 
 {% raw %}
 
-```Typescript
+```typescript
 function fibonacci(num: number) {
 
   let n = Number(num);

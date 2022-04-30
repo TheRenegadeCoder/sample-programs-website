@@ -15,7 +15,7 @@ Welcome to the Roman Numeral in Ruby page! Here, you'll find the source code for
 
 {% raw %}
 
-```Ruby
+```ruby
 ROMAN_VALUES = {
   "I": 1,
   "V": 5,

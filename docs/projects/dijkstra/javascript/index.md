@@ -15,7 +15,7 @@ Welcome to the Dijkstra in Javascript page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Javascript
+```javascript
 const mat = process.argv[2];
 const src = parseInt(process.argv[3]);
 const des = parseInt(process.argv[4]);

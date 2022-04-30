@@ -15,7 +15,7 @@ Welcome to the Hello World in Little page! Here, you'll find the source code for
 
 {% raw %}
 
-```Little
+```little
 puts("Hello, World!");
 ```
 

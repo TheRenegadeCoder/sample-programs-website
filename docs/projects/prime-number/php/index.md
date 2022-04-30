@@ -15,7 +15,7 @@ Welcome to the Prime Number in Php page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Php
+```php
 <?php
 
 /**

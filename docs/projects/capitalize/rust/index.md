@@ -15,7 +15,7 @@ Welcome to the Capitalize in Rust page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Rust
+```rust
 // Accept a string in command line from User and Capitalize the first letter of that string
 // Rust is built to support not just ASCII, but Unicode by-default.
 // Do note, each character in string is multi-byte UTF-8 supported, which needs upto 3 bytes (to accommodate Japanese letters)

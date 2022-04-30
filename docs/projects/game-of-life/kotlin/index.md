@@ -15,7 +15,7 @@ Welcome to the Game Of Life in Kotlin page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Kotlin
+```kotlin
 import java.awt.BasicStroke
 import java.awt.Color
 import java.awt.Dimension

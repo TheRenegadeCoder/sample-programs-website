@@ -15,7 +15,7 @@ Welcome to the File Io in Dg page! Here, you'll find the source code for this pr
 
 {% raw %}
 
-```Dg
+```dg
 import '/os'
 
 write_file = filename s ->

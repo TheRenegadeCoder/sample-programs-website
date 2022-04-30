@@ -15,7 +15,7 @@ Welcome to the Factorial in Rust page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Rust
+```rust
 //  Requirement     https://sample-programs.therenegadecoder.com/projects/factorial/
 // Accept a number on command line and print it's factorial
 // Works till factorial 34, which is 39 digits, ...

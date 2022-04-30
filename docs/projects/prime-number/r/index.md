@@ -15,7 +15,7 @@ Welcome to the Prime Number in R page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```R
+```r
 # Program to check if the input number is prime or not
 args<-commandArgs(TRUE)
 if(length(args) > 0){

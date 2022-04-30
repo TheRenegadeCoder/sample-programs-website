@@ -15,7 +15,7 @@ Welcome to the Hello World in Granule page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Granule
+```granule
 main : String
 main = "Hello, World!"
 ```

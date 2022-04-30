@@ -15,7 +15,7 @@ Welcome to the Even Odd in R page! Here, you'll find the source code for this pr
 
 {% raw %}
 
-```R
+```r
 args<-commandArgs(TRUE)
 number = args[1]
 

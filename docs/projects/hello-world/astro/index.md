@@ -15,7 +15,7 @@ Welcome to the Hello World in Astro page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Astro
+```astro
 print "Hello World!"
 ```
 

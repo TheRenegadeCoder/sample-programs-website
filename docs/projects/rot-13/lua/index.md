@@ -15,7 +15,7 @@ Welcome to the Rot 13 in Lua page! Here, you'll find the source code for this pr
 
 {% raw %}
 
-```Lua
+```lua
 local function ascii_base(s)
   return s:lower() == s and ('a'):byte() or ('A'):byte()
 end

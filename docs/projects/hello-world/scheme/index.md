@@ -18,7 +18,7 @@ Welcome to the Hello World in Scheme page! Here, you'll find the source code for
 
 {% raw %}
 
-```Scheme
+```scheme
 (display "Hello, World!")
 ```
 

@@ -15,7 +15,7 @@ Welcome to the Hello World in Owl Lisp page! Here, you'll find the source code f
 
 {% raw %}
 
-```Owl Lisp
+```owl lisp
 (λ (args) (print "Hello, World!"))
 ```
 

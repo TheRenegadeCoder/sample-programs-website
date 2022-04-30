@@ -15,7 +15,7 @@ Welcome to the Josephus Problem in Javascript page! Here, you'll find the source
 
 {% raw %}
 
-```Javascript
+```javascript
 const josephus = (n, k) => {
     if (n == 1) return 1;
     else return ((josephus(n - 1, k) + k - 1) % n) + 1;

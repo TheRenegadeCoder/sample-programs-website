@@ -18,7 +18,7 @@ Welcome to the Hello World in C# page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```C#
+```c#
 namespace SamplePrograms
 {
     public class HelloWorld

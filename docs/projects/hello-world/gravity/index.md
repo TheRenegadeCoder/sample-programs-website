@@ -15,7 +15,7 @@ Welcome to the Hello World in Gravity page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Gravity
+```gravity
 func main() {
   System.print("Hello, World!");
 }

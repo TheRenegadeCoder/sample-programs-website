@@ -15,7 +15,7 @@ Welcome to the Hello World in Pyret page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Pyret
+```pyret
 print("Hello, World!")
 ```
 

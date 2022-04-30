@@ -15,7 +15,7 @@ Welcome to the Reverse String in Brainfuck page! Here, you'll find the source co
 
 {% raw %}
 
-```Brainfuck
+```brainfuck
 >,[>,]<[.<]
 ```
 

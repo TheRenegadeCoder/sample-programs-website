@@ -15,7 +15,7 @@ Welcome to the Bubble Sort in Julia page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Julia
+```julia
 #!/usr/bin/julia
 
 function BubbleSort(arr)

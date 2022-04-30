@@ -15,7 +15,7 @@ Welcome to the File Io in Lua page! Here, you'll find the source code for this p
 
 {% raw %}
 
-```Lua
+```lua
 function writer()
 	file_to_be_written = io.open("output.txt","w+")
 	io.output(file_to_be_written)

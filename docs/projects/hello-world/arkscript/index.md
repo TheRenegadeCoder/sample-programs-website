@@ -15,7 +15,7 @@ Welcome to the Hello World in Arkscript page! Here, you'll find the source code 
 
 {% raw %}
 
-```Arkscript
+```arkscript
 (print "Hello, World!")
 ```
 

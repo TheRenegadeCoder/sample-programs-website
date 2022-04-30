@@ -15,7 +15,7 @@ Welcome to the Even Odd in Php page! Here, you'll find the source code for this 
 
 {% raw %}
 
-```Php
+```php
 <?php
 
 if ($argc < 2 || !is_numeric($argv[1])) {

@@ -18,7 +18,7 @@ Welcome to the Hello World in Wren page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Wren
+```wren
 System.print("Hello, World!")
 ```
 

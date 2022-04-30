@@ -15,7 +15,7 @@ Welcome to the Hello World in Dale page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Dale
+```dale
 (import cstdio)
 
 (def main (fn extern-c int (void)

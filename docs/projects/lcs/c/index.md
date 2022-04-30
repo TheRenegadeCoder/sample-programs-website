@@ -15,7 +15,7 @@ Welcome to the LCS in C page! Here, you'll find the source code for this program
 
 {% raw %}
 
-```C
+```c
 #include  <stdio.h>
 #include <stdlib.h>
 #include <string.h>

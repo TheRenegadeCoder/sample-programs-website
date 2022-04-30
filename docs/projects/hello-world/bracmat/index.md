@@ -15,7 +15,7 @@ Welcome to the Hello World in Bracmat page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Bracmat
+```bracmat
 put$"Hello, World!"
 ```
 

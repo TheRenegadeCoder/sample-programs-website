@@ -15,7 +15,7 @@ Welcome to the Hello World in P page! Here, you'll find the source code for this
 
 {% raw %}
 
-```P
+```p
 //HelloWorld.p
 machine HelloWorld
 {

@@ -15,7 +15,7 @@ Welcome to the Baklava in Lisp page! Here, you'll find the source code for this 
 
 {% raw %}
 
-```Lisp
+```lisp
 (defparameter space_list '(#\space))
 (defparameter star_list '(#\*))
 (dotimes (run 9)

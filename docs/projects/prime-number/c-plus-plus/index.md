@@ -15,7 +15,7 @@ Welcome to the Prime Number in C++ page! Here, you'll find the source code for t
 
 {% raw %}
 
-```C++
+```c++
 #include<iostream>
 #include<stdlib.h>
 #include<string.h>

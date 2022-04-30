@@ -15,7 +15,7 @@ Welcome to the Hello World in Haxe page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Haxe
+```haxe
 class HelloWorld {
     static public function main() {
         trace("Hello, World!");

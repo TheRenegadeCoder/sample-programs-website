@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Go page! Here, you'll find the source code for this 
 
 {% raw %}
 
-```Go
+```go
 package main
 
 import "fmt"

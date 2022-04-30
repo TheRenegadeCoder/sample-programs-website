@@ -15,7 +15,7 @@ Welcome to the Quine in Javascript page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Javascript
+```javascript
 (function(){console.log('('+arguments.callee.toString()+')()')})()
 ```
 

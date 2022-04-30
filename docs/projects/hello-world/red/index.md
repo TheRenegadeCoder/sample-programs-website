@@ -18,7 +18,7 @@ Welcome to the Hello World in Red page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Red
+```red
 Red [Title: "Hello World in Red"]
 
 print "Hello, World!"

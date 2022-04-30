@@ -15,7 +15,7 @@ Welcome to the Factorial in D page! Here, you'll find the source code for this p
 
 {% raw %}
 
-```D
+```d
 // Factorial program in D
 
 

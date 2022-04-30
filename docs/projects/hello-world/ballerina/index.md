@@ -15,7 +15,7 @@ Welcome to the Hello World in Ballerina page! Here, you'll find the source code 
 
 {% raw %}
 
-```Ballerina
+```ballerina
 import ballerina/io;
 function main(string... args) {
     io:println("Hello, World!");

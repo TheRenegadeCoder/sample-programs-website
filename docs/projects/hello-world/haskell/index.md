@@ -18,7 +18,7 @@ Welcome to the Hello World in Haskell page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Haskell
+```haskell
 module Main where
 
 main = putStrLn "Hello, World!"

@@ -15,7 +15,7 @@ Welcome to the Baklava in F# page! Here, you'll find the source code for this pr
 
 {% raw %}
 
-```F#
+```f#
 let line space asterisk =
     String.replicate space " "  + String.replicate asterisk "*" + "\n"
 

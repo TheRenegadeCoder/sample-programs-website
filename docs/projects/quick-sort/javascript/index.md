@@ -15,7 +15,7 @@ Welcome to the Quick Sort in Javascript page! Here, you'll find the source code 
 
 {% raw %}
 
-```Javascript
+```javascript
 /**
  * Quick sort algorithm
  *

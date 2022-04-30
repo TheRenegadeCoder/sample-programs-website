@@ -15,7 +15,7 @@ Welcome to the Hello World in Mirth page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Mirth
+```mirth
 main : --
 main = "Hello world!" _prim_unsafe_print
 ```

@@ -15,7 +15,7 @@ Welcome to the Quine in Bash page! Here, you'll find the source code for this pr
 
 {% raw %}
 
-```Bash
+```bash
 echo $BASH_COMMAND
 ```
 

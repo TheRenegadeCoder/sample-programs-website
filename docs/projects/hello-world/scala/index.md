@@ -18,7 +18,7 @@ Welcome to the Hello World in Scala page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Scala
+```scala
 object HelloWorld extends App {
   println("Hello, World!")
 }

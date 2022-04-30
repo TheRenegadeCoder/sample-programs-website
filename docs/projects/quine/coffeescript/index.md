@@ -15,7 +15,7 @@ Welcome to the Quine in Coffeescript page! Here, you'll find the source code for
 
 {% raw %}
 
-```Coffeescript
+```coffeescript
 a="a=%j; console.log a,a"; console.log a,a
 ```
 

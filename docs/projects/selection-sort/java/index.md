@@ -15,7 +15,7 @@ Welcome to the Selection Sort in Java page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Java
+```java
 import java.util.ArrayList;
 
 public class SelectionSort {

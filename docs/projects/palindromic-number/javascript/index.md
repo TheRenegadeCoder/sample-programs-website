@@ -15,7 +15,7 @@ Welcome to the Palindromic Number in Javascript page! Here, you'll find the sour
 
 {% raw %}
 
-```Javascript
+```javascript
 /*
 Accept a number in command line
 Print true,  if it is palindromic

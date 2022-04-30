@@ -15,7 +15,7 @@ Welcome to the Quick Sort in Kotlin page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Kotlin
+```kotlin
 fun main(args: Array<String>) 
 {
     var arr: IntArray

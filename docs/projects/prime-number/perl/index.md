@@ -15,7 +15,7 @@ Welcome to the Prime Number in Perl page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Perl
+```perl
 # Requirement https://sample-programs.therenegadecoder.com/projects/prime-number/
 # Issue  #1834
 # Accept a number on command line and print if it is Prime or Composite

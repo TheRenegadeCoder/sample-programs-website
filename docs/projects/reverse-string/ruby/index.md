@@ -18,7 +18,7 @@ Welcome to the Reverse String in Ruby page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Ruby
+```ruby
 if ARGV.length < 1
     puts "Usage: ruby reverse-string.rb [string]"
 else

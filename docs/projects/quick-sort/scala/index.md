@@ -15,7 +15,7 @@ Welcome to the Quick Sort in Scala page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Scala
+```scala
 import scala.io.StdIn.readLine
 import scala.reflect.ClassTag
 

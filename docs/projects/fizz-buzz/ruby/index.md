@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Ruby page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Ruby
+```ruby
 def fizzbuzz(number)
     divisibleBy3 = (number % 3 == 0)
     divisibleBy5 = (number % 5 == 0)

@@ -19,7 +19,7 @@ Welcome to the Hello World in Erlang page! Here, you'll find the source code for
 
 {% raw %}
 
-```Erlang
+```erlang
 -module(hello_world).
 -export([start/0]).
 

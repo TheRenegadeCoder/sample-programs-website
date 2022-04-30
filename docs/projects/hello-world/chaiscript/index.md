@@ -15,7 +15,7 @@ Welcome to the Hello World in Chaiscript page! Here, you'll find the source code
 
 {% raw %}
 
-```Chaiscript
+```chaiscript
 print("Hello, World!")
 ```
 

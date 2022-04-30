@@ -17,7 +17,7 @@ Welcome to the Hello World in Tex page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Tex
+```tex
 %&pdftex
 
 Hello, World!

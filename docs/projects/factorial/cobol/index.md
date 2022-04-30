@@ -15,7 +15,7 @@ Welcome to the Factorial in Cobol page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Cobol
+```cobol
 IDENTIFICATION DIVISION.
         PROGRAM-ID. FACTORIAL.
         DATA DIVISION.

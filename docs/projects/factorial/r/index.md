@@ -15,7 +15,7 @@ Welcome to the Factorial in R page! Here, you'll find the source code for this p
 
 {% raw %}
 
-```R
+```r
 args<-commandArgs(TRUE)
 if(length(args) > 0){
   a = args[1]

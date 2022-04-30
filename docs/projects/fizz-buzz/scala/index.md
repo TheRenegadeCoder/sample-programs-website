@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Scala page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Scala
+```scala
 object FizzBuzz {
 
   def main(args: Array[String]): Unit = {

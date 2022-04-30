@@ -15,7 +15,7 @@ Welcome to the Reverse String in Dg page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Dg
+```dg
 import "/sys/argv"
 
 snd_if_exists = xs -> if

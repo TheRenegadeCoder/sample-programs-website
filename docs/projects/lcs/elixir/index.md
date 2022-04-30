@@ -15,7 +15,7 @@ Welcome to the LCS in Elixir page! Here, you'll find the source code for this pr
 
 {% raw %}
 
-```Elixir
+```elixir
 defmodule LongestCommonSubsequence do
   def main() do
     lcs = solve(System.argv())

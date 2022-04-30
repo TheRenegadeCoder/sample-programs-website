@@ -15,7 +15,7 @@ Welcome to the Rot 13 in Dart page! Here, you'll find the source code for this p
 
 {% raw %}
 
-```Dart
+```dart
 import 'dart:io';
 
 main(List<String> args) {

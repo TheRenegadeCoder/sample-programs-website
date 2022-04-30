@@ -15,7 +15,7 @@ Welcome to the Factorial in Elixir page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Elixir
+```elixir
 defmodule Factorial do
   def main(args) do
     args

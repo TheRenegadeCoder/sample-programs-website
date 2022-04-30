@@ -15,7 +15,7 @@ Welcome to the Hello World in Elvish page! Here, you'll find the source code for
 
 {% raw %}
 
-```Elvish
+```elvish
 echo "Hello, World!"
 ```
 

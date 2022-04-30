@@ -18,7 +18,7 @@ Welcome to the Hello World in D page! Here, you'll find the source code for this
 
 {% raw %}
 
-```D
+```d
 import std.stdio;
 
 void main()

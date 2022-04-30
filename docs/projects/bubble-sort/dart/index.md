@@ -15,7 +15,7 @@ Welcome to the Bubble Sort in Dart page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Dart
+```dart
 import 'dart:io';
 
 main(List<String> args) {

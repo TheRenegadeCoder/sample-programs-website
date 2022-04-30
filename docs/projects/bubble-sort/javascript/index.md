@@ -15,7 +15,7 @@ Welcome to the Bubble Sort in Javascript page! Here, you'll find the source code
 
 {% raw %}
 
-```Javascript
+```javascript
 /**
  * Bubble sort algorithm
  *

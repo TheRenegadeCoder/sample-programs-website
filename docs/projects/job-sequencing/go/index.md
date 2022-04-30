@@ -15,7 +15,7 @@ Welcome to the Job Sequencing in Go page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Go
+```go
 package main
 
 import (

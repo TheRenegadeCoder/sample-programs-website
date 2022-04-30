@@ -15,7 +15,7 @@ Welcome to the Fibonacci in Objective C page! Here, you'll find the source code 
 
 {% raw %}
 
-```Objective C
+```objective c
 #include <stdio.h>
 
 int fibonacci(int n)

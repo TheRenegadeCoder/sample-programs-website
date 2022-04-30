@@ -15,7 +15,7 @@ Welcome to the Fibonacci in Quack page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Quack
+```quack
 fn fibonacci(0) :- 0
 fn fibonacci(1) :- 1
 fn fibonacci(n) :- fibonacci(n - 1) + fibonacci(n - 2)

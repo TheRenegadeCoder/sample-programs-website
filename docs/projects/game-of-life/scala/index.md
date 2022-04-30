@@ -15,7 +15,7 @@ Welcome to the Game Of Life in Scala page! Here, you'll find the source code for
 
 {% raw %}
 
-```Scala
+```scala
 import javax.swing._;
 import java.awt.Dimension;
 import java.awt.GridLayout;

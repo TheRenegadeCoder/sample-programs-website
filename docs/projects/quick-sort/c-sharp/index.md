@@ -15,7 +15,7 @@ Welcome to the Quick Sort in C# page! Here, you'll find the source code for this
 
 {% raw %}
 
-```C#
+```c#
 using System;
 using System.Linq;
 using System.Collections.Generic;

@@ -15,7 +15,7 @@ Welcome to the Factorial in Bash page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Bash
+```bash
 #!/bin/bash
 
 number=$1

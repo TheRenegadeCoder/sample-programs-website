@@ -15,7 +15,7 @@ Welcome to the Hello World in Quack page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Quack
+```quack
 from console
 
 effect main

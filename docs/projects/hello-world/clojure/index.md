@@ -15,7 +15,7 @@ Welcome to the Hello World in Clojure page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Clojure
+```clojure
 (ns hello-world
 	(:gen-class))
 

@@ -15,7 +15,7 @@ Welcome to the Hello World in Frege page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Frege
+```frege
 module HelloWorld where
 
 main :: IO ()

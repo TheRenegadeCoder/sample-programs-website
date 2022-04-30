@@ -15,7 +15,7 @@ Welcome to the Merge Sort in Rust page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Rust
+```rust
 use std::env;
 
 fn merge(lhs: &Vec<i32>, rhs: &Vec<i32>, merged_arr: &mut Vec<i32>) {

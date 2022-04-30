@@ -15,7 +15,7 @@ Welcome to the Hello World in Terra page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Terra
+```terra
 print("Hello, World!")
 ```
 

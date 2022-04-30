@@ -15,7 +15,7 @@ Welcome to the Rot 13 in Php page! Here, you'll find the source code for this pr
 
 {% raw %}
 
-```Php
+```php
 <?php
 
 if (empty($argv[1]) || $argv[1] == "" || count($argv) == 0) {

@@ -15,7 +15,7 @@ Welcome to the Baklava in Ada page! Here, you'll find the source code for this p
 
 {% raw %}
 
-```Ada
+```ada
 with Ada.Text_IO; use Ada.Text_IO;
 
 procedure Baklava is

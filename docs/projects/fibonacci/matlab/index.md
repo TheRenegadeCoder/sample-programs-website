@@ -15,7 +15,7 @@ Welcome to the Fibonacci in Matlab page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Matlab
+```matlab
 function f = fibonacci(n)
 
 if ischar(n)

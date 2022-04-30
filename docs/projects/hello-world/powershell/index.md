@@ -18,7 +18,7 @@ Welcome to the Hello World in Powershell page! Here, you'll find the source code
 
 {% raw %}
 
-```Powershell
+```powershell
 Write-Host "Hello, World!"
 ```
 

@@ -18,7 +18,7 @@ Welcome to the Hello World in Racket page! Here, you'll find the source code for
 
 {% raw %}
 
-```Racket
+```racket
 #lang racket/base
 "Hello, World!"
 ```

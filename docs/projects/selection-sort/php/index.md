@@ -15,7 +15,7 @@ Welcome to the Selection Sort in Php page! Here, you'll find the source code for
 
 {% raw %}
 
-```Php
+```php
 <?php
 
 $numbers = array_map('intval', explode(',', $argv[1]));

@@ -15,7 +15,7 @@ Welcome to the Hello World in Discus page! Here, you'll find the source code for
 
 {% raw %}
 
-```Discus
+```discus
 module Main
 import System.IO.Console
 

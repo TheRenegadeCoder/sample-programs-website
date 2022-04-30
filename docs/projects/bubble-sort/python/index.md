@@ -18,7 +18,7 @@ Welcome to the Bubble Sort in Python page! Here, you'll find the source code for
 
 {% raw %}
 
-```Python
+```python
 import sys
 from functools import reduce
 

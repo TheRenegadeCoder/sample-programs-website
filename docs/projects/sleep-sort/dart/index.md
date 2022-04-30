@@ -15,7 +15,7 @@ Welcome to the Sleep Sort in Dart page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Dart
+```dart
 import 'dart:async';
 
 void main(List<String> args) async {

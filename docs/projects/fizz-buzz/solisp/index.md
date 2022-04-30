@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Solisp page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Solisp
+```solisp
 (Join (Map num (Seq 1 100)
 	(Switch
         {(== (% num 3) (% num 5) 0) "FizzBuzz"}

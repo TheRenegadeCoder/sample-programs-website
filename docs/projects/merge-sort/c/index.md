@@ -15,7 +15,7 @@ Welcome to the Merge Sort in C page! Here, you'll find the source code for this 
 
 {% raw %}
 
-```C
+```c
 // Merge Sort In C Language
 
 #include <stdio.h>

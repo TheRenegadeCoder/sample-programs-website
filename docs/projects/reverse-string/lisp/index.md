@@ -15,7 +15,7 @@ Welcome to the Reverse String in Lisp page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Lisp
+```lisp
 (defparameter input (cadr *posix-argv*))
 (write-line (reverse input))
 ```

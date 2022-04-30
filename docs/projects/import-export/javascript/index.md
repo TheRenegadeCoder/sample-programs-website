@@ -19,7 +19,7 @@ Welcome to the Import Export in Javascript page! Here, you'll find the source co
 
 {% raw %}
 
-```Javascript
+```javascript
 exports.myGreeting = "Hello World";
 ```
 

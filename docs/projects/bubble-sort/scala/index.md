@@ -15,7 +15,7 @@ Welcome to the Bubble Sort in Scala page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Scala
+```scala
 import scala.io.StdIn.readLine
 import scala.reflect.ClassTag
 

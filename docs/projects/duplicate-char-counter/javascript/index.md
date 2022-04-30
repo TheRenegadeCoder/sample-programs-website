@@ -15,7 +15,7 @@ Welcome to the Duplicate Char Counter in Javascript page! Here, you'll find the 
 
 {% raw %}
 
-```Javascript
+```javascript
 const string = process.argv[2];
 if (!string) return console.log("Please provide a string.");
 

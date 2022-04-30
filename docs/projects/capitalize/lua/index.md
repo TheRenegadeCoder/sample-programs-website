@@ -15,7 +15,7 @@ Welcome to the Capitalize in Lua page! Here, you'll find the source code for thi
 
 {% raw %}
 
-```Lua
+```lua
 if (#arg < 1 or arg[1] == '')
 then
     print('Usage: please provide a string')

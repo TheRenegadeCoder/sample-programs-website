@@ -15,7 +15,7 @@ Welcome to the Roman Numeral in Lua page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Lua
+```lua
 #!/bin/lua
 
 -- Key value pairs for roman numerals

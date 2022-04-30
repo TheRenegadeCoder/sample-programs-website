@@ -15,7 +15,7 @@ Welcome to the Bubble Sort in Java page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Java
+```java
 import java.util.ArrayList;
 
 public class BubbleSort {

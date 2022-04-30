@@ -15,7 +15,7 @@ Welcome to the Quick Sort in Lisp page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Lisp
+```lisp
 (defun qsort (L)
   (cond
     ((null L) nil)

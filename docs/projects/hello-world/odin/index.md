@@ -15,7 +15,7 @@ Welcome to the Hello World in Odin page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Odin
+```odin
 import "core:fmt.odin";
 
 main :: proc() {

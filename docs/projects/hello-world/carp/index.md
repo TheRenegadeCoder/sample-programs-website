@@ -15,7 +15,7 @@ Welcome to the Hello World in Carp page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Carp
+```carp
 (println "Hello, World!")
 ```
 

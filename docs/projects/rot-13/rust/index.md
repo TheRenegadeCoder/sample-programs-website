@@ -15,7 +15,7 @@ Welcome to the Rot 13 in Rust page! Here, you'll find the source code for this p
 
 {% raw %}
 
-```Rust
+```rust
 use std::env;
 
 fn rot13(input: String) -> String {

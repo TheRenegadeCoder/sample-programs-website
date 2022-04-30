@@ -15,7 +15,7 @@ Welcome to the Rot 13 in C page! Here, you'll find the source code for this prog
 
 {% raw %}
 
-```C
+```c
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>

@@ -15,7 +15,7 @@ Welcome to the Prime Number in Cobol page! Here, you'll find the source code for
 
 {% raw %}
 
-```Cobol
+```cobol
 IDENTIFICATION DIVISION.
         PROGRAM-ID. HELLO-WORLD.
         DATA DIVISION.

@@ -15,7 +15,7 @@ Welcome to the Baklava in Java page! Here, you'll find the source code for this 
 
 {% raw %}
 
-```Java
+```java
 public class Baklava
 {
     public static void up()

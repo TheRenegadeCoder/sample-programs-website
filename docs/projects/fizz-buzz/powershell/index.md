@@ -18,7 +18,7 @@ Welcome to the Fizz Buzz in Powershell page! Here, you'll find the source code f
 
 {% raw %}
 
-```Powershell
+```powershell
 <#
 .SYNOPSIS
   A simple script that solves the standard FizzBuzz interview problem.

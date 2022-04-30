@@ -15,7 +15,7 @@ Welcome to the Baklava in Julia page! Here, you'll find the source code for this
 
 {% raw %}
 
-```Julia
+```julia
 #!/usr/bin/julia
 
 function main()

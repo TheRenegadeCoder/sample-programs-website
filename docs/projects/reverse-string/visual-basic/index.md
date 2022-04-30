@@ -18,7 +18,7 @@ Welcome to the Reverse String in Visual Basic page! Here, you'll find the source
 
 {% raw %}
 
-```Visual Basic
+```visual basic
 Public Module ReverseString
   Public Sub Main(args() As String)
     Dim input = String.Empty

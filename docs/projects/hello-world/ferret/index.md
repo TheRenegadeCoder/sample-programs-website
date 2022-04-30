@@ -15,7 +15,7 @@ Welcome to the Hello World in Ferret page! Here, you'll find the source code for
 
 {% raw %}
 
-```Ferret
+```ferret
 (do
   (println "Hello, World!"))
 ```

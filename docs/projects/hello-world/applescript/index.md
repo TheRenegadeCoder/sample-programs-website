@@ -15,7 +15,7 @@ Welcome to the Hello World in Applescript page! Here, you'll find the source cod
 
 {% raw %}
 
-```Applescript
+```applescript
 display dialog "Hello, World!"
 ```
 

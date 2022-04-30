@@ -15,7 +15,7 @@ Welcome to the Capitalize in Perl page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Perl
+```perl
 #!/usr/bin/env perl
 use strict;
 use warnings;

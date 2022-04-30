@@ -15,7 +15,7 @@ Welcome to the Hello World in Shen page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Shen
+```shen
 (0-) (pr "Hello, World!")
 ```
 

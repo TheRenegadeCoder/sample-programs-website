@@ -15,7 +15,7 @@ Welcome to the Capitalize in Lisp page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Lisp
+```lisp
 ;;Taken from the Common Lisp Cookbook Project (strings page)
 (defun split-string (string)
     (loop for i = 0 then (1+ j)

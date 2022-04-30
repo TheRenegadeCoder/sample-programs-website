@@ -15,7 +15,7 @@ Welcome to the Job Sequencing in Kotlin page! Here, you'll find the source code 
 
 {% raw %}
 
-```Kotlin
+```kotlin
 fun main(args: Array<String>) {
     val jobs = buildJobs(args)
     if (jobs.isNullOrEmpty()) {

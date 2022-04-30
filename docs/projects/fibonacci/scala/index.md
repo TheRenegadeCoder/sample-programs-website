@@ -15,7 +15,7 @@ Welcome to the Fibonacci in Scala page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Scala
+```scala
 import javax.xml.bind.ValidationException
 
 object TestClass {

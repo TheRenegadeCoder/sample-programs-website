@@ -18,7 +18,7 @@ Welcome to the Hello World in R page! Here, you'll find the source code for this
 
 {% raw %}
 
-```R
+```r
 cat("Hello, World!")
 ```
 

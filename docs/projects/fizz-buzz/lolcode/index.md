@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Lolcode page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Lolcode
+```lolcode
 HAI 1.2
 
 IM IN YR loop UPPIN YR var TIL BOTH SAEM var AN 101

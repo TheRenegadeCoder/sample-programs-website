@@ -18,7 +18,7 @@ Welcome to the Fizz Buzz in Swift page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Swift
+```swift
 func fizzBuzz(start: Int = 1, end: Int = 100) -> Void {
     let range = start...end
     

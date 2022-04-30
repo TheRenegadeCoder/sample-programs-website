@@ -15,7 +15,7 @@ Welcome to the Hello World in Ada page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Ada
+```ada
 with Text_IO;
 procedure Hello_World is
 

@@ -15,7 +15,7 @@ Welcome to the Hello World in Ocaml page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Ocaml
+```ocaml
 print_string "Hello, World!\n";;
 ```
 

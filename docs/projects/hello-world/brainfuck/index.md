@@ -18,7 +18,7 @@ Welcome to the Hello World in Brainfuck page! Here, you'll find the source code 
 
 {% raw %}
 
-```Brainfuck
+```brainfuck
 >++++++++[<+++++++++>-]<.>++++[<+++++++>-]<+.+++++++..+++.>>++++++[<+++++++>-]<+
 +.------------.>++++++[<+++++++++>-]<+.<.+++.------.--------.>>>++++[<++++++++>-
 ]<+.

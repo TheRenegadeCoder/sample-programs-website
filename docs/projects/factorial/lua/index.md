@@ -15,7 +15,7 @@ Welcome to the Factorial in Lua page! Here, you'll find the source code for this
 
 {% raw %}
 
-```Lua
+```lua
 --
 -- Calculate the factorial
 --

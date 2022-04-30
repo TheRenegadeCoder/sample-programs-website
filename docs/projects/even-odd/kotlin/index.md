@@ -15,7 +15,7 @@ Welcome to the Even Odd in Kotlin page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Kotlin
+```kotlin
 fun main(args: Array<String>) {
     if (args.isNullOrEmpty() || args[0].toIntOrNull() == null) {
         println("Usage: please input a number")

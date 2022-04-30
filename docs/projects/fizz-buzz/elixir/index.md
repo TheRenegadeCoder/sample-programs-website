@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Elixir page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Elixir
+```elixir
 1..100
 |> Enum.map(fn
   n when rem(n, 3) == 0 and rem(n, 5) == 0 -> "FizzBuzz"

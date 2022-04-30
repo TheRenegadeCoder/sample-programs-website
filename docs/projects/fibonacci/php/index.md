@@ -15,7 +15,7 @@ Welcome to the Fibonacci in Php page! Here, you'll find the source code for this
 
 {% raw %}
 
-```Php
+```php
 <?php
 
 if ($argc < 2 || !is_numeric($argv[1]) || intval($argv[1]) < 0) {

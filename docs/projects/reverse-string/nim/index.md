@@ -15,7 +15,7 @@ Welcome to the Reverse String in Nim page! Here, you'll find the source code for
 
 {% raw %}
 
-```Nim
+```nim
 # For reversing a string passed in as a parameter
 import os
 import strutils

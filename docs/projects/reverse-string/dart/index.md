@@ -18,7 +18,7 @@ Welcome to the Reverse String in Dart page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Dart
+```dart
 // Run using : dart reverse-string.dart hello-world
 void main(List<String> args) {
     print( reverse(args[0]) );

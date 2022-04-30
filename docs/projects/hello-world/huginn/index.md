@@ -15,7 +15,7 @@ Welcome to the Hello World in Huginn page! Here, you'll find the source code for
 
 {% raw %}
 
-```Huginn
+```huginn
 main() {
 	print("Hello, World!");
 }

@@ -15,7 +15,7 @@ Welcome to the Fizz Buzz in Crystal page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Crystal
+```crystal
 i = 1
 while i < 101
   if i % 3 == 0 && i % 5 == 0

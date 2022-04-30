@@ -15,7 +15,7 @@ Welcome to the Hello World in Verilog page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Verilog
+```verilog
 module main;
   initial
     begin

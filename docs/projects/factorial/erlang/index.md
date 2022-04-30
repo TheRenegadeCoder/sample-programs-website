@@ -15,7 +15,7 @@ Welcome to the Factorial in Erlang page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Erlang
+```erlang
 -module(factorial).
 -export([start/1]).
 

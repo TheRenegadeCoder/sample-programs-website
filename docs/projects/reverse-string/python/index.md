@@ -18,7 +18,7 @@ Welcome to the Reverse String in Python page! Here, you'll find the source code 
 
 {% raw %}
 
-```Python
+```python
 import sys
 
 if len(sys.argv) > 1:

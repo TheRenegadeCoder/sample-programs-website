@@ -18,7 +18,7 @@ Welcome to the Reverse String in Java page! Here, you'll find the source code fo
 
 {% raw %}
 
-```Java
+```java
 public class ReverseString {
   public static void main(String args[]) {
     if (args.length > 0) {

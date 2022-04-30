@@ -15,7 +15,7 @@ Welcome to the Hello World in Vimscript page! Here, you'll find the source code 
 
 {% raw %}
 
-```Vimscript
+```vimscript
 func! Hello()
     call append(0, "Hello, World!")
 endfunc

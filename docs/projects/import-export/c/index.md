@@ -15,7 +15,7 @@ Welcome to the Import Export in C page! Here, you'll find the source code for th
 
 {% raw %}
 
-```C
+```c
 char str[] = "Sample Programs";
 ```
 

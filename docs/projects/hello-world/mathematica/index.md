@@ -15,7 +15,7 @@ Welcome to the Hello World in Mathematica page! Here, you'll find the source cod
 
 {% raw %}
 
-```Mathematica
+```mathematica
 Print["Hello, World!"];
 ```
 

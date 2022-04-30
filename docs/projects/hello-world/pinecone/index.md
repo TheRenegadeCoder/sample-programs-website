@@ -15,7 +15,7 @@ Welcome to the Hello World in Pinecone page! Here, you'll find the source code f
 
 {% raw %}
 
-```Pinecone
+```pinecone
 print: "Hello, World!"
 ```
 

@@ -15,7 +15,7 @@ Welcome to the Hello World in Grain page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Grain
+```grain
 print('Hello, World!')
 ```
 

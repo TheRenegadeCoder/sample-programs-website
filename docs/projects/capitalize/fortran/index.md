@@ -15,7 +15,7 @@ Welcome to the Capitalize in Fortran page! Here, you'll find the source code for
 
 {% raw %}
 
-```Fortran
+```fortran
 ! upcase and to_upper didn't work, 
 ! had to resort to check ASCII value of first letter & then
 ! subtract 32 from it, ... 

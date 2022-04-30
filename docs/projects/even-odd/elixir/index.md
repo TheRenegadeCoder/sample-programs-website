@@ -15,7 +15,7 @@ Welcome to the Even Odd in Elixir page! Here, you'll find the source code for th
 
 {% raw %}
 
-```Elixir
+```elixir
 defmodule EvenOdd do
     require Integer
 

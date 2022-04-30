@@ -15,7 +15,7 @@ Welcome to the Bubble Sort in Ruby page! Here, you'll find the source code for t
 
 {% raw %}
 
-```Ruby
+```ruby
 def bubble_sort(numbers)
   n = numbers.length
   for i in 0...n-1

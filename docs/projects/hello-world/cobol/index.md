@@ -17,7 +17,7 @@ Welcome to the Hello World in Cobol page! Here, you'll find the source code for 
 
 {% raw %}
 
-```Cobol
+```cobol
 IDENTIFICATION DIVISION.
 PROGRAM-ID. HELLO-WORLD.
 PROCEDURE DIVISION.

@@ -15,7 +15,7 @@ Welcome to the Factorial in Javascript page! Here, you'll find the source code f
 
 {% raw %}
 
-```Javascript
+```javascript
 /**
  * Calculate the factorial of a given integer input.
  * 
