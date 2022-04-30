@@ -11,7 +11,7 @@ Welcome to the Microsoft Macro Assembler page! Here, you'll find a description o
 
 ## Description
 
-No description available. Please consider contributing.
+No 'Description' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
 
 ## Articles
 

@@ -26,8 +26,8 @@ def _add_section(doc: snakemd.Document, source: str, source_instance: str, secti
     else:
         log.warning(f"Failed to find {section} in {fp}")
         doc.add_paragraph(
-            f"No {section.lower()} available. Please consider contributing."
-        )
+            f"No '{section}' section available. Please consider contributing."
+        ).insert_link("Please consider contributing", "https://github.com/TheRenegadeCoder/sample-programs-website")
 
 
 def _add_project_article_section(doc: snakemd.Document, repo: subete.Repo, project: subete.Project):

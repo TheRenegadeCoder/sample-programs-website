@@ -33,8 +33,8 @@ main = mapM (putStrLn . fizzbuzz) [1..100]
 
 ## How to Implement the Solution
 
-No how to implement the solution available. Please consider contributing.
+No 'How to Implement the Solution' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
 
 ## How to Run the Solution
 
-No how to run the solution available. Please consider contributing.
+No 'How to Run the Solution' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).

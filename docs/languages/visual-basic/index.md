@@ -11,7 +11,7 @@ Welcome to the Visual Basic page! Here, you'll find a description of the languag
 
 ## Description
 
-No description available. Please consider contributing.
+No 'Description' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
 
 ## Articles
 
