@@ -179,7 +179,7 @@ def _generate_language_index(language: subete.LanguageCollection):
         f"of the language as well as a list of sample programs "
         f"in that language."
     )
-    _add_section(doc, "languages", language, "Description")
+    _add_section(doc, "languages", language.pathlike_name(), "Description")
     _add_language_article_section(doc, repo, str(language))
     try:
         doc.output_page(f"docs/languages/{language.pathlike_name()}")
