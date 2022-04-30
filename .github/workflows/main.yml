@@ -16,8 +16,11 @@ jobs:
         with:
           python-version: '3.8'
 
-      - name: Install Image Titler
-        run: pip install image-titler
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate Webpages
+        run: py scripts/automate.py
 
       - name: Generate Images
         run: |
