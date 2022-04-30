@@ -3,7 +3,7 @@
 title: Import Export in C
 layout: default
 date: 2022-04-28
-last-modified: 2022-04-29
+last-modified: 2022-04-30
 
 ---
 
@@ -16,14 +16,7 @@ Welcome to the Import Export in C page! Here, you'll find the source code for th
 {% raw %}
 
 ```C
-#include <stdio.h>
-#include "export.c"
-
-extern char[] str;
-void main()
-{
-    printf (str);
-}
+char str[] = "Sample Programs";
 ```
 
 {% endraw %}
