@@ -62,3 +62,4 @@ Verify that the actual output matches the expected output (see [requirements][1]
 
 ## Articles
 
+No articles available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).

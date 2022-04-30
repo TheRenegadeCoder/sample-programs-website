@@ -62,3 +62,4 @@ As always, these tests will be run against any code submitted to the repo via [G
 
 ## Articles
 
+No articles available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
