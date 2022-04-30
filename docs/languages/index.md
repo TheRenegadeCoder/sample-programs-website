@@ -39,10 +39,10 @@ To help you navigate the collection, the following languages are organized alpha
 ### C
 
 - [C](https://sampleprograms.io/languages/c)
-- [C++](https://sampleprograms.io/languages/c-plus-plus)
 - [C#](https://sampleprograms.io/languages/c-sharp)
-- [C\*](https://sampleprograms.io/languages/c-star)
+- [C++](https://sampleprograms.io/languages/c-plus-plus)
 - [C2](https://sampleprograms.io/languages/c2)
+- [C\*](https://sampleprograms.io/languages/c-star)
 - [Carp](https://sampleprograms.io/languages/carp)
 - [Chaiscript](https://sampleprograms.io/languages/chaiscript)
 - [Chapel](https://sampleprograms.io/languages/chapel)
