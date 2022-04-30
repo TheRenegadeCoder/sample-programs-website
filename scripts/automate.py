@@ -90,7 +90,7 @@ def _generate_front_matter(doc: snakemd.Document, path: pathlib.Path, title: str
         doc._contents.append(
             f"title: {title}\nlayout: default\ndate: 2022-04-28\nlast-modified: {date.today().strftime('%Y-%m-%d')}"
         )
-        log.warning(f"Failed to find {path}")
+        log.warning(f"Failed to find {source_path}")
     doc.add_paragraph("---")
 
 
@@ -144,7 +144,7 @@ def _generate_project_index(project: subete.Project):
         for in the normalized form (e.g., hello-world).
     """
     doc: snakemd.Document = snakemd.new_doc("index")
-    root_path = pathlib.Path(f"sources/projects/{project.pathlike_name()}")
+    root_path = pathlib.Path(f"projects/{project.pathlike_name()}")
     _generate_front_matter(
         doc, 
         root_path / "front_matter.yaml", 
@@ -255,8 +255,7 @@ def generate_languages_index(repo: subete.Repo):
 def generate_projects_index(repo: subete.Repo):
     projects_index_path = pathlib.Path("docs/projects")
     projects_index = snakemd.new_doc("index")
-    _generate_front_matter(
-        projects_index, projects_index_path / "front_matter.yaml", "Projects")
+    _generate_front_matter(projects_index, projects_index_path / "front_matter.yaml", "Projects")
     projects_index.add_paragraph(
         "Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection."
     )
