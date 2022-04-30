@@ -270,13 +270,13 @@ def generate_projects_index(repo: subete.Repo):
     projects_index.add_paragraph(
         "To help you navigate the collection, the following projects are organized alphabetically."
     )
-    projects: List[subete.Project] = repo.approved_projects().sort(key=lambda x: x.name().casefold())
+    repo.approved_projects().sort(key=lambda x: x.name().casefold())
     projects = [
         snakemd.InlineText(
             project.name(),
             url=project.requirements_url()
         )
-        for project in projects
+        for project in repo.approved_projects()
     ]
     projects_index.add_element(snakemd.MDList(projects))
     projects_index.output_page(str(projects_index_path))
