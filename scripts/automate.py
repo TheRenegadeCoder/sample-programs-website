@@ -51,7 +51,13 @@ def _add_project_article_section(doc: snakemd.Document, repo: subete.Repo, proje
             url=program.documentation_url()
         )
         articles.append(link)
-    doc.add_element(snakemd.MDList(articles))
+    if len(articles) > 0:
+        doc.add_element(snakemd.MDList(articles))
+    else:
+        log.warning(f"Failed to find any articles for {project}")
+        doc.add_paragraph(
+            f"No articles available. Please consider contributing."
+        ).insert_link("Please consider contributing", "https://github.com/TheRenegadeCoder/sample-programs-website")
 
 
 def _add_language_article_section(doc: snakemd.Document, repo: subete.Repo, language: str):
