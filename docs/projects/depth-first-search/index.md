@@ -1,9 +1,13 @@
 ---
 
-title: Depth First Search
+title: Depth First Search in Every Language
 layout: default
-date: 2022-04-28
-last-modified: 2022-04-30
+date: 2020-10-02
+last-modified: 2020-10-02
+featured-image: 
+tags: [depth-first-search]
+authors:
+  - mowies
 
 ---
 

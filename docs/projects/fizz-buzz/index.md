@@ -1,9 +1,13 @@
 ---
 
-title: Fizz Buzz
+title: Fizz Buzz in Every Language
 layout: default
-date: 2022-04-28
-last-modified: 2022-04-30
+date: 2018-11-01
+last-modified: 2020-05-02
+featured-image: fizz-buzz.png
+tags: [fizz-buzz]
+authors:
+  - the_renegade_coder
 
 ---
 

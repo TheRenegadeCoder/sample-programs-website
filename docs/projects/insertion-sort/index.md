@@ -1,9 +1,13 @@
 ---
 
-title: Insertion Sort
+title: Insertion Sort in Every Language 
 layout: default
-date: 2022-04-28
-last-modified: 2022-04-30
+date: 2018-12-16
+last-modified: 2020-05-02
+featured-image:
+tags: [insertion-sort]
+authors:
+  - auroq
 
 ---
 

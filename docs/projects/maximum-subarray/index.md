@@ -1,9 +1,13 @@
 ---
 
-title: Maximum Subarray
+title: Maximum Subarray in Every Language
 layout: default
-date: 2022-04-28
-last-modified: 2022-04-30
+date: 2020-10-06
+last-modified: 2020-10-14
+featured-image:
+tags: [maximum-subarray]
+authors:
+  - Senpai1199
 
 ---
 

@@ -1,9 +1,14 @@
 ---
 
-title: Linear Search
+title: Linear Search in Every Language
 layout: default
-date: 2022-04-28
-last-modified: 2022-04-30
+date: 2019-10-17
+last-modified: 2020-10-15
+featured-image: linear-search-in-every-language.jpg
+tags: [linear-search]
+authors:
+  - frankhart2017
+  - the_renegade_coder
 
 ---
 
