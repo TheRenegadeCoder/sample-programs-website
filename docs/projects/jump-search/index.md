@@ -78,3 +78,4 @@ If any user input errors occur, the script should output the following usage mes
 
 ## Articles
 
+No articles available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
