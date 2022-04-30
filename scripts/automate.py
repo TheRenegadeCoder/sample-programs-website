@@ -115,7 +115,7 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         "**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated."
     )
     doc.add_paragraph("{% raw %}")
-    doc.add_code(program.code().strip(), lang=program.language_name())
+    doc.add_code(program.code().strip(), lang=program.language_name().lower())
     doc.add_paragraph("{% endraw %}")
     _add_section(
         doc, 
