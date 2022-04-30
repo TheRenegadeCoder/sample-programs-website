@@ -11,7 +11,7 @@ Welcome to the Game Of Life in Haskell page! Here, you'll find the source code f
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -208,7 +208,6 @@ main :: IO ()
 main = do
   interface <- golInterface
   runApp interface runGameIO
-
 ```
 
 {% endraw %}

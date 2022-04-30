@@ -11,7 +11,7 @@ Welcome to the Factorial in R page! Here, you'll find the source code for this p
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -42,7 +42,6 @@ if(length(args) > 0){
 }else{
     cat("Usage: please input a non-negative integer")
      }
-
 ```
 
 {% endraw %}

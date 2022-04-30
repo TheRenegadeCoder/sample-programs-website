@@ -11,7 +11,7 @@ Welcome to the Hello World in C2 page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -24,7 +24,6 @@ func i32 main(i32 argc, char** argv) {
     io.printf("Hello, World!\n");
     return 0;
 }
-
 ```
 
 {% endraw %}

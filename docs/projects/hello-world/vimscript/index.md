@@ -11,7 +11,7 @@ Welcome to the Hello World in Vimscript page! Here, you'll find the source code 
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -21,7 +21,6 @@ func! Hello()
 endfunc
 
 au BufEnter,BufReadPost * call Hello()
-
 ```
 
 {% endraw %}

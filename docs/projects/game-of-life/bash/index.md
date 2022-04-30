@@ -11,7 +11,7 @@ Welcome to the Game Of Life in Bash page! Here, you'll find the source code for 
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -269,8 +269,6 @@ for (( f=1; f < $FRAMES; f++ )); do
         break
     fi
 done
-
-
 ```
 
 {% endraw %}

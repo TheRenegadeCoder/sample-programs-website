@@ -11,7 +11,7 @@ Welcome to the Capitalize in Php page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -25,7 +25,6 @@ if (count($argv) == 2 && strlen($argv[1])) {
 } else {
     echo "Usage: please provide a string";
 }
-
 ```
 
 {% endraw %}

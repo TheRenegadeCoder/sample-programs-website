@@ -14,7 +14,7 @@ Welcome to the Hello World in Google Apps Script page! Here, you'll find the sou
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -22,7 +22,6 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 function helloWorld() {
   Logger.log("Hello, World!");
 }
-
 ```
 
 {% endraw %}

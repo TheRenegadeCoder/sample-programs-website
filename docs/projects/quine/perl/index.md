@@ -11,13 +11,12 @@ Welcome to the Quine in Perl page! Here, you'll find the source code for this pr
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
 ```Perl
 $s='$s=%c%s%c;printf($s,39,$s,39,10);%c';printf($s,39,$s,39,10);
-
 ```
 
 {% endraw %}

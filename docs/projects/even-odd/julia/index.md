@@ -11,12 +11,11 @@ Welcome to the Even Odd in Julia page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
 ```Julia
-
 #!/usr/bin/julia
 
 function err() 
@@ -37,7 +36,6 @@ try
 catch e
     err()
 end
-
 ```
 
 {% endraw %}

@@ -11,7 +11,7 @@ Welcome to the Insertion Sort in Matlab page! Here, you'll find the source code 
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -43,7 +43,6 @@ end
 input_array = [9 8 7 6 5 4];
 %input_array element can be different
 output_array = insertion_sort(input_array);
-
 ```
 
 {% endraw %}

@@ -11,7 +11,7 @@ Welcome to the Fizz Buzz in Coffeescript page! Here, you'll find the source code
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -24,7 +24,7 @@ for i in [1..100]
     else if i % 5 is 0	
       console.log "Buzz"	
     else	
-      console.log i 
+      console.log i
 ```
 
 {% endraw %}

@@ -11,7 +11,7 @@ Welcome to the File Io in Haskell page! Here, you'll find the source code for th
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -33,7 +33,6 @@ main = do
   -- Haskell reads the file lazily, so the value must be printed before the handle is closed
   putStrLn value
   hClose handle
-
 ```
 
 {% endraw %}

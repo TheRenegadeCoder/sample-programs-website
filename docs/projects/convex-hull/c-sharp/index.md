@@ -11,7 +11,7 @@ Welcome to the Convex Hull in C# page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -115,7 +115,6 @@ public class ConvexHull
 		return ((q.Y - p.Y) * (r.X - q.X) - (r.Y - q.Y) * (q.X - p.X)) > 0;
 	}
 }
-
 ```
 
 {% endraw %}

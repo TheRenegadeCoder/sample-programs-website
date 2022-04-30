@@ -11,7 +11,7 @@ Welcome to the Capitalize in Rust page! Here, you'll find the source code for th
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -34,7 +34,6 @@ fn main() {
     // {} will print string without double quotes {:?} will print string with double quotes
     println!("{}", buff_hold);
     }
-
 ```
 
 {% endraw %}

@@ -11,7 +11,7 @@ Welcome to the Duplicate Char Counter in Javascript page! Here, you'll find the 
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -33,7 +33,6 @@ for (const char_count of Object.entries(chars_counter)) {
         );
     }
 }
-
 ```
 
 {% endraw %}

@@ -14,7 +14,7 @@ Welcome to the Capitalize in Python page! Here, you'll find the source code for 
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -32,7 +32,6 @@ if __name__ == '__main__':
         print('Usage: please provide a string')
     else:
         capitalize(sys.argv[1])
-
 ```
 
 {% endraw %}

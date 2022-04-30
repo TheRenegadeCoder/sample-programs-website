@@ -11,7 +11,7 @@ Welcome to the LCS in Haskell page! Here, you'll find the source code for this p
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -57,7 +57,6 @@ main = do
     exitWith $ ExitFailure 1
   else
     putStrLn $ listToString $ reverse $ lcs l1 l2
-
 ```
 
 {% endraw %}

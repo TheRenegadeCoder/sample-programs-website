@@ -11,7 +11,7 @@ Welcome to the LCS in Go page! Here, you'll find the source code for this progra
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -87,7 +87,6 @@ func main() {
 	list2 := strToSliceInt(os.Args[2])
 	fmt.Println(sliceIntToString(reverse(lcs(list1, list2))))
 }
-
 ```
 
 {% endraw %}

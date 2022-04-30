@@ -11,7 +11,7 @@ Welcome to the Josephus Problem in Javascript page! Here, you'll find the source
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -32,7 +32,6 @@ if (!n || !k || typeof n !== "number" || typeof k !== "number") {
 }
 
 console.log(josephus(n, k));
-
 ```
 
 {% endraw %}

@@ -11,12 +11,11 @@ Welcome to the LCS in Kotlin page! Here, you'll find the source code for this pr
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
 ```Kotlin
-
 private fun lcsOf(a: MutableList<String>, b: MutableList<String>, indexA: Int, indexB: Int): MutableList<String> {
     return if (indexA < 0 || indexB < 0) {
         mutableListOf()
@@ -47,7 +46,6 @@ fun main(args: Array<String>) {
 
     lcsOf(seqA, seqB).joinToString(", ").also { println(it) }
 }
-
 ```
 
 {% endraw %}

@@ -11,7 +11,7 @@ Welcome to the Reverse String in Nim page! Here, you'll find the source code for
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -32,8 +32,6 @@ for i in countdown(len(text)-1, 0):
   reversed_text = reversed_text & text[i]
 
 echo reversed_text
-
-
 ```
 
 {% endraw %}

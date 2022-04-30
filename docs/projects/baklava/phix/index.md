@@ -11,7 +11,7 @@ Welcome to the Baklava in Phix page! Here, you'll find the source code for this 
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -19,7 +19,6 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 for i=-10 to 10 do
     printf(1,"%s%s\n",{repeat(' ',abs(i)),repeat('*',21-abs(i)*2)})
 end for
-
 ```
 
 {% endraw %}

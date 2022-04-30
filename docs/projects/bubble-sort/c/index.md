@@ -11,7 +11,7 @@ Welcome to the Bubble Sort in C page! Here, you'll find the source code for this
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -140,7 +140,6 @@ int main(int argc, char **argv)
 
     free(arr);
 }
-
 ```
 
 {% endraw %}

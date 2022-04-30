@@ -11,7 +11,7 @@ Welcome to the Factorial in Javascript page! Here, you'll find the source code f
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 

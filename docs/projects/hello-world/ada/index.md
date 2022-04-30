@@ -11,7 +11,7 @@ Welcome to the Hello World in Ada page! Here, you'll find the source code for th
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -22,7 +22,6 @@ procedure Hello_World is
 begin
   Text_IO.Put_Line("Hello, World!");
 end Hello_World;
-
 ```
 
 {% endraw %}

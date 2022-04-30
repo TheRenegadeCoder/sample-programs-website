@@ -11,7 +11,7 @@ Welcome to the Fizz Buzz in Brainfuck page! Here, you'll find the source code fo
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -24,7 +24,6 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 ++++++<<[->+>-[>+>>]>[+[-<+>]>+>>]<<<<<<]>>[-]>>>++++++++++<[->-[>+>>]>[+[-<+>]>
 +>>]<<<<<]>[-]>>[>++++++[-<++++++++>]<.<<+>+>[-]]<[<[->-<]++++++[->++++++++<]>.[
 -]]<<++++++[-<++++++++>]<.[-]<<[-<+>]<[-]<[-]]<<<<<[-]<[-]<[<+>-]<<<<.>-]
-
 ```
 
 {% endraw %}

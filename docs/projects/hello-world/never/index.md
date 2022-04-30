@@ -11,12 +11,11 @@ Welcome to the Hello World in Never page! Here, you'll find the source code for 
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
 ```Never
-
 func print_str(hw[L] -> int) -> int
 {
     func __print(hw[L] -> int, i -> int) -> int
@@ -32,8 +31,6 @@ func main() -> int
     
     print_str(hw)
 }
-
-
 ```
 
 {% endraw %}

@@ -11,7 +11,7 @@ Welcome to the Binary Search in Javascript page! Here, you'll find the source co
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -37,7 +37,6 @@ const binarySearch = (array, target, start = 0, end = array.length - 1) => {
 };
 
 console.log(array && target ? binarySearch(array.split(', '), target) : error);
-
 ```
 
 {% endraw %}

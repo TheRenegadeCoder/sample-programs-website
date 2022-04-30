@@ -11,7 +11,7 @@ Welcome to the Fibonacci in Boo page! Here, you'll find the source code for this
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -25,7 +25,6 @@ def fib():
 # Print the first 5 numbers in the series:
 for index as int, element in zip(range(5), fib()):
     print("${index+1}: ${element}")
-
 ```
 
 {% endraw %}

@@ -15,7 +15,7 @@ Welcome to the Prime Number in C page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -62,7 +62,6 @@ int main(int ac, char **av)
 	prime_number(atoi(av[1]));
 	return (0);
 }
-
 ```
 
 {% endraw %}

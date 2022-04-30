@@ -11,7 +11,7 @@ Welcome to the Insertion Sort in Haskell page! Here, you'll find the source code
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -64,8 +64,6 @@ main = do
       putStrLn "Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\""
       exitWith $ ExitFailure 1
     Just xs  -> putStrLn $ listToString $ insertion xs
-
-
 ```
 
 {% endraw %}

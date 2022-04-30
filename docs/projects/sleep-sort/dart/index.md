@@ -11,7 +11,7 @@ Welcome to the Sleep Sort in Dart page! Here, you'll find the source code for th
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -38,7 +38,6 @@ Future<List<int>> sleepsort(Iterable<int> input) async {
   await Future.wait(input.map((i) => Future.delayed(Duration(seconds: i), () => sorted.add(i))));
   return Future.value(sorted);
 }
-
 ```
 
 {% endraw %}

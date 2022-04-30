@@ -11,7 +11,7 @@ Welcome to the Bubble Sort in Lua page! Here, you'll find the source code for th
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -62,7 +62,6 @@ for k,v in pairs(nums) do
 end
 
 io.write("\n")
-
 ```
 
 {% endraw %}

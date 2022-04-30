@@ -11,12 +11,12 @@ Welcome to the Prime Number in Cobol page! Here, you'll find the source code for
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
 ```Cobol
-        IDENTIFICATION DIVISION.
+IDENTIFICATION DIVISION.
         PROGRAM-ID. HELLO-WORLD.
         DATA DIVISION.
         WORKING-STORAGE SECTION.
@@ -70,7 +70,6 @@ Note: The solution shown here is the current solution in the Sample Programs rep
           ERROR-PARA.
            DISPLAY "Usage: please input a non-negative integer".
            STOP RUN.
-
 ```
 
 {% endraw %}

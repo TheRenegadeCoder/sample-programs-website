@@ -14,7 +14,7 @@ Welcome to the File Io in Python page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -42,7 +42,6 @@ def read_file():
 if __name__ == '__main__':
     write_file()
     read_file()
-
 ```
 
 {% endraw %}

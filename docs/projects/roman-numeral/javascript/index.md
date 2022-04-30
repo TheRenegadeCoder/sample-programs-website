@@ -11,7 +11,7 @@ Welcome to the Roman Numeral in Javascript page! Here, you'll find the source co
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -91,8 +91,6 @@ if (args.length < 1) {
 } else {
   args.forEach(arg => console.log(romanNumeralConversion(arg)));
 }
-
-
 ```
 
 {% endraw %}

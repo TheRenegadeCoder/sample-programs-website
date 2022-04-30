@@ -11,7 +11,7 @@ Welcome to the Factorial in Haskell page! Here, you'll find the source code for 
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -39,7 +39,6 @@ main = do
       | n < 0       -> putStrLn "Usage: please input a non-negative integer"
       | n <= 250000 -> putStrLn $ take 10 $ show $ factorial n
       | otherwise   -> putStrLn $ "!" ++ (show n) ++ " is out of the reasonable bounds for calculation"
-
 ```
 
 {% endraw %}

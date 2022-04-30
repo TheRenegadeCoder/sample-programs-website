@@ -14,7 +14,7 @@ Welcome to the Reverse String in Lua page! Here, you'll find the source code for
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -22,7 +22,6 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 if #arg > 0 then
     print(string.reverse(arg[1]))
 end
-
 ```
 
 {% endraw %}

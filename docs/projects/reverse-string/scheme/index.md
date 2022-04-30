@@ -14,7 +14,7 @@ Welcome to the Reverse String in Scheme page! Here, you'll find the source code 
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -23,7 +23,6 @@ Note: The solution shown here is the current solution in the Sample Programs rep
   (list->string (reverse (string->list x))))
 
 (display (reverse-string (list-ref (command-line) 1)))
-
 ```
 
 {% endraw %}

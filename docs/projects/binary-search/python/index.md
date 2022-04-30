@@ -14,7 +14,7 @@ Welcome to the Binary Search in Python page! Here, you'll find the source code f
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -64,7 +64,6 @@ if __name__ == "__main__":
             print(True)
     except (IndexError, ValueError):
         exit_with_error()
-
 ```
 
 {% endraw %}

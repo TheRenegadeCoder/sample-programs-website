@@ -11,7 +11,7 @@ Welcome to the Job Sequencing in Kotlin page! Here, you'll find the source code 
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -64,7 +64,6 @@ class Job(val profit: Int, val deadline: Int)
  * Extracts an array of integers from the string
  */
 fun String.toIntArray() = split(",").mapNotNull { it.trim().toIntOrNull() }
-
 ```
 
 {% endraw %}

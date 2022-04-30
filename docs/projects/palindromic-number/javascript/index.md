@@ -11,7 +11,7 @@ Welcome to the Palindromic Number in Javascript page! Here, you'll find the sour
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -61,7 +61,6 @@ const isPalindromic = (number) => {
   } else {
     console.log("Usage: please input a number with at least two digits")
   }
-
 ```
 
 {% endraw %}

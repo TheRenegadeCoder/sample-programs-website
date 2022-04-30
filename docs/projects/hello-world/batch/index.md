@@ -11,14 +11,13 @@ Welcome to the Hello World in Batch page! Here, you'll find the source code for 
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
 ```Batch
 @echo off
 echo Hello world!
-
 ```
 
 {% endraw %}

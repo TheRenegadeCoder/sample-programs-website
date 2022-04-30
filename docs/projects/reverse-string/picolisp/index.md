@@ -11,7 +11,7 @@ Welcome to the Reverse String in Picolisp page! Here, you'll find the source cod
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -23,8 +23,7 @@ Note: The solution shown here is the current solution in the Sample Programs rep
     (prinl 
       (pack
         (reverse 
-          (chop D))))) 
-
+          (chop D)))))
 ```
 
 {% endraw %}

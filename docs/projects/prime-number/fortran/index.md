@@ -11,7 +11,7 @@ Welcome to the Prime Number in Fortran page! Here, you'll find the source code f
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -99,7 +99,6 @@ program prime_check
     write(*,'(g0.8)') "Composite"
   end if
 end program
-
 ```
 
 {% endraw %}

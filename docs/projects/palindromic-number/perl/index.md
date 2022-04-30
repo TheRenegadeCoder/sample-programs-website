@@ -11,12 +11,11 @@ Welcome to the Palindromic Number in Perl page! Here, you'll find the source cod
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
 ```Perl
-
 # accept an integer, reverse it, compare it with original
 # print true, if original and reversed number are same
 # print false, if original and reversed number are same
@@ -67,7 +66,6 @@ sub usage {
 	print "Usage: please input a number with at least two digits";
 	exit;
 }
-
 ```
 
 {% endraw %}

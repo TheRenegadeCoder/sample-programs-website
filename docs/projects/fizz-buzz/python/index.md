@@ -14,7 +14,7 @@ Welcome to the Fizz Buzz in Python page! Here, you'll find the source code for t
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -24,7 +24,6 @@ for n in range(1, 101):
         print("FizzBuzz" if n % 5 == 0 else "Fizz")
         continue
     print("Buzz" if n % 5 == 0 else n)
-
 ```
 
 {% endraw %}

@@ -11,7 +11,7 @@ Welcome to the Fizz Buzz in Objective C page! Here, you'll find the source code 
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -46,7 +46,6 @@ int main (int argc, const char *argv[]){
     [pool drain];
     return 0;
 }
-
 ```
 
 {% endraw %}

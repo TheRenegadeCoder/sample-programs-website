@@ -14,7 +14,7 @@ Welcome to the Selection Sort in Python page! Here, you'll find the source code 
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -53,7 +53,6 @@ def main(args):
 
 if __name__ == "__main__":
     main(sys.argv[1:])
-
 ```
 
 {% endraw %}

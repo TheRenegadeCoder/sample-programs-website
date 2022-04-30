@@ -11,7 +11,7 @@ Welcome to the Prime Number in Haskell page! Here, you'll find the source code f
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -45,7 +45,6 @@ main = do
     Just x
       | x < 0       -> putStrLn "Usage: please input a non-negative integer"
       | otherwise   -> putStrLn $ output $ isPrime x
-
 ```
 
 {% endraw %}

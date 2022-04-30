@@ -11,7 +11,7 @@ Welcome to the Convex Hull in Python page! Here, you'll find the source code for
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -90,7 +90,6 @@ def foo(z):
 if __name__ == '__main__':
     convex_polygon_coords = foo(Z)
     print(convex_polygon_coords)
-
 ```
 
 {% endraw %}

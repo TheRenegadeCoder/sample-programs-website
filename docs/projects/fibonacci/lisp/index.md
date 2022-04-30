@@ -11,7 +11,7 @@ Welcome to the Fibonacci in Lisp page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -38,7 +38,6 @@ Note: The solution shown here is the current solution in the Sample Programs rep
   ((null num) (write-line "Usage: please input the count of fibonacci numbers to output"))
   (t (dolist (item (countfibs (list) 1 (fibonacci num)))
     (format t "~D: ~D~%" (car item) (cadr item)))))
-
 ```
 
 {% endraw %}

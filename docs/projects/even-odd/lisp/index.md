@@ -11,7 +11,7 @@ Welcome to the Even Odd in Lisp page! Here, you'll find the source code for this
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -32,7 +32,6 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 (cond
   ((null num) (write-line "Usage: please input a number"))
   (t (write-line (even-odd num))))
-
 ```
 
 {% endraw %}

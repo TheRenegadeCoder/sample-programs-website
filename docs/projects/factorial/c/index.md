@@ -11,7 +11,7 @@ Welcome to the Factorial in C page! Here, you'll find the source code for this p
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -85,7 +85,6 @@ int uint64_overflow(long a, long b) {
 
 	return (a != 0 && x / a != b_64) ? 1 : 0;
 }
-
 ```
 
 {% endraw %}

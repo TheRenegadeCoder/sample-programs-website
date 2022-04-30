@@ -11,7 +11,7 @@ Welcome to the Palindromic Number in C++ page! Here, you'll find the source code
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -73,7 +73,6 @@ int main(int argc, char **argv){
    palindromic_number(atoi(argv[1]));
    return(0);
 }
-
 ```
 
 {% endraw %}

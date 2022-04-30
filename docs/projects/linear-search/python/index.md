@@ -13,7 +13,7 @@ Welcome to the Linear Search in Python page! Here, you'll find the source code f
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -38,7 +38,6 @@ else:
     key = int(sys.argv[2])
     array = sysarg_to_list(sys.argv[1])
     print(linear_search(array, key))
-
 ```
 
 {% endraw %}

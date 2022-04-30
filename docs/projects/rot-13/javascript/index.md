@@ -11,7 +11,7 @@ Welcome to the Rot 13 in Javascript page! Here, you'll find the source code for 
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -51,7 +51,6 @@ const main = (input) => {
 }
 
 main(process.argv[2]);
-
 ```
 
 {% endraw %}

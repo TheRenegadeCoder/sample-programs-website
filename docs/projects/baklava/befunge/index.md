@@ -11,7 +11,7 @@ Welcome to the Baklava in Befunge page! Here, you'll find the source code for th
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -22,9 +22,7 @@ Note: The solution shown here is the current solution in the Sample Programs rep
  : + -   > 1+  > 67*, v 
  1 1 1         | :-1  < 
  + \ \         > $\ v   
-^_@^_^# `0 :-1 ,*25 <   
-                        
-
+^_@^_^# `0 :-1 ,*25 <
 ```
 
 {% endraw %}

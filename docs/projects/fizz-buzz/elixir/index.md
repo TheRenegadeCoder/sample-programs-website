@@ -11,7 +11,7 @@ Welcome to the Fizz Buzz in Elixir page! Here, you'll find the source code for t
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -24,7 +24,6 @@ Note: The solution shown here is the current solution in the Sample Programs rep
   n -> Integer.to_string(n)
 end)
 |> Enum.each(&IO.puts/1)
-
 ```
 
 {% endraw %}

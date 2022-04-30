@@ -15,7 +15,7 @@ Welcome to the Import Export in Javascript page! Here, you'll find the source co
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -23,7 +23,6 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 var myImport = require("./export");
 
 console.log(myImport.myGreeting);
-
 ```
 
 {% endraw %}

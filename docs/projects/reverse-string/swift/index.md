@@ -14,7 +14,7 @@ Welcome to the Reverse String in Swift page! Here, you'll find the source code f
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -30,7 +30,6 @@ let reversedCollection = usersString.reversed()
 let reversedString = String(reversedCollection)
 
 print(reversedString)
-
 ```
 
 {% endraw %}

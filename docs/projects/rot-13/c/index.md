@@ -11,7 +11,7 @@ Welcome to the Rot 13 in C page! Here, you'll find the source code for this prog
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -41,7 +41,6 @@ int main(int argc, char *argv[]) {
     
     return 0;
 }
-
 ```
 
 {% endraw %}

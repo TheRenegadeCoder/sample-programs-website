@@ -11,7 +11,7 @@ Welcome to the Baklava in F# page! Here, you'll find the source code for this pr
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -32,8 +32,6 @@ let baklava =
 let main argv =
     printfn "%s" <| baklava.TrimEnd()
     0
-
-
 ```
 
 {% endraw %}

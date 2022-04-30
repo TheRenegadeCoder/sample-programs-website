@@ -11,7 +11,7 @@ Welcome to the File Io in Dg page! Here, you'll find the source code for this pr
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -37,7 +37,6 @@ read_file = filename ->
 filename = "output.txt"
 write_file filename "Example text"
 read_file filename
-
 ```
 
 {% endraw %}

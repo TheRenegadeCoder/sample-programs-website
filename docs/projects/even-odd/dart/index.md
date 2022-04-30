@@ -11,7 +11,7 @@ Welcome to the Even Odd in Dart page! Here, you'll find the source code for this
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -24,9 +24,6 @@ void main(List<String> args) {
     print("Usage: please input a number");
   }
 }
-
-
-
 ```
 
 {% endraw %}

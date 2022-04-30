@@ -11,7 +11,7 @@ Welcome to the Rot 13 in Php page! Here, you'll find the source code for this pr
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -29,7 +29,6 @@ function rot13(string $string) {
 }
 
 echo rot13($argv[1]) . "\n";
-
 ```
 
 {% endraw %}

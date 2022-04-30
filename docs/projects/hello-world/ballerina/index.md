@@ -11,7 +11,7 @@ Welcome to the Hello World in Ballerina page! Here, you'll find the source code 
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -20,7 +20,6 @@ import ballerina/io;
 function main(string... args) {
     io:println("Hello, World!");
 }
-
 ```
 
 {% endraw %}

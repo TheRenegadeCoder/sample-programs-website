@@ -11,13 +11,12 @@ Welcome to the Quine in Coffeescript page! Here, you'll find the source code for
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
 ```Coffeescript
 a="a=%j; console.log a,a"; console.log a,a
-
 ```
 
 {% endraw %}

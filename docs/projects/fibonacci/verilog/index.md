@@ -11,7 +11,7 @@ Welcome to the Fibonacci in Verilog page! Here, you'll find the source code for 
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -38,8 +38,6 @@ initial #50 //Prints 25 fibonacci numbers as values change at POSEDGE of clock
     $finish;
 
 endmodule
-
-
 ```
 
 {% endraw %}

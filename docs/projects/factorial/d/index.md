@@ -11,13 +11,11 @@ Welcome to the Factorial in D page! Here, you'll find the source code for this p
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
 ```D
-
-
 // Factorial program in D
 
 
@@ -39,7 +37,6 @@ int main(string[] args)
   writeln(result);
   return 0;
 }
-
 ```
 
 {% endraw %}

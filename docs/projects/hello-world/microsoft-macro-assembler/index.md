@@ -11,7 +11,7 @@ Welcome to the Hello World in Microsoft Macro Assembler page! Here, you'll find 
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -45,7 +45,6 @@ STR: DB 'Hello world!',0DH,0AH,'$'
 
 XSEG ENDS
  END
-
 ```
 
 {% endraw %}

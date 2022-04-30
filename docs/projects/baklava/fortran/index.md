@@ -11,7 +11,7 @@ Welcome to the Baklava in Fortran page! Here, you'll find the source code for th
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -24,7 +24,6 @@ program Baklava
         print '(10a)', repeat (" ", (10 - i)), repeat ("*", (i * 2 + 1))
     end do
 end program Baklava
-
 ```
 
 {% endraw %}

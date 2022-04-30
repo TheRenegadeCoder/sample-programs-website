@@ -14,7 +14,7 @@ Welcome to the Reverse String in Javascript page! Here, you'll find the source c
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -22,7 +22,6 @@ Note: The solution shown here is the current solution in the Sample Programs rep
 const reverse = s => s.split('').reverse().join('');
 
 console.log(reverse(process.argv[2]));
-
 ```
 
 {% endraw %}

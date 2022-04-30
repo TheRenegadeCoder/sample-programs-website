@@ -11,13 +11,12 @@ Welcome to the Quine in Php page! Here, you'll find the source code for this pro
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
 ```Php
 <?php $s='<?php $s=%c%s%c; printf($s,39,$s,39,10); ?>%c'; printf($s,39,$s,39,10); ?>
-
 ```
 
 {% endraw %}

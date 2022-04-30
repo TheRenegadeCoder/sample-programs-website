@@ -11,7 +11,7 @@ Welcome to the Fizz Buzz in Erlang page! Here, you'll find the source code for t
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -29,7 +29,6 @@ fizz_buzz(N, Max) when N rem 15 == 0 -> io:format("FizzBuzz~n", []), fizz_buzz(N
 fizz_buzz(N, Max) when N rem 5 == 0 -> io:format("Buzz~n", []), fizz_buzz(N+1, Max);
 fizz_buzz(N, Max) when N rem 3 == 0 -> io:format("Fizz~n", []), fizz_buzz(N+1, Max);
 fizz_buzz(N, Max) -> io:format("~p~n", [N]), fizz_buzz(N+1, Max).
-
 ```
 
 {% endraw %}

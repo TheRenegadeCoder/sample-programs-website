@@ -11,7 +11,7 @@ Welcome to the Capitalize in Lua page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -28,7 +28,6 @@ else
     s, _ = s:gsub("^%l", string.upper)
     print(s)  
 end
-
 ```
 
 {% endraw %}

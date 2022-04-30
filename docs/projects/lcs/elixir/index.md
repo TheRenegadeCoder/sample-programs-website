@@ -11,7 +11,7 @@ Welcome to the LCS in Elixir page! Here, you'll find the source code for this pr
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -67,7 +67,6 @@ defmodule LongestCommonSubsequence do
 end
 
 LongestCommonSubsequence.main()
-
 ```
 
 {% endraw %}

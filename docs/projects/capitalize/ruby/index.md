@@ -11,7 +11,7 @@ Welcome to the Capitalize in Ruby page! Here, you'll find the source code for th
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -27,7 +27,6 @@ if ARGV.length == 0 || ARGV[0] == ''
 else
     puts capitalize_str(ARGV[0])
 end
-
 ```
 
 {% endraw %}

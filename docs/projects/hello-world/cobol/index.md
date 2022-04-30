@@ -13,7 +13,7 @@ Welcome to the Hello World in Cobol page! Here, you'll find the source code for 
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -23,7 +23,6 @@ PROGRAM-ID. HELLO-WORLD.
 PROCEDURE DIVISION.
     DISPLAY "Hello, World!"
 STOP RUN.
-
 ```
 
 {% endraw %}

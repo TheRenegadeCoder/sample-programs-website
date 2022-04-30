@@ -11,12 +11,11 @@ Welcome to the File Io in R page! Here, you'll find the source code for this pro
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
 ```R
-
 file_create_result = tryCatch({
 #Open and write 2 lines to the file.
   fileConn<-file("output.txt")
@@ -41,7 +40,6 @@ if(file.exists("output.txt")){
 } else{
   cat("File doesn't exist")
 }
-
 ```
 
 {% endraw %}

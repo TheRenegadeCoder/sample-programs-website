@@ -11,7 +11,7 @@ Welcome to the Bubble Sort in Visual Basic page! Here, you'll find the source co
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -41,7 +41,6 @@ Public Module BubbleSort
         Return sortArray
     End Function
 End Module
-
 ```
 
 {% endraw %}

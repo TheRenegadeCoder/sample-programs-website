@@ -11,7 +11,7 @@ Welcome to the Even Odd in R page! Here, you'll find the source code for this pr
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -29,7 +29,6 @@ if (length(args) < 1 || !suppressWarnings(!is.na(as.numeric(number)))) {
     cat("Odd")
   }
 }
-
 ```
 
 {% endraw %}

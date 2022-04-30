@@ -11,7 +11,7 @@ Welcome to the Insertion Sort in Go page! Here, you'll find the source code for 
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -78,7 +78,6 @@ func main() {
 	nums = insertionSort(nums)
 	fmt.Println(sliceIntToString(nums))
 }
-
 ```
 
 {% endraw %}

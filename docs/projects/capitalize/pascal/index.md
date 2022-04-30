@@ -11,7 +11,7 @@ Welcome to the Capitalize in Pascal page! Here, you'll find the source code for 
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -30,7 +30,6 @@ begin
     buf[1] := UpCase(buf[1]);
     writeln(buf);
 end.
-
 ```
 
 {% endraw %}

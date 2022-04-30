@@ -11,7 +11,7 @@ Welcome to the Convex Hull in C page! Here, you'll find the source code for this
 
 ## Current Solution
 
-Note: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
+**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
 
 {% raw %}
 
@@ -135,7 +135,6 @@ void usageandexit (char *name, int code)
 	printf("Usage: %s x1 x2 x3 ... xN y1 y2 y3 ... yN\n", name);
 	exit(code);
 }
-
 ```
 
 {% endraw %}
