@@ -7,7 +7,7 @@ More specifically, begin with creating object instance of fraction class with tw
 numerator and denomenator.Using operator overloading feature of langauge implement basic arithmatic
 and relational operaions.
 
-For instance `./fractions "6/2" "+" "1/4"` would output `13/4`
+For instance `./fraction-math "6/2" "+" "1/4"` would output `13/4`
 
 In addition, there should be some error handling for situations where the user
 doesn't supply any input.
