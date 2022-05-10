@@ -167,8 +167,8 @@ def _generate_project_index(project: subete.Project):
     _add_section(doc, "projects", project.pathlike_name(), "Testing")
     if not project.has_testing():
         doc.add_element(snakemd.Paragraph([
-            snakemd.InlineText("Note: ", bold=True),
-            f"{project.name()} is not currently tested by Glotter. Consider contributing!"
+            snakemd.InlineText("Note:", bold=True),
+            f" {project.name()} is not currently tested by Glotter. Consider contributing!"
         ]))
     _add_project_article_section(doc, repo, project)
     doc.output_page(f"docs/projects/{project.pathlike_name()}")
