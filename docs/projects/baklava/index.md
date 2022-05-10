@@ -55,7 +55,7 @@ The following is the expected output
 
 ## Testing
 
-Verify that the actual output matches the expected output (see [requirements][1])
+Verify that the actual output matches the expected output (see [requirements](#requirements))
 
 
 ## Articles
