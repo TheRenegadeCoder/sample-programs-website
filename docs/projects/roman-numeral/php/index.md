@@ -3,7 +3,7 @@
 title: Roman Numeral in Php
 layout: default
 date: 2022-04-28
-last-modified: 2022-04-30
+last-modified: 2022-05-10
 
 ---
 
@@ -24,10 +24,11 @@ Welcome to the Roman Numeral in Php page! Here, you'll find the source code for 
  * @return int The decimal value.
  * @throws Exception on invalid roman string.
  */
-function roman_to_decimal($romans) {
+function roman_to_decimal($romans)
+{
     // conversion table
     $roman_values = array("I" => 1, "V" => 5, "X" => 10,
-            "L" => 50, "C" => 100, "D" => 500, "M" => 1000);
+        "L" => 50, "C" => 100, "D" => 500, "M" => 1000);
 
     $total = 0;
     $previous = 0;
@@ -72,7 +73,7 @@ assert(roman_to_decimal("M") === 1000);
 try {
     roman_to_decimal("XT");
     assert(false, "Expecting parsing error");
-} catch (Exception $e) { /* OK */ }
+} catch (Exception $e) { /* OK */}
 
 // Complex values
 assert(roman_to_decimal("XIV") === 14);
@@ -89,7 +90,6 @@ assert(roman_to_decimal("MMXIX") === 2019);
 assert(roman_to_decimal("MMMDCCCLXXXVIII") === 3888);
 assert(roman_to_decimal("MMMCMXCV") === 3995);
 
-
 try {
 
     // Check argument count
@@ -104,10 +104,8 @@ try {
 
 } catch (Exception $e) {
     echo "Error: ", $e->getMessage(), "\n";
-    exit (1);
+    exit(1);
 }
-
-?>
 ```
 
 {% endraw %}

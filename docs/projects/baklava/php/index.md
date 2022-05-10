@@ -3,7 +3,7 @@
 title: Baklava in Php
 layout: default
 date: 2022-04-28
-last-modified: 2022-04-30
+last-modified: 2022-05-10
 
 ---
 
@@ -18,13 +18,13 @@ Welcome to the Baklava in Php page! Here, you'll find the source code for this p
 ```php
 <?php
 
-    for ($i=0; $i < 10; $i++)
-        echo str_repeat (' ', 10 - $i).str_repeat ('*', $i * 2 + 1) . "\n";
-    
-    for ($i=10; -1 < $i; $i--)
-        echo str_repeat (' ', 10 - $i).str_repeat ('*', $i * 2 + 1) . "\n";
+for ($i = 0; $i < 10; $i++) {
+    echo str_repeat(' ', 10 - $i) . str_repeat('*', $i * 2 + 1) . "\n";
+}
 
-?>
+for ($i = 10;-1 < $i; $i--) {
+    echo str_repeat(' ', 10 - $i) . str_repeat('*', $i * 2 + 1) . "\n";
+}
 ```
 
 {% endraw %}

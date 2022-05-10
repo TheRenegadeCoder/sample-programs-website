@@ -3,7 +3,7 @@
 title: Fizz Buzz in Php
 layout: default
 date: 2022-04-28
-last-modified: 2022-04-30
+last-modified: 2022-05-10
 
 ---
 
@@ -18,26 +18,22 @@ Welcome to the Fizz Buzz in Php page! Here, you'll find the source code for this
 ```php
 <?php
 
-for ($i = 1; $i < 101; $i++)
-{
-  $output = "";
+for ($i = 1; $i < 101; $i++) {
+    $output = "";
 
-  if ($i % 3 == 0)
-  {
-    $output .= "Fizz";
-  }
+    if ($i % 3 == 0) {
+        $output .= "Fizz";
+    }
 
-  if ($i % 5 == 0)
-  {
-    $output .= "Buzz";
-  }
+    if ($i % 5 == 0) {
+        $output .= "Buzz";
+    }
 
-  if (!$output)
-  {
-    $output = $i;
-  }
+    if (!$output) {
+        $output = $i;
+    }
 
-  echo $output . "\n";
+    echo $output . "\n";
 }
 ```
 

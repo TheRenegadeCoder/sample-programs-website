@@ -50,6 +50,8 @@ your solution:
 As always, these tests will be run against any code submitted to the repo via [Glotter][glotter-github].
 
 
+**Note: **Import Export is not currently tested by Glotter. Consider contributing!
+
 ## Articles
 
 - [Import Export in C](https://sampleprograms.io/projects/import-export/c)

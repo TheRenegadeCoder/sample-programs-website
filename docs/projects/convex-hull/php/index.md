@@ -3,7 +3,7 @@
 title: Convex Hull in Php
 layout: default
 date: 2022-04-28
-last-modified: 2022-04-30
+last-modified: 2022-05-10
 
 ---
 
@@ -19,17 +19,20 @@ Welcome to the Convex Hull in Php page! Here, you'll find the source code for th
 <?php
 
 /** Our error class. */
-class ConvexHullException extends Exception {}
+class ConvexHullException extends Exception
+{}
 
 /** Point class. */
-class Point {
+class Point
+{
     private $x, $y;
 
     /** Constructor.
      * @param x X coordinate
      * @param y Y coordinate
      */
-    public function __construct($x, $y) {
+    public function __construct($x, $y)
+    {
         $this->x = $x;
         $this->y = $y;
     }
@@ -39,7 +42,8 @@ class Point {
      * @param p Other point.
      * @return true if this point is left of $p, false otherwise.
      */
-    public function isLeftOf($p) {
+    public function isLeftOf($p)
+    {
         return $this->x < $p->x;
     }
 
@@ -49,16 +53,18 @@ class Point {
      * @param p3 Third point.
      * @return true if counterclockwise, false otherwise.
      */
-    public function isCounterclockwise($p2, $p3) {
+    public function isCounterclockwise($p2, $p3)
+    {
         return ($p2->y - $this->y) * ($p3->x - $p2->x) -
-               ($p2->x - $this->x) * ($p3->y - $p2->y) < 0;
+        ($p2->x - $this->x) * ($p3->y - $p2->y) < 0;
     }
 
     /**
      * To String.
      * @return a string representation of the point.
      */
-    public function __toString() {
+    public function __toString()
+    {
         return "($this->x, $this->y)";
     }
 }
@@ -68,7 +74,8 @@ class Point {
  * @param points array of points to use
  * @return array of points that define the hull.
  */
-function getConvexHull($points) {
+function getConvexHull($points)
+{
     // find left-most point index
     $leftIndex = 0;
     $pointCount = count($points);
@@ -105,7 +112,7 @@ function getConvexHull($points) {
         // next becomes current
         $currentIndex = $nextIndex;
 
-    // stop if we're back at the beginning
+        // stop if we're back at the beginning
     } while ($currentIndex != $leftIndex);
 
     return $hullPoints;
@@ -117,7 +124,8 @@ function getConvexHull($points) {
  * @param list the comma separated string
  * @return array of values.
  */
-function commaSeparatedToArray($list) {
+function commaSeparatedToArray($list)
+{
     // \s*  zero or more white spaces
     // ,+   one or more commas
     // \s*  zero or more white spaces
@@ -130,7 +138,8 @@ function commaSeparatedToArray($list) {
  * @return integer
  * @throws ConvexHullException on invalid integers.
  */
-function parseInt($str) {
+function parseInt($str)
+{
     // ^      from start of string
     // [+-]?  optional + or - sign
     // \d+    one or more digits
@@ -148,7 +157,8 @@ function parseInt($str) {
  * @return array of Point objects.
  * @throws ConvexHullException on list mismatch or invalid integers.
  */
-function parsePoints($xs, $ys) {
+function parsePoints($xs, $ys)
+{
     $xs = commaSeparatedToArray($xs);
     $ys = commaSeparatedToArray($ys);
 
@@ -169,7 +179,8 @@ function parsePoints($xs, $ys) {
  * @param exitCode exit code
  * @param errorMessage error message
  */
-function usage($exitCode=0, $errorMessage=FALSE) {
+function usage($exitCode = 0, $errorMessage = false)
+{
     echo "Usage: input points in the form of: \"x1, x2, x3, ...\" \"y1, y2, y3, ...\"\n";
     if ($errorMessage) {
         echo "\nError: ", $errorMessage, "\n";
@@ -197,8 +208,6 @@ try {
 } catch (ConvexHullException $e) {
     usage(1, $e->getMessage());
 }
-
-?>
 ```
 
 {% endraw %}

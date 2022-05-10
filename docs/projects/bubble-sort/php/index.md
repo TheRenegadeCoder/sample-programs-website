@@ -3,7 +3,7 @@
 title: Bubble Sort in Php
 layout: default
 date: 2022-04-28
-last-modified: 2022-04-30
+last-modified: 2022-05-10
 
 ---
 
@@ -18,31 +18,28 @@ Welcome to the Bubble Sort in Php page! Here, you'll find the source code for th
 ```php
 <?php
 
-$numbers = array_map('intval', explode(',', $argv[1]));
-$array_size = count($numbers);
-
-if ($array_size <= 1)
-{
+if (empty($argv[1])) {
     exit('Usage: please provide a list of at least two integers to sort in the format "1, 2, 3, 4, 5"');
 }
 
+$numbers = array_map('intval', explode(',', $argv[1]));
+$array_size = count($numbers);
 
-for ( $i = 0; $i < $array_size; $i++ )
-{
-   for ($j = 0; $j < $array_size; $j++ )
-   {
-      if ($numbers[$i] < $numbers[$j])
-      {
-         $temp = $numbers[$i];
-         $numbers[$i] = $numbers[$j];
-         $numbers[$j] = $temp;
-      }
-   }
+if ($array_size <= 1) {
+    exit('Usage: please provide a list of at least two integers to sort in the format "1, 2, 3, 4, 5"');
+}
+
+for ($i = 0; $i < $array_size; $i++) {
+    for ($j = 0; $j < $array_size; $j++) {
+        if ($numbers[$i] < $numbers[$j]) {
+            $temp = $numbers[$i];
+            $numbers[$i] = $numbers[$j];
+            $numbers[$j] = $temp;
+        }
+    }
 }
 
 echo implode(', ', $numbers);
-
-?>
 ```
 
 {% endraw %}

@@ -3,7 +3,7 @@
 title: Reverse String in Php
 layout: default
 date: 2022-04-28
-last-modified: 2022-04-30
+last-modified: 2022-05-10
 
 ---
 
@@ -17,10 +17,8 @@ Welcome to the Reverse String in Php page! Here, you'll find the source code for
 
 ```php
 <?php
-  $input = $argv[1];
-  echo strrev($input);
-
-?>
+$input = $argv[1];
+echo strrev($input);
 ```
 
 {% endraw %}

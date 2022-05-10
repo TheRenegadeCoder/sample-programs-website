@@ -85,6 +85,8 @@ The Output will be the Cost of the Shortest Path from Source to Destination.
 | Proper Input               | "0, 2, 0, 6, 0, 2, 0, 3, 8, 5, 0, 3, 0, 0, 7, 6, 8, 0, 0, 9, 0, 5, 7, 9, 0" | "0" | "1" | 2 |
 
 
+**Note: **Dijkstra is not currently tested by Glotter. Consider contributing!
+
 ## Articles
 
 - [Dijkstra in C++](https://sampleprograms.io/projects/dijkstra/c-plus-plus)

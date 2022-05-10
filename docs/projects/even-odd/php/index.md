@@ -3,7 +3,7 @@
 title: Even Odd in Php
 layout: default
 date: 2022-04-28
-last-modified: 2022-04-30
+last-modified: 2022-05-10
 
 ---
 
@@ -24,9 +24,9 @@ if ($argc < 2 || !is_numeric($argv[1])) {
 
 $input = abs($argv[1]);
 
-if($input % 2 == 0 ){
+if ($input % 2 == 0) {
     echo "Even\n";
-} elseif($input % 2 == 1){
+} elseif ($input % 2 == 1) {
     echo "Odd\n";
 }
 ```

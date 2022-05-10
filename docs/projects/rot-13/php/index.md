@@ -3,7 +3,7 @@
 title: Rot 13 in Php
 layout: default
 date: 2022-04-28
-last-modified: 2022-04-30
+last-modified: 2022-05-10
 
 ---
 
@@ -22,7 +22,8 @@ if (empty($argv[1]) || $argv[1] == "" || count($argv) == 0) {
     die("Usage: please provide a string to encrypt\n");
 }
 
-function rot13(string $string) {
+function rot13(string $string)
+{
     return strtr($string,
         'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz',
         'NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm');

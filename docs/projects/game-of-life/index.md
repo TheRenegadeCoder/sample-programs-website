@@ -58,6 +58,8 @@ Verify that the actual output matches the expected output. See the
 [requirements][3] section for an example of the expected output.
 
 
+**Note: **Game Of Life is not currently tested by Glotter. Consider contributing!
+
 ## Articles
 
 - [Game Of Life in Bash](https://sampleprograms.io/projects/game-of-life/bash)

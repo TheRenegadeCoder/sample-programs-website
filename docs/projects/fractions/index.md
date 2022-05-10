@@ -58,6 +58,8 @@ Some tests for your program are:
 | Sample Input: | 2/3 != 4/5 | 1 |
 
 
+**Note: **Fractions is not currently tested by Glotter. Consider contributing!
+
 ## Articles
 
 - [Fractions in C++](https://sampleprograms.io/projects/fractions/c-plus-plus)

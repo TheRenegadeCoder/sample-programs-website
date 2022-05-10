@@ -3,7 +3,7 @@
 title: File Io in Php
 layout: default
 date: 2022-04-28
-last-modified: 2022-04-30
+last-modified: 2022-05-10
 
 ---
 
@@ -18,16 +18,12 @@ Welcome to the File Io in Php page! Here, you'll find the source code for this p
 ```php
 <?php
 
-/**
- * Write test strings to the specified file.
- * @param string $file_name File name to use.
- * @return boolean TRUE on success, FALSE otherwise.
- */
-function write_file($file_name) {
+function write_file($file_name)
+{
     $file = @fopen($file_name, "w");
-    if ($file === FALSE) {
+    if ($file === false) {
         echo "Cannot open file \"", $file_name, "\" for writing.\n";
-        return FALSE;
+        return false;
     }
 
     fwrite($file, "Hello World.\n");
@@ -37,16 +33,13 @@ function write_file($file_name) {
 
     fflush($file);
     fclose($file);
-    return TRUE;
+    return true;
 }
 
-/**
- * Read file content line by line and output to console.
- * @param string $file_name File to read.
- */
-function read_file($file_name) {
+function read_file($file_name)
+{
     $file = @fopen($file_name, "r");
-    if ($file === FALSE) {
+    if ($file === false) {
         echo "Cannot open file \"", $file_name, "\" for reading.\n";
         return;
     }
@@ -58,13 +51,10 @@ function read_file($file_name) {
     fclose($file);
 }
 
-// Write, read, delete file
 $file_name = "output.txt";
 if (write_file($file_name)) {
     read_file($file_name);
 }
-
-?>
 ```
 
 {% endraw %}
