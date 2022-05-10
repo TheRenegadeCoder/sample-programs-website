@@ -8,5 +8,3 @@ In such cases, the algorithm can be limited in different ways, for example by li
 The algorithm traverses the graph one node after the other, but takes priority in going deeper into 
 the graph opposed to going broader first. This means, that it visits further children of children before visiting
 potential siblings of them.
-
-![Visualization of depth first search][1]

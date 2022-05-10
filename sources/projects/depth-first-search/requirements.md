@@ -28,6 +28,7 @@ could look something like the following:
 | 5       | 0   | 0   | 0   | 1   | 0   | 0   | 0   | 0   | 0   |
 
 This matrix will result in a tree that looks like this:
+
 ```console
             2
          /  |   \
