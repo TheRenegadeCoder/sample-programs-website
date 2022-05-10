@@ -52,8 +52,6 @@ correctness of your solution:
 | Sample Input: Large Prime | 3727 | Prime |
 
 
-**Note:** Prime Number is not currently tested by Glotter. Consider contributing!
-
 ## Articles
 
 - [Prime Number in Bash](https://sampleprograms.io/projects/prime-number/bash)
