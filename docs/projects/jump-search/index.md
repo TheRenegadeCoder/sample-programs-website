@@ -76,7 +76,7 @@ If any user input errors occur, the script should output the following usage mes
 \*The error string to print: `Usage: please provide a list of  integers ("1, 4, 5, 11, 12") and the integer to find ("11")`
 
 
-**Note: **Jump Search is not currently tested by Glotter. Consider contributing!
+**Note:** Jump Search is not currently tested by Glotter. Consider contributing!
 
 ## Articles
 

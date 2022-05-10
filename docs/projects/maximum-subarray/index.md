@@ -55,7 +55,7 @@ Some tests for your program are:
 | Sample Input: Array with both positive and negative integers | '-1, -4, 2, 9, -3, -4, 9' | 13                                                                                           |
 
 
-**Note: **Maximum Subarray is not currently tested by Glotter. Consider contributing!
+**Note:** Maximum Subarray is not currently tested by Glotter. Consider contributing!
 
 ## Articles
 

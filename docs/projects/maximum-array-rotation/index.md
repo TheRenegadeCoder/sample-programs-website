@@ -64,7 +64,7 @@ Maximum Array Rotation. See the following testing section for more specific requ
 | Sample Input: Many Rotations | "8, 3, 1, 2"              | 29                                                             |
 
 
-**Note: **Maximum Array Rotation is not currently tested by Glotter. Consider contributing!
+**Note:** Maximum Array Rotation is not currently tested by Glotter. Consider contributing!
 
 ## Articles
 

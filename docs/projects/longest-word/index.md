@@ -70,7 +70,7 @@ correctness of your solution:
 As always, these tests will be run against any code submitted to the repo via [Glotter][glotter-github].
 
 
-**Note: **Longest Word is not currently tested by Glotter. Consider contributing!
+**Note:** Longest Word is not currently tested by Glotter. Consider contributing!
 
 ## Articles
 

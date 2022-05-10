@@ -32,7 +32,7 @@ The code should return the count of all duplicate, case-insensitive, alphanumeri
 | Case Distinct  | "aAbB"          | No duplicate characters                                                                                       |
 
 
-**Note: **Duplicate Char Counter is not currently tested by Glotter. Consider contributing!
+**Note:** Duplicate Char Counter is not currently tested by Glotter. Consider contributing!
 
 ## Articles
 

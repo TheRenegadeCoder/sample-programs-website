@@ -93,7 +93,7 @@ and the integer to find ("11")`.
 \*The error string to print: `Usage: please provide a tree in an adjacency matrix form ("0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0") together with a list of vertex values ("1, 3, 5, 2, 4") and the integer to find ("4")`
 
 
-**Note: **Depth First Search is not currently tested by Glotter. Consider contributing!
+**Note:** Depth First Search is not currently tested by Glotter. Consider contributing!
 
 ## Articles
 
