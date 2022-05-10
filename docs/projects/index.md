@@ -26,7 +26,7 @@ To help you navigate the collection, the following projects are organized alphab
 - [Fibonacci](https://sampleprograms.io/projects/fibonacci)
 - [File Io](https://sampleprograms.io/projects/file-io)
 - [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz)
-- [Fractions](https://sampleprograms.io/projects/fractions)
+- [Fraction Math](https://sampleprograms.io/projects/fraction-math)
 - [Game Of Life](https://sampleprograms.io/projects/game-of-life)
 - [Hello World](https://sampleprograms.io/projects/hello-world)
 - [Import Export](https://sampleprograms.io/projects/import-export)

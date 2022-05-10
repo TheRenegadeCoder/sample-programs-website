@@ -25,7 +25,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Fibonacci in C++](https://sampleprograms.io/projects/fibonacci/c-plus-plus)
 - [File Io in C++](https://sampleprograms.io/projects/file-io/c-plus-plus)
 - [Fizz Buzz in C++](https://sampleprograms.io/projects/fizz-buzz/c-plus-plus)
-- [Fractions in C++](https://sampleprograms.io/projects/fractions/c-plus-plus)
+- [Fraction Math in C++](https://sampleprograms.io/projects/fraction-math/c-plus-plus)
 - [Game Of Life in C++](https://sampleprograms.io/projects/game-of-life/c-plus-plus)
 - [Hello World in C++](https://sampleprograms.io/projects/hello-world/c-plus-plus)
 - [Import Export in C++](https://sampleprograms.io/projects/import-export/c-plus-plus)

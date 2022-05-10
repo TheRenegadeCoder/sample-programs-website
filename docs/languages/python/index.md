@@ -37,7 +37,7 @@ But, Python 2 is slowly losing support.
 - [Fibonacci in Python](https://sampleprograms.io/projects/fibonacci/python)
 - [File Io in Python](https://sampleprograms.io/projects/file-io/python)
 - [Fizz Buzz in Python](https://sampleprograms.io/projects/fizz-buzz/python)
-- [Fractions in Python](https://sampleprograms.io/projects/fractions/python)
+- [Fraction Math in Python](https://sampleprograms.io/projects/fraction-math/python)
 - [Game Of Life in Python](https://sampleprograms.io/projects/game-of-life/python)
 - [Hello World in Python](https://sampleprograms.io/projects/hello-world/python)
 - [Insertion Sort in Python](https://sampleprograms.io/projects/insertion-sort/python)
