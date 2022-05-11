@@ -118,12 +118,18 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         f"as well as a description of how the program works."
     )
     doc.add_header("Current Solution", level=2)
-    doc.add_paragraph(
-        "**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated."
-    )
     doc.add_paragraph("{% raw %}")
     doc.add_code(program.code().strip(), lang=program.language_name().lower())
     doc.add_paragraph("{% endraw %}")
+    doc.add_paragraph(f"{program} was written by:")
+    doc.add_element(snakemd.MDList(program.authors()))
+    if program.modified() != program.created():
+        doc.add_paragraph(
+            "**Note**: The solution shown above is the current solution in the Sample "
+            f"Programs repository as of {program.modified().strftime('%b %d %Y %H:%M:%S')}. "
+            f"The solution was first committed on {program.created().strftime('%b %d %Y %H:%M:%S')}. "
+            "As a result, documentation below may be outdated."
+        )
     _add_section(
         doc, 
         str(root_path / ".."),
@@ -248,7 +254,9 @@ def generate_languages_index(repo: subete.Repo):
     _generate_front_matter(language_index, language_index_path /
                            "front_matter.yaml", "Programming Languages")
     language_index.add_paragraph(
-        "Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection."
+        "Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. "
+        f"At this time, there are {len(list(repo))} languages, of which {repo.total_tests()} are tested, "
+        f"and {repo.total_programs()} code snippets."
     )
     language_index.add_header("Language Collections by Letter", level=2)
     language_index.add_paragraph(
@@ -257,6 +265,13 @@ def generate_languages_index(repo: subete.Repo):
     for letter in repo.sorted_language_letters():
         language_index.add_header(letter.upper(), level=3)
         languages: list[subete.LanguageCollection] = repo.languages_by_letter(letter)
+        snippets = sum(language.total_programs() for language in languages)
+        tests = sum(1 if language.has_testinfo() else 0 for language in languages)
+        verb = "are" if tests == 1 else "is"
+        language_index.add_paragraph(
+            f"The '{letter.upper()}' collection contains {len(languages)} languages, " 
+            f"of which {tests} {verb} tested, and {snippets} code snippets."
+        )
         languages.sort(key=lambda x: x.name().casefold())
         languages = [
             snakemd.InlineText(x.name(), url=x.lang_docs_url()) 
@@ -270,8 +285,10 @@ def generate_projects_index(repo: subete.Repo):
     projects_index_path = pathlib.Path("docs/projects")
     projects_index = snakemd.new_doc("index")
     _generate_front_matter(projects_index, projects_index_path / "front_matter.yaml", "Projects")
+    project_tests = sum(1 if project.has_testing() else 0 for project in repo.approved_projects())
     projects_index.add_paragraph(
-        "Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection."
+        "Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. "
+        f"At this time, the repo supports {repo.total_approved_projects()} projects, of which {project_tests} are tested."
     )
     projects_index.add_header("Projects List", level=2)
     projects_index.add_paragraph(
