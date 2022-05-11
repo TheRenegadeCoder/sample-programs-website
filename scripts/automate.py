@@ -257,6 +257,13 @@ def generate_languages_index(repo: subete.Repo):
     for letter in repo.sorted_language_letters():
         language_index.add_header(letter.upper(), level=3)
         languages: list[subete.LanguageCollection] = repo.languages_by_letter(letter)
+        snippets = sum(language.total_programs() for language in languages)
+        tests = sum(1 if language.has_testinfo() else 0 for language in languages)
+        verb = "are" if len(languages) > 1 else "is"
+        language_index.add_paragraph(
+            f"The '{letter.upper()}' collection contains {len(languages)} languages, " 
+            f"of which {tests} {verb} tested, and {snippets} code snippets."
+        )
         languages.sort(key=lambda x: x.name().casefold())
         languages = [
             snakemd.InlineText(x.name(), url=x.lang_docs_url()) 
