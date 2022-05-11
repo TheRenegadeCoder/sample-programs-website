@@ -1,5 +1,5 @@
-According to Wikipedia, Bash is a command language first released back in 1989.
-Despite its age, Bash is till heavily maintained with changes tracked in git.
+Bash is a command language first released back in 1989. Despite its age, Bash is 
+still heavily maintained with changes tracked in git.
 
 In terms of features, Bash supports variables, piping, globbing, control flow,
 and even iteration. Of those features, perhaps the coolest is globbing, also
