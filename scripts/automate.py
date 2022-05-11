@@ -118,12 +118,18 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         f"as well as a description of how the program works."
     )
     doc.add_header("Current Solution", level=2)
-    doc.add_paragraph(
-        "**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated."
-    )
     doc.add_paragraph("{% raw %}")
     doc.add_code(program.code().strip(), lang=program.language_name().lower())
     doc.add_paragraph("{% endraw %}")
+    doc.add_paragraph(f"{program} was written by:")
+    doc.add_element(snakemd.MDList(program.authors()))
+    if program.modified() != program.created():
+        doc.add_paragraph(
+            "**Note**: The solution shown above is the current solution in the Sample "
+            f"Programs repository as of {program.modified().strftime('%b %d %Y %H:%M:%S')}. "
+            f"The solution was first committed on {program.created().strftime('%b %d %Y %H:%M:%S')}. "
+            "As a result, documentation below may be outdated."
+        )
     _add_section(
         doc, 
         str(root_path / ".."),
