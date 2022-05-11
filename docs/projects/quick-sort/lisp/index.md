@@ -75,8 +75,8 @@ Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [L
 
 [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
 
-- Palash Dubey
 - Parker Johansen
+- Palash Dubey
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

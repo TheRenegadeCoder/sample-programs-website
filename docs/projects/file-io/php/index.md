@@ -60,8 +60,8 @@ if (write_file($file_name)) {
 [File Io](https://sampleprograms.io/projects/file-io) in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - Jeremy Grifski
-- Juan D Frias
 - Parker Johansen
+- Juan D Frias
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

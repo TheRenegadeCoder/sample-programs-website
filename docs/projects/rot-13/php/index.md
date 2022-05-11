@@ -34,8 +34,8 @@ echo rot13($argv[1]) . "\n";
 
 [Rot 13](https://sampleprograms.io/projects/rot-13) in [Php](https://sampleprograms.io/languages/php) was written by:
 
-- Jeremy Grifski
 - Andy Alban
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

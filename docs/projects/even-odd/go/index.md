@@ -49,8 +49,8 @@ func main() {
 
 [Even Odd](https://sampleprograms.io/projects/even-odd) in [Go](https://sampleprograms.io/languages/go) was written by:
 
-- clarkimusmax
 - Parker Johansen
+- clarkimusmax
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

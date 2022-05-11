@@ -54,8 +54,8 @@ public class Factorial
 
 [Factorial](https://sampleprograms.io/projects/factorial) in [Java](https://sampleprograms.io/languages/java) was written by:
 
-- Bharath
 - Parker Johansen
+- Bharath
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

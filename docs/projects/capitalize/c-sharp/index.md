@@ -40,8 +40,8 @@ namespace SamplePrograms
 
 [Capitalize](https://sampleprograms.io/projects/capitalize) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
-- Jeremy Grifski
 - Renato Ramos Nascimento
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -23,8 +23,8 @@ echo strrev($input);
 
 [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Php](https://sampleprograms.io/languages/php) was written by:
 
-- Jeremy Grifski
 - samgan-khan
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

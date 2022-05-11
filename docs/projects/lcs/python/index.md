@@ -56,8 +56,8 @@ if __name__ == "__main__":
 
 [LCS](https://sampleprograms.io/projects/lcs) in [Python](https://sampleprograms.io/languages/python) was written by:
 
-- Boot-Error
 - Parker Johansen
+- Boot-Error
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

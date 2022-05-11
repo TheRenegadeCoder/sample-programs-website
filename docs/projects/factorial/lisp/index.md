@@ -37,8 +37,8 @@ Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Lis
 
 [Factorial](https://sampleprograms.io/projects/factorial) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
 
-- Renato
 - Parker Johansen
+- Renato
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

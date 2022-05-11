@@ -26,8 +26,8 @@ function helloWorld() {
 
 [Hello World](https://sampleprograms.io/projects/hello-world) in [Google Apps Script](https://sampleprograms.io/languages/google-apps-script) was written by:
 
-- Jeremy Grifski
 - Arun Pattni
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

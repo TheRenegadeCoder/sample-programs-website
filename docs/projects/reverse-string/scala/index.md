@@ -49,8 +49,8 @@ object ReverseStringSample {
 
 [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
-- Viet Thang Nguyen
 - Vee Ng
+- Viet Thang Nguyen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

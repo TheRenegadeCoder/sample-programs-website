@@ -27,8 +27,8 @@ func main() {
 
 [Hello World](https://sampleprograms.io/projects/hello-world) in [Go](https://sampleprograms.io/languages/go) was written by:
 
-- Parker Johansen
 - Jeremy Griffith
+- Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

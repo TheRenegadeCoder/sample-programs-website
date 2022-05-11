@@ -50,8 +50,8 @@ if __name__ == "__main__":
 
 [Prime Number](https://sampleprograms.io/projects/prime-number) in [Python](https://sampleprograms.io/languages/python) was written by:
 
-- Haseeb Majid
 - Parker Johansen
+- Haseeb Majid
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

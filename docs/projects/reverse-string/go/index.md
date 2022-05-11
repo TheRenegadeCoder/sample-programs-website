@@ -46,8 +46,8 @@ func main() {
 
 [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Go](https://sampleprograms.io/languages/go) was written by:
 
-- Riddhi K
 - Parker Johansen
+- Riddhi K
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
