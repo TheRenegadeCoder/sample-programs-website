@@ -268,8 +268,9 @@ def generate_languages_index(repo: subete.Repo):
         snippets = sum(language.total_programs() for language in languages)
         tests = sum(1 if language.has_testinfo() else 0 for language in languages)
         verb = "are" if tests != 1 else "is"
+        singular = "language" if len(languages) == 1 else "languages"
         language_index.add_paragraph(
-            f"The '{letter.upper()}' collection contains {len(languages)} languages, " 
+            f"The '{letter.upper()}' collection contains {len(languages)} {singular}, " 
             f"of which {tests} {verb} tested, and {snippets} code snippets."
         )
         languages.sort(key=lambda x: x.name().casefold())
