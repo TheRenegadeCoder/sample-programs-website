@@ -53,8 +53,8 @@ if __name__ == "__main__":
 
 Fibonacci in Python was written by:
 
-- Marius
 - Parker Johansen
+- Marius
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2019 00:40:32. The solution was first committed on Oct 06 2018 15:20:01. As a result, documentation below may be outdated.
 

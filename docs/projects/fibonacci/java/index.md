@@ -42,8 +42,8 @@ public class Fibonacci {
 
 Fibonacci in Java was written by:
 
-- Marius
 - Parker Johansen
+- Marius
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2019 00:40:32. The solution was first committed on Oct 03 2018 13:08:02. As a result, documentation below may be outdated.
 

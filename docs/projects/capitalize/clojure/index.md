@@ -45,8 +45,8 @@ Welcome to the Capitalize in Clojure page! Here, you'll find the source code for
 
 Capitalize in Clojure was written by:
 
-- pablocostass
 - Jeremy Grifski
+- pablocostass
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 23:49:48. The solution was first committed on Oct 10 2019 23:54:24. As a result, documentation below may be outdated.
 

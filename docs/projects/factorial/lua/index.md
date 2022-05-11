@@ -65,8 +65,8 @@ main(arg[1])
 
 Factorial in Lua was written by:
 
-- Matt Wiley
 - Jeremy Grifski
+- Matt Wiley
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 19:22:39. The solution was first committed on Oct 10 2019 12:43:45. As a result, documentation below may be outdated.
 

@@ -49,8 +49,8 @@ func main() {
 
 Even Odd in Go was written by:
 
-- clarkimusmax
 - Parker Johansen
+- clarkimusmax
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 01 2019 02:39:12. The solution was first committed on Oct 25 2018 20:22:28. As a result, documentation below may be outdated.
 

@@ -50,8 +50,8 @@ namespace SamplePrograms
 
 Fibonacci in C# was written by:
 
-- Marius
 - Parker Johansen
+- Marius
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2019 00:47:29. The solution was first committed on Oct 02 2018 12:09:09. As a result, documentation below may be outdated.
 

@@ -84,8 +84,8 @@ public class FileIO {
 
 File Io in Java was written by:
 
-- Shubham Raj
 - smallblack9
+- Shubham Raj
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 18:07:28. The solution was first committed on Oct 13 2019 18:50:32. As a result, documentation below may be outdated.
 

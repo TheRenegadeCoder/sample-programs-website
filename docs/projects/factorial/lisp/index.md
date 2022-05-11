@@ -37,8 +37,8 @@ Welcome to the Factorial in Lisp page! Here, you'll find the source code for thi
 
 Factorial in Lisp was written by:
 
-- Renato
 - Parker Johansen
+- Renato
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 06:48:59. The solution was first committed on Oct 01 2020 17:40:32. As a result, documentation below may be outdated.
 

@@ -27,8 +27,8 @@ Welcome to the Reverse String in Clojure page! Here, you'll find the source code
 
 Reverse String in Clojure was written by:
 
-- pablocostass
 - Kateryna Tokar
+- pablocostass
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 19 2019 23:52:25. The solution was first committed on Oct 11 2019 00:07:12. As a result, documentation below may be outdated.
 

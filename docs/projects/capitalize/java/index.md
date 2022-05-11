@@ -53,8 +53,8 @@ public class Capitalize
 
 Capitalize in Java was written by:
 
-- dyllew3
 - Jeremy Grifski
+- dyllew3
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 19:46:40. The solution was first committed on Oct 11 2019 21:27:34. As a result, documentation below may be outdated.
 

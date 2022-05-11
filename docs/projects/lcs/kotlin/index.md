@@ -50,8 +50,8 @@ fun main(args: Array<String>) {
 
 LCS in Kotlin was written by:
 
-- Blake.Ke
 - David Phillips
+- Blake.Ke
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 23:02:08. The solution was first committed on Oct 05 2020 00:20:57. As a result, documentation below may be outdated.
 

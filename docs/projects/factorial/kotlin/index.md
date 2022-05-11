@@ -36,8 +36,8 @@ fun main(args: Array<String>) {
 
 Factorial in Kotlin was written by:
 
-- Satyajit Pradhan
 - Blake.Ke
+- Satyajit Pradhan
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 23:34:00. The solution was first committed on Oct 06 2019 08:41:26. As a result, documentation below may be outdated.
 

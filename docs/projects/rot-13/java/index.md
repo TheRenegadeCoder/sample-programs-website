@@ -55,8 +55,8 @@ public class Rot13
 
 Rot 13 in Java was written by:
 
-- jsonW0
 - smallblack9
+- jsonW0
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 18:07:28. The solution was first committed on Oct 27 2019 22:01:29. As a result, documentation below may be outdated.
 

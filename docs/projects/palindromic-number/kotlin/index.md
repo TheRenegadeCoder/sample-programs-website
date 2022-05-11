@@ -55,8 +55,8 @@ fun main(args: Array<String>) {
 
 Palindromic Number in Kotlin was written by:
 
-- Isaac Anohene
 - Blake.Ke
+- Isaac Anohene
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 23:21:48. The solution was first committed on Oct 08 2020 16:44:11. As a result, documentation below may be outdated.
 

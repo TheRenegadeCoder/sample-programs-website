@@ -46,8 +46,8 @@ func main() {
 
 Reverse String in Go was written by:
 
-- Riddhi K
 - Parker Johansen
+- Riddhi K
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 01 2019 02:39:12. The solution was first committed on Oct 15 2018 21:21:39. As a result, documentation below may be outdated.
 

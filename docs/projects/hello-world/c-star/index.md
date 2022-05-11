@@ -28,8 +28,8 @@ main ()
 
 Hello World in C\* was written by:
 
-- Muhammad
 - Jeremy Grifski
+- Muhammad
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 11 2018 00:48:11. The solution was first committed on May 11 2018 00:47:40. As a result, documentation below may be outdated.
 

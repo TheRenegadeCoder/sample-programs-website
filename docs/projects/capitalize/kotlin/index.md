@@ -29,8 +29,8 @@ fun main(args: Array<String>) {
 
 Capitalize in Kotlin was written by:
 
-- Saurabh
 - Blake.Ke
+- Saurabh
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 08 2020 22:09:00. The solution was first committed on Oct 11 2019 23:46:12. As a result, documentation below may be outdated.
 

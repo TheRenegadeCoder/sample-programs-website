@@ -43,8 +43,8 @@ int main(int argc, char **argv)
 
 Even Odd in C was written by:
 
-- AceKnight
 - Jeremy Grifski
+- AceKnight
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 30 2019 16:30:59. The solution was first committed on Oct 21 2018 19:46:02. As a result, documentation below may be outdated.
 

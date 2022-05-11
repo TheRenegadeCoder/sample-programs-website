@@ -57,8 +57,8 @@ main(process.argv[2])
 
 Insertion Sort in Javascript was written by:
 
-- Eliver L
 - EliverLara
+- Eliver L
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2019 20:58:46. The solution was first committed on Oct 10 2019 17:29:27. As a result, documentation below may be outdated.
 
