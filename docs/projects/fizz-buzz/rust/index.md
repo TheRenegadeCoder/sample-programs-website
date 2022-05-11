@@ -36,8 +36,8 @@ fn main() {
 
 [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
-- Vincent Caron
 - Noah Nichols
+- Vincent Caron
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

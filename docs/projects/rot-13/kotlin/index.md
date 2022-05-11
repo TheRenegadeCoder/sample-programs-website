@@ -73,8 +73,8 @@ fun main(args: Array<String>) {
 
 [Rot 13](https://sampleprograms.io/projects/rot-13) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
-- Cristiano Lopes
 - Jeremy Grifski
+- Cristiano Lopes
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

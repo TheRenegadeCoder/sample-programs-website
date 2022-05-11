@@ -94,8 +94,8 @@ if __name__ == '__main__':
 
 [Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Python](https://sampleprograms.io/languages/python) was written by:
 
-- Vicrobot
 - Jeremy Grifski
+- Vicrobot
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

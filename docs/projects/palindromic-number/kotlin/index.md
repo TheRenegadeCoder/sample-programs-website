@@ -55,8 +55,8 @@ fun main(args: Array<String>) {
 
 [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
-- Blake.Ke
 - Isaac Anohene
+- Blake.Ke
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

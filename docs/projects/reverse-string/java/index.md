@@ -32,8 +32,8 @@ public class ReverseString {
 
 [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Java](https://sampleprograms.io/languages/java) was written by:
 
-- Jeremy Griffith
 - Jeremy Grifski
+- Jeremy Griffith
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -37,8 +37,8 @@ String capitalize(String input) =>
 
 [Capitalize](https://sampleprograms.io/projects/capitalize) in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
-- Paddy
 - Jeremy Grifski
+- Paddy
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

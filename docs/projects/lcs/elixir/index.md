@@ -71,8 +71,8 @@ LongestCommonSubsequence.main()
 
 [LCS](https://sampleprograms.io/projects/lcs) in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
 
-- Ann
 - Jeremy Grifski
+- Ann
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

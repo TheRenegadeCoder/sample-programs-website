@@ -40,8 +40,8 @@ const isPrime = (number) => {
 
 [Prime Number](https://sampleprograms.io/projects/prime-number) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
-- Jayden Thrasher
 - Ganesh Naik
+- Jayden Thrasher
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

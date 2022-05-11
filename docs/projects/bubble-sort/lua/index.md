@@ -66,8 +66,8 @@ io.write("\n")
 
 [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
-- jketterer
 - Jeremy Grifski
+- jketterer
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

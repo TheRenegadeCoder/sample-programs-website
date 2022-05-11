@@ -23,8 +23,8 @@ KTHXBYE
 
 [Hello World](https://sampleprograms.io/projects/hello-world) in [Lolcode](https://sampleprograms.io/languages/lolcode) was written by:
 
-- Muhammad
 - Jeremy Grifski
+- Muhammad
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

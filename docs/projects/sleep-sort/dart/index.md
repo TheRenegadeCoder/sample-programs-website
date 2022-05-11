@@ -42,8 +42,8 @@ Future<List<int>> sleepsort(Iterable<int> input) async {
 
 [Sleep Sort](https://sampleprograms.io/projects/sleep-sort) in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
-- agilob
 - Jeremy Grifski
+- agilob
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

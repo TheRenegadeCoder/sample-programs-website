@@ -42,9 +42,9 @@ else:
 
 [Linear Search](https://sampleprograms.io/projects/linear-search) in [Python](https://sampleprograms.io/languages/python) was written by:
 
+- Jeremy Grifski
 - Siddhartha Dhar Choudhury
 - frankhart2017
-- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

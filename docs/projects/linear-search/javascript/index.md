@@ -59,8 +59,8 @@ main(process.argv[2], process.argv[3])
 
 [Linear Search](https://sampleprograms.io/projects/linear-search) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
-- NameerWaqas
 - Jeremy Grifski
+- NameerWaqas
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

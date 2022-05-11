@@ -33,8 +33,8 @@ namespace SamplePrograms
 
 [Hello World](https://sampleprograms.io/projects/hello-world) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
-- Jeremy Griffith
 - Jeremy Grifski
+- Jeremy Griffith
 - ildoc
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).

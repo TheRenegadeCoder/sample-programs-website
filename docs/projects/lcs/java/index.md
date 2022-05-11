@@ -115,8 +115,8 @@ public class Lcs{
 
 [LCS](https://sampleprograms.io/projects/lcs) in [Java](https://sampleprograms.io/languages/java) was written by:
 
-- smallblack9
 - Shubham Tiwari
+- smallblack9
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

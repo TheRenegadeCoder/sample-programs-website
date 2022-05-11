@@ -28,8 +28,8 @@ echo ${1^}
 
 [Capitalize](https://sampleprograms.io/projects/capitalize) in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
-- lohxx
 - Jeremy Grifski
+- lohxx
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

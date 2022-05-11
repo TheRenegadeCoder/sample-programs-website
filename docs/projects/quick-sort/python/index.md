@@ -56,8 +56,8 @@ if __name__ == "__main__":
 
 [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Python](https://sampleprograms.io/languages/python) was written by:
 
-- Parker Johansen
 - Jeremy Grifski
+- Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

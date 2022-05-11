@@ -52,8 +52,8 @@ Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) i
 
 [Prime Number](https://sampleprograms.io/projects/prime-number) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
 
-- Parker Johansen
 - Renato
+- Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

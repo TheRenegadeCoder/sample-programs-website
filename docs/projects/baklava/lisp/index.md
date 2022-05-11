@@ -36,8 +36,8 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Lisp](h
 
 [Baklava](https://sampleprograms.io/projects/baklava) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
 
-- Parker Johansen
 - Stuart Irwin
+- Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

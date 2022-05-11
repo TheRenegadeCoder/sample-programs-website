@@ -138,8 +138,8 @@ if __name__ == '__main__':
 
 [MST](https://sampleprograms.io/projects/mst) in [Python](https://sampleprograms.io/languages/python) was written by:
 
-- Yuchuan Liu
 - Jeremy Grifski
+- Yuchuan Liu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

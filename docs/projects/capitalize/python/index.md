@@ -36,8 +36,8 @@ if __name__ == '__main__':
 
 [Capitalize](https://sampleprograms.io/projects/capitalize) in [Python](https://sampleprograms.io/languages/python) was written by:
 
-- Manan Gill
 - Jeremy Grifski
+- Manan Gill
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

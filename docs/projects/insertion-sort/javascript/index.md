@@ -57,8 +57,8 @@ main(process.argv[2])
 
 [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
-- EliverLara
 - Eliver L
+- EliverLara
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

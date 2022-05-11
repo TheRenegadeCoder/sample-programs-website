@@ -84,8 +84,8 @@ public class InsertionSort {
 
 [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Java](https://sampleprograms.io/languages/java) was written by:
 
-- Ganesh Naik
 - Shubham Raj
+- Ganesh Naik
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

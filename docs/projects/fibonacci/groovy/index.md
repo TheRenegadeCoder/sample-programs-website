@@ -37,8 +37,8 @@ class Fibonacci {
 
 [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
 
-- Loic Beylot
 - Jeremy Grifski
+- Loic Beylot
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -40,8 +40,8 @@ echo ("$factorial\n");
 
 [Factorial](https://sampleprograms.io/projects/factorial) in [Php](https://sampleprograms.io/languages/php) was written by:
 
-- Italo Sousa
 - Jeremy Grifski
+- Italo Sousa
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

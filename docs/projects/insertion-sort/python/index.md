@@ -61,9 +61,9 @@ if __name__ == "__main__":
 
 [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Python](https://sampleprograms.io/languages/python) was written by:
 
+- Jeremy Grifski
 - Haseeb Majid
 - Parker Johansen
-- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

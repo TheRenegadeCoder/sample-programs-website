@@ -55,8 +55,8 @@ Factorial.main(System.argv())
 
 [Factorial](https://sampleprograms.io/projects/factorial) in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
 
-- Parker Johansen
 - Jeremy Grifski
+- Parker Johansen
 - pearl2201
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).

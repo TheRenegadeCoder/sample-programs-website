@@ -52,8 +52,8 @@ namespace FizzBuzz
 
 [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
-- Parker Johansen
 - Jeremy Grifski
+- Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

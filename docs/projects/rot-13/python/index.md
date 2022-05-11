@@ -56,8 +56,8 @@ if __name__ == "__main__":
 
 [Rot 13](https://sampleprograms.io/projects/rot-13) in [Python](https://sampleprograms.io/languages/python) was written by:
 
-- Parker Johansen
 - Jeremy Grifski
+- Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

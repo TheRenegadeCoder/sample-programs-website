@@ -65,8 +65,8 @@ main(arg[1])
 
 [Factorial](https://sampleprograms.io/projects/factorial) in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
-- Matt Wiley
 - Jeremy Grifski
+- Matt Wiley
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

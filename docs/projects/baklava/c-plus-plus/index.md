@@ -50,8 +50,8 @@ int main(int argc, char *argv[])
 
 [Baklava](https://sampleprograms.io/projects/baklava) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
-- yottanami
 - Behnam Ahmad khan beigi
+- yottanami
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

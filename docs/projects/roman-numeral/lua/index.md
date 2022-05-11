@@ -89,8 +89,8 @@ print(convertToDecimal(input))
 
 [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
-- jketterer
 - Jeremy Grifski
+- jketterer
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

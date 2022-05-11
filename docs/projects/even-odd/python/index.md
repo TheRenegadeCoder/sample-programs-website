@@ -44,8 +44,8 @@ if __name__ == "__main__":
 
 [Even Odd](https://sampleprograms.io/projects/even-odd) in [Python](https://sampleprograms.io/languages/python) was written by:
 
-- Parker Johansen
 - Jeremy Grifski
+- Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

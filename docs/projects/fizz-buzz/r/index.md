@@ -39,8 +39,8 @@ fizz_buzz()
 
 [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [R](https://sampleprograms.io/languages/r) was written by:
 
-- Gabi Herman
 - Jeremy Grifski
+- Gabi Herman
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

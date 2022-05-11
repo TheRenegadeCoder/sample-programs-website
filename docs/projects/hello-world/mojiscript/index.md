@@ -31,8 +31,8 @@ run ({ state, main })
 
 [Hello World](https://sampleprograms.io/projects/hello-world) in [Mojiscript](https://sampleprograms.io/languages/mojiscript) was written by:
 
-- Patrick Biffle
 - Noah Nichols
+- Patrick Biffle
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
