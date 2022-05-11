@@ -28,8 +28,8 @@ main ()
 
 [Hello World](https://sampleprograms.io/projects/hello-world) in [C\*](https://sampleprograms.io/languages/c-star) was written by:
 
-- Jeremy Grifski
 - Muhammad
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

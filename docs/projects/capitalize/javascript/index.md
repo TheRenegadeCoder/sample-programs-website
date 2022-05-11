@@ -34,8 +34,8 @@ main();
 
 [Capitalize](https://sampleprograms.io/projects/capitalize) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
-- Daniel Luna
 - Jeremy Grifski
+- Daniel Luna
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

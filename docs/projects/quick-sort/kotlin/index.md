@@ -96,9 +96,9 @@ fun quickSort(arr: IntArray):IntArray
 
 [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
-- Jeremy Grifski
 - mikenmo
 - Blake.Ke
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

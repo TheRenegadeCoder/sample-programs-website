@@ -69,9 +69,9 @@ int main(int argc, char **argv)
 
 [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [C](https://sampleprograms.io/languages/c) was written by:
 
+- Parker Johansen
 - Jeremy Grifski
 - Christoph Böhmwalder
-- Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

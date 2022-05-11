@@ -42,8 +42,8 @@ end
 
 [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
-- Noah Nichols
 - Parker Johansen
+- Noah Nichols
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

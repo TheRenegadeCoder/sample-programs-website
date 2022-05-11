@@ -61,8 +61,8 @@ if __name__ == "__main__":
 
 [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Python](https://sampleprograms.io/languages/python) was written by:
 
-- Jeremy Grifski
 - Parker Johansen
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

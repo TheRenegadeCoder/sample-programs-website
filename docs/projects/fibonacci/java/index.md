@@ -42,8 +42,8 @@ public class Fibonacci {
 
 [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Java](https://sampleprograms.io/languages/java) was written by:
 
-- Marius
 - Parker Johansen
+- Marius
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

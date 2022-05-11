@@ -89,8 +89,8 @@ func main() {
 
 [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Go](https://sampleprograms.io/languages/go) was written by:
 
-- clarkimusmax
 - Parker Johansen
+- clarkimusmax
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

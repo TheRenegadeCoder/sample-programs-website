@@ -45,8 +45,8 @@ Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [C
 
 [Capitalize](https://sampleprograms.io/projects/capitalize) in [Clojure](https://sampleprograms.io/languages/clojure) was written by:
 
-- Jeremy Grifski
 - pablocostass
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

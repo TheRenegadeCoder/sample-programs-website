@@ -91,10 +91,10 @@ if __name__ == '__main__':
 
 [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Python](https://sampleprograms.io/languages/python) was written by:
 
-- Jeremy Grifski
 - prateeksharma21
-- Vikram Rayavarapu
 - Parker Johansen
+- Jeremy Grifski
+- Vikram Rayavarapu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

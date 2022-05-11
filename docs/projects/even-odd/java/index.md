@@ -57,8 +57,8 @@ public class EvenOdd
 
 [Even Odd](https://sampleprograms.io/projects/even-odd) in [Java](https://sampleprograms.io/languages/java) was written by:
 
-- Jeremy Grifski
 - Parker Johansen
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

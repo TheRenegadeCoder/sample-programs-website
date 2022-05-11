@@ -110,8 +110,8 @@ try {
 
 [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Php](https://sampleprograms.io/languages/php) was written by:
 
-- Parker Johansen
 - Jeremy Grifski
+- Parker Johansen
 - Juan D Frias
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).

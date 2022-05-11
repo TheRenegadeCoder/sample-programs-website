@@ -37,8 +37,8 @@ int main(int argc, const char *argv[])
 
 [Capitalize](https://sampleprograms.io/projects/capitalize) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
-- Jeremy Grifski
 - Ford Smith
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

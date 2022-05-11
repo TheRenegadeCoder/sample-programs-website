@@ -33,8 +33,8 @@ print ucfirst $string, "\n";
 
 [Capitalize](https://sampleprograms.io/projects/capitalize) in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
-- Gabriela Kandová
 - Jeremy Grifski
+- Gabriela Kandová
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

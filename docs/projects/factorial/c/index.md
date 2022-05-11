@@ -89,8 +89,8 @@ int uint64_overflow(long a, long b) {
 
 [Factorial](https://sampleprograms.io/projects/factorial) in [C](https://sampleprograms.io/languages/c) was written by:
 
-- clarkimusmax
 - Bharath
+- clarkimusmax
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

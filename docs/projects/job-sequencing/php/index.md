@@ -63,8 +63,8 @@ function return_error()
 
 [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Php](https://sampleprograms.io/languages/php) was written by:
 
-- Jeremy Grifski
 - Kateryna Tokar
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

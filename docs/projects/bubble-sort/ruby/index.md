@@ -47,8 +47,8 @@ end
 
 [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
-- Jeremy Grifski
 - Parker Johansen
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

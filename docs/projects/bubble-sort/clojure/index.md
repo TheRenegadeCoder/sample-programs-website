@@ -67,8 +67,8 @@ Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in 
 
 [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Clojure](https://sampleprograms.io/languages/clojure) was written by:
 
-- Tobias Schröder
 - Kateryna Tokar
+- Tobias Schröder
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

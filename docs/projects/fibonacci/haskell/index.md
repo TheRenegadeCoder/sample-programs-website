@@ -49,8 +49,8 @@ main = do
 
 [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
 
-- Panagiotis Georgiadis
 - Parker Johansen
+- Panagiotis Georgiadis
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

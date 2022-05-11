@@ -63,9 +63,9 @@ fun main(args: Array<String>)
 
 [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
-- Jeremy Grifski
 - mikenmo
 - Blake.Ke
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

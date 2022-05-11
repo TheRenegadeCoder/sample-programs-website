@@ -47,8 +47,8 @@ End Module
 
 [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Visual Basic](https://sampleprograms.io/languages/visual-basic) was written by:
 
-- AaronLenoir
 - Andrew Reid
+- AaronLenoir
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

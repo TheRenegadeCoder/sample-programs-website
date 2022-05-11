@@ -47,8 +47,8 @@ if __name__ == '__main__':
 [File Io](https://sampleprograms.io/projects/file-io) in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Grifski
-- Noah Nichols
 - Ganesh Naik
+- Noah Nichols
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -42,8 +42,8 @@ namespace SamplePrograms
 
 [Reverse String](https://sampleprograms.io/projects/reverse-string) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
-- ildoc
 - Jeremy Grifski
+- ildoc
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

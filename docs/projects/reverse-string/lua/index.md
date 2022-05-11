@@ -26,8 +26,8 @@ end
 
 [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
-- Jeremy Grifski
 - Matt Wiley
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -134,8 +134,8 @@ int main(int argc,char* argv[]){
 
 [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
-- Parker Johansen
 - Sailok Chinta
+- Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

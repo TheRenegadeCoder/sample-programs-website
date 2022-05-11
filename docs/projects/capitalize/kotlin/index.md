@@ -29,8 +29,8 @@ fun main(args: Array<String>) {
 
 [Capitalize](https://sampleprograms.io/projects/capitalize) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
-- Saurabh
 - Blake.Ke
+- Saurabh
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

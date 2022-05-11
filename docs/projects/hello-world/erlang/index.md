@@ -29,8 +29,8 @@ start() ->
 
 [Hello World](https://sampleprograms.io/projects/hello-world) in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
 
-- Jeremy Grifski
 - Nick Keers
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -47,8 +47,8 @@ writeFile();
 
 [File Io](https://sampleprograms.io/projects/file-io) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
-- Jeremy Grifski
 - Manan Gill
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

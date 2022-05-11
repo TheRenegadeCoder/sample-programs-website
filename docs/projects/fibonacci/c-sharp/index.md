@@ -50,8 +50,8 @@ namespace SamplePrograms
 
 [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
-- Marius
 - Parker Johansen
+- Marius
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

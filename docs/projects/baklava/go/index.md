@@ -36,8 +36,8 @@ func main() {
 
 [Baklava](https://sampleprograms.io/projects/baklava) in [Go](https://sampleprograms.io/languages/go) was written by:
 
-- Jeremy Grifski
 - Parker Johansen
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

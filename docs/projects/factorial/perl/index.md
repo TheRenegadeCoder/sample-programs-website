@@ -52,8 +52,8 @@ sub usage {
 
 [Factorial](https://sampleprograms.io/projects/factorial) in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
-- Gabriela Kandová
 - Bharath
+- Gabriela Kandová
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

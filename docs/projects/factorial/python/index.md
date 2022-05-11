@@ -53,9 +53,9 @@ if __name__ == "__main__":
 
 [Factorial](https://sampleprograms.io/projects/factorial) in [Python](https://sampleprograms.io/languages/python) was written by:
 
-- Jeremy Grifski
 - Bharath
 - Parker Johansen
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

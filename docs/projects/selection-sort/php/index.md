@@ -56,8 +56,8 @@ echo implode(', ', selection_sort($numbers));
 
 [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Php](https://sampleprograms.io/languages/php) was written by:
 
-- Gurmeet
 - Jeremy Grifski
+- Gurmeet
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

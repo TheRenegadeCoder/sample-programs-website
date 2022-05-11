@@ -55,8 +55,8 @@ public class Rot13
 
 [Rot 13](https://sampleprograms.io/projects/rot-13) in [Java](https://sampleprograms.io/languages/java) was written by:
 
-- smallblack9
 - jsonW0
+- smallblack9
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

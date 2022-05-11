@@ -68,8 +68,8 @@ fun String.toIntArray() = split(",").mapNotNull { it.trim().toIntOrNull() }
 
 [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
-- smallblack9
 - Blake.Ke
+- smallblack9
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

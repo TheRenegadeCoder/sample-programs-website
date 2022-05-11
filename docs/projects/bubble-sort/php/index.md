@@ -44,9 +44,9 @@ echo implode(', ', $numbers);
 
 [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Php](https://sampleprograms.io/languages/php) was written by:
 
-- Jeremy Grifski
-- Shahab Rahnama
 - Parker Johansen
+- Shahab Rahnama
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -73,9 +73,9 @@ public class PrimeNumber {
 
 [Prime Number](https://sampleprograms.io/projects/prime-number) in [Java](https://sampleprograms.io/languages/java) was written by:
 
-- Ewerton Queiroz
-- Ganesh Naik
 - Juan D Frias
+- Ganesh Naik
+- Ewerton Queiroz
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

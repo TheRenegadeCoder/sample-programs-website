@@ -36,8 +36,8 @@ done
 
 [Baklava](https://sampleprograms.io/projects/baklava) in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
-- Jeremy Grifski
 - Parker Johansen
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

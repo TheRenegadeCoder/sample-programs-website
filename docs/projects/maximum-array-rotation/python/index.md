@@ -39,8 +39,8 @@ except:
 
 [Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [Python](https://sampleprograms.io/languages/python) was written by:
 
-- Jeremy Grifski
 - Tanisha Banik
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

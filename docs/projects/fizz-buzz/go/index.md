@@ -37,8 +37,8 @@ func main() {
 
 [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Go](https://sampleprograms.io/languages/go) was written by:
 
-- Jeremy Grifski
 - Parker Johansen
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

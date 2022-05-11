@@ -35,8 +35,8 @@ for my $n (1..100) {
 
 [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
-- Jeremy Grifski
 - Chris Thomas
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

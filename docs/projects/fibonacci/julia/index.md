@@ -39,8 +39,8 @@ end
 
 [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Julia](https://sampleprograms.io/languages/julia) was written by:
 
-- Michael King
 - Jeremy Grifski
+- Michael King
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

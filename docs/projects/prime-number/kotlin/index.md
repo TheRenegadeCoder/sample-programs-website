@@ -45,8 +45,8 @@ fun main(args: Array<String>)
 
 [Prime Number](https://sampleprograms.io/projects/prime-number) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
-- smallblack9
 - Blake.Ke
+- smallblack9
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

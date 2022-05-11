@@ -69,9 +69,9 @@ echo implode(', ', merge_sort($test_array)) . "\n";
 
 [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Php](https://sampleprograms.io/languages/php) was written by:
 
-- Jeremy Grifski
 - Ankit kumar
 - Parker Johansen
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

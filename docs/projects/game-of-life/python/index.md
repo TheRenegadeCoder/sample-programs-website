@@ -196,8 +196,8 @@ main()
 
 [Game Of Life](https://sampleprograms.io/projects/game-of-life) in [Python](https://sampleprograms.io/languages/python) was written by:
 
-- Jeremy Grifski
 - Maximillian Naza
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
