@@ -116,13 +116,19 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
     doc.add_paragraph(
         f"Welcome to the {program} page! Here, you'll find the source code for this program "
         f"as well as a description of how the program works."
-    )
+    ) \
+        .insert_link(program.language_name(), program.language_collection().lang_docs_url()) \
+        .insert_link(program.project_name(), program.project().requirements_url())
     doc.add_header("Current Solution", level=2)
     doc.add_paragraph("{% raw %}")
     doc.add_code(program.code().strip(), lang=program.language_name().lower())
     doc.add_paragraph("{% endraw %}")
-    doc.add_paragraph(f"{program} was written by:")
+    doc.add_paragraph(f"{program} was written by:") \
+        .insert_link(program.language_name(), program.language_collection().lang_docs_url()) \
+        .insert_link(program.project_name(), program.project().requirements_url())
     doc.add_element(snakemd.MDList(program.authors()))
+    doc.add_paragraph("If you see anything you'd like to change or update, please consider contributing.") \
+        .insert_link("please consider contributing", "https://github.com/TheRenegadeCoder/sample-programs")
     if program.modified() != program.created():
         doc.add_paragraph(
             "**Note**: The solution shown above is the current solution in the Sample "
