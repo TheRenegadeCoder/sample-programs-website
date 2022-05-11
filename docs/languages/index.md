@@ -224,7 +224,7 @@ The 'P' collection contains 15 languages, of which 4 are tested, and 91 code sni
 
 ### Q
 
-The 'Q' collection contains 1 languages, of which 0 are tested, and 2 code snippets.
+The 'Q' collection contains 1 language, of which 0 are tested, and 2 code snippets.
 
 - [Quack](https://sampleprograms.io/languages/quack)
 
@@ -286,6 +286,6 @@ The 'W' collection contains 4 languages, of which 0 are tested, and 4 code snipp
 
 ### Z
 
-The 'Z' collection contains 1 languages, of which 0 are tested, and 1 code snippets.
+The 'Z' collection contains 1 language, of which 0 are tested, and 1 code snippets.
 
 - [Zig](https://sampleprograms.io/languages/zig)

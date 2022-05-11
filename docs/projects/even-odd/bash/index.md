@@ -33,8 +33,8 @@ fi
 
 Even Odd in Bash was written by:
 
-- Jeremy Grifski
 - allievo-sudo
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 29 2019 15:23:13. The solution was first committed on Oct 09 2019 16:02:54. As a result, documentation below may be outdated.
 

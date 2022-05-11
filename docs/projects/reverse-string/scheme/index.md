@@ -27,8 +27,8 @@ Welcome to the Reverse String in Scheme page! Here, you'll find the source code 
 
 Reverse String in Scheme was written by:
 
-- Jeremy Grifski
 - Francisco Peters
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Aug 10 2021 20:06:41. The solution was first committed on May 07 2018 23:12:09. As a result, documentation below may be outdated.
 

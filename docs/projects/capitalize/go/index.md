@@ -50,8 +50,8 @@ func main() {
 
 Capitalize in Go was written by:
 
-- Jeremy Grifski
 - Nathaniel Niosco
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 20:30:14. The solution was first committed on Oct 09 2019 21:50:12. As a result, documentation below may be outdated.
 

@@ -62,8 +62,8 @@ if __name__ == "__main__":
 
 Fraction Math in Python was written by:
 
-- Jeremy Grifski
 - Niraj Kamdar
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 10 2022 16:42:22. The solution was first committed on Oct 16 2019 12:52:44. As a result, documentation below may be outdated.
 

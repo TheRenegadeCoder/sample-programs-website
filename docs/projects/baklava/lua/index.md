@@ -34,8 +34,8 @@ diamondStarPattern(11)
 
 Baklava in Lua was written by:
 
-- Jeremy Grifski
 - bhaskar_datta
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 19:22:39. The solution was first committed on Oct 28 2019 15:30:24. As a result, documentation below may be outdated.
 

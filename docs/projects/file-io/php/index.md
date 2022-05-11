@@ -59,9 +59,9 @@ if (write_file($file_name)) {
 
 File Io in Php was written by:
 
-- Jeremy Grifski
-- Parker Johansen
 - Juan D Frias
+- Parker Johansen
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 14 2019 14:16:18. As a result, documentation below may be outdated.
 

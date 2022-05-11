@@ -33,8 +33,8 @@ if ($input % 2 == 0) {
 
 Even Odd in Php was written by:
 
-- Jeremy Grifski
 - Berry Semexan
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 16 2019 23:28:43. As a result, documentation below may be outdated.
 

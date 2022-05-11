@@ -39,8 +39,8 @@ fizz_buzz()
 
 Fizz Buzz in R was written by:
 
-- Jeremy Grifski
 - Gabi Herman
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 18 2020 17:59:43. The solution was first committed on Oct 24 2019 16:13:46. As a result, documentation below may be outdated.
 

@@ -296,8 +296,8 @@ int main(int argc, char const *argv[]){
 
 Fraction Math in C++ was written by:
 
-- Jeremy Grifski
 - Niraj Kamdar
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 10 2022 16:42:22. The solution was first committed on Oct 10 2019 21:43:40. As a result, documentation below may be outdated.
 

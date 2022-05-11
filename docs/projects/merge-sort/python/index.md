@@ -68,8 +68,8 @@ if __name__ == "__main__":
 
 Merge Sort in Python was written by:
 
-- Jeremy Grifski
 - Parker Johansen
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Dec 22 2018 23:50:12. As a result, documentation below may be outdated.
 

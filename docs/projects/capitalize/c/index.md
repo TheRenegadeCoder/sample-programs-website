@@ -50,8 +50,8 @@ int main(int argc, char *argv[]) {
 
 Capitalize in C was written by:
 
-- Jeremy Grifski
 - Softizo
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 21:04:13. The solution was first committed on Oct 09 2019 17:27:39. As a result, documentation below may be outdated.
 

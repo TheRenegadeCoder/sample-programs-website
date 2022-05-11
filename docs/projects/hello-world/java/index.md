@@ -25,8 +25,8 @@ class HelloWorld {
 
 Hello World in Java was written by:
 
-- Jeremy Griffith
 - vivmost
+- Jeremy Griffith
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Sep 30 2020 23:09:13. The solution was first committed on Mar 15 2018 18:38:58. As a result, documentation below may be outdated.
 

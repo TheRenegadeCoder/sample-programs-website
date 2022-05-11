@@ -57,8 +57,8 @@ public class EvenOdd
 
 Even Odd in Java was written by:
 
-- Jeremy Grifski
 - Parker Johansen
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 28 2019 15:21:26. The solution was first committed on Dec 30 2018 18:17:14. As a result, documentation below may be outdated.
 

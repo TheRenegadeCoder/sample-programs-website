@@ -73,8 +73,8 @@ fun main(args: Array<String>) {
 
 Rot 13 in Kotlin was written by:
 
-- Jeremy Grifski
 - Cristiano Lopes
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 16:40:09. The solution was first committed on Oct 07 2020 16:32:12. As a result, documentation below may be outdated.
 

@@ -66,8 +66,8 @@ io.write("\n")
 
 Bubble Sort in Lua was written by:
 
-- jketterer
 - Jeremy Grifski
+- jketterer
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 19:22:39. The solution was first committed on Oct 28 2019 15:46:03. As a result, documentation below may be outdated.
 

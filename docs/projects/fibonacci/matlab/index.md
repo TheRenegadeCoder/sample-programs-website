@@ -46,8 +46,8 @@ end
 
 Fibonacci in Matlab was written by:
 
-- gabiherman
 - Gabi Herman
+- gabiherman
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Nov 05 2019 15:10:54. The solution was first committed on Oct 24 2019 15:37:31. As a result, documentation below may be outdated.
 

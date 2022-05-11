@@ -138,8 +138,8 @@ if __name__ == '__main__':
 
 MST in Python was written by:
 
-- Jeremy Grifski
 - Yuchuan Liu
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Oct 14 2019 21:01:04. As a result, documentation below may be outdated.
 

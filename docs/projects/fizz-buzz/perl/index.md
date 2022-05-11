@@ -35,8 +35,8 @@ for my $n (1..100) {
 
 Fizz Buzz in Perl was written by:
 
-- Jeremy Grifski
 - Chris Thomas
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 25 2019 12:44:48. The solution was first committed on Oct 12 2018 17:15:01. As a result, documentation below may be outdated.
 

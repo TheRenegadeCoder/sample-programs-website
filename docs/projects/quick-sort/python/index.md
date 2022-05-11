@@ -56,8 +56,8 @@ if __name__ == "__main__":
 
 Quick Sort in Python was written by:
 
-- Jeremy Grifski
 - Parker Johansen
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Dec 23 2018 00:52:20. As a result, documentation below may be outdated.
 

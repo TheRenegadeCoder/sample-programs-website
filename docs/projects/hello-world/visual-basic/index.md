@@ -28,8 +28,8 @@ End Module
 
 Hello World in Visual Basic was written by:
 
-- Jeremy Grifski
 - AaronLenoir
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 04 2018 13:58:37. The solution was first committed on May 04 2018 00:59:34. As a result, documentation below may be outdated.
 

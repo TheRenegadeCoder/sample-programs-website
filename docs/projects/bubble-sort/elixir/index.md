@@ -65,8 +65,8 @@ Bubble.main(System.argv())
 
 Bubble Sort in Elixir was written by:
 
-- Jeremy Grifski
 - Sree Siva Sandeep Palaparthi
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 00:35:06. The solution was first committed on Oct 03 2019 22:47:13. As a result, documentation below may be outdated.
 

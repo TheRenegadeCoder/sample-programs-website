@@ -34,8 +34,8 @@ console.log main()
 
 Factorial in Coffeescript was written by:
 
-- Jeremy Grifski
 - Hanyuan Li
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:14:45. The solution was first committed on Oct 11 2019 21:51:03. As a result, documentation below may be outdated.
 

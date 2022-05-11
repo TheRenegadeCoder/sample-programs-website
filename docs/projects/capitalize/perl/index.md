@@ -33,8 +33,8 @@ print ucfirst $string, "\n";
 
 Capitalize in Perl was written by:
 
-- Jeremy Grifski
 - Gabriela Kandová
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 20:37:32. The solution was first committed on Oct 17 2019 11:06:11. As a result, documentation below may be outdated.
 

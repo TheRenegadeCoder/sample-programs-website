@@ -27,8 +27,8 @@ func main() {
 
 Hello World in Go was written by:
 
-- Jeremy Griffith
 - Parker Johansen
+- Jeremy Griffith
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 01 2019 02:39:12. The solution was first committed on Mar 25 2018 20:43:43. As a result, documentation below may be outdated.
 

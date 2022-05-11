@@ -50,8 +50,8 @@ int main(int argc, char *argv[])
 
 Baklava in C++ was written by:
 
-- Behnam Ahmad khan beigi
 - yottanami
+- Behnam Ahmad khan beigi
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 14 2019 10:52:47. The solution was first committed on Oct 09 2019 12:45:32. As a result, documentation below may be outdated.
 

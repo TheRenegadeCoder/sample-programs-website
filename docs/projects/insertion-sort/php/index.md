@@ -49,9 +49,9 @@ echo implode(', ', $out);
 
 Insertion Sort in Php was written by:
 
-- Jeremy Grifski
-- sljtheultima
 - Parker Johansen
+- sljtheultima
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 13 2019 16:44:31. As a result, documentation below may be outdated.
 

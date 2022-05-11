@@ -41,8 +41,8 @@ read_file filename
 
 File Io in Dg was written by:
 
-- Jeremy Grifski
 - Riley Martine
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2018 22:42:39. The solution was first committed on Oct 03 2018 17:19:04. As a result, documentation below may be outdated.
 

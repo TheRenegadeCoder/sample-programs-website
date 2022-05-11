@@ -40,8 +40,8 @@ namespace SamplePrograms
 
 Capitalize in C# was written by:
 
-- Jeremy Grifski
 - Renato Ramos Nascimento
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 21:08:00. The solution was first committed on Oct 11 2019 19:29:17. As a result, documentation below may be outdated.
 

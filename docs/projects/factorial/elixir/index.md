@@ -55,9 +55,9 @@ Factorial.main(System.argv())
 
 Factorial in Elixir was written by:
 
+- Parker Johansen
 - Jeremy Grifski
 - pearl2201
-- Parker Johansen
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 14:19:14. The solution was first committed on Oct 12 2019 09:32:34. As a result, documentation below may be outdated.
 

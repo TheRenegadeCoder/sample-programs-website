@@ -36,8 +36,8 @@ done
 
 Baklava in Bash was written by:
 
-- Jeremy Grifski
 - Parker Johansen
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 18 2019 16:44:21. The solution was first committed on Sep 17 2018 16:48:59. As a result, documentation below may be outdated.
 

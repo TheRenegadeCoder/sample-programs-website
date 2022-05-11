@@ -46,9 +46,9 @@ if __name__ == '__main__':
 
 File Io in Python was written by:
 
-- Jeremy Grifski
 - Noah Nichols
 - Ganesh Naik
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Sep 12 2018 13:00:03. As a result, documentation below may be outdated.
 

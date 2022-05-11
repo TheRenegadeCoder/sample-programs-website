@@ -31,8 +31,8 @@ run ({ state, main })
 
 Hello World in Mojiscript was written by:
 
-- Patrick Biffle
 - Noah Nichols
+- Patrick Biffle
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 17 2018 11:30:32. The solution was first committed on Oct 15 2018 16:02:18. As a result, documentation below may be outdated.
 

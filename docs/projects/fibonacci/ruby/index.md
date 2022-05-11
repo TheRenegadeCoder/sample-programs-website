@@ -42,8 +42,8 @@ end
 
 Fibonacci in Ruby was written by:
 
-- Parker Johansen
 - Noah Nichols
+- Parker Johansen
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2019 00:40:32. The solution was first committed on Oct 14 2018 13:08:19. As a result, documentation below may be outdated.
 

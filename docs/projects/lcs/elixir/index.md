@@ -71,8 +71,8 @@ LongestCommonSubsequence.main()
 
 LCS in Elixir was written by:
 
-- Jeremy Grifski
 - Ann
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 00:49:15. The solution was first committed on Oct 14 2019 07:19:41. As a result, documentation below may be outdated.
 

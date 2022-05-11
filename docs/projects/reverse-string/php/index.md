@@ -23,8 +23,8 @@ echo strrev($input);
 
 Reverse String in Php was written by:
 
-- Jeremy Grifski
 - samgan-khan
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Jul 15 2019 17:40:42. As a result, documentation below may be outdated.
 

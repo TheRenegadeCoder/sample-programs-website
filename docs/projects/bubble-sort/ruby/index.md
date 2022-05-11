@@ -47,8 +47,8 @@ end
 
 Bubble Sort in Ruby was written by:
 
-- Jeremy Grifski
 - Parker Johansen
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 20 2019 19:51:53. The solution was first committed on Mar 20 2019 15:25:56. As a result, documentation below may be outdated.
 

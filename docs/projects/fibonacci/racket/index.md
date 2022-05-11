@@ -50,8 +50,8 @@ Welcome to the Fibonacci in Racket page! Here, you'll find the source code for t
 
 Fibonacci in Racket was written by:
 
-- Jeremy Grifski
 - zafar hussain
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 10 2022 22:08:48. The solution was first committed on Oct 31 2019 22:31:00. As a result, documentation below may be outdated.
 

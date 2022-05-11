@@ -115,8 +115,8 @@ public class Lcs{
 
 LCS in Java was written by:
 
-- smallblack9
 - Shubham Tiwari
+- smallblack9
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 18:07:28. The solution was first committed on Oct 12 2019 22:42:39. As a result, documentation below may be outdated.
 

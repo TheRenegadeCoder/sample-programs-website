@@ -39,8 +39,8 @@ fizzbuzz(100);
 
 Fizz Buzz in Javascript was written by:
 
-- Jeremy Grifski
 - Juan F Gonzalez
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 22 2021 15:02:49. The solution was first committed on Jul 27 2018 10:37:06. As a result, documentation below may be outdated.
 

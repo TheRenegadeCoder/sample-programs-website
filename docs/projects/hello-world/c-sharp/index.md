@@ -33,9 +33,9 @@ namespace SamplePrograms
 
 Hello World in C# was written by:
 
-- Jeremy Grifski
-- Jeremy Griffith
 - ildoc
+- Jeremy Griffith
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Jul 24 2018 10:04:46. The solution was first committed on Mar 21 2018 00:11:57. As a result, documentation below may be outdated.
 

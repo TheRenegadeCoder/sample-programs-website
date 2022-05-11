@@ -75,8 +75,8 @@ Welcome to the Quick Sort in Lisp page! Here, you'll find the source code for th
 
 Quick Sort in Lisp was written by:
 
-- Palash Dubey
 - Parker Johansen
+- Palash Dubey
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 09:45:24. The solution was first committed on Oct 04 2020 17:56:31. As a result, documentation below may be outdated.
 

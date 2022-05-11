@@ -32,8 +32,8 @@ end
 
 Capitalize in Lua was written by:
 
-- Jeremy Grifski
 - Berry Semexan
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 19:22:39. The solution was first committed on Oct 17 2019 11:02:13. As a result, documentation below may be outdated.
 

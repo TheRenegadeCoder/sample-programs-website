@@ -44,9 +44,9 @@ echo implode(', ', $numbers);
 
 Bubble Sort in Php was written by:
 
-- Jeremy Grifski
-- Parker Johansen
 - Shahab Rahnama
+- Parker Johansen
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 04 2019 17:02:06. As a result, documentation below may be outdated.
 

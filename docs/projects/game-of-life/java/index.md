@@ -193,8 +193,8 @@ public class GameOfLife {
 
 Game Of Life in Java was written by:
 
-- Jeremy Grifski
 - Ganesh Naik
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 01 2020 12:48:43. The solution was first committed on Apr 28 2018 00:43:41. As a result, documentation below may be outdated.
 

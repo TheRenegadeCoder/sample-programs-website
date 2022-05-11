@@ -94,8 +94,8 @@ if __name__ == '__main__':
 
 Convex Hull in Python was written by:
 
-- Jeremy Grifski
 - Vicrobot
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Oct 22 2019 05:05:49. As a result, documentation below may be outdated.
 

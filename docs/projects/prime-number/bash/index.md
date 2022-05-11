@@ -66,8 +66,8 @@ exit 0
 
 Prime Number in Bash was written by:
 
-- Jeremy Grifski
 - thetbl
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 22 2021 15:02:49. The solution was first committed on Oct 14 2019 21:17:21. As a result, documentation below may be outdated.
 

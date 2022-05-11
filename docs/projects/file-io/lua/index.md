@@ -37,8 +37,8 @@ reader()
 
 File Io in Lua was written by:
 
-- Jeremy Grifski
 - bhaskar_datta
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 19:22:39. The solution was first committed on Oct 31 2019 19:41:27. As a result, documentation below may be outdated.
 

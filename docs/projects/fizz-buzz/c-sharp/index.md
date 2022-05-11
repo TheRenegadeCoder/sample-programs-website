@@ -52,8 +52,8 @@ namespace FizzBuzz
 
 Fizz Buzz in C# was written by:
 
-- Jeremy Grifski
 - Parker Johansen
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 26 2019 00:00:41. The solution was first committed on Aug 14 2018 11:18:18. As a result, documentation below may be outdated.
 

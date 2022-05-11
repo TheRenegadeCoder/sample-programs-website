@@ -37,8 +37,8 @@ func main() {
 
 Fizz Buzz in Go was written by:
 
-- Jeremy Grifski
 - Parker Johansen
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 01 2019 02:39:12. The solution was first committed on Aug 13 2018 18:15:45. As a result, documentation below may be outdated.
 

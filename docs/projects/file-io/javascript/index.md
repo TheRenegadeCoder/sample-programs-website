@@ -47,8 +47,8 @@ writeFile();
 
 File Io in Javascript was written by:
 
-- Jeremy Grifski
 - Manan Gill
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2019 16:27:27. The solution was first committed on Oct 10 2019 14:10:37. As a result, documentation below may be outdated.
 

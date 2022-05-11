@@ -36,8 +36,8 @@ main = do
 
 Capitalize in Haskell was written by:
 
-- Jeremy Grifski
 - Amanda Eubanks
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 23:11:24. The solution was first committed on Oct 13 2019 17:52:43. As a result, documentation below may be outdated.
 

@@ -96,9 +96,9 @@ fun quickSort(arr: IntArray):IntArray
 
 Quick Sort in Kotlin was written by:
 
-- Jeremy Grifski
 - mikenmo
 - Blake.Ke
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 22:39:08. The solution was first committed on Oct 01 2020 21:55:29. As a result, documentation below may be outdated.
 
