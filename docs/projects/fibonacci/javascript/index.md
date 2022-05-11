@@ -9,7 +9,7 @@ authors: [Alina1Black]
 
 ---
 
-Welcome to the Fibonacci in Javascript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -40,10 +40,12 @@ if (num && !isNaN(num)) {
 
 {% endraw %}
 
-Fibonacci in Javascript was written by:
+[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
-- Parker Johansen
 - Marius
+- Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2019 00:40:32. The solution was first committed on Oct 04 2018 13:17:58. As a result, documentation below may be outdated.
 

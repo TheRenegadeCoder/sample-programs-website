@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Hello World in C page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -28,10 +28,12 @@ int main()
 
 {% endraw %}
 
-Hello World in C was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Jeremy Griffith
 - Christoph Böhmwalder
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Jul 24 2018 11:02:56. The solution was first committed on Mar 15 2018 20:27:08. As a result, documentation below may be outdated.
 

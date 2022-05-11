@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Bubble Sort in Go page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -85,9 +85,11 @@ func main() {
 
 {% endraw %}
 
-Bubble Sort in Go was written by:
+[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Go](https://sampleprograms.io/languages/go) was written by:
 
 - Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 25 2019 19:45:18. The solution was first committed on Mar 05 2019 12:01:36. As a result, documentation below may be outdated.
 

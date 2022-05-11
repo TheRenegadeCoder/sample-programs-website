@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Maximum Subarray in Python page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -47,9 +47,11 @@ if __name__ == "__main__":
 
 {% endraw %}
 
-Maximum Subarray in Python was written by:
+[Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Divyansh Agarwal
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

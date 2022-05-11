@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the File Io in C page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Io](https://sampleprograms.io/projects/file-io) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -79,9 +79,11 @@ int main(int argc, char **argv)
 
 {% endraw %}
 
-File Io in C was written by:
+[File Io](https://sampleprograms.io/projects/file-io) in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Christoph Böhmwalder
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

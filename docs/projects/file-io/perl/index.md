@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the File Io in Perl page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Io](https://sampleprograms.io/projects/file-io) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -45,9 +45,11 @@ Main();
 
 {% endraw %}
 
-File Io in Perl was written by:
+[File Io](https://sampleprograms.io/projects/file-io) in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
 - Ewerton Queiroz
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2019 01:29:31. The solution was first committed on Oct 15 2019 01:15:38. As a result, documentation below may be outdated.
 

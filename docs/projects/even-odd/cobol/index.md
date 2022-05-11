@@ -9,7 +9,7 @@ authors: [ShivaniThevar]
 
 ---
 
-Welcome to the Even Odd in Cobol page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Cobol](https://sampleprograms.io/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -40,9 +40,11 @@ IDENTIFICATION DIVISION.
 
 {% endraw %}
 
-Even Odd in Cobol was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [Cobol](https://sampleprograms.io/languages/cobol) was written by:
 
 - Sudhanshu Dubey
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Hello World in Ferret page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Ferret](https://sampleprograms.io/languages/ferret) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -20,9 +20,11 @@ Welcome to the Hello World in Ferret page! Here, you'll find the source code for
 
 {% endraw %}
 
-Hello World in Ferret was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Ferret](https://sampleprograms.io/languages/ferret) was written by:
 
 - Arfat Salman
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

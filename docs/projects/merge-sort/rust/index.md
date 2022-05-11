@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Merge Sort in Rust page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -80,9 +80,11 @@ fn main() {
 
 {% endraw %}
 
-Merge Sort in Rust was written by:
+[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Andrew Johnson
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

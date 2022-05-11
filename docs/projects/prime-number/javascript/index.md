@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Prime Number in Javascript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -38,10 +38,12 @@ const isPrime = (number) => {
 
 {% endraw %}
 
-Prime Number in Javascript was written by:
+[Prime Number](https://sampleprograms.io/projects/prime-number) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Jayden Thrasher
 - Ganesh Naik
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 03 2020 23:29:26. The solution was first committed on Oct 05 2019 14:01:08. As a result, documentation below may be outdated.
 

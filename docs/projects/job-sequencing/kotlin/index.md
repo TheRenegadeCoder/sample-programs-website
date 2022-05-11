@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Job Sequencing in Kotlin page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -66,10 +66,12 @@ fun String.toIntArray() = split(",").mapNotNull { it.trim().toIntOrNull() }
 
 {% endraw %}
 
-Job Sequencing in Kotlin was written by:
+[Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
-- Blake.Ke
 - smallblack9
+- Blake.Ke
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 23:34:00. The solution was first committed on Oct 08 2020 21:50:57. As a result, documentation below may be outdated.
 

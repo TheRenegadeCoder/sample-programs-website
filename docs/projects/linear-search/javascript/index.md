@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Linear Search in Javascript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -57,10 +57,12 @@ main(process.argv[2], process.argv[3])
 
 {% endraw %}
 
-Linear Search in Javascript was written by:
+[Linear Search](https://sampleprograms.io/projects/linear-search) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
-- NameerWaqas
 - Jeremy Grifski
+- NameerWaqas
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 02 2020 21:59:26. The solution was first committed on Oct 01 2020 13:30:39. As a result, documentation below may be outdated.
 

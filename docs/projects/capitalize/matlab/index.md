@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Capitalize in Matlab page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Matlab](https://sampleprograms.io/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -30,9 +30,11 @@ end
 
 {% endraw %}
 
-Capitalize in Matlab was written by:
+[Capitalize](https://sampleprograms.io/projects/capitalize) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
 
 - iwishiwasaneagle
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 02 2020 11:51:28. The solution was first committed on Oct 02 2020 11:42:05. As a result, documentation below may be outdated.
 

@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Hello World in Opa page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Opa](https://sampleprograms.io/languages/opa) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -29,9 +29,11 @@ Server.start(
 
 {% endraw %}
 
-Hello World in Opa was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Opa](https://sampleprograms.io/languages/opa) was written by:
 
 - Nico Villanueva
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

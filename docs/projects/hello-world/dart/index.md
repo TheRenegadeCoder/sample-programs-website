@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Hello World in Dart page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -22,9 +22,11 @@ void main() => print('Hello, World!');
 
 {% endraw %}
 
-Hello World in Dart was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
 - Jeremy Grifski
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

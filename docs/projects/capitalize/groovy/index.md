@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Capitalize in Groovy page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Groovy](https://sampleprograms.io/languages/groovy) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -25,9 +25,11 @@ class Capitalize {
 
 {% endraw %}
 
-Capitalize in Groovy was written by:
+[Capitalize](https://sampleprograms.io/projects/capitalize) in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
 
 - robin
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

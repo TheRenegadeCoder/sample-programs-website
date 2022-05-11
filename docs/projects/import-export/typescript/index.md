@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Welcome to the Import Export in Typescript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Import Export](https://sampleprograms.io/projects/import-export) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -25,9 +25,11 @@ console.log(myGreeting);
 
 {% endraw %}
 
-Import Export in Typescript was written by:
+[Import Export](https://sampleprograms.io/projects/import-export) in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
 
 - Anna
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

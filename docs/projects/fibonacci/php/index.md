@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fibonacci in Php page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -36,10 +36,12 @@ for ($index = 1; $index <= $input; $index++) {
 
 {% endraw %}
 
-Fibonacci in Php was written by:
+[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - Parker Johansen
 - Carles Capell
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2019 00:25:43. The solution was first committed on Jan 03 2019 09:42:35. As a result, documentation below may be outdated.
 

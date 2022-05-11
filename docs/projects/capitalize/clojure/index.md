@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Capitalize in Clojure page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Clojure](https://sampleprograms.io/languages/clojure) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -43,10 +43,12 @@ Welcome to the Capitalize in Clojure page! Here, you'll find the source code for
 
 {% endraw %}
 
-Capitalize in Clojure was written by:
+[Capitalize](https://sampleprograms.io/projects/capitalize) in [Clojure](https://sampleprograms.io/languages/clojure) was written by:
 
-- pablocostass
 - Jeremy Grifski
+- pablocostass
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 23:49:48. The solution was first committed on Oct 10 2019 23:54:24. As a result, documentation below may be outdated.
 

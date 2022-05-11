@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Baklava in Julia page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Julia](https://sampleprograms.io/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -33,10 +33,12 @@ main()
 
 {% endraw %}
 
-Baklava in Julia was written by:
+[Baklava](https://sampleprograms.io/projects/baklava) in [Julia](https://sampleprograms.io/languages/julia) was written by:
 
-- germmand
 - Jeremy Grifski
+- germmand
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 27 2019 14:00:36. The solution was first committed on Oct 04 2018 17:07:58. As a result, documentation below may be outdated.
 

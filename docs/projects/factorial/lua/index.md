@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Factorial in Lua page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -63,10 +63,12 @@ main(arg[1])
 
 {% endraw %}
 
-Factorial in Lua was written by:
+[Factorial](https://sampleprograms.io/projects/factorial) in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
-- Matt Wiley
 - Jeremy Grifski
+- Matt Wiley
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 19:22:39. The solution was first committed on Oct 10 2019 12:43:45. As a result, documentation below may be outdated.
 

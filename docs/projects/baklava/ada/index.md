@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Baklava in Ada page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Ada](https://sampleprograms.io/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -45,9 +45,11 @@ end Baklava;
 
 {% endraw %}
 
-Baklava in Ada was written by:
+[Baklava](https://sampleprograms.io/projects/baklava) in [Ada](https://sampleprograms.io/languages/ada) was written by:
 
 - Gagan Agarwal
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

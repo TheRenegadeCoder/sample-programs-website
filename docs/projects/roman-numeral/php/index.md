@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Roman Numeral in Php page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -108,11 +108,13 @@ try {
 
 {% endraw %}
 
-Roman Numeral in Php was written by:
+[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Php](https://sampleprograms.io/languages/php) was written by:
 
-- Juan D Frias
 - Parker Johansen
 - Jeremy Grifski
+- Juan D Frias
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 14 2019 11:54:09. As a result, documentation below may be outdated.
 

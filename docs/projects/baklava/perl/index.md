@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Baklava in Perl page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -31,9 +31,11 @@ for my $j (0..$size){
 
 {% endraw %}
 
-Baklava in Perl was written by:
+[Baklava](https://sampleprograms.io/projects/baklava) in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
 - Kateryna Tokar
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

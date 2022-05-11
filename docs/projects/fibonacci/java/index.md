@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fibonacci in Java page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -40,10 +40,12 @@ public class Fibonacci {
 
 {% endraw %}
 
-Fibonacci in Java was written by:
+[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Java](https://sampleprograms.io/languages/java) was written by:
 
-- Parker Johansen
 - Marius
+- Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2019 00:40:32. The solution was first committed on Oct 03 2018 13:08:02. As a result, documentation below may be outdated.
 

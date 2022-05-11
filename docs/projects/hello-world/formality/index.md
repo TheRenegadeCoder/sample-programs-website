@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Hello World in Formality page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Formality](https://sampleprograms.io/languages/formality) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -22,9 +22,11 @@ main : Output
 
 {% endraw %}
 
-Hello World in Formality was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Formality](https://sampleprograms.io/languages/formality) was written by:
 
 - Michael Beebower
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Hello World in Javascript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,9 +19,11 @@ console.log("Hello, World!")
 
 {% endraw %}
 
-Hello World in Javascript was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Jeremy Griffith
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

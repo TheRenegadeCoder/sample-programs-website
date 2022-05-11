@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Even Odd in P4 page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [P4](https://sampleprograms.io/languages/p4) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -203,9 +203,11 @@ MyDeparser()
 
 {% endraw %}
 
-Even Odd in P4 was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [P4](https://sampleprograms.io/languages/p4) was written by:
 
 - Fabricio Rodríguez
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

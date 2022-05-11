@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Capitalize in Javascript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -32,10 +32,12 @@ main();
 
 {% endraw %}
 
-Capitalize in Javascript was written by:
+[Capitalize](https://sampleprograms.io/projects/capitalize) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Daniel Luna
 - Jeremy Grifski
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 22:14:44. The solution was first committed on Mar 31 2019 14:33:47. As a result, documentation below may be outdated.
 

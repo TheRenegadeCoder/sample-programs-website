@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Hello World in Lolcode page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Lolcode](https://sampleprograms.io/languages/lolcode) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -21,10 +21,12 @@ KTHXBYE
 
 {% endraw %}
 
-Hello World in Lolcode was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Lolcode](https://sampleprograms.io/languages/lolcode) was written by:
 
-- Muhammad
 - Jeremy Grifski
+- Muhammad
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Aug 10 2021 02:13:11. The solution was first committed on May 11 2018 00:47:40. As a result, documentation below may be outdated.
 

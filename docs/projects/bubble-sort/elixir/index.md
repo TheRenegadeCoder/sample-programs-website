@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Bubble Sort in Elixir page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Elixir](https://sampleprograms.io/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -63,10 +63,12 @@ Bubble.main(System.argv())
 
 {% endraw %}
 
-Bubble Sort in Elixir was written by:
+[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
 
-- Sree Siva Sandeep Palaparthi
 - Jeremy Grifski
+- Sree Siva Sandeep Palaparthi
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 00:35:06. The solution was first committed on Oct 03 2019 22:47:13. As a result, documentation below may be outdated.
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Baklava in Swift page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -27,9 +27,11 @@ baklava(maxWidth: 10)
 
 {% endraw %}
 
-Baklava in Swift was written by:
+[Baklava](https://sampleprograms.io/projects/baklava) in [Swift](https://sampleprograms.io/languages/swift) was written by:
 
 - Mark Magahis
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 22 2018 22:36:07. The solution was first committed on Oct 20 2018 11:42:26. As a result, documentation below may be outdated.
 

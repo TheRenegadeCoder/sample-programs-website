@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fibonacci in Objective C page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Objective C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -33,9 +33,11 @@ int main(void)
 
 {% endraw %}
 
-Fibonacci in Objective C was written by:
+[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - Renato
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

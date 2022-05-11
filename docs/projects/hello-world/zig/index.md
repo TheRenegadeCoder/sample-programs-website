@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Hello World in Zig page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Zig](https://sampleprograms.io/languages/zig) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -24,9 +24,11 @@ pub fn main() !void {
 
 {% endraw %}
 
-Hello World in Zig was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Zig](https://sampleprograms.io/languages/zig) was written by:
 
 - Palash Dubey
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

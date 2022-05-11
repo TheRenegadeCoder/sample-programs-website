@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Game Of Life in Kotlin page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Game Of Life](https://sampleprograms.io/projects/game-of-life) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -155,9 +155,11 @@ fun main(args: Array<String>) {
 
 {% endraw %}
 
-Game Of Life in Kotlin was written by:
+[Game Of Life](https://sampleprograms.io/projects/game-of-life) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 - xphlawlessx
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

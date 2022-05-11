@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Insertion Sort in Java page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -82,10 +82,12 @@ public class InsertionSort {
 
 {% endraw %}
 
-Insertion Sort in Java was written by:
+[Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Shubham Raj
 - Ganesh Naik
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 01 2020 14:39:31. The solution was first committed on Oct 14 2019 23:58:22. As a result, documentation below may be outdated.
 

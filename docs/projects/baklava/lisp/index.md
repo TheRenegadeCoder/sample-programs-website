@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Baklava in Lisp page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Lisp](https://sampleprograms.io/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -34,10 +34,12 @@ Welcome to the Baklava in Lisp page! Here, you'll find the source code for this 
 
 {% endraw %}
 
-Baklava in Lisp was written by:
+[Baklava](https://sampleprograms.io/projects/baklava) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
 
-- Parker Johansen
 - Stuart Irwin
+- Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 11:45:55. The solution was first committed on Nov 09 2019 13:11:46. As a result, documentation below may be outdated.
 

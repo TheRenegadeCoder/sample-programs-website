@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Even Odd in Go page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -47,10 +47,12 @@ func main() {
 
 {% endraw %}
 
-Even Odd in Go was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [Go](https://sampleprograms.io/languages/go) was written by:
 
-- Parker Johansen
 - clarkimusmax
+- Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 01 2019 02:39:12. The solution was first committed on Oct 25 2018 20:22:28. As a result, documentation below may be outdated.
 

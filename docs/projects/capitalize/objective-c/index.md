@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Capitalize in Objective C page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Objective C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -44,9 +44,11 @@ int main(int argc, const char * argv[]) {
 
 {% endraw %}
 
-Capitalize in Objective C was written by:
+[Capitalize](https://sampleprograms.io/projects/capitalize) in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - Cristiano Lopes
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

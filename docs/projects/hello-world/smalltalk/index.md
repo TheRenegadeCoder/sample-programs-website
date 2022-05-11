@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Hello World in Smalltalk page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Smalltalk](https://sampleprograms.io/languages/smalltalk) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,9 +19,11 @@ Transcript show: 'Hello, World!'.
 
 {% endraw %}
 
-Hello World in Smalltalk was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Smalltalk](https://sampleprograms.io/languages/smalltalk) was written by:
 
 - Jeremy Grifski
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

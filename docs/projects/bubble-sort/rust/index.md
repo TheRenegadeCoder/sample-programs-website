@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Bubble Sort in Rust page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -55,9 +55,11 @@ fn main() {
 
 {% endraw %}
 
-Bubble Sort in Rust was written by:
+[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Andrew Johnson
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Baklava in Haskell page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -41,9 +41,11 @@ line space asterisk = replicate space ' ' ++ replicate asterisk '*'
 
 {% endraw %}
 
-Baklava in Haskell was written by:
+[Baklava](https://sampleprograms.io/projects/baklava) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
 
 - Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 26 2019 01:21:45. The solution was first committed on Oct 20 2018 14:28:34. As a result, documentation below may be outdated.
 

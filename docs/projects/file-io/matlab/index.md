@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the File Io in Matlab page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Io](https://sampleprograms.io/projects/file-io) in [Matlab](https://sampleprograms.io/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,9 +37,11 @@ fprintf(a)
 
 {% endraw %}
 
-File Io in Matlab was written by:
+[File Io](https://sampleprograms.io/projects/file-io) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
 
 - iwishiwasaneagle
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

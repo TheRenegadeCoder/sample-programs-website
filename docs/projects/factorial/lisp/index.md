@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Factorial in Lisp page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Lisp](https://sampleprograms.io/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -35,10 +35,12 @@ Welcome to the Factorial in Lisp page! Here, you'll find the source code for thi
 
 {% endraw %}
 
-Factorial in Lisp was written by:
+[Factorial](https://sampleprograms.io/projects/factorial) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
 
-- Parker Johansen
 - Renato
+- Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 06:48:59. The solution was first committed on Oct 01 2020 17:40:32. As a result, documentation below may be outdated.
 

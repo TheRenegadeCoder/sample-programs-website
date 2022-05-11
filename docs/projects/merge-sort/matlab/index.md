@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Merge Sort in Matlab page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Matlab](https://sampleprograms.io/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -73,9 +73,11 @@ end
 
 {% endraw %}
 
-Merge Sort in Matlab was written by:
+[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
 
 - Nikhil Gupta
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

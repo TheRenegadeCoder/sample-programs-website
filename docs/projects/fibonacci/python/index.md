@@ -9,7 +9,7 @@ authors: [shubhragupta-code]
 
 ---
 
-Welcome to the Fibonacci in Python page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -51,10 +51,12 @@ if __name__ == "__main__":
 
 {% endraw %}
 
-Fibonacci in Python was written by:
+[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Python](https://sampleprograms.io/languages/python) was written by:
 
-- Parker Johansen
 - Marius
+- Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2019 00:40:32. The solution was first committed on Oct 06 2018 15:20:01. As a result, documentation below may be outdated.
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Even Odd in Perl page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -35,9 +35,11 @@ if ($number % 2 == 0) {
 
 {% endraw %}
 
-Even Odd in Perl was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
 - Gabriela Kandová
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

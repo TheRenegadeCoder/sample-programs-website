@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Bubble Sort in Visual Basic page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Visual Basic](https://sampleprograms.io/languages/visual-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -43,9 +43,11 @@ End Module
 
 {% endraw %}
 
-Bubble Sort in Visual Basic was written by:
+[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Visual Basic](https://sampleprograms.io/languages/visual-basic) was written by:
 
 - Thomas Braccia
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 01 2020 19:12:59. The solution was first committed on Oct 01 2020 15:35:27. As a result, documentation below may be outdated.
 

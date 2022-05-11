@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Fizz Buzz in Swift page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -45,9 +45,11 @@ fizzBuzz();
 
 {% endraw %}
 
-Fizz Buzz in Swift was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Swift](https://sampleprograms.io/languages/swift) was written by:
 
 - Marty Hernandez Avedon
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 03 2018 18:20:42. The solution was first committed on Oct 03 2018 15:06:30. As a result, documentation below may be outdated.
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fraction Math in Swift page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -174,9 +174,11 @@ default:
 
 {% endraw %}
 
-Fraction Math in Swift was written by:
+[Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Swift](https://sampleprograms.io/languages/swift) was written by:
 
 - Zapnuk
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 01 2020 17:31:54. The solution was first committed on Oct 01 2020 17:07:28. As a result, documentation below may be outdated.
 

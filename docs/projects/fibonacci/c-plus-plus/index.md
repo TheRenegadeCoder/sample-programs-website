@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fibonacci in C++ page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -49,10 +49,12 @@ int main(int argc, char *argv[])
 
 {% endraw %}
 
-Fibonacci in C++ was written by:
+[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
-- Parker Johansen
 - Marius
+- Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 12 2019 09:55:23. The solution was first committed on Oct 06 2018 16:51:18. As a result, documentation below may be outdated.
 

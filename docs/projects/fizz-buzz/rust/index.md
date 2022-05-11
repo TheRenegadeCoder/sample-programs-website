@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Fizz Buzz in Rust page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -34,10 +34,12 @@ fn main() {
 
 {% endraw %}
 
-Fizz Buzz in Rust was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
-- Vincent Caron
 - Noah Nichols
+- Vincent Caron
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Jul 12 2019 10:44:03. The solution was first committed on Sep 24 2018 13:31:57. As a result, documentation below may be outdated.
 

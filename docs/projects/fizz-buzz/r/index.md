@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fizz Buzz in R page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [R](https://sampleprograms.io/languages/r) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,10 +37,12 @@ fizz_buzz()
 
 {% endraw %}
 
-Fizz Buzz in R was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [R](https://sampleprograms.io/languages/r) was written by:
 
-- Gabi Herman
 - Jeremy Grifski
+- Gabi Herman
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 18 2020 17:59:43. The solution was first committed on Oct 24 2019 16:13:46. As a result, documentation below may be outdated.
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the File Io in Kotlin page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Io](https://sampleprograms.io/projects/file-io) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -41,9 +41,11 @@ fun main(args: Array<String>) {
 
 {% endraw %}
 
-File Io in Kotlin was written by:
+[File Io](https://sampleprograms.io/projects/file-io) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 - Tim Lange
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Reverse String in Java page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -30,10 +30,12 @@ public class ReverseString {
 
 {% endraw %}
 
-Reverse String in Java was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Jeremy Griffith
 - Jeremy Grifski
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 25 2018 17:16:58. The solution was first committed on Apr 13 2018 15:12:54. As a result, documentation below may be outdated.
 

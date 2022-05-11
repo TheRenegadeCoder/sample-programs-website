@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Bubble Sort in C++ page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -112,9 +112,11 @@ int main(int argc, char *argv[]) {
 
 {% endraw %}
 
-Bubble Sort in C++ was written by:
+[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Jayden Thrasher
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 03 2019 15:55:46. The solution was first committed on Oct 02 2019 20:31:08. As a result, documentation below may be outdated.
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Quick Sort in Lisp page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Lisp](https://sampleprograms.io/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -73,10 +73,12 @@ Welcome to the Quick Sort in Lisp page! Here, you'll find the source code for th
 
 {% endraw %}
 
-Quick Sort in Lisp was written by:
+[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
 
 - Parker Johansen
 - Palash Dubey
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 09:45:24. The solution was first committed on Oct 04 2020 17:56:31. As a result, documentation below may be outdated.
 

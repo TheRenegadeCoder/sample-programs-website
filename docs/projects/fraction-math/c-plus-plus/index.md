@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Fraction Math in C++ page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -294,10 +294,12 @@ int main(int argc, char const *argv[]){
 
 {% endraw %}
 
-Fraction Math in C++ was written by:
+[Fraction Math](https://sampleprograms.io/projects/fraction-math) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
-- Niraj Kamdar
 - Jeremy Grifski
+- Niraj Kamdar
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 10 2022 16:42:22. The solution was first committed on Oct 10 2019 21:43:40. As a result, documentation below may be outdated.
 

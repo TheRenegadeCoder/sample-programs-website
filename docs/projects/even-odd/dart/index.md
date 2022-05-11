@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Even Odd in Dart page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -26,9 +26,11 @@ void main(List<String> args) {
 
 {% endraw %}
 
-Even Odd in Dart was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
 - Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

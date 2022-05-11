@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Reverse String in Scala page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Scala](https://sampleprograms.io/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -47,10 +47,12 @@ object ReverseStringSample {
 
 {% endraw %}
 
-Reverse String in Scala was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
-- Viet Thang Nguyen
 - Vee Ng
+- Viet Thang Nguyen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 22 2019 16:16:44. The solution was first committed on Mar 22 2019 12:59:04. As a result, documentation below may be outdated.
 

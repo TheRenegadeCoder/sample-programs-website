@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the LPS in Python page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [LPS](https://sampleprograms.io/projects/lps) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -62,9 +62,11 @@ if __name__ == '__main__':
 
 {% endraw %}
 
-LPS in Python was written by:
+[LPS](https://sampleprograms.io/projects/lps) in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - izexi
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

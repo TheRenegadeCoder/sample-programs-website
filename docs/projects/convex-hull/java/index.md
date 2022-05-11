@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Convex Hull in Java page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -80,9 +80,11 @@ class Point
 
 {% endraw %}
 
-Convex Hull in Java was written by:
+[Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - jsonW0
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

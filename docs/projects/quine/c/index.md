@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Quine in C page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -20,9 +20,11 @@ int main() { char* s="#include %cstdio.h%c%cint main() { char* s=%c%s%c; printf(
 
 {% endraw %}
 
-Quine in C was written by:
+[Quine](https://sampleprograms.io/projects/quine) in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Juan D Frias
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

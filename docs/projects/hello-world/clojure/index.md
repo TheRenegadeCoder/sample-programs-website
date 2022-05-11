@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Hello World in Clojure page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Clojure](https://sampleprograms.io/languages/clojure) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -27,9 +27,11 @@ Welcome to the Hello World in Clojure page! Here, you'll find the source code fo
 
 {% endraw %}
 
-Hello World in Clojure was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Clojure](https://sampleprograms.io/languages/clojure) was written by:
 
 - Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Dec 23 2018 15:29:16. The solution was first committed on Dec 22 2018 21:06:24. As a result, documentation below may be outdated.
 

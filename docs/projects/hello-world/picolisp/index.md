@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Hello World in Picolisp page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Picolisp](https://sampleprograms.io/languages/picolisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -22,9 +22,11 @@ Welcome to the Hello World in Picolisp page! Here, you'll find the source code f
 
 {% endraw %}
 
-Hello World in Picolisp was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Picolisp](https://sampleprograms.io/languages/picolisp) was written by:
 
 - Jeremy Grifski
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

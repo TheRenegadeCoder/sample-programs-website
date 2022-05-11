@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the MST in C page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [MST](https://sampleprograms.io/projects/mst) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -158,10 +158,12 @@ int main(int argc,char **argv)
 
 {% endraw %}
 
-MST in C was written by:
+[MST](https://sampleprograms.io/projects/mst) in [C](https://sampleprograms.io/languages/c) was written by:
 
-- LezendarySandwich
 - Jeremy Grifski
+- LezendarySandwich
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 28 2022 18:14:37. The solution was first committed on Oct 20 2019 01:25:16. As a result, documentation below may be outdated.
 

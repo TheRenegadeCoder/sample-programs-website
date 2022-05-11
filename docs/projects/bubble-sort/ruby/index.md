@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Bubble Sort in Ruby page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -45,10 +45,12 @@ end
 
 {% endraw %}
 
-Bubble Sort in Ruby was written by:
+[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
-- Parker Johansen
 - Jeremy Grifski
+- Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 20 2019 19:51:53. The solution was first committed on Mar 20 2019 15:25:56. As a result, documentation below may be outdated.
 

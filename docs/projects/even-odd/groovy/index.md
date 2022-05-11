@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Even Odd in Groovy page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Groovy](https://sampleprograms.io/languages/groovy) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -27,9 +27,11 @@ class EvenOdd {
 
 {% endraw %}
 
-Even Odd in Groovy was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
 
 - robin
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

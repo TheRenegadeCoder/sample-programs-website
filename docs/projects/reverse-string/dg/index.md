@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Reverse String in Dg page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Dg](https://sampleprograms.io/languages/dg) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -29,9 +29,11 @@ print $ reverse <| snd_if_exists argv
 
 {% endraw %}
 
-Reverse String in Dg was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Dg](https://sampleprograms.io/languages/dg) was written by:
 
 - Riley Martine
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

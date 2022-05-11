@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Game Of Life in Bash page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Game Of Life](https://sampleprograms.io/projects/game-of-life) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -271,9 +271,11 @@ done
 
 {% endraw %}
 
-Game Of Life in Bash was written by:
+[Game Of Life](https://sampleprograms.io/projects/game-of-life) in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
 - Juan D Frias
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Fizz Buzz in Lisp page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Lisp](https://sampleprograms.io/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -31,9 +31,11 @@ Welcome to the Fizz Buzz in Lisp page! Here, you'll find the source code for thi
 
 {% endraw %}
 
-Fizz Buzz in Lisp was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
 
 - Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 10:18:56. The solution was first committed on Oct 10 2020 18:18:40. As a result, documentation below may be outdated.
 

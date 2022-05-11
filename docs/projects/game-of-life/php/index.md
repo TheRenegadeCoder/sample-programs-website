@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Game Of Life in Php page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Game Of Life](https://sampleprograms.io/projects/game-of-life) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -286,10 +286,12 @@ exit(0);
 
 {% endraw %}
 
-Game Of Life in Php was written by:
+[Game Of Life](https://sampleprograms.io/projects/game-of-life) in [Php](https://sampleprograms.io/languages/php) was written by:
 
-- Juan D Frias
 - Jeremy Grifski
+- Juan D Frias
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 15 2019 15:44:58. As a result, documentation below may be outdated.
 

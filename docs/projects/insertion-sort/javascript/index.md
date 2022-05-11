@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Insertion Sort in Javascript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -55,10 +55,12 @@ main(process.argv[2])
 
 {% endraw %}
 
-Insertion Sort in Javascript was written by:
+[Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Eliver L
 - EliverLara
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2019 20:58:46. The solution was first committed on Oct 10 2019 17:29:27. As a result, documentation below may be outdated.
 

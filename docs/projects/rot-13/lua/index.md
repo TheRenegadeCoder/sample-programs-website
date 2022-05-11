@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Rot 13 in Lua page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Rot 13](https://sampleprograms.io/projects/rot-13) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,10 +37,12 @@ io.write("\n")
 
 {% endraw %}
 
-Rot 13 in Lua was written by:
+[Rot 13](https://sampleprograms.io/projects/rot-13) in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
 - Alex Gustafsson
 - Jeremy Grifski
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 19:22:39. The solution was first committed on Oct 18 2019 23:31:32. As a result, documentation below may be outdated.
 

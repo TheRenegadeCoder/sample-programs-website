@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Import Export in C page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Import Export](https://sampleprograms.io/projects/import-export) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,9 +19,11 @@ char str[] = "Sample Programs";
 
 {% endraw %}
 
-Import Export in C was written by:
+[Import Export](https://sampleprograms.io/projects/import-export) in [C](https://sampleprograms.io/languages/c) was written by:
 
 - manasmithamn
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Rot 13 in Javascript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Rot 13](https://sampleprograms.io/projects/rot-13) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -53,9 +53,11 @@ main(process.argv[2]);
 
 {% endraw %}
 
-Rot 13 in Javascript was written by:
+[Rot 13](https://sampleprograms.io/projects/rot-13) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - mericleac
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

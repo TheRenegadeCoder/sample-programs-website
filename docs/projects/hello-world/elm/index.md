@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Hello World in Elm page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Elm](https://sampleprograms.io/languages/elm) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -27,9 +27,11 @@ main =
 
 {% endraw %}
 
-Hello World in Elm was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Elm](https://sampleprograms.io/languages/elm) was written by:
 
 - Jeremy Griffith
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 19 2018 18:37:30. The solution was first committed on Apr 11 2018 12:33:24. As a result, documentation below may be outdated.
 

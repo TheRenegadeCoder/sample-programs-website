@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Reverse String in Matlab page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Matlab](https://sampleprograms.io/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -21,9 +21,11 @@ end
 
 {% endraw %}
 
-Reverse String in Matlab was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
 
 - iwishiwasaneagle
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

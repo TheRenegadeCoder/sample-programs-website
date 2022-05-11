@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fizz Buzz in Crystal page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Crystal](https://sampleprograms.io/languages/crystal) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -31,9 +31,11 @@ end
 
 {% endraw %}
 
-Fizz Buzz in Crystal was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Crystal](https://sampleprograms.io/languages/crystal) was written by:
 
 - Noah Nichols
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

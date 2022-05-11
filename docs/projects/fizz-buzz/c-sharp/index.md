@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fizz Buzz in C# page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [C#](https://sampleprograms.io/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -50,10 +50,12 @@ namespace FizzBuzz
 
 {% endraw %}
 
-Fizz Buzz in C# was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
-- Parker Johansen
 - Jeremy Grifski
+- Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 26 2019 00:00:41. The solution was first committed on Aug 14 2018 11:18:18. As a result, documentation below may be outdated.
 

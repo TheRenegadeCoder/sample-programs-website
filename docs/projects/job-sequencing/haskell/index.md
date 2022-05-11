@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Job Sequencing in Haskell page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -89,9 +89,11 @@ main = do
 
 {% endraw %}
 
-Job Sequencing in Haskell was written by:
+[Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
 
 - Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

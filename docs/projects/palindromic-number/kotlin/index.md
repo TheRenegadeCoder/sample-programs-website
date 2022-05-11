@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Palindromic Number in Kotlin page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -53,10 +53,12 @@ fun main(args: Array<String>) {
 
 {% endraw %}
 
-Palindromic Number in Kotlin was written by:
+[Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 - Blake.Ke
 - Isaac Anohene
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 23:21:48. The solution was first committed on Oct 08 2020 16:44:11. As a result, documentation below may be outdated.
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the LCS in Kotlin page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [LCS](https://sampleprograms.io/projects/lcs) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -48,10 +48,12 @@ fun main(args: Array<String>) {
 
 {% endraw %}
 
-LCS in Kotlin was written by:
+[LCS](https://sampleprograms.io/projects/lcs) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 - Blake.Ke
 - David Phillips
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 23:02:08. The solution was first committed on Oct 05 2020 00:20:57. As a result, documentation below may be outdated.
 

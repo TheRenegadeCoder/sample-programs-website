@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Hello World in Google Apps Script page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Google Apps Script](https://sampleprograms.io/languages/google-apps-script) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -24,10 +24,12 @@ function helloWorld() {
 
 {% endraw %}
 
-Hello World in Google Apps Script was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Google Apps Script](https://sampleprograms.io/languages/google-apps-script) was written by:
 
-- Arun Pattni
 - Jeremy Grifski
+- Arun Pattni
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2018 14:58:56. The solution was first committed on May 09 2018 19:50:32. As a result, documentation below may be outdated.
 

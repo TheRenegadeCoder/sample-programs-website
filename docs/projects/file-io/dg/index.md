@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the File Io in Dg page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Io](https://sampleprograms.io/projects/file-io) in [Dg](https://sampleprograms.io/languages/dg) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -39,10 +39,12 @@ read_file filename
 
 {% endraw %}
 
-File Io in Dg was written by:
+[File Io](https://sampleprograms.io/projects/file-io) in [Dg](https://sampleprograms.io/languages/dg) was written by:
 
-- Riley Martine
 - Jeremy Grifski
+- Riley Martine
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2018 22:42:39. The solution was first committed on Oct 03 2018 17:19:04. As a result, documentation below may be outdated.
 

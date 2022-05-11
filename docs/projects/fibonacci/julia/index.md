@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fibonacci in Julia page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Julia](https://sampleprograms.io/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,10 +37,12 @@ end
 
 {% endraw %}
 
-Fibonacci in Julia was written by:
+[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Julia](https://sampleprograms.io/languages/julia) was written by:
 
 - Michael King
 - Jeremy Grifski
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 16 2019 10:06:37. The solution was first committed on Oct 12 2018 13:55:57. As a result, documentation below may be outdated.
 

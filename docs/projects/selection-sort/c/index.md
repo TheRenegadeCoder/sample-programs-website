@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Selection Sort in C page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -142,9 +142,11 @@ void selectionSort(long arr[], size_t n)
 
 {% endraw %}
 
-Selection Sort in C was written by:
+[Selection Sort](https://sampleprograms.io/projects/selection-sort) in [C](https://sampleprograms.io/languages/c) was written by:
 
 - vidit624
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

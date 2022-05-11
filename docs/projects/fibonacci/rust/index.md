@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fibonacci in Rust page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -55,9 +55,11 @@ fn main() {
 
 {% endraw %}
 
-Fibonacci in Rust was written by:
+[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Noah Nichols
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 05 2018 10:31:35. The solution was first committed on Oct 05 2018 09:33:10. As a result, documentation below may be outdated.
 

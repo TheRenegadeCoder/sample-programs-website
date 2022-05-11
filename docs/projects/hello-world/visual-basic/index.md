@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Hello World in Visual Basic page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Visual Basic](https://sampleprograms.io/languages/visual-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -26,10 +26,12 @@ End Module
 
 {% endraw %}
 
-Hello World in Visual Basic was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Visual Basic](https://sampleprograms.io/languages/visual-basic) was written by:
 
 - AaronLenoir
 - Jeremy Grifski
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 04 2018 13:58:37. The solution was first committed on May 04 2018 00:59:34. As a result, documentation below may be outdated.
 

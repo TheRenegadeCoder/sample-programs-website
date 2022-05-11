@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fibonacci in Racket page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Racket](https://sampleprograms.io/languages/racket) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -48,10 +48,12 @@ Welcome to the Fibonacci in Racket page! Here, you'll find the source code for t
 
 {% endraw %}
 
-Fibonacci in Racket was written by:
+[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Racket](https://sampleprograms.io/languages/racket) was written by:
 
-- zafar hussain
 - Jeremy Grifski
+- zafar hussain
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 10 2022 22:08:48. The solution was first committed on Oct 31 2019 22:31:00. As a result, documentation below may be outdated.
 

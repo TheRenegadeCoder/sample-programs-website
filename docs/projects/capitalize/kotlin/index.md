@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Capitalize in Kotlin page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -27,10 +27,12 @@ fun main(args: Array<String>) {
 
 {% endraw %}
 
-Capitalize in Kotlin was written by:
+[Capitalize](https://sampleprograms.io/projects/capitalize) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
-- Blake.Ke
 - Saurabh
+- Blake.Ke
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 08 2020 22:09:00. The solution was first committed on Oct 11 2019 23:46:12. As a result, documentation below may be outdated.
 

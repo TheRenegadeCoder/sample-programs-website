@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Fraction Math in Python page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -60,10 +60,12 @@ if __name__ == "__main__":
 
 {% endraw %}
 
-Fraction Math in Python was written by:
+[Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Python](https://sampleprograms.io/languages/python) was written by:
 
-- Niraj Kamdar
 - Jeremy Grifski
+- Niraj Kamdar
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 10 2022 16:42:22. The solution was first committed on Oct 16 2019 12:52:44. As a result, documentation below may be outdated.
 

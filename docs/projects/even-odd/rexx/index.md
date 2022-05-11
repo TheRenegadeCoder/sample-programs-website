@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Even Odd in Rexx page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Rexx](https://sampleprograms.io/languages/rexx) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -29,9 +29,11 @@ say 'Usage: please input a number'; exit
 
 {% endraw %}
 
-Even Odd in Rexx was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [Rexx](https://sampleprograms.io/languages/rexx) was written by:
 
 - Sudhanshu Dubey
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

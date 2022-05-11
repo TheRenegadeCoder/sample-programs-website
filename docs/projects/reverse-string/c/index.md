@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Reverse String in C page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -49,9 +49,11 @@ int main(int argc, char **argv)
 
 {% endraw %}
 
-Reverse String in C was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Christoph Böhmwalder
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Jul 25 2018 01:24:39. The solution was first committed on Jul 24 2018 12:26:56. As a result, documentation below may be outdated.
 

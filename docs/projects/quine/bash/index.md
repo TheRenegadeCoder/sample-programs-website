@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Quine in Bash page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,9 +19,11 @@ echo $BASH_COMMAND
 
 {% endraw %}
 
-Quine in Bash was written by:
+[Quine](https://sampleprograms.io/projects/quine) in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
 - Jeng
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

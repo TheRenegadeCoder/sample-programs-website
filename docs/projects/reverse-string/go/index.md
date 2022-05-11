@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Reverse String in Go page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -44,10 +44,12 @@ func main() {
 
 {% endraw %}
 
-Reverse String in Go was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Go](https://sampleprograms.io/languages/go) was written by:
 
 - Riddhi K
 - Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 01 2019 02:39:12. The solution was first committed on Oct 15 2018 21:21:39. As a result, documentation below may be outdated.
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Reverse String in Rust page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -27,9 +27,11 @@ fn main() {
 
 {% endraw %}
 
-Reverse String in Rust was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Sebastian Veitleder
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

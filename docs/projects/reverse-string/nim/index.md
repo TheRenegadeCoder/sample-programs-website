@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Reverse String in Nim page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Nim](https://sampleprograms.io/languages/nim) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -34,9 +34,11 @@ echo reversed_text
 
 {% endraw %}
 
-Reverse String in Nim was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Nim](https://sampleprograms.io/languages/nim) was written by:
 
 - Michael Olson
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

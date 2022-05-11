@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Factorial in Elixir page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Elixir](https://sampleprograms.io/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -53,11 +53,13 @@ Factorial.main(System.argv())
 
 {% endraw %}
 
-Factorial in Elixir was written by:
+[Factorial](https://sampleprograms.io/projects/factorial) in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
 
-- Parker Johansen
 - Jeremy Grifski
 - pearl2201
+- Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 14:19:14. The solution was first committed on Oct 12 2019 09:32:34. As a result, documentation below may be outdated.
 

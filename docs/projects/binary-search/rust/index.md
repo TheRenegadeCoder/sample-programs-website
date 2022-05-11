@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Binary Search in Rust page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -74,9 +74,11 @@ fn main() {
 
 {% endraw %}
 
-Binary Search in Rust was written by:
+[Binary Search](https://sampleprograms.io/projects/binary-search) in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Andrew Johnson
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 03 2020 18:37:05. The solution was first committed on Oct 03 2020 14:05:42. As a result, documentation below may be outdated.
 

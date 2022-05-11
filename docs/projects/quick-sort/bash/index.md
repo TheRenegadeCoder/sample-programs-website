@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Quick Sort in Bash page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -70,10 +70,12 @@ exit 0
 
 {% endraw %}
 
-Quick Sort in Bash was written by:
+[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
-- tehtbl
 - thetbl
+- tehtbl
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 14 2019 19:50:40. The solution was first committed on Oct 14 2019 10:11:59. As a result, documentation below may be outdated.
 

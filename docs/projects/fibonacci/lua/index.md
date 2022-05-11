@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fibonacci in Lua page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -32,9 +32,11 @@ end
 
 {% endraw %}
 
-Fibonacci in Lua was written by:
+[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
 - Andy Alban
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

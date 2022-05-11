@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Hello World in P page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [P](https://sampleprograms.io/languages/p) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -27,9 +27,11 @@ machine HelloWorld
 
 {% endraw %}
 
-Hello World in P was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [P](https://sampleprograms.io/languages/p) was written by:
 
 - Amanda Hager Lopes de Andrade Katz
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

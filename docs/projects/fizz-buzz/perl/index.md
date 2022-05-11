@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fizz Buzz in Perl page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -33,10 +33,12 @@ for my $n (1..100) {
 
 {% endraw %}
 
-Fizz Buzz in Perl was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
-- Chris Thomas
 - Jeremy Grifski
+- Chris Thomas
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 25 2019 12:44:48. The solution was first committed on Oct 12 2018 17:15:01. As a result, documentation below may be outdated.
 

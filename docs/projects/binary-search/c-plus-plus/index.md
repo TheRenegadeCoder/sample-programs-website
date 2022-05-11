@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Binary Search in C++ page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -126,9 +126,11 @@ int main(int argc,char* argv[]){
 
 {% endraw %}
 
-Binary Search in C++ was written by:
+[Binary Search](https://sampleprograms.io/projects/binary-search) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Sailok Chinta
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

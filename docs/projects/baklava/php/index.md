@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Baklava in Php page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -27,9 +27,11 @@ for ($i = 10;-1 < $i; $i--) {
 
 {% endraw %}
 
-Baklava in Php was written by:
+[Baklava](https://sampleprograms.io/projects/baklava) in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - Jeremy Grifski
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Sep 17 2018 16:48:59. As a result, documentation below may be outdated.
 

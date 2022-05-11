@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Hello World in R page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [R](https://sampleprograms.io/languages/r) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -22,9 +22,11 @@ cat("Hello, World!")
 
 {% endraw %}
 
-Hello World in R was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [R](https://sampleprograms.io/languages/r) was written by:
 
 - Jeremy Grifski
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

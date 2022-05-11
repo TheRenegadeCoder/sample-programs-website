@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Game Of Life in Scala page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Game Of Life](https://sampleprograms.io/projects/game-of-life) in [Scala](https://sampleprograms.io/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -171,9 +171,11 @@ object GameOfLife {
 
 {% endraw %}
 
-Game Of Life in Scala was written by:
+[Game Of Life](https://sampleprograms.io/projects/game-of-life) in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
 - Viet Thang Nguyen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

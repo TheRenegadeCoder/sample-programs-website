@@ -10,7 +10,7 @@ authors: [shubhragupta-code]
 
 ---
 
-Welcome to the Capitalize in Python page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -34,10 +34,12 @@ if __name__ == '__main__':
 
 {% endraw %}
 
-Capitalize in Python was written by:
+[Capitalize](https://sampleprograms.io/projects/capitalize) in [Python](https://sampleprograms.io/languages/python) was written by:
 
-- Manan Gill
 - Jeremy Grifski
+- Manan Gill
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Oct 09 2019 21:02:30. As a result, documentation below may be outdated.
 

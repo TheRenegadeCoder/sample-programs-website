@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Factorial in Javascript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -77,10 +77,12 @@ main(input)
 
 {% endraw %}
 
-Factorial in Javascript was written by:
+[Factorial](https://sampleprograms.io/projects/factorial) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
-- Matt Wiley
 - Bharath
+- Matt Wiley
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 15:02:04. The solution was first committed on Oct 10 2019 08:24:08. As a result, documentation below may be outdated.
 

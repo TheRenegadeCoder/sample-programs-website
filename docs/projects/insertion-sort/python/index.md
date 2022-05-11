@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Insertion Sort in Python page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -59,11 +59,13 @@ if __name__ == "__main__":
 
 {% endraw %}
 
-Insertion Sort in Python was written by:
+[Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Python](https://sampleprograms.io/languages/python) was written by:
 
-- Parker Johansen
-- Haseeb Majid
 - Jeremy Grifski
+- Haseeb Majid
+- Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Dec 22 2018 23:07:21. As a result, documentation below may be outdated.
 

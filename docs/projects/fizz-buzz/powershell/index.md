@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Fizz Buzz in Powershell page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -82,9 +82,11 @@ for ($X = $Min; $X -le $Max; $X++) {
 
 {% endraw %}
 
-Fizz Buzz in Powershell was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
 
 - Devin Leaman
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Aug 05 2018 09:51:59. The solution was first committed on Aug 04 2018 14:54:06. As a result, documentation below may be outdated.
 

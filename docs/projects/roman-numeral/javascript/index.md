@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Roman Numeral in Javascript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -93,9 +93,11 @@ if (args.length < 1) {
 
 {% endraw %}
 
-Roman Numeral in Javascript was written by:
+[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Rani Kheir
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 12 2019 03:40:21. The solution was first committed on Oct 11 2019 01:41:10. As a result, documentation below may be outdated.
 

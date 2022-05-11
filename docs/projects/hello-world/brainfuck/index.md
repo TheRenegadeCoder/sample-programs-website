@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Hello World in Brainfuck page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Brainfuck](https://sampleprograms.io/languages/brainfuck) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -24,9 +24,11 @@ Welcome to the Hello World in Brainfuck page! Here, you'll find the source code 
 
 {% endraw %}
 
-Hello World in Brainfuck was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Brainfuck](https://sampleprograms.io/languages/brainfuck) was written by:
 
 - Christoph Böhmwalder
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

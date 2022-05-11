@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Capitalize in Dart page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -35,10 +35,12 @@ String capitalize(String input) =>
 
 {% endraw %}
 
-Capitalize in Dart was written by:
+[Capitalize](https://sampleprograms.io/projects/capitalize) in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
-- Paddy
 - Jeremy Grifski
+- Paddy
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 22:15:11. The solution was first committed on Oct 17 2019 23:01:31. As a result, documentation below may be outdated.
 

@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Hello World in D page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [D](https://sampleprograms.io/languages/d) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -27,9 +27,11 @@ void main()
 
 {% endraw %}
 
-Hello World in D was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [D](https://sampleprograms.io/languages/d) was written by:
 
 - Trever Shick
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Job Sequencing in Python page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -74,9 +74,11 @@ if __name__ == "__main__":
 
 {% endraw %}
 
-Job Sequencing in Python was written by:
+[Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 21 2019 09:10:55. The solution was first committed on Nov 19 2018 14:50:55. As a result, documentation below may be outdated.
 

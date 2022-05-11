@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the Linear Search in Python page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -40,11 +40,13 @@ else:
 
 {% endraw %}
 
-Linear Search in Python was written by:
+[Linear Search](https://sampleprograms.io/projects/linear-search) in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Siddhartha Dhar Choudhury
 - frankhart2017
 - Jeremy Grifski
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Oct 17 2019 17:54:11. As a result, documentation below may be outdated.
 

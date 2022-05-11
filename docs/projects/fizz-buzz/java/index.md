@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Fizz Buzz in Java page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -38,9 +38,11 @@ public class FizzBuzz {
 
 {% endraw %}
 
-Fizz Buzz in Java was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Jeremy Grifski
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

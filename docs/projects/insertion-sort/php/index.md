@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Insertion Sort in Php page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -47,11 +47,13 @@ echo implode(', ', $out);
 
 {% endraw %}
 
-Insertion Sort in Php was written by:
+[Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Php](https://sampleprograms.io/languages/php) was written by:
 
-- Parker Johansen
-- sljtheultima
 - Jeremy Grifski
+- sljtheultima
+- Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 13 2019 16:44:31. As a result, documentation below may be outdated.
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Hello World in Logo page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Logo](https://sampleprograms.io/languages/logo) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -20,9 +20,11 @@ print [Hello World!]
 
 {% endraw %}
 
-Hello World in Logo was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Logo](https://sampleprograms.io/languages/logo) was written by:
 
 - Shivam Choudhary
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Baklava in Elixir page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Elixir](https://sampleprograms.io/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -57,9 +57,11 @@ Baklava.baklava() |> IO.puts()
 
 {% endraw %}
 
-Baklava in Elixir was written by:
+[Baklava](https://sampleprograms.io/projects/baklava) in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
 
 - Oleksii Filonenko
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

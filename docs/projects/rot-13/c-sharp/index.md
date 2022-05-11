@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Rot 13 in C# page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Rot 13](https://sampleprograms.io/projects/rot-13) in [C#](https://sampleprograms.io/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -70,9 +70,11 @@ namespace SamplePrograms
 
 {% endraw %}
 
-Rot 13 in C# was written by:
+[Rot 13](https://sampleprograms.io/projects/rot-13) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 06 2019 00:37:26. The solution was first committed on Dec 30 2018 02:35:38. As a result, documentation below may be outdated.
 

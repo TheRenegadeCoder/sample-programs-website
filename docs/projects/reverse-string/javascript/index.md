@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Reverse String in Javascript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -24,10 +24,12 @@ console.log(reverse(process.argv[2]));
 
 {% endraw %}
 
-Reverse String in Javascript was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
-- Trever Shick
 - Jeremy Grifski
+- Trever Shick
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 29 2019 19:05:32. The solution was first committed on May 06 2018 09:06:55. As a result, documentation below may be outdated.
 

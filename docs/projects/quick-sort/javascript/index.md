@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Quick Sort in Javascript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -99,10 +99,12 @@ else {
 
 {% endraw %}
 
-Quick Sort in Javascript was written by:
+[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Gurmeet
 - Gurmeet Singh
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 18 2019 23:06:28. The solution was first committed on Oct 16 2019 15:37:03. As a result, documentation below may be outdated.
 

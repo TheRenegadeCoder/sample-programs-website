@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Selection Sort in Java page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -63,9 +63,11 @@ public class SelectionSort {
 
 {% endraw %}
 
-Selection Sort in Java was written by:
+[Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Tim Lange
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2019 02:07:29. The solution was first committed on Oct 15 2019 01:45:52. As a result, documentation below may be outdated.
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fizz Buzz in Clojure page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Clojure](https://sampleprograms.io/languages/clojure) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -39,9 +39,11 @@ Welcome to the Fizz Buzz in Clojure page! Here, you'll find the source code for 
 
 {% endraw %}
 
-Fizz Buzz in Clojure was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Clojure](https://sampleprograms.io/languages/clojure) was written by:
 
 - Cristiano Lopes
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 04 2020 19:20:07. The solution was first committed on Oct 04 2020 17:31:12. As a result, documentation below may be outdated.
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Roman Numeral in Ruby page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -64,9 +64,11 @@ print(roman_to_decimal(ARGV[0]))
 
 {% endraw %}
 
-Roman Numeral in Ruby was written by:
+[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Allan Klaus
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

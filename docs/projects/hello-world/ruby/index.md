@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Hello World in Ruby page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,9 +19,11 @@ puts 'Hello, World!'
 
 {% endraw %}
 
-Hello World in Ruby was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Jeremy Griffith
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

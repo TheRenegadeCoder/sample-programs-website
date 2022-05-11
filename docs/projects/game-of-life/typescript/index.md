@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Game Of Life in Typescript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Game Of Life](https://sampleprograms.io/projects/game-of-life) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -144,9 +144,11 @@ const game = new Conway.GameOfLife();
 
 {% endraw %}
 
-Game Of Life in Typescript was written by:
+[Game Of Life](https://sampleprograms.io/projects/game-of-life) in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
 
 - Juan F Gonzalez
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Aug 05 2018 14:39:08. The solution was first committed on Aug 04 2018 17:45:04. As a result, documentation below may be outdated.
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fizz Buzz in Matlab page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Matlab](https://sampleprograms.io/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -43,9 +43,11 @@ end
 
 {% endraw %}
 
-Fizz Buzz in Matlab was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
 
 - darkpanda08
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

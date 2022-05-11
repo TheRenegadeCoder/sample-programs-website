@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Insertion Sort in Rust page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -52,9 +52,11 @@ fn main() {
 
 {% endraw %}
 
-Insertion Sort in Rust was written by:
+[Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Andrew Johnson
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

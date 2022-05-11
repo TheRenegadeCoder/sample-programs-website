@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Quick Sort in C page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -113,9 +113,11 @@ int main(int argc,char **argv)
 
 {% endraw %}
 
-Quick Sort in C was written by:
+[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [C](https://sampleprograms.io/languages/c) was written by:
 
 - LezendarySandwich
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 20 2019 11:38:09. The solution was first committed on Oct 20 2019 00:38:43. As a result, documentation below may be outdated.
 

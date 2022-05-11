@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Insertion Sort in C# page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [C#](https://sampleprograms.io/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -65,9 +65,11 @@ public class InsertionSort
 
 {% endraw %}
 
-Insertion Sort in C# was written by:
+[Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 26 2019 00:26:31. The solution was first committed on Dec 28 2018 22:42:56. As a result, documentation below may be outdated.
 

@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Hello World in C# page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [C#](https://sampleprograms.io/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -31,11 +31,13 @@ namespace SamplePrograms
 
 {% endraw %}
 
-Hello World in C# was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - ildoc
-- Jeremy Griffith
 - Jeremy Grifski
+- Jeremy Griffith
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Jul 24 2018 10:04:46. The solution was first committed on Mar 21 2018 00:11:57. As a result, documentation below may be outdated.
 

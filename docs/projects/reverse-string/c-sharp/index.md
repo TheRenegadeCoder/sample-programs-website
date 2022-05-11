@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Reverse String in C# page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [C#](https://sampleprograms.io/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -40,10 +40,12 @@ namespace SamplePrograms
 
 {% endraw %}
 
-Reverse String in C# was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - ildoc
 - Jeremy Grifski
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Jul 03 2018 11:06:29. The solution was first committed on Apr 25 2018 14:55:06. As a result, documentation below may be outdated.
 

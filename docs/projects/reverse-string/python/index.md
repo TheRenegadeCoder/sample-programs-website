@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Reverse String in Python page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -25,9 +25,11 @@ if len(sys.argv) > 1:
 
 {% endraw %}
 
-Reverse String in Python was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Griffith
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

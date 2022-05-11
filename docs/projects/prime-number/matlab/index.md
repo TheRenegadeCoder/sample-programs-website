@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Prime Number in Matlab page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Matlab](https://sampleprograms.io/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -57,9 +57,11 @@ end
 
 {% endraw %}
 
-Prime Number in Matlab was written by:
+[Prime Number](https://sampleprograms.io/projects/prime-number) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
 
 - rpartha
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

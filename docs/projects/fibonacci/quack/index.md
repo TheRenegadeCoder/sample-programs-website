@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fibonacci in Quack page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Quack](https://sampleprograms.io/languages/quack) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -21,9 +21,11 @@ fn fibonacci(n) :- fibonacci(n - 1) + fibonacci(n - 2)
 
 {% endraw %}
 
-Fibonacci in Quack was written by:
+[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Quack](https://sampleprograms.io/languages/quack) was written by:
 
 - Aneendya
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

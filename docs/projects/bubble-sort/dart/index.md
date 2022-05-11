@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Bubble Sort in Dart page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -83,9 +83,11 @@ exitWithError() {
 
 {% endraw %}
 
-Bubble Sort in Dart was written by:
+[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
 - Paddy
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 18 2019 23:49:10. The solution was first committed on Oct 18 2019 23:40:28. As a result, documentation below may be outdated.
 

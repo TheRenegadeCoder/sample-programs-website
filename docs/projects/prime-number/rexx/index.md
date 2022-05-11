@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Prime Number in Rexx page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Rexx](https://sampleprograms.io/languages/rexx) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -43,9 +43,11 @@ say 'Usage: please input a non-negative integer'; exit
 
 {% endraw %}
 
-Prime Number in Rexx was written by:
+[Prime Number](https://sampleprograms.io/projects/prime-number) in [Rexx](https://sampleprograms.io/languages/rexx) was written by:
 
 - Sudhanshu Dubey
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

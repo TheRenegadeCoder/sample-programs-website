@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Merge Sort in Objective C page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Objective C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -59,9 +59,11 @@ NSArray* mergeSort(NSArray* randomArray){
 
 {% endraw %}
 
-Merge Sort in Objective C was written by:
+[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - Harshal Singh Raushan
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

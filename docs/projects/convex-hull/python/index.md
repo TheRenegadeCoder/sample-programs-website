@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Convex Hull in Python page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -92,10 +92,12 @@ if __name__ == '__main__':
 
 {% endraw %}
 
-Convex Hull in Python was written by:
+[Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Vicrobot
 - Jeremy Grifski
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Oct 22 2019 05:05:49. As a result, documentation below may be outdated.
 

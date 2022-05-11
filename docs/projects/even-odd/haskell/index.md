@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Even Odd in Haskell page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -41,9 +41,11 @@ main = do
 
 {% endraw %}
 
-Even Odd in Haskell was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
 
 - Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Nov 16 2018 11:15:37. The solution was first committed on Nov 16 2018 01:28:55. As a result, documentation below may be outdated.
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Quick Sort in Dart page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -83,9 +83,11 @@ main(List<String> args) {
 
 {% endraw %}
 
-Quick Sort in Dart was written by:
+[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
 - Oxymora
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Nov 04 2019 12:06:42. The solution was first committed on Oct 28 2019 14:45:55. As a result, documentation below may be outdated.
 

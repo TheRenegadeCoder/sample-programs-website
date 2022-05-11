@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Fizz Buzz in Python page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -26,9 +26,11 @@ for n in range(1, 101):
 
 {% endraw %}
 
-Fizz Buzz in Python was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - xPolar
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

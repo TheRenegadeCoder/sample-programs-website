@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Palindromic Number in Pascal page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Pascal](https://sampleprograms.io/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -79,9 +79,11 @@ end.  (* Begin Program Block*)
 
 {% endraw %}
 
-Palindromic Number in Pascal was written by:
+[Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
 
 - manasmithamn
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

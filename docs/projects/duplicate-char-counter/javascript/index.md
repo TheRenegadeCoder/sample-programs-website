@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Duplicate Char Counter in Javascript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Duplicate Char Counter](https://sampleprograms.io/projects/duplicate-char-counter) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -35,9 +35,11 @@ for (const char_count of Object.entries(chars_counter)) {
 
 {% endraw %}
 
-Duplicate Char Counter in Javascript was written by:
+[Duplicate Char Counter](https://sampleprograms.io/projects/duplicate-char-counter) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Matteo Planchet
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

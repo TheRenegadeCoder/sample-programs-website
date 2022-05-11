@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Even Odd in Java page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -55,10 +55,12 @@ public class EvenOdd
 
 {% endraw %}
 
-Even Odd in Java was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [Java](https://sampleprograms.io/languages/java) was written by:
 
-- Parker Johansen
 - Jeremy Grifski
+- Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 28 2019 15:21:26. The solution was first committed on Dec 30 2018 18:17:14. As a result, documentation below may be outdated.
 

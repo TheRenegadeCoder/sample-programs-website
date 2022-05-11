@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Factorial in Python page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -51,11 +51,13 @@ if __name__ == "__main__":
 
 {% endraw %}
 
-Factorial in Python was written by:
+[Factorial](https://sampleprograms.io/projects/factorial) in [Python](https://sampleprograms.io/languages/python) was written by:
 
+- Jeremy Grifski
 - Bharath
 - Parker Johansen
-- Jeremy Grifski
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Dec 22 2018 22:41:27. As a result, documentation below may be outdated.
 

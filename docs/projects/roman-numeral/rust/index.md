@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Roman Numeral in Rust page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -58,9 +58,11 @@ fn convert_roman_numeral(s: &String) -> u64 {
 
 {% endraw %}
 
-Roman Numeral in Rust was written by:
+[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Noah Nichols
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

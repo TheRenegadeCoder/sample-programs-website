@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Capitalize in Lua page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -30,10 +30,12 @@ end
 
 {% endraw %}
 
-Capitalize in Lua was written by:
+[Capitalize](https://sampleprograms.io/projects/capitalize) in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
-- Berry Semexan
 - Jeremy Grifski
+- Berry Semexan
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 19:22:39. The solution was first committed on Oct 17 2019 11:02:13. As a result, documentation below may be outdated.
 

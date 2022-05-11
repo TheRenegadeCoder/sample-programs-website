@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Even Odd in Javascript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -24,9 +24,11 @@ if(!Number.isInteger(input)){ //if there is no input, input = undefined and the 
 
 {% endraw %}
 
-Even Odd in Javascript was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Manan Gill
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 12 2019 10:08:50. The solution was first committed on Oct 11 2019 16:27:51. As a result, documentation below may be outdated.
 

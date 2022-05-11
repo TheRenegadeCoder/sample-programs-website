@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Capitalize in Lisp page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Lisp](https://sampleprograms.io/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,9 +37,11 @@ Welcome to the Capitalize in Lisp page! Here, you'll find the source code for th
 
 {% endraw %}
 
-Capitalize in Lisp was written by:
+[Capitalize](https://sampleprograms.io/projects/capitalize) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
 
 - Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 10:18:56. The solution was first committed on Oct 09 2020 11:46:14. As a result, documentation below may be outdated.
 

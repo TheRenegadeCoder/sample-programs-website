@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Selection Sort in Php page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -54,10 +54,12 @@ echo implode(', ', selection_sort($numbers));
 
 {% endraw %}
 
-Selection Sort in Php was written by:
+[Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - Gurmeet
 - Jeremy Grifski
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 16 2019 00:08:26. As a result, documentation below may be outdated.
 

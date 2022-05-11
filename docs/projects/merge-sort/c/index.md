@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Merge Sort in C page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -154,9 +154,11 @@ void merge_array(long *arr_sort,int a, int b, int c, int d) {
 
 {% endraw %}
 
-Merge Sort in C was written by:
+[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [C](https://sampleprograms.io/languages/c) was written by:
 
 - panda311
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 11:20:12. The solution was first committed on Oct 15 2019 19:48:57. As a result, documentation below may be outdated.
 

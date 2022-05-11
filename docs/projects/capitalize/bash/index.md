@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Capitalize in Bash page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -26,10 +26,12 @@ echo ${1^}
 
 {% endraw %}
 
-Capitalize in Bash was written by:
+[Capitalize](https://sampleprograms.io/projects/capitalize) in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
 - lohxx
 - Jeremy Grifski
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 23:22:44. The solution was first committed on Oct 08 2019 21:12:31. As a result, documentation below may be outdated.
 

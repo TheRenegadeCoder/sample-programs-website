@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Selection Sort in C++ page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -132,10 +132,12 @@ int main(int argc,char* argv[]){
 
 {% endraw %}
 
-Selection Sort in C++ was written by:
+[Selection Sort](https://sampleprograms.io/projects/selection-sort) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
-- Sailok Chinta
 - Parker Johansen
+- Sailok Chinta
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 25 2019 08:29:10. The solution was first committed on Oct 23 2019 18:57:11. As a result, documentation below may be outdated.
 

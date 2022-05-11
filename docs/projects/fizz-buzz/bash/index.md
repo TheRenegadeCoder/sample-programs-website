@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fizz Buzz in Bash page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -31,9 +31,11 @@ done
 
 {% endraw %}
 
-Fizz Buzz in Bash was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
 - Christoph Böhmwalder
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

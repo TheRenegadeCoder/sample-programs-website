@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Even Odd in Matlab page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Matlab](https://sampleprograms.io/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -38,10 +38,12 @@ end
 
 {% endraw %}
 
-Even Odd in Matlab was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
 
-- sakurakhadag
 - Jeremy Grifski
+- sakurakhadag
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 22 2021 15:02:49. The solution was first committed on Oct 11 2019 15:40:27. As a result, documentation below may be outdated.
 

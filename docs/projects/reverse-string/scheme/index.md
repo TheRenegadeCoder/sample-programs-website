@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Reverse String in Scheme page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Scheme](https://sampleprograms.io/languages/scheme) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -25,10 +25,12 @@ Welcome to the Reverse String in Scheme page! Here, you'll find the source code 
 
 {% endraw %}
 
-Reverse String in Scheme was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Scheme](https://sampleprograms.io/languages/scheme) was written by:
 
-- Francisco Peters
 - Jeremy Grifski
+- Francisco Peters
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Aug 10 2021 20:06:41. The solution was first committed on May 07 2018 23:12:09. As a result, documentation below may be outdated.
 

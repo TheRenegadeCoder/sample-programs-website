@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fizz Buzz in Fortran page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Fortran](https://sampleprograms.io/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -34,9 +34,11 @@ end program fizz_buzz
 
 {% endraw %}
 
-Fizz Buzz in Fortran was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
 
 - sniklas142
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

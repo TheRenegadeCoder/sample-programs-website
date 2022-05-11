@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the LPS in Javascript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [LPS](https://sampleprograms.io/projects/lps) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -44,9 +44,11 @@ console.log(
 
 {% endraw %}
 
-LPS in Javascript was written by:
+[LPS](https://sampleprograms.io/projects/lps) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - izexi
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2020 13:59:30. The solution was first committed on Oct 17 2020 22:08:50. As a result, documentation below may be outdated.
 

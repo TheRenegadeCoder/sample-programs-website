@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Reverse String in Typescript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -23,9 +23,11 @@ console.log(reverse(myString));
 
 {% endraw %}
 
-Reverse String in Typescript was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
 
 - Ray
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 03 2019 20:52:37. The solution was first committed on Oct 03 2019 20:46:56. As a result, documentation below may be outdated.
 

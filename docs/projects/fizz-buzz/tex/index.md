@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fizz Buzz in Tex page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Tex](https://sampleprograms.io/languages/tex) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -52,9 +52,11 @@ Welcome to the Fizz Buzz in Tex page! Here, you'll find the source code for this
 
 {% endraw %}
 
-Fizz Buzz in Tex was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Tex](https://sampleprograms.io/languages/tex) was written by:
 
 - Christoph Böhmwalder
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Sep 04 2018 11:11:25. The solution was first committed on Sep 04 2018 11:04:08. As a result, documentation below may be outdated.
 

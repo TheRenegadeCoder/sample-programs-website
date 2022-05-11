@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Reverse String in Solisp page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Solisp](https://sampleprograms.io/languages/solisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -25,9 +25,11 @@ Welcome to the Reverse String in Solisp page! Here, you'll find the source code 
 
 {% endraw %}
 
-Reverse String in Solisp was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Solisp](https://sampleprograms.io/languages/solisp) was written by:
 
 - Stuart Irwin
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

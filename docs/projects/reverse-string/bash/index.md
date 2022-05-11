@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Reverse String in Bash page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -28,10 +28,12 @@ echo $reverseStr
 
 {% endraw %}
 
-Reverse String in Bash was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
-- Parker Johansen
 - Abdus
+- Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 21 2019 17:52:55. The solution was first committed on May 09 2018 11:20:08. As a result, documentation below may be outdated.
 

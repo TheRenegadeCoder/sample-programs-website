@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Even Odd in C page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -41,10 +41,12 @@ int main(int argc, char **argv)
 
 {% endraw %}
 
-Even Odd in C was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [C](https://sampleprograms.io/languages/c) was written by:
 
-- AceKnight
 - Jeremy Grifski
+- AceKnight
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 30 2019 16:30:59. The solution was first committed on Oct 21 2018 19:46:02. As a result, documentation below may be outdated.
 

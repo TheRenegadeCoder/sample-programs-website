@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Roman Numeral in Lua page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -87,10 +87,12 @@ print(convertToDecimal(input))
 
 {% endraw %}
 
-Roman Numeral in Lua was written by:
+[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
-- Jeremy Grifski
 - jketterer
+- Jeremy Grifski
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 19:22:39. The solution was first committed on Oct 28 2019 13:27:00. As a result, documentation below may be outdated.
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Quick Sort in Scala page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Scala](https://sampleprograms.io/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -59,10 +59,12 @@ object QuickSortSample {
 
 {% endraw %}
 
-Quick Sort in Scala was written by:
+[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
-- Viet Thang Nguyen
 - Vee Ng
+- Viet Thang Nguyen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 25 2019 19:52:01. The solution was first committed on Mar 22 2019 12:57:43. As a result, documentation below may be outdated.
 

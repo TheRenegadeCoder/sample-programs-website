@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Welcome to the Hello World in Erlang page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Erlang](https://sampleprograms.io/languages/erlang) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -27,10 +27,12 @@ start() ->
 
 {% endraw %}
 
-Hello World in Erlang was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
 
 - Jeremy Grifski
 - Nick Keers
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 04 2019 10:45:28. The solution was first committed on Aug 08 2018 00:54:57. As a result, documentation below may be outdated.
 

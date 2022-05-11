@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fibonacci in Nim page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Nim](https://sampleprograms.io/languages/nim) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -43,9 +43,11 @@ for i in 1..n:
 
 {% endraw %}
 
-Fibonacci in Nim was written by:
+[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Nim](https://sampleprograms.io/languages/nim) was written by:
 
 - Michael Olson
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 23:58:35. The solution was first committed on Oct 16 2019 20:14:08. As a result, documentation below may be outdated.
 

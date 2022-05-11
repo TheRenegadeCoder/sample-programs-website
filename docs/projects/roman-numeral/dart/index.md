@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Roman Numeral in Dart page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -51,9 +51,11 @@ Map numeral_map(){
 
 {% endraw %}
 
-Roman Numeral in Dart was written by:
+[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
 - Reilly Howell
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 21 2019 18:06:11. The solution was first committed on Oct 20 2019 18:59:46. As a result, documentation below may be outdated.
 

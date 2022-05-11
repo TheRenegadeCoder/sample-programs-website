@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Fizz Buzz in Javascript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,10 +37,12 @@ fizzbuzz(100);
 
 {% endraw %}
 
-Fizz Buzz in Javascript was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
-- Juan F Gonzalez
 - Jeremy Grifski
+- Juan F Gonzalez
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 22 2021 15:02:49. The solution was first committed on Jul 27 2018 10:37:06. As a result, documentation below may be outdated.
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Factorial in R page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [R](https://sampleprograms.io/languages/r) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -44,9 +44,11 @@ if(length(args) > 0){
 
 {% endraw %}
 
-Factorial in R was written by:
+[Factorial](https://sampleprograms.io/projects/factorial) in [R](https://sampleprograms.io/languages/r) was written by:
 
 - Veena ManikPrabhu
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Rot 13 in Go page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Rot 13](https://sampleprograms.io/projects/rot-13) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -56,9 +56,11 @@ func main() {
 
 {% endraw %}
 
-Rot 13 in Go was written by:
+[Rot 13](https://sampleprograms.io/projects/rot-13) in [Go](https://sampleprograms.io/languages/go) was written by:
 
 - Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 06 2019 00:32:12. The solution was first committed on Mar 17 2019 19:16:07. As a result, documentation below may be outdated.
 

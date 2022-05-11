@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Binary Search in Javascript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -39,9 +39,11 @@ console.log(array && target ? binarySearch(array.split(', '), target) : error);
 
 {% endraw %}
 
-Binary Search in Javascript was written by:
+[Binary Search](https://sampleprograms.io/projects/binary-search) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - izexi
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

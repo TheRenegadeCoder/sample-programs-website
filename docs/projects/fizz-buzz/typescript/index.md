@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fizz Buzz in Typescript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -32,9 +32,11 @@ for (let i = 0; i <= 100; i++) {
 
 {% endraw %}
 
-Fizz Buzz in Typescript was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
 
 - Nadir Fayazov
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Even Odd in Coffeescript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -28,9 +28,11 @@ console.log main(process.argv[2])
 
 {% endraw %}
 
-Even Odd in Coffeescript was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
 
 - Sayantan Sarkar
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

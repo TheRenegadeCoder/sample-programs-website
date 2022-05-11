@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Baklava in Erlang page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Erlang](https://sampleprograms.io/languages/erlang) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -67,9 +67,11 @@ print(N, star) ->
 
 {% endraw %}
 
-Baklava in Erlang was written by:
+[Baklava](https://sampleprograms.io/projects/baklava) in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
 
 - Mark Magahis
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 04 2019 16:16:30. The solution was first committed on Oct 04 2019 16:00:01. As a result, documentation below may be outdated.
 

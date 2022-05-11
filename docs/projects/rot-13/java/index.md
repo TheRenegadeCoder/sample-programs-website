@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Rot 13 in Java page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Rot 13](https://sampleprograms.io/projects/rot-13) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -53,10 +53,12 @@ public class Rot13
 
 {% endraw %}
 
-Rot 13 in Java was written by:
+[Rot 13](https://sampleprograms.io/projects/rot-13) in [Java](https://sampleprograms.io/languages/java) was written by:
 
-- jsonW0
 - smallblack9
+- jsonW0
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 18:07:28. The solution was first committed on Oct 27 2019 22:01:29. As a result, documentation below may be outdated.
 

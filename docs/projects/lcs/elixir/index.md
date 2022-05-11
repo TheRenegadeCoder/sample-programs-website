@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the LCS in Elixir page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [LCS](https://sampleprograms.io/projects/lcs) in [Elixir](https://sampleprograms.io/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -69,10 +69,12 @@ LongestCommonSubsequence.main()
 
 {% endraw %}
 
-LCS in Elixir was written by:
+[LCS](https://sampleprograms.io/projects/lcs) in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
 
 - Ann
 - Jeremy Grifski
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 00:49:15. The solution was first committed on Oct 14 2019 07:19:41. As a result, documentation below may be outdated.
 

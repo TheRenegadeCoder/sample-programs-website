@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Game Of Life in Java page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Game Of Life](https://sampleprograms.io/projects/game-of-life) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -191,10 +191,12 @@ public class GameOfLife {
 
 {% endraw %}
 
-Game Of Life in Java was written by:
+[Game Of Life](https://sampleprograms.io/projects/game-of-life) in [Java](https://sampleprograms.io/languages/java) was written by:
 
-- Ganesh Naik
 - Jeremy Grifski
+- Ganesh Naik
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 01 2020 12:48:43. The solution was first committed on Apr 28 2018 00:43:41. As a result, documentation below may be outdated.
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Hello World in Lucee page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Lucee](https://sampleprograms.io/languages/lucee) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -29,9 +29,11 @@ Welcome to the Hello World in Lucee page! Here, you'll find the source code for 
 
 {% endraw %}
 
-Hello World in Lucee was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Lucee](https://sampleprograms.io/languages/lucee) was written by:
 
 - Genki Oji
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

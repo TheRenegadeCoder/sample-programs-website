@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Prime Number in Rust page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -52,9 +52,11 @@ fn main() {
 
 {% endraw %}
 
-Prime Number in Rust was written by:
+[Prime Number](https://sampleprograms.io/projects/prime-number) in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Mallikarjuna S J
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

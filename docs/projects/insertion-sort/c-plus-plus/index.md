@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Insertion Sort in C++ page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -89,9 +89,11 @@ int main(int argc, char* argv[]){
 
 {% endraw %}
 
-Insertion Sort in C++ was written by:
+[Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Prasun Kumar
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

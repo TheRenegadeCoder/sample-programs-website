@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the LCS in Python page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [LCS](https://sampleprograms.io/projects/lcs) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -54,10 +54,12 @@ if __name__ == "__main__":
 
 {% endraw %}
 
-LCS in Python was written by:
+[LCS](https://sampleprograms.io/projects/lcs) in [Python](https://sampleprograms.io/languages/python) was written by:
 
-- Parker Johansen
 - Boot-Error
+- Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 21 2019 16:33:32. The solution was first committed on Oct 16 2018 07:52:37. As a result, documentation below may be outdated.
 

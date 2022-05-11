@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Even Odd in Ruby page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -43,9 +43,11 @@ end
 
 {% endraw %}
 
-Even Odd in Ruby was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Mallikarjuna S J
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Nov 04 2019 21:11:52. The solution was first committed on Oct 31 2019 20:23:47. As a result, documentation below may be outdated.
 

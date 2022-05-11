@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Prime Number in Perl page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -83,9 +83,11 @@ else {
 
 {% endraw %}
 
-Prime Number in Perl was written by:
+[Prime Number](https://sampleprograms.io/projects/prime-number) in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
 - Mallikarjuna S J
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Nov 05 2019 10:22:57. The solution was first committed on Oct 31 2019 19:18:18. As a result, documentation below may be outdated.
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Bubble Sort in Haskell page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -61,9 +61,11 @@ main = do
 
 {% endraw %}
 
-Bubble Sort in Haskell was written by:
+[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
 
 - Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 26 2019 01:28:05. The solution was first committed on Dec 02 2018 01:24:40. As a result, documentation below may be outdated.
 

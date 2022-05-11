@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fizz Buzz in Dg page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Dg](https://sampleprograms.io/languages/dg) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -29,9 +29,11 @@ main 1 100 fizz_buzz
 
 {% endraw %}
 
-Fizz Buzz in Dg was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Dg](https://sampleprograms.io/languages/dg) was written by:
 
 - Riley Martine
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

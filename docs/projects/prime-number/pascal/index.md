@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Prime Number in Pascal page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Pascal](https://sampleprograms.io/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -66,9 +66,11 @@ end.
 
 {% endraw %}
 
-Prime Number in Pascal was written by:
+[Prime Number](https://sampleprograms.io/projects/prime-number) in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
 
 - smjalageri
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Prime Number in Bash page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -64,10 +64,12 @@ exit 0
 
 {% endraw %}
 
-Prime Number in Bash was written by:
+[Prime Number](https://sampleprograms.io/projects/prime-number) in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
-- thetbl
 - Jeremy Grifski
+- thetbl
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 22 2021 15:02:49. The solution was first committed on Oct 14 2019 21:17:21. As a result, documentation below may be outdated.
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Hello World in Clipper page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Clipper](https://sampleprograms.io/languages/clipper) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -22,9 +22,11 @@ function MAIN
 
 {% endraw %}
 
-Hello World in Clipper was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Clipper](https://sampleprograms.io/languages/clipper) was written by:
 
 - Abhinav Keshav
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Hello World in Ring page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Ring](https://sampleprograms.io/languages/ring) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,9 +19,11 @@ see "Hello, World!"
 
 {% endraw %}
 
-Hello World in Ring was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Ring](https://sampleprograms.io/languages/ring) was written by:
 
 - Jeremy Griffith
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fibonacci in Haskell page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -47,10 +47,12 @@ main = do
 
 {% endraw %}
 
-Fibonacci in Haskell was written by:
+[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
 
-- Parker Johansen
 - Panagiotis Georgiadis
+- Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2019 00:40:32. The solution was first committed on Oct 15 2018 18:50:33. As a result, documentation below may be outdated.
 

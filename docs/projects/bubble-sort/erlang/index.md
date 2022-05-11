@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Bubble Sort in Erlang page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Erlang](https://sampleprograms.io/languages/erlang) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -68,9 +68,11 @@ handle_output([Num|NumList]) ->
 
 {% endraw %}
 
-Bubble Sort in Erlang was written by:
+[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
 
 - Jacky Hui
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

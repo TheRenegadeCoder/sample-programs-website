@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fizz Buzz in Dart page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,9 +37,11 @@ void main() {
 
 {% endraw %}
 
-Fizz Buzz in Dart was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
 - Sanchit Sahay
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 02 2020 09:06:47. The solution was first committed on Oct 02 2020 00:25:01. As a result, documentation below may be outdated.
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Fizz Buzz in Erlang page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Erlang](https://sampleprograms.io/languages/erlang) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -31,9 +31,11 @@ fizz_buzz(N, Max) -> io:format("~p~n", [N]), fizz_buzz(N+1, Max).
 
 {% endraw %}
 
-Fizz Buzz in Erlang was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
 
 - Caio Ariede
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

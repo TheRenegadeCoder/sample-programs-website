@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Factorial in Coffeescript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -32,10 +32,12 @@ console.log main()
 
 {% endraw %}
 
-Factorial in Coffeescript was written by:
+[Factorial](https://sampleprograms.io/projects/factorial) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
 
-- Hanyuan Li
 - Jeremy Grifski
+- Hanyuan Li
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:14:45. The solution was first committed on Oct 11 2019 21:51:03. As a result, documentation below may be outdated.
 

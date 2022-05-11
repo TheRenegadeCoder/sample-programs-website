@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Palindromic Number in Java page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -47,9 +47,11 @@ public class PalindromicNumber {
 
 {% endraw %}
 
-Palindromic Number in Java was written by:
+[Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - smallblack9
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

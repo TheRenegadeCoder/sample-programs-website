@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Factorial in Perl page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -50,10 +50,12 @@ sub usage {
 
 {% endraw %}
 
-Factorial in Perl was written by:
+[Factorial](https://sampleprograms.io/projects/factorial) in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
 - Gabriela Kandová
 - Bharath
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 15:02:04. The solution was first committed on Oct 14 2019 22:44:32. As a result, documentation below may be outdated.
 

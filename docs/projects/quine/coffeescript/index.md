@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Quine in Coffeescript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,9 +19,11 @@ a="a=%j; console.log a,a"; console.log a,a
 
 {% endraw %}
 
-Quine in Coffeescript was written by:
+[Quine](https://sampleprograms.io/projects/quine) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
 
 - Jeng
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

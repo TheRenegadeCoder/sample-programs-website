@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Hello World in Kotlin page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -24,9 +24,11 @@ fun main(args: Array<String>) {
 
 {% endraw %}
 
-Hello World in Kotlin was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 - Jeremy Griffith
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

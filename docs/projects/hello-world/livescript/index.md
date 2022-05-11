@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Hello World in Livescript page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Livescript](https://sampleprograms.io/languages/livescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,9 +19,11 @@ console.log 'hello, world!'
 
 {% endraw %}
 
-Hello World in Livescript was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Livescript](https://sampleprograms.io/languages/livescript) was written by:
 
 - Michael Beebower
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

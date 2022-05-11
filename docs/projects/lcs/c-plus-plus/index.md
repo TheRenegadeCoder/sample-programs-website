@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the LCS in C++ page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [LCS](https://sampleprograms.io/projects/lcs) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -123,9 +123,11 @@ int main(int argc,char *argv[])
 
 {% endraw %}
 
-LCS in C++ was written by:
+[LCS](https://sampleprograms.io/projects/lcs) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Shubham Tiwari
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 14 2019 23:03:55. The solution was first committed on Oct 13 2019 08:59:38. As a result, documentation below may be outdated.
 

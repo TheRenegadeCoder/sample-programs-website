@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Reverse String in Swift page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -32,9 +32,11 @@ print(reversedString)
 
 {% endraw %}
 
-Reverse String in Swift was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Swift](https://sampleprograms.io/languages/swift) was written by:
 
 - Marty A/V
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Aug 10 2018 23:25:53. The solution was first committed on May 10 2018 10:37:34. As a result, documentation below may be outdated.
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Reverse String in Picolisp page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Picolisp](https://sampleprograms.io/languages/picolisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -26,9 +26,11 @@ Welcome to the Reverse String in Picolisp page! Here, you'll find the source cod
 
 {% endraw %}
 
-Reverse String in Picolisp was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Picolisp](https://sampleprograms.io/languages/picolisp) was written by:
 
 - PNS11
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

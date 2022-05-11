@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Factorial in C page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -87,10 +87,12 @@ int uint64_overflow(long a, long b) {
 
 {% endraw %}
 
-Factorial in C was written by:
+[Factorial](https://sampleprograms.io/projects/factorial) in [C](https://sampleprograms.io/languages/c) was written by:
 
 - clarkimusmax
 - Bharath
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 15:02:04. The solution was first committed on Oct 26 2018 17:34:42. As a result, documentation below may be outdated.
 

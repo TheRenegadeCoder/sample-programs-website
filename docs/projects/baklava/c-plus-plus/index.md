@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Baklava in C++ page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -48,10 +48,12 @@ int main(int argc, char *argv[])
 
 {% endraw %}
 
-Baklava in C++ was written by:
+[Baklava](https://sampleprograms.io/projects/baklava) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
-- yottanami
 - Behnam Ahmad khan beigi
+- yottanami
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 14 2019 10:52:47. The solution was first committed on Oct 09 2019 12:45:32. As a result, documentation below may be outdated.
 

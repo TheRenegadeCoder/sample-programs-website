@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the LCS in Java page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [LCS](https://sampleprograms.io/projects/lcs) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -113,10 +113,12 @@ public class Lcs{
 
 {% endraw %}
 
-LCS in Java was written by:
+[LCS](https://sampleprograms.io/projects/lcs) in [Java](https://sampleprograms.io/languages/java) was written by:
 
-- Shubham Tiwari
 - smallblack9
+- Shubham Tiwari
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 18:07:28. The solution was first committed on Oct 12 2019 22:42:39. As a result, documentation below may be outdated.
 

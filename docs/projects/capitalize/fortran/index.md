@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Capitalize in Fortran page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Fortran](https://sampleprograms.io/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -49,9 +49,11 @@ end program capitalize
 
 {% endraw %}
 
-Capitalize in Fortran was written by:
+[Capitalize](https://sampleprograms.io/projects/capitalize) in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
 
 - Mallikarjuna S J
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Hello World in Lua page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -22,9 +22,11 @@ print("Hello, World!")
 
 {% endraw %}
 
-Hello World in Lua was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
 - Jeremy Griffith
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

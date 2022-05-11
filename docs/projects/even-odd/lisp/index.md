@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Even Odd in Lisp page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Lisp](https://sampleprograms.io/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -34,9 +34,11 @@ Welcome to the Even Odd in Lisp page! Here, you'll find the source code for this
 
 {% endraw %}
 
-Even Odd in Lisp was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
 
 - Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

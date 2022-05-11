@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Capitalize in Pascal page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Pascal](https://sampleprograms.io/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -32,9 +32,11 @@ end.
 
 {% endraw %}
 
-Capitalize in Pascal was written by:
+[Capitalize](https://sampleprograms.io/projects/capitalize) in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
 
 - smjalageri
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 18 2020 11:36:50. The solution was first committed on Oct 17 2020 07:57:13. As a result, documentation below may be outdated.
 

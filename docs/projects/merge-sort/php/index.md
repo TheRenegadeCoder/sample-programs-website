@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Merge Sort in Php page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -67,11 +67,13 @@ echo implode(', ', merge_sort($test_array)) . "\n";
 
 {% endraw %}
 
-Merge Sort in Php was written by:
+[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Php](https://sampleprograms.io/languages/php) was written by:
 
-- Parker Johansen
-- Ankit kumar
 - Jeremy Grifski
+- Ankit kumar
+- Parker Johansen
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 10 2019 02:24:20. As a result, documentation below may be outdated.
 

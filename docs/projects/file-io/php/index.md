@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the File Io in Php page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Io](https://sampleprograms.io/projects/file-io) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -57,11 +57,13 @@ if (write_file($file_name)) {
 
 {% endraw %}
 
-File Io in Php was written by:
+[File Io](https://sampleprograms.io/projects/file-io) in [Php](https://sampleprograms.io/languages/php) was written by:
 
-- Juan D Frias
 - Parker Johansen
 - Jeremy Grifski
+- Juan D Frias
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 14 2019 14:16:18. As a result, documentation below may be outdated.
 

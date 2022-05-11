@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Capitalize in Php page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -27,10 +27,12 @@ if (count($argv) == 2 && strlen($argv[1])) {
 
 {% endraw %}
 
-Capitalize in Php was written by:
+[Capitalize](https://sampleprograms.io/projects/capitalize) in [Php](https://sampleprograms.io/languages/php) was written by:
 
-- Dowayne Breedt
 - Jeremy Grifski
+- Dowayne Breedt
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 22:45:19. The solution was first committed on Oct 12 2019 20:02:21. As a result, documentation below may be outdated.
 

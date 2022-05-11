@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Welcome to the Roman Numeral in C page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -63,9 +63,11 @@ int main(int argc,char **argv)
 
 {% endraw %}
 
-Roman Numeral in C was written by:
+[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [C](https://sampleprograms.io/languages/c) was written by:
 
 - LezendarySandwich
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 20 2019 12:24:36. The solution was first committed on Oct 20 2019 11:47:04. As a result, documentation below may be outdated.
 

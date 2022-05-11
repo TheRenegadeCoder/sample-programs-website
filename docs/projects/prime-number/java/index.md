@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Prime Number in Java page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -71,11 +71,13 @@ public class PrimeNumber {
 
 {% endraw %}
 
-Prime Number in Java was written by:
+[Prime Number](https://sampleprograms.io/projects/prime-number) in [Java](https://sampleprograms.io/languages/java) was written by:
 
-- Juan D Frias
-- Ganesh Naik
 - Ewerton Queiroz
+- Ganesh Naik
+- Juan D Frias
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 01 2020 14:54:28. The solution was first committed on Oct 10 2019 02:15:05. As a result, documentation below may be outdated.
 

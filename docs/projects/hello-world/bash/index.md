@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Hello World in Bash page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -24,10 +24,12 @@ echo Hello, World!
 
 {% endraw %}
 
-Hello World in Bash was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
 - Jeremy Grifski
 - Abdus
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2018 12:47:13. The solution was first committed on May 09 2018 11:20:08. As a result, documentation below may be outdated.
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Factorial in D page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [D](https://sampleprograms.io/languages/d) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -39,9 +39,11 @@ int main(string[] args)
 
 {% endraw %}
 
-Factorial in D was written by:
+[Factorial](https://sampleprograms.io/projects/factorial) in [D](https://sampleprograms.io/languages/d) was written by:
 
 - Scott Little
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

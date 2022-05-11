@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Depth First Search in Python page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -76,9 +76,11 @@ if __name__ == '__main__':
 
 {% endraw %}
 
-Depth First Search in Python was written by:
+[Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Nazar Stepan
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

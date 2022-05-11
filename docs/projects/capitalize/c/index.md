@@ -11,7 +11,7 @@ authors:
 
 ---
 
-Welcome to the Capitalize in C page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [C](https://sampleprograms.io/languages/c)apitalize in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -48,10 +48,12 @@ int main(int argc, char *argv[]) {
 
 {% endraw %}
 
-Capitalize in C was written by:
+[C](https://sampleprograms.io/languages/c)apitalize in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Softizo
 - Jeremy Grifski
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 21:04:13. The solution was first committed on Oct 09 2019 17:27:39. As a result, documentation below may be outdated.
 

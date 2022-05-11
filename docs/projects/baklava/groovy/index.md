@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Baklava in Groovy page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Groovy](https://sampleprograms.io/languages/groovy) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -24,9 +24,11 @@ Welcome to the Baklava in Groovy page! Here, you'll find the source code for thi
 
 {% endraw %}
 
-Baklava in Groovy was written by:
+[Baklava](https://sampleprograms.io/projects/baklava) in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
 
 - Rafael Vargas
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

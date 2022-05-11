@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the Reverse String in Visual Basic page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Visual Basic](https://sampleprograms.io/languages/visual-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -45,10 +45,12 @@ End Module
 
 {% endraw %}
 
-Reverse String in Visual Basic was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Visual Basic](https://sampleprograms.io/languages/visual-basic) was written by:
 
 - AaronLenoir
 - Andrew Reid
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 07 2019 08:23:20. The solution was first committed on May 04 2018 23:43:40. As a result, documentation below may be outdated.
 

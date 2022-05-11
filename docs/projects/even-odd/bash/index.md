@@ -7,7 +7,7 @@ last-modified: 2022-05-11
 
 ---
 
-Welcome to the Even Odd in Bash page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -31,10 +31,12 @@ fi
 
 {% endraw %}
 
-Even Odd in Bash was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
-- allievo-sudo
 - Jeremy Grifski
+- allievo-sudo
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 29 2019 15:23:13. The solution was first committed on Oct 09 2019 16:02:54. As a result, documentation below may be outdated.
 
