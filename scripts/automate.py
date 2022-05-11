@@ -194,7 +194,8 @@ def _generate_language_index(language: subete.LanguageCollection):
     _add_section(doc, "languages", language.pathlike_name(), "Description")
     _add_language_article_section(doc, repo, str(language))
     try:
-        doc.output_page(f"docs/languages/{language.pathlike_name()}")
+        with open(f"docs/languages/{language.pathlike_name()}", "w+") as f:
+            f.write(str(doc), encoding="utf-8")
     except Exception:
         log.exception(f"Failed to write {language.pathlike_name()}")
 
