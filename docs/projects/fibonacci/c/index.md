@@ -11,8 +11,6 @@ Welcome to the Fibonacci in C page! Here, you'll find the source code for this p
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c
@@ -68,6 +66,14 @@ int main(int argc, char **argv)
 ```
 
 {% endraw %}
+
+Fibonacci in C was written by:
+
+- Jeremy Grifski
+- Christoph Böhmwalder
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 18 2019 17:58:44. The solution was first committed on Oct 04 2018 20:05:30. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

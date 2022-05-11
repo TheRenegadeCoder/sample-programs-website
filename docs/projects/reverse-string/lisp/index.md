@@ -11,8 +11,6 @@ Welcome to the Reverse String in Lisp page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```lisp
@@ -21,6 +19,10 @@ Welcome to the Reverse String in Lisp page! Here, you'll find the source code fo
 ```
 
 {% endraw %}
+
+Reverse String in Lisp was written by:
+
+- Parker Johansen
 
 ## How to Implement the Solution
 

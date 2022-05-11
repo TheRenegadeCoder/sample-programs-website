@@ -11,8 +11,6 @@ Welcome to the Reverse String in Typescript page! Here, you'll find the source c
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```typescript
@@ -24,6 +22,12 @@ console.log(reverse(myString));
 ```
 
 {% endraw %}
+
+Reverse String in Typescript was written by:
+
+- Ray
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 03 2019 20:52:37. The solution was first committed on Oct 03 2019 20:46:56. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Fibonacci in Php page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```php
@@ -37,6 +35,13 @@ for ($index = 1; $index <= $input; $index++) {
 ```
 
 {% endraw %}
+
+Fibonacci in Php was written by:
+
+- Parker Johansen
+- Carles Capell
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2019 00:25:43. The solution was first committed on Jan 03 2019 09:42:35. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

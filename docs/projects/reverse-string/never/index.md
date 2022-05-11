@@ -11,8 +11,6 @@ Welcome to the Reverse String in Never page! Here, you'll find the source code f
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```never
@@ -47,6 +45,10 @@ func main() -> int
 ```
 
 {% endraw %}
+
+Reverse String in Never was written by:
+
+- smaludzi
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Reverse String in R page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```r
@@ -29,6 +27,10 @@ if(length(args) > 0 ){
 ```
 
 {% endraw %}
+
+Reverse String in R was written by:
+
+- Veena ManikPrabhu
 
 ## How to Implement the Solution
 

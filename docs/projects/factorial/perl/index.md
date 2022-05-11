@@ -11,8 +11,6 @@ Welcome to the Factorial in Perl page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```perl
@@ -51,6 +49,13 @@ sub usage {
 ```
 
 {% endraw %}
+
+Factorial in Perl was written by:
+
+- Gabriela Kandová
+- Bharath
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 15:02:04. The solution was first committed on Oct 14 2019 22:44:32. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

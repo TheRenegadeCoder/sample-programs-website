@@ -11,8 +11,6 @@ Welcome to the Job Sequencing in Php page! Here, you'll find the source code for
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```php
@@ -62,6 +60,13 @@ function return_error()
 ```
 
 {% endraw %}
+
+Job Sequencing in Php was written by:
+
+- Kateryna Tokar
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 28 2019 19:28:30. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

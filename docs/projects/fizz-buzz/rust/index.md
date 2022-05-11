@@ -14,8 +14,6 @@ Welcome to the Fizz Buzz in Rust page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```rust
@@ -35,6 +33,13 @@ fn main() {
 ```
 
 {% endraw %}
+
+Fizz Buzz in Rust was written by:
+
+- Vincent Caron
+- Noah Nichols
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jul 12 2019 10:44:03. The solution was first committed on Sep 24 2018 13:31:57. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

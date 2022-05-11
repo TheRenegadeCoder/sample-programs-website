@@ -11,8 +11,6 @@ Welcome to the Hello World in Microsoft Macro Assembler page! Here, you'll find 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```microsoft macro assembler
@@ -48,6 +46,10 @@ XSEG ENDS
 ```
 
 {% endraw %}
+
+Hello World in Microsoft Macro Assembler was written by:
+
+- Jeremy Grifski
 
 ## How to Implement the Solution
 

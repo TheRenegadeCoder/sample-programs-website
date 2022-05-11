@@ -11,8 +11,6 @@ Welcome to the Reverse String in C# page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c#
@@ -41,6 +39,13 @@ namespace SamplePrograms
 ```
 
 {% endraw %}
+
+Reverse String in C# was written by:
+
+- ildoc
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jul 03 2018 11:06:29. The solution was first committed on Apr 25 2018 14:55:06. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Baklava in Haskell page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```haskell
@@ -42,6 +40,12 @@ line space asterisk = replicate space ' ' ++ replicate asterisk '*'
 ```
 
 {% endraw %}
+
+Baklava in Haskell was written by:
+
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 26 2019 01:21:45. The solution was first committed on Oct 20 2018 14:28:34. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

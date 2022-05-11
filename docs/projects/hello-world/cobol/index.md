@@ -13,8 +13,6 @@ Welcome to the Hello World in Cobol page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```cobol
@@ -26,6 +24,10 @@ STOP RUN.
 ```
 
 {% endraw %}
+
+Hello World in Cobol was written by:
+
+- Jeremy Grifski
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Prime Number in C++ page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c++
@@ -52,6 +50,12 @@ int main(int argc, char **argv)
 ```
 
 {% endraw %}
+
+Prime Number in C++ was written by:
+
+- Daffa Daraz
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 19 2019 23:17:34. The solution was first committed on Oct 14 2019 00:44:05. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Fizz Buzz in Php page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```php
@@ -38,6 +36,12 @@ for ($i = 1; $i < 101; $i++) {
 ```
 
 {% endraw %}
+
+Fizz Buzz in Php was written by:
+
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Sep 09 2018 22:41:29. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

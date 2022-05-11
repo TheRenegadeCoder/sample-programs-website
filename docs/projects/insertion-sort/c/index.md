@@ -11,8 +11,6 @@ Welcome to the Insertion Sort in C page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c
@@ -129,6 +127,10 @@ void insertion_sort(long * arr_sort, int n)
 ```
 
 {% endraw %}
+
+Insertion Sort in C was written by:
+
+- sourabbr
 
 ## How to Implement the Solution
 

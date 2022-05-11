@@ -11,8 +11,6 @@ Welcome to the Rot 13 in Java page! Here, you'll find the source code for this p
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```java
@@ -54,6 +52,13 @@ public class Rot13
 ```
 
 {% endraw %}
+
+Rot 13 in Java was written by:
+
+- jsonW0
+- smallblack9
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 18:07:28. The solution was first committed on Oct 27 2019 22:01:29. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

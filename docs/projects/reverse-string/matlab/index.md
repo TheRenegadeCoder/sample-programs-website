@@ -11,8 +11,6 @@ Welcome to the Reverse String in Matlab page! Here, you'll find the source code 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```matlab
@@ -22,6 +20,10 @@ end
 ```
 
 {% endraw %}
+
+Reverse String in Matlab was written by:
+
+- iwishiwasaneagle
 
 ## How to Implement the Solution
 

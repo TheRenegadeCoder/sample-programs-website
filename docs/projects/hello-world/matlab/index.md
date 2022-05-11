@@ -14,8 +14,6 @@ Welcome to the Hello World in Matlab page! Here, you'll find the source code for
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```matlab
@@ -23,6 +21,10 @@ disp('Hello, World!');
 ```
 
 {% endraw %}
+
+Hello World in Matlab was written by:
+
+- Jeremy Griffith
 
 ## How to Implement the Solution
 

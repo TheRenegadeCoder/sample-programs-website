@@ -11,8 +11,6 @@ Welcome to the Hello World in Ballerina page! Here, you'll find the source code 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```ballerina
@@ -23,6 +21,10 @@ function main(string... args) {
 ```
 
 {% endraw %}
+
+Hello World in Ballerina was written by:
+
+- Jeremy Grifski
 
 ## How to Implement the Solution
 

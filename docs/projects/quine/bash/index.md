@@ -11,8 +11,6 @@ Welcome to the Quine in Bash page! Here, you'll find the source code for this pr
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```bash
@@ -20,6 +18,10 @@ echo $BASH_COMMAND
 ```
 
 {% endraw %}
+
+Quine in Bash was written by:
+
+- Jeng
 
 ## How to Implement the Solution
 

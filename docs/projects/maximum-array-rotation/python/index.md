@@ -11,8 +11,6 @@ Welcome to the Maximum Array Rotation in Python page! Here, you'll find the sour
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```python
@@ -38,6 +36,13 @@ except:
 ```
 
 {% endraw %}
+
+Maximum Array Rotation in Python was written by:
+
+- Jeremy Grifski
+- Tanisha Banik
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 10 2022 00:44:08. The solution was first committed on Oct 05 2021 20:54:14. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

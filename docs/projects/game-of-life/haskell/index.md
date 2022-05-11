@@ -11,8 +11,6 @@ Welcome to the Game Of Life in Haskell page! Here, you'll find the source code f
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```haskell
@@ -211,6 +209,12 @@ main = do
 ```
 
 {% endraw %}
+
+Game Of Life in Haskell was written by:
+
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 17 2019 15:33:33. The solution was first committed on Nov 29 2018 20:31:45. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

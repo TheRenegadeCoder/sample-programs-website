@@ -11,8 +11,6 @@ Welcome to the Fibonacci in Rust page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```rust
@@ -56,6 +54,12 @@ fn main() {
 ```
 
 {% endraw %}
+
+Fibonacci in Rust was written by:
+
+- Noah Nichols
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 05 2018 10:31:35. The solution was first committed on Oct 05 2018 09:33:10. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

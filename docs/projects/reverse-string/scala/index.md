@@ -11,8 +11,6 @@ Welcome to the Reverse String in Scala page! Here, you'll find the source code f
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```scala
@@ -48,6 +46,13 @@ object ReverseStringSample {
 ```
 
 {% endraw %}
+
+Reverse String in Scala was written by:
+
+- Viet Thang Nguyen
+- Vee Ng
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 22 2019 16:16:44. The solution was first committed on Mar 22 2019 12:59:04. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

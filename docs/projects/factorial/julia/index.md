@@ -11,8 +11,6 @@ Welcome to the Factorial in Julia page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```julia
@@ -43,6 +41,10 @@ end
 ```
 
 {% endraw %}
+
+Factorial in Julia was written by:
+
+- sniklas142
 
 ## How to Implement the Solution
 

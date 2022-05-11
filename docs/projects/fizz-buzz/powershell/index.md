@@ -14,8 +14,6 @@ Welcome to the Fizz Buzz in Powershell page! Here, you'll find the source code f
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```powershell
@@ -83,6 +81,12 @@ for ($X = $Min; $X -le $Max; $X++) {
 ```
 
 {% endraw %}
+
+Fizz Buzz in Powershell was written by:
+
+- Devin Leaman
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Aug 05 2018 09:51:59. The solution was first committed on Aug 04 2018 14:54:06. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

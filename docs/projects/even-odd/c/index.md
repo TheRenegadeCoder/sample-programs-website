@@ -14,8 +14,6 @@ Welcome to the Even Odd in C page! Here, you'll find the source code for this pr
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c
@@ -42,6 +40,13 @@ int main(int argc, char **argv)
 ```
 
 {% endraw %}
+
+Even Odd in C was written by:
+
+- AceKnight
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 30 2019 16:30:59. The solution was first committed on Oct 21 2018 19:46:02. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

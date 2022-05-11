@@ -11,8 +11,6 @@ Welcome to the Roman Numeral in Ruby page! Here, you'll find the source code for
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```ruby
@@ -65,6 +63,10 @@ print(roman_to_decimal(ARGV[0]))
 ```
 
 {% endraw %}
+
+Roman Numeral in Ruby was written by:
+
+- Allan Klaus
 
 ## How to Implement the Solution
 

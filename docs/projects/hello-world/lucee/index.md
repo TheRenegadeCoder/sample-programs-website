@@ -11,8 +11,6 @@ Welcome to the Hello World in Lucee page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```lucee
@@ -30,6 +28,10 @@ Welcome to the Hello World in Lucee page! Here, you'll find the source code for 
 ```
 
 {% endraw %}
+
+Hello World in Lucee was written by:
+
+- Genki Oji
 
 ## How to Implement the Solution
 

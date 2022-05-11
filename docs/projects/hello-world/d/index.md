@@ -14,8 +14,6 @@ Welcome to the Hello World in D page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```d
@@ -28,6 +26,10 @@ void main()
 ```
 
 {% endraw %}
+
+Hello World in D was written by:
+
+- Trever Shick
 
 ## How to Implement the Solution
 

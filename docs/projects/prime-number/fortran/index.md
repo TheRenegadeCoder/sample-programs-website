@@ -11,8 +11,6 @@ Welcome to the Prime Number in Fortran page! Here, you'll find the source code f
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```fortran
@@ -102,6 +100,10 @@ end program
 ```
 
 {% endraw %}
+
+Prime Number in Fortran was written by:
+
+- Mallikarjuna S J
 
 ## How to Implement the Solution
 

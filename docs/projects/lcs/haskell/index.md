@@ -11,8 +11,6 @@ Welcome to the LCS in Haskell page! Here, you'll find the source code for this p
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```haskell
@@ -60,6 +58,12 @@ main = do
 ```
 
 {% endraw %}
+
+LCS in Haskell was written by:
+
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 26 2019 01:28:05. The solution was first committed on Oct 20 2018 22:54:15. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

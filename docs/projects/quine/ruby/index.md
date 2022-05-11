@@ -11,8 +11,6 @@ Welcome to the Quine in Ruby page! Here, you'll find the source code for this pr
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```ruby
@@ -20,6 +18,10 @@ s="s=%c%s%c; printf s,34,s,34,10%c"; printf s,34,s,34,10
 ```
 
 {% endraw %}
+
+Quine in Ruby was written by:
+
+- Jeremy Grifski
 
 ## How to Implement the Solution
 

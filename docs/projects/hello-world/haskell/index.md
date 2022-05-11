@@ -14,8 +14,6 @@ Welcome to the Hello World in Haskell page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```haskell
@@ -25,6 +23,10 @@ main = putStrLn "Hello, World!"
 ```
 
 {% endraw %}
+
+Hello World in Haskell was written by:
+
+- Jeremy Griffith
 
 ## How to Implement the Solution
 

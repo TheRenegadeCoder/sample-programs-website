@@ -14,8 +14,6 @@ Welcome to the Bubble Sort in Python page! Here, you'll find the source code for
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```python
@@ -60,6 +58,13 @@ if __name__ == "__main__":
 ```
 
 {% endraw %}
+
+Bubble Sort in Python was written by:
+
+- Jeremy Grifski
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Dec 04 2018 13:28:02. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

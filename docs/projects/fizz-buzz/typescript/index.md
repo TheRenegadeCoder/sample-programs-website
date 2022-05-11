@@ -11,8 +11,6 @@ Welcome to the Fizz Buzz in Typescript page! Here, you'll find the source code f
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```typescript
@@ -33,6 +31,10 @@ for (let i = 0; i <= 100; i++) {
 ```
 
 {% endraw %}
+
+Fizz Buzz in Typescript was written by:
+
+- Nadir Fayazov
 
 ## How to Implement the Solution
 

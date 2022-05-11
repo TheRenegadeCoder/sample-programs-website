@@ -13,8 +13,6 @@ Welcome to the Fibonacci in Javascript page! Here, you'll find the source code f
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```javascript
@@ -41,6 +39,13 @@ if (num && !isNaN(num)) {
 ```
 
 {% endraw %}
+
+Fibonacci in Javascript was written by:
+
+- Marius
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2019 00:40:32. The solution was first committed on Oct 04 2018 13:17:58. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the LCS in Python page! Here, you'll find the source code for this pr
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```python
@@ -55,6 +53,13 @@ if __name__ == "__main__":
 ```
 
 {% endraw %}
+
+LCS in Python was written by:
+
+- Parker Johansen
+- Boot-Error
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 21 2019 16:33:32. The solution was first committed on Oct 16 2018 07:52:37. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

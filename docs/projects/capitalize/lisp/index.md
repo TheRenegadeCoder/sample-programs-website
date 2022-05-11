@@ -11,8 +11,6 @@ Welcome to the Capitalize in Lisp page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```lisp
@@ -38,6 +36,12 @@ Welcome to the Capitalize in Lisp page! Here, you'll find the source code for th
 ```
 
 {% endraw %}
+
+Capitalize in Lisp was written by:
+
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 10:18:56. The solution was first committed on Oct 09 2020 11:46:14. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

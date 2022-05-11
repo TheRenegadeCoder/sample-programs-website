@@ -11,8 +11,6 @@ Welcome to the Quine in Coffeescript page! Here, you'll find the source code for
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```coffeescript
@@ -20,6 +18,10 @@ a="a=%j; console.log a,a"; console.log a,a
 ```
 
 {% endraw %}
+
+Quine in Coffeescript was written by:
+
+- Jeng
 
 ## How to Implement the Solution
 

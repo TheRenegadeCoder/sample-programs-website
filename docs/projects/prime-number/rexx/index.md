@@ -11,8 +11,6 @@ Welcome to the Prime Number in Rexx page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```rexx
@@ -44,6 +42,10 @@ say 'Usage: please input a non-negative integer'; exit
 ```
 
 {% endraw %}
+
+Prime Number in Rexx was written by:
+
+- Sudhanshu Dubey
 
 ## How to Implement the Solution
 

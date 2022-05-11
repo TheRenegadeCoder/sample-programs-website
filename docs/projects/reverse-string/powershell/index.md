@@ -11,8 +11,6 @@ Welcome to the Reverse String in Powershell page! Here, you'll find the source c
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```powershell
@@ -58,6 +56,10 @@ Write-Host $StringBuilder.ToString()
 ```
 
 {% endraw %}
+
+Reverse String in Powershell was written by:
+
+- Devin Leaman
 
 ## How to Implement the Solution
 

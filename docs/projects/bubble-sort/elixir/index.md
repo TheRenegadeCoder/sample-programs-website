@@ -11,8 +11,6 @@ Welcome to the Bubble Sort in Elixir page! Here, you'll find the source code for
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```elixir
@@ -64,6 +62,13 @@ Bubble.main(System.argv())
 ```
 
 {% endraw %}
+
+Bubble Sort in Elixir was written by:
+
+- Jeremy Grifski
+- Sree Siva Sandeep Palaparthi
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 00:35:06. The solution was first committed on Oct 03 2019 22:47:13. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

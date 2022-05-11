@@ -11,8 +11,6 @@ Welcome to the Insertion Sort in Matlab page! Here, you'll find the source code 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```matlab
@@ -46,6 +44,10 @@ output_array = insertion_sort(input_array);
 ```
 
 {% endraw %}
+
+Insertion Sort in Matlab was written by:
+
+- aiashwarj kumar
 
 ## How to Implement the Solution
 

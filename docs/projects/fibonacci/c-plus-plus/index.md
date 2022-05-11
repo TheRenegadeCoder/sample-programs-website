@@ -11,8 +11,6 @@ Welcome to the Fibonacci in C++ page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c++
@@ -50,6 +48,13 @@ int main(int argc, char *argv[])
 ```
 
 {% endraw %}
+
+Fibonacci in C++ was written by:
+
+- Marius
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 12 2019 09:55:23. The solution was first committed on Oct 06 2018 16:51:18. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

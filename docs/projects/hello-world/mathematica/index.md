@@ -11,8 +11,6 @@ Welcome to the Hello World in Mathematica page! Here, you'll find the source cod
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```mathematica
@@ -20,6 +18,10 @@ Print["Hello, World!"];
 ```
 
 {% endraw %}
+
+Hello World in Mathematica was written by:
+
+- Jeremy Grifski
 
 ## How to Implement the Solution
 

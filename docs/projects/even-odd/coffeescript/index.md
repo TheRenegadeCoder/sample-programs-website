@@ -11,8 +11,6 @@ Welcome to the Even Odd in Coffeescript page! Here, you'll find the source code 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```coffeescript
@@ -29,6 +27,10 @@ console.log main(process.argv[2])
 ```
 
 {% endraw %}
+
+Even Odd in Coffeescript was written by:
+
+- Sayantan Sarkar
 
 ## How to Implement the Solution
 

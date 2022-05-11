@@ -11,8 +11,6 @@ Welcome to the Bubble Sort in Julia page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```julia
@@ -74,6 +72,12 @@ end
 ```
 
 {% endraw %}
+
+Bubble Sort in Julia was written by:
+
+- sniklas142
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 01 2020 20:53:17. The solution was first committed on Oct 01 2020 15:22:44. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

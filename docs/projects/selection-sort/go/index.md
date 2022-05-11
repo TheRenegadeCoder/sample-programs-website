@@ -11,8 +11,6 @@ Welcome to the Selection Sort in Go page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```go
@@ -89,6 +87,12 @@ func main() {
 ```
 
 {% endraw %}
+
+Selection Sort in Go was written by:
+
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 25 2019 19:45:18. The solution was first committed on Mar 18 2019 00:51:47. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

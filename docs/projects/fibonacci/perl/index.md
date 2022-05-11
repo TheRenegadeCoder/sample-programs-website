@@ -11,8 +11,6 @@ Welcome to the Fibonacci in Perl page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```perl
@@ -39,6 +37,10 @@ if ($num_args == 0) {
 ```
 
 {% endraw %}
+
+Fibonacci in Perl was written by:
+
+- SourabhBadhya
 
 ## How to Implement the Solution
 

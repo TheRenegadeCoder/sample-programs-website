@@ -11,8 +11,6 @@ Welcome to the Hello World in Eve page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```eve
@@ -21,6 +19,12 @@ bind @browser
 ```
 
 {% endraw %}
+
+Hello World in Eve was written by:
+
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 27 2018 13:57:57. The solution was first committed on Apr 27 2018 13:57:43. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Fizz Buzz in Perl page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```perl
@@ -34,6 +32,13 @@ for my $n (1..100) {
 ```
 
 {% endraw %}
+
+Fizz Buzz in Perl was written by:
+
+- Chris Thomas
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 25 2019 12:44:48. The solution was first committed on Oct 12 2018 17:15:01. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Hello World in Ti Basic page! Here, you'll find the source code f
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```ti basic
@@ -21,6 +19,10 @@ Disp "HELLO, WORLD!"
 ```
 
 {% endraw %}
+
+Hello World in Ti Basic was written by:
+
+- Calum Dingwall
 
 ## How to Implement the Solution
 

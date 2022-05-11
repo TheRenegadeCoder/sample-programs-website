@@ -11,8 +11,6 @@ Welcome to the Quine in Kotlin page! Here, you'll find the source code for this 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```kotlin
@@ -26,6 +24,10 @@ fun main(args: Array<String>) { //Prints out it's own code
 ```
 
 {% endraw %}
+
+Quine in Kotlin was written by:
+
+- Stuart Irwin
 
 ## How to Implement the Solution
 

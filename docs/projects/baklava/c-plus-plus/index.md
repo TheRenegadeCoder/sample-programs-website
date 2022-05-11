@@ -11,8 +11,6 @@ Welcome to the Baklava in C++ page! Here, you'll find the source code for this p
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c++
@@ -49,6 +47,13 @@ int main(int argc, char *argv[])
 ```
 
 {% endraw %}
+
+Baklava in C++ was written by:
+
+- Behnam Ahmad khan beigi
+- yottanami
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 14 2019 10:52:47. The solution was first committed on Oct 09 2019 12:45:32. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

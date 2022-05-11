@@ -11,8 +11,6 @@ Welcome to the LCS in Javascript page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```javascript
@@ -82,6 +80,12 @@ else{
 ```
 
 {% endraw %}
+
+LCS in Javascript was written by:
+
+- Sayantan Sarkar
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 04 2020 12:49:54. The solution was first committed on Oct 04 2020 12:03:30. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

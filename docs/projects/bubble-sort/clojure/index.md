@@ -11,8 +11,6 @@ Welcome to the Bubble Sort in Clojure page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```clojure
@@ -66,6 +64,13 @@ Welcome to the Bubble Sort in Clojure page! Here, you'll find the source code fo
 ```
 
 {% endraw %}
+
+Bubble Sort in Clojure was written by:
+
+- Kateryna Tokar
+- Tobias Schröder
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 19 2019 23:52:25. The solution was first committed on Oct 02 2019 16:17:26. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

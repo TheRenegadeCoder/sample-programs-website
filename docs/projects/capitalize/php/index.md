@@ -11,8 +11,6 @@ Welcome to the Capitalize in Php page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```php
@@ -28,6 +26,13 @@ if (count($argv) == 2 && strlen($argv[1])) {
 ```
 
 {% endraw %}
+
+Capitalize in Php was written by:
+
+- Jeremy Grifski
+- Dowayne Breedt
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 22:45:19. The solution was first committed on Oct 12 2019 20:02:21. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

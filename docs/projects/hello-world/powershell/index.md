@@ -14,8 +14,6 @@ Welcome to the Hello World in Powershell page! Here, you'll find the source code
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```powershell
@@ -23,6 +21,10 @@ Write-Host "Hello, World!"
 ```
 
 {% endraw %}
+
+Hello World in Powershell was written by:
+
+- Devin Leaman
 
 ## How to Implement the Solution
 

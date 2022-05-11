@@ -11,8 +11,6 @@ Welcome to the Prime Number in Php page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```php
@@ -78,6 +76,14 @@ exit(0);
 ```
 
 {% endraw %}
+
+Prime Number in Php was written by:
+
+- Juan D Frias
+- Jeremy Grifski
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 14 2019 15:37:04. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

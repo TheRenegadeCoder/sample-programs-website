@@ -11,8 +11,6 @@ Welcome to the Game Of Life in Java page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```java
@@ -192,6 +190,13 @@ public class GameOfLife {
 ```
 
 {% endraw %}
+
+Game Of Life in Java was written by:
+
+- Jeremy Grifski
+- Ganesh Naik
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 01 2020 12:48:43. The solution was first committed on Apr 28 2018 00:43:41. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

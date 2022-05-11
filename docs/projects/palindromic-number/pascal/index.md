@@ -11,8 +11,6 @@ Welcome to the Palindromic Number in Pascal page! Here, you'll find the source c
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```pascal
@@ -80,6 +78,10 @@ end.  (* Begin Program Block*)
 ```
 
 {% endraw %}
+
+Palindromic Number in Pascal was written by:
+
+- manasmithamn
 
 ## How to Implement the Solution
 

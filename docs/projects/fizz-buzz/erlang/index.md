@@ -11,8 +11,6 @@ Welcome to the Fizz Buzz in Erlang page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```erlang
@@ -32,6 +30,10 @@ fizz_buzz(N, Max) -> io:format("~p~n", [N]), fizz_buzz(N+1, Max).
 ```
 
 {% endraw %}
+
+Fizz Buzz in Erlang was written by:
+
+- Caio Ariede
 
 ## How to Implement the Solution
 

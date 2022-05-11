@@ -11,8 +11,6 @@ Welcome to the Baklava in Coffeescript page! Here, you'll find the source code f
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```coffeescript
@@ -28,6 +26,10 @@ for i in [10..0]
 ```
 
 {% endraw %}
+
+Baklava in Coffeescript was written by:
+
+- Sayantan Sarkar
 
 ## How to Implement the Solution
 

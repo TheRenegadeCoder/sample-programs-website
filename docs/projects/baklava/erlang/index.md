@@ -11,8 +11,6 @@ Welcome to the Baklava in Erlang page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```erlang
@@ -68,6 +66,12 @@ print(N, star) ->
 ```
 
 {% endraw %}
+
+Baklava in Erlang was written by:
+
+- Mark Magahis
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 04 2019 16:16:30. The solution was first committed on Oct 04 2019 16:00:01. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

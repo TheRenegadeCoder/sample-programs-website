@@ -11,8 +11,6 @@ Welcome to the Job Sequencing in Java page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```java
@@ -116,6 +114,12 @@ public class JobSequencing {
 ```
 
 {% endraw %}
+
+Job Sequencing in Java was written by:
+
+- JaneLiu
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 20:48:26. The solution was first committed on Oct 17 2019 20:32:42. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Factorial in Lua page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```lua
@@ -64,6 +62,13 @@ main(arg[1])
 ```
 
 {% endraw %}
+
+Factorial in Lua was written by:
+
+- Matt Wiley
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 19:22:39. The solution was first committed on Oct 10 2019 12:43:45. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Hello World in Sather page! Here, you'll find the source code for
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```sather
@@ -24,6 +22,10 @@ end;
 ```
 
 {% endraw %}
+
+Hello World in Sather was written by:
+
+- Prakhar Pande
 
 ## How to Implement the Solution
 

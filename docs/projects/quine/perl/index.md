@@ -11,8 +11,6 @@ Welcome to the Quine in Perl page! Here, you'll find the source code for this pr
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```perl
@@ -20,6 +18,10 @@ $s='$s=%c%s%c;printf($s,39,$s,39,10);%c';printf($s,39,$s,39,10);
 ```
 
 {% endraw %}
+
+Quine in Perl was written by:
+
+- Juan D Frias
 
 ## How to Implement the Solution
 

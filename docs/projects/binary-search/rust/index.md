@@ -11,8 +11,6 @@ Welcome to the Binary Search in Rust page! Here, you'll find the source code for
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```rust
@@ -75,6 +73,12 @@ fn main() {
 ```
 
 {% endraw %}
+
+Binary Search in Rust was written by:
+
+- Andrew Johnson
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 03 2020 18:37:05. The solution was first committed on Oct 03 2020 14:05:42. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

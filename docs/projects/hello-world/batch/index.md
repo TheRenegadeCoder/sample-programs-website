@@ -11,8 +11,6 @@ Welcome to the Hello World in Batch page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```batch
@@ -21,6 +19,10 @@ echo Hello world!
 ```
 
 {% endraw %}
+
+Hello World in Batch was written by:
+
+- Jeremy Grifski
 
 ## How to Implement the Solution
 

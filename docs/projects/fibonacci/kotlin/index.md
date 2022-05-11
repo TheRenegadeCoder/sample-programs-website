@@ -11,8 +11,6 @@ Welcome to the Fibonacci in Kotlin page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```kotlin
@@ -42,6 +40,13 @@ fun main(args: Array<String>) {
 ```
 
 {% endraw %}
+
+Fibonacci in Kotlin was written by:
+
+- Blake.Ke
+- Erik Nelson
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 23:34:00. The solution was first committed on Oct 18 2018 14:52:56. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

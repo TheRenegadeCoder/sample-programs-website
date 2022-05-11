@@ -11,8 +11,6 @@ Welcome to the Even Odd in Ruby page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```ruby
@@ -44,6 +42,12 @@ end
 ```
 
 {% endraw %}
+
+Even Odd in Ruby was written by:
+
+- Mallikarjuna S J
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Nov 04 2019 21:11:52. The solution was first committed on Oct 31 2019 20:23:47. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Josephus Problem in Javascript page! Here, you'll find the source
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```javascript
@@ -35,6 +33,10 @@ console.log(josephus(n, k));
 ```
 
 {% endraw %}
+
+Josephus Problem in Javascript was written by:
+
+- Matteo Planchet
 
 ## How to Implement the Solution
 

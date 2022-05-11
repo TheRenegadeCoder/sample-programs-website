@@ -11,8 +11,6 @@ Welcome to the Bubble Sort in C++ page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c++
@@ -113,6 +111,12 @@ int main(int argc, char *argv[]) {
 ```
 
 {% endraw %}
+
+Bubble Sort in C++ was written by:
+
+- Jayden Thrasher
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 03 2019 15:55:46. The solution was first committed on Oct 02 2019 20:31:08. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

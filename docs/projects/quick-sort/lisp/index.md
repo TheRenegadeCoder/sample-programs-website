@@ -11,8 +11,6 @@ Welcome to the Quick Sort in Lisp page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```lisp
@@ -74,6 +72,13 @@ Welcome to the Quick Sort in Lisp page! Here, you'll find the source code for th
 ```
 
 {% endraw %}
+
+Quick Sort in Lisp was written by:
+
+- Palash Dubey
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 09:45:24. The solution was first committed on Oct 04 2020 17:56:31. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

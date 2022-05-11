@@ -14,8 +14,6 @@ Welcome to the Fizz Buzz in Swift page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```swift
@@ -46,6 +44,12 @@ fizzBuzz();
 ```
 
 {% endraw %}
+
+Fizz Buzz in Swift was written by:
+
+- Marty Hernandez Avedon
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 03 2018 18:20:42. The solution was first committed on Oct 03 2018 15:06:30. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

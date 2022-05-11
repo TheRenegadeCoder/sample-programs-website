@@ -11,8 +11,6 @@ Welcome to the Factorial in R page! Here, you'll find the source code for this p
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```r
@@ -45,6 +43,10 @@ if(length(args) > 0){
 ```
 
 {% endraw %}
+
+Factorial in R was written by:
+
+- Veena ManikPrabhu
 
 ## How to Implement the Solution
 

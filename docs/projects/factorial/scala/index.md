@@ -11,8 +11,6 @@ Welcome to the Factorial in Scala page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```scala
@@ -45,6 +43,10 @@ object GFG
 ```
 
 {% endraw %}
+
+Factorial in Scala was written by:
+
+- Uditansh Patel
 
 ## How to Implement the Solution
 

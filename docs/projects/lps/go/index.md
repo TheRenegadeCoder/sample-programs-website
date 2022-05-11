@@ -11,8 +11,6 @@ Welcome to the LPS in Go page! Here, you'll find the source code for this progra
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```go
@@ -77,6 +75,10 @@ func main() {
 ```
 
 {% endraw %}
+
+LPS in Go was written by:
+
+- izexi
 
 ## How to Implement the Solution
 

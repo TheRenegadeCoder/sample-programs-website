@@ -14,8 +14,6 @@ Welcome to the Hello World in Goby page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```goby
@@ -23,6 +21,10 @@ puts("Hello, World!")
 ```
 
 {% endraw %}
+
+Hello World in Goby was written by:
+
+- Jeremy Griffith
 
 ## How to Implement the Solution
 

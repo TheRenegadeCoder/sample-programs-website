@@ -11,8 +11,6 @@ Welcome to the Quick Sort in Go page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```go
@@ -90,6 +88,12 @@ func main() {
 ```
 
 {% endraw %}
+
+Quick Sort in Go was written by:
+
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 25 2019 19:45:18. The solution was first committed on Mar 17 2019 18:15:46. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

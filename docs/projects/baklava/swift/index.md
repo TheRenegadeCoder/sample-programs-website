@@ -11,8 +11,6 @@ Welcome to the Baklava in Swift page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```swift
@@ -28,6 +26,12 @@ baklava(maxWidth: 10)
 ```
 
 {% endraw %}
+
+Baklava in Swift was written by:
+
+- Mark Magahis
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 22 2018 22:36:07. The solution was first committed on Oct 20 2018 11:42:26. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

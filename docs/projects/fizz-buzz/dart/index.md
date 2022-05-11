@@ -11,8 +11,6 @@ Welcome to the Fizz Buzz in Dart page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```dart
@@ -38,6 +36,12 @@ void main() {
 ```
 
 {% endraw %}
+
+Fizz Buzz in Dart was written by:
+
+- Sanchit Sahay
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 02 2020 09:06:47. The solution was first committed on Oct 02 2020 00:25:01. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

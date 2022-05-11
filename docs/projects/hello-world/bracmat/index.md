@@ -11,8 +11,6 @@ Welcome to the Hello World in Bracmat page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```bracmat
@@ -20,6 +18,10 @@ put$"Hello, World!"
 ```
 
 {% endraw %}
+
+Hello World in Bracmat was written by:
+
+- Shivam Choudhary
 
 ## How to Implement the Solution
 

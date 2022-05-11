@@ -11,8 +11,6 @@ Welcome to the Selection Sort in C# page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c#
@@ -59,6 +57,12 @@ public class SelectionSort
 ```
 
 {% endraw %}
+
+Selection Sort in C# was written by:
+
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 26 2019 00:26:31. The solution was first committed on Dec 30 2018 02:45:43. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

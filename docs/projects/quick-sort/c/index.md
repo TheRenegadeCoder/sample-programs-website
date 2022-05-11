@@ -11,8 +11,6 @@ Welcome to the Quick Sort in C page! Here, you'll find the source code for this 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c
@@ -114,6 +112,12 @@ int main(int argc,char **argv)
 ```
 
 {% endraw %}
+
+Quick Sort in C was written by:
+
+- LezendarySandwich
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 20 2019 11:38:09. The solution was first committed on Oct 20 2019 00:38:43. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

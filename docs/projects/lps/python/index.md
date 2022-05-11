@@ -11,8 +11,6 @@ Welcome to the LPS in Python page! Here, you'll find the source code for this pr
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```python
@@ -63,6 +61,10 @@ if __name__ == '__main__':
 ```
 
 {% endraw %}
+
+LPS in Python was written by:
+
+- izexi
 
 ## How to Implement the Solution
 

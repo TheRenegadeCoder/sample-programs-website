@@ -11,8 +11,6 @@ Welcome to the Capitalize in C# page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c#
@@ -39,6 +37,13 @@ namespace SamplePrograms
 ```
 
 {% endraw %}
+
+Capitalize in C# was written by:
+
+- Renato Ramos Nascimento
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 21:08:00. The solution was first committed on Oct 11 2019 19:29:17. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

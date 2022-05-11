@@ -11,8 +11,6 @@ Welcome to the MST in C page! Here, you'll find the source code for this program
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c
@@ -159,6 +157,13 @@ int main(int argc,char **argv)
 ```
 
 {% endraw %}
+
+MST in C was written by:
+
+- LezendarySandwich
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 28 2022 18:14:37. The solution was first committed on Oct 20 2019 01:25:16. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

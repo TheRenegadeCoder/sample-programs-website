@@ -11,8 +11,6 @@ Welcome to the Selection Sort in Java page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```java
@@ -64,6 +62,12 @@ public class SelectionSort {
 ```
 
 {% endraw %}
+
+Selection Sort in Java was written by:
+
+- Tim Lange
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2019 02:07:29. The solution was first committed on Oct 15 2019 01:45:52. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

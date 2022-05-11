@@ -11,8 +11,6 @@ Welcome to the Palindromic Number in Java page! Here, you'll find the source cod
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```java
@@ -48,6 +46,10 @@ public class PalindromicNumber {
 ```
 
 {% endraw %}
+
+Palindromic Number in Java was written by:
+
+- smallblack9
 
 ## How to Implement the Solution
 

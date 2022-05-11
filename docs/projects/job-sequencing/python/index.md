@@ -11,8 +11,6 @@ Welcome to the Job Sequencing in Python page! Here, you'll find the source code 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```python
@@ -75,6 +73,12 @@ if __name__ == "__main__":
 ```
 
 {% endraw %}
+
+Job Sequencing in Python was written by:
+
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 21 2019 09:10:55. The solution was first committed on Nov 19 2018 14:50:55. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

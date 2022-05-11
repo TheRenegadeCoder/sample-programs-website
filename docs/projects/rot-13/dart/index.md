@@ -11,8 +11,6 @@ Welcome to the Rot 13 in Dart page! Here, you'll find the source code for this p
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```dart
@@ -54,6 +52,12 @@ String rot13(String input) {
 ```
 
 {% endraw %}
+
+Rot 13 in Dart was written by:
+
+- slashdoom
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 18 2019 09:04:37. The solution was first committed on Oct 18 2019 08:52:24. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Fizz Buzz in Go page! Here, you'll find the source code for this 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```go
@@ -36,6 +34,13 @@ func main() {
 ```
 
 {% endraw %}
+
+Fizz Buzz in Go was written by:
+
+- Jeremy Grifski
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 01 2019 02:39:12. The solution was first committed on Aug 13 2018 18:15:45. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Fizz Buzz in Clojure page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```clojure
@@ -40,6 +38,12 @@ Welcome to the Fizz Buzz in Clojure page! Here, you'll find the source code for 
 ```
 
 {% endraw %}
+
+Fizz Buzz in Clojure was written by:
+
+- Cristiano Lopes
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 04 2020 19:20:07. The solution was first committed on Oct 04 2020 17:31:12. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

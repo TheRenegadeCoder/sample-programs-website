@@ -14,8 +14,6 @@ Welcome to the Hello World in Solidity page! Here, you'll find the source code f
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```solidity
@@ -29,6 +27,10 @@ function renderHelloWorld () public pure returns (string) {
 ```
 
 {% endraw %}
+
+Hello World in Solidity was written by:
+
+- Maximillian Naza
 
 ## How to Implement the Solution
 

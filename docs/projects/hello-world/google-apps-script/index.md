@@ -14,8 +14,6 @@ Welcome to the Hello World in Google Apps Script page! Here, you'll find the sou
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```google apps script
@@ -25,6 +23,13 @@ function helloWorld() {
 ```
 
 {% endraw %}
+
+Hello World in Google Apps Script was written by:
+
+- Arun Pattni
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2018 14:58:56. The solution was first committed on May 09 2018 19:50:32. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

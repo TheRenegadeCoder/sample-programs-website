@@ -11,8 +11,6 @@ Welcome to the Baklava in Ruby page! Here, you'll find the source code for this 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```ruby
@@ -27,6 +25,10 @@ end
 ```
 
 {% endraw %}
+
+Baklava in Ruby was written by:
+
+- Jeremy Grifski
 
 ## How to Implement the Solution
 

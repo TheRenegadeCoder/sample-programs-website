@@ -11,8 +11,6 @@ Welcome to the Hello World in Fetlang page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```fetlang
@@ -20,6 +18,10 @@ make slave scream "Hello, World!"
 ```
 
 {% endraw %}
+
+Hello World in Fetlang was written by:
+
+- Jeremy Grifski
 
 ## How to Implement the Solution
 

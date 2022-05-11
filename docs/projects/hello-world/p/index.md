@@ -11,8 +11,6 @@ Welcome to the Hello World in P page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```p
@@ -28,6 +26,10 @@ machine HelloWorld
 ```
 
 {% endraw %}
+
+Hello World in P was written by:
+
+- Amanda Hager Lopes de Andrade Katz
 
 ## How to Implement the Solution
 

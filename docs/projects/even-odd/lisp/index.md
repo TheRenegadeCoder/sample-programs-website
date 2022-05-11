@@ -11,8 +11,6 @@ Welcome to the Even Odd in Lisp page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```lisp
@@ -35,6 +33,10 @@ Welcome to the Even Odd in Lisp page! Here, you'll find the source code for this
 ```
 
 {% endraw %}
+
+Even Odd in Lisp was written by:
+
+- Parker Johansen
 
 ## How to Implement the Solution
 

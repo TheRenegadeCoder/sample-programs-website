@@ -11,8 +11,6 @@ Welcome to the Binary Search in Javascript page! Here, you'll find the source co
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```javascript
@@ -40,6 +38,10 @@ console.log(array && target ? binarySearch(array.split(', '), target) : error);
 ```
 
 {% endraw %}
+
+Binary Search in Javascript was written by:
+
+- izexi
 
 ## How to Implement the Solution
 

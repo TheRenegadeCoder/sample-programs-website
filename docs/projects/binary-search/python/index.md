@@ -14,8 +14,6 @@ Welcome to the Binary Search in Python page! Here, you'll find the source code f
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```python
@@ -67,6 +65,13 @@ if __name__ == "__main__":
 ```
 
 {% endraw %}
+
+Binary Search in Python was written by:
+
+- Vikram Rayavarapu
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Oct 27 2019 01:49:55. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

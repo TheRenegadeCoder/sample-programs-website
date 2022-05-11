@@ -11,8 +11,6 @@ Welcome to the File Io in Kotlin page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```kotlin
@@ -42,6 +40,10 @@ fun main(args: Array<String>) {
 ```
 
 {% endraw %}
+
+File Io in Kotlin was written by:
+
+- Tim Lange
 
 ## How to Implement the Solution
 

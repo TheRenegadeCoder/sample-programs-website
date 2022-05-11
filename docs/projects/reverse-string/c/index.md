@@ -14,8 +14,6 @@ Welcome to the Reverse String in C page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c
@@ -50,6 +48,12 @@ int main(int argc, char **argv)
 ```
 
 {% endraw %}
+
+Reverse String in C was written by:
+
+- Christoph Böhmwalder
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jul 25 2018 01:24:39. The solution was first committed on Jul 24 2018 12:26:56. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

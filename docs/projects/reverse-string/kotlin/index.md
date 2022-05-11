@@ -11,8 +11,6 @@ Welcome to the Reverse String in Kotlin page! Here, you'll find the source code 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```kotlin
@@ -30,6 +28,10 @@ fun main(args: Array<String>){
 ```
 
 {% endraw %}
+
+Reverse String in Kotlin was written by:
+
+- Barry Rowe
 
 ## How to Implement the Solution
 

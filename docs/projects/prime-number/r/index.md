@@ -11,8 +11,6 @@ Welcome to the Prime Number in R page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```r
@@ -57,6 +55,10 @@ if(length(args) > 0){
 ```
 
 {% endraw %}
+
+Prime Number in R was written by:
+
+- Veena ManikPrabhu
 
 ## How to Implement the Solution
 

@@ -14,8 +14,6 @@ Welcome to the Reverse String in Javascript page! Here, you'll find the source c
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```javascript
@@ -25,6 +23,13 @@ console.log(reverse(process.argv[2]));
 ```
 
 {% endraw %}
+
+Reverse String in Javascript was written by:
+
+- Trever Shick
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 29 2019 19:05:32. The solution was first committed on May 06 2018 09:06:55. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

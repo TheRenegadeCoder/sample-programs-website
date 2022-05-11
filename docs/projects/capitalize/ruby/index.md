@@ -11,8 +11,6 @@ Welcome to the Capitalize in Ruby page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```ruby
@@ -30,6 +28,10 @@ end
 ```
 
 {% endraw %}
+
+Capitalize in Ruby was written by:
+
+- Couraxe
 
 ## How to Implement the Solution
 

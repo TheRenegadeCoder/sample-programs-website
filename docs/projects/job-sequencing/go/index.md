@@ -11,8 +11,6 @@ Welcome to the Job Sequencing in Go page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```go
@@ -126,6 +124,12 @@ func main() {
 ```
 
 {% endraw %}
+
+Job Sequencing in Go was written by:
+
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 25 2019 11:27:20. The solution was first committed on Mar 16 2019 16:00:29. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

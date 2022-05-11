@@ -11,8 +11,6 @@ Welcome to the File Io in Dg page! Here, you'll find the source code for this pr
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```dg
@@ -40,6 +38,13 @@ read_file filename
 ```
 
 {% endraw %}
+
+File Io in Dg was written by:
+
+- Jeremy Grifski
+- Riley Martine
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2018 22:42:39. The solution was first committed on Oct 03 2018 17:19:04. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

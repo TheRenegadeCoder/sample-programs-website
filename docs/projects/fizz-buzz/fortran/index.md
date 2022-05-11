@@ -11,8 +11,6 @@ Welcome to the Fizz Buzz in Fortran page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```fortran
@@ -35,6 +33,10 @@ end program fizz_buzz
 ```
 
 {% endraw %}
+
+Fizz Buzz in Fortran was written by:
+
+- sniklas142
 
 ## How to Implement the Solution
 

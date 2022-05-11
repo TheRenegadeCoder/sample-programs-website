@@ -11,8 +11,6 @@ Welcome to the Baklava in Julia page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```julia
@@ -34,6 +32,13 @@ main()
 ```
 
 {% endraw %}
+
+Baklava in Julia was written by:
+
+- germmand
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 27 2019 14:00:36. The solution was first committed on Oct 04 2018 17:07:58. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

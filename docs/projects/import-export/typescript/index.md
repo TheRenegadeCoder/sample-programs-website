@@ -15,8 +15,6 @@ Welcome to the Import Export in Typescript page! Here, you'll find the source co
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```typescript
@@ -26,6 +24,10 @@ console.log(myGreeting);
 ```
 
 {% endraw %}
+
+Import Export in Typescript was written by:
+
+- Anna
 
 ## How to Implement the Solution
 

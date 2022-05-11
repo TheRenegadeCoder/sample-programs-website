@@ -11,8 +11,6 @@ Welcome to the Bubble Sort in Javascript page! Here, you'll find the source code
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```javascript
@@ -107,6 +105,12 @@ else {
 ```
 
 {% endraw %}
+
+Bubble Sort in Javascript was written by:
+
+- Zachary Smith
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 17 2019 12:47:05. The solution was first committed on Oct 12 2019 16:23:29. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

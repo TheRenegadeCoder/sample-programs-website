@@ -15,8 +15,6 @@ Welcome to the Roman Numeral in C page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c
@@ -64,6 +62,12 @@ int main(int argc,char **argv)
 ```
 
 {% endraw %}
+
+Roman Numeral in C was written by:
+
+- LezendarySandwich
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 20 2019 12:24:36. The solution was first committed on Oct 20 2019 11:47:04. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

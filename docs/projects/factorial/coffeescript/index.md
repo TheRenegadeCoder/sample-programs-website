@@ -11,8 +11,6 @@ Welcome to the Factorial in Coffeescript page! Here, you'll find the source code
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```coffeescript
@@ -33,6 +31,13 @@ console.log main()
 ```
 
 {% endraw %}
+
+Factorial in Coffeescript was written by:
+
+- Hanyuan Li
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:14:45. The solution was first committed on Oct 11 2019 21:51:03. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

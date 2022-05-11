@@ -11,8 +11,6 @@ Welcome to the Quine in Php page! Here, you'll find the source code for this pro
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```php
@@ -20,6 +18,10 @@ Welcome to the Quine in Php page! Here, you'll find the source code for this pro
 ```
 
 {% endraw %}
+
+Quine in Php was written by:
+
+- Juan D Frias
 
 ## How to Implement the Solution
 

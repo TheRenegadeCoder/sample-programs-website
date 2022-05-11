@@ -11,8 +11,6 @@ Welcome to the Capitalize in Clojure page! Here, you'll find the source code for
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```clojure
@@ -44,6 +42,13 @@ Welcome to the Capitalize in Clojure page! Here, you'll find the source code for
 ```
 
 {% endraw %}
+
+Capitalize in Clojure was written by:
+
+- pablocostass
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 23:49:48. The solution was first committed on Oct 10 2019 23:54:24. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Rot 13 in Haskell page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```haskell
@@ -47,6 +45,12 @@ main = do
 ```
 
 {% endraw %}
+
+Rot 13 in Haskell was written by:
+
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2019 01:48:28. The solution was first committed on Nov 20 2018 02:15:20. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

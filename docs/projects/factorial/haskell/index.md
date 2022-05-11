@@ -11,8 +11,6 @@ Welcome to the Factorial in Haskell page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```haskell
@@ -42,6 +40,10 @@ main = do
 ```
 
 {% endraw %}
+
+Factorial in Haskell was written by:
+
+- Parker Johansen
 
 ## How to Implement the Solution
 

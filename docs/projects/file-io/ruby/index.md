@@ -14,8 +14,6 @@ Welcome to the File Io in Ruby page! Here, you'll find the source code for this 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```ruby
@@ -45,6 +43,10 @@ read_file()
 ```
 
 {% endraw %}
+
+File Io in Ruby was written by:
+
+- Noah
 
 ## How to Implement the Solution
 

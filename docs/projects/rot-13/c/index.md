@@ -11,8 +11,6 @@ Welcome to the Rot 13 in C page! Here, you'll find the source code for this prog
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c
@@ -44,6 +42,12 @@ int main(int argc, char *argv[]) {
 ```
 
 {% endraw %}
+
+Rot 13 in C was written by:
+
+- Softizo
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2019 20:06:02. The solution was first committed on Oct 09 2019 18:23:24. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

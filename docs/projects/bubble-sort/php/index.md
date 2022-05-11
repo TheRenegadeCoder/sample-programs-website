@@ -11,8 +11,6 @@ Welcome to the Bubble Sort in Php page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```php
@@ -43,6 +41,14 @@ echo implode(', ', $numbers);
 ```
 
 {% endraw %}
+
+Bubble Sort in Php was written by:
+
+- Jeremy Grifski
+- Shahab Rahnama
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 04 2019 17:02:06. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Hello World in Terra page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```terra
@@ -20,6 +18,10 @@ print("Hello, World!")
 ```
 
 {% endraw %}
+
+Hello World in Terra was written by:
+
+- Jeremy Grifski
 
 ## How to Implement the Solution
 

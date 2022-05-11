@@ -11,8 +11,6 @@ Welcome to the Fibonacci in Julia page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```julia
@@ -38,6 +36,13 @@ end
 ```
 
 {% endraw %}
+
+Fibonacci in Julia was written by:
+
+- Michael King
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 16 2019 10:06:37. The solution was first committed on Oct 12 2018 13:55:57. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

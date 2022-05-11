@@ -11,8 +11,6 @@ Welcome to the Convex Hull in Java page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```java
@@ -81,6 +79,10 @@ class Point
 ```
 
 {% endraw %}
+
+Convex Hull in Java was written by:
+
+- jsonW0
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Even Odd in P4 page! Here, you'll find the source code for this p
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```p4
@@ -204,6 +202,10 @@ MyDeparser()
 ```
 
 {% endraw %}
+
+Even Odd in P4 was written by:
+
+- Fabricio Rodríguez
 
 ## How to Implement the Solution
 

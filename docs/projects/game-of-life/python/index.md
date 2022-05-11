@@ -11,8 +11,6 @@ Welcome to the Game Of Life in Python page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```python
@@ -195,6 +193,13 @@ main()
 ```
 
 {% endraw %}
+
+Game Of Life in Python was written by:
+
+- Maximillian Naza
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Jun 29 2018 17:05:49. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

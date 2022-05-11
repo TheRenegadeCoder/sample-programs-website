@@ -11,8 +11,6 @@ Welcome to the Merge Sort in Matlab page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```matlab
@@ -74,6 +72,10 @@ end
 ```
 
 {% endraw %}
+
+Merge Sort in Matlab was written by:
+
+- Nikhil Gupta
 
 ## How to Implement the Solution
 

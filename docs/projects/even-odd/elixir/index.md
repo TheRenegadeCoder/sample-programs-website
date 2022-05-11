@@ -11,8 +11,6 @@ Welcome to the Even Odd in Elixir page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```elixir
@@ -49,6 +47,12 @@ EvenOdd.main(System.argv()) |> IO.puts
 ```
 
 {% endraw %}
+
+Even Odd in Elixir was written by:
+
+- Zapnuk
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 04 2020 23:28:49. The solution was first committed on Oct 03 2020 02:22:00. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

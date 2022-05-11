@@ -14,8 +14,6 @@ Welcome to the Hello World in Befunge page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```befunge
@@ -26,6 +24,10 @@ Welcome to the Hello World in Befunge page! Here, you'll find the source code fo
 ```
 
 {% endraw %}
+
+Hello World in Befunge was written by:
+
+- Stuart Irwin
 
 ## How to Implement the Solution
 

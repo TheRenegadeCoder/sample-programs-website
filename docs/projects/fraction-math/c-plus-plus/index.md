@@ -14,8 +14,6 @@ Welcome to the Fraction Math in C++ page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c++
@@ -295,6 +293,13 @@ int main(int argc, char const *argv[]){
 ```
 
 {% endraw %}
+
+Fraction Math in C++ was written by:
+
+- Niraj Kamdar
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 10 2022 16:42:22. The solution was first committed on Oct 10 2019 21:43:40. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

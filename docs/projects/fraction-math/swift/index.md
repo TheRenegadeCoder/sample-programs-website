@@ -11,8 +11,6 @@ Welcome to the Fraction Math in Swift page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```swift
@@ -175,6 +173,12 @@ default:
 ```
 
 {% endraw %}
+
+Fraction Math in Swift was written by:
+
+- Zapnuk
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 01 2020 17:31:54. The solution was first committed on Oct 01 2020 17:07:28. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

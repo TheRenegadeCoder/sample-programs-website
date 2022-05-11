@@ -11,8 +11,6 @@ Welcome to the Rot 13 in Python page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```python
@@ -55,6 +53,13 @@ if __name__ == "__main__":
 ```
 
 {% endraw %}
+
+Rot 13 in Python was written by:
+
+- Jeremy Grifski
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Dec 23 2018 01:26:11. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

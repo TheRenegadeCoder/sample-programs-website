@@ -14,8 +14,6 @@ Welcome to the Hello World in Koka page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```koka
@@ -26,6 +24,10 @@ function main()
 ```
 
 {% endraw %}
+
+Hello World in Koka was written by:
+
+- Bassem Mohamed
 
 ## How to Implement the Solution
 

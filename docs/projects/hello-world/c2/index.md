@@ -11,8 +11,6 @@ Welcome to the Hello World in C2 page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c2
@@ -27,6 +25,10 @@ func i32 main(i32 argc, char** argv) {
 ```
 
 {% endraw %}
+
+Hello World in C2 was written by:
+
+- Jeremy Grifski
 
 ## How to Implement the Solution
 

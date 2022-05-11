@@ -11,8 +11,6 @@ Welcome to the Prime Number in Perl page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```perl
@@ -84,6 +82,12 @@ else {
 ```
 
 {% endraw %}
+
+Prime Number in Perl was written by:
+
+- Mallikarjuna S J
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Nov 05 2019 10:22:57. The solution was first committed on Oct 31 2019 19:18:18. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

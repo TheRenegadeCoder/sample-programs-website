@@ -11,8 +11,6 @@ Welcome to the Binary Search in Go page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```go
@@ -96,6 +94,10 @@ func main() {
 ```
 
 {% endraw %}
+
+Binary Search in Go was written by:
+
+- Parker Johansen
 
 ## How to Implement the Solution
 

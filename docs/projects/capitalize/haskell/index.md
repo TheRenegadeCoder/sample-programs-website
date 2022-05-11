@@ -11,8 +11,6 @@ Welcome to the Capitalize in Haskell page! Here, you'll find the source code for
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```haskell
@@ -35,6 +33,13 @@ main = do
 ```
 
 {% endraw %}
+
+Capitalize in Haskell was written by:
+
+- Amanda Eubanks
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 23:11:24. The solution was first committed on Oct 13 2019 17:52:43. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

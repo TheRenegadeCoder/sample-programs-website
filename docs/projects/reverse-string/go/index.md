@@ -11,8 +11,6 @@ Welcome to the Reverse String in Go page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```go
@@ -45,6 +43,13 @@ func main() {
 ```
 
 {% endraw %}
+
+Reverse String in Go was written by:
+
+- Riddhi K
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 01 2019 02:39:12. The solution was first committed on Oct 15 2018 21:21:39. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

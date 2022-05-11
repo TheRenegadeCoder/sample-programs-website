@@ -11,8 +11,6 @@ Welcome to the Hello World in Golo page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```golo
@@ -24,6 +22,10 @@ function main = |args| {
 ```
 
 {% endraw %}
+
+Hello World in Golo was written by:
+
+- Jeremy Grifski
 
 ## How to Implement the Solution
 

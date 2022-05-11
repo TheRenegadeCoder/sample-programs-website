@@ -11,8 +11,6 @@ Welcome to the Hello World in Ada page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```ada
@@ -25,6 +23,10 @@ end Hello_World;
 ```
 
 {% endraw %}
+
+Hello World in Ada was written by:
+
+- Jeremy Grifski
 
 ## How to Implement the Solution
 

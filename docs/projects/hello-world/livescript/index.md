@@ -11,8 +11,6 @@ Welcome to the Hello World in Livescript page! Here, you'll find the source code
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```livescript
@@ -20,6 +18,10 @@ console.log 'hello, world!'
 ```
 
 {% endraw %}
+
+Hello World in Livescript was written by:
+
+- Michael Beebower
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Fizz Buzz in R page! Here, you'll find the source code for this p
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```r
@@ -38,6 +36,13 @@ fizz_buzz()
 ```
 
 {% endraw %}
+
+Fizz Buzz in R was written by:
+
+- Jeremy Grifski
+- Gabi Herman
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 18 2020 17:59:43. The solution was first committed on Oct 24 2019 16:13:46. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

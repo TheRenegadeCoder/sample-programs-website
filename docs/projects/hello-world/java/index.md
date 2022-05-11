@@ -11,8 +11,6 @@ Welcome to the Hello World in Java page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```java
@@ -24,6 +22,13 @@ class HelloWorld {
 ```
 
 {% endraw %}
+
+Hello World in Java was written by:
+
+- Jeremy Griffith
+- vivmost
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Sep 30 2020 23:09:13. The solution was first committed on Mar 15 2018 18:38:58. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

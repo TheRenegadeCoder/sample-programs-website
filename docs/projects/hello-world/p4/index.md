@@ -11,8 +11,6 @@ Welcome to the Hello World in P4 page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```p4
@@ -220,6 +218,10 @@ MyDeparser()
 ```
 
 {% endraw %}
+
+Hello World in P4 was written by:
+
+- Fabricio R
 
 ## How to Implement the Solution
 

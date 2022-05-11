@@ -11,8 +11,6 @@ Welcome to the Reverse String in Picolisp page! Here, you'll find the source cod
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```picolisp
@@ -27,6 +25,10 @@ Welcome to the Reverse String in Picolisp page! Here, you'll find the source cod
 ```
 
 {% endraw %}
+
+Reverse String in Picolisp was written by:
+
+- PNS11
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Prime Number in Java page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```java
@@ -72,6 +70,14 @@ public class PrimeNumber {
 ```
 
 {% endraw %}
+
+Prime Number in Java was written by:
+
+- Juan D Frias
+- Ganesh Naik
+- Ewerton Queiroz
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 01 2020 14:54:28. The solution was first committed on Oct 10 2019 02:15:05. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

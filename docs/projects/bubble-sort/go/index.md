@@ -14,8 +14,6 @@ Welcome to the Bubble Sort in Go page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```go
@@ -86,6 +84,12 @@ func main() {
 ```
 
 {% endraw %}
+
+Bubble Sort in Go was written by:
+
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 25 2019 19:45:18. The solution was first committed on Mar 05 2019 12:01:36. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

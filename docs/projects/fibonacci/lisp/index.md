@@ -11,8 +11,6 @@ Welcome to the Fibonacci in Lisp page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```lisp
@@ -41,6 +39,12 @@ Welcome to the Fibonacci in Lisp page! Here, you'll find the source code for thi
 ```
 
 {% endraw %}
+
+Fibonacci in Lisp was written by:
+
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 10:18:56. The solution was first committed on Oct 10 2020 18:17:08. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Hello World in Tcl page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```tcl
@@ -20,6 +18,10 @@ puts "Hello, World!"
 ```
 
 {% endraw %}
+
+Hello World in Tcl was written by:
+
+- Jeremy Griffith
 
 ## How to Implement the Solution
 

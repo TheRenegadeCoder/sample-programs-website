@@ -11,8 +11,6 @@ Welcome to the Fizz Buzz in Dg page! Here, you'll find the source code for this 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```dg
@@ -30,6 +28,10 @@ main 1 100 fizz_buzz
 ```
 
 {% endraw %}
+
+Fizz Buzz in Dg was written by:
+
+- Riley Martine
 
 ## How to Implement the Solution
 

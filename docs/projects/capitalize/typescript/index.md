@@ -11,8 +11,6 @@ Welcome to the Capitalize in Typescript page! Here, you'll find the source code 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```typescript
@@ -24,6 +22,10 @@ console.log(capitalize(myStr));
 ```
 
 {% endraw %}
+
+Capitalize in Typescript was written by:
+
+- Ray
 
 ## How to Implement the Solution
 

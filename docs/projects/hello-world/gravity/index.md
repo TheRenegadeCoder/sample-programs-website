@@ -11,8 +11,6 @@ Welcome to the Hello World in Gravity page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```gravity
@@ -22,6 +20,10 @@ func main() {
 ```
 
 {% endraw %}
+
+Hello World in Gravity was written by:
+
+- Jeremy Grifski
 
 ## How to Implement the Solution
 

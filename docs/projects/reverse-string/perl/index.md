@@ -11,8 +11,6 @@ Welcome to the Reverse String in Perl page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```perl
@@ -26,6 +24,10 @@ print scalar reverse $str;
 ```
 
 {% endraw %}
+
+Reverse String in Perl was written by:
+
+- Christoph Böhmwalder
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Hello World in Lily page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```lily
@@ -20,6 +18,10 @@ Welcome to the Hello World in Lily page! Here, you'll find the source code for t
 ```
 
 {% endraw %}
+
+Hello World in Lily was written by:
+
+- Jeremy Griffith
 
 ## How to Implement the Solution
 

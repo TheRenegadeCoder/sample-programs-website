@@ -11,8 +11,6 @@ Welcome to the Fibonacci in Scala page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```scala
@@ -51,6 +49,12 @@ object TestClass {
 ```
 
 {% endraw %}
+
+Fibonacci in Scala was written by:
+
+- paul-you
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 27 2019 19:46:35. The solution was first committed on Oct 25 2019 15:33:55. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Prime Number in Haskell page! Here, you'll find the source code f
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```haskell
@@ -48,6 +46,12 @@ main = do
 ```
 
 {% endraw %}
+
+Prime Number in Haskell was written by:
+
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 02 2019 11:43:38. The solution was first committed on Nov 16 2018 22:37:33. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

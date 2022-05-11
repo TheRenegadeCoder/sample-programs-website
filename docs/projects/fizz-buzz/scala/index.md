@@ -11,8 +11,6 @@ Welcome to the Fizz Buzz in Scala page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```scala
@@ -38,6 +36,10 @@ object FizzBuzz {
 ```
 
 {% endraw %}
+
+Fizz Buzz in Scala was written by:
+
+- Chris Thomas
 
 ## How to Implement the Solution
 

@@ -14,8 +14,6 @@ Welcome to the Prime Number in Python page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```python
@@ -49,6 +47,13 @@ if __name__ == "__main__":
 ```
 
 {% endraw %}
+
+Prime Number in Python was written by:
+
+- Haseeb Majid
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 02 2019 11:43:38. The solution was first committed on Dec 23 2018 00:11:48. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

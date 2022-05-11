@@ -11,8 +11,6 @@ Welcome to the Roman Numeral in Haskell page! Here, you'll find the source code 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```haskell
@@ -59,6 +57,12 @@ main = do
 ```
 
 {% endraw %}
+
+Roman Numeral in Haskell was written by:
+
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 01 2019 03:55:34. The solution was first committed on Oct 21 2018 01:06:56. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

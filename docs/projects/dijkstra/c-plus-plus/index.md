@@ -11,8 +11,6 @@ Welcome to the Dijkstra in C++ page! Here, you'll find the source code for this 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c++
@@ -190,6 +188,12 @@ int main(int argc, char *argv[])
 ```
 
 {% endraw %}
+
+Dijkstra in C++ was written by:
+
+- Abdelrahman Tarek
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 30 2019 21:11:55. The solution was first committed on Oct 27 2019 23:38:28. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

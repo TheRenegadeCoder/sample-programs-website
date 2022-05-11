@@ -14,8 +14,6 @@ Welcome to the Hello World in Julia page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```julia
@@ -23,6 +21,10 @@ println("Hello, World!")
 ```
 
 {% endraw %}
+
+Hello World in Julia was written by:
+
+- Jeremy Griffith
 
 ## How to Implement the Solution
 

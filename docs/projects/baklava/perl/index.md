@@ -11,8 +11,6 @@ Welcome to the Baklava in Perl page! Here, you'll find the source code for this 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```perl
@@ -32,6 +30,10 @@ for my $j (0..$size){
 ```
 
 {% endraw %}
+
+Baklava in Perl was written by:
+
+- Kateryna Tokar
 
 ## How to Implement the Solution
 

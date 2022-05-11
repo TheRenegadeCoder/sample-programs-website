@@ -11,8 +11,6 @@ Welcome to the File Io in Php page! Here, you'll find the source code for this p
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```php
@@ -58,6 +56,14 @@ if (write_file($file_name)) {
 ```
 
 {% endraw %}
+
+File Io in Php was written by:
+
+- Juan D Frias
+- Jeremy Grifski
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 14 2019 14:16:18. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

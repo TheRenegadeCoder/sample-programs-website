@@ -11,8 +11,6 @@ Welcome to the Hello World in Modula2 page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```modula2
@@ -27,6 +25,10 @@ END PrintHelloWorld.
 ```
 
 {% endraw %}
+
+Hello World in Modula2 was written by:
+
+- Shashank KV
 
 ## How to Implement the Solution
 

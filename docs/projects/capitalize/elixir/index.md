@@ -11,8 +11,6 @@ Welcome to the Capitalize in Elixir page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```elixir
@@ -49,6 +47,10 @@ Capitalize.main(System.argv()) |> IO.puts
 ```
 
 {% endraw %}
+
+Capitalize in Elixir was written by:
+
+- Jonas Halstrup
 
 ## How to Implement the Solution
 

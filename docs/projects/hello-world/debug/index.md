@@ -11,8 +11,6 @@ Welcome to the Hello World in Debug page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```debug
@@ -44,6 +42,10 @@ _main:                            ; the entry point! void main()
 ```
 
 {% endraw %}
+
+Hello World in Debug was written by:
+
+- Subhasmita Swain
 
 ## How to Implement the Solution
 

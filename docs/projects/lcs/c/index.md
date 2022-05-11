@@ -11,8 +11,6 @@ Welcome to the LCS in C page! Here, you'll find the source code for this program
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c
@@ -107,6 +105,12 @@ int main(int argc,char **argv)
 ```
 
 {% endraw %}
+
+LCS in C was written by:
+
+- LezendarySandwich
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 20 2019 12:31:44. The solution was first committed on Oct 20 2019 11:56:37. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

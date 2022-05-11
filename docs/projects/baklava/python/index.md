@@ -11,8 +11,6 @@ Welcome to the Baklava in Python page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```python
@@ -24,6 +22,12 @@ for i in range(10, -1, -1):
 ```
 
 {% endraw %}
+
+Baklava in Python was written by:
+
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Sep 17 2018 16:48:59. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

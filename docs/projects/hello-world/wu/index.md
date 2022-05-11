@@ -11,8 +11,6 @@ Welcome to the Hello World in Wu page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```wu
@@ -22,6 +20,10 @@ print("Hello World")
 ```
 
 {% endraw %}
+
+Hello World in Wu was written by:
+
+- Purplebabar
 
 ## How to Implement the Solution
 

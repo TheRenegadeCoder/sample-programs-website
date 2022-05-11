@@ -11,8 +11,6 @@ Welcome to the Reverse String in Erlang page! Here, you'll find the source code 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```erlang
@@ -35,6 +33,10 @@ start(Number) when is_integer(Number) ->
 ```
 
 {% endraw %}
+
+Reverse String in Erlang was written by:
+
+- Mark Magahis
 
 ## How to Implement the Solution
 

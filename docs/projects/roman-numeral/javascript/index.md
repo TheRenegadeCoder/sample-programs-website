@@ -11,8 +11,6 @@ Welcome to the Roman Numeral in Javascript page! Here, you'll find the source co
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```javascript
@@ -94,6 +92,12 @@ if (args.length < 1) {
 ```
 
 {% endraw %}
+
+Roman Numeral in Javascript was written by:
+
+- Rani Kheir
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 12 2019 03:40:21. The solution was first committed on Oct 11 2019 01:41:10. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

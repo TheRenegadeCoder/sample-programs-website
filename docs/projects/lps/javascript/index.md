@@ -11,8 +11,6 @@ Welcome to the LPS in Javascript page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```javascript
@@ -45,6 +43,12 @@ console.log(
 ```
 
 {% endraw %}
+
+LPS in Javascript was written by:
+
+- izexi
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2020 13:59:30. The solution was first committed on Oct 17 2020 22:08:50. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

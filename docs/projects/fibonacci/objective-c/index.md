@@ -11,8 +11,6 @@ Welcome to the Fibonacci in Objective C page! Here, you'll find the source code 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```objective c
@@ -34,6 +32,10 @@ int main(void)
 ```
 
 {% endraw %}
+
+Fibonacci in Objective C was written by:
+
+- Renato
 
 ## How to Implement the Solution
 

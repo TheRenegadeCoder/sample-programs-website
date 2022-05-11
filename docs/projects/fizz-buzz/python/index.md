@@ -14,8 +14,6 @@ Welcome to the Fizz Buzz in Python page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```python
@@ -27,6 +25,10 @@ for n in range(1, 101):
 ```
 
 {% endraw %}
+
+Fizz Buzz in Python was written by:
+
+- xPolar
 
 ## How to Implement the Solution
 

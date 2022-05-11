@@ -11,8 +11,6 @@ Welcome to the Even Odd in R page! Here, you'll find the source code for this pr
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```r
@@ -32,6 +30,10 @@ if (length(args) < 1 || !suppressWarnings(!is.na(as.numeric(number)))) {
 ```
 
 {% endraw %}
+
+Even Odd in R was written by:
+
+- Grooble
 
 ## How to Implement the Solution
 

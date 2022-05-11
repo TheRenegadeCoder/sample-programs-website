@@ -14,8 +14,6 @@ Welcome to the Capitalize in Dart page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```dart
@@ -36,6 +34,13 @@ String capitalize(String input) =>
 ```
 
 {% endraw %}
+
+Capitalize in Dart was written by:
+
+- Jeremy Grifski
+- Paddy
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 22:15:11. The solution was first committed on Oct 17 2019 23:01:31. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Hello World in Abap page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```abap
@@ -21,6 +19,12 @@ WRITE 'Hello, World!'.
 ```
 
 {% endraw %}
+
+Hello World in Abap was written by:
+
+- Nils
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 21 2018 17:19:42. The solution was first committed on Oct 21 2018 14:31:10. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

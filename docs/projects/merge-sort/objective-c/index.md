@@ -11,8 +11,6 @@ Welcome to the Merge Sort in Objective C page! Here, you'll find the source code
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```objective c
@@ -60,6 +58,10 @@ NSArray* mergeSort(NSArray* randomArray){
 ```
 
 {% endraw %}
+
+Merge Sort in Objective C was written by:
+
+- Harshal Singh Raushan
 
 ## How to Implement the Solution
 

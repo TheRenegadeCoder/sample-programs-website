@@ -11,8 +11,6 @@ Welcome to the Merge Sort in Groovy page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```groovy
@@ -75,6 +73,10 @@ class MergeSort {
 ```
 
 {% endraw %}
+
+Merge Sort in Groovy was written by:
+
+- Mykhaylo Samonov
 
 ## How to Implement the Solution
 

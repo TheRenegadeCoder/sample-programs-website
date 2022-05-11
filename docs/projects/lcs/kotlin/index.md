@@ -11,8 +11,6 @@ Welcome to the LCS in Kotlin page! Here, you'll find the source code for this pr
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```kotlin
@@ -49,6 +47,13 @@ fun main(args: Array<String>) {
 ```
 
 {% endraw %}
+
+LCS in Kotlin was written by:
+
+- Blake.Ke
+- David Phillips
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 23:02:08. The solution was first committed on Oct 05 2020 00:20:57. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

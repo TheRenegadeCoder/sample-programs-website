@@ -11,8 +11,6 @@ Welcome to the Baklava in Groovy page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```groovy
@@ -25,6 +23,10 @@ Welcome to the Baklava in Groovy page! Here, you'll find the source code for thi
 ```
 
 {% endraw %}
+
+Baklava in Groovy was written by:
+
+- Rafael Vargas
 
 ## How to Implement the Solution
 

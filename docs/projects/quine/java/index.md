@@ -11,8 +11,6 @@ Welcome to the Quine in Java page! Here, you'll find the source code for this pr
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```java
@@ -20,6 +18,10 @@ public class Quine{public static void main(String[] args){char quote=34;String c
 ```
 
 {% endraw %}
+
+Quine in Java was written by:
+
+- Karl Marx
 
 ## How to Implement the Solution
 

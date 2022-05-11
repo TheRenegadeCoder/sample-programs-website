@@ -11,8 +11,6 @@ Welcome to the Fibonacci in Verilog page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```verilog
@@ -41,6 +39,10 @@ endmodule
 ```
 
 {% endraw %}
+
+Fibonacci in Verilog was written by:
+
+- TheSupremePatel
 
 ## How to Implement the Solution
 

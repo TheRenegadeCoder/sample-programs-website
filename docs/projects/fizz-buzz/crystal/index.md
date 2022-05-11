@@ -11,8 +11,6 @@ Welcome to the Fizz Buzz in Crystal page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```crystal
@@ -32,6 +30,10 @@ end
 ```
 
 {% endraw %}
+
+Fizz Buzz in Crystal was written by:
+
+- Noah Nichols
 
 ## How to Implement the Solution
 

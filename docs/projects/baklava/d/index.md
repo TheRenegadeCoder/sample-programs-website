@@ -11,8 +11,6 @@ Welcome to the Baklava in D page! Here, you'll find the source code for this pro
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```d
@@ -35,6 +33,10 @@ void main (string[ ] args)
 ```
 
 {% endraw %}
+
+Baklava in D was written by:
+
+- Jeremy Grifski
 
 ## How to Implement the Solution
 

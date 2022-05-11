@@ -11,8 +11,6 @@ Welcome to the File Io in Matlab page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```matlab
@@ -38,6 +36,10 @@ fprintf(a)
 ```
 
 {% endraw %}
+
+File Io in Matlab was written by:
+
+- iwishiwasaneagle
 
 ## How to Implement the Solution
 

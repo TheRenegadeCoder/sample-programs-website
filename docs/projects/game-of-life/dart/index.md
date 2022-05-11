@@ -11,8 +11,6 @@ Welcome to the Game Of Life in Dart page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```dart
@@ -123,6 +121,10 @@ Welcome to the Game Of Life in Dart page! Here, you'll find the source code for 
 ```
 
 {% endraw %}
+
+Game Of Life in Dart was written by:
+
+- slashdoom
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Reverse String in Bash page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```bash
@@ -29,6 +27,13 @@ echo $reverseStr
 ```
 
 {% endraw %}
+
+Reverse String in Bash was written by:
+
+- Abdus
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 21 2019 17:52:55. The solution was first committed on May 09 2018 11:20:08. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

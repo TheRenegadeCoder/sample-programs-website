@@ -11,8 +11,6 @@ Welcome to the Factorial in Erlang page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```erlang
@@ -39,6 +37,10 @@ factorial(N,Acc) ->
 ```
 
 {% endraw %}
+
+Factorial in Erlang was written by:
+
+- Mark Magahis
 
 ## How to Implement the Solution
 

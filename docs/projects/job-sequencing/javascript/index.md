@@ -11,8 +11,6 @@ Welcome to the Job Sequencing in Javascript page! Here, you'll find the source c
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```javascript
@@ -119,6 +117,10 @@ main(process.argv[2], process.argv[3])
 ```
 
 {% endraw %}
+
+Job Sequencing in Javascript was written by:
+
+- Sayantan Sarkar
 
 ## How to Implement the Solution
 

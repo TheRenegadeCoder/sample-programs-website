@@ -11,8 +11,6 @@ Welcome to the Quine in Javascript page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```javascript
@@ -20,6 +18,10 @@ Welcome to the Quine in Javascript page! Here, you'll find the source code for t
 ```
 
 {% endraw %}
+
+Quine in Javascript was written by:
+
+- Jeng
 
 ## How to Implement the Solution
 

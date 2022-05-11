@@ -11,8 +11,6 @@ Welcome to the Fizz Buzz in Julia page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```julia
@@ -29,6 +27,10 @@ end
 ```
 
 {% endraw %}
+
+Fizz Buzz in Julia was written by:
+
+- Michael King
 
 ## How to Implement the Solution
 

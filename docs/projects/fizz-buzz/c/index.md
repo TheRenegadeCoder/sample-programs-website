@@ -14,8 +14,6 @@ Welcome to the Fizz Buzz in C page! Here, you'll find the source code for this p
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c
@@ -39,6 +37,10 @@ int main(void)
 ```
 
 {% endraw %}
+
+Fizz Buzz in C was written by:
+
+- Jeremy Grifski
 
 ## How to Implement the Solution
 

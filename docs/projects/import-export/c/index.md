@@ -11,8 +11,6 @@ Welcome to the Import Export in C page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c
@@ -20,6 +18,10 @@ char str[] = "Sample Programs";
 ```
 
 {% endraw %}
+
+Import Export in C was written by:
+
+- manasmithamn
 
 ## How to Implement the Solution
 

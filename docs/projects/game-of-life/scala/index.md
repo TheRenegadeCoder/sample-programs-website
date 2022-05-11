@@ -11,8 +11,6 @@ Welcome to the Game Of Life in Scala page! Here, you'll find the source code for
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```scala
@@ -172,6 +170,10 @@ object GameOfLife {
 ```
 
 {% endraw %}
+
+Game Of Life in Scala was written by:
+
+- Viet Thang Nguyen
 
 ## How to Implement the Solution
 

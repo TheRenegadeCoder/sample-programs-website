@@ -11,8 +11,6 @@ Welcome to the Hello World in Boo page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```boo
@@ -20,6 +18,10 @@ print "Hello, World!"
 ```
 
 {% endraw %}
+
+Hello World in Boo was written by:
+
+- Subhayu Roy
 
 ## How to Implement the Solution
 

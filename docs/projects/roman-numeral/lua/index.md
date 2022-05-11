@@ -11,8 +11,6 @@ Welcome to the Roman Numeral in Lua page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```lua
@@ -88,6 +86,13 @@ print(convertToDecimal(input))
 ```
 
 {% endraw %}
+
+Roman Numeral in Lua was written by:
+
+- jketterer
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 19:22:39. The solution was first committed on Oct 28 2019 13:27:00. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

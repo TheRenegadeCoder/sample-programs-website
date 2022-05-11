@@ -11,8 +11,6 @@ Welcome to the File Io in Haskell page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```haskell
@@ -36,6 +34,12 @@ main = do
 ```
 
 {% endraw %}
+
+File Io in Haskell was written by:
+
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 24 2018 10:42:45. The solution was first committed on Oct 22 2018 09:07:26. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

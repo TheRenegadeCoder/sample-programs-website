@@ -14,8 +14,6 @@ Welcome to the Hello World in C page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c
@@ -29,6 +27,13 @@ int main()
 ```
 
 {% endraw %}
+
+Hello World in C was written by:
+
+- Jeremy Griffith
+- Christoph Böhmwalder
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jul 24 2018 11:02:56. The solution was first committed on Mar 15 2018 20:27:08. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Hello World in Lobster page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```lobster
@@ -29,6 +27,12 @@ while gl_frame() and gl_button("escape") != 1:
 ```
 
 {% endraw %}
+
+Hello World in Lobster was written by:
+
+- Abel D
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Sep 16 2019 13:08:15. The solution was first committed on Sep 14 2019 12:41:02. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

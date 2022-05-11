@@ -11,8 +11,6 @@ Welcome to the Even Odd in Go page! Here, you'll find the source code for this p
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```go
@@ -48,6 +46,13 @@ func main() {
 ```
 
 {% endraw %}
+
+Even Odd in Go was written by:
+
+- clarkimusmax
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 01 2019 02:39:12. The solution was first committed on Oct 25 2018 20:22:28. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

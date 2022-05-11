@@ -11,8 +11,6 @@ Welcome to the Rot 13 in Go page! Here, you'll find the source code for this pro
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```go
@@ -57,6 +55,12 @@ func main() {
 ```
 
 {% endraw %}
+
+Rot 13 in Go was written by:
+
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 06 2019 00:32:12. The solution was first committed on Mar 17 2019 19:16:07. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

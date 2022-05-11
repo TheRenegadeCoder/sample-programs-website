@@ -11,8 +11,6 @@ Welcome to the Even Odd in Perl page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```perl
@@ -36,6 +34,10 @@ if ($number % 2 == 0) {
 ```
 
 {% endraw %}
+
+Even Odd in Perl was written by:
+
+- Gabriela Kandová
 
 ## How to Implement the Solution
 

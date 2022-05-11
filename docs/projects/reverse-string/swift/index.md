@@ -14,8 +14,6 @@ Welcome to the Reverse String in Swift page! Here, you'll find the source code f
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```swift
@@ -33,6 +31,12 @@ print(reversedString)
 ```
 
 {% endraw %}
+
+Reverse String in Swift was written by:
+
+- Marty A/V
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Aug 10 2018 23:25:53. The solution was first committed on May 10 2018 10:37:34. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

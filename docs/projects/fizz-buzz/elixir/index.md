@@ -11,8 +11,6 @@ Welcome to the Fizz Buzz in Elixir page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```elixir
@@ -27,6 +25,10 @@ end)
 ```
 
 {% endraw %}
+
+Fizz Buzz in Elixir was written by:
+
+- Jeremy Grifski
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Hello World in Purescript page! Here, you'll find the source code
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```purescript
@@ -24,6 +22,10 @@ main = log "Hello, world!"
 ```
 
 {% endraw %}
+
+Hello World in Purescript was written by:
+
+- Parker Johansen
 
 ## How to Implement the Solution
 

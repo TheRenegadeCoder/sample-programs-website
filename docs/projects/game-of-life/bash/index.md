@@ -11,8 +11,6 @@ Welcome to the Game Of Life in Bash page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```bash
@@ -272,6 +270,10 @@ done
 ```
 
 {% endraw %}
+
+Game Of Life in Bash was written by:
+
+- Juan D Frias
 
 ## How to Implement the Solution
 

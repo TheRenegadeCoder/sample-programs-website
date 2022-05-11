@@ -11,8 +11,6 @@ Welcome to the Baklava in Php page! Here, you'll find the source code for this p
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```php
@@ -28,6 +26,12 @@ for ($i = 10;-1 < $i; $i--) {
 ```
 
 {% endraw %}
+
+Baklava in Php was written by:
+
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Sep 17 2018 16:48:59. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

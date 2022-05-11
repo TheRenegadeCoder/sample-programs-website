@@ -11,8 +11,6 @@ Welcome to the Fizz Buzz in Racket page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```racket
@@ -32,6 +30,10 @@ Welcome to the Fizz Buzz in Racket page! Here, you'll find the source code for t
 ```
 
 {% endraw %}
+
+Fizz Buzz in Racket was written by:
+
+- RubinMathias
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Fizz Buzz in Ruby page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```ruby
@@ -36,6 +34,10 @@ end
 ```
 
 {% endraw %}
+
+Fizz Buzz in Ruby was written by:
+
+- Jeremy Grifski
 
 ## How to Implement the Solution
 

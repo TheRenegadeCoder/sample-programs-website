@@ -11,8 +11,6 @@ Welcome to the Roman Numeral in C# page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c#
@@ -72,6 +70,12 @@ namespace SamplePrograms
 ```
 
 {% endraw %}
+
+Roman Numeral in C# was written by:
+
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 01 2019 04:00:30. The solution was first committed on Oct 21 2018 15:22:45. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

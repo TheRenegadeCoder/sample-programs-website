@@ -11,8 +11,6 @@ Welcome to the Fibonacci in Dart page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```dart
@@ -35,6 +33,10 @@ void main(List<String> args) {
 ```
 
 {% endraw %}
+
+Fibonacci in Dart was written by:
+
+- Reilly Howell
 
 ## How to Implement the Solution
 

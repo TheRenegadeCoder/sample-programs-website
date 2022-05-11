@@ -11,8 +11,6 @@ Welcome to the Bubble Sort in Ruby page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```ruby
@@ -46,6 +44,13 @@ end
 ```
 
 {% endraw %}
+
+Bubble Sort in Ruby was written by:
+
+- Jeremy Grifski
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 20 2019 19:51:53. The solution was first committed on Mar 20 2019 15:25:56. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

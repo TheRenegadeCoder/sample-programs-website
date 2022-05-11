@@ -14,8 +14,6 @@ Welcome to the Insertion Sort in C++ page! Here, you'll find the source code for
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c++
@@ -90,6 +88,10 @@ int main(int argc, char* argv[]){
 ```
 
 {% endraw %}
+
+Insertion Sort in C++ was written by:
+
+- Prasun Kumar
 
 ## How to Implement the Solution
 

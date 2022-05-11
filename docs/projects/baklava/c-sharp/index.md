@@ -11,8 +11,6 @@ Welcome to the Baklava in C# page! Here, you'll find the source code for this pr
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c#
@@ -40,6 +38,10 @@ class CSharp
 ```
 
 {% endraw %}
+
+Baklava in C# was written by:
+
+- Jeremy Grifski
 
 ## How to Implement the Solution
 

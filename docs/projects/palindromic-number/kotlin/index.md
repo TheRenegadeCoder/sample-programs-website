@@ -14,8 +14,6 @@ Welcome to the Palindromic Number in Kotlin page! Here, you'll find the source c
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```kotlin
@@ -54,6 +52,13 @@ fun main(args: Array<String>) {
 ```
 
 {% endraw %}
+
+Palindromic Number in Kotlin was written by:
+
+- Isaac Anohene
+- Blake.Ke
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 23:21:48. The solution was first committed on Oct 08 2020 16:44:11. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

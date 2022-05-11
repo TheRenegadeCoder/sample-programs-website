@@ -14,8 +14,6 @@ Welcome to the Hello World in Elm page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```elm
@@ -28,6 +26,12 @@ main =
 ```
 
 {% endraw %}
+
+Hello World in Elm was written by:
+
+- Jeremy Griffith
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 19 2018 18:37:30. The solution was first committed on Apr 11 2018 12:33:24. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

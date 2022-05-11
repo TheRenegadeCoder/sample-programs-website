@@ -14,8 +14,6 @@ Welcome to the Hello World in Picolisp page! Here, you'll find the source code f
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```picolisp
@@ -23,6 +21,10 @@ Welcome to the Hello World in Picolisp page! Here, you'll find the source code f
 ```
 
 {% endraw %}
+
+Hello World in Picolisp was written by:
+
+- Jeremy Grifski
 
 ## How to Implement the Solution
 

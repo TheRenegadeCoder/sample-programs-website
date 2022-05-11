@@ -11,8 +11,6 @@ Welcome to the Rot 13 in Kotlin page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```kotlin
@@ -72,6 +70,13 @@ fun main(args: Array<String>) {
 ```
 
 {% endraw %}
+
+Rot 13 in Kotlin was written by:
+
+- Cristiano Lopes
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 16:40:09. The solution was first committed on Oct 07 2020 16:32:12. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

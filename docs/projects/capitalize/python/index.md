@@ -14,8 +14,6 @@ Welcome to the Capitalize in Python page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```python
@@ -35,6 +33,13 @@ if __name__ == '__main__':
 ```
 
 {% endraw %}
+
+Capitalize in Python was written by:
+
+- Manan Gill
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Oct 09 2019 21:02:30. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

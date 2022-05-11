@@ -11,8 +11,6 @@ Welcome to the Palindromic Number in Perl page! Here, you'll find the source cod
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```perl
@@ -69,6 +67,10 @@ sub usage {
 ```
 
 {% endraw %}
+
+Palindromic Number in Perl was written by:
+
+- manasmithamn
 
 ## How to Implement the Solution
 

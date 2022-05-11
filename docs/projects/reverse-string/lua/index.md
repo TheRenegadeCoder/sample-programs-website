@@ -14,8 +14,6 @@ Welcome to the Reverse String in Lua page! Here, you'll find the source code for
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```lua
@@ -25,6 +23,13 @@ end
 ```
 
 {% endraw %}
+
+Reverse String in Lua was written by:
+
+- Matt Wiley
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 03 2019 19:09:30. The solution was first committed on Sep 19 2018 19:41:10. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

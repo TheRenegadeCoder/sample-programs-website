@@ -11,8 +11,6 @@ Welcome to the Fibonacci in Quack page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```quack
@@ -22,6 +20,10 @@ fn fibonacci(n) :- fibonacci(n - 1) + fibonacci(n - 2)
 ```
 
 {% endraw %}
+
+Fibonacci in Quack was written by:
+
+- Aneendya
 
 ## How to Implement the Solution
 

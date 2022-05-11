@@ -11,8 +11,6 @@ Welcome to the Reverse String in Pascal page! Here, you'll find the source code 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```pascal
@@ -39,6 +37,10 @@ end.
 ```
 
 {% endraw %}
+
+Reverse String in Pascal was written by:
+
+- smjalageri
 
 ## How to Implement the Solution
 

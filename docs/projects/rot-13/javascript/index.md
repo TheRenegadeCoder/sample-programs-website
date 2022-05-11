@@ -11,8 +11,6 @@ Welcome to the Rot 13 in Javascript page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```javascript
@@ -54,6 +52,10 @@ main(process.argv[2]);
 ```
 
 {% endraw %}
+
+Rot 13 in Javascript was written by:
+
+- mericleac
 
 ## How to Implement the Solution
 

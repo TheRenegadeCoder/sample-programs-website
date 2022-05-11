@@ -11,8 +11,6 @@ Welcome to the Factorial in C# page! Here, you'll find the source code for this 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c#
@@ -58,6 +56,13 @@ namespace SamplePrograms
 ```
 
 {% endraw %}
+
+Factorial in C# was written by:
+
+- Parker Johansen
+- Bharath
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 15:02:04. The solution was first committed on Dec 28 2018 17:51:27. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

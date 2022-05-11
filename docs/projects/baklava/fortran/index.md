@@ -11,8 +11,6 @@ Welcome to the Baklava in Fortran page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```fortran
@@ -27,6 +25,12 @@ end program Baklava
 ```
 
 {% endraw %}
+
+Baklava in Fortran was written by:
+
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 02 2019 15:07:11. The solution was first committed on Sep 17 2018 16:48:59. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

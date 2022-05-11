@@ -11,8 +11,6 @@ Welcome to the Factorial in Fortran page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```fortran
@@ -70,6 +68,10 @@ end program
 ```
 
 {% endraw %}
+
+Factorial in Fortran was written by:
+
+- Mallikarjuna S J
 
 ## How to Implement the Solution
 

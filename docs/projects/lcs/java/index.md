@@ -11,8 +11,6 @@ Welcome to the LCS in Java page! Here, you'll find the source code for this prog
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```java
@@ -114,6 +112,13 @@ public class Lcs{
 ```
 
 {% endraw %}
+
+LCS in Java was written by:
+
+- Shubham Tiwari
+- smallblack9
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 18:07:28. The solution was first committed on Oct 12 2019 22:42:39. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

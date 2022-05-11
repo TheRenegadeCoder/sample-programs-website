@@ -11,8 +11,6 @@ Welcome to the Factorial in C page! Here, you'll find the source code for this p
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c
@@ -88,6 +86,13 @@ int uint64_overflow(long a, long b) {
 ```
 
 {% endraw %}
+
+Factorial in C was written by:
+
+- clarkimusmax
+- Bharath
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 15:02:04. The solution was first committed on Oct 26 2018 17:34:42. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

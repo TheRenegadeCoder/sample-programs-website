@@ -14,8 +14,6 @@ Welcome to the Hello World in C# page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c#
@@ -32,6 +30,14 @@ namespace SamplePrograms
 ```
 
 {% endraw %}
+
+Hello World in C# was written by:
+
+- ildoc
+- Jeremy Griffith
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jul 24 2018 10:04:46. The solution was first committed on Mar 21 2018 00:11:57. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

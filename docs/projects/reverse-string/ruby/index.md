@@ -14,8 +14,6 @@ Welcome to the Reverse String in Ruby page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```ruby
@@ -29,6 +27,12 @@ end
 ```
 
 {% endraw %}
+
+Reverse String in Ruby was written by:
+
+- Noah Nichols
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Sep 25 2018 11:46:11. The solution was first committed on Sep 24 2018 15:19:38. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

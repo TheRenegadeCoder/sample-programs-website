@@ -11,8 +11,6 @@ Welcome to the Roman Numeral in Go page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```go
@@ -88,6 +86,13 @@ func main() {
 ```
 
 {% endraw %}
+
+Roman Numeral in Go was written by:
+
+- clarkimusmax
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 01 2019 02:39:00. The solution was first committed on Oct 25 2018 20:18:29. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

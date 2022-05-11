@@ -11,8 +11,6 @@ Welcome to the Factorial in Php page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```php
@@ -39,6 +37,13 @@ echo ("$factorial\n");
 ```
 
 {% endraw %}
+
+Factorial in Php was written by:
+
+- Italo Sousa
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 10 2019 00:25:59. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

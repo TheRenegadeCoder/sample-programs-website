@@ -11,8 +11,6 @@ Welcome to the Selection Sort in Bash page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```bash
@@ -59,6 +57,10 @@ echo $str
 ```
 
 {% endraw %}
+
+Selection Sort in Bash was written by:
+
+- Jan-Hendrik Ewers
 
 ## How to Implement the Solution
 

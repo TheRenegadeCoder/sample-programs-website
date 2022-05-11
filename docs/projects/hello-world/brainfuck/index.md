@@ -14,8 +14,6 @@ Welcome to the Hello World in Brainfuck page! Here, you'll find the source code 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```brainfuck
@@ -25,6 +23,10 @@ Welcome to the Hello World in Brainfuck page! Here, you'll find the source code 
 ```
 
 {% endraw %}
+
+Hello World in Brainfuck was written by:
+
+- Christoph Böhmwalder
 
 ## How to Implement the Solution
 

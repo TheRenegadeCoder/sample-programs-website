@@ -14,8 +14,6 @@ Welcome to the File Io in Scala page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```scala
@@ -129,6 +127,10 @@ object FileIO {
 ```
 
 {% endraw %}
+
+File Io in Scala was written by:
+
+- Viet Thang Nguyen
 
 ## How to Implement the Solution
 

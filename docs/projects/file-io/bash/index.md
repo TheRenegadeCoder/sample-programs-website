@@ -11,8 +11,6 @@ Welcome to the File Io in Bash page! Here, you'll find the source code for this 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```bash
@@ -31,6 +29,10 @@ read_file
 ```
 
 {% endraw %}
+
+File Io in Bash was written by:
+
+- Parker Johansen
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Linear Search in Javascript page! Here, you'll find the source co
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```javascript
@@ -58,6 +56,13 @@ main(process.argv[2], process.argv[3])
 ```
 
 {% endraw %}
+
+Linear Search in Javascript was written by:
+
+- NameerWaqas
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 02 2020 21:59:26. The solution was first committed on Oct 01 2020 13:30:39. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

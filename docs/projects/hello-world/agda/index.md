@@ -11,8 +11,6 @@ Welcome to the Hello World in Agda page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```agda
@@ -22,6 +20,12 @@ module helloworld where
 ```
 
 {% endraw %}
+
+Hello World in Agda was written by:
+
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 03 2018 14:11:56. The solution was first committed on May 03 2018 14:10:41. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

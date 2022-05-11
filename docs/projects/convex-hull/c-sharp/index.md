@@ -11,8 +11,6 @@ Welcome to the Convex Hull in C# page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c#
@@ -118,6 +116,10 @@ public class ConvexHull
 ```
 
 {% endraw %}
+
+Convex Hull in C# was written by:
+
+- SirePi
 
 ## How to Implement the Solution
 

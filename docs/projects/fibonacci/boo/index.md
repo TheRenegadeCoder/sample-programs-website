@@ -11,8 +11,6 @@ Welcome to the Fibonacci in Boo page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```boo
@@ -28,6 +26,10 @@ for index as int, element in zip(range(5), fib()):
 ```
 
 {% endraw %}
+
+Fibonacci in Boo was written by:
+
+- Subhayu Roy
 
 ## How to Implement the Solution
 

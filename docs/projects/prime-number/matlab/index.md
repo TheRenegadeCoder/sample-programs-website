@@ -11,8 +11,6 @@ Welcome to the Prime Number in Matlab page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```matlab
@@ -58,6 +56,10 @@ end
 ```
 
 {% endraw %}
+
+Prime Number in Matlab was written by:
+
+- rpartha
 
 ## How to Implement the Solution
 

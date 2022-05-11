@@ -14,8 +14,6 @@ Welcome to the Fizz Buzz in Kotlin page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```kotlin
@@ -32,6 +30,10 @@ fun main(args: Array<String>){
 ```
 
 {% endraw %}
+
+Fizz Buzz in Kotlin was written by:
+
+- ali-abdullah
 
 ## How to Implement the Solution
 

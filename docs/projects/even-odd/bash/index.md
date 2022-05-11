@@ -11,8 +11,6 @@ Welcome to the Even Odd in Bash page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```bash
@@ -32,6 +30,13 @@ fi
 ```
 
 {% endraw %}
+
+Even Odd in Bash was written by:
+
+- Jeremy Grifski
+- allievo-sudo
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 29 2019 15:23:13. The solution was first committed on Oct 09 2019 16:02:54. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

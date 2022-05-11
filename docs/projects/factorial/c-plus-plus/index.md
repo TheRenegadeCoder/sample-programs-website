@@ -11,8 +11,6 @@ Welcome to the Factorial in C++ page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c++
@@ -50,6 +48,10 @@ int main(int argc, char *argv[])
 ```
 
 {% endraw %}
+
+Factorial in C++ was written by:
+
+- Angooj Kumar Singh
 
 ## How to Implement the Solution
 

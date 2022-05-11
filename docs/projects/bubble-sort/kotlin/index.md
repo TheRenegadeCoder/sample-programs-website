@@ -11,8 +11,6 @@ Welcome to the Bubble Sort in Kotlin page! Here, you'll find the source code for
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```kotlin
@@ -62,6 +60,14 @@ fun main(args: Array<String>)
 ```
 
 {% endraw %}
+
+Bubble Sort in Kotlin was written by:
+
+- Blake.Ke
+- mikenmo
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 23:34:00. The solution was first committed on Oct 01 2020 16:33:59. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

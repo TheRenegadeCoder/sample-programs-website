@@ -13,8 +13,6 @@ Welcome to the Hello World in Tex page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```tex
@@ -25,6 +23,12 @@ Hello, World!
 ```
 
 {% endraw %}
+
+Hello World in Tex was written by:
+
+- Christoph Böhmwalder
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Sep 04 2018 11:11:25. The solution was first committed on Aug 28 2018 15:40:04. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

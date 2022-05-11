@@ -11,8 +11,6 @@ Welcome to the Fibonacci in Typescript page! Here, you'll find the source code f
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```typescript
@@ -36,6 +34,12 @@ fibonacci(process.argv[2]);
 ```
 
 {% endraw %}
+
+Fibonacci in Typescript was written by:
+
+- Chris Thomas
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 12 2018 11:24:37. The solution was first committed on Oct 12 2018 10:16:37. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Fibonacci in Nim page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```nim
@@ -44,6 +42,12 @@ for i in 1..n:
 ```
 
 {% endraw %}
+
+Fibonacci in Nim was written by:
+
+- Michael Olson
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 23:58:35. The solution was first committed on Oct 16 2019 20:14:08. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

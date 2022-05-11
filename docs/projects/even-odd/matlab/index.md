@@ -11,8 +11,6 @@ Welcome to the Even Odd in Matlab page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```matlab
@@ -39,6 +37,13 @@ end
 ```
 
 {% endraw %}
+
+Even Odd in Matlab was written by:
+
+- sakurakhadag
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 22 2021 15:02:49. The solution was first committed on Oct 11 2019 15:40:27. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

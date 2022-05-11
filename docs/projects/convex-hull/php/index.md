@@ -11,8 +11,6 @@ Welcome to the Convex Hull in Php page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```php
@@ -211,6 +209,13 @@ try {
 ```
 
 {% endraw %}
+
+Convex Hull in Php was written by:
+
+- Juan D Frias
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 17 2019 12:26:11. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

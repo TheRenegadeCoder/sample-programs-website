@@ -11,8 +11,6 @@ Welcome to the Insertion Sort in Javascript page! Here, you'll find the source c
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```javascript
@@ -56,6 +54,13 @@ main(process.argv[2])
 ```
 
 {% endraw %}
+
+Insertion Sort in Javascript was written by:
+
+- Eliver L
+- EliverLara
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2019 20:58:46. The solution was first committed on Oct 10 2019 17:29:27. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

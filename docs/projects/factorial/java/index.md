@@ -11,8 +11,6 @@ Welcome to the Factorial in Java page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```java
@@ -53,6 +51,13 @@ public class Factorial
 ```
 
 {% endraw %}
+
+Factorial in Java was written by:
+
+- Parker Johansen
+- Bharath
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 15:02:04. The solution was first committed on Dec 30 2018 17:30:18. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

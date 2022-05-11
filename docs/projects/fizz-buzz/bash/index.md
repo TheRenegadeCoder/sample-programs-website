@@ -11,8 +11,6 @@ Welcome to the Fizz Buzz in Bash page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```bash
@@ -32,6 +30,10 @@ done
 ```
 
 {% endraw %}
+
+Fizz Buzz in Bash was written by:
+
+- Christoph Böhmwalder
 
 ## How to Implement the Solution
 

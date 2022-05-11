@@ -11,8 +11,6 @@ Welcome to the Baklava in Ada page! Here, you'll find the source code for this p
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```ada
@@ -46,6 +44,10 @@ end Baklava;
 ```
 
 {% endraw %}
+
+Baklava in Ada was written by:
+
+- Gagan Agarwal
 
 ## How to Implement the Solution
 

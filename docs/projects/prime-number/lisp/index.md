@@ -11,8 +11,6 @@ Welcome to the Prime Number in Lisp page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```lisp
@@ -51,6 +49,13 @@ Welcome to the Prime Number in Lisp page! Here, you'll find the source code for 
 ```
 
 {% endraw %}
+
+Prime Number in Lisp was written by:
+
+- Renato
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 06:48:59. The solution was first committed on Oct 01 2020 10:54:37. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Bubble Sort in Bash page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```bash
@@ -53,6 +51,12 @@ echo "${arrayString//" "/", "}"
 ```
 
 {% endraw %}
+
+Bubble Sort in Bash was written by:
+
+- Lucas Schaan
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 01 2019 22:46:49. The solution was first committed on Oct 01 2019 16:34:54. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

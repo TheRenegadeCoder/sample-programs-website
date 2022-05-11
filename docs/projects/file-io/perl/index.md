@@ -11,8 +11,6 @@ Welcome to the File Io in Perl page! Here, you'll find the source code for this 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```perl
@@ -46,6 +44,12 @@ Main();
 ```
 
 {% endraw %}
+
+File Io in Perl was written by:
+
+- Ewerton Queiroz
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2019 01:29:31. The solution was first committed on Oct 15 2019 01:15:38. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

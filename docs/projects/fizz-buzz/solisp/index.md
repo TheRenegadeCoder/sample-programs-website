@@ -11,8 +11,6 @@ Welcome to the Fizz Buzz in Solisp page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```solisp
@@ -27,6 +25,12 @@ Welcome to the Fizz Buzz in Solisp page! Here, you'll find the source code for t
 ```
 
 {% endraw %}
+
+Fizz Buzz in Solisp was written by:
+
+- Stuart Irwin
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 23 2020 14:34:09. The solution was first committed on Feb 25 2020 15:47:14. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

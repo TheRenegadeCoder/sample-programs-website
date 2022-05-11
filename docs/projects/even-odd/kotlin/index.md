@@ -11,8 +11,6 @@ Welcome to the Even Odd in Kotlin page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```kotlin
@@ -31,6 +29,13 @@ fun main(args: Array<String>) {
 ```
 
 {% endraw %}
+
+Even Odd in Kotlin was written by:
+
+- Blake.Ke
+- mikenmo
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 23:34:00. The solution was first committed on Oct 01 2020 15:03:47. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

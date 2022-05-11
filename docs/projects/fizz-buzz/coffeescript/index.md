@@ -11,8 +11,6 @@ Welcome to the Fizz Buzz in Coffeescript page! Here, you'll find the source code
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```coffeescript
@@ -28,6 +26,10 @@ for i in [1..100]
 ```
 
 {% endraw %}
+
+Fizz Buzz in Coffeescript was written by:
+
+- darkpanda08
 
 ## How to Implement the Solution
 

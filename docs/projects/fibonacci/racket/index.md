@@ -11,8 +11,6 @@ Welcome to the Fibonacci in Racket page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```racket
@@ -49,6 +47,13 @@ Welcome to the Fibonacci in Racket page! Here, you'll find the source code for t
 ```
 
 {% endraw %}
+
+Fibonacci in Racket was written by:
+
+- Jeremy Grifski
+- zafar hussain
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 10 2022 22:08:48. The solution was first committed on Oct 31 2019 22:31:00. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

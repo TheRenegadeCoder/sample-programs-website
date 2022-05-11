@@ -11,8 +11,6 @@ Welcome to the Sleep Sort in Dart page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```dart
@@ -41,6 +39,13 @@ Future<List<int>> sleepsort(Iterable<int> input) async {
 ```
 
 {% endraw %}
+
+Sleep Sort in Dart was written by:
+
+- Jeremy Grifski
+- agilob
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 06 2020 11:53:48. The solution was first committed on Oct 07 2019 07:03:04. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Hello World in Latte page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```latte
@@ -20,6 +18,10 @@ println('Hello, World!')
 ```
 
 {% endraw %}
+
+Hello World in Latte was written by:
+
+- Jeremy Grifski
 
 ## How to Implement the Solution
 

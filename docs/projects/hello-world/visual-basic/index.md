@@ -14,8 +14,6 @@ Welcome to the Hello World in Visual Basic page! Here, you'll find the source co
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```visual basic
@@ -27,6 +25,13 @@ End Module
 ```
 
 {% endraw %}
+
+Hello World in Visual Basic was written by:
+
+- AaronLenoir
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 04 2018 13:58:37. The solution was first committed on May 04 2018 00:59:34. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

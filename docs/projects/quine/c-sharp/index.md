@@ -11,8 +11,6 @@ Welcome to the Quine in C# page! Here, you'll find the source code for this prog
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c#
@@ -20,6 +18,10 @@ class Quine { static void Main() { var s = "class Quine {{ static void Main() {{
 ```
 
 {% endraw %}
+
+Quine in C# was written by:
+
+- Parker Johansen
 
 ## How to Implement the Solution
 

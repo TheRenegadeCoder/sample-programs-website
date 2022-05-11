@@ -11,8 +11,6 @@ Welcome to the Game Of Life in C++ page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c++
@@ -210,6 +208,10 @@ void determineState(bool gridOne[gridSize+1][gridSize+1]){
 ```
 
 {% endraw %}
+
+Game Of Life in C++ was written by:
+
+- Soniya Nayak
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Baklava in Java page! Here, you'll find the source code for this 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```java
@@ -48,6 +46,10 @@ public class Baklava
 ```
 
 {% endraw %}
+
+Baklava in Java was written by:
+
+- Parker Johansen
 
 ## How to Implement the Solution
 

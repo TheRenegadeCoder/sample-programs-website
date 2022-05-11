@@ -11,8 +11,6 @@ Welcome to the Fibonacci in Bash page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```bash
@@ -36,6 +34,12 @@ done
 ```
 
 {% endraw %}
+
+Fibonacci in Bash was written by:
+
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2019 00:40:32. The solution was first committed on Oct 26 2018 03:28:37. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Bubble Sort in Scala page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```scala
@@ -65,6 +63,13 @@ object BubbleSortSample {
 ```
 
 {% endraw %}
+
+Bubble Sort in Scala was written by:
+
+- Viet Thang Nguyen
+- Vee Ng
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 25 2019 20:04:52. The solution was first committed on Mar 22 2019 12:56:04. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

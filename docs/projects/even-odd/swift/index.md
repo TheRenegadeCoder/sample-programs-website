@@ -11,8 +11,6 @@ Welcome to the Even Odd in Swift page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```swift
@@ -38,6 +36,10 @@ if is_even {
 ```
 
 {% endraw %}
+
+Even Odd in Swift was written by:
+
+- Jonas Halstrup
 
 ## How to Implement the Solution
 

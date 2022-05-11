@@ -11,8 +11,6 @@ Welcome to the Prime Number in Bash page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```bash
@@ -65,6 +63,13 @@ exit 0
 ```
 
 {% endraw %}
+
+Prime Number in Bash was written by:
+
+- thetbl
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 22 2021 15:02:49. The solution was first committed on Oct 14 2019 21:17:21. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

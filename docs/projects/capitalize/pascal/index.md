@@ -11,8 +11,6 @@ Welcome to the Capitalize in Pascal page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```pascal
@@ -33,6 +31,12 @@ end.
 ```
 
 {% endraw %}
+
+Capitalize in Pascal was written by:
+
+- smjalageri
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 18 2020 11:36:50. The solution was first committed on Oct 17 2020 07:57:13. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Even Odd in Lua page! Here, you'll find the source code for this 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```lua
@@ -34,6 +32,10 @@ main(arg[1])
 ```
 
 {% endraw %}
+
+Even Odd in Lua was written by:
+
+- Berry Semexan
 
 ## How to Implement the Solution
 

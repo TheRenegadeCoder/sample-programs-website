@@ -11,8 +11,6 @@ Welcome to the Rot 13 in Lua page! Here, you'll find the source code for this pr
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```lua
@@ -38,6 +36,13 @@ io.write("\n")
 ```
 
 {% endraw %}
+
+Rot 13 in Lua was written by:
+
+- Alex Gustafsson
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 19:22:39. The solution was first committed on Oct 18 2019 23:31:32. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

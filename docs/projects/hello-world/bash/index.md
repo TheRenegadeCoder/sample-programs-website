@@ -14,8 +14,6 @@ Welcome to the Hello World in Bash page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```bash
@@ -25,6 +23,13 @@ echo Hello, World!
 ```
 
 {% endraw %}
+
+Hello World in Bash was written by:
+
+- Abdus
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2018 12:47:13. The solution was first committed on May 09 2018 11:20:08. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

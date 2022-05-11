@@ -13,8 +13,6 @@ Welcome to the Fibonacci in Python page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```python
@@ -52,6 +50,13 @@ if __name__ == "__main__":
 ```
 
 {% endraw %}
+
+Fibonacci in Python was written by:
+
+- Marius
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2019 00:40:32. The solution was first committed on Oct 06 2018 15:20:01. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

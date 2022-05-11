@@ -11,8 +11,6 @@ Welcome to the Fizz Buzz in Tex page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```tex
@@ -53,6 +51,12 @@ Welcome to the Fizz Buzz in Tex page! Here, you'll find the source code for this
 ```
 
 {% endraw %}
+
+Fizz Buzz in Tex was written by:
+
+- Christoph Böhmwalder
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Sep 04 2018 11:11:25. The solution was first committed on Sep 04 2018 11:04:08. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

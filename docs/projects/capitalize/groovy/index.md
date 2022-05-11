@@ -11,8 +11,6 @@ Welcome to the Capitalize in Groovy page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```groovy
@@ -26,6 +24,10 @@ class Capitalize {
 ```
 
 {% endraw %}
+
+Capitalize in Groovy was written by:
+
+- robin
 
 ## How to Implement the Solution
 

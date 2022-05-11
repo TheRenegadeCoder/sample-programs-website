@@ -11,8 +11,6 @@ Welcome to the Quick Sort in Objective C page! Here, you'll find the source code
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```objective c
@@ -113,6 +111,12 @@ int main(int argc, const char * argv[]) {
 ```
 
 {% endraw %}
+
+Quick Sort in Objective C was written by:
+
+- niftycode
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 04 2020 17:02:28. The solution was first committed on Oct 04 2020 16:46:55. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

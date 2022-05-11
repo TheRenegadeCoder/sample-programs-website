@@ -11,8 +11,6 @@ Welcome to the LCS in Elixir page! Here, you'll find the source code for this pr
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```elixir
@@ -70,6 +68,13 @@ LongestCommonSubsequence.main()
 ```
 
 {% endraw %}
+
+LCS in Elixir was written by:
+
+- Ann
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 00:49:15. The solution was first committed on Oct 14 2019 07:19:41. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

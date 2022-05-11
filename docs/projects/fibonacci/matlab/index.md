@@ -11,8 +11,6 @@ Welcome to the Fibonacci in Matlab page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```matlab
@@ -45,6 +43,13 @@ end
 ```
 
 {% endraw %}
+
+Fibonacci in Matlab was written by:
+
+- gabiherman
+- Gabi Herman
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Nov 05 2019 15:10:54. The solution was first committed on Oct 24 2019 15:37:31. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

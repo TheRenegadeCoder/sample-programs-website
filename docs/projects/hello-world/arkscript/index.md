@@ -11,8 +11,6 @@ Welcome to the Hello World in Arkscript page! Here, you'll find the source code 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```arkscript
@@ -20,6 +18,10 @@ Welcome to the Hello World in Arkscript page! Here, you'll find the source code 
 ```
 
 {% endraw %}
+
+Hello World in Arkscript was written by:
+
+- SuperFola
 
 ## How to Implement the Solution
 

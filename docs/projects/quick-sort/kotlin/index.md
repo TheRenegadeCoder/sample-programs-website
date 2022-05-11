@@ -11,8 +11,6 @@ Welcome to the Quick Sort in Kotlin page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```kotlin
@@ -95,6 +93,14 @@ fun quickSort(arr: IntArray):IntArray
 ```
 
 {% endraw %}
+
+Quick Sort in Kotlin was written by:
+
+- Blake.Ke
+- mikenmo
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 22:39:08. The solution was first committed on Oct 01 2020 21:55:29. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

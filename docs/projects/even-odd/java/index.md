@@ -11,8 +11,6 @@ Welcome to the Even Odd in Java page! Here, you'll find the source code for this
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```java
@@ -56,6 +54,13 @@ public class EvenOdd
 ```
 
 {% endraw %}
+
+Even Odd in Java was written by:
+
+- Jeremy Grifski
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 28 2019 15:21:26. The solution was first committed on Dec 30 2018 18:17:14. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Capitalize in Matlab page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```matlab
@@ -31,6 +29,12 @@ end
 ```
 
 {% endraw %}
+
+Capitalize in Matlab was written by:
+
+- iwishiwasaneagle
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 02 2020 11:51:28. The solution was first committed on Oct 02 2020 11:42:05. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

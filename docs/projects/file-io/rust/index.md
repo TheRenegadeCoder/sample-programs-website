@@ -11,8 +11,6 @@ Welcome to the File Io in Rust page! Here, you'll find the source code for this 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```rust
@@ -54,6 +52,10 @@ fn main() -> Result<()> {
 ```
 
 {% endraw %}
+
+File Io in Rust was written by:
+
+- Noah
 
 ## How to Implement the Solution
 

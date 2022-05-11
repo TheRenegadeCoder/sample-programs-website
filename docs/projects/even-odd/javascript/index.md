@@ -11,8 +11,6 @@ Welcome to the Even Odd in Javascript page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```javascript
@@ -25,6 +23,12 @@ if(!Number.isInteger(input)){ //if there is no input, input = undefined and the 
 ```
 
 {% endraw %}
+
+Even Odd in Javascript was written by:
+
+- Manan Gill
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 12 2019 10:08:50. The solution was first committed on Oct 11 2019 16:27:51. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

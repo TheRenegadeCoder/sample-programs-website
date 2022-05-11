@@ -11,8 +11,6 @@ Welcome to the Bubble Sort in Dart page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```dart
@@ -84,6 +82,12 @@ exitWithError() {
 ```
 
 {% endraw %}
+
+Bubble Sort in Dart was written by:
+
+- Paddy
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 18 2019 23:49:10. The solution was first committed on Oct 18 2019 23:40:28. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

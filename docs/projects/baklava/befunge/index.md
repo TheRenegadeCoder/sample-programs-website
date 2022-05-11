@@ -11,8 +11,6 @@ Welcome to the Baklava in Befunge page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```befunge
@@ -26,6 +24,10 @@ Welcome to the Baklava in Befunge page! Here, you'll find the source code for th
 ```
 
 {% endraw %}
+
+Baklava in Befunge was written by:
+
+- Stuart Irwin
 
 ## How to Implement the Solution
 

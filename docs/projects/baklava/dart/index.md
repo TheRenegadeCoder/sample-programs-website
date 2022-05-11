@@ -11,8 +11,6 @@ Welcome to the Baklava in Dart page! Here, you'll find the source code for this 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```dart
@@ -27,6 +25,10 @@ main() {
 ```
 
 {% endraw %}
+
+Baklava in Dart was written by:
+
+- Paddy
 
 ## How to Implement the Solution
 

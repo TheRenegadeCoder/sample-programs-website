@@ -11,8 +11,6 @@ Welcome to the Hello World in Eta page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```eta
@@ -22,6 +20,10 @@ main = putStrLn "Hello, World!"
 ```
 
 {% endraw %}
+
+Hello World in Eta was written by:
+
+- Jeremy Grifski
 
 ## How to Implement the Solution
 

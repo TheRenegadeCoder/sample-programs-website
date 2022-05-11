@@ -11,8 +11,6 @@ Welcome to the Rot 13 in C# page! Here, you'll find the source code for this pro
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c#
@@ -71,6 +69,12 @@ namespace SamplePrograms
 ```
 
 {% endraw %}
+
+Rot 13 in C# was written by:
+
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 06 2019 00:37:26. The solution was first committed on Dec 30 2018 02:35:38. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

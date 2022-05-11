@@ -14,8 +14,6 @@ Welcome to the File Io in Python page! Here, you'll find the source code for thi
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```python
@@ -45,6 +43,14 @@ if __name__ == '__main__':
 ```
 
 {% endraw %}
+
+File Io in Python was written by:
+
+- Jeremy Grifski
+- Noah Nichols
+- Ganesh Naik
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Sep 12 2018 13:00:03. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Fizz Buzz in Visual Basic page! Here, you'll find the source code
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```visual basic
@@ -61,6 +59,12 @@ End Module
 ```
 
 {% endraw %}
+
+Fizz Buzz in Visual Basic was written by:
+
+- Thomas Braccia
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 01 2020 19:15:54. The solution was first committed on Oct 01 2020 18:54:14. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

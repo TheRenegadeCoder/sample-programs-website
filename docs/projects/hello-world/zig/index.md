@@ -11,8 +11,6 @@ Welcome to the Hello World in Zig page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```zig
@@ -25,6 +23,10 @@ pub fn main() !void {
 ```
 
 {% endraw %}
+
+Hello World in Zig was written by:
+
+- Palash Dubey
 
 ## How to Implement the Solution
 

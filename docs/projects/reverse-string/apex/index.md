@@ -11,8 +11,6 @@ Welcome to the Reverse String in Apex page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```apex
@@ -28,6 +26,10 @@ system.debug(revStr );
 ```
 
 {% endraw %}
+
+Reverse String in Apex was written by:
+
+- coderdecoder01
 
 ## How to Implement the Solution
 

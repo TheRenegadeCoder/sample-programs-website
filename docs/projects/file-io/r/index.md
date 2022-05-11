@@ -11,8 +11,6 @@ Welcome to the File Io in R page! Here, you'll find the source code for this pro
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```r
@@ -43,6 +41,10 @@ if(file.exists("output.txt")){
 ```
 
 {% endraw %}
+
+File Io in R was written by:
+
+- manasmithamn
 
 ## How to Implement the Solution
 

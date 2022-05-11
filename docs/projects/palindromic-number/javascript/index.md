@@ -11,8 +11,6 @@ Welcome to the Palindromic Number in Javascript page! Here, you'll find the sour
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```javascript
@@ -64,6 +62,10 @@ const isPalindromic = (number) => {
 ```
 
 {% endraw %}
+
+Palindromic Number in Javascript was written by:
+
+- smjalageri
 
 ## How to Implement the Solution
 

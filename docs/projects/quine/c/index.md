@@ -11,8 +11,6 @@ Welcome to the Quine in C page! Here, you'll find the source code for this progr
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```c
@@ -21,6 +19,10 @@ int main() { char* s="#include %cstdio.h%c%cint main() { char* s=%c%s%c; printf(
 ```
 
 {% endraw %}
+
+Quine in C was written by:
+
+- Juan D Frias
 
 ## How to Implement the Solution
 

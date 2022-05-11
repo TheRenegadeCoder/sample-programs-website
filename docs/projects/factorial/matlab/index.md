@@ -11,8 +11,6 @@ Welcome to the Factorial in Matlab page! Here, you'll find the source code for t
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```matlab
@@ -45,6 +43,12 @@ end
 ```
 
 {% endraw %}
+
+Factorial in Matlab was written by:
+
+- sdmmssa
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2019 20:10:31. The solution was first committed on Oct 11 2019 19:40:51. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

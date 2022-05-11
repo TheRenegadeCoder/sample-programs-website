@@ -11,8 +11,6 @@ Welcome to the Hello World in Frege page! Here, you'll find the source code for 
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```frege
@@ -23,6 +21,10 @@ main = do putStrLn "Hello world"
 ```
 
 {% endraw %}
+
+Hello World in Frege was written by:
+
+- joel ibaceta
 
 ## How to Implement the Solution
 

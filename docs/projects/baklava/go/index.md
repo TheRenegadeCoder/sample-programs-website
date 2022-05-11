@@ -11,8 +11,6 @@ Welcome to the Baklava in Go page! Here, you'll find the source code for this pr
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```go
@@ -35,6 +33,13 @@ func main() {
 ```
 
 {% endraw %}
+
+Baklava in Go was written by:
+
+- Jeremy Grifski
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 01 2019 02:39:12. The solution was first committed on Sep 17 2018 16:48:59. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -11,8 +11,6 @@ Welcome to the Insertion Sort in Java page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```java
@@ -83,6 +81,13 @@ public class InsertionSort {
 ```
 
 {% endraw %}
+
+Insertion Sort in Java was written by:
+
+- Shubham Raj
+- Ganesh Naik
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 01 2020 14:39:31. The solution was first committed on Oct 14 2019 23:58:22. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

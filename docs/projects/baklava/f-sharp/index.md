@@ -11,8 +11,6 @@ Welcome to the Baklava in F# page! Here, you'll find the source code for this pr
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```f#
@@ -35,6 +33,12 @@ let main argv =
 ```
 
 {% endraw %}
+
+Baklava in F# was written by:
+
+- Parker Johansen
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Sep 12 2019 22:00:23. The solution was first committed on Sep 12 2019 21:20:15. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

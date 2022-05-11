@@ -14,8 +14,6 @@ Welcome to the Reverse String in Dart page! Here, you'll find the source code fo
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```dart
@@ -29,6 +27,10 @@ String reverse(input) {
 ```
 
 {% endraw %}
+
+Reverse String in Dart was written by:
+
+- Bassem Mohamed
 
 ## How to Implement the Solution
 

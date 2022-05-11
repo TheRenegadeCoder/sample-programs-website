@@ -11,8 +11,6 @@ Welcome to the Capitalize in Java page! Here, you'll find the source code for th
 
 ## Current Solution
 
-**Note**: The solution shown here is the current solution in the Sample Programs repository. Documentation below may be outdated.
-
 {% raw %}
 
 ```java
@@ -52,6 +50,13 @@ public class Capitalize
 ```
 
 {% endraw %}
+
+Capitalize in Java was written by:
+
+- dyllew3
+- Jeremy Grifski
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 19:46:40. The solution was first committed on Oct 11 2019 21:27:34. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 
