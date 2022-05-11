@@ -3,7 +3,7 @@
 title: Fibonacci in Racket
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-10
+last-modified: 2022-05-11
 
 ---
 
@@ -30,15 +30,22 @@ Welcome to the Fibonacci in Racket page! Here, you'll find the source code for t
   
 (define (fibonacci n)
   (cond
-    [(or (not n) (< n 0) ) "Usage: please input the count of fibonacci numbers to output"]
+    [(or (not n) (< n 0)) (display "Usage: please input the count of fibonacci numbers to output")]
     
     [else
      (for ([i (in-range 1 (add1 n))]) 
-       (println (string-append (number->string i) ": " (number->string (fib i)))))
+       (displayln (string-append (number->string i) ": " (number->string (fib i)))))
      ]))
     
   
-(fibonacci (string->number (read-line)))
+(fibonacci 
+  (string->number 
+    (cond
+      [(vector-empty? (current-command-line-arguments)) ""] 
+      [else (vector-ref (current-command-line-arguments) 0)]
+    )
+  )
+)
 ```
 
 {% endraw %}

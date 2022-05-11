@@ -77,6 +77,5 @@ Some tests for your program are:
 - [Factorial in Php](https://sampleprograms.io/projects/factorial/php)
 - [Factorial in Python](https://sampleprograms.io/projects/factorial/python)
 - [Factorial in R](https://sampleprograms.io/projects/factorial/r)
-- [Factorial in Racket](https://sampleprograms.io/projects/factorial/racket)
 - [Factorial in Rust](https://sampleprograms.io/projects/factorial/rust)
 - [Factorial in Scala](https://sampleprograms.io/projects/factorial/scala)
