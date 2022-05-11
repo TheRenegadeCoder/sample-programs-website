@@ -89,8 +89,8 @@ int uint64_overflow(long a, long b) {
 
 Factorial in C was written by:
 
-- clarkimusmax
 - Bharath
+- clarkimusmax
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 15:02:04. The solution was first committed on Oct 26 2018 17:34:42. As a result, documentation below may be outdated.
 

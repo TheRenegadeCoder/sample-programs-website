@@ -26,8 +26,8 @@ end
 
 Reverse String in Lua was written by:
 
-- Matt Wiley
 - Jeremy Grifski
+- Matt Wiley
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 03 2019 19:09:30. The solution was first committed on Sep 19 2018 19:41:10. As a result, documentation below may be outdated.
 

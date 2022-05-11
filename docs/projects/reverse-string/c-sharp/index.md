@@ -42,8 +42,8 @@ namespace SamplePrograms
 
 Reverse String in C# was written by:
 
-- ildoc
 - Jeremy Grifski
+- ildoc
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Jul 03 2018 11:06:29. The solution was first committed on Apr 25 2018 14:55:06. As a result, documentation below may be outdated.
 

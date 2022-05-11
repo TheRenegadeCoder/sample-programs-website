@@ -32,8 +32,8 @@ public class ReverseString {
 
 Reverse String in Java was written by:
 
-- Jeremy Griffith
 - Jeremy Grifski
+- Jeremy Griffith
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 25 2018 17:16:58. The solution was first committed on Apr 13 2018 15:12:54. As a result, documentation below may be outdated.
 

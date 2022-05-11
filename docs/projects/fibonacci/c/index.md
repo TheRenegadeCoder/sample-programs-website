@@ -70,8 +70,8 @@ int main(int argc, char **argv)
 Fibonacci in C was written by:
 
 - Jeremy Grifski
-- Christoph Böhmwalder
 - Parker Johansen
+- Christoph Böhmwalder
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 18 2019 17:58:44. The solution was first committed on Oct 04 2018 20:05:30. As a result, documentation below may be outdated.
 

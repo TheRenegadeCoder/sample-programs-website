@@ -29,8 +29,8 @@ start() ->
 
 Hello World in Erlang was written by:
 
-- Nick Keers
 - Jeremy Grifski
+- Nick Keers
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 04 2019 10:45:28. The solution was first committed on Aug 08 2018 00:54:57. As a result, documentation below may be outdated.
 

@@ -79,9 +79,9 @@ exit(0);
 
 Prime Number in Php was written by:
 
-- Juan D Frias
 - Jeremy Grifski
 - Parker Johansen
+- Juan D Frias
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 14 2019 15:37:04. As a result, documentation below may be outdated.
 

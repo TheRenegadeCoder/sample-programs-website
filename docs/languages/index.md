@@ -15,7 +15,7 @@ To help you navigate the collection, the following languages are organized alpha
 
 ### A
 
-The 'A' collection contains 9 languages, of which 1 are tested, and 11 code snippets.
+The 'A' collection contains 9 languages, of which 1 is tested, and 11 code snippets.
 
 - [Abap](https://sampleprograms.io/languages/abap)
 - [Ada](https://sampleprograms.io/languages/ada)
@@ -29,7 +29,7 @@ The 'A' collection contains 9 languages, of which 1 are tested, and 11 code snip
 
 ### B
 
-The 'B' collection contains 8 languages, of which 2 is tested, and 28 code snippets.
+The 'B' collection contains 8 languages, of which 2 are tested, and 28 code snippets.
 
 - [Baik](https://sampleprograms.io/languages/baik)
 - [Ballerina](https://sampleprograms.io/languages/ballerina)
@@ -42,7 +42,7 @@ The 'B' collection contains 8 languages, of which 2 is tested, and 28 code snipp
 
 ### C
 
-The 'C' collection contains 15 languages, of which 6 is tested, and 95 code snippets.
+The 'C' collection contains 15 languages, of which 6 are tested, and 95 code snippets.
 
 - [C](https://sampleprograms.io/languages/c)
 - [C#](https://sampleprograms.io/languages/c-sharp)
@@ -62,7 +62,7 @@ The 'C' collection contains 15 languages, of which 6 is tested, and 95 code snip
 
 ### D
 
-The 'D' collection contains 7 languages, of which 1 are tested, and 25 code snippets.
+The 'D' collection contains 7 languages, of which 1 is tested, and 25 code snippets.
 
 - [D](https://sampleprograms.io/languages/d)
 - [Dale](https://sampleprograms.io/languages/dale)
@@ -74,7 +74,7 @@ The 'D' collection contains 7 languages, of which 1 are tested, and 25 code snip
 
 ### E
 
-The 'E' collection contains 10 languages, of which 1 are tested, and 22 code snippets.
+The 'E' collection contains 10 languages, of which 1 is tested, and 22 code snippets.
 
 - [Egison](https://sampleprograms.io/languages/egison)
 - [Eiffel](https://sampleprograms.io/languages/eiffel)
@@ -89,7 +89,7 @@ The 'E' collection contains 10 languages, of which 1 are tested, and 22 code sni
 
 ### F
 
-The 'F' collection contains 12 languages, of which 2 is tested, and 20 code snippets.
+The 'F' collection contains 12 languages, of which 2 are tested, and 20 code snippets.
 
 - [F#](https://sampleprograms.io/languages/f-sharp)
 - [F\*](https://sampleprograms.io/languages/f-star)
@@ -106,7 +106,7 @@ The 'F' collection contains 12 languages, of which 2 is tested, and 20 code snip
 
 ### G
 
-The 'G' collection contains 11 languages, of which 2 is tested, and 39 code snippets.
+The 'G' collection contains 11 languages, of which 2 are tested, and 39 code snippets.
 
 - [Gerbil](https://sampleprograms.io/languages/gerbil)
 - [Gluon](https://sampleprograms.io/languages/gluon)
@@ -122,7 +122,7 @@ The 'G' collection contains 11 languages, of which 2 is tested, and 39 code snip
 
 ### H
 
-The 'H' collection contains 5 languages, of which 2 is tested, and 25 code snippets.
+The 'H' collection contains 5 languages, of which 2 are tested, and 25 code snippets.
 
 - [Hack](https://sampleprograms.io/languages/hack)
 - [Haskell](https://sampleprograms.io/languages/haskell)
@@ -132,14 +132,14 @@ The 'H' collection contains 5 languages, of which 2 is tested, and 25 code snipp
 
 ### I
 
-The 'I' collection contains 2 languages, of which 0 is tested, and 2 code snippets.
+The 'I' collection contains 2 languages, of which 0 are tested, and 2 code snippets.
 
 - [Idris](https://sampleprograms.io/languages/idris)
 - [Io](https://sampleprograms.io/languages/io)
 
 ### J
 
-The 'J' collection contains 4 languages, of which 3 is tested, and 62 code snippets.
+The 'J' collection contains 4 languages, of which 3 are tested, and 62 code snippets.
 
 - [Janet](https://sampleprograms.io/languages/janet)
 - [Java](https://sampleprograms.io/languages/java)
@@ -148,7 +148,7 @@ The 'J' collection contains 4 languages, of which 3 is tested, and 62 code snipp
 
 ### K
 
-The 'K' collection contains 3 languages, of which 1 are tested, and 21 code snippets.
+The 'K' collection contains 3 languages, of which 1 is tested, and 21 code snippets.
 
 - [Kitten](https://sampleprograms.io/languages/kitten)
 - [Koka](https://sampleprograms.io/languages/koka)
@@ -156,7 +156,7 @@ The 'K' collection contains 3 languages, of which 1 are tested, and 21 code snip
 
 ### L
 
-The 'L' collection contains 10 languages, of which 3 is tested, and 32 code snippets.
+The 'L' collection contains 10 languages, of which 3 are tested, and 32 code snippets.
 
 - [Latte](https://sampleprograms.io/languages/latte)
 - [Lily](https://sampleprograms.io/languages/lily)
@@ -171,7 +171,7 @@ The 'L' collection contains 10 languages, of which 3 is tested, and 32 code snip
 
 ### M
 
-The 'M' collection contains 7 languages, of which 1 are tested, and 19 code snippets.
+The 'M' collection contains 7 languages, of which 1 is tested, and 19 code snippets.
 
 - [Mathematica](https://sampleprograms.io/languages/mathematica)
 - [Matlab](https://sampleprograms.io/languages/matlab)
@@ -183,7 +183,7 @@ The 'M' collection contains 7 languages, of which 1 are tested, and 19 code snip
 
 ### N
 
-The 'N' collection contains 4 languages, of which 1 are tested, and 7 code snippets.
+The 'N' collection contains 4 languages, of which 1 is tested, and 7 code snippets.
 
 - [Never](https://sampleprograms.io/languages/never)
 - [Nice](https://sampleprograms.io/languages/nice)
@@ -192,7 +192,7 @@ The 'N' collection contains 4 languages, of which 1 are tested, and 7 code snipp
 
 ### O
 
-The 'O' collection contains 7 languages, of which 1 are tested, and 16 code snippets.
+The 'O' collection contains 7 languages, of which 1 is tested, and 16 code snippets.
 
 - [Objective C](https://sampleprograms.io/languages/objective-c)
 - [Ocaml](https://sampleprograms.io/languages/ocaml)
@@ -204,7 +204,7 @@ The 'O' collection contains 7 languages, of which 1 are tested, and 16 code snip
 
 ### P
 
-The 'P' collection contains 15 languages, of which 4 is tested, and 91 code snippets.
+The 'P' collection contains 15 languages, of which 4 are tested, and 91 code snippets.
 
 - [P](https://sampleprograms.io/languages/p)
 - [P4](https://sampleprograms.io/languages/p4)
@@ -224,13 +224,13 @@ The 'P' collection contains 15 languages, of which 4 is tested, and 91 code snip
 
 ### Q
 
-The 'Q' collection contains 1 languages, of which 0 is tested, and 2 code snippets.
+The 'Q' collection contains 1 languages, of which 0 are tested, and 2 code snippets.
 
 - [Quack](https://sampleprograms.io/languages/quack)
 
 ### R
 
-The 'R' collection contains 8 languages, of which 4 is tested, and 43 code snippets.
+The 'R' collection contains 8 languages, of which 4 are tested, and 43 code snippets.
 
 - [R](https://sampleprograms.io/languages/r)
 - [Racket](https://sampleprograms.io/languages/racket)
@@ -243,7 +243,7 @@ The 'R' collection contains 8 languages, of which 4 is tested, and 43 code snipp
 
 ### S
 
-The 'S' collection contains 10 languages, of which 3 is tested, and 28 code snippets.
+The 'S' collection contains 10 languages, of which 3 are tested, and 28 code snippets.
 
 - [Sather](https://sampleprograms.io/languages/sather)
 - [Scala](https://sampleprograms.io/languages/scala)
@@ -258,7 +258,7 @@ The 'S' collection contains 10 languages, of which 3 is tested, and 28 code snip
 
 ### T
 
-The 'T' collection contains 5 languages, of which 0 is tested, and 13 code snippets.
+The 'T' collection contains 5 languages, of which 0 are tested, and 13 code snippets.
 
 - [Tcl](https://sampleprograms.io/languages/tcl)
 - [Terra](https://sampleprograms.io/languages/terra)
@@ -268,7 +268,7 @@ The 'T' collection contains 5 languages, of which 0 is tested, and 13 code snipp
 
 ### V
 
-The 'V' collection contains 4 languages, of which 0 is tested, and 10 code snippets.
+The 'V' collection contains 4 languages, of which 0 are tested, and 10 code snippets.
 
 - [Verilog](https://sampleprograms.io/languages/verilog)
 - [Verve](https://sampleprograms.io/languages/verve)
@@ -277,7 +277,7 @@ The 'V' collection contains 4 languages, of which 0 is tested, and 10 code snipp
 
 ### W
 
-The 'W' collection contains 4 languages, of which 0 is tested, and 4 code snippets.
+The 'W' collection contains 4 languages, of which 0 are tested, and 4 code snippets.
 
 - [Whitespace](https://sampleprograms.io/languages/whitespace)
 - [Wren](https://sampleprograms.io/languages/wren)
@@ -286,6 +286,6 @@ The 'W' collection contains 4 languages, of which 0 is tested, and 4 code snippe
 
 ### Z
 
-The 'Z' collection contains 1 languages, of which 0 is tested, and 1 code snippets.
+The 'Z' collection contains 1 languages, of which 0 are tested, and 1 code snippets.
 
 - [Zig](https://sampleprograms.io/languages/zig)

@@ -134,8 +134,8 @@ int main(int argc,char* argv[]){
 
 Selection Sort in C++ was written by:
 
-- Parker Johansen
 - Sailok Chinta
+- Parker Johansen
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 25 2019 08:29:10. The solution was first committed on Oct 23 2019 18:57:11. As a result, documentation below may be outdated.
 

@@ -72,8 +72,8 @@ exit 0
 
 Quick Sort in Bash was written by:
 
-- thetbl
 - tehtbl
+- thetbl
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 14 2019 19:50:40. The solution was first committed on Oct 14 2019 10:11:59. As a result, documentation below may be outdated.
 

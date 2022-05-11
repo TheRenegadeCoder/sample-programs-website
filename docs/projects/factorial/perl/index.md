@@ -52,8 +52,8 @@ sub usage {
 
 Factorial in Perl was written by:
 
-- Gabriela Kandová
 - Bharath
+- Gabriela Kandová
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 15:02:04. The solution was first committed on Oct 14 2019 22:44:32. As a result, documentation below may be outdated.
 

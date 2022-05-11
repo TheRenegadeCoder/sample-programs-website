@@ -50,8 +50,8 @@ if __name__ == "__main__":
 
 Prime Number in Python was written by:
 
-- Haseeb Majid
 - Parker Johansen
+- Haseeb Majid
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 02 2019 11:43:38. The solution was first committed on Dec 23 2018 00:11:48. As a result, documentation below may be outdated.
 

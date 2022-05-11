@@ -26,8 +26,8 @@ echo Hello, World!
 
 Hello World in Bash was written by:
 
-- Abdus
 - Jeremy Grifski
+- Abdus
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2018 12:47:13. The solution was first committed on May 09 2018 11:20:08. As a result, documentation below may be outdated.
 

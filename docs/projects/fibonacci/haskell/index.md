@@ -49,8 +49,8 @@ main = do
 
 Fibonacci in Haskell was written by:
 
-- Panagiotis Georgiadis
 - Parker Johansen
+- Panagiotis Georgiadis
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2019 00:40:32. The solution was first committed on Oct 15 2018 18:50:33. As a result, documentation below may be outdated.
 

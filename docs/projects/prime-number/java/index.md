@@ -73,9 +73,9 @@ public class PrimeNumber {
 
 Prime Number in Java was written by:
 
-- Juan D Frias
 - Ganesh Naik
 - Ewerton Queiroz
+- Juan D Frias
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 01 2020 14:54:28. The solution was first committed on Oct 10 2019 02:15:05. As a result, documentation below may be outdated.
 

@@ -32,8 +32,8 @@ fun main(args: Array<String>) {
 
 Even Odd in Kotlin was written by:
 
-- Blake.Ke
 - mikenmo
+- Blake.Ke
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 23:34:00. The solution was first committed on Oct 01 2020 15:03:47. As a result, documentation below may be outdated.
 

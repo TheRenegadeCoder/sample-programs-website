@@ -36,8 +36,8 @@ Welcome to the Baklava in Lisp page! Here, you'll find the source code for this 
 
 Baklava in Lisp was written by:
 
-- Stuart Irwin
 - Parker Johansen
+- Stuart Irwin
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 11:45:55. The solution was first committed on Nov 09 2019 13:11:46. As a result, documentation below may be outdated.
 

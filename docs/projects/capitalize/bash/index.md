@@ -28,8 +28,8 @@ echo ${1^}
 
 Capitalize in Bash was written by:
 
-- Jeremy Grifski
 - lohxx
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 23:22:44. The solution was first committed on Oct 08 2019 21:12:31. As a result, documentation below may be outdated.
 

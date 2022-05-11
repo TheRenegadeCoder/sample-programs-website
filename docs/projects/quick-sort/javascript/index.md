@@ -101,8 +101,8 @@ else {
 
 Quick Sort in Javascript was written by:
 
-- Gurmeet Singh
 - Gurmeet
+- Gurmeet Singh
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 18 2019 23:06:28. The solution was first committed on Oct 16 2019 15:37:03. As a result, documentation below may be outdated.
 

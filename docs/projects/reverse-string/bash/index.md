@@ -30,8 +30,8 @@ echo $reverseStr
 
 Reverse String in Bash was written by:
 
-- Abdus
 - Parker Johansen
+- Abdus
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 21 2019 17:52:55. The solution was first committed on May 09 2018 11:20:08. As a result, documentation below may be outdated.
 

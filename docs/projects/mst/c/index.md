@@ -160,8 +160,8 @@ int main(int argc,char **argv)
 
 MST in C was written by:
 
-- LezendarySandwich
 - Jeremy Grifski
+- LezendarySandwich
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 28 2022 18:14:37. The solution was first committed on Oct 20 2019 01:25:16. As a result, documentation below may be outdated.
 

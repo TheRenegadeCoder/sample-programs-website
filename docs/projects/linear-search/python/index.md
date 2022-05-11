@@ -43,8 +43,8 @@ else:
 Linear Search in Python was written by:
 
 - Jeremy Grifski
-- frankhart2017
 - Siddhartha Dhar Choudhury
+- frankhart2017
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Oct 17 2019 17:54:11. As a result, documentation below may be outdated.
 

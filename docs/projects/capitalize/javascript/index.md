@@ -34,8 +34,8 @@ main();
 
 Capitalize in Javascript was written by:
 
-- Daniel Luna
 - Jeremy Grifski
+- Daniel Luna
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 22:14:44. The solution was first committed on Mar 31 2019 14:33:47. As a result, documentation below may be outdated.
 

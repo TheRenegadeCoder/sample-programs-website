@@ -84,8 +84,8 @@ public class InsertionSort {
 
 Insertion Sort in Java was written by:
 
-- Shubham Raj
 - Ganesh Naik
+- Shubham Raj
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 01 2020 14:39:31. The solution was first committed on Oct 14 2019 23:58:22. As a result, documentation below may be outdated.
 

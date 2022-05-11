@@ -29,8 +29,8 @@ if (count($argv) == 2 && strlen($argv[1])) {
 
 Capitalize in Php was written by:
 
-- Jeremy Grifski
 - Dowayne Breedt
+- Jeremy Grifski
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 22:45:19. The solution was first committed on Oct 12 2019 20:02:21. As a result, documentation below may be outdated.
 

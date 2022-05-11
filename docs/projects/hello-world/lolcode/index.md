@@ -23,8 +23,8 @@ KTHXBYE
 
 Hello World in Lolcode was written by:
 
-- Muhammad
 - Jeremy Grifski
+- Muhammad
 
 **Note**: The solution shown above is the current solution in the Sample Programs repository as of Aug 10 2021 02:13:11. The solution was first committed on May 11 2018 00:47:40. As a result, documentation below may be outdated.
 
