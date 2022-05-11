@@ -279,8 +279,10 @@ def generate_projects_index(repo: subete.Repo):
     projects_index_path = pathlib.Path("docs/projects")
     projects_index = snakemd.new_doc("index")
     _generate_front_matter(projects_index, projects_index_path / "front_matter.yaml", "Projects")
+    project_tests = sum(1 if project.has_testing() else 0 for project in repo.approved_projects())
     projects_index.add_paragraph(
-        "Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection."
+        "Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. "
+        f"At this time, the repo supports {repo.total_approved_projects()} projects, of which {project_tests} are tested."
     )
     projects_index.add_header("Projects List", level=2)
     projects_index.add_paragraph(
