@@ -248,7 +248,9 @@ def generate_languages_index(repo: subete.Repo):
     _generate_front_matter(language_index, language_index_path /
                            "front_matter.yaml", "Programming Languages")
     language_index.add_paragraph(
-        "Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection."
+        "Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. "
+        f"At this time, there are {len(list(repo))} languages, of which {repo.total_tests()} are tested, "
+        f"and {repo.total_programs()} code snippets."
     )
     language_index.add_header("Language Collections by Letter", level=2)
     language_index.add_paragraph(
