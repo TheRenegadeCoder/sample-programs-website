@@ -3,7 +3,7 @@
 title: Even Odd in Go
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -49,8 +49,8 @@ func main() {
 
 [Even Odd](https://sampleprograms.io/projects/even-odd) in [Go](https://sampleprograms.io/languages/go) was written by:
 
-- Parker Johansen
 - clarkimusmax
+- Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

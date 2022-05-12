@@ -3,7 +3,7 @@
 title: Rot 13 in Lua
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -39,8 +39,8 @@ io.write("\n")
 
 [Rot 13](https://sampleprograms.io/projects/rot-13) in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
-- Jeremy Grifski
 - Alex Gustafsson
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

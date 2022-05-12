@@ -26,8 +26,8 @@ echo Hello, World!
 
 [Hello World](https://sampleprograms.io/projects/hello-world) in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
-- Jeremy Grifski
 - Abdus
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

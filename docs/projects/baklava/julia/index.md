@@ -3,7 +3,7 @@
 title: Baklava in Julia
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -35,8 +35,8 @@ main()
 
 [Baklava](https://sampleprograms.io/projects/baklava) in [Julia](https://sampleprograms.io/languages/julia) was written by:
 
-- Jeremy Grifski
 - germmand
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

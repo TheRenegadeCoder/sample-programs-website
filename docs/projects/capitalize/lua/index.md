@@ -3,7 +3,7 @@
 title: Capitalize in Lua
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -32,8 +32,8 @@ end
 
 [Capitalize](https://sampleprograms.io/projects/capitalize) in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
-- Jeremy Grifski
 - Berry Semexan
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

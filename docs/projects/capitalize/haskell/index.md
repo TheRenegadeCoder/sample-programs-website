@@ -3,7 +3,7 @@
 title: Capitalize in Haskell
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -36,8 +36,8 @@ main = do
 
 [Capitalize](https://sampleprograms.io/projects/capitalize) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
 
-- Jeremy Grifski
 - Amanda Eubanks
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

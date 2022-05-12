@@ -28,8 +28,8 @@ End Module
 
 [Hello World](https://sampleprograms.io/projects/hello-world) in [Visual Basic](https://sampleprograms.io/languages/visual-basic) was written by:
 
-- Jeremy Grifski
 - AaronLenoir
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -3,7 +3,7 @@
 title: Factorial in Coffeescript
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -34,8 +34,8 @@ console.log main()
 
 [Factorial](https://sampleprograms.io/projects/factorial) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
 
-- Jeremy Grifski
 - Hanyuan Li
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

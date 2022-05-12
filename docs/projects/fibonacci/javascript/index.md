@@ -42,8 +42,8 @@ if (num && !isNaN(num)) {
 
 [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
-- Parker Johansen
 - Marius
+- Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

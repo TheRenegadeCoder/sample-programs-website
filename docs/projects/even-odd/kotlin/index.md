@@ -3,7 +3,7 @@
 title: Even Odd in Kotlin
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -32,8 +32,8 @@ fun main(args: Array<String>) {
 
 [Even Odd](https://sampleprograms.io/projects/even-odd) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
-- mikenmo
 - Blake.Ke
+- mikenmo
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -3,7 +3,7 @@
 title: Game Of Life in Java
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -193,8 +193,8 @@ public class GameOfLife {
 
 [Game Of Life](https://sampleprograms.io/projects/game-of-life) in [Java](https://sampleprograms.io/languages/java) was written by:
 
-- Jeremy Grifski
 - Ganesh Naik
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

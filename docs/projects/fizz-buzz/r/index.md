@@ -3,7 +3,7 @@
 title: Fizz Buzz in R
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -39,8 +39,8 @@ fizz_buzz()
 
 [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [R](https://sampleprograms.io/languages/r) was written by:
 
-- Jeremy Grifski
 - Gabi Herman
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

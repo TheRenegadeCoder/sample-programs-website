@@ -3,7 +3,7 @@
 title: Factorial in Java
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -54,8 +54,8 @@ public class Factorial
 
 [Factorial](https://sampleprograms.io/projects/factorial) in [Java](https://sampleprograms.io/languages/java) was written by:
 
-- Parker Johansen
 - Bharath
+- Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

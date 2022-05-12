@@ -93,8 +93,8 @@ if __name__ == '__main__':
 
 - Jeremy Grifski
 - Parker Johansen
-- Vikram Rayavarapu
 - prateeksharma21
+- Vikram Rayavarapu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

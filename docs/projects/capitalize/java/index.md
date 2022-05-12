@@ -3,7 +3,7 @@
 title: Capitalize in Java
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -53,8 +53,8 @@ public class Capitalize
 
 [Capitalize](https://sampleprograms.io/projects/capitalize) in [Java](https://sampleprograms.io/languages/java) was written by:
 
-- Jeremy Grifski
 - dyllew3
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

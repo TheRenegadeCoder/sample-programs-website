@@ -3,7 +3,7 @@
 title: Reverse String in Bash
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -30,8 +30,8 @@ echo $reverseStr
 
 [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
-- Parker Johansen
 - Abdus
+- Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

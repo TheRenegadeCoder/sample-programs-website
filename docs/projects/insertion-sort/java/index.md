@@ -3,7 +3,7 @@
 title: Insertion Sort in Java
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -84,8 +84,8 @@ public class InsertionSort {
 
 [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Java](https://sampleprograms.io/languages/java) was written by:
 
-- Shubham Raj
 - Ganesh Naik
+- Shubham Raj
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

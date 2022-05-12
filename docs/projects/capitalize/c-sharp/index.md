@@ -3,7 +3,7 @@
 title: Capitalize in C#
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -40,8 +40,8 @@ namespace SamplePrograms
 
 [Capitalize](https://sampleprograms.io/projects/capitalize) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
-- Renato Ramos Nascimento
 - Jeremy Grifski
+- Renato Ramos Nascimento
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
