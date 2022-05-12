@@ -1,4 +1,4 @@
-According to Wikipedia, Java is a general-purpose language that was designed with 
+Java is a general-purpose language that was designed with 
 portability in mind. In other words, compile once and run anywhere. Originally called 
 Oak, Java was developed in 1991 where the syntax was largely influenced by C/C++.
 
@@ -11,7 +11,7 @@ As a language, Java has received several complaints. For instance, many develope
 despise Java for its verbosity and performance. That said, the language has many
 great features like garbage collection which offset some of these complaints.
 
-## Features
+### Features
 
 - Object-Oriented
 - Static Typing
