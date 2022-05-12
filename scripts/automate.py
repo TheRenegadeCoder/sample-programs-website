@@ -126,7 +126,7 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
     doc.add_paragraph(f"{program} was written by:") \
         .insert_link(program.language_name(), program.language_collection().lang_docs_url()) \
         .insert_link(program.project_name(), program.project().requirements_url())
-    doc.add_element(snakemd.MDList(program.authors()))
+    doc.add_element(snakemd.MDList(sorted(program.authors(), key=lambda x: x.casefold())))
     doc.add_paragraph("If you see anything you'd like to change or update, please consider contributing.") \
         .insert_link("please consider contributing", "https://github.com/TheRenegadeCoder/sample-programs")
     if program.modified() != program.created():
