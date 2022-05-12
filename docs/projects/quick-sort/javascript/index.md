@@ -3,7 +3,7 @@
 title: Quick Sort in Javascript
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -101,8 +101,8 @@ else {
 
 [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
-- Gurmeet Singh
 - Gurmeet
+- Gurmeet Singh
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

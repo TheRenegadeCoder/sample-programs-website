@@ -3,7 +3,7 @@
 title: Capitalize in Perl
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -33,8 +33,8 @@ print ucfirst $string, "\n";
 
 [Capitalize](https://sampleprograms.io/projects/capitalize) in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
-- Jeremy Grifski
 - Gabriela Kandová
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

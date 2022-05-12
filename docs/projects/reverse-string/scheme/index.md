@@ -27,8 +27,8 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 
 [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Scheme](https://sampleprograms.io/languages/scheme) was written by:
 
-- Jeremy Grifski
 - Francisco Peters
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -3,7 +3,7 @@
 title: Quick Sort in Kotlin
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -96,9 +96,9 @@ fun quickSort(arr: IntArray):IntArray
 
 [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
-- mikenmo
 - Blake.Ke
 - Jeremy Grifski
+- mikenmo
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

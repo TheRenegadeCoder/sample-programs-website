@@ -3,7 +3,7 @@
 title: Factorial in Perl
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -52,8 +52,8 @@ sub usage {
 
 [Factorial](https://sampleprograms.io/projects/factorial) in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
-- Gabriela Kandová
 - Bharath
+- Gabriela Kandová
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

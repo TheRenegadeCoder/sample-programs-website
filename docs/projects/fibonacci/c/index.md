@@ -3,7 +3,7 @@
 title: Fibonacci in C
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -69,9 +69,9 @@ int main(int argc, char **argv)
 
 [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [C](https://sampleprograms.io/languages/c) was written by:
 
+- Christoph Böhmwalder
 - Jeremy Grifski
 - Parker Johansen
-- Christoph Böhmwalder
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

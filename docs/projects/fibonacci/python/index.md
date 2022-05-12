@@ -53,8 +53,8 @@ if __name__ == "__main__":
 
 [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Python](https://sampleprograms.io/languages/python) was written by:
 
-- Parker Johansen
 - Marius
+- Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

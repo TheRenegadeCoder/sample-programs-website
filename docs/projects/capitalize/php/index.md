@@ -3,7 +3,7 @@
 title: Capitalize in Php
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -29,8 +29,8 @@ if (count($argv) == 2 && strlen($argv[1])) {
 
 [Capitalize](https://sampleprograms.io/projects/capitalize) in [Php](https://sampleprograms.io/languages/php) was written by:
 
-- Jeremy Grifski
 - Dowayne Breedt
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -3,7 +3,7 @@
 title: Rot 13 in Kotlin
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -73,8 +73,8 @@ fun main(args: Array<String>) {
 
 [Rot 13](https://sampleprograms.io/projects/rot-13) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
-- Jeremy Grifski
 - Cristiano Lopes
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

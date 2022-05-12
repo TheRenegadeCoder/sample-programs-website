@@ -3,7 +3,7 @@
 title: Quick Sort in Lisp
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -75,8 +75,8 @@ Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [L
 
 [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
 
-- Parker Johansen
 - Palash Dubey
+- Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

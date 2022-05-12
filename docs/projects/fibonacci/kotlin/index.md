@@ -3,7 +3,7 @@
 title: Fibonacci in Kotlin
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -43,8 +43,8 @@ fun main(args: Array<String>) {
 
 [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
-- Erik Nelson
 - Blake.Ke
+- Erik Nelson
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

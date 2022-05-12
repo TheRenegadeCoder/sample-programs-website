@@ -2,11 +2,13 @@
 
 title: The Befunge Programming Language
 layout: default
-last-modified: 2020-05-02
+date: 2020-05-02
+last-modified: 2022-05-11
 featured-image:
 tags: [befunge]
 authors:
   - stuin
+  - the_renegade_coder
 
 ---
 

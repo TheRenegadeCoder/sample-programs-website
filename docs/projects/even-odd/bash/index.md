@@ -3,7 +3,7 @@
 title: Even Odd in Bash
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -33,8 +33,8 @@ fi
 
 [Even Odd](https://sampleprograms.io/projects/even-odd) in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
-- Jeremy Grifski
 - allievo-sudo
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

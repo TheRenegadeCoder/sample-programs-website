@@ -50,8 +50,8 @@ int main(int argc, char *argv[]) {
 
 [C](https://sampleprograms.io/languages/c)apitalize in [C](https://sampleprograms.io/languages/c) was written by:
 
-- Softizo
 - Jeremy Grifski
+- Softizo
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

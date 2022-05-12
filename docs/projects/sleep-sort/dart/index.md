@@ -3,7 +3,7 @@
 title: Sleep Sort in Dart
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-11
+last-modified: 2022-05-12
 
 ---
 
@@ -42,8 +42,8 @@ Future<List<int>> sleepsort(Iterable<int> input) async {
 
 [Sleep Sort](https://sampleprograms.io/projects/sleep-sort) in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
-- Jeremy Grifski
 - agilob
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
