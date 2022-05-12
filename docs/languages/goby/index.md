@@ -2,7 +2,8 @@
 
 title: The Goby Programming Language
 layout: default
-last-modified: 2020-05-02
+date: 2020-05-02
+last-modified: 2022-05-11
 featured-image: 
 tags: [goby]
 authors:
@@ -14,12 +15,13 @@ Welcome to the Goby page! Here, you'll find a description of the language as wel
 
 ## Description
 
-[According to the GitHub project][1], Goby, formerly known as Rooby, is a 
-Ruby-like language written in Go. The goal of the language is to 
-provide a small environment for building microservices and API servers. 
+[According to the GitHub project](https://github.com/goby-lang/goby), 
+Goby, formerly known as Rooby, is a Ruby-like language written in Go. 
+The goal of the language is to provide a small environment for building 
+microservices and API servers. 
 
 Beyond that, the project didn't have much to offer in terms of
-use cases or samples. That said, [the official website][2] does give a few
+use cases or samples. That said, the official website does give a few
 examples of language features including:
 
 - Concurrency Support
@@ -36,7 +38,7 @@ goby -i
 ```
 
 Alternatively, you can try running all the sample code snippets using
-[the samplerunner script][3] included in the repo:
+the samplerunner script included in the repo:
 
 ```shell
 ./samplerunner.sh run -l goby

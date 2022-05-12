@@ -2,7 +2,8 @@
 
 title: The C Programming Language
 layout: default
-last-modified: 2020-05-02
+date: 2020-05-02
+last-modified: 2022-05-11
 featured-image:
 tags: [c]
 authors:
@@ -14,17 +15,15 @@ Welcome to the C page! Here, you'll find a description of the language as well a
 
 ## Description
 
-As usual, I decided to dive into the history of C with [Wikipedia][1].
-
-According to Wikipedia, C is a general-purpose programming language that 
-was developed as early as 1969 at Bell Labs by Dennis Richie. Today, the 
-C language has influenced the design of many languages such as C++, C#, 
-Go, Java, and many, many more.
+C is a general-purpose programming language that was developed as early 
+as 1969 at Bell Labs by Dennis Richie. Today, the C language has influenced 
+the design of many languages such as C++, C#, Go, Java, and many, many more.
 
 Features of C include static typing, lexical variable scope, and recursion. 
 In addition, function parameters are passed by value, not reference, but 
 pass-by-reference can be accomplished by explicitly using pointers. Also, 
-while C has static typing, variables are weakly typed and can be converted implicitly.
+while C has static typing, variables are weakly typed and can be converted 
+implicitly.
 
 
 ## Articles
