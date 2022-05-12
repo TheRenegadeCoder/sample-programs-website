@@ -1,8 +1,8 @@
-[According to Wikipedia][1], Brainfuck is an esoteric programming language created in
-1992, and notable for its extreme minimalism. As people have implemented more and
-more ridiculous programs with the language, it has become relatively well-known
-over the years. Nowadays some see it as the ultimate coding challenge to create
-something useful in Brainfuck.
+Brainfuck is an esoteric programming language created in 1992, and notable for 
+its extreme minimalism. As people have implemented more and more ridiculous 
+programs with the language, it has become relatively well-known over the years. 
+Nowadays some see it as the ultimate coding challenge to create something 
+useful in Brainfuck.
 
 At the core of the language is a more-than-compact instruction set, comprising
 of a whopping eight instructions. Brainfuck uses a machine model consisting of

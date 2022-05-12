@@ -1,9 +1,8 @@
-
-According to Wikipedia, Elixir is yet another general-purpose language 
-with functional tendencies. That said, Elixir is quite a bit different 
-from some of our recent languages. For starters, Elixir runs on the 
-Erlang virtual machine known as BEAM. This means that Elixir actually 
-compiles down to bytecode much like Java.
+Elixir is yet another general-purpose language with functional tendencies. 
+That said, Elixir is quite a bit different from some of our recent 
+languages. For starters, Elixir runs on the Erlang virtual machine 
+known as BEAM. This means that Elixir actually compiles down to bytecode 
+much like Java.
 
 In terms of features, Elixir has a lot to offer. For instance, Elixir 
 has support for macros which modify the abstract syntax tree. You may 
