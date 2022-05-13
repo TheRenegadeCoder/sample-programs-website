@@ -7,6 +7,6 @@ correctness of your solution:
 | Empty Input               | ""                              | "Usage: please provide a string" |
 | Sample Input: Many Words  | "May the force be with you"     | 5                                |
 | Sample Input: Single Word | "Floccinaucinihilipilification" | 29                               |
-| Sample Input: Multiline   | "Hi,\nMy name is Paul!"         | 4                                |
+| Sample Input: Multiline   | "Hi,\nMy name is Paul!"         | 5                                |
 
 As always, these tests will be run against any code submitted to the repo via [Glotter][glotter-github].
