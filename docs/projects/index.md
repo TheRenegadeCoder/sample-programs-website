@@ -7,7 +7,7 @@ last-modified: 2022-05-13
 
 ---
 
-Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. At this time, the repo supports 40 projects, of which 33 are tested.
+Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. At this time, the repo supports 39 projects, of which 33 are tested.
 
 ## Projects List
 
@@ -29,7 +29,6 @@ To help you navigate the collection, the following projects are organized alphab
 - [Fraction Math](https://sampleprograms.io/projects/fraction-math)
 - [Game Of Life](https://sampleprograms.io/projects/game-of-life)
 - [Hello World](https://sampleprograms.io/projects/hello-world)
-- [Import Export](https://sampleprograms.io/projects/import-export)
 - [Insertion Sort](https://sampleprograms.io/projects/insertion-sort)
 - [Job Sequencing](https://sampleprograms.io/projects/job-sequencing)
 - [Josephus Problem](https://sampleprograms.io/projects/josephus-problem)

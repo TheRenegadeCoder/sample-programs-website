@@ -7,7 +7,7 @@ last-modified: 2022-05-13
 
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 162 languages, of which 38 are tested, and 617 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 162 languages, of which 38 are tested, and 613 code snippets.
 
 ## Language Collections by Letter
 
@@ -42,7 +42,7 @@ The 'B' collection contains 8 languages, of which 2 are tested, and 28 code snip
 
 ### C
 
-The 'C' collection contains 15 languages, of which 6 are tested, and 95 code snippets.
+The 'C' collection contains 15 languages, of which 6 are tested, and 93 code snippets.
 
 - [C](https://sampleprograms.io/languages/c)
 - [C#](https://sampleprograms.io/languages/c-sharp)
@@ -139,7 +139,7 @@ The 'I' collection contains 2 languages, of which 0 are tested, and 2 code snipp
 
 ### J
 
-The 'J' collection contains 4 languages, of which 3 are tested, and 62 code snippets.
+The 'J' collection contains 4 languages, of which 3 are tested, and 61 code snippets.
 
 - [Janet](https://sampleprograms.io/languages/janet)
 - [Java](https://sampleprograms.io/languages/java)
@@ -258,7 +258,7 @@ The 'S' collection contains 10 languages, of which 3 are tested, and 28 code sni
 
 ### T
 
-The 'T' collection contains 5 languages, of which 0 are tested, and 13 code snippets.
+The 'T' collection contains 5 languages, of which 0 are tested, and 12 code snippets.
 
 - [Tcl](https://sampleprograms.io/languages/tcl)
 - [Terra](https://sampleprograms.io/languages/terra)

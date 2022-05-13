@@ -21,5 +21,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Fizz Buzz in Typescript](https://sampleprograms.io/projects/fizz-buzz/typescript)
 - [Game Of Life in Typescript](https://sampleprograms.io/projects/game-of-life/typescript)
 - [Hello World in Typescript](https://sampleprograms.io/projects/hello-world/typescript)
-- [Import Export in Typescript](https://sampleprograms.io/projects/import-export/typescript)
 - [Reverse String in Typescript](https://sampleprograms.io/projects/reverse-string/typescript)
