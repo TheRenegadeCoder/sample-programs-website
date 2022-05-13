@@ -60,8 +60,6 @@ The following table contains various test cases that you can use to verify the c
 As always, these tests will be run against any code submitted to the repo via [Glotter][glotter-github].
 
 
-**Note:** Remove All Whitespace is not currently tested by Glotter. Consider contributing!
-
 ## Articles
 
-No articles available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
+- [Remove All Whitespace in Python](https://sampleprograms.io/projects/remove-all-whitespace/python)

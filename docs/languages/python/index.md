@@ -53,6 +53,7 @@ But, Python 2 is slowly losing support.
 - [Prime Number in Python](https://sampleprograms.io/projects/prime-number/python)
 - [Quick Sort in Python](https://sampleprograms.io/projects/quick-sort/python)
 - [Quine in Python](https://sampleprograms.io/projects/quine/python)
+- [Remove All Whitespace in Python](https://sampleprograms.io/projects/remove-all-whitespace/python)
 - [Reverse String in Python](https://sampleprograms.io/projects/reverse-string/python)
 - [Roman Numeral in Python](https://sampleprograms.io/projects/roman-numeral/python)
 - [Rot 13 in Python](https://sampleprograms.io/projects/rot-13/python)
