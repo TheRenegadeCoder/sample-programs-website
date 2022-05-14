@@ -3,7 +3,7 @@
 title: Convex Hull in Python
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-13
+last-modified: 2022-05-14
 
 ---
 
@@ -17,15 +17,7 @@ Welcome to the [Convex Hull](https://sampleprograms.io/projects/convex-hull) in 
 from math import sqrt
 import sys
 
-
-X = [int(i.strip()) for i in sys.argv[1].split(',') if i]
-Y = [int(i.strip()) for i in sys.argv[2].split(',') if i]
-
-assert len(X) == len(Y), 'Wrong Input'
-
-Z = list(set((zip(X, Y))))
-X = [i for i, _ in Z]
-Y = [j for _, j in Z]
+usage = 'Usage: please provide at least 3 x and y coordinates as separate lists (e.g. "100, 440, 210")'
 
 
 def dist(point1, point2):
@@ -86,8 +78,24 @@ def foo(z):
 
 
 if __name__ == '__main__':
+    if len(sys.argv) != 3:
+        print(usage)
+        sys.exit()
+
+    X = [i.strip() for i in sys.argv[1].split(',') if i]
+    Y = [i.strip() for i in sys.argv[2].split(',') if i]
+
+    if len(X) != len(Y) or len(X) < 3 or not all(x.isdigit() for x in X) or not all(y.isdigit() for y in Y):
+        print(usage)
+        sys.exit()
+
+    X = [int(i) for i in X]
+    Y = [int(i) for i in Y]
+    Z = list(set((zip(X, Y))))
+
     convex_polygon_coords = foo(Z)
-    print(convex_polygon_coords)
+    for coord in convex_polygon_coords:
+        print(coord)
 ```
 
 {% endraw %}
@@ -99,7 +107,7 @@ if __name__ == '__main__':
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Oct 22 2019 05:05:49. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 14 2022 15:37:34. The solution was first committed on Oct 22 2019 05:05:49. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

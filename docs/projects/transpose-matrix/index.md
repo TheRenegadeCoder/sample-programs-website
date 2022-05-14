@@ -60,8 +60,6 @@ Verify that the actual output matches the expected output (see [requirements][1]
 | Sample input            | 3     | 2     | ```1, 2, 3, 4, 5, 6``` | ```1, 4, 2, 5, 3, 6```                                                    |
 
 
-**Note:** Transpose Matrix is not currently tested by Glotter. Consider contributing!
-
 ## Articles
 
-No articles available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
+- [Transpose Matrix in Python](https://sampleprograms.io/projects/transpose-matrix/python)
