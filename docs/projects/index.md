@@ -7,7 +7,7 @@ last-modified: 2022-05-14
 
 ---
 
-Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. At this time, the repo supports 39 projects, of which 36 are tested.
+Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. At this time, the repo supports 38 projects, of which 36 are tested.
 
 ## Projects List
 
@@ -32,7 +32,6 @@ To help you navigate the collection, the following projects are organized alphab
 - [Insertion Sort](https://sampleprograms.io/projects/insertion-sort)
 - [Job Sequencing](https://sampleprograms.io/projects/job-sequencing)
 - [Josephus Problem](https://sampleprograms.io/projects/josephus-problem)
-- [Jump Search](https://sampleprograms.io/projects/jump-search)
 - [LCS](https://sampleprograms.io/projects/lcs)
 - [Linear Search](https://sampleprograms.io/projects/linear-search)
 - [Longest Word](https://sampleprograms.io/projects/longest-word)
