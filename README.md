@@ -9,7 +9,7 @@ If you'd like to contribute, you're welcome to make any additions or changes you
 to the source files (see sources folder). These files are used to automatically
 generate the documentation.
 
-See our list of issues to get started or create your own! 
+See our list of issues to get started or create your own!
 
 [language-template]: https://github.com/TheRenegadeCoder/sample-programs-website/blob/master/templates/LANGUAGE_ARTICLE_TEMPLATE.md
 [project-template]: https://github.com/TheRenegadeCoder/sample-programs-website/blob/master/templates/PROJECT_ARTICLE_TEMPLATE.md
