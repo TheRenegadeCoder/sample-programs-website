@@ -7,7 +7,7 @@ last-modified: 2022-05-14
 
 ---
 
-Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. At this time, the repo supports 39 projects, of which 35 are tested.
+Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. At this time, the repo supports 39 projects, of which 36 are tested.
 
 ## Projects List
 
@@ -20,7 +20,7 @@ To help you navigate the collection, the following projects are organized alphab
 - [Convex Hull](https://sampleprograms.io/projects/convex-hull)
 - [Depth First Search](https://sampleprograms.io/projects/depth-first-search)
 - [Dijkstra](https://sampleprograms.io/projects/dijkstra)
-- [Duplicate Char Counter](https://sampleprograms.io/projects/duplicate-char-counter)
+- [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter)
 - [Even Odd](https://sampleprograms.io/projects/even-odd)
 - [Factorial](https://sampleprograms.io/projects/factorial)
 - [Fibonacci](https://sampleprograms.io/projects/fibonacci)

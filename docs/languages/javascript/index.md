@@ -20,7 +20,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Bubble Sort in Javascript](https://sampleprograms.io/projects/bubble-sort/javascript)
 - [Capitalize in Javascript](https://sampleprograms.io/projects/capitalize/javascript)
 - [Dijkstra in Javascript](https://sampleprograms.io/projects/dijkstra/javascript)
-- [Duplicate Char Counter in Javascript](https://sampleprograms.io/projects/duplicate-char-counter/javascript)
 - [Even Odd in Javascript](https://sampleprograms.io/projects/even-odd/javascript)
 - [Factorial in Javascript](https://sampleprograms.io/projects/factorial/javascript)
 - [Fibonacci in Javascript](https://sampleprograms.io/projects/fibonacci/javascript)

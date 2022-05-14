@@ -139,7 +139,7 @@ The 'I' collection contains 2 languages, of which 0 are tested, and 2 code snipp
 
 ### J
 
-The 'J' collection contains 4 languages, of which 3 are tested, and 60 code snippets.
+The 'J' collection contains 4 languages, of which 3 are tested, and 59 code snippets.
 
 - [Janet](https://sampleprograms.io/languages/janet)
 - [Java](https://sampleprograms.io/languages/java)
@@ -204,7 +204,7 @@ The 'O' collection contains 7 languages, of which 1 is tested, and 16 code snipp
 
 ### P
 
-The 'P' collection contains 15 languages, of which 4 are tested, and 93 code snippets.
+The 'P' collection contains 15 languages, of which 4 are tested, and 94 code snippets.
 
 - [P](https://sampleprograms.io/languages/p)
 - [P4](https://sampleprograms.io/languages/p4)
