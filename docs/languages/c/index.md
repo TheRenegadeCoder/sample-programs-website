@@ -31,7 +31,6 @@ implicitly.
 - [Baklava in C](https://sampleprograms.io/projects/baklava/c)
 - [Bubble Sort in C](https://sampleprograms.io/projects/bubble-sort/c)
 - [Capitalize in C](https://sampleprograms.io/projects/capitalize/c)
-- [Convex Hull in C](https://sampleprograms.io/projects/convex-hull/c)
 - [Even Odd in C](https://sampleprograms.io/projects/even-odd/c)
 - [Factorial in C](https://sampleprograms.io/projects/factorial/c)
 - [Fibonacci in C](https://sampleprograms.io/projects/fibonacci/c)

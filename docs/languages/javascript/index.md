@@ -3,7 +3,7 @@
 title: Javascript
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-13
+last-modified: 2022-05-14
 
 ---
 
@@ -19,7 +19,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Binary Search in Javascript](https://sampleprograms.io/projects/binary-search/javascript)
 - [Bubble Sort in Javascript](https://sampleprograms.io/projects/bubble-sort/javascript)
 - [Capitalize in Javascript](https://sampleprograms.io/projects/capitalize/javascript)
-- [Convex Hull in Javascript](https://sampleprograms.io/projects/convex-hull/javascript)
 - [Dijkstra in Javascript](https://sampleprograms.io/projects/dijkstra/javascript)
 - [Duplicate Char Counter in Javascript](https://sampleprograms.io/projects/duplicate-char-counter/javascript)
 - [Even Odd in Javascript](https://sampleprograms.io/projects/even-odd/javascript)

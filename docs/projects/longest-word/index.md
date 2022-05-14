@@ -70,8 +70,6 @@ correctness of your solution:
 As always, these tests will be run against any code submitted to the repo via [Glotter][glotter-github].
 
 
-**Note:** Longest Word is not currently tested by Glotter. Consider contributing!
-
 ## Articles
 
-No articles available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
+- [Longest Word in Python](https://sampleprograms.io/projects/longest-word/python)

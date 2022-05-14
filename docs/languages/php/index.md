@@ -3,7 +3,7 @@
 title: Php
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-13
+last-modified: 2022-05-14
 
 ---
 
@@ -18,7 +18,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Baklava in Php](https://sampleprograms.io/projects/baklava/php)
 - [Bubble Sort in Php](https://sampleprograms.io/projects/bubble-sort/php)
 - [Capitalize in Php](https://sampleprograms.io/projects/capitalize/php)
-- [Convex Hull in Php](https://sampleprograms.io/projects/convex-hull/php)
 - [Even Odd in Php](https://sampleprograms.io/projects/even-odd/php)
 - [Factorial in Php](https://sampleprograms.io/projects/factorial/php)
 - [Fibonacci in Php](https://sampleprograms.io/projects/fibonacci/php)

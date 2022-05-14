@@ -3,7 +3,7 @@
 title: C#
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-13
+last-modified: 2022-05-14
 
 ---
 
@@ -18,7 +18,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Baklava in C#](https://sampleprograms.io/projects/baklava/c-sharp)
 - [Bubble Sort in C#](https://sampleprograms.io/projects/bubble-sort/c-sharp)
 - [Capitalize in C#](https://sampleprograms.io/projects/capitalize/c-sharp)
-- [Convex Hull in C#](https://sampleprograms.io/projects/convex-hull/c-sharp)
 - [Even Odd in C#](https://sampleprograms.io/projects/even-odd/c-sharp)
 - [Factorial in C#](https://sampleprograms.io/projects/factorial/c-sharp)
 - [Fibonacci in C#](https://sampleprograms.io/projects/fibonacci/c-sharp)

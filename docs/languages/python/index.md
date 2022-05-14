@@ -45,6 +45,7 @@ But, Python 2 is slowly losing support.
 - [LCS in Python](https://sampleprograms.io/projects/lcs/python)
 - [LPS in Python](https://sampleprograms.io/projects/lps/python)
 - [Linear Search in Python](https://sampleprograms.io/projects/linear-search/python)
+- [Longest Word in Python](https://sampleprograms.io/projects/longest-word/python)
 - [MST in Python](https://sampleprograms.io/projects/mst/python)
 - [Maximum Array Rotation in Python](https://sampleprograms.io/projects/maximum-array-rotation/python)
 - [Maximum Subarray in Python](https://sampleprograms.io/projects/maximum-subarray/python)
@@ -59,3 +60,4 @@ But, Python 2 is slowly losing support.
 - [Rot 13 in Python](https://sampleprograms.io/projects/rot-13/python)
 - [Selection Sort in Python](https://sampleprograms.io/projects/selection-sort/python)
 - [Sleep Sort in Python](https://sampleprograms.io/projects/sleep-sort/python)
+- [Transpose Matrix in Python](https://sampleprograms.io/projects/transpose-matrix/python)

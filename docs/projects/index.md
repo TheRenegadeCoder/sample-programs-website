@@ -3,11 +3,11 @@
 title: Projects
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-13
+last-modified: 2022-05-14
 
 ---
 
-Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. At this time, the repo supports 39 projects, of which 33 are tested.
+Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. At this time, the repo supports 39 projects, of which 35 are tested.
 
 ## Projects List
 
