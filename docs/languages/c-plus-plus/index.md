@@ -3,7 +3,7 @@
 title: C++
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-14
+last-modified: 2022-05-15
 
 ---
 
@@ -19,7 +19,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Binary Search in C++](https://sampleprograms.io/projects/binary-search/c-plus-plus)
 - [Bubble Sort in C++](https://sampleprograms.io/projects/bubble-sort/c-plus-plus)
 - [Capitalize in C++](https://sampleprograms.io/projects/capitalize/c-plus-plus)
-- [Dijkstra in C++](https://sampleprograms.io/projects/dijkstra/c-plus-plus)
 - [Even Odd in C++](https://sampleprograms.io/projects/even-odd/c-plus-plus)
 - [Factorial in C++](https://sampleprograms.io/projects/factorial/c-plus-plus)
 - [Fibonacci in C++](https://sampleprograms.io/projects/fibonacci/c-plus-plus)
