@@ -313,8 +313,24 @@ def generate_projects_index(repo: subete.Repo):
     projects_index.output_page(str(projects_index_path))
 
 
+def clean(folder: str):
+    """
+    Deletes the contents of the docs directory.
+    """
+    path = pathlib.Path(folder)
+    if path.exists():
+        for child in path.glob('*'):
+            if child.is_file():
+                child.unlink()
+            else:
+                clean(child)
+        path.rmdir()
+
+
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
+    clean("docs/projects")
+    clean("docs/languages")
     repo = subete.load()
     generate_language_paths(repo)
     generate_project_paths(repo)
