@@ -1,12 +1,9 @@
 ---
 
-title: File IO in Every Language
+title: File Io
 layout: default
-date: 2018-11-01
-last-modified: 2020-05-02
-feature-image: file-io-in-every-language.jpg
-tags: [file-io]
-authors:
+date: 2022-04-28
+last-modified: 2022-05-16
 
 ---
 
@@ -14,36 +11,15 @@ Welcome to the File Io page! Here, you'll find a description of the project as w
 
 ## Description
 
-Most languages have built-in utilities or functions for reading and writing files.
-Many of these input/output functions follow a similar pattern across programming languages:
-a string to the path of the file and a "mode". A mode is how the files is opened.
-Will the file be opened for reading, writing, or even both?
-Will the file be appending new content? Truncated?
-
+No 'Description' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
 
 ## Requirements
 
-In general, a File IO solution should perform the following:
-
-1. Write some arbitrary content to a file (use `output.txt`)
-2. Read back that content and print it to the user
-
-More specifically, begin with writing a file to disk. In the write function, you should show how
-to open a file with write abilities and write some contents to the file. Before closing the file,
-you should ensure everything is written to disk. Then, close the file. There should be basic error
-checking to confirm file opening was successful.
-
-With the read file function, open the file with read abilities. Most higher level languages
-offer a way to read line by line or even transfer the whole contents into a string. One way
-to read the file is to loop line by line and do some processing. Printing each line to the
-screen is enough. Like in the write function, make sure there is some basic error checking.
-
+No 'Requirements' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
 
 ## Testing
 
-Verify that the actual output matches the expected output. See the
-[requirements][1] section for an example of the expected output.
-
+No 'Testing' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
 
 ## Articles
 
