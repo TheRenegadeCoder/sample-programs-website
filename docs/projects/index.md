@@ -3,11 +3,11 @@
 title: Projects
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-15
+last-modified: 2022-05-16
 
 ---
 
-Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. At this time, the repo supports 38 projects, of which 37 are tested.
+Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. At this time, the repo supports 37 projects, of which 37 are tested.
 
 ## Projects List
 
@@ -27,7 +27,6 @@ To help you navigate the collection, the following projects are organized alphab
 - [File Io](https://sampleprograms.io/projects/file-io)
 - [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz)
 - [Fraction Math](https://sampleprograms.io/projects/fraction-math)
-- [Game Of Life](https://sampleprograms.io/projects/game-of-life)
 - [Hello World](https://sampleprograms.io/projects/hello-world)
 - [Insertion Sort](https://sampleprograms.io/projects/insertion-sort)
 - [Job Sequencing](https://sampleprograms.io/projects/job-sequencing)

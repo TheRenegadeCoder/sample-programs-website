@@ -3,7 +3,7 @@
 title: Php
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-15
+last-modified: 2022-05-16
 
 ---
 
@@ -23,7 +23,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Fibonacci in Php](https://sampleprograms.io/projects/fibonacci/php)
 - [File Io in Php](https://sampleprograms.io/projects/file-io/php)
 - [Fizz Buzz in Php](https://sampleprograms.io/projects/fizz-buzz/php)
-- [Game Of Life in Php](https://sampleprograms.io/projects/game-of-life/php)
 - [Hello World in Php](https://sampleprograms.io/projects/hello-world/php)
 - [Insertion Sort in Php](https://sampleprograms.io/projects/insertion-sort/php)
 - [Job Sequencing in Php](https://sampleprograms.io/projects/job-sequencing/php)

@@ -3,7 +3,7 @@
 title: C++
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-15
+last-modified: 2022-05-16
 
 ---
 
@@ -25,7 +25,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [File Io in C++](https://sampleprograms.io/projects/file-io/c-plus-plus)
 - [Fizz Buzz in C++](https://sampleprograms.io/projects/fizz-buzz/c-plus-plus)
 - [Fraction Math in C++](https://sampleprograms.io/projects/fraction-math/c-plus-plus)
-- [Game Of Life in C++](https://sampleprograms.io/projects/game-of-life/c-plus-plus)
 - [Hello World in C++](https://sampleprograms.io/projects/hello-world/c-plus-plus)
 - [Insertion Sort in C++](https://sampleprograms.io/projects/insertion-sort/c-plus-plus)
 - [LCS in C++](https://sampleprograms.io/projects/lcs/c-plus-plus)

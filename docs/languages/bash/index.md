@@ -43,7 +43,6 @@ builds.
 - [Fibonacci in Bash](https://sampleprograms.io/projects/fibonacci/bash)
 - [File Io in Bash](https://sampleprograms.io/projects/file-io/bash)
 - [Fizz Buzz in Bash](https://sampleprograms.io/projects/fizz-buzz/bash)
-- [Game Of Life in Bash](https://sampleprograms.io/projects/game-of-life/bash)
 - [Hello World in Bash](https://sampleprograms.io/projects/hello-world/bash)
 - [Prime Number in Bash](https://sampleprograms.io/projects/prime-number/bash)
 - [Quick Sort in Bash](https://sampleprograms.io/projects/quick-sort/bash)

@@ -3,7 +3,7 @@
 title: Javascript
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-15
+last-modified: 2022-05-16
 
 ---
 
@@ -25,7 +25,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Fibonacci in Javascript](https://sampleprograms.io/projects/fibonacci/javascript)
 - [File Io in Javascript](https://sampleprograms.io/projects/file-io/javascript)
 - [Fizz Buzz in Javascript](https://sampleprograms.io/projects/fizz-buzz/javascript)
-- [Game Of Life in Javascript](https://sampleprograms.io/projects/game-of-life/javascript)
 - [Hello World in Javascript](https://sampleprograms.io/projects/hello-world/javascript)
 - [Insertion Sort in Javascript](https://sampleprograms.io/projects/insertion-sort/javascript)
 - [Job Sequencing in Javascript](https://sampleprograms.io/projects/job-sequencing/javascript)

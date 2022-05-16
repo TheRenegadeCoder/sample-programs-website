@@ -3,7 +3,7 @@
 title: Typescript
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-15
+last-modified: 2022-05-16
 
 ---
 
@@ -19,6 +19,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Capitalize in Typescript](https://sampleprograms.io/projects/capitalize/typescript)
 - [Fibonacci in Typescript](https://sampleprograms.io/projects/fibonacci/typescript)
 - [Fizz Buzz in Typescript](https://sampleprograms.io/projects/fizz-buzz/typescript)
-- [Game Of Life in Typescript](https://sampleprograms.io/projects/game-of-life/typescript)
 - [Hello World in Typescript](https://sampleprograms.io/projects/hello-world/typescript)
 - [Reverse String in Typescript](https://sampleprograms.io/projects/reverse-string/typescript)

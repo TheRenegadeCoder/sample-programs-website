@@ -59,7 +59,6 @@ yet to implement Hello World in Scala.
 - [Fibonacci in Scala](https://sampleprograms.io/projects/fibonacci/scala)
 - [File Io in Scala](https://sampleprograms.io/projects/file-io/scala)
 - [Fizz Buzz in Scala](https://sampleprograms.io/projects/fizz-buzz/scala)
-- [Game Of Life in Scala](https://sampleprograms.io/projects/game-of-life/scala)
 - [Hello World in Scala](https://sampleprograms.io/projects/hello-world/scala)
 - [Quick Sort in Scala](https://sampleprograms.io/projects/quick-sort/scala)
 - [Reverse String in Scala](https://sampleprograms.io/projects/reverse-string/scala)

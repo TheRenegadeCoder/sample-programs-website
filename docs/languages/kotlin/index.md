@@ -49,7 +49,6 @@ In this example, the lastChar method is added to the String class. How cool is t
 - [Fibonacci in Kotlin](https://sampleprograms.io/projects/fibonacci/kotlin)
 - [File Io in Kotlin](https://sampleprograms.io/projects/file-io/kotlin)
 - [Fizz Buzz in Kotlin](https://sampleprograms.io/projects/fizz-buzz/kotlin)
-- [Game Of Life in Kotlin](https://sampleprograms.io/projects/game-of-life/kotlin)
 - [Hello World in Kotlin](https://sampleprograms.io/projects/hello-world/kotlin)
 - [Job Sequencing in Kotlin](https://sampleprograms.io/projects/job-sequencing/kotlin)
 - [LCS in Kotlin](https://sampleprograms.io/projects/lcs/kotlin)

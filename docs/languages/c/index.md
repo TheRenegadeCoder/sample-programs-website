@@ -36,7 +36,6 @@ implicitly.
 - [Fibonacci in C](https://sampleprograms.io/projects/fibonacci/c)
 - [File Io in C](https://sampleprograms.io/projects/file-io/c)
 - [Fizz Buzz in C](https://sampleprograms.io/projects/fizz-buzz/c)
-- [Game Of Life in C](https://sampleprograms.io/projects/game-of-life/c)
 - [Hello World in C](https://sampleprograms.io/projects/hello-world/c)
 - [Insertion Sort in C](https://sampleprograms.io/projects/insertion-sort/c)
 - [LCS in C](https://sampleprograms.io/projects/lcs/c)

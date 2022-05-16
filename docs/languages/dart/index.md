@@ -57,7 +57,6 @@ A programmer can just get started from the get-go!
 - [Even Odd in Dart](https://sampleprograms.io/projects/even-odd/dart)
 - [Fibonacci in Dart](https://sampleprograms.io/projects/fibonacci/dart)
 - [Fizz Buzz in Dart](https://sampleprograms.io/projects/fizz-buzz/dart)
-- [Game Of Life in Dart](https://sampleprograms.io/projects/game-of-life/dart)
 - [Hello World in Dart](https://sampleprograms.io/projects/hello-world/dart)
 - [Quick Sort in Dart](https://sampleprograms.io/projects/quick-sort/dart)
 - [Reverse String in Dart](https://sampleprograms.io/projects/reverse-string/dart)

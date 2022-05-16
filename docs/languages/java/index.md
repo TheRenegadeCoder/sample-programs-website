@@ -45,7 +45,6 @@ great features like garbage collection which offset some of these complaints.
 - [Fibonacci in Java](https://sampleprograms.io/projects/fibonacci/java)
 - [File Io in Java](https://sampleprograms.io/projects/file-io/java)
 - [Fizz Buzz in Java](https://sampleprograms.io/projects/fizz-buzz/java)
-- [Game Of Life in Java](https://sampleprograms.io/projects/game-of-life/java)
 - [Hello World in Java](https://sampleprograms.io/projects/hello-world/java)
 - [Insertion Sort in Java](https://sampleprograms.io/projects/insertion-sort/java)
 - [Job Sequencing in Java](https://sampleprograms.io/projects/job-sequencing/java)

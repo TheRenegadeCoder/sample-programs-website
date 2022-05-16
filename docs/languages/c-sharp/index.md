@@ -3,7 +3,7 @@
 title: C#
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-15
+last-modified: 2022-05-16
 
 ---
 
@@ -23,7 +23,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Fibonacci in C#](https://sampleprograms.io/projects/fibonacci/c-sharp)
 - [File Io in C#](https://sampleprograms.io/projects/file-io/c-sharp)
 - [Fizz Buzz in C#](https://sampleprograms.io/projects/fizz-buzz/c-sharp)
-- [Game Of Life in C#](https://sampleprograms.io/projects/game-of-life/c-sharp)
 - [Hello World in C#](https://sampleprograms.io/projects/hello-world/c-sharp)
 - [Insertion Sort in C#](https://sampleprograms.io/projects/insertion-sort/c-sharp)
 - [LCS in C#](https://sampleprograms.io/projects/lcs/c-sharp)

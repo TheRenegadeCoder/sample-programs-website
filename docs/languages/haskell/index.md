@@ -46,7 +46,6 @@ At any rate, I think that's plenty of background for now.
 - [Fibonacci in Haskell](https://sampleprograms.io/projects/fibonacci/haskell)
 - [File Io in Haskell](https://sampleprograms.io/projects/file-io/haskell)
 - [Fizz Buzz in Haskell](https://sampleprograms.io/projects/fizz-buzz/haskell)
-- [Game Of Life in Haskell](https://sampleprograms.io/projects/game-of-life/haskell)
 - [Hello World in Haskell](https://sampleprograms.io/projects/hello-world/haskell)
 - [Insertion Sort in Haskell](https://sampleprograms.io/projects/insertion-sort/haskell)
 - [Job Sequencing in Haskell](https://sampleprograms.io/projects/job-sequencing/haskell)

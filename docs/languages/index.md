@@ -3,11 +3,11 @@
 title: Programming Languages
 layout: default
 date: 2022-04-28
-last-modified: 2022-05-15
+last-modified: 2022-05-16
 
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 162 languages, of which 38 are tested, and 610 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 162 languages, of which 38 are tested, and 597 code snippets.
 
 ## Language Collections by Letter
 
@@ -29,7 +29,7 @@ The 'A' collection contains 9 languages, of which 1 is tested, and 11 code snipp
 
 ### B
 
-The 'B' collection contains 8 languages, of which 2 are tested, and 28 code snippets.
+The 'B' collection contains 8 languages, of which 2 are tested, and 27 code snippets.
 
 - [Baik](https://sampleprograms.io/languages/baik)
 - [Ballerina](https://sampleprograms.io/languages/ballerina)
@@ -42,7 +42,7 @@ The 'B' collection contains 8 languages, of which 2 are tested, and 28 code snip
 
 ### C
 
-The 'C' collection contains 15 languages, of which 6 are tested, and 90 code snippets.
+The 'C' collection contains 15 languages, of which 6 are tested, and 87 code snippets.
 
 - [C](https://sampleprograms.io/languages/c)
 - [C#](https://sampleprograms.io/languages/c-sharp)
@@ -62,7 +62,7 @@ The 'C' collection contains 15 languages, of which 6 are tested, and 90 code sni
 
 ### D
 
-The 'D' collection contains 7 languages, of which 1 is tested, and 25 code snippets.
+The 'D' collection contains 7 languages, of which 1 is tested, and 24 code snippets.
 
 - [D](https://sampleprograms.io/languages/d)
 - [Dale](https://sampleprograms.io/languages/dale)
@@ -122,7 +122,7 @@ The 'G' collection contains 11 languages, of which 2 are tested, and 39 code sni
 
 ### H
 
-The 'H' collection contains 5 languages, of which 2 are tested, and 25 code snippets.
+The 'H' collection contains 5 languages, of which 2 are tested, and 24 code snippets.
 
 - [Hack](https://sampleprograms.io/languages/hack)
 - [Haskell](https://sampleprograms.io/languages/haskell)
@@ -139,7 +139,7 @@ The 'I' collection contains 2 languages, of which 0 are tested, and 2 code snipp
 
 ### J
 
-The 'J' collection contains 4 languages, of which 3 are tested, and 59 code snippets.
+The 'J' collection contains 4 languages, of which 3 are tested, and 57 code snippets.
 
 - [Janet](https://sampleprograms.io/languages/janet)
 - [Java](https://sampleprograms.io/languages/java)
@@ -148,7 +148,7 @@ The 'J' collection contains 4 languages, of which 3 are tested, and 59 code snip
 
 ### K
 
-The 'K' collection contains 3 languages, of which 1 is tested, and 21 code snippets.
+The 'K' collection contains 3 languages, of which 1 is tested, and 20 code snippets.
 
 - [Kitten](https://sampleprograms.io/languages/kitten)
 - [Koka](https://sampleprograms.io/languages/koka)
@@ -204,7 +204,7 @@ The 'O' collection contains 7 languages, of which 1 is tested, and 16 code snipp
 
 ### P
 
-The 'P' collection contains 15 languages, of which 4 are tested, and 94 code snippets.
+The 'P' collection contains 15 languages, of which 4 are tested, and 92 code snippets.
 
 - [P](https://sampleprograms.io/languages/p)
 - [P4](https://sampleprograms.io/languages/p4)
@@ -243,7 +243,7 @@ The 'R' collection contains 8 languages, of which 4 are tested, and 43 code snip
 
 ### S
 
-The 'S' collection contains 10 languages, of which 3 are tested, and 28 code snippets.
+The 'S' collection contains 10 languages, of which 3 are tested, and 27 code snippets.
 
 - [Sather](https://sampleprograms.io/languages/sather)
 - [Scala](https://sampleprograms.io/languages/scala)
@@ -258,7 +258,7 @@ The 'S' collection contains 10 languages, of which 3 are tested, and 28 code sni
 
 ### T
 
-The 'T' collection contains 5 languages, of which 0 are tested, and 12 code snippets.
+The 'T' collection contains 5 languages, of which 0 are tested, and 11 code snippets.
 
 - [Tcl](https://sampleprograms.io/languages/tcl)
 - [Terra](https://sampleprograms.io/languages/terra)
