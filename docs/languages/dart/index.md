@@ -61,5 +61,5 @@ A programmer can just get started from the get-go!
 - [Quick Sort in Dart](https://sampleprograms.io/projects/quick-sort/dart)
 - [Reverse String in Dart](https://sampleprograms.io/projects/reverse-string/dart)
 - [Roman Numeral in Dart](https://sampleprograms.io/projects/roman-numeral/dart)
-- [Rot 13 in Dart](https://sampleprograms.io/projects/rot-13/dart)
+- [Rot13 in Dart](https://sampleprograms.io/projects/rot13/dart)
 - [Sleep Sort in Dart](https://sampleprograms.io/projects/sleep-sort/dart)

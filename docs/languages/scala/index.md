@@ -57,7 +57,7 @@ yet to implement Hello World in Scala.
 - [Bubble Sort in Scala](https://sampleprograms.io/projects/bubble-sort/scala)
 - [Factorial in Scala](https://sampleprograms.io/projects/factorial/scala)
 - [Fibonacci in Scala](https://sampleprograms.io/projects/fibonacci/scala)
-- [File Io in Scala](https://sampleprograms.io/projects/file-io/scala)
+- [File Input Output in Scala](https://sampleprograms.io/projects/file-input-output/scala)
 - [Fizz Buzz in Scala](https://sampleprograms.io/projects/fizz-buzz/scala)
 - [Hello World in Scala](https://sampleprograms.io/projects/hello-world/scala)
 - [Quick Sort in Scala](https://sampleprograms.io/projects/quick-sort/scala)

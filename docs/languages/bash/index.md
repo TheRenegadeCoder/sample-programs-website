@@ -41,7 +41,7 @@ builds.
 - [Even Odd in Bash](https://sampleprograms.io/projects/even-odd/bash)
 - [Factorial in Bash](https://sampleprograms.io/projects/factorial/bash)
 - [Fibonacci in Bash](https://sampleprograms.io/projects/fibonacci/bash)
-- [File Io in Bash](https://sampleprograms.io/projects/file-io/bash)
+- [File Input Output in Bash](https://sampleprograms.io/projects/file-input-output/bash)
 - [Fizz Buzz in Bash](https://sampleprograms.io/projects/fizz-buzz/bash)
 - [Hello World in Bash](https://sampleprograms.io/projects/hello-world/bash)
 - [Prime Number in Bash](https://sampleprograms.io/projects/prime-number/bash)

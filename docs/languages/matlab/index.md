@@ -32,7 +32,7 @@ sports over 3 million users world-wide.
 - [Even Odd in Matlab](https://sampleprograms.io/projects/even-odd/matlab)
 - [Factorial in Matlab](https://sampleprograms.io/projects/factorial/matlab)
 - [Fibonacci in Matlab](https://sampleprograms.io/projects/fibonacci/matlab)
-- [File Io in Matlab](https://sampleprograms.io/projects/file-io/matlab)
+- [File Input Output in Matlab](https://sampleprograms.io/projects/file-input-output/matlab)
 - [Fizz Buzz in Matlab](https://sampleprograms.io/projects/fizz-buzz/matlab)
 - [Hello World in Matlab](https://sampleprograms.io/projects/hello-world/matlab)
 - [Insertion Sort in Matlab](https://sampleprograms.io/projects/insertion-sort/matlab)

@@ -36,7 +36,7 @@ framework which helps developers build web applications quickly and easily.
 - [Capitalize in Ruby](https://sampleprograms.io/projects/capitalize/ruby)
 - [Even Odd in Ruby](https://sampleprograms.io/projects/even-odd/ruby)
 - [Fibonacci in Ruby](https://sampleprograms.io/projects/fibonacci/ruby)
-- [File Io in Ruby](https://sampleprograms.io/projects/file-io/ruby)
+- [File Input Output in Ruby](https://sampleprograms.io/projects/file-input-output/ruby)
 - [Fizz Buzz in Ruby](https://sampleprograms.io/projects/fizz-buzz/ruby)
 - [Hello World in Ruby](https://sampleprograms.io/projects/hello-world/ruby)
 - [Quine in Ruby](https://sampleprograms.io/projects/quine/ruby)
