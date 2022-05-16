@@ -1,5 +1,5 @@
 Write a sample program that takes a string of text as input.
-It should then encrypt the inputted text using ROT-13 and output the result to the console.
+It should then encrypt the inputted text using ROT13 and output the result to the console.
 
 ```console
 $ ./rot-13.lang "the quick brown fox jumped over the lazy dog"
