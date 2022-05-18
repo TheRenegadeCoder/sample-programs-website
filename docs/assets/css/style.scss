@@ -73,12 +73,9 @@ $brand-color: #c90229;
   color: #fff;
 }
 
-.project-nav #previous {
-  float: left;
-}
-
-.project-nav #next {
-  float: right;
+.project-nav {
+  display: flex;
+  justify-content: space-between;
 }
 
 .site-navigation {
