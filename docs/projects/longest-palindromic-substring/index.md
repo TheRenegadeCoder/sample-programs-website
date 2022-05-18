@@ -98,13 +98,13 @@ The following table contains various test cases that you can use to verify the c
 
 <div id="prev">
 
-[<-- Previous Project (Transpose Matrix)](https://sampleprograms.io/projects/transpose-matrix)
+[<-- Previous Project (Longest Common Subsequence)](https://sampleprograms.io/projects/longest-common-subsequence)
 
 </div>
 
 <div id="next">
 
-[Next Project (Capitalize) -->](https://sampleprograms.io/projects/capitalize)
+[Next Project (Longest Word) -->](https://sampleprograms.io/projects/longest-word)
 
 </div>
 

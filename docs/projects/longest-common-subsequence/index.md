@@ -85,13 +85,13 @@ verify the correctness of your solution:
 
 <div id="prev">
 
-[<-- Previous Project (Fraction Math)](https://sampleprograms.io/projects/fraction-math)
+[<-- Previous Project (Linear Search)](https://sampleprograms.io/projects/linear-search)
 
 </div>
 
 <div id="next">
 
-[Next Project (Palindromic Number) -->](https://sampleprograms.io/projects/palindromic-number)
+[Next Project (Longest Palindromic Substring) -->](https://sampleprograms.io/projects/longest-palindromic-substring)
 
 </div>
 

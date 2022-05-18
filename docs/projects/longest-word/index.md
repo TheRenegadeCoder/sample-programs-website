@@ -80,13 +80,13 @@ As always, these tests will be run against any code submitted to the repo via [G
 
 <div id="prev">
 
-[<-- Previous Project (Maximum Subarray)](https://sampleprograms.io/projects/maximum-subarray)
+[<-- Previous Project (Longest Palindromic Substring)](https://sampleprograms.io/projects/longest-palindromic-substring)
 
 </div>
 
 <div id="next">
 
-[Next Project (Sleep Sort) -->](https://sampleprograms.io/projects/sleep-sort)
+[Next Project (Maximum Array Rotation) -->](https://sampleprograms.io/projects/maximum-array-rotation)
 
 </div>
 

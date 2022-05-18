@@ -65,13 +65,13 @@ Some tests for your program are:
 
 <div id="prev">
 
-[<-- Previous Project (Quine)](https://sampleprograms.io/projects/quine)
+[<-- Previous Project (Maximum Array Rotation)](https://sampleprograms.io/projects/maximum-array-rotation)
 
 </div>
 
 <div id="next">
 
-[Next Project (Longest Word) -->](https://sampleprograms.io/projects/longest-word)
+[Next Project (Merge Sort) -->](https://sampleprograms.io/projects/merge-sort)
 
 </div>
 

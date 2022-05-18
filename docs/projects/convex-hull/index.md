@@ -89,13 +89,13 @@ Usage: please provide at least 3 x and y coordinates as separate lists (e.g. "10
 
 <div id="prev">
 
-[<-- Previous Project (Job Sequencing)](https://sampleprograms.io/projects/job-sequencing)
+[<-- Previous Project (Capitalize)](https://sampleprograms.io/projects/capitalize)
 
 </div>
 
 <div id="next">
 
-[Next Project (Quick Sort) -->](https://sampleprograms.io/projects/quick-sort)
+[Next Project (Depth First Search) -->](https://sampleprograms.io/projects/depth-first-search)
 
 </div>
 

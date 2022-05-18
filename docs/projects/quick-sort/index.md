@@ -121,7 +121,7 @@ verify the correctness of your solution:
 
 <div id="prev">
 
-[<-- Previous Project (Convex Hull)](https://sampleprograms.io/projects/convex-hull)
+[<-- Previous Project (Prime Number)](https://sampleprograms.io/projects/prime-number)
 
 </div>
 

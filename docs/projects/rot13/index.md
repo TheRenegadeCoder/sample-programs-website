@@ -89,13 +89,13 @@ verify the correctness of your solution:
 
 <div id="prev">
 
-[<-- Previous Project (Insertion Sort)](https://sampleprograms.io/projects/insertion-sort)
+[<-- Previous Project (Roman Numeral)](https://sampleprograms.io/projects/roman-numeral)
 
 </div>
 
 <div id="next">
 
-[Next Project (Minimum Spanning Tree) -->](https://sampleprograms.io/projects/minimum-spanning-tree)
+[Next Project (Selection Sort) -->](https://sampleprograms.io/projects/selection-sort)
 
 </div>
 

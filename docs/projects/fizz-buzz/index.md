@@ -111,13 +111,13 @@ Verify that the actual output matches the expected output. See the
 
 <div id="prev">
 
-[<-- Previous Project (Remove All Whitespace)](https://sampleprograms.io/projects/remove-all-whitespace)
+[<-- Previous Project (File Input Output)](https://sampleprograms.io/projects/file-input-output)
 
 </div>
 
 <div id="next">
 
-[Next Project (Merge Sort) -->](https://sampleprograms.io/projects/merge-sort)
+[Next Project (Fraction Math) -->](https://sampleprograms.io/projects/fraction-math)
 
 </div>
 

@@ -55,13 +55,13 @@ Write a program that accepts an input of an integer and prints whether the numbe
 
 <div id="prev">
 
-[<-- Previous Project (Longest Common Subsequence)](https://sampleprograms.io/projects/longest-common-subsequence)
+[<-- Previous Project (Minimum Spanning Tree)](https://sampleprograms.io/projects/minimum-spanning-tree)
 
 </div>
 
 <div id="next">
 
-[Next Project (File Input Output) -->](https://sampleprograms.io/projects/file-input-output)
+[Next Project (Prime Number) -->](https://sampleprograms.io/projects/prime-number)
 
 </div>
 

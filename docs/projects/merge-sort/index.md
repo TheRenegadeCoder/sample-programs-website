@@ -111,13 +111,13 @@ verify the correctness of your solution:
 
 <div id="prev">
 
-[<-- Previous Project (Fizz Buzz)](https://sampleprograms.io/projects/fizz-buzz)
+[<-- Previous Project (Maximum Subarray)](https://sampleprograms.io/projects/maximum-subarray)
 
 </div>
 
 <div id="next">
 
-[Next Project (Bubble Sort) -->](https://sampleprograms.io/projects/bubble-sort)
+[Next Project (Minimum Spanning Tree) -->](https://sampleprograms.io/projects/minimum-spanning-tree)
 
 </div>
 

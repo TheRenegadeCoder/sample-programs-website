@@ -74,13 +74,13 @@ Verify that the actual output matches the expected output. See the
 
 <div id="prev">
 
-[<-- Previous Project (Palindromic Number)](https://sampleprograms.io/projects/palindromic-number)
+[<-- Previous Project (Fibonacci)](https://sampleprograms.io/projects/fibonacci)
 
 </div>
 
 <div id="next">
 
-[Next Project (Insertion Sort) -->](https://sampleprograms.io/projects/insertion-sort)
+[Next Project (Fizz Buzz) -->](https://sampleprograms.io/projects/fizz-buzz)
 
 </div>
 

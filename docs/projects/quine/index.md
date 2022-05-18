@@ -66,7 +66,7 @@ Verify that the actual output matches the expected output. See the
 
 <div id="next">
 
-[Next Project (Maximum Subarray) -->](https://sampleprograms.io/projects/maximum-subarray)
+[Next Project (Remove All Whitespace) -->](https://sampleprograms.io/projects/remove-all-whitespace)
 
 </div>
 

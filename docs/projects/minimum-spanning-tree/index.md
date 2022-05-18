@@ -93,13 +93,13 @@ In other words, what is the cost of the minimum spanning tree?
 
 <div id="prev">
 
-[<-- Previous Project (Rot13)](https://sampleprograms.io/projects/rot13)
+[<-- Previous Project (Merge Sort)](https://sampleprograms.io/projects/merge-sort)
 
 </div>
 
 <div id="next">
 
-[Next Project (Factorial) -->](https://sampleprograms.io/projects/factorial)
+[Next Project (Palindromic Number) -->](https://sampleprograms.io/projects/palindromic-number)
 
 </div>
 

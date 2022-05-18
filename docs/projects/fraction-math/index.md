@@ -71,13 +71,13 @@ Some tests for your program are:
 
 <div id="prev">
 
-[<-- Previous Project (Reverse String)](https://sampleprograms.io/projects/reverse-string)
+[<-- Previous Project (Fizz Buzz)](https://sampleprograms.io/projects/fizz-buzz)
 
 </div>
 
 <div id="next">
 
-[Next Project (Longest Common Subsequence) -->](https://sampleprograms.io/projects/longest-common-subsequence)
+[Next Project (Hello World) -->](https://sampleprograms.io/projects/hello-world)
 
 </div>
 

@@ -159,13 +159,13 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 <div id="prev">
 
-[<-- Previous Project (Merge Sort)](https://sampleprograms.io/projects/merge-sort)
+[<-- Previous Project (Binary Search)](https://sampleprograms.io/projects/binary-search)
 
 </div>
 
 <div id="next">
 
-[Next Project (Depth First Search) -->](https://sampleprograms.io/projects/depth-first-search)
+[Next Project (Capitalize) -->](https://sampleprograms.io/projects/capitalize)
 
 </div>
 

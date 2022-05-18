@@ -122,13 +122,13 @@ Usage: please provide three inputs: a serialized matrix, a source node and a des
 
 <div id="prev">
 
-[<-- Previous Project (Duplicate Character Counter)](https://sampleprograms.io/projects/duplicate-character-counter)
+[<-- Previous Project (Depth First Search)](https://sampleprograms.io/projects/depth-first-search)
 
 </div>
 
 <div id="next">
 
-[Next Project (Even Odd) -->](https://sampleprograms.io/projects/even-odd)
+[Next Project (Duplicate Character Counter) -->](https://sampleprograms.io/projects/duplicate-character-counter)
 
 </div>
 

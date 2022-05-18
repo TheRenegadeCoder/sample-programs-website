@@ -110,7 +110,7 @@ doesn't supply correct input.
 
 <div id="next">
 
-[Next Project (Baklava) -->](https://sampleprograms.io/projects/baklava)
+[Next Project (Longest Common Subsequence) -->](https://sampleprograms.io/projects/longest-common-subsequence)
 
 </div>
 

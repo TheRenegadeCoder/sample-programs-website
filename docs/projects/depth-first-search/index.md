@@ -119,13 +119,13 @@ Usage: please provide a tree in an adjacency matrix form ("0, 1, 1, 0, 0, 1, 0, 
 
 <div id="prev">
 
-[<-- Previous Project (Bubble Sort)](https://sampleprograms.io/projects/bubble-sort)
+[<-- Previous Project (Convex Hull)](https://sampleprograms.io/projects/convex-hull)
 
 </div>
 
 <div id="next">
 
-[Next Project (Transpose Matrix) -->](https://sampleprograms.io/projects/transpose-matrix)
+[Next Project (Dijkstra) -->](https://sampleprograms.io/projects/dijkstra)
 
 </div>
 

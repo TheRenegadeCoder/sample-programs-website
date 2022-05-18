@@ -107,13 +107,13 @@ Usage: please provide a string
 
 <div id="prev">
 
-[<-- Previous Project (Longest Palindromic Substring)](https://sampleprograms.io/projects/longest-palindromic-substring)
+[<-- Previous Project (Bubble Sort)](https://sampleprograms.io/projects/bubble-sort)
 
 </div>
 
 <div id="next">
 
-[Next Project (Reverse String) -->](https://sampleprograms.io/projects/reverse-string)
+[Next Project (Convex Hull) -->](https://sampleprograms.io/projects/convex-hull)
 
 </div>
 

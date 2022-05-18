@@ -74,7 +74,7 @@ Some tests for your program are:
 
 <div id="prev">
 
-[<-- Previous Project (Binary Search)](https://sampleprograms.io/projects/binary-search)
+[<-- Previous Project (Job Sequencing)](https://sampleprograms.io/projects/job-sequencing)
 
 </div>
 
