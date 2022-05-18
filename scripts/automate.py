@@ -36,7 +36,7 @@ def _add_testing_section(doc: snakemd.Document, source: str, source_instance: st
     doc.add_paragraph(
         f"""
             Every project in the Sample Programs repo should be tested. In this section,
-            we specify the set of tests specific to {" ".join(source.split('-')).title()}.
+            we specify the set of tests specific to {" ".join(source_instance.split('-')).title()}.
             To keep things simple, we split up testing into two subsets: valid and invalid.
             Valid tests refer to tests that occur under correct input conditions. Invalid
             tests refer to tests that occur on bad input (e.g., letters instead of numbers).
