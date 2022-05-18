@@ -60,3 +60,18 @@ $brand-color: #c90229;
 
   border-bottom: 1px solid #eff0f1;
 }
+
+.top-nav .active {
+  background-color: $brand-color;
+  color: #fff;
+}
+
+.top-nav ol {
+  list-style: none;
+}
+
+.top-nav li {
+  display: inline-block;
+  width: 120px;
+  float: left;
+}
