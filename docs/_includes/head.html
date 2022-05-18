@@ -1,13 +1,19 @@
 <head>
     <link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/assets/images/favicon.ico">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <script defer data-domain="sampleprograms.io" src="https://plausible.io/js/plausible.js"></script>
+
     {% feed_meta %}
     {% include twitter_card.html %}
-    <meta charset="UTF-8">
     {% seo %}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="monetization" content="$ilp.uphold.com/qgNaxDa2QH77">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    
+    {% include head-custom.html %}
 </head>
