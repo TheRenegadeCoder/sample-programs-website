@@ -98,5 +98,9 @@ your language can handle unicode characters, but it fails for emojis.
 
 ---
 
+<nav class="project-nav">
+
 - [Previous Project (Capitalize)](https://sampleprograms.io/projects/capitalize)
 - [Next Project (Fraction Math)](https://sampleprograms.io/projects/fraction-math)
+
+</nav>

@@ -103,5 +103,9 @@ Usage: please provide a string
 
 ---
 
+<nav class="project-nav">
+
 - [Previous Project (Longest Palindromic Substring)](https://sampleprograms.io/projects/longest-palindromic-substring)
 - [Next Project (Reverse String)](https://sampleprograms.io/projects/reverse-string)
+
+</nav>

@@ -81,5 +81,9 @@ verify the correctness of your solution:
 
 ---
 
+<nav class="project-nav">
+
 - [Previous Project (Fraction Math)](https://sampleprograms.io/projects/fraction-math)
 - [Next Project (Palindromic Number)](https://sampleprograms.io/projects/palindromic-number)
+
+</nav>

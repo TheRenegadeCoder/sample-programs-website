@@ -107,5 +107,9 @@ Verify that the actual output matches the expected output. See the
 
 ---
 
+<nav class="project-nav">
+
 - [Previous Project (Remove All Whitespace)](https://sampleprograms.io/projects/remove-all-whitespace)
 - [Next Project (Merge Sort)](https://sampleprograms.io/projects/merge-sort)
+
+</nav>

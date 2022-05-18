@@ -67,5 +67,9 @@ Some tests for your program are:
 
 ---
 
+<nav class="project-nav">
+
 - [Previous Project (Reverse String)](https://sampleprograms.io/projects/reverse-string)
 - [Next Project (Longest Common Subsequence)](https://sampleprograms.io/projects/longest-common-subsequence)
+
+</nav>

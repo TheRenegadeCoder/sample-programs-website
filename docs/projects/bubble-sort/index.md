@@ -155,5 +155,9 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ---
 
+<nav class="project-nav">
+
 - [Previous Project (Merge Sort)](https://sampleprograms.io/projects/merge-sort)
 - [Next Project (Depth First Search)](https://sampleprograms.io/projects/depth-first-search)
+
+</nav>

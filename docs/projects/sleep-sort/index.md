@@ -59,5 +59,9 @@ verify the correctness of your solution:
 
 ---
 
+<nav class="project-nav">
+
 - [Previous Project (Longest Word)](https://sampleprograms.io/projects/longest-word)
 - [Next Project (Duplicate Character Counter)](https://sampleprograms.io/projects/duplicate-character-counter)
+
+</nav>

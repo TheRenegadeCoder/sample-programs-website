@@ -47,5 +47,9 @@ that has a duplicate.
 
 ---
 
+<nav class="project-nav">
+
 - [Previous Project (Sleep Sort)](https://sampleprograms.io/projects/sleep-sort)
 - [Next Project (Dijkstra)](https://sampleprograms.io/projects/dijkstra)
+
+</nav>

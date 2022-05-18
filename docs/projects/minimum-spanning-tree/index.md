@@ -89,5 +89,9 @@ In other words, what is the cost of the minimum spanning tree?
 
 ---
 
+<nav class="project-nav">
+
 - [Previous Project (Rot13)](https://sampleprograms.io/projects/rot13)
 - [Next Project (Factorial)](https://sampleprograms.io/projects/factorial)
+
+</nav>

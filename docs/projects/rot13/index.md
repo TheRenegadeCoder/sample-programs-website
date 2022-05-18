@@ -85,5 +85,9 @@ verify the correctness of your solution:
 
 ---
 
+<nav class="project-nav">
+
 - [Previous Project (Insertion Sort)](https://sampleprograms.io/projects/insertion-sort)
 - [Next Project (Minimum Spanning Tree)](https://sampleprograms.io/projects/minimum-spanning-tree)
+
+</nav>

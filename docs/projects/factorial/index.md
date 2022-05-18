@@ -82,5 +82,9 @@ Some tests for your program are:
 
 ---
 
+<nav class="project-nav">
+
 - [Previous Project (Minimum Spanning Tree)](https://sampleprograms.io/projects/minimum-spanning-tree)
 - [Next Project (Hello World)](https://sampleprograms.io/projects/hello-world)
+
+</nav>

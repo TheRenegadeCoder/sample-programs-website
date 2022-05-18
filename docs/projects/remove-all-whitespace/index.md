@@ -66,5 +66,9 @@ As always, these tests will be run against any code submitted to the repo via [G
 
 ---
 
+<nav class="project-nav">
+
 - [Previous Project (Selection Sort)](https://sampleprograms.io/projects/selection-sort)
 - [Next Project (Fizz Buzz)](https://sampleprograms.io/projects/fizz-buzz)
+
+</nav>
