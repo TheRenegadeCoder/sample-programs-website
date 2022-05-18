@@ -41,7 +41,7 @@ Also note that if the input string is empty, then the output is "Usage: Please p
 
 ## Testing
 
-Every project in the Sample Programs repo should be tested. In this section, we specify the set of tests specific to Projects. To keep things simple, we split up testing into two subsets: valid and invalid. Valid tests refer to tests that occur under correct input conditions. Invalid tests refer to tests that occur on bad input (e.g., letters instead of numbers).
+Every project in the Sample Programs repo should be tested. In this section, we specify the set of tests specific to Maximum Subarray. To keep things simple, we split up testing into two subsets: valid and invalid. Valid tests refer to tests that occur under correct input conditions. Invalid tests refer to tests that occur on bad input (e.g., letters instead of numbers).
 
 ### Valid Tests
 
