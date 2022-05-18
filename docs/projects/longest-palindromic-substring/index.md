@@ -96,7 +96,16 @@ The following table contains various test cases that you can use to verify the c
 
 <nav class="project-nav">
 
-- [Previous Project (Transpose Matrix)](https://sampleprograms.io/projects/transpose-matrix)
-- [Next Project (Capitalize)](https://sampleprograms.io/projects/capitalize)
+<div id="prev">
+
+[Previous Project (Transpose Matrix)](https://sampleprograms.io/projects/transpose-matrix)
+
+</div>
+
+<div id="next">
+
+[Next Project (Capitalize)](https://sampleprograms.io/projects/capitalize)
+
+</div>
 
 </nav>

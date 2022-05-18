@@ -84,7 +84,16 @@ The following table contains various test cases that you can use to verify the c
 
 <nav class="project-nav">
 
-- [Previous Project (Dijkstra)](https://sampleprograms.io/projects/dijkstra)
-- [Next Project (Binary Search)](https://sampleprograms.io/projects/binary-search)
+<div id="prev">
+
+[Previous Project (Dijkstra)](https://sampleprograms.io/projects/dijkstra)
+
+</div>
+
+<div id="next">
+
+[Next Project (Binary Search)](https://sampleprograms.io/projects/binary-search)
+
+</div>
 
 </nav>

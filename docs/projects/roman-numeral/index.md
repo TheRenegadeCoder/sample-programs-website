@@ -95,7 +95,16 @@ Conversion program:
 
 <nav class="project-nav">
 
-- [Previous Project (Fibonacci)](https://sampleprograms.io/projects/fibonacci)
-- [Next Project (Selection Sort)](https://sampleprograms.io/projects/selection-sort)
+<div id="prev">
+
+[Previous Project (Fibonacci)](https://sampleprograms.io/projects/fibonacci)
+
+</div>
+
+<div id="next">
+
+[Next Project (Selection Sort)](https://sampleprograms.io/projects/selection-sort)
+
+</div>
 
 </nav>

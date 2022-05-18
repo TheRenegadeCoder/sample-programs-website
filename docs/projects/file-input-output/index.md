@@ -72,7 +72,16 @@ Verify that the actual output matches the expected output. See the
 
 <nav class="project-nav">
 
-- [Previous Project (Palindromic Number)](https://sampleprograms.io/projects/palindromic-number)
-- [Next Project (Insertion Sort)](https://sampleprograms.io/projects/insertion-sort)
+<div id="prev">
+
+[Previous Project (Palindromic Number)](https://sampleprograms.io/projects/palindromic-number)
+
+</div>
+
+<div id="next">
+
+[Next Project (Insertion Sort)](https://sampleprograms.io/projects/insertion-sort)
+
+</div>
 
 </nav>

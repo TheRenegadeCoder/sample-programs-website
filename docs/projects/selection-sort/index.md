@@ -149,7 +149,16 @@ verify the correctness of your solution:
 
 <nav class="project-nav">
 
-- [Previous Project (Roman Numeral)](https://sampleprograms.io/projects/roman-numeral)
-- [Next Project (Remove All Whitespace)](https://sampleprograms.io/projects/remove-all-whitespace)
+<div id="prev">
+
+[Previous Project (Roman Numeral)](https://sampleprograms.io/projects/roman-numeral)
+
+</div>
+
+<div id="next">
+
+[Next Project (Remove All Whitespace)](https://sampleprograms.io/projects/remove-all-whitespace)
+
+</div>
 
 </nav>

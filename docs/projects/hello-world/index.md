@@ -201,7 +201,16 @@ Verify that the actual output matches the expected output. See the
 
 <nav class="project-nav">
 
-- [Previous Project (Factorial)](https://sampleprograms.io/projects/factorial)
-- [Next Project (Prime Number)](https://sampleprograms.io/projects/prime-number)
+<div id="prev">
+
+[Previous Project (Factorial)](https://sampleprograms.io/projects/factorial)
+
+</div>
+
+<div id="next">
+
+[Next Project (Prime Number)](https://sampleprograms.io/projects/prime-number)
+
+</div>
 
 </nav>

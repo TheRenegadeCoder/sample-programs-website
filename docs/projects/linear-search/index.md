@@ -102,7 +102,16 @@ doesn't supply correct input.
 
 <nav class="project-nav">
 
-- [Previous Project (Josephus Problem)](https://sampleprograms.io/projects/josephus-problem)
-- [Next Project (Baklava)](https://sampleprograms.io/projects/baklava)
+<div id="prev">
+
+[Previous Project (Josephus Problem)](https://sampleprograms.io/projects/josephus-problem)
+
+</div>
+
+<div id="next">
+
+[Next Project (Baklava)](https://sampleprograms.io/projects/baklava)
+
+</div>
 
 </nav>

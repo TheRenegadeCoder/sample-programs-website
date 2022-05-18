@@ -61,7 +61,16 @@ verify the correctness of your solution:
 
 <nav class="project-nav">
 
-- [Previous Project (Longest Word)](https://sampleprograms.io/projects/longest-word)
-- [Next Project (Duplicate Character Counter)](https://sampleprograms.io/projects/duplicate-character-counter)
+<div id="prev">
+
+[Previous Project (Longest Word)](https://sampleprograms.io/projects/longest-word)
+
+</div>
+
+<div id="next">
+
+[Next Project (Duplicate Character Counter)](https://sampleprograms.io/projects/duplicate-character-counter)
+
+</div>
 
 </nav>

@@ -87,7 +87,16 @@ Usage: please provide at least 3 x and y coordinates as separate lists (e.g. "10
 
 <nav class="project-nav">
 
-- [Previous Project (Job Sequencing)](https://sampleprograms.io/projects/job-sequencing)
-- [Next Project (Quick Sort)](https://sampleprograms.io/projects/quick-sort)
+<div id="prev">
+
+[Previous Project (Job Sequencing)](https://sampleprograms.io/projects/job-sequencing)
+
+</div>
+
+<div id="next">
+
+[Next Project (Quick Sort)](https://sampleprograms.io/projects/quick-sort)
+
+</div>
 
 </nav>

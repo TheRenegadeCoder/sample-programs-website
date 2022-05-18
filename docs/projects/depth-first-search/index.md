@@ -117,7 +117,16 @@ Usage: please provide a tree in an adjacency matrix form ("0, 1, 1, 0, 0, 1, 0, 
 
 <nav class="project-nav">
 
-- [Previous Project (Bubble Sort)](https://sampleprograms.io/projects/bubble-sort)
-- [Next Project (Transpose Matrix)](https://sampleprograms.io/projects/transpose-matrix)
+<div id="prev">
+
+[Previous Project (Bubble Sort)](https://sampleprograms.io/projects/bubble-sort)
+
+</div>
+
+<div id="next">
+
+[Next Project (Transpose Matrix)](https://sampleprograms.io/projects/transpose-matrix)
+
+</div>
 
 </nav>

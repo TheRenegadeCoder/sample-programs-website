@@ -122,7 +122,16 @@ verify the correctness of your solution:
 
 <nav class="project-nav">
 
-- [Previous Project (File Input Output)](https://sampleprograms.io/projects/file-input-output)
-- [Next Project (Rot13)](https://sampleprograms.io/projects/rot13)
+<div id="prev">
+
+[Previous Project (File Input Output)](https://sampleprograms.io/projects/file-input-output)
+
+</div>
+
+<div id="next">
+
+[Next Project (Rot13)](https://sampleprograms.io/projects/rot13)
+
+</div>
 
 </nav>

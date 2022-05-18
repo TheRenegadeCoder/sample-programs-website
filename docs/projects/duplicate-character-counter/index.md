@@ -49,7 +49,16 @@ that has a duplicate.
 
 <nav class="project-nav">
 
-- [Previous Project (Sleep Sort)](https://sampleprograms.io/projects/sleep-sort)
-- [Next Project (Dijkstra)](https://sampleprograms.io/projects/dijkstra)
+<div id="prev">
+
+[Previous Project (Sleep Sort)](https://sampleprograms.io/projects/sleep-sort)
+
+</div>
+
+<div id="next">
+
+[Next Project (Dijkstra)](https://sampleprograms.io/projects/dijkstra)
+
+</div>
 
 </nav>
