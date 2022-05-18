@@ -5,7 +5,6 @@ layout: default
 date: 2022-04-28
 last-modified: 2022-05-18
 
-
 ---
 
 Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

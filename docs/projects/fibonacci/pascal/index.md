@@ -5,7 +5,6 @@ layout: default
 date: 2022-04-28
 last-modified: 2022-05-18
 
-
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Pascal](https://sampleprograms.io/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
