@@ -98,5 +98,5 @@ your language can handle unicode characters, but it fails for emojis.
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/remove-all-whitespace)
-- [Next Project](https://sampleprograms.io/projects/roman-numeral)
+- [Previous Project (Capitalize)](https://sampleprograms.io/projects/capitalize)
+- [Next Project (Fraction Math)](https://sampleprograms.io/projects/fraction-math)

@@ -51,5 +51,5 @@ Write a program that accepts an input of an integer and prints whether the numbe
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/minimum-spanning-tree)
-- [Next Project](https://sampleprograms.io/projects/prime-number)
+- [Previous Project (Longest Common Subsequence)](https://sampleprograms.io/projects/longest-common-subsequence)
+- [Next Project (File Input Output)](https://sampleprograms.io/projects/file-input-output)

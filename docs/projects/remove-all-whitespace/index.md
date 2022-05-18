@@ -66,5 +66,5 @@ As always, these tests will be run against any code submitted to the repo via [G
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/quine)
-- [Next Project](https://sampleprograms.io/projects/reverse-string)
+- [Previous Project (Selection Sort)](https://sampleprograms.io/projects/selection-sort)
+- [Next Project (Fizz Buzz)](https://sampleprograms.io/projects/fizz-buzz)

@@ -85,5 +85,5 @@ verify the correctness of your solution:
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/roman-numeral)
-- [Next Project](https://sampleprograms.io/projects/selection-sort)
+- [Previous Project (Insertion Sort)](https://sampleprograms.io/projects/insertion-sort)
+- [Next Project (Minimum Spanning Tree)](https://sampleprograms.io/projects/minimum-spanning-tree)

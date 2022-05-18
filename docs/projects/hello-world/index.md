@@ -199,5 +199,5 @@ Verify that the actual output matches the expected output. See the
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/fraction-math)
-- [Next Project](https://sampleprograms.io/projects/insertion-sort)
+- [Previous Project (Factorial)](https://sampleprograms.io/projects/factorial)
+- [Next Project (Prime Number)](https://sampleprograms.io/projects/prime-number)

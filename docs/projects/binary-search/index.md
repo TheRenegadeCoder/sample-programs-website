@@ -90,5 +90,5 @@ Usage: please provide a list of sorted integers ("1, 4, 5, 11, 12") and the inte
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/baklava)
-- [Next Project](https://sampleprograms.io/projects/bubble-sort)
+- [Previous Project (Even Odd)](https://sampleprograms.io/projects/even-odd)
+- [Next Project (Josephus Problem)](https://sampleprograms.io/projects/josephus-problem)

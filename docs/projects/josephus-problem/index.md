@@ -70,5 +70,5 @@ Some tests for your program are:
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/job-sequencing)
-- [Next Project](https://sampleprograms.io/projects/linear-search)
+- [Previous Project (Binary Search)](https://sampleprograms.io/projects/binary-search)
+- [Next Project (Linear Search)](https://sampleprograms.io/projects/linear-search)

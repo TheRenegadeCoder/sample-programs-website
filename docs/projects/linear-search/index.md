@@ -100,5 +100,5 @@ doesn't supply correct input.
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/josephus-problem)
-- [Next Project](https://sampleprograms.io/projects/longest-common-subsequence)
+- [Previous Project (Josephus Problem)](https://sampleprograms.io/projects/josephus-problem)
+- [Next Project (Baklava)](https://sampleprograms.io/projects/baklava)

@@ -120,5 +120,5 @@ verify the correctness of your solution:
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/hello-world)
-- [Next Project](https://sampleprograms.io/projects/job-sequencing)
+- [Previous Project (File Input Output)](https://sampleprograms.io/projects/file-input-output)
+- [Next Project (Rot13)](https://sampleprograms.io/projects/rot13)

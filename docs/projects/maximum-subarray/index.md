@@ -61,5 +61,5 @@ Some tests for your program are:
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/maximum-array-rotation)
-- [Next Project](https://sampleprograms.io/projects/merge-sort)
+- [Previous Project (Quine)](https://sampleprograms.io/projects/quine)
+- [Next Project (Longest Word)](https://sampleprograms.io/projects/longest-word)

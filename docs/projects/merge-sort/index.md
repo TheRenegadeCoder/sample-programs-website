@@ -107,5 +107,5 @@ verify the correctness of your solution:
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/maximum-subarray)
-- [Next Project](https://sampleprograms.io/projects/minimum-spanning-tree)
+- [Previous Project (Fizz Buzz)](https://sampleprograms.io/projects/fizz-buzz)
+- [Next Project (Bubble Sort)](https://sampleprograms.io/projects/bubble-sort)

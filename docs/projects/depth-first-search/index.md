@@ -115,5 +115,5 @@ Usage: please provide a tree in an adjacency matrix form ("0, 1, 1, 0, 0, 1, 0, 
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/convex-hull)
-- [Next Project](https://sampleprograms.io/projects/dijkstra)
+- [Previous Project (Bubble Sort)](https://sampleprograms.io/projects/bubble-sort)
+- [Next Project (Transpose Matrix)](https://sampleprograms.io/projects/transpose-matrix)

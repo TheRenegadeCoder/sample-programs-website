@@ -94,5 +94,5 @@ The following table contains various test cases that you can use to verify the c
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/longest-common-subsequence)
-- [Next Project](https://sampleprograms.io/projects/longest-word)
+- [Previous Project (Transpose Matrix)](https://sampleprograms.io/projects/transpose-matrix)
+- [Next Project (Capitalize)](https://sampleprograms.io/projects/capitalize)

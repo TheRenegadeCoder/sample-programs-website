@@ -85,5 +85,5 @@ Usage: please provide at least 3 x and y coordinates as separate lists (e.g. "10
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/capitalize)
-- [Next Project](https://sampleprograms.io/projects/depth-first-search)
+- [Previous Project (Job Sequencing)](https://sampleprograms.io/projects/job-sequencing)
+- [Next Project (Quick Sort)](https://sampleprograms.io/projects/quick-sort)

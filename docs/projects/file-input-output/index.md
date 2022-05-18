@@ -70,5 +70,5 @@ Verify that the actual output matches the expected output. See the
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/fibonacci)
-- [Next Project](https://sampleprograms.io/projects/fizz-buzz)
+- [Previous Project (Palindromic Number)](https://sampleprograms.io/projects/palindromic-number)
+- [Next Project (Insertion Sort)](https://sampleprograms.io/projects/insertion-sort)

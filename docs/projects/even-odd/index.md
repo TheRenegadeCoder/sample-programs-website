@@ -82,5 +82,5 @@ The following table contains various test cases that you can use to verify the c
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/duplicate-character-counter)
-- [Next Project](https://sampleprograms.io/projects/factorial)
+- [Previous Project (Dijkstra)](https://sampleprograms.io/projects/dijkstra)
+- [Next Project (Binary Search)](https://sampleprograms.io/projects/binary-search)

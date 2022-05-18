@@ -93,5 +93,5 @@ Conversion program:
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/reverse-string)
-- [Next Project](https://sampleprograms.io/projects/rot13)
+- [Previous Project (Fibonacci)](https://sampleprograms.io/projects/fibonacci)
+- [Next Project (Selection Sort)](https://sampleprograms.io/projects/selection-sort)

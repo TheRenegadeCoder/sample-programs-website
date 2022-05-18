@@ -109,5 +109,5 @@ Baklava has no input, so there are no invalid test cases.
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/transpose-matrix)
-- [Next Project](https://sampleprograms.io/projects/binary-search)
+- [Previous Project (Linear Search)](https://sampleprograms.io/projects/linear-search)
+- [Next Project (Maximum Array Rotation)](https://sampleprograms.io/projects/maximum-array-rotation)

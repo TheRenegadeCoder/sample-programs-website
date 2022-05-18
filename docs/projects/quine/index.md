@@ -56,5 +56,5 @@ Verify that the actual output matches the expected output. See the
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/quick-sort)
-- [Next Project](https://sampleprograms.io/projects/remove-all-whitespace)
+- [Previous Project (Quick Sort)](https://sampleprograms.io/projects/quick-sort)
+- [Next Project (Maximum Subarray)](https://sampleprograms.io/projects/maximum-subarray)

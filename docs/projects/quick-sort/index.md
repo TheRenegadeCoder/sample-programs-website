@@ -117,5 +117,5 @@ verify the correctness of your solution:
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/prime-number)
-- [Next Project](https://sampleprograms.io/projects/quine)
+- [Previous Project (Convex Hull)](https://sampleprograms.io/projects/convex-hull)
+- [Next Project (Quine)](https://sampleprograms.io/projects/quine)

@@ -155,5 +155,5 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/binary-search)
-- [Next Project](https://sampleprograms.io/projects/capitalize)
+- [Previous Project (Merge Sort)](https://sampleprograms.io/projects/merge-sort)
+- [Next Project (Depth First Search)](https://sampleprograms.io/projects/depth-first-search)

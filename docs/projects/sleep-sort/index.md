@@ -59,5 +59,5 @@ verify the correctness of your solution:
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/selection-sort)
-- [Next Project](https://sampleprograms.io/projects/transpose-matrix)
+- [Previous Project (Longest Word)](https://sampleprograms.io/projects/longest-word)
+- [Next Project (Duplicate Character Counter)](https://sampleprograms.io/projects/duplicate-character-counter)

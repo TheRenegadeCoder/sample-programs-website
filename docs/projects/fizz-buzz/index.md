@@ -107,5 +107,5 @@ Verify that the actual output matches the expected output. See the
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/file-input-output)
-- [Next Project](https://sampleprograms.io/projects/fraction-math)
+- [Previous Project (Remove All Whitespace)](https://sampleprograms.io/projects/remove-all-whitespace)
+- [Next Project (Merge Sort)](https://sampleprograms.io/projects/merge-sort)

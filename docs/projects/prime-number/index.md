@@ -78,5 +78,5 @@ correctness of your solution:
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/palindromic-number)
-- [Next Project](https://sampleprograms.io/projects/quick-sort)
+- [Previous Project (Hello World)](https://sampleprograms.io/projects/hello-world)
+- [Next Project (Job Sequencing)](https://sampleprograms.io/projects/job-sequencing)

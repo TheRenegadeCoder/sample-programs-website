@@ -103,5 +103,5 @@ Usage: please provide a string
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/bubble-sort)
-- [Next Project](https://sampleprograms.io/projects/convex-hull)
+- [Previous Project (Longest Palindromic Substring)](https://sampleprograms.io/projects/longest-palindromic-substring)
+- [Next Project (Reverse String)](https://sampleprograms.io/projects/reverse-string)

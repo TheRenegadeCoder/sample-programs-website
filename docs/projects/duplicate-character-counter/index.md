@@ -47,5 +47,5 @@ that has a duplicate.
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/dijkstra)
-- [Next Project](https://sampleprograms.io/projects/even-odd)
+- [Previous Project (Sleep Sort)](https://sampleprograms.io/projects/sleep-sort)
+- [Next Project (Dijkstra)](https://sampleprograms.io/projects/dijkstra)

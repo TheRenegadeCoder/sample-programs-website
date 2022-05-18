@@ -147,5 +147,5 @@ verify the correctness of your solution:
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/rot13)
-- [Next Project](https://sampleprograms.io/projects/sleep-sort)
+- [Previous Project (Roman Numeral)](https://sampleprograms.io/projects/roman-numeral)
+- [Next Project (Remove All Whitespace)](https://sampleprograms.io/projects/remove-all-whitespace)

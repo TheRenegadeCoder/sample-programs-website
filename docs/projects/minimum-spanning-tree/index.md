@@ -89,5 +89,5 @@ In other words, what is the cost of the minimum spanning tree?
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/merge-sort)
-- [Next Project](https://sampleprograms.io/projects/palindromic-number)
+- [Previous Project (Rot13)](https://sampleprograms.io/projects/rot13)
+- [Next Project (Factorial)](https://sampleprograms.io/projects/factorial)

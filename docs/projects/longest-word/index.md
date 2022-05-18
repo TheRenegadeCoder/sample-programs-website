@@ -76,5 +76,5 @@ As always, these tests will be run against any code submitted to the repo via [G
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/longest-palindromic-substring)
-- [Next Project](https://sampleprograms.io/projects/maximum-array-rotation)
+- [Previous Project (Maximum Subarray)](https://sampleprograms.io/projects/maximum-subarray)
+- [Next Project (Sleep Sort)](https://sampleprograms.io/projects/sleep-sort)

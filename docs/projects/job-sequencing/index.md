@@ -94,5 +94,5 @@ verify the correctness of your solution:
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/insertion-sort)
-- [Next Project](https://sampleprograms.io/projects/josephus-problem)
+- [Previous Project (Prime Number)](https://sampleprograms.io/projects/prime-number)
+- [Next Project (Convex Hull)](https://sampleprograms.io/projects/convex-hull)

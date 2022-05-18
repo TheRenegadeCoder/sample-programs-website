@@ -82,5 +82,5 @@ Some tests for your program are:
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/even-odd)
-- [Next Project](https://sampleprograms.io/projects/fibonacci)
+- [Previous Project (Minimum Spanning Tree)](https://sampleprograms.io/projects/minimum-spanning-tree)
+- [Next Project (Hello World)](https://sampleprograms.io/projects/hello-world)

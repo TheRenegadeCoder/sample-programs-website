@@ -118,5 +118,5 @@ Usage: please provide three inputs: a serialized matrix, a source node and a des
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/depth-first-search)
-- [Next Project](https://sampleprograms.io/projects/duplicate-character-counter)
+- [Previous Project (Duplicate Character Counter)](https://sampleprograms.io/projects/duplicate-character-counter)
+- [Next Project (Even Odd)](https://sampleprograms.io/projects/even-odd)

@@ -81,5 +81,5 @@ verify the correctness of your solution:
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/linear-search)
-- [Next Project](https://sampleprograms.io/projects/longest-palindromic-substring)
+- [Previous Project (Fraction Math)](https://sampleprograms.io/projects/fraction-math)
+- [Next Project (Palindromic Number)](https://sampleprograms.io/projects/palindromic-number)

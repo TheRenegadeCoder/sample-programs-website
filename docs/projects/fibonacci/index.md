@@ -90,5 +90,5 @@ Some tests for your program are:
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/factorial)
-- [Next Project](https://sampleprograms.io/projects/file-input-output)
+- [Previous Project (Maximum Array Rotation)](https://sampleprograms.io/projects/maximum-array-rotation)
+- [Next Project (Roman Numeral)](https://sampleprograms.io/projects/roman-numeral)

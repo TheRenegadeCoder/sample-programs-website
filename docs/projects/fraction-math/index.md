@@ -67,5 +67,5 @@ Some tests for your program are:
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/fizz-buzz)
-- [Next Project](https://sampleprograms.io/projects/hello-world)
+- [Previous Project (Reverse String)](https://sampleprograms.io/projects/reverse-string)
+- [Next Project (Longest Common Subsequence)](https://sampleprograms.io/projects/longest-common-subsequence)

@@ -66,5 +66,5 @@ Verify that the actual output matches the expected output (see [requirements][1]
 
 ---
 
-- [Previous Project](https://sampleprograms.io/projects/sleep-sort)
-- [Next Project](https://sampleprograms.io/projects/baklava)
+- [Previous Project (Depth First Search)](https://sampleprograms.io/projects/depth-first-search)
+- [Next Project (Longest Palindromic Substring)](https://sampleprograms.io/projects/longest-palindromic-substring)
