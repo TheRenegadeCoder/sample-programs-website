@@ -16,7 +16,7 @@ repository: TheRenegadeCoder/sample-programs
 exclude: ["CNAME", "Gemfile", "templates"]
 
 # Markdown interpreter
-markdown: kramdown
+markdown: GFM
 
 # Posts permalink
 permalink: /:categories/:title/
