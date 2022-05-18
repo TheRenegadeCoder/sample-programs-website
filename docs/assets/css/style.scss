@@ -92,7 +92,7 @@ $brand-color: #c90229;
 
 .top-nav ul {
   list-style: none;
-  background-color: $brand-color;
+  background-color: #444;
   text-align: center;
   padding: 0;
   margin: 0;
@@ -106,6 +106,6 @@ $brand-color: #c90229;
 }
 
 .top-nav a.active {
-  background-color: $header-bg-color-secondary;
+  background-color: $brand-color;
   color: #fff;
 }
