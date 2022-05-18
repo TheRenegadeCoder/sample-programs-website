@@ -1,5 +1,11 @@
 For this sample program, each solution should return the string with the first letter in uppercase.
-In other words, do not change anything else about the input string.
+For example, the following code should return "Capitalize":
+
+```console
+$ ./capitalize.lang "capitalize"
+```
+
+Here are some additional examples:
 
 ```
 string -> String

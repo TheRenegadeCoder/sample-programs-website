@@ -1,5 +1,10 @@
-The following is the expected output
-(it isn't mandatory to use '\*', any symbol or character can be used):
+For simplicity, Baklava requires no inputs and can be executed in some form as follows:
+
+```console
+$ ./baklava.lang
+```
+
+The following is the expected output:
 
                *
               ***
