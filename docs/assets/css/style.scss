@@ -1,7 +1,4 @@
----
----
-
-$header-bg-color: #c90229;
+--- --- $header-bg-color: #c90229;
 $header-bg-color-secondary: #939393;
 $section-headings-color: #c90229;
 $brand-color: #c90229;
@@ -12,16 +9,36 @@ $brand-color: #c90229;
   list-style: none;
   border-radius: 4px;
 }
-.breadcrumb > li {
+
+.breadcrumb>li {
   display: inline-block;
 }
 
-.breadcrumb { border: 0px;  display: block;}
-.breadcrumb li {font-size: 14px;}
-.breadcrumb a {color: $brand-color;}
-.breadcrumb a:hover {color: darken($brand-color, 20%);}
-.breadcrumb>.active a {color: #555555; }
-.breadcrumb>li+li:before {color:$brand-color; content: "\003E\00a0";}
+.breadcrumb {
+  border: 0px;
+  display: block;
+}
+
+.breadcrumb li {
+  font-size: 14px;
+}
+
+.breadcrumb a {
+  color: $brand-color;
+}
+
+.breadcrumb a:hover {
+  color: darken($brand-color, 20%);
+}
+
+.breadcrumb>.active a {
+  color: #555555;
+}
+
+.breadcrumb>li+li:before {
+  color: $brand-color;
+  content: "\003E\00a0";
+}
 
 .site-footer {
   @include large {
@@ -73,5 +90,23 @@ $brand-color: #c90229;
 .top-nav li {
   display: inline-block;
   width: 120px;
-  float: left;
+  border-bottom: none;
+  height: 50px;
+  line-height: 50px;
+  font-size: 1.4em;
+}
+
+.top-nav ul {
+  list-style: none;
+  background-color: #444;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.top-nav a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  transition: .3s background-color;
 }
