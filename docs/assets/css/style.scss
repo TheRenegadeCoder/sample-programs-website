@@ -77,6 +77,14 @@ $brand-color: #c90229;
   padding-top: 20px;
 }
 
+.wrapper {
+  width: 1200px;
+}
+
+section {
+  width: 900px;
+}
+
 @media print, screen and (max-width: 1200px) {
 
   div.wrapper {
