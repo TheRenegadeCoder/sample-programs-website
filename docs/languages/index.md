@@ -5,7 +5,6 @@ layout: default
 date: 2022-04-28
 last-modified: 2022-05-18
 
-
 ---
 
 Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 162 languages, of which 38 are tested, and 597 code snippets.
