@@ -23,23 +23,21 @@ and swaps adjacent elements if they are not in order. It works as follows:
 3. If the end of this list has not been reached, repeat steps 1-3 again
 4. If any elements were swapped in the above pass, repeat steps 1-4 again
 
-
 ### Performance
 
 The performance of sorting algorithms is generally defined in "Big O notation".
 If you are not familiar with such notations, please refer to the relevant
 article by Rob Bell or the wikipedia entry listed in further readings below.
 
-| | |
-|---|---|
-| Best case | O(n) |
+| Cases        | Big O Notatation |
+| ------------ | ---------------- |
+| Best case    | O(n)             |
 | Average case | O(n<sup>2</sup>) |
-| Worst case | O(n<sup>2</sup>) |
+| Worst case   | O(n<sup>2</sup>) |
 
 Bubble sort is generally not an efficient sorting algorithm; however, it does have one advantage.
 When the elements are already sorted, bubble sort will only pass throught the list once; whereas,
 most other algorithms will still perform their complete sorting process.
-
 
 ### Example: "4, 5, 3, 1, 2"
 
