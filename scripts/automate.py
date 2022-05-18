@@ -211,7 +211,7 @@ def _generate_project_index(project: subete.Project, previous: subete.Project, n
         snakemd.InlineText(f"Next Project ({next})", url=next.requirements_url()),
     ]))
     doc.add_paragraph("</nav>")
-    doc.output_page(f"docs/projects/{project.pathlike_name()}")
+    doc.output_page(f"docs/projects/{project.pathlike_name()}")  
 
 
 def _generate_language_index(language: subete.LanguageCollection):
