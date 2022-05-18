@@ -25,3 +25,8 @@ permalink: /:categories/:title/
 plugins:
   - jekyll-feed # See https://help.github.com/articles/atom-rss-feeds-for-github-pages/
   - jekyll-sitemap # See https://github.com/jekyll/jekyll-sitemap
+
+github:
+  zip_url: https://github.com/TheRenegadeCoder/sample-programs/zipball/main
+  tar_url: https://github.com/TheRenegadeCoder/sample-programs/tarball/main
+  repository_url: https://github.com/TheRenegadeCoder/sample-programs
