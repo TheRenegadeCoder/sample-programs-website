@@ -120,7 +120,16 @@ Usage: please provide three inputs: a serialized matrix, a source node and a des
 
 <nav class="project-nav">
 
-- [Previous Project (Duplicate Character Counter)](https://sampleprograms.io/projects/duplicate-character-counter)
-- [Next Project (Even Odd)](https://sampleprograms.io/projects/even-odd)
+<div id="prev">
+
+[Previous Project (Duplicate Character Counter)](https://sampleprograms.io/projects/duplicate-character-counter)
+
+</div>
+
+<div id="next">
+
+[Next Project (Even Odd)](https://sampleprograms.io/projects/even-odd)
+
+</div>
 
 </nav>

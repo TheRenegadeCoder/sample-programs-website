@@ -80,7 +80,16 @@ correctness of your solution:
 
 <nav class="project-nav">
 
-- [Previous Project (Hello World)](https://sampleprograms.io/projects/hello-world)
-- [Next Project (Job Sequencing)](https://sampleprograms.io/projects/job-sequencing)
+<div id="prev">
+
+[Previous Project (Hello World)](https://sampleprograms.io/projects/hello-world)
+
+</div>
+
+<div id="next">
+
+[Next Project (Job Sequencing)](https://sampleprograms.io/projects/job-sequencing)
+
+</div>
 
 </nav>

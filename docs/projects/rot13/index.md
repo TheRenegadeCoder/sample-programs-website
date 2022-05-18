@@ -87,7 +87,16 @@ verify the correctness of your solution:
 
 <nav class="project-nav">
 
-- [Previous Project (Insertion Sort)](https://sampleprograms.io/projects/insertion-sort)
-- [Next Project (Minimum Spanning Tree)](https://sampleprograms.io/projects/minimum-spanning-tree)
+<div id="prev">
+
+[Previous Project (Insertion Sort)](https://sampleprograms.io/projects/insertion-sort)
+
+</div>
+
+<div id="next">
+
+[Next Project (Minimum Spanning Tree)](https://sampleprograms.io/projects/minimum-spanning-tree)
+
+</div>
 
 </nav>

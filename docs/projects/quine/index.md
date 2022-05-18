@@ -58,7 +58,16 @@ Verify that the actual output matches the expected output. See the
 
 <nav class="project-nav">
 
-- [Previous Project (Quick Sort)](https://sampleprograms.io/projects/quick-sort)
-- [Next Project (Maximum Subarray)](https://sampleprograms.io/projects/maximum-subarray)
+<div id="prev">
+
+[Previous Project (Quick Sort)](https://sampleprograms.io/projects/quick-sort)
+
+</div>
+
+<div id="next">
+
+[Next Project (Maximum Subarray)](https://sampleprograms.io/projects/maximum-subarray)
+
+</div>
 
 </nav>

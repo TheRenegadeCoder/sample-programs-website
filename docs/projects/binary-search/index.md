@@ -92,7 +92,16 @@ Usage: please provide a list of sorted integers ("1, 4, 5, 11, 12") and the inte
 
 <nav class="project-nav">
 
-- [Previous Project (Even Odd)](https://sampleprograms.io/projects/even-odd)
-- [Next Project (Josephus Problem)](https://sampleprograms.io/projects/josephus-problem)
+<div id="prev">
+
+[Previous Project (Even Odd)](https://sampleprograms.io/projects/even-odd)
+
+</div>
+
+<div id="next">
+
+[Next Project (Josephus Problem)](https://sampleprograms.io/projects/josephus-problem)
+
+</div>
 
 </nav>

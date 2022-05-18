@@ -83,7 +83,16 @@ verify the correctness of your solution:
 
 <nav class="project-nav">
 
-- [Previous Project (Fraction Math)](https://sampleprograms.io/projects/fraction-math)
-- [Next Project (Palindromic Number)](https://sampleprograms.io/projects/palindromic-number)
+<div id="prev">
+
+[Previous Project (Fraction Math)](https://sampleprograms.io/projects/fraction-math)
+
+</div>
+
+<div id="next">
+
+[Next Project (Palindromic Number)](https://sampleprograms.io/projects/palindromic-number)
+
+</div>
 
 </nav>

@@ -96,7 +96,16 @@ verify the correctness of your solution:
 
 <nav class="project-nav">
 
-- [Previous Project (Prime Number)](https://sampleprograms.io/projects/prime-number)
-- [Next Project (Convex Hull)](https://sampleprograms.io/projects/convex-hull)
+<div id="prev">
+
+[Previous Project (Prime Number)](https://sampleprograms.io/projects/prime-number)
+
+</div>
+
+<div id="next">
+
+[Next Project (Convex Hull)](https://sampleprograms.io/projects/convex-hull)
+
+</div>
 
 </nav>
