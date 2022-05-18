@@ -95,7 +95,7 @@ def _generate_front_matter(doc: snakemd.Document, path: pathlib.Path, title: str
         doc._contents.append(source_path.read_text(encoding="utf-8").strip())
     else:
         doc._contents.append(
-            f"title: {title}\nlayout: default\ndate: 2022-04-28\nlast-modified: {date.today().strftime('%Y-%m-%d')}"
+            f"title: {title}\nlayout: default\ndate: 2022-04-28\nlast-modified: {date.today().strftime('%Y-%m-%d')}\n"
         )
         log.warning(f"Failed to find {source_path}")
     doc.add_paragraph("---")
