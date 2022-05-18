@@ -43,44 +43,6 @@ $brand-color: #c90229;
   content: "\003E\00a0";
 }
 
-.site-footer {
-  @include large {
-    max-width: 64rem;
-    padding: 2rem 6rem;
-    margin: 0 auto;
-    font-size: 1.1rem;
-  }
-
-  @include medium {
-    padding: 2rem 4rem;
-    font-size: 1.1rem;
-  }
-
-  @include small {
-    padding: 2rem 1rem;
-    font-size: 1rem;
-  }
-}
-
-.site-navigation {
-
-  @include large {
-    max-width: 64rem;
-    margin: 0 auto;
-    font-size: 1.1rem;
-  }
-
-  @include medium {
-    font-size: 1.1rem;
-  }
-
-  @include small {
-    font-size: 1rem;
-  }
-
-  border-bottom: 1px solid #eff0f1;
-}
-
 .top-nav li {
   display: inline-block;
   width: 120px;
