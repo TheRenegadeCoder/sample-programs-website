@@ -56,15 +56,19 @@ both: 6.
 
 ## Testing
 
-Every project in the Sample Programs repo should be tested. In this section, we specify the set of tests specific to Longest Word. To keep things simple, we split up testing into two subsets: valid and invalid. Valid tests refer to tests that occur under correct input conditions. Invalid tests refer to tests that occur on bad input (e.g., letters instead of numbers).
+The following table contains various test cases that you can use to verify the 
+correctness of your solution:
 
-### Valid Tests
+| Description               | Input                           | Output                           |
+|---------------------------|---------------------------------|----------------------------------|
+| No Input                  |                                 | "Usage: please provide a string" |
+| Empty Input               | ""                              | "Usage: please provide a string" |
+| Sample Input: Many Words  | "May the force be with you"     | 5                                |
+| Sample Input: Single Word | "Floccinaucinihilipilification" | 29                               |
+| Sample Input: Multiline   | "Hi,\nMy name is Paul!"         | 5                                |
 
-No 'Valid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
+As always, these tests will be run against any code submitted to the repo via [Glotter][glotter-github].
 
-### Invalid Tests
-
-No 'Invalid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
 
 ## Articles
 

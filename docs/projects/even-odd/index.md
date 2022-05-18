@@ -34,15 +34,18 @@ outputs if the integer is Even or Odd.
 
 ## Testing
 
-Every project in the Sample Programs repo should be tested. In this section, we specify the set of tests specific to Even Odd. To keep things simple, we split up testing into two subsets: valid and invalid. Valid tests refer to tests that occur under correct input conditions. Invalid tests refer to tests that occur on bad input (e.g., letters instead of numbers).
+The following table contains various test cases that you can use to verify the correctness of your solution:
 
-### Valid Tests
+| Description                  | Input | Output |
+|------------------------------|-------|--------|
+| no input                     | None  | Usage: please input a number |
+| empty input                  | ""    | Usage: please input a number |
+| invalid input: not a number  | a     | Usage: please input a number |
+| sample input: even           | 2     | Even |
+| sample input: odd            | 5     | Odd |
+| sample input: negative even  | -14   | Even |
+| sample input: negative odd   | -27   | Odd |
 
-No 'Valid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
-
-### Invalid Tests
-
-No 'Invalid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
 
 ## Articles
 

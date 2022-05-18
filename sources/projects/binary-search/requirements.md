@@ -3,7 +3,7 @@ Specifically, we'll accept two inputs on the command line: the list of integers 
 integer to find:
 
 ```shell
-./binary-search.lang "1, 4, 5, 11, 12" "4"
+$ ./binary-search.lang "1, 4, 5, 11, 12" "4"
 ```
 
 If successful, the script should return `true`. Otherwise, the script should return `false`. 

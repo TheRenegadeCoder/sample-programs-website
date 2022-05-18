@@ -74,15 +74,13 @@ In other words, what is the cost of the minimum spanning tree?
 
 ## Testing
 
-Every project in the Sample Programs repo should be tested. In this section, we specify the set of tests specific to Minimum Spanning Tree. To keep things simple, we split up testing into two subsets: valid and invalid. Valid tests refer to tests that occur under correct input conditions. Invalid tests refer to tests that occur on bad input (e.g., letters instead of numbers).
+| Description      | Input                                                                       | Output                                                     |
+| ---------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| No Input         |                                                                             | "Usage: please provide a comma-separated list of integers" |
+| Empty Input      | ""                                                                          | "Usage: please provide a comma-separated list of integers" |
+| Non-Square Input | "1, 0, 3, 0, 5, 1"                                                          | "Usage: please provide a comma-separated list of integers" |
+| Proper Input     | "0, 2, 0, 6, 0, 2, 0, 3, 8, 5, 0, 3, 0, 0, 7, 6, 8, 0, 0, 9, 0, 5, 7, 9, 0" | 16                                                         |
 
-### Valid Tests
-
-No 'Valid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
-
-### Invalid Tests
-
-No 'Invalid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
 
 ## Articles
 

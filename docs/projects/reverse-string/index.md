@@ -43,15 +43,16 @@ features and utilities.
 
 ## Testing
 
-Every project in the Sample Programs repo should be tested. In this section, we specify the set of tests specific to Reverse String. To keep things simple, we split up testing into two subsets: valid and invalid. Valid tests refer to tests that occur under correct input conditions. Invalid tests refer to tests that occur on bad input (e.g., letters instead of numbers).
+If the solution passes these test cases, then it's a good fit for the repo.
+Feel free to test other strings for fun. For instance, you may find that
+your language can handle unicode characters, but it fails for emojis.
 
-### Valid Tests
+| Description  |      Input     |     Output     |
+| ------------ | :------------: | :------------: |
+| No Input     |                |                |
+| Empty String |       ""       |                |
+| Ascii String | "Hello, World" | "dlroW ,olleH" |
 
-No 'Valid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
-
-### Invalid Tests
-
-No 'Invalid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
 
 ## Articles
 

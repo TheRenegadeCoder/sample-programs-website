@@ -57,15 +57,24 @@ of roman numerals (i.e. `./roman-numeral-conversion XXVI`).
 
 ## Testing
 
-Every project in the Sample Programs repo should be tested. In this section, we specify the set of tests specific to Roman Numeral. To keep things simple, we split up testing into two subsets: valid and invalid. Valid tests refer to tests that occur under correct input conditions. Invalid tests refer to tests that occur on bad input (e.g., letters instead of numbers).
+The following table contains appropriate examples for testing a Roman Numeral
+Conversion program:
 
-### Valid Tests
+| Description   | Input | Output                                             |
+| ------------- | ----- | -------------------------------------------------- |
+| No Input      |       | "Usage: please provide a string of roman numerals" |
+| Invalid Input | "XT"  | "Error: invalid string of roman numerals"          |
+| Empty Input   | ""    | 0                                                  |
+| Single I      | "I"   | 1                                                  |
+| Single V      | "V"   | 5                                                  |
+| Single X      | "X"   | 10                                                 |
+| Single L      | "L"   | 50                                                 |
+| Single C      | "C"   | 100                                                |
+| Single D      | "D"   | 500                                                |
+| Single M      | "M"   | 1000                                               |
+| Addition      | "XXV" | 25                                                 |
+| Subtraction   | "XIV" | 14                                                 |
 
-No 'Valid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
-
-### Invalid Tests
-
-No 'Invalid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
 
 ## Articles
 

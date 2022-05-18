@@ -34,15 +34,12 @@ that has a duplicate.
 
 ## Testing
 
-Every project in the Sample Programs repo should be tested. In this section, we specify the set of tests specific to Duplicate Character Counter. To keep things simple, we split up testing into two subsets: valid and invalid. Valid tests refer to tests that occur under correct input conditions. Invalid tests refer to tests that occur on bad input (e.g., letters instead of numbers).
+| Description   |     Input      |          Output          |
+| :------------ | :------------: | :----------------------: |
+| Basic String  | "goodbyeblues" | o: 2<br />b: 2<br />e: 2 |
+| Correct Order |     "abba"     |      a: 2<br />b: 2      |
+| Case Distinct |     "aAbB"     | No duplicate characters  |
 
-### Valid Tests
-
-No 'Valid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
-
-### Invalid Tests
-
-No 'Invalid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
 
 ## Articles
 

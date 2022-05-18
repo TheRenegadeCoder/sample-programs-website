@@ -50,15 +50,19 @@ Write a sample program which accepts an integer n (total number of people in the
 
 ## Testing
 
-Every project in the Sample Programs repo should be tested. In this section, we specify the set of tests specific to Josephus Problem. To keep things simple, we split up testing into two subsets: valid and invalid. Valid tests refer to tests that occur under correct input conditions. Invalid tests refer to tests that occur on bad input (e.g., letters instead of numbers).
+Some tests for your program are:
 
-### Valid Tests
 
-No 'Valid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
+| Description | Input (n) | Input (k) | Output |
+| :---------- | :---- | :---- | :----- |
+| No Input                    |      |      | "Usage: please input the total number of people and number of people to skip." |
+| Empty Input                 | ""   | ""   | "Usage: please input the total number of people and number of people to skip." |
+| Invalid Input: not a number | word | word | "Usage: please input the total number of people and number of people to skip." |
+| Sample Input: 0, 1 (0 people in circle)  | 0  | 1  | "Usage: please input the total number of people and number of people to skip." |
+| Sample Input: 5, 2  | 5  | 2  | 3 |
+| Sample Input: 7, 3  | 7  | 3  | 4 |
+| Sample Input: 41, 4  | 41  | 4  | 11 |
 
-### Invalid Tests
-
-No 'Invalid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
 
 ## Articles
 

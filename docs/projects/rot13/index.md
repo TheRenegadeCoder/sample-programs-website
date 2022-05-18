@@ -55,15 +55,17 @@ doesn't supply any input.
 
 ## Testing
 
-Every project in the Sample Programs repo should be tested. In this section, we specify the set of tests specific to Rot13. To keep things simple, we split up testing into two subsets: valid and invalid. Valid tests refer to tests that occur under correct input conditions. Invalid tests refer to tests that occur on bad input (e.g., letters instead of numbers).
+The following table contains various test cases that you can use to
+verify the correctness of your solution:
 
-### Valid Tests
+| Description  | Input | Output |
+|--------------|-------|--------|
+| No Input     | | "Usage: please provide a string to encrypt" |
+| Empty Input  | "" | "Usage: please provide a string to encrypt" |
+| Sample Input: Lower Case | the quick brown fox jumped over the lazy dog | gur dhvpx oebja sbk whzcrq bire gur ynml qbt |
+| Sample Input: Upper Case | THE QUICK BROWN FOX JUMPED OVER THE LAZY DOG | GUR DHVPX OEBJA SBK WHZCRQ BIRE GUR YNML QBT |
+| Sample Input: Punctuation | The quick brown fox jumped. Was it over the lazy dog? | Gur dhvpx oebja sbk whzcrq. Jnf vg bire gur ynml qbt? |
 
-No 'Valid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
-
-### Invalid Tests
-
-No 'Invalid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
 
 ## Articles
 

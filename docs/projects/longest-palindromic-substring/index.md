@@ -74,15 +74,17 @@ Fix two centre ( low and high ) and expand in both directions for longer palindr
 
 ## Testing
 
-Every project in the Sample Programs repo should be tested. In this section, we specify the set of tests specific to Longest Palindromic Substring. To keep things simple, we split up testing into two subsets: valid and invalid. Valid tests refer to tests that occur under correct input conditions. Invalid tests refer to tests that occur on bad input (e.g., letters instead of numbers).
+The following table contains various test cases that you can use to verify the correctness of your solution:
 
-### Valid Tests
+| Description                      | Input             | Output                                                                 |
+|----------------------------------|-------------------|------------------------------------------------------------------------|
+| No Input                         |                   | "Usage: please provide a string that contains at least one palindrome" |
+| Empty String                     | ""                | "Usage: please provide a string that contains at least one palindrome" |
+| No Palindromes                   | "polip"           | "Usage: please provide a string that contains at least one palindrome" |
+| Sample Input: One Palindrome     | "racecar"         | "racecar"                                                              |
+| Sample Input: Two Palindromes    | "kayak mom"       | "kayak"                                                                |
+| Sample Input: Complex Palindrome | "step on no pets" | "step on no pets"                                                      |
 
-No 'Valid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
-
-### Invalid Tests
-
-No 'Invalid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
 
 ## Articles
 

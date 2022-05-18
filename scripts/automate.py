@@ -32,18 +32,23 @@ def _add_section(doc: snakemd.Document, source: str, source_instance: str, secti
 
 
 def _add_testing_section(doc: snakemd.Document, source: str, source_instance: str):
-    doc.add_header("Testing", level=2)
-    doc.add_paragraph(
-        f"""
-            Every project in the Sample Programs repo should be tested. In this section,
-            we specify the set of tests specific to {" ".join(source_instance.split('-')).title()}.
-            To keep things simple, we split up testing into two subsets: valid and invalid.
-            Valid tests refer to tests that occur under correct input conditions. Invalid
-            tests refer to tests that occur on bad input (e.g., letters instead of numbers).
-            """
-    )
-    _add_section(doc, source, source_instance, "Valid Tests", level=3)
-    _add_section(doc, source, source_instance, "Invalid Tests", level=3)
+    valid_path = pathlib.Path(f"sources/{source}/{source_instance}/valid-tests.md")
+    invalid_path = pathlib.Path(f"sources/{source}/{source_instance}/invalid-tests.md")
+    if valid_path.exists() and invalid_path.exists():
+        doc.add_header("Testing", level=2)
+        doc.add_paragraph(
+            f"""
+                Every project in the Sample Programs repo should be tested. In this section,
+                we specify the set of tests specific to {" ".join(source_instance.split('-')).title()}.
+                To keep things simple, we split up testing into two subsets: valid and invalid.
+                Valid tests refer to tests that occur under correct input conditions. Invalid
+                tests refer to tests that occur on bad input (e.g., letters instead of numbers).
+                """
+        )
+        _add_section(doc, source, source_instance, "Valid Tests", level=3)
+        _add_section(doc, source, source_instance, "Invalid Tests", level=3)
+    else:
+        _add_section(doc, source, source_instance, "Testing", level=2)
 
 
 def _add_project_article_section(doc: snakemd.Document, repo: subete.Repo, project: subete.Project):

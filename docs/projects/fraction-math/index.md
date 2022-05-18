@@ -41,15 +41,23 @@ doesn't supply any input.
 
 ## Testing
 
-Every project in the Sample Programs repo should be tested. In this section, we specify the set of tests specific to Fraction Math. To keep things simple, we split up testing into two subsets: valid and invalid. Valid tests refer to tests that occur under correct input conditions. Invalid tests refer to tests that occur on bad input (e.g., letters instead of numbers).
+Some tests for your program are:
 
-### Valid Tests
+| Description | Input | Output |
+| :---------- | :---- | :----- |
+| No Input                    |      | "Usage: ./fraction-math operand1 operator operand2" |
+| Empty Input                 | ""   | "Usage: ./fraction-math operand1 operator operand2" |
+| Sample Input: | 2/3 + 4/5 | 22/15 |
+| Sample Input: | 2/3 * 4/5  | 8/15 |
+| Sample Input: | 2/3 - 4/5  | -2/15 |
+| Sample Input: | 2/3 / 4/5  | 5/6 |
+| Sample Input: | 2/3 == 4/5 | 0 |
+| Sample Input: | 2/3 > 4/5 | 0 |
+| Sample Input: | 2/3 < 4/5 | 1 |
+| Sample Input: | 2/3 >= 4/5 | 0 |
+| Sample Input: | 2/3 <= 4/5 | 1 |
+| Sample Input: | 2/3 != 4/5 | 1 |
 
-No 'Valid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
-
-### Invalid Tests
-
-No 'Invalid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
 
 ## Articles
 

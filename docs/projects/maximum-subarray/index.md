@@ -41,15 +41,19 @@ Also note that if the input string is empty, then the output is "Usage: Please p
 
 ## Testing
 
-Every project in the Sample Programs repo should be tested. In this section, we specify the set of tests specific to Maximum Subarray. To keep things simple, we split up testing into two subsets: valid and invalid. Valid tests refer to tests that occur under correct input conditions. Invalid tests refer to tests that occur on bad input (e.g., letters instead of numbers).
+Some tests for your program are:
 
-### Valid Tests
+| Description                                                  | Input                     | Output                                                                                       |
+| :----------------------------------------------------------- | :------------------------ | :------------------------------------------------------------------------------------------- |
+| No input                                                     |                           | Usage: Please provide a list of at least two integers to sort in the format: "1, 2, 3, 4, 5" | "" |
+| Empty input                                                  | " "                       | Usage: Please provide a list of at least two integers to sort in the format: "1, 2, 3, 4, 5" |
+| Sample Input: Array with size 1                              | 1                         | 1                                                                                            |
+| Sample Input: Array with no negative integers                | '1, 2, 3'                 | 6                                                                                            |
+| Sample Input: Array with all negative integers               | '-1, -2, -3'              | -1                                                                                           |
+| Sample Input: Array with both positive and negative integers | '-2, -1, 3, 4, 5'         | 12                                                                                           |
+| Sample Input: Array with both positive and negative integers | '-1, -4, 2, 3, -3, -4, 9' | 9                                                                                            |
+| Sample Input: Array with both positive and negative integers | '-1, -4, 2, 9, -3, -4, 9' | 13                                                                                           |
 
-No 'Valid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
-
-### Invalid Tests
-
-No 'Invalid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
 
 ## Articles
 
