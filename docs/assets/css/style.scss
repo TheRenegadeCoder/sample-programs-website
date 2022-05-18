@@ -73,22 +73,12 @@ $brand-color: #c90229;
   color: #fff;
 }
 
-.project-nav li {
-  display: inline-block;
-  width: 120px;
-  border-bottom: none;
-  height: 50px;
-  line-height: 50px;
-  font-size: 1.4em;
+.project-nav #previous {
+  float: left;
 }
 
-.project-nav ul {
-  list-style: none;
-  background-color: #171717;
-  text-align: center;
-  padding: 0;
-  margin: 0;
-  border-radius: 4px;
+.project-nav #next {
+  float: right;
 }
 
 .site-navigation {

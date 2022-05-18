@@ -206,10 +206,12 @@ def _generate_project_index(project: subete.Project, previous: subete.Project, n
     _add_project_article_section(doc, repo, project)
     doc.add_horizontal_rule()
     doc.add_paragraph("<nav class=\"project-nav\">")
-    doc.add_element(snakemd.MDList([
-        snakemd.InlineText(f"Previous Project ({previous})", url=previous.requirements_url()),
-        snakemd.InlineText(f"Next Project ({next})", url=next.requirements_url()),
-    ]))
+    doc.add_paragraph("<div id=\"prev\">")
+    doc.add_element(snakemd.Paragraph(snakemd.InlineText(f"Previous Project ({previous})", url=previous.requirements_url())))
+    doc.add_paragraph("</div>")
+    doc.add_paragraph("<div id=\"next\">")
+    doc.add_element(snakemd.Paragraph(snakemd.InlineText(f"Next Project ({next})", url=next.requirements_url())))
+    doc.add_paragraph("</div>")
     doc.add_paragraph("</nav>")
     doc.output_page(f"docs/projects/{project.pathlike_name()}")  
 
