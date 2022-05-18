@@ -291,7 +291,8 @@ def generate_languages_index(repo: subete.Repo):
 def generate_projects_index(repo: subete.Repo):
     projects_index_path = pathlib.Path("docs/projects")
     projects_index = snakemd.new_doc("index")
-    _generate_front_matter(projects_index, projects_index_path / "front_matter.yaml", "Projects")
+    _generate_front_matter(projects_index, projects_index_path / "front_matter.yaml", "Programming Projects in Every Language")
+    projects_index._contents[-2] = projects_index._contents[-2] + "featured-image: programming-projects-in-every-language.png"
     project_tests = sum(1 if project.has_testing() else 0 for project in repo.approved_projects())
     projects_index.add_paragraph(
         "Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. "
