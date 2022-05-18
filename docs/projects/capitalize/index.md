@@ -42,11 +42,28 @@ Every project in the Sample Programs repo should be tested. In this section, we 
 
 ### Valid Tests
 
-No 'Valid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
+| Description      | Input           | Output        |
+| ---------------- | --------------- | ------------- |
+| Lowercase String | `"hello"`       | `Hello`       |
+| Uppercase String | `"Hello"`       | `Hello`       |
+| Long String      | `"hello world"` | `Hello world` |
+| Mixed Casing     | `"heLLo World"` | `HeLLo World` |
+| Symbols          | `"12345"`       | `12345`       |
+
 
 ### Invalid Tests
 
-No 'Invalid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
+| Description      | Input           |
+| ---------------- | --------------- |
+| No input         |                 | 
+| Empty input      | `""`            |
+
+All invalid tests should spit out a usage statement in the following form:
+
+```
+Usage: please provide a string
+```
+
 
 ## Articles
 
