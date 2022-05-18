@@ -8,6 +8,10 @@ $brand-color: #c90229;
 
 @import "{{ site.theme }}";
 
+body {
+  padding: 0 50px 0 0;
+}
+
 .breadcrumb {
   list-style: none;
   border-radius: 4px;
@@ -70,4 +74,10 @@ $brand-color: #c90229;
 .top-nav a.active {
   background-color: $brand-color;
   color: #fff;
+}
+
+.site-navigation {
+  padding: 20px;
+  float: right;
+  width: 650px;
 }
