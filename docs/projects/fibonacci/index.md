@@ -94,13 +94,13 @@ Some tests for your program are:
 
 <div id="prev">
 
-[Previous Project (Maximum Array Rotation)](https://sampleprograms.io/projects/maximum-array-rotation)
+[<-- Previous Project (Maximum Array Rotation)](https://sampleprograms.io/projects/maximum-array-rotation)
 
 </div>
 
 <div id="next">
 
-[Next Project (Roman Numeral)](https://sampleprograms.io/projects/roman-numeral)
+[Next Project (Roman Numeral) -->](https://sampleprograms.io/projects/roman-numeral)
 
 </div>
 

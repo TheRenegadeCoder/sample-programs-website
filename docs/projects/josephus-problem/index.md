@@ -74,13 +74,13 @@ Some tests for your program are:
 
 <div id="prev">
 
-[Previous Project (Binary Search)](https://sampleprograms.io/projects/binary-search)
+[<-- Previous Project (Binary Search)](https://sampleprograms.io/projects/binary-search)
 
 </div>
 
 <div id="next">
 
-[Next Project (Linear Search)](https://sampleprograms.io/projects/linear-search)
+[Next Project (Linear Search) -->](https://sampleprograms.io/projects/linear-search)
 
 </div>
 

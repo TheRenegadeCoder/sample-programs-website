@@ -70,13 +70,13 @@ As always, these tests will be run against any code submitted to the repo via [G
 
 <div id="prev">
 
-[Previous Project (Selection Sort)](https://sampleprograms.io/projects/selection-sort)
+[<-- Previous Project (Selection Sort)](https://sampleprograms.io/projects/selection-sort)
 
 </div>
 
 <div id="next">
 
-[Next Project (Fizz Buzz)](https://sampleprograms.io/projects/fizz-buzz)
+[Next Project (Fizz Buzz) -->](https://sampleprograms.io/projects/fizz-buzz)
 
 </div>
 

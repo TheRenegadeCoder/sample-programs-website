@@ -63,13 +63,13 @@ verify the correctness of your solution:
 
 <div id="prev">
 
-[Previous Project (Longest Word)](https://sampleprograms.io/projects/longest-word)
+[<-- Previous Project (Longest Word)](https://sampleprograms.io/projects/longest-word)
 
 </div>
 
 <div id="next">
 
-[Next Project (Duplicate Character Counter)](https://sampleprograms.io/projects/duplicate-character-counter)
+[Next Project (Duplicate Character Counter) -->](https://sampleprograms.io/projects/duplicate-character-counter)
 
 </div>
 

@@ -60,13 +60,13 @@ Verify that the actual output matches the expected output. See the
 
 <div id="prev">
 
-[Previous Project (Quick Sort)](https://sampleprograms.io/projects/quick-sort)
+[<-- Previous Project (Quick Sort)](https://sampleprograms.io/projects/quick-sort)
 
 </div>
 
 <div id="next">
 
-[Next Project (Maximum Subarray)](https://sampleprograms.io/projects/maximum-subarray)
+[Next Project (Maximum Subarray) -->](https://sampleprograms.io/projects/maximum-subarray)
 
 </div>
 

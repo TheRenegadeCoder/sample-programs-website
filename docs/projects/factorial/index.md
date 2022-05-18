@@ -86,13 +86,13 @@ Some tests for your program are:
 
 <div id="prev">
 
-[Previous Project (Minimum Spanning Tree)](https://sampleprograms.io/projects/minimum-spanning-tree)
+[<-- Previous Project (Minimum Spanning Tree)](https://sampleprograms.io/projects/minimum-spanning-tree)
 
 </div>
 
 <div id="next">
 
-[Next Project (Hello World)](https://sampleprograms.io/projects/hello-world)
+[Next Project (Hello World) -->](https://sampleprograms.io/projects/hello-world)
 
 </div>
 

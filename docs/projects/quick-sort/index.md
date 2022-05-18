@@ -121,13 +121,13 @@ verify the correctness of your solution:
 
 <div id="prev">
 
-[Previous Project (Convex Hull)](https://sampleprograms.io/projects/convex-hull)
+[<-- Previous Project (Convex Hull)](https://sampleprograms.io/projects/convex-hull)
 
 </div>
 
 <div id="next">
 
-[Next Project (Quine)](https://sampleprograms.io/projects/quine)
+[Next Project (Quine) -->](https://sampleprograms.io/projects/quine)
 
 </div>
 

@@ -51,13 +51,13 @@ that has a duplicate.
 
 <div id="prev">
 
-[Previous Project (Sleep Sort)](https://sampleprograms.io/projects/sleep-sort)
+[<-- Previous Project (Sleep Sort)](https://sampleprograms.io/projects/sleep-sort)
 
 </div>
 
 <div id="next">
 
-[Next Project (Dijkstra)](https://sampleprograms.io/projects/dijkstra)
+[Next Project (Dijkstra) -->](https://sampleprograms.io/projects/dijkstra)
 
 </div>
 

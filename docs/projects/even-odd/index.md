@@ -86,13 +86,13 @@ The following table contains various test cases that you can use to verify the c
 
 <div id="prev">
 
-[Previous Project (Dijkstra)](https://sampleprograms.io/projects/dijkstra)
+[<-- Previous Project (Dijkstra)](https://sampleprograms.io/projects/dijkstra)
 
 </div>
 
 <div id="next">
 
-[Next Project (Binary Search)](https://sampleprograms.io/projects/binary-search)
+[Next Project (Binary Search) -->](https://sampleprograms.io/projects/binary-search)
 
 </div>
 

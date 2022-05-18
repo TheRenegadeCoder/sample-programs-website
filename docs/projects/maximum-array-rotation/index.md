@@ -74,13 +74,13 @@ Maximum Array Rotation. See the following testing section for more specific requ
 
 <div id="prev">
 
-[Previous Project (Baklava)](https://sampleprograms.io/projects/baklava)
+[<-- Previous Project (Baklava)](https://sampleprograms.io/projects/baklava)
 
 </div>
 
 <div id="next">
 
-[Next Project (Fibonacci)](https://sampleprograms.io/projects/fibonacci)
+[Next Project (Fibonacci) -->](https://sampleprograms.io/projects/fibonacci)
 
 </div>
 

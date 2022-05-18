@@ -82,13 +82,13 @@ correctness of your solution:
 
 <div id="prev">
 
-[Previous Project (Hello World)](https://sampleprograms.io/projects/hello-world)
+[<-- Previous Project (Hello World)](https://sampleprograms.io/projects/hello-world)
 
 </div>
 
 <div id="next">
 
-[Next Project (Job Sequencing)](https://sampleprograms.io/projects/job-sequencing)
+[Next Project (Job Sequencing) -->](https://sampleprograms.io/projects/job-sequencing)
 
 </div>
 

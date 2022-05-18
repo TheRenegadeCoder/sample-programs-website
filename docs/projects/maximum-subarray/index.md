@@ -65,13 +65,13 @@ Some tests for your program are:
 
 <div id="prev">
 
-[Previous Project (Quine)](https://sampleprograms.io/projects/quine)
+[<-- Previous Project (Quine)](https://sampleprograms.io/projects/quine)
 
 </div>
 
 <div id="next">
 
-[Next Project (Longest Word)](https://sampleprograms.io/projects/longest-word)
+[Next Project (Longest Word) -->](https://sampleprograms.io/projects/longest-word)
 
 </div>
 

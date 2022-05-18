@@ -151,13 +151,13 @@ verify the correctness of your solution:
 
 <div id="prev">
 
-[Previous Project (Roman Numeral)](https://sampleprograms.io/projects/roman-numeral)
+[<-- Previous Project (Roman Numeral)](https://sampleprograms.io/projects/roman-numeral)
 
 </div>
 
 <div id="next">
 
-[Next Project (Remove All Whitespace)](https://sampleprograms.io/projects/remove-all-whitespace)
+[Next Project (Remove All Whitespace) -->](https://sampleprograms.io/projects/remove-all-whitespace)
 
 </div>
 

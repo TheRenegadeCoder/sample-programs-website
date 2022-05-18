@@ -124,13 +124,13 @@ verify the correctness of your solution:
 
 <div id="prev">
 
-[Previous Project (File Input Output)](https://sampleprograms.io/projects/file-input-output)
+[<-- Previous Project (File Input Output)](https://sampleprograms.io/projects/file-input-output)
 
 </div>
 
 <div id="next">
 
-[Next Project (Rot13)](https://sampleprograms.io/projects/rot13)
+[Next Project (Rot13) -->](https://sampleprograms.io/projects/rot13)
 
 </div>
 

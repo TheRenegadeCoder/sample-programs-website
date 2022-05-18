@@ -80,13 +80,13 @@ As always, these tests will be run against any code submitted to the repo via [G
 
 <div id="prev">
 
-[Previous Project (Maximum Subarray)](https://sampleprograms.io/projects/maximum-subarray)
+[<-- Previous Project (Maximum Subarray)](https://sampleprograms.io/projects/maximum-subarray)
 
 </div>
 
 <div id="next">
 
-[Next Project (Sleep Sort)](https://sampleprograms.io/projects/sleep-sort)
+[Next Project (Sleep Sort) -->](https://sampleprograms.io/projects/sleep-sort)
 
 </div>
 

@@ -85,13 +85,13 @@ verify the correctness of your solution:
 
 <div id="prev">
 
-[Previous Project (Fraction Math)](https://sampleprograms.io/projects/fraction-math)
+[<-- Previous Project (Fraction Math)](https://sampleprograms.io/projects/fraction-math)
 
 </div>
 
 <div id="next">
 
-[Next Project (Palindromic Number)](https://sampleprograms.io/projects/palindromic-number)
+[Next Project (Palindromic Number) -->](https://sampleprograms.io/projects/palindromic-number)
 
 </div>
 

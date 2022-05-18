@@ -98,13 +98,13 @@ verify the correctness of your solution:
 
 <div id="prev">
 
-[Previous Project (Prime Number)](https://sampleprograms.io/projects/prime-number)
+[<-- Previous Project (Prime Number)](https://sampleprograms.io/projects/prime-number)
 
 </div>
 
 <div id="next">
 
-[Next Project (Convex Hull)](https://sampleprograms.io/projects/convex-hull)
+[Next Project (Convex Hull) -->](https://sampleprograms.io/projects/convex-hull)
 
 </div>
 

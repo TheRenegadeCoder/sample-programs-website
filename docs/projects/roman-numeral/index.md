@@ -97,13 +97,13 @@ Conversion program:
 
 <div id="prev">
 
-[Previous Project (Fibonacci)](https://sampleprograms.io/projects/fibonacci)
+[<-- Previous Project (Fibonacci)](https://sampleprograms.io/projects/fibonacci)
 
 </div>
 
 <div id="next">
 
-[Next Project (Selection Sort)](https://sampleprograms.io/projects/selection-sort)
+[Next Project (Selection Sort) -->](https://sampleprograms.io/projects/selection-sort)
 
 </div>
 

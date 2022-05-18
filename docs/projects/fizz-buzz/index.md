@@ -111,13 +111,13 @@ Verify that the actual output matches the expected output. See the
 
 <div id="prev">
 
-[Previous Project (Remove All Whitespace)](https://sampleprograms.io/projects/remove-all-whitespace)
+[<-- Previous Project (Remove All Whitespace)](https://sampleprograms.io/projects/remove-all-whitespace)
 
 </div>
 
 <div id="next">
 
-[Next Project (Merge Sort)](https://sampleprograms.io/projects/merge-sort)
+[Next Project (Merge Sort) -->](https://sampleprograms.io/projects/merge-sort)
 
 </div>
 

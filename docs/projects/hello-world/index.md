@@ -203,13 +203,13 @@ Verify that the actual output matches the expected output. See the
 
 <div id="prev">
 
-[Previous Project (Factorial)](https://sampleprograms.io/projects/factorial)
+[<-- Previous Project (Factorial)](https://sampleprograms.io/projects/factorial)
 
 </div>
 
 <div id="next">
 
-[Next Project (Prime Number)](https://sampleprograms.io/projects/prime-number)
+[Next Project (Prime Number) -->](https://sampleprograms.io/projects/prime-number)
 
 </div>
 

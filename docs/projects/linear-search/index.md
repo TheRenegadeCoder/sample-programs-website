@@ -104,13 +104,13 @@ doesn't supply correct input.
 
 <div id="prev">
 
-[Previous Project (Josephus Problem)](https://sampleprograms.io/projects/josephus-problem)
+[<-- Previous Project (Josephus Problem)](https://sampleprograms.io/projects/josephus-problem)
 
 </div>
 
 <div id="next">
 
-[Next Project (Baklava)](https://sampleprograms.io/projects/baklava)
+[Next Project (Baklava) -->](https://sampleprograms.io/projects/baklava)
 
 </div>
 
