@@ -247,6 +247,7 @@ def generate_project_paths(repo: subete.Repo):
     and index.md files.
     """
     projects = repo.approved_projects()
+    projects.sort(key=lambda x: x.name().casefold())
     for i, project in enumerate(projects):
         project: subete.Project
         path = pathlib.Path(f"docs/projects/{project.pathlike_name()}")
