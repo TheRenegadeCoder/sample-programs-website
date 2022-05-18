@@ -1,9 +1,9 @@
-| Description                 | Input |
-| --------------------------- | ----- |
-| No Input                    |       |
-| Empty Input                 | ""    |
-| Invalid Input: Not a List   | 1     |
-| Invalid Input: Wrong Format | 4 5 3 |
+| Description                 | Input     |
+| --------------------------- | --------- |
+| No Input                    |           |
+| Empty Input                 | `""`      |
+| Invalid Input: Not a List   | `"1"`     |
+| Invalid Input: Wrong Format | `"4 5 3"` |
 
 All invalid tests should spit out a usage statement in the following form:
 
