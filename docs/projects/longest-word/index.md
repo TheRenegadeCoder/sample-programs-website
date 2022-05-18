@@ -56,19 +56,15 @@ both: 6.
 
 ## Testing
 
-The following table contains various test cases that you can use to verify the 
-correctness of your solution:
+Every project in the Sample Programs repo should be tested. In this section, we specify the set of tests specific to Projects. To keep things simple, we split up testing into two subsets: valid and invalid. Valid tests refer to tests that occur under correct input conditions. Invalid tests refer to tests that occur on bad input (e.g., letters instead of numbers).
 
-| Description               | Input                           | Output                           |
-|---------------------------|---------------------------------|----------------------------------|
-| No Input                  |                                 | "Usage: please provide a string" |
-| Empty Input               | ""                              | "Usage: please provide a string" |
-| Sample Input: Many Words  | "May the force be with you"     | 5                                |
-| Sample Input: Single Word | "Floccinaucinihilipilification" | 29                               |
-| Sample Input: Multiline   | "Hi,\nMy name is Paul!"         | 5                                |
+### Valid Tests
 
-As always, these tests will be run against any code submitted to the repo via [Glotter][glotter-github].
+No 'Valid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
 
+### Invalid Tests
+
+No 'Invalid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
 
 ## Articles
 

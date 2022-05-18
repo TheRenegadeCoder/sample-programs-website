@@ -27,16 +27,15 @@ Write a program that accepts an input of an integer and prints whether the numbe
 
 ## Testing
 
+Every project in the Sample Programs repo should be tested. In this section, we specify the set of tests specific to Projects. To keep things simple, we split up testing into two subsets: valid and invalid. Valid tests refer to tests that occur under correct input conditions. Invalid tests refer to tests that occur on bad input (e.g., letters instead of numbers).
 
-| Description                  | Input | Output |
-|------------------------------|-------|--------|
-| no input                     | None  | Usage: please input a number |
-| empty input                  | ""    | Usage: please input a number |
-| invalid input: not a number  | a     | Usage: please input a number |
-| sample input: palindrome     | 232   | true       |
-| sample input: not palindrome | 521   | false   |
+### Valid Tests
 
+No 'Valid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
 
+### Invalid Tests
+
+No 'Invalid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
 
 ## Articles
 

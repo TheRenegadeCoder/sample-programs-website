@@ -9,7 +9,7 @@ import subete
 log = logging.getLogger(__name__)
 
 
-def _add_section(doc: snakemd.Document, source: str, source_instance: str, section: str):
+def _add_section(doc: snakemd.Document, source: str, source_instance: str, section: str, level: int = 2):
     """
     Adds a section to the document.
 
@@ -18,7 +18,7 @@ def _add_section(doc: snakemd.Document, source: str, source_instance: str, secti
     :param str source_instance: the specific source instance to pull from (e.g., c-plus-plus).
     :param str section: the section to add to the document (e.g., Description).
     """
-    doc.add_header(section, level=2)
+    doc.add_header(section, level=level)
     fp = pathlib.Path(
         f"sources/{source}/{source_instance}/{section.lower().replace(' ', '-')}.md")
     if fp.exists():
@@ -29,6 +29,21 @@ def _add_section(doc: snakemd.Document, source: str, source_instance: str, secti
         doc.add_paragraph(
             f"No '{section}' section available. Please consider contributing."
         ).insert_link("Please consider contributing", "https://github.com/TheRenegadeCoder/sample-programs-website")
+
+
+def _add_testing_section(doc: snakemd.Document, source: str, source_instance: str):
+    doc.add_header("Testing", level=2)
+    doc.add_paragraph(
+        f"""
+            Every project in the Sample Programs repo should be tested. In this section,
+            we specify the set of tests specific to {" ".join(source.split('-')).title()}.
+            To keep things simple, we split up testing into two subsets: valid and invalid.
+            Valid tests refer to tests that occur under correct input conditions. Invalid
+            tests refer to tests that occur on bad input (e.g., letters instead of numbers).
+            """
+    )
+    _add_section(doc, source, source_instance, "Valid Tests", level=3)
+    _add_section(doc, source, source_instance, "Invalid Tests", level=3)
 
 
 def _add_project_article_section(doc: snakemd.Document, repo: subete.Repo, project: subete.Project):
@@ -126,7 +141,8 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
     doc.add_paragraph(f"{program} was written by:") \
         .insert_link(program.language_name(), program.language_collection().lang_docs_url()) \
         .insert_link(program.project_name(), program.project().requirements_url())
-    doc.add_element(snakemd.MDList(sorted(program.authors(), key=lambda x: x.casefold())))
+    doc.add_element(snakemd.MDList(
+        sorted(program.authors(), key=lambda x: x.casefold())))
     doc.add_paragraph("If you see anything you'd like to change or update, please consider contributing.") \
         .insert_link("please consider contributing", "https://github.com/TheRenegadeCoder/sample-programs")
     if program.modified() != program.created():
@@ -137,15 +153,15 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
             "As a result, documentation below may be outdated."
         )
     _add_section(
-        doc, 
+        doc,
         str(root_path / ".."),
-        program.language_pathlike_name(), 
+        program.language_pathlike_name(),
         "How to Implement the Solution"
     )
     _add_section(
-        doc, 
+        doc,
         str(root_path / ".."),
-        program.language_pathlike_name(), 
+        program.language_pathlike_name(),
         "How to Run the Solution"
     )
     try:
@@ -165,8 +181,8 @@ def _generate_project_index(project: subete.Project):
     doc: snakemd.Document = snakemd.new_doc("index")
     root_path = pathlib.Path(f"projects/{project.pathlike_name()}")
     _generate_front_matter(
-        doc, 
-        root_path / "front_matter.yaml", 
+        doc,
+        root_path / "front_matter.yaml",
         project.name()
     )
     doc.add_paragraph(
@@ -176,7 +192,7 @@ def _generate_project_index(project: subete.Project):
     )
     _add_section(doc, "projects", project.pathlike_name(), "Description")
     _add_section(doc, "projects", project.pathlike_name(), "Requirements")
-    _add_section(doc, "projects", project.pathlike_name(), "Testing")
+    _add_testing_section(doc, "projects", project.pathlike_name())
     if not project.has_testing():
         doc.add_element(snakemd.Paragraph([
             snakemd.InlineText("Note:", bold=True),
@@ -194,8 +210,8 @@ def _generate_language_index(language: subete.LanguageCollection):
     doc: snakemd.Document = snakemd.new_doc("index")
     root_path = pathlib.Path(f"languages/{language.pathlike_name()}")
     _generate_front_matter(
-        doc, 
-        root_path / "front_matter.yaml", 
+        doc,
+        root_path / "front_matter.yaml",
         str(language)
     )
     doc.add_paragraph(
@@ -270,18 +286,20 @@ def generate_languages_index(repo: subete.Repo):
     )
     for letter in repo.sorted_language_letters():
         language_index.add_header(letter.upper(), level=3)
-        languages: list[subete.LanguageCollection] = repo.languages_by_letter(letter)
+        languages: list[subete.LanguageCollection] = repo.languages_by_letter(
+            letter)
         snippets = sum(language.total_programs() for language in languages)
-        tests = sum(1 if language.has_testinfo() else 0 for language in languages)
+        tests = sum(1 if language.has_testinfo()
+                    else 0 for language in languages)
         verb = "are" if tests != 1 else "is"
         singular = "language" if len(languages) == 1 else "languages"
         language_index.add_paragraph(
-            f"The '{letter.upper()}' collection contains {len(languages)} {singular}, " 
+            f"The '{letter.upper()}' collection contains {len(languages)} {singular}, "
             f"of which {tests} {verb} tested, and {snippets} code snippets."
         )
         languages.sort(key=lambda x: x.name().casefold())
         languages = [
-            snakemd.InlineText(x.name(), url=x.lang_docs_url()) 
+            snakemd.InlineText(x.name(), url=x.lang_docs_url())
             for x in languages
         ]
         language_index.add_element(snakemd.MDList(languages))
@@ -291,9 +309,12 @@ def generate_languages_index(repo: subete.Repo):
 def generate_projects_index(repo: subete.Repo):
     projects_index_path = pathlib.Path("docs/projects")
     projects_index = snakemd.new_doc("index")
-    _generate_front_matter(projects_index, projects_index_path / "front_matter.yaml", "Programming Projects in Every Language")
-    projects_index._contents[-2] = projects_index._contents[-2] + "\nfeatured-image: programming-projects-in-every-language.jpg"
-    project_tests = sum(1 if project.has_testing() else 0 for project in repo.approved_projects())
+    _generate_front_matter(projects_index, projects_index_path /
+                           "front_matter.yaml", "Programming Projects in Every Language")
+    projects_index._contents[-2] = projects_index._contents[-2] + \
+        "\nfeatured-image: programming-projects-in-every-language.jpg"
+    project_tests = sum(1 if project.has_testing()
+                        else 0 for project in repo.approved_projects())
     projects_index.add_paragraph(
         "Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. "
         f"At this time, the repo supports {repo.total_approved_projects()} projects, of which {project_tests} are tested."

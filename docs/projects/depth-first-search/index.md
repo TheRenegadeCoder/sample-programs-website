@@ -76,21 +76,15 @@ and the integer to find ("11")`.
 
 ## Testing
 
-| Description                  | Tree Input                                                                    | Vertex Values     | Target Integer Input | Output  |
-| ---------------------------- | ----------------------------------------------------------------------------- | ----------------- | -------------------- | ------- |
-| No Input                     |                                                                               |                   |                      | error\* |
-| Missing Input: Tree          | `""`                                                                          | `"1, 3, 5, 2, 4"` | `"4"`                | error\* |
-| Missing Input: Vertex Values | `"0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0"` | `""`              | `"1"`                | error\* |
-| Missing Input: Target        | `"0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0"` | `"1, 3, 5, 2, 4"` | `""`                 | error\* |
-| Sample Input: First True     | `"0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0"` | `"1, 3, 5, 2, 4"` | `"1"`                | `true`  |
-| Sample Input: Last True      | `"0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0"` | `"1, 3, 5, 2, 4"` | `"4"`                | `true`  |
-| Sample Input: Middle True    | `"0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0"` | `"1, 3, 5, 2, 4"` | `"5"`                | `true`  |
-| Sample Input: One True       | `"0"`                                                                         | `"1"`             | `"1"`                | `true`  |
-| Sample Input: One False      | `"0"`                                                                         | `"1"`             | `"6"`                | `false` |
-| Sample Input: Many False     | `"0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0"` | `"1, 3, 5, 2, 4"` | `"7"`                | `false` |
+Every project in the Sample Programs repo should be tested. In this section, we specify the set of tests specific to Projects. To keep things simple, we split up testing into two subsets: valid and invalid. Valid tests refer to tests that occur under correct input conditions. Invalid tests refer to tests that occur on bad input (e.g., letters instead of numbers).
 
-\*The error string to print: `Usage: please provide a tree in an adjacency matrix form ("0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0") together with a list of vertex values ("1, 3, 5, 2, 4") and the integer to find ("4")`
+### Valid Tests
 
+No 'Valid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
+
+### Invalid Tests
+
+No 'Invalid Tests' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
 
 ## Articles
 
