@@ -14,7 +14,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```autohotkey
-ï»¿MsgBox, 0x30, Sample Programs, Hello, World!
+﻿MsgBox, 0x30, Sample Programs, Hello, World!
 ```
 
 {% endraw %}

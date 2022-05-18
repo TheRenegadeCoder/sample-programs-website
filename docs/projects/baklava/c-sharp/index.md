@@ -14,7 +14,7 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [C#](htt
 {% raw %}
 
 ```c#
-ï»¿using System;
+﻿using System;
 
 class CSharp
 {
