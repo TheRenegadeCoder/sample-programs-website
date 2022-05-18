@@ -44,3 +44,8 @@ that has a duplicate.
 ## Articles
 
 - [Duplicate Character Counter in Python](https://sampleprograms.io/projects/duplicate-character-counter/python)
+
+---
+
+- [Previous Project](https://sampleprograms.io/projects/dijkstra)
+- [Next Project](https://sampleprograms.io/projects/even-odd)

@@ -63,3 +63,8 @@ Verify that the actual output matches the expected output (see [requirements][1]
 ## Articles
 
 - [Transpose Matrix in Python](https://sampleprograms.io/projects/transpose-matrix/python)
+
+---
+
+- [Previous Project](https://sampleprograms.io/projects/sleep-sort)
+- [Next Project](https://sampleprograms.io/projects/baklava)

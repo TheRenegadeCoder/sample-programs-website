@@ -152,3 +152,8 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 - [Bubble Sort in Rust](https://sampleprograms.io/projects/bubble-sort/rust)
 - [Bubble Sort in Scala](https://sampleprograms.io/projects/bubble-sort/scala)
 - [Bubble Sort in Visual Basic](https://sampleprograms.io/projects/bubble-sort/visual-basic)
+
+---
+
+- [Previous Project](https://sampleprograms.io/projects/binary-search)
+- [Next Project](https://sampleprograms.io/projects/capitalize)

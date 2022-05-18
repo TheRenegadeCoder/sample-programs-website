@@ -86,3 +86,8 @@ In other words, what is the cost of the minimum spanning tree?
 
 - [Minimum Spanning Tree in C](https://sampleprograms.io/projects/minimum-spanning-tree/c)
 - [Minimum Spanning Tree in Python](https://sampleprograms.io/projects/minimum-spanning-tree/python)
+
+---
+
+- [Previous Project](https://sampleprograms.io/projects/merge-sort)
+- [Next Project](https://sampleprograms.io/projects/palindromic-number)

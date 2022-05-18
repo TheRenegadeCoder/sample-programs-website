@@ -64,3 +64,8 @@ Some tests for your program are:
 - [Fraction Math in C++](https://sampleprograms.io/projects/fraction-math/c-plus-plus)
 - [Fraction Math in Python](https://sampleprograms.io/projects/fraction-math/python)
 - [Fraction Math in Swift](https://sampleprograms.io/projects/fraction-math/swift)
+
+---
+
+- [Previous Project](https://sampleprograms.io/projects/fizz-buzz)
+- [Next Project](https://sampleprograms.io/projects/hello-world)

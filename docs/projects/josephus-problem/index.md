@@ -67,3 +67,8 @@ Some tests for your program are:
 ## Articles
 
 - [Josephus Problem in Javascript](https://sampleprograms.io/projects/josephus-problem/javascript)
+
+---
+
+- [Previous Project](https://sampleprograms.io/projects/job-sequencing)
+- [Next Project](https://sampleprograms.io/projects/linear-search)

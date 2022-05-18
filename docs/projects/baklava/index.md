@@ -106,3 +106,8 @@ Baklava has no input, so there are no invalid test cases.
 - [Baklava in Solisp](https://sampleprograms.io/projects/baklava/solisp)
 - [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
 - [Baklava in Typescript](https://sampleprograms.io/projects/baklava/typescript)
+
+---
+
+- [Previous Project](https://sampleprograms.io/projects/transpose-matrix)
+- [Next Project](https://sampleprograms.io/projects/binary-search)

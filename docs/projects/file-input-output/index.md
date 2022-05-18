@@ -67,3 +67,8 @@ Verify that the actual output matches the expected output. See the
 - [File Input Output in Ruby](https://sampleprograms.io/projects/file-input-output/ruby)
 - [File Input Output in Rust](https://sampleprograms.io/projects/file-input-output/rust)
 - [File Input Output in Scala](https://sampleprograms.io/projects/file-input-output/scala)
+
+---
+
+- [Previous Project](https://sampleprograms.io/projects/fibonacci)
+- [Next Project](https://sampleprograms.io/projects/fizz-buzz)

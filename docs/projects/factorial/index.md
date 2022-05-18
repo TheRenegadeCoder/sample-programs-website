@@ -79,3 +79,8 @@ Some tests for your program are:
 - [Factorial in R](https://sampleprograms.io/projects/factorial/r)
 - [Factorial in Rust](https://sampleprograms.io/projects/factorial/rust)
 - [Factorial in Scala](https://sampleprograms.io/projects/factorial/scala)
+
+---
+
+- [Previous Project](https://sampleprograms.io/projects/even-odd)
+- [Next Project](https://sampleprograms.io/projects/fibonacci)

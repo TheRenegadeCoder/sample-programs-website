@@ -26,6 +26,7 @@ For example, the following code should return "Capitalize":
 
 ```console
 $ ./capitalize.lang "capitalize"
+Capitalize
 ```
 
 Here are some additional examples:
@@ -99,3 +100,8 @@ Usage: please provide a string
 - [Capitalize in Ruby](https://sampleprograms.io/projects/capitalize/ruby)
 - [Capitalize in Rust](https://sampleprograms.io/projects/capitalize/rust)
 - [Capitalize in Typescript](https://sampleprograms.io/projects/capitalize/typescript)
+
+---
+
+- [Previous Project](https://sampleprograms.io/projects/bubble-sort)
+- [Next Project](https://sampleprograms.io/projects/convex-hull)

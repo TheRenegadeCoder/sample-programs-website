@@ -63,3 +63,8 @@ As always, these tests will be run against any code submitted to the repo via [G
 ## Articles
 
 - [Remove All Whitespace in Python](https://sampleprograms.io/projects/remove-all-whitespace/python)
+
+---
+
+- [Previous Project](https://sampleprograms.io/projects/quine)
+- [Next Project](https://sampleprograms.io/projects/reverse-string)

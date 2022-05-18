@@ -97,3 +97,8 @@ doesn't supply correct input.
 - [Linear Search in Java](https://sampleprograms.io/projects/linear-search/java)
 - [Linear Search in Javascript](https://sampleprograms.io/projects/linear-search/javascript)
 - [Linear Search in Python](https://sampleprograms.io/projects/linear-search/python)
+
+---
+
+- [Previous Project](https://sampleprograms.io/projects/josephus-problem)
+- [Next Project](https://sampleprograms.io/projects/longest-common-subsequence)

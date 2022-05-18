@@ -87,3 +87,8 @@ Some tests for your program are:
 - [Fibonacci in Swift](https://sampleprograms.io/projects/fibonacci/swift)
 - [Fibonacci in Typescript](https://sampleprograms.io/projects/fibonacci/typescript)
 - [Fibonacci in Verilog](https://sampleprograms.io/projects/fibonacci/verilog)
+
+---
+
+- [Previous Project](https://sampleprograms.io/projects/factorial)
+- [Next Project](https://sampleprograms.io/projects/file-input-output)

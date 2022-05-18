@@ -117,3 +117,8 @@ verify the correctness of your solution:
 - [Insertion Sort in Php](https://sampleprograms.io/projects/insertion-sort/php)
 - [Insertion Sort in Python](https://sampleprograms.io/projects/insertion-sort/python)
 - [Insertion Sort in Rust](https://sampleprograms.io/projects/insertion-sort/rust)
+
+---
+
+- [Previous Project](https://sampleprograms.io/projects/hello-world)
+- [Next Project](https://sampleprograms.io/projects/job-sequencing)

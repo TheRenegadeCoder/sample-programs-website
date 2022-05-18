@@ -3,6 +3,7 @@ For example, the following code should return "Capitalize":
 
 ```console
 $ ./capitalize.lang "capitalize"
+Capitalize
 ```
 
 Here are some additional examples:

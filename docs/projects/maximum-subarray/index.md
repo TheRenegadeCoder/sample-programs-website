@@ -58,3 +58,8 @@ Some tests for your program are:
 ## Articles
 
 - [Maximum Subarray in Python](https://sampleprograms.io/projects/maximum-subarray/python)
+
+---
+
+- [Previous Project](https://sampleprograms.io/projects/maximum-array-rotation)
+- [Next Project](https://sampleprograms.io/projects/merge-sort)

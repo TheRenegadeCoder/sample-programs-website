@@ -175,7 +175,7 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         log.exception(f"Failed to write {path}")
 
 
-def _generate_project_index(project: subete.Project):
+def _generate_project_index(project: subete.Project, previous: subete.Project, next: subete.Project):
     """
     Creates an index file for a single project. The path is assumed
     to be `projects/project/index.md`. 
@@ -204,6 +204,11 @@ def _generate_project_index(project: subete.Project):
             f" {project.name()} is not currently tested by Glotter. Consider contributing!"
         ]))
     _add_project_article_section(doc, repo, project)
+    doc.add_horizontal_rule()
+    doc.add_element(snakemd.MDList([
+        snakemd.InlineText(f"Previous Project ({previous})", url=previous.requirements_url()),
+        snakemd.InlineText(f"Next Project ({next})", url=next.requirements_url()),
+    ]))
     doc.output_page(f"docs/projects/{project.pathlike_name()}")
 
 
@@ -238,11 +243,11 @@ def generate_project_paths(repo: subete.Repo):
     and index.md files.
     """
     projects = repo.approved_projects()
-    for project in projects:
+    for i, project in enumerate(projects):
         project: subete.Project
         path = pathlib.Path(f"docs/projects/{project.pathlike_name()}")
         path.mkdir(exist_ok=True, parents=True)
-        _generate_project_index(project)
+        _generate_project_index(project, projects[i - 1], projects[(i + 1) % len(projects)])
 
 
 def generate_sample_programs(repo: subete.Repo):

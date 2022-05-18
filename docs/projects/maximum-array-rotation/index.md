@@ -67,3 +67,8 @@ Maximum Array Rotation. See the following testing section for more specific requ
 ## Articles
 
 - [Maximum Array Rotation in Python](https://sampleprograms.io/projects/maximum-array-rotation/python)
+
+---
+
+- [Previous Project](https://sampleprograms.io/projects/longest-word)
+- [Next Project](https://sampleprograms.io/projects/maximum-subarray)

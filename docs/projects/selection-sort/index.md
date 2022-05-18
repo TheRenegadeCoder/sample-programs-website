@@ -144,3 +144,8 @@ verify the correctness of your solution:
 - [Selection Sort in Matlab](https://sampleprograms.io/projects/selection-sort/matlab)
 - [Selection Sort in Php](https://sampleprograms.io/projects/selection-sort/php)
 - [Selection Sort in Python](https://sampleprograms.io/projects/selection-sort/python)
+
+---
+
+- [Previous Project](https://sampleprograms.io/projects/rot13)
+- [Next Project](https://sampleprograms.io/projects/sleep-sort)

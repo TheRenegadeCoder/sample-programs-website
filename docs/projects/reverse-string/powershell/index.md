@@ -14,7 +14,7 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 {% raw %}
 
 ```powershell
-﻿<#
+ï»¿<#
 .SYNOPSIS
   A simple script for reversing a String.
 
@@ -29,10 +29,10 @@ features of the language.
   .\Reverse-String.ps1 -Input 'Hello, World'
 
 .EXAMPLE
-  .\Reverse-String.ps1 "Les Misérables"
+  .\Reverse-String.ps1 "Les MisÃ©rables"
 
 .EXAMPLE
-  .\Reverse-String.ps1 "字樣樣品"
+  .\Reverse-String.ps1 "å­—æ¨£æ¨£å“�"
 
 .NOTES
   This script does *not* support emoji as PowerShell only has full support for

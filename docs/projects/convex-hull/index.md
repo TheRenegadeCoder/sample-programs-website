@@ -82,3 +82,8 @@ Usage: please provide at least 3 x and y coordinates as separate lists (e.g. "10
 
 - [Convex Hull in Java](https://sampleprograms.io/projects/convex-hull/java)
 - [Convex Hull in Python](https://sampleprograms.io/projects/convex-hull/python)
+
+---
+
+- [Previous Project](https://sampleprograms.io/projects/capitalize)
+- [Next Project](https://sampleprograms.io/projects/depth-first-search)

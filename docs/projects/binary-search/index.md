@@ -87,3 +87,8 @@ Usage: please provide a list of sorted integers ("1, 4, 5, 11, 12") and the inte
 - [Binary Search in Javascript](https://sampleprograms.io/projects/binary-search/javascript)
 - [Binary Search in Python](https://sampleprograms.io/projects/binary-search/python)
 - [Binary Search in Rust](https://sampleprograms.io/projects/binary-search/rust)
+
+---
+
+- [Previous Project](https://sampleprograms.io/projects/baklava)
+- [Next Project](https://sampleprograms.io/projects/bubble-sort)

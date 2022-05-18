@@ -78,3 +78,8 @@ verify the correctness of your solution:
 - [Longest Common Subsequence in Javascript](https://sampleprograms.io/projects/longest-common-subsequence/javascript)
 - [Longest Common Subsequence in Kotlin](https://sampleprograms.io/projects/longest-common-subsequence/kotlin)
 - [Longest Common Subsequence in Python](https://sampleprograms.io/projects/longest-common-subsequence/python)
+
+---
+
+- [Previous Project](https://sampleprograms.io/projects/linear-search)
+- [Next Project](https://sampleprograms.io/projects/longest-palindromic-substring)

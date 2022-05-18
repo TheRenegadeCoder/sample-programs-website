@@ -75,3 +75,8 @@ correctness of your solution:
 - [Prime Number in R](https://sampleprograms.io/projects/prime-number/r)
 - [Prime Number in Rexx](https://sampleprograms.io/projects/prime-number/rexx)
 - [Prime Number in Rust](https://sampleprograms.io/projects/prime-number/rust)
+
+---
+
+- [Previous Project](https://sampleprograms.io/projects/palindromic-number)
+- [Next Project](https://sampleprograms.io/projects/quick-sort)
