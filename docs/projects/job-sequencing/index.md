@@ -94,5 +94,9 @@ verify the correctness of your solution:
 
 ---
 
+<nav class="project-nav">
+
 - [Previous Project (Prime Number)](https://sampleprograms.io/projects/prime-number)
 - [Next Project (Convex Hull)](https://sampleprograms.io/projects/convex-hull)
+
+</nav>

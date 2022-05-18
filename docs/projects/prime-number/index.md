@@ -78,5 +78,9 @@ correctness of your solution:
 
 ---
 
+<nav class="project-nav">
+
 - [Previous Project (Hello World)](https://sampleprograms.io/projects/hello-world)
 - [Next Project (Job Sequencing)](https://sampleprograms.io/projects/job-sequencing)
+
+</nav>

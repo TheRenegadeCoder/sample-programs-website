@@ -66,5 +66,9 @@ Verify that the actual output matches the expected output (see [requirements][1]
 
 ---
 
+<nav class="project-nav">
+
 - [Previous Project (Depth First Search)](https://sampleprograms.io/projects/depth-first-search)
 - [Next Project (Longest Palindromic Substring)](https://sampleprograms.io/projects/longest-palindromic-substring)
+
+</nav>

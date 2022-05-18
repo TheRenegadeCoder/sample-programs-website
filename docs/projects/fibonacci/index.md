@@ -90,5 +90,9 @@ Some tests for your program are:
 
 ---
 
+<nav class="project-nav">
+
 - [Previous Project (Maximum Array Rotation)](https://sampleprograms.io/projects/maximum-array-rotation)
 - [Next Project (Roman Numeral)](https://sampleprograms.io/projects/roman-numeral)
+
+</nav>

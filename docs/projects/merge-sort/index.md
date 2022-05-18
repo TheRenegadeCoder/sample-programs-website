@@ -107,5 +107,9 @@ verify the correctness of your solution:
 
 ---
 
+<nav class="project-nav">
+
 - [Previous Project (Fizz Buzz)](https://sampleprograms.io/projects/fizz-buzz)
 - [Next Project (Bubble Sort)](https://sampleprograms.io/projects/bubble-sort)
+
+</nav>

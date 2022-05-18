@@ -117,5 +117,9 @@ verify the correctness of your solution:
 
 ---
 
+<nav class="project-nav">
+
 - [Previous Project (Convex Hull)](https://sampleprograms.io/projects/convex-hull)
 - [Next Project (Quine)](https://sampleprograms.io/projects/quine)
+
+</nav>

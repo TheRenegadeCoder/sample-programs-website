@@ -109,5 +109,9 @@ Baklava has no input, so there are no invalid test cases.
 
 ---
 
+<nav class="project-nav">
+
 - [Previous Project (Linear Search)](https://sampleprograms.io/projects/linear-search)
 - [Next Project (Maximum Array Rotation)](https://sampleprograms.io/projects/maximum-array-rotation)
+
+</nav>
