@@ -3,7 +3,7 @@
 title: Even Odd in Swift
 layout: default
 date: 2022-04-28
-last-modified: 2022-08-07
+last-modified: 2022-08-14
 
 ---
 
