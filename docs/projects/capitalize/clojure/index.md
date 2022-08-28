@@ -3,7 +3,7 @@
 title: Capitalize in Clojure
 layout: default
 date: 2022-04-28
-last-modified: 2022-08-21
+last-modified: 2022-08-28
 
 ---
 
