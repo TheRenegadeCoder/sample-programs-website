@@ -1,0 +1,99 @@
+---
+
+title: Binary Search in Java
+layout: default
+date: 2022-06-10
+last-modified: 2022-06-10
+
+---
+
+Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Java](https://sampleprograms.io/languages/Java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+
+## Java Solution
+
+
+```
+import java.util.ArrayList;
+import java.util.Collections;
+
+class BinarySearch {
+    public static int binarySearch(int array[], int element) {
+        int startIndex = 0;
+        int endIndex = array.length - 1;
+        int middleIndex = (startIndex + endIndex) / 2;
+
+        while (startIndex <= endIndex) {
+            if (array[middleIndex] == element) {
+                return middleIndex;
+            } else if (array[middleIndex] < element) {
+                startIndex = middleIndex + 1;
+            } else {
+                endIndex = middleIndex - 1;
+            }
+            middleIndex = (startIndex + endIndex) / 2;
+        }
+        // if Element is not found
+        return -1;
+    }
+
+    public static boolean isSorted(int array[], ArrayList<Integer> arrayList) {
+        Collections.sort(arrayList);
+        for (int i = 0; i < array.length; i++) {
+            if (array[i] != arrayList.get(i)) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    public static void main(String args[]) {
+        if (args.length != 2) {
+            System.out.println("Wrong Input given ");
+            System.out.println("Expected input \" Array of Integers \" \" Integer to be found \" ");
+            return;
+        }
+        String arrayString = args[0];
+        int element = Integer.parseInt(args[1]);
+        ArrayList<Integer> arrayList = new ArrayList<>();
+        for (String character : arrayString.split(",")) {
+            arrayList.add(Integer.parseInt(String.valueOf(character)));
+        }
+        int array[] = new int[arrayList.size()];
+        for (int i = 0; i < arrayList.size(); i++) {
+            array[i] = arrayList.get(i);
+        }
+        if (isSorted(array, arrayList)) {
+            int index = binarySearch(array, element);
+            if (index == -1) {
+                System.out.println("Element " + element + " not found in the Array");
+            } else {
+                System.out.println("Element " + element + " Found at index " + index);
+            }
+        } else {
+            System.out.println("Given input array is not sorted");
+        }
+
+    }
+}
+```
+
+
+[Binary Search](https://sampleprograms.io/projects/binary-search) in [Java](https://sampleprograms.io/languages/java) was written by:
+
+- Shreyas Kamath
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+## How to Implement the Solution
+
+* First, the search space must have constant time random access (i.e. an array). In addition, the search space must be sorted by some attribute. As a consequence, we're able to navigate the search space in O(log(N)) instead of O(N).
+
+* If the middle element is greater than the element we want to find, we know that the element must be "to the left" of that element, assuming the collection is sorted least to greatest. From there, we can try the element in the middle of the left half, and so on
+
+* Eventually, we'll find the element we're looking for and return true, or we'll reach the end of our search and return false. 
+
+## How to Run the Solution
+
+* Save the code as a .java file eg BinarySearch.java
+* Run the command ``` javac BinarySearch.java ``` in the directory containing this file
+* Run the command with the desired input arguments eg ``` java BinarySearch "10,20,30,40,50" "40" ``` 
