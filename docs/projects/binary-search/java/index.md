@@ -2,7 +2,7 @@
 
 title: Binary Search in Java
 layout: default
-last-modified: 2020-10-08
+last-modified: 2022-10-08
 featured-image: binary-search-in-every-language.jpg
 tags: [java, binary_search]
 authors:
@@ -71,11 +71,9 @@ If you see anything you'd like to change or update, [please consider contributin
 
 ## How to Implement the Solution
 
-
-### Solution
-
 At this point, let's dig into the code a bit. The following sections break down the Binary Search in Java functionality.
 
+### Solution
 
 ```
 import java.util.ArrayList;
