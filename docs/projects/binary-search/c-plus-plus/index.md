@@ -3,7 +3,7 @@
 title: Binary Search in C++
 layout: default
 date: 2022-04-28
-last-modified: 2022-10-02
+last-modified: 2022-10-08
 
 ---
 
@@ -107,7 +107,7 @@ int main(int argc,char* argv[]){
 		int mid=(start+end)/2;
 
 		if(num<v[mid]){
-			end=mid-1;
+			end=mid;
 		}else if(v[mid]<num){
 			start=mid+1;
 		}else if(v[mid]==num){
@@ -128,9 +128,12 @@ int main(int argc,char* argv[]){
 
 [Binary Search](https://sampleprograms.io/projects/binary-search) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
+- Chiara De Luca
 - Sailok Chinta
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 02 2022 18:06:21. The solution was first committed on Oct 27 2019 17:48:32. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

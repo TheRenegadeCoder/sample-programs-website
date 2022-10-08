@@ -72,6 +72,9 @@ As always, these tests will be run against any code submitted to the repo via [G
 
 ## Articles
 
+- [Longest Word in C](https://sampleprograms.io/projects/longest-word/c)
+- [Longest Word in C++](https://sampleprograms.io/projects/longest-word/c-plus-plus)
+- [Longest Word in Java](https://sampleprograms.io/projects/longest-word/java)
 - [Longest Word in Python](https://sampleprograms.io/projects/longest-word/python)
 
 ---

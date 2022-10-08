@@ -113,6 +113,7 @@ verify the correctness of your solution:
 - [Quick Sort in Objective C](https://sampleprograms.io/projects/quick-sort/objective-c)
 - [Quick Sort in Php](https://sampleprograms.io/projects/quick-sort/php)
 - [Quick Sort in Python](https://sampleprograms.io/projects/quick-sort/python)
+- [Quick Sort in Rust](https://sampleprograms.io/projects/quick-sort/rust)
 - [Quick Sort in Scala](https://sampleprograms.io/projects/quick-sort/scala)
 
 ---

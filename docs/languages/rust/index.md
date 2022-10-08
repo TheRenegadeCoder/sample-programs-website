@@ -39,6 +39,7 @@ In terms of syntax, Rust resembles languages like C and C++, but it borrows quit
 - [Insertion Sort in Rust](https://sampleprograms.io/projects/insertion-sort/rust)
 - [Merge Sort in Rust](https://sampleprograms.io/projects/merge-sort/rust)
 - [Prime Number in Rust](https://sampleprograms.io/projects/prime-number/rust)
+- [Quick Sort in Rust](https://sampleprograms.io/projects/quick-sort/rust)
 - [Reverse String in Rust](https://sampleprograms.io/projects/reverse-string/rust)
 - [Roman Numeral in Rust](https://sampleprograms.io/projects/roman-numeral/rust)
 - [Rot13 in Rust](https://sampleprograms.io/projects/rot13/rust)

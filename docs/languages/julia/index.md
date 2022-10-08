@@ -41,9 +41,12 @@ expect several different dialects of it to emerge.
 
 - [Baklava in Julia](https://sampleprograms.io/projects/baklava/julia)
 - [Bubble Sort in Julia](https://sampleprograms.io/projects/bubble-sort/julia)
+- [Capitalize in Julia](https://sampleprograms.io/projects/capitalize/julia)
 - [Even Odd in Julia](https://sampleprograms.io/projects/even-odd/julia)
 - [Factorial in Julia](https://sampleprograms.io/projects/factorial/julia)
 - [Fibonacci in Julia](https://sampleprograms.io/projects/fibonacci/julia)
 - [Fizz Buzz in Julia](https://sampleprograms.io/projects/fizz-buzz/julia)
 - [Hello World in Julia](https://sampleprograms.io/projects/hello-world/julia)
+- [Remove All Whitespace in Julia](https://sampleprograms.io/projects/remove-all-whitespace/julia)
+- [Reverse String in Julia](https://sampleprograms.io/projects/reverse-string/julia)
 - [Selection Sort in Julia](https://sampleprograms.io/projects/selection-sort/julia)

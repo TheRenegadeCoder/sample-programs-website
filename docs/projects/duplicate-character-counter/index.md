@@ -43,6 +43,9 @@ that has a duplicate.
 
 ## Articles
 
+- [Duplicate Character Counter in C](https://sampleprograms.io/projects/duplicate-character-counter/c)
+- [Duplicate Character Counter in C++](https://sampleprograms.io/projects/duplicate-character-counter/c-plus-plus)
+- [Duplicate Character Counter in Java](https://sampleprograms.io/projects/duplicate-character-counter/java)
 - [Duplicate Character Counter in Python](https://sampleprograms.io/projects/duplicate-character-counter/python)
 
 ---

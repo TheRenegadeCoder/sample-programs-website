@@ -72,6 +72,7 @@ your language can handle unicode characters, but it fails for emojis.
 - [Reverse String in Haskell](https://sampleprograms.io/projects/reverse-string/haskell)
 - [Reverse String in Java](https://sampleprograms.io/projects/reverse-string/java)
 - [Reverse String in Javascript](https://sampleprograms.io/projects/reverse-string/javascript)
+- [Reverse String in Julia](https://sampleprograms.io/projects/reverse-string/julia)
 - [Reverse String in Kotlin](https://sampleprograms.io/projects/reverse-string/kotlin)
 - [Reverse String in Lisp](https://sampleprograms.io/projects/reverse-string/lisp)
 - [Reverse String in Lua](https://sampleprograms.io/projects/reverse-string/lua)

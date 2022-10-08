@@ -87,6 +87,7 @@ Usage: please provide a string
 - [Capitalize in Haskell](https://sampleprograms.io/projects/capitalize/haskell)
 - [Capitalize in Java](https://sampleprograms.io/projects/capitalize/java)
 - [Capitalize in Javascript](https://sampleprograms.io/projects/capitalize/javascript)
+- [Capitalize in Julia](https://sampleprograms.io/projects/capitalize/julia)
 - [Capitalize in Kotlin](https://sampleprograms.io/projects/capitalize/kotlin)
 - [Capitalize in Lisp](https://sampleprograms.io/projects/capitalize/lisp)
 - [Capitalize in Lua](https://sampleprograms.io/projects/capitalize/lua)

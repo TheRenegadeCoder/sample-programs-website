@@ -37,9 +37,11 @@ great features like garbage collection which offset some of these complaints.
 ## Articles
 
 - [Baklava in Java](https://sampleprograms.io/projects/baklava/java)
+- [Binary Search in Java](https://sampleprograms.io/projects/binary-search/java)
 - [Bubble Sort in Java](https://sampleprograms.io/projects/bubble-sort/java)
 - [Capitalize in Java](https://sampleprograms.io/projects/capitalize/java)
 - [Convex Hull in Java](https://sampleprograms.io/projects/convex-hull/java)
+- [Duplicate Character Counter in Java](https://sampleprograms.io/projects/duplicate-character-counter/java)
 - [Even Odd in Java](https://sampleprograms.io/projects/even-odd/java)
 - [Factorial in Java](https://sampleprograms.io/projects/factorial/java)
 - [Fibonacci in Java](https://sampleprograms.io/projects/fibonacci/java)
@@ -50,6 +52,7 @@ great features like garbage collection which offset some of these complaints.
 - [Job Sequencing in Java](https://sampleprograms.io/projects/job-sequencing/java)
 - [Linear Search in Java](https://sampleprograms.io/projects/linear-search/java)
 - [Longest Common Subsequence in Java](https://sampleprograms.io/projects/longest-common-subsequence/java)
+- [Longest Word in Java](https://sampleprograms.io/projects/longest-word/java)
 - [Merge Sort in Java](https://sampleprograms.io/projects/merge-sort/java)
 - [Palindromic Number in Java](https://sampleprograms.io/projects/palindromic-number/java)
 - [Prime Number in Java](https://sampleprograms.io/projects/prime-number/java)
