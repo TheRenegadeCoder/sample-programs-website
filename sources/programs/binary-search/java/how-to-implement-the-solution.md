@@ -1,6 +1,8 @@
 
 ### Solution
 
+At this point, let's dig into the code a bit. The following sections break down the Binary Search in Java functionality.
+
 
 ```
 import java.util.ArrayList;
