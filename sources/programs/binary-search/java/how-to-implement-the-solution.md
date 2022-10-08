@@ -69,6 +69,7 @@ class BinarySearch {
 
 
 ### The Main Function
+
 ```
 public static void main(String args[]) {
         if (args.length != 2) {
@@ -105,6 +106,7 @@ The input to the main function is supplied in the form of command line arguments
 The function splits this input through the delimeter ',' and converts the strings to integer array.
 The isSorted function is called to check if the given input array is sorted If not it throws the Error "Given input array is not sorted"
 If the input array is sorted the binary search function is called 
+
 ### Binary Search
 
 ```
@@ -127,15 +129,10 @@ public static int binarySearch(int array[], int element) {
         return -1;
     }
 ```
+
 * First, the search space must have constant time random access (i.e. an array). In addition, the search space must be sorted by some attribute. As a consequence, we're able to navigate the search space in O(log(N)) instead of O(N).
 
 * If the middle element is greater than the element we want to find, we know that the element must be "to the left" of that element, assuming the collection is sorted least to greatest. From there, we can try the element in the middle of the left half, and so on
 
 * Eventually, we'll find the element we're looking for and return true, or we'll reach the end of our search and return false. 
  
-
-## How to Run the Solution
-
-* Save the code as a .java file eg BinarySearch.java
-* Run the command ``` javac BinarySearch.java ``` in the directory containing this file
-* Run the command with the desired input arguments eg ``` java BinarySearch "10,20,30,40,50" "40" ``` 
