@@ -2,7 +2,6 @@
 theme: jekyll-theme-dinky
 title: Sample Programs in Every Language
 description: A Collection of Code Snippets in as Many Programming Languages as Possible
-google_analytics: UA-97956707-2
 show_downloads: true
 
 # Data
@@ -27,6 +26,6 @@ plugins:
   - jekyll-sitemap # See https://github.com/jekyll/jekyll-sitemap
 
 github:
-  zip_url: https://github.com/TheRenegadeCoder/sample-programs/zipball/main
-  tar_url: https://github.com/TheRenegadeCoder/sample-programs/tarball/main
-  repository_url: https://github.com/TheRenegadeCoder/sample-programs
+  zip_url: https://github.com/TheRenegadeCoder/sample-programs-website/zipball/main
+  tar_url: https://github.com/TheRenegadeCoder/sample-programs-website/tarball/main
+  repository_url: https://github.com/TheRenegadeCoder/sample-programs-website
