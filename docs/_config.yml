@@ -10,7 +10,7 @@ image_path: /assets/images/
 title_image: sample-programs-in-every-language-featured-image.JPEG
 
 # Repo metadata
-repository: TheRenegadeCoder/sample-programs
+repository: TheRenegadeCoder/sample-programs-website
 
 # File exclusion settings
 exclude: ["CNAME", "Gemfile", "templates"]
