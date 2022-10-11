@@ -94,7 +94,7 @@ Finally we have a long statement to put that output onto the screen.
   }
 }
 ```
-
+     
 This references a standard library function, and can be used at any time to output
 text. The ln at the end means that after the output variable is printed it will
 be followed by a newline, allowing the next loop to follow.
