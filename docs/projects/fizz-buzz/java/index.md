@@ -18,21 +18,21 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Jav
 
 ```java
 public class FizzBuzz {
-  public static void main(String[] args) {
-    for (int i = 1; i < 101; i++) {
-      String output = "";
-      if (i % 3 == 0) {
-        output += "Fizz";
-      }
-      if (i % 5 == 0) {
-        output += "Buzz";
-      }
-      if (output.isEmpty()) {
-        output += i;
-      }
-      System.out.println(output);
+    public static void main(String[] args) {
+        for (int i = 1; i < 101; i++) {
+            String output = "";
+            if (i % 3 == 0) {
+                output += "Fizz";
+            }
+            if (i % 5 == 0) {
+                output += "Buzz";
+            }
+            if (output.isEmpty()) {
+                output += i;
+            }
+            System.out.println(output);
+        }
     }
-  }
 }
 ```
 
@@ -43,6 +43,8 @@ public class FizzBuzz {
 - Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Sep 08 2018 22:49:52. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

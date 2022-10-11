@@ -22,8 +22,8 @@ using namespace std;
 
 int main()
 {
-   cout << "Hello, World!";
-   return 0;
+    cout << "Hello, World!";
+    return 0;
 }
 ```
 
@@ -32,8 +32,11 @@ int main()
 [Hello World](https://sampleprograms.io/projects/hello-world) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Jeremy Griffith
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 16:05:09. The solution was first committed on Mar 21 2018 00:11:57. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

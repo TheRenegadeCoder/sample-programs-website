@@ -3,7 +3,7 @@
 title: Dijkstra in C++
 layout: default
 date: 2022-04-28
-last-modified: 2022-10-10
+last-modified: 2022-10-11
 
 ---
 
@@ -18,11 +18,9 @@ Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [C++](
 #define pii pair<int, int>
 using namespace std;
 
-/* Declaring variables globally. So that we are not required to pass them in functions as parameters */
-// const int N=3e5+10;
 const int N = 7;
 bool vis[N];
-vector<pii> g[N]; // Adjacency list for representing graph
+vector<pii> g[N];
 vector<int> dis(N, INT_MAX);
 
 void handle_error()
@@ -31,12 +29,10 @@ void handle_error()
     exit(0);
 }
 
-// Function to check whether inputs satisfy given constraints
 int check(string s)
 {
     int x1 = 0, x2 = (int)s.size() - 1;
 
-    // x1 gives first index position where integer occurs
     for (int i = 0; i < s.size(); i++)
     {
         if (s[i] != ' ')
@@ -46,7 +42,6 @@ int check(string s)
         }
     }
 
-    // x2 gives last index position where integer occurs
     for (int i = (int)s.size() - 1; i >= x1; i--)
     {
         if (s[i] != ' ')
@@ -56,7 +51,6 @@ int check(string s)
         }
     }
 
-    // if any space occurs between this substring then throw error
     for (int i = x1; i <= x2; i++)
     {
         if (s[i] == ' ')
@@ -68,12 +62,9 @@ int check(string s)
     return stoi(s);
 }
 
-// Function for converting string input into integer vector
 vector<int> convert(string s)
 {
-    /*
-        Loop to convert numbers in string to integers
-    */
+
     if (s.size() == 0)
     {
         handle_error();
@@ -99,7 +90,6 @@ vector<int> convert(string s)
     if (num.size() > 0)
     {
         int x = check(num);
-        //        cout<<num<<" -> "<<x<<"\n";
         if (x < 0)
             handle_error();
         v.push_back(x);
@@ -108,7 +98,6 @@ vector<int> convert(string s)
     return v;
 }
 
-/* Dijkstra Function */
 vector<int> dijkstra(int src)
 {
     set<pii> s;
@@ -135,7 +124,6 @@ vector<int> dijkstra(int src)
     return dis;
 }
 
-// Main Function
 int main(int argc, char *argv[])
 {
 
@@ -181,8 +169,11 @@ int main(int argc, char *argv[])
 [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Ajay Maheshwari
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 16:05:09. The solution was first committed on Oct 06 2022 05:06:52. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

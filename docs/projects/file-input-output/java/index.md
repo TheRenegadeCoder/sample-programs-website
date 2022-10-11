@@ -3,7 +3,7 @@
 title: File Input Output in Java
 layout: default
 date: 2022-04-28
-last-modified: 2022-10-10
+last-modified: 2022-10-11
 
 ---
 
@@ -23,52 +23,52 @@ import java.io.IOException;
 
 public class FileInputOutput {
 
-	public static void main(String[] args) {
-		File file = new File("output.txt");
-		writeToFile(file);
-		readFile(file);
-	}
+    public static void main(String[] args) {
+        File file = new File("output.txt");
+        writeToFile(file);
+        readFile(file);
+    }
 
-	public static void readFile(File file) {
+    public static void readFile(File file) {
 
-		try {
+        try {
 
-			BufferedReader buffer = new BufferedReader(new FileReader(file));
-			try {
-				String nextLine = buffer.readLine();
-				while (nextLine != null) {
-					System.out.println(nextLine);
-					nextLine = buffer.readLine();
-				}
-				buffer.close();
-			} catch (IOException e) {
+            BufferedReader buffer = new BufferedReader(new FileReader(file));
+            try {
+                String nextLine = buffer.readLine();
+                while (nextLine != null) {
+                    System.out.println(nextLine);
+                    nextLine = buffer.readLine();
+                }
+                buffer.close();
+            } catch (IOException e) {
 
-				System.out.println("Error occurred while reading the file");
-			}
+                System.out.println("Error occurred while reading the file");
+            }
 
-		} catch (FileNotFoundException e) {
+        } catch (FileNotFoundException e) {
 
-			System.out.println("Error occurred while opening the file!");
-		}
+            System.out.println("Error occurred while opening the file!");
+        }
 
-	}
+    }
 
-	public static void writeToFile(File file) {
+    public static void writeToFile(File file) {
 
-		String content = "We wish you a Merry Christmas\n" +
-				"We wish you a Merry Christmas\n" +
-				"We wish you a Merry Christmas\n" +
-				"And a happy New Year.";
-		try {
-			FileWriter writer = new FileWriter(file);
-			writer.write(content);
-			writer.close();
-		} catch (IOException e) {
+        String content = "We wish you a Merry Christmas\n" +
+                "We wish you a Merry Christmas\n" +
+                "We wish you a Merry Christmas\n" +
+                "And a happy New Year.";
+        try {
+            FileWriter writer = new FileWriter(file);
+            writer.write(content);
+            writer.close();
+        } catch (IOException e) {
 
-			System.out.println("Error occurred while writing contents to file!");
-		}
+            System.out.println("Error occurred while writing contents to file!");
+        }
 
-	}
+    }
 
 }
 ```
@@ -82,7 +82,7 @@ public class FileInputOutput {
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 16 2022 11:56:20. The solution was first committed on Oct 13 2019 18:50:32. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Oct 13 2019 18:50:32. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

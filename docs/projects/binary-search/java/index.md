@@ -19,45 +19,47 @@ Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search)
 ```java
 import java.util.*;
 
-public class BinarySearch{  
- public static void binarySearch(ArrayList<Integer> arr, int first, int last, int key){  
-   int mid = (first + last)/2;  
-   while( first <= last ){  
-      if ( arr.get(mid) < key ){  
-        first = mid + 1;     
-      }else if ( arr.get(mid) == key ){  
-        System.out.println("True");  
-        break;  
-      }else{  
-         last = mid - 1;  
-      }  
-      mid = (first + last)/2;  
-   }  
-   if ( first > last ){  
-      System.out.println("False");  
-   }  
- }  
- public static void main(String args[]){ 
-    try {
+public class BinarySearch {
+    public static void binarySearch(ArrayList<Integer> arr, int first, int last, int key) {
+        int mid = (first + last) / 2;
+        while (first <= last) {
+            if (arr.get(mid) < key) {
+                first = mid + 1;
+            } else if (arr.get(mid) == key) {
+                System.out.println("True");
+                break;
+            } else {
+                last = mid - 1;
+            }
+            mid = (first + last) / 2;
+        }
+        if (first > last) {
+            System.out.println("False");
+        }
+    }
+
+    public static void main(String args[]) {
+        try {
             ArrayList<Integer> listOfNumbers = new ArrayList<>();
             String[] NumberArray = args[0].split(",");
-            for(String Number: NumberArray) {
+            for (String Number : NumberArray) {
                 listOfNumbers.add(Integer.parseInt(Number.trim()));
             }
-            int key = Integer.parseInt(args[1].trim());  
-            int last=listOfNumbers.size()-1;  
-            for(int i=0;i<last-1;i++){
-                if(listOfNumbers.get(i)>listOfNumbers.get(i+1)){
-                    System.out.println("Usage: please provide a list of sorted integers (\"1, 4, 5, 11, 12\") and the integer to find (\"11\")");
+            int key = Integer.parseInt(args[1].trim());
+            int last = listOfNumbers.size() - 1;
+            for (int i = 0; i < last - 1; i++) {
+                if (listOfNumbers.get(i) > listOfNumbers.get(i + 1)) {
+                    System.out.println(
+                            "Usage: please provide a list of sorted integers (\"1, 4, 5, 11, 12\") and the integer to find (\"11\")");
                     System.exit(1);
                 }
             }
-            binarySearch(listOfNumbers,0,last,key); 
+            binarySearch(listOfNumbers, 0, last, key);
+        } catch (Exception e) {
+            System.out.println(
+                    "Usage: please provide a list of sorted integers (\"1, 4, 5, 11, 12\") and the integer to find (\"11\")");
         }
-        catch(Exception e) {
-            System.out.println("Usage: please provide a list of sorted integers (\"1, 4, 5, 11, 12\") and the integer to find (\"11\")");
-        } 
- }  
+    }
 }
 ```
 
@@ -65,9 +67,12 @@ public class BinarySearch{
 
 [Binary Search](https://sampleprograms.io/projects/binary-search) in [Java](https://sampleprograms.io/languages/java) was written by:
 
+- Jeremy Grifski
 - Vipin Yadav
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Oct 02 2022 21:43:00. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

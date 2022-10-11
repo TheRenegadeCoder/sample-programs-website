@@ -3,7 +3,7 @@
 title: Reverse String in C++
 layout: default
 date: 2022-04-28
-last-modified: 2022-10-10
+last-modified: 2022-10-11
 
 ---
 
@@ -20,9 +20,9 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 
 int main(int argc, char *argv[])
 {
-    if(argc < 2)
+    if (argc < 2)
         return 0;
-    
+
     std::string s = argv[1];
     std::reverse(s.begin(), s.end());
 
@@ -34,9 +34,12 @@ int main(int argc, char *argv[])
 
 [Reverse String](https://sampleprograms.io/projects/reverse-string) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
+- Jeremy Grifski
 - Noah
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 16:05:09. The solution was first committed on Sep 14 2018 10:48:01. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

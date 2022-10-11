@@ -3,7 +3,7 @@
 title: Longest Word in Java
 layout: default
 date: 2022-04-28
-last-modified: 2022-10-10
+last-modified: 2022-10-11
 
 ---
 
@@ -15,27 +15,29 @@ Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) i
 
 ```java
 import java.util.*;
+
 class LongestWord {
-    public static void error(){
+    public static void error() {
         System.out.println("Usage: please provide a string");
     }
+
     public static void main(String[] args) {
-        if(args.length <=0){
+        if (args.length <= 0) {
             error();
-        }else if(args[0].length()==0){
+        } else if (args[0].length() == 0) {
             error();
-        }else{
+        } else {
             String inputStr = args[0];
-            String [] words = inputStr.split("\\s+");
+            String[] words = inputStr.split("\\s+");
             int max = -1;
-            for(String word:words){
-                if(word.length()>max){
+            for (String word : words) {
+                if (word.length() > max) {
                     max = word.length();
                 }
             }
             System.out.println(max);
         }
-  }
+    }
 }
 ```
 
@@ -43,9 +45,12 @@ class LongestWord {
 
 [Longest Word](https://sampleprograms.io/projects/longest-word) in [Java](https://sampleprograms.io/languages/java) was written by:
 
+- Jeremy Grifski
 - Vipin Yadav
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Oct 03 2022 21:21:24. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

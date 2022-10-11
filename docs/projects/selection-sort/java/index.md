@@ -3,7 +3,7 @@
 title: Selection Sort in Java
 layout: default
 date: 2022-04-28
-last-modified: 2022-10-10
+last-modified: 2022-10-11
 
 ---
 
@@ -22,34 +22,35 @@ public class SelectionSort {
         try {
             ArrayList<Integer> listOfNumbers = new ArrayList<>();
             String[] NumberArray = args[0].split(",");
-            for(String Number: NumberArray) {
+            for (String Number : NumberArray) {
                 listOfNumbers.add(Integer.parseInt(Number.trim()));
             }
-            if(listOfNumbers.size() >= 2){
+            if (listOfNumbers.size() >= 2) {
                 StringBuilder output = new StringBuilder();
                 ArrayList<Integer> SortedList = sort(listOfNumbers);
 
-                for(Integer Number: SortedList){
-                    if(SortedList.indexOf(Number) == 0){
+                for (Integer Number : SortedList) {
+                    if (SortedList.indexOf(Number) == 0) {
                         output.append(Number);
-                    }else{
+                    } else {
                         output.append(", ").append(Number);
                     }
                 }
                 System.out.println(output);
-            }else{
-                System.out.println("Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\"");
+            } else {
+                System.out.println(
+                        "Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\"");
             }
-        }
-        catch(Exception e) {
-            System.out.println("Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\"");
+        } catch (Exception e) {
+            System.out.println(
+                    "Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\"");
         }
     }
 
-    private static ArrayList<Integer> sort(ArrayList<Integer> list){
-        for(int i = 0; i < list.size() -1; i++){
-            for(int j = i + 1; j < list.size(); j++){
-                if(list.get(j) < list.get(i)){
+    private static ArrayList<Integer> sort(ArrayList<Integer> list) {
+        for (int i = 0; i < list.size() - 1; i++) {
+            for (int j = i + 1; j < list.size(); j++) {
+                if (list.get(j) < list.get(i)) {
                     int memory = list.get(i);
                     list.set(i, list.get(j));
                     list.set(j, memory);
@@ -65,11 +66,12 @@ public class SelectionSort {
 
 [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Java](https://sampleprograms.io/languages/java) was written by:
 
+- Jeremy Grifski
 - Tim Lange
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2019 02:07:29. The solution was first committed on Oct 15 2019 01:45:52. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Oct 15 2019 01:45:52. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

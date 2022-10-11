@@ -25,7 +25,7 @@ void write_file()
 {
     std::fstream out("output.txt", std::ios::out);
 
-    if(!out.is_open())
+    if (!out.is_open())
     {
         std::cout << "Could not open file!\n";
         return;
@@ -45,14 +45,14 @@ void read_file()
 
     in.open("output.txt", std::ios::in);
 
-    if(!in.is_open())
+    if (!in.is_open())
     {
         std::cout << "Could not open file!\n";
         return;
     }
 
     std::string line;
-    while(std::getline(in, line))
+    while (std::getline(in, line))
     {
         std::cout << line << "\n";
     }
@@ -71,9 +71,12 @@ int main()
 
 [File Input Output](https://sampleprograms.io/projects/file-input-output) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
+- Jeremy Grifski
 - Noah Nichols
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 16:05:09. The solution was first committed on Sep 10 2018 22:37:35. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

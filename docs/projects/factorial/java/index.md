@@ -3,7 +3,7 @@
 title: Factorial in Java
 layout: default
 date: 2022-04-28
-last-modified: 2022-10-10
+last-modified: 2022-10-11
 
 ---
 
@@ -14,35 +14,26 @@ Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Jav
 {% raw %}
 
 ```java
-public class Factorial
-{
-    public static long fact(long n)
-    {
+public class Factorial {
+    public static long fact(long n) {
         if (n <= 0)
             return 1;
         return n * fact(n - 1);
     }
 
-    public static void main(String[] args)
-    {
-        try
-        {
+    public static void main(String[] args) {
+        try {
             long n = Long.parseLong(args[0]);
-            if (n > 59)
-            {
+            if (n > 59) {
                 System.out.println(String.format("%1$s! is out of the reasonable bounds for calculation.", n));
                 System.exit(1);
-            }
-            else if (n < 0)
-            {
+            } else if (n < 0) {
                 System.out.println("Usage: please input a non-negative integer");
                 System.exit(1);
             }
             long result = fact(n);
             System.out.println(result);
-        }
-        catch (Exception e)
-        {
+        } catch (Exception e) {
             System.out.println("Usage: please input a non-negative integer");
             System.exit(1);
         }
@@ -55,11 +46,12 @@ public class Factorial
 [Factorial](https://sampleprograms.io/projects/factorial) in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Bharath
+- Jeremy Grifski
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 15:02:04. The solution was first committed on Dec 30 2018 17:30:18. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Dec 30 2018 17:30:18. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

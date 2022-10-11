@@ -3,7 +3,7 @@
 title: Factorial in C++
 layout: default
 date: 2022-04-28
-last-modified: 2022-10-10
+last-modified: 2022-10-11
 
 ---
 
@@ -20,30 +20,30 @@ using namespace std;
 
 int main(int argc, char *argv[])
 {
-  if (argc < 2 || std::string(argv[1]) == "")
-  {
-    cout << "Usage: please input a non-negative integer" << endl;
-    return 1;
-  }
+    if (argc < 2 || std::string(argv[1]) == "")
+    {
+        cout << "Usage: please input a non-negative integer" << endl;
+        return 1;
+    }
 
-  int n = atoi(argv[1]);
-  if (n == 0 && std::string(argv[1]) != "0")
-  {
-    cout << "Usage: please input a non-negative integer" << endl;
-    return 1;
-  }
-  if(n<0)
-  {
-    cout << "Usage: please input a non-negative integer" << endl;
-    return 1;
-  }
-  int i,fact=1;        
-  for(i=1; i<=n; i++)
-  {    
-      fact=fact*i;    
-  }    
-  cout<<fact<<endl;  
-  return 0;
+    int n = atoi(argv[1]);
+    if (n == 0 && std::string(argv[1]) != "0")
+    {
+        cout << "Usage: please input a non-negative integer" << endl;
+        return 1;
+    }
+    if (n < 0)
+    {
+        cout << "Usage: please input a non-negative integer" << endl;
+        return 1;
+    }
+    int i, fact = 1;
+    for (i = 1; i <= n; i++)
+    {
+        fact = fact * i;
+    }
+    cout << fact << endl;
+    return 0;
 }
 ```
 
@@ -52,8 +52,11 @@ int main(int argc, char *argv[])
 [Factorial](https://sampleprograms.io/projects/factorial) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Angooj Kumar Singh
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 16:05:09. The solution was first committed on Oct 09 2019 11:00:44. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

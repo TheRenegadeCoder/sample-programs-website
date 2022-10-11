@@ -3,7 +3,7 @@
 title: Rot13 in Java
 layout: default
 date: 2022-04-28
-last-modified: 2022-10-10
+last-modified: 2022-10-11
 
 ---
 
@@ -14,40 +14,34 @@ Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Java](https
 {% raw %}
 
 ```java
-public class Rot13
-{
-   public static void main(String[] args)
-   {
-      if(args.length<1) {
-         System.out.println("Usage: please provide a string to encrypt");
-      }
-      else {
-         String code = args[0];
-         String result = "";
-         if(code.length()==0) {
+public class Rot13 {
+    public static void main(String[] args) {
+        if (args.length < 1) {
             System.out.println("Usage: please provide a string to encrypt");
-         }
-         else {
-            String lower = "abcdefghijklmnopqrstuvwxyz";
-            String upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-            for(int a=0; a<code.length(); a++) {
-               String ch = code.substring(a,a+1);
-               int l = lower.indexOf(ch);
-               int u = upper.indexOf(ch);
-               if(l!=-1) {
-                  result+=lower.substring( (l+13)%26,(l+14)%26!=0 ? (l+14)%26 : l+14 );
-               }
-               else if(u!=-1) {
-                  result+=upper.substring( (u+13)%26,(u+14)%26!=0 ? (u+14)%26 : u+14 );
-               }
-               else {
-                  result+=ch;
-               }
+        } else {
+            String code = args[0];
+            String result = "";
+            if (code.length() == 0) {
+                System.out.println("Usage: please provide a string to encrypt");
+            } else {
+                String lower = "abcdefghijklmnopqrstuvwxyz";
+                String upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+                for (int a = 0; a < code.length(); a++) {
+                    String ch = code.substring(a, a + 1);
+                    int l = lower.indexOf(ch);
+                    int u = upper.indexOf(ch);
+                    if (l != -1) {
+                        result += lower.substring((l + 13) % 26, (l + 14) % 26 != 0 ? (l + 14) % 26 : l + 14);
+                    } else if (u != -1) {
+                        result += upper.substring((u + 13) % 26, (u + 14) % 26 != 0 ? (u + 14) % 26 : u + 14);
+                    } else {
+                        result += ch;
+                    }
+                }
+                System.out.println(result);
             }
-            System.out.println(result);
-         }
-      }
-   }
+        }
+    }
 }
 ```
 
@@ -55,12 +49,12 @@ public class Rot13
 
 [Rot13](https://sampleprograms.io/projects/rot13) in [Java](https://sampleprograms.io/languages/java) was written by:
 
+- Jeremy Grifski
 - jsonW0
-- smallblack9
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 18:07:28. The solution was first committed on Oct 27 2019 22:01:29. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Oct 27 2019 22:01:29. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

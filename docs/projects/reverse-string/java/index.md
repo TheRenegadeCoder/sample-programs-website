@@ -18,13 +18,13 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 
 ```java
 public class ReverseString {
-  public static void main(String args[]) {
-    if (args.length > 0) {
-      StringBuilder builder = new StringBuilder(args[0]);
-      String reversed = builder.reverse().toString();
-      System.out.println(reversed);
+    public static void main(String args[]) {
+        if (args.length > 0) {
+            StringBuilder builder = new StringBuilder(args[0]);
+            String reversed = builder.reverse().toString();
+            System.out.println(reversed);
+        }
     }
-  }
 }
 ```
 
@@ -37,7 +37,7 @@ public class ReverseString {
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 25 2018 17:16:58. The solution was first committed on Apr 13 2018 15:12:54. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Apr 13 2018 15:12:54. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

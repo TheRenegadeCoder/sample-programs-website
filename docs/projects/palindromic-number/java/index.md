@@ -3,7 +3,7 @@
 title: Palindromic Number in Java
 layout: default
 date: 2022-04-28
-last-modified: 2022-10-10
+last-modified: 2022-10-11
 
 ---
 
@@ -31,9 +31,6 @@ public class PalindromicNumber {
         }
     }
 
-    /**
-     * Checks if the number is palindromic or not
-     */
     public static boolean isPalindromic(Long num) {
         char[] numChars = String.valueOf(num).toCharArray();
         for (int i = 0; i < numChars.length / 2; i++) {

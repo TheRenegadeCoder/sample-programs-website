@@ -3,7 +3,7 @@
 title: Fibonacci in Java
 layout: default
 date: 2022-04-28
-last-modified: 2022-10-10
+last-modified: 2022-10-11
 
 ---
 
@@ -28,8 +28,7 @@ public class Fibonacci {
                 second = result;
                 System.out.println(i + ": " + first);
             }
-        }
-        catch(Exception e) {
+        } catch (Exception e) {
             System.out.println("Usage: please input the count of fibonacci numbers to output");
             System.exit(1);
         }
@@ -42,12 +41,13 @@ public class Fibonacci {
 
 [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Java](https://sampleprograms.io/languages/java) was written by:
 
+- Jeremy Grifski
 - Marius
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2019 00:40:32. The solution was first committed on Oct 03 2018 13:08:02. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Oct 03 2018 13:08:02. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 
