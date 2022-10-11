@@ -1,2 +1,9 @@
-Create a file called "Palindromic Number" using the naming convention appropriate for your language of choice.
-Write a program that accepts an input of an integer and prints whether the number is a palindrome or not.
+To implement this algorithm, your program should accept a positive integer
+from the command line as follows:
+
+```console
+./palindromic-number.lang 56765
+```
+
+And report whether or not that number is a palindrome using the values
+"true" and "false." See testing below for examples.
