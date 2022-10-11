@@ -1,13 +1,14 @@
 ---
 
-title: Palindromic Numbers in Every Language
+title: Palindromic Number in Every Language
 layout: default
 date: 2020-10-07
-last-modified: 2020-10-07
+last-modified: 2022-10-10
 featured-image: 
-tags: [palindrome]
+tags: [palindromic-number]
 authors:
   - anohene1
+  - the_renegade_coder
 
 ---
 
@@ -15,27 +16,50 @@ Welcome to the Palindromic Number page! Here, you'll find a description of the p
 
 ## Description
 
-A palindrome number is a number that reads the same backward and forward.
+A palindromic number is a number that reads the same backward and forward.
 Example: 343, 121, 909, 222
 
 
 ## Requirements
 
-Create a file called "Palindromic Number" using the naming convention appropriate for your language of choice.
-Write a program that accepts an input of an integer and prints whether the number is a palindrome or not.
+To implement this algorithm, your program should accept a positive integer
+from the command line as follows:
+
+```console
+./palindromic-number.lang 56765
+```
+
+And report whether or not that number is a palindrome using the values
+"true" and "false." See testing below for examples.
 
 
 ## Testing
 
+Every project in the Sample Programs repo should be tested. In this section, we specify the set of tests specific to Palindromic Number. To keep things simple, we split up testing into two subsets: valid and invalid. Valid tests refer to tests that occur under correct input conditions. Invalid tests refer to tests that occur on bad input (e.g., letters instead of numbers).
 
-| Description                  | Input | Output |
-|------------------------------|-------|--------|
-| no input                     | None  | Usage: please input a number |
-| empty input                  | ""    | Usage: please input a number |
-| invalid input: not a number  | a     | Usage: please input a number |
-| sample input: palindrome     | 232   | true       |
-| sample input: not palindrome | 521   | false   |
+### Valid Tests
 
+| Description                  | Positive Integer | Output |
+| ---------------------------- | ---------------- | ------ |
+| sample input: one digit      | 7                | true   |
+| sample input: routine        | 232              | true   |
+| sample input: not palindrome | 521              | false  |
+
+
+### Invalid Tests
+
+| Description                    | Input |
+| ------------------------------ | ----- |
+| no input                       | None  |
+| empty input                    | ""    |
+| invalid input: not a number    | a     |
+| invalid input: negative number | -5    |
+
+All invalid tests should spit out a usage statement in the following form: 
+
+```
+Usage: please input a non-negative integer
+```
 
 
 ## Articles
