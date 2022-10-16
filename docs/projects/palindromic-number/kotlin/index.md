@@ -26,7 +26,7 @@ fun main(args: Array<String>) {
     try {
         num = args[0].toInt()
 
-        if (num.toString().length > 1){
+        if (num >= 0){
             n = num
 
             do {
@@ -41,12 +41,12 @@ fun main(args: Array<String>) {
                 println(false)
             }
         }else{
-            println("Usage: please input a number with at least two digits")
+            println("Usage: please input a non-negative integer")
         }
 
 
     }catch(e: Exception){
-        println("Usage: please input a number with at least two digits")
+        println("Usage: please input a non-negative integer")
     }
 }
 ```
@@ -57,10 +57,11 @@ fun main(args: Array<String>) {
 
 - Blake.Ke
 - Isaac Anohene
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 23:21:48. The solution was first committed on Oct 08 2020 16:44:11. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2022 01:31:51. The solution was first committed on Oct 08 2020 16:44:11. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

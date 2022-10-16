@@ -3,7 +3,7 @@
 title: Palindromic Number in Javascript
 layout: default
 date: 2022-04-28
-last-modified: 2022-10-11
+last-modified: 2022-10-16
 
 ---
 
@@ -14,60 +14,45 @@ Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindrom
 {% raw %}
 
 ```javascript
-/*
-Accept a number in command line
-Print true,  if it is palindromic
-Print false, if it is not palindromic
-Print Usage: please input a non-negative integer, otherwise
-
-Note: 
-Empty text, blank string & long strings must fail
-Minimum 2 digits must be present in the input
-Tested using node
-*/
-
 const isPalindromic = (number) => {
-    if(number <= 1){
-    console.log("Usage: please input a number with at least two digits");
-      process.exit(1);
-    }  
-
-    /*Count no. of digits, build reverse number*/ 
-    let reverse_number = 0, no_of_digits = 0, temp = number;
-    while(temp > 0){
-      no_of_digits += 1;
-      reverse_number = (reverse_number * 10) + (temp % 10);
-      temp = Math.floor(temp / 10);
+    if (number <= 1) {
+        console.log("Usage: please input a non-negative integer");
+        process.exit(1);
     }
-    if (no_of_digits < 2){
-      console.log("Usage: please input a number with at least two digits");
-      process.exit(1);
-    }  
-    else
-      if (reverse_number == number)
+
+    let reverse_number = 0, temp = number;
+    while (temp > 0) {
+        reverse_number = (reverse_number * 10) + (temp % 10);
+        temp = Math.floor(temp / 10);
+    }
+
+    if (reverse_number == number)
         return true;
-      else 
+    else
         return false;
 
-  };
-  
-  const input = process.argv[2];
-  let number = Number(input)
-  
-  if (input !== '' && Number.isInteger(number) && number >= 0) {
+};
+
+const input = process.argv[2];
+let number = Number(input)
+
+if (input !== '' && Number.isInteger(number) && number >= 0) {
     isPalindromic(input) ? console.log("true") : console.log("false");
-  } else {
-    console.log("Usage: please input a number with at least two digits")
-  }
+} else {
+    console.log("Usage: please input a non-negative integer")
+}
 ```
 
 {% endraw %}
 
 [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
+- Jeremy Grifski
 - smjalageri
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2022 01:31:51. The solution was first committed on Nov 01 2021 09:16:10. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

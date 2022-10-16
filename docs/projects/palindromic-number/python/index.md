@@ -3,7 +3,7 @@
 title: Palindromic Number in Python
 layout: default
 date: 2022-04-28
-last-modified: 2022-10-11
+last-modified: 2022-10-16
 
 ---
 
@@ -14,55 +14,50 @@ Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindrom
 {% raw %}
 
 ```python
-#Check if number is palindromic
 import sys
-import math
 
-# accept an integer, reverse it, compare it with original
-# print true, if original and reversed number are same
-# print false, if original and reversed number are same
+
 def palindromic_number(x):
-    reversed_number = 0
+    if x >= 0:
+        reversed_number = 0
 
-    # Count no. of digits
-    noofdigits = 0;
-    temp = x
-    while (temp > 0):
-      noofdigits += 1
-      reversed_number = (reversed_number * 10) + (temp % 10);
-      temp = int(temp/10)
+        noofdigits = 0
+        temp = x
+        while (temp > 0):
+            noofdigits += 1
+            reversed_number = (reversed_number * 10) + (temp % 10)
+            temp = int(temp/10)
 
-
-    # Need minimum 2 Digits in input integer
-    if (noofdigits>=2):
-      if x == reversed_number:
-        print("true")
-      else:
-        print("false")
-
+        if x == reversed_number:
+            print("true")
+        else:
+            print("false")
     else:
-      print("Usage: please input a number with at least two digits")
-    
-def main(args):
+        print("Usage: please input a non-negative integer")
+
+
+def main():
     try:
-        # palindromic_number(int(args[1]))
         palindromic_number(int(sys.argv[1]))
     except (IndexError, ValueError):
-        print("Usage: please input a number with at least two digits")
+        print("Usage: please input a non-negative integer")
         sys.exit(1)
 
 
 if __name__ == "__main__":
-    main(sys.argv[1:])
+    main()
 ```
 
 {% endraw %}
 
 [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Python](https://sampleprograms.io/languages/python) was written by:
 
+- Jeremy Grifski
 - manasmithamn
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2022 01:31:51. The solution was first committed on Oct 27 2021 22:08:36. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

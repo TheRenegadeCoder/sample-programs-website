@@ -71,6 +71,7 @@ Usage: please input a non-negative integer
 - [Palindromic Number in C++](https://sampleprograms.io/projects/palindromic-number/c-plus-plus)
 - [Palindromic Number in Java](https://sampleprograms.io/projects/palindromic-number/java)
 - [Palindromic Number in Javascript](https://sampleprograms.io/projects/palindromic-number/javascript)
+- [Palindromic Number in Julia](https://sampleprograms.io/projects/palindromic-number/julia)
 - [Palindromic Number in Kotlin](https://sampleprograms.io/projects/palindromic-number/kotlin)
 - [Palindromic Number in Pascal](https://sampleprograms.io/projects/palindromic-number/pascal)
 - [Palindromic Number in Perl](https://sampleprograms.io/projects/palindromic-number/perl)

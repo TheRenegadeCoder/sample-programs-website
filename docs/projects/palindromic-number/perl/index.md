@@ -3,7 +3,7 @@
 title: Palindromic Number in Perl
 layout: default
 date: 2022-04-28
-last-modified: 2022-10-11
+last-modified: 2022-10-16
 
 ---
 
@@ -46,8 +46,8 @@ while ($temp > 0){
   $noofdigits += 1;
 }
 
-if ($noofdigits < 2){
-  print("Usage: please input a number with at least two digits")
+if ($number < 0){
+  print("Usage: please input a non-negative integer")
 }
 
 else{
@@ -61,7 +61,7 @@ else{
 }
 
 sub usage {
-	print "Usage: please input a number with at least two digits";
+	print "Usage: please input a non-negative integer";
 	exit;
 }
 ```
@@ -70,9 +70,12 @@ sub usage {
 
 [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
+- Jeremy Grifski
 - manasmithamn
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2022 01:31:51. The solution was first committed on Oct 29 2021 01:34:51. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -3,7 +3,7 @@
 title: Palindromic Number in Pascal
 layout: default
 date: 2022-04-28
-last-modified: 2022-10-11
+last-modified: 2022-10-16
 
 ---
 
@@ -46,25 +46,22 @@ begin
     if (check <> 0)
     then
     begin
-      writeln('Usage: please input a number with at least two digits');
+      writeln('Usage: please input a non-negative integer');
     end
     else
     begin
    //  writeln('number = ', number);
     check := number;
-    noofdigits := 0;
     reversed_number := 0;
     repeat
     begin
-    (* Count no. of digits, build the number backwards *)
-       noofdigits := noofdigits + 1;
        (*quotient := check mod 10 ;*)
        reversed_number := (reversed_number * 10) + (check mod 10);
        check := trunc(check div 10);
        end;
     until check = 0;
 
-    if noofdigits >= 2 then
+    if number >= 0 then
       if (reversed_number = number) then
          writeln('true')
       else
@@ -72,7 +69,7 @@ begin
          writeln('false')
    
     else
-      writeln('Usage: please input a number with at least two digits')
+      writeln('Usage: please input a non-negative integer')
     end; (* Begin Reading NUmber*)
 end.  (* Begin Program Block*)
 ```
@@ -81,9 +78,12 @@ end.  (* Begin Program Block*)
 
 [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
 
+- Jeremy Grifski
 - manasmithamn
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2022 01:31:51. The solution was first committed on Oct 29 2021 22:09:59. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

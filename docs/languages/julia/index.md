@@ -47,6 +47,7 @@ expect several different dialects of it to emerge.
 - [Fibonacci in Julia](https://sampleprograms.io/projects/fibonacci/julia)
 - [Fizz Buzz in Julia](https://sampleprograms.io/projects/fizz-buzz/julia)
 - [Hello World in Julia](https://sampleprograms.io/projects/hello-world/julia)
+- [Palindromic Number in Julia](https://sampleprograms.io/projects/palindromic-number/julia)
 - [Remove All Whitespace in Julia](https://sampleprograms.io/projects/remove-all-whitespace/julia)
 - [Reverse String in Julia](https://sampleprograms.io/projects/reverse-string/julia)
 - [Selection Sort in Julia](https://sampleprograms.io/projects/selection-sort/julia)
