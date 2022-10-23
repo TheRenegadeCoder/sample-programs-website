@@ -3,7 +3,7 @@
 title: Prime Number in Lua
 layout: default
 date: 2022-04-28
-last-modified: 2022-10-16
+last-modified: 2022-10-23
 
 ---
 
