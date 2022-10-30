@@ -78,6 +78,7 @@ The following table contains various test cases that you can use to verify the c
 - [Even Odd in Rexx](https://sampleprograms.io/projects/even-odd/rexx)
 - [Even Odd in Ruby](https://sampleprograms.io/projects/even-odd/ruby)
 - [Even Odd in Rust](https://sampleprograms.io/projects/even-odd/rust)
+- [Even Odd in Scala](https://sampleprograms.io/projects/even-odd/scala)
 - [Even Odd in Swift](https://sampleprograms.io/projects/even-odd/swift)
 
 ---

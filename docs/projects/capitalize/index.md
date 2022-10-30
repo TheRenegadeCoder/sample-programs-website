@@ -100,6 +100,7 @@ Usage: please provide a string
 - [Capitalize in R](https://sampleprograms.io/projects/capitalize/r)
 - [Capitalize in Ruby](https://sampleprograms.io/projects/capitalize/ruby)
 - [Capitalize in Rust](https://sampleprograms.io/projects/capitalize/rust)
+- [Capitalize in Scala](https://sampleprograms.io/projects/capitalize/scala)
 - [Capitalize in Typescript](https://sampleprograms.io/projects/capitalize/typescript)
 
 ---

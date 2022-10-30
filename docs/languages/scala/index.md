@@ -55,6 +55,8 @@ yet to implement Hello World in Scala.
 ## Articles
 
 - [Bubble Sort in Scala](https://sampleprograms.io/projects/bubble-sort/scala)
+- [Capitalize in Scala](https://sampleprograms.io/projects/capitalize/scala)
+- [Even Odd in Scala](https://sampleprograms.io/projects/even-odd/scala)
 - [Factorial in Scala](https://sampleprograms.io/projects/factorial/scala)
 - [Fibonacci in Scala](https://sampleprograms.io/projects/fibonacci/scala)
 - [File Input Output in Scala](https://sampleprograms.io/projects/file-input-output/scala)
