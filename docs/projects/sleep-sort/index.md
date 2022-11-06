@@ -56,6 +56,7 @@ verify the correctness of your solution:
 - [Sleep Sort in C#](https://sampleprograms.io/projects/sleep-sort/c-sharp)
 - [Sleep Sort in Dart](https://sampleprograms.io/projects/sleep-sort/dart)
 - [Sleep Sort in Python](https://sampleprograms.io/projects/sleep-sort/python)
+- [Sleep Sort in Rust](https://sampleprograms.io/projects/sleep-sort/rust)
 
 ---
 
