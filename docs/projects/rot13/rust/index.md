@@ -3,7 +3,7 @@
 title: Rot13 in Rust
 layout: default
 date: 2022-04-28
-last-modified: 2022-11-13
+last-modified: 2022-11-20
 
 ---
 
