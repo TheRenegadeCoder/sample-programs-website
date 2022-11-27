@@ -3,7 +3,7 @@
 title: Linear Search in Javascript
 layout: default
 date: 2022-04-28
-last-modified: 2022-11-20
+last-modified: 2022-11-27
 
 ---
 
