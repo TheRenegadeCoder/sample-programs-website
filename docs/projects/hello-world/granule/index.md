@@ -3,7 +3,7 @@
 title: Hello World in Granule
 layout: default
 date: 2022-04-28
-last-modified: 2022-12-04
+last-modified: 2022-12-11
 
 ---
 
@@ -14,15 +14,15 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```granule
-main : String
-main = "Hello, World!"
+main : () <{Stdout}>
+main = toStdout "Hello, World!"
 ```
 
 {% endraw %}
 
 [Hello World](https://sampleprograms.io/projects/hello-world) in [Granule](https://sampleprograms.io/languages/granule) was written by:
 
-- Shivam Choudhary
+- Dominic Orchard
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
