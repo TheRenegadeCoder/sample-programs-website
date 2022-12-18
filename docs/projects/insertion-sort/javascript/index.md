@@ -3,7 +3,7 @@
 title: Insertion Sort in Javascript
 layout: default
 date: 2022-04-28
-last-modified: 2022-12-11
+last-modified: 2022-12-18
 
 ---
 
