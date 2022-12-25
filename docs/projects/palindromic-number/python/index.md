@@ -3,7 +3,7 @@
 title: Palindromic Number in Python
 layout: default
 date: 2022-04-28
-last-modified: 2022-12-18
+last-modified: 2022-12-25
 
 ---
 
