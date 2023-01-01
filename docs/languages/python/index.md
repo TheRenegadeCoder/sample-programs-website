@@ -42,6 +42,7 @@ But, Python 2 is slowly losing support.
 - [Hello World in Python](https://sampleprograms.io/projects/hello-world/python)
 - [Insertion Sort in Python](https://sampleprograms.io/projects/insertion-sort/python)
 - [Job Sequencing in Python](https://sampleprograms.io/projects/job-sequencing/python)
+- [Josephus Problem in Python](https://sampleprograms.io/projects/josephus-problem/python)
 - [Linear Search in Python](https://sampleprograms.io/projects/linear-search/python)
 - [Longest Common Subsequence in Python](https://sampleprograms.io/projects/longest-common-subsequence/python)
 - [Longest Palindromic Substring in Python](https://sampleprograms.io/projects/longest-palindromic-substring/python)
