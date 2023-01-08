@@ -3,7 +3,7 @@
 title: Even Odd in Elixir
 layout: default
 date: 2022-04-28
-last-modified: 2023-01-01
+last-modified: 2023-01-08
 
 ---
 
