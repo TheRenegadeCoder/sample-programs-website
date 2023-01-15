@@ -3,7 +3,7 @@
 title: Quick Sort in Javascript
 layout: default
 date: 2022-04-28
-last-modified: 2023-01-08
+last-modified: 2023-01-15
 
 ---
 
