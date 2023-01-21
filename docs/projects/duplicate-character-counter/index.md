@@ -25,7 +25,7 @@ maintainable.
 
 ## Requirements
 
-The code should return the count of all duplicate, case-insensitive, 
+The code should return the count of all duplicate, case-sensitive, 
 alphanumeric characters, that occur more than once in the given string. 
 Characters should also be presented in the order in which they appear 
 in the string. For instance, 'abba' should output 'a' as the firstcharacter 
@@ -34,11 +34,13 @@ that has a duplicate.
 
 ## Testing
 
-| Description   |     Input      |          Output          |
-| :------------ | :------------: | :----------------------: |
-| Basic String  | "goodbyeblues" | o: 2<br />b: 2<br />e: 2 |
-| Correct Order |     "abba"     |      a: 2<br />b: 2      |
-| Case Distinct |     "aAbB"     | No duplicate characters  |
+| Description   |     Input      |             Output             |
+| :------------ | :------------: | :----------------------------: |
+| Basic String  | "goodbyeblues" |    o: 2<br />b: 2<br />e: 2    |
+| Correct Order |     "abba"     |         a: 2<br />b: 2         |
+| Case Distinct |     "aAbB"     |    No duplicate characters     |
+| No Input      |      None      | Usage: please provide a string |
+| Empty Input   |       ""       | Usage: please provide a string |
 
 
 ## Articles
