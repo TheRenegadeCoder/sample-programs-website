@@ -34,11 +34,13 @@ that has a duplicate.
 
 ## Testing
 
-| Description   |     Input      |          Output          |
-| :------------ | :------------: | :----------------------: |
-| Basic String  | "goodbyeblues" | o: 2<br />b: 2<br />e: 2 |
-| Correct Order |     "abba"     |      a: 2<br />b: 2      |
-| Case Distinct |     "aAbB"     | No duplicate characters  |
+| Description   |     Input      |             Output             |
+| :------------ | :------------: | :----------------------------: |
+| Basic String  | "goodbyeblues" |    o: 2<br />b: 2<br />e: 2    |
+| Correct Order |     "abba"     |         a: 2<br />b: 2         |
+| Case Distinct |     "aAbB"     |    No duplicate characters     |
+| No Input      |      None      | Usage: please provide a string |
+| Empty Input   |       ""       | Usage: please provide a string |
 
 
 ## Articles
