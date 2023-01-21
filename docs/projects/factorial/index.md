@@ -71,6 +71,7 @@ Some tests for your program are:
 - [Factorial in Kotlin](https://sampleprograms.io/projects/factorial/kotlin)
 - [Factorial in Lisp](https://sampleprograms.io/projects/factorial/lisp)
 - [Factorial in Lua](https://sampleprograms.io/projects/factorial/lua)
+- [Factorial in Mathematica](https://sampleprograms.io/projects/factorial/mathematica)
 - [Factorial in Matlab](https://sampleprograms.io/projects/factorial/matlab)
 - [Factorial in Objective C](https://sampleprograms.io/projects/factorial/objective-c)
 - [Factorial in Perl](https://sampleprograms.io/projects/factorial/perl)

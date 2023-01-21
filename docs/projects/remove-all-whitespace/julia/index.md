@@ -3,7 +3,7 @@
 title: Remove All Whitespace in Julia
 layout: default
 date: 2022-04-28
-last-modified: 2023-01-15
+last-modified: 2023-01-21
 
 ---
 

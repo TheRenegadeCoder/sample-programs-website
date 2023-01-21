@@ -66,6 +66,7 @@ Maximum Array Rotation. See the following testing section for more specific requ
 
 ## Articles
 
+- [Maximum Array Rotation in Mathematica](https://sampleprograms.io/projects/maximum-array-rotation/mathematica)
 - [Maximum Array Rotation in Python](https://sampleprograms.io/projects/maximum-array-rotation/python)
 
 ---

@@ -90,6 +90,7 @@ The following table contains various test cases that you can use to verify the c
 
 - [Longest Palindromic Substring in Go](https://sampleprograms.io/projects/longest-palindromic-substring/go)
 - [Longest Palindromic Substring in Javascript](https://sampleprograms.io/projects/longest-palindromic-substring/javascript)
+- [Longest Palindromic Substring in Mathematica](https://sampleprograms.io/projects/longest-palindromic-substring/mathematica)
 - [Longest Palindromic Substring in Python](https://sampleprograms.io/projects/longest-palindromic-substring/python)
 
 ---

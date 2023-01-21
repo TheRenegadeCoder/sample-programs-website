@@ -86,6 +86,7 @@ Conversion program:
 - [Roman Numeral in Haskell](https://sampleprograms.io/projects/roman-numeral/haskell)
 - [Roman Numeral in Javascript](https://sampleprograms.io/projects/roman-numeral/javascript)
 - [Roman Numeral in Lua](https://sampleprograms.io/projects/roman-numeral/lua)
+- [Roman Numeral in Mathematica](https://sampleprograms.io/projects/roman-numeral/mathematica)
 - [Roman Numeral in Php](https://sampleprograms.io/projects/roman-numeral/php)
 - [Roman Numeral in Python](https://sampleprograms.io/projects/roman-numeral/python)
 - [Roman Numeral in Ruby](https://sampleprograms.io/projects/roman-numeral/ruby)

@@ -110,6 +110,7 @@ verify the correctness of your solution:
 - [Quick Sort in Javascript](https://sampleprograms.io/projects/quick-sort/javascript)
 - [Quick Sort in Kotlin](https://sampleprograms.io/projects/quick-sort/kotlin)
 - [Quick Sort in Lisp](https://sampleprograms.io/projects/quick-sort/lisp)
+- [Quick Sort in Mathematica](https://sampleprograms.io/projects/quick-sort/mathematica)
 - [Quick Sort in Objective C](https://sampleprograms.io/projects/quick-sort/objective-c)
 - [Quick Sort in Php](https://sampleprograms.io/projects/quick-sort/php)
 - [Quick Sort in Python](https://sampleprograms.io/projects/quick-sort/python)

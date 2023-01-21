@@ -91,6 +91,7 @@ Usage: please provide a string
 - [Capitalize in Kotlin](https://sampleprograms.io/projects/capitalize/kotlin)
 - [Capitalize in Lisp](https://sampleprograms.io/projects/capitalize/lisp)
 - [Capitalize in Lua](https://sampleprograms.io/projects/capitalize/lua)
+- [Capitalize in Mathematica](https://sampleprograms.io/projects/capitalize/mathematica)
 - [Capitalize in Matlab](https://sampleprograms.io/projects/capitalize/matlab)
 - [Capitalize in Objective C](https://sampleprograms.io/projects/capitalize/objective-c)
 - [Capitalize in Pascal](https://sampleprograms.io/projects/capitalize/pascal)

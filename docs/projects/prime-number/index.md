@@ -54,6 +54,7 @@ correctness of your solution:
 
 ## Articles
 
+- [Prime Number in Algol68](https://sampleprograms.io/projects/prime-number/algol68)
 - [Prime Number in Bash](https://sampleprograms.io/projects/prime-number/bash)
 - [Prime Number in C](https://sampleprograms.io/projects/prime-number/c)
 - [Prime Number in C#](https://sampleprograms.io/projects/prime-number/c-sharp)
@@ -67,6 +68,7 @@ correctness of your solution:
 - [Prime Number in Kotlin](https://sampleprograms.io/projects/prime-number/kotlin)
 - [Prime Number in Lisp](https://sampleprograms.io/projects/prime-number/lisp)
 - [Prime Number in Lua](https://sampleprograms.io/projects/prime-number/lua)
+- [Prime Number in Mathematica](https://sampleprograms.io/projects/prime-number/mathematica)
 - [Prime Number in Matlab](https://sampleprograms.io/projects/prime-number/matlab)
 - [Prime Number in Pascal](https://sampleprograms.io/projects/prime-number/pascal)
 - [Prime Number in Perl](https://sampleprograms.io/projects/prime-number/perl)

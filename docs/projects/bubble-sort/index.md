@@ -144,6 +144,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 - [Bubble Sort in Julia](https://sampleprograms.io/projects/bubble-sort/julia)
 - [Bubble Sort in Kotlin](https://sampleprograms.io/projects/bubble-sort/kotlin)
 - [Bubble Sort in Lua](https://sampleprograms.io/projects/bubble-sort/lua)
+- [Bubble Sort in Mathematica](https://sampleprograms.io/projects/bubble-sort/mathematica)
 - [Bubble Sort in Matlab](https://sampleprograms.io/projects/bubble-sort/matlab)
 - [Bubble Sort in Perl](https://sampleprograms.io/projects/bubble-sort/perl)
 - [Bubble Sort in Php](https://sampleprograms.io/projects/bubble-sort/php)

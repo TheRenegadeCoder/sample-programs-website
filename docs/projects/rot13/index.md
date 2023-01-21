@@ -78,6 +78,7 @@ verify the correctness of your solution:
 - [Rot13 in Javascript](https://sampleprograms.io/projects/rot13/javascript)
 - [Rot13 in Kotlin](https://sampleprograms.io/projects/rot13/kotlin)
 - [Rot13 in Lua](https://sampleprograms.io/projects/rot13/lua)
+- [Rot13 in Mathematica](https://sampleprograms.io/projects/rot13/mathematica)
 - [Rot13 in Perl](https://sampleprograms.io/projects/rot13/perl)
 - [Rot13 in Php](https://sampleprograms.io/projects/rot13/php)
 - [Rot13 in Python](https://sampleprograms.io/projects/rot13/python)

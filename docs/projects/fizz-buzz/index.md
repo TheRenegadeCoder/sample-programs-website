@@ -63,6 +63,7 @@ Verify that the actual output matches the expected output. See the
 
 ## Articles
 
+- [Fizz Buzz in Algol68](https://sampleprograms.io/projects/fizz-buzz/algol68)
 - [Fizz Buzz in Bash](https://sampleprograms.io/projects/fizz-buzz/bash)
 - [Fizz Buzz in Befunge](https://sampleprograms.io/projects/fizz-buzz/befunge)
 - [Fizz Buzz in Brainfuck](https://sampleprograms.io/projects/fizz-buzz/brainfuck)

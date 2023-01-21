@@ -97,6 +97,7 @@ doesn't supply correct input.
 - [Linear Search in C++](https://sampleprograms.io/projects/linear-search/c-plus-plus)
 - [Linear Search in Java](https://sampleprograms.io/projects/linear-search/java)
 - [Linear Search in Javascript](https://sampleprograms.io/projects/linear-search/javascript)
+- [Linear Search in Mathematica](https://sampleprograms.io/projects/linear-search/mathematica)
 - [Linear Search in Python](https://sampleprograms.io/projects/linear-search/python)
 
 ---

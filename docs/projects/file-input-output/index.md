@@ -47,6 +47,7 @@ Verify that the actual output matches the expected output. See the
 
 ## Articles
 
+- [File Input Output in Algol68](https://sampleprograms.io/projects/file-input-output/algol68)
 - [File Input Output in Bash](https://sampleprograms.io/projects/file-input-output/bash)
 - [File Input Output in C](https://sampleprograms.io/projects/file-input-output/c)
 - [File Input Output in C#](https://sampleprograms.io/projects/file-input-output/c-sharp)
@@ -58,6 +59,7 @@ Verify that the actual output matches the expected output. See the
 - [File Input Output in Javascript](https://sampleprograms.io/projects/file-input-output/javascript)
 - [File Input Output in Kotlin](https://sampleprograms.io/projects/file-input-output/kotlin)
 - [File Input Output in Lua](https://sampleprograms.io/projects/file-input-output/lua)
+- [File Input Output in Mathematica](https://sampleprograms.io/projects/file-input-output/mathematica)
 - [File Input Output in Matlab](https://sampleprograms.io/projects/file-input-output/matlab)
 - [File Input Output in Objective C](https://sampleprograms.io/projects/file-input-output/objective-c)
 - [File Input Output in Perl](https://sampleprograms.io/projects/file-input-output/perl)

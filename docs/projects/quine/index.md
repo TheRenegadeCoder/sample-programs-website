@@ -38,6 +38,7 @@ Verify that the actual output matches the expected output. See the
 
 ## Articles
 
+- [Quine in Algol68](https://sampleprograms.io/projects/quine/algol68)
 - [Quine in Bash](https://sampleprograms.io/projects/quine/bash)
 - [Quine in Befunge](https://sampleprograms.io/projects/quine/befunge)
 - [Quine in C](https://sampleprograms.io/projects/quine/c)
@@ -49,6 +50,7 @@ Verify that the actual output matches the expected output. See the
 - [Quine in Java](https://sampleprograms.io/projects/quine/java)
 - [Quine in Javascript](https://sampleprograms.io/projects/quine/javascript)
 - [Quine in Kotlin](https://sampleprograms.io/projects/quine/kotlin)
+- [Quine in Mathematica](https://sampleprograms.io/projects/quine/mathematica)
 - [Quine in Perl](https://sampleprograms.io/projects/quine/perl)
 - [Quine in Php](https://sampleprograms.io/projects/quine/php)
 - [Quine in Python](https://sampleprograms.io/projects/quine/python)

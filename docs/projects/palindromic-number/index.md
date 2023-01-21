@@ -73,6 +73,7 @@ Usage: please input a non-negative integer
 - [Palindromic Number in Javascript](https://sampleprograms.io/projects/palindromic-number/javascript)
 - [Palindromic Number in Julia](https://sampleprograms.io/projects/palindromic-number/julia)
 - [Palindromic Number in Kotlin](https://sampleprograms.io/projects/palindromic-number/kotlin)
+- [Palindromic Number in Mathematica](https://sampleprograms.io/projects/palindromic-number/mathematica)
 - [Palindromic Number in Pascal](https://sampleprograms.io/projects/palindromic-number/pascal)
 - [Palindromic Number in Perl](https://sampleprograms.io/projects/palindromic-number/perl)
 - [Palindromic Number in Python](https://sampleprograms.io/projects/palindromic-number/python)

@@ -76,6 +76,7 @@ your language can handle unicode characters, but it fails for emojis.
 - [Reverse String in Kotlin](https://sampleprograms.io/projects/reverse-string/kotlin)
 - [Reverse String in Lisp](https://sampleprograms.io/projects/reverse-string/lisp)
 - [Reverse String in Lua](https://sampleprograms.io/projects/reverse-string/lua)
+- [Reverse String in Mathematica](https://sampleprograms.io/projects/reverse-string/mathematica)
 - [Reverse String in Matlab](https://sampleprograms.io/projects/reverse-string/matlab)
 - [Reverse String in Never](https://sampleprograms.io/projects/reverse-string/never)
 - [Reverse String in Nim](https://sampleprograms.io/projects/reverse-string/nim)

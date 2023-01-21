@@ -49,6 +49,7 @@ The following table contains various test cases that you can use to verify the c
 
 ## Articles
 
+- [Even Odd in Algol68](https://sampleprograms.io/projects/even-odd/algol68)
 - [Even Odd in Bash](https://sampleprograms.io/projects/even-odd/bash)
 - [Even Odd in C](https://sampleprograms.io/projects/even-odd/c)
 - [Even Odd in C#](https://sampleprograms.io/projects/even-odd/c-sharp)
@@ -67,6 +68,7 @@ The following table contains various test cases that you can use to verify the c
 - [Even Odd in Kotlin](https://sampleprograms.io/projects/even-odd/kotlin)
 - [Even Odd in Lisp](https://sampleprograms.io/projects/even-odd/lisp)
 - [Even Odd in Lua](https://sampleprograms.io/projects/even-odd/lua)
+- [Even Odd in Mathematica](https://sampleprograms.io/projects/even-odd/mathematica)
 - [Even Odd in Matlab](https://sampleprograms.io/projects/even-odd/matlab)
 - [Even Odd in Objective C](https://sampleprograms.io/projects/even-odd/objective-c)
 - [Even Odd in P4](https://sampleprograms.io/projects/even-odd/p4)

@@ -57,6 +57,7 @@ Some tests for your program are:
 
 ## Articles
 
+- [Maximum Subarray in Mathematica](https://sampleprograms.io/projects/maximum-subarray/mathematica)
 - [Maximum Subarray in Python](https://sampleprograms.io/projects/maximum-subarray/python)
 
 ---

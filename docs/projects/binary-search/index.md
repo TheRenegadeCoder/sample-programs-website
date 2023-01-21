@@ -86,6 +86,7 @@ Usage: please provide a list of sorted integers ("1, 4, 5, 11, 12") and the inte
 - [Binary Search in Go](https://sampleprograms.io/projects/binary-search/go)
 - [Binary Search in Java](https://sampleprograms.io/projects/binary-search/java)
 - [Binary Search in Javascript](https://sampleprograms.io/projects/binary-search/javascript)
+- [Binary Search in Mathematica](https://sampleprograms.io/projects/binary-search/mathematica)
 - [Binary Search in Python](https://sampleprograms.io/projects/binary-search/python)
 - [Binary Search in Rust](https://sampleprograms.io/projects/binary-search/rust)
 

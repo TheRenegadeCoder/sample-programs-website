@@ -112,6 +112,7 @@ verify the correctness of your solution:
 - [Insertion Sort in Haskell](https://sampleprograms.io/projects/insertion-sort/haskell)
 - [Insertion Sort in Java](https://sampleprograms.io/projects/insertion-sort/java)
 - [Insertion Sort in Javascript](https://sampleprograms.io/projects/insertion-sort/javascript)
+- [Insertion Sort in Mathematica](https://sampleprograms.io/projects/insertion-sort/mathematica)
 - [Insertion Sort in Matlab](https://sampleprograms.io/projects/insertion-sort/matlab)
 - [Insertion Sort in Perl](https://sampleprograms.io/projects/insertion-sort/perl)
 - [Insertion Sort in Php](https://sampleprograms.io/projects/insertion-sort/php)

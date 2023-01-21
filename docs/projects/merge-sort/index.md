@@ -99,6 +99,7 @@ verify the correctness of your solution:
 - [Merge Sort in Java](https://sampleprograms.io/projects/merge-sort/java)
 - [Merge Sort in Javascript](https://sampleprograms.io/projects/merge-sort/javascript)
 - [Merge Sort in Kotlin](https://sampleprograms.io/projects/merge-sort/kotlin)
+- [Merge Sort in Mathematica](https://sampleprograms.io/projects/merge-sort/mathematica)
 - [Merge Sort in Matlab](https://sampleprograms.io/projects/merge-sort/matlab)
 - [Merge Sort in Objective C](https://sampleprograms.io/projects/merge-sort/objective-c)
 - [Merge Sort in Php](https://sampleprograms.io/projects/merge-sort/php)

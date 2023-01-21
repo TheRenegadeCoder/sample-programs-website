@@ -89,6 +89,7 @@ verify the correctness of your solution:
 - [Job Sequencing in Java](https://sampleprograms.io/projects/job-sequencing/java)
 - [Job Sequencing in Javascript](https://sampleprograms.io/projects/job-sequencing/javascript)
 - [Job Sequencing in Kotlin](https://sampleprograms.io/projects/job-sequencing/kotlin)
+- [Job Sequencing in Mathematica](https://sampleprograms.io/projects/job-sequencing/mathematica)
 - [Job Sequencing in Php](https://sampleprograms.io/projects/job-sequencing/php)
 - [Job Sequencing in Python](https://sampleprograms.io/projects/job-sequencing/python)
 

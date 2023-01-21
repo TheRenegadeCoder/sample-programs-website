@@ -116,6 +116,7 @@ Usage: please provide three inputs: a serialized matrix, a source node and a des
 
 - [Dijkstra in C++](https://sampleprograms.io/projects/dijkstra/c-plus-plus)
 - [Dijkstra in Javascript](https://sampleprograms.io/projects/dijkstra/javascript)
+- [Dijkstra in Mathematica](https://sampleprograms.io/projects/dijkstra/mathematica)
 
 ---
 

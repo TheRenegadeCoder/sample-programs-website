@@ -76,6 +76,7 @@ Baklava has no input, so there are no invalid test cases.
 ## Articles
 
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
+- [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
 - [Baklava in Bash](https://sampleprograms.io/projects/baklava/bash)
 - [Baklava in Befunge](https://sampleprograms.io/projects/baklava/befunge)
 - [Baklava in C](https://sampleprograms.io/projects/baklava/c)
@@ -98,6 +99,7 @@ Baklava has no input, so there are no invalid test cases.
 - [Baklava in Kotlin](https://sampleprograms.io/projects/baklava/kotlin)
 - [Baklava in Lisp](https://sampleprograms.io/projects/baklava/lisp)
 - [Baklava in Lua](https://sampleprograms.io/projects/baklava/lua)
+- [Baklava in Mathematica](https://sampleprograms.io/projects/baklava/mathematica)
 - [Baklava in Perl](https://sampleprograms.io/projects/baklava/perl)
 - [Baklava in Phix](https://sampleprograms.io/projects/baklava/phix)
 - [Baklava in Php](https://sampleprograms.io/projects/baklava/php)
