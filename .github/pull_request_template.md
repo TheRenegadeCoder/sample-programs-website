@@ -1,5 +1,5 @@
 Thanks for helping us build up our knowledge base! 
-What kind of pull request hav you brought us today?
+What kind of pull request have you brought us today?
 
 ## Pull Request Type
 
