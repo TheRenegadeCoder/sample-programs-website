@@ -43,6 +43,7 @@ that has a duplicate.
 
 ## Articles
 
+- [Duplicate Character Counter in Algol68](https://sampleprograms.io/projects/duplicate-character-counter/algol68)
 - [Duplicate Character Counter in C](https://sampleprograms.io/projects/duplicate-character-counter/c)
 - [Duplicate Character Counter in C++](https://sampleprograms.io/projects/duplicate-character-counter/c-plus-plus)
 - [Duplicate Character Counter in Java](https://sampleprograms.io/projects/duplicate-character-counter/java)

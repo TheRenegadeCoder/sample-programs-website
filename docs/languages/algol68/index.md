@@ -38,6 +38,7 @@ for the full syntax and features list.
 ## Articles
 
 - [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
+- [Duplicate Character Counter in Algol68](https://sampleprograms.io/projects/duplicate-character-counter/algol68)
 - [Even Odd in Algol68](https://sampleprograms.io/projects/even-odd/algol68)
 - [Factorial in Algol68](https://sampleprograms.io/projects/factorial/algol68)
 - [Fibonacci in Algol68](https://sampleprograms.io/projects/fibonacci/algol68)
