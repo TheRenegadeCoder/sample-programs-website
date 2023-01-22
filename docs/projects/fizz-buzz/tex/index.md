@@ -3,7 +3,7 @@
 title: Fizz Buzz in Tex
 layout: default
 date: 2022-04-28
-last-modified: 2023-01-21
+last-modified: 2023-01-22
 
 ---
 

@@ -57,6 +57,7 @@ Some tests for your program are:
 
 ## Articles
 
+- [Fibonacci in Algol68](https://sampleprograms.io/projects/fibonacci/algol68)
 - [Fibonacci in Bash](https://sampleprograms.io/projects/fibonacci/bash)
 - [Fibonacci in Boo](https://sampleprograms.io/projects/fibonacci/boo)
 - [Fibonacci in C](https://sampleprograms.io/projects/fibonacci/c)

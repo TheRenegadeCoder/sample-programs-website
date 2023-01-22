@@ -87,6 +87,7 @@ Verify that the actual output matches the expected output. See the
 - [Fizz Buzz in Lisp](https://sampleprograms.io/projects/fizz-buzz/lisp)
 - [Fizz Buzz in Lolcode](https://sampleprograms.io/projects/fizz-buzz/lolcode)
 - [Fizz Buzz in Lua](https://sampleprograms.io/projects/fizz-buzz/lua)
+- [Fizz Buzz in Mathematica](https://sampleprograms.io/projects/fizz-buzz/mathematica)
 - [Fizz Buzz in Matlab](https://sampleprograms.io/projects/fizz-buzz/matlab)
 - [Fizz Buzz in Objective C](https://sampleprograms.io/projects/fizz-buzz/objective-c)
 - [Fizz Buzz in Pascal](https://sampleprograms.io/projects/fizz-buzz/pascal)

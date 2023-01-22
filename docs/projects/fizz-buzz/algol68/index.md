@@ -3,7 +3,7 @@
 title: Fizz Buzz in Algol68
 layout: default
 date: 2022-04-28
-last-modified: 2023-01-21
+last-modified: 2023-01-22
 
 ---
 
@@ -16,17 +16,9 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Alg
 ```algol68
 FOR n FROM 1 TO 100
 DO
-    IF n MOD 3 = 0
-    THEN
-        print((n MOD 5 = 0 | "FizzBuzz" | "Fizz"))
-    ELIF n MOD 5 = 0
-    THEN
-        print("Buzz")
-    ELSE
-        print(whole(n, 0))
-    FI;
-
-    print(newline)
+    STRING s := (n MOD 3 = 0 | "Fizz" | "");
+    s +:= (n MOD 5 = 0 | "Buzz" | "");
+    printf(($gl$, (s /= "" | s | whole(n, 0))))
 OD
 ```
 
@@ -37,6 +29,8 @@ OD
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 21 2023 16:21:11. The solution was first committed on Jan 18 2023 20:01:41. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

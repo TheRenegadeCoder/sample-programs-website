@@ -3,7 +3,7 @@
 title: Mathematica
 layout: default
 date: 2022-04-28
-last-modified: 2023-01-21
+last-modified: 2023-01-22
 
 ---
 
@@ -27,6 +27,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Factorial in Mathematica](https://sampleprograms.io/projects/factorial/mathematica)
 - [Fibonacci in Mathematica](https://sampleprograms.io/projects/fibonacci/mathematica)
 - [File Input Output in Mathematica](https://sampleprograms.io/projects/file-input-output/mathematica)
+- [Fizz Buzz in Mathematica](https://sampleprograms.io/projects/fizz-buzz/mathematica)
 - [Fraction Math in Mathematica](https://sampleprograms.io/projects/fraction-math/mathematica)
 - [Hello World in Mathematica](https://sampleprograms.io/projects/hello-world/mathematica)
 - [Insertion Sort in Mathematica](https://sampleprograms.io/projects/insertion-sort/mathematica)

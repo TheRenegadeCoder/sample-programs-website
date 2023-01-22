@@ -52,6 +52,7 @@ Some tests for your program are:
 
 ## Articles
 
+- [Factorial in Algol68](https://sampleprograms.io/projects/factorial/algol68)
 - [Factorial in Bash](https://sampleprograms.io/projects/factorial/bash)
 - [Factorial in C](https://sampleprograms.io/projects/factorial/c)
 - [Factorial in C#](https://sampleprograms.io/projects/factorial/c-sharp)

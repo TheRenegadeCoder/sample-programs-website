@@ -39,6 +39,8 @@ for the full syntax and features list.
 
 - [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
 - [Even Odd in Algol68](https://sampleprograms.io/projects/even-odd/algol68)
+- [Factorial in Algol68](https://sampleprograms.io/projects/factorial/algol68)
+- [Fibonacci in Algol68](https://sampleprograms.io/projects/fibonacci/algol68)
 - [File Input Output in Algol68](https://sampleprograms.io/projects/file-input-output/algol68)
 - [Fizz Buzz in Algol68](https://sampleprograms.io/projects/fizz-buzz/algol68)
 - [Hello World in Algol68](https://sampleprograms.io/projects/hello-world/algol68)

@@ -3,11 +3,11 @@
 title: Programming Languages
 layout: default
 date: 2022-04-28
-last-modified: 2023-01-21
+last-modified: 2023-01-22
 
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 162 languages, of which 39 are tested, and 656 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 162 languages, of which 39 are tested, and 659 code snippets.
 
 ## Language Collections by Letter
 
@@ -15,7 +15,7 @@ To help you navigate the collection, the following languages are organized alpha
 
 ### A
 
-The 'A' collection contains 9 languages, of which 2 are tested, and 17 code snippets.
+The 'A' collection contains 9 languages, of which 2 are tested, and 19 code snippets.
 
 - [Abap](https://sampleprograms.io/languages/abap)
 - [Ada](https://sampleprograms.io/languages/ada)
@@ -171,7 +171,7 @@ The 'L' collection contains 10 languages, of which 3 are tested, and 32 code sni
 
 ### M
 
-The 'M' collection contains 7 languages, of which 1 is tested, and 53 code snippets.
+The 'M' collection contains 7 languages, of which 1 is tested, and 54 code snippets.
 
 - [Mathematica](https://sampleprograms.io/languages/mathematica)
 - [Matlab](https://sampleprograms.io/languages/matlab)
