@@ -14,9 +14,6 @@ repository: TheRenegadeCoder/sample-programs-website
 # File exclusion settings
 exclude: ["CNAME", "Gemfile", "templates"]
 
-# Markdown interpreter
-markdown: GFM
-
 # Posts permalink
 permalink: /:categories/:title/
 
