@@ -1,13 +1,13 @@
 ---
 
-title: Prime Number in Algol68
+title: Josephus Problem in Algol68
 layout: default
 date: 2022-04-28
 last-modified: 2023-01-25
 
 ---
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -74,58 +74,60 @@ PROC parse int = (STRING s) PARSEINT_RESULT:
     PARSEINT_RESULT(valid, n, s[pos:])
 );
 
-PROC usage = VOID: printf(($gl$, "Usage: please input a non-negative integer"));
+PROC usage = VOID: printf(($gl$, "Usage: please input the total number of people and number of people to skip."));
 
-# Command-line arguments start at 4. If too few, exit #
-IF argc < 4
+# Command-line arguments start at 4. Expecting 2 arguments. If too few, exit #
+IF argc < 5
 THEN
     usage;
     stop
 FI;
 
-# Parse 1st command-line argument #
-STRING s := argv(4);
-PARSEINT_RESULT result := parse int(s);
+# Parse 1st and 2nd command-line arguments #
+[2]INT values;
+FOR m TO 2
+DO
+    STRING s := argv(m + 3);
+    PARSEINT_RESULT result := parse int(s);
 
-# If invalid, extra characters, or negative, exit #
-INT n := value OF result;
-IF NOT (valid OF result) OR (leftover OF result) /= "" OR n < 0
-THEN
-    usage;
-    stop
-FI;
+    # If invalid, extra characters, exit #
+    values[m] := value OF result;
+    IF NOT (valid OF result) OR (leftover OF result) /= ""
+    THEN
+        usage;
+        stop
+    FI
+OD;
 
-# If less than 2 or (not 2 and even), composite #
-# Else, check if prime by checking divisibility by odd numbers from 3 to sqrt(n) #
-BOOL is prime := TRUE;
-IF n < 2 OR (n /= 2 AND n MOD 2 = 0)
-THEN
-    is prime := FALSE
-ELSE
-    INT q := ENTIER(sqrt(n));
-    INT k = 3;
-    FOR k FROM 3 BY 2 TO q
-    WHILE is prime
-    DO
-        IF n MOD k = 0
-        THEN
-            is prime := FALSE
-        FI
-    OD
-FI;
+COMMENT
+Reference: https://en.wikipedia.org/wiki/Josephus_problem#The_general_case
 
-printf(($gl$, (is prime | "Prime" | "Composite")))
+Use zero-based index algorithm:
+
+    g(1, k) = 0
+    g(m, k) = [g(m - 1, k) + k] MOD m, for m = 2, 3, ..., n
+
+Final answer is g(n, k) + 1 to get back to one-based index
+COMMENT
+
+INT n := values[1];
+INT k := values[2];
+INT g := 0;
+FOR m FROM 2 TO n
+DO
+    g := (g + k) MOD m
+OD;
+
+printf(($gl$, whole(g + 1, 0)))
 ```
 
 {% endraw %}
 
-[Prime Number](https://sampleprograms.io/projects/prime-number) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+[Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 24 2023 20:29:23. The solution was first committed on Jan 20 2023 11:12:25. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

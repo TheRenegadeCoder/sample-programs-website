@@ -67,6 +67,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
+- [Palindromic Number in Algol68](https://sampleprograms.io/projects/palindromic-number/algol68)
 - [Palindromic Number in C](https://sampleprograms.io/projects/palindromic-number/c)
 - [Palindromic Number in C++](https://sampleprograms.io/projects/palindromic-number/c-plus-plus)
 - [Palindromic Number in Java](https://sampleprograms.io/projects/palindromic-number/java)

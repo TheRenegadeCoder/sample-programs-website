@@ -56,6 +56,7 @@ your language can handle unicode characters, but it fails for emojis.
 
 ## Articles
 
+- [Reverse String in Algol68](https://sampleprograms.io/projects/reverse-string/algol68)
 - [Reverse String in Apex](https://sampleprograms.io/projects/reverse-string/apex)
 - [Reverse String in Bash](https://sampleprograms.io/projects/reverse-string/bash)
 - [Reverse String in Brainfuck](https://sampleprograms.io/projects/reverse-string/brainfuck)

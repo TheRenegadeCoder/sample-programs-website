@@ -66,6 +66,7 @@ Some tests for your program are:
 
 ## Articles
 
+- [Josephus Problem in Algol68](https://sampleprograms.io/projects/josephus-problem/algol68)
 - [Josephus Problem in Javascript](https://sampleprograms.io/projects/josephus-problem/javascript)
 - [Josephus Problem in Mathematica](https://sampleprograms.io/projects/josephus-problem/mathematica)
 - [Josephus Problem in Python](https://sampleprograms.io/projects/josephus-problem/python)
