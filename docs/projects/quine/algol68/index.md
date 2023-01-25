@@ -3,7 +3,7 @@
 title: Quine in Algol68
 layout: default
 date: 2022-04-28
-last-modified: 2023-01-22
+last-modified: 2023-01-25
 
 ---
 
@@ -14,7 +14,7 @@ Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Algol68](ht
 {% raw %}
 
 ```algol68
-STRING q:=REPR 34;STRING s:="STRING q:=REPR 34;STRING s:=;printf(($gggggl$,s[:28],q,s,q,s[29:]))";printf(($gggggl$,s[:28],q,s,q,s[29:]))
+STRINGs:="STRINGs:="";printf(($gl$,s[:10]*2+s[10:]*2))";printf(($gl$,s[:10]*2+s[10:]*2))
 ```
 
 {% endraw %}

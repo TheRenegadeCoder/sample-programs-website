@@ -74,6 +74,7 @@ Usage: please provide a string
 
 ## Articles
 
+- [Capitalize in Algol68](https://sampleprograms.io/projects/capitalize/algol68)
 - [Capitalize in Bash](https://sampleprograms.io/projects/capitalize/bash)
 - [Capitalize in C](https://sampleprograms.io/projects/capitalize/c)
 - [Capitalize in C#](https://sampleprograms.io/projects/capitalize/c-sharp)

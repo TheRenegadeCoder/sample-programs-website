@@ -69,6 +69,7 @@ verify the correctness of your solution:
 
 ## Articles
 
+- [Rot13 in Algol68](https://sampleprograms.io/projects/rot13/algol68)
 - [Rot13 in C](https://sampleprograms.io/projects/rot13/c)
 - [Rot13 in C#](https://sampleprograms.io/projects/rot13/c-sharp)
 - [Rot13 in Dart](https://sampleprograms.io/projects/rot13/dart)

@@ -38,6 +38,7 @@ for the full syntax and features list.
 ## Articles
 
 - [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
+- [Capitalize in Algol68](https://sampleprograms.io/projects/capitalize/algol68)
 - [Duplicate Character Counter in Algol68](https://sampleprograms.io/projects/duplicate-character-counter/algol68)
 - [Even Odd in Algol68](https://sampleprograms.io/projects/even-odd/algol68)
 - [Factorial in Algol68](https://sampleprograms.io/projects/factorial/algol68)
@@ -45,5 +46,7 @@ for the full syntax and features list.
 - [File Input Output in Algol68](https://sampleprograms.io/projects/file-input-output/algol68)
 - [Fizz Buzz in Algol68](https://sampleprograms.io/projects/fizz-buzz/algol68)
 - [Hello World in Algol68](https://sampleprograms.io/projects/hello-world/algol68)
+- [Longest Word in Algol68](https://sampleprograms.io/projects/longest-word/algol68)
 - [Prime Number in Algol68](https://sampleprograms.io/projects/prime-number/algol68)
 - [Quine in Algol68](https://sampleprograms.io/projects/quine/algol68)
+- [Rot13 in Algol68](https://sampleprograms.io/projects/rot13/algol68)
