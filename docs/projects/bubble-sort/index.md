@@ -129,6 +129,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
+- [Bubble Sort in Algol68](https://sampleprograms.io/projects/bubble-sort/algol68)
 - [Bubble Sort in Bash](https://sampleprograms.io/projects/bubble-sort/bash)
 - [Bubble Sort in C](https://sampleprograms.io/projects/bubble-sort/c)
 - [Bubble Sort in C#](https://sampleprograms.io/projects/bubble-sort/c-sharp)

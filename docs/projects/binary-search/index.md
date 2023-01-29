@@ -82,6 +82,7 @@ Usage: please provide a list of sorted integers ("1, 4, 5, 11, 12") and the inte
 
 ## Articles
 
+- [Binary Search in Algol68](https://sampleprograms.io/projects/binary-search/algol68)
 - [Binary Search in C++](https://sampleprograms.io/projects/binary-search/c-plus-plus)
 - [Binary Search in Go](https://sampleprograms.io/projects/binary-search/go)
 - [Binary Search in Java](https://sampleprograms.io/projects/binary-search/java)

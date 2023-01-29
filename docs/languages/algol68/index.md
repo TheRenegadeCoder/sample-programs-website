@@ -38,6 +38,8 @@ for the full syntax and features list.
 ## Articles
 
 - [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
+- [Binary Search in Algol68](https://sampleprograms.io/projects/binary-search/algol68)
+- [Bubble Sort in Algol68](https://sampleprograms.io/projects/bubble-sort/algol68)
 - [Capitalize in Algol68](https://sampleprograms.io/projects/capitalize/algol68)
 - [Duplicate Character Counter in Algol68](https://sampleprograms.io/projects/duplicate-character-counter/algol68)
 - [Even Odd in Algol68](https://sampleprograms.io/projects/even-odd/algol68)
