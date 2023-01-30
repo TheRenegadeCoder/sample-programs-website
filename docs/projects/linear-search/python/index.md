@@ -31,7 +31,7 @@ def linear_search(array: list, key: int) -> bool:
 
 
 if len(sys.argv) != 3 or not sys.argv[1]:
-    print('Usage: please provide a list of sorted integers ("1, 4, 5, 11, 12") and the integer to find ("11")')
+    print('Usage: please provide a list of integers ("1, 4, 5, 11, 12") and the integer to find ("11")')
 else:
     key = int(sys.argv[2])
     array = sysarg_to_list(sys.argv[1])
@@ -44,11 +44,12 @@ else:
 
 - frankhart2017
 - Jeremy Grifski
+- rzuckerm
 - Siddhartha Dhar Choudhury
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Oct 17 2019 17:54:11. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 29 2023 21:43:56. The solution was first committed on Oct 17 2019 17:54:11. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

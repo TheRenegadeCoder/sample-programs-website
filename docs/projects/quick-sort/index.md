@@ -99,6 +99,7 @@ verify the correctness of your solution:
 
 ## Articles
 
+- [Quick Sort in Algol68](https://sampleprograms.io/projects/quick-sort/algol68)
 - [Quick Sort in Bash](https://sampleprograms.io/projects/quick-sort/bash)
 - [Quick Sort in C](https://sampleprograms.io/projects/quick-sort/c)
 - [Quick Sort in C#](https://sampleprograms.io/projects/quick-sort/c-sharp)

@@ -105,6 +105,7 @@ verify the correctness of your solution:
 
 ## Articles
 
+- [Insertion Sort in Algol68](https://sampleprograms.io/projects/insertion-sort/algol68)
 - [Insertion Sort in C](https://sampleprograms.io/projects/insertion-sort/c)
 - [Insertion Sort in C#](https://sampleprograms.io/projects/insertion-sort/c-sharp)
 - [Insertion Sort in C++](https://sampleprograms.io/projects/insertion-sort/c-plus-plus)

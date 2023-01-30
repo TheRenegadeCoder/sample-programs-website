@@ -3,7 +3,7 @@
 title: Linear Search in Java
 layout: default
 date: 2022-04-28
-last-modified: 2023-01-29
+last-modified: 2023-01-30
 
 ---
 
@@ -32,11 +32,11 @@ public class LinearSearch {
                 System.out.println(searched);
             } else {
                 System.out.println(
-                        "Usage: please provide a list of sorted integers (\"1, 4, 5, 11, 12\") and the integer to find (\"11\")");
+                        "Usage: please provide a list of integers (\"1, 4, 5, 11, 12\") and the integer to find (\"11\")");
             }
         } catch (Exception e) {
             System.out.println(
-                    "Usage: please provide a list of sorted integers (\"1, 4, 5, 11, 12\") and the integer to find (\"11\")");
+                    "Usage: please provide a list of integers (\"1, 4, 5, 11, 12\") and the integer to find (\"11\")");
         }
     }
 
@@ -59,10 +59,11 @@ public class LinearSearch {
 
 - Ashish Aggarwal
 - Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Oct 05 2020 19:23:45. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 29 2023 21:43:56. The solution was first committed on Oct 05 2020 19:23:45. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

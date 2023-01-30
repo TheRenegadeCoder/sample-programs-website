@@ -90,6 +90,7 @@ verify the correctness of your solution:
 
 ## Articles
 
+- [Merge Sort in Algol68](https://sampleprograms.io/projects/merge-sort/algol68)
 - [Merge Sort in C](https://sampleprograms.io/projects/merge-sort/c)
 - [Merge Sort in C#](https://sampleprograms.io/projects/merge-sort/c-sharp)
 - [Merge Sort in C++](https://sampleprograms.io/projects/merge-sort/c-plus-plus)

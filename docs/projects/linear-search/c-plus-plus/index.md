@@ -3,7 +3,7 @@
 title: Linear Search in C++
 layout: default
 date: 2022-04-28
-last-modified: 2023-01-29
+last-modified: 2023-01-30
 
 ---
 
@@ -22,7 +22,7 @@ using namespace std;
 
 int main(int argc, char *argv[])
 {
-    string error = "Usage: please provide a list of sorted integers (\"1, 4, 5, 11, 12\") and the integer to find (\"11\")";
+    string error = "Usage: please provide a list of integers (\"1, 4, 5, 11, 12\") and the integer to find (\"11\")";
 
     if (argc != 3)
     {
@@ -77,11 +77,12 @@ int main(int argc, char *argv[])
 [Linear Search](https://sampleprograms.io/projects/linear-search) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Jeremy Grifski
+- rzuckerm
 - Vipin Yadav
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 16:05:09. The solution was first committed on Oct 03 2022 18:47:58. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 29 2023 21:43:56. The solution was first committed on Oct 03 2022 18:47:58. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

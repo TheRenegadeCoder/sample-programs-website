@@ -132,6 +132,7 @@ verify the correctness of your solution:
 
 ## Articles
 
+- [Selection Sort in Algol68](https://sampleprograms.io/projects/selection-sort/algol68)
 - [Selection Sort in Bash](https://sampleprograms.io/projects/selection-sort/bash)
 - [Selection Sort in C](https://sampleprograms.io/projects/selection-sort/c)
 - [Selection Sort in C#](https://sampleprograms.io/projects/selection-sort/c-sharp)
