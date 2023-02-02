@@ -3,7 +3,7 @@
 title: Factorial in Algol68
 layout: default
 date: 2022-04-28
-last-modified: 2023-01-30
+last-modified: 2023-02-02
 
 ---
 
@@ -15,73 +15,70 @@ Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Alg
 
 ```algol68
 MODE PARSEINT_RESULT = STRUCT(BOOL valid, INT value, STRING leftover);
-INT zero := ABS "0";
 
-PROC find non blank = (STRING s, INT start) INT:
-(
-    INT pos := start;
-    FOR k FROM pos TO UPB(s)
-    WHILE isspace(s[k])
-    DO
-        pos +:= 1
-    OD;
-
-    pos
-);
-
-PROC parse int = (STRING s) PARSEINT_RESULT:
+PROC parse int = (REF STRING s) PARSEINT_RESULT:
 (
     BOOL valid := FALSE;
-    INT sign := 1;
     REAL r := 0.0;
     INT n := 0;
+    STRING leftover;
 
-    # Skip blanks #
-    INT pos := find non blank(s, 1);
+    # Associate string with a file #
+    FILE f;
+    associate(f, s);
 
-    # Handle sign #
-    INT len := UPB(s);
-    FROM pos TO len
-    WHILE s[pos] = "+" OR s[pos] = "-"
-    DO
-        IF s[pos] = "-"
-        THEN
-            sign := -sign
-        FI;
+    # On end of input, exit if valid number not seen. Otherwise ignore it #
+    on logical file end(f, (REF FILE dummy) BOOL:
+        (
+            IF NOT valid THEN done FI;
+            TRUE
+        )
+    );
 
-        pos +:= 1
-    OD;
+    # Exit if value error #
+    on value error(f, (REF FILE dummy) BOOL: done);
 
-    # Convert the string to an integer until end-of-string or non-digit #
-    FROM pos TO len
-    WHILE isdigit(s[pos])
-    DO
-        valid := TRUE;
-        r := r * 10.0 + (ABS s[pos]) - zero;
-        pos +:= 1
-    OD;
+    # Convert string to real number #
+    get(f, r);
 
-    # Make sure value is in range #
-    r *:= sign;
-    IF r < -(max int + 1.0) OR r > max int
+    # If real number is in range of an integer, convert to integer. Indicate integer is valid if same as real #
+    IF ABS r <= max int
     THEN
-        valid := FALSE
-    ELSE
-        n := ENTIER(r)
+        n := ENTIER(r);
+        valid := (n = r)
     FI;
 
-    pos := find non blank(s, pos);
-    PARSEINT_RESULT(valid, n, s[pos:])
+    # Get leftover string #
+    get(f, leftover);
+
+done:
+    close(f);
+    PARSEINT_RESULT(valid, n, leftover)
 );
 
 PROC usage = VOID: printf(($gl$, "Usage: please input a non-negative integer"));
 
-# Command-line arguments start at 4. If too few, exit #
-IF argc < 4
-THEN
-    usage;
-    stop
-FI;
+# Allow answer to be up to 201 digits (googol squared!) #
+PR precision=201 PR
+
+PROC factorial = (INT n) LONG LONG INT:
+(
+    # Multiply from 1 through n (note that 0! = 1) #
+    LONG LONG INT fact := 1;
+    FOR k FROM 2 TO n
+    DO
+        # Exit if next multiplication will cause an overlow #
+        IF fact > long long max int / k
+        THEN
+            putf(stand error, ($gl$, "Overflow!"));
+            stop
+        FI;
+
+        fact *:= k
+    OD;
+
+    fact
+);
 
 # Parse 1st command-line argument #
 STRING s := argv(4);
@@ -95,23 +92,8 @@ THEN
     stop
 FI;
 
-# Allow answer to be up to 201 digits (googol squared!) #
-PR precision=201 PR
-
-# Multiply from 1 through n (note that 0! = 1) #
-LONG LONG INT fact := 1;
-FOR k FROM 2 TO n
-DO
-    # Exit if next multiplication will cause an overlow #
-    IF fact > long long max int / k
-    THEN
-        putf(stand error, ($gl$, "Overflow!"));
-        stop
-    FI;
-
-    fact *:= k
-OD;
-
+# Calculate and display factorial #
+LONG LONG INT fact := factorial(n);
 print((whole(fact, 0), newline))
 ```
 
@@ -122,6 +104,8 @@ print((whole(fact, 0), newline))
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 30 2023 18:32:37. The solution was first committed on Jan 21 2023 16:17:56. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

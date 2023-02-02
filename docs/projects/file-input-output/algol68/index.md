@@ -3,7 +3,7 @@
 title: File Input Output in Algol68
 layout: default
 date: 2022-04-28
-last-modified: 2023-01-30
+last-modified: 2023-02-02
 
 ---
 
@@ -43,7 +43,7 @@ PROC read file = (STRING file name) INT:
         on logical file end(f, (REF FILE inf) BOOL:
             (
                 close(inf);
-                stop 
+                done
             )
         );
 
@@ -54,6 +54,7 @@ PROC read file = (STRING file name) INT:
         OD
     FI;
 
+done:
     status
 );
 
@@ -76,6 +77,8 @@ FI
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 31 2023 21:43:37. The solution was first committed on Jan 20 2023 11:21:46. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

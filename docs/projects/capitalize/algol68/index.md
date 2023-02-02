@@ -3,7 +3,7 @@
 title: Capitalize in Algol68
 layout: default
 date: 2022-04-28
-last-modified: 2023-01-30
+last-modified: 2023-02-02
 
 ---
 
@@ -16,12 +16,11 @@ Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [A
 ```algol68
 PROC usage = VOID: printf(($gl$, "Usage: please provide a string"));
 
-# Command-line arguments start at 4. If too few, exit #
-IF argc < 4
-THEN
-    usage;
-    stop
-FI;
+PROC capitalize = (STRING s) STRING:
+(
+    # Capitalize first letter if lowercase #
+    toupper(s[1]) + s[2:]
+);
 
 # Get 1st command-line argument. Exit if empty #
 STRING s := argv(4);
@@ -31,11 +30,8 @@ THEN
     stop
 FI;
 
-IF islower(s[1])
-THEN
-    s[1] := toupper(s[1])
-FI;
-
+# Capitalize string and show it #
+s := capitalize(s);
 printf(($gl$, s))
 ```
 
@@ -46,6 +42,8 @@ printf(($gl$, s))
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Feb 01 2023 14:45:47. The solution was first committed on Jan 22 2023 14:39:17. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

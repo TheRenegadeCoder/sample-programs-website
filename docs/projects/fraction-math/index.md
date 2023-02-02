@@ -61,6 +61,7 @@ Some tests for your program are:
 
 ## Articles
 
+- [Fraction Math in Algol68](https://sampleprograms.io/projects/fraction-math/algol68)
 - [Fraction Math in C++](https://sampleprograms.io/projects/fraction-math/c-plus-plus)
 - [Fraction Math in Mathematica](https://sampleprograms.io/projects/fraction-math/mathematica)
 - [Fraction Math in Python](https://sampleprograms.io/projects/fraction-math/python)

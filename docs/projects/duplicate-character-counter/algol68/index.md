@@ -3,7 +3,7 @@
 title: Duplicate Character Counter in Algol68
 layout: default
 date: 2022-04-28
-last-modified: 2023-01-30
+last-modified: 2023-02-02
 
 ---
 
@@ -16,12 +16,44 @@ Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/
 ```algol68
 PROC usage = VOID: printf(($gl$, "Usage: please provide a string"));
 
-# Command-line arguments start at 4. If too few, exit #
-IF argc < 4
-THEN
-    usage;
-    stop
-FI;
+PROC duplicate character counter = (STRING s) REF []INT:
+(
+    # Initialize character counter #
+    HEAP [0..255]INT char counter;
+    FOR k FROM LWB char counter TO UPB char counter
+    DO
+        char counter[k] := 0
+    OD;
+
+    # Count number of occurances of each character #
+    FOR k TO UPB s
+    DO
+        char counter[ABS s[k]] +:= 1
+    OD;
+
+    char counter
+);
+
+PROC show duplicate character counts = (STRING s, REF []INT char counter) VOID:
+(
+    BOOL has dupes := FALSE;
+    INT code;
+    FOR k TO UPB s
+    DO
+        code := ABS s[k];
+        IF char counter[code] > 1
+        THEN
+            printf(($g": "gl$, s[k], whole(char counter[code], 0)));
+            char counter[code] := 0;
+            has dupes := TRUE
+        FI
+    OD;
+
+    IF NOT has dupes
+    THEN
+        printf(($gl$, "No duplicate characters"))
+    FI
+);
 
 # Get 1st command-line argument. Exit if empty #
 STRING s := argv(4);
@@ -31,37 +63,11 @@ THEN
     stop
 FI;
 
-# Initialize character counter #
-[0..255]INT char counter;
-FOR k FROM LWB char counter TO UPB char counter
-DO
-    char counter[k] := 0
-OD;
-
-# Count number of occurances of each character #
-FOR k TO UPB s
-DO
-    char counter[ABS s[k]] +:= 1
-OD;
+# Count duplicate characters #
+REF []INT char counter := duplicate character counter(s);
 
 # Show all duplicate character counts in order in which they occurred in string (if any) #
-BOOL has dupes := FALSE;
-INT code;
-FOR k TO UPB s
-DO
-    code := ABS s[k];
-    IF char counter[code] > 1
-    THEN
-        printf(($g": "gl$, s[k], whole(char counter[code], 0)));
-        char counter[code] := 0;
-        has dupes := TRUE
-    FI
-OD;
-
-IF NOT has dupes
-THEN
-    printf(($gl$, "No duplicate characters"))
-FI
+show duplicate character counts(s, char counter)
 ```
 
 {% endraw %}
@@ -71,6 +77,8 @@ FI
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 31 2023 11:58:16. The solution was first committed on Jan 22 2023 14:02:26. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

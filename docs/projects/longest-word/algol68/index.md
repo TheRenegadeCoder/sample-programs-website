@@ -3,7 +3,7 @@
 title: Longest Word in Algol68
 layout: default
 date: 2022-04-28
-last-modified: 2023-01-30
+last-modified: 2023-02-02
 
 ---
 
@@ -16,12 +16,28 @@ Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) i
 ```algol68
 PROC usage = VOID: printf(($gl$, "Usage: please provide a string"));
 
-# Command-line arguments start at 4. If too few, exit #
-IF argc < 4
-THEN
-    usage;
-    stop
-FI;
+PROC longest word length = (STRING s) INT:
+(
+    INT longest word len := 0;
+    INT word len := 0;
+    FOR n TO UPB s
+    DO
+        # If whitespace, reset word length #
+        IF isspace(s[n])
+        THEN
+            word len := 0
+        # Else increment word length and update longest word length #
+        ELSE
+            word len +:= 1;
+            IF word len > longest word len
+            THEN
+                longest word len := word len
+            FI
+        FI
+    OD;
+
+    longest word len
+);
 
 # Get 1st command-line argument. Exit if empty #
 STRING s := argv(4);
@@ -31,24 +47,7 @@ THEN
     stop
 FI;
 
-INT longest word len := 0;
-INT word len := 0;
-FOR n TO UPB s
-DO
-    # If whitespace, reset word length #
-    IF isspace(s[n])
-    THEN
-        word len := 0
-    # Else increment word length and update longest word length #
-    ELSE
-        word len +:= 1;
-        IF word len > longest word len
-        THEN
-            longest word len := word len
-        FI
-    FI
-OD;
-
+INT longest word len := longest word length(s);
 print((whole(longest word len, 0), newline))
 ```
 
@@ -59,6 +58,8 @@ print((whole(longest word len, 0), newline))
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 31 2023 22:00:52. The solution was first committed on Jan 24 2023 12:12:05. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

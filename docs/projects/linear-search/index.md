@@ -94,6 +94,7 @@ doesn't supply correct input.
 
 ## Articles
 
+- [Linear Search in Algol68](https://sampleprograms.io/projects/linear-search/algol68)
 - [Linear Search in C++](https://sampleprograms.io/projects/linear-search/c-plus-plus)
 - [Linear Search in Java](https://sampleprograms.io/projects/linear-search/java)
 - [Linear Search in Javascript](https://sampleprograms.io/projects/linear-search/javascript)

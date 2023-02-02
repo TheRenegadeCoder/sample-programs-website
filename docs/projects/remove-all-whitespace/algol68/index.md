@@ -3,7 +3,7 @@
 title: Remove All Whitespace in Algol68
 layout: default
 date: 2022-04-28
-last-modified: 2023-01-30
+last-modified: 2023-02-02
 
 ---
 
@@ -16,12 +16,19 @@ Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove
 ```algol68
 PROC usage = VOID: printf(($gl$, "Usage: please provide a string"));
 
-# Command-line arguments start at 4. If too few, exit #
-IF argc < 4
-THEN
-    usage;
-    stop
-FI;
+PROC remove all whitespace := (STRING s) STRING:
+(
+    STRING t;
+    FOR n TO UPB s
+    DO
+        IF NOT isspace(s[n])
+        THEN
+            t +:= s[n]
+        FI
+    OD;
+
+    t
+);
 
 # Get 1st command-line argument. Exit if empty #
 STRING s := argv(4);
@@ -31,16 +38,9 @@ THEN
     stop
 FI;
 
-STRING t;
-FOR n TO UPB s
-DO
-    IF NOT isspace(s[n])
-    THEN
-        t +:= s[n]
-    FI
-OD;
-
-printf(($gl$, t))
+# Remove all whitespace and display result #
+s := remove all whitespace(s);
+printf(($gl$, s))
 ```
 
 {% endraw %}
@@ -50,6 +50,8 @@ printf(($gl$, t))
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 31 2023 22:23:00. The solution was first committed on Jan 24 2023 20:53:00. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

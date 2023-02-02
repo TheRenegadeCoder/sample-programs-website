@@ -19,7 +19,7 @@ Welcome to the Maximum Array Rotation page! Here, you'll find a description of t
 Given a list, L, of integers, we can compute the weighted sum, W, as followed:
 
 ```
-W = L[0] * 0 + L[1] * 1 + ... + L[N - 1] * N - 1
+W = L[0] * 0 + L[1] * 1 + ... + L[N - 1] * (N - 1)
 ```
 
 In this case, N is the length of the list. As a result, if the list contained 5 items,

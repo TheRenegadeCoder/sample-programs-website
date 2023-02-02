@@ -3,7 +3,7 @@
 title: Insertion Sort in Algol68
 layout: default
 date: 2022-04-28
-last-modified: 2023-01-30
+last-modified: 2023-02-02
 
 ---
 
@@ -53,6 +53,7 @@ PROC parse int = (REF STRING s) PARSEINT_RESULT:
     get(f, leftover);
 
 done:
+    close(f);
     PARSEINT_RESULT(valid, n, leftover)
 );
 
@@ -172,6 +173,8 @@ show list values(values)
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 31 2023 21:47:57. The solution was first committed on Jan 29 2023 21:18:29. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

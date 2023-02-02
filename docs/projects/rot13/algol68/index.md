@@ -3,7 +3,7 @@
 title: Rot13 in Algol68
 layout: default
 date: 2022-04-28
-last-modified: 2023-01-30
+last-modified: 2023-02-02
 
 ---
 
@@ -16,12 +16,25 @@ Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Algol68](ht
 ```algol68
 PROC usage = VOID: printf(($gl$, "Usage: please provide a string to encrypt"));
 
-# Command-line arguments start at 4. If too few, exit #
-IF argc < 4
-THEN
-    usage;
-    stop
-FI;
+PROC rot13 = (STRING s) STRING:
+(
+    INT code;
+    STRING t;
+    FOR n TO UPB s
+    DO
+        # If A-M or a-m, convert to N-Z or n-z by adding 13 to ASCII code #
+        # Else, convert to A-M or a-m by subtracting 13 from ASCII code #
+        code := ABS s[n];
+        IF isalpha(s[n])
+        THEN
+            code +:= (tolower(s[n]) <= "m" | 13 | -13)
+        FI;
+
+        t +:= REPR code
+    OD;
+
+    t
+);
 
 # Get 1st command-line argument. Exit if empty #
 STRING s := argv(4);
@@ -31,19 +44,8 @@ THEN
     stop
 FI;
 
-INT code;
-FOR n TO UPB s
-DO
-    # If A-M or a-m, convert to N-Z or n-z by adding 13 to ASCII code #
-    # Else, convert to A-M or a-m by subtracting 13 from ASCII code #
-    IF isalpha(s[n])
-    THEN
-        code := ABS s[n];
-        code +:= (tolower(s[n]) <= "m" | 13 | -13);
-        s[n] := REPR code
-    FI
-OD;
-
+# Encrypt string with ROT13 and display #
+s := rot13(s);
 printf(($gl$, s))
 ```
 
@@ -54,6 +56,8 @@ printf(($gl$, s))
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Feb 01 2023 12:00:13. The solution was first committed on Jan 24 2023 12:24:28. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 
