@@ -82,13 +82,13 @@ correctness of your solution:
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Palindromic Number)](https://sampleprograms.io/projects/palindromic-number)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Quick Sort) -->](https://sampleprograms.io/projects/quick-sort)
 

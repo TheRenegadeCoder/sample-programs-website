@@ -69,13 +69,13 @@ Verify that the actual output matches the expected output (see [requirements][1]
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Sleep Sort)](https://sampleprograms.io/projects/sleep-sort)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Baklava) -->](https://sampleprograms.io/projects/baklava)
 

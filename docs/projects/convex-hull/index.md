@@ -88,13 +88,13 @@ Usage: please provide at least 3 x and y coordinates as separate lists (e.g. "10
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Capitalize)](https://sampleprograms.io/projects/capitalize)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Depth First Search) -->](https://sampleprograms.io/projects/depth-first-search)
 

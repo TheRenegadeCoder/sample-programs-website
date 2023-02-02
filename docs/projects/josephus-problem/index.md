@@ -75,13 +75,13 @@ Some tests for your program are:
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Job Sequencing)](https://sampleprograms.io/projects/job-sequencing)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Linear Search) -->](https://sampleprograms.io/projects/linear-search)
 

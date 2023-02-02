@@ -84,13 +84,13 @@ verify the correctness of your solution:
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Linear Search)](https://sampleprograms.io/projects/linear-search)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Longest Palindromic Substring) -->](https://sampleprograms.io/projects/longest-palindromic-substring)
 

@@ -83,13 +83,13 @@ As always, these tests will be run against any code submitted to the repo via [G
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Longest Palindromic Substring)](https://sampleprograms.io/projects/longest-palindromic-substring)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Maximum Array Rotation) -->](https://sampleprograms.io/projects/maximum-array-rotation)
 

@@ -54,6 +54,7 @@ for the full syntax and features list.
 - [Josephus Problem in Algol68](https://sampleprograms.io/projects/josephus-problem/algol68)
 - [Linear Search in Algol68](https://sampleprograms.io/projects/linear-search/algol68)
 - [Longest Word in Algol68](https://sampleprograms.io/projects/longest-word/algol68)
+- [Maximum Array Rotation in Algol68](https://sampleprograms.io/projects/maximum-array-rotation/algol68)
 - [Merge Sort in Algol68](https://sampleprograms.io/projects/merge-sort/algol68)
 - [Palindromic Number in Algol68](https://sampleprograms.io/projects/palindromic-number/algol68)
 - [Prime Number in Algol68](https://sampleprograms.io/projects/prime-number/algol68)

@@ -64,13 +64,13 @@ Some tests for your program are:
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Maximum Array Rotation)](https://sampleprograms.io/projects/maximum-array-rotation)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Merge Sort) -->](https://sampleprograms.io/projects/merge-sort)
 

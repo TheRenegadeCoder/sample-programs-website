@@ -83,13 +83,13 @@ Usage: please input a non-negative integer
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Minimum Spanning Tree)](https://sampleprograms.io/projects/minimum-spanning-tree)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Prime Number) -->](https://sampleprograms.io/projects/prime-number)
 

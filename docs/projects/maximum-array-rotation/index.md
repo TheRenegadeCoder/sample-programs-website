@@ -66,6 +66,7 @@ Maximum Array Rotation. See the following testing section for more specific requ
 
 ## Articles
 
+- [Maximum Array Rotation in Algol68](https://sampleprograms.io/projects/maximum-array-rotation/algol68)
 - [Maximum Array Rotation in Mathematica](https://sampleprograms.io/projects/maximum-array-rotation/mathematica)
 - [Maximum Array Rotation in Python](https://sampleprograms.io/projects/maximum-array-rotation/python)
 
@@ -73,13 +74,13 @@ Maximum Array Rotation. See the following testing section for more specific requ
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Longest Word)](https://sampleprograms.io/projects/longest-word)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Maximum Subarray) -->](https://sampleprograms.io/projects/maximum-subarray)
 

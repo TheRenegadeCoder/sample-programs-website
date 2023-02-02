@@ -89,13 +89,13 @@ verify the correctness of your solution:
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Roman Numeral)](https://sampleprograms.io/projects/roman-numeral)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Selection Sort) -->](https://sampleprograms.io/projects/selection-sort)
 

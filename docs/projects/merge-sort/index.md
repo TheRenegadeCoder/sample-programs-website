@@ -111,13 +111,13 @@ verify the correctness of your solution:
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Maximum Subarray)](https://sampleprograms.io/projects/maximum-subarray)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Minimum Spanning Tree) -->](https://sampleprograms.io/projects/minimum-spanning-tree)
 

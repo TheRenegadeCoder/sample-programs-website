@@ -86,13 +86,13 @@ Some tests for your program are:
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Even Odd)](https://sampleprograms.io/projects/even-odd)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Fibonacci) -->](https://sampleprograms.io/projects/fibonacci)
 

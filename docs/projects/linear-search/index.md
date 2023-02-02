@@ -105,13 +105,13 @@ doesn't supply correct input.
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Josephus Problem)](https://sampleprograms.io/projects/josephus-problem)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Longest Common Subsequence) -->](https://sampleprograms.io/projects/longest-common-subsequence)
 

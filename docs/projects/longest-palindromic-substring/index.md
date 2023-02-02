@@ -97,13 +97,13 @@ The following table contains various test cases that you can use to verify the c
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Longest Common Subsequence)](https://sampleprograms.io/projects/longest-common-subsequence)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Longest Word) -->](https://sampleprograms.io/projects/longest-word)
 

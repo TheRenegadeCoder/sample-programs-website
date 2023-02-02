@@ -74,13 +74,13 @@ Verify that the actual output matches the expected output. See the
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Fibonacci)](https://sampleprograms.io/projects/fibonacci)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Fizz Buzz) -->](https://sampleprograms.io/projects/fizz-buzz)
 

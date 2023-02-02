@@ -103,13 +103,13 @@ your language can handle unicode characters, but it fails for emojis.
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Remove All Whitespace)](https://sampleprograms.io/projects/remove-all-whitespace)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Roman Numeral) -->](https://sampleprograms.io/projects/roman-numeral)
 

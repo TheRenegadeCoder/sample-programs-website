@@ -122,13 +122,13 @@ Usage: please provide three inputs: a serialized matrix, a source node and a des
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Depth First Search)](https://sampleprograms.io/projects/depth-first-search)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Duplicate Character Counter) -->](https://sampleprograms.io/projects/duplicate-character-counter)
 

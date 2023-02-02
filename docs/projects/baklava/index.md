@@ -113,13 +113,13 @@ Baklava has no input, so there are no invalid test cases.
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Transpose Matrix)](https://sampleprograms.io/projects/transpose-matrix)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Binary Search) -->](https://sampleprograms.io/projects/binary-search)
 

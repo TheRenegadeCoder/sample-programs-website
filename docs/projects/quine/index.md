@@ -60,13 +60,13 @@ Verify that the actual output matches the expected output. See the
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Quick Sort)](https://sampleprograms.io/projects/quick-sort)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Remove All Whitespace) -->](https://sampleprograms.io/projects/remove-all-whitespace)
 

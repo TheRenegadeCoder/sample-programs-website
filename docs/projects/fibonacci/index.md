@@ -94,13 +94,13 @@ Some tests for your program are:
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Factorial)](https://sampleprograms.io/projects/factorial)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (File Input Output) -->](https://sampleprograms.io/projects/file-input-output)
 

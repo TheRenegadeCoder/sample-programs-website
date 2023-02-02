@@ -111,13 +111,13 @@ Verify that the actual output matches the expected output. See the
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (File Input Output)](https://sampleprograms.io/projects/file-input-output)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Fraction Math) -->](https://sampleprograms.io/projects/fraction-math)
 

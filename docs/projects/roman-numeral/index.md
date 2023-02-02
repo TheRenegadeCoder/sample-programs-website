@@ -97,13 +97,13 @@ Conversion program:
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Reverse String)](https://sampleprograms.io/projects/reverse-string)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Rot13) -->](https://sampleprograms.io/projects/rot13)
 

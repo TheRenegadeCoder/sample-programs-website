@@ -56,13 +56,13 @@ that has a duplicate.
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Dijkstra)](https://sampleprograms.io/projects/dijkstra)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Even Odd) -->](https://sampleprograms.io/projects/even-odd)
 

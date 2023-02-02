@@ -92,13 +92,13 @@ In other words, what is the cost of the minimum spanning tree?
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Merge Sort)](https://sampleprograms.io/projects/merge-sort)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Palindromic Number) -->](https://sampleprograms.io/projects/palindromic-number)
 

@@ -87,13 +87,13 @@ The following table contains various test cases that you can use to verify the c
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Duplicate Character Counter)](https://sampleprograms.io/projects/duplicate-character-counter)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Factorial) -->](https://sampleprograms.io/projects/factorial)
 

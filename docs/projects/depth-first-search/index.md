@@ -119,13 +119,13 @@ Usage: please provide a tree in an adjacency matrix form ("0, 1, 1, 0, 0, 1, 0, 
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Convex Hull)](https://sampleprograms.io/projects/convex-hull)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Dijkstra) -->](https://sampleprograms.io/projects/dijkstra)
 

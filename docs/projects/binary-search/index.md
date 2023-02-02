@@ -95,13 +95,13 @@ Usage: please provide a list of sorted integers ("1, 4, 5, 11, 12") and the inte
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Baklava)](https://sampleprograms.io/projects/baklava)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Bubble Sort) -->](https://sampleprograms.io/projects/bubble-sort)
 

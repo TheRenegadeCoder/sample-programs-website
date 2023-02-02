@@ -71,13 +71,13 @@ As always, these tests will be run against any code submitted to the repo via [G
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Quine)](https://sampleprograms.io/projects/quine)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Reverse String) -->](https://sampleprograms.io/projects/reverse-string)
 

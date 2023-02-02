@@ -151,13 +151,13 @@ verify the correctness of your solution:
 
 <nav class="project-nav">
 
-<div id="prev">
+<div id="prev" markdown="1">
 
 [<-- Previous Project (Rot13)](https://sampleprograms.io/projects/rot13)
 
 </div>
 
-<div id="next">
+<div id="next" markdown="1">
 
 [Next Project (Sleep Sort) -->](https://sampleprograms.io/projects/sleep-sort)
 
