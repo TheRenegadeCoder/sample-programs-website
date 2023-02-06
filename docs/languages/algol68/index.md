@@ -58,6 +58,7 @@ for the full syntax and features list.
 - [Maximum Array Rotation in Algol68](https://sampleprograms.io/projects/maximum-array-rotation/algol68)
 - [Maximum Subarray in Algol68](https://sampleprograms.io/projects/maximum-subarray/algol68)
 - [Merge Sort in Algol68](https://sampleprograms.io/projects/merge-sort/algol68)
+- [Minimum Spanning Tree in Algol68](https://sampleprograms.io/projects/minimum-spanning-tree/algol68)
 - [Palindromic Number in Algol68](https://sampleprograms.io/projects/palindromic-number/algol68)
 - [Prime Number in Algol68](https://sampleprograms.io/projects/prime-number/algol68)
 - [Quick Sort in Algol68](https://sampleprograms.io/projects/quick-sort/algol68)
@@ -67,3 +68,4 @@ for the full syntax and features list.
 - [Roman Numeral in Algol68](https://sampleprograms.io/projects/roman-numeral/algol68)
 - [Rot13 in Algol68](https://sampleprograms.io/projects/rot13/algol68)
 - [Selection Sort in Algol68](https://sampleprograms.io/projects/selection-sort/algol68)
+- [Transpose Matrix in Algol68](https://sampleprograms.io/projects/transpose-matrix/algol68)

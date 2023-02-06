@@ -62,6 +62,7 @@ Verify that the actual output matches the expected output (see [requirements][1]
 
 ## Articles
 
+- [Transpose Matrix in Algol68](https://sampleprograms.io/projects/transpose-matrix/algol68)
 - [Transpose Matrix in Mathematica](https://sampleprograms.io/projects/transpose-matrix/mathematica)
 - [Transpose Matrix in Python](https://sampleprograms.io/projects/transpose-matrix/python)
 
