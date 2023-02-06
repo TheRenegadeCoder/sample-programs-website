@@ -3,7 +3,7 @@
 title: Reverse String in Algol68
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-05
+last-modified: 2023-02-06
 
 ---
 
@@ -16,12 +16,16 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 ```algol68
 PROC usage = VOID: printf(($gl$, "Usage: please provide a string"));
 
-# Command-line arguments start at 4. If too few, exit #
-IF argc < 4
-THEN
-    usage;
-    stop
-FI;
+PROC reverse string = (STRING s) STRING:
+(
+    STRING t;
+    FOR n FROM UPB s DOWNTO 1
+    DO
+        t +:= s[n]
+    OD;
+
+    t
+);
 
 # Get 1st command-line argument. Exit if empty #
 STRING s := argv(4);
@@ -31,15 +35,8 @@ THEN
     stop
 FI;
 
-CHAR temp;
-INT len := UPB s;
-FOR n TO len OVER 2
-DO
-    temp := s[len + 1 - n];
-    s[len + 1 - n] := s[n];
-    s[n] := temp
-OD;
-
+# Reverse string and show result #
+s := reverse string(s);
 printf(($gl$, s))
 ```
 
@@ -50,6 +47,8 @@ printf(($gl$, s))
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Feb 06 2023 09:49:05. The solution was first committed on Jan 24 2023 20:34:53. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 
