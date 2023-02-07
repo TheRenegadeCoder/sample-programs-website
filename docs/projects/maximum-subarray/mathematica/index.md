@@ -3,7 +3,7 @@
 title: Maximum Subarray in Mathematica
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-06
+last-modified: 2023-02-07
 
 ---
 
@@ -26,7 +26,7 @@ maximumSubarray = a \[Function] Max[
 (* The outer function provides the 'user interface': *)
 
 maximumSubarrayMain = l \[Function] Catch[
-    Module[{e = "Usage: Please provide a list of at least two integers to sort in the format: \"1, 2, 3, 4, 5\"",
+    Module[{e = "Usage: Please provide a list of integers in the format: \"1, 2, 3, 4, 5\"",
       fromNegativeDigits},
      (* oddly, Mathematica doesn't appear to provide a function which can parse strings representing negative integers *)
      fromNegativeDigits = Piecewise[{
@@ -63,8 +63,11 @@ maximumSubarrayMain[""]
 [Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Feb 06 2023 19:40:54. The solution was first committed on Jan 20 2023 09:27:27. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

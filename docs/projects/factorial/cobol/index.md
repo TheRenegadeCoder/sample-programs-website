@@ -3,7 +3,7 @@
 title: Factorial in Cobol
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-06
+last-modified: 2023-02-07
 
 ---
 

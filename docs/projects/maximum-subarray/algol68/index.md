@@ -3,7 +3,7 @@
 title: Maximum Subarray in Algol68
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-06
+last-modified: 2023-02-07
 
 ---
 
@@ -107,9 +107,7 @@ PROC parse int list = (REF STRING s) PARSEINTLIST_RESULT:
     PARSEINTLIST_RESULT(valid, values)
 );
 
-PROC usage = VOID: (
-    printf(($gl$, "Usage: Please provide a list of at least two integers to sort in the format: ""1, 2, 3, 4, 5"""))
-);
+PROC usage = VOID: printf(($gl$, "Usage: Please provide a list of integers in the format: ""1, 2, 3, 4, 5"""));
 
 PROC max = (INT a, INT b) INT: (a > b | a | b);
 
@@ -152,6 +150,8 @@ printf(($gl$, whole(max value, 0)))
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Feb 06 2023 19:40:54. The solution was first committed on Feb 06 2023 09:59:05. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

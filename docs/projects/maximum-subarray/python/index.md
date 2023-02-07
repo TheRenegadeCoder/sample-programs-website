@@ -24,7 +24,7 @@ from typing import List
 def error_handling(argv: List) -> List[int]:
     str_input = (','.join(i for i in argv[1:])).strip()
     if str_input == "":
-        print('Usage: Please provide a list of at least two integers to sort in the format: "1, 2, 3, 4, 5"')
+        print('Usage: Please provide a list of integers in the format: "1, 2, 3, 4, 5"')
         sys.exit(1)
     nums = [int(num) for num in str_input.split(',')]
     return nums
@@ -53,10 +53,11 @@ if __name__ == "__main__":
 
 - Divyansh Agarwal
 - Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 12 2022 20:19:17. The solution was first committed on Nov 03 2020 08:44:37. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Feb 06 2023 19:40:54. The solution was first committed on Nov 03 2020 08:44:37. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 
