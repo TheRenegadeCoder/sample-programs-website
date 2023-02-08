@@ -30,5 +30,5 @@ You should only need to do the above once. All other times, just activate the vi
 `source` command.
 
 Now, run `generate.sh`. This will build the website, create a temporary web server, and open
-up the home webpage in your default browser at `http://localhost:8000/index.html`. When you done,
+up the home webpage in your default browser at `http://localhost:8000/index.html`. When you are done,
 just press Ctrl+C to exit the web server.
