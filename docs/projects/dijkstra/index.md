@@ -114,9 +114,11 @@ Usage: please provide three inputs: a serialized matrix, a source node and a des
 
 ## Articles
 
+- [Dijkstra in Algol68](https://sampleprograms.io/projects/dijkstra/algol68)
 - [Dijkstra in C++](https://sampleprograms.io/projects/dijkstra/c-plus-plus)
 - [Dijkstra in Javascript](https://sampleprograms.io/projects/dijkstra/javascript)
 - [Dijkstra in Mathematica](https://sampleprograms.io/projects/dijkstra/mathematica)
+- [Dijkstra in Python](https://sampleprograms.io/projects/dijkstra/python)
 
 ---
 

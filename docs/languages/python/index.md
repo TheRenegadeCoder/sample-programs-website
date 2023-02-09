@@ -32,6 +32,7 @@ But, Python 2 is slowly losing support.
 - [Capitalize in Python](https://sampleprograms.io/projects/capitalize/python)
 - [Convex Hull in Python](https://sampleprograms.io/projects/convex-hull/python)
 - [Depth First Search in Python](https://sampleprograms.io/projects/depth-first-search/python)
+- [Dijkstra in Python](https://sampleprograms.io/projects/dijkstra/python)
 - [Duplicate Character Counter in Python](https://sampleprograms.io/projects/duplicate-character-counter/python)
 - [Even Odd in Python](https://sampleprograms.io/projects/even-odd/python)
 - [Factorial in Python](https://sampleprograms.io/projects/factorial/python)

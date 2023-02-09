@@ -42,6 +42,7 @@ for the full syntax and features list.
 - [Bubble Sort in Algol68](https://sampleprograms.io/projects/bubble-sort/algol68)
 - [Capitalize in Algol68](https://sampleprograms.io/projects/capitalize/algol68)
 - [Depth First Search in Algol68](https://sampleprograms.io/projects/depth-first-search/algol68)
+- [Dijkstra in Algol68](https://sampleprograms.io/projects/dijkstra/algol68)
 - [Duplicate Character Counter in Algol68](https://sampleprograms.io/projects/duplicate-character-counter/algol68)
 - [Even Odd in Algol68](https://sampleprograms.io/projects/even-odd/algol68)
 - [Factorial in Algol68](https://sampleprograms.io/projects/factorial/algol68)
