@@ -72,4 +72,5 @@ for the full syntax and features list.
 - [Roman Numeral in Algol68](https://sampleprograms.io/projects/roman-numeral/algol68)
 - [Rot13 in Algol68](https://sampleprograms.io/projects/rot13/algol68)
 - [Selection Sort in Algol68](https://sampleprograms.io/projects/selection-sort/algol68)
+- [Sleep Sort in Algol68](https://sampleprograms.io/projects/sleep-sort/algol68)
 - [Transpose Matrix in Algol68](https://sampleprograms.io/projects/transpose-matrix/algol68)
