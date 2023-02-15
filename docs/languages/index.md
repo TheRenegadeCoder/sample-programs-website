@@ -3,11 +3,11 @@
 title: Programming Languages
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-12
+last-modified: 2023-02-15
 
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 162 languages, of which 39 are tested, and 684 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 163 languages, of which 40 are tested, and 688 code snippets.
 
 ## Language Collections by Letter
 
@@ -15,7 +15,7 @@ To help you navigate the collection, the following languages are organized alpha
 
 ### A
 
-The 'A' collection contains 9 languages, of which 2 are tested, and 43 code snippets.
+The 'A' collection contains 9 languages, of which 2 are tested, and 46 code snippets.
 
 - [Abap](https://sampleprograms.io/languages/abap)
 - [Ada](https://sampleprograms.io/languages/ada)
@@ -74,7 +74,7 @@ The 'D' collection contains 7 languages, of which 1 is tested, and 24 code snipp
 
 ### E
 
-The 'E' collection contains 10 languages, of which 1 is tested, and 22 code snippets.
+The 'E' collection contains 11 languages, of which 2 are tested, and 23 code snippets.
 
 - [Egison](https://sampleprograms.io/languages/egison)
 - [Eiffel](https://sampleprograms.io/languages/eiffel)
@@ -85,6 +85,7 @@ The 'E' collection contains 10 languages, of which 1 is tested, and 22 code snip
 - [Emojicode](https://sampleprograms.io/languages/emojicode)
 - [Erlang](https://sampleprograms.io/languages/erlang)
 - [Eta](https://sampleprograms.io/languages/eta)
+- [Euphoria](https://sampleprograms.io/languages/euphoria)
 - [Eve](https://sampleprograms.io/languages/eve)
 
 ### F

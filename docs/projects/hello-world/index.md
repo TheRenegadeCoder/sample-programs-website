@@ -83,6 +83,7 @@ Verify that the actual output matches the expected output. See the
 - [Hello World in Emojicode](https://sampleprograms.io/projects/hello-world/emojicode)
 - [Hello World in Erlang](https://sampleprograms.io/projects/hello-world/erlang)
 - [Hello World in Eta](https://sampleprograms.io/projects/hello-world/eta)
+- [Hello World in Euphoria](https://sampleprograms.io/projects/hello-world/euphoria)
 - [Hello World in Eve](https://sampleprograms.io/projects/hello-world/eve)
 - [Hello World in F#](https://sampleprograms.io/projects/hello-world/f-sharp)
 - [Hello World in F\*](https://sampleprograms.io/projects/hello-world/f-star)

@@ -68,6 +68,7 @@ verify the correctness of your solution:
 
 ## Articles
 
+- [Longest Common Subsequence in Algol68](https://sampleprograms.io/projects/longest-common-subsequence/algol68)
 - [Longest Common Subsequence in C](https://sampleprograms.io/projects/longest-common-subsequence/c)
 - [Longest Common Subsequence in C#](https://sampleprograms.io/projects/longest-common-subsequence/c-sharp)
 - [Longest Common Subsequence in C++](https://sampleprograms.io/projects/longest-common-subsequence/c-plus-plus)

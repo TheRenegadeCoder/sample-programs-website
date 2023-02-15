@@ -88,6 +88,7 @@ The following table contains various test cases that you can use to verify the c
 
 ## Articles
 
+- [Longest Palindromic Substring in Algol68](https://sampleprograms.io/projects/longest-palindromic-substring/algol68)
 - [Longest Palindromic Substring in Go](https://sampleprograms.io/projects/longest-palindromic-substring/go)
 - [Longest Palindromic Substring in Javascript](https://sampleprograms.io/projects/longest-palindromic-substring/javascript)
 - [Longest Palindromic Substring in Mathematica](https://sampleprograms.io/projects/longest-palindromic-substring/mathematica)

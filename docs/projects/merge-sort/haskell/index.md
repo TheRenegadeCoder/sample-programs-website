@@ -3,7 +3,7 @@
 title: Merge Sort in Haskell
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-12
+last-modified: 2023-02-15
 
 ---
 
