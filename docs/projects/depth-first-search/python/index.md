@@ -3,7 +3,7 @@
 title: Depth First Search in Python
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-15
+last-modified: 2023-02-16
 
 ---
 
