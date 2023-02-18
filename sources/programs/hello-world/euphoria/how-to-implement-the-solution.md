@@ -17,5 +17,7 @@ puts(STDOUT, "Hello, World!\n")
 ```
 
 The `puts` function is similar to the `fputs` function
-in C. The first argument is the file number, whereas in C, this is
-a `FILE` pointer. The second argument is the string to output.
+in C, but the parameters are reversed. The first argument is the file
+number. The second argument is the string to output. In C, the first
+argument is the string to output, and the second argument is a
+`FILE` pointer.
