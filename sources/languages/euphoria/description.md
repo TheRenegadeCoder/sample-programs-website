@@ -38,7 +38,51 @@ is actually this:
 {65, 66, 67}
 ```
 
-Also according to [Wikipedia](https://en.wikipedia.org/wiki/Euphoria_(programming_language)#Parameter_passing)):
+[User-specified data types](https://openeuphoria.org/docs/lang_decl.html#_123_userdefinedtypes)
+can be done based on these four data types. The way this is done is to declare a type
+function that validates the input value. For example, if you wanted to define an
+`hour` type that only allowed integers from 0 to 23, you would do this:
+
+```euphoria
+type hour(integer x)
+    return x >= 0 and x <= 23
+end type
+```
+
+Keywords in Euphoria are rather simple. For each type of keyword that does control flow or
+declares a `function` or `procedure` (more on that later), there is a corresponding `end`
+keyword that declares the end of that structure. For example:
+
+```euphoria
+if x = 42
+then
+    do_something_cool(x)
+end if
+```
+
+Euphoria makes the distinction between functions and procedures. Functions returns
+values, whereas procedures do not (think of it like a `void` function in C).
+For example:
+
+```euphoria
+function foo(integer bar)
+    return bar + 100
+end function
+```
+
+The above function `foo` just returns the value of `bar` plus 100. Here's an example
+of a procedure:
+
+```euphoria
+procedure baz(sequence s)
+    fputs(1, s & '\n')
+end procedure
+```
+
+The above procedure `baz` just outputs a string with a newline to standard out.
+
+Parameter passing in Euphoria is rather unique. According to
+[Wikipedia](https://en.wikipedia.org/wiki/Euphoria_(programming_language)#Parameter_passing):
 
 > Arguments to routines are always passed by value; there is no pass-by-reference facility.
   Parameters are allowed to be modified locally (i.e., within the callee) which is implemented
@@ -46,3 +90,6 @@ Also according to [Wikipedia](https://en.wikipedia.org/wiki/Euphoria_(programmin
   pass a sequence to a routine, initially only a reference to it is passed, but at the point the
   routine modifies this sequence parameter the sequence is copied and the routine updates only a
   copy of the original.
+
+If you'd like more information about this language, please see the
+[OpenEuphoria manual](https://openeuphoria.org/docs/index.html).
