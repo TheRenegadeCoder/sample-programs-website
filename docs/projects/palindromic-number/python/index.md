@@ -3,7 +3,7 @@
 title: Palindromic Number in Python
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-16
+last-modified: 2023-02-19
 
 ---
 
@@ -57,7 +57,7 @@ if __name__ == "__main__":
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2022 01:31:51. The solution was first committed on Oct 27 2021 22:08:36. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2022 01:31:51. The solution was first committed on Oct 27 2021 22:20:36. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

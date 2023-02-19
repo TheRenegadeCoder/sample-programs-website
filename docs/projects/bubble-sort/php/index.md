@@ -3,7 +3,7 @@
 title: Bubble Sort in Php
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-16
+last-modified: 2023-02-19
 
 ---
 
@@ -50,7 +50,7 @@ echo implode(', ', $numbers);
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 04 2019 17:02:06. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 04 2019 17:14:06. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

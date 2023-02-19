@@ -3,7 +3,7 @@
 title: Prime Number in Perl
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-16
+last-modified: 2023-02-19
 
 ---
 
@@ -89,7 +89,7 @@ else {
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Nov 05 2019 10:22:57. The solution was first committed on Oct 31 2019 19:18:18. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Nov 05 2019 10:34:57. The solution was first committed on Oct 31 2019 19:30:18. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

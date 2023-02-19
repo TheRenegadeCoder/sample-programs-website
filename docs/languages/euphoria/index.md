@@ -67,4 +67,11 @@ Also according to [Wikipedia](https://en.wikipedia.org/wiki/Euphoria_(programmin
 
 ## Articles
 
+- [Baklava in Euphoria](https://sampleprograms.io/projects/baklava/euphoria)
+- [Capitalize in Euphoria](https://sampleprograms.io/projects/capitalize/euphoria)
+- [File Input Output in Euphoria](https://sampleprograms.io/projects/file-input-output/euphoria)
+- [Fizz Buzz in Euphoria](https://sampleprograms.io/projects/fizz-buzz/euphoria)
 - [Hello World in Euphoria](https://sampleprograms.io/projects/hello-world/euphoria)
+- [Longest Word in Euphoria](https://sampleprograms.io/projects/longest-word/euphoria)
+- [Quine in Euphoria](https://sampleprograms.io/projects/quine/euphoria)
+- [Rot13 in Euphoria](https://sampleprograms.io/projects/rot13/euphoria)

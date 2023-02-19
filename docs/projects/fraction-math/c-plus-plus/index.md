@@ -352,7 +352,7 @@ int main(int argc, char const *argv[])
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 16:05:09. The solution was first committed on Oct 10 2019 21:43:40. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 16:05:09. The solution was first committed on Oct 10 2019 21:55:40. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

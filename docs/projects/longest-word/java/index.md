@@ -3,7 +3,7 @@
 title: Longest Word in Java
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-16
+last-modified: 2023-02-19
 
 ---
 
@@ -50,7 +50,7 @@ class LongestWord {
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Oct 03 2022 21:21:24. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Oct 03 2022 21:33:24. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

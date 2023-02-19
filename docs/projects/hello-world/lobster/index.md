@@ -3,7 +3,7 @@
 title: Hello World in Lobster
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-16
+last-modified: 2023-02-19
 
 ---
 
@@ -34,7 +34,7 @@ while gl_frame() and gl_button("escape") != 1:
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Sep 16 2019 13:08:15. The solution was first committed on Sep 14 2019 12:41:02. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Sep 16 2019 13:20:15. The solution was first committed on Sep 14 2019 12:53:02. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

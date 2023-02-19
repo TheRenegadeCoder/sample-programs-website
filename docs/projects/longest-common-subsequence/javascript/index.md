@@ -3,7 +3,7 @@
 title: Longest Common Subsequence in Javascript
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-16
+last-modified: 2023-02-19
 
 ---
 
@@ -87,7 +87,7 @@ else{
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 04 2020 12:49:54. The solution was first committed on Oct 04 2020 12:03:30. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 04 2020 13:01:54. The solution was first committed on Oct 04 2020 12:15:30. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

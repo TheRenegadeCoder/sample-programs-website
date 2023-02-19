@@ -3,7 +3,7 @@
 title: Even Odd in Ruby
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-16
+last-modified: 2023-02-19
 
 ---
 
@@ -49,7 +49,7 @@ end
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Nov 04 2019 21:11:52. The solution was first committed on Oct 31 2019 20:23:47. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Nov 04 2019 21:23:52. The solution was first committed on Oct 31 2019 20:35:47. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

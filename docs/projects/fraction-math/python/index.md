@@ -67,7 +67,7 @@ if __name__ == "__main__":
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 10 2022 16:42:22. The solution was first committed on Oct 16 2019 12:52:44. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 10 2022 16:42:22. The solution was first committed on Oct 16 2019 13:04:44. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

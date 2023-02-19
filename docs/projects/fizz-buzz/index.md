@@ -77,6 +77,7 @@ Verify that the actual output matches the expected output. See the
 - [Fizz Buzz in Dg](https://sampleprograms.io/projects/fizz-buzz/dg)
 - [Fizz Buzz in Elixir](https://sampleprograms.io/projects/fizz-buzz/elixir)
 - [Fizz Buzz in Erlang](https://sampleprograms.io/projects/fizz-buzz/erlang)
+- [Fizz Buzz in Euphoria](https://sampleprograms.io/projects/fizz-buzz/euphoria)
 - [Fizz Buzz in Fortran](https://sampleprograms.io/projects/fizz-buzz/fortran)
 - [Fizz Buzz in Go](https://sampleprograms.io/projects/fizz-buzz/go)
 - [Fizz Buzz in Haskell](https://sampleprograms.io/projects/fizz-buzz/haskell)

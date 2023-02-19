@@ -69,7 +69,7 @@ int main(int argc,char **argv)
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 20 2019 12:24:36. The solution was first committed on Oct 20 2019 11:47:04. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 20 2019 12:36:36. The solution was first committed on Oct 20 2019 11:59:04. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

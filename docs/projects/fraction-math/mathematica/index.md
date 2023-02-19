@@ -3,7 +3,7 @@
 title: Fraction Math in Mathematica
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-16
+last-modified: 2023-02-19
 
 ---
 

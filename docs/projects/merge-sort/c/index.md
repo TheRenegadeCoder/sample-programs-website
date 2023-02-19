@@ -3,7 +3,7 @@
 title: Merge Sort in C
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-16
+last-modified: 2023-02-19
 
 ---
 
@@ -160,7 +160,7 @@ void merge_array(long *arr_sort,int a, int b, int c, int d) {
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 11:20:12. The solution was first committed on Oct 15 2019 19:48:57. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 11:32:12. The solution was first committed on Oct 15 2019 20:00:57. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

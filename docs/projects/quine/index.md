@@ -45,6 +45,7 @@ Verify that the actual output matches the expected output. See the
 - [Quine in C#](https://sampleprograms.io/projects/quine/c-sharp)
 - [Quine in Coffeescript](https://sampleprograms.io/projects/quine/coffeescript)
 - [Quine in Dg](https://sampleprograms.io/projects/quine/dg)
+- [Quine in Euphoria](https://sampleprograms.io/projects/quine/euphoria)
 - [Quine in Go](https://sampleprograms.io/projects/quine/go)
 - [Quine in Haskell](https://sampleprograms.io/projects/quine/haskell)
 - [Quine in Java](https://sampleprograms.io/projects/quine/java)

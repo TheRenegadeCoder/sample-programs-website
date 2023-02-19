@@ -82,6 +82,7 @@ Usage: please provide a string
 - [Capitalize in Clojure](https://sampleprograms.io/projects/capitalize/clojure)
 - [Capitalize in Dart](https://sampleprograms.io/projects/capitalize/dart)
 - [Capitalize in Elixir](https://sampleprograms.io/projects/capitalize/elixir)
+- [Capitalize in Euphoria](https://sampleprograms.io/projects/capitalize/euphoria)
 - [Capitalize in Fortran](https://sampleprograms.io/projects/capitalize/fortran)
 - [Capitalize in Go](https://sampleprograms.io/projects/capitalize/go)
 - [Capitalize in Groovy](https://sampleprograms.io/projects/capitalize/groovy)

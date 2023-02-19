@@ -73,6 +73,7 @@ verify the correctness of your solution:
 - [Rot13 in C](https://sampleprograms.io/projects/rot13/c)
 - [Rot13 in C#](https://sampleprograms.io/projects/rot13/c-sharp)
 - [Rot13 in Dart](https://sampleprograms.io/projects/rot13/dart)
+- [Rot13 in Euphoria](https://sampleprograms.io/projects/rot13/euphoria)
 - [Rot13 in Go](https://sampleprograms.io/projects/rot13/go)
 - [Rot13 in Haskell](https://sampleprograms.io/projects/rot13/haskell)
 - [Rot13 in Java](https://sampleprograms.io/projects/rot13/java)
