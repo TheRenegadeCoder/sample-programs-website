@@ -63,6 +63,7 @@ As always, these tests will be run against any code submitted to the repo via [G
 ## Articles
 
 - [Remove All Whitespace in Algol68](https://sampleprograms.io/projects/remove-all-whitespace/algol68)
+- [Remove All Whitespace in Euphoria](https://sampleprograms.io/projects/remove-all-whitespace/euphoria)
 - [Remove All Whitespace in Julia](https://sampleprograms.io/projects/remove-all-whitespace/julia)
 - [Remove All Whitespace in Mathematica](https://sampleprograms.io/projects/remove-all-whitespace/mathematica)
 - [Remove All Whitespace in Python](https://sampleprograms.io/projects/remove-all-whitespace/python)

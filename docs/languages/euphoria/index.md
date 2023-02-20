@@ -74,4 +74,6 @@ Also according to [Wikipedia](https://en.wikipedia.org/wiki/Euphoria_(programmin
 - [Hello World in Euphoria](https://sampleprograms.io/projects/hello-world/euphoria)
 - [Longest Word in Euphoria](https://sampleprograms.io/projects/longest-word/euphoria)
 - [Quine in Euphoria](https://sampleprograms.io/projects/quine/euphoria)
+- [Remove All Whitespace in Euphoria](https://sampleprograms.io/projects/remove-all-whitespace/euphoria)
+- [Reverse String in Euphoria](https://sampleprograms.io/projects/reverse-string/euphoria)
 - [Rot13 in Euphoria](https://sampleprograms.io/projects/rot13/euphoria)
