@@ -3,7 +3,7 @@
 title: Rot13 in Euphoria
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-20
+last-modified: 2023-02-26
 
 ---
 
@@ -17,6 +17,7 @@ Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Euphoria](h
 include std/io.e
 include std/types.e
 include std/text.e
+include std/utils.e
 
 function rot13(sequence s)
     sequence t = ""
@@ -27,12 +28,7 @@ function rot13(sequence s)
         integer offset = 0
         if t_alpha(s[n])
         then
-            if lower(s[n]) <= 'm'
-            then
-                offset = 13
-            else
-                offset = -13
-            end if
+            offset = iif(lower(s[n]) <= 'm', 13, -13)
         end if
 
         t &= s[n] + offset
@@ -66,6 +62,8 @@ printf(STDOUT, "%s\n", {t})
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Feb 24 2023 09:50:39. The solution was first committed on Feb 17 2023 12:26:43. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

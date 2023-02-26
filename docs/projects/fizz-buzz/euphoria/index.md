@@ -3,7 +3,7 @@
 title: Fizz Buzz in Euphoria
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-20
+last-modified: 2023-02-26
 
 ---
 
@@ -16,25 +16,14 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Eup
 ```euphoria
 include std/io.e
 include std/math.e
+include std/utils.e
 
 for n = 1 to 100
 do
     sequence s = ""
-    if mod(n, 3) = 0
-    then
-        s &= "Fizz"
-    end if
-
-    if mod(n, 5) = 0
-    then
-        s &= "Buzz"
-    end if
-
-    if length(s) = 0
-    then
-        s &= sprintf("%d", n)
-    end if
-
+    s &= iif(mod(n, 3) = 0, "Fizz", "")
+    s &= iif(mod(n, 5) = 0, "Buzz", "")
+    s &= iif(length(s) = 0, sprintf("%d", n), "")
     printf(STDOUT, "%s\n", {s})
 end for
 ```

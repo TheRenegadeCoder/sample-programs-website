@@ -105,6 +105,7 @@ verify the correctness of your solution:
 - [Quick Sort in C#](https://sampleprograms.io/projects/quick-sort/c-sharp)
 - [Quick Sort in C++](https://sampleprograms.io/projects/quick-sort/c-plus-plus)
 - [Quick Sort in Dart](https://sampleprograms.io/projects/quick-sort/dart)
+- [Quick Sort in Euphoria](https://sampleprograms.io/projects/quick-sort/euphoria)
 - [Quick Sort in Go](https://sampleprograms.io/projects/quick-sort/go)
 - [Quick Sort in Haskell](https://sampleprograms.io/projects/quick-sort/haskell)
 - [Quick Sort in Java](https://sampleprograms.io/projects/quick-sort/java)

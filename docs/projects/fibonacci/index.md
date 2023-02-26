@@ -64,6 +64,7 @@ Some tests for your program are:
 - [Fibonacci in C#](https://sampleprograms.io/projects/fibonacci/c-sharp)
 - [Fibonacci in C++](https://sampleprograms.io/projects/fibonacci/c-plus-plus)
 - [Fibonacci in Dart](https://sampleprograms.io/projects/fibonacci/dart)
+- [Fibonacci in Euphoria](https://sampleprograms.io/projects/fibonacci/euphoria)
 - [Fibonacci in Go](https://sampleprograms.io/projects/fibonacci/go)
 - [Fibonacci in Groovy](https://sampleprograms.io/projects/fibonacci/groovy)
 - [Fibonacci in Haskell](https://sampleprograms.io/projects/fibonacci/haskell)

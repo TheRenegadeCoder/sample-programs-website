@@ -94,6 +94,7 @@ verify the correctness of your solution:
 - [Merge Sort in C](https://sampleprograms.io/projects/merge-sort/c)
 - [Merge Sort in C#](https://sampleprograms.io/projects/merge-sort/c-sharp)
 - [Merge Sort in C++](https://sampleprograms.io/projects/merge-sort/c-plus-plus)
+- [Merge Sort in Euphoria](https://sampleprograms.io/projects/merge-sort/euphoria)
 - [Merge Sort in Go](https://sampleprograms.io/projects/merge-sort/go)
 - [Merge Sort in Groovy](https://sampleprograms.io/projects/merge-sort/groovy)
 - [Merge Sort in Haskell](https://sampleprograms.io/projects/merge-sort/haskell)

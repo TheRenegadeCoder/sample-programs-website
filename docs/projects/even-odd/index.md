@@ -58,6 +58,7 @@ The following table contains various test cases that you can use to verify the c
 - [Even Odd in Coffeescript](https://sampleprograms.io/projects/even-odd/coffeescript)
 - [Even Odd in Dart](https://sampleprograms.io/projects/even-odd/dart)
 - [Even Odd in Elixir](https://sampleprograms.io/projects/even-odd/elixir)
+- [Even Odd in Euphoria](https://sampleprograms.io/projects/even-odd/euphoria)
 - [Even Odd in Fortran](https://sampleprograms.io/projects/even-odd/fortran)
 - [Even Odd in Go](https://sampleprograms.io/projects/even-odd/go)
 - [Even Odd in Groovy](https://sampleprograms.io/projects/even-odd/groovy)

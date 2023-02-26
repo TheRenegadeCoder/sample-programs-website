@@ -60,6 +60,7 @@ correctness of your solution:
 - [Prime Number in C#](https://sampleprograms.io/projects/prime-number/c-sharp)
 - [Prime Number in C++](https://sampleprograms.io/projects/prime-number/c-plus-plus)
 - [Prime Number in Cobol](https://sampleprograms.io/projects/prime-number/cobol)
+- [Prime Number in Euphoria](https://sampleprograms.io/projects/prime-number/euphoria)
 - [Prime Number in Fortran](https://sampleprograms.io/projects/prime-number/fortran)
 - [Prime Number in Go](https://sampleprograms.io/projects/prime-number/go)
 - [Prime Number in Haskell](https://sampleprograms.io/projects/prime-number/haskell)

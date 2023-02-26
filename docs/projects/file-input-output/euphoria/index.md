@@ -3,7 +3,7 @@
 title: File Input Output in Euphoria
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-20
+last-modified: 2023-02-26
 
 ---
 
@@ -15,15 +15,14 @@ Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input
 
 ```euphoria
 include std/io.e
-constant false = 0
-constant true = 1
+include std/types.e
 
 function write_file(sequence filename)
     integer fn = open(filename, "w")
     if fn < 0
     then
         printf(STDERR, "Cannot open %s for write\n", {filename})
-        return false
+        return FALSE
     end if
 
     puts(fn, "Hello from Euphoria!\n")
@@ -31,7 +30,7 @@ function write_file(sequence filename)
     puts(fn, "This is another line\n")
     puts(fn, "Goodbye!\n")
     close(fn)
-    return true
+    return TRUE
 end function
 
 function read_file(sequence filename)
@@ -39,7 +38,7 @@ function read_file(sequence filename)
     if fn < 0
         then
         printf(STDERR, "Cannot open %s for read\n", {filename})
-        return false
+        return FALSE
     end if
 
     object line
@@ -55,7 +54,7 @@ function read_file(sequence filename)
     end while
 
     close(fn)
-    return true
+    return TRUE
 end function
 
 constant filename = "output.txt"
@@ -72,6 +71,8 @@ end if
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Feb 19 2023 20:56:23. The solution was first committed on Feb 16 2023 22:31:07. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 
