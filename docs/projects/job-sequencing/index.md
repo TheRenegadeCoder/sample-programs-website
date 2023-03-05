@@ -85,6 +85,7 @@ verify the correctness of your solution:
 ## Articles
 
 - [Job Sequencing in Algol68](https://sampleprograms.io/projects/job-sequencing/algol68)
+- [Job Sequencing in Euphoria](https://sampleprograms.io/projects/job-sequencing/euphoria)
 - [Job Sequencing in Go](https://sampleprograms.io/projects/job-sequencing/go)
 - [Job Sequencing in Haskell](https://sampleprograms.io/projects/job-sequencing/haskell)
 - [Job Sequencing in Java](https://sampleprograms.io/projects/job-sequencing/java)

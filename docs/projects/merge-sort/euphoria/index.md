@@ -3,7 +3,7 @@
 title: Merge Sort in Euphoria
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-26
+last-modified: 2023-03-05
 
 ---
 
@@ -82,20 +82,11 @@ procedure usage()
 end procedure
 
 procedure show_list_values(sequence values)
-    integer n = length(values)
-    for k = 1 to n
-    do
-        if k > 1
-        then
-            puts(STDOUT, ", ")
-        end if
-
-        printf(STDOUT, "%d", {values[k]})
-    end for
-
-    if n > 0
+    if length(values) > 0
     then
-        puts(STDOUT, "\n")
+        sequence format = repeat_pattern("%d, ", length(values))
+        sequence s = sprintf(format[1..$-2], values)
+        printf(STDOUT, "%s\n", {s})
     end if
 end procedure
 
@@ -173,6 +164,8 @@ show_list_values(values)
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Feb 27 2023 22:11:29. The solution was first committed on Feb 19 2023 21:46:25. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 
