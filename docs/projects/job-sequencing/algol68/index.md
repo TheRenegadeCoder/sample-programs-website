@@ -3,7 +3,7 @@
 title: Job Sequencing in Algol68
 layout: default
 date: 2022-04-28
-last-modified: 2023-03-05
+last-modified: 2023-03-12
 
 ---
 
