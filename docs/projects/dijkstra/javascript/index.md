@@ -3,7 +3,7 @@
 title: Dijkstra in Javascript
 layout: default
 date: 2022-04-28
-last-modified: 2023-03-12
+last-modified: 2023-03-19
 
 ---
 
