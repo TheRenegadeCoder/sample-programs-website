@@ -3,7 +3,7 @@
 title: Minimum Spanning Tree in C
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-16
+last-modified: 2023-03-19
 
 ---
 
@@ -165,7 +165,7 @@ int main(int argc,char **argv)
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 28 2022 18:14:37. The solution was first committed on Oct 20 2019 01:25:16. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 28 2022 18:14:37. The solution was first committed on Oct 20 2019 01:37:16. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

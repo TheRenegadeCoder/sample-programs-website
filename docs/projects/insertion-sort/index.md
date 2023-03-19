@@ -109,6 +109,7 @@ verify the correctness of your solution:
 - [Insertion Sort in C](https://sampleprograms.io/projects/insertion-sort/c)
 - [Insertion Sort in C#](https://sampleprograms.io/projects/insertion-sort/c-sharp)
 - [Insertion Sort in C++](https://sampleprograms.io/projects/insertion-sort/c-plus-plus)
+- [Insertion Sort in Euphoria](https://sampleprograms.io/projects/insertion-sort/euphoria)
 - [Insertion Sort in Go](https://sampleprograms.io/projects/insertion-sort/go)
 - [Insertion Sort in Haskell](https://sampleprograms.io/projects/insertion-sort/haskell)
 - [Insertion Sort in Java](https://sampleprograms.io/projects/insertion-sort/java)

@@ -138,6 +138,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 - [Bubble Sort in Dart](https://sampleprograms.io/projects/bubble-sort/dart)
 - [Bubble Sort in Elixir](https://sampleprograms.io/projects/bubble-sort/elixir)
 - [Bubble Sort in Erlang](https://sampleprograms.io/projects/bubble-sort/erlang)
+- [Bubble Sort in Euphoria](https://sampleprograms.io/projects/bubble-sort/euphoria)
 - [Bubble Sort in Go](https://sampleprograms.io/projects/bubble-sort/go)
 - [Bubble Sort in Haskell](https://sampleprograms.io/projects/bubble-sort/haskell)
 - [Bubble Sort in Java](https://sampleprograms.io/projects/bubble-sort/java)

@@ -3,7 +3,7 @@
 title: Fizz Buzz in Dart
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-16
+last-modified: 2023-03-19
 
 ---
 
@@ -43,7 +43,7 @@ void main() {
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 02 2020 09:06:47. The solution was first committed on Oct 02 2020 00:25:01. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 02 2020 09:18:47. The solution was first committed on Oct 02 2020 00:37:01. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

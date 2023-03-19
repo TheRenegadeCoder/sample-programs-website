@@ -67,6 +67,7 @@ your language can handle unicode characters, but it fails for emojis.
 - [Reverse String in Dart](https://sampleprograms.io/projects/reverse-string/dart)
 - [Reverse String in Dg](https://sampleprograms.io/projects/reverse-string/dg)
 - [Reverse String in Erlang](https://sampleprograms.io/projects/reverse-string/erlang)
+- [Reverse String in Euphoria](https://sampleprograms.io/projects/reverse-string/euphoria)
 - [Reverse String in Fortran](https://sampleprograms.io/projects/reverse-string/fortran)
 - [Reverse String in Go](https://sampleprograms.io/projects/reverse-string/go)
 - [Reverse String in Groovy](https://sampleprograms.io/projects/reverse-string/groovy)

@@ -3,7 +3,7 @@
 title: Factorial in Kotlin
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-16
+last-modified: 2023-03-19
 
 ---
 
@@ -41,7 +41,7 @@ fun main(args: Array<String>) {
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 23:34:00. The solution was first committed on Oct 06 2019 08:41:26. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 23:34:00. The solution was first committed on Oct 06 2019 08:53:26. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

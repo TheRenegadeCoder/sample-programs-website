@@ -60,6 +60,7 @@ verify the correctness of your solution:
 - [Sleep Sort in Algol68](https://sampleprograms.io/projects/sleep-sort/algol68)
 - [Sleep Sort in C#](https://sampleprograms.io/projects/sleep-sort/c-sharp)
 - [Sleep Sort in Dart](https://sampleprograms.io/projects/sleep-sort/dart)
+- [Sleep Sort in Euphoria](https://sampleprograms.io/projects/sleep-sort/euphoria)
 - [Sleep Sort in Python](https://sampleprograms.io/projects/sleep-sort/python)
 - [Sleep Sort in Rust](https://sampleprograms.io/projects/sleep-sort/rust)
 

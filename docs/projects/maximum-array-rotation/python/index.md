@@ -3,7 +3,7 @@
 title: Maximum Array Rotation in Python
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-16
+last-modified: 2023-03-19
 
 ---
 
@@ -44,7 +44,7 @@ except:
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 10 2022 00:44:08. The solution was first committed on Oct 05 2021 20:54:14. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 10 2022 00:44:08. The solution was first committed on Oct 05 2021 21:06:14. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

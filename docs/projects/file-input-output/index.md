@@ -53,6 +53,7 @@ Verify that the actual output matches the expected output. See the
 - [File Input Output in C#](https://sampleprograms.io/projects/file-input-output/c-sharp)
 - [File Input Output in C++](https://sampleprograms.io/projects/file-input-output/c-plus-plus)
 - [File Input Output in Dg](https://sampleprograms.io/projects/file-input-output/dg)
+- [File Input Output in Euphoria](https://sampleprograms.io/projects/file-input-output/euphoria)
 - [File Input Output in Go](https://sampleprograms.io/projects/file-input-output/go)
 - [File Input Output in Haskell](https://sampleprograms.io/projects/file-input-output/haskell)
 - [File Input Output in Java](https://sampleprograms.io/projects/file-input-output/java)

@@ -3,7 +3,7 @@
 title: Quick Sort in C
 layout: default
 date: 2022-04-28
-last-modified: 2023-02-16
+last-modified: 2023-03-19
 
 ---
 
@@ -119,7 +119,7 @@ int main(int argc,char **argv)
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 20 2019 11:38:09. The solution was first committed on Oct 20 2019 00:38:43. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 20 2019 11:50:09. The solution was first committed on Oct 20 2019 00:50:43. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

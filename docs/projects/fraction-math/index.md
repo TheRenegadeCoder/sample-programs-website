@@ -63,6 +63,7 @@ Some tests for your program are:
 
 - [Fraction Math in Algol68](https://sampleprograms.io/projects/fraction-math/algol68)
 - [Fraction Math in C++](https://sampleprograms.io/projects/fraction-math/c-plus-plus)
+- [Fraction Math in Euphoria](https://sampleprograms.io/projects/fraction-math/euphoria)
 - [Fraction Math in Mathematica](https://sampleprograms.io/projects/fraction-math/mathematica)
 - [Fraction Math in Python](https://sampleprograms.io/projects/fraction-math/python)
 - [Fraction Math in Swift](https://sampleprograms.io/projects/fraction-math/swift)

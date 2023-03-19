@@ -81,6 +81,7 @@ Usage: please provide at least 3 x and y coordinates as separate lists (e.g. "10
 ## Articles
 
 - [Convex Hull in Algol68](https://sampleprograms.io/projects/convex-hull/algol68)
+- [Convex Hull in Euphoria](https://sampleprograms.io/projects/convex-hull/euphoria)
 - [Convex Hull in Java](https://sampleprograms.io/projects/convex-hull/java)
 - [Convex Hull in Mathematica](https://sampleprograms.io/projects/convex-hull/mathematica)
 - [Convex Hull in Python](https://sampleprograms.io/projects/convex-hull/python)

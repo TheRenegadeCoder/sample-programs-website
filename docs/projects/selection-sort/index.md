@@ -137,6 +137,7 @@ verify the correctness of your solution:
 - [Selection Sort in C](https://sampleprograms.io/projects/selection-sort/c)
 - [Selection Sort in C#](https://sampleprograms.io/projects/selection-sort/c-sharp)
 - [Selection Sort in C++](https://sampleprograms.io/projects/selection-sort/c-plus-plus)
+- [Selection Sort in Euphoria](https://sampleprograms.io/projects/selection-sort/euphoria)
 - [Selection Sort in Go](https://sampleprograms.io/projects/selection-sort/go)
 - [Selection Sort in Haskell](https://sampleprograms.io/projects/selection-sort/haskell)
 - [Selection Sort in Java](https://sampleprograms.io/projects/selection-sort/java)

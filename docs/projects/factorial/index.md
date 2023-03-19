@@ -62,6 +62,7 @@ Some tests for your program are:
 - [Factorial in D](https://sampleprograms.io/projects/factorial/d)
 - [Factorial in Elixir](https://sampleprograms.io/projects/factorial/elixir)
 - [Factorial in Erlang](https://sampleprograms.io/projects/factorial/erlang)
+- [Factorial in Euphoria](https://sampleprograms.io/projects/factorial/euphoria)
 - [Factorial in Fortran](https://sampleprograms.io/projects/factorial/fortran)
 - [Factorial in Go](https://sampleprograms.io/projects/factorial/go)
 - [Factorial in Groovy](https://sampleprograms.io/projects/factorial/groovy)

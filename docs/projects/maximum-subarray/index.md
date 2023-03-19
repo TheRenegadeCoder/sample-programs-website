@@ -58,6 +58,7 @@ Some tests for your program are:
 ## Articles
 
 - [Maximum Subarray in Algol68](https://sampleprograms.io/projects/maximum-subarray/algol68)
+- [Maximum Subarray in Euphoria](https://sampleprograms.io/projects/maximum-subarray/euphoria)
 - [Maximum Subarray in Mathematica](https://sampleprograms.io/projects/maximum-subarray/mathematica)
 - [Maximum Subarray in Python](https://sampleprograms.io/projects/maximum-subarray/python)
 

@@ -88,6 +88,7 @@ Baklava has no input, so there are no invalid test cases.
 - [Baklava in Dart](https://sampleprograms.io/projects/baklava/dart)
 - [Baklava in Elixir](https://sampleprograms.io/projects/baklava/elixir)
 - [Baklava in Erlang](https://sampleprograms.io/projects/baklava/erlang)
+- [Baklava in Euphoria](https://sampleprograms.io/projects/baklava/euphoria)
 - [Baklava in F#](https://sampleprograms.io/projects/baklava/f-sharp)
 - [Baklava in Fortran](https://sampleprograms.io/projects/baklava/fortran)
 - [Baklava in Go](https://sampleprograms.io/projects/baklava/go)
