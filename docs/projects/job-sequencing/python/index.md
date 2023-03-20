@@ -3,7 +3,7 @@
 title: Job Sequencing in Python
 layout: default
 date: 2022-04-28
-last-modified: 2023-03-19
+last-modified: 2023-03-20
 
 ---
 
@@ -62,6 +62,9 @@ def main(args):
     try:
         profits = input_list(args[0])
         deadlines = input_list(args[1])
+        if len(profits) != len(deadlines):
+            exit_with_error()
+
         jobs = [Job(p, d) for p, d in zip(profits, deadlines)]
         print(max_profit(jobs))
     except (IndexError, ValueError):
@@ -77,10 +80,11 @@ if __name__ == "__main__":
 [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Parker Johansen
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 21 2019 09:10:55. The solution was first committed on Nov 19 2018 14:50:55. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:13:03. The solution was first committed on Nov 19 2018 14:50:55. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 
