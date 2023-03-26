@@ -3,7 +3,7 @@
 title: Go
 layout: default
 date: 2022-04-28
-last-modified: 2023-03-20
+last-modified: 2023-03-26
 
 ---
 
@@ -29,6 +29,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Job Sequencing in Go](https://sampleprograms.io/projects/job-sequencing/go)
 - [Longest Common Subsequence in Go](https://sampleprograms.io/projects/longest-common-subsequence/go)
 - [Longest Palindromic Substring in Go](https://sampleprograms.io/projects/longest-palindromic-substring/go)
+- [Longest Word in Go](https://sampleprograms.io/projects/longest-word/go)
 - [Merge Sort in Go](https://sampleprograms.io/projects/merge-sort/go)
 - [Prime Number in Go](https://sampleprograms.io/projects/prime-number/go)
 - [Quick Sort in Go](https://sampleprograms.io/projects/quick-sort/go)

@@ -3,7 +3,7 @@
 title: Reverse String in Perl
 layout: default
 date: 2022-04-28
-last-modified: 2023-03-20
+last-modified: 2023-03-26
 
 ---
 
@@ -16,11 +16,9 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 ```perl
 my ($str) = @ARGV;
 
-if (not defined $str) {
-    die "Please supply a string as the first parameter\n";
+if (defined $str) {
+    print scalar reverse $str;
 }
-
-print scalar reverse $str;
 ```
 
 {% endraw %}
@@ -28,8 +26,11 @@ print scalar reverse $str;
 [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
 - Christoph Böhmwalder
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:24:49. The solution was first committed on Aug 22 2018 16:27:38. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

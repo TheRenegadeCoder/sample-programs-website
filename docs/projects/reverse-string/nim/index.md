@@ -3,7 +3,7 @@
 title: Reverse String in Nim
 layout: default
 date: 2022-04-28
-last-modified: 2023-03-20
+last-modified: 2023-03-26
 
 ---
 
@@ -22,8 +22,7 @@ var text: string
 try:
     text = paramStr(1)
 except IndexError:
-    echo "Usage: please input a string to reverse"
-    quit(1)
+    quit(0)
 
 var reversed_text: string
 for i in countdown(len(text)-1, 0):
@@ -37,8 +36,11 @@ echo reversed_text
 [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Nim](https://sampleprograms.io/languages/nim) was written by:
 
 - Michael Olson
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:24:49. The solution was first committed on Oct 22 2019 07:54:58. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

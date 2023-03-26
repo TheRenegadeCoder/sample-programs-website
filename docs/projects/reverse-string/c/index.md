@@ -22,17 +22,14 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 
 int main(int argc, char **argv)
 {
-    char *text;
+    char *text = "";
     size_t textlen;
 
-    /* check argument count (trailing arguments are ignored) */
-    if (argc < 2) {
-        fputs("Not enough arguments", stderr);
-        return 1;
+    /* get text from command line and calculate length */
+    if (argc >= 2) {
+        text = argv[1];
     }
 
-    /* get text from command line and calculate length */
-    text = argv[1];
     textlen = strlen(text);
 
     /* print characters in reverse */
@@ -52,10 +49,11 @@ int main(int argc, char **argv)
 [Reverse String](https://sampleprograms.io/projects/reverse-string) in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Christoph Böhmwalder
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jul 25 2018 01:24:39. The solution was first committed on Jul 24 2018 12:26:56. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:24:49. The solution was first committed on Jul 24 2018 12:26:56. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

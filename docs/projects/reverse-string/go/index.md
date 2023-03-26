@@ -3,7 +3,7 @@
 title: Reverse String in Go
 layout: default
 date: 2022-04-28
-last-modified: 2023-03-20
+last-modified: 2023-03-26
 
 ---
 
@@ -36,8 +36,6 @@ func main() {
 	if argslen == 2 {
 		input := os.Args[1]
 		fmt.Printf("%v\n", reverse_string(input))
-	} else { //No or more than two command line args exist
-		fmt.Println("Input one string as command line arg")
 	}
 }
 ```

@@ -70,6 +70,7 @@ Some tests for your program are:
 - [Josephus Problem in Euphoria](https://sampleprograms.io/projects/josephus-problem/euphoria)
 - [Josephus Problem in Javascript](https://sampleprograms.io/projects/josephus-problem/javascript)
 - [Josephus Problem in Mathematica](https://sampleprograms.io/projects/josephus-problem/mathematica)
+- [Josephus Problem in Php](https://sampleprograms.io/projects/josephus-problem/php)
 - [Josephus Problem in Python](https://sampleprograms.io/projects/josephus-problem/python)
 
 ---
