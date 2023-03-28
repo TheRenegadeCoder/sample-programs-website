@@ -19,19 +19,21 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 ```javascript
 const reverse = s => s.split('').reverse().join('');
 
-console.log(reverse(process.argv[2]));
+if (process.argv.length > 2) {
+    console.log(reverse(process.argv[2]));
+}
 ```
 
 {% endraw %}
 
 [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
-- Jeremy Grifski
+- rzuckerm
 - Trever Shick
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 29 2019 19:05:32. The solution was first committed on May 06 2018 09:06:55. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:24:49. The solution was first committed on May 06 2018 09:06:55. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -3,7 +3,7 @@
 title: Reverse String in Kotlin
 layout: default
 date: 2022-04-28
-last-modified: 2023-03-19
+last-modified: 2023-03-26
 
 ---
 
@@ -18,7 +18,7 @@ fun main(args: Array<String>){
   // Get input, or use default value
   val targetValue = when (args.size > 0 && !args[0].isNullOrBlank()) {
     true -> args[0]
-    false -> throw Error("No String Provided. Nothing to Reverse")
+    false -> ""
   }  
   
   // Kotlin provides a simple `reversed()` function in the standard
@@ -32,8 +32,11 @@ fun main(args: Array<String>){
 [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 - Barry Rowe
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:24:49. The solution was first committed on Oct 20 2018 12:01:39. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

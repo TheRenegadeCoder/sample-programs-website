@@ -51,6 +51,7 @@ that has a duplicate.
 - [Duplicate Character Counter in Euphoria](https://sampleprograms.io/projects/duplicate-character-counter/euphoria)
 - [Duplicate Character Counter in Java](https://sampleprograms.io/projects/duplicate-character-counter/java)
 - [Duplicate Character Counter in Mathematica](https://sampleprograms.io/projects/duplicate-character-counter/mathematica)
+- [Duplicate Character Counter in Php](https://sampleprograms.io/projects/duplicate-character-counter/php)
 - [Duplicate Character Counter in Python](https://sampleprograms.io/projects/duplicate-character-counter/python)
 
 ---

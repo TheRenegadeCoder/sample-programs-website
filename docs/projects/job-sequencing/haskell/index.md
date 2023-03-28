@@ -3,7 +3,7 @@
 title: Job Sequencing in Haskell
 layout: default
 date: 2022-04-28
-last-modified: 2023-03-19
+last-modified: 2023-03-26
 
 ---
 
@@ -81,7 +81,9 @@ main = do
   let profit = headMaybe args >>= stringToListMaybe
   let deadline = tailMaybe args >>= headMaybe >>= stringToListMaybe
   let groups = zip <$> profit <*> deadline
-  let jobs = fmap (jobSequence) groups
+  let jobs = if (maybe 0 length profit) == (maybe 0 length deadline)
+             then fmap (jobSequence) groups
+             else Nothing
   case jobs of
     Nothing -> putStrLn "Usage: please provide a list of profits and a list of deadlines"
     Just n  -> putStrLn $ show $ maxProfit $ iterateJobs n
@@ -92,8 +94,11 @@ main = do
 [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
 
 - Parker Johansen
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:13:03. The solution was first committed on Nov 19 2018 20:00:34. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -59,7 +59,7 @@ output the maximum profit only. For example:
 
 ```console
 $ ./job-sequencing.lang "25, 15, 10, 5" "3, 1, 2, 2"
-$ 50
+50
 ```
 
 Naturally, this is for testing

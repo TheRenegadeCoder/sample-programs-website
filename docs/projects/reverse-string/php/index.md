@@ -3,7 +3,7 @@
 title: Reverse String in Php
 layout: default
 date: 2022-04-28
-last-modified: 2023-03-19
+last-modified: 2023-03-26
 
 ---
 
@@ -15,20 +15,22 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 
 ```php
 <?php
-$input = $argv[1];
-echo strrev($input);
+if (count($argv) > 1) {
+    $input = $argv[1];
+    echo strrev($input);
+}
 ```
 
 {% endraw %}
 
 [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Php](https://sampleprograms.io/languages/php) was written by:
 
-- Jeremy Grifski
+- rzuckerm
 - samgan-khan
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Jul 15 2019 17:40:42. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:24:49. The solution was first committed on Jul 15 2019 17:40:42. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

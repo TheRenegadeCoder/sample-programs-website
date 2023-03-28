@@ -19,7 +19,9 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 ```dart
 // Run using : dart reverse-string.dart hello-world
 void main(List<String> args) {
-    print( reverse(args[0]) );
+    if ( args.length > 0 ) {
+        print( reverse(args[0]) );
+    }
 }
 String reverse(input) {
     return input.split('').reversed.join();
@@ -31,8 +33,11 @@ String reverse(input) {
 [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
 - Bassem Mohamed
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:24:49. The solution was first committed on Oct 01 2018 05:17:13. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

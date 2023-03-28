@@ -3,7 +3,7 @@
 title: Depth First Search in Euphoria
 layout: default
 date: 2022-04-28
-last-modified: 2023-03-19
+last-modified: 2023-03-26
 
 ---
 
@@ -135,14 +135,11 @@ function depth_first_search(sequence tree, integer target)
 end function
 
 function depth_first_search_rec(sequence tree, integer target, integer node_index, sequence dfs_result)
-    -- Exit if found or invalid node
-    if length(dfs_result[DFS_FOUND]) > 0 or node_index = 0
+    -- If invalid node, indicate not found
+    if node_index = 0
     then
-        return dfs_result
+        return {dfs_result[DFS_VISITED], {}}
     end if
-
-    -- Indicate this node is visited
-    dfs_result[DFS_VISITED][node_index] = TRUE
 
     -- If key of this node matches target, indicate found
     sequence node = tree[node_index]
@@ -150,6 +147,9 @@ function depth_first_search_rec(sequence tree, integer target, integer node_inde
     then
         return {dfs_result[DFS_VISITED], node}
     end if
+
+    -- Indicate this node is visited
+    dfs_result[DFS_VISITED][node_index] = TRUE
 
     -- Perform depth first search on each unvisited child of this node (if any)
     for k = 1 to length(node[NODE_CHILDREN])
@@ -220,6 +220,8 @@ puts(STDOUT, iif(length(node) > 0, "true\n", "false\n"))
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 24 2023 21:58:02. The solution was first committed on Feb 19 2023 22:25:47. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -17,9 +17,7 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 {% raw %}
 
 ```ruby
-if ARGV.length < 1
-    puts "Usage: ruby reverse-string.rb [string]"
-else
+if ARGV.length >= 1
     string = ARGV[0]
 
     puts string.reverse
@@ -31,10 +29,11 @@ end
 [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Noah Nichols
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Sep 25 2018 11:46:11. The solution was first committed on Sep 24 2018 15:19:38. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:24:49. The solution was first committed on Sep 24 2018 15:19:38. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

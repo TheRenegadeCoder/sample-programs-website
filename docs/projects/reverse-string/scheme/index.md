@@ -20,7 +20,9 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 (define (reverse-string x)
   (list->string (reverse (string->list x))))
 
-(display (reverse-string (list-ref (command-line) 1)))
+(if (> (length (command-line)) 1)
+  (display (reverse-string (list-ref (command-line) 1)))
+)
 ```
 
 {% endraw %}
@@ -29,10 +31,11 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 
 - Francisco Peters
 - Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Aug 10 2021 20:06:41. The solution was first committed on May 07 2018 23:12:09. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:24:49. The solution was first committed on May 07 2018 23:12:09. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

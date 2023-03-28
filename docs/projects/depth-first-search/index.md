@@ -114,6 +114,7 @@ Usage: please provide a tree in an adjacency matrix form ("0, 1, 1, 0, 0, 1, 0, 
 - [Depth First Search in C++](https://sampleprograms.io/projects/depth-first-search/c-plus-plus)
 - [Depth First Search in Euphoria](https://sampleprograms.io/projects/depth-first-search/euphoria)
 - [Depth First Search in Mathematica](https://sampleprograms.io/projects/depth-first-search/mathematica)
+- [Depth First Search in Php](https://sampleprograms.io/projects/depth-first-search/php)
 - [Depth First Search in Python](https://sampleprograms.io/projects/depth-first-search/python)
 
 ---
