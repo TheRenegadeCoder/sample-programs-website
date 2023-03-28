@@ -150,7 +150,7 @@ function find_leftmost_point(sequence points)
         if x < min_x or (x = min_x and y > max_y)
         then
             min_x = x
-            max_y = Y
+            max_y = y
             min_index = k
         end if
     end for
@@ -219,6 +219,8 @@ show_points(hull_points)
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 27 2023 20:03:45. The solution was first committed on Feb 25 2023 15:34:20. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

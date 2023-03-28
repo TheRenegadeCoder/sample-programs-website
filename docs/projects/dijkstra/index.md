@@ -119,6 +119,7 @@ Usage: please provide three inputs: a serialized matrix, a source node and a des
 - [Dijkstra in Euphoria](https://sampleprograms.io/projects/dijkstra/euphoria)
 - [Dijkstra in Javascript](https://sampleprograms.io/projects/dijkstra/javascript)
 - [Dijkstra in Mathematica](https://sampleprograms.io/projects/dijkstra/mathematica)
+- [Dijkstra in Php](https://sampleprograms.io/projects/dijkstra/php)
 - [Dijkstra in Python](https://sampleprograms.io/projects/dijkstra/python)
 
 ---

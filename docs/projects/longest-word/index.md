@@ -67,8 +67,6 @@ correctness of your solution:
 | Sample Input: Single Word | "Floccinaucinihilipilification" | 29                               |
 | Sample Input: Multiline   | "Hi,\nMy name is Paul!"         | 5                                |
 
-As always, these tests will be run against any code submitted to the repo via [Glotter][glotter-github].
-
 
 ## Articles
 
