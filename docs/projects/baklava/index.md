@@ -61,7 +61,8 @@ The following is the expected output:
 
 ## Testing
 
-No 'Testing' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
+Verify that the actual output matches the expected output (see [requirements](#requirements)).
+
 
 ## Articles
 
