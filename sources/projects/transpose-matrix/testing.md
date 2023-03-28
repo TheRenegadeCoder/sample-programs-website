@@ -1,4 +1,4 @@
-Verify that the actual output matches the expected output (see [requirements][1])
+Verify that the actual output matches the expected output (see [requirements](#requirements))
 
 | Description             | Cols  | Rows  | Matrix                 | Output                                                                    |
 | ----------------------- |:-----:|:-----:|:----------------------:| -------------------------------------------------------------------------:|

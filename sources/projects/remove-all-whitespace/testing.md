@@ -11,5 +11,3 @@ The following table contains various test cases that you can use to verify the c
 | Sample Input: Tabs             | "\tRemove\tAll\tWhitespace\t"  | "RemoveAllWhitespace"            |
 | Sample Input: Newlines         | "\nRemove\nAll\nWhitespace\n"  | "RemoveAllWhitespace"            |
 | Sample Input: Carriage Returns | "\rRemove\rAll\rWhitespace\r"  | "RemoveAllWhitespace"            |
-
-As always, these tests will be run against any code submitted to the repo via [Glotter][glotter-github].
