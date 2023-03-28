@@ -14,3 +14,5 @@ where `(xj, yj)` are the coordinates of the j-th vertex of the convex hull.
 There are many algorithms to solve this problem. You may implement any of them.
 Check this [great document by Jeff Erickson][2] for more details about the
 problem and the different algorithms to solve it.
+
+[2]: https://jeffe.cs.illinois.edu/pubs/pdf/convex.pdf
