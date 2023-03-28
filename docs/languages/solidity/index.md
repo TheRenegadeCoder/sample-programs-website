@@ -16,7 +16,7 @@ Welcome to the Solidity page! Here, you'll find a description of the language as
 To understand Solidity, it is imperative to comprehend the context in which it
 is used. So, the first question to ask is: what is a smart contract?
 
-### Smart Contract<sup>1</sup>
+### Smart Contract
 
 [According to Wikipedia][1], a smart contract is a computer protocol intended to
 digitally facilitate, verify, or enforce the negotiation or performance of a
@@ -27,7 +27,7 @@ you're familiar with. By removing the human factor and voiding the need for a
 third-party, people and business are able to save money and reduce the chance of
 fraud. Smart contracts are the main driving force of blockchains.
 
-### Blockchain<sup>1</sup>
+### Blockchain
 
 [According to Wikipedia][2], a blockchain is a continuously growing list of records,
 called blocks, which are linked and secured using cryptography. Each block
@@ -58,6 +58,11 @@ Another wonderful description provided by [William Mougayar][4] goes as follows:
     records, not two disparate databases.
 
 Welcome to solidity!
+
+[1]: https://en.wikipedia.org/wiki/Smart_contract
+[2]: https://en.wikipedia.org/wiki/Blockchain
+[3]: https://blockgeeks.com/guides/what-is-blockchain-technology/
+[4]: https://medium.com/@wmougayar/explaining-the-blockchain-via-a-google-docs-analogy-56326b1bbe58
 
 
 ## Articles

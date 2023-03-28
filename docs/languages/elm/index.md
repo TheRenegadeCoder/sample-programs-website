@@ -15,7 +15,7 @@ Welcome to the Elm page! Here, you'll find a description of the language as well
 
 ## Description
 
-According to Wikipedia, Elm is a functional programming language 
+According to [Wikipedia][1], Elm is a functional programming language 
 used for building web-based graphical user interfaces.
 
 In terms of features, Elm offers immutability, static typing, and 
@@ -79,6 +79,8 @@ a = a - 5
 Because a is immutable, the code above will actually cause a recursion 
 error. You can read more about that in Elm's documentation. At any rate, 
 let's get to the solution!
+
+[1]: https://en.wikipedia.org/wiki/Elm_(programming_language)
 
 
 ## Articles

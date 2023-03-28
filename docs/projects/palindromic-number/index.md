@@ -78,6 +78,7 @@ Usage: please input a non-negative integer
 - [Palindromic Number in Mathematica](https://sampleprograms.io/projects/palindromic-number/mathematica)
 - [Palindromic Number in Pascal](https://sampleprograms.io/projects/palindromic-number/pascal)
 - [Palindromic Number in Perl](https://sampleprograms.io/projects/palindromic-number/perl)
+- [Palindromic Number in Php](https://sampleprograms.io/projects/palindromic-number/php)
 - [Palindromic Number in Python](https://sampleprograms.io/projects/palindromic-number/python)
 
 ---

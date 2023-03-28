@@ -3,7 +3,7 @@
 title: Php
 layout: default
 date: 2022-04-28
-last-modified: 2023-03-26
+last-modified: 2023-03-28
 
 ---
 
@@ -26,13 +26,20 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Fibonacci in Php](https://sampleprograms.io/projects/fibonacci/php)
 - [File Input Output in Php](https://sampleprograms.io/projects/file-input-output/php)
 - [Fizz Buzz in Php](https://sampleprograms.io/projects/fizz-buzz/php)
+- [Fraction Math in Php](https://sampleprograms.io/projects/fraction-math/php)
 - [Hello World in Php](https://sampleprograms.io/projects/hello-world/php)
 - [Insertion Sort in Php](https://sampleprograms.io/projects/insertion-sort/php)
 - [Job Sequencing in Php](https://sampleprograms.io/projects/job-sequencing/php)
 - [Josephus Problem in Php](https://sampleprograms.io/projects/josephus-problem/php)
 - [Linear Search in Php](https://sampleprograms.io/projects/linear-search/php)
+- [Longest Common Subsequence in Php](https://sampleprograms.io/projects/longest-common-subsequence/php)
+- [Longest Palindromic Substring in Php](https://sampleprograms.io/projects/longest-palindromic-substring/php)
 - [Longest Word in Php](https://sampleprograms.io/projects/longest-word/php)
+- [Maximum Array Rotation in Php](https://sampleprograms.io/projects/maximum-array-rotation/php)
+- [Maximum Subarray in Php](https://sampleprograms.io/projects/maximum-subarray/php)
 - [Merge Sort in Php](https://sampleprograms.io/projects/merge-sort/php)
+- [Minimum Spanning Tree in Php](https://sampleprograms.io/projects/minimum-spanning-tree/php)
+- [Palindromic Number in Php](https://sampleprograms.io/projects/palindromic-number/php)
 - [Prime Number in Php](https://sampleprograms.io/projects/prime-number/php)
 - [Quick Sort in Php](https://sampleprograms.io/projects/quick-sort/php)
 - [Quine in Php](https://sampleprograms.io/projects/quine/php)
@@ -42,3 +49,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Rot13 in Php](https://sampleprograms.io/projects/rot13/php)
 - [Selection Sort in Php](https://sampleprograms.io/projects/selection-sort/php)
 - [Sleep Sort in Php](https://sampleprograms.io/projects/sleep-sort/php)
+- [Transpose Matrix in Php](https://sampleprograms.io/projects/transpose-matrix/php)

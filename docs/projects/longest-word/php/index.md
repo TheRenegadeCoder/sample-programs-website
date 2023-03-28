@@ -3,7 +3,7 @@
 title: Longest Word in Php
 layout: default
 date: 2022-04-28
-last-modified: 2023-03-26
+last-modified: 2023-03-28
 
 ---
 
@@ -26,20 +26,14 @@ function longest_word_length($str)
     return max(array_map("strlen", preg_split("/\s+/", $str)));
 }
 
-// Exit if too few arguments
-if (count($argv) < 2)
-{
-    usage();
-}
-
-// Exit if 1st command-line argument is empty
-$str = $argv[1];
-if (empty($str))
+// Exit if too few arguments or 1st command-line argument is empty
+if (count($argv) < 2 || empty($argv[1]))
 {
     usage();
 }
 
 // Get longest word length and display
+$str = $argv[1];
 $longest_len = longest_word_length($str);
 echo "${longest_len}\n";
 ```
@@ -51,6 +45,8 @@ echo "${longest_len}\n";
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 27 2023 17:32:52. The solution was first committed on Mar 23 2023 14:06:34. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

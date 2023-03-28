@@ -16,7 +16,7 @@ Welcome to the Befunge page! Here, you'll find a description of the language as 
 
 ## Description
 
-Befunge is a programming language with some very unusual standards, 
+[Befunge][1] is a programming language with some very unusual standards, 
 as a two-dimensional, self-modifying, stack-based programming language. 
 Apparently, it was designed in 1993 by Chris Pressey, merely to be as 
 difficult to compile as possible.
@@ -33,6 +33,8 @@ integers, similar to Forth. 0-9 will just push their value,
 `+ - * / %` pop the top two values and push their normal result, 
 `.` prints out the top number, and `,` prints the corresponding 
 character instead.
+
+[1]: https://en.wikipedia.org/wiki/Befunge
 
 
 ## Articles

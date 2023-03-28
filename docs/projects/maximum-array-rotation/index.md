@@ -69,6 +69,7 @@ Maximum Array Rotation. See the following testing section for more specific requ
 - [Maximum Array Rotation in Algol68](https://sampleprograms.io/projects/maximum-array-rotation/algol68)
 - [Maximum Array Rotation in Euphoria](https://sampleprograms.io/projects/maximum-array-rotation/euphoria)
 - [Maximum Array Rotation in Mathematica](https://sampleprograms.io/projects/maximum-array-rotation/mathematica)
+- [Maximum Array Rotation in Php](https://sampleprograms.io/projects/maximum-array-rotation/php)
 - [Maximum Array Rotation in Python](https://sampleprograms.io/projects/maximum-array-rotation/python)
 
 ---

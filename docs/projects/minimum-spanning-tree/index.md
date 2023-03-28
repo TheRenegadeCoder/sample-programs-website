@@ -88,6 +88,7 @@ In other words, what is the cost of the minimum spanning tree?
 - [Minimum Spanning Tree in C](https://sampleprograms.io/projects/minimum-spanning-tree/c)
 - [Minimum Spanning Tree in Euphoria](https://sampleprograms.io/projects/minimum-spanning-tree/euphoria)
 - [Minimum Spanning Tree in Mathematica](https://sampleprograms.io/projects/minimum-spanning-tree/mathematica)
+- [Minimum Spanning Tree in Php](https://sampleprograms.io/projects/minimum-spanning-tree/php)
 - [Minimum Spanning Tree in Python](https://sampleprograms.io/projects/minimum-spanning-tree/python)
 
 ---

@@ -16,7 +16,7 @@ Welcome to the Dart page! Here, you'll find a description of the language as wel
 
 ## Description
 
-Dart is a general-purpose language that was designed with five goals:
+[Dart][1] is a general-purpose language that was designed with five goals:
 
 - Productive
   - Dart's syntax is clear and concise, its tooling simple yet powerful.
@@ -47,6 +47,8 @@ The language also has many great features like garbage collection and a strong
 typing system (as of Dart 2.0). All of it sits on top of a VM like Java, which
 allows there to be less configuration between the test side and the source code.
 A programmer can just get started from the get-go!
+
+[1]: https://en.wikipedia.org/wiki/Dart_(programming_language)
 
 
 ## Articles

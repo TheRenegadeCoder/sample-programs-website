@@ -3,7 +3,7 @@
 title: Depth First Search in Php
 layout: default
 date: 2022-04-28
-last-modified: 2023-03-26
+last-modified: 2023-03-28
 
 ---
 
@@ -77,6 +77,9 @@ function parse_int_array($str_values)
 
 class Node
 {
+    public $id;
+    public $children;
+
     public function __construct($id)
     {
         $this->id = $id;
@@ -143,7 +146,7 @@ function &depth_first_search_rec(&$node, $target, &$visited)
     {
         if (!array_key_exists($child->id, $visited))
         {
-            $found = depth_first_search_rec($child, $target, $visited, $found);
+            $found = depth_first_search_rec($child, $target, $visited);
             $visited[$child->id] = TRUE;
             if (!is_null($found))
             {
@@ -198,7 +201,7 @@ printf("%s\n", (!is_null($node) ? "true" : "false"));
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 24 2023 20:45:32. The solution was first committed on Mar 21 2023 14:52:35. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 27 2023 19:39:22. The solution was first committed on Mar 21 2023 14:52:35. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

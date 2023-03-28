@@ -29,6 +29,10 @@ online platform for indie games which is also built with MoonScript, then
 generalized the code base to a general purpose web framework with both
 MoonScript and Lua APIs called Lapis.
 
+[1]: https://moonscript.org/
+[2]: https://www.gamedeveloper.com/business/q-a-itch-io-interview-with-leaf-corcoran
+[3]: https://itch.io/
+
 
 ## Articles
 

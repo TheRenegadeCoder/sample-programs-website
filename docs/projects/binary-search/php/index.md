@@ -3,7 +3,7 @@
 title: Binary Search in Php
 layout: default
 date: 2022-04-28
-last-modified: 2023-03-26
+last-modified: 2023-03-28
 
 ---
 
@@ -26,7 +26,7 @@ function parse_int($str_value)
     $str_value = trim($str_value);
 
     // Make sure all digits
-    if (preg_match("/^\d+$/", $str_value) === FALSE)
+    if (preg_match("/^[+-]?\d+$/", $str_value) === FALSE)
     {
         return FALSE;
     }
@@ -88,7 +88,7 @@ function binary_search($target, $values)
     $high = count($values);
     while ($low < $high)
     {
-        $mid = ($low + $high) / 2;
+        $mid = intdiv($low + $high, 2);
 
         // If found it, return index
         if ($values[$mid] == $target)
@@ -150,6 +150,8 @@ printf("%s\n", ($index >= 0) ? "true" : "false");
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 27 2023 18:53:33. The solution was first committed on Mar 21 2023 14:49:35. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -26,6 +26,10 @@ In case you are interested in more information on the history and features of R,
 take a look at the [R project website][2] from which this short summary
 originates.
 
+[1]: https://en.wikipedia.org/wiki/R_package#Comprehensive_R_Archive_Network_(CRAN)
+[2]: https://www.r-project.org/
+[5]: https://en.wikipedia.org/wiki/R_(programming_language)#History
+
 
 ## Articles
 

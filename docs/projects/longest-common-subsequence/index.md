@@ -80,6 +80,7 @@ verify the correctness of your solution:
 - [Longest Common Subsequence in Javascript](https://sampleprograms.io/projects/longest-common-subsequence/javascript)
 - [Longest Common Subsequence in Kotlin](https://sampleprograms.io/projects/longest-common-subsequence/kotlin)
 - [Longest Common Subsequence in Mathematica](https://sampleprograms.io/projects/longest-common-subsequence/mathematica)
+- [Longest Common Subsequence in Php](https://sampleprograms.io/projects/longest-common-subsequence/php)
 - [Longest Common Subsequence in Python](https://sampleprograms.io/projects/longest-common-subsequence/python)
 
 ---
