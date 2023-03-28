@@ -1,4 +1,4 @@
-Bash is a command language first released back in 1989. Despite its age, Bash is 
+[Bash][1] is a command language first released back in 1989. Despite its age, Bash is 
 still heavily maintained with changes tracked in git.
 
 In terms of features, Bash supports variables, piping, globbing, control flow,
@@ -14,3 +14,5 @@ have to pay attention to code that doesn't conform the Bourne shell standards.
 You'd be hard pressed to find a popular system that doesn't support Bash today.
 Even Jenkins, a continuous integration utility, supports Bash scripting during
 builds.
+
+[1]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)

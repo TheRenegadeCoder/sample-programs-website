@@ -1,6 +1,6 @@
-Just like normal, I took to Wikipedia to learn more about Perl.
+Just like normal, I took to [Wikipedia][1] to learn more about Perl.
 
-As it turns out, Perl is actually a family of languages sort of like Lisp. 
+As it turns out, Perl is actually a family of languages sort of like [Lisp][2]. 
 However, Perl is mainly divided into two branches: Perl 5 and Perl 6. As you 
 can probably imagine, Perl 5 will be the language we'll be using for this 
 exercise. Perl 6 is actually a major deviation from the traditional language, 
@@ -8,10 +8,10 @@ so I'll probably do a separate tutorial entirely for that language.
 
 At any rate, Perl is a multi-paradigm language, so we'll be diverging a bit 
 from our functional trend in this tutorial. Instead, we'll be working with a 
-language that resembles languages like Python or C.
+language that resembles languages like [Python][3] or [C][4].
 
 In terms of features, Perl is a mixed bag, literally. That's because Perl draws 
-its inspiration from several other languages including C, Lisp, and AWK. As a 
+its inspiration from several other languages including [C][4], [Lisp][2], and [AWK][5]. As a 
 result, Perl supports associative arrays, lists, regular expressions, and first-
 class functions. In fact, modern Perl even support object-oriented programming.
 
@@ -19,3 +19,9 @@ As a fun tidbit, Perl differs dramatically from Python in terms of complexity.
 In fact, the creators of Perl live by the slogan "there's more than one way to 
 do it." In contrary, the creators of Python prefer that "there should be one,  
 and preferably only one, obvious way to do it"
+
+[1]: https://en.wikipedia.org/wiki/Perl
+[2]: https://en.wikipedia.org/wiki/Lisp_(programming_language)
+[3]: https://en.wikipedia.org/wiki/Python_(programming_language)
+[4]: https://en.wikipedia.org/wiki/C_(programming_language)
+[5]: https://en.wikipedia.org/wiki/AWK

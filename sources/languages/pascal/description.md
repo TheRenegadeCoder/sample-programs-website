@@ -1,7 +1,7 @@
-According to Wikipedia, Pascal is an imperative and procedural language which 
-first appeared in 1970. Pascal's creator, Niklaus Wirth, designed the language 
+According to [Wikipedia][1], Pascal is an imperative and procedural language which 
+first appeared in 1970. Pascal's creator, [Niklaus Wirth][2], designed the language 
 with compiler and runtime efficiency in mind. In addition, Wirth drew much of 
-the inspiration for Pascal from the ALGOL family of languages.
+the inspiration for [Pascal][1] from the [ALGOL family][3] of languages.
 
 That said, Pascal isn't simply an ALGOL clone. In fact, Pascal includes many 
 additions to ALGOL such as mechanisms for defining custom datatypes. Likewise, 
@@ -10,7 +10,7 @@ and records.
 
 As an added bonus, Pascal is a strongly typed language. This forces the user to 
 explicitly write conversions between types, so errors can be caught at compile 
-time. Unfortunately, I've read that Pascal has a loophole in the type system. I 
+time. Unfortunately, I've read that [Pascal has a loophole in the type system][4]. I 
 just haven't found any articles describing it. If you know, let me know in the 
 comments.
 
@@ -59,3 +59,8 @@ if i in [5..20] then
 ```
 
 At any rate, I think we've played around enough
+
+[1]: https://en.wikipedia.org/wiki/Pascal_(programming_language)
+[2]: https://en.wikipedia.org/wiki/Niklaus_Wirth
+[3]: https://en.wikipedia.org/wiki/ALGOL
+[4]: https://www.lysator.liu.se/c/bwk-on-pascal.html

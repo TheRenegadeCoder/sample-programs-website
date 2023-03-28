@@ -14,3 +14,7 @@ only exist within the block of text that they're defined. In contrast,
 Despite Scheme appearing back in 1970, it's still used today for primarily educational purposes.
 For instance, many universities use Scheme in their introductory programming courses. Beyond 
 education, Scheme is mainly used by hobbyists for scripting purposes.
+
+[1]: https://en.wikipedia.org/wiki/Scheme_(programming_language)
+[2]: https://en.wikipedia.org/wiki/Scope_(computer_science)#Lexical_scoping_and_dynamic_scoping
+[3]: https://en.wikipedia.org/wiki/Common_Lisp

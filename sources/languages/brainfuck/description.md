@@ -1,4 +1,4 @@
-Brainfuck is an esoteric programming language created in 1992, and notable for 
+[Brainfuck][1] is an esoteric programming language created in 1992, and notable for 
 its extreme minimalism. As people have implemented more and more ridiculous 
 programs with the language, it has become relatively well-known over the years. 
 Nowadays some see it as the ultimate coding challenge to create something 
@@ -17,3 +17,5 @@ zero, otherwise the program jumps to the beginning of the loop. The remaining
 two instructions, `,` and `.` read one character from the input into the current
 cell and write one character from the current cell to the output, respectively.
 That's it!
+
+[1]: https://en.wikipedia.org/wiki/Brainfuck

@@ -17,3 +17,5 @@ can't really complain.
 
 Due to its lightweight and embedded nature, Lua has also found a home in the
 gaming community. How have I never used it?
+
+[1]: https://en.wikipedia.org/wiki/Lua_(programming_language)

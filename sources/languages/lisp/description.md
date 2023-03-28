@@ -1,10 +1,10 @@
-According to Wikipedia, Lisp is actually a family of languages. In other 
+According to [Wikipedia][1], Lisp is actually a family of languages. In other 
 words, Lisp has many dialects. For the purposes of this exercise, we'll be 
 using Common Lisp.
 
 That said, let's talk about Lisp in general. As it turns out, Lisp, a language 
 developed in 1958, is the second oldest high-level programming language. The 
-only older language is Fortran. Since its inception, the language has split 
+only older language is [Fortran][2]. Since its inception, the language has split 
 into several dialects. Perhaps some of the most notable dialects are Scheme, 
 Common Lisp, and Clojure.
 
@@ -101,3 +101,6 @@ a function called foo. We can then call foo from anywhere in our program:
 
 How cool is that? I think I'm starting to like Lisp. Of course, we haven't even gotten to 
 implement Hello World in Lisp, so we should probably get to that.
+
+[1]: https://en.wikipedia.org/wiki/Lisp_(programming_language)
+[2]: https://en.wikipedia.org/wiki/Fortran

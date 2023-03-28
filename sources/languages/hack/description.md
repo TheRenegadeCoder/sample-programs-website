@@ -1,4 +1,4 @@
-According to Wikipedia, Hack is a dialect of PHP used by Facebook. 
+According to [Wikipedia][1], Hack is a dialect of PHP used by Facebook. 
 Beyond that, Wikipedia was really only able to tell me that the 
 open source language was released in 2014. So for once, I had to 
 dig into the documentation.
@@ -12,7 +12,7 @@ Apparently, the most important features of Hack are:
 - Lambdas
 
 Now, I think the most interesting feature has to be the type annotations. 
-That's because Hack is actually dynamically typed like Python.
+That's because Hack is actually dynamically typed like [Python][2].
 
 However, if you've used Python, then you know that it has a relatively 
 new type hinting feature. Typing hinting allows you to arbitrarily 
@@ -47,3 +47,6 @@ languages like Hack and Python have. It's called gradual typing, and it allows
 users to specify exactly when they want static or dynamic typing.
 
 Once again, I think I've explored a topic a bit too deeply, so I'll stop there.
+
+[1]: https://en.wikipedia.org/wiki/Hack_(programming_language)
+[2]: https://en.wikipedia.org/wiki/Python_(programming_language)

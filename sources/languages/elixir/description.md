@@ -1,4 +1,4 @@
-Elixir is yet another general-purpose language with functional tendencies. 
+[Elixir][1] is yet another general-purpose language with functional tendencies. 
 That said, Elixir is quite a bit different from some of our recent 
 languages. For starters, Elixir runs on the Erlang virtual machine 
 known as BEAM. This means that Elixir actually compiles down to bytecode 
@@ -42,3 +42,5 @@ z  # "some string"
 
 In addition, there are several other ways pattern matching can be used, but 
 we have to get to our implementation of Hello World in Elixir.
+
+[1]: https://en.wikipedia.org/wiki/Elixir_(programming_language)

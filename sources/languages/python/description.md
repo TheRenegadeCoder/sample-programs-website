@@ -6,3 +6,5 @@ a Dutch programmer, in 1991. Apparently, Python was inspired by ABC, an imperati
 Since 1991, Python has had two major upgrades: Python 2.0 and Python 3.0. In October 2000, Python 2.0 was released. 
 Over eight years later, Python 3.0 was released. Currently, the community supports both versions of Python. 
 But, Python 2 is slowly losing support.
+
+[1]: https://en.wikipedia.org/wiki/Python_(programming_language)

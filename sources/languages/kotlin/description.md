@@ -1,8 +1,8 @@
 Since Kotlin is a bit more popular than most of the newer languages, it 
 actually has a Wikipedia page. So, we'll use that to learn more.
 
-According to Wikipedia, Kotlin is a programming language that runs on 
-the Java Virtual Machine. In other words, Kotlin compiles down to Java 
+According to [Wikipedia][1], Kotlin is a programming language that runs on 
+the [Java Virtual Machine][2]. In other words, Kotlin compiles down to Java 
 bytecode. In fact, developers have the option to decide which version 
 of Java bytecode they want. In addition to the JVM, Kotlin can also 
 compile down to JavaScript.
@@ -21,3 +21,6 @@ fun String.lastChar():  Char = this.get(this.length - 1)
 ```
 
 In this example, the lastChar method is added to the String class. How cool is that?
+
+[1]: https://en.wikipedia.org/wiki/Kotlin_(programming_language)
+[2]: https://en.wikipedia.org/wiki/Java_virtual_machine
