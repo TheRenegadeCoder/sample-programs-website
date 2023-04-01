@@ -1,12 +1,14 @@
 import logging
+import os
 import pathlib
 from datetime import date
-from typing import List
 
 import snakemd
 import subete
+import glotter
 
 log = logging.getLogger(__name__)
+AUTO_GEN_TEST_DOC_DIR = "generated"
 
 
 def _add_section(doc: snakemd.Document, source: str, source_instance: str, section: str, level: int = 2):
@@ -34,7 +36,10 @@ def _add_section(doc: snakemd.Document, source: str, source_instance: str, secti
 def _add_testing_section(doc: snakemd.Document, source: str, source_instance: str):
     valid_path = pathlib.Path(f"sources/{source}/{source_instance}/valid-tests.md")
     invalid_path = pathlib.Path(f"sources/{source}/{source_instance}/invalid-tests.md")
-    if valid_path.exists() and invalid_path.exists():
+    auto_gen_path = pathlib.Path(f"{AUTO_GEN_TEST_DOC_DIR}/{source_instance}/testing.md")
+    if auto_gen_path.exists():
+        _add_section(doc, AUTO_GEN_TEST_DOC_DIR, source_instance, "Testing", level=2)
+    elif valid_path.exists() and invalid_path.exists():
         doc.add_header("Testing", level=2)
         doc.add_paragraph(
             f"""
@@ -282,6 +287,21 @@ def generate_language_paths(repo: subete.Repo):
         _generate_language_index(language)
 
 
+def generate_auto_gen_test_docs(repo: subete.Repo):
+    """
+    Generate auto-generated test documentation
+    """
+    curr_dir = os.getcwd()
+    doc_dir = pathlib.Path(AUTO_GEN_TEST_DOC_DIR).absolute()
+    os.chdir(repo.sample_programs_repo_dir())
+    glotter.generate_test_docs(
+        doc_dir=doc_dir,
+        repo_name="Sample Programs",
+        repo_url="https://github.com/TheRenegadeCoder/sample-programs"
+    )
+    os.chdir(curr_dir)
+
+
 def generate_languages_index(repo: subete.Repo):
     """
     Creates the index.md files for the root directories.
@@ -368,8 +388,10 @@ if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
     clean("docs/projects")
     clean("docs/languages")
+    clean(AUTO_GEN_TEST_DOC_DIR)
     repo = subete.load()
     generate_language_paths(repo)
+    generate_auto_gen_test_docs(repo)
     generate_project_paths(repo)
     generate_sample_programs(repo)
     generate_languages_index(repo)
