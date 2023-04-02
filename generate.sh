@@ -26,8 +26,6 @@ docker run --rm \
     -e "JEKYLL_GID=$(id -g)" \
     -v "$PWD/docs:/srv/jekyll:Z" \
     -w "/srv/jekyll" \
-    --add-host "rubygems.org:151.101.193.227" \
-    --add-host "index.rubygems.org:151.101.193.227" \
     -it jekyll/jekyll:$JEKYLL_VERSION \
     bash -c "bundle install && jekyll build -V --config _config.yml"
 
