@@ -5,3 +5,5 @@ itself--or more specifically:
 > copy of its own source code as its only output.
 
 Thanks, [Wikipedia][1]!
+
+[1]: https://en.wikipedia.org/wiki/Quine_(computing)
