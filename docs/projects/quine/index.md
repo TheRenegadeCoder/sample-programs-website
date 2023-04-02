@@ -22,6 +22,8 @@ itself--or more specifically:
 
 Thanks, [Wikipedia][1]!
 
+[1]: https://en.wikipedia.org/wiki/Quine_(computing)
+
 
 ## Requirements
 
