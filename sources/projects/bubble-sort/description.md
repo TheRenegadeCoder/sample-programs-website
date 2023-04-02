@@ -10,7 +10,7 @@ and swaps adjacent elements if they are not in order. It works as follows:
 
 The performance of sorting algorithms is generally defined in "Big O notation".
 If you are not familiar with such notations, please refer to the relevant
-article by Rob Bell or the wikipedia entry listed in further readings below.
+article by [Rob Bell][1] or the [Wikipedia][2] entry listed in further readings below.
 
 | Cases        | Big O Notatation |
 | ------------ | ---------------- |
@@ -55,3 +55,6 @@ __Pass 4__
 
 Note that although the elements were sorted at the end of pass 3,
 the algorithm needs an additional pass without any swapping in order to know that the elements are sorted.
+
+[1]: https://robbell.io/2009/06/a-beginners-guide-to-big-o-notation
+[2]: https://en.wikipedia.org/wiki/Big_O_notation
