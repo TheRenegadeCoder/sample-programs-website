@@ -8,7 +8,7 @@ import subete
 import glotter
 
 log = logging.getLogger(__name__)
-AUTO_GEN_TEST_DOC_DIR = "generated"
+AUTO_GEN_TEST_DOC_DIR = "sources/generated"
 
 
 def _add_section(doc: snakemd.Document, source: str, source_instance: str, section: str, level: int = 2):
@@ -38,7 +38,9 @@ def _add_testing_section(doc: snakemd.Document, source: str, source_instance: st
     invalid_path = pathlib.Path(f"sources/{source}/{source_instance}/invalid-tests.md")
     auto_gen_path = pathlib.Path(f"{AUTO_GEN_TEST_DOC_DIR}/{source_instance}/testing.md")
     if auto_gen_path.exists():
-        _add_section(doc, AUTO_GEN_TEST_DOC_DIR, source_instance, "Testing", level=2)
+        _add_section(
+            doc, pathlib.Path(AUTO_GEN_TEST_DOC_DIR).name, source_instance, "Testing", level=2
+        )
     elif valid_path.exists() and invalid_path.exists():
         doc.add_header("Testing", level=2)
         doc.add_paragraph(

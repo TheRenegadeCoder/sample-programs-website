@@ -1,4 +1,6 @@
 #!/bin/bash
+set -e
+
 echo "*** Generate Webpages ***"
 python scripts/automate.py
 
@@ -18,12 +20,14 @@ done
 
 echo ""
 echo "*** Build With Jekyll ***"
-export JEKYLL_VERSION=3.8
+export JEKYLL_VERSION=4.2.2
 docker run --rm \
     -e "JEKYLL_UID=$(id -u)" \
     -e "JEKYLL_GID=$(id -g)" \
     -v "$PWD/docs:/srv/jekyll:Z" \
     -w "/srv/jekyll" \
+    --add-host "rubygems.org:151.101.193.227" \
+    --add-host "index.rubygems.org:151.101.193.227" \
     -it jekyll/jekyll:$JEKYLL_VERSION \
     bash -c "bundle install && jekyll build -V --config _config.yml"
 
@@ -36,7 +40,8 @@ echo "*** Start Webserver ***"
 cd docs/_site
 python -m http.server >/dev/null &
 pid=$!
-trap "printf '\n\n*** Kill webserver (PID %s) ***' $pid; kill $pid" SIGINT SIGHUP SIGABRT
+trap "printf '\n\n*** Kill webserver (PID %s) ***\n' $pid; kill $pid" SIGINT SIGHUP SIGABRT
+sleep 5
 
 echo ""
 echo "*** Open Index ***"
