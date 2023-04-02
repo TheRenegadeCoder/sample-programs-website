@@ -3,7 +3,7 @@
 title: Palindromic Number in C++
 layout: default
 date: 2022-04-28
-last-modified: 2023-03-28
+last-modified: 2023-04-02
 
 ---
 
@@ -54,7 +54,7 @@ int is_int(char **argv)
     while (isdigit(argv[1][j]))
         ++j;
 
-    if (strlen(argv[1]) != j)
+    if (strlen(argv[1]) != j || j == 0)
     {
         return 1;
     }
@@ -81,11 +81,12 @@ int main(int argc, char **argv)
 [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Jeremy Grifski
+- rzuckerm
 - smjalageri
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2022 01:31:51. The solution was first committed on Nov 01 2021 10:18:42. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 30 2023 15:49:43. The solution was first committed on Nov 01 2021 10:18:42. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 
