@@ -11,13 +11,13 @@ the algorithm starts each pass with the index of the first unsorted element in t
 
 The performance of sorting algorithms is generally defined in "Big O notation".
 If you are not familiar with such notations, please refer to the relevant
-article by Rob Bell or the wikipedia entry listed in further readings below.
+article by [Rob Bell][1] or the [Wikipedia][2] entry listed in further readings below.
 
-| | |
-|---|---|
-| Best case | O(n<sup>2</sup>) |
+| Cases        | Big O Notatation |
+| ------------ | ---------------- |
+| Best case    | O(n<sup>2</sup>) |
 | Average case | O(n<sup>2</sup>) |
-| Worst case | O(n<sup>2</sup>) |
+| Worst case   | O(n<sup>2</sup>) |
 
 Selection sort always performs at O(n<sup>2</sup>). This is because the algorithm's
 loops do not depend on the values of the items in the list. That means that even if
@@ -73,3 +73,6 @@ The element in __bold__ is the one that will be moved to the end of the sorted s
 -   1     2     3     5   __4__ 
 -   1     2     3     4   __5__ 
 -   1     2     3     4     5    
+
+[1]: https://robbell.io/2009/06/a-beginners-guide-to-big-o-notation
+[2]: https://en.wikipedia.org/wiki/Big_O_notation

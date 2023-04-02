@@ -9,13 +9,13 @@ in order at the front of the list, and the list is now fully sorted.
 
 The performance of sorting algorithms is generally defined in "Big O notation".
 If you are not familiar with such notations, please refer to the relevant
-article by Rob Bell or the wikipedia entry listed in further readings below.
+article by [Rob Bell][1] or the [Wikipedia][2] entry listed in further readings below.
 
-| | |
-|---|---|
-| Best case | O(n) |
+| Cases        | Big O Notatation |
+| ------------ | ---------------- |
+| Best case    | O(n)             |
 | Average case | O(n<sup>2</sup>) |
-| Worst case | O(n<sup>2</sup>) |
+| Worst case   | O(n<sup>2</sup>) |
 
 Although the main pointer of insertion sort only iterates through the list once
 it must also iterate through the existing sorted items at the beginning of the list
@@ -46,3 +46,6 @@ The element in __bold__ is the main pointer.
 -   3     4     5   __1__   2   
 -   1     3     4     5   __2__ 
 -   1     2     3     4     5    
+
+[1]: https://robbell.io/2009/06/a-beginners-guide-to-big-o-notation
+[2]: https://en.wikipedia.org/wiki/Big_O_notation

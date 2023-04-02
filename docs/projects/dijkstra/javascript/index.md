@@ -3,7 +3,7 @@
 title: Dijkstra in Javascript
 layout: default
 date: 2022-04-28
-last-modified: 2023-03-28
+last-modified: 2023-04-02
 
 ---
 
@@ -43,7 +43,12 @@ function main() {
     // Weight < 0
     if (matList.some(weight => weight < 0)) {
         return console.log(usage);
-    } 
+    }
+
+    // Not any weight > 0
+    if (!matList.some(weight => weight > 0)) {
+        return console.log(usage);
+    }
 
     // The Source or The Destination > SquareRootOfMatrix - 1
     if (src > n - 1 || des > n - 1) {
@@ -104,10 +109,11 @@ main()
 
 - Jeremy Grifski
 - Matteo Planchet
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 14 2022 21:04:26. The solution was first committed on Oct 25 2021 16:28:29. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 30 2023 15:49:43. The solution was first committed on Oct 25 2021 16:28:29. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

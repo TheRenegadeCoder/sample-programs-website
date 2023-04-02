@@ -33,13 +33,13 @@ Step by step the process is:
 
 The performance of sorting algorithms is generally defined in "Big O notation".
 If you are not familiar with such notations, please refer to the relevant
-article by Rob Bell or the wikipedia entry listed in further readings below.
+article by [Rob Bell][1] or the [Wikipedia][2] entry listed in further readings below.
 
-| | |
-|---|---|
-| Best case | O(n log n) |
-| Average case | O(n log n) |
-| Worst case | O(n<sup>2</sup>) |
+| Cases        | Big O Notatation |
+| ------------ | ---------------- |
+| Best case    | O(n log n)       |
+| Average case | O(n log n)       |
+| Worst case   | O(n<sup>2</sup>) |
 
 As the name implies, quicksort is a rather efficient algorithm; however,
 its performance can be affected by the pivot that is selected. For example,
@@ -49,7 +49,7 @@ to write, but on a sorted list that will lead to an efficiency of O(n<sup>2</sup
 
 ### Examples
 
-The example below was taken from [Wikipedia's article about Quick sort][1].
+The example below was taken from [Wikipedia's article about Quick sort][3].
 The __bolded__ elements are the pivots. In this example, the last element in each list/sublist
 was chosen to be the pivot, but that is not necesary. (See the section about performance above.)
 Each row shows the comparison of an element to the pivot (steps 2-3).
@@ -57,6 +57,10 @@ The arrows convey splitting each list into sublists and then bringing them back 
 4-5).
 
 ![Quick sort example](https://upload.wikimedia.org/wikipedia/commons/a/af/Quicksort-diagram.svg)
+
+[1]: https://robbell.io/2009/06/a-beginners-guide-to-big-o-notation
+[2]: https://en.wikipedia.org/wiki/Big_O_notation
+[3]: https://en.wikipedia.org/wiki/Quicksort
 
 
 ## Requirements
