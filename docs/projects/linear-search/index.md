@@ -32,13 +32,13 @@ can notified that key is not in array.
 
 The performance of searching algorithms is generally defined in "Big O notation".
 If you are not familiar with such notations, please refer to the relevant
-article by Rob Bell or the wikipedia entry listed in further readings below.
+article by [Rob Bell][1] or the [Wikipedia][2] entry listed in further readings below.
 
-| | |
-|---|---|
-| Best case | O(1) |
-| Average case | O(n) |
-| Worst case | O(n) |
+| Cases        | Big O Notatation |
+| ------------ | ---------------- |
+| Best case    | O(1)             |
+| Average case | O(n)             |
+| Worst case   | O(n)             |
 
 Linear search is not efficient for large arrays, but for relatively smaller arrays it works fine.
 
@@ -61,6 +61,9 @@ Linear search is not efficient for large arrays, but for relatively smaller arra
 <br>break
 <br>flag = 1
 <br>pos = 2
+
+[1]: https://robbell.io/2009/06/a-beginners-guide-to-big-o-notation
+[2]: https://en.wikipedia.org/wiki/Big_O_notation
 
 
 ## Requirements
