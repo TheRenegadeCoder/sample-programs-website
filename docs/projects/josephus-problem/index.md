@@ -50,18 +50,35 @@ Write a sample program which accepts an integer n (total number of people in the
 
 ## Testing
 
-Some tests for your program are:
+Every project in the [Sample Programs repo](https://github.com/TheRenegadeCoder/sample-programs) should be tested.
+In this section, we specify the set of tests specific to Josephus Problem.
+In order to keep things simple, we split up the testing as follows:
 
+- Josephus Problem Valid Tests
+- Josephus Problem Invalid Tests
+
+### Josephus Problem Valid Tests
 
 | Description | Input (n) | Input (k) | Output |
-| :---------- | :---- | :---- | :----- |
-| No Input                    |      |      | "Usage: please input the total number of people and number of people to skip." |
-| Empty Input                 | ""   | ""   | "Usage: please input the total number of people and number of people to skip." |
-| Invalid Input: not a number | word | word | "Usage: please input the total number of people and number of people to skip." |
-| Sample Input: 0, 1 (0 people in circle)  | 0  | 1  | "Usage: please input the total number of people and number of people to skip." |
-| Sample Input: 5, 2  | 5  | 2  | 3 |
-| Sample Input: 7, 3  | 7  | 3  | 4 |
-| Sample Input: 41, 4  | 41  | 4  | 11 |
+| ----------- | --------- | --------- | ------ |
+| Sample Input 5, 2 | "5" | "2" | "3" |
+| Sample Input 7 3 | "7" | "3" | "4" |
+| Sample Input 41 4 | "41" | "4" | "11" |
+
+### Josephus Problem Invalid Tests
+
+| Description | Input |
+| ----------- | ----- |
+| No Input |  |
+| Empty Input | "" |
+| Invalid Input: Not A Number | "a" |
+| Invalid Input: No K | "1" |
+
+All of these tests should output the following:
+
+```
+Usage: please input the total number of people and number of people to skip.
+```
 
 
 ## Articles

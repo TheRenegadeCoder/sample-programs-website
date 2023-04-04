@@ -41,8 +41,8 @@ screen is enough. Like in the write function, make sure there is some basic erro
 
 ## Testing
 
-Verify that the actual output matches the expected output. See the
-[requirements](#requirements) section for an example of the expected output.
+Verify that the actual output matches the expected output
+(see [Requirements](#requirements)).
 
 
 ## Articles

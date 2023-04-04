@@ -69,17 +69,34 @@ challenging.
 
 ## Testing
 
-The following table contains various test cases that you can use to
-verify the correctness of your solution:
+Every project in the [Sample Programs repo](https://github.com/TheRenegadeCoder/sample-programs) should be tested.
+In this section, we specify the set of tests specific to Job Sequencing.
+In order to keep things simple, we split up the testing as follows:
 
-| Description | Input | Output |
-|-------------|-------|--------|
-| No Input | | "Usage: please provide a list of profits and a list of deadlines" |
-| Empty Input | "" | "Usage: please provide a list of profits and a list of deadlines" |
-| Missing Input | "25, 15, 10, 5" | "Usage: please provide a list of profits and a list of deadlines" |
-|Lists Different Lengths | "1, 2, 3, 4" "1, 2, 3, 4, 5" | "Usage: please provide a list of profits and a list of deadlines" |
-| Sample Input | "25, 15, 10, 5" "3, 1, 2, 2" | 50 |
-| Sample Input | "20, 15, 10, 5, 1" "2, 2, 1, 3, 3" | 40 |
+- Sequencing Valid Tests
+- Sequencing Invalid Tests
+
+### Sequencing Valid Tests
+
+| Description | Profits | Deadlines | Output |
+| ----------- | ------- | --------- | ------ |
+| Sample Input One | "25, 15, 10, 5" | "3, 1, 2, 2" | "50" |
+| Sample Input Two | "20, 15, 10, 5, 1" | "2, 2, 1, 3, 3" | "40" |
+
+### Sequencing Invalid Tests
+
+| Description | Profits | Deadlines |
+| ----------- | ------- | --------- |
+| No Input |  |  |
+| Empty Input | "" |  |
+| Missing Input | "25, 15, 10, 5" |  |
+| Lists Different Lengths | "1, 2, 3, 4" | "1, 2, 3, 4, 5" |
+
+All of these tests should output the following:
+
+```
+Usage: please provide a list of profits and a list of deadlines
+```
 
 
 ## Articles

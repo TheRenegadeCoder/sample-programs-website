@@ -50,14 +50,32 @@ next input is the list of numbers to be included in the matrix.
 
 ## Testing
 
-Verify that the actual output matches the expected output (see [requirements](#requirements))
+Every project in the [Sample Programs repo](https://github.com/TheRenegadeCoder/sample-programs) should be tested.
+In this section, we specify the set of tests specific to Transpose Matrix.
+In order to keep things simple, we split up the testing as follows:
 
-| Description             | Cols  | Rows  | Matrix                 | Output                                                                    |
-| ----------------------- |:-----:|:-----:|:----------------------:| -------------------------------------------------------------------------:|
-| No input                |       |       |                        | Usage: please enter the dimension of the matrix and the serialized matrix |
-| Missing input: Size     |       |       | ```1, 2, 3, 4, 5, 6``` | Usage: please enter the dimension of the matrix and the serialized matrix |
-| Missing input: integers | 3     | 3     |                        | Usage: please enter the dimension of the matrix and the serialized matrix |
-| Sample input            | 3     | 2     | ```1, 2, 3, 4, 5, 6``` | ```1, 4, 2, 5, 3, 6```                                                    |
+- Transpose Matrix Valid Tests
+- Transpose Matrix Invalid Tests
+
+### Transpose Matrix Valid Tests
+
+| Description | Cols | Rows | Matrix | Output |
+| ----------- | ---- | ---- | ------ | ------ |
+| Sample Input: Routine | "3" | "2" | "1, 2, 3, 4, 5, 6" | "1, 4, 2, 5, 3, 6" |
+
+### Transpose Matrix Invalid Tests
+
+| Description | Cols | Rows | Matrix |
+| ----------- | ---- | ---- | ------ |
+| No Input |  |  |  |
+| Missing Input: No Columns Or Rows | "" | "" | "1, 2, 3, 4, 5, 6" |
+| Missing Input: No Matrix | "3" | "3" | "" |
+
+All of these tests should output the following:
+
+```
+Usage: please enter the dimension of the matrix and the serialized matrix
+```
 
 
 ## Articles

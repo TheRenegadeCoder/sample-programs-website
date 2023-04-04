@@ -34,17 +34,35 @@ outputs if the integer is Even or Odd.
 
 ## Testing
 
-The following table contains various test cases that you can use to verify the correctness of your solution:
+Every project in the [Sample Programs repo](https://github.com/TheRenegadeCoder/sample-programs) should be tested.
+In this section, we specify the set of tests specific to Even Odd.
+In order to keep things simple, we split up the testing as follows:
 
-| Description                  | Input | Output |
-|------------------------------|-------|--------|
-| no input                     | None  | Usage: please input a number |
-| empty input                  | ""    | Usage: please input a number |
-| invalid input: not a number  | a     | Usage: please input a number |
-| sample input: even           | 2     | Even |
-| sample input: odd            | 5     | Odd |
-| sample input: negative even  | -14   | Even |
-| sample input: negative odd   | -27   | Odd |
+- Even Odd Valid Tests
+- Even Odd Invalid Tests
+
+### Even Odd Valid Tests
+
+| Description | Input | Output |
+| ----------- | ----- | ------ |
+| Sample Input: Even | "2" | "Even" |
+| Sample Input: Odd | "5" | "Odd" |
+| Sample Input: Negative Even | "-14" | "Even" |
+| Sample Input: Negative Odd | "-27" | "Odd" |
+
+### Even Odd Invalid Tests
+
+| Description | Input |
+| ----------- | ----- |
+| No Input |  |
+| Empty Input | "" |
+| Invalid Input: Not A Number | "a" |
+
+All of these tests should output the following:
+
+```
+Usage: please input a number
+```
 
 
 ## Articles

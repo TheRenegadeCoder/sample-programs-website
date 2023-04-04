@@ -55,13 +55,39 @@ Maximum Array Rotation. See the following testing section for more specific requ
 
 ## Testing
 
-| Description                  | Input                     | Output                                                         |
-| ---------------------------- | ------------------------- | -------------------------------------------------------------- |
-| No Input                     |                           | "Usage: please provide a list of integers (e.g. "8, 3, 1, 2")" |
-| Empty Input                  | ""                        | "Usage: please provide a list of integers (e.g. "8, 3, 1, 2")" |
-| Sample Input: No Rotation    | "3, 1, 2, 8"              | 29                                                             |
-| Sample Input: One Rotation   | "1, 2, 8, 3"              | 29                                                             |
-| Sample Input: Many Rotations | "8, 3, 1, 2"              | 29                                                             |
+Every project in the [Sample Programs repo](https://github.com/TheRenegadeCoder/sample-programs) should be tested.
+In this section, we specify the set of tests specific to Maximum Array Rotation.
+In order to keep things simple, we split up the testing as follows:
+
+- Maximimum Array Rotation Valid Tests
+- Maximimum Array Rotation Invalid Tests
+
+### Maximimum Array Rotation Valid Tests
+
+| Description | Input |
+| ----------- | ----- |
+| Sample Input No Rotation | "3, 1, 2, 8" |
+| Sample Input One Rotation | "1, 2, 8, 3" |
+| Sample Input Many Rotations | "8, 3, 1, 2" |
+
+All of these tests should output the following:
+
+```
+29
+```
+
+### Maximimum Array Rotation Invalid Tests
+
+| Description | Input |
+| ----------- | ----- |
+| No Input |  |
+| Empty Input | "" |
+
+All of these tests should output the following:
+
+```
+Usage: please provide a list of integers (e.g. "8, 3, 1, 2")
+```
 
 
 ## Articles

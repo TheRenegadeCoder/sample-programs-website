@@ -35,30 +35,34 @@ And report whether or not that number is a palindrome using the values
 
 ## Testing
 
-Every project in the Sample Programs repo should be tested. In this section, we specify the set of tests specific to Palindromic Number. To keep things simple, we split up testing into two subsets: valid and invalid. Valid tests refer to tests that occur under correct input conditions. Invalid tests refer to tests that occur on bad input (e.g., letters instead of numbers).
+Every project in the [Sample Programs repo](https://github.com/TheRenegadeCoder/sample-programs) should be tested.
+In this section, we specify the set of tests specific to Palindromic Number.
+In order to keep things simple, we split up the testing as follows:
 
-### Valid Tests
+- Palindromic Number Valid Tests
+- Palindromic Number Invalid Tests
 
-| Description                              | Positive Integer | Output |
-| ---------------------------------------- | ---------------- | ------ |
-| sample input: one digit                  | 7                | true   |
-| sampel input: even digits                | 2442             | true   |
-| sample input: odd digits                 | 232              | true   |
-| sample input: even digits not palindrome | 5215             | false  |
-| sample input: odd digits not palindrome  | 521              | false  |
+### Palindromic Number Valid Tests
 
+| Description | Input | Output |
+| ----------- | ----- | ------ |
+| Sample Input: One Digit | "7" | "true" |
+| Sample Input: Even Digits | "2442" | "true" |
+| Sample Input: Odd Digits | "232" | "true" |
+| Sample Input: Even Digits Not Palindrome | "5215" | "false" |
+| Sample Input: Odd Digits Not Palindrome | "521" | "false" |
 
-### Invalid Tests
+### Palindromic Number Invalid Tests
 
-| Description                    | Input |
-| ------------------------------ | ----- |
-| no input                       | None  |
-| empty input                    | ""    |
-| invalid input: not a number    | a     |
-| invalid input: negative number | -5    |
-| invalid input: float           | 5.41  |
+| Description | Input |
+| ----------- | ----- |
+| No Input |  |
+| Empty Input | "" |
+| Invalid Input: Not A Number | "a" |
+| Invalid Input: Negative Integer | "-7" |
+| Invalid Input: Float | "5.41" |
 
-All invalid tests should spit out a usage statement in the following form: 
+All of these tests should output the following:
 
 ```
 Usage: please input a non-negative integer

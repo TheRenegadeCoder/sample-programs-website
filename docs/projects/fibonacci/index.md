@@ -41,18 +41,36 @@ doesn't supply any input or the user supplies input that is not a number
 
 ## Testing
 
-Some tests for your program are:
+Every project in the [Sample Programs repo](https://github.com/TheRenegadeCoder/sample-programs) should be tested.
+In this section, we specify the set of tests specific to Fibonacci.
+In order to keep things simple, we split up the testing as follows:
+
+- Fibonacci Valid Tests
+- Fibonacci Invalid Tests
+
+### Fibonacci Valid Tests
 
 | Description | Input | Output |
-| :---------- | :---- | :----- |
-| No Input                    |      | "Usage: please input the count of fibonacci numbers to output" |
-| Empty Input                 | ""   | "Usage: please input the count of fibonacci numbers to output" |
-| Invalid Input: not a number | word | "Usage: please input the count of fibonacci numbers to output" |
-| Sample Input: 0  | 0  | |
-| Sample Input: 1  | 1  | 1: 1 |
-| Sample Input: 2  | 2  | 1: 1<br />2: 1 |
-| Sample Input: 5  | 5  | 1: 1<br />2: 1<br />3: 2<br />4: 3<br />5: 5 |
-| Sample Input: 10 | 10 | 1: 1<br />2: 1<br />3: 2<br />4: 3<br />5: 5<br />6: 8<br />7: 13<br />8: 21<br />9: 34<br />10: 55 |
+| ----------- | ----- | ------ |
+| Sample Input 0 | "0" |  |
+| Sample Input 1 | "1" | "1: 1" |
+| Sample Input 2 | "2" | "1: 1"<br>"2: 1" |
+| Sample Input 5 | "5" | "1: 1"<br>"2: 1"<br>"3: 2"<br>"4: 3"<br>"5: 5" |
+| Sample Input 10 | "10" | "1: 1"<br>"2: 1"<br>"3: 2"<br>"4: 3"<br>"5: 5"<br>"6: 8"<br>"7: 13"<br>"8: 21"<br>"9: 34"<br>"10: 55" |
+
+### Fibonacci Invalid Tests
+
+| Description | Input |
+| ----------- | ----- |
+| No Input |  |
+| Empty Input | "" |
+| Invalid Input: Not A Number | "a" |
+
+All of these tests should output the following:
+
+```
+Usage: please input the count of fibonacci numbers to output
+```
 
 
 ## Articles

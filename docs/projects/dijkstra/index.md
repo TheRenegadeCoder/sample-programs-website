@@ -81,31 +81,34 @@ The Output will be the Cost of the Shortest Path from Source to Destination.
 
 ## Testing
 
-Every project in the Sample Programs repo should be tested. In this section, we specify the set of tests specific to Dijkstra. To keep things simple, we split up testing into two subsets: valid and invalid. Valid tests refer to tests that occur under correct input conditions. Invalid tests refer to tests that occur on bad input (e.g., letters instead of numbers).
+Every project in the [Sample Programs repo](https://github.com/TheRenegadeCoder/sample-programs) should be tested.
+In this section, we specify the set of tests specific to Dijkstra.
+In order to keep things simple, we split up the testing as follows:
 
-### Valid Tests
+- Dijkstra Valid Tests
+- Dijkstra Invalid Tests
 
-| Description  | Matrix                                                                        | Source | Destination | Output |
-| ------------ | ----------------------------------------------------------------------------- | ------ | ----------- | ------ |
-| Proper Input | `"0, 2, 0, 6, 0, 2, 0, 3, 8, 5, 0, 3, 0, 0, 7, 6, 8, 0, 0, 9, 0, 5, 7, 9, 0"` | `"0"`  | `"1"`       | 2      |
+### Dijkstra Valid Tests
 
+| Description | Matrix | Source | Destination | Output |
+| ----------- | ------ | ------ | ----------- | ------ |
+| Sample Input: Routine | "0, 2, 0, 6, 0, 2, 0, 3, 8, 5, 0, 3, 0, 0, 7, 6, 8, 0, 0, 9, 0, 5, 7, 9, 0" | "0" | "1" | "2" |
 
-### Invalid Tests
+### Dijkstra Invalid Tests
 
-| Description                                            | Matrix                                                                          | Source | Destination |
-| ------------------------------------------------------ | ------------------------------------------------------------------------------- | ------ | ----------- |
-| No Input                                               |                                                                                 |        |             |
-| Empty Input                                            | `""`                                                                            | `""`   | `""`        |
-| Non-Square Input                                       | `"1, 0, 3, 0, 5, 1"`                                                            | `"1"`  | `"2"`       |
-| No Destination                                         | `"0, 2, 0, 6, 0, 2, 0, 3, 8, 5, 0, 3, 0, 0, 7, 6, 8, 0, 0, 9, 0, 5, 7, 9, 0"`   | `"0"`  | `""`        |
-| No Source and Destination                              | `"0, 2, 0, 6, 0, 2, 0, 3, 8, 5, 0, 3, 0, 0, 7, 6, 8, 0, 0, 9, 0, 5, 7, 9, 0"`   | `""`   | `""`        |
-| The Source or The Destination < 0                      | `"0, 2, 0, 6, 0, 2, 0, 3, 8, 5, 0, 3, 0, 0, 7, 6, 8, 0, 0, 9, 0, 5, 7, 9, 0"`   | `"-1"` | `"2"`       |
-| The Source or The Destination < 0                      | `"0, 2, 0, 6, 0, 2, 0, 3, 8, 5, 0, 3, 0, 0, 7, 6, 8, 0, 0, 9, 0, 5, 7, 9, 0"`   | `"-1"` | `"2"`       |
-| Weight < 0                                             | `"0, 2, 0, -6, 0, 2, 0, 3, 8, 5, 0, 3, 0, 0, 7, -6, 8, 0, 0, 9, 0, 5, 7, 9, 0"` | `"1"`  | `"2"`       |
-| The Source or The Destination > SquareRootOfMatrix - 1 | `"0, 2, 0, 6, 0, 2, 0, 3, 8, 5, 0, 3, 0, 0, 7, 6, 8, 0, 0, 9, 0, 5, 7, 9, 0"`   | `"1"`  | `"10"`      |
-| No way                                                 | `"0, 0, 0, 0"`                                                                  | `"0"`  | `"1"`       |
+| Description | Matrix | Source | Destination |
+| ----------- | ------ | ------ | ----------- |
+| No Input |  |  |  |
+| Empty Input | "" | "" | "" |
+| Non-Square Input | "1, 0, 3, 0, 5, 1" | "1" | "2" |
+| No Destination | "0, 2, 0, 6, 0, 2, 0, 3, 8, 5, 0, 3, 0, 0, 7, 6, 8, 0, 0, 9, 0, 5, 7, 9, 0" | "0" | "" |
+| No Source Or Destination | "0, 2, 0, 6, 0, 2, 0, 3, 8, 5, 0, 3, 0, 0, 7, 6, 8, 0, 0, 9, 0, 5, 7, 9, 0" | "" | "" |
+| Source Or Destination < 0 | "0, 2, 0, 6, 0, 2, 0, 3, 8, 5, 0, 3, 0, 0, 7, 6, 8, 0, 0, 9, 0, 5, 7, 9, 0" | "-1" | "2" |
+| Weight < 0 | "0, 2, 0, -6, 0, 2, 0, 3, 8, 5, 0, 3, 0, 0, 7, -6, 8, 0, 0, 9, 0, 5, 7, 9, 0" | "1" | "2" |
+| Source Or Destination > Number Of Vertices | "0, 2, 0, -6, 0, 2, 0, 3, 8, 5, 0, 3, 0, 0, 7, -6, 8, 0, 0, 9, 0, 5, 7, 9, 0" | "1" | "10" |
+| No Way | "0, 0, 0, 0" | "0" | "1" |
 
-All invalid tests should spit out a usage statement in the following form: 
+All of these tests should output the following:
 
 ```
 Usage: please provide three inputs: a serialized matrix, a source node and a destination node

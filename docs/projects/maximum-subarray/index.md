@@ -41,18 +41,35 @@ Also note that if the input string is empty, then the output is "Usage: Please p
 
 ## Testing
 
-Some tests for your program are:
+Every project in the [Sample Programs repo](https://github.com/TheRenegadeCoder/sample-programs) should be tested.
+In this section, we specify the set of tests specific to Maximum Subarray.
+In order to keep things simple, we split up the testing as follows:
 
-| Description                                                  | Input                     | Output                                                                                       |
-| :----------------------------------------------------------- | :------------------------ | :------------------------------------------------------------------------------------------- |
-| No input                                                     |                           | Usage: Please provide a list of integers in the format: "1, 2, 3, 4, 5" |
-| Empty input                                                  | " "                       | Usage: Please provide a list of integers in the format: "1, 2, 3, 4, 5" |
-| Sample Input: Array with size 1                              | 1                         | 1                                                                                            |
-| Sample Input: Array with no negative integers                | "1, 2, 3"                 | 6                                                                                            |
-| Sample Input: Array with all negative integers               | "-1, -2, -3"              | -1                                                                                           |
-| Sample Input: Array with both positive and negative integers | "-2, -1, 3, 4, 5"         | 12                                                                                           |
-| Sample Input: Array with both positive and negative integers | "-1, -4, 2, 3, -3, -4, 9" | 9                                                                                            |
-| Sample Input: Array with both positive and negative integers | "-1, -4, 2, 9, -3, -4, 9" | 13                                                                                           |
+- Maximum Subarray Valid Tests
+- Maximum Subarray Invalid Tests
+
+### Maximum Subarray Valid Tests
+
+| Description | Input | Output |
+| ----------- | ----- | ------ |
+| Sample Input: One Element | "1" | "1" |
+| Sample Input: Many Positive Values | "1, 2, 3" | "6" |
+| Sample Input: Many Negative Values | "-1, -2, -3" | "-1" |
+| Sample Input: Many Negative Followed By Positive Values | "-2, -1, 3, 4, 5" | "12" |
+| Sample Input: Many Alternating Positive And Negative Values | "-1, -4, 2, 3, -3, -4, 9" | "9" |
+
+### Maximum Subarray Invalid Tests
+
+| Description | Input |
+| ----------- | ----- |
+| No Input |  |
+| Empty Input | "" |
+
+All of these tests should output the following:
+
+```
+Usage: Please provide a list of integers in the format: "1, 2, 3, 4, 5"
+```
 
 
 ## Articles

@@ -43,19 +43,43 @@ return a string with all of the spaces removed.
 
 ## Testing
 
-The following table contains various test cases that you can use to verify the correctness of your solution:
+Every project in the [Sample Programs repo](https://github.com/TheRenegadeCoder/sample-programs) should be tested.
+In this section, we specify the set of tests specific to Remove All Whitespace.
+In order to keep things simple, we split up the testing as follows:
 
-| Description                    | Input                          | Output                           |
-|--------------------------------|--------------------------------|----------------------------------|
-| No Input                       |                                | "Usage: please provide a string" |
-| Empty Input                    | ""                             | "Usage: please provide a string" |
-| Sample Input: No Spaces        | "RemoveAllWhitespace"          | "RemoveAllWhitespace"            |
-| Sample Input: Leading Spaces   | "      RemoveAllWhitespace"    | "RemoveAllWhitespace"            |
-| Sample Input: Trailing Spaces  | "RemoveAllWhitespace      "    | "RemoveAllWhitespace"            |
-| Sample Input: Inner Spaces     | "Remove    All   Whitespace"   | "RemoveAllWhitespace"            |
-| Sample Input: Tabs             | "\tRemove\tAll\tWhitespace\t"  | "RemoveAllWhitespace"            |
-| Sample Input: Newlines         | "\nRemove\nAll\nWhitespace\n"  | "RemoveAllWhitespace"            |
-| Sample Input: Carriage Returns | "\rRemove\rAll\rWhitespace\r"  | "RemoveAllWhitespace"            |
+- Remove All Whitespace Valid Tests
+- Remove All Whitespace Invalid Tests
+
+### Remove All Whitespace Valid Tests
+
+| Description | Input |
+| ----------- | ----- |
+| Sample Input: No Spaces | "RemoveAllWhitespace" |
+| Sample Input: Leading Spaces | "    RemoveAllWhitespace" |
+| Sample Input: Trailing Spaces | "RemoveAllWhitespace    " |
+| Sample Input: Inner Spaces | "Remove All Whitespace" |
+| Sample Input: Tabs | "\tRemove\tAll\tWhitespace\t" |
+| Sample Input: Newlines | "\nRemove\nAll\nWhitespace\n" |
+| Sample Input: Carriage Returns | "\rRemove\rAll\rWhitespace\r" |
+
+All of these tests should output the following:
+
+```
+RemoveAllWhitespace
+```
+
+### Remove All Whitespace Invalid Tests
+
+| Description | Input |
+| ----------- | ----- |
+| No Input |  |
+| Empty Input | "" |
+
+All of these tests should output the following:
+
+```
+Usage: please provide a string
+```
 
 
 ## Articles
