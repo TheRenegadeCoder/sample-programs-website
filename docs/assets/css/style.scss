@@ -8,6 +8,16 @@ $brand-color: #c90229;
 
 @import "{{ site.theme }}";
 
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+
+sub {
+  vertical-align: sub;
+  font-size: smaller;
+}
+
 .breadcrumb {
   list-style: none;
   border-radius: 4px;
