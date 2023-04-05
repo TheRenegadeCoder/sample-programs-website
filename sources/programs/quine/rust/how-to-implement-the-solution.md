@@ -1,7 +1,7 @@
 Let's break this down. In Rust, the `println!` function displays the desired text
 with a newline. The first argument of `println!` is either an ordinary string or
-a format string. If it is a format string, the subsequence arguments are values
-to be formatted. Format string in Rust are rather complex and powerful. Let's take
+a format string. If it is a format string, the subsequent arguments are values
+to be formatted. Format strings in Rust are rather complex and powerful. Let's take
 a look at this particular one: `{0:?}`. This shows an item in its natural form.
 For strings, this shows the string enclosed in double quotes. Since format strings
 are enclosed in braces (`{}`), if you want to print a brace, you need to specify
@@ -28,7 +28,7 @@ That corresponds to the left-hand side of the program (keeping in mind that
 )}}
 ```
 
-That corresponses to the right-hand side of the program (`}}` results in `}`).
+That corresponds to the right-hand side of the program (`}}` results in `}`).
 If you put this all together, you get this output:
 
 ```rust
