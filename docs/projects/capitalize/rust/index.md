@@ -3,7 +3,7 @@
 title: Capitalize in Rust
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-04
+last-modified: 2023-04-05
 
 ---
 
@@ -20,7 +20,12 @@ Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [R
 // Best part of Rust compiler issues warning to remove unused variables, functions, ...
 fn main() {
     //confirm string is passed as commandline argument
-    let mut input_value = std::env::args().nth(1).expect("Kindly pass the string as Command line Argument");
+    let mut input_value = std::env::args().nth(1).unwrap_or_else(|| "".to_string());
+    if input_value.len() < 1 {
+        println!("Usage: please provide a string");
+        std::process::exit(0);
+    }
+
     // Trim the trailing newline
     input_value = input_value.trim_end().to_string();
     // convert to vector
@@ -31,7 +36,7 @@ fn main() {
     let buff_hold: String = buff.into_iter().collect();
     // {} will print string without double quotes {:?} will print string with double quotes
     println!("{}", buff_hold);
-    }
+}
 ```
 
 {% endraw %}
@@ -39,10 +44,11 @@ fn main() {
 [Capitalize](https://sampleprograms.io/projects/capitalize) in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Mallikarjuna S J
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 31 2019 16:04:02. The solution was first committed on Oct 26 2019 23:33:47. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 04 2023 17:31:25. The solution was first committed on Oct 26 2019 23:33:47. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

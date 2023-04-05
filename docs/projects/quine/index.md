@@ -58,6 +58,7 @@ Verify that the actual output matches the expected output
 - [Quine in Php](https://sampleprograms.io/projects/quine/php)
 - [Quine in Python](https://sampleprograms.io/projects/quine/python)
 - [Quine in Ruby](https://sampleprograms.io/projects/quine/ruby)
+- [Quine in Rust](https://sampleprograms.io/projects/quine/rust)
 
 ---
 

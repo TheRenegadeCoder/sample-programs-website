@@ -3,7 +3,7 @@
 title: Roman Numeral in Rust
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-04
+last-modified: 2023-04-05
 
 ---
 
@@ -20,13 +20,18 @@ fn main() {
     let args: Vec<String> = env::args().collect();
 
     if args.len() < 2 {
-        println!("Usage: {} ROMAN NUMERAL", args[0]);
+        println!("Usage: please provide a string of roman numerals");
     } else {
-        println!("{}", convert_roman_numeral(&args[1]));
+        let value: i64 = convert_roman_numeral(&args[1]);
+        if value < 0 {
+            println!("Error: invalid string of roman numerals");
+        } else {
+            println!("{value}");
+        }
     }
 }
 
-fn convert_char(c: char) -> u64 {
+fn convert_char(c: char) -> i64 {
     if c == 'I' {
         return 1;
     } else if c == 'V' {
@@ -42,14 +47,26 @@ fn convert_char(c: char) -> u64 {
     } else if c == 'M' {
         return 1000;
     } else {
-        return 0;
+        return -1;
     }
 }
 
-fn convert_roman_numeral(s: &String) -> u64 {
-    let mut number = 0u64;
+fn convert_roman_numeral(s: &String) -> i64 {
+    let mut number: i64 = 0;
+    let mut prev_value: i64 = 0;
     for c in s.as_bytes() {
-        number += convert_char(*c as char)
+        let value = convert_char(*c as char);
+        if value < 0 {
+            number = value;
+            break;
+        }
+        number += value;
+        if prev_value > 0 && value > prev_value {
+            number -= 2*prev_value;
+            prev_value = 0;
+        } else {
+            prev_value = value;
+        }
     }
 
     number
@@ -61,8 +78,11 @@ fn convert_roman_numeral(s: &String) -> u64 {
 [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Noah Nichols
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 04 2023 17:31:25. The solution was first committed on Oct 12 2018 18:00:40. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 
