@@ -1,7 +1,3 @@
-```rust
-fn main(){println!("fn main(){{println!({0:?},{0:?})}}","fn main(){{println!({0:?},{0:?})}}")}
-```
-
 Let's break this down. In Rust, the `println!` function displays the desired text
 with a newline. The first argument of `println!` is either an ordinary string or
 a format string. If it is a format string, the subsequence arguments are values
