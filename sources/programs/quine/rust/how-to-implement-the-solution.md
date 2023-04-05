@@ -1,11 +1,21 @@
 Let's break this down. In Rust, the `println!` function displays the desired text
 with a newline. The first argument of `println!` is either an ordinary string or
 a format string. If it is a format string, the subsequent arguments are values
-to be formatted. Format strings in Rust are rather complex and powerful. Let's take
-a look at this particular one: `{0:?}`. This shows an item in its natural form.
-For strings, this shows the string enclosed in double quotes. Since format strings
-are enclosed in braces (`{}`), if you want to print a brace, you need to specify
-the brace twice (`{{` or `}}`).
+to be formatted. Format strings in Rust are rather complex and powerful. If you
+want to learn more about this, see the
+[official Rust documentation](https://doc.rust-lang.org/std/fmt/).
+
+Let's take at look at this particular one: 
+
+```
+{0:?}
+```
+
+* All format strings are enclosed in braces `{}`.
+* `0` means the first (zeroth in 0-based counting) argument after the format
+  string.
+* `:?` shows an item in its natural form. For strings, this shows the value
+  enclosed in double quotes.
 
 You'll notice that both the format string and the value to be formatted are
 identical:
@@ -14,22 +24,26 @@ identical:
 "fn main(){{println!({0:?},{0:?})}}"
 ```
 
-In other words, we're using the format string to format itself! You'll notice
-that the left side of that string is this:
+In other words, we're using the format string to format itself! Notice that
+`{{` and `}}` are used in this format string. These display `{` and `}`,
+respectively. The braces have to be doubled up since, as mentioned above, all
+format string are enclosed in braces.
+
+Notice that the left side of that string is this:
 
 ```
 fn main(){{println!(
 ```
 
-That corresponds to the left-hand side of the program (keeping in mind that
-`{{` results in `{`). The right-hand side of that string is this:
+That corresponds to the left-hand side of the program. The right-hand side of
+that string is this:
 
 ```
 )}}
 ```
 
-That corresponds to the right-hand side of the program (`}}` results in `}`).
-If you put this all together, you get this output:
+That corresponds to the right-hand side of the program. If you put this all
+together, you will get this output:
 
 ```rust
 fn main(){println!("fn main(){{println!({0:?},{0:?})}}","fn main(){{println!({0:?},{0:?})}}")}
