@@ -26,7 +26,3 @@ github:
   zip_url: https://github.com/TheRenegadeCoder/sample-programs-website/zipball/main
   tar_url: https://github.com/TheRenegadeCoder/sample-programs-website/tarball/main
   repository_url: https://github.com/TheRenegadeCoder/sample-programs-website
-
-# Markdown settings
-kramdown:
-    smart_quotes: apos,apos,quot,quot

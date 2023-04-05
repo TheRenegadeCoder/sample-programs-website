@@ -3,7 +3,7 @@
 title: Fibonacci in Rust
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-05
+last-modified: 2023-04-04
 
 ---
 
@@ -14,52 +14,42 @@ Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Rus
 {% raw %}
 
 ```rust
-use std::env::args;
-use std::process::exit;
-use std::num::ParseIntError;
+const LIMIT: u64 = 93;
 
-const LIMIT: i32 = 93;
-
-fn usage() -> ! {
-    println!("Usage: please input the count of fibonacci numbers to output");
-    exit(0);
-}
-
-fn parse_int(s: String) -> Result<i32, ParseIntError> {
-    s.trim().parse::<i32>()
-}
-
-fn fibonacci(terms: i32) {
+fn fibonacci(terms: u64) {
     if terms > LIMIT {
         println!("The number of terms you want to calculate is too big!");
         println!("The limit is {}.", LIMIT);
     } else {
+        println!("\n");
+        let mut i = 0u64;
         let mut a = 0u64;
         let mut b = 1u64;
         let mut c = 0u64;
-        for i in 1..(terms + 1) {
+        while i < terms {
+            println!("{}", c);
+
             c = a + b;
             b = a;
             a = c;
-
-            println!("{i}: {c}");
+            
+            i += 1;
         }
     }
 }
 
 fn main() {
-    // Exit if 1st command-line argument not an integer
-    let mut input_value: Result<i32, ParseIntError> = parse_int(
-        args().nth(1).unwrap_or_else(|| usage())
-    );
-    if input_value.is_err() {
-        usage();
+    let mut terms = String::new();
+    let mut terms_n: u64 = 0;
+
+    if std::io::stdin().read_line(&mut terms).is_err() {
+        println!("Could not read from keyboard!");
+    } else {
+        terms.pop();
+        terms_n = terms.parse().unwrap();
     }
 
-    let input_num: i32 = input_value.unwrap();
-
-    // Show request number of Fibonacci numbers
-    fibonacci(input_num);
+    fibonacci(terms_n);
 }
 ```
 
@@ -68,11 +58,10 @@ fn main() {
 [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Noah Nichols
-- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 04 2023 17:31:25. The solution was first committed on Oct 05 2018 09:33:10. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 05 2018 10:31:35. The solution was first committed on Oct 05 2018 09:33:10. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 
