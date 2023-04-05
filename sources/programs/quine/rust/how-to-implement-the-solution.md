@@ -5,7 +5,7 @@ to be formatted. Format strings in Rust are rather complex and powerful. Let's t
 a look at this particular one: `{0:?}`. This shows an item in its natural form.
 For strings, this shows the string enclosed in double quotes. Since format strings
 are enclosed in braces (`{}`), if you want to print a brace, you need to specify
-the brace twice (``{{` or `}}`).
+the brace twice (`{{` or `}}`).
 
 You'll notice that both the format string and the value to be formatted are
 identical:
