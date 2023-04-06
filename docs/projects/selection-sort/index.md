@@ -167,6 +167,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 - [Selection Sort in Matlab](https://sampleprograms.io/projects/selection-sort/matlab)
 - [Selection Sort in Php](https://sampleprograms.io/projects/selection-sort/php)
 - [Selection Sort in Python](https://sampleprograms.io/projects/selection-sort/python)
+- [Selection Sort in Rust](https://sampleprograms.io/projects/selection-sort/rust)
 
 ---
 

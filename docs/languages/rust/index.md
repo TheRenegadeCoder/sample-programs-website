@@ -51,4 +51,5 @@ In terms of syntax, Rust resembles languages like [C][3] and [C++][4], but it bo
 - [Reverse String in Rust](https://sampleprograms.io/projects/reverse-string/rust)
 - [Roman Numeral in Rust](https://sampleprograms.io/projects/roman-numeral/rust)
 - [Rot13 in Rust](https://sampleprograms.io/projects/rot13/rust)
+- [Selection Sort in Rust](https://sampleprograms.io/projects/selection-sort/rust)
 - [Sleep Sort in Rust](https://sampleprograms.io/projects/sleep-sort/rust)
