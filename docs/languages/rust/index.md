@@ -33,6 +33,7 @@ In terms of syntax, Rust resembles languages like [C][3] and [C++][4], but it bo
 
 ## Articles
 
+- [Baklava in Rust](https://sampleprograms.io/projects/baklava/rust)
 - [Binary Search in Rust](https://sampleprograms.io/projects/binary-search/rust)
 - [Bubble Sort in Rust](https://sampleprograms.io/projects/bubble-sort/rust)
 - [Capitalize in Rust](https://sampleprograms.io/projects/capitalize/rust)
@@ -46,6 +47,7 @@ In terms of syntax, Rust resembles languages like [C][3] and [C++][4], but it bo
 - [Merge Sort in Rust](https://sampleprograms.io/projects/merge-sort/rust)
 - [Prime Number in Rust](https://sampleprograms.io/projects/prime-number/rust)
 - [Quick Sort in Rust](https://sampleprograms.io/projects/quick-sort/rust)
+- [Quine in Rust](https://sampleprograms.io/projects/quine/rust)
 - [Reverse String in Rust](https://sampleprograms.io/projects/reverse-string/rust)
 - [Roman Numeral in Rust](https://sampleprograms.io/projects/roman-numeral/rust)
 - [Rot13 in Rust](https://sampleprograms.io/projects/rot13/rust)

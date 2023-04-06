@@ -98,6 +98,7 @@ Verify that the actual output matches the expected output
 - [Baklava in Php](https://sampleprograms.io/projects/baklava/php)
 - [Baklava in Python](https://sampleprograms.io/projects/baklava/python)
 - [Baklava in Ruby](https://sampleprograms.io/projects/baklava/ruby)
+- [Baklava in Rust](https://sampleprograms.io/projects/baklava/rust)
 - [Baklava in Solisp](https://sampleprograms.io/projects/baklava/solisp)
 - [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
 - [Baklava in Typescript](https://sampleprograms.io/projects/baklava/typescript)
