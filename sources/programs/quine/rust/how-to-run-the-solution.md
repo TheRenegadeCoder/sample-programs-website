@@ -5,6 +5,6 @@ and follow the installation instructions. From there, open a terminal, and
 run this command:
 
 ```
-rustc quine.eu
+rustc quine.rs
 ./quine
 ```
