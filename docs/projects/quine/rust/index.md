@@ -39,9 +39,9 @@ want to learn more about this, see the
 
 Let's take at look at this particular one: 
 
-```
+{% raw %}
 {0:?}
-```
+{% endraw %}
 
 * All format strings are enclosed in braces `{}`.
 * `0` means the first (zeroth in 0-based counting) argument after the format
@@ -52,9 +52,9 @@ Let's take at look at this particular one:
 You'll notice that both the format string and the value to be formatted are
 identical:
 
-```
+{% raw %}
 "fn main(){{println!({0:?},{0:?})}}"
-```
+{% endraw %}
 
 In other words, we're using the format string to format itself! Notice that
 `{{` and `}}` are used in this format string. These display `{` and `}`,
@@ -63,16 +63,16 @@ format string are enclosed in braces.
 
 Notice that the left side of that string is this:
 
-```
+{% raw %}
 fn main(){{println!(
-```
+{% endraw %}
 
 That corresponds to the left-hand side of the program. The right-hand side of
 that string is this:
 
-```
+{% raw %}
 )}}
-```
+{% endraw %}
 
 That corresponds to the right-hand side of the program. If you put this all
 together, you will get this output:
