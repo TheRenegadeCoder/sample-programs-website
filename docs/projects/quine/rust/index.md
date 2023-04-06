@@ -61,9 +61,22 @@ identical:
 {% endraw %}
 
 In other words, we're using the format string to format itself! Notice that
-`{{` and `}}` are used in this format string. These display `{` and `}`,
-respectively. The braces have to be doubled up since, as mentioned above, all
-format string are enclosed in braces.
+these characters are used in this format string:
+
+{% raw %}
+* `{{`
+* `}}`
+{% endraw %}
+
+These display like this, respectively:
+
+{% raw %}
+* `{`
+* `}`
+{% endraw %}
+
+The braces have to be doubled up since, as mentioned above, all format string
+are enclosed in braces.
 
 Notice that the left side of that string is this:
 
