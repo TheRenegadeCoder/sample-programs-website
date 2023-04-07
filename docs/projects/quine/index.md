@@ -60,7 +60,7 @@ Verify that the actual output matches the expected output
 - [Quine in Ruby](https://sampleprograms.io/projects/quine/ruby)
 - [Quine in Rust](https://sampleprograms.io/projects/quine/rust)
 
----
+***
 
 <nav class="project-nav">
 

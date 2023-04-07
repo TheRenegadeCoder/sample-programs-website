@@ -141,7 +141,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 - [Insertion Sort in Python](https://sampleprograms.io/projects/insertion-sort/python)
 - [Insertion Sort in Rust](https://sampleprograms.io/projects/insertion-sort/rust)
 
----
+***
 
 <nav class="project-nav">
 

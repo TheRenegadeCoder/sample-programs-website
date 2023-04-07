@@ -198,7 +198,7 @@ Verify that the actual output matches the expected output
 - [Hello World in Wyvern](https://sampleprograms.io/projects/hello-world/wyvern)
 - [Hello World in Zig](https://sampleprograms.io/projects/hello-world/zig)
 
----
+***
 
 <nav class="project-nav">
 

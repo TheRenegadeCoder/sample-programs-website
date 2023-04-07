@@ -85,7 +85,7 @@ Usage: please input a non-negative integer
 - [Palindromic Number in Php](https://sampleprograms.io/projects/palindromic-number/php)
 - [Palindromic Number in Python](https://sampleprograms.io/projects/palindromic-number/python)
 
----
+***
 
 <nav class="project-nav">
 

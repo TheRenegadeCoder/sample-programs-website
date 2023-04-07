@@ -103,7 +103,7 @@ Verify that the actual output matches the expected output
 - [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
 - [Baklava in Typescript](https://sampleprograms.io/projects/baklava/typescript)
 
----
+***
 
 <nav class="project-nav">
 

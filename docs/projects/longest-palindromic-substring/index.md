@@ -114,7 +114,7 @@ Usage: please provide a string that contains at least one palindrome
 - [Longest Palindromic Substring in Php](https://sampleprograms.io/projects/longest-palindromic-substring/php)
 - [Longest Palindromic Substring in Python](https://sampleprograms.io/projects/longest-palindromic-substring/python)
 
----
+***
 
 <nav class="project-nav">
 

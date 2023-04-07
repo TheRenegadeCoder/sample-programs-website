@@ -101,7 +101,7 @@ In this section, we specify the set of tests specific to Reverse String.
 - [Reverse String in Vimscript](https://sampleprograms.io/projects/reverse-string/vimscript)
 - [Reverse String in Visual Basic](https://sampleprograms.io/projects/reverse-string/visual-basic)
 
----
+***
 
 <nav class="project-nav">
 

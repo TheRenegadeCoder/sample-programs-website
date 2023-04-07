@@ -3,7 +3,7 @@
 title: Longest Common Subsequence in Algol68
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-06
+last-modified: 2023-04-07
 
 ---
 

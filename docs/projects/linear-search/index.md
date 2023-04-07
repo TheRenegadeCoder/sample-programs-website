@@ -124,7 +124,7 @@ Usage: please provide a list of integers ("1, 4, 5, 11, 12") and the integer to 
 - [Linear Search in Php](https://sampleprograms.io/projects/linear-search/php)
 - [Linear Search in Python](https://sampleprograms.io/projects/linear-search/python)
 
----
+***
 
 <nav class="project-nav">
 

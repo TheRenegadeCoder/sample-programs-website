@@ -71,7 +71,7 @@ Verify that the actual output matches the expected output
 - [File Input Output in Rust](https://sampleprograms.io/projects/file-input-output/rust)
 - [File Input Output in Scala](https://sampleprograms.io/projects/file-input-output/scala)
 
----
+***
 
 <nav class="project-nav">
 

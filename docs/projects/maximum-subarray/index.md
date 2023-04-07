@@ -80,7 +80,7 @@ Usage: Please provide a list of integers in the format: "1, 2, 3, 4, 5"
 - [Maximum Subarray in Php](https://sampleprograms.io/projects/maximum-subarray/php)
 - [Maximum Subarray in Python](https://sampleprograms.io/projects/maximum-subarray/python)
 
----
+***
 
 <nav class="project-nav">
 

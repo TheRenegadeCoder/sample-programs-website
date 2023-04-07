@@ -91,7 +91,7 @@ Usage: please provide a string
 - [Remove All Whitespace in Php](https://sampleprograms.io/projects/remove-all-whitespace/php)
 - [Remove All Whitespace in Python](https://sampleprograms.io/projects/remove-all-whitespace/python)
 
----
+***
 
 <nav class="project-nav">
 

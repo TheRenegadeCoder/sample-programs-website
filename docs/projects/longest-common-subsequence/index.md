@@ -100,7 +100,7 @@ Usage: please provide two lists in the format "1, 2, 3, 4, 5"
 - [Longest Common Subsequence in Php](https://sampleprograms.io/projects/longest-common-subsequence/php)
 - [Longest Common Subsequence in Python](https://sampleprograms.io/projects/longest-common-subsequence/python)
 
----
+***
 
 <nav class="project-nav">
 

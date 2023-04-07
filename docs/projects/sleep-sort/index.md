@@ -82,7 +82,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 - [Sleep Sort in Python](https://sampleprograms.io/projects/sleep-sort/python)
 - [Sleep Sort in Rust](https://sampleprograms.io/projects/sleep-sort/rust)
 
----
+***
 
 <nav class="project-nav">
 

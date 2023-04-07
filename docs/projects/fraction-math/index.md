@@ -87,7 +87,7 @@ Usage: ./fraction-math operand1 operator operand2
 - [Fraction Math in Python](https://sampleprograms.io/projects/fraction-math/python)
 - [Fraction Math in Swift](https://sampleprograms.io/projects/fraction-math/swift)
 
----
+***
 
 <nav class="project-nav">
 

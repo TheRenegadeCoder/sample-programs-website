@@ -3,7 +3,7 @@
 title: Reverse String in Powershell
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-06
+last-modified: 2023-04-07
 
 ---
 
@@ -14,7 +14,7 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 {% raw %}
 
 ```powershell
-﻿<#
+<#
 .SYNOPSIS
   A simple script for reversing a String.
 
@@ -60,8 +60,11 @@ Write-Host $StringBuilder.ToString()
 [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
 
 - Devin Leaman
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 06 2023 22:52:03. The solution was first committed on May 28 2018 19:52:57. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

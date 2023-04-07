@@ -90,7 +90,7 @@ Usage: please input the total number of people and number of people to skip.
 - [Josephus Problem in Php](https://sampleprograms.io/projects/josephus-problem/php)
 - [Josephus Problem in Python](https://sampleprograms.io/projects/josephus-problem/python)
 
----
+***
 
 <nav class="project-nav">
 

@@ -110,7 +110,7 @@ Usage: please provide a string
 - [Capitalize in Scala](https://sampleprograms.io/projects/capitalize/scala)
 - [Capitalize in Typescript](https://sampleprograms.io/projects/capitalize/typescript)
 
----
+***
 
 <nav class="project-nav">
 

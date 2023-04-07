@@ -109,7 +109,7 @@ Usage: please input the count of fibonacci numbers to output
 - [Fibonacci in Typescript](https://sampleprograms.io/projects/fibonacci/typescript)
 - [Fibonacci in Verilog](https://sampleprograms.io/projects/fibonacci/verilog)
 
----
+***
 
 <nav class="project-nav">
 

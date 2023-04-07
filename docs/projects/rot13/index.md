@@ -103,7 +103,7 @@ Usage: please provide a string to encrypt
 - [Rot13 in Python](https://sampleprograms.io/projects/rot13/python)
 - [Rot13 in Rust](https://sampleprograms.io/projects/rot13/rust)
 
----
+***
 
 <nav class="project-nav">
 

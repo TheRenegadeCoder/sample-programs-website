@@ -105,7 +105,7 @@ In order to keep things simple, we split up the testing as follows:
 - [Roman Numeral in Ruby](https://sampleprograms.io/projects/roman-numeral/ruby)
 - [Roman Numeral in Rust](https://sampleprograms.io/projects/roman-numeral/rust)
 
----
+***
 
 <nav class="project-nav">
 

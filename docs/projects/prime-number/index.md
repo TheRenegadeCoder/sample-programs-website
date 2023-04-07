@@ -96,7 +96,7 @@ Usage: please input a non-negative integer
 - [Prime Number in Rexx](https://sampleprograms.io/projects/prime-number/rexx)
 - [Prime Number in Rust](https://sampleprograms.io/projects/prime-number/rust)
 
----
+***
 
 <nav class="project-nav">
 

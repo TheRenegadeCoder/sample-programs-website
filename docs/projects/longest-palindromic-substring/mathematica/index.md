@@ -3,7 +3,7 @@
 title: Longest Palindromic Substring in Mathematica
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-06
+last-modified: 2023-04-07
 
 ---
 

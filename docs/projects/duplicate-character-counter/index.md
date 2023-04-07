@@ -73,7 +73,7 @@ Usage: please provide a string
 - [Duplicate Character Counter in Php](https://sampleprograms.io/projects/duplicate-character-counter/php)
 - [Duplicate Character Counter in Python](https://sampleprograms.io/projects/duplicate-character-counter/python)
 
----
+***
 
 <nav class="project-nav">
 

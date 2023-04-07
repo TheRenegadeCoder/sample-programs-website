@@ -112,7 +112,7 @@ Usage: please provide a list of profits and a list of deadlines
 - [Job Sequencing in Php](https://sampleprograms.io/projects/job-sequencing/php)
 - [Job Sequencing in Python](https://sampleprograms.io/projects/job-sequencing/python)
 
----
+***
 
 <nav class="project-nav">
 

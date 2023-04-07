@@ -140,7 +140,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 - [Quick Sort in Rust](https://sampleprograms.io/projects/quick-sort/rust)
 - [Quick Sort in Scala](https://sampleprograms.io/projects/quick-sort/scala)
 
----
+***
 
 <nav class="project-nav">
 

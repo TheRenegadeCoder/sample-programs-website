@@ -3,7 +3,7 @@
 title: Hello World in Autohotkey
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-06
+last-modified: 2023-04-07
 
 ---
 
@@ -14,7 +14,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```autohotkey
-﻿MsgBox, 0x30, Sample Programs, Hello, World!
+MsgBox, 0x30, Sample Programs, Hello, World!
 ```
 
 {% endraw %}

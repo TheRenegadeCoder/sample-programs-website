@@ -101,7 +101,7 @@ Usage: please input a non-negative integer
 - [Factorial in Rust](https://sampleprograms.io/projects/factorial/rust)
 - [Factorial in Scala](https://sampleprograms.io/projects/factorial/scala)
 
----
+***
 
 <nav class="project-nav">
 

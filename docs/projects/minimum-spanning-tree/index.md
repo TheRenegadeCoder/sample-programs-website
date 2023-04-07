@@ -111,7 +111,7 @@ Usage: please provide a comma-separated list of integers
 - [Minimum Spanning Tree in Php](https://sampleprograms.io/projects/minimum-spanning-tree/php)
 - [Minimum Spanning Tree in Python](https://sampleprograms.io/projects/minimum-spanning-tree/python)
 
----
+***
 
 <nav class="project-nav">
 

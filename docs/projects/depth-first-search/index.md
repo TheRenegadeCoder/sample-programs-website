@@ -119,7 +119,7 @@ Usage: please provide a tree in an adjacency matrix form ("0, 1, 1, 0, 0, 1, 0, 
 - [Depth First Search in Php](https://sampleprograms.io/projects/depth-first-search/php)
 - [Depth First Search in Python](https://sampleprograms.io/projects/depth-first-search/python)
 
----
+***
 
 <nav class="project-nav">
 

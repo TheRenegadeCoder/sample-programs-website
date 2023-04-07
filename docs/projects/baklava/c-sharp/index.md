@@ -3,7 +3,7 @@
 title: Baklava in C#
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-06
+last-modified: 2023-04-07
 
 ---
 
@@ -14,7 +14,7 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [C#](htt
 {% raw %}
 
 ```c#
-﻿using System;
+using System;
 
 class CSharp
 {
@@ -44,6 +44,8 @@ class CSharp
 - Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 06 2023 22:50:37. The solution was first committed on Sep 17 2018 16:48:59. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -102,7 +102,7 @@ Usage: please input a number
 - [Even Odd in Scala](https://sampleprograms.io/projects/even-odd/scala)
 - [Even Odd in Swift](https://sampleprograms.io/projects/even-odd/swift)
 
----
+***
 
 <nav class="project-nav">
 
