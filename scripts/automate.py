@@ -71,12 +71,12 @@ def _add_project_article_section(doc: snakemd.Document, repo: subete.Repo, proje
     articles = []
     for lang in repo:
         try:
-            program: subete.Project = lang[project.name()]
+            program: subete.SampleProgram = lang[project.name()]
         except KeyError:
             continue
         link = snakemd.Inline(
             str(program),
-            url=program.documentation_url()
+            link=program.documentation_url()
         )
         articles.append(link)
     if len(articles) > 0:
@@ -146,7 +146,7 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
     ) \
         .insert_link(program.language_name(), program.language_collection().lang_docs_url()) \
         .insert_link(program.project_name(), program.project().requirements_url())
-    doc.add_block("Current Solution", level=2)
+    doc.add_heading("Current Solution", level=2)
     doc.add_paragraph("{% raw %}")
     doc.add_code(program.code().strip(), lang=program.language_name().lower())
     doc.add_paragraph("{% endraw %}")
@@ -190,7 +190,7 @@ def _generate_project_index(project: subete.Project, previous: subete.Project, n
     :param subete.Project project: the project to create the index file 
         for in the normalized form (e.g., hello-world).
     """
-    doc: snakemd.Document = snakemd.new_doc("index")
+    doc: snakemd.Document = snakemd.new_doc()
     root_path = pathlib.Path(f"projects/{project.pathlike_name()}")
     _generate_front_matter(
         doc,
