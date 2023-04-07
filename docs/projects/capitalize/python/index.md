@@ -1,5 +1,4 @@
 ---
-
 title: Capitalize in Python
 layout: default
 date: 2021-10-24
@@ -7,7 +6,6 @@ last-modified: 2021-10-24
 featured-image:
 tags: [capitalize, python]
 authors: [shubhragupta-code]
-
 ---
 
 Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

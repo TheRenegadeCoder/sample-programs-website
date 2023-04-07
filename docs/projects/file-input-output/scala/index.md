@@ -1,5 +1,4 @@
 ---
-
 title: File IO in Scala
 layout: default
 last-modified: 2020-05-02
@@ -7,7 +6,6 @@ featured-image:
 tags: [scala, file-io]
 authors:
   - veevidify
-
 ---
 
 Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Scala](https://sampleprograms.io/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.

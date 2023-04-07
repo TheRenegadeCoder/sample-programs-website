@@ -1,5 +1,4 @@
 ---
-
 title: Baklava in Kotlin
 layout: default
 date: 2020-10-22
@@ -7,7 +6,6 @@ featured-image: baklava-in-kotlin.jpg
 tags: [kotlin, baklava]
 authors:
   - stuin
-
 ---
 
 Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.

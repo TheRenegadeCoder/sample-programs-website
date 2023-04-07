@@ -1,5 +1,4 @@
 ---
-
 title: Hello World in MATLAB
 layout: default
 last-modified: 2020-05-02
@@ -7,7 +6,6 @@ featured-image: hello-world-in-matlab-featured-image.JPEG
 tags: [matlab, hello-world]
 author:
   - virtual_flat
-
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Matlab](https://sampleprograms.io/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.

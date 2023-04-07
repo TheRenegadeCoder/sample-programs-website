@@ -1,5 +1,4 @@
 ---
-
 title: Josephus Problem in Every Language
 
 layout: default
@@ -9,7 +8,6 @@ featured-image:
 tags: [josephus-problem]
 authors:
  - belide_aakash
-
 ---
 
 Welcome to the Josephus Problem page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

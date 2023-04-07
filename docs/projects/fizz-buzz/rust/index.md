@@ -1,5 +1,4 @@
 ---
-
 title: Fizz Buzz in Rust
 layout: default
 last-modified: 2021-12-11
@@ -7,7 +6,6 @@ featured-image: fizz-buzz.png
 tags: [rust, fizz-buzz]
 authors:
   - niftycode
-
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

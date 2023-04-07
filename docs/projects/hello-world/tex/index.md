@@ -1,12 +1,10 @@
 ---
-
 title: Hello World in Tex
 layout: default
 last-modified: 2020-09-30
 tags: [tex, hello-world]
 authors:
   - bracciata
-
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Tex](https://sampleprograms.io/languages/tex) page! Here, you'll find the source code for this program as well as a description of how the program works.

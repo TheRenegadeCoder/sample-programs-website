@@ -1,5 +1,4 @@
 ---
-
 title: Sleep Sort in Every Language
 layout: default
 date: 2019-10-08
@@ -8,7 +7,6 @@ featured-image:
 tags: [sleep-sort]
 authors:
   - agilob
-
 ---
 
 Welcome to the Sleep Sort page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

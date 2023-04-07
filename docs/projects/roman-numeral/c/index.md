@@ -1,5 +1,4 @@
 ---
-
 title: Roman Numeral in C  
 layout: default  
 date: 2021-10-27
@@ -8,7 +7,6 @@ featured-image:
 tags: [c, roman-numeral]  
 authors:
 - shubhragupta-code
-
 ---
 
 Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.

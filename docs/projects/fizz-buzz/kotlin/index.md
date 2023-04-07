@@ -1,5 +1,4 @@
 ---
-
 title: Fizz Buzz in Kotlin
 layout: default
 last-modified: 2020-05-02
@@ -7,7 +6,6 @@ featured-image: fizz-buzz.png
 tags: [kotlin, fizz-buzz]
 authors:
   - stuin
-
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.

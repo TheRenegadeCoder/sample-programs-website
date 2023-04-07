@@ -1,5 +1,4 @@
 ---
-
 title: Reverse a String in Java
 layout: default
 last-modified: 2020-05-02
@@ -7,7 +6,6 @@ featured-image:
 tags: [java, reverse-a-string]
 authors:
   - the_renegade_coder
-
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.

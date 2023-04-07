@@ -1,5 +1,4 @@
 ---
-
 title: The Julia Programming Language
 layout: default
 date: 2020-05-02
@@ -8,7 +7,6 @@ featured-image:
 tags: [julia]
 authors:
   - the_renegade_coder
-
 ---
 
 Welcome to the Julia page! Here, you'll find a description of the language as well as a list of sample programs in that language.

@@ -1,12 +1,10 @@
 ---
-
 title: The PowerShell Programming Language
 layout: default
 last-modified: 2020-05-02
 tags: [powershell]
 authors:
   - alcha
-
 ---
 
 Welcome to the Powershell page! Here, you'll find a description of the language as well as a list of sample programs in that language.

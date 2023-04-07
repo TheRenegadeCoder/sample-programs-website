@@ -1,5 +1,4 @@
 ---
-
 title: Hello World in Solidity
 layout: default
 last-modified: 2020-05-02
@@ -7,7 +6,6 @@ featured-image: hello-world-in-solidity-featured-image.JPEG
 tags: [solidity, hello-world]
 authors:
   - two_clutch
-
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Solidity](https://sampleprograms.io/languages/solidity) page! Here, you'll find the source code for this program as well as a description of how the program works.

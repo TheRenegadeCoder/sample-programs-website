@@ -1,5 +1,4 @@
 ---
-
 title: Reverse a String in C
 layout: default
 last-modified: 2020-10-01
@@ -7,7 +6,6 @@ featured-image: reverse-a-string-in-c.jpg
 tags: [c, reverse-a-string]
 authors:
   - abhishek_raut
-
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.

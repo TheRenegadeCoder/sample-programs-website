@@ -1,5 +1,4 @@
 ---
-
 title: Hello World in Kotlin
 layout: default
 last-modified: 2020-05-02
@@ -7,7 +6,6 @@ featured-image: hello-world-in-kotlin-featured-image.JPEG
 tags: [kotlin, hello-world]
 authors:
   - the_renegade_coder
-
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.

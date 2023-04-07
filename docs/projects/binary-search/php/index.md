@@ -1,10 +1,8 @@
 ---
-
 title: Binary Search in Php
 layout: default
 date: 2022-04-28
 last-modified: 2023-04-07
-
 ---
 
 Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

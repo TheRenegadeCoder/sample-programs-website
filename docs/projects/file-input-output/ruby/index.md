@@ -1,5 +1,4 @@
 ---
-
 title: File IO in Ruby
 layout: default
 last-modified: 2020-05-02
@@ -7,7 +6,6 @@ featured-image:
 tags: [ruby, file-io]
 authors:
   - noah11012
-
 ---
 
 Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.

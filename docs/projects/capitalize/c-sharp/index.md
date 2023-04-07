@@ -1,10 +1,8 @@
 ---
-
 title: Capitalize in C#
 layout: default
 date: 2022-04-28
 last-modified: 2023-04-07
-
 ---
 
 Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [C#](https://sampleprograms.io/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.

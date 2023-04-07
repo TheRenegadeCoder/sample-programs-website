@@ -1,5 +1,4 @@
 ---
-
 title: Job Sequencing with Deadlines in Every Language
 layout: default
 date: 2018-11-03
@@ -8,7 +7,6 @@ featured-image:
 tags: [job-sequencing]
 authors:
   - the_renegade_coder
-
 ---
 
 Welcome to the Job Sequencing page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

@@ -1,12 +1,10 @@
 ---
-
 title: Fibonacci in Python
 layout: default  
 last-modified: 2020-10-13
 featured-image:  
 tags: [python, fibonacci]  
 authors: [shubhragupta-code]
-
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

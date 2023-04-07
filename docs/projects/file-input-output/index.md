@@ -1,5 +1,4 @@
 ---
-
 title: File Input/Output in Every Language
 layout: default
 date: 2018-11-01
@@ -7,7 +6,6 @@ last-modified: 2020-05-02
 feature-image: file-io-in-every-language.jpg
 tags: [file-io]
 authors:
-
 ---
 
 Welcome to the File Input Output page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

@@ -1,5 +1,4 @@
 ---
-
 title: Merge Sort in Every Language 
 layout: default
 date: 2018-11-29
@@ -8,7 +7,6 @@ featured-image:
 tags: [merge-sort]
 authors:
   - auroq
-
 ---
 
 Welcome to the Merge Sort page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

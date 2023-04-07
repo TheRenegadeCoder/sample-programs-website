@@ -1,5 +1,4 @@
 ---
-
 title: Palindromic Number in Every Language
 layout: default
 date: 2020-10-07
@@ -9,7 +8,6 @@ tags: [palindromic-number]
 authors:
   - anohene1
   - the_renegade_coder
-
 ---
 
 Welcome to the Palindromic Number page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

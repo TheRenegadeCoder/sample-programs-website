@@ -1,5 +1,4 @@
 ---
-
 title: Prime Numbers in Every Language
 layout: default
 date: 2018-11-01
@@ -8,7 +7,6 @@ featured-image:
 tags: [prime-numbers]
 authors:
   - the_renegade_coder
-
 ---
 
 Welcome to the Prime Number page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

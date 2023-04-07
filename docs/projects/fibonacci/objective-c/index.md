@@ -1,10 +1,8 @@
 ---
-
 title: Fibonacci in Objective C
 layout: default
 date: 2022-04-28
 last-modified: 2023-04-07
-
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Objective C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.

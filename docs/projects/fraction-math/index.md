@@ -1,5 +1,4 @@
 ---
-
 title: Fraction Math in Every Language
 layout: default
 date: 2019-10-10
@@ -9,7 +8,6 @@ tags: [fractions]
 authors:
   - niraj-kamdar
   - the_renegade_coder
-
 ---
 
 Welcome to the Fraction Math page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

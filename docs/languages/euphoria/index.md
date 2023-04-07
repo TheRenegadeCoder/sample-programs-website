@@ -1,5 +1,4 @@
 ---
-
 title: The Euphoria Programming Language
 layout: default
 date: 2023-02-12
@@ -8,7 +7,6 @@ featured-image:
 tags: [euphoria]
 authors:
   - rzuckerm
-
 ---
 
 Welcome to the Euphoria page! Here, you'll find a description of the language as well as a list of sample programs in that language.

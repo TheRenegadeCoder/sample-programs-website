@@ -1,5 +1,4 @@
 ---
-
 title: Hello World in Every Language
 layout: default
 date: 2018-11-01
@@ -8,7 +7,6 @@ featured-image: hello-world-in-every-language-featured-image.JPEG
 tags: [hello-world]
 authors:
   - the_renegade_coder
-
 ---
 
 Welcome to the Hello World page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

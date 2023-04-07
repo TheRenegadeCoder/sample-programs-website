@@ -1,5 +1,4 @@
 ---
-
 title: Hello World in Erlang
 layout: default
 last-modified: 2020-05-02
@@ -8,7 +7,6 @@ tags: [erlang, hello-world]
 authors:
   - nickkeers
   - the_renegade_coder
-
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Erlang](https://sampleprograms.io/languages/erlang) page! Here, you'll find the source code for this program as well as a description of how the program works.

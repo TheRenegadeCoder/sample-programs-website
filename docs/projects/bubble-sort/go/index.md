@@ -1,5 +1,4 @@
 ---
-
 title: Bubble Sort in Go
 layout: default
 last-modified: 2020-09-30
@@ -7,7 +6,6 @@ featured-image: bubble-sort-in-every-language.jpg
 tags: [go, bubble-sort]
 authors:
   - bracciata
-
 ---
 
 Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,5 +1,4 @@
 ---
-
 title: Reverse a String in JavaScript
 layout: default
 last-modified: 2020-05-02
@@ -7,7 +6,6 @@ featured-image:
 tags: [javascript, reverse-a-string, string-reversal]
 authors:
   - herrfugbaum
-
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.

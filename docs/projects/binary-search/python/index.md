@@ -1,5 +1,4 @@
 ---
-
 title: Binary Search in Python
 layout: default
 last-modified: 2020-05-02
@@ -7,7 +6,6 @@ featured-image: binary-search-in-every-language.jpg
 tags: [python, binary_search]
 authors:
   - rayavarapuvikram1
-
 ---
 
 Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

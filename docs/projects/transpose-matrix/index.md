@@ -1,5 +1,4 @@
 ---
-
 title: Transpose Matrix in Every Language
 layout: default
 date: 2020-10-08
@@ -8,7 +7,6 @@ featured-image:
 tags: [transpose-matrix]
 authors: 
   - DedAvocado
-
 ---
 
 Welcome to the Transpose Matrix page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

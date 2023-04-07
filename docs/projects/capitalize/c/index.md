@@ -1,5 +1,4 @@
 ---
-
 title: Capitalize in C  
 layout: default  
 date: 2021-10-25
@@ -8,7 +7,6 @@ featured-image:
 tags: [c, capitalize]  
 authors:
 - shubhragupta-code
-
 ---
 
 Welcome to the [C](https://sampleprograms.io/languages/c)apitalize in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,12 +1,10 @@
 ---
-
 title: Even Odd in Python  
 layout: default  
 last-modified: 2020-05-02
 featured-image: even-odd-in-every-language-featured-image.JPEG 
 tags: [python, even-odd]  
 authors: [ MandyMericle ]
-
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,5 +1,4 @@
 ---
-
 title: Capitalize in Dart
 layout: default
 last-modified: 2020-05-02
@@ -7,7 +6,6 @@ featured-image:
 tags: [dart, capitalize]
 authors:
   - slashdoom
-
 ---
 
 Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
