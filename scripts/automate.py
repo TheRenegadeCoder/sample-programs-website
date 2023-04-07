@@ -107,7 +107,7 @@ def _add_language_article_section(doc: snakemd.Document, repo: subete.Repo, lang
     doc.add_block(snakemd.MDList(articles))
 
 
-def _generate_front_matter(doc: snakemd.Document, path: pathlib.Path, title: str):
+def _generate_front_matter(doc: snakemd.Document, path: pathlib.Path, title: str, image: str = None):
     """
     Takes the existing front matter and adds it to the document.
     If no front matter exists, a default one is created.
@@ -117,15 +117,20 @@ def _generate_front_matter(doc: snakemd.Document, path: pathlib.Path, title: str
     :param str title: the title of the document
     """
     source_path = pathlib.Path("sources") / path
-    doc.add_paragraph("---")
+    raw = ""
+    raw += "---\n"
     if source_path.exists():
-        doc._contents.append(source_path.read_text(encoding="utf-8").strip())
+        raw += source_path.read_text(encoding="utf-8").strip()
     else:
-        doc._contents.append(
-            f"title: {title}\nlayout: default\ndate: 2022-04-28\nlast-modified: {date.today().strftime('%Y-%m-%d')}"
-        )
+        raw += f"title: {title}\n"
+        raw += f"layout: default\n"
+        raw += f"date: 2022-04-28\n"
+        if image:
+            raw += f"featured-image: {image}\n"
+        raw += f"last-modified: {date.today().strftime('%Y-%m-%d')}"
         log.warning(f"Failed to find {source_path}")
-    doc.add_paragraph("---")
+    raw += "\n---"
+    doc.add_raw(raw)
 
 
 def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.Path):
@@ -153,8 +158,7 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
     doc.add_paragraph(f"{program} was written by:") \
         .insert_link(program.language_name(), program.language_collection().lang_docs_url()) \
         .insert_link(program.project_name(), program.project().requirements_url())
-    doc.add_block(snakemd.MDList(
-        sorted(program.authors(), key=lambda x: x.casefold())))
+    doc.add_block(snakemd.MDList(sorted(program.authors(), key=lambda x: x.casefold())))
     doc.add_paragraph("If you see anything you'd like to change or update, please consider contributing.") \
         .insert_link("please consider contributing", "https://github.com/TheRenegadeCoder/sample-programs")
     if program.modified() != program.created():
@@ -352,10 +356,9 @@ def generate_projects_index(repo: subete.Repo):
     _generate_front_matter(
         projects_index, 
         projects_index_path / "front_matter.yaml", 
-        "Programming Projects in Every Language"
+        "Programming Projects in Every Language",
+        "programming-projects-in-every-language.jpg"
     )
-    projects_index._contents[-2] = projects_index._contents[-2] + \
-        "\nfeatured-image: programming-projects-in-every-language.jpg"
     project_tests = sum(
         1 if project.has_testing() else 0 
         for project in repo.approved_projects()
