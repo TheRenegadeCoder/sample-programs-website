@@ -2,7 +2,7 @@
 title: Factorial in Rust
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-07
+last-modified: 2023-04-09
 ---
 
 Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
@@ -30,17 +30,13 @@ fn parse_int(s: String) -> Result<i32, ParseIntError> {
 
 fn main() {
     // confirm integer is passed as commandline argument
-    let mut input_value: Result<i32, ParseIntError> = parse_int(
+    let mut input_num: i32 = parse_int(
         args().nth(1).unwrap_or_else(|| usage())
-    );
-    if input_value.is_err() {
-        usage();
-    }
+    ).unwrap_or_else(|_| usage());
 
-    // confirm non-negative integer
-    let input_num: i32 = input_value.unwrap();
+    // Make sure non-negative
     if input_num < 0 {
-        usage();
+        usage()
     }
 
     let mut n = input_num as u128;
@@ -62,7 +58,7 @@ fn main() {
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 04 2023 17:31:25. The solution was first committed on Oct 31 2019 17:25:13. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2023 23:48:08. The solution was first committed on Oct 31 2019 17:25:13. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

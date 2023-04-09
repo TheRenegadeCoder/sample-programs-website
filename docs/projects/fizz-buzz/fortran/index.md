@@ -2,7 +2,7 @@
 title: Fizz Buzz in Fortran
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-07
+last-modified: 2023-04-09
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Fortran](https://sampleprograms.io/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.

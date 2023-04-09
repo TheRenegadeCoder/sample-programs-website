@@ -2,7 +2,7 @@
 title: Even Odd in Lua
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-07
+last-modified: 2023-04-09
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.

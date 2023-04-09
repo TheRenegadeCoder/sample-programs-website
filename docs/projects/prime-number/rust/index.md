@@ -2,7 +2,7 @@
 title: Prime Number in Rust
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-07
+last-modified: 2023-04-09
 ---
 
 Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
@@ -31,15 +31,11 @@ fn parse_int(s: String) -> Result<i128, ParseIntError> {
 
 fn main() {
     // Exit if 1st command-line argument not an integer
-    let mut input_value: Result<i128, ParseIntError> = parse_int(
+    let mut input_num: i128 = parse_int(
         args().nth(1).unwrap_or_else(|| usage())
-    );
-    if input_value.is_err() {
-        usage();
-    }
+    ).unwrap_or_else(|_| usage());
 
     // Exit if negative integer
-    let input_num: i128 = input_value.unwrap();
     if input_num < 0 {
         usage();
     }
@@ -71,7 +67,7 @@ fn main() {
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 04 2023 17:31:25. The solution was first committed on Oct 31 2019 18:11:28. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2023 23:48:08. The solution was first committed on Oct 31 2019 18:11:28. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

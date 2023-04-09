@@ -2,7 +2,7 @@
 title: Fibonacci in Rust
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-07
+last-modified: 2023-04-09
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
@@ -47,14 +47,9 @@ fn fibonacci(terms: i32) {
 
 fn main() {
     // Exit if 1st command-line argument not an integer
-    let mut input_value: Result<i32, ParseIntError> = parse_int(
+    let mut input_num: i32 = parse_int(
         args().nth(1).unwrap_or_else(|| usage())
-    );
-    if input_value.is_err() {
-        usage();
-    }
-
-    let input_num: i32 = input_value.unwrap();
+    ).unwrap_or_else(|_| usage());
 
     // Show request number of Fibonacci numbers
     fibonacci(input_num);
@@ -70,7 +65,7 @@ fn main() {
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 04 2023 17:31:25. The solution was first committed on Oct 05 2018 09:33:10. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2023 23:48:08. The solution was first committed on Oct 05 2018 09:33:10. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

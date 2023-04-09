@@ -2,7 +2,7 @@
 title: Longest Word in C++
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-07
+last-modified: 2023-04-09
 ---
 
 Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.

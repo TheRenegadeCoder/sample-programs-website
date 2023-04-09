@@ -2,7 +2,7 @@
 title: Insertion Sort in Php
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-07
+last-modified: 2023-04-09
 ---
 
 Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
