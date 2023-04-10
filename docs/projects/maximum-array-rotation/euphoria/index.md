@@ -2,7 +2,7 @@
 title: Maximum Array Rotation in Euphoria
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-09
+last-modified: 2023-04-10
 ---
 
 Welcome to the [Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.

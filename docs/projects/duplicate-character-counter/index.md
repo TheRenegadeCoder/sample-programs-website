@@ -70,6 +70,7 @@ Usage: please provide a string
 - [Duplicate Character Counter in Mathematica](https://sampleprograms.io/projects/duplicate-character-counter/mathematica)
 - [Duplicate Character Counter in Php](https://sampleprograms.io/projects/duplicate-character-counter/php)
 - [Duplicate Character Counter in Python](https://sampleprograms.io/projects/duplicate-character-counter/python)
+- [Duplicate Character Counter in Rust](https://sampleprograms.io/projects/duplicate-character-counter/rust)
 
 ***
 

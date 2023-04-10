@@ -2,7 +2,7 @@
 title: Fizz Buzz in Tex
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-09
+last-modified: 2023-04-10
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Tex](https://sampleprograms.io/languages/tex) page! Here, you'll find the source code for this program as well as a description of how the program works.

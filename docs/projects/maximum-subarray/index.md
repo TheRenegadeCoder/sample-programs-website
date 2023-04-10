@@ -77,6 +77,7 @@ Usage: Please provide a list of integers in the format: "1, 2, 3, 4, 5"
 - [Maximum Subarray in Mathematica](https://sampleprograms.io/projects/maximum-subarray/mathematica)
 - [Maximum Subarray in Php](https://sampleprograms.io/projects/maximum-subarray/php)
 - [Maximum Subarray in Python](https://sampleprograms.io/projects/maximum-subarray/python)
+- [Maximum Subarray in Rust](https://sampleprograms.io/projects/maximum-subarray/rust)
 
 ***
 

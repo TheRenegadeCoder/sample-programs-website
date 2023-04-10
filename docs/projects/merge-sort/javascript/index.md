@@ -2,7 +2,7 @@
 title: Merge Sort in Javascript
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-09
+last-modified: 2023-04-10
 ---
 
 Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.

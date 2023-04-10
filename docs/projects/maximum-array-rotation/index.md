@@ -95,6 +95,7 @@ Usage: please provide a list of integers (e.g. "8, 3, 1, 2")
 - [Maximum Array Rotation in Mathematica](https://sampleprograms.io/projects/maximum-array-rotation/mathematica)
 - [Maximum Array Rotation in Php](https://sampleprograms.io/projects/maximum-array-rotation/php)
 - [Maximum Array Rotation in Python](https://sampleprograms.io/projects/maximum-array-rotation/python)
+- [Maximum Array Rotation in Rust](https://sampleprograms.io/projects/maximum-array-rotation/rust)
 
 ***
 

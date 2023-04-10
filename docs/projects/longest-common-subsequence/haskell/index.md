@@ -2,7 +2,7 @@
 title: Longest Common Subsequence in Haskell
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-09
+last-modified: 2023-04-10
 ---
 
 Welcome to the [Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.

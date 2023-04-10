@@ -94,6 +94,7 @@ Usage: please provide a string
 - [Longest Word in Mathematica](https://sampleprograms.io/projects/longest-word/mathematica)
 - [Longest Word in Php](https://sampleprograms.io/projects/longest-word/php)
 - [Longest Word in Python](https://sampleprograms.io/projects/longest-word/python)
+- [Longest Word in Rust](https://sampleprograms.io/projects/longest-word/rust)
 
 ***
 

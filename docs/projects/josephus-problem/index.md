@@ -87,6 +87,7 @@ Usage: please input the total number of people and number of people to skip.
 - [Josephus Problem in Mathematica](https://sampleprograms.io/projects/josephus-problem/mathematica)
 - [Josephus Problem in Php](https://sampleprograms.io/projects/josephus-problem/php)
 - [Josephus Problem in Python](https://sampleprograms.io/projects/josephus-problem/python)
+- [Josephus Problem in Rust](https://sampleprograms.io/projects/josephus-problem/rust)
 
 ***
 

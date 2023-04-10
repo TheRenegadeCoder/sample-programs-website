@@ -88,6 +88,7 @@ Usage: please provide a string
 - [Remove All Whitespace in Mathematica](https://sampleprograms.io/projects/remove-all-whitespace/mathematica)
 - [Remove All Whitespace in Php](https://sampleprograms.io/projects/remove-all-whitespace/php)
 - [Remove All Whitespace in Python](https://sampleprograms.io/projects/remove-all-whitespace/python)
+- [Remove All Whitespace in Rust](https://sampleprograms.io/projects/remove-all-whitespace/rust)
 
 ***
 
