@@ -2,7 +2,7 @@
 title: Bubble Sort in Php
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-10
+last-modified: 2023-04-15
 ---
 
 Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

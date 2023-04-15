@@ -2,7 +2,7 @@
 title: Duplicate Character Counter in C
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-10
+last-modified: 2023-04-15
 ---
 
 Welcome to the Duplicate [C](https://sampleprograms.io/languages/c)haracter [C](https://sampleprograms.io/languages/c)ounter in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.

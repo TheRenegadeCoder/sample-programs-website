@@ -109,6 +109,7 @@ Usage: please provide a list of profits and a list of deadlines
 - [Job Sequencing in Mathematica](https://sampleprograms.io/projects/job-sequencing/mathematica)
 - [Job Sequencing in Php](https://sampleprograms.io/projects/job-sequencing/php)
 - [Job Sequencing in Python](https://sampleprograms.io/projects/job-sequencing/python)
+- [Job Sequencing in Rust](https://sampleprograms.io/projects/job-sequencing/rust)
 
 ***
 

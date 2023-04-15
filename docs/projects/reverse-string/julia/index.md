@@ -2,7 +2,7 @@
 title: Reverse String in Julia
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-10
+last-modified: 2023-04-15
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Julia](https://sampleprograms.io/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.

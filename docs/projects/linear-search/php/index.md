@@ -2,7 +2,7 @@
 title: Linear Search in Php
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-10
+last-modified: 2023-04-15
 ---
 
 Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

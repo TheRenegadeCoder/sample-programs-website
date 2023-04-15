@@ -2,7 +2,7 @@
 title: Fizz Buzz in Pascal
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-10
+last-modified: 2023-04-15
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Pascal](https://sampleprograms.io/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.

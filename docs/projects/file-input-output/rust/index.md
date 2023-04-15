@@ -2,7 +2,7 @@
 title: File Input Output in Rust
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-10
+last-modified: 2023-04-15
 ---
 
 Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

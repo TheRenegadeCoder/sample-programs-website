@@ -83,6 +83,7 @@ Usage: ./fraction-math operand1 operator operand2
 - [Fraction Math in Mathematica](https://sampleprograms.io/projects/fraction-math/mathematica)
 - [Fraction Math in Php](https://sampleprograms.io/projects/fraction-math/php)
 - [Fraction Math in Python](https://sampleprograms.io/projects/fraction-math/python)
+- [Fraction Math in Rust](https://sampleprograms.io/projects/fraction-math/rust)
 - [Fraction Math in Swift](https://sampleprograms.io/projects/fraction-math/swift)
 
 ***

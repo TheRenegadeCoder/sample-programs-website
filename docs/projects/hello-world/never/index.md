@@ -2,7 +2,7 @@
 title: Hello World in Never
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-10
+last-modified: 2023-04-15
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Never](https://sampleprograms.io/languages/never) page! Here, you'll find the source code for this program as well as a description of how the program works.
