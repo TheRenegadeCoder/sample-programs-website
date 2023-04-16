@@ -2,7 +2,7 @@
 title: Programming Languages
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-15
+last-modified: 2023-04-16
 ---
 
 Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 163 languages, of which 41 are tested, and 758 code snippets.

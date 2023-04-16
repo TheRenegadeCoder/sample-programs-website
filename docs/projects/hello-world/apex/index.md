@@ -2,7 +2,7 @@
 title: Hello World in Apex
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-15
+last-modified: 2023-04-16
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Apex](https://sampleprograms.io/languages/apex) page! Here, you'll find the source code for this program as well as a description of how the program works.

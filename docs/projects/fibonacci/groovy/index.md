@@ -2,7 +2,7 @@
 title: Fibonacci in Groovy
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-15
+last-modified: 2023-04-16
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Groovy](https://sampleprograms.io/languages/groovy) page! Here, you'll find the source code for this program as well as a description of how the program works.

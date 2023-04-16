@@ -2,7 +2,7 @@
 title: Even Odd in Go
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-15
+last-modified: 2023-04-16
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.

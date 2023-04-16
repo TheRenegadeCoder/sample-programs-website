@@ -2,7 +2,7 @@
 title: Scilab
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-15
+last-modified: 2023-04-16
 ---
 
 Welcome to the Scilab page! Here, you'll find a description of the language as well as a list of sample programs in that language.

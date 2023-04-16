@@ -2,7 +2,7 @@
 title: Fizz Buzz in Php
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-15
+last-modified: 2023-04-16
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
