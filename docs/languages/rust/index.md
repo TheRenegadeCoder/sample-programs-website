@@ -62,3 +62,4 @@ In terms of syntax, Rust resembles languages like [C][3] and [C++][4], but it bo
 - [Rot13 in Rust](https://sampleprograms.io/projects/rot13/rust)
 - [Selection Sort in Rust](https://sampleprograms.io/projects/selection-sort/rust)
 - [Sleep Sort in Rust](https://sampleprograms.io/projects/sleep-sort/rust)
+- [Transpose Matrix in Rust](https://sampleprograms.io/projects/transpose-matrix/rust)
