@@ -2,7 +2,7 @@
 title: Factorial in D
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-16
+last-modified: 2023-04-17
 ---
 
 Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [D](https://sampleprograms.io/languages/d) page! Here, you'll find the source code for this program as well as a description of how the program works.

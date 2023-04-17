@@ -2,7 +2,7 @@
 title: File Input Output in Javascript
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-16
+last-modified: 2023-04-17
 ---
 
 Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.

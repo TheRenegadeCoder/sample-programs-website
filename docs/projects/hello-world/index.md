@@ -152,6 +152,7 @@ Verify that the actual output matches the expected output
 - [Hello World in P4](https://sampleprograms.io/projects/hello-world/p4)
 - [Hello World in Pascal](https://sampleprograms.io/projects/hello-world/pascal)
 - [Hello World in Perl](https://sampleprograms.io/projects/hello-world/perl)
+- [Hello World in Phix](https://sampleprograms.io/projects/hello-world/phix)
 - [Hello World in Php](https://sampleprograms.io/projects/hello-world/php)
 - [Hello World in Picolisp](https://sampleprograms.io/projects/hello-world/picolisp)
 - [Hello World in Pikelet](https://sampleprograms.io/projects/hello-world/pikelet)

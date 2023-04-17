@@ -2,7 +2,7 @@
 title: Hello World in Gravity
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-16
+last-modified: 2023-04-17
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Gravity](https://sampleprograms.io/languages/gravity) page! Here, you'll find the source code for this program as well as a description of how the program works.

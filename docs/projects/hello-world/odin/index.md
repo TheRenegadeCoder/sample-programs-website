@@ -2,7 +2,7 @@
 title: Hello World in Odin
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-16
+last-modified: 2023-04-17
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Odin](https://sampleprograms.io/languages/odin) page! Here, you'll find the source code for this program as well as a description of how the program works.

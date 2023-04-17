@@ -2,7 +2,7 @@
 title: Maximum Subarray in Rust
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-16
+last-modified: 2023-04-17
 ---
 
 Welcome to the [Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
