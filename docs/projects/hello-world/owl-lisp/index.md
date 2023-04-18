@@ -13,7 +13,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```owl lisp
-(Î» (args) (print "Hello, World!"))
+(λ (args) (print "Hello, World!"))
 ```
 
 {% endraw %}

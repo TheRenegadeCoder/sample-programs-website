@@ -28,10 +28,10 @@ features of the language.
   .\Reverse-String.ps1 -Input 'Hello, World'
 
 .EXAMPLE
-  .\Reverse-String.ps1 "Les MisÃ©rables"
+  .\Reverse-String.ps1 "Les Misérables"
 
 .EXAMPLE
-  .\Reverse-String.ps1 "å­—æ¨£æ¨£å“�"
+  .\Reverse-String.ps1 "字樣樣品"
 
 .NOTES
   This script does *not* support emoji as PowerShell only has full support for

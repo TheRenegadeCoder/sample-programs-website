@@ -14,9 +14,9 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```emojicode
-ðŸ�� ðŸ�‡
-  ðŸ˜€ ðŸ”¤Howdy, World!ðŸ”¤
-ðŸ�‰
+🏁 🍇
+  😀 🔤Howdy, World!🔤
+🍉
 ```
 
 {% endraw %}

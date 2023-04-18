@@ -23,7 +23,7 @@ function palindrome_check(n)
   while (n > 0)
     digit = n % 10
     new_num = new_num * 10 + digit 
-    n Ã·= 10
+    n ÷= 10
   end
 
   if(new_num == original)
