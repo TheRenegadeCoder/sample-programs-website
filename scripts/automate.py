@@ -107,7 +107,14 @@ def _add_language_article_section(doc: snakemd.Document, repo: subete.Repo, lang
     doc.add_block(snakemd.MDList(articles))
 
 
-def _generate_front_matter(doc: snakemd.Document, path: pathlib.Path, title: str, created_at: datetime.datetime, image: str = None):
+def _generate_front_matter(
+        doc: snakemd.Document, 
+        path: pathlib.Path, 
+        title: str, 
+        created_at: datetime.datetime = None, 
+        last_modified: datetime.datetime = None, 
+        image: str = None
+    ):
     """
     Takes the existing front matter and adds it to the document.
     If no front matter exists, a default one is created.
@@ -127,7 +134,7 @@ def _generate_front_matter(doc: snakemd.Document, path: pathlib.Path, title: str
         raw += f"date: {created_at.date()}\n"
         if image:
             raw += f"featured-image: {image}\n"
-        raw += f"last-modified: {created_at.date()}\n"
+        raw += f"last-modified: {last_modified.date() if last_modified else created_at.date()}\n"
         log.warning(f"Failed to find {source_path}")
     raw += "\n---"
     doc.add_raw(raw)
@@ -144,7 +151,12 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
     root_path = pathlib.Path(
         f"programs/{program.project_pathlike_name()}/{program.language_pathlike_name()}"
     )
-    _generate_front_matter(doc, root_path / "front_matter.yaml", str(program), program.created())
+    _generate_front_matter(
+        doc, 
+        root_path / "front_matter.yaml", 
+        str(program), 
+        created_at=program.created()
+    )
     doc.add_paragraph(
         f"Welcome to the {program} page! Here, you'll find the source code for this program "
         f"as well as a description of how the program works."
@@ -199,8 +211,7 @@ def _generate_project_index(project: subete.Project, previous: subete.Project, n
     _generate_front_matter(
         doc,
         root_path / "front_matter.yaml",
-        project.name(),
-        None
+        project.name()
     )
     doc.add_paragraph(
         f"Welcome to the {project.name()} page! Here, you'll find a description "
@@ -240,7 +251,7 @@ def _generate_language_index(language: subete.LanguageCollection):
         doc,
         root_path / "front_matter.yaml",
         str(language),
-        oldest_program.created()
+        created_at=oldest_program.created()
     )
     doc.add_paragraph(
         f"Welcome to the {language} page! Here, you'll find a description "
@@ -319,11 +330,14 @@ def generate_languages_index(repo: subete.Repo):
     language_index = snakemd.new_doc()
     oldest_lang: subete.LanguageCollection = min(repo, key=lambda lang: min(lang, key=lambda x: x.created()).created())
     oldest_program: subete.SampleProgram = min(oldest_lang, key=lambda x: x.created())
+    newest_lang: subete.LanguageCollection = max(repo, key=lambda lang: max(lang, key=lambda x: x.created()).created())
+    newest_program: subete.SampleProgram = max(newest_lang, key=lambda x: x.created())
     _generate_front_matter(
         language_index, 
         language_index_path / "front_matter.yaml", 
         "Programming Languages",
-        oldest_program.created()
+        created_at=oldest_program.created(),
+        last_modified=newest_program.created()
     )
     language_index.add_paragraph(
         "Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. "
@@ -361,12 +375,15 @@ def generate_projects_index(repo: subete.Repo):
     projects_index: snakemd.Document = snakemd.new_doc()
     oldest_lang: subete.LanguageCollection = min(repo, key=lambda lang: min(lang, key=lambda x: x.created()).created())
     oldest_program: subete.SampleProgram = min(oldest_lang, key=lambda x: x.created())
+    newest_lang: subete.LanguageCollection = max(repo, key=lambda lang: max(lang, key=lambda x: x.created()).created())
+    newest_program: subete.SampleProgram = max(newest_lang, key=lambda x: x.created())
     _generate_front_matter(
         projects_index, 
         projects_index_path / "front_matter.yaml", 
         "Programming Projects in Every Language",
-        oldest_program.created(),
-        image="programming-projects-in-every-language.jpg"
+        created_at=oldest_program.created(),
+        image="programming-projects-in-every-language.jpg",
+        last_modified=newest_program.created()
     )
     project_tests = sum(
         1 if project.has_testing() else 0 
