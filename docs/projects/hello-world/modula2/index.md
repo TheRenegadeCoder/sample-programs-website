@@ -1,8 +1,9 @@
 ---
 title: Hello World in Modula2
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2020-10-02
+last-modified: 2020-10-02
+
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Modula2](https://sampleprograms.io/languages/modula2) page! Here, you'll find the source code for this program as well as a description of how the program works.

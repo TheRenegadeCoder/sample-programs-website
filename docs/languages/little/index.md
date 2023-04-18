@@ -1,8 +1,9 @@
 ---
 title: Little
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2018-08-23
+last-modified: 2018-08-23
+
 ---
 
 Welcome to the Little page! Here, you'll find a description of the language as well as a list of sample programs in that language.

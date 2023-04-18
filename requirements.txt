@@ -1,4 +1,4 @@
-snakemd~=2.0.0b2
+snakemd~=2.0.0
 subete~=0.15.0
 image-titler~=2.3.0
 glotter2~=0.6.0

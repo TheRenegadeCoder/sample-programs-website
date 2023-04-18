@@ -1,8 +1,9 @@
 ---
 title: Palindromic Number in Julia
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2022-10-11
+last-modified: 2022-10-11
+
 ---
 
 Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Julia](https://sampleprograms.io/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.
@@ -22,7 +23,7 @@ function palindrome_check(n)
   while (n > 0)
     digit = n % 10
     new_num = new_num * 10 + digit 
-    n ÷= 10
+    n Ã·= 10
   end
 
   if(new_num == original)

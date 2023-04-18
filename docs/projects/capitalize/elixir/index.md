@@ -1,8 +1,9 @@
 ---
 title: Capitalize in Elixir
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2020-10-06
+last-modified: 2020-10-06
+
 ---
 
 Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Elixir](https://sampleprograms.io/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,7 +1,7 @@
+import datetime
 import logging
 import os
 import pathlib
-from datetime import date
 
 import snakemd
 import subete
@@ -25,7 +25,7 @@ def _add_section(doc: snakemd.Document, source: str, source_instance: str, secti
         f"sources/{source}/{source_instance}/{section.lower().replace(' ', '-')}.md")
     if fp.exists():
         log.info(f"Adding {section} section to document from source, {fp}")
-        doc._contents.append(fp.read_text(encoding="utf-8"))
+        doc.add_raw(fp.read_text(encoding="utf-8"))
     else:
         log.warning(f"Failed to find {section} in {fp}")
         doc.add_paragraph(
@@ -107,7 +107,7 @@ def _add_language_article_section(doc: snakemd.Document, repo: subete.Repo, lang
     doc.add_block(snakemd.MDList(articles))
 
 
-def _generate_front_matter(doc: snakemd.Document, path: pathlib.Path, title: str, image: str = None):
+def _generate_front_matter(doc: snakemd.Document, path: pathlib.Path, title: str, created_at: datetime.datetime, image: str = None):
     """
     Takes the existing front matter and adds it to the document.
     If no front matter exists, a default one is created.
@@ -124,10 +124,10 @@ def _generate_front_matter(doc: snakemd.Document, path: pathlib.Path, title: str
     else:
         raw += f"title: {title}\n"
         raw += f"layout: default\n"
-        raw += f"date: 2022-04-28\n"
+        raw += f"date: {created_at.date()}\n"
         if image:
             raw += f"featured-image: {image}\n"
-        raw += f"last-modified: {date.today().strftime('%Y-%m-%d')}"
+        raw += f"last-modified: {created_at.date()}\n"
         log.warning(f"Failed to find {source_path}")
     raw += "\n---"
     doc.add_raw(raw)
@@ -144,7 +144,7 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
     root_path = pathlib.Path(
         f"programs/{program.project_pathlike_name()}/{program.language_pathlike_name()}"
     )
-    _generate_front_matter(doc, root_path / "front_matter.yaml", str(program))
+    _generate_front_matter(doc, root_path / "front_matter.yaml", str(program), program.created())
     doc.add_paragraph(
         f"Welcome to the {program} page! Here, you'll find the source code for this program "
         f"as well as a description of how the program works."
@@ -199,7 +199,8 @@ def _generate_project_index(project: subete.Project, previous: subete.Project, n
     _generate_front_matter(
         doc,
         root_path / "front_matter.yaml",
-        project.name()
+        project.name(),
+        None
     )
     doc.add_paragraph(
         f"Welcome to the {project.name()} page! Here, you'll find a description "
@@ -234,10 +235,12 @@ def _generate_language_index(language: subete.LanguageCollection):
     """
     doc: snakemd.Document = snakemd.new_doc()
     root_path = pathlib.Path(f"languages/{language.pathlike_name()}")
+    oldest_program: subete.SampleProgram = min(language, key=lambda x: x.created())
     _generate_front_matter(
         doc,
         root_path / "front_matter.yaml",
-        str(language)
+        str(language),
+        oldest_program.created()
     )
     doc.add_paragraph(
         f"Welcome to the {language} page! Here, you'll find a description "
@@ -314,10 +317,13 @@ def generate_languages_index(repo: subete.Repo):
     """
     language_index_path = pathlib.Path("docs/languages")
     language_index = snakemd.new_doc()
+    oldest_lang: subete.LanguageCollection = min(repo, key=lambda lang: min(lang, key=lambda x: x.created()).created())
+    oldest_program: subete.SampleProgram = min(oldest_lang, key=lambda x: x.created())
     _generate_front_matter(
         language_index, 
         language_index_path / "front_matter.yaml", 
-        "Programming Languages"
+        "Programming Languages",
+        oldest_program.created()
     )
     language_index.add_paragraph(
         "Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. "
@@ -353,11 +359,14 @@ def generate_languages_index(repo: subete.Repo):
 def generate_projects_index(repo: subete.Repo):
     projects_index_path = pathlib.Path("docs/projects")
     projects_index: snakemd.Document = snakemd.new_doc()
+    oldest_lang: subete.LanguageCollection = min(repo, key=lambda lang: min(lang, key=lambda x: x.created()).created())
+    oldest_program: subete.SampleProgram = min(oldest_lang, key=lambda x: x.created())
     _generate_front_matter(
         projects_index, 
         projects_index_path / "front_matter.yaml", 
         "Programming Projects in Every Language",
-        "programming-projects-in-every-language.jpg"
+        oldest_program.created(),
+        image="programming-projects-in-every-language.jpg"
     )
     project_tests = sum(
         1 if project.has_testing() else 0 

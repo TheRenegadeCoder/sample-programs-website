@@ -1,8 +1,9 @@
 ---
 title: Hello World in Flix
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2020-10-26
+last-modified: 2020-10-26
+
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Flix](https://sampleprograms.io/languages/flix) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,8 +1,9 @@
 ---
 title: Dijkstra in C++
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2022-10-06
+last-modified: 2022-10-06
+
 ---
 
 Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.

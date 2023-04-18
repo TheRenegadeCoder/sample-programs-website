@@ -1,8 +1,9 @@
 ---
 title: Capitalize in Haskell
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2019-10-13
+last-modified: 2019-10-13
+
 ---
 
 Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.

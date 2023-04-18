@@ -1,8 +1,9 @@
 ---
 title: Bubble Sort in Algol68
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2023-01-27
+last-modified: 2023-01-27
+
 ---
 
 Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.

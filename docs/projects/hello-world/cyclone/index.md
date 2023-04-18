@@ -1,8 +1,9 @@
 ---
 title: Hello World in Cyclone
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2020-12-02
+last-modified: 2020-12-02
+
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Cyclone](https://sampleprograms.io/languages/cyclone) page! Here, you'll find the source code for this program as well as a description of how the program works.

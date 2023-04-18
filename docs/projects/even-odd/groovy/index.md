@@ -1,8 +1,9 @@
 ---
 title: Even Odd in Groovy
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2019-07-01
+last-modified: 2019-07-01
+
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Groovy](https://sampleprograms.io/languages/groovy) page! Here, you'll find the source code for this program as well as a description of how the program works.

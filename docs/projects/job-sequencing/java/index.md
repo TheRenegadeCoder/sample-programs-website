@@ -1,8 +1,9 @@
 ---
 title: Job Sequencing in Java
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2019-10-17
+last-modified: 2019-10-17
+
 ---
 
 Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.

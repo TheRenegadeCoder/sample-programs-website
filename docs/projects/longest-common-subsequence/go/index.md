@@ -1,8 +1,9 @@
 ---
 title: Longest Common Subsequence in Go
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2019-03-17
+last-modified: 2019-03-17
+
 ---
 
 Welcome to the [Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.

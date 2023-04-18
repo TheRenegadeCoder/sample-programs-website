@@ -1,8 +1,9 @@
 ---
 title: Reverse String in Powershell
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2018-05-28
+last-modified: 2018-05-28
+
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
@@ -27,10 +28,10 @@ features of the language.
   .\Reverse-String.ps1 -Input 'Hello, World'
 
 .EXAMPLE
-  .\Reverse-String.ps1 "Les Misérables"
+  .\Reverse-String.ps1 "Les MisÃ©rables"
 
 .EXAMPLE
-  .\Reverse-String.ps1 "字樣樣品"
+  .\Reverse-String.ps1 "å­—æ¨£æ¨£å“�"
 
 .NOTES
   This script does *not* support emoji as PowerShell only has full support for

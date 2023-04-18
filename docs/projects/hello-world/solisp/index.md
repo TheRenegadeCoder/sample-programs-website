@@ -1,8 +1,9 @@
 ---
 title: Hello World in Solisp
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2020-03-05
+last-modified: 2020-03-05
+
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Solisp](https://sampleprograms.io/languages/solisp) page! Here, you'll find the source code for this program as well as a description of how the program works.

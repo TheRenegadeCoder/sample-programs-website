@@ -1,8 +1,9 @@
 ---
 title: Longest Word in Python
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2022-05-13
+last-modified: 2022-05-13
+
 ---
 
 Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

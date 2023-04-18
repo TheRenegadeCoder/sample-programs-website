@@ -1,8 +1,9 @@
 ---
 title: Binary Search in Go
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2019-10-24
+last-modified: 2019-10-24
+
 ---
 
 Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.

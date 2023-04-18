@@ -1,8 +1,9 @@
 ---
 title: Quick Sort in Euphoria
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2023-02-19
+last-modified: 2023-02-19
+
 ---
 
 Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.

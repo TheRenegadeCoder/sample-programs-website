@@ -1,8 +1,9 @@
 ---
 title: Even Odd in Objective C
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2020-10-01
+last-modified: 2020-10-01
+
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Objective C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.

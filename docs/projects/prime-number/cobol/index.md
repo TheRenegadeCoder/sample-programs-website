@@ -1,8 +1,9 @@
 ---
 title: Prime Number in Cobol
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2021-10-12
+last-modified: 2021-10-12
+
 ---
 
 Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Cobol](https://sampleprograms.io/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.

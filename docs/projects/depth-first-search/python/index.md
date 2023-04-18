@@ -1,8 +1,9 @@
 ---
 title: Depth First Search in Python
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2021-11-12
+last-modified: 2021-11-12
+
 ---
 
 Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

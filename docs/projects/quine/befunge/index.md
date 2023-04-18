@@ -1,8 +1,9 @@
 ---
 title: Quine in Befunge
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2020-10-17
+last-modified: 2020-10-17
+
 ---
 
 Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Befunge](https://sampleprograms.io/languages/befunge) page! Here, you'll find the source code for this program as well as a description of how the program works.

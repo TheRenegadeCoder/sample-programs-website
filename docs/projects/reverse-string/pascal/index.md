@@ -1,8 +1,9 @@
 ---
 title: Reverse String in Pascal
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2020-10-19
+last-modified: 2020-10-19
+
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Pascal](https://sampleprograms.io/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
