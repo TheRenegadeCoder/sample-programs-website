@@ -2,7 +2,7 @@
 title: Even Odd in Bash
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-17
+last-modified: 2023-04-18
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.

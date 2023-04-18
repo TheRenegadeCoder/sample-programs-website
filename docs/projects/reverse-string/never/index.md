@@ -2,7 +2,7 @@
 title: Reverse String in Never
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-17
+last-modified: 2023-04-18
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Never](https://sampleprograms.io/languages/never) page! Here, you'll find the source code for this program as well as a description of how the program works.

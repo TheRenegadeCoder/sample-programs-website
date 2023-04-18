@@ -2,7 +2,7 @@
 title: Visual Basic
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-17
+last-modified: 2023-04-18
 ---
 
 Welcome to the Visual Basic page! Here, you'll find a description of the language as well as a list of sample programs in that language.

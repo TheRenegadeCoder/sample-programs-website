@@ -2,7 +2,7 @@
 title: Fraction Math in Rust
 layout: default
 date: 2022-04-28
-last-modified: 2023-04-17
+last-modified: 2023-04-18
 ---
 
 Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
