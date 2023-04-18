@@ -1,8 +1,9 @@
 ---
 title: Gerbil
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2019-11-01
+last-modified: 2019-11-01
+
 ---
 
 Welcome to the Gerbil page! Here, you'll find a description of the language as well as a list of sample programs in that language.

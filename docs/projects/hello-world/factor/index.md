@@ -1,8 +1,9 @@
 ---
 title: Hello World in Factor
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2018-05-03
+last-modified: 2018-05-03
+
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Factor](https://sampleprograms.io/languages/factor) page! Here, you'll find the source code for this program as well as a description of how the program works.

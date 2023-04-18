@@ -1,8 +1,9 @@
 ---
 title: Factorial in Groovy
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2019-10-12
+last-modified: 2019-10-12
+
 ---
 
 Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Groovy](https://sampleprograms.io/languages/groovy) page! Here, you'll find the source code for this program as well as a description of how the program works.

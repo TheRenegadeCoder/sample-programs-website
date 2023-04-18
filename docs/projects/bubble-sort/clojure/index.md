@@ -1,8 +1,9 @@
 ---
 title: Bubble Sort in Clojure
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2019-10-02
+last-modified: 2019-10-02
+
 ---
 
 Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Clojure](https://sampleprograms.io/languages/clojure) page! Here, you'll find the source code for this program as well as a description of how the program works.

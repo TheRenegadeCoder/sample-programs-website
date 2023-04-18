@@ -1,8 +1,9 @@
 ---
 title: Hello World in Elvish
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2021-05-25
+last-modified: 2021-05-25
+
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Elvish](https://sampleprograms.io/languages/elvish) page! Here, you'll find the source code for this program as well as a description of how the program works.

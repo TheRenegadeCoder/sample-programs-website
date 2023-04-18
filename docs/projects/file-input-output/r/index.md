@@ -1,8 +1,9 @@
 ---
 title: File Input Output in R
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2020-10-25
+last-modified: 2020-10-25
+
 ---
 
 Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [R](https://sampleprograms.io/languages/r) page! Here, you'll find the source code for this program as well as a description of how the program works.

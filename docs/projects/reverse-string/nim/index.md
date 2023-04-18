@@ -1,8 +1,9 @@
 ---
 title: Reverse String in Nim
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2019-10-22
+last-modified: 2019-10-22
+
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Nim](https://sampleprograms.io/languages/nim) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,8 +1,9 @@
 ---
 title: Quick Sort in Haskell
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2018-12-04
+last-modified: 2018-12-04
+
 ---
 
 Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,8 +1,9 @@
 ---
 title: Palindromic Number in Pascal
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2021-10-29
+last-modified: 2021-10-29
+
 ---
 
 Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Pascal](https://sampleprograms.io/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
@@ -15,7 +16,7 @@ Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindrom
 (*
 Description 	Input 	Output
 no input 	None 	Usage: please input a number
-empty input 	”” 	Usage: please input a number
+empty input 	â€�â€� 	Usage: please input a number
 invalid input: not a number 	a 	Usage: please input a number
 sample input: palindrome 	232 	true
 sample input: not palindrome 	521 	false

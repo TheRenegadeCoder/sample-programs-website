@@ -1,8 +1,9 @@
 ---
 title: Minimum Spanning Tree in Python
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2019-10-14
+last-modified: 2019-10-14
+
 ---
 
 Welcome to the [Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

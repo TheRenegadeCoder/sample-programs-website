@@ -1,8 +1,9 @@
 ---
 title: Pikelet
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2021-05-25
+last-modified: 2021-05-25
+
 ---
 
 Welcome to the Pikelet page! Here, you'll find a description of the language as well as a list of sample programs in that language.

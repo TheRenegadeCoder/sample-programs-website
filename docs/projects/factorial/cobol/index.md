@@ -1,8 +1,9 @@
 ---
 title: Factorial in Cobol
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2021-10-14
+last-modified: 2021-10-14
+
 ---
 
 Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Cobol](https://sampleprograms.io/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.

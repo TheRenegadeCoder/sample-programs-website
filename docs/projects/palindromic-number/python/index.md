@@ -1,8 +1,9 @@
 ---
 title: Palindromic Number in Python
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2021-10-27
+last-modified: 2021-10-27
+
 ---
 
 Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

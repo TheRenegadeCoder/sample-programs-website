@@ -1,8 +1,9 @@
 ---
 title: Josephus Problem in Euphoria
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2023-02-25
+last-modified: 2023-02-25
+
 ---
 
 Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.

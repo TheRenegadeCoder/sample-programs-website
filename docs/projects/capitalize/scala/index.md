@@ -1,8 +1,9 @@
 ---
 title: Capitalize in Scala
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2022-10-27
+last-modified: 2022-10-27
+
 ---
 
 Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Scala](https://sampleprograms.io/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.

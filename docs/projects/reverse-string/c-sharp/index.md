@@ -1,8 +1,9 @@
 ---
 title: Reverse String in C#
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2018-04-25
+last-modified: 2018-04-25
+
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [C#](https://sampleprograms.io/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.

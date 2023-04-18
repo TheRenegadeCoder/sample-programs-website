@@ -1,8 +1,9 @@
 ---
 title: Hello World in Chapel
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2018-11-22
+last-modified: 2018-11-22
+
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Chapel](https://sampleprograms.io/languages/chapel) page! Here, you'll find the source code for this program as well as a description of how the program works.

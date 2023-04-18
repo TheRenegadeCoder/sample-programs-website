@@ -1,8 +1,9 @@
 ---
 title: Wu
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2018-07-27
+last-modified: 2018-07-27
+
 ---
 
 Welcome to the Wu page! Here, you'll find a description of the language as well as a list of sample programs in that language.

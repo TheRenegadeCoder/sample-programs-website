@@ -1,8 +1,9 @@
 ---
 title: Bubble Sort in Bash
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2019-10-01
+last-modified: 2019-10-01
+
 ---
 
 Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.

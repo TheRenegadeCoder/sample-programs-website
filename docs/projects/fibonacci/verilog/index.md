@@ -1,8 +1,9 @@
 ---
 title: Fibonacci in Verilog
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2019-10-06
+last-modified: 2019-10-06
+
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Verilog](https://sampleprograms.io/languages/verilog) page! Here, you'll find the source code for this program as well as a description of how the program works.

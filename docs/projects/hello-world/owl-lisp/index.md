@@ -1,8 +1,9 @@
 ---
 title: Hello World in Owl Lisp
 layout: default
-date: 2022-04-28
-last-modified: 2023-04-18
+date: 2018-06-29
+last-modified: 2018-06-29
+
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Owl Lisp](https://sampleprograms.io/languages/owl-lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
@@ -12,7 +13,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```owl lisp
-(λ (args) (print "Hello, World!"))
+(Î» (args) (print "Hello, World!"))
 ```
 
 {% endraw %}
