@@ -25,7 +25,7 @@ def _add_section(doc: snakemd.Document, source: str, source_instance: str, secti
         f"sources/{source}/{source_instance}/{section.lower().replace(' ', '-')}.md")
     if fp.exists():
         log.info(f"Adding {section} section to document from source, {fp}")
-        doc._contents.append(fp.read_text(encoding="utf-8"))
+        doc.add_raw(fp.read_text(encoding="utf-8"))
     else:
         log.warning(f"Failed to find {section} in {fp}")
         doc.add_paragraph(
