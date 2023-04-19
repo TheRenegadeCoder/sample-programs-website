@@ -48,6 +48,7 @@ In terms of syntax, Rust resembles languages like [C][3] and [C++][4], but it bo
 - [Job Sequencing in Rust](https://sampleprograms.io/projects/job-sequencing/rust)
 - [Josephus Problem in Rust](https://sampleprograms.io/projects/josephus-problem/rust)
 - [Linear Search in Rust](https://sampleprograms.io/projects/linear-search/rust)
+- [Longest Common Subsequence in Rust](https://sampleprograms.io/projects/longest-common-subsequence/rust)
 - [Longest Palindromic Substring in Rust](https://sampleprograms.io/projects/longest-palindromic-substring/rust)
 - [Longest Word in Rust](https://sampleprograms.io/projects/longest-word/rust)
 - [Maximum Array Rotation in Rust](https://sampleprograms.io/projects/maximum-array-rotation/rust)
