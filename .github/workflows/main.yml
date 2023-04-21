@@ -46,8 +46,8 @@ jobs:
             
             
             on-behalf-of: @TheRenegadeCoder <jeremy.grifski@therenegadecoder.com>
-          author_name: Jeremy Grifski
-          author_email: jeremy.grifski@gmail.com
+          author_name: GitHub Actions
+          author_email: action@github.com
 
         env:
           # This is necessary in order to push a commit to the repo
