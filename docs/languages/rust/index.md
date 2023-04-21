@@ -54,6 +54,7 @@ In terms of syntax, Rust resembles languages like [C][3] and [C++][4], but it bo
 - [Maximum Array Rotation in Rust](https://sampleprograms.io/projects/maximum-array-rotation/rust)
 - [Maximum Subarray in Rust](https://sampleprograms.io/projects/maximum-subarray/rust)
 - [Merge Sort in Rust](https://sampleprograms.io/projects/merge-sort/rust)
+- [Minimum Spanning Tree in Rust](https://sampleprograms.io/projects/minimum-spanning-tree/rust)
 - [Palindromic Number in Rust](https://sampleprograms.io/projects/palindromic-number/rust)
 - [Prime Number in Rust](https://sampleprograms.io/projects/prime-number/rust)
 - [Quick Sort in Rust](https://sampleprograms.io/projects/quick-sort/rust)

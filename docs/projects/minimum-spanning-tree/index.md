@@ -108,6 +108,7 @@ Usage: please provide a comma-separated list of integers
 - [Minimum Spanning Tree in Mathematica](https://sampleprograms.io/projects/minimum-spanning-tree/mathematica)
 - [Minimum Spanning Tree in Php](https://sampleprograms.io/projects/minimum-spanning-tree/php)
 - [Minimum Spanning Tree in Python](https://sampleprograms.io/projects/minimum-spanning-tree/python)
+- [Minimum Spanning Tree in Rust](https://sampleprograms.io/projects/minimum-spanning-tree/rust)
 
 ***
 
