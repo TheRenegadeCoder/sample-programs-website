@@ -122,6 +122,7 @@ Usage: please provide three inputs: a serialized matrix, a source node and a des
 - [Dijkstra in Mathematica](https://sampleprograms.io/projects/dijkstra/mathematica)
 - [Dijkstra in Php](https://sampleprograms.io/projects/dijkstra/php)
 - [Dijkstra in Python](https://sampleprograms.io/projects/dijkstra/python)
+- [Dijkstra in Rust](https://sampleprograms.io/projects/dijkstra/rust)
 
 ***
 

@@ -36,6 +36,7 @@ In terms of syntax, Rust resembles languages like [C][3] and [C++][4], but it bo
 - [Bubble Sort in Rust](https://sampleprograms.io/projects/bubble-sort/rust)
 - [Capitalize in Rust](https://sampleprograms.io/projects/capitalize/rust)
 - [Depth First Search in Rust](https://sampleprograms.io/projects/depth-first-search/rust)
+- [Dijkstra in Rust](https://sampleprograms.io/projects/dijkstra/rust)
 - [Duplicate Character Counter in Rust](https://sampleprograms.io/projects/duplicate-character-counter/rust)
 - [Even Odd in Rust](https://sampleprograms.io/projects/even-odd/rust)
 - [Factorial in Rust](https://sampleprograms.io/projects/factorial/rust)
