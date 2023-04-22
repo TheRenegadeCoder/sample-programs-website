@@ -89,6 +89,7 @@ Usage: please provide at least 3 x and y coordinates as separate lists (e.g. "10
 - [Convex Hull in Mathematica](https://sampleprograms.io/projects/convex-hull/mathematica)
 - [Convex Hull in Php](https://sampleprograms.io/projects/convex-hull/php)
 - [Convex Hull in Python](https://sampleprograms.io/projects/convex-hull/python)
+- [Convex Hull in Rust](https://sampleprograms.io/projects/convex-hull/rust)
 
 ***
 
