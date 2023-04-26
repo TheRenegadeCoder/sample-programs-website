@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 set -e
 
 echo "*** Generate Webpages ***"
@@ -38,7 +38,10 @@ echo "*** Start Webserver ***"
 cd docs/_site
 python -m http.server >/dev/null &
 pid=$!
-trap "printf '\n\n*** Kill webserver (PID %s) ***\n' $pid; kill $pid" SIGINT SIGHUP SIGABRT
+trap "printf '\n\n*** Kill webserver (PID %s) ***\n' $pid; \
+    kill $pid; \
+    git checkout ../languages ../projects; \
+    git clean -f ../languages ../projects" SIGINT SIGHUP SIGABRT
 sleep 5
 
 echo ""
