@@ -2,6 +2,7 @@ import datetime
 import logging
 import os
 import pathlib
+import shutil
 
 import snakemd
 import subete
@@ -164,9 +165,25 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         .insert_link(program.language_name(), program.language_collection().lang_docs_url()) \
         .insert_link(program.project_name(), program.project().requirements_url())
     doc.add_heading("Current Solution", level=2)
-    doc.add_paragraph("{% raw %}")
-    doc.add_code(program.code().strip(), lang=program.language_name().lower())
-    doc.add_paragraph("{% endraw %}")
+
+    if program.image_type():
+        image_dest = path / pathlib.Path(program.project_path()).name
+        shutil.copy(program.project_path(), image_dest)
+        doc.add_block(
+            snakemd.Paragraph(
+                [
+                    snakemd.Inline(
+                        f"{program.project_name()} in {program.language_name()}",
+                        image="/" + "/".join(image_dest.parts[1:])
+                    )
+                ]
+            )
+        )
+    else:
+        doc.add_paragraph("{% raw %}")
+        doc.add_code(program.code().strip(), lang=program.language_name().lower())
+        doc.add_paragraph("{% endraw %}")
+
     doc.add_paragraph(f"{program} was written by:") \
         .insert_link(program.language_name(), program.language_collection().lang_docs_url()) \
         .insert_link(program.project_name(), program.project().requirements_url())
