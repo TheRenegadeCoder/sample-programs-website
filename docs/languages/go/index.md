@@ -37,3 +37,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Roman Numeral in Go](https://sampleprograms.io/projects/roman-numeral/go)
 - [Rot13 in Go](https://sampleprograms.io/projects/rot13/go)
 - [Selection Sort in Go](https://sampleprograms.io/projects/selection-sort/go)
+- [Sleep Sort in Go](https://sampleprograms.io/projects/sleep-sort/go)

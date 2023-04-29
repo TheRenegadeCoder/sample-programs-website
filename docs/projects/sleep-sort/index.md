@@ -76,6 +76,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 - [Sleep Sort in C#](https://sampleprograms.io/projects/sleep-sort/c-sharp)
 - [Sleep Sort in Dart](https://sampleprograms.io/projects/sleep-sort/dart)
 - [Sleep Sort in Euphoria](https://sampleprograms.io/projects/sleep-sort/euphoria)
+- [Sleep Sort in Go](https://sampleprograms.io/projects/sleep-sort/go)
 - [Sleep Sort in Php](https://sampleprograms.io/projects/sleep-sort/php)
 - [Sleep Sort in Python](https://sampleprograms.io/projects/sleep-sort/python)
 - [Sleep Sort in Rust](https://sampleprograms.io/projects/sleep-sort/rust)
