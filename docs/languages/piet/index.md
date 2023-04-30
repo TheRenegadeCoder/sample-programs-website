@@ -14,4 +14,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+- [Baklava in Piet](https://sampleprograms.io/projects/baklava/piet)
 - [Hello World in Piet](https://sampleprograms.io/projects/hello-world/piet)

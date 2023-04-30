@@ -94,6 +94,7 @@ Verify that the actual output matches the expected output
 - [Baklava in Perl](https://sampleprograms.io/projects/baklava/perl)
 - [Baklava in Phix](https://sampleprograms.io/projects/baklava/phix)
 - [Baklava in Php](https://sampleprograms.io/projects/baklava/php)
+- [Baklava in Piet](https://sampleprograms.io/projects/baklava/piet)
 - [Baklava in Python](https://sampleprograms.io/projects/baklava/python)
 - [Baklava in Ruby](https://sampleprograms.io/projects/baklava/ruby)
 - [Baklava in Rust](https://sampleprograms.io/projects/baklava/rust)
