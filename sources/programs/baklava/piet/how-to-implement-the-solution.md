@@ -55,13 +55,13 @@ The data pointer (DP), controls the flow of the program. The program starts
 at (0, 0), and DP points to the right. When DP hits an edge or black cell
 it rotates clockwise. The program terminates when there is nowhere to go.
 
-### Display n Spaces
+### Display `n` Spaces
 
-![Space Loop 1](/docs/assets/images/projects/baklava/piet/space-loop1.png)
+![Space Loop 1](/assets/images/projects/baklava/piet/space-loop1.png)
 
 #### First Space Loop Initialization
 
-n = 10:
+`n = 10`:
 
 ```
 ( 0,  0): push 2  # 2
@@ -69,15 +69,15 @@ n = 10:
 ( 0,  4): *       # 10
 ```
 
-k = n:
+`k = n`:
 
 ```
 ( 0,  5): dup     # 10, 10
 ```
 
-#### First space loop
+#### First Space Loop
 
-Output " ":
+Output `" "`:
 
 ```
 ( 0,  6): push 4  # n, k, 4
@@ -88,7 +88,7 @@ Output " ":
 ( 0, 15): outc    # n, k
 ```
 
-k = k - 1:
+`k = k - 1`:
 
 ```
 ( 0, 16): push 1  # n, k, 1
@@ -99,15 +99,19 @@ k = k - 1:
 ( 0, 21): >       # n, k - 1, (k - 1) > 0
 ```
 
-If (k - 1) > 0, DP points down; otherwise, DP still points right.
+If `(k - 1) > 0`, DP points down; otherwise, DP still points right.
 
 ```
 ( 0, 22): DP+     # n, k - 1
 ```
 
-For the case where (k - 1) > 0, a bunch of no op's (the white cells) are
-executed, and the program goes back to (0, 6). Otherwise, the program
-continues on to (0, 23).
+For the case where `(k - 1) > 0`, a bunch of no-ops (the white cells) are
+executed, and the program goes back to `(0, 6)`. Otherwise, the program
+continues on to `(0, 23)`.
+
+### Display `21 - 2 * n` Asterisks
+
+![Asterisk Loop 1](/assets/images/projects/baklava/piet/asterisk-loop1.png)
 
 ## Further Reading
 
@@ -115,7 +119,7 @@ If you'd like to learn more about the Piet language, see the [Official Site][3].
 
 ## Credits
 
-The painting used in this image is called [Boogie-Woogie Victory][1],
+The painting used in this image is called [Victory Boogie-Woogie][1],
 painted by [Piet Mondrian][2] in 1944 in expectation of victory in World War
 II.
 
@@ -126,3 +130,4 @@ for helping me fix a termination issue in this program.
 
 [1]: https://www.piet-mondrian.org/victory-boogie-woogie.jsp
 [2]: https://en.wikipedia.org/wiki/Piet_Mondrian
+[3]: https://www.dangermouse.net/esoteric/piet.html
