@@ -1,20 +1,20 @@
 ---
-title: Hello World in Piet
+title: Baklava in Piet
 layout: default
-date: 2023-04-25
-last-modified: 2023-04-25
+date: 2023-04-30
+last-modified: 2023-04-30
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Piet](https://sampleprograms.io/languages/piet) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Piet](https://sampleprograms.io/languages/piet) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
-![Hello World in Piet](/projects/hello-world/piet/hello-world.png)
+![Baklava in Piet](/projects/baklava/piet/baklava.png)
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Piet](https://sampleprograms.io/languages/piet) was written by:
+[Baklava](https://sampleprograms.io/projects/baklava) in [Piet](https://sampleprograms.io/languages/piet) was written by:
 
-- alope107
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
