@@ -57,7 +57,7 @@ it rotates clockwise. The program terminates when there is nowhere to go.
 
 ### Display n Spaces
 
-![Space Loop 1](space-loop1.png)
+![Space Loop 1](/docs/assets/images/projects/baklava/piet/space-loop1.png)
 
 #### First Space Loop Initialization
 
