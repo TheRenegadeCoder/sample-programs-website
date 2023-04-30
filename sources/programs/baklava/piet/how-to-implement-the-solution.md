@@ -41,7 +41,14 @@ Instructions are shown in the following format:
 The `>` instruction pops the two top stack items. If the second stack item is
 greater than the top stack item, 1 pushed; otherwise, 0 is pushed.
 
-- Stack (before): 5, 4
+Greater than example:
+
+- Stack (before): ..., 5 (2nd), 4 (top)
+- Stack (after): 1
+
+Not greater than example:
+
+- Stack (before): ..., 3 (2nd), 4 (top)
 - Stack (after): 0
 
 The data pointer (DP), controls the flow of the program. The program starts
@@ -99,8 +106,8 @@ If (k - 1) > 0, DP points down; otherwise, DP still points right.
 ```
 
 For the case where (k - 1) > 0, a bunch of no op's (the white cells) are
-executed, program goes back to (0, 6). Otherwise, the program continues
-on to (0, 23).
+executed, and the program goes back to (0, 6). Otherwise, the program
+continues on to (0, 23).
 
 ## Further Reading
 
@@ -115,7 +122,7 @@ II.
 ## Thanks
 
 Thanks to `alope107` for introducing me to the Piet esoteric language and
-for helping me fix a termination issue in this Baklava program.
+for helping me fix a termination issue in this program.
 
 [1]: https://www.piet-mondrian.org/victory-boogie-woogie.jsp
 [2]: https://en.wikipedia.org/wiki/Piet_Mondrian
