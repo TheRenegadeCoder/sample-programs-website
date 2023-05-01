@@ -55,7 +55,7 @@ The data pointer (DP), controls the flow of the program. The program starts
 at `(0, 0)`, and DP points to the right. When DP hits an edge or black cell
 it rotates clockwise. The program terminates when there is nowhere to go.
 
-### Display `n` Spaces
+### Display n Spaces
 
 ![Space Loop 1](/assets/images/projects/baklava/piet/space-loop1.png)
 
@@ -109,7 +109,7 @@ For the case where `(k - 1) > 0`, a bunch of no-ops (the white cells) are
 executed, and the program goes back to `(6, 0)`. Otherwise, the program
 continues on to the next instruction at `(22, 0)`.
 
-### Display `21 - 2 * n` Asterisks
+### Display 21 - 2 * n Asterisks
 
 ![Asterisk Loop 1](/assets/images/projects/baklava/piet/asterisk-loop1.png)
 
