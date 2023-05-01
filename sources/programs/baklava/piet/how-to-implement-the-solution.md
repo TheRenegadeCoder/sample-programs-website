@@ -6,10 +6,10 @@ foray into such languages. If that wasn't difficult enough, Piet is a
 graphical language, so you can't just pop into a text editor to create a
 program. Instead, you have to use an [online editor][6] to even create a
 program. To make things even more interesting, Piet uses a rotating color
-palette, where the color of the next instruction depends upon the previous
-color. Finally, it is a stack-based language, so programming in it is akin to
-programming an old [Hewlett-Packard calculator][5]. If you'd like to learn
-more about the Piet language, see the [Official Site][3].
+palette, where the color of the next instruction depends upon the current
+instruction. Finally, it is a stack-based language, so programming in it is
+akin to programming an old [Hewlett-Packard calculator][5]. If you'd like to
+learn more about the Piet language, see the [Official Site][3].
 
 Without further ado, let's dive in the implementation!
 
@@ -39,8 +39,8 @@ This sample program implements Baklava using two main loops:
     where `m` equals 19, 17, ..., 1.
 
 If this is enough for you, then just jump to the [Credits section](#credits).
-Otherwise, strap yourself in, and prepare for a very detailed description of
-that goes through what each codel (code element) does.
+Otherwise, strap yourself in, and prepare for a very detailed description that
+goes through what each codel (code element) does.
 
 ## Very Detailed Description
 
@@ -68,6 +68,10 @@ The program is divided into a number parts which are detailed in subsequent
 sections of this article. The parts are annotated with letters as follows:
 
 ![Annotated Baklava in Piet](/assets/images/projects/baklava/piet/baklava-annotated.png)
+
+Click
+<a href="/assets/images/projects/baklava/piet/baklava-annotated.png" target="_blank">here</a>
+to open the diagram in a separate page so that you can refer back to it.
 
 ### Output Top 10 Lines (A thru G)
 
@@ -117,7 +121,7 @@ Check whether the `k` is greater than `0` and branch accordingly:
 (21, 0): DP+     # n, k
 ```
 
-If `k` is greater than 0, DP rotates clockwise, so a bunch of no-ops are
+If `k` is greater than `0`, DP rotates clockwise, so a bunch of no-ops are
 executed, and the program goes back to the beginning of B. Otherwise, DP is
 unchanged, so the program continues on to the beginning of C.
 
@@ -179,8 +183,8 @@ Check whether `m` is greater than `0` and branch accordingly:
 ```
 
 If `m` is greater than `0`, DP rotates clockwise, so a bunch of no-ops are
-executed, and the program goes back to the beginning of C. Otherwise, DP is
-unchanged, so the program continues on to the beginning of D.
+executed, and the program goes back to the beginning of D. Otherwise, DP is
+unchanged, so the program continues on to the beginning of E.
 
 #### Output Newline (E)
 
@@ -243,13 +247,15 @@ as 1 step counter-clockwise, so the program goes to the beginning of H.
 
 The program then executes a bunch of no-ops and goes back to the beginning of B.
 
-### Output Bottom 11 Lines (H thru M)
+### Output Bottom 11 Lines (H thru N)
 
 #### Asterisk Loop Initialization (H)
 
 Drop `n`:
 
+```
 (39, 4): pop     # empty
+```
 
 Skip through a bunch of no-ops. Then, rotate DP 3 steps clockwise (1 step
 counter-clockwise):
@@ -305,7 +311,7 @@ Check if `k` is greater than `0` and branch accordingly:
 (23, 7): DP+     # m, k
 ```
 
-If `k` is greater than 0, DP rotates clockwise, so a bunch of no-ops are
+If `k` is greater than `0`, DP rotates clockwise, so a bunch of no-ops are
 executed, and the program goes back to the beginning of I. Otherwise, DP is
 unchanged, so the program continues on to the beginning of J.
 
@@ -316,7 +322,7 @@ Drop `k`:
 ```
 (24, 7): pop     # m
 ```
-Output `"\n'`:
+Output `"\n"`:
 
 ```
 (25, 7): push 2  # m, 2
@@ -365,7 +371,7 @@ K. Otherwise, DP is rotated clockwise, so go to the beginning of N.
 (54, 7): add     # m, 10 - floor(m / 2) (n)
 ```
 
-# Space Loop (L)
+#### Space Loop (L)
 
 Output `" "`:
 
@@ -434,7 +440,7 @@ The image for this article is based on a painting by [Piet Mondrian][2] called
 [Victory Boogie-Woogie][1]. He painted this in 1944 in expectation of victory
 in World War II. I chose this painting because its shape matches the output
 of the program. I copied it to the left and right just to fill in the empty
-spaces, and I thought it looked cool!
+spaces, and I thought it looks cool!
 
 ## Thanks
 
