@@ -440,7 +440,7 @@ The image for this article is based on a painting by [Piet Mondrian][2] called
 [Victory Boogie-Woogie][1]. He painted this in 1944 in expectation of victory
 in World War II. I chose this painting because its shape matches the output
 of the program. I copied it to the left and right just to fill in the empty
-spaces, and I thought it looks cool!
+spaces, and I think it looks cool!
 
 ## Thanks
 
