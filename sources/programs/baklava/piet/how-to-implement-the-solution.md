@@ -38,7 +38,11 @@ This sample program implements Baklava using two main loops:
 
     where `m` equals 19, 17, ..., 1.
 
-## Detailed Description
+If this is enough for you, then just jump to the [Credits section](#credits).
+Otherwise, strap yourself in, and prepare for a very detailed description of
+that goes through what each codel (code element) does.
+
+## Very Detailed Description
 
 ASCII characters need to be encoded as numbers. The following numbers are
 used:
@@ -234,7 +238,7 @@ as 1 step counter-clockwise, so the program goes to the beginning of H.
 `k = n`:
 
 ```
-(39, 3): dup     # n, k
+(39,  3): dup     # n, k
 ```
 
 The program then executes a bunch of no-ops and goes back to the beginning of B.
@@ -242,6 +246,187 @@ The program then executes a bunch of no-ops and goes back to the beginning of B.
 ### Output Bottom 11 Lines (H thru M)
 
 #### Asterisk Loop Initialization (H)
+
+Drop `n`:
+
+(39,  4): pop     # empty
+
+Skip through a bunch of no-ops. Then, rotate DP 3 steps clockwise (1 step
+counter-clockwise):
+
+```
+( 4,  5): push 3  # 3
+( 1,  5): DP+     # empty
+```
+
+Skip through a no-op. Then, set `m = 21`:
+
+```
+( 0,  7): push 3  # 3
+( 0,  8): push 7  # 3, 7
+( 5,  7): mult    # 21 (m)
+```
+
+`k = m`:
+
+```
+( 6,  7): dup     # m, k
+```
+
+#### Asterisk Loop (I)
+
+Output `"*"`:
+
+```
+( 7,  7): push 3  # m, k, 3
+(10,  7): dup     # m, k, 3, 3
+(11,  7): add     # m, k, 6
+(12,  7): dup     # m, k, 6, 6
+(13,  7): dup     # m, k, 6, 6, 6
+(14,  7): mult    # m, k, 6, 36
+(15,  7): add     # m, k, 42
+(16,  7): outc    # m, k
+```
+
+`k = k - 1`:
+
+```
+(17,  7): push 1  # m, k, 1
+(18,  7): sub     # m, k - 1
+```
+
+Check if `k` is greater than `0` and branch accordingly:
+
+```
+(19,  7): dup     # m, k, k
+(20,  7): push 1  # m, k, k, 1
+(21,  7): not     # m, k, k, 0
+(22,  7): gt      # m, k, 1 if k > 0 else 0
+(23,  7): DP+     # m, k
+```
+
+If `k` is greater than 0, DP rotates clockwise, so a bunch of no-ops are
+executed, and the program goes back to the beginning of I. Otherwise, DP is
+unchanged, so the program continues on to the beginning of J.
+
+#### Output Newline and Check If Last Line (J)
+
+Drop `k`:
+
+```
+(24,  7): pop     # m
+```
+Output `"\n'`:
+
+```
+(25,  7): push 2  # m, 2
+(27,  7): push 5  # m, 2, 5
+(29,  7): mult    # m, 10
+(30,  7): outc    # m
+```
+
+`m = m - 2`:
+
+```
+(31,  7): push 2  # m, 2
+(33,  7): sub     # m - 2
+```
+
+Check if `m` is greater than `0` and branch accordingly:
+
+```
+(34,  7): dup     # m, m
+(35,  7): push 1  # m, m, 1
+(36,  7): not     # m, m, 0
+(37,  7): gt      # m, 1 if m > 0 else 0
+(38,  7): not     # m, 0 if m > 0 else 1
+(39,  7): DP+     # m
+```
+
+If `m` is greater than 0, DP is unchanged, so continue on to the beginning of
+K. Otherwise, DP is rotated clockwise, so go to the beginning of N.
+
+#### Space Loop Initialization (K)
+
+`n = 10 - floor(m / 2)`:
+
+```
+(40,  7): dup     # m, m
+(41,  7): push 2  # m, m, 2
+(43,  7): div     # m, floor(m / 2)
+(44,  7): push 1  # m, floor(m / 2), 1
+(45,  7): not     # m, floor(m / 2), 0
+(46,  7): push 1  # m, floor(m / 2), 0, 1
+(47,  7): sub     # m, floor(m / 2), -1
+(48,  7): mult    # m, -floor(m / 2)
+(49,  7): push 2  # m, -floor(m / 2), 2
+(51,  7): push 5  # m, -floor(m / 2), 2, 5
+(53,  7): mult    # m, -floor(m / 2), 10
+(54,  7): add     # m, 10 - floor(m / 2) (n)
+```
+
+# Space Loop (L)
+
+Output `" "`:
+
+```
+(55,  7): push 4  # m, n, 4
+(59,  7): dup     # m, n, 4, 4
+(60,  7): mult    # m, n, 16
+(61,  7): dup     # m, n, 16, 16
+(62,  7): add     # m, n, 32
+(63,  7): outc    # m, n
+```
+
+`n = n - 1`:
+
+```
+(64,  7): push 1  # m, n, 1
+(65,  7): sub     # m, n - 1
+```
+
+Check if `n` is greater than `0` and branch accordingly:
+
+```
+(66,  7): dup     # m, n, n
+(67,  7): push 1  # m, n, n, 1
+(68,  7): not     # m, n, n, 0
+(69,  7): gt      # m, n, 1 if n > 0 else 0
+(70,  7): DP+     # m, n
+```
+
+If `n` is greater than `0`, DP is rotated clockwise, so a bunch of no-ops
+are executed, and the program goes back to the beginning of L. Otherwise,
+DP is unchanged, and the program continues on to the beginning of M.
+
+### Setup For Next Line
+
+Drop `n`:
+
+```
+(71,  7): pop     # m
+```
+
+`k = m`:
+
+```
+(71,  8): dup     # m, k
+```
+
+After that a bunch of no-ops are executed, and the program goes back to the
+beginning of I.
+
+#### Termination (N)
+
+Drop `n`:
+
+```
+(40,  7): pop     # empty
+```
+
+After that the program will terminate since there is nowhere else to go. I
+struggled with this, trying different shapes. Finally, the cross shape seemed
+to do the trick.
 
 ## Credits
 
@@ -253,7 +438,7 @@ in World War II.
 
 Thanks to `alope107` for introducing me to the Piet esoteric language and
 for helping me fix a termination issue with this program (in other words,
-I couldn't get the thing to stop running!).
+I couldn't get the silly thing to stop running!).
 
 [1]: https://www.piet-mondrian.org/victory-boogie-woogie.jsp
 [2]: https://en.wikipedia.org/wiki/Piet_Mondrian
