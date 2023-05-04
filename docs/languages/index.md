@@ -2,11 +2,11 @@
 title: Programming Languages
 layout: default
 date: 2018-03-15
-last-modified: 2023-04-30
+last-modified: 2023-05-04
 
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 164 languages, of which 43 are tested, and 768 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 165 languages, of which 44 are tested, and 769 code snippets.
 
 ## Language Collections by Letter
 
@@ -284,6 +284,12 @@ The 'W' collection contains 4 languages, of which 0 are tested, and 4 code snipp
 - [Wren](https://sampleprograms.io/languages/wren)
 - [Wu](https://sampleprograms.io/languages/wu)
 - [Wyvern](https://sampleprograms.io/languages/wyvern)
+
+### X
+
+The 'X' collection contains 1 language, of which 1 is tested, and 1 code snippets.
+
+- [X86 64](https://sampleprograms.io/languages/x86-64)
 
 ### Z
 
