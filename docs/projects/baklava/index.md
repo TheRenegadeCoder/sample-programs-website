@@ -101,6 +101,7 @@ Verify that the actual output matches the expected output
 - [Baklava in Solisp](https://sampleprograms.io/projects/baklava/solisp)
 - [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
 - [Baklava in Typescript](https://sampleprograms.io/projects/baklava/typescript)
+- [Baklava in X86 64](https://sampleprograms.io/projects/baklava/x86-64)
 
 ***
 
