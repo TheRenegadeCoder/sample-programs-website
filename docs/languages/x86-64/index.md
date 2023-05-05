@@ -15,4 +15,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 ## Articles
 
 - [Baklava in X86 64](https://sampleprograms.io/projects/baklava/x86-64)
+- [Fizz Buzz in X86 64](https://sampleprograms.io/projects/fizz-buzz/x86-64)
 - [Hello World in X86 64](https://sampleprograms.io/projects/hello-world/x86-64)
