@@ -12,7 +12,7 @@ Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [O
 
 {% raw %}
 
-```objective c
+```objective_c
 //
 //  main.m
 //

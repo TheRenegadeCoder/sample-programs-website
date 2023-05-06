@@ -12,7 +12,7 @@ Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [O
 
 {% raw %}
 
-```objective c
+```objective_c
 #import <Foundation/Foundation.h>
 
 int main(int argc, const char * argv[]) {

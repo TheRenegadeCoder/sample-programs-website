@@ -12,7 +12,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 {% raw %}
 
-```ti basic
+```ti_basic
 ClrHome
 Disp "HELLO, WORLD!"
 ```

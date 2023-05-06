@@ -12,7 +12,7 @@ Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input
 
 {% raw %}
 
-```objective c
+```objective_c
 #import <Foundation/Foundation.h>
 
 NSString* readFileWith(NSString* path) {

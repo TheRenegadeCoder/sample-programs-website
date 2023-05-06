@@ -12,7 +12,7 @@ Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Objec
 
 {% raw %}
 
-```objective c
+```objective_c
 #import <Foundation/Foundation.h>
 int main (int argc, char *argv[])
 {

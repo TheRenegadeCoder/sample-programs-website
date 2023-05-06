@@ -14,7 +14,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 {% raw %}
 
-```visual basic
+```visual_basic
 Public Module HelloWorld
   Public Sub Main()
     System.Console.WriteLine("Hello, World!")

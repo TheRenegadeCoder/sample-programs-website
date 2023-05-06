@@ -12,7 +12,7 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 
 {% raw %}
 
-```objective c
+```objective_c
 #import <Foundation/Foundation.h>
 
 @interface StringHelper:NSObject

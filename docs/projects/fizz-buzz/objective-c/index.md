@@ -12,7 +12,7 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Obj
 
 {% raw %}
 
-```objective c
+```objective_c
 #import <Foundation/Foundation.h>
 
 int main (int argc, const char *argv[]){

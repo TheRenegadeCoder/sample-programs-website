@@ -12,7 +12,7 @@ Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Obj
 
 {% raw %}
 
-```objective c
+```objective_c
 //
 //  main.m
 //  Factorial in ObjC

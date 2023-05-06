@@ -12,7 +12,7 @@ Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [O
 
 {% raw %}
 
-```objective c
+```objective_c
 ////////////////MERGE-SORT////////////////
 NSArray* mergeArrays(NSArray* A, NSArray* B) 
 {

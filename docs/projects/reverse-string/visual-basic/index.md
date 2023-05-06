@@ -14,7 +14,7 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 
 {% raw %}
 
-```visual basic
+```visual_basic
 Public Module ReverseString
   Public Sub Main(args() As String)
     Dim input = String.Empty

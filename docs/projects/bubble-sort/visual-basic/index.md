@@ -12,7 +12,7 @@ Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in 
 
 {% raw %}
 
-```visual basic
+```visual_basic
 Public Module BubbleSort
     Public Sub Main(args As String())
         Console.WriteLine("GetCommandLineArgs: {0}", String.Join(", ", args))

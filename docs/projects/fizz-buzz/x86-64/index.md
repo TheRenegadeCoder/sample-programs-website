@@ -12,7 +12,7 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [X86
 
 {% raw %}
 
-```x86 64
+```x86_64
 section .data
     fizz db "Fizz"
     fizz_len equ $-fizz

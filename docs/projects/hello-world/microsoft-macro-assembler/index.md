@@ -12,7 +12,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 {% raw %}
 
-```microsoft macro assembler
+```microsoft_macro_assembler
 PAGE 60,132
 ;
 .8086

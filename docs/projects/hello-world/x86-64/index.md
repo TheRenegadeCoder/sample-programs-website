@@ -12,7 +12,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 {% raw %}
 
-```x86 64
+```x86_64
 section .rodata
     message db 'Hello, World!'
     message_len equ $-message

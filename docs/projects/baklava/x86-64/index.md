@@ -12,7 +12,7 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [X86 64]
 
 {% raw %}
 
-```x86 64
+```x86_64
 section .data
     star db "*"
     space db " "

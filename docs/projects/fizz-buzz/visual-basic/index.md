@@ -12,7 +12,7 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Vis
 
 {% raw %}
 
-```visual basic
+```visual_basic
 Option Explicit On
 Module FizzBuzz
     Public Sub Main()

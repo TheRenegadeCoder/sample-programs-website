@@ -14,7 +14,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 {% raw %}
 
-```google apps script
+```google_apps_script
 function helloWorld() {
   Logger.log("Hello, World!");
 }

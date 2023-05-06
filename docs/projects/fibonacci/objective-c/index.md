@@ -12,7 +12,7 @@ Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Obj
 
 {% raw %}
 
-```objective c
+```objective_c
 #include <stdio.h>
 
 int fibonacci(int n)
