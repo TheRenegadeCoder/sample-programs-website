@@ -99,6 +99,7 @@ Usage: please input a number
 - [Even Odd in Rust](https://sampleprograms.io/projects/even-odd/rust)
 - [Even Odd in Scala](https://sampleprograms.io/projects/even-odd/scala)
 - [Even Odd in Swift](https://sampleprograms.io/projects/even-odd/swift)
+- [Even Odd in X86 64](https://sampleprograms.io/projects/even-odd/x86-64)
 
 ***
 
