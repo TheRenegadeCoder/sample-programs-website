@@ -1,8 +1,8 @@
 ---
 title: Cobol
 layout: default
-date: 2018-04-26
-last-modified: 2018-04-26
+date: 2021-10-09
+last-modified: 2021-10-09
 
 ---
 

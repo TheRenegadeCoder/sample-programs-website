@@ -20,14 +20,16 @@ fn usage() -> ! {
     println!("Usage: please provide a string");
     exit(0);
 }
-fn remove__all_whitespaces(s: String) -> String {
+fn remove_all_whitespaces(s: String) -> String {
     s.chars().filter(|c| !c.is_whitespace()).collect()
 }
 
 fn main() {
+    let mut args = args().skip(1);
+
     // Get first command-line argument
-    let s: String = args()
-        .nth(1)
+    let s: String = args
+        .next()
         .unwrap_or_else(|| usage());
 
     // Make sure not empty
@@ -36,7 +38,7 @@ fn main() {
     }
 
     // Remove all whitespace and show results
-    let t: String = remove__all_whitespaces(s);
+    let t: String = remove_all_whitespaces(s);
     println!("{t}");
 }
 ```
@@ -48,6 +50,8 @@ fn main() {
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 08 2023 19:53:07. The solution was first committed on Apr 09 2023 10:29:20. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

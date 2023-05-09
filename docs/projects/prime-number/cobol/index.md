@@ -14,7 +14,7 @@ Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) i
 
 ```cobol
 IDENTIFICATION DIVISION.
-        PROGRAM-ID. HELLO-WORLD.
+        PROGRAM-ID. PRIME-NUMBER.
         DATA DIVISION.
         WORKING-STORAGE SECTION.
           01 CMDARGS     PIC X(38).
@@ -73,9 +73,12 @@ IDENTIFICATION DIVISION.
 
 [Prime Number](https://sampleprograms.io/projects/prime-number) in [Cobol](https://sampleprograms.io/languages/cobol) was written by:
 
+- Ron Zuckerman
 - Sudhanshu Dubey
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 08 2023 19:11:58. The solution was first committed on Oct 12 2021 18:48:29. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

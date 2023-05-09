@@ -15,17 +15,17 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```cobol
 IDENTIFICATION DIVISION.
-PROGRAM-ID. HELLO-WORLD.
-PROCEDURE DIVISION.
-    DISPLAY "Hello, World!"
-STOP RUN.
+        PROGRAM-ID. HELLO-WORLD.
+        PROCEDURE DIVISION.
+            DISPLAY "Hello, World!"
+        STOP RUN.
 ```
 
 {% endraw %}
 
 [Hello World](https://sampleprograms.io/projects/hello-world) in [Cobol](https://sampleprograms.io/languages/cobol) was written by:
 
-- Jeremy Grifski
+- Ron Zuckerman
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

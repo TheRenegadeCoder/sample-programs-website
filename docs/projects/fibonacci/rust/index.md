@@ -15,7 +15,7 @@ Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Rus
 ```rust
 use std::env::args;
 use std::process::exit;
-use std::num::ParseIntError;
+use std::str::FromStr;
 
 const LIMIT: i32 = 93;
 
@@ -24,8 +24,8 @@ fn usage() -> ! {
     exit(0);
 }
 
-fn parse_int(s: String) -> Result<i32, ParseIntError> {
-    s.trim().parse::<i32>()
+fn parse_int<T: FromStr>(s: &str) -> Result<T, <T as FromStr>::Err> {
+    s.trim().parse::<T>()
 }
 
 fn fibonacci(terms: i32) {
@@ -35,22 +35,21 @@ fn fibonacci(terms: i32) {
     } else {
         let mut a = 0u64;
         let mut b = 1u64;
-        let mut c = 0u64;
         for i in 1..(terms + 1) {
-            c = a + b;
-            b = a;
-            a = c;
-
-            println!("{i}: {c}");
+            (a, b) = (b, a + b);
+            println!("{i}: {a}");
         }
     }
 }
 
 fn main() {
+    let mut args = args().skip(1);
+
     // Exit if 1st command-line argument not an integer
-    let mut input_num: i32 = parse_int(
-        args().nth(1).unwrap_or_else(|| usage())
-    ).unwrap_or_else(|_| usage());
+    let mut input_num: i32 = args
+        .next()
+        .and_then(|s| parse_int(&s).ok())
+        .unwrap_or_else(|| usage());
 
     // Show request number of Fibonacci numbers
     fibonacci(input_num);
@@ -66,7 +65,7 @@ fn main() {
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2023 23:48:08. The solution was first committed on Oct 05 2018 09:33:10. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 08 2023 19:53:07. The solution was first committed on Oct 05 2018 09:33:10. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

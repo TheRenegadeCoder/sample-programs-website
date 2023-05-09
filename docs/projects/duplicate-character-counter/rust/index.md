@@ -22,7 +22,7 @@ fn usage() -> ! {
     exit(0);
 }
 
-fn duplicate_character_counter(s: &String) -> HashMap<char, usize> {
+fn duplicate_character_counter(s: &str) -> HashMap<char, usize> {
     let mut counts: HashMap<char, usize> = HashMap::new();
 
     // Count number of occurances of each character
@@ -34,7 +34,7 @@ fn duplicate_character_counter(s: &String) -> HashMap<char, usize> {
 }
 
 fn show_duplicate_character_counts(
-    s: &String, counts: &HashMap<char, usize>
+    s: &str, counts: &HashMap<char, usize>
 ) {
     // Show characters that have duplicates and keep track of
     // which duplicate characters are found
@@ -54,16 +54,19 @@ fn show_duplicate_character_counts(
 }
 
 fn main() {
+    let mut args = args().skip(1);
+
     // Get 1st command-line argument. Error if empty
-    let s: String = args().nth(1)
-        .unwrap_or_else(|| "".to_string());
+    let s: &str = &args
+        .next()
+        .unwrap_or_else(|| usage());
     if s.len() < 1 {
         usage();
     }
 
     // Count duplicate characters and show results
-    let counts: &HashMap<char, usize> = &duplicate_character_counter(&s);
-    show_duplicate_character_counts(&s, counts);
+    let counts: HashMap<char, usize> = duplicate_character_counter(&s);
+    show_duplicate_character_counts(&s, &counts);
 }
 ```
 
@@ -74,6 +77,8 @@ fn main() {
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 08 2023 19:53:07. The solution was first committed on Apr 09 2023 11:02:14. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

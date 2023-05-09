@@ -21,7 +21,7 @@ fn usage() -> ! {
     exit(0);
 }
 
-fn get_longest_word_len(s: String) -> usize {
+fn get_longest_word_len(s: &str) -> usize {
     s.trim()
         .split_whitespace()
         .map(|t| t.len())
@@ -30,10 +30,12 @@ fn get_longest_word_len(s: String) -> usize {
 }
 
 fn main() {
+    let mut args = args().skip(1);
+
     // Exit if 1st command-line argument is empty
-    let s: String = args()
-        .nth(1)
-        .unwrap_or_else(|| "".to_string());
+    let s: &str = &args
+        .next()
+        .unwrap_or_else(|| usage());
     if s.len() < 1 {
         usage();
     }
@@ -50,6 +52,8 @@ fn main() {
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 08 2023 19:53:07. The solution was first committed on Apr 09 2023 10:44:25. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

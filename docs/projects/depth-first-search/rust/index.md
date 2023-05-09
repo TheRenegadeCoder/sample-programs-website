@@ -15,7 +15,7 @@ Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-fir
 ```rust
 use std::env::args;
 use std::process::exit;
-use std::num::ParseIntError;
+use std::str::FromStr;
 use std::collections::{HashMap, HashSet};
 
 fn usage() -> ! {
@@ -28,22 +28,14 @@ fn usage() -> ! {
     exit(0);
 }
 
-fn parse_int(s: String) -> Result<i32, ParseIntError> {
-    s.trim().parse::<i32>()
+fn parse_int<T: FromStr>(s: &str) -> Result<T, <T as FromStr>::Err> {
+    s.trim().parse::<T>()
 }
 
-fn parse_int_list(s_list: String) -> Option<Vec<i32>> {
-    let results: Vec<Result<i32, ParseIntError>> = s_list.split(",")
-        .map(|s| parse_int(s.to_string()))
-        .collect();
-    match results.iter().any(|s| s.is_err()) {
-        true => None,
-        false => Some(
-            results.iter()
-            .map(|result| result.clone().unwrap())
-            .collect()
-        )
-    }
+fn parse_int_list<T: FromStr>(s: &str) -> Result<Vec<T>, <T as FromStr>::Err> {
+    s.split(',')
+        .map(parse_int)
+        .collect::<Result<Vec<T>, <T as FromStr>::Err>>()
 }
 
 #[derive(Debug, Clone)]
@@ -53,8 +45,8 @@ struct Node {
 }
 
 impl Node {
-    fn new(id: i32) -> Node {
-        Node {id: id, children: HashSet::<i32>::new()}
+    fn new(id: i32) -> Self {
+        Self {id: id, children: HashSet::<i32>::new()}
     }
 
     fn add_child(&mut self, id: i32) {
@@ -69,12 +61,12 @@ struct Tree {
 }
 
 impl Tree {
-    fn new(root_id: i32) -> Tree {
-        Tree {root_id: root_id, tree: HashMap::<i32, Node>::new()}
+    fn new(root_id: i32) -> Self {
+        Self {root_id: root_id, tree: HashMap::<i32, Node>::new()}
     }
 
-    fn add_node(&mut self, from_id: i32, node: Node) {
-        self.tree.insert(from_id, node);
+    fn add_node(&mut self, from_id: i32, node: &Node) {
+        self.tree.insert(from_id, node.clone());
     }
 
     fn get_node(&self, node_id: Option<i32>) -> Option<Node> {
@@ -102,7 +94,7 @@ fn create_tree(adjacency_matrix: &Vec<i32>, vertices: &Vec<i32>) -> Tree {
             }
         }
 
-        tree.add_node(vertices[row], nodes[row].clone());
+        tree.add_node(vertices[row], &nodes[row]);
     }
 
     tree
@@ -154,26 +146,29 @@ fn depth_first_search_rec(
 }
 
 fn main() {
+    let mut args = args().skip(1);
+
     // Convert 1st command-line argument to list of integers
-    let adjacency_matrix: Vec<i32> = parse_int_list(
-        args().nth(1)
-        .unwrap_or_else(|| usage())
-    ).unwrap_or_else(|| usage());
+    let adjacency_matrix: Vec<i32> = args
+        .next()
+        .and_then(|s| parse_int_list(&s).ok())
+        .unwrap_or_else(|| usage());
 
     // Convert 2nd command-line argument to list of integers
-    let vertices: Vec<i32> = parse_int_list(
-        args().nth(2)
-        .unwrap_or_else(|| usage())
-    ).unwrap_or_else(|| usage());
+    let vertices: Vec<i32> = args
+        .next()
+        .and_then(|s| parse_int_list(&s).ok())
+        .unwrap_or_else(|| usage());
+
 
     // Convert 3rd command-line argument to integer
-    let target: i32 = parse_int(
-        args().nth(3)
-        .unwrap_or_else(|| usage())
-    ).unwrap_or_else(|_| usage());
+    let target: i32 = args
+        .next()
+        .and_then(|s| parse_int(&s).ok())
+        .unwrap_or_else(|| usage());
 
     // Create tree
-    let tree = &create_tree(&adjacency_matrix, &vertices);
+    let tree = create_tree(&adjacency_matrix, &vertices);
 
     // Run depth first search and indicate if value is found
     match depth_first_search(&tree, target) {
@@ -191,7 +186,7 @@ fn main() {
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 15 2023 12:53:19. The solution was first committed on Apr 11 2023 15:57:51. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 08 2023 19:53:07. The solution was first committed on Apr 11 2023 15:57:51. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

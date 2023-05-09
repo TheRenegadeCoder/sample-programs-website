@@ -15,7 +15,7 @@ Welcome to the [Minimum Spanning Tree](https://sampleprograms.io/projects/minimu
 ```rust
 use std::env::args;
 use std::process::exit;
-use std::num::ParseIntError;
+use std::str::FromStr;
 use std::collections::{HashMap, HashSet};
 
 fn usage() -> ! {
@@ -23,22 +23,14 @@ fn usage() -> ! {
     exit(0);
 }
 
-fn parse_int(s: String) -> Result<i32, ParseIntError> {
-    s.trim().parse::<i32>()
+fn parse_int<T: FromStr>(s: &str) -> Result<T, <T as FromStr>::Err> {
+    s.trim().parse::<T>()
 }
 
-fn parse_int_list(s_list: String) -> Option<Vec<i32>> {
-    let results: Vec<Result<i32, ParseIntError>> = s_list.split(",")
-        .map(|s| parse_int(s.to_string()))
-        .collect();
-    match results.iter().any(|s| s.is_err()) {
-        true => None,
-        false => Some(
-            results.iter()
-            .map(|result| result.clone().unwrap())
-            .collect()
-        )
-    }
+fn parse_int_list<T: FromStr>(s: &str) -> Result<Vec<T>, <T as FromStr>::Err> {
+    s.split(',')
+        .map(parse_int)
+        .collect::<Result<Vec<T>, <T as FromStr>::Err>>()
 }
 
 #[derive(Debug, Clone)]
@@ -146,11 +138,13 @@ fn get_total_mst_weight(mst: &Vec<MstResult>) -> i32 {
 }
 
 fn main() {
+    let mut args = args().skip(1);
+
     // Convert 1st command-line argument to list of integers
-    let weights: Vec<i32> = parse_int_list(
-        args().nth(1)
-        .unwrap_or_else(|| usage())
-    ).unwrap_or_else(|| usage());
+    let weights: Vec<i32> = args
+        .next()
+        .and_then(|s| parse_int_list(&s).ok())
+        .unwrap_or_else(|| usage());
 
     // Exit if number of weights is not a square
     let num_weights = weights.len();
@@ -161,10 +155,10 @@ fn main() {
     }
 
     // Create tree
-    let tree = &create_tree(&weights, num_vertices);
+    let tree = create_tree(&weights, num_vertices);
 
     // Get MST using Prim's algorithm
-    let mst = &prim_mst(&tree);
+    let mst = prim_mst(&tree);
 
     // Calculate total weight of MST and display
     println!("{}", get_total_mst_weight(&mst));
@@ -178,6 +172,8 @@ fn main() {
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 08 2023 19:53:07. The solution was first committed on Apr 20 2023 21:14:25. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -15,7 +15,7 @@ Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Cobol
 
 ```cobol
 IDENTIFICATION DIVISION.
-        PROGRAM-ID. HELLO-WORLD.
+        PROGRAM-ID. EVEN-ODD.
         DATA DIVISION.
         WORKING-STORAGE SECTION.
           01 CMDARGS PIC X(38).
@@ -40,9 +40,12 @@ IDENTIFICATION DIVISION.
 
 [Even Odd](https://sampleprograms.io/projects/even-odd) in [Cobol](https://sampleprograms.io/languages/cobol) was written by:
 
+- Ron Zuckerman
 - Sudhanshu Dubey
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 08 2023 19:11:58. The solution was first committed on Oct 09 2021 21:24:10. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 
