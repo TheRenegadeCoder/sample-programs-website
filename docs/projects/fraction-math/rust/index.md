@@ -15,7 +15,7 @@ Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math)
 ```rust
 use std::env::args;
 use std::process::exit;
-use std::num::ParseIntError;
+use std::str::FromStr;
 use std::fmt;
 use std::ops;
 use std::cmp::Ordering;
@@ -25,14 +25,14 @@ fn usage() -> ! {
     exit(0);
 }
 
-fn parse_int(s: String) -> Result<i32, ParseIntError> {
-    s.trim().parse::<i32>()
+fn parse_int<T: FromStr>(s: &str) -> Result<T, <T as FromStr>::Err> {
+    s.trim().parse::<T>()
 }
 
-fn parse_fraction(s: String) -> Option<Fraction> {
+fn parse_fraction(s: &str) -> Option<Fraction> {
     // Parse numerator, denonimator, and remainder
-    let parts: Vec<Result<i32, ParseIntError>> = s.split("/")
-        .map(|s| parse_int(s.to_string()))
+    let parts: Vec<Result<i32, <i32 as FromStr>::Err>> = s.split('/')
+        .map(parse_int)
         .collect();
 
     // Return None if numerator or denominator invalid or there was a remainder
@@ -200,21 +200,24 @@ fn fraction_math(f1: Fraction, f2: Fraction, op: String) -> FractionResult {
 }
 
 fn main() {
+    let mut args = args().skip(1);
+
     // Parse 1st command-line argument
-    let frac1 = parse_fraction(
-        args().nth(1)
-            .unwrap_or_else(|| usage())
-    ).unwrap_or_else(|| usage());
+    let frac1 = args
+        .next()
+        .and_then(|s| parse_fraction(&s))
+        .unwrap_or_else(|| usage());
 
     // Get 2nd command-line argument
-    let op = args().nth(2).
-        unwrap_or_else(|| usage());
+    let op = args
+        .next()
+        .unwrap_or_else(|| usage());
 
     // Parse 3rd command-line argument
-    let frac2 = parse_fraction(
-        args().nth(3)
-            .unwrap_or_else(|| usage())
-    ).unwrap_or_else(|| usage());
+    let frac2 = args
+        .next()
+        .and_then(|s| parse_fraction(&s))
+        .unwrap_or_else(|| usage());
 
     // Do fraction math and show result
     let result: FractionResult = fraction_math(frac1, frac2, op);
@@ -230,7 +233,7 @@ fn main() {
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 15 2023 12:49:19. The solution was first committed on Apr 12 2023 09:19:43. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 08 2023 19:53:07. The solution was first committed on Apr 12 2023 09:19:43. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 
