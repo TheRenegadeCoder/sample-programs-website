@@ -8,3 +8,6 @@ python fibonacci.py
 
 Alternatively, we can copy the solution into an [online Python interpreter][5]
 and hit run.
+
+[4]: https://docs.python.org/3/tutorial/interpreter.html
+[5]: https://www.onlinegdb.com/online_python_interpreter
