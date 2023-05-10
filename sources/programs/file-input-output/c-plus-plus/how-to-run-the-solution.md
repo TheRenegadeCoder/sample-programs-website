@@ -6,5 +6,4 @@ clang++ use the following commands:
 g++ -o program file.cpp
 clang++ -o program file.cpp
 ```
-
 And, that's it! You've successfully executed the solution.
