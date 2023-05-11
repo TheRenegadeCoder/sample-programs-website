@@ -1,4 +1,4 @@
-To run the fractions operation in python program, grab a copy of the fractions.py file
+To run the fractions operation in python program, grab a copy of the `fractions.py` file
 from GitHub. After that, get the latest version of python interpreter. Now, all you have to
 do is run the following from the command line:
 
