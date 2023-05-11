@@ -6,3 +6,7 @@ If you have installed the command line version however, save the program to Fizz
 kotlinc FizzBuzz.kt -include-runtime -d FizzBuzz.jar
 java -jar FizzBuzz.jar
 ```
+
+[2]: https://play.kotlinlang.org/
+[3]: https://www.tutorialspoint.com/compile_kotlin_online.php
+[4]: https://www.jetbrains.com/idea/

@@ -1,11 +1,11 @@
 I'm going to start with a little anecdote before getting started on the meaty
-portion of this article so feel free to skip ahead to No More Anecdote if you're
-just not that interested 😅 I completely understand.
+portion of this article, so feel free to skip ahead to [No More Anecdote](#no-more-anecdote)
+if you're just not that interested 😅, I completely understand.
 
 I realized about two weeks ago that I hadn't written anything in a while and had
 a bit of a desire to write, with nothing coming to mind on what to write. I was
 also dealing with a nagging feeling in my brain of "Should I really write another
-article?" and if I did "Who really cares if I write another article? There are
+article?", and if I did, "Who really cares if I write another article? There are
 countless others writing about the same stuff", among other negative thoughts.
 
 I went to a get together with some of my best friends to eat tacos, drink some
@@ -22,7 +22,7 @@ that some of the stuff goes over his head, I've "got a knack for it" as he said.
 
 In the end, I'd like to say thank you again to that friend of mine for the
 encouraging words, as I probably wouldn't have had the motivation to start on
-this without them 💗
+this without them 💗.
 
 ### No More Anecdote
 
@@ -47,16 +47,18 @@ with:
 
 > Write a program that prints the numbers 1 to 100. However, for multiples of
 > three, print "Fizz" instead of the number. Meanwhile, for multiples of five,
-> print "buzz" instead of the number. For numbers which are multiples of both,
+> print "Buzz" instead of the number. For numbers which are multiples of both,
 > print "FizzBuzz."
 
 This means there are a few things we need to keep in mind or consider:
 
-The minimum value of 1.
-The maximum value of 100.
-Determine which order to check for multiples to avoid missing edge cases.
-Write the output to the console.
+* The minimum value of 1.
+* The maximum value of 100.
+* Determine which order to check for multiples to avoid missing edge cases.
+* Write the output to the console.
+
 Where to Start?
+
 Well, this is where it varies for everyone. Depending on how you tend to work
 as a developer, your entry point will vary. Personally, I'll be starting by
 creating the for loop that will iterate through all the numbers we need to analyze.
@@ -74,9 +76,9 @@ of 3, 5, or both. As is the case with most modern programming languages, PowerSh
 has a modulus operator that will return the remainder of the division between two
 numbers.
 
-For example, doing Write-Output (25 % 5) would output 0, since 25 divided by 5
+For example, doing `Write-Output (25 % 5)` would output `0`, since 25 divided by 5
 has no remainder. This also happens to mean the first value is a multiple of
-the second, which we can use to determine the multiples of $x. When I first
+the second, which we can use to determine the multiples of `$x`. When I first
 wrote this script, my solution looked like so:
 
 ```powershell
@@ -84,13 +86,13 @@ for($x = 1; $x -le 100; $x++) {
   $Threes = $x%3
   $Fives = $x%5
   if (($Threes -eq 0) -and ($Fives -eq 0)) {
-    Write-Output"FizzBuzz"
+    Write-Output "FizzBuzz"
   } else if ($Threes -eq 0) {
-    Write-Output"Fizz"
+    Write-Output "Fizz"
   } else if ($Fives -eq 0) {
-    Write-Output"Buzz"
+    Write-Output "Buzz"
   } else {
-    Write-Output$x
+    Write-Output $x
   }
 }
 ```
@@ -107,7 +109,7 @@ each number.
 While he used JavaScript, the solution should be easily understandable and looks
 like so:
 
-```powershell
+```javascript
 for (var i = 1; i <= 100; i++) {
   var output = ""
   if (i % 3 === 0) output += "Fizz"
@@ -117,7 +119,7 @@ for (var i = 1; i <= 100; i++) {
 }
 ```
 
-As you can see, he creates the output variable for each iteration of $x and
+As you can see, he creates the output variable for each iteration of `$x` and
 depending on the multiples, adds or replaces values to that variable. Then, in
 the end, he outputs it to the console using console.log.
 
@@ -141,7 +143,7 @@ PowerShell.
 Now, since this is PowerShell, it's no fun just having a for loop that we need
 to copy paste. No, we need a script! 😈
 
-I created a file simply titled FizzBuzz.ps1 and got to work by adding the standard
+I created a file simply titled  FizzBuzz.ps1` and got to work by adding the standard
 goodies at the top of a PowerShell script:
 
 ```powershell
@@ -152,8 +154,8 @@ param ()
 Since I was initially writing this script for the sample programs repository I
 contribute to, I knew I wanted to support more than going from 1 to 100. Instead,
 I wanted users to be able to provide a minimum and maximum parameter that would
-let them modify the output. This simply means adding two parameters to the param
-() field like so:
+let them modify the output. This simply means adding two parameters to the `param()`
+field like so:
 
 ```powershell
 param (

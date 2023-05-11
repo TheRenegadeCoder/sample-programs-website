@@ -7,20 +7,7 @@ The Fizz-Buzz problem itself is here:
     Finally, if the number is divisible by both 3 and 5, print 'FizzBuzz' instead
     of the number. Otherwise, just print the number.
 
-Followed by the Befunge code:
-```
-1 >  :3%   v
-   v  \0   _ "zziF",,,,v
-   v  \1               <
-   > :5%   v
-   v _v#\  _ "zzuB",,,,v
-   v  >:.  v $\        <
-   v       <       @
-   > :25* ::, *1-` |
-  ^        +1      <
-```
-
-Don't worry if it looks confusing, we will break it down and go over the different sections.
+Don't worry if the code looks confusing, we will break it down and go over the different sections.
 
 ### First set
 
@@ -73,3 +60,5 @@ The middle line has three main statements. `:25*` copies the current value and p
 At the end, `|` checks for a zero on top of the stack, sending the pointer downward if it is found. If there is a 1 and the current iteration is > 99, then the `@` symbol is activated instead, ending the program.
 
 If the counter has not yet reached 100, `1+` adds 1 to it, and the pointer is sent back to the beginning of the loop.
+
+[1]: https://esolangs.org/wiki/Befunge

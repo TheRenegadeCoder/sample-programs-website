@@ -2,18 +2,6 @@ Lisp has many flavors and variations, so we will be using Clisp, the most common
 The code follows a pre-fix format, where a function or operator is followed by its arguments, even in the case of `+` or `=`.
 Every set of parenthesis is its own function.
 
-```lisp
-(dotimes (run 100)
-    (setq num (+ run 1))
-    (write-line (cond
-        ((and (= (mod num 3) 0) (= (mod num 5) 0)) "FizzBuzz")
-        ((= (mod num 3) 0) "Fizz")
-        ((= (mod num 5) 0) "Buzz")
-        (t (write-to-string num))
-    ))
-)
-```
-
 As a quick note, here are the rules to the problem:
 
     If a number is divisible by 3, print the word 'Fizz' instead of the number.
@@ -48,7 +36,7 @@ The next lines are used to print out the actual ouput, but only one of those is 
 ))
 ```
 
-Each following line is one possible output, starting with the "FizzBuzz" phrase.
+Each following line is one possible output, starting with the `"FizzBuzz"` phrase.
 
 ```lisp
 ((and (= (mod num 3) 0) (= (mod num 5) 0)) "FizzBuzz")

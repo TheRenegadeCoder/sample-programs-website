@@ -1,21 +1,3 @@
-Let's start by looking at the complete Fizz Buzz algorithm in Rust:
-
-```rust
-fn main() {
-    for number in 1..101 {
-        if number % 3 == 0 && number % 5 == 0 {
-            println!("FizzBuzz");
-        } else if number % 3 == 0 {
-            println!("Fizz");
-        } else if number % 5 == 0 {
-            println!("Buzz");
-        } else {
-            println!("{}", number);
-        }
-    }
-}
-```
-
 Before we dig into the code too much, let's take a look at the rules:
 
 * If a number is divisible by 3, print the word 'Fizz' instead of the number.
