@@ -8,3 +8,5 @@ In addition, the [user guide][1] does detail how to compile and run C* programs.
 again, that information isn't super helpful without the compiler.
 
 If you know of an official compiler, let me know in the comments.
+
+[1]: https://people.csail.mit.edu/bradley/cm5docs/CStarUsersGuide.pdf
