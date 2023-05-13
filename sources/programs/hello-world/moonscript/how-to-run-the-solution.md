@@ -24,3 +24,7 @@ moonc ./YOURFILE.moon
 ```
 
 Alternatively, you can always [run MoonScript using an online compiler][6].
+
+[4]: https://moonscript.org/#windows_binaries
+[5]: http://www.luarocks.org/
+[6]: https://moonscript.org/compiler/
