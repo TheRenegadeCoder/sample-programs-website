@@ -14,7 +14,7 @@ Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Cobol
 {% raw %}
 
 ```cobol
-IDENTIFICATION DIVISION.
+        IDENTIFICATION DIVISION.
         PROGRAM-ID. EVEN-ODD.
         DATA DIVISION.
         WORKING-STORAGE SECTION.

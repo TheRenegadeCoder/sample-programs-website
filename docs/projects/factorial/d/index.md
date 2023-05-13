@@ -13,6 +13,8 @@ Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [D](
 {% raw %}
 
 ```d
+
+
 // Factorial program in D
 
 

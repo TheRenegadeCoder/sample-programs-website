@@ -13,6 +13,7 @@ Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindrom
 {% raw %}
 
 ```perl
+
 # accept an integer, reverse it, compare it with original
 # print true, if original and reversed number are same
 # print false, if original and reversed number are same

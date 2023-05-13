@@ -13,6 +13,7 @@ Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Lua
 {% raw %}
 
 ```lua
+
 --
 -- Calculate the factorial
 --
