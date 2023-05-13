@@ -13,7 +13,7 @@ Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Cob
 {% raw %}
 
 ```cobol
-IDENTIFICATION DIVISION.
+        IDENTIFICATION DIVISION.
         PROGRAM-ID. FACTORIAL.
         DATA DIVISION.
         WORKING-STORAGE SECTION.

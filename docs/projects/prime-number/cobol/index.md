@@ -13,7 +13,7 @@ Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) i
 {% raw %}
 
 ```cobol
-IDENTIFICATION DIVISION.
+        IDENTIFICATION DIVISION.
         PROGRAM-ID. PRIME-NUMBER.
         DATA DIVISION.
         WORKING-STORAGE SECTION.

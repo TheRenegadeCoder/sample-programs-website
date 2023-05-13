@@ -14,7 +14,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```cobol
-IDENTIFICATION DIVISION.
+        IDENTIFICATION DIVISION.
         PROGRAM-ID. HELLO-WORLD.
         PROCEDURE DIVISION.
             DISPLAY "Hello, World!"

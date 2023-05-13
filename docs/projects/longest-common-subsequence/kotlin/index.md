@@ -13,6 +13,7 @@ Welcome to the [Longest Common Subsequence](https://sampleprograms.io/projects/l
 {% raw %}
 
 ```kotlin
+
 private fun lcsOf(a: MutableList<String>, b: MutableList<String>, indexA: Int, indexB: Int): MutableList<String> {
     return if (indexA < 0 || indexB < 0) {
         mutableListOf()
