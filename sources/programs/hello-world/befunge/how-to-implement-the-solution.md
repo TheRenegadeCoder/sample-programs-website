@@ -1,12 +1,6 @@
-There are many valid ways to set up a Befunge program. People tend to design for either artistic or compactness purposes. A typical example for a Hello World looks a little something like this:
+There are many valid ways to set up a Befunge program. People tend to design for either artistic or compactness purposes.
 
-```befunge
-"!dlroW ,olleH"> , v
-               | : <
-               @
-```
-
-As stated earlier, everything works off of a stack. A stack in programming is a list of values, set up sort of like a stack of papers. Only the top number can be retrieved, and new numbers are always placed on the very top. Because of this, strings have to be read in backwards, as the last letter in will be the first letter out.
+In Befunge, everything works off of a stack. A stack in programming is a list of values, set up sort of like a stack of papers. Only the top number can be retrieved, and new numbers are always placed on the very top. Because of this, strings have to be read in backwards, as the last letter in will be the first letter out.
 
 The program starts out in string mode to read in the characters. At the end of the first line, our stack will look something like this: (with translated characters below)
 
