@@ -14,7 +14,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```huginn
 main() {
-	print("Hello, World!");
+    print("Hello, World!");
 }
 ```
 

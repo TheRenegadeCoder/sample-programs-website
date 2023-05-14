@@ -55,8 +55,8 @@ int main(int ac, char **av)
         printf("Usage: please input a non-negative integer\n");
         return (1);
     }
-	prime_number(atoi(av[1]));
-	return (0);
+    prime_number(atoi(av[1]));
+    return (0);
 }
 ```
 

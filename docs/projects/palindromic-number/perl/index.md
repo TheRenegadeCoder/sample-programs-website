@@ -29,12 +29,12 @@ my ($number) = @ARGV;
 
 # if not provided, read from standard input
 if (!defined $number) {
-	$number = <STDIN>;
-	chomp $number;
+    $number = <STDIN>;
+    chomp $number;
 }
 
 if (!defined $number || $number !~ /^\d+$/ || $number < 0) {
-	usage();
+    usage();
 }
 
 my $temp = $number;
@@ -61,8 +61,8 @@ else{
 }
 
 sub usage {
-	print "Usage: please input a non-negative integer";
-	exit;
+    print "Usage: please input a non-negative integer";
+    exit;
 }
 ```
 

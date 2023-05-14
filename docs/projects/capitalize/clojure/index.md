@@ -14,7 +14,7 @@ Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [C
 
 ```clojure
 (ns capitalize
-	(:gen-class))
+    (:gen-class))
 
 (defn- is-valid-input [args]
   (and 

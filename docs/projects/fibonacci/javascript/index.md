@@ -20,9 +20,9 @@ function fibonacci(num) {
     let second = 1;
     let result = 0;
     for (let i = 1; i <= n; i++) {
-    	result = first + second;
-    	first = second;
-    	second = result;
+        result = first + second;
+        first = second;
+        second = result;
         console.log(i + ": " + first);
     }
 }

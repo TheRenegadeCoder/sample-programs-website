@@ -14,7 +14,7 @@ Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in 
 
 ```clojure
 (ns bubble-sort
-	(:gen-class))
+    (:gen-class))
   
 (defn- bubble [ys x]
   (if-let [y (peek ys)]

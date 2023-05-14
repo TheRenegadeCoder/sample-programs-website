@@ -2,11 +2,11 @@
 title: Programming Languages
 layout: default
 date: 2018-03-15
-last-modified: 2023-05-08
+last-modified: 2023-05-14
 
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 165 languages, of which 45 are tested, and 772 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 165 languages, of which 48 are tested, and 772 code snippets.
 
 ## Language Collections by Letter
 
@@ -61,7 +61,7 @@ The 'C' collection contains 15 languages, of which 7 are tested, and 94 code sni
 
 ### D
 
-The 'D' collection contains 7 languages, of which 1 is tested, and 24 code snippets.
+The 'D' collection contains 7 languages, of which 2 are tested, and 24 code snippets.
 
 - [D](https://sampleprograms.io/languages/d)
 - [Dale](https://sampleprograms.io/languages/dale)
@@ -73,7 +73,7 @@ The 'D' collection contains 7 languages, of which 1 is tested, and 24 code snipp
 
 ### E
 
-The 'E' collection contains 11 languages, of which 2 are tested, and 59 code snippets.
+The 'E' collection contains 11 languages, of which 3 are tested, and 59 code snippets.
 
 - [Egison](https://sampleprograms.io/languages/egison)
 - [Eiffel](https://sampleprograms.io/languages/eiffel)
@@ -148,7 +148,7 @@ The 'J' collection contains 4 languages, of which 3 are tested, and 64 code snip
 
 ### K
 
-The 'K' collection contains 3 languages, of which 1 is tested, and 20 code snippets.
+The 'K' collection contains 3 languages, of which 2 are tested, and 20 code snippets.
 
 - [Kitten](https://sampleprograms.io/languages/kitten)
 - [Koka](https://sampleprograms.io/languages/koka)

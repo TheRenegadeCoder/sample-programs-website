@@ -16,12 +16,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```opa
 function page() {
-	<h1>Hello, World!</h1>
+    <h1>Hello, World!</h1>
 }
 
 Server.start(
-	Server.http,
-	{~page, title: "SPEPL"}
+    Server.http,
+    {~page, title: "SPEPL"}
 )
 ```
 

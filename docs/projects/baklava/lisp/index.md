@@ -16,7 +16,7 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Lisp](h
 (defparameter space_list '(#\space))
 (defparameter star_list '(#\*))
 (dotimes (run 9)
-	(push #\space space_list))
+    (push #\space space_list))
 (dotimes (run 10)
     (write-line (concatenate 'string space_list star_list))
     (pop space_list)

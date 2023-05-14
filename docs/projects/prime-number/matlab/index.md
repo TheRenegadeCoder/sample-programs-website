@@ -16,15 +16,15 @@ Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) i
 function result = prime_number(n)
 
 if n < 0
-	result = 'Please input a non-negative integer'
+    result = 'Please input a non-negative integer'
 end
 
 if not(ischar(n))
-	result = 'Please input a non-negative integer'
+    result = 'Please input a non-negative integer'
 end
 
 if not(isempty(n)) = 1
-	result = 'Please input a non-negative integer'
+    result = 'Please input a non-negative integer'
 end
 
 if not(~isinf(x) & floor(x) == x)

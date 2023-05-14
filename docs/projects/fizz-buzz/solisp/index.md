@@ -14,7 +14,7 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Sol
 
 ```solisp
 (Join (Map num (Seq 1 100)
-	(Switch
+    (Switch
         {(== (% num 3) (% num 5) 0) "FizzBuzz"}
         {(== (% num 3) 0) "Fizz"}
         {(== (% num 5) 0) "Buzz"}

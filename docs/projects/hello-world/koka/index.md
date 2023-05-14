@@ -15,9 +15,9 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```koka
-function main() 
+fun main() 
 {
-  println("Hello, World!")
+    println("Hello, World!")
 }
 ```
 
@@ -25,7 +25,7 @@ function main()
 
 [Hello World](https://sampleprograms.io/projects/hello-world) in [Koka](https://sampleprograms.io/languages/koka) was written by:
 
-- Bassem Mohamed
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

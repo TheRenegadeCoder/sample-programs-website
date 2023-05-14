@@ -21,7 +21,7 @@ Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sor
 #include <string.h>
 
 void selectionSort(long arr[], size_t n);   // Function for Selection Sort
-void swap(long *xp, long *yp); 		   // Swap two numbers
+void swap(long *xp, long *yp);         // Swap two numbers
 
 size_t parse_list(const char *orig_list, long **arr)          // used for parsing the input in array arr
 {

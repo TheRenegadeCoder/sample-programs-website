@@ -15,8 +15,8 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 ```cyclone
 #include <stdio.h>
 int main() {
-	puts("Hello, World!");
-	return 0;
+    puts("Hello, World!");
+    return 0;
 }
 ```
 

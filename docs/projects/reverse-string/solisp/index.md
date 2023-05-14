@@ -14,11 +14,11 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 
 ```solisp
 (If (== (Length args) 0)
-	""
-	(If (== (Length (Get 0 args)) 0)
-		""
-		(Join (Tail (Reverse (Join args " "))))
-	)
+    ""
+    (If (== (Length (Get 0 args)) 0)
+        ""
+        (Join (Tail (Reverse (Join args " "))))
+    )
 )
 ```
 

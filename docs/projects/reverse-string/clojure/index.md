@@ -14,7 +14,7 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 
 ```clojure
 (ns reverse-string
-	(:gen-class))
+    (:gen-class))
 
 (defn main [args]
   (if (not= (count args) 0)

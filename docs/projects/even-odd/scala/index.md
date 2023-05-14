@@ -17,16 +17,16 @@ Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Scala
 object evenodd 
 { 
 
-	def check_even_odd(n: Int): Int = { 
-		result = if (num%2==0) "Even" else "Odd"
+    def check_even_odd(n: Int): Int = { 
+        result = if (num%2==0) "Even" else "Odd"
     return result
-	} 
+    } 
 
-	// Driver Code 
-	def main(args: Array[String]) 
-	{   val m= args(0).toInt
-		println(evenodd(m)) 
-	} 
+    // Driver Code 
+    def main(args: Array[String]) 
+    {   val m= args(0).toInt
+        println(evenodd(m)) 
+    } 
 
 }
 ```

@@ -14,7 +14,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```clojure
 (ns hello-world
-	(:gen-class))
+    (:gen-class))
 
 (defn main
   "Hello World"

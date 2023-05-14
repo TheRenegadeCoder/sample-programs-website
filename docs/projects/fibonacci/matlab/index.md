@@ -16,15 +16,15 @@ Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Mat
 function f = fibonacci(n)
 
 if ischar(n)
-	error('Usage: please input the count of fibonacci numbers to output')
+    error('Usage: please input the count of fibonacci numbers to output')
 end
 
 if n < 0
-	error('Usage: please input a non-negative integer')
+    error('Usage: please input a non-negative integer')
 end
 
 if not(n==round(n))
-	error('Usage: please input an integer, not a floating point')
+    error('Usage: please input an integer, not a floating point')
 end
 
 

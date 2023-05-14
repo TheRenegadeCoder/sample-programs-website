@@ -181,7 +181,7 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         )
     else:
         doc.add_paragraph("{% raw %}")
-        doc.add_code(program.code().rstrip(), lang=program.language_name().lower().replace(" ", "_"))
+        doc.add_code(program.code().rstrip().expandtabs(4), lang=program.language_name().lower().replace(" ", "_"))
         doc.add_paragraph("{% endraw %}")
 
     doc.add_paragraph(f"{program} was written by:") \

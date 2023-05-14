@@ -39,8 +39,8 @@ function is_prime(){
 # validate input number
 if [[ -z "${1}" ]]
 then
-	echo "${ERROR}"
-	exit 1
+    echo "${ERROR}"
+    exit 1
 fi
 
 if ! [[ "${1}" =~ ^[0-9]+$ ]]

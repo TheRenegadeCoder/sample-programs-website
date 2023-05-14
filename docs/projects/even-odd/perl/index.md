@@ -21,14 +21,14 @@ use warnings;
 my ($number) = @ARGV;
 
 if (!defined $number || $number !~ /^\-?\d+$/) {
-	print "Usage: please input a number\n";
-	exit;
+    print "Usage: please input a number\n";
+    exit;
 }
 
 if ($number % 2 == 0) {
-	print "Even\n";
+    print "Even\n";
 } else {
-	print "Odd\n";
+    print "Odd\n";
 }
 ```
 
