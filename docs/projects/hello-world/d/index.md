@@ -19,7 +19,7 @@ import std.stdio;
 
 void main()
 {
-	writeln("Hello, World!");
+    writeln("Hello, World!");
 }
 ```
 
@@ -27,9 +27,12 @@ void main()
 
 [Hello World](https://sampleprograms.io/projects/hello-world) in [D](https://sampleprograms.io/languages/d) was written by:
 
+- rzuckerm
 - Trever Shick
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 13 2023 20:47:23. The solution was first committed on May 06 2018 08:36:27. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 
