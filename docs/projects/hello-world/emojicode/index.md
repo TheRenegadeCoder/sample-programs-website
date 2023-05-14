@@ -15,7 +15,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```emojicode
 🏁 🍇
-  😀 🔤Howdy, World!🔤
+  😀 🔤Hello, World!🔤❗️
 🍉
 ```
 
@@ -24,8 +24,11 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 [Hello World](https://sampleprograms.io/projects/hello-world) in [Emojicode](https://sampleprograms.io/languages/emojicode) was written by:
 
 - Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 13 2023 21:01:35. The solution was first committed on May 05 2018 17:08:17. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 
