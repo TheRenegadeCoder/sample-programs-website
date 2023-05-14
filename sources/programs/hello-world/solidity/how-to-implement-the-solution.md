@@ -1,14 +1,3 @@
-Without further ado, here's an implementation of Hello World in Solidity:
-
-```solidity
-pragma solidity ^0.4.22;
-contract helloWorld {   
-    function renderHelloWorld () public pure returns (string) {       
-        return 'Hello, World!';             
-    }
-}
-```
-
 While the format of Solidity looks a bit different from the more popular
 programming languages today, what's happening behind is fairly straightforward.
 

@@ -6,3 +6,6 @@ Alternatively, we can download [CHICKEN Scheme][2] and a copy of the solution. A
 csi -s hello-world.scm
 ```
 That will run the Scheme file as a script which will quickly print the "Hello, World!" string.
+
+[1]: https://www.jdoodle.com/execute-scheme-online/
+[2]: https://call-cc.org/
