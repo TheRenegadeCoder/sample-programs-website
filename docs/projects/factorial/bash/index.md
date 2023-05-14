@@ -19,8 +19,8 @@ number=$1
 
 if [[ -z "$number" ]]
 then
-	echo "Usage: please input a non-negative integer"
-	exit 1
+    echo "Usage: please input a non-negative integer"
+    exit 1
 fi
 
 if ! [[ "$number" =~ ^[0-9]+$ ]]  

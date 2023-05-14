@@ -14,12 +14,12 @@ Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindrom
 
 ```pascal
 (*
-Description 	Input 	Output
-no input 	None 	Usage: please input a number
-empty input 	”” 	Usage: please input a number
-invalid input: not a number 	a 	Usage: please input a number
-sample input: palindrome 	232 	true
-sample input: not palindrome 	521 	false
+Description     Input   Output
+no input    None    Usage: please input a number
+empty input     ””  Usage: please input a number
+invalid input: not a number     a   Usage: please input a number
+sample input: palindrome    232     true
+sample input: not palindrome    521     false
 
 Count the no. of digits
 compare the left most with rightmost no & keep moving nearer to midpoint

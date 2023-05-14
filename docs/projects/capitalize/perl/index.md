@@ -21,8 +21,8 @@ use warnings;
 my ($string) = @ARGV;
 
 if (!defined $string || length $string == 0) {
-	print "Usage: please provide a string\n";
-	exit;
+    print "Usage: please provide a string\n";
+    exit;
 }
 
 print ucfirst $string, "\n";

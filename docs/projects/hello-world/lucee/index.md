@@ -14,15 +14,15 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```lucee
 <html>
-	<head>
-		<title>My first page</title>
-	</head>
-	<body>
-		<h1>Hello World!</h1>
-		<cfoutput>
-		<p>The time is #now()#</p>
-		</cfoutput>
-	</body>
+    <head>
+        <title>My first page</title>
+    </head>
+    <body>
+        <h1>Hello World!</h1>
+        <cfoutput>
+        <p>The time is #now()#</p>
+        </cfoutput>
+    </body>
 </html>
 ```
 

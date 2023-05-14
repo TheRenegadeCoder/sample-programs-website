@@ -18,7 +18,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 #include <stdio.h>
 main ()
 {
-	printf ("Hello, World!")
+    printf ("Hello, World!")
 }
 ```
 

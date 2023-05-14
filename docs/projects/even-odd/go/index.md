@@ -16,31 +16,31 @@ Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Go](h
 package main
 
 import (
-	"fmt"
-	"os"
-	"strconv"
+    "fmt"
+    "os"
+    "strconv"
 )
 
 func exitWithError() {
-	fmt.Println("Usage: please input a number")
-	os.Exit(1)
+    fmt.Println("Usage: please input a number")
+    os.Exit(1)
 }
 
 func main() {
-	if len(os.Args) != 2 {
-		exitWithError()
-	}
+    if len(os.Args) != 2 {
+        exitWithError()
+    }
 
-	n, err := strconv.Atoi(os.Args[1])
-	if err != nil {
-		exitWithError()
-	}
+    n, err := strconv.Atoi(os.Args[1])
+    if err != nil {
+        exitWithError()
+    }
 
-	if n%2 == 0 {
-		fmt.Printf("Even\n")
-	} else {
-		fmt.Printf("Odd\n")
-	}
+    if n%2 == 0 {
+        fmt.Printf("Even\n")
+    } else {
+        fmt.Printf("Odd\n")
+    }
 }
 ```
 
