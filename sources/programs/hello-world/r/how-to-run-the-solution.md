@@ -9,3 +9,6 @@ R.exe hello-world.R          # Windows
 
 Alternatively, you can try an [online compiler][4] if you want to save the time
 required for installing the R environment locally.
+
+[3]: https://cran.r-project.org/
+[4]: https://www.mycompiler.io/new/r

@@ -19,3 +19,7 @@ red -c hello-world.red
 At this point, I would usually share some online editor you could use to test
 code, but Red doesn't appear to have one. If one exists, let me know in
 the comments.
+
+[2]: https://www.red-lang.org/p/download.html
+[3]: https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/r/red/hello-world.red
+
