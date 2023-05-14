@@ -1,9 +1,5 @@
 Without further ado, let's dive straight into our implementation 
-of Hello World in Perl:
-
-```perl
-print "Hello, World!";
-```
+of Hello World in Perl.
 
 Well, that was anticlimactic. In fact, it was about as disappointing 
 as our implementations of Hello World in Python and Ruby. That said, 
