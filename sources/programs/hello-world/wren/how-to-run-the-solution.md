@@ -2,7 +2,7 @@ You can [download a copy of Wren][1] to your local machine, grab a copy of
 [Hello World in Wren][2], and then run this:
 
 ```
-wren-cli hellow-world.wren
+wren_cli hellow-world.wren
 ```
 
 Alternatively, you can use an [online Wren interpreter][3].
