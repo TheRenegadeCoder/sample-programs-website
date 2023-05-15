@@ -1,4 +1,4 @@
-To run the Dart string reversal program, download the dart file from GitHub, install the Dart SDK as described at [dart.dev](https://dart.dev/get-dart), and run the following from the command line:
+To run the Dart string reversal program, download the [dart file from GitHub](https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/d/dart/reverse-string.dart), install the Dart SDK as described at [dart.dev](https://dart.dev/get-dart), and run the following from the command line:
 
 ```console
 dart reverse-string.dart "Hello, World!"

@@ -1,10 +1,4 @@
-Let's look at the code in detail:
-
-```lua
-if #arg > 0 then
-    print(string.reverse(arg[1]))
-end
-```
+Let's look at the code in detail.
 
 It's pretty simple, right? (It is for sure, but this snippet hides some Lua quirkiness which I've taken some time to call out in the caveats section at the end of the article.)
 
@@ -146,4 +140,4 @@ I know. I don't get it either. That's just Lua.
 
 So, for reading simple lists (or rather even explicitly validly-sequenced tables), the `#` operator works well. For all other use cases: Double check that return value. Weird bugs abound. Better yet, read more about how to leverage other mechanisms of the Lua language to better manage your tables.
 
-For cli args though, this works just fine.
+For command-line argument, though, this works just fine.

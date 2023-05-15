@@ -1,29 +1,18 @@
-First, like always, here's the complete solution:
-
-```ruby
-if ARGV.length < 1
-    puts "Usage: ruby reverse-string.rb [string]"
-else
-    string = ARGV[0]
-    puts string.reverse
-end
-```
-
 Right away, we begin by checking to see if the user gave us a string in the
 form of a command line argument:
 
 ```ruby
-if ARGV.length < 1
-    puts "Usage: ruby reverse-string.rb [string]"
+if ARGV.length >= 1
 ```
 
-If not, we print a usage message which tells the user how to use the program.
+If not, we exit the program
 
 Otherwise, we store the command line argument that the user passed into a string:
 
 ```ruby
 else
     string = ARGV[0]
+
     puts string.reverse
 end
 ```
