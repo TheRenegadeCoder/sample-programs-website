@@ -61,10 +61,10 @@ print "FizzBuzz"
 [CmdletBinding()]
 param (
   [Parameter(Mandatory = $false, Position = 0)]
-  $Min = 1,
+  [int]$Min = 1,
 
   [Parameter(Mandatory = $false, Position = 1)]
-  $Max = 100
+  [int]$Max = 100
 )
 
 for ($X = $Min; $X -le $Max; $X++) {
@@ -83,10 +83,11 @@ for ($X = $Min; $X -le $Max; $X++) {
 [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
 
 - Devin Leaman
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Aug 05 2018 09:51:59. The solution was first committed on Aug 04 2018 14:54:06. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 15 2023 09:50:39. The solution was first committed on Aug 04 2018 14:54:06. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

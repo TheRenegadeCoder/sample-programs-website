@@ -21,17 +21,17 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
   A simple script for reversing a String in PowerShell in order to show some
 features of the language.
 
-.PARAMETER Input
+.PARAMETER Str
   The string to reverse.
 
 .EXAMPLE
-  .\Reverse-String.ps1 -Input 'Hello, World'
+  .\ReverseString.ps1 -Str 'Hello, World'
 
 .EXAMPLE
-  .\Reverse-String.ps1 "Les Misérables"
+  .\ReverseString.ps1 "Les Misérables"
 
 .EXAMPLE
-  .\Reverse-String.ps1 "字樣樣品"
+  .\ReverseString.ps1 "字樣樣品"
 
 .NOTES
   This script does *not* support emoji as PowerShell only has full support for
@@ -39,16 +39,14 @@ emoji within the ISE.
 #>
 param
 (
-  [Parameter(Mandatory = $true,
-             Position = 0)]
-  [ValidateNotNullOrEmpty()]
-  [string]$Input
+  [Parameter(Mandatory = $false, Position = 0)]
+  [string]$Str
 )
 
-$StringBuilder = New-Object -TypeName System.Text.StringBuilder($Input.Length)
+$StringBuilder = New-Object -TypeName System.Text.StringBuilder($Str.Length)
 
-for ($x = ($Input.Length - 1); $x -ge 0; $x--) {
-  [void]$StringBuilder.Append($Input.Chars($x))
+for ($x = ($Str.Length - 1); $x -ge 0; $x--) {
+  [void]$StringBuilder.Append($Str.Chars($x))
 }
 
 Write-Host $StringBuilder.ToString()
@@ -60,10 +58,11 @@ Write-Host $StringBuilder.ToString()
 
 - Devin Leaman
 - Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 06 2023 22:52:03. The solution was first committed on May 28 2018 19:52:57. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 15 2023 09:50:39. The solution was first committed on May 28 2018 19:52:57. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

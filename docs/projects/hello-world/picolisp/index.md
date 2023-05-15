@@ -16,6 +16,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```picolisp
 (prinl "Hello, World!")
+(bye)
 ```
 
 {% endraw %}
@@ -23,8 +24,11 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 [Hello World](https://sampleprograms.io/projects/hello-world) in [Picolisp](https://sampleprograms.io/languages/picolisp) was written by:
 
 - Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 15 2023 09:32:26. The solution was first committed on May 08 2018 10:27:41. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

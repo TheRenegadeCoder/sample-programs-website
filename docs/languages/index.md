@@ -2,11 +2,11 @@
 title: Programming Languages
 layout: default
 date: 2018-03-15
-last-modified: 2023-05-14
+last-modified: 2023-05-15
 
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 165 languages, of which 48 are tested, and 772 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 165 languages, of which 50 are tested, and 772 code snippets.
 
 ## Language Collections by Letter
 
@@ -204,7 +204,7 @@ The 'O' collection contains 7 languages, of which 1 is tested, and 16 code snipp
 
 ### P
 
-The 'P' collection contains 16 languages, of which 6 are tested, and 115 code snippets.
+The 'P' collection contains 16 languages, of which 8 are tested, and 115 code snippets.
 
 - [P](https://sampleprograms.io/languages/p)
 - [P4](https://sampleprograms.io/languages/p4)
