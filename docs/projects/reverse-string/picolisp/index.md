@@ -1,8 +1,8 @@
 ---
 title: Reverse String in Picolisp
 layout: default
-date: 2018-05-08
-last-modified: 2018-05-08
+date: 2023-05-15
+last-modified: 2023-05-15
 
 ---
 
@@ -13,21 +13,19 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 {% raw %}
 
 ```picolisp
-(loop 
-  (prinl "Welcome to the string reverser. For reversing a sentence and not just a single word, quoting with \" is required.")
-  (prinl "Enter a string: ")
-  (let Str (read) 
-    (prinl 
-      (pack
-        (reverse 
-          (chop D)))))
+(let Str (argv A)
+  (prinl 
+    (pack
+      (reverse 
+        (chop A)))))
+(bye)
 ```
 
 {% endraw %}
 
 [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Picolisp](https://sampleprograms.io/languages/picolisp) was written by:
 
-- PNS11
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
