@@ -34,7 +34,7 @@ If the integer is less than 0 it's not a valid input so we return an error by ca
 We then call the main part of our program `print(is_prime(x))` which will check if the integer
 is prime and print this out on the terminal for the user.
 
-Finally we wrap this entire block in a try ... except, and we catch two exceptions: `IndexError`
+Finally we wrap this entire block in a `try ... except`, and we catch two exceptions: `IndexError`
 and `ValueError`. `IndexError` will be thrown if `args` is empty, and we try to access `args[0]`.
 `ValueError` will be thrown if we try to convert a non-integer string into an integer.
 For example if `args[0]` was "a" -> `int("a")`. If any exceptions are raised, then we call
@@ -80,14 +80,18 @@ This `x % 2 == 0` is used to check if a number is even, because if it can be eve
 divided by 2 it cannot be prime. If integer is not 1 or divisible by two then we
 have do a more thorough check.
 
-`return not bool([n for n in range(3, int(ceil(sqrt(x))+1)) if x % n == 0])`
+```python
+return not bool([n for n in range(3, int(ceil(sqrt(x))+1)) if x % n == 0])
+```
 
 This is an example of list comprehension which is a way to generate
 lists in Python (usually as "one-liners").
 
 Lets break this down.
 
-`for n in range(3, int(ceil(sqrt(x))+1))`
+```python
+for n in range(3, int(ceil(sqrt(x))+1))
+```
 
 This `range(3, int(ceil(sqrt(x))+1))` generates a list of integers from 3 to the ceiling of the
 square of the integer + 1. Ok that sounds complicated but lets take a look at an example
@@ -99,12 +103,16 @@ besides itself and 1. So then `for n in range(3, int(ceil(sqrt(x))+1))` will loo
 every number in that list. So n will be `3, 4, 5`. The range starts at 3 because x will always
 be divisible by 1 and we already checked if it's divisible by 2.
 
-`[n for n in range(3, int(ceil(sqrt(x))+1))]`
+```python
+[n for n in range(3, int(ceil(sqrt(x))+1))]
+```
 
 This on it's own would create a list of the values of `n` so if `x` was `17` then the line above
 would generate the list `[3, 4, 5]`.
 
-`[n for n in range(3, int(ceil(sqrt(x))+1)) if x % n == 0]`
+```python
+[n for n in range(3, int(ceil(sqrt(x))+1)) if x % n == 0]
+```
 
 Taking a look at the whole list comprehension including `if x % n == 0`
 means the current `n` is only added to the list if the if statement evaluates to `True`,
