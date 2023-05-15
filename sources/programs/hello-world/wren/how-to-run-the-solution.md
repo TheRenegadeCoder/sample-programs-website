@@ -1,8 +1,12 @@
-Normally, at this point, I would share an example of how to run 
-the solution on your machine. Unfortunately, Wren is rather new 
-and a little clunky to get running. That said, I won't leave you 
-hanging, There are some directions for Mac and Linux users on the 
-Wren website.
+You can [download a copy of Wren][1] to your local machine, grab a copy of
+[Hello World in Wren][2], and then run this:
 
-Alternatively, you can use the online Wren editor. Just copy the 
-code from above into the editor and hit run.
+```
+wren-cli hellow-world.wren
+```
+
+Alternatively, you can use an [online Wren interpreter][3].
+
+[1]: https://github.com/wren-lang/wren-cli/releases
+[2]: https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/w/wren/hello-world.wren
+[3]: https://wren.io/try/
