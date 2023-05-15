@@ -13,9 +13,9 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 {% raw %}
 
 ```typescript
-let myString: string = "Hello World";
+let myString: string = (process.argv.length >= 3) ? process.argv[2] : "";
 
-const reverse = ( str: string = "no string was provided" ) => str.split("").reverse().join("");
+const reverse = (str: string) => str.split("").reverse().join("");
 
 console.log(reverse(myString));
 ```
@@ -25,10 +25,11 @@ console.log(reverse(myString));
 [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
 
 - Ray
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 03 2019 20:52:37. The solution was first committed on Oct 03 2019 20:46:56. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 15 2023 16:26:37. The solution was first committed on Oct 03 2019 20:46:56. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

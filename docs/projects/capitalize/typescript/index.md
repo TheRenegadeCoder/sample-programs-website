@@ -13,9 +13,14 @@ Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [T
 {% raw %}
 
 ```typescript
-const myStr: string = "hello world";
+if (process.argv.length < 3 || process.argv[2].length < 1) {
+    console.log("Usage: please provide a string")
+    process.exit(0)
+}
 
-const capitalize = (str: string = "no input was provided") => str[0].toUpperCase() + str.slice(1);
+let myStr: string = process.argv[2];
+
+const capitalize = (str: string) => str[0].toUpperCase() + str.slice(1);
 
 console.log(capitalize(myStr));
 ```
@@ -25,8 +30,11 @@ console.log(capitalize(myStr));
 [Capitalize](https://sampleprograms.io/projects/capitalize) in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
 
 - Ray
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 15 2023 16:26:37. The solution was first committed on Oct 03 2019 20:58:01. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

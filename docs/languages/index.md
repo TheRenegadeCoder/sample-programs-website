@@ -6,7 +6,7 @@ last-modified: 2023-05-15
 
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 165 languages, of which 52 are tested, and 772 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 165 languages, of which 53 are tested, and 772 code snippets.
 
 ## Language Collections by Letter
 
@@ -259,7 +259,7 @@ The 'S' collection contains 10 languages, of which 4 are tested, and 29 code sni
 
 ### T
 
-The 'T' collection contains 5 languages, of which 0 are tested, and 11 code snippets.
+The 'T' collection contains 5 languages, of which 1 is tested, and 11 code snippets.
 
 - [Tcl](https://sampleprograms.io/languages/tcl)
 - [Terra](https://sampleprograms.io/languages/terra)

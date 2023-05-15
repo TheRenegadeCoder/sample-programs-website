@@ -24,12 +24,19 @@ function fibonacci(num: number) {
     result = elementOne + elementTwo;
     elementOne = elementTwo;
     elementTwo = result;
-    console.log(`Index: ${i}: ${elementOne}`);
+    console.log(`${i}: ${elementOne}`);
   }
 
 }
 
-fibonacci(process.argv[2]);
+let num_str = (process.argv.length >= 3) ? process.argv[2] : ""
+let num: number = parseInt(num_str);
+if (isNaN(num)) {
+  console.log("Usage: please input the count of fibonacci numbers to output")
+  process.exit(0)
+}
+
+fibonacci(num);
 ```
 
 {% endraw %}
@@ -37,10 +44,11 @@ fibonacci(process.argv[2]);
 [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
 
 - Chris Thomas
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 12 2018 11:24:37. The solution was first committed on Oct 12 2018 10:16:37. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 15 2023 16:26:37. The solution was first committed on Oct 12 2018 10:16:37. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 
