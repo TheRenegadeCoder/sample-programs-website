@@ -30,11 +30,7 @@ If you see anything you'd like to change or update, [please consider contributin
 
 As seen many times in this collection, Hello World in Goby is actually
 really simple. In total, it's one line of code which looks a lot like
-Ruby:
-
-```goby
-puts("Hello, World!")
-```
+Ruby.
 
 Alternatively, we can leave out the parentheses:
 
@@ -45,7 +41,6 @@ puts "Hello, World!"
 Naturally, `puts` writes the "Hello, World!" string to the user, and that's it!
 
 
-
 ## How to Run the Solution
 
 To run this solution, we can take advantage of the samplerunner script
@@ -53,7 +48,7 @@ included in the [Sample Programs repo][2]. If our system is setup
 correctly, the following command should get the job done:
 
 ```shell
-./samplerunner.sh run -s hello-world.gb
+glotter run -s hello-world.gb
 ```
 
 Alternatively, we may want to get a copy of the Goby interpreter. [According
@@ -62,3 +57,6 @@ dig into that now.
 
 Unlike many other languages in this collection, Goby does not have an online 
 interpreter at this time.
+
+[1]: https://github.com/goby-lang/goby
+[2]: https://github.com/TheRenegadeCoder/sample-programs

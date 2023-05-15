@@ -43,18 +43,6 @@ Lisp has many flavors and variations, so we will be using Clisp, the most common
 The code follows a pre-fix format, where a function or operator is followed by its arguments, even in the case of `+` or `=`.
 Every set of parenthesis is its own function.
 
-```lisp
-(dotimes (run 100)
-    (setq num (+ run 1))
-    (write-line (cond
-        ((and (= (mod num 3) 0) (= (mod num 5) 0)) "FizzBuzz")
-        ((= (mod num 3) 0) "Fizz")
-        ((= (mod num 5) 0) "Buzz")
-        (t (write-to-string num))
-    ))
-)
-```
-
 As a quick note, here are the rules to the problem:
 
     If a number is divisible by 3, print the word 'Fizz' instead of the number.
@@ -89,7 +77,7 @@ The next lines are used to print out the actual ouput, but only one of those is 
 ))
 ```
 
-Each following line is one possible output, starting with the "FizzBuzz" phrase.
+Each following line is one possible output, starting with the `"FizzBuzz"` phrase.
 
 ```lisp
 ((and (= (mod num 3) 0) (= (mod num 5) 0)) "FizzBuzz")
@@ -131,5 +119,9 @@ sbcl --script fizz-buzz.lsp
 
 For an easy online interpreter, here are some options:
 
-- [CompileOnline CLISP][1]
-- [Jdoodle CLISP][2]
+- [CompileOnline CLISP][2]
+- [Jdoodle CLISP][3]
+
+[1]: https://www.sbcl.org/
+[2]: https://ideone.com/l/clips
+[3]: https://www.jdoodle.com/execute-clisp-online/

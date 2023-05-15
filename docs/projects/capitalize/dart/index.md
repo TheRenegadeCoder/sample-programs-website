@@ -44,29 +44,6 @@ If you see anything you'd like to change or update, [please consider contributin
 
 ## How to Implement the Solution
 
-Below is the completed Dart solution:
-
-```dart
-import 'dart:io';
-
-main(List<String> args) {
-  if (args.isEmpty) {
-    stdout.write("Enter string to capitalize: ");
-    args = [stdin.readLineSync()];
-  }
-
-  if (args[0].isEmpty) {
-    print("Usage: provide a string");
-    exit(1);
-  }
-
-  print(capitalize(args[0]));
-}
-
-String capitalize(String input) =>
-    '${input[0].toUpperCase()}${input.substring(1)}';
-```
-
 It's probably worth noting up front that there is a [strings library][1] available that includes a capitalize function with more error checking than we have here.  Since it's not one of the Dart built-in libraries, this would need to be installed with `pub get` or `flutter pub get`.  It would probably be worthwhile in a larger Dart/Flutter project where the package's additional functions may also be useful.
 
 The built-in library that we are going to use, `dart:io`, is imported at the top and will give us access to the stdin and stdout properties and the exit function.
@@ -81,21 +58,15 @@ dart capitalize.dart "Hello World"
 
 ...would fill the args list as `[Hello World]`.
 
-```
-dart capitalize.dart "Hello" "World"
-```
-
-...would fill the args list as `[Hello, World]`.
-
 Our first check tests if any data was passed to the script via arguments by checking the isEmpty property of the `args` list. 
-- If args is empty, the script prompts the user for input.  The user's input is read with `stdin.readLineSync()` as the name implies, this is a synchronous operation meaning that the script will execute no further code until the user enters something into the prompt.  The return data from stdin is wrapped in [] because it returns a string and the args variable is a list type.
-- If args is not empty, we assume that data was entered as an argument and continue on.
+- If `args` is empty, we print out an error message and use the `dart:io` `exit()` function to exit out of the script with a proper error code.
+- Otherwise, we assume that data was entered as an argument and continue on.
 
 Our next check tests the first string in the args list since this is the only item in the list that we're actually going to process for capitalization.
-- If args[0] is empty we print out an error message and use the `dart:io` exit() function to exit out of the script with a proper error code.
-- If args[0] is not empty, we assume we have a good string to process and continue on.
+- If `args[0]` is empty, we print out an error message and use the `dart:io` `exit()` function to exit out of the script with a proper error code.
+- Otherwise, we assume we have a good string to process and continue on.
 
-With this check complete we're ready to proceed and capitalize the string input.  Because we want to print out the result we call our capitalize() function within the print() function.  Within capitalize's parameters we pass the args[0] list element that we've tested.
+With this check complete we're ready to proceed and capitalize the string input.  Because we want to print out the result we call our `capitalize()` function within the `print()` function.  Within capitalize's parameters we pass the `args[0]` list element that we've tested.
 
 Because our capitalize function is a one line piece of code, we're able to use Dart's shorthand function syntax which uses `"=>"` as a simple way to return the outcome of the one line expression as the value of the function.
 
@@ -113,11 +84,13 @@ Next, Dart lets us access the characters in a string by position (starting at po
 
 Now all we need to do is append the remainder of our original string without the first character. We can do this with the `substring` method.
 
-```
+```dart
 String substring (int startIndex, [int endIndex])
 ```
 
-Applying substring with a start index of 1 and no end index returns everything expect for the first character since substring, like the [] index, starts with the first character being position 0. By again wrapping this with string interpolation we've now returned the full string with the first character capitalized which will get printed from the main() function's print() statement. 
+Applying substring with a start index of 1 and no end index returns everything expect for the first character since substring, like the `[]` index, starts with the first character being position 0. By again wrapping this with string interpolation we've now returned the full string with the first character capitalized which will get printed from the `main()` function's `print()` statement. 
+
+[1]: https://api.dart.dev/stable/2.19.6/dart-core/String-class.html
 
 
 ## How to Run the Solution
@@ -130,20 +103,5 @@ dart capitalize.dart "string to be capitalized"
 
 Alternatively, you can copy the source code into [DartPad][3], an online Dart interpreter. Just keep in mind that you won't have access to the command line arguments or stdin and stdout using this method so you'll have to populate the args variable in the code instead. For example:
 
-```dart
-import 'dart:io';
-
-main(List<String> args) {
-  args = ["string to be capitalized"];
-
-  if (args[0].isEmpty) {
-    print("Usage: provide a string");
-    exit(1);
-  }
-
-  print(capitalize(args[0]));
-}
-
-String capitalize(String input) =>
-    '${input[0].toUpperCase()}${input.substring(1)}';
-```
+[2]: https://dart.dev/
+[3]: https://dartpad.dev/

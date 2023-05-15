@@ -69,66 +69,21 @@ If you see anything you'd like to change or update, [please consider contributin
 
 ## How to Implement the Solution
 
-At this point, let's dig into the code a bit. The following sections break
+Let's dig into the code a bit. The following sections break
 down the Insertion Sort in Python functionality.
-
-### Solution
-
-```python
-#!/usr/bin/env python
-import sys
-from itertools import takewhile
-
-
-def insertion_sort(xs):
-    new_xs = []
-    for x in xs:
-        new_xs = insert(x, new_xs)
-    return new_xs
-
-
-def insert(x, xs):
-    left = list(takewhile(lambda i: i < x, xs))
-    right = xs[len(left):] if xs else xs
-    return left + [x] + right
-
-
-def input_list(list_str):
-    return [int(x.strip(" "), 10) for x in list_str.split(',')]
-
-
-def exit_with_error():
-    print('Usage: please provide a list of at least two integers to sort in the format "1, 2, 3, 4, 5"')
-    sys.exit(1)
-
-
-def main(args):
-    try:
-        xs = input_list(args[0])
-        if len(xs) <= 1:
-            exit_with_error()
-        print(insertion_sort(xs))
-    except (IndexError,ValueError):
-        raise
-        exit_with_error()
-
-
-if __name__ == "__main__":
-    main(sys.argv[1:])
-```
 
 ### The Main Function
 
-Breaking down this solution bottom up,
+Breaking down this solution bottom up:
 
 ```python
 if __name__ == "__main__":
     main(sys.argv[1:])
 ```
 
-This bit of code checks to see if this is the main module run. If it is, it then calls the main
-function and passes user input to it. In this case the user input would be a string of numbers
-like so `"2, 1, 10, 5, 3"` (to sort).
+This bit of code checks to see if this is the `main` module run. If it is, it then calls the `main`
+function and passes user input to it. In this case the user input would be a string of numbers to sort
+like so: `"2, 1, 10, 5, 3"`.
 
 ```python
 def main(args):
@@ -137,11 +92,11 @@ def main(args):
         if len(xs) <= 1:
             exit_with_error()
         print(insertion_sort(xs))
-    except (IndexError,ValueError):
+    except (IndexError, ValueError):
         exit_with_error()
 ```
 
-This is the main function of this file. It parses the input, then calls our insertion sort
+This is the `main` function of this file. It parses the input, then calls our insertion sort
 function (and prints the results). It also deals with any errors raised.
 
 ### Transform Input Parameters
@@ -153,7 +108,7 @@ def input_list(list_str):
 
 This function takes a string like `"2, 1, 10, 5, 3"`, and turns into a list of numbers.
 It does this using a list comprehension. First, we need to convert our string into a
-list `list_str.split(',')` which is a list of strings split by comma (,).
+list `list_str.split(',')` which is a list of strings split by comma (`,`).
 So our original input string becomes `["2", " 1", " 10", " 5", " 3"]`. Then for each
 element in the list `for x in ...` ,  we do something to it.
 
@@ -237,7 +192,7 @@ In this case `i` is an element of `xs` and we want all `i`'s less than `x`.
 
 Then, we call `takewhile(lambda i: i < x, xs)` which takes a predicate (our lambda function) and a list.
 It stops iterating over our list as soon as the lambda function evaluates to False. It then returns
-all the elements up to that index. 
+all the elements up to that index.
 
 Lets take a look at an example where `xs = [4, 7, 10]` and `x = 8`.
 The first two items of `xs` would evaluate as True since 4 and 7 are
@@ -268,9 +223,9 @@ the following `left + [x] + right = [3, 4] + [5] + [6, 8, 11, 15, 18]` or
 
 ## How to Run the Solution
 
-If we want to run this program, we should probably download a copy of [Insertion Sort in Python](https://github.com/TheRenegadeCoder/sample-programs/blob/master/archive/p/python/insertion-sort.py).
+If we want to run this program, we should probably download a copy of [Insertion Sort in Python](https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/p/python/insertion_sort.py).
 After that, we should make sure we have the latest Python interpreter. From there, we can run the following command in the terminal:
 
 `python insertion-sort.py "3, 2, 10, 6, 1, 7"`
 
-Alternatively, we can copy the solution into an online Python interpreter and hit run.
+Alternatively, we can copy the solution into an [online Python interpreter](https://www.online-python.com/) and hit run.

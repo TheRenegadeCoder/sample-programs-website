@@ -45,20 +45,7 @@ The Fizz-Buzz problem itself is here:
     Finally, if the number is divisible by both 3 and 5, print 'FizzBuzz' instead
     of the number. Otherwise, just print the number.
 
-Followed by the Befunge code:
-```
-1 >  :3%   v
-   v  \0   _ "zziF",,,,v
-   v  \1               <
-   > :5%   v
-   v _v#\  _ "zzuB",,,,v
-   v  >:.  v $\        <
-   v       <       @
-   > :25* ::, *1-` |
-  ^        +1      <
-```
-
-Don't worry if it looks confusing, we will break it down and go over the different sections.
+Don't worry if the code looks confusing, we will break it down and go over the different sections.
 
 ### First set
 
@@ -112,6 +99,8 @@ At the end, `|` checks for a zero on top of the stack, sending the pointer downw
 
 If the counter has not yet reached 100, `1+` adds 1 to it, and the pointer is sent back to the beginning of the loop.
 
+[1]: https://esolangs.org/wiki/Befunge
+
 
 ## How to Run the Solution
 
@@ -121,7 +110,11 @@ Because of the particular design of the language, it is recommended to use a Bef
 - [jsFunge IDE][3]
 - [Befunge-93 Interpreter][4]
 
-If you do want to use a compiler, here are some options:
+If you do want to use a compiler, here is another option:
 
-- [Tim's Befunge Compiler][5]
 - [BefunUtils][6]
+
+[2]: https://www.bedroomlan.org/tools/befunge-playground/#prog=hello,mode=edit
+[3]: https://befunge.flogisoft.com/
+[4]: http://qiao.github.io/javascript-playground/visual-befunge93-interpreter/
+[6]: https://github.com/Mikescher/BefunUtils

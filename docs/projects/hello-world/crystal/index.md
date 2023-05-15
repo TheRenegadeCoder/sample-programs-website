@@ -28,11 +28,7 @@ If you see anything you'd like to change or update, [please consider contributin
 
 ## How to Implement the Solution
 
-With the background out of the way, let's implement Hello World in Crystal:
-
-```crystal
-puts "Hello, World!"
-```
+With the background out of the way, let's implement Hello World in Crystal.
 
 If we think back, we might remember that this syntax is exactly the same in Ruby. 
 Of course, this should come as no surprise as Ruby's syntax was a major influence 
@@ -87,6 +83,8 @@ puts
 Or, something along those lines. At any rate, I've gone a bit too far down a rabbit hole. 
 Let's learn how to run our solution.
 
+[1]: https://crystal-lang.org/api/1.8.2
+
 
 ## How to Run the Solution
 
@@ -95,3 +93,5 @@ into the [online Crystal editor][2]. After that, we can hit run to see the outpu
 
 Alternatively, we can try to install the compiler on our system. However, I won't bother 
 going into that because I'm using a Windows PC which doesn't appear to be supported.
+
+[2]: https://play.crystal-lang.org/

@@ -34,14 +34,6 @@ If you see anything you'd like to change or update, [please consider contributin
 From it's very nature, COBOL is a very readable language.
 But even though it's readable, it follows very strict rules.
 
-```cobol
-        IDENTIFICATION DIVISION.
-        PROGRAM-ID. HELLO-WORLD.
-        PROCEDURE DIVISION.
-            DISPLAY "Hello, World!".
-            STOP RUN.
-```
-
 The structure of a COBOL program follows like this:
 
 - At the highest level are "Divisions".
@@ -65,11 +57,11 @@ As a side note, we should ideally keep the `PROGRAM-ID` same as the file name an
 
 Next we have the other mandatory Division, `PROCEDURE DIVISION`.
 This contains all the Paragraphs and Sentences that do the actual work.
-And here, the Sentence doing our work is `DISPLAY "Hello, World!"`.
+Here, the Sentence doing our work is `DISPLAY "Hello, World!"`.
 `DISPLAY` is our Statement here and it does what it says it does.
-Then we have another Statement ,which is a Sentence in itself, `STOP RUN`.
-And well, it stops the run and returns the control to either the calling program or the OS.
-Also you should end any part of the program with a period. It might be optional at some places but it is recommended.
+Then, we have another Statement, which is a Sentence in itself, `STOP RUN`.
+It stops the run and returns the control to either the calling program or the OS.
+Also, you should end any part of the program with a period. It might be optional at some places but it is recommended.
 That's it! Apart from the little nuances of indentation and program structure, it's a very readable program.
 
 
@@ -84,3 +76,7 @@ $ ./hello-world
 ```
 The commands first compile the source code into an executable and then execute it.
 Alternatively, you might want to use an [online COBOL compiler][3]
+
+[1]: https://gnucobol.sourceforge.io/
+[2]: https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/c/cobol/hello-world.cbl
+[3]: https://www.jdoodle.com/execute-cobol-online/

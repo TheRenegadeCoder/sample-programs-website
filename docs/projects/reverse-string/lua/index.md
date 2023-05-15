@@ -33,13 +33,7 @@ If you see anything you'd like to change or update, [please consider contributin
 
 ## How to Implement the Solution
 
-Let's look at the code in detail:
-
-```lua
-if #arg > 0 then
-    print(string.reverse(arg[1]))
-end
-```
+Let's look at the code in detail.
 
 It's pretty simple, right? (It is for sure, but this snippet hides some Lua quirkiness which I've taken some time to call out in the caveats section at the end of the article.)
 
@@ -181,14 +175,14 @@ I know. I don't get it either. That's just Lua.
 
 So, for reading simple lists (or rather even explicitly validly-sequenced tables), the `#` operator works well. For all other use cases: Double check that return value. Weird bugs abound. Better yet, read more about how to leverage other mechanisms of the Lua language to better manage your tables.
 
-For cli args though, this works just fine.
+For command-line argument, though, this works just fine.
 
 
 ## How to Run the Solution
 
 First, make sure you have Lua installed on your local machine. You can read about how to do that here: [Getting started with Lua](https://www.lua.org/start.html).
 
-Once you have Lua installed, you can download the `reverse-string.lua` file from this repo ([here](https://github.com/TheRenegadeCoder/sample-programs/blob/master/archive/l/lua/reverse-string.lua)).
+Once you have Lua installed, you can download the `reverse-string.lua` file from this repo ([here](https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/l/lua/reverse-string.lua)).
 
 Save that file wherever you like, then open a terminal or command prompt to that directory.
 

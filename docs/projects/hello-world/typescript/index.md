@@ -27,11 +27,7 @@ If you see anything you'd like to change or update, [please consider contributin
 
 ## How to Implement the Solution
 
-This is quite possibly the smallest Hello World out there and it just so happens to be identical to Hello World in javascript(the language TypeScript is built on). 
-
-```ts
-console.log("Hello, World!");
-```
+This is quite possibly the smallest Hello World out there and it just so happens to be identical to Hello World in javascript (the language TypeScript is built on). 
 
 Simply put it logs the phrase `Hello, World!` to the console in your browser.
 

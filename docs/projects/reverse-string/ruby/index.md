@@ -35,32 +35,21 @@ If you see anything you'd like to change or update, [please consider contributin
 
 ## How to Implement the Solution
 
-First, like always, here's the complete solution:
-
-```ruby
-if ARGV.length < 1
-    puts "Usage: ruby reverse-string.rb [string]"
-else
-    string = ARGV[0]
-    puts string.reverse
-end
-```
-
 Right away, we begin by checking to see if the user gave us a string in the
 form of a command line argument:
 
 ```ruby
-if ARGV.length < 1
-    puts "Usage: ruby reverse-string.rb [string]"
+if ARGV.length >= 1
 ```
 
-If not, we print a usage message which tells the user how to use the program.
+If not, we exit the program
 
 Otherwise, we store the command line argument that the user passed into a string:
 
 ```ruby
 else
     string = ARGV[0]
+
     puts string.reverse
 end
 ```
@@ -81,5 +70,7 @@ If you have Ruby installed on your machine, you can run the following command:
 ruby reverse-string.rb SomeStringHere
 ```
 
-Alternatively, websites like REPL allow you to run code from several programming
+Alternatively, websites like [REPL][1] allow you to run code from several programming
 languages in your browser. Feel free to leverage one of those!
+
+[1]: https://replit.com/languages/ruby

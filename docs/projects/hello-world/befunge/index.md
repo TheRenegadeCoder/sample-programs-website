@@ -31,15 +31,9 @@ If you see anything you'd like to change or update, [please consider contributin
 
 ## How to Implement the Solution
 
-There are many valid ways to set up a Befunge program. People tend to design for either artistic or compactness purposes. A typical example for a Hello World looks a little something like this:
+There are many valid ways to set up a Befunge program. People tend to design for either artistic or compactness purposes.
 
-```befunge
-"!dlroW ,olleH"> , v
-               | : <
-               @
-```
-
-As stated earlier, everything works off of a stack. A stack in programming is a list of values, set up sort of like a stack of papers. Only the top number can be retrieved, and new numbers are always placed on the very top. Because of this, strings have to be read in backwards, as the last letter in will be the first letter out.
+In Befunge, everything works off of a stack. A stack in programming is a list of values, set up sort of like a stack of papers. Only the top number can be retrieved, and new numbers are always placed on the very top. Because of this, strings have to be read in backwards, as the last letter in will be the first letter out.
 
 The program starts out in string mode to read in the characters. At the end of the first line, our stack will look something like this: (with translated characters below)
 
@@ -73,7 +67,12 @@ Because of the particular design of the language, your best option is a Befunge 
 
 There are compilers as well, even through the technical challenges:
 
-- [Tim's Befunge Compiler][5]
 - [BefunUtils][6]
 
 For a much more thorough look at Befunge, it's list of operators, and its various derivatives, I recommend the [Esolang Wiki][7].
+
+[2]: https://www.bedroomlan.org/tools/befunge-playground/#prog=hello,mode=edit
+[3]: https://befunge.flogisoft.com/
+[4]: http://qiao.github.io/javascript-playground/visual-befunge93-interpreter/
+[6]: https://github.com/Mikescher/BefunUtils
+[7]: https://esolangs.org/wiki/Befunge

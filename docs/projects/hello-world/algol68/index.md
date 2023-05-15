@@ -28,11 +28,7 @@ If you see anything you'd like to change or update, [please consider contributin
 
 ## How to Implement the Solution
 
-Without further ado, let's implement Hello World in ALGOL 68:
-
-```algol
-printf(($gl$, "Hello, World!"))
-```
+Without further ado, let's implement Hello World in ALGOL 68.
 
 Now, I believe we can actually shorten this implementation to look identical to the 
 [Python implementation][1]. But, that wouldn't be too interesting. Instead, we opted 
@@ -46,9 +42,9 @@ Luckily, we have a simple example: `$gl$`.
 In this example, everything between the dollar signs is considered a format string. 
 In this case, we have two characters: *g* and *l*.
 
-Since we're formatting strings, one of those tokens will be replaced by our "Hello, World!" 
-string. In this case, it's *g*. As for *l*, that's actually the newline token ,  something 
-we haven't paid a lot of attention to in this series. When put together, "Hello, World!" 
+Since we're formatting strings, one of those tokens will be replaced by our `"Hello, World!"`
+string. In this case, it's *g*. As for *l*, that's actually the newline token, something 
+we haven't paid a lot of attention to in this series. When put together, `"Hello, World!"`
 will print to the console.
 
 Another interesting bit about this program is the fact that we have double parentheses 
@@ -62,8 +58,9 @@ a68g: error: 1: incorrect number of arguments for PROC ([] "SIMPLOUT") VOID (det
 
 To be honest, I don't understand the error. My best guess is *printf* requires an array 
 of arguments. Whereas, the *varargs* solution I'm proposing issues the format string 
-and "Hello, World!" as separate arguments. Fortunately, [James Jones has a great 
-explanation for this][1].
+and `"Hello, World!"` as separate arguments.
+
+[1]: https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/p/python/hello_world.py
 
 
 ## How to Run the Solution
@@ -75,3 +72,7 @@ Alternatively, we have the option to install an ALGOL 68 interpreter. Apparently
 is a limited [ALGOL 68 Genie interpreter][3] which should get the job done. After all, 
 it's the same interpreter the online solution uses. Feel free to leverage the 
 [documentation][4].
+
+[2]: https://www.jdoodle.com/execute-algol68-online/
+[3]: https://jmvdveer.home.xs4all.nl/en.algol-68-genie.html
+[4]: https://jmvdveer.home.xs4all.nl/learning-algol-68-genie.pdf

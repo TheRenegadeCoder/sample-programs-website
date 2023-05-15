@@ -28,22 +28,18 @@ If you see anything you'd like to change or update, [please consider contributin
 
 ## How to Implement the Solution
 
-Alright, let's get right to it:
+Alright, let's get right to it.
 
-```elixir
-IO.puts "Hello, World!"
-```
-
-As we can see, Hello World in Elixir is just a single line of 
+As we can see, Hello World in Elixir is just a single line of
 code. As usual, let's dig into it a bit.
 
-Up first, we have a reference to the IO module. In Elixir, the IO 
+Up first, we have a reference to the IO module. In Elixir, the `IO`
 module is the standard tool for working with standard input and 
 output as well as files and other devices. So, it makes sense that 
 we'd use it here to gain access to standard output.
 
-Up next, we call the puts function of the IO module. Like print in 
-most languages, puts simply writes a value to standard output. In 
+Up next, we call the `puts` function of the `IO` module. Like print in 
+most languages, `puts` simply writes a value to standard output. In 
 fact, we aren't limited to standard output. We can redirect the output 
 to other streams such as standard error:
 
@@ -51,19 +47,19 @@ to other streams such as standard error:
 IO.puts :stderr, "Uh Oh!"
 ```
 
-At any rate, puts, in our primary example, will simply write "Hello, 
+At any rate, `puts`, in our primary example, will simply write "Hello, 
 World!" to the user. To be honest, I'm surprised this is only the 
-second time we've seen the puts keyword in this series, the first being 
+second time we've seen the `puts` keyword in this series, the first being 
 Ruby.
 
 
 ## How to Run the Solution
 
-As always, if we want to give the code above a try, we can use an online 
-Elixir editor. Copy the code into the editor and hit run.
+As always, if we want to give the code above a try, we can use an [online Elixir editor][1].
+Copy the code into the editor and hit run.
 
 Alternatively, we can run the solution locally if we download the latest 
-version of Elixir. After that, we'll want to get a copy of the solution. 
+version of [Elixir][2]. After that, we'll want to get a copy of the solution. 
 Assuming Elixir is in our path, all we have to do is run the following 
 commands from the command line:
 
@@ -72,3 +68,6 @@ elixir hello-world.ex
 ```
 
 If successful, the "Hello, World" string should print to the console.
+
+[1]: https://www.jdoodle.com/execute-elixir-online/
+[2]: https://elixir-lang.org/install.html

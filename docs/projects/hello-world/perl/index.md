@@ -29,11 +29,7 @@ If you see anything you'd like to change or update, [please consider contributin
 ## How to Implement the Solution
 
 Without further ado, let's dive straight into our implementation 
-of Hello World in Perl:
-
-```perl
-print "Hello, World!";
-```
+of Hello World in Perl.
 
 Well, that was anticlimactic. In fact, it was about as disappointing 
 as our implementations of Hello World in Python and Ruby. That said, 
@@ -57,11 +53,11 @@ of your own using the sub keyword. That's a new one for me!
 
 ## How to Run the Solution
 
-As usual, we can try the solution using an online Perl interpreter. All we 
+As usual, we can try the solution using an [online Perl interpreter][1]. All we 
 have to do is drop the code into the editor and hit run.
 
 As an alternative, we can always run Perl locally. First, we'll need to get 
-the latest version of Perl from the official website. After that, we should 
+the latest version of Perl from the [official website][2]. After that, we should 
 probably get a copy of the solution. Assuming Perl is now in our path, we can 
 get to work:
 
@@ -71,3 +67,6 @@ perl hello-world.pl
 
 Since Perl is a scripting language, we can quickly run the script with the 
 command above. If successful, "Hello, World!" should print to the console.
+
+[1]: https://www.onlinegdb.com/online_perl_compiler
+[2]: https://www.perl.org/get.html

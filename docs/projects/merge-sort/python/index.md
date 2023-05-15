@@ -75,59 +75,8 @@ If you see anything you'd like to change or update, [please consider contributin
 
 ## How to Implement the Solution
 
-At this point, let's dig into the code a bit. The following sections break
+Let's dig into the code a bit. The following sections break
 down the Merge Sort in Python functionality.
-
-### Solution
-
-```python
-#!/usr/bin/env python
-import sys
-
-
-def merge_sort(xs):
-    def sort(xs):
-        if len(xs) <= 0:
-            return []
-        if len(xs) == 1:
-            return xs
-        return sort([merge(xs[0], xs[1])] + sort(xs[2:]))
-    split_xs = [[x] for x in xs]
-    return sort(split_xs)[0]
-
-
-def merge(xs, ys):
-    if len(xs) <= 0:
-        return ys
-    if len(ys) <= 0:
-        return xs
-    if xs[0] < ys[0]:
-        return [xs[0]] + merge(xs[1:], ys)
-    return [ys[0]] + merge(xs, ys[1:])
-
-
-def input_list(list_str):
-    return [int(x.strip(" "), 10) for x in list_str.split(',')]
-
-
-def exit_with_error():
-    print('Usage: please provide a list of at least two integers to sort in the format "1, 2, 3, 4, 5"')
-    sys.exit(1)
-
-
-def main(args):
-    try:
-        xs = input_list(args[0])
-        if len(xs) <= 1:
-            exit_with_error()
-        print(merge_sort(xs))
-    except (IndexError,ValueError):
-        exit_with_error()
-
-
-if __name__ == "__main__":
-    main(sys.argv[1:])
-```
 
 ### The Main Function
 
@@ -138,9 +87,9 @@ if __name__ == "__main__":
     main(sys.argv[1:])
 ```
 
-This bit of code checks to see if this is the main module run. If it is it then calls the main
-function and passes user input to it. In this case the user input would be a string of numbers
-like so `"2, 1, 10, 5, 3"` (to sort).
+This bit of code checks to see if this is the `main` module run. If it is it then calls the `main`
+function and passes user input to it. In this case, the user input would be a string of numbers to sort,
+like: `"2, 1, 10, 5, 3"`.
 
 ```python
 def main(args):
@@ -148,12 +97,12 @@ def main(args):
         xs = input_list(args[0])
         if len(xs) <= 1:
             exit_with_error()
-        print(selection_sort(xs))
-    except (IndexError,ValueError):
+        print(merge_sort(xs))
+    except (IndexError, ValueError):
         exit_with_error()
 ```
 
-This is the main function of this file. It parses the input, then calls our selection sort
+This is the `main` function of this file. It parses the input, then calls our merge sort
 function (and prints the results). It also deals with any errors raised.
 
 ### Transform Input Parameters
@@ -165,8 +114,8 @@ def input_list(list_str):
 
 This function takes a string like `"2, 1, 10, 5, 3"`, and turns into a list of numbers.
 It does this using a list comprehension. First, we need to convert our string into a
-list `list_str.split(',')` which is a list of strings split by comma (,).
-As a result, our original input string becomes `["2", " 1", " 10", " 5", " 3"]`. Then for each
+list `list_str.split(',')` which is a list of strings split by comma (`,`).
+As a result, our original input string becomes `["2", " 1", " 10", " 5", " 3"]`. Then, for each
 element in the list `for x in ...` ,  we do something to it.
 
 In this example we convert it into a decimal integer, `int(x.strip(" "), 10)`
@@ -204,8 +153,8 @@ This function is used to sort two list together (`xs` and `ys`). There are diffe
 we must account for. The first two conditions check if either of the lists are empty. There are
 a few ways to check if a list if empty such as `not xs` but in this case we are checking
 if the length of the list is less than or equal to 0 `len(xs) <= 0`. If either of the
-lists `xs` or `ys`, then we return the non empty list. So if `xs` is empty we will
-return the list `ys`.
+lists `xs` or `ys`, then we return the non empty list. So if `xs` is empty, we will
+return the list `ys`, and if `ys` is empty, we will returns the list `xs`.
 
 The next thing we check for is if the first element of `xs` is less than the `ys`,
 We can get the first element of a list like so `xs[0]`, then we
@@ -225,49 +174,49 @@ We don't include the first element of `xs` because we already know it's the smal
 both lists. The final line `return [ys[0]] + merge(xs, ys[1:])` is the same as line above except
 in this case `ys[0]` is smaller than `xs[0]` hence we use `ys[0]` at the start of the list
 concatenation instead of `xs[0]`. The reason this isn't surrounded by an `else` statement is
-because of the return statement. Nothing will be executed after it.
+because of the `return` statement. Nothing will be executed after it.
 
 Let's take a look at an example, where `xs = [3, 4]` and `ys = [1, 10]`
 
 Merge 1:
 
-* xs = [3, 4]
-* ys = [1, 10]
-* len(xs) = 2 and 2 > 0
-* len(ys) = 2 and 2 > 0
-* `xs[0] = 3` and `ys[0] = 1` and 3 > 1
-* [1] + merge([3, 4], [10])
+* `xs = [3, 4]`
+* `ys = [1, 10]`
+* `len(xs) = 2` and `2 > 0`
+* `len(ys) = 2` and `2 > 0`
+* `xs[0] = 3` and `ys[0] = 1` and `3 > 1`
+* `[1] + merge([3, 4], [10])`
 
 Merge 2:
 
-* xs = [3, 4]
-* ys = [10]
-* len(xs) = 2 and 2 > 0
-* len(ys) = 1 and 1 > 0
-* `xs[0] = 3` and `ys[0] = 4` and 3 < 4
-* [3] + merge([4], [10])
+* `xs = [3, 4]`
+* `ys = [10]`
+* `len(xs) = 2` and `2 > 0`
+* `len(ys) = 1` and `1 > 0`
+* `xs[0] = 3` and `ys[0] = 4` and `3 < 4`
+* `[3] + merge([4], [10])`
 
-Merge 3
+Merge 3:
 
-* xs = [4]
-* ys = [10]
-* len(xs) = 1 and 1 > 0
-* len(ys) = 1 and 1 > 0
-* `xs[0] = 4` and `ys[0] = 10` and 4 < 10
-* [4] + merge([], [10])
+* `xs = [4]`
+* `ys = [10]`
+* `len(xs) = 1` and `1 > 0`
+* `len(ys) = 1` and `1 > 0`
+* `xs[0] = 4` and `ys[0] = 10` and `4 < 10`
+* `[4] + merge([], [10])`
 
-Merge 4
+Merge 4:
 
-* xs = []
-* ys = [10]
+* `xs = []`
+* `ys = [10]`
 * len(xs) = 0 and 0 <= 0
 * return `[10]`
 
-Going backwards
+Going backwards:
 
-* [4] + [10] = [4, 10] (Merge 3)
-* [3] + [4, 10] = [3, 4, 10] (Merge 2)
-* [1] + [3, 4, 10] = [1, 3, 4, 10] (Merge 1)
+* `[4] + [10] = [4, 10]` (Merge 3)
+* `[3] + [4, 10] = [3, 4, 10]` (Merge 2)
+* `[1] + [3, 4, 10]` = `[1, 3, 4, 10]` (Merge 1)
 
 ### Merge Sort
 
@@ -301,7 +250,7 @@ is works exactly the same as a normal function.
 ```python
 split_xs = [[x] for x in xs]
 return sort(split_xs)[0]
-````
+```
 
 In this example, we execute the above lines. First. you can ignore the `sort()` function until
 it's called within `merge_sort()`. `split_xs = [[x] for x in xs]` splits our lists into separate lists.
@@ -338,12 +287,12 @@ list concatenation using the plus `+` operator `[merge(xs[0], xs[1])] + sort(xs[
 at an example where `xs = [[4], [10], [9], [5]]` the final sort function would look like
 `sort([merge([4], [10]) + sort([[9], [5]]))`.
 
-Lets take a look at how we would sort the list `xs = [4, 3, 1, 10]`
+Lets take a look at how we would sort the list `xs = [4, 3, 1, 10]`:
 
 * `merge_sort([4, 3, 1, 10])`
 * `split_xs = [[4], [3], [1], [10]]`
 
-Sort 1
+Sort 1:
 
 * `xs = [[4], [3], [1], [10]]`
 * `len(xs) = 4`
@@ -351,7 +300,7 @@ Sort 1
 * `[merge([4], [3])] = [[3, 4]]`
 * `sort([[3, 4]] + sort([[1], [10]]))`
 
-Sort 2
+Sort 2:
 
 * `xs = [[1], [10]]`
 * `len(xs) = 2`
@@ -359,44 +308,44 @@ Sort 2
 * `[merge([1], [10])] = [[1, 10]]`
 * `sort([[1, 10]] + sort([]))`
 
-Sort 3
+Sort 3:
 
 * `xs = []`
 * `len(xs) = 0`
 * `return []`
 
-Going Backwards (Sort 2)
+Going Backwards (Sort 2):
 
 * `sort([[1, 10]] + [])`
 
-Sort
+Sort:
 
 * `xs = [[1, 10]]`
 * `len(xs) = 1`
 * `return xs = return [1, 10]`
 
-Going Backwards (Sort 1)
+Going Backwards (Sort 1):
 
 * `sort([merge([3, 4])], [1, 10]))`
 * `sort([[1, 3, 4, 10]])`
 
-Sort
+Sort:
 
 * `xs = [[1, 3, 4, 10]]`
 * `len(xs) = 1`
 * `return [1, 3, 4, 10]`
 
-So
+So:
 
 * `return sort([[3, 4]] + sort([[1], [10]])) = [1, 3, 4, 10]`
 
 
 ## How to Run the Solution
 
-If we want to run this program, we should probably download a copy of [Selection Sort in Python](https://github.com/TheRenegadeCoder/sample-programs/blob/master/archive/p/python/merge-sort.py).
-After that, we should make sure we have the latest Python interpreter. From there, we can run the
+If we want to run this program, we should probably download a copy of [Selection Sort in Python](https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/p/python/merge_sort.py).
+After that, we should make sure we have the [latest Python interpreter](https://www.python.org/downloads/). From there, we can run the
 following command in the terminal:
 
 `python merge-sort.py "3, 2, 10, 6, 1, 7"`
 
-Alternatively, we can copy the solution into an online Python interpreter and hit run.
+Alternatively, we can copy the solution into an [online Python interpreter](https://www.online-python.com/) and hit run.

@@ -29,19 +29,14 @@ If you see anything you'd like to change or update, [please consider contributin
 
 ## How to Implement the Solution
 
-Alright, let's go ahead and dig into our implementation of Hello World in Racket:
-
-```racket
-#lang racket/base
-"Hello, World!"
-```
+Let's go ahead and dig into our implementation of Hello World in Racket.
 
 Up first, we have this peculiar line that looks kind of like a comment in Python
-or an import in C. As it turns out, the lang line specifies the language used by
+or an import in C. As it turns out, the `lang` line specifies the language used by
 the interpreter. In fact, I already mentioned that there's a module which
 provides syntax for static typing in Racket.
 
-In this case, the language we have chosen is racket/base. This only provides us
+In this case, the language we have chosen is `racket/base`. This only provides us
 the core Racket functionality. As an alternative, we could have easily specified
 racket alone.
 
@@ -76,10 +71,10 @@ We would need parentheses to actually evaluate this expression.
 ## How to Run the Solution
 
 At any rate, I think we're done here. If we want to try to run the solution, we
-can plug some of this code into an online Racket interpreter.
+can plug some of this code into an [online Racket interpreter][1].
 
-Alternatively, we can download the latest version of Racket and get a copy of
-the solution. Assuming Racket is now in the path, we can just run the following
+Alternatively, we can [download the latest version of Racket][2] and [get a copy of
+the solution][3]. Assuming Racket is now in the path, we can just run the following
 to execute Hello World in Racket:
 
 ```shell
@@ -87,3 +82,7 @@ racket hello-world.rkt
 ```
 
 And, that's it. If successful, the "Hello, World!" string should print to the console.
+
+[1]: https://onecompiler.com/racket/
+[2]: https://download.racket-lang.org/
+[3]: https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/r/racket/hello-world.rkt

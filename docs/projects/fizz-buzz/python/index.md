@@ -32,25 +32,11 @@ If you see anything you'd like to change or update, [please consider contributin
 
 ## How to Implement the Solution
 
-Let's start by looking at the complete Fizz Buzz algorithm in Python:
-
-```python
-for i in range(1, 101):
-    line = ''
-    if i % 3 == 0:
-        line += "Fizz"
-    if i % 5 == 0:
-        line += "Buzz"
-    if not line:
-        line += str(i)
-    print(line)
-```
-
 Before we dig into the code too much, let's take a look at the rules:
 
-If a number is divisible by 3, print the word 'Fizz' instead of the number.
-If the number is divisible by 5, print the word 'Buzz' instead of the number.
-Finally, if the number is divisible by both 3 and 5, print 'FizzBuzz' instead of
+If a number is divisible by 3, print the word `'Fizz'` instead of the number.
+If the number is divisible by 5, print the word `'Buzz'` instead of the number.
+Finally, if the number is divisible by both 3 and 5, print `'FizzBuzz'` instead of
 the number. Otherwise, just print the number.
 
 You can test for divisibility using the modulo operator.  The modulo operator
@@ -70,7 +56,7 @@ what type a variable should be on the fly.
 In the very first line, we'll notice a loop:
 
 ```python
-for i in range(1, 101):
+for n in range(1, 101):
 ```
 
 Here, we loop through all the numbers from 1 to 100.
@@ -80,35 +66,18 @@ Here, we loop through all the numbers from 1 to 100.
 From there, we set the variable line to an empty string and begin our testing:
 
 ```python
-line = ''
-if i % 3 == 0:
-    line += "Fizz"
-if i % 5 == 0:
-    line += "Buzz"
-if not line:
-    line += str(i)
+if n % 3 == 0:
+    print("FizzBuzz" if n % 5 == 0 else "Fizz")
+    continue
+print("Buzz" if n % 5 == 0 else n)
 ```
 
-If the number is divisible by 3, as explained above, we add the word "Fizz" to
-the empty string.  If it's divisible by 5, we add the word "Buzz". Notice the
-efficiency here. We don't need and because by simply adding "Buzz", we meet the
-requirement for the case where the number is divisible by 3 and 5, or just 5.  
-Then we add i to the empty string if the string is still empty.
+If the number is divisible by 3, as explained above, we print the word "Fizz" if the
+number is also not divisible by 5; otherwise, we print the word "FizzBuzz". We
+skip the rest of the loop with the `continue` statement.
 
-Notice that an empty string returns false.  This is a concept called falsey.  
-In a weakly typed language, like Python and JavaScript, values such as 0,
-undefined, null, and '' all return false when they're used in logical comparisons.
-
-### Printing
-
-Finally, we print the result of line on every iteration:
-
-```python
-print(line)
-```
-
-Since we declare an empty string at every iteration, we don't have to worry about
-line containing any junk from the previous iteration.
+If it's divisible by 5, we print the word "Buzz"; otherwise, we print the number
+(`n`).
 
 
 ## How to Run the Solution

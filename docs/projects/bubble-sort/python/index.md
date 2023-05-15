@@ -71,62 +71,18 @@ If you see anything you'd like to change or update, [please consider contributin
 At this point, let's dig into the code a bit. The following sections break
 down the Bubble Sort in Python functionality.
 
-### Solution
-
-```python
-#!/usr/bin/env python
-import sys
-from functools import reduce
-
-
-def bubble_sort(xs):
-    def pass_list(xs):
-        if len(xs) <= 1:
-            return xs
-        x0 = xs[0]
-        x1 = xs[1]
-        if x1 < x0:
-            del xs[1]
-            return [x1] + pass_list(xs)
-        return [x0] + pass_list(xs[1:])
-    return reduce(lambda acc, _ : pass_list(acc), xs, xs[:])
-
-
-def input_list(list_str):
-    return [int(x.strip(" "), 10) for x in list_str.split(',')]
-
-
-def exit_with_error():
-    print('Usage: please provide a list of at least two integers to sort in the format "1, 2, 3, 4, 5"')
-    sys.exit(1)
-
-
-def main(args):
-    try:
-        xs = input_list(args[0])
-        if len(xs) <= 1:
-            exit_with_error()
-        print(bubble_sort(xs))
-    except (IndexError,ValueError):
-        exit_with_error()
-
-
-if __name__ == "__main__":
-    main(sys.argv[1:])
-```
-
 ### The Main Function
 
-Breaking down this solution bottom up,
+Breaking down this solution bottom up:
 
 ```python
 if __name__ == "__main__":
     main(sys.argv[1:])
 ```
 
-This bit of code checks to see if this is the main module run. If it is it then calls the main
+This bit of code checks to see if this is the `main` module run. If it is it then calls the `main`
 function and passes user input to it. In this case the user input would be a string of numbers
-like so `"2, 1, 10, 5, 3"` (to sort).
+to sort like so: `"2, 1, 10, 5, 3"`.
 
 ```python
 def main(args):
@@ -135,11 +91,11 @@ def main(args):
         if len(xs) <= 1:
             exit_with_error()
         print(bubble_sort(xs))
-    except (IndexError,ValueError):
+    except (IndexError, ValueError):
         exit_with_error()
 ```
 
-This is the main function of this file. It parses the input, then calls our bubble sort function
+This is the `main` function of this file. It parses the input, then calls our bubble sort function
 (and prints the results). It also deals with any errors raised.
 
 ### Transform Input Parameters
@@ -210,10 +166,10 @@ Taking a look at the time `pass_list` is called.
 * Compare 3, 5
 * 3 < 5
 * This time we don't delete 3, we then pass every element of the list except the first one (3) `xs[1:]`
-* Call `pass_list` `[3] + pass_list(5,1)`.
+* Call `pass_list`, `[3] + pass_list(5,1)`.
 
 The final bit of the code is what calls `pass_list`, where `acc` parameter is the `xs` list.
-The reduce function is used to call `pass_list`, multiple times and `xs[:]` is a copy of the
+The `reduce` function is used to call `pass_list`, multiple times and `xs[:]` is a copy of the
 `xs` so when `xs` is changed `xs[:]` is unaffected. The `reduce` function is used to loop
 through every element, it (`reduce`) it uses the output of the last iteration as input to
 the next one.
@@ -221,7 +177,7 @@ the next one.
 For example:
 
 * For input `[10, 3, 2, 5, 7]` output is `[3, 2, 5, 7, 10]`
-* Then input `[3, 2, 5, 7, 10]` output is `[2, 3, 5, 7, 10]`
+* Then input is `[3, 2, 5, 7, 10]` output is `[2, 3, 5, 7, 10]`
 * Then input is `[2, 3, 5, 7, 10]` output is `[2, 3, 5, 7, 10]`
 * ...
 

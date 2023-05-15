@@ -29,19 +29,14 @@ If you see anything you'd like to change or update, [please consider contributin
 
 ## How to Implement the Solution
 
-At long last, let's take a stab at Hello World in Hack:
-
-```hack
-<?hh
-echo 'Hello, World!';
-```
+At long last, let's take a stab at Hello World in Hack.
 
 Right away, you should scream "that looks a lot like PHP!" 
 After all, Hack is just a dialect of PHP.
 
 That said, there is at least one obvious syntactic difference: 
 the Hack tag. I can't seem to figure out the formal name of 
-the <?hh tag, so I've been calling it the Hack tag. At any 
+the `<?hh` tag, so I've been calling it the Hack tag. At any 
 rate, at least that's different.
 
 Beyond the tag, Hello World in Hack is exactly the same in Hello 
@@ -53,9 +48,11 @@ function: backend web development.
 
 ## How to Run the Solution
 
-If we want to try this code, we can use an online Hack compiler. 
+If we want to try this code, we can use an [online Hack compiler][1].
 
-Alternatively, we can download the Hack Virtual Machine to run 
-Hack code locally. From there, I recommend reading up on how to 
-get started with Hack. Getting everything up and running is bit 
+Alternatively, we can download the Hack Virtual Machine to run
+Hack code locally. From there, I recommend reading up on how to
+get started with Hack. Getting everything up and running is bit
 out of scope of this article.
+
+[1]: https://www.jdoodle.com/execute-hack-online/

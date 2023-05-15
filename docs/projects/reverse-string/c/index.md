@@ -55,53 +55,9 @@ If you see anything you'd like to change or update, [please consider contributin
 
 ## How to Implement the Solution
 
-Below is the whole code for reversing a string in C :
-
-```c
-#include <stdio.h> 
-#include <string.h> 
-  
-void reverseString(char* str) 
-{ 
-    int len, i; 
-    char *start, *end, temp;
-    len = strlen(str); 
-    start = str; 
-    end = str; 
-  
-    for (i = 0; i < len - 1; i++) 
-    {
-        end++; 
-    }
-
-    while (start<end) 
-    { 
-        temp = *end; 
-        *end = *start; 
-        *start = temp; 
-
-        start++; 
-        end--; 
-    } 
-} 
-  
-// Driver method 
-int main() 
-{   
-    // Change Input as needed
-    char str[400] = "AbCdeF"; 
-    printf("Input string: %s\n", str); 
-    reverseString(str); 
-    printf("Reversed string: %s\n", str);   
-    return 0; 
-} 
-```
-<br/>
-
 ### Approach
 
-
-Here we create two pointers, one that points to the string's start and the other to the end of the string. Using a third character *variable* as a place holder, we swap the character positions indicated by the pointers. We continue to do so until the entire input string is reversed by moving the *pointers*. 
+We get the length of the input string and iteration from the last character to the first, displaying each character.
 
 [Time complexity][1]: O(n)
 
@@ -115,68 +71,61 @@ Now let us see step-by-step how the code works.
 #include <stdio.h> 
 #include <string.h> 
 ```
-Here we are including header files (.h files) to use functions like printf(). Header files provided us with tested ready to use functions to ease the software development work. 
 
-By including `#include <stdio.h>` we can use printf() method without worrying about how it is implemented. Can you guess why we have included `#include <string.h>`? Keep on reading for the answer.
+Here we are including header files (`.h` files) to use functions like `printf()`. Header files provided us with tested ready to use functions to ease the software development work. 
 
-```c
-void reverseString(char* str) {
-    // code
-} 
-```
-This is the function that will take a string as input and reverse it. Here, we will be modifying the value pointed by *pointer* str. Hence, the function doesn't need to return anything, and the return type of our method is *void*. 
+By including `#include <stdio.h>` we can use `printf()` method without worrying about how it is implemented.
 
 ```c
-    int len, i; 
-    char *start, *end, temp;
-    len = strlen(str); 
-    start = str; 
-    end = str; 
-```
-Here we are declaring *variables* to store the length of the string and *pointers* to point start and end points (of the logical substring) to be swapped. Note that currently, the `end` pointer is pointing to the start of the string instead of the end of the string. We will see how to fix it in the next step.
+int main(int argc, char **argv)
+{
+    char *text = "";
+    size_t textlen;
 
-And yes, the function `strlen()`, which gives us the length of string, can be used because of the statement: `#include <string.h>`. 
-
-```c
-     for (i = 0; i < len - 1; i++) 
-    {
-        end++; 
+    /* get text from command line and calculate length */
+    if (argc >= 2) {
+        text = argv[1];
     }
+
+    textlen = strlen(text);
 ```
-We traverse through the entire string so that *pointer* `end` can point to the last character of the string. It's important to note that *for loop* traverse till `len-1` this is because, in C, arrays are zero-indexed i.e., indexing starts from 0. The `++` syntax at the end of the *variable* `end` is called an Increment operator. The increment operator increments the value of the variable by one in each iteration. Thus, after *for loop* is executed, *variable* `end` points to the string's last character.
+
+This get the first command-line argument if it is present. Otherwise, an empty string it assumed. The variable `text` contains
+a pointer to the string to be reversed. Then, the length of the string is calculated using **strlen()** and stored in `textlen`.
+
+Now we get to actual code that displays the string in reverse:
 
 ```c
-  while (start<end) 
-    { 
-        temp = *end; 
-        *end = *start; 
-        *start = temp; 
-
-        start++; 
-        end--; 
-    } 
+/* print characters in reverse */
+while (textlen-- > 0) {
+    putchar(text[textlen]);
+}
 ```
-And this is the Meat of the matter; this is the logic that reverses the string. The *while loop*  condition `start<end` make sure that once reversed, we don't reverse back the string to the original string (For Math geeks; only 180<sup>o</sup> and not 360<sup>o</sup> rotation of string). The `temp` *variable* is used for swapping the characters pointed by two *pointers*. The `--` syntax at the end of the* variable* `end` is called a Decrement operator, and it decrements the value of `end` by 1. Both of these operators change characters pointed by the *pointers*, and we can swap all characters of the string. 
+
+This goes through the string in reverse order and displays each character.
+
+Then, a newline is displayed:
 
 ```c
- int main() 
-{   
-    // Change Input as needed
-    char str[400] = "AbCdeF"; 
-    printf("Input string: %s\n", str); 
-    reverseString(str); 
-    printf("Reversed string: %s\n", str);   
-    return 0; 
-} 
+/* put a newline at the end */
+putchar('\n');
 ```
-The `main()` function is acting as a utility function to use the `reverseString()`.  Using the instructions in the next step, try changing the value of *variable* `str` by typing your desired string inside double quotes *("")*.
 
-Also, think about how the length of the string being odd or even can affect our code.
+Finally the code exits:
 
+```c
+return 0;
+```
+
+[1]: https://en.wikipedia.org/wiki/Time_complexity
 
 
 ## How to Run the Solution
 
-The easiest way to run this program is to go to this [LeetCode Playground][2] and run the program. You can tweak the program or provide different input strings to understand the working better.  
+The easiest way to run this program is to go to this [LeetCode Playground][2] and run the program. You can tweak the program or provide different input strings to understand how it works.
 
-Alternatively, you copy GitHub's code and run the program on an online C compiler or in an IDE.
+Alternatively, you can copy the [code from GitHub][3] code and run the program on an [online C compiler][4] or in an IDE.
+
+[2]: https://leetcode.com/
+[3]: https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/c/c/reverse-string.c
+[4]: https://www.onlinegdb.com/online_c_compiler

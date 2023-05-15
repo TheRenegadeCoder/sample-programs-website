@@ -50,34 +50,6 @@ If you see anything you'd like to change or update, [please consider contributin
 
 ## How to Implement the Solution
 
-As usual, we present the whole solution before we delve deeper into the code:
-
-```ruby
-def write_file
-  out = File.new("output.txt", "w")
-
-  out << "This is a line written by a Ruby program\n"
-  out << "This line also"
- 
-  out.flush()
-  out.close()
-end
-
-
-def read_file
-  in_file = File.open("output.txt", "r")
-
-  in_file.each_line do |line|
-    puts line
-  end
-
-  in_file.close()
-end
-
-write_file()
-read_file()
-```
-
 Before reading on, why not try to figure out how it works?
 
 ### Writing
@@ -105,7 +77,7 @@ out = File.new("output.txt", "w")
 
 It takes an argument to the path of the file and a mode. A mode is how we want
 the file to be opened. By default, it opens for reading. We want to write
-abilities so we specify "w" for writing.
+abilities so we specify `"w"` for writing.
 
 For the next two lines we write arbitrary text to the file:
 
@@ -115,7 +87,7 @@ out << "This line also"
 ```
 
 In this sample code we used the bitshift left operators to write the text. We
-could have used the write() method to write text instead of using the operators.
+could have used the `write()` method to write text instead of using the operators.
 
 Next, we flush the file:
 
@@ -126,7 +98,7 @@ out.flush()
 Sometimes when we make calls to write not everything may get written down to
 disk. Only a fraction could be in the file and the rest is in memory waiting
 to get written to the file. To ensure everything is written, we call the method
-flush().
+`flush()`.
 
 Lastly, we close the file to free up its resources:
 
@@ -160,8 +132,8 @@ in_file = File.open("output.txt", "r")
 ```
 
 `File.open()` takes an argument to the path of the file and a mode. By default,
-it opens the file for reading purposes, but for the sake of being explicit I
-passed "r" for the mode.
+it opens the file for reading purposes, but for the sake of being explicit, I
+passed `"r"` for the mode.
 
 The next three lines loop through the file and print out each line:
 

@@ -64,48 +64,8 @@ If you see anything you'd like to change or update, [please consider contributin
 
 ## How to Implement the Solution
 
-At this point, let's dig into the code a bit. The following sections break
+Let's dig into the code a bit. The following sections break
 down the Selection Sort in Python functionality.
-
-### Solution
-
-```python
-#!/usr/bin/env python
-import sys
-
-
-def selection_sort(xs, sorted_xs=None):
-    sorted_xs = sorted_xs or []
-    if len(xs) <= 0:
-        return sorted_xs
-    x = min(xs)
-    sorted_xs.append(x)
-    xs.remove(x)
-    return selection_sort(xs, sorted_xs)
-
-
-def input_list(list_str):
-    return [int(x.strip(" "), 10) for x in list_str.split(',')]
-
-
-def exit_with_error():
-    print('Usage: please provide a list of at least two integers to sort in the format "1, 2, 3, 4, 5"')
-    sys.exit(1)
-
-
-def main(args):
-    try:
-        xs = input_list(args[0])
-        if len(xs) <= 1:
-            exit_with_error()
-        print(selection_sort(xs))
-    except (IndexError,ValueError):
-        exit_with_error()
-
-
-if __name__ == "__main__":
-    main(sys.argv[1:])
-```
 
 ### The Main Function
 
@@ -116,9 +76,9 @@ if __name__ == "__main__":
     main(sys.argv[1:])
 ```
 
-This bit of code checks to see if this is the main module run. If it is it then calls the main
-function and passes user input to it. In this case the user input would be a string of numbers
-like so `"2, 1, 10, 5, 3"` (to sort).
+This bit of code checks to see if this is the `main` module run. If it is it then calls the `main`
+function and passes user input to it. In this case the user input would be a string of numbers to sort
+like so: `"2, 1, 10, 5, 3"`.
 
 ```python
 def main(args):
@@ -127,11 +87,11 @@ def main(args):
         if len(xs) <= 1:
             exit_with_error()
         print(selection_sort(xs))
-    except (IndexError,ValueError):
+    except (IndexError, ValueError):
         exit_with_error()
 ```
 
-This is the main function of this file. It parses the input, then calls our selection sort
+This is the `main` function of this file. It parses the input, then calls our selection sort
 function (and prints the results). It also deals with any errors raised.
 
 ### Transform Input Parameters
@@ -143,7 +103,7 @@ def input_list(list_str):
 
 This function takes a string like `"2, 1, 10, 5, 3"`, and turns into a list of numbers.
 It does this using a list comprehension, first we need to convert our string into a
-list `list_str.split(',')` which is a list of strings split by comma (,).
+list `list_str.split(',')` which is a list of strings split by comma (`,`).
 So our original input string becomes `["2", " 1", " 10", " 5", " 3"]`. Then for each
 element in the list `for x in ...` ,  we do something to it.
 
@@ -200,7 +160,7 @@ remove it from the `xs` list. Finally, we call the selection sort function with 
 
 Taking a look at a simple example where we want to sort `[5, 1, 3]`.
 
-1st 
+1st:
 
 * Call `selection_sort([5, 1, 3])`
 * `xs = [5, 1, 3]`, `sorted_xs=[]`
@@ -208,21 +168,21 @@ Taking a look at a simple example where we want to sort `[5, 1, 3]`.
 * `xs = [5, 3]`, `sorted_xs = [1]`
 * `selection_sort([5, 3], [1])`
 
-2nd
+2nd:
 
 * `xs = [5, 3]`, `sorted_xs = [1]`
 * Minimum value is `3`
 * `xs = [5]`, `sorted_xs = [1, 3]`
 * `selection_sort([5], [1, 3])`
 
-3rd
+3rd:
 
 * `xs = [5]`, `sorted_xs = [1, 3]`
 * Minimum value is `5`
 * `xs = []`, `sorted_xs = [1, 3, 5]`
 * `selection_sort([], [1, 3, 5])`
 
-4th
+4th:
 
 * `xs = []`, `sorted_xs = [1, 3, 5]`
 * `len(xs) <= 0`, as we have 0 elements
@@ -231,9 +191,9 @@ Taking a look at a simple example where we want to sort `[5, 1, 3]`.
 
 ## How to Run the Solution
 
-If we want to run this program, we should probably download a copy of [Selection Sort in Python](https://github.com/TheRenegadeCoder/sample-programs/blob/master/archive/p/python/selection-sort.py).
-After that, we should make sure we have the latest Python interpreter. From there, we can run the following command in the terminal:
+If we want to run this program, we should probably download a copy of [Selection Sort in Python](https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/p/python/selection_sort.py).
+After that, we should make sure we have the [latest Python interpreter](https://www.python.org/downloads/). From there, we can run the following command in the terminal:
 
 `python selection-sort.py "3, 2, 10, 6, 1, 7"`
 
-Alternatively, we can copy the solution into an online Python interpreter and hit run.
+Alternatively, we can copy the solution into an [online Python interpreter](https://www.online-python.com/) and hit run.

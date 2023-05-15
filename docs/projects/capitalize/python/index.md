@@ -43,25 +43,7 @@ If you see anything you'd like to change or update, [please consider contributin
 
 ## How to Implement the Solution
 
-Let's take a look on code for capitalize.py:
-
-```python
-import sys
-
-def capitalize(input):
-    if len(input) > 0:
-        print(input[0].capitalize() + input[1:])
-
-
-if __name__ == '__main__':
-    if(len(sys.argv) == 1 or len(sys.argv[1]) == 0):
-        print('Usage: please provide a string')
-    else:
-        capitalize(sys.argv[1])
-
-```
-
-Now, we will consider this code block by block on the order of execution.
+We will consider this code block by block on the order of execution.
 
 ```python
 if __name__ == '__main__':
@@ -92,3 +74,6 @@ python capitalize.py
 
 Alternatively, we can copy the solution into an [online Python interpreter][2]
 and hit run.
+
+[1]: https://docs.python.org/3/tutorial/interpreter.html
+[2]: https://www.onlinegdb.com/online_python_interpreter

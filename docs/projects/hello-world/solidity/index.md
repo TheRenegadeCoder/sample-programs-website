@@ -34,17 +34,6 @@ If you see anything you'd like to change or update, [please consider contributin
 
 ## How to Implement the Solution
 
-Without further ado, here's an implementation of Hello World in Solidity:
-
-```solidity
-pragma solidity ^0.4.22;
-contract helloWorld {   
-    function renderHelloWorld () public pure returns (string) {       
-        return 'Hello, World!';             
-    }
-}
-```
-
 While the format of Solidity looks a bit different from the more popular
 programming languages today, what's happening behind is fairly straightforward.
 
@@ -57,3 +46,5 @@ function and specify we'd only like to return a string. And, voila!
 If you want to run the solution, remix provides an [IDE][5] you can visit to write
 and execute the smart contract. Every piece of code written in Solidity, or any
 blockchain programming language, is considered a smart contract.
+
+[5]: https://remix-project.org/

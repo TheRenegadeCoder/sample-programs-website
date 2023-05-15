@@ -46,27 +46,7 @@ If you see anything you'd like to change or update, [please consider contributin
 
 ## How to Implement the Solution
 
-Java is a very standard looking programming language, so this code may look quite familiar:
-
-```java
-public class FizzBuzz {
-  public static void main(String[] args) {
-    for (int i = 1; i < 101; i++) {
-      String output = "";
-      if (i % 3 == 0) {
-        output += "Fizz";
-      }
-      if (i % 5 == 0) {
-        output += "Buzz";
-      }
-      if (output.isEmpty()) {
-        output += i;
-      }
-      System.out.println(output);
-    }
-  }
-}
-```
+Java is a very standard looking programming language, so this code may look quite familiar.
 
 The rules of the problem are quite straightforward:
 
@@ -76,16 +56,19 @@ The rules of the problem are quite straightforward:
     of the number. Otherwise, just print the number.
 
 The modulo operator will let us easily check for divisibility, as it returns the remainder
-from a division. When i is divisible by 3, i % 3 will just be 0.
+from a division. When `i` is divisible by 3, `i % 3` will just be 0.
 
 ### The Function
 
-As with any Java program, we start out with a public class, (named the same as the
-FizzBuzz.java file). Then inside that we set up a main function, with a array of string arguments.
+As with any Java program, we start out with a `public class`, (named the same as the
+FizzBuzz.java file). Then inside that we set up a `main` function, with a array of string arguments.
 
 ```java
 public class FizzBuzz {
-  public static void main(String[] args) {
+    public static void main(String[] args) {
+        ...
+    }
+}
 ```
 
 The program is within that one function, so we do not need to pay any more attention to that.
@@ -96,12 +79,14 @@ Next we will set up the required loop, going from 1 to 100. We can use a simple 
 loop to achieve that.
 
 ```java
-    for (int i = 1; i < 101; i++) {
+for (int i = 1; i < 101; i++) {
+    ...
+}
 ```
 
-The first part of it is a variable, int i stores a number and is started at 1.
-The loop is then set to run repeatedly until i is greater than 100. Finally i++ means
-that every time the loop is run, i will increase by 1.
+The first part of it is a variable, int `i` stores a number and is started at 1.
+The loop is then set to run repeatedly until `i` is greater than 100. Finally `i++ `means
+that every time the loop is run, `i` will increase by 1.
 
 ### Control Flow
 
@@ -109,24 +94,24 @@ Each time the loop runs, it will first create a blank String to hold the output
 (This just stores a list of characters for later display).
 
 ```java
-      String output = "";
+String output = "";
 ```
 
 Each if statement will then check for divisibility and add to the output variable.
 
 ```java
-      if (i % 3 == 0) {
-        output += "Fizz";
-      }
-      if (i % 5 == 0) {
-        output += "Buzz";
-      }
-      if (output.isEmpty()) {
-        output += i;
-      }
+if (i % 3 == 0) {
+    output += "Fizz";
+}
+if (i % 5 == 0) {
+    output += "Buzz";
+}
+if (output.isEmpty()) {
+    output += i;
+}
 ```
 
-If i is divisible by 3, add Fizz, then if i is divisible by 5 add Buzz. Notice
+If `i` is divisible by 3, add `"Fizz"`, then if `i` is divisible by 5, add `"Buzz"`. Notice
 that there is no else statement, so both of them can run consecutively. This
 also uses Java's handy ability to just add two strings together and attach one
 to the end of the other. If the output is still blank after the first if
@@ -137,26 +122,19 @@ statements, then put the number there instead.
 Finally we have a long statement to put that output onto the screen.
 
 ```java
-      System.out.println(output);
-    }
-  }
-}
+System.out.println(output);
 ```
 
 This references a standard library function, and can be used at any time to output
-text. The ln at the end means that after the output variable is printed it will
+text. The `ln` at the end means that after the output variable is printed it will
 be followed by a newline, allowing the next loop to follow.
-
-It should also be noted that 3 curly-braces follow, to close the for loop, the
-function and the class respectively. The indenting is just a standard thing added
-for clarity.
 
 
 ## How to Run the Solution
 
-First we will need to grab the latest version of java, particularly the Java
+First we will need to grab the latest version of Java, particularly the Java
 Development Kit (JDK). Next we need to save the code into a file named
-FizzBuzz.java. Finally, in the folder with the code, we shall run the commands:
+`FizzBuzz.java`. Finally, in the folder with the code, we shall run the commands:
 
 ```console
 javac FizzBuzz.java

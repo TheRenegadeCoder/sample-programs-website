@@ -53,33 +53,6 @@ If you see anything you'd like to change or update, [please consider contributin
 
 ## How to Implement the Solution
 
-```swift
-func fizzBuzz(start: Int = 1, end: Int = 100) -> Void {
-    let range = start...end
-
-    for number in range {
-        guard number % 5 == 0 || number % 3 == 0 else {
-            print(number)
-            continue
-        }
-
-        var fizzAndOrBuzz = ""
-
-        if number % 3 == 0 {
-            fizzAndOrBuzz = "Fizz"
-        }
-
-        if number % 5 == 0 {
-            fizzAndOrBuzz += "Buzz"
-        }
-
-        print(fizzAndOrBuzz)
-    }
-}
-
-fizzBuzz();
-```
-
 ### The Function Signature
 
 Here we see a rather long and punctuation-filled function signature. [Swift functions](https://docs.swift.org/swift-book/LanguageGuide/Functions.html) use named parameters, and the type of each parameter must be noted. This is a safety feature, ensuring, for example, that we don't pass in a float when we need an integer. So, in line 1, we see `start: Int` and `end: Int`, meaning that our function takes in two integer values, named `start` and `end`.

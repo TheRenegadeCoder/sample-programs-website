@@ -39,14 +39,6 @@ If you see anything you'd like to change or update, [please consider contributin
 Erlang looks scary when you first look at it, so we'll show the full program and
 then we'll break it down into parts to fully describe it.
 
-```erlang
--module(hello_world).
--export([start/0]).
-
-start() ->
-   io:format("Hello, World!~n").
-```
-
 ### Breaking it down
 
 The first key part of an Erlang program is the `-module().` preprocessor directive:
@@ -67,10 +59,10 @@ Next, to use functions from the module we've written we have to export them expl
 -export([start/0]).
 ```
 
-This exports our start function, it takes no arguments so we reference the function as `start/0`. The number of arguments is called the "arity" of the function.
+This exports our `start` function, it takes no arguments so we reference the function as `start/0`. The number of arguments is called the "arity" of the function.
 
 
-Functions in erlang start with an atom (for now, think of these as just lowercase letters + underscores), then the parameters, followed by an arrow `->`. The following functions are both valid:
+Functions in Erlang start with an atom (for now, think of these as just lowercase letters + underscores), then the parameters, followed by an arrow `->`. The following functions are both valid:
 
 ```erlang
 my_function() ->
@@ -80,7 +72,9 @@ myfunction() ->
   ok.
 ```
 
-Our start function only does one thing for this simple program, it calls the `format` function from the `io` module to print characters to standard output by default. `io:format()`. The string `"Hello world!~n"` includes the newline control sequence `~n` - you can see a list of control sequences available for use in the documentation for `io:fwrite` [here][1] (scroll down to "Available control sequences").
+Our `start` function only does one thing for this simple program, it calls the `format` function from the `io` module to print characters to standard output by default. `io:format()`. The string `"Hello world!~n"` includes the newline control sequence `~n` - you can see a list of control sequences available for use in the documentation for `io:fwrite` [here][1] (scroll down to "Available control sequences").
+
+[1]: https://www.erlang.org/doc/man/io.html#fwrite-1
 
 
 ## How to Run the Solution

@@ -29,12 +29,9 @@ If you see anything you'd like to change or update, [please consider contributin
 ## How to Implement the Solution
 
 I chose Python to start as it has probably the easiest and most readable 
-Hello World implementation in the realm of programming languages:
+Hello World implementation in the realm of programming languages.
 
-```python
-print("Hello, World!")
-```
-And, we're done. In fact, we don't even have to compile anything. If we're in 
+We don't even have to compile anything. If we're in 
 the interpreter, we'll print right away. Otherwise, we can easily call the 
 script from the command line to get our result.
 
@@ -45,14 +42,18 @@ is able to call the Python libraries that make the print possible.
 
 ## How to Run the Solution
 
-If we want to run this program, we should probably download a copy of 
-Hello World in Python. After that, we should make sure we have the 
-[latest Python interpreter][1]. From there, we can simply run the following 
+If we want to run this program, we should probably download a copy of
+[Hello World in Python][1]. After that, we should make sure we have the
+[latest Python interpreter][2]. From there, we can simply run the following
 command in the terminal:
 
 ```console
 python hello-world.py
 ```
 
-Alternatively, we can copy the solution into an [online Python interpreter][2] 
+Alternatively, we can copy the solution into an [online Python interpreter][3]
 and hit run.
+
+[1]: https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/p/python/hello_world.py
+[2]: https://www.python.org/downloads/
+[3]: https://www.online-python.com/
