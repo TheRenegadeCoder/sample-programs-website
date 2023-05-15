@@ -1,20 +1,7 @@
-At any rate, let's implement Hello World in Bash:
-
-```bash
-echo Hello, World!
-```
-
-Or, if we want to be a bit more verbose:
-
-```bash
-#!/bin/bash
-echo Hello, World!
-```
-
 As we can see, printing "Hello, World!" in Bash is quite simple. All we do is call the 
-echo command to print the string.
+`echo` command to print the string.
 
-As an added note, the shebang (#!) tells the environment how to run the script. 
+As an added note, the shebang (`#!`) tells the environment how to run the script. 
 In this case, we want to run the script using Bash. But, we can use this same 
 notation for other languages as well:
 

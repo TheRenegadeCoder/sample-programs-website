@@ -11,3 +11,8 @@ gcc -o hello-world hello-world.c
 Of course, these are Unix/Linux instructions. If we're on Windows, it may be easier
 to take advantage of an [online C compiler][3]. Alternatively, we can leverage a tool
 like [MinGW][4].
+
+[1]: https://gcc.gnu.org/
+[2]: https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/c/c/hello-world.c
+[3]: https://www.programiz.com/c-programming/online-compiler/
+[4]: https://www.mingw-w64.org/

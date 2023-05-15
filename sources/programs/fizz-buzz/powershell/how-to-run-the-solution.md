@@ -6,7 +6,7 @@ NOTE: If you have a secure Execution Policy, you'll have to set it to unrestrict
 before executing this script.
 
 ```console
-$Url = "https://raw.githubusercontent.com/TheRenegadeCoder/sample-programs/master/archive/p/powershell/FizzBuzz.ps1"
+$Url = "https://raw.githubusercontent.com/TheRenegadeCoder/sample-programs/main/archive/p/powershell/FizzBuzz.ps1"
 $CurrPath = (Get-Location).Path
 $FilePath = "$CurrPath\FizzBuzz.ps1"
 $WebClient = New-Object System.Net.WebClient

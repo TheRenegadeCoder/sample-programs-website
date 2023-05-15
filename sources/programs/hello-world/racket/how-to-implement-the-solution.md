@@ -1,16 +1,11 @@
-Alright, let's go ahead and dig into our implementation of Hello World in Racket:
-
-```racket
-#lang racket/base
-"Hello, World!"
-```
+Let's go ahead and dig into our implementation of Hello World in Racket.
 
 Up first, we have this peculiar line that looks kind of like a comment in Python
-or an import in C. As it turns out, the lang line specifies the language used by
+or an import in C. As it turns out, the `lang` line specifies the language used by
 the interpreter. In fact, I already mentioned that there's a module which
 provides syntax for static typing in Racket.
 
-In this case, the language we have chosen is racket/base. This only provides us
+In this case, the language we have chosen is `racket/base`. This only provides us
 the core Racket functionality. As an alternative, we could have easily specified
 racket alone.
 

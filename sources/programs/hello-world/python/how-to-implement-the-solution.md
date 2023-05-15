@@ -1,10 +1,7 @@
 I chose Python to start as it has probably the easiest and most readable 
-Hello World implementation in the realm of programming languages:
+Hello World implementation in the realm of programming languages.
 
-```python
-print("Hello, World!")
-```
-And, we're done. In fact, we don't even have to compile anything. If we're in 
+We don't even have to compile anything. If we're in 
 the interpreter, we'll print right away. Otherwise, we can easily call the 
 script from the command line to get our result.
 

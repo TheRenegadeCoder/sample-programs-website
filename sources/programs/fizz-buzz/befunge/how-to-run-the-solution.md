@@ -4,7 +4,11 @@ Because of the particular design of the language, it is recommended to use a Bef
 - [jsFunge IDE][3]
 - [Befunge-93 Interpreter][4]
 
-If you do want to use a compiler, here are some options:
+If you do want to use a compiler, here is another option:
 
-- [Tim's Befunge Compiler][5]
 - [BefunUtils][6]
+
+[2]: https://www.bedroomlan.org/tools/befunge-playground/#prog=hello,mode=edit
+[3]: https://befunge.flogisoft.com/
+[4]: http://qiao.github.io/javascript-playground/visual-befunge93-interpreter/
+[6]: https://github.com/Mikescher/BefunUtils

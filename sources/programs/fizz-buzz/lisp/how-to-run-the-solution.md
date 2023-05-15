@@ -10,5 +10,9 @@ sbcl --script fizz-buzz.lsp
 
 For an easy online interpreter, here are some options:
 
-- [CompileOnline CLISP][1]
-- [Jdoodle CLISP][2]
+- [CompileOnline CLISP][2]
+- [Jdoodle CLISP][3]
+
+[1]: https://www.sbcl.org/
+[2]: https://ideone.com/l/clips
+[3]: https://www.jdoodle.com/execute-clisp-online/

@@ -1,8 +1,4 @@
-With the background out of the way, let's implement Hello World in Crystal:
-
-```crystal
-puts "Hello, World!"
-```
+With the background out of the way, let's implement Hello World in Crystal.
 
 If we think back, we might remember that this syntax is exactly the same in Ruby. 
 Of course, this should come as no surprise as Ruby's syntax was a major influence 
@@ -56,3 +52,5 @@ puts
 
 Or, something along those lines. At any rate, I've gone a bit too far down a rabbit hole. 
 Let's learn how to run our solution.
+
+[1]: https://crystal-lang.org/api/1.8.2

@@ -6,7 +6,12 @@ Because of the particular design of the language, your best option is a Befunge 
 
 There are compilers as well, even through the technical challenges:
 
-- [Tim's Befunge Compiler][5]
 - [BefunUtils][6]
 
 For a much more thorough look at Befunge, it's list of operators, and its various derivatives, I recommend the [Esolang Wiki][7].
+
+[2]: https://www.bedroomlan.org/tools/befunge-playground/#prog=hello,mode=edit
+[3]: https://befunge.flogisoft.com/
+[4]: http://qiao.github.io/javascript-playground/visual-befunge93-interpreter/
+[6]: https://github.com/Mikescher/BefunUtils
+[7]: https://esolangs.org/wiki/Befunge

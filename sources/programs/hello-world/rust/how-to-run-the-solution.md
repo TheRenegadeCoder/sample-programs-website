@@ -17,3 +17,7 @@ Of course, in Unix-based environments, the following will run the new binary:
 ```
 
 And, that's it! "Hello, World!" should print directly to the console.
+
+[5]: https://play.rust-lang.org/
+[6]: https://www.rust-lang.org/tools/install
+[7]: https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/r/rust/hello-world.rs

@@ -1,10 +1,4 @@
-Let's start by looking at the complete algorithm to reverse a string in Python:
-
-```python
-import sys
-if len(sys.argv) > 1:
-    print(sys.argv[1][::-1])
-```
+Let's start by looking at the complete algorithm to reverse a string in Python.
 
 As we can see, we can write a script to reverse a string in about three lines
 of code. In the following sections, we'll take a look at a breakdown of each of
@@ -12,7 +6,7 @@ these lines.
 
 ### The Python `sys` Library
 
-In the first line of code, we'll notice that we're importing the built-in sys
+In the first line of code, we'll notice that we're importing the built-in `sys`
 library:
 
 ```python
@@ -55,15 +49,15 @@ Our last line is a bit terse, but we can handle it:
 print(sys.argv[1][::-1])
 ```
 
-The first thing to note is the print statement. We'll probably remember that
+The first thing to note is the `print` function. We'll probably remember that
 from our Hello World experience, so no need to dig into that much deeper.
 
-Inside the print statement, we have quite a bit of syntax. First, we access our
-command line arguments again using sys.argv. However, this time we're trying to
+Inside the `print` function, we have quite a bit of syntax. First, we access our
+command line arguments again using `sys.argv`. However, this time we're trying to
 access one of the items using an index of one. Like many languages, Python list
 indices start from zero, so clearly we're trying to access our string for reversal.
 
-After that, we'll notice another piece of interesting syntax: [::-1]. It looks
+After that, we'll notice another piece of interesting syntax: `[::-1]`. It looks
 sort of like list access, but it has colons and a negative value. As it turns
 out, that syntax is called a slice. Typically, slices are used to get a subset
 of an iterable. For instance, if I wanted the first four characters of a string,

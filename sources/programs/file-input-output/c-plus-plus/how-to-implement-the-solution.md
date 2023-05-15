@@ -1,54 +1,6 @@
 Let's first take a look at the solution. Then, we'll walk through each line of
 code:
 
-```c++
-#include <iostream>
-#include <fstream>
-#include <string>
-
-void write_file()
-{
-    std::fstream out("file.txt", std::ios::out);
-
-    if(!out.is_open())
-    {
-        std::cout << "Error opening file!\n";
-        return;
-    }
-
-    out << "This text will be written to the file!\n";
-    out << "This line also will be written!\n";
-
-    out.flush();
-    out.close();
-}
-
-void read_function()
-{
-    std::fstream in("file.txt", std::ios::in);
-
-    if(!in.is_open())
-    {
-        std::cout << "Could not open file for reading!\n";
-        return;
-    }
-
-    std::string line;
-    while(std::getline(in, line))
-    {
-        std::cout << line << "\n";
-    }
-
-    in.close();
-}
-
-int main()
-{
-    write_file();
-    read_file();
-}
-```
-
 In less than 50 lines, we have our solution!
 
 ### Includes
@@ -73,18 +25,19 @@ arbitrary text to a file:
 ```c++
 void write_file()
 {
-    std::fstream out("file.txt", std::ios::out);
+    std::fstream out("output.txt", std::ios::out);
 
-    if(!out.is_open())
+    if (!out.is_open())
     {
-        std::cout << "Error opening file!\n";
+        std::cout << "Could not open file!\n";
         return;
     }
 
-    out << "This text will be written to the file!\n";
-    out << "This line also will be written!\n";
+    out << "A line of text\n";
+    out << "Another line of text\n";
 
     out.flush();
+
     out.close();
 }
 ```
@@ -110,9 +63,9 @@ Of course, there are other modes available which we can find in DevDocs C++ File
 I/O documentation. At any rate, let's get back to the code:
 
 ```c++
-if(!out.is_open())
+if (!out.is_open())
 {
-    std::cout << "Error opening file!\n";
+    std::cout << "Could not open file!\n";
     return;
 }
 ```
@@ -121,8 +74,8 @@ These five lines of code are basic error checking to make sure the file is
 actually opened. Then, we push a couple of strings to our output file stream:
 
 ```c++
-out << "This text will be written to the file!\n";
-out << "This line also will be written!\n";
+out << "A line of text\n";
+out << "Another line of text\n";
 ```
 
 Using a file stream in C++ is the same as using the standard output. However,
@@ -136,7 +89,7 @@ out.close();
 Before the function returns, we do a couple of maintenance related tasks. First,
 we flush the buffer. Sometimes the function (or in our case, an operator) that
 we call to write to the file doesn't immediately write them to disk. It may
-still be in memory waiting to be written to the file. We call the method flush
+still be in memory waiting to be written to the file. We call the method `flush`
 to make sure everything in memory is written to disk.
 
 Next, we close the file. This frees up resources that we are done using. It's a
@@ -151,18 +104,20 @@ available.
 After we've implemented file writing, we can implement file reading:
 
 ```c++
-void read_function()
+void read_file()
 {
-    std::fstream in("file.txt", std::ios::in);
+    std::fstream in;
 
-    if(!in.is_open())
+    in.open("output.txt", std::ios::in);
+
+    if (!in.is_open())
     {
-        std::cout << "Could not open file for reading!\n";
+        std::cout << "Could not open file!\n";
         return;
     }
 
     std::string line;
-    while(std::getline(in, line))
+    while (std::getline(in, line))
     {
         std::cout << line << "\n";
     }
@@ -176,11 +131,13 @@ for reading purposes. Then, we make sure the file is opened. If it isn't, we
 print a message to the screen and return:
 
 ```c++
-std::fstream in("file.txt", std::ios::in);
+std::fstream in;
 
-if(!in.is_open())
+in.open("output.txt", std::ios::in);
+
+if (!in.is_open())
 {
-    std::cout << "Could not open file for reading!\n";
+    std::cout << "Could not open file!\n";
     return;
 }
 ```
@@ -189,7 +146,7 @@ After that, we can begin reading:
 
 ```c++
 std::string line;
-while(std::getline(in, line))
+while (std::getline(in, line))
 {
     std::cout << line << "\n";
 }
@@ -200,7 +157,7 @@ we reach EOF (end of file). `std::getline` takes a reference to a
 `std::basic_istream` which `std::fstream` inherits from. The second argument is a
 reference to a `std::string`. It returns a reference to a `std::basic_istream`.
 
-`std::basic_istream` inherits from `std::basic_ios` which overloads the bool 
+`std::basic_istream` inherits from `std::basic_ios` which overloads the `bool`
 operator. This means we can use `std::getline` (or more precisely,
 `std::basic_istream`) in boolean contexts such as while conditionals.
 

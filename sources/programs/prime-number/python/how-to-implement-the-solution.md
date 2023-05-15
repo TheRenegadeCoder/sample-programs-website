@@ -1,38 +1,4 @@
-At this point, let's dig into the code a bit. The following sections break
-down the checking if numbers are prime in Python.
-
-### Solution
-
-```python
-#!/usr/bin/env python
-import sys
-from math import sqrt, ceil
-
-
-def is_prime(x):
-    if (x % 2 == 0 and x is not 2) or (x == 1):
-        return False
-    return not bool([n for n in range(3, int(ceil(sqrt(x))+1)) if x % n == 0])
-
-
-def exit_with_error():
-    print('Usage: please input a non-negative integer')
-    sys.exit(1)
-
-
-def main(args):
-    try:
-        x = int(args[0])
-        if x <= 0:
-            exit_with_error()
-        print(is_prime(x))
-    except (IndexError,ValueError):
-        exit_with_error()
-
-
-if __name__ == "__main__":
-    main(sys.argv[1:])
-```
+The following sections break down the checking if numbers are prime in Python.
 
 ### The Main Function
 
@@ -43,7 +9,7 @@ if __name__ == "__main__":
     main(sys.argv[1:])
 ```
 
-This bit of code checks to see if this is the main module run. If it is, then it calls the main function.
+This bit of code checks to see if this is the `main` module run. If it is, then it calls the `main` function.
 In this case the user input would be a natural number greater than 1.
 
 ```python
@@ -52,8 +18,8 @@ def main(args):
         x = int(args[0])
         if x < 0:
             exit_with_error()
-        print(is_prime(x))
-    except (IndexError,ValueError):
+        print("Prime" if is_prime(x) else "Composite")
+    except (IndexError, ValueError):
         exit_with_error()
 ```
 
@@ -66,10 +32,10 @@ If the integer is less than 0 it's not a valid input so we return an error by ca
 `exit_with_error()` function.
 
 We then call the main part of our program `print(is_prime(x))` which will check if the integer
-is prime and print this out on the terminal for the user
+is prime and print this out on the terminal for the user.
 
-Finally we wrap this entire block in a try ... except, and we catch two exceptions: `IndexError`
-and `ValueError`. `IndexError` will be thrown if `args` isn't a list, and we try to access `args[0]`.
+Finally we wrap this entire block in a `try ... except`, and we catch two exceptions: `IndexError`
+and `ValueError`. `IndexError` will be thrown if `args` is empty, and we try to access `args[0]`.
 `ValueError` will be thrown if we try to convert a non-integer string into an integer.
 For example if `args[0]` was "a" -> `int("a")`. If any exceptions are raised, then we call
 the `exit_with_error()` function.
@@ -104,7 +70,7 @@ if (x % 2 == 0 and x is not 2) or (x == 1):
 
 This part of the code checks if the integer is divisible by 2 (and not equal 2),
 if a number can be divided by 2 it cannot be prime however 2 is a prime number.
-Or if the integer is 1, it also cannot be prime by definition.
+If the integer is 1, it also cannot be prime by definition.
 
 The `%` is called the modulo operator which returns the remainder of a division, for
 example `10 % 2 = 0` because 2 divides into 10 five times evenly (`2 * 5  = 10`). However if we had
@@ -114,14 +80,18 @@ This `x % 2 == 0` is used to check if a number is even, because if it can be eve
 divided by 2 it cannot be prime. If integer is not 1 or divisible by two then we
 have do a more thorough check.
 
-`return not bool([n for n in range(3, int(ceil(sqrt(x))+1)) if x % n == 0])`
+```python
+return not bool([n for n in range(3, int(ceil(sqrt(x))+1)) if x % n == 0])
+```
 
 This is an example of list comprehension which is a way to generate
 lists in Python (usually as "one-liners").
 
 Lets break this down.
 
-`for n in range(3, int(ceil(sqrt(x))+1))`
+```python
+for n in range(3, int(ceil(sqrt(x))+1))
+```
 
 This `range(3, int(ceil(sqrt(x))+1))` generates a list of integers from 3 to the ceiling of the
 square of the integer + 1. Ok that sounds complicated but lets take a look at an example
@@ -133,33 +103,37 @@ besides itself and 1. So then `for n in range(3, int(ceil(sqrt(x))+1))` will loo
 every number in that list. So n will be `3, 4, 5`. The range starts at 3 because x will always
 be divisible by 1 and we already checked if it's divisible by 2.
 
-`[n for n in range(3, int(ceil(sqrt(x))+1))]`
+```python
+[n for n in range(3, int(ceil(sqrt(x))+1))]
+```
 
 This on it's own would create a list of the values of `n` so if `x` was `17` then the line above
 would generate the list `[3, 4, 5]`.
 
-`[n for n in range(3, int(ceil(sqrt(x))+1)) if x % n == 0]`
+```python
+[n for n in range(3, int(ceil(sqrt(x))+1)) if x % n == 0]
+```
 
 Taking a look at the whole list comprehension including `if x % n == 0`
-means the current `n` is only added to the list if the if statement evaluates to True,
+means the current `n` is only added to the list if the if statement evaluates to `True`,
 which is this case is true if `n` divides in `x` evenly. This would make `n` a factor of `x`
 
 So taking a look at our example if `x` is 17 then the list to loop though would
 be `[3, 4, 5]`. 
 
-1st Iteration
+1st Iteration:
 
 * `n = 3`
 * `17 % 3 = 2`
 * Current List = `[]`
 
-2nd Iteration
+2nd Iteration:
 
 * `n = 4`
 * `17 % 4 = 1`
 * Current List = `[]`
 
-3rd Iteration
+3rd Iteration:
 
 * `n = 5`
 * `17 % 5 = 2`
@@ -168,8 +142,12 @@ be `[3, 4, 5]`.
 So the final generated list for `x = 17` would be `[]` since none of the number `3, 4, 5` divide
 evenly into `17`.
 
-Taking a look at the entire line
-`return not bool([n for n in range(3, int(ceil(sqrt(x))+1)) if x % n == 0])`.
+Taking a look at the entire line:
+
+```python
+return not bool([n for n in range(3, int(ceil(sqrt(x))+1)) if x % n == 0])`
+```
+
 The `bool()` function converts an object into a `True` or `False` boolean value.
 The `not bool(...)` then reverses this value, if `bool("a") = True` then `not bool("a") = False`.
 Then we return this value `return not bool(...)`. 

@@ -1,4 +1,4 @@
-If we want to run the snippets above, we can use an online Haskell compiler. All we 
+If we want to run the snippets above, we can use an [online Haskell compiler][1]. All we 
 have to do is drop the code into the editor and hit run.
 
 Of course, we can also run the code locally if we just grab a copy of the latest Glasgow 
@@ -15,3 +15,5 @@ hello-world.exe  # Windows
 ```
 
 And, that's it! The "Hello, World!" string should print straight to the console.
+
+[1]: https://www.onlinegdb.com/online_haskell_compiler

@@ -1,44 +1,5 @@
-At this point, let's dig into the code a bit. The following sections break
+Let's dig into the code a bit. The following sections break
 down the Quick Sort in Python functionality.
-
-### Solution
-
-```python
-#!/usr/bin/env python
-import sys
-
-
-def quick_sort(xs):
-    if len(xs) <= 0:
-        return []
-
-    left = quick_sort([l for l in xs[1:] if l <= xs[0]])
-    right = quick_sort([r for r in xs[1:] if r > xs[0]])
-    return left + xs[:1] + right
-
-
-def input_list(list_str):
-    return [int(x.strip(" "), 10) for x in list_str.split(',')]
-
-
-def exit_with_error():
-    print('Usage: please provide a list of at least two integers to sort in the format "1, 2, 3, 4, 5"')
-    sys.exit(1)
-
-
-def main(args):
-    try:
-        xs = input_list(args[0])
-        if len(xs) <= 1:
-            exit_with_error()
-        print(quick_sort(xs))
-    except (IndexError,ValueError):
-        exit_with_error()
-
-
-if __name__ == "__main__":
-    main(sys.argv[1:])
-```
 
 ### The Main Function
 
@@ -49,7 +10,7 @@ if __name__ == "__main__":
     main(sys.argv[1:])
 ```
 
-This bit of code checks to see if this is the main module run. If it is, it then calls the main
+This bit of code checks to see if this is the `main` module run. If it is, it then calls the `main`
 function and passes user input to it. In this case the user input would be a string of numbers
 like so `"2, 1, 10, 5, 3"` (to sort).
 
@@ -60,17 +21,18 @@ def main(args):
         if len(xs) <= 1:
             exit_with_error()
         print(quick_sort(xs))
-    except (IndexError,ValueError):
+    except (IndexError, ValueError):
         exit_with_error()
 ```
 
-This is the main function of this file. It parses the input, then calls our quick sort
+This is the `main` function of this file. It parses the input, then calls our quick sort
 function (and prints the results). It also deals with any errors raised.
 
-Finally we wrap this entire block in a try ... except, and we catch two exceptions: IndexError and
-ValueError. IndexError will be thrown if args isn't a list, and we try to access args[0]. ValueError
-will be thrown if we try to convert a non-integer string into an integer. For example if args[0] was
-"a" -> int("a"). If any exceptions are raised, then we call the exit_with_error() function.
+Finally we wrap this entire block in a `try ... except`, and we catch two exceptions: `IndexError`
+and `ValueError`. `IndexError` will be thrown if `args` is empty, and we try to access `args[0]`.
+`ValueError` will be thrown if we try to convert a non-integer string into an integer.
+For example if `args[0]` was "a" -> `int("a")`. If any exceptions are raised, then we call
+the `exit_with_error()` function.
 
 ### Transform Input Parameters
 
@@ -81,7 +43,7 @@ def input_list(list_str):
 
 This function takes a string like `"2, 1, 10, 5, 3"`, and turns into a list of numbers.
 It does this using a list comprehension. First, we need to convert our string into a
-list `list_str.split(',')` which is a list of strings split by comma (,).
+list `list_str.split(',')` which is a list of strings split by comma (`,`).
 So our original input string becomes `["2", " 1", " 10", " 5", " 3"]`. Then for each
 element in the list `for x in ...` ,  we do something to it.
 
@@ -130,7 +92,9 @@ These lists aren't actually sorted yet so we call the `quick_sort()` function on
 recursively until they are sorted. Each of these sub-lists is broken down into two lists every
 time the `quick_sort()` function is called.
 
-`left = quick_sort([l for l in xs[1:] if l <= xs[0]])`
+```python
+left = quick_sort([l for l in xs[1:] if l <= xs[0]])
+```
 
 Taking a closer look at how we generate the left sub-list, we use a list comprehension
 which is a way to generate lists in Python. In this example `[l for l in xs[1:] if l <= xs[0]]`

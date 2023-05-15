@@ -1,17 +1,9 @@
-At long last, let's implement Hello World in Scala:
+Up first, we have the `class` definition much like Java. However, 
+there are two interesting keywords here: `object` and `extends`.
 
-```scala
-object HelloWorld extends App {
-  println("Hello, World!")
-}
-```
-
-Up first, we have the class definition much like Java. However, 
-there are two interesting keywords here: object and extends.
-
-In Java, we would typically define a class using the class keyword. 
+In Java, we would typically define a class using the `class` keyword. 
 In fact, we normally even do that in Scala, so what's with this 
-object keyword? Well, as it turns out, object is used when we want 
+`object` keyword? Well, as it turns out, object is used when we want 
 to define a singleton.
 
 In object-oriented languages, a singleton is an object which has a 

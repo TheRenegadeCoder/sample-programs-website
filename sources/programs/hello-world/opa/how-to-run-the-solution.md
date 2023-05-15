@@ -74,33 +74,32 @@ you could have just used mine:
 
 ```console
 ~/devel/SPEPL/archive/o/opa master
-❯ docker pull nicovillanueva/opalang:1.1.1
-Using tag: 1.1.1
-1.1.1: Pulling from nicovillanueva/opalang
-[...]
-Digest: sha256:7043076348bf5040220df6ad703798fd8593a0918d06d3ce30c6c93be117e430
-Status: Downloaded newer image for nicovillanueva/opalang:1.1.1
+❯ docker pull ajbetteridge/opa-1.1.1-build4308:opa-1.1.1-build4308
+Using tag: opa-1.1.1-build4308
+opa-1.1.1-build4308: Pulling from ajbetteridge/opa-1.1.1-build4308
+...
+Status: Downloaded newer image for ajbetteridge/opa-1.1.1-build4308:opa-1.1.1-build4308
 ```
 
 So, finally, we can run hello-world.opa
 
 #### How to Run it for Real This Time
 
-Having the .opa file in the current directory, run: `docker run -it --rm --volume $PWD:/data/ nicovillanueva/opalang:1.1.1 opa /data/hello-world.opa`
+Having the .opa file in the current directory, run: `docker run -it --rm --volume $PWD:/data/ ajbetteridge/opa-1.1.1-build4308:opa-1.1.1-build4308 opa /data/hello-world.opa`
 
 ```console
 ~/devel/SPEPL/archive/o/opa master 31s
 ❯ ls
 Dockerfile  hello-world.opa  README.md
 ~/devel/SPEPL/archive/o/opa master
-❯ docker run -it --rm --volume $PWD:/data/ nicovillanueva/opalang:1.1.1 opa /data/hello-world.opa
+❯ docker run -it --rm --volume $PWD:/data/ ajbetteridge/opa-1.1.1-build4308:opa-1.1.1-build4308 opa /data/hello-world.opa
 ~/devel/SPEPL/archive/o/opa master*
 ❯ ls
 Dockerfile  hello-world.js  hello-world.opa  package.json  README.md
 ```
 
 What we just did was run my image (if you want to use your own, replace
-"nicovillanueva/opalang:1.1.1" for what your provided as --tag in your docker build),
+"ajbetteridge/opa-1.1.1-build4308" for what your provided as --tag in your docker build),
 mapping the current directory ($PWD) to /data inside the container.
 
 This allows the Opa container to pick up the .opa file and compile it, inside
@@ -111,16 +110,10 @@ using the same image:
 
 ```console
 ~/devel/SPEPL/archive/o/opa master* 15m 22s
-❯ docker run -it --rm -v $PWD:/data/ --publish 8080:8080 nicovillanueva/opalang:1.1.1 sh -c '/data/hello-world.js'
-┌───────────────────────────────────────────────────────────┐
-│                  npm update check failed                  │
-│            Try running with sudo or get access            │
-│           to the local update config store via            │
-│ sudo chown -R $USER:$(id -gn $USER) /home/opauser/.config │
-└───────────────────────────────────────────────────────────┘
-Http serving on http://e9aa732ccc83:8080
+❯ docker run -it --rm -v $PWD:/data/ --publish 8080:8080 ajbetteridge/opa-1.1.1-build4308:opa-1.1.1-build4308 sh -c '/data/hello-world.js'
+Http serving on http://380924f6ba29:8080
 ```
 
-Now we also --published the 8080 port. This maps your own 8080 port, to the
+Now we also `--published` the 8080 port. This maps your own 8080 port, to the
 container's 8080. Having this up, if you fire up your browser and navigate
 to http://localhost:8080, you'll see "Hello, World!", printed using Opa.
