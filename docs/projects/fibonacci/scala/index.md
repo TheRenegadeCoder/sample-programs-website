@@ -1,8 +1,8 @@
 ---
 title: Fibonacci in Scala
 layout: default
-date: 2019-10-25
-last-modified: 2019-10-25
+date: 2023-05-15
+last-modified: 2023-05-15
 
 ---
 
@@ -13,36 +13,27 @@ Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Sca
 {% raw %}
 
 ```scala
-import javax.xml.bind.ValidationException
+import scala.util.{Try, Success, Failure}
 
-object TestClass {
+object Fibonacci {
 
-  def fibonacci_rec(n: Int): Int = {
-    if (n < 0) {
-      // If invalid input throw an exception
-      throw new ValidationException("Index should be positive")
-
-    } else if (n == 1 || n == 2) {
-      // Recursion anchors
-
-      return 1
-
-    } else {
-      // Definition of Fibonacci sequence (sum of two previous numbers in the sequence)
-
-      return fibonacci_rec(n - 1) + fibonacci_rec(n - 2)
+  def fibonacci(n: Int) = {
+    var a = 0
+    var b = 1
+    for (i <- 1 to n) {
+      println(s"$i: $b")
+      val c = a + b
+      a = b
+      b = c
     }
-
   }
 
 
-  def main(args: Array[String]): Unit = {
-    // Takes the first argument and uses it as index
-    if (args.length == 0) {
-      println("Please enter an index as an argument")
+  def main(args: Array[String]) = {
+    Try(args(0).toInt) match {
+      case Failure(_) => println("Usage: please input the count of fibonacci numbers to output")
+      case Success(n) => fibonacci(n)
     }
-    val index = args(0).toInt
-    println(fibonacci_rec(index))
   }
 }
 ```
@@ -51,11 +42,9 @@ object TestClass {
 
 [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
-- paul-you
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 27 2019 19:46:35. The solution was first committed on Oct 25 2019 15:33:55. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

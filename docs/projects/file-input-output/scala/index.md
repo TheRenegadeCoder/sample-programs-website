@@ -18,7 +18,7 @@ Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input
 import scala.io.Source
 import java.io.{FileNotFoundException, IOException, File, FileOutputStream, PrintWriter}
 
-object FileIO {
+object FileInputOutput {
   // reading file then write to stdout
   // write exception when fail
   def readFromFile(filename: String) {
@@ -35,24 +35,6 @@ object FileIO {
     }
   }
 
-  // reading file into Option type using generators
-  // fail silently
-  def readFromFileIntoOption(filename: String): Option[List[String]] = {
-    try {
-      val buffer = Source.fromFile(filename)
-      val lines = (
-        for (line <- buffer.getLines)
-          yield line
-        ).toList
-
-      buffer.close
-      Some(lines)
-    } catch {
-      // any exception will results to None
-      case e: Exception => None
-    }
-  }
-
   // write to file
   // stdout exception when fail
   def writeToFile(filename: String, contents: String) {
@@ -66,60 +48,12 @@ object FileIO {
     }
   }
 
-  // using Option to wrap writing to file
-  // with this method, if we can't write to file, nothing will be executed
-  def optionWriteToFile(filename: String, contents: String) {
-    val writer: Option[PrintWriter] =
-    try {
-      Some(new PrintWriter(new File(filename)))
-    } catch {
-      case e: Exception => None
-    }
-    writer.foreach { w => w.write(contents); w.close }
-  }
-
   def main(args: Array[String]) {
-    // usages:
+    // write succesfully
+    writeToFile("output.txt", "I am a string.\nI am also a string.\nScala is fun!\n")
 
     // read successfully
-    println("readFromFile:")
-    readFromFile("input.txt")
-
-    println("readFromFileIntoOption:")
-    val lines = readFromFileIntoOption("input.txt")
-    lines.map(_.foreach(println))
-
-    // read failing
-    println("readFromFile non-exist:")
-    readFromFile("non-exist.txt")
-
-    println("readFromFile not-permitted:")
-    readFromFile("not-permitted.txt")
-
-    // read silently failing
-    println("readFromFileIntoOption non-exist:")
-    val optionLines = readFromFileIntoOption("non-exist.txt")
-    optionLines.map(_.foreach(println))
-
-    println("readFromFileIntoOption not-permitted:")
-    val anotherOptionLines = readFromFileIntoOption("not-permitted.txt")
-    anotherOptionLines.map(_.foreach(println))
-
-
-    // write succesfully
-    println("writeToFile:")
-    writeToFile("output.txt", "I am a string.\n")
-
-    println("optionWriteToFile:")
-    optionWriteToFile("output2.txt", "There another string.\n")
-
-    // write failing
-    println("writeToFile not-permitted:")
-    writeToFile("not-permitted.txt", "Can I write to this file?")
-
-    // write silently failing
-    println("optionWriteToFile not-permitted:")
-    optionWriteToFile("not-permitted.txt", "Can I write to this file?")
+    readFromFile("output.txt")
   }
 }
 ```
@@ -128,7 +62,7 @@ object FileIO {
 
 [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
-- Viet Thang Nguyen
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

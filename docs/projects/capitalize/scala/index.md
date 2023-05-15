@@ -1,8 +1,8 @@
 ---
 title: Capitalize in Scala
 layout: default
-date: 2022-10-27
-last-modified: 2022-10-27
+date: 2023-05-15
+last-modified: 2023-05-15
 
 ---
 
@@ -13,21 +13,18 @@ Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [S
 {% raw %}
 
 ```scala
-import scala.io.StdIn.readLine
-
 object Capitalize {
-  // Adding a method for Brevity 
-  def Capitalize_String(str: String): String = str.length match {
-    case 0 => ""
-    case _ => str.capitalize
-  }
-
   def main(args: Array[String]) {
     val inputStr: Option[String] = args.length match {
-      case 0 => None
+      case 0 => Some("")
       case _ => Some(args(0))
     }
-    inputStr.map(Capitalize_String).map(println)
+    if (inputStr.get.length < 1) {
+      println("Usage: please provide a string")
+    }
+    else {
+      inputStr.map(_.capitalize).map(println)
+    }
   }
 }
 ```
@@ -36,7 +33,7 @@ object Capitalize {
 
 [Capitalize](https://sampleprograms.io/projects/capitalize) in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
-- manasmithamn
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

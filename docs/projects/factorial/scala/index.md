@@ -1,8 +1,8 @@
 ---
 title: Factorial in Scala
 layout: default
-date: 2020-10-05
-last-modified: 2020-10-05
+date: 2023-05-15
+last-modified: 2023-05-15
 
 ---
 
@@ -16,28 +16,34 @@ Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Sca
 // Scala Program to calculate 
 // Factorial of a number 
 
+import scala.util.Try
+
 // Creating object 
-object GFG 
+object Factorial 
 { 
-    // Iterative way to calculate 
-    // factorial 
-    def factorial(n: Int): Int = { 
-        
-        var f = 1
-        for(i <- 1 to n) 
-        { 
-            f = f * i; 
-        } 
-        
-        return f 
+  // Iterative way to calculate
+  // factorial
+  def factorial(n: Int): Int = { 
+    var f = 1
+    for(i <- 1 to n) 
+    { 
+        f = f * i; 
     } 
 
-    // Driver Code 
-    def main(args: Array[String]) 
-    {   val m= args(0).toInt
-        println(factorial(m)) 
-    } 
+    return f 
+  } 
 
+  // Driver Code 
+  def main(args: Array[String]) 
+  {
+    val m = Try(args(0).toInt).getOrElse(-1)
+    if (m < 0) {
+      println("Usage: please input a non-negative integer")
+    }
+    else {
+      println(factorial(m))
+    }
+  } 
 }
 ```
 
@@ -45,7 +51,7 @@ object GFG
 
 [Factorial](https://sampleprograms.io/projects/factorial) in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
-- Uditansh Patel
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

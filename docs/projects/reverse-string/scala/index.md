@@ -13,9 +13,7 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 {% raw %}
 
 ```scala
-import scala.io.StdIn.readLine
-
-object ReverseStringSample {
+object ReverseString {
   // revese using recursive & pattern matching
   def reverseString(str: String): String = str.length match {
     case 0 => ""
@@ -48,12 +46,13 @@ object ReverseStringSample {
 
 [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
+- rzuckerm
 - Vee Ng
 - Viet Thang Nguyen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 22 2019 16:16:44. The solution was first committed on Mar 22 2019 12:59:04. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 15 2023 16:11:44. The solution was first committed on Mar 22 2019 12:59:04. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

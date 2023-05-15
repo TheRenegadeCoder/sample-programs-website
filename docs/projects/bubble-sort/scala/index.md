@@ -13,17 +13,21 @@ Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in 
 {% raw %}
 
 ```scala
-import scala.io.StdIn.readLine
 import scala.reflect.ClassTag
 
-object BubbleSortSample {
+object BubbleSort {
   def main(args: Array[String]) {
     // verify inputs are being provided
     parseInput(args) match {
       case None => println("Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\"")
       case Some(inputArr) => {
-        val output = bubbleSort(inputArr).mkString(", ")
-        println(output)
+        if (inputArr.length < 2) {
+          println("Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\"")
+        }
+        else {
+          val output = bubbleSort(inputArr).mkString(", ")
+          println(output)
+        }
       }
     }
   }
@@ -65,12 +69,13 @@ object BubbleSortSample {
 
 [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
+- rzuckerm
 - Vee Ng
 - Viet Thang Nguyen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 25 2019 20:04:52. The solution was first committed on Mar 22 2019 12:56:04. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 15 2023 16:11:44. The solution was first committed on Mar 22 2019 12:56:04. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 
