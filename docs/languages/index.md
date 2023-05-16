@@ -6,7 +6,7 @@ last-modified: 2023-05-15
 
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 165 languages, of which 54 are tested, and 772 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 165 languages, of which 55 are tested, and 772 code snippets.
 
 ## Language Collections by Letter
 
@@ -278,7 +278,7 @@ The 'V' collection contains 4 languages, of which 1 is tested, and 10 code snipp
 
 ### W
 
-The 'W' collection contains 4 languages, of which 0 are tested, and 4 code snippets.
+The 'W' collection contains 4 languages, of which 1 is tested, and 4 code snippets.
 
 - [Whitespace](https://sampleprograms.io/languages/whitespace)
 - [Wren](https://sampleprograms.io/languages/wren)
