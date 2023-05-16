@@ -6,7 +6,7 @@ last-modified: 2023-05-15
 
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 165 languages, of which 53 are tested, and 772 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 165 languages, of which 54 are tested, and 772 code snippets.
 
 ## Language Collections by Letter
 
@@ -269,7 +269,7 @@ The 'T' collection contains 5 languages, of which 1 is tested, and 11 code snipp
 
 ### V
 
-The 'V' collection contains 4 languages, of which 0 are tested, and 10 code snippets.
+The 'V' collection contains 4 languages, of which 1 is tested, and 10 code snippets.
 
 - [Verilog](https://sampleprograms.io/languages/verilog)
 - [Verve](https://sampleprograms.io/languages/verve)

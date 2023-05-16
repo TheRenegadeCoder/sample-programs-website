@@ -19,38 +19,16 @@ Module FizzBuzz
         FizzBuzz()
     End Sub
     Sub FizzBuzz()
-        Dim first = True
         Dim i As Integer
         For i = 1 To 100
             If i Mod 15 = 0 Then
-                If first Then
-                    System.Console.Write("FizzBuzz")
-                    first = False
-                Else
-                    System.Console.Write(", FizzBuzz")
-                End If
-
+                System.Console.WriteLine("FizzBuzz")
             ElseIf i Mod 5 = 0 Then
-                If first Then
-                    System.Console.Write("Buzz")
-                    first = False
-                Else
-                    System.Console.Write(", Buzz")
-                End If
+                System.Console.WriteLine("Buzz")
             ElseIf i Mod 3 = 0 Then
-                If first Then
-                    System.Console.Write("Fizz")
-                    first = False
-                Else
-                    System.Console.Write(", Fizz")
-                End If
+                System.Console.WriteLine("Fizz")
             Else
-                If first Then
-                    System.Console.Write(Str(i))
-                    first = False
-                Else
-                    System.Console.Write($", {Str(i)}")
-                End If
+                System.Console.WriteLine(i)
             End If
         Next
     End Sub
@@ -61,11 +39,12 @@ End Module
 
 [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Visual Basic](https://sampleprograms.io/languages/visual-basic) was written by:
 
+- rzuckerm
 - Thomas Braccia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 01 2020 19:15:54. The solution was first committed on Oct 01 2020 18:54:14. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 16 2023 12:29:09. The solution was first committed on Oct 01 2020 18:54:14. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

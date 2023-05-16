@@ -22,15 +22,7 @@ Public Module ReverseString
       input = String.Join(" ", args)
     End If
 
-    If String.IsNullOrEmpty(input) Then
-      System.Console.Write("Please provide some text to reverse: ")
-      input = System.Console.ReadLine()
-    End If
-
-    System.Console.WriteLine($"Input: {input}")
-
-    Dim reversedString = ReverseString(input)
-    System.Console.WriteLine($"Reversed: {reversedString}")
+    System.Console.WriteLine(ReverseString(input))
   End Sub
 
     Public Function ReverseString(ByVal input As String) As String
@@ -47,10 +39,11 @@ End Module
 
 - AaronLenoir
 - Andrew Reid
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 07 2019 08:23:20. The solution was first committed on May 04 2018 23:43:40. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 16 2023 12:29:09. The solution was first committed on May 04 2018 23:43:40. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 
