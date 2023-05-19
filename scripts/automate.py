@@ -268,8 +268,8 @@ def _generate_language_index(language: subete.LanguageCollection):
         doc,
         root_path / "front_matter.yaml",
         str(language),
-        created_at=oldest_program.created()
-        image="programming-languages.jpg","
+        created_at=oldest_program.created(),
+        image="programming-languages.jpg"
     )
     doc.add_paragraph(
         f"Welcome to the {language} page! Here, you'll find a description "
