@@ -128,7 +128,12 @@ def _generate_front_matter(
     raw = ""
     raw += "---\n"
     if source_path.exists():
-        raw += source_path.read_text(encoding="utf-8").strip()
+        front_matter = source_path.read_text(encoding="utf-8").strip()
+        for line in front_matter.splitlines():
+            if line.strip() == "featured-image:" and image:
+                line = "feature-imaged: " + image
+
+            raw += f"{line}\n"
     else:
         raw += f"title: {title}\n"
         raw += f"layout: default\n"
@@ -228,7 +233,8 @@ def _generate_project_index(project: subete.Project, previous: subete.Project, n
     _generate_front_matter(
         doc,
         root_path / "front_matter.yaml",
-        project.name()
+        project.name(),
+        image="programming-projects-in-every-language.jpg"
     )
     doc.add_paragraph(
         f"Welcome to the {project.name()} page! Here, you'll find a description "
@@ -268,7 +274,8 @@ def _generate_language_index(language: subete.LanguageCollection):
         doc,
         root_path / "front_matter.yaml",
         str(language),
-        created_at=oldest_program.created()
+        created_at=oldest_program.created(),
+        image="programming-languages.jpg"
     )
     doc.add_paragraph(
         f"Welcome to the {language} page! Here, you'll find a description "
@@ -354,7 +361,8 @@ def generate_languages_index(repo: subete.Repo):
         language_index_path / "front_matter.yaml", 
         "Programming Languages",
         created_at=oldest_program.created(),
-        last_modified=newest_program.created()
+        last_modified=newest_program.created(),
+        image="programming-languages.jpg"
     )
     language_index.add_paragraph(
         "Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. "
@@ -399,8 +407,8 @@ def generate_projects_index(repo: subete.Repo):
         projects_index_path / "front_matter.yaml", 
         "Programming Projects in Every Language",
         created_at=oldest_program.created(),
-        image="programming-projects-in-every-language.jpg",
-        last_modified=newest_program.created()
+        last_modified=newest_program.created(),
+        image="programming-projects-in-every-language.jpg"
     )
     project_tests = sum(
         1 if project.has_testing() else 0 
