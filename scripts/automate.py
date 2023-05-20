@@ -128,7 +128,12 @@ def _generate_front_matter(
     raw = ""
     raw += "---\n"
     if source_path.exists():
-        raw += source_path.read_text(encoding="utf-8").strip()
+        front_matter = source_path.read_text(encoding="utf-8").strip()
+        for line in front_matter.splitlines():
+            if line.strip() == "featured-image:" and image:
+                line = "feature-imaged: " + image
+
+            raw += f"{line}\n"
     else:
         raw += f"title: {title}\n"
         raw += f"layout: default\n"
