@@ -3,11 +3,12 @@ title: Longest Word in Every Language
 layout: default
 date: 2020-10-31
 last-modified: 2020-10-31
-featured-image:
+featured-image: longest-word-in-every-language.jpg
 tags: [longest-word]
 authors:
     - barhouum7
     - the_renegade_coder
+
 ---
 
 Welcome to the Longest Word page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

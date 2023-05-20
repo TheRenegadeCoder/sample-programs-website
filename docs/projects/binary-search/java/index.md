@@ -6,6 +6,7 @@ featured-image: binary-search-in-every-language.jpg
 tags: [java, binary_search]
 authors:
   - s18k
+
 ---
 
 Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.

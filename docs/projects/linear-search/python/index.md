@@ -2,9 +2,11 @@
 title: Linear Search in Python
 layout: default
 last-modified: 2020-05-02
+featured-image: linear-search-in-every-language.jpg
 tags: [python, linear-search]
 authors:
   - frankhart2017
+
 ---
 
 Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,11 +1,12 @@
 ---
-title: File IO in C++
+title: File Input Output in C++
 layout: default
 last-modified: 2020-05-02
-featured-image:
-tags: [c-plus-plus, file-io]
+featured-image: file-input-output-in-every-language.jpg
+tags: [c-plus-plus, file-input-output]
 authors:
   - noah11012
+
 ---
 
 Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.

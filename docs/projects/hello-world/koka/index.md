@@ -2,10 +2,11 @@
 title: Hello World in Koka
 layout: default
 last-modified: 2020-05-02
-featured-image: hello-world-in-koka-featured-image.JPEG
+featured-image: hello-world-in-koka.jpg
 tags: [koka, hello-world]
 authors:
   - bassem_mohamed
+
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Koka](https://sampleprograms.io/languages/koka) page! Here, you'll find the source code for this program as well as a description of how the program works.

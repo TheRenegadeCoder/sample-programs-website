@@ -2,10 +2,11 @@
 title: Merge Sort in Python
 layout: default
 last-modified: 2020-05-02
-featured-image: merge-sort-in-python-featured-image.JPEG
+featured-image: merge-sort-in-every-language.jpg
 tags: [python, merge-sort]
 authors:
   - hmajid2301
+
 ---
 
 Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

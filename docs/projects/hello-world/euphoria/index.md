@@ -6,6 +6,7 @@ featured-image: hello-world-in-euphoria.jpg
 tags: [euphoria, hello-world]
 authors:
   - rzuckerm
+
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.

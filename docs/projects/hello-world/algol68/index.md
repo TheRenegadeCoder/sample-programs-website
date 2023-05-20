@@ -2,10 +2,11 @@
 title: Hello World in ALGOL 68
 layout: default
 last-modified: 2020-05-02
-featured-image: hello-world-in-algol-68.jpg
+featured-image: hello-world-in-algol68.jpg
 tags: [algol68, hello-world]
 authors:
   - the_renegade_coder
+
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.

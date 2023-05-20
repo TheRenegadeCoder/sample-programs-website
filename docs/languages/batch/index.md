@@ -2,6 +2,7 @@
 title: Batch
 layout: default
 date: 2020-04-23
+featured-image: programming-languages.jpg
 last-modified: 2020-04-23
 
 ---

@@ -2,10 +2,11 @@
 title: Insertion Sort in Python
 layout: default
 last-modified: 2020-05-02
-featured-image: insertion-sort-in-python-featured-image.JPEG
+featured-image: insertion-sort-in-every-language.jpg
 tags: [python, insertion-sort]
 authors:
   - hmajid2301
+
 ---
 
 Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

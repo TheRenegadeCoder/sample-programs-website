@@ -2,6 +2,7 @@
 title: Egison
 layout: default
 date: 2018-10-24
+featured-image: programming-languages.jpg
 last-modified: 2018-10-24
 
 ---

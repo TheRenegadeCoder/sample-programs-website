@@ -3,11 +3,12 @@ title: Remove All Whitespace in Every Language
 layout: default
 date: 2020-10-21
 last-modified: 2020-10-28
-featured-image:
+featured-image: remove-all-whitespace-in-every-language.jpg
 tags: [remove-all-whitespace]
 authors:
     - barhouum7
     - the_renegade_coder
+
 ---
 
 Welcome to the Remove All Whitespace page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

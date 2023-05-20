@@ -2,6 +2,7 @@
 title: Flix
 layout: default
 date: 2020-10-26
+featured-image: programming-languages.jpg
 last-modified: 2020-10-26
 
 ---

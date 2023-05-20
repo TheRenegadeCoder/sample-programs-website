@@ -3,9 +3,10 @@ title: Longest Common Subsequence in Every Language
 layout: default
 date: 2018-11-01
 last-modified: 2020-05-02
-featured-image:
+featured-image: longest-common-subsequence-in-every-language.jpg
 tags: [longest-common-subsequence]
 authors:
+
 ---
 
 Welcome to the Longest Common Subsequence page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

@@ -2,6 +2,7 @@
 title: Raku
 layout: default
 date: 2020-11-02
+featured-image: programming-languages.jpg
 last-modified: 2020-11-02
 
 ---

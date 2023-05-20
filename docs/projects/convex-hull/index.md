@@ -3,10 +3,11 @@ title: Convex Hull in Every Language
 layout: default
 date: 2018-11-01
 last-modified: 2022-05-18
-featured-image:
+featured-image: convex-hull-in-every-language.jpg
 tags: [convex-hull]
 authors:
   - the_renegade_coder
+
 ---
 
 Welcome to the Convex Hull page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

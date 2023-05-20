@@ -2,6 +2,7 @@
 title: Pinecone
 layout: default
 date: 2020-10-04
+featured-image: programming-languages.jpg
 last-modified: 2020-10-04
 
 ---

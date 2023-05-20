@@ -2,6 +2,7 @@
 title: Typescript
 layout: default
 date: 2018-06-22
+featured-image: programming-languages.jpg
 last-modified: 2018-06-22
 
 ---

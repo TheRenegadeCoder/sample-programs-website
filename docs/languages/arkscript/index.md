@@ -2,6 +2,7 @@
 title: Arkscript
 layout: default
 date: 2020-10-03
+featured-image: programming-languages.jpg
 last-modified: 2020-10-03
 
 ---

@@ -3,11 +3,12 @@ title: Fraction Math in Every Language
 layout: default
 date: 2019-10-10
 last-modified: 2022-05-10
-feature-image:
-tags: [fractions]
+featured-image: fraction-math-in-every-language.jpg
+tags: [fraction-math]
 authors:
   - niraj-kamdar
   - the_renegade_coder
+
 ---
 
 Welcome to the Fraction Math page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

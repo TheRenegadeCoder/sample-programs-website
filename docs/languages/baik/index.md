@@ -2,6 +2,7 @@
 title: Baik
 layout: default
 date: 2020-10-09
+featured-image: programming-languages.jpg
 last-modified: 2020-10-09
 
 ---

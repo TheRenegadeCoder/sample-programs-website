@@ -6,6 +6,7 @@ featured-image: fizz-buzz-in-befunge.jpg
 tags: [befunge, fizz-buzz]
 authors:
   - stuin
+
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Befunge](https://sampleprograms.io/languages/befunge) page! Here, you'll find the source code for this program as well as a description of how the program works.

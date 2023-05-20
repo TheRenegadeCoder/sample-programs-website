@@ -2,10 +2,11 @@
 title: Factorial in Python
 layout: default
 last-modified: 2020-05-02
-featured-image:
+featured-image: factorial-in-every-language.jpg
 tags: [python, factorial]
 authors:
   - underscoreanuj
+
 ---
 
 Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

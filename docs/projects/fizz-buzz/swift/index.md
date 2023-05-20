@@ -2,10 +2,11 @@
 title: Fizz Buzz in Swift
 layout: default
 last-modified: 2020-05-02
-featured-image: fizz-buzz.png
+featured-image: fizz-buzz-in-every-language.png
 tags: [swift, fizz-buzz]
 authors:
   - martyav
+
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.

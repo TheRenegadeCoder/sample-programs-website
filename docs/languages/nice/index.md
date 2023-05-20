@@ -2,6 +2,7 @@
 title: Nice
 layout: default
 date: 2021-05-24
+featured-image: programming-languages.jpg
 last-modified: 2021-05-24
 
 ---

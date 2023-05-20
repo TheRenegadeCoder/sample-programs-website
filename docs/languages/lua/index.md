@@ -6,6 +6,7 @@ last-modified: 2022-05-18
 tags: [lua]
 authors:
   - the_renegade_coder
+
 ---
 
 Welcome to the Lua page! Here, you'll find a description of the language as well as a list of sample programs in that language.

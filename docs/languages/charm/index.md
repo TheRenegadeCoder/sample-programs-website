@@ -2,6 +2,7 @@
 title: Charm
 layout: default
 date: 2020-12-09
+featured-image: programming-languages.jpg
 last-modified: 2020-12-09
 
 ---

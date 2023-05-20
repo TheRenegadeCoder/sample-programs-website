@@ -2,10 +2,11 @@
 title: Hello World in Wren
 layout: default
 last-modified: 2020-05-02
-featured-image: hello-world-in-wren-featured-image.JPEG
+featured-image: hello-world-in-wren.jpg
 tags: [wren, hello-world]
 authors:
   - the_renegade_coder
+
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Wren](https://sampleprograms.io/languages/wren) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,11 +1,12 @@
 ---
-title: Reverse a String in Dart
+title: Reverse String in Dart
 layout: default
 last-modified: 2020-05-02
-featured-image:
-tags: [dart, reverse-a-string, string-reversal]
+featured-image: reve
+tags: [dart, reverse-string]
 authors:
   - slashdoom
+
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.

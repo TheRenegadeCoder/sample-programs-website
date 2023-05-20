@@ -2,6 +2,7 @@
 title: Fennel
 layout: default
 date: 2018-12-30
+featured-image: programming-languages.jpg
 last-modified: 2018-12-30
 
 ---

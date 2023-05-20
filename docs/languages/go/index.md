@@ -2,6 +2,7 @@
 title: Go
 layout: default
 date: 2018-03-25
+featured-image: programming-languages.jpg
 last-modified: 2018-03-25
 
 ---

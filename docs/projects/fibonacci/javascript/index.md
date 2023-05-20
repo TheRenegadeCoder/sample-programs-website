@@ -2,9 +2,10 @@
 title: Fibonacci in JavaScript  
 layout: default  
 last-modified: 2020-05-02
-featured-image:  
+featured-image: fibonacci-in-every-language.jpg
 tags: [javascript, fibonacci]  
 authors: [Alina1Black]
+
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.

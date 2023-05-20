@@ -5,6 +5,7 @@ last-modified: 2021-10-16
 featured-image: even-odd-in-cobol.jpg
 tags: [COBOL, even-odd]
 authors: [ShivaniThevar]
+
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Cobol](https://sampleprograms.io/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.

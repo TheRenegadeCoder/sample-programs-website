@@ -2,6 +2,7 @@
 title: Cyclone
 layout: default
 date: 2020-12-02
+featured-image: programming-languages.jpg
 last-modified: 2020-12-02
 
 ---

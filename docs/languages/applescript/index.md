@@ -2,6 +2,7 @@
 title: Applescript
 layout: default
 date: 2018-04-26
+featured-image: programming-languages.jpg
 last-modified: 2018-04-26
 
 ---

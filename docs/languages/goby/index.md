@@ -3,10 +3,11 @@ title: The Goby Programming Language
 layout: default
 date: 2020-05-02
 last-modified: 2022-05-11
-featured-image: 
+feature-imaged: programming-languages.jpg
 tags: [goby]
 authors:
   - the_renegade_coder
+
 ---
 
 Welcome to the Goby page! Here, you'll find a description of the language as well as a list of sample programs in that language.

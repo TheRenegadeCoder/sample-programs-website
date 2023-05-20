@@ -3,9 +3,10 @@ title: Reverse a String in Every Language
 layout: default
 date: 2018-11-01
 last-modified: 2020-05-02
-featured-image: reverse-a-string-in-every-language.jpg
-tags: [reverse-a-string]
+featured-image: reverse-string-in-every-language.jpg
+tags: [reverse-string]
 authors:
+
 ---
 
 Welcome to the Reverse String page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

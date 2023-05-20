@@ -2,10 +2,11 @@
 title: Hello World in C
 layout: default
 last-modified: 2020-05-02
-featured-image: hello-world-in-c-featured-image.JPEG
+featured-image: hello-world-in-c.jpg
 tags: [c, hello-world]
 authors:
   - the_renegade_coder
+
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.

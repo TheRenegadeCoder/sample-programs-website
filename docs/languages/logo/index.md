@@ -2,6 +2,7 @@
 title: Logo
 layout: default
 date: 2020-12-14
+featured-image: programming-languages.jpg
 last-modified: 2020-12-14
 
 ---

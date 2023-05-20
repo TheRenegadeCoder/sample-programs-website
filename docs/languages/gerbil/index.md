@@ -2,6 +2,7 @@
 title: Gerbil
 layout: default
 date: 2019-11-01
+featured-image: programming-languages.jpg
 last-modified: 2019-11-01
 
 ---

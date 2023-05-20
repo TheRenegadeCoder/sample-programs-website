@@ -2,6 +2,7 @@
 title: Lobster
 layout: default
 date: 2019-09-14
+featured-image: programming-languages.jpg
 last-modified: 2019-09-14
 
 ---

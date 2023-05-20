@@ -2,6 +2,7 @@
 title: Haxe
 layout: default
 date: 2021-08-12
+featured-image: programming-languages.jpg
 last-modified: 2021-08-12
 
 ---

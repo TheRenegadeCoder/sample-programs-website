@@ -2,6 +2,7 @@
 title: Granule
 layout: default
 date: 2022-12-06
+featured-image: programming-languages.jpg
 last-modified: 2022-12-06
 
 ---

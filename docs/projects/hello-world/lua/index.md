@@ -6,6 +6,7 @@ featured-image: hello-world-in-lua.jpg
 tags: [lua, hello-world]
 authors:
   - the_renegade_coder
+
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,11 +1,12 @@
 ---
-title: Reverse a String in Python
+title: Reverse String in Python
 layout: default
 last-modified: 2020-05-02
-featured-image: reverse-a-string-in-python.jpg
-tags: [python, reverse-a-string]
+featured-image: reverse-string-in-python.jpg
+tags: [python, reverse-string]
 authors:
   - the_renegade_coder
+
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

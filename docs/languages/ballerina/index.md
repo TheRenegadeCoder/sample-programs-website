@@ -2,6 +2,7 @@
 title: Ballerina
 layout: default
 date: 2018-06-15
+featured-image: programming-languages.jpg
 last-modified: 2018-06-15
 
 ---

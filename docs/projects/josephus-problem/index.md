@@ -4,10 +4,11 @@ title: Josephus Problem in Every Language
 layout: default
 date: 2020-10-06
 last-modified: 2020-10-06
-featured-image: 
+featured-image: josephus-problem-in-every-language.jpg
 tags: [josephus-problem]
 authors:
  - belide_aakash
+
 ---
 
 Welcome to the Josephus Problem page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

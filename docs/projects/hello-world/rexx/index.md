@@ -6,6 +6,7 @@ featured-image: hello-world-in-rexx.jpg
 tags: [rexx, hello-world]
 authors:
   - ShivaniThevar
+
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Rexx](https://sampleprograms.io/languages/rexx) page! Here, you'll find the source code for this program as well as a description of how the program works.

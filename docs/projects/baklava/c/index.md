@@ -6,6 +6,7 @@ featured-image: baklava-in-c.jpg
 tags: [c, baklava]
 authors:
   - stuin
+
 ---
 
 Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.

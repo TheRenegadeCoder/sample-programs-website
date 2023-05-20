@@ -2,6 +2,7 @@
 title: Dale
 layout: default
 date: 2018-10-03
+featured-image: programming-languages.jpg
 last-modified: 2018-10-03
 
 ---

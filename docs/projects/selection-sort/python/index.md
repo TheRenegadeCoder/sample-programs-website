@@ -2,10 +2,11 @@
 title: Selection Sort in Python
 layout: default
 last-modified: 2020-05-02
-featured-image: selection-sort-in-python-featured-image.JPEG
+featured-image: selection-sort-in-every-language.jpg
 tags: [python, selection-sort]
 authors:
   - hmajid2301
+
 ---
 
 Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

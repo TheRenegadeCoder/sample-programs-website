@@ -6,6 +6,7 @@ featured-image: baklava-in-piet.jpg
 tags: [piet, baklava]
 authors:
   - rzuckerm
+
 ---
 
 Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Piet](https://sampleprograms.io/languages/piet) page! Here, you'll find the source code for this program as well as a description of how the program works.

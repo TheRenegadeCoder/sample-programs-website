@@ -3,10 +3,11 @@ title: Quick Sort in Every Language
 layout: default
 date: 2018-11-29
 last-modified: 2020-05-02
-featured-image:
+featured-image: quick-sort-in-every-language.jpg
 tags: [quick-sort]
 authors:
   - auroq
+
 ---
 
 Welcome to the Quick Sort page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

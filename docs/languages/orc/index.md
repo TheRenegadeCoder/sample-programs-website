@@ -2,6 +2,7 @@
 title: Orc
 layout: default
 date: 2018-08-28
+featured-image: programming-languages.jpg
 last-modified: 2018-08-28
 
 ---

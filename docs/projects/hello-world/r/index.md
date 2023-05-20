@@ -6,6 +6,7 @@ featured-image: hello-world-in-r.jpg
 tags: [r, hello-world]
 authors:
   - alexandra_woerner
+
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [R](https://sampleprograms.io/languages/r) page! Here, you'll find the source code for this program as well as a description of how the program works.

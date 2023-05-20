@@ -2,6 +2,7 @@
 title: Erlang
 layout: default
 date: 2018-08-08
+featured-image: programming-languages.jpg
 last-modified: 2018-08-08
 
 ---

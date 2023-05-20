@@ -2,6 +2,7 @@
 title: Owl Lisp
 layout: default
 date: 2018-06-29
+featured-image: programming-languages.jpg
 last-modified: 2018-06-29
 
 ---

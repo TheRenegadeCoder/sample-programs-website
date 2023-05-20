@@ -2,6 +2,7 @@
 title: Lolcode
 layout: default
 date: 2018-05-11
+featured-image: programming-languages.jpg
 last-modified: 2018-05-11
 
 ---

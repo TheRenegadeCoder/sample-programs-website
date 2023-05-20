@@ -2,6 +2,7 @@
 title: X86 64
 layout: default
 date: 2023-05-04
+featured-image: programming-languages.jpg
 last-modified: 2023-05-04
 
 ---

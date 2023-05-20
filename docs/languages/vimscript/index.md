@@ -2,6 +2,7 @@
 title: Vimscript
 layout: default
 date: 2018-08-27
+featured-image: programming-languages.jpg
 last-modified: 2018-08-27
 
 ---

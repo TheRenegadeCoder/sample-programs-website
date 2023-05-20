@@ -2,6 +2,7 @@
 title: Chapel
 layout: default
 date: 2018-11-22
+featured-image: programming-languages.jpg
 last-modified: 2018-11-22
 
 ---

@@ -2,10 +2,11 @@
 title: Fizz Buzz in Python
 layout: default
 last-modified: 2020-05-02
-featured-image: fizz-buzz.png
+featured-image: fizz-buzz-in-every-language.png
 tags: [python, fizz-buzz]
 authors:
   - samdoj
+
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -2,6 +2,7 @@
 title: Cobol
 layout: default
 date: 2021-10-09
+featured-image: programming-languages.jpg
 last-modified: 2021-10-09
 
 ---

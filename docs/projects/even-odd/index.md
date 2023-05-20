@@ -3,11 +3,12 @@ title: Even Odd in Every Language
 layout: default
 date: 2018-11-01
 last-modified: 2020-05-02
-featured-image: even-odd-in-every-language-featured-image.JPEG
+featured-image: even-odd-in-every-language.jpg
 tags: [even-odd]
 authors:
   - the_renegade_coder
   - auroq
+
 ---
 
 Welcome to the Even Odd page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

@@ -2,6 +2,7 @@
 title: Bracmat
 layout: default
 date: 2020-12-07
+featured-image: programming-languages.jpg
 last-modified: 2020-12-07
 
 ---

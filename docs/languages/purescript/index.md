@@ -2,6 +2,7 @@
 title: Purescript
 layout: default
 date: 2018-12-22
+featured-image: programming-languages.jpg
 last-modified: 2018-12-22
 
 ---

@@ -2,6 +2,7 @@
 title: Gravity
 layout: default
 date: 2018-04-24
+featured-image: programming-languages.jpg
 last-modified: 2018-04-24
 
 ---

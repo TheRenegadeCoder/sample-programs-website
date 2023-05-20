@@ -2,6 +2,7 @@
 title: Wu
 layout: default
 date: 2018-07-27
+featured-image: programming-languages.jpg
 last-modified: 2018-07-27
 
 ---

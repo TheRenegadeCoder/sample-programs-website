@@ -2,6 +2,7 @@
 title: Solisp
 layout: default
 date: 2020-02-25
+featured-image: programming-languages.jpg
 last-modified: 2020-02-25
 
 ---

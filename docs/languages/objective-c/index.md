@@ -2,6 +2,7 @@
 title: Objective C
 layout: default
 date: 2018-03-21
+featured-image: programming-languages.jpg
 last-modified: 2018-03-21
 
 ---

@@ -3,10 +3,11 @@ title: The D Programming Language
 layout: default
 date: 2020-05-02
 last-modified: 2022-05-18
-featured-image:
+feature-imaged: programming-languages.jpg
 tags: [d]
 authors:
   - the_renegade_coder
+
 ---
 
 Welcome to the D page! Here, you'll find a description of the language as well as a list of sample programs in that language.

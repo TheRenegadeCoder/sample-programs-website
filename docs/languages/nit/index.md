@@ -2,6 +2,7 @@
 title: Nit
 layout: default
 date: 2021-05-25
+featured-image: programming-languages.jpg
 last-modified: 2021-05-25
 
 ---

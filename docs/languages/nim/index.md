@@ -2,6 +2,7 @@
 title: Nim
 layout: default
 date: 2019-10-16
+featured-image: programming-languages.jpg
 last-modified: 2019-10-16
 
 ---

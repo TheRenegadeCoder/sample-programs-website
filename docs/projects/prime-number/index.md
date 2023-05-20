@@ -1,12 +1,13 @@
 ---
-title: Prime Numbers in Every Language
+title: Prime Number in Every Language
 layout: default
 date: 2018-11-01
 last-modified: 2020-05-02
-featured-image:
-tags: [prime-numbers]
+featured-image: prime-number-in-every-language.jpg
+tags: [prime-number]
 authors:
   - the_renegade_coder
+
 ---
 
 Welcome to the Prime Number page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
