@@ -2,7 +2,7 @@
 title: Roman Numeral in Python
 layout: default
 last-modified: 2020-05-02
-featured-image: roman-numeral-in-every-language.jpg
+featured-imaged: roman-numeral-in-every-language.jpg
 tags: [python, roman-numeral]
 authors:
   - rayavarapuvikram1

@@ -2,6 +2,7 @@
 title: Rot13 in Algol68
 layout: default
 date: 2023-01-24
+featured-image: rot13-in-every-language.jpg
 last-modified: 2023-01-24
 
 ---

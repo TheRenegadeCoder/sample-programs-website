@@ -2,7 +2,7 @@
 title: Palindromic Number in Kotlin
 layout: default
 last-modified: 2020-10-07
-featured-image: palindromic-number-in-every-language.jpg
+featured-imaged: palindromic-number-in-every-language.jpg
 tags: [palindromic-number]
 authors:
   - anohene1

@@ -2,6 +2,7 @@
 title: Selection Sort in C#
 layout: default
 date: 2018-12-30
+featured-image: selection-sort-in-every-language.jpg
 last-modified: 2018-12-30
 
 ---

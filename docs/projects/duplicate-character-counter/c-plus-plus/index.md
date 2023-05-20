@@ -2,6 +2,7 @@
 title: Duplicate Character Counter in C++
 layout: default
 date: 2022-10-03
+featured-image: duplicate-character-counter-in-every-language.jpg
 last-modified: 2022-10-03
 
 ---

@@ -2,6 +2,7 @@
 title: Longest Palindromic Substring in Php
 layout: default
 date: 2023-03-27
+featured-image: longest-palindromic-substring-in-every-language.jpg
 last-modified: 2023-03-27
 
 ---

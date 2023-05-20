@@ -2,6 +2,7 @@
 title: Bubble Sort in Algol68
 layout: default
 date: 2023-01-27
+featured-image: bubble-sort-in-every-language.jpg
 last-modified: 2023-01-27
 
 ---

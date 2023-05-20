@@ -2,6 +2,7 @@
 title: Quine in Algol68
 layout: default
 date: 2023-01-22
+featured-image: quine-in-every-language.jpg
 last-modified: 2023-01-22
 
 ---

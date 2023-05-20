@@ -2,6 +2,7 @@
 title: Capitalize in Scala
 layout: default
 date: 2023-05-15
+featured-image: capitalize-in-every-language.jpg
 last-modified: 2023-05-15
 
 ---

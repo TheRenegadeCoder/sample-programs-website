@@ -2,6 +2,7 @@
 title: Selection Sort in Javascript
 layout: default
 date: 2019-10-16
+featured-image: selection-sort-in-every-language.jpg
 last-modified: 2019-10-16
 
 ---

@@ -2,6 +2,7 @@
 title: Prime Number in Mathematica
 layout: default
 date: 2023-01-17
+featured-image: prime-number-in-every-language.jpg
 last-modified: 2023-01-17
 
 ---

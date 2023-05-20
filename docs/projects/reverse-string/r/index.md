@@ -2,6 +2,7 @@
 title: Reverse String in R
 layout: default
 date: 2020-10-19
+featured-image: reverse-string-in-every-language.jpg
 last-modified: 2020-10-19
 
 ---

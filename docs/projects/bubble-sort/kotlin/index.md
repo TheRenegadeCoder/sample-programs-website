@@ -2,6 +2,7 @@
 title: Bubble Sort in Kotlin
 layout: default
 date: 2020-10-01
+featured-image: bubble-sort-in-every-language.jpg
 last-modified: 2020-10-01
 
 ---

@@ -2,6 +2,7 @@
 title: Roman Numeral in C++
 layout: default
 date: 2019-10-21
+featured-image: roman-numeral-in-every-language.jpg
 last-modified: 2019-10-21
 
 ---

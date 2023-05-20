@@ -2,6 +2,7 @@
 title: Fizz Buzz in Algol68
 layout: default
 date: 2023-01-18
+featured-image: fizz-buzz-in-every-language.png
 last-modified: 2023-01-18
 
 ---

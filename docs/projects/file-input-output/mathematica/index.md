@@ -2,6 +2,7 @@
 title: File Input Output in Mathematica
 layout: default
 date: 2023-01-21
+featured-image: file-input-output-in-every-language.jpg
 last-modified: 2023-01-21
 
 ---

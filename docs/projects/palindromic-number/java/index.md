@@ -2,6 +2,7 @@
 title: Palindromic Number in Java
 layout: default
 date: 2020-10-11
+featured-image: palindromic-number-in-every-language.jpg
 last-modified: 2020-10-11
 
 ---

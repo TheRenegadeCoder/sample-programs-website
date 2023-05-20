@@ -2,6 +2,7 @@
 title: Prime Number in Bash
 layout: default
 date: 2019-10-14
+featured-image: prime-number-in-every-language.jpg
 last-modified: 2019-10-14
 
 ---

@@ -2,6 +2,7 @@
 title: Remove All Whitespace in Algol68
 layout: default
 date: 2023-01-24
+featured-image: remove-all-whitespace-in-every-language.jpg
 last-modified: 2023-01-24
 
 ---

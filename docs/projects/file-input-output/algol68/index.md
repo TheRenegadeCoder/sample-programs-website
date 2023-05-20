@@ -2,6 +2,7 @@
 title: File Input Output in Algol68
 layout: default
 date: 2023-01-20
+featured-image: file-input-output-in-every-language.jpg
 last-modified: 2023-01-20
 
 ---

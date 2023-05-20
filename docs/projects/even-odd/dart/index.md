@@ -2,6 +2,7 @@
 title: Even Odd in Dart
 layout: default
 date: 2019-10-18
+featured-image: even-odd-in-every-language.jpg
 last-modified: 2019-10-18
 
 ---

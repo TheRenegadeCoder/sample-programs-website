@@ -2,6 +2,7 @@
 title: Palindromic Number in Javascript
 layout: default
 date: 2021-11-01
+featured-image: palindromic-number-in-every-language.jpg
 last-modified: 2021-11-01
 
 ---

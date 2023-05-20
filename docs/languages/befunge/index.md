@@ -3,7 +3,7 @@ title: The Befunge Programming Language
 layout: default
 date: 2020-05-02
 last-modified: 2022-05-11
-feature-imaged: programming-languages.jpg
+featured-imaged: programming-languages.jpg
 tags: [befunge]
 authors:
   - stuin

@@ -2,6 +2,7 @@
 title: Prime Number in Rust
 layout: default
 date: 2019-10-31
+featured-image: prime-number-in-every-language.jpg
 last-modified: 2019-10-31
 
 ---

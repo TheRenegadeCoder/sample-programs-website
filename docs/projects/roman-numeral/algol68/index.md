@@ -2,6 +2,7 @@
 title: Roman Numeral in Algol68
 layout: default
 date: 2023-02-01
+featured-image: roman-numeral-in-every-language.jpg
 last-modified: 2023-02-01
 
 ---

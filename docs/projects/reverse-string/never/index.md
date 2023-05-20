@@ -2,6 +2,7 @@
 title: Reverse String in Never
 layout: default
 date: 2018-09-20
+featured-image: reverse-string-in-every-language.jpg
 last-modified: 2018-09-20
 
 ---

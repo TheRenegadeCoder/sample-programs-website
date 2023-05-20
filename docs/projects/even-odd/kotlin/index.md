@@ -2,6 +2,7 @@
 title: Even Odd in Kotlin
 layout: default
 date: 2020-10-01
+featured-image: even-odd-in-every-language.jpg
 last-modified: 2020-10-01
 
 ---

@@ -2,6 +2,7 @@
 title: Even Odd in Pascal
 layout: default
 date: 2020-10-18
+featured-image: even-odd-in-every-language.jpg
 last-modified: 2020-10-18
 
 ---

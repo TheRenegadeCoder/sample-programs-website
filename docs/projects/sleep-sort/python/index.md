@@ -2,6 +2,7 @@
 title: Sleep Sort in Python
 layout: default
 date: 2020-10-02
+featured-image: sleep-sort-in-every-language.jpg
 last-modified: 2020-10-02
 
 ---

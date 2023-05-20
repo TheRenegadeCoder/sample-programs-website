@@ -2,6 +2,7 @@
 title: Longest Palindromic Substring in Go
 layout: default
 date: 2020-10-26
+featured-image: longest-palindromic-substring-in-every-language.jpg
 last-modified: 2020-10-26
 
 ---

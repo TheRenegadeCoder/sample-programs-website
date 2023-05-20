@@ -2,6 +2,7 @@
 title: Selection Sort in Java
 layout: default
 date: 2019-10-15
+featured-image: selection-sort-in-every-language.jpg
 last-modified: 2019-10-15
 
 ---

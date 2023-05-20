@@ -2,6 +2,7 @@
 title: Hello World in Clojure
 layout: default
 date: 2018-12-22
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2018-12-22
 
 ---

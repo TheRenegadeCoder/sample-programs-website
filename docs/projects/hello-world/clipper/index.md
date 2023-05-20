@@ -2,6 +2,7 @@
 title: Hello World in Clipper
 layout: default
 date: 2018-07-05
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2018-07-05
 
 ---

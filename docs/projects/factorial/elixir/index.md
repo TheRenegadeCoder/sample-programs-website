@@ -2,6 +2,7 @@
 title: Factorial in Elixir
 layout: default
 date: 2019-10-12
+featured-image: factorial-in-every-language.jpg
 last-modified: 2019-10-12
 
 ---

@@ -2,6 +2,7 @@
 title: Remove All Whitespace in Euphoria
 layout: default
 date: 2023-02-19
+featured-image: remove-all-whitespace-in-every-language.jpg
 last-modified: 2023-02-19
 
 ---

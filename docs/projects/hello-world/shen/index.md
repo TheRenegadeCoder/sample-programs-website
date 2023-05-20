@@ -2,6 +2,7 @@
 title: Hello World in Shen
 layout: default
 date: 2018-06-28
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2018-06-28
 
 ---

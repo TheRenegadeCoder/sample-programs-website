@@ -2,6 +2,7 @@
 title: Fraction Math in Euphoria
 layout: default
 date: 2023-02-26
+featured-image: fraction-math-in-every-language.jpg
 last-modified: 2023-02-26
 
 ---

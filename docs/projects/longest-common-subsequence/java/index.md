@@ -2,6 +2,7 @@
 title: Longest Common Subsequence in Java
 layout: default
 date: 2022-05-16
+featured-image: longest-common-subsequence-in-every-language.jpg
 last-modified: 2022-05-16
 
 ---

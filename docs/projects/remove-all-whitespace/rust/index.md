@@ -2,6 +2,7 @@
 title: Remove All Whitespace in Rust
 layout: default
 date: 2023-04-09
+featured-image: remove-all-whitespace-in-every-language.jpg
 last-modified: 2023-04-09
 
 ---

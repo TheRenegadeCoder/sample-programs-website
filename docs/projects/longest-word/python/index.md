@@ -2,6 +2,7 @@
 title: Longest Word in Python
 layout: default
 date: 2022-05-13
+featured-image: longest-word-in-every-language.jpg
 last-modified: 2022-05-13
 
 ---

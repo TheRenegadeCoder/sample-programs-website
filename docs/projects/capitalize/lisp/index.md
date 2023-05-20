@@ -2,6 +2,7 @@
 title: Capitalize in Lisp
 layout: default
 date: 2020-10-09
+featured-image: capitalize-in-every-language.jpg
 last-modified: 2020-10-09
 
 ---

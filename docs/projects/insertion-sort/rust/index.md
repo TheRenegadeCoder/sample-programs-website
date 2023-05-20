@@ -2,6 +2,7 @@
 title: Insertion Sort in Rust
 layout: default
 date: 2020-10-03
+featured-image: insertion-sort-in-every-language.jpg
 last-modified: 2020-10-03
 
 ---

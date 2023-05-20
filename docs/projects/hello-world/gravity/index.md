@@ -2,6 +2,7 @@
 title: Hello World in Gravity
 layout: default
 date: 2018-04-24
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2018-04-24
 
 ---

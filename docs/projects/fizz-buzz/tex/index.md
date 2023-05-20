@@ -2,6 +2,7 @@
 title: Fizz Buzz in Tex
 layout: default
 date: 2018-09-04
+featured-image: fizz-buzz-in-every-language.png
 last-modified: 2018-09-04
 
 ---

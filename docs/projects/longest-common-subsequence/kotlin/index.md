@@ -2,6 +2,7 @@
 title: Longest Common Subsequence in Kotlin
 layout: default
 date: 2020-10-05
+featured-image: longest-common-subsequence-in-every-language.jpg
 last-modified: 2020-10-05
 
 ---

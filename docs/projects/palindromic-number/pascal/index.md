@@ -2,6 +2,7 @@
 title: Palindromic Number in Pascal
 layout: default
 date: 2021-10-29
+featured-image: palindromic-number-in-every-language.jpg
 last-modified: 2021-10-29
 
 ---

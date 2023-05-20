@@ -2,6 +2,7 @@
 title: Fibonacci in Rust
 layout: default
 date: 2018-10-05
+featured-image: fibonacci-in-every-language.jpg
 last-modified: 2018-10-05
 
 ---

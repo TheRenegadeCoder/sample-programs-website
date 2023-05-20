@@ -2,6 +2,7 @@
 title: Sleep Sort in Rust
 layout: default
 date: 2022-10-31
+featured-image: sleep-sort-in-every-language.jpg
 last-modified: 2022-10-31
 
 ---

@@ -2,6 +2,7 @@
 title: File Input Output in Go
 layout: default
 date: 2019-03-05
+featured-image: file-input-output-in-every-language.jpg
 last-modified: 2019-03-05
 
 ---

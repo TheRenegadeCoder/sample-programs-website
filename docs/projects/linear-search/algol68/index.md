@@ -2,6 +2,7 @@
 title: Linear Search in Algol68
 layout: default
 date: 2023-01-30
+featured-image: linear-search-in-every-language.jpg
 last-modified: 2023-01-30
 
 ---

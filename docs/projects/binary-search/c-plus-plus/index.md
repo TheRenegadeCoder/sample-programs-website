@@ -2,6 +2,7 @@
 title: Binary Search in C++
 layout: default
 date: 2019-10-27
+featured-image: binary-search-in-every-language.jpg
 last-modified: 2019-10-27
 
 ---

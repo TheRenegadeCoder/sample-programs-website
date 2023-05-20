@@ -2,6 +2,7 @@
 title: Job Sequencing in Go
 layout: default
 date: 2019-03-16
+featured-image: job-sequencing-in-every-language.jpg
 last-modified: 2019-03-16
 
 ---

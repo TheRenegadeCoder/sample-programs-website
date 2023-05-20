@@ -2,6 +2,7 @@
 title: Baklava in C++
 layout: default
 date: 2019-10-09
+featured-image: baklava-in-every-language.jpg
 last-modified: 2019-10-09
 
 ---

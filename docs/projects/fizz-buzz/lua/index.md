@@ -2,6 +2,7 @@
 title: Fizz Buzz in Lua
 layout: default
 date: 2018-09-19
+featured-image: fizz-buzz-in-every-language.png
 last-modified: 2018-09-19
 
 ---

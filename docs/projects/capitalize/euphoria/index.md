@@ -2,6 +2,7 @@
 title: Capitalize in Euphoria
 layout: default
 date: 2023-02-17
+featured-image: capitalize-in-every-language.jpg
 last-modified: 2023-02-17
 
 ---

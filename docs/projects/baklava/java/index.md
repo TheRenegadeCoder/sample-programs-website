@@ -2,6 +2,7 @@
 title: Baklava in Java
 layout: default
 date: 2018-12-30
+featured-image: baklava-in-every-language.jpg
 last-modified: 2018-12-30
 
 ---

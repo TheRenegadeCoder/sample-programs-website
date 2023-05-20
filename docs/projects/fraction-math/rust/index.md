@@ -2,6 +2,7 @@
 title: Fraction Math in Rust
 layout: default
 date: 2023-04-12
+featured-image: fraction-math-in-every-language.jpg
 last-modified: 2023-04-12
 
 ---

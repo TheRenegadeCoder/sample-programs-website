@@ -2,6 +2,7 @@
 title: Reverse String in Julia
 layout: default
 date: 2022-10-02
+featured-image: reverse-string-in-every-language.jpg
 last-modified: 2022-10-02
 
 ---

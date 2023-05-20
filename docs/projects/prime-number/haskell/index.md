@@ -2,6 +2,7 @@
 title: Prime Number in Haskell
 layout: default
 date: 2018-11-16
+featured-image: prime-number-in-every-language.jpg
 last-modified: 2018-11-16
 
 ---

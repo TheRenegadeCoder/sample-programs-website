@@ -2,6 +2,7 @@
 title: Hello World in Never
 layout: default
 date: 2018-09-20
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2018-09-20
 
 ---

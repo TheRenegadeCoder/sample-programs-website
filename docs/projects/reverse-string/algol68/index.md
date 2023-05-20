@@ -2,6 +2,7 @@
 title: Reverse String in Algol68
 layout: default
 date: 2023-01-24
+featured-image: reverse-string-in-every-language.jpg
 last-modified: 2023-01-24
 
 ---

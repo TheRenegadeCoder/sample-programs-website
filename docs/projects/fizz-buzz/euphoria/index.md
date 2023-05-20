@@ -2,6 +2,7 @@
 title: Fizz Buzz in Euphoria
 layout: default
 date: 2023-02-19
+featured-image: fizz-buzz-in-every-language.png
 last-modified: 2023-02-19
 
 ---

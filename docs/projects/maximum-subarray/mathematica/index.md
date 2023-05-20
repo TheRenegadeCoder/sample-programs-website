@@ -2,6 +2,7 @@
 title: Maximum Subarray in Mathematica
 layout: default
 date: 2023-01-20
+featured-image: maximum-subarray-in-every-language.jpg
 last-modified: 2023-01-20
 
 ---

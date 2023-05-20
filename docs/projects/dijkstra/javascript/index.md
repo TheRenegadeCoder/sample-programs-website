@@ -2,6 +2,7 @@
 title: Dijkstra in Javascript
 layout: default
 date: 2021-10-25
+featured-image: dijkstra-in-every-language.jpg
 last-modified: 2021-10-25
 
 ---

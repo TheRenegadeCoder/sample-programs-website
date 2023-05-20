@@ -2,6 +2,7 @@
 title: Capitalize in Groovy
 layout: default
 date: 2019-07-01
+featured-image: capitalize-in-every-language.jpg
 last-modified: 2019-07-01
 
 ---

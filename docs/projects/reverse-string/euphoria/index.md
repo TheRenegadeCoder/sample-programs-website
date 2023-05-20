@@ -2,6 +2,7 @@
 title: Reverse String in Euphoria
 layout: default
 date: 2023-02-19
+featured-image: reverse-string-in-every-language.jpg
 last-modified: 2023-02-19
 
 ---

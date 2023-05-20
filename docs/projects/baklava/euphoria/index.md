@@ -2,6 +2,7 @@
 title: Baklava in Euphoria
 layout: default
 date: 2023-02-16
+featured-image: baklava-in-every-language.jpg
 last-modified: 2023-02-16
 
 ---

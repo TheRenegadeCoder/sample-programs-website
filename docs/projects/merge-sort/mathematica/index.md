@@ -2,6 +2,7 @@
 title: Merge Sort in Mathematica
 layout: default
 date: 2023-01-19
+featured-image: merge-sort-in-every-language.jpg
 last-modified: 2023-01-19
 
 ---

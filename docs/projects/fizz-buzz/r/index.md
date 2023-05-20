@@ -2,6 +2,7 @@
 title: Fizz Buzz in R
 layout: default
 date: 2019-10-24
+featured-image: fizz-buzz-in-every-language.png
 last-modified: 2019-10-24
 
 ---

@@ -2,6 +2,7 @@
 title: Longest Palindromic Substring in Rust
 layout: default
 date: 2023-04-17
+featured-image: longest-palindromic-substring-in-every-language.jpg
 last-modified: 2023-04-17
 
 ---

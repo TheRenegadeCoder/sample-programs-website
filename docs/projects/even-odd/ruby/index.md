@@ -2,6 +2,7 @@
 title: Even Odd in Ruby
 layout: default
 date: 2019-10-31
+featured-image: even-odd-in-every-language.jpg
 last-modified: 2019-10-31
 
 ---

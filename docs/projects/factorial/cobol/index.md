@@ -2,6 +2,7 @@
 title: Factorial in Cobol
 layout: default
 date: 2021-10-14
+featured-image: factorial-in-every-language.jpg
 last-modified: 2021-10-14
 
 ---

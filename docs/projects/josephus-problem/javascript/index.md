@@ -2,6 +2,7 @@
 title: Josephus Problem in Javascript
 layout: default
 date: 2021-10-08
+featured-image: josephus-problem-in-every-language.jpg
 last-modified: 2021-10-08
 
 ---

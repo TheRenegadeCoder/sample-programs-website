@@ -2,6 +2,7 @@
 title: Quine in Dg
 layout: default
 date: 2018-10-03
+featured-image: quine-in-every-language.jpg
 last-modified: 2018-10-03
 
 ---

@@ -2,6 +2,7 @@
 title: Fizz Buzz in Julia
 layout: default
 date: 2018-10-12
+featured-image: fizz-buzz-in-every-language.png
 last-modified: 2018-10-12
 
 ---

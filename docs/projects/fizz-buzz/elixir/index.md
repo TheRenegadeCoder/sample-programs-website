@@ -2,6 +2,7 @@
 title: Fizz Buzz in Elixir
 layout: default
 date: 2019-04-25
+featured-image: fizz-buzz-in-every-language.png
 last-modified: 2019-04-25
 
 ---

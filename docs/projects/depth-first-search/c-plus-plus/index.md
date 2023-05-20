@@ -2,6 +2,7 @@
 title: Depth First Search in C++
 layout: default
 date: 2022-10-03
+featured-image: depth-first-search-in-every-language.jpg
 last-modified: 2022-10-03
 
 ---

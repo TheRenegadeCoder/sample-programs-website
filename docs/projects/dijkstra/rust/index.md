@@ -2,6 +2,7 @@
 title: Dijkstra in Rust
 layout: default
 date: 2023-04-20
+featured-image: dijkstra-in-every-language.jpg
 last-modified: 2023-04-20
 
 ---

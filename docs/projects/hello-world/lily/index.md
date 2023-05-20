@@ -2,6 +2,7 @@
 title: Hello World in Lily
 layout: default
 date: 2018-04-22
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2018-04-22
 
 ---

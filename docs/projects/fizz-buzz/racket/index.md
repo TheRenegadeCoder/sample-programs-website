@@ -2,6 +2,7 @@
 title: Fizz Buzz in Racket
 layout: default
 date: 2020-10-02
+featured-image: fizz-buzz-in-every-language.png
 last-modified: 2020-10-02
 
 ---

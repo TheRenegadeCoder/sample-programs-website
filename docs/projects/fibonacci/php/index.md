@@ -2,6 +2,7 @@
 title: Fibonacci in Php
 layout: default
 date: 2019-01-03
+featured-image: fibonacci-in-every-language.jpg
 last-modified: 2019-01-03
 
 ---

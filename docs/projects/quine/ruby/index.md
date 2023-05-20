@@ -2,6 +2,7 @@
 title: Quine in Ruby
 layout: default
 date: 2018-08-12
+featured-image: quine-in-every-language.jpg
 last-modified: 2018-08-12
 
 ---

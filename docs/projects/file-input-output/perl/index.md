@@ -2,6 +2,7 @@
 title: File Input Output in Perl
 layout: default
 date: 2019-10-15
+featured-image: file-input-output-in-every-language.jpg
 last-modified: 2019-10-15
 
 ---

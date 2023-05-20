@@ -2,6 +2,7 @@
 title: Baklava in Rust
 layout: default
 date: 2023-04-06
+featured-image: baklava-in-every-language.jpg
 last-modified: 2023-04-06
 
 ---

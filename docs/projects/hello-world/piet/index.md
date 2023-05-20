@@ -2,6 +2,7 @@
 title: Hello World in Piet
 layout: default
 date: 2023-04-25
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2023-04-25
 
 ---

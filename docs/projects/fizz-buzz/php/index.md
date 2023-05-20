@@ -2,6 +2,7 @@
 title: Fizz Buzz in Php
 layout: default
 date: 2018-09-09
+featured-image: fizz-buzz-in-every-language.png
 last-modified: 2018-09-09
 
 ---

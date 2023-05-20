@@ -2,6 +2,7 @@
 title: Hello World in Lobster
 layout: default
 date: 2019-09-14
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2019-09-14
 
 ---

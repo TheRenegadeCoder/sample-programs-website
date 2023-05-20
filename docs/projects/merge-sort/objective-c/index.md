@@ -2,6 +2,7 @@
 title: Merge Sort in Objective C
 layout: default
 date: 2020-10-03
+featured-image: merge-sort-in-every-language.jpg
 last-modified: 2020-10-03
 
 ---

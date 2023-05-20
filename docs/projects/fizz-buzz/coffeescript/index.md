@@ -2,6 +2,7 @@
 title: Fizz Buzz in Coffeescript
 layout: default
 date: 2020-10-01
+featured-image: fizz-buzz-in-every-language.png
 last-modified: 2020-10-01
 
 ---

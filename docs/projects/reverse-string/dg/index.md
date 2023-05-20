@@ -2,6 +2,7 @@
 title: Reverse String in Dg
 layout: default
 date: 2018-10-03
+featured-image: reverse-string-in-every-language.jpg
 last-modified: 2018-10-03
 
 ---

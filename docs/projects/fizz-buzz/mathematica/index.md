@@ -2,6 +2,7 @@
 title: Fizz Buzz in Mathematica
 layout: default
 date: 2023-01-21
+featured-image: fizz-buzz-in-every-language.png
 last-modified: 2023-01-21
 
 ---

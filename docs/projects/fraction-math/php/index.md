@@ -2,6 +2,7 @@
 title: Fraction Math in Php
 layout: default
 date: 2023-03-27
+featured-image: fraction-math-in-every-language.jpg
 last-modified: 2023-03-27
 
 ---

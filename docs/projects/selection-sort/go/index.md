@@ -2,6 +2,7 @@
 title: Selection Sort in Go
 layout: default
 date: 2019-03-18
+featured-image: selection-sort-in-every-language.jpg
 last-modified: 2019-03-18
 
 ---

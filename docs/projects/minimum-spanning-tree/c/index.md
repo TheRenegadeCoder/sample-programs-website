@@ -2,6 +2,7 @@
 title: Minimum Spanning Tree in C
 layout: default
 date: 2019-10-20
+featured-image: minimum-spanning-tree-in-every-language.jpg
 last-modified: 2019-10-20
 
 ---

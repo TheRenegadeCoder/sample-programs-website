@@ -2,6 +2,7 @@
 title: Even Odd in Rexx
 layout: default
 date: 2020-10-07
+featured-image: even-odd-in-every-language.jpg
 last-modified: 2020-10-07
 
 ---

@@ -2,6 +2,7 @@
 title: Fizz Buzz in C#
 layout: default
 date: 2018-08-14
+featured-image: fizz-buzz-in-every-language.png
 last-modified: 2018-08-14
 
 ---

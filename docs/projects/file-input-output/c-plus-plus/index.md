@@ -2,7 +2,7 @@
 title: File Input Output in C++
 layout: default
 last-modified: 2020-05-02
-featured-image: file-input-output-in-every-language.jpg
+featured-imaged: file-input-output-in-every-language.jpg
 tags: [c-plus-plus, file-input-output]
 authors:
   - noah11012

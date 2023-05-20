@@ -2,6 +2,7 @@
 title: Even Odd in Swift
 layout: default
 date: 2020-10-05
+featured-image: even-odd-in-every-language.jpg
 last-modified: 2020-10-05
 
 ---

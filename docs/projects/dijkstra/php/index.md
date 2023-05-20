@@ -2,6 +2,7 @@
 title: Dijkstra in Php
 layout: default
 date: 2023-03-27
+featured-image: dijkstra-in-every-language.jpg
 last-modified: 2023-03-27
 
 ---

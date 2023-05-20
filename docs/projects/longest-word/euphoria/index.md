@@ -2,6 +2,7 @@
 title: Longest Word in Euphoria
 layout: default
 date: 2023-02-17
+featured-image: longest-word-in-every-language.jpg
 last-modified: 2023-02-17
 
 ---

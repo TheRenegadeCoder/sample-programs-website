@@ -2,6 +2,7 @@
 title: Baklava in Erlang
 layout: default
 date: 2019-10-04
+featured-image: baklava-in-every-language.jpg
 last-modified: 2019-10-04
 
 ---

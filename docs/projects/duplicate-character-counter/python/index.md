@@ -2,6 +2,7 @@
 title: Duplicate Character Counter in Python
 layout: default
 date: 2022-05-14
+featured-image: duplicate-character-counter-in-every-language.jpg
 last-modified: 2022-05-14
 
 ---

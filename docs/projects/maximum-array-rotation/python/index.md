@@ -2,6 +2,7 @@
 title: Maximum Array Rotation in Python
 layout: default
 date: 2021-10-05
+featured-image: maximum-array-rotation-in-every-language.jpg
 last-modified: 2021-10-05
 
 ---

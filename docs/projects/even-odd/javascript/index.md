@@ -2,6 +2,7 @@
 title: Even Odd in Javascript
 layout: default
 date: 2019-10-11
+featured-image: even-odd-in-every-language.jpg
 last-modified: 2019-10-11
 
 ---

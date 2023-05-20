@@ -2,6 +2,7 @@
 title: Linear Search in C++
 layout: default
 date: 2022-10-03
+featured-image: linear-search-in-every-language.jpg
 last-modified: 2022-10-03
 
 ---

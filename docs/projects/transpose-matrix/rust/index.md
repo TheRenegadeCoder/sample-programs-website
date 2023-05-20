@@ -2,6 +2,7 @@
 title: Transpose Matrix in Rust
 layout: default
 date: 2023-04-17
+featured-image: transpose-matrix-in-every-language.jpg
 last-modified: 2023-04-17
 
 ---

@@ -2,6 +2,7 @@
 title: Josephus Problem in Rust
 layout: default
 date: 2023-04-09
+featured-image: josephus-problem-in-every-language.jpg
 last-modified: 2023-04-09
 
 ---

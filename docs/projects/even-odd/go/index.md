@@ -2,6 +2,7 @@
 title: Even Odd in Go
 layout: default
 date: 2018-10-25
+featured-image: even-odd-in-every-language.jpg
 last-modified: 2018-10-25
 
 ---

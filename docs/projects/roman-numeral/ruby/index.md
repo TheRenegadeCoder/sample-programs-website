@@ -2,6 +2,7 @@
 title: Roman Numeral in Ruby
 layout: default
 date: 2020-10-06
+featured-image: roman-numeral-in-every-language.jpg
 last-modified: 2020-10-06
 
 ---

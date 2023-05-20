@@ -2,7 +2,7 @@
 title: Fractions in Python
 layout: default
 last-modified: 2020-05-02
-featured-image: fraction-math-in-every-language.jpg
+featured-imaged: fraction-math-in-every-language.jpg
 tags: [python, fraction-math]
 authors:
   - niraj-kamdar

@@ -2,6 +2,7 @@
 title: Roman Numeral in Javascript
 layout: default
 date: 2019-10-11
+featured-image: roman-numeral-in-every-language.jpg
 last-modified: 2019-10-11
 
 ---

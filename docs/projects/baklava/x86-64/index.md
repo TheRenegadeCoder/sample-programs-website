@@ -2,6 +2,7 @@
 title: Baklava in X86 64
 layout: default
 date: 2023-05-04
+featured-image: baklava-in-every-language.jpg
 last-modified: 2023-05-04
 
 ---

@@ -2,6 +2,7 @@
 title: Fizz Buzz in Ruby
 layout: default
 date: 2018-08-12
+featured-image: fizz-buzz-in-every-language.png
 last-modified: 2018-08-12
 
 ---

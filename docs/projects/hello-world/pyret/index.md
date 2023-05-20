@@ -2,6 +2,7 @@
 title: Hello World in Pyret
 layout: default
 date: 2018-04-23
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2018-04-23
 
 ---

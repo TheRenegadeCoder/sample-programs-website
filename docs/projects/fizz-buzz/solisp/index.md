@@ -2,6 +2,7 @@
 title: Fizz Buzz in Solisp
 layout: default
 date: 2020-02-25
+featured-image: fizz-buzz-in-every-language.png
 last-modified: 2020-02-25
 
 ---

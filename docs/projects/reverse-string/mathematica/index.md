@@ -2,6 +2,7 @@
 title: Reverse String in Mathematica
 layout: default
 date: 2023-01-16
+featured-image: reverse-string-in-every-language.jpg
 last-modified: 2023-01-16
 
 ---

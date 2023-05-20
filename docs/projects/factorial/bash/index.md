@@ -2,6 +2,7 @@
 title: Factorial in Bash
 layout: default
 date: 2019-10-09
+featured-image: factorial-in-every-language.jpg
 last-modified: 2019-10-09
 
 ---

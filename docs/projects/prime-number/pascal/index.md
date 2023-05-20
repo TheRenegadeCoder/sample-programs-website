@@ -2,6 +2,7 @@
 title: Prime Number in Pascal
 layout: default
 date: 2020-10-18
+featured-image: prime-number-in-every-language.jpg
 last-modified: 2020-10-18
 
 ---

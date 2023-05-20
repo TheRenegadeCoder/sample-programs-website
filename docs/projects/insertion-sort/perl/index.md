@@ -2,6 +2,7 @@
 title: Insertion Sort in Perl
 layout: default
 date: 2020-10-02
+featured-image: insertion-sort-in-every-language.jpg
 last-modified: 2020-10-02
 
 ---

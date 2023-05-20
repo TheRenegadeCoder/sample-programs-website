@@ -2,6 +2,7 @@
 title: Longest Word in Php
 layout: default
 date: 2023-03-23
+featured-image: longest-word-in-every-language.jpg
 last-modified: 2023-03-23
 
 ---

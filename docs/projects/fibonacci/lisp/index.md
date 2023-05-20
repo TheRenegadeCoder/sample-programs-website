@@ -2,6 +2,7 @@
 title: Fibonacci in Lisp
 layout: default
 date: 2020-10-10
+featured-image: fibonacci-in-every-language.jpg
 last-modified: 2020-10-10
 
 ---

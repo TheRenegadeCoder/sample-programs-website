@@ -2,6 +2,7 @@
 title: Palindromic Number in Rust
 layout: default
 date: 2023-04-09
+featured-image: palindromic-number-in-every-language.jpg
 last-modified: 2023-04-09
 
 ---

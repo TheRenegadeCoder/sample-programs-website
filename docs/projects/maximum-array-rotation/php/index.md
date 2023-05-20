@@ -2,6 +2,7 @@
 title: Maximum Array Rotation in Php
 layout: default
 date: 2023-03-27
+featured-image: maximum-array-rotation-in-every-language.jpg
 last-modified: 2023-03-27
 
 ---

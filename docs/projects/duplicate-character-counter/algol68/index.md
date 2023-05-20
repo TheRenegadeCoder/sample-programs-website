@@ -2,6 +2,7 @@
 title: Duplicate Character Counter in Algol68
 layout: default
 date: 2023-01-22
+featured-image: duplicate-character-counter-in-every-language.jpg
 last-modified: 2023-01-22
 
 ---

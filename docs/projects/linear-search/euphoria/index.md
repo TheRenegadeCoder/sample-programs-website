@@ -2,6 +2,7 @@
 title: Linear Search in Euphoria
 layout: default
 date: 2023-02-19
+featured-image: linear-search-in-every-language.jpg
 last-modified: 2023-02-19
 
 ---

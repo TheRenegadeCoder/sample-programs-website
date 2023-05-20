@@ -2,6 +2,7 @@
 title: Convex Hull in Mathematica
 layout: default
 date: 2023-01-18
+featured-image: convex-hull-in-every-language.jpg
 last-modified: 2023-01-18
 
 ---

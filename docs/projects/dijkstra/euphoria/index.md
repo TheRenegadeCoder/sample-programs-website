@@ -2,6 +2,7 @@
 title: Dijkstra in Euphoria
 layout: default
 date: 2023-02-28
+featured-image: dijkstra-in-every-language.jpg
 last-modified: 2023-02-28
 
 ---

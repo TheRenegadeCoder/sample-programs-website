@@ -2,6 +2,7 @@
 title: Quine in Python
 layout: default
 date: 2018-08-07
+featured-image: quine-in-every-language.jpg
 last-modified: 2018-08-07
 
 ---

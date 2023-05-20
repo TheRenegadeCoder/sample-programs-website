@@ -2,6 +2,7 @@
 title: Prime Number in Cobol
 layout: default
 date: 2021-10-12
+featured-image: prime-number-in-every-language.jpg
 last-modified: 2021-10-12
 
 ---

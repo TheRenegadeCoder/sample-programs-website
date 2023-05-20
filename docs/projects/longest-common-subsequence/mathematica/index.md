@@ -2,6 +2,7 @@
 title: Longest Common Subsequence in Mathematica
 layout: default
 date: 2023-01-19
+featured-image: longest-common-subsequence-in-every-language.jpg
 last-modified: 2023-01-19
 
 ---

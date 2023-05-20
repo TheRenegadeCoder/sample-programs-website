@@ -2,6 +2,7 @@
 title: Hello World in Baik
 layout: default
 date: 2020-10-09
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2020-10-09
 
 ---

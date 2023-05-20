@@ -2,7 +2,7 @@
 title: Linear Search in Python
 layout: default
 last-modified: 2020-05-02
-featured-image: linear-search-in-every-language.jpg
+featured-imaged: linear-search-in-every-language.jpg
 tags: [python, linear-search]
 authors:
   - frankhart2017

@@ -2,6 +2,7 @@
 title: Fibonacci in Perl
 layout: default
 date: 2020-10-02
+featured-image: fibonacci-in-every-language.jpg
 last-modified: 2020-10-02
 
 ---

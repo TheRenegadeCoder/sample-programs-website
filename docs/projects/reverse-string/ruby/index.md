@@ -2,7 +2,7 @@
 title: Reverse String in Ruby
 layout: default
 last-modified: 2020-05-02
-featured-image: reverse-string-in-every-language.jpg
+featured-imaged: reverse-string-in-every-language.jpg
 tags: [ruby, reverse-string]
 authors:
   - noah11012

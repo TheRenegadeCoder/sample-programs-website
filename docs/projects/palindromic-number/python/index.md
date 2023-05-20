@@ -2,6 +2,7 @@
 title: Palindromic Number in Python
 layout: default
 date: 2021-10-27
+featured-image: palindromic-number-in-every-language.jpg
 last-modified: 2021-10-27
 
 ---

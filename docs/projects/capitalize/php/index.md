@@ -2,6 +2,7 @@
 title: Capitalize in Php
 layout: default
 date: 2019-10-12
+featured-image: capitalize-in-every-language.jpg
 last-modified: 2019-10-12
 
 ---

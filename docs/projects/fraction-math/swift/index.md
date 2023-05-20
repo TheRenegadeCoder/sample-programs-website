@@ -2,6 +2,7 @@
 title: Fraction Math in Swift
 layout: default
 date: 2020-10-01
+featured-image: fraction-math-in-every-language.jpg
 last-modified: 2020-10-01
 
 ---

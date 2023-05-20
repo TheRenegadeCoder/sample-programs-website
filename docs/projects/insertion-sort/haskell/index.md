@@ -2,6 +2,7 @@
 title: Insertion Sort in Haskell
 layout: default
 date: 2018-12-18
+featured-image: insertion-sort-in-every-language.jpg
 last-modified: 2018-12-18
 
 ---

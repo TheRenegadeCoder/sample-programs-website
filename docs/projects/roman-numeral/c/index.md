@@ -3,7 +3,7 @@ title: Roman Numeral in C
 layout: default  
 date: 2021-10-27
 last-modified: 2021-10-27
-featured-image: roman-numeral-in-every-language.jpg
+featured-imaged: roman-numeral-in-every-language.jpg
 tags: [c, roman-numeral]  
 authors:
 - shubhragupta-code

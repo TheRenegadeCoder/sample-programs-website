@@ -2,7 +2,7 @@
 title: Selection Sort in Python
 layout: default
 last-modified: 2020-05-02
-featured-image: selection-sort-in-every-language.jpg
+featured-imaged: selection-sort-in-every-language.jpg
 tags: [python, selection-sort]
 authors:
   - hmajid2301

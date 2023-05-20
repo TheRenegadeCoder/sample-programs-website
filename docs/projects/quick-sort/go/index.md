@@ -2,6 +2,7 @@
 title: Quick Sort in Go
 layout: default
 date: 2019-03-17
+featured-image: quick-sort-in-every-language.jpg
 last-modified: 2019-03-17
 
 ---

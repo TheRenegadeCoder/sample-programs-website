@@ -2,6 +2,7 @@
 title: Maximum Array Rotation in Euphoria
 layout: default
 date: 2023-02-25
+featured-image: maximum-array-rotation-in-every-language.jpg
 last-modified: 2023-02-25
 
 ---

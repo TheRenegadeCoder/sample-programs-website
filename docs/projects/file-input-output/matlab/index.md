@@ -2,6 +2,7 @@
 title: File Input Output in Matlab
 layout: default
 date: 2020-10-02
+featured-image: file-input-output-in-every-language.jpg
 last-modified: 2020-10-02
 
 ---

@@ -2,6 +2,7 @@
 title: Even Odd in Julia
 layout: default
 date: 2021-11-01
+featured-image: even-odd-in-every-language.jpg
 last-modified: 2021-11-01
 
 ---

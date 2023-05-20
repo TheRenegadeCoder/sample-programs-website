@@ -2,6 +2,7 @@
 title: Hello World in Carp
 layout: default
 date: 2018-04-27
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2018-04-27
 
 ---

@@ -2,6 +2,7 @@
 title: Fibonacci in Pascal
 layout: default
 date: 2021-10-24
+featured-image: fibonacci-in-every-language.jpg
 last-modified: 2021-10-24
 
 ---

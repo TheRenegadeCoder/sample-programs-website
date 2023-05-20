@@ -2,6 +2,7 @@
 title: Duplicate Character Counter in Rust
 layout: default
 date: 2023-04-09
+featured-image: duplicate-character-counter-in-every-language.jpg
 last-modified: 2023-04-09
 
 ---

@@ -2,7 +2,7 @@
 title: Reverse String in Python
 layout: default
 last-modified: 2020-05-02
-featured-image: reverse-string-in-python.jpg
+featured-imaged: reverse-string-in-every-language.jpg
 tags: [python, reverse-string]
 authors:
   - the_renegade_coder

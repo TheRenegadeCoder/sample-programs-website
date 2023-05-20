@@ -2,6 +2,7 @@
 title: Even Odd in Elixir
 layout: default
 date: 2020-10-03
+featured-image: even-odd-in-every-language.jpg
 last-modified: 2020-10-03
 
 ---

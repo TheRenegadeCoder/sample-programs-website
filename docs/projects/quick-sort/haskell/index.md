@@ -2,6 +2,7 @@
 title: Quick Sort in Haskell
 layout: default
 date: 2018-12-04
+featured-image: quick-sort-in-every-language.jpg
 last-modified: 2018-12-04
 
 ---

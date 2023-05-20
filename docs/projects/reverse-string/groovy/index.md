@@ -2,6 +2,7 @@
 title: Reverse String in Groovy
 layout: default
 date: 2019-07-01
+featured-image: reverse-string-in-every-language.jpg
 last-modified: 2019-07-01
 
 ---

@@ -2,6 +2,7 @@
 title: Even Odd in Php
 layout: default
 date: 2019-10-16
+featured-image: even-odd-in-every-language.jpg
 last-modified: 2019-10-16
 
 ---

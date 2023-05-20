@@ -2,6 +2,7 @@
 title: Fibonacci in Algol68
 layout: default
 date: 2023-01-21
+featured-image: fibonacci-in-every-language.jpg
 last-modified: 2023-01-21
 
 ---

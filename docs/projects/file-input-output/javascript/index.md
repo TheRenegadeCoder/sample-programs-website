@@ -2,6 +2,7 @@
 title: File Input Output in Javascript
 layout: default
 date: 2019-10-10
+featured-image: file-input-output-in-every-language.jpg
 last-modified: 2019-10-10
 
 ---

@@ -2,7 +2,7 @@
 title: Insertion Sort in Python
 layout: default
 last-modified: 2020-05-02
-featured-image: insertion-sort-in-every-language.jpg
+featured-imaged: insertion-sort-in-every-language.jpg
 tags: [python, insertion-sort]
 authors:
   - hmajid2301

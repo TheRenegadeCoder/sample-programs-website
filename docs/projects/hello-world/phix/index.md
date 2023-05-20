@@ -2,6 +2,7 @@
 title: Hello World in Phix
 layout: default
 date: 2023-04-17
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2023-04-17
 
 ---

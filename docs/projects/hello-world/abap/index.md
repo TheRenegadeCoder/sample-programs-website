@@ -2,6 +2,7 @@
 title: Hello World in Abap
 layout: default
 date: 2018-10-21
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2018-10-21
 
 ---

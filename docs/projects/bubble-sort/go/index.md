@@ -2,7 +2,7 @@
 title: Bubble Sort in Go
 layout: default
 last-modified: 2020-09-30
-featured-image: bubble-sort-in-every-language.jpg
+featured-imaged: bubble-sort-in-every-language.jpg
 tags: [go, bubble-sort]
 authors:
   - bracciata

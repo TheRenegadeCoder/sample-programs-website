@@ -2,6 +2,7 @@
 title: Fibonacci in Ruby
 layout: default
 date: 2018-10-14
+featured-image: fibonacci-in-every-language.jpg
 last-modified: 2018-10-14
 
 ---

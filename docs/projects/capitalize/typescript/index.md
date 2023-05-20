@@ -2,6 +2,7 @@
 title: Capitalize in Typescript
 layout: default
 date: 2019-10-03
+featured-image: capitalize-in-every-language.jpg
 last-modified: 2019-10-03
 
 ---

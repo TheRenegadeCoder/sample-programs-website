@@ -2,6 +2,7 @@
 title: Even Odd in Groovy
 layout: default
 date: 2019-07-01
+featured-image: even-odd-in-every-language.jpg
 last-modified: 2019-07-01
 
 ---

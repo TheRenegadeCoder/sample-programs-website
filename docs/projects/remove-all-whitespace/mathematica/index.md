@@ -2,6 +2,7 @@
 title: Remove All Whitespace in Mathematica
 layout: default
 date: 2023-01-16
+featured-image: remove-all-whitespace-in-every-language.jpg
 last-modified: 2023-01-16
 
 ---

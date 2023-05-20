@@ -2,6 +2,7 @@
 title: Bubble Sort in Ruby
 layout: default
 date: 2019-03-20
+featured-image: bubble-sort-in-every-language.jpg
 last-modified: 2019-03-20
 
 ---

@@ -2,6 +2,7 @@
 title: Quine in Coffeescript
 layout: default
 date: 2020-10-04
+featured-image: quine-in-every-language.jpg
 last-modified: 2020-10-04
 
 ---

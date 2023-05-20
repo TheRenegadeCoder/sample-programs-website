@@ -2,6 +2,7 @@
 title: Convex Hull in Rust
 layout: default
 date: 2023-04-22
+featured-image: convex-hull-in-every-language.jpg
 last-modified: 2023-04-22
 
 ---

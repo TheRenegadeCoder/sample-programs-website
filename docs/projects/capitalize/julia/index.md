@@ -2,6 +2,7 @@
 title: Capitalize in Julia
 layout: default
 date: 2022-10-02
+featured-image: capitalize-in-every-language.jpg
 last-modified: 2022-10-02
 
 ---

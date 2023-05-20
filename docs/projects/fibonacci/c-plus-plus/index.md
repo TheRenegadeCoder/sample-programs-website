@@ -2,6 +2,7 @@
 title: Fibonacci in C++
 layout: default
 date: 2018-10-06
+featured-image: fibonacci-in-every-language.jpg
 last-modified: 2018-10-06
 
 ---

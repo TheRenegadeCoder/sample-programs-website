@@ -2,6 +2,7 @@
 title: Quine in C
 layout: default
 date: 2019-10-18
+featured-image: quine-in-every-language.jpg
 last-modified: 2019-10-18
 
 ---

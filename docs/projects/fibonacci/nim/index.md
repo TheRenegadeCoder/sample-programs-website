@@ -2,6 +2,7 @@
 title: Fibonacci in Nim
 layout: default
 date: 2019-10-16
+featured-image: fibonacci-in-every-language.jpg
 last-modified: 2019-10-16
 
 ---

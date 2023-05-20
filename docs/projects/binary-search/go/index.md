@@ -2,6 +2,7 @@
 title: Binary Search in Go
 layout: default
 date: 2019-10-24
+featured-image: binary-search-in-every-language.jpg
 last-modified: 2019-10-24
 
 ---

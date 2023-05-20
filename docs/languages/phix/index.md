@@ -3,7 +3,7 @@ title: The Phix Programming Language
 layout: default
 date: 2023-04-16
 last-modified: 2023-04-16
-feature-imaged: programming-languages.jpg
+featured-imaged: programming-languages.jpg
 tags: [phix]
 authors:
   - rzuckerm

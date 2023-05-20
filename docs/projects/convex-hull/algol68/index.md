@@ -2,6 +2,7 @@
 title: Convex Hull in Algol68
 layout: default
 date: 2023-02-14
+featured-image: convex-hull-in-every-language.jpg
 last-modified: 2023-02-14
 
 ---

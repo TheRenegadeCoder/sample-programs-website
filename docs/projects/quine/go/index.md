@@ -2,6 +2,7 @@
 title: Quine in Go
 layout: default
 date: 2019-03-17
+featured-image: quine-in-every-language.jpg
 last-modified: 2019-03-17
 
 ---

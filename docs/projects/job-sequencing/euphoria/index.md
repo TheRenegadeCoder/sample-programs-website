@@ -2,6 +2,7 @@
 title: Job Sequencing in Euphoria
 layout: default
 date: 2023-02-27
+featured-image: job-sequencing-in-every-language.jpg
 last-modified: 2023-02-27
 
 ---

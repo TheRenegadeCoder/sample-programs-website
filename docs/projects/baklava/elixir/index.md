@@ -2,6 +2,7 @@
 title: Baklava in Elixir
 layout: default
 date: 2019-05-22
+featured-image: baklava-in-every-language.jpg
 last-modified: 2019-05-22
 
 ---

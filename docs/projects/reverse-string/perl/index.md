@@ -2,6 +2,7 @@
 title: Reverse String in Perl
 layout: default
 date: 2018-08-22
+featured-image: reverse-string-in-every-language.jpg
 last-modified: 2018-08-22
 
 ---

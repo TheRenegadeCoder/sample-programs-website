@@ -2,6 +2,7 @@
 title: Merge Sort in C
 layout: default
 date: 2019-10-15
+featured-image: merge-sort-in-every-language.jpg
 last-modified: 2019-10-15
 
 ---

@@ -2,6 +2,7 @@
 title: Prime Number in C#
 layout: default
 date: 2018-12-30
+featured-image: prime-number-in-every-language.jpg
 last-modified: 2018-12-30
 
 ---

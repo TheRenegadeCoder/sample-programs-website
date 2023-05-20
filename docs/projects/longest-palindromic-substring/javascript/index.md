@@ -2,6 +2,7 @@
 title: Longest Palindromic Substring in Javascript
 layout: default
 date: 2020-10-17
+featured-image: longest-palindromic-substring-in-every-language.jpg
 last-modified: 2020-10-17
 
 ---

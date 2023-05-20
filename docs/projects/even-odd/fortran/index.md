@@ -2,6 +2,7 @@
 title: Even Odd in Fortran
 layout: default
 date: 2020-10-29
+featured-image: even-odd-in-every-language.jpg
 last-modified: 2020-10-29
 
 ---

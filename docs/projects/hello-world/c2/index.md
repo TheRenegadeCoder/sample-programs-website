@@ -2,6 +2,7 @@
 title: Hello World in C2
 layout: default
 date: 2021-05-25
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2021-05-25
 
 ---

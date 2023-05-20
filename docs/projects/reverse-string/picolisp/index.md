@@ -2,6 +2,7 @@
 title: Reverse String in Picolisp
 layout: default
 date: 2023-05-15
+featured-image: reverse-string-in-every-language.jpg
 last-modified: 2023-05-15
 
 ---

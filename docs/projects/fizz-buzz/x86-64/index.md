@@ -2,6 +2,7 @@
 title: Fizz Buzz in X86 64
 layout: default
 date: 2023-05-05
+featured-image: fizz-buzz-in-every-language.png
 last-modified: 2023-05-05
 
 ---

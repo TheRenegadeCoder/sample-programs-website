@@ -2,6 +2,7 @@
 title: Quine in Javascript
 layout: default
 date: 2020-09-25
+featured-image: quine-in-every-language.jpg
 last-modified: 2020-09-25
 
 ---

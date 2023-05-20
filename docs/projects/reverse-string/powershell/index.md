@@ -2,6 +2,7 @@
 title: Reverse String in Powershell
 layout: default
 date: 2018-05-28
+featured-image: reverse-string-in-every-language.jpg
 last-modified: 2018-05-28
 
 ---

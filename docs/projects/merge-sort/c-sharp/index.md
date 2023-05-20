@@ -2,6 +2,7 @@
 title: Merge Sort in C#
 layout: default
 date: 2018-12-30
+featured-image: merge-sort-in-every-language.jpg
 last-modified: 2018-12-30
 
 ---

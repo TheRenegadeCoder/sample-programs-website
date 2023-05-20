@@ -2,6 +2,7 @@
 title: Fizz Buzz in Objective C
 layout: default
 date: 2019-10-16
+featured-image: fizz-buzz-in-every-language.png
 last-modified: 2019-10-16
 
 ---

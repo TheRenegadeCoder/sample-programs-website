@@ -2,6 +2,7 @@
 title: Depth First Search in Algol68
 layout: default
 date: 2023-01-29
+featured-image: depth-first-search-in-every-language.jpg
 last-modified: 2023-01-29
 
 ---

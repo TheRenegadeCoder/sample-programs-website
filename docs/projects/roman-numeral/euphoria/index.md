@@ -2,6 +2,7 @@
 title: Roman Numeral in Euphoria
 layout: default
 date: 2023-02-25
+featured-image: roman-numeral-in-every-language.jpg
 last-modified: 2023-02-25
 
 ---

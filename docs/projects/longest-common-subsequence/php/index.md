@@ -2,6 +2,7 @@
 title: Longest Common Subsequence in Php
 layout: default
 date: 2023-03-27
+featured-image: longest-common-subsequence-in-every-language.jpg
 last-modified: 2023-03-27
 
 ---

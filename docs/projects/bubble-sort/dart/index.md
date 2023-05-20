@@ -2,6 +2,7 @@
 title: Bubble Sort in Dart
 layout: default
 date: 2019-10-18
+featured-image: bubble-sort-in-every-language.jpg
 last-modified: 2019-10-18
 
 ---

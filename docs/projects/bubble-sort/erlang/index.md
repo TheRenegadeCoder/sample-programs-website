@@ -2,6 +2,7 @@
 title: Bubble Sort in Erlang
 layout: default
 date: 2019-10-03
+featured-image: bubble-sort-in-every-language.jpg
 last-modified: 2019-10-03
 
 ---

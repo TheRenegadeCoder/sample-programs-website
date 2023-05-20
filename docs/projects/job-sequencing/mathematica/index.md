@@ -2,6 +2,7 @@
 title: Job Sequencing in Mathematica
 layout: default
 date: 2023-01-21
+featured-image: job-sequencing-in-every-language.jpg
 last-modified: 2023-01-21
 
 ---

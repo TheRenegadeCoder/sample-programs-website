@@ -2,6 +2,7 @@
 title: Baklava in Algol68
 layout: default
 date: 2023-01-18
+featured-image: baklava-in-every-language.jpg
 last-modified: 2023-01-18
 
 ---

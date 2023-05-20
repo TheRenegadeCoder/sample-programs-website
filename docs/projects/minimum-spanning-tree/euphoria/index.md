@@ -2,6 +2,7 @@
 title: Minimum Spanning Tree in Euphoria
 layout: default
 date: 2023-02-27
+featured-image: minimum-spanning-tree-in-every-language.jpg
 last-modified: 2023-02-27
 
 ---

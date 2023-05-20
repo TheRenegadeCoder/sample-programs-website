@@ -2,6 +2,7 @@
 title: Transpose Matrix in Euphoria
 layout: default
 date: 2023-02-27
+featured-image: transpose-matrix-in-every-language.jpg
 last-modified: 2023-02-27
 
 ---

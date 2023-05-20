@@ -2,6 +2,7 @@
 title: Even Odd in R
 layout: default
 date: 2021-10-22
+featured-image: even-odd-in-every-language.jpg
 last-modified: 2021-10-22
 
 ---

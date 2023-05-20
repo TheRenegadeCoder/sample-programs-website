@@ -2,6 +2,7 @@
 title: Linear Search in Javascript
 layout: default
 date: 2020-10-01
+featured-image: linear-search-in-every-language.jpg
 last-modified: 2020-10-01
 
 ---

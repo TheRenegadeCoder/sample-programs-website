@@ -2,6 +2,7 @@
 title: Depth First Search in Python
 layout: default
 date: 2021-11-12
+featured-image: depth-first-search-in-every-language.jpg
 last-modified: 2021-11-12
 
 ---

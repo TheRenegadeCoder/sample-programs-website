@@ -2,6 +2,7 @@
 title: Capitalize in Fortran
 layout: default
 date: 2020-10-29
+featured-image: capitalize-in-every-language.jpg
 last-modified: 2020-10-29
 
 ---

@@ -2,6 +2,7 @@
 title: Fizz Buzz in Typescript
 layout: default
 date: 2018-10-11
+featured-image: fizz-buzz-in-every-language.png
 last-modified: 2018-10-11
 
 ---

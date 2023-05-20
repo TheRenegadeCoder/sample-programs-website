@@ -2,6 +2,7 @@
 title: Linear Search in Php
 layout: default
 date: 2023-03-24
+featured-image: linear-search-in-every-language.jpg
 last-modified: 2023-03-24
 
 ---

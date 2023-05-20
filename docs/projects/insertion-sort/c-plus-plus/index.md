@@ -2,7 +2,7 @@
 title: Insertion Sort in C++
 layout: default
 last-modified: 2020-05-02
-featured-image: insertion-sort-in-every-language.jpg
+featured-imaged: insertion-sort-in-every-language.jpg
 tags: [c-plus-plus, insertion-sort]
 authors:
   - sun-fox

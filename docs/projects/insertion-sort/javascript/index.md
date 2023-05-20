@@ -2,6 +2,7 @@
 title: Insertion Sort in Javascript
 layout: default
 date: 2019-10-10
+featured-image: insertion-sort-in-every-language.jpg
 last-modified: 2019-10-10
 
 ---

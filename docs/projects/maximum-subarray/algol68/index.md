@@ -2,6 +2,7 @@
 title: Maximum Subarray in Algol68
 layout: default
 date: 2023-02-06
+featured-image: maximum-subarray-in-every-language.jpg
 last-modified: 2023-02-06
 
 ---

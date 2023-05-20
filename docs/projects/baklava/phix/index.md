@@ -2,6 +2,7 @@
 title: Baklava in Phix
 layout: default
 date: 2021-05-07
+featured-image: baklava-in-every-language.jpg
 last-modified: 2021-05-07
 
 ---

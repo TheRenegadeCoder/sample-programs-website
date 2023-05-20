@@ -2,6 +2,7 @@
 title: Hello World in Ballerina
 layout: default
 date: 2018-06-15
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2018-06-15
 
 ---

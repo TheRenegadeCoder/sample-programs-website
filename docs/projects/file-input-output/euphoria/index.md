@@ -2,6 +2,7 @@
 title: File Input Output in Euphoria
 layout: default
 date: 2023-02-16
+featured-image: file-input-output-in-every-language.jpg
 last-modified: 2023-02-16
 
 ---

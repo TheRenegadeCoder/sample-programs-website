@@ -2,6 +2,7 @@
 title: Hello World in Mojiscript
 layout: default
 date: 2018-10-15
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2018-10-15
 
 ---

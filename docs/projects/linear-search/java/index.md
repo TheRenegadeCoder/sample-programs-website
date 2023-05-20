@@ -2,6 +2,7 @@
 title: Linear Search in Java
 layout: default
 date: 2020-10-05
+featured-image: linear-search-in-every-language.jpg
 last-modified: 2020-10-05
 
 ---

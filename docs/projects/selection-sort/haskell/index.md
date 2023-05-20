@@ -2,6 +2,7 @@
 title: Selection Sort in Haskell
 layout: default
 date: 2018-12-02
+featured-image: selection-sort-in-every-language.jpg
 last-modified: 2018-12-02
 
 ---

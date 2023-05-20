@@ -2,6 +2,7 @@
 title: Reverse String in Solisp
 layout: default
 date: 2020-03-05
+featured-image: reverse-string-in-every-language.jpg
 last-modified: 2020-03-05
 
 ---

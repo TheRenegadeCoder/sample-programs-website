@@ -2,6 +2,7 @@
 title: Transpose Matrix in Php
 layout: default
 date: 2023-03-27
+featured-image: transpose-matrix-in-every-language.jpg
 last-modified: 2023-03-27
 
 ---

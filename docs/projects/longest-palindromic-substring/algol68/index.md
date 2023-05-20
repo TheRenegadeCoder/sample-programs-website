@@ -2,6 +2,7 @@
 title: Longest Palindromic Substring in Algol68
 layout: default
 date: 2023-02-13
+featured-image: longest-palindromic-substring-in-every-language.jpg
 last-modified: 2023-02-13
 
 ---

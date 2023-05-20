@@ -2,6 +2,7 @@
 title: Rot13 in Haskell
 layout: default
 date: 2018-11-20
+featured-image: rot13-in-every-language.jpg
 last-modified: 2018-11-20
 
 ---

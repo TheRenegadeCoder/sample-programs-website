@@ -2,6 +2,7 @@
 title: Quine in Haskell
 layout: default
 date: 2018-11-19
+featured-image: quine-in-every-language.jpg
 last-modified: 2018-11-19
 
 ---

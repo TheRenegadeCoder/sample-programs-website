@@ -2,6 +2,7 @@
 title: Fizz Buzz in Vimscript
 layout: default
 date: 2018-08-28
+featured-image: fizz-buzz-in-every-language.png
 last-modified: 2018-08-28
 
 ---

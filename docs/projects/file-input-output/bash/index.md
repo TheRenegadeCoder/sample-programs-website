@@ -2,6 +2,7 @@
 title: File Input Output in Bash
 layout: default
 date: 2018-10-28
+featured-image: file-input-output-in-every-language.jpg
 last-modified: 2018-10-28
 
 ---

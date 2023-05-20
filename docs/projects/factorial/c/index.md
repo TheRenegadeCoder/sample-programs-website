@@ -2,6 +2,7 @@
 title: Factorial in C
 layout: default
 date: 2018-10-26
+featured-image: factorial-in-every-language.jpg
 last-modified: 2018-10-26
 
 ---

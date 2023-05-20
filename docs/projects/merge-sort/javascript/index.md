@@ -2,6 +2,7 @@
 title: Merge Sort in Javascript
 layout: default
 date: 2019-10-31
+featured-image: merge-sort-in-every-language.jpg
 last-modified: 2019-10-31
 
 ---

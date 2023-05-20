@@ -2,7 +2,7 @@
 title: The Ruby Programming Language
 layout: default
 last-modified: 2021-08-12
-feature-imaged: programming-languages.jpg
+featured-imaged: programming-languages.jpg
 tags: [ruby]
 authors:
   - the_renegade_coder

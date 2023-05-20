@@ -2,6 +2,7 @@
 title: Fraction Math in Algol68
 layout: default
 date: 2023-02-01
+featured-image: fraction-math-in-every-language.jpg
 last-modified: 2023-02-01
 
 ---

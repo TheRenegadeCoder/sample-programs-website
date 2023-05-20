@@ -2,6 +2,7 @@
 title: Remove All Whitespace in Julia
 layout: default
 date: 2022-10-05
+featured-image: remove-all-whitespace-in-every-language.jpg
 last-modified: 2022-10-05
 
 ---

@@ -2,6 +2,7 @@
 title: Capitalize in Pascal
 layout: default
 date: 2020-10-17
+featured-image: capitalize-in-every-language.jpg
 last-modified: 2020-10-17
 
 ---

@@ -2,6 +2,7 @@
 title: Minimum Spanning Tree in Mathematica
 layout: default
 date: 2023-01-18
+featured-image: minimum-spanning-tree-in-every-language.jpg
 last-modified: 2023-01-18
 
 ---

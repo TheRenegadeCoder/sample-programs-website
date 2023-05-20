@@ -2,6 +2,7 @@
 title: Baklava in Ada
 layout: default
 date: 2021-10-29
+featured-image: baklava-in-every-language.jpg
 last-modified: 2021-10-29
 
 ---

@@ -2,6 +2,7 @@
 title: Selection Sort in Rust
 layout: default
 date: 2023-04-06
+featured-image: selection-sort-in-every-language.jpg
 last-modified: 2023-04-06
 
 ---

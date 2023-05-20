@@ -2,6 +2,7 @@
 title: Transpose Matrix in Python
 layout: default
 date: 2022-05-13
+featured-image: transpose-matrix-in-every-language.jpg
 last-modified: 2022-05-13
 
 ---

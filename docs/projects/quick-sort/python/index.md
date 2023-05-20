@@ -2,7 +2,7 @@
 title: Quick Sort in Python
 layout: default
 last-modified: 2020-05-02
-featured-image: quick-sort-in-every-language.jpg
+featured-imaged: quick-sort-in-every-language.jpg
 tags: [python, quick-sort]
 authors:
   - hmajid2301

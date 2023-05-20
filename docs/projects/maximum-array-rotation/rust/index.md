@@ -2,6 +2,7 @@
 title: Maximum Array Rotation in Rust
 layout: default
 date: 2023-04-09
+featured-image: maximum-array-rotation-in-every-language.jpg
 last-modified: 2023-04-09
 
 ---

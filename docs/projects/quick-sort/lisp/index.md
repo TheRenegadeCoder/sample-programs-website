@@ -2,6 +2,7 @@
 title: Quick Sort in Lisp
 layout: default
 date: 2020-10-04
+featured-image: quick-sort-in-every-language.jpg
 last-modified: 2020-10-04
 
 ---

@@ -2,6 +2,7 @@
 title: Bubble Sort in C#
 layout: default
 date: 2018-12-28
+featured-image: bubble-sort-in-every-language.jpg
 last-modified: 2018-12-28
 
 ---

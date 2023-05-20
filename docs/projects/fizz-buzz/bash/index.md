@@ -2,6 +2,7 @@
 title: Fizz Buzz in Bash
 layout: default
 date: 2018-08-31
+featured-image: fizz-buzz-in-every-language.png
 last-modified: 2018-08-31
 
 ---

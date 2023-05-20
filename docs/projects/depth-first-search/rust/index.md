@@ -2,6 +2,7 @@
 title: Depth First Search in Rust
 layout: default
 date: 2023-04-11
+featured-image: depth-first-search-in-every-language.jpg
 last-modified: 2023-04-11
 
 ---

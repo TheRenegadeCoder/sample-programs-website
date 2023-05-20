@@ -2,6 +2,7 @@
 title: Baklava in Julia
 layout: default
 date: 2018-10-04
+featured-image: baklava-in-every-language.jpg
 last-modified: 2018-10-04
 
 ---

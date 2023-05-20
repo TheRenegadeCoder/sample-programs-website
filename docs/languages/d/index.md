@@ -3,7 +3,7 @@ title: The D Programming Language
 layout: default
 date: 2020-05-02
 last-modified: 2022-05-18
-feature-imaged: programming-languages.jpg
+featured-imaged: programming-languages.jpg
 tags: [d]
 authors:
   - the_renegade_coder

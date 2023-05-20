@@ -3,7 +3,7 @@ title: The Java Programming Language
 layout: default
 date: 2021-08-12
 last-modified: 2022-05-11
-feature-imaged: programming-languages.jpg
+featured-imaged: programming-languages.jpg
 tags: [java]
 authors:
   - the_renegade_coder

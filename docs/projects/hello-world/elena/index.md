@@ -2,6 +2,7 @@
 title: Hello World in Elena
 layout: default
 date: 2018-05-03
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2018-05-03
 
 ---

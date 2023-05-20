@@ -2,6 +2,7 @@
 title: Linear Search in Rust
 layout: default
 date: 2023-04-09
+featured-image: linear-search-in-every-language.jpg
 last-modified: 2023-04-09
 
 ---

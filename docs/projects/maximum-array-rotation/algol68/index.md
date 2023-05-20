@@ -2,6 +2,7 @@
 title: Maximum Array Rotation in Algol68
 layout: default
 date: 2023-02-01
+featured-image: maximum-array-rotation-in-every-language.jpg
 last-modified: 2023-02-01
 
 ---

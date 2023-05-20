@@ -2,6 +2,7 @@
 title: Fibonacci in Swift
 layout: default
 date: 2020-10-11
+featured-image: fibonacci-in-every-language.jpg
 last-modified: 2020-10-11
 
 ---

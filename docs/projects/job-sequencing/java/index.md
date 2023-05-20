@@ -2,6 +2,7 @@
 title: Job Sequencing in Java
 layout: default
 date: 2019-10-17
+featured-image: job-sequencing-in-every-language.jpg
 last-modified: 2019-10-17
 
 ---

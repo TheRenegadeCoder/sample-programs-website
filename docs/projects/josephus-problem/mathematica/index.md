@@ -2,6 +2,7 @@
 title: Josephus Problem in Mathematica
 layout: default
 date: 2023-01-20
+featured-image: josephus-problem-in-every-language.jpg
 last-modified: 2023-01-20
 
 ---

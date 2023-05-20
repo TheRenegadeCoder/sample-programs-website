@@ -2,6 +2,7 @@
 title: Quine in C#
 layout: default
 date: 2018-12-30
+featured-image: quine-in-every-language.jpg
 last-modified: 2018-12-30
 
 ---

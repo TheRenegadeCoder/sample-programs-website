@@ -2,6 +2,7 @@
 title: Insertion Sort in Go
 layout: default
 date: 2019-03-15
+featured-image: insertion-sort-in-every-language.jpg
 last-modified: 2019-03-15
 
 ---

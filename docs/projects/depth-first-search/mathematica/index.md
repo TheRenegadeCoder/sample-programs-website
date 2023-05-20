@@ -2,6 +2,7 @@
 title: Depth First Search in Mathematica
 layout: default
 date: 2023-01-21
+featured-image: depth-first-search-in-every-language.jpg
 last-modified: 2023-01-21
 
 ---

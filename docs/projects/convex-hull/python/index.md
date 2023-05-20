@@ -2,6 +2,7 @@
 title: Convex Hull in Python
 layout: default
 date: 2019-10-22
+featured-image: convex-hull-in-every-language.jpg
 last-modified: 2019-10-22
 
 ---

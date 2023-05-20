@@ -3,7 +3,7 @@ title: Prime Number in C
 layout: default  
 date: 2021-10-26
 last-modified: 2021-10-26
-featured-image: prime-number-in-every-language.jpg
+featured-imaged: prime-number-in-every-language.jpg
 tags: [c, prime-number]  
 authors:
 - shubhragupta-code

@@ -2,6 +2,7 @@
 title: Longest Word in Algol68
 layout: default
 date: 2023-01-24
+featured-image: longest-word-in-every-language.jpg
 last-modified: 2023-01-24
 
 ---

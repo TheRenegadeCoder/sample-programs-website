@@ -2,6 +2,7 @@
 title: Capitalize in C++
 layout: default
 date: 2019-10-09
+featured-image: capitalize-in-every-language.jpg
 last-modified: 2019-10-09
 
 ---

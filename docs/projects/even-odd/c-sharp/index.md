@@ -2,6 +2,7 @@
 title: Even Odd in C#
 layout: default
 date: 2018-12-28
+featured-image: even-odd-in-every-language.jpg
 last-modified: 2018-12-28
 
 ---

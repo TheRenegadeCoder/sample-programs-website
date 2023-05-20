@@ -2,6 +2,7 @@
 title: Reverse String in Vimscript
 layout: default
 date: 2018-08-27
+featured-image: reverse-string-in-every-language.jpg
 last-modified: 2018-08-27
 
 ---

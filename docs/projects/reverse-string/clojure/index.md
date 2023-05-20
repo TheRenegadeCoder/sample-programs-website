@@ -2,6 +2,7 @@
 title: Reverse String in Clojure
 layout: default
 date: 2019-10-11
+featured-image: reverse-string-in-every-language.jpg
 last-modified: 2019-10-11
 
 ---

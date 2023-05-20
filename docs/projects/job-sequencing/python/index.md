@@ -2,6 +2,7 @@
 title: Job Sequencing in Python
 layout: default
 date: 2018-11-19
+featured-image: job-sequencing-in-every-language.jpg
 last-modified: 2018-11-19
 
 ---

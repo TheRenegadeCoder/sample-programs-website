@@ -2,6 +2,7 @@
 title: Maximum Array Rotation in Mathematica
 layout: default
 date: 2023-01-19
+featured-image: maximum-array-rotation-in-every-language.jpg
 last-modified: 2023-01-19
 
 ---

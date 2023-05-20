@@ -2,6 +2,7 @@
 title: Duplicate Character Counter in Euphoria
 layout: default
 date: 2023-02-19
+featured-image: duplicate-character-counter-in-every-language.jpg
 last-modified: 2023-02-19
 
 ---

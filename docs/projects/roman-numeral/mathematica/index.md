@@ -2,6 +2,7 @@
 title: Roman Numeral in Mathematica
 layout: default
 date: 2023-01-16
+featured-image: roman-numeral-in-every-language.jpg
 last-modified: 2023-01-16
 
 ---

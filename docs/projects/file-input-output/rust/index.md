@@ -2,6 +2,7 @@
 title: File Input Output in Rust
 layout: default
 date: 2018-09-13
+featured-image: file-input-output-in-every-language.jpg
 last-modified: 2018-09-13
 
 ---

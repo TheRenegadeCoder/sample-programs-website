@@ -2,6 +2,7 @@
 title: Binary Search in Rust
 layout: default
 date: 2020-10-03
+featured-image: binary-search-in-every-language.jpg
 last-modified: 2020-10-03
 
 ---

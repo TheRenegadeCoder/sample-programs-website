@@ -2,6 +2,7 @@
 title: Reverse String in C++
 layout: default
 date: 2018-09-14
+featured-image: reverse-string-in-every-language.jpg
 last-modified: 2018-09-14
 
 ---

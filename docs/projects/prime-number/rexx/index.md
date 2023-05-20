@@ -2,6 +2,7 @@
 title: Prime Number in Rexx
 layout: default
 date: 2020-10-07
+featured-image: prime-number-in-every-language.jpg
 last-modified: 2020-10-07
 
 ---

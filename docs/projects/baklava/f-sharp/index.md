@@ -2,6 +2,7 @@
 title: Baklava in F#
 layout: default
 date: 2019-09-12
+featured-image: baklava-in-every-language.jpg
 last-modified: 2019-09-12
 
 ---

@@ -2,6 +2,7 @@
 title: Merge Sort in Matlab
 layout: default
 date: 2020-10-08
+featured-image: merge-sort-in-every-language.jpg
 last-modified: 2020-10-08
 
 ---

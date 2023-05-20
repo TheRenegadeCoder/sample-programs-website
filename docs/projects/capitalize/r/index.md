@@ -2,6 +2,7 @@
 title: Capitalize in R
 layout: default
 date: 2020-10-19
+featured-image: capitalize-in-every-language.jpg
 last-modified: 2020-10-19
 
 ---

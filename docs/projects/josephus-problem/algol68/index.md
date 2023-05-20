@@ -2,6 +2,7 @@
 title: Josephus Problem in Algol68
 layout: default
 date: 2023-01-24
+featured-image: josephus-problem-in-every-language.jpg
 last-modified: 2023-01-24
 
 ---

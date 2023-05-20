@@ -2,6 +2,7 @@
 title: Palindromic Number in Algol68
 layout: default
 date: 2023-01-24
+featured-image: palindromic-number-in-every-language.jpg
 last-modified: 2023-01-24
 
 ---

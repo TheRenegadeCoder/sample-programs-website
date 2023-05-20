@@ -2,6 +2,7 @@
 title: Sleep Sort in Algol68
 layout: default
 date: 2023-02-14
+featured-image: sleep-sort-in-every-language.jpg
 last-modified: 2023-02-14
 
 ---

@@ -2,6 +2,7 @@
 title: Hello World in Granule
 layout: default
 date: 2022-12-06
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2022-12-06
 
 ---

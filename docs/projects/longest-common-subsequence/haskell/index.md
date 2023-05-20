@@ -2,6 +2,7 @@
 title: Longest Common Subsequence in Haskell
 layout: default
 date: 2018-10-20
+featured-image: longest-common-subsequence-in-every-language.jpg
 last-modified: 2018-10-20
 
 ---

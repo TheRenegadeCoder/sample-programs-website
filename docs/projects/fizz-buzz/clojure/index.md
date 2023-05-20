@@ -2,6 +2,7 @@
 title: Fizz Buzz in Clojure
 layout: default
 date: 2020-10-04
+featured-image: fizz-buzz-in-every-language.png
 last-modified: 2020-10-04
 
 ---

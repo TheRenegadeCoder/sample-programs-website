@@ -2,6 +2,7 @@
 title: Longest Word in Mathematica
 layout: default
 date: 2023-01-16
+featured-image: longest-word-in-every-language.jpg
 last-modified: 2023-01-16
 
 ---

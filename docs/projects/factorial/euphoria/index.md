@@ -2,6 +2,7 @@
 title: Factorial in Euphoria
 layout: default
 date: 2023-02-19
+featured-image: factorial-in-every-language.jpg
 last-modified: 2023-02-19
 
 ---

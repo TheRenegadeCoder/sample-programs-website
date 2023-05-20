@@ -2,6 +2,7 @@
 title: Fraction Math in Mathematica
 layout: default
 date: 2023-01-21
+featured-image: fraction-math-in-every-language.jpg
 last-modified: 2023-01-21
 
 ---

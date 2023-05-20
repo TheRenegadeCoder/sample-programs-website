@@ -2,6 +2,7 @@
 title: Reverse String in Haskell
 layout: default
 date: 2018-10-17
+featured-image: reverse-string-in-every-language.jpg
 last-modified: 2018-10-17
 
 ---

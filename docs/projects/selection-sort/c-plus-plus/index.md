@@ -2,6 +2,7 @@
 title: Selection Sort in C++
 layout: default
 date: 2019-10-23
+featured-image: selection-sort-in-every-language.jpg
 last-modified: 2019-10-23
 
 ---

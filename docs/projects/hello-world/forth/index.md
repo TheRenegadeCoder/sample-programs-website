@@ -2,6 +2,7 @@
 title: Hello World in Forth
 layout: default
 date: 2018-04-27
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2018-04-27
 
 ---

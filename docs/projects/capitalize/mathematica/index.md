@@ -2,6 +2,7 @@
 title: Capitalize in Mathematica
 layout: default
 date: 2023-01-16
+featured-image: capitalize-in-every-language.jpg
 last-modified: 2023-01-16
 
 ---

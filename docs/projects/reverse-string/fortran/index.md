@@ -2,6 +2,7 @@
 title: Reverse String in Fortran
 layout: default
 date: 2020-10-27
+featured-image: reverse-string-in-every-language.jpg
 last-modified: 2020-10-27
 
 ---

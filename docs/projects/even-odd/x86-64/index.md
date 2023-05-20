@@ -2,6 +2,7 @@
 title: Even Odd in X86 64
 layout: default
 date: 2023-05-07
+featured-image: even-odd-in-every-language.jpg
 last-modified: 2023-05-07
 
 ---

@@ -2,6 +2,7 @@
 title: Josephus Problem in Python
 layout: default
 date: 2022-12-30
+featured-image: josephus-problem-in-every-language.jpg
 last-modified: 2022-12-30
 
 ---

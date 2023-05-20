@@ -2,6 +2,7 @@
 title: Factorial in D
 layout: default
 date: 2020-10-04
+featured-image: factorial-in-every-language.jpg
 last-modified: 2020-10-04
 
 ---

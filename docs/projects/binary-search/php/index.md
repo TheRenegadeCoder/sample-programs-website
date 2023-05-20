@@ -2,6 +2,7 @@
 title: Binary Search in Php
 layout: default
 date: 2023-03-21
+featured-image: binary-search-in-every-language.jpg
 last-modified: 2023-03-21
 
 ---

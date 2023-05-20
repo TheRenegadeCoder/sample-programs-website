@@ -2,6 +2,7 @@
 title: Convex Hull in Euphoria
 layout: default
 date: 2023-02-25
+featured-image: convex-hull-in-every-language.jpg
 last-modified: 2023-02-25
 
 ---

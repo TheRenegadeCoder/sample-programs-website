@@ -2,6 +2,7 @@
 title: Baklava in Lisp
 layout: default
 date: 2019-11-09
+featured-image: baklava-in-every-language.jpg
 last-modified: 2019-11-09
 
 ---

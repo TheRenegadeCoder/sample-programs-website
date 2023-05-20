@@ -2,6 +2,7 @@
 title: Hello World in Formality
 layout: default
 date: 2019-10-10
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2019-10-10
 
 ---

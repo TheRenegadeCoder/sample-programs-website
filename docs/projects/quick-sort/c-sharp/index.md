@@ -2,6 +2,7 @@
 title: Quick Sort in C#
 layout: default
 date: 2018-12-30
+featured-image: quick-sort-in-every-language.jpg
 last-modified: 2018-12-30
 
 ---

@@ -2,6 +2,7 @@
 title: Selection Sort in Julia
 layout: default
 date: 2020-10-01
+featured-image: selection-sort-in-every-language.jpg
 last-modified: 2020-10-01
 
 ---

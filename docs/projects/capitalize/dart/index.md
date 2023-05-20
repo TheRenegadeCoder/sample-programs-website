@@ -2,7 +2,7 @@
 title: Capitalize in Dart
 layout: default
 last-modified: 2020-05-02
-featured-image: capitalize-in-every-language.jpg
+featured-imaged: capitalize-in-every-language.jpg
 tags: [dart, capitalize]
 authors:
   - slashdoom

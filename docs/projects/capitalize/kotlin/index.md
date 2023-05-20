@@ -2,6 +2,7 @@
 title: Capitalize in Kotlin
 layout: default
 date: 2019-10-11
+featured-image: capitalize-in-every-language.jpg
 last-modified: 2019-10-11
 
 ---

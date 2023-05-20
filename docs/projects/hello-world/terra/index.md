@@ -2,6 +2,7 @@
 title: Hello World in Terra
 layout: default
 date: 2021-05-24
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2021-05-24
 
 ---

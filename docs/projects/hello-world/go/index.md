@@ -2,6 +2,7 @@
 title: Hello World in Go
 layout: default
 date: 2018-03-25
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2018-03-25
 
 ---

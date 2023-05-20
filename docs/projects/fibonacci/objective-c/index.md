@@ -2,6 +2,7 @@
 title: Fibonacci in Objective C
 layout: default
 date: 2020-10-01
+featured-image: fibonacci-in-every-language.jpg
 last-modified: 2020-10-01
 
 ---

@@ -2,6 +2,7 @@
 title: Capitalize in Lua
 layout: default
 date: 2019-10-17
+featured-image: capitalize-in-every-language.jpg
 last-modified: 2019-10-17
 
 ---

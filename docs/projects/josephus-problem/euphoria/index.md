@@ -2,6 +2,7 @@
 title: Josephus Problem in Euphoria
 layout: default
 date: 2023-02-25
+featured-image: josephus-problem-in-every-language.jpg
 last-modified: 2023-02-25
 
 ---

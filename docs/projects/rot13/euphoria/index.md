@@ -2,6 +2,7 @@
 title: Rot13 in Euphoria
 layout: default
 date: 2023-02-17
+featured-image: rot13-in-every-language.jpg
 last-modified: 2023-02-17
 
 ---

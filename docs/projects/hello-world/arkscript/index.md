@@ -2,6 +2,7 @@
 title: Hello World in Arkscript
 layout: default
 date: 2020-10-03
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2020-10-03
 
 ---

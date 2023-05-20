@@ -2,7 +2,7 @@
 title: Fizz Buzz in Python
 layout: default
 last-modified: 2020-05-02
-featured-image: fizz-buzz-in-every-language.png
+featured-imaged: fizz-buzz-in-every-language.png
 tags: [python, fizz-buzz]
 authors:
   - samdoj

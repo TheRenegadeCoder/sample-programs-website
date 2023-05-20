@@ -2,6 +2,7 @@
 title: Factorial in Go
 layout: default
 date: 2019-02-24
+featured-image: factorial-in-every-language.jpg
 last-modified: 2019-02-24
 
 ---

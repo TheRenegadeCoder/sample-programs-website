@@ -3,7 +3,7 @@ title: Capitalize in Python
 layout: default
 date: 2021-10-24
 last-modified: 2021-10-24
-featured-image: capitalize-in-every-language.jpg
+featured-imaged: capitalize-in-every-language.jpg
 tags: [capitalize, python]
 authors: [shubhragupta-code]
 

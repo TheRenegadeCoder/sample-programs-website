@@ -2,6 +2,7 @@
 title: Job Sequencing in Php
 layout: default
 date: 2019-10-28
+featured-image: job-sequencing-in-every-language.jpg
 last-modified: 2019-10-28
 
 ---

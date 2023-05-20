@@ -2,6 +2,7 @@
 title: Job Sequencing in Rust
 layout: default
 date: 2023-04-15
+featured-image: job-sequencing-in-every-language.jpg
 last-modified: 2023-04-15
 
 ---

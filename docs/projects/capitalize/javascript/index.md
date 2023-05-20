@@ -2,6 +2,7 @@
 title: Capitalize in Javascript
 layout: default
 date: 2019-03-31
+featured-image: capitalize-in-every-language.jpg
 last-modified: 2019-03-31
 
 ---

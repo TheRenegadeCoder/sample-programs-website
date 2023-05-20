@@ -2,6 +2,7 @@
 title: Hello World in Autohotkey
 layout: default
 date: 2023-04-06
+featured-image: hello-world-in-every-language.jpg
 last-modified: 2023-04-06
 
 ---

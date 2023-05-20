@@ -2,6 +2,7 @@
 title: Job Sequencing in Javascript
 layout: default
 date: 2020-10-07
+featured-image: job-sequencing-in-every-language.jpg
 last-modified: 2020-10-07
 
 ---

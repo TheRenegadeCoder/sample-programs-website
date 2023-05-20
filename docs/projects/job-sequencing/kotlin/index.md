@@ -2,6 +2,7 @@
 title: Job Sequencing in Kotlin
 layout: default
 date: 2020-10-08
+featured-image: job-sequencing-in-every-language.jpg
 last-modified: 2020-10-08
 
 ---

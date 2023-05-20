@@ -2,6 +2,7 @@
 title: Quine in Mathematica
 layout: default
 date: 2023-01-17
+featured-image: quine-in-every-language.jpg
 last-modified: 2023-01-17
 
 ---

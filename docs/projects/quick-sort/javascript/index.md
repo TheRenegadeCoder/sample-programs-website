@@ -2,6 +2,7 @@
 title: Quick Sort in Javascript
 layout: default
 date: 2019-10-16
+featured-image: quick-sort-in-every-language.jpg
 last-modified: 2019-10-16
 
 ---

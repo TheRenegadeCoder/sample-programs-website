@@ -2,6 +2,7 @@
 title: Longest Word in Go
 layout: default
 date: 2023-03-19
+featured-image: longest-word-in-every-language.jpg
 last-modified: 2023-03-19
 
 ---

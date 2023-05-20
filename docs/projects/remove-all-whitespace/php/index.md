@@ -2,6 +2,7 @@
 title: Remove All Whitespace in Php
 layout: default
 date: 2023-03-23
+featured-image: remove-all-whitespace-in-every-language.jpg
 last-modified: 2023-03-23
 
 ---

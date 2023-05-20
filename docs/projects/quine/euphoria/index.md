@@ -2,6 +2,7 @@
 title: Quine in Euphoria
 layout: default
 date: 2023-02-15
+featured-image: quine-in-every-language.jpg
 last-modified: 2023-02-15
 
 ---

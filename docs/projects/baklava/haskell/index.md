@@ -2,6 +2,7 @@
 title: Baklava in Haskell
 layout: default
 date: 2018-10-20
+featured-image: baklava-in-every-language.jpg
 last-modified: 2018-10-20
 
 ---

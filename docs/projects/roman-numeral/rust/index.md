@@ -2,6 +2,7 @@
 title: Roman Numeral in Rust
 layout: default
 date: 2018-10-12
+featured-image: roman-numeral-in-every-language.jpg
 last-modified: 2018-10-12
 
 ---

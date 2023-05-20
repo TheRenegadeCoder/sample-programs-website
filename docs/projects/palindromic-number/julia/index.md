@@ -2,6 +2,7 @@
 title: Palindromic Number in Julia
 layout: default
 date: 2022-10-11
+featured-image: palindromic-number-in-every-language.jpg
 last-modified: 2022-10-11
 
 ---

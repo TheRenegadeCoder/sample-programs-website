@@ -2,6 +2,7 @@
 title: Roman Numeral in Go
 layout: default
 date: 2018-10-25
+featured-image: roman-numeral-in-every-language.jpg
 last-modified: 2018-10-25
 
 ---

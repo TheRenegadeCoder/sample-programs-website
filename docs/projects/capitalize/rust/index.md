@@ -2,6 +2,7 @@
 title: Capitalize in Rust
 layout: default
 date: 2019-10-26
+featured-image: capitalize-in-every-language.jpg
 last-modified: 2019-10-26
 
 ---
