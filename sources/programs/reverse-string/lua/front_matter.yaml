@@ -1,7 +1,7 @@
 title: Reverse a String in Lua
 layout: default
 last-modified: 2020-05-02
-featured-image: reverse-string-in-every-language.jpg
+featured-image:
 tags: [lua, reverse-string]
 authors:
   - wileymab

@@ -131,7 +131,7 @@ def _generate_front_matter(
         front_matter = source_path.read_text(encoding="utf-8").strip()
         for line in front_matter.splitlines():
             if line.strip() == "featured-image:" and image:
-                line = "feature-imaged: " + image
+                line = f"featured-imaged: {image}"
 
             raw += f"{line}\n"
     else:
@@ -161,7 +161,8 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         doc, 
         root_path / "front_matter.yaml", 
         str(program), 
-        created_at=program.created()
+        created_at=program.created(),
+        image=_get_default_program_image(program)
     )
     doc.add_paragraph(
         f"Welcome to the {program} page! Here, you'll find the source code for this program "
@@ -220,6 +221,23 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         log.exception(f"Failed to write {path}")
 
 
+def _get_default_program_image(program: subete.SampleProgram) -> str:
+    """
+    Gets the filename of the default image for a sample project
+
+    :param subete.SampleProgram program: the sample program to get the default image for.
+    :return: Filename of image if found, None otherwise
+    """
+
+    image_path: pathlib.Path = pathlib.Path("sources/images")
+    filename_no_ext = f"{program.project_pathlike_name()}-in-every-language"
+    for path in image_path.iterdir():
+        if path.stem == filename_no_ext:
+            return path.name
+        
+    return None
+
+
 def _generate_project_index(project: subete.Project, previous: subete.Project, next: subete.Project):
     """
     Creates an index file for a single project. The path is assumed
@@ -247,7 +265,7 @@ def _generate_project_index(project: subete.Project, previous: subete.Project, n
     if not project.has_testing():
         doc.add_block(snakemd.Paragraph([
             snakemd.Inline("Note:", bold=True),
-            f" {project.name()} is not currently tested by Glotter. Consider contributing!"
+            f" {project.name()} is not currently tested by Glotter2. Consider contributing!"
         ]))
     _add_project_article_section(doc, repo, project)
     doc.add_horizontal_rule()
