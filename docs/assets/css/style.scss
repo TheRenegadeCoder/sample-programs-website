@@ -8,6 +8,11 @@ $brand-color: #c90229;
 
 @import "{{ site.theme }}";
 
+@font-face {
+  font-family: "Bernard HC";
+  src: url("../fonts/BERNHC.TTF");
+}
+
 sup {
   vertical-align: super;
   font-size: smaller;
@@ -102,6 +107,32 @@ section {
 
 img {
   max-width: 95%;
+}
+
+.featured-image {
+  position: relative;
+  width: 100%;
+}
+
+.featured-image img {
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+  max-width: 100%;
+}
+
+.image-container {
+  position: absolute;
+  right: 0px;
+}
+
+.image-title {
+  background-color: $header-bg-color;
+  color: white;
+  font-family: "Bernard HC";
+  text-align: right;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 
 @media print, screen and (max-width: 1200px) {
