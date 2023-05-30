@@ -32,8 +32,6 @@ function image_titler() {
         return;
     }
 
-    console.log(`image_size = ${image_width}x${image_height}`);
-
     // Save image size
     prev_image_width = image_width;
     prev_image_height = image_height;
@@ -49,7 +47,6 @@ function _draw_image_title(image_text, image_width, image_height) {
 
     // Get font size and font height
     const font_size = _get_appropriate_font_size(image_height);
-    console.log(`font_size=${font_size}`);
 
     // Split up image text into individual lines around middle (if more than one word)
     const image_lines = _split_string_by_nearest_middle_space(image_text);
