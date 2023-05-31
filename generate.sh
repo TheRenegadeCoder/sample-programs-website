@@ -12,7 +12,7 @@ logo=icon-small.png
 for file in "$sources"*
 do
     echo "- Processing ${file}"
-    image-titler --path "$file" --output "$images" --logo "$images$logo"
+    image-titler --path "$file" --output "$images" --logo "$images$logo" --no_title
     filename=$(basename "$file")
     edit=$(cd "$images" && ls -t | head -n1)
     mv "$images$edit" "$images$filename" 
