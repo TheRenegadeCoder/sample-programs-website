@@ -131,7 +131,7 @@ def _generate_front_matter(
         front_matter = source_path.read_text(encoding="utf-8").strip()
         for line in front_matter.splitlines():
             if line.strip() == "featured-image:" and image:
-                line = f"featured-imaged: {image}"
+                line = f"featured-image: {image}"
 
             raw += f"{line}\n"
     else:
