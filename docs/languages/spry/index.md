@@ -1,5 +1,5 @@
 ---
-title: Spry
+title: The Spry Programming Language
 layout: default
 date: 2021-05-24
 featured-image: programming-languages.jpg

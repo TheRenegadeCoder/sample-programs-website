@@ -2,7 +2,7 @@
 title: Fizz Buzz in Rust
 layout: default
 last-modified: 2021-12-11
-featured-imaged: fizz-buzz-in-every-language.png
+featured-image: fizz-buzz-in-every-language.png
 tags: [rust, fizz-buzz]
 authors:
   - niftycode

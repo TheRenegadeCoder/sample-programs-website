@@ -1,5 +1,5 @@
 ---
-title: Pinecone
+title: The Pinecone Programming Language
 layout: default
 date: 2020-10-04
 featured-image: programming-languages.jpg

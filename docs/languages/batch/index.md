@@ -1,5 +1,5 @@
 ---
-title: Batch
+title: The Batch Programming Language
 layout: default
 date: 2020-04-23
 featured-image: programming-languages.jpg

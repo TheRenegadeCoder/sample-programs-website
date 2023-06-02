@@ -1,5 +1,5 @@
 ---
-title: Typescript
+title: The Typescript Programming Language
 layout: default
 date: 2018-06-22
 featured-image: programming-languages.jpg

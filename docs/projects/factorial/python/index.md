@@ -2,7 +2,7 @@
 title: Factorial in Python
 layout: default
 last-modified: 2020-05-02
-featured-imaged: factorial-in-every-language.jpg
+featured-image: factorial-in-every-language.jpg
 tags: [python, factorial]
 authors:
   - underscoreanuj

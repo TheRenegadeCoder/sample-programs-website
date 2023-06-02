@@ -2,7 +2,7 @@
 title: The Perl Programming Language
 layout: default
 last-modified: 2020-05-02
-featured-imaged: programming-languages.jpg
+featured-image: programming-languages.jpg
 tags: [perl]
 authors:
   - the_renegade_coder

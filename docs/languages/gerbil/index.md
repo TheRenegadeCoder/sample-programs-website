@@ -1,5 +1,5 @@
 ---
-title: Gerbil
+title: The Gerbil Programming Language
 layout: default
 date: 2019-11-01
 featured-image: programming-languages.jpg

@@ -1,5 +1,5 @@
 ---
-title: Idris
+title: The Idris Programming Language
 layout: default
 date: 2018-11-21
 featured-image: programming-languages.jpg

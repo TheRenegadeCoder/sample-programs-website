@@ -1,5 +1,5 @@
 ---
-title: Golo
+title: The Golo Programming Language
 layout: default
 date: 2018-05-24
 featured-image: programming-languages.jpg

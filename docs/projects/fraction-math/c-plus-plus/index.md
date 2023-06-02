@@ -2,7 +2,7 @@
 title: fractions in C++
 layout: default
 last-modified: 2020-05-02
-featured-imaged: fraction-math-in-every-language.jpg
+featured-image: fraction-math-in-every-language.jpg
 tags: [c-plus-plus, fraction-math]
 authors:
   - niraj-kamdar

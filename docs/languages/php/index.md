@@ -1,5 +1,5 @@
 ---
-title: Php
+title: The Php Programming Language
 layout: default
 date: 2018-03-31
 featured-image: programming-languages.jpg

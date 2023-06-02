@@ -1,5 +1,5 @@
 ---
-title: Logo
+title: The Logo Programming Language
 layout: default
 date: 2020-12-14
 featured-image: programming-languages.jpg

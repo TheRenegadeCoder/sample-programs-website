@@ -1,5 +1,5 @@
 ---
-title: Pyret
+title: The Pyret Programming Language
 layout: default
 date: 2018-04-23
 featured-image: programming-languages.jpg

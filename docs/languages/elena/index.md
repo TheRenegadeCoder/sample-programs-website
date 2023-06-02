@@ -1,5 +1,5 @@
 ---
-title: Elena
+title: The Elena Programming Language
 layout: default
 date: 2018-05-03
 featured-image: programming-languages.jpg

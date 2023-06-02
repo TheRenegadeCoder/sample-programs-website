@@ -1,5 +1,5 @@
 ---
-title: Frege
+title: The Frege Programming Language
 layout: default
 date: 2018-11-14
 featured-image: programming-languages.jpg

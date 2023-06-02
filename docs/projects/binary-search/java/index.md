@@ -2,7 +2,7 @@
 title: Binary Search in Java
 layout: default
 last-modified: 2022-10-08
-featured-imaged: binary-search-in-every-language.jpg
+featured-image: binary-search-in-every-language.jpg
 tags: [java, binary_search]
 authors:
   - s18k

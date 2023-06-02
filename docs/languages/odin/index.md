@@ -1,5 +1,5 @@
 ---
-title: Odin
+title: The Odin Programming Language
 layout: default
 date: 2018-06-15
 featured-image: programming-languages.jpg

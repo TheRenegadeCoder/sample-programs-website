@@ -2,7 +2,7 @@
 title: Fibonacci in JavaScript  
 layout: default  
 last-modified: 2020-05-02
-featured-imaged: fibonacci-in-every-language.jpg
+featured-image: fibonacci-in-every-language.jpg
 tags: [javascript, fibonacci]  
 authors: [Alina1Black]
 

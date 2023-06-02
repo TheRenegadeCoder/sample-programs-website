@@ -1,5 +1,5 @@
 ---
-title: Ballerina
+title: The Ballerina Programming Language
 layout: default
 date: 2018-06-15
 featured-image: programming-languages.jpg

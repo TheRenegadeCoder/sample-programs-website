@@ -1,5 +1,5 @@
 ---
-title: Raku
+title: The Raku Programming Language
 layout: default
 date: 2020-11-02
 featured-image: programming-languages.jpg

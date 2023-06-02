@@ -1,5 +1,5 @@
 ---
-title: Nim
+title: The Nim Programming Language
 layout: default
 date: 2019-10-16
 featured-image: programming-languages.jpg

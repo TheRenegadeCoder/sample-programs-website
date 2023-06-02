@@ -1,5 +1,5 @@
 ---
-title: Orc
+title: The Orc Programming Language
 layout: default
 date: 2018-08-28
 featured-image: programming-languages.jpg

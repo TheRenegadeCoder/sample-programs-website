@@ -1,5 +1,5 @@
 ---
-title: Baik
+title: The Baik Programming Language
 layout: default
 date: 2020-10-09
 featured-image: programming-languages.jpg

@@ -1,5 +1,5 @@
 ---
-title: Solisp
+title: The Solisp Programming Language
 layout: default
 date: 2020-02-25
 featured-image: programming-languages.jpg

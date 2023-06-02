@@ -2,7 +2,7 @@
 title: Merge Sort in Python
 layout: default
 last-modified: 2020-05-02
-featured-imaged: merge-sort-in-every-language.jpg
+featured-image: merge-sort-in-every-language.jpg
 tags: [python, merge-sort]
 authors:
   - hmajid2301

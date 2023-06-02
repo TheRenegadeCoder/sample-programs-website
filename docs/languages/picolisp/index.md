@@ -2,7 +2,7 @@
 title: The PicoLisp Programming Language
 layout: default
 last-modified: 2020-05-02
-featured-imaged: programming-languages.jpg
+featured-image: programming-languages.jpg
 tags: [picolisp]
 authors:
   - the_renegade_coder

@@ -1,5 +1,5 @@
 ---
-title: Modula2
+title: The Modula2 Programming Language
 layout: default
 date: 2020-10-02
 featured-image: programming-languages.jpg

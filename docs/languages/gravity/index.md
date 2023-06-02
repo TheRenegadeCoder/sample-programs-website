@@ -1,5 +1,5 @@
 ---
-title: Gravity
+title: The Gravity Programming Language
 layout: default
 date: 2018-04-24
 featured-image: programming-languages.jpg

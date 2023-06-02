@@ -1,5 +1,5 @@
 ---
-title: Swift
+title: The Swift Programming Language
 layout: default
 date: 2018-03-25
 featured-image: programming-languages.jpg

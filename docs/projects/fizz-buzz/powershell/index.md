@@ -2,7 +2,7 @@
 title: Fizz Buzz in PowerShell
 layout: default
 last-modified: 2020-05-02
-featured-imaged: fizz-buzz-in-every-language.png
+featured-image: fizz-buzz-in-every-language.png
 tags: [powershell, fizz-buzz]
 authors:
   - alcha

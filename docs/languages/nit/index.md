@@ -1,5 +1,5 @@
 ---
-title: Nit
+title: The Nit Programming Language
 layout: default
 date: 2021-05-25
 featured-image: programming-languages.jpg

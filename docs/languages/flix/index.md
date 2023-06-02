@@ -1,5 +1,5 @@
 ---
-title: Flix
+title: The Flix Programming Language
 layout: default
 date: 2020-10-26
 featured-image: programming-languages.jpg

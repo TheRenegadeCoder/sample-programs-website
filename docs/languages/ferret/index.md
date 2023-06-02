@@ -1,5 +1,5 @@
 ---
-title: Ferret
+title: The Ferret Programming Language
 layout: default
 date: 2018-10-09
 featured-image: programming-languages.jpg

@@ -1,5 +1,5 @@
 ---
-title: Charm
+title: The Charm Programming Language
 layout: default
 date: 2020-12-09
 featured-image: programming-languages.jpg

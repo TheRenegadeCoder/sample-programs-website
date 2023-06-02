@@ -1,5 +1,5 @@
 ---
-title: Shen
+title: The Shen Programming Language
 layout: default
 date: 2018-06-28
 featured-image: programming-languages.jpg

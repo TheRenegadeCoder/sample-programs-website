@@ -2,7 +2,7 @@
 title: Binary Search in Python
 layout: default
 last-modified: 2020-05-02
-featured-imaged: binary-search-in-every-language.jpg
+featured-image: binary-search-in-every-language.jpg
 tags: [python, binary_search]
 authors:
   - rayavarapuvikram1

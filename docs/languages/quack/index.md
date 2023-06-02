@@ -1,5 +1,5 @@
 ---
-title: Quack
+title: The Quack Programming Language
 layout: default
 date: 2018-06-15
 featured-image: programming-languages.jpg

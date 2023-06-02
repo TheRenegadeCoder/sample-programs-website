@@ -1,5 +1,5 @@
 ---
-title: Latte
+title: The Latte Programming Language
 layout: default
 date: 2021-05-24
 featured-image: programming-languages.jpg

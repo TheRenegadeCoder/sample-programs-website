@@ -1,5 +1,5 @@
 ---
-title: Never
+title: The Never Programming Language
 layout: default
 date: 2018-09-20
 featured-image: programming-languages.jpg

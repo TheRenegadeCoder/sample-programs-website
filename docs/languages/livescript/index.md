@@ -1,5 +1,5 @@
 ---
-title: Livescript
+title: The Livescript Programming Language
 layout: default
 date: 2019-10-10
 featured-image: programming-languages.jpg

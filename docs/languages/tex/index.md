@@ -1,5 +1,5 @@
 ---
-title: Tex
+title: The Tex Programming Language
 layout: default
 date: 2018-08-28
 featured-image: programming-languages.jpg

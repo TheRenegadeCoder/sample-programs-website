@@ -1,5 +1,5 @@
 ---
-title: Boo
+title: The Boo Programming Language
 layout: default
 date: 2020-10-02
 featured-image: programming-languages.jpg

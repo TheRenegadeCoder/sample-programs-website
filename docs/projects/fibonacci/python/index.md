@@ -2,7 +2,7 @@
 title: Fibonacci in Python
 layout: default  
 last-modified: 2020-10-13
-featured-imaged: fibonacci-in-every-language.jpg
+featured-image: fibonacci-in-every-language.jpg
 tags: [python, fibonacci]  
 authors: [shubhragupta-code]
 

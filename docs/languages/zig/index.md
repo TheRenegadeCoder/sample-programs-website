@@ -1,5 +1,5 @@
 ---
-title: Zig
+title: The Zig Programming Language
 layout: default
 date: 2020-10-09
 featured-image: programming-languages.jpg

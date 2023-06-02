@@ -1,5 +1,5 @@
 ---
-title: Wu
+title: The Wu Programming Language
 layout: default
 date: 2018-07-27
 featured-image: programming-languages.jpg

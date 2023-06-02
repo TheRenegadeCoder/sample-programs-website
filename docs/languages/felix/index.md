@@ -1,5 +1,5 @@
 ---
-title: Felix
+title: The Felix Programming Language
 layout: default
 date: 2018-04-29
 featured-image: programming-languages.jpg

@@ -1,5 +1,5 @@
 ---
-title: P
+title: The P Programming Language
 layout: default
 date: 2019-10-09
 featured-image: programming-languages.jpg

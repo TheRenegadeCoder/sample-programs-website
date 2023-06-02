@@ -1,5 +1,5 @@
 ---
-title: Gosu
+title: The Gosu Programming Language
 layout: default
 date: 2020-11-03
 featured-image: programming-languages.jpg

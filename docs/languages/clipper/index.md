@@ -1,5 +1,5 @@
 ---
-title: Clipper
+title: The Clipper Programming Language
 layout: default
 date: 2018-07-05
 featured-image: programming-languages.jpg

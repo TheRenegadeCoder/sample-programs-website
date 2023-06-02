@@ -2,7 +2,7 @@
 title: The Wren Programming Language
 layout: default
 last-modified: 2020-05-02
-featured-imaged: programming-languages.jpg
+featured-image: programming-languages.jpg
 tags: [wren]
 authors:
   - the_renegade_coder

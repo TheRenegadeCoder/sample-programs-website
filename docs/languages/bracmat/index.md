@@ -1,5 +1,5 @@
 ---
-title: Bracmat
+title: The Bracmat Programming Language
 layout: default
 date: 2020-12-07
 featured-image: programming-languages.jpg

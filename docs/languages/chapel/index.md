@@ -1,5 +1,5 @@
 ---
-title: Chapel
+title: The Chapel Programming Language
 layout: default
 date: 2018-11-22
 featured-image: programming-languages.jpg

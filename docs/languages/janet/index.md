@@ -1,5 +1,5 @@
 ---
-title: Janet
+title: The Janet Programming Language
 layout: default
 date: 2019-10-02
 featured-image: programming-languages.jpg

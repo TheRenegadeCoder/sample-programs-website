@@ -1,5 +1,5 @@
 ---
-title: Arkscript
+title: The Arkscript Programming Language
 layout: default
 date: 2020-10-03
 featured-image: programming-languages.jpg

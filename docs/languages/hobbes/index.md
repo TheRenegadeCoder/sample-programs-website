@@ -1,5 +1,5 @@
 ---
-title: Hobbes
+title: The Hobbes Programming Language
 layout: default
 date: 2020-12-04
 featured-image: programming-languages.jpg

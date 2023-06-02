@@ -2,7 +2,7 @@
 title: Maximum Subarray in Python
 layout: default
 last-modified: 2020-10-14
-featured-imaged: maximum-subarray-in-every-language.jpg
+featured-image: maximum-subarray-in-every-language.jpg
 tags: [python, maximum-subarray]
 authors:
   - Senpai1199

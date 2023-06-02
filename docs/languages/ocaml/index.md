@@ -1,5 +1,5 @@
 ---
-title: Ocaml
+title: The Ocaml Programming Language
 layout: default
 date: 2018-10-17
 featured-image: programming-languages.jpg

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Macro Assembler
+title: The Microsoft Macro Assembler Programming Language
 layout: default
 date: 2020-04-23
 featured-image: programming-languages.jpg

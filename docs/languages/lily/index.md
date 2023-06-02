@@ -1,5 +1,5 @@
 ---
-title: Lily
+title: The Lily Programming Language
 layout: default
 date: 2018-04-22
 featured-image: programming-languages.jpg

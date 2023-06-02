@@ -1,5 +1,5 @@
 ---
-title: Wyvern
+title: The Wyvern Programming Language
 layout: default
 date: 2018-06-21
 featured-image: programming-languages.jpg

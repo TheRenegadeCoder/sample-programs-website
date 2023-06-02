@@ -1,5 +1,5 @@
 ---
-title: Erlang
+title: The Erlang Programming Language
 layout: default
 date: 2018-08-08
 featured-image: programming-languages.jpg

@@ -1,5 +1,5 @@
 ---
-title: Grain
+title: The Grain Programming Language
 layout: default
 date: 2020-10-14
 featured-image: programming-languages.jpg

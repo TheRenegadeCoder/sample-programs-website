@@ -3,7 +3,7 @@ title: Capitalize in C
 layout: default  
 date: 2021-10-25
 last-modified: 2021-10-26
-featured-imaged: capitalize-in-every-language.jpg
+featured-image: capitalize-in-every-language.jpg
 tags: [c, capitalize]  
 authors:
 - shubhragupta-code

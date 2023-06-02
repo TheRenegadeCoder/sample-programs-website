@@ -3,7 +3,7 @@ title: The Euphoria Programming Language
 layout: default
 date: 2023-02-12
 last-modified: 2023-02-12
-featured-imaged: programming-languages.jpg
+featured-image: programming-languages.jpg
 tags: [euphoria]
 authors:
   - rzuckerm

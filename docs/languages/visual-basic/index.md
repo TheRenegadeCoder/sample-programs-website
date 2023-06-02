@@ -1,9 +1,12 @@
 ---
-title: Visual Basic
+title: The Visual Basic Programming Language
 layout: default
-date: 2018-05-04
+date: 2020-05-02
+last-modified: 2022-05-18
 featured-image: programming-languages.jpg
-last-modified: 2018-05-04
+tags: [visual-basic]
+authors:
+  - the_renegade_coder
 
 ---
 
@@ -11,7 +14,27 @@ Welcome to the Visual Basic page! Here, you'll find a description of the languag
 
 ## Description
 
-No 'Description' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
+According to [Wikipedia][1], Visual Basic .NET (VB.NET) is a programming language 
+that was created by Microsoft in 2001. Beyond that, Wikipedia doesn't have 
+much to offer in terms of historical information, so let's move on.
+
+In terms of features, however, Wikipedia has a little more to offer. For 
+instance, VB.NET is statically typed, but the type system is both strong 
+and weak as well as safe and unsafe.
+
+As for syntax, VB.NET is structured which reminds me of languages like 
+[Pascal][2] and [MATLAB][3] where blocks of code are marked by keywords, rather than 
+braces or whitespace.
+
+Beyond that, VB.NET has several versions. In fact, VB.NET only really refers 
+to the language before 2005, but the syntax is largely the same today. Of 
+course, I've sort of lumped them together in the same way I've recognized 
+Python as one language instead of two.
+
+[1]: https://en.wikipedia.org/wiki/Visual_Basic_(.NET)
+[2]: https://en.wikipedia.org/wiki/Pascal_(programming_language)
+[3]:https://en.wikipedia.org/wiki/MATLAB
+
 
 ## Articles
 

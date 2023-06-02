@@ -1,5 +1,5 @@
 ---
-title: Eve
+title: The Eve Programming Language
 layout: default
 date: 2018-04-27
 featured-image: programming-languages.jpg

@@ -2,7 +2,7 @@
 title: Prime Number in Python
 layout: default
 last-modified: 2020-05-02
-featured-imaged: prime-number-in-every-language.jpg
+featured-image: prime-number-in-every-language.jpg
 tags: [python, prime-number]
 authors:
   - hmajid2301

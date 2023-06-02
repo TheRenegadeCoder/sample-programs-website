@@ -1,5 +1,5 @@
 ---
-title: Autohotkey
+title: The Autohotkey Programming Language
 layout: default
 date: 2023-04-06
 featured-image: programming-languages.jpg

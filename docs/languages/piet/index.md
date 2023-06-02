@@ -1,5 +1,5 @@
 ---
-title: Piet
+title: The Piet Programming Language
 layout: default
 date: 2023-04-25
 featured-image: programming-languages.jpg

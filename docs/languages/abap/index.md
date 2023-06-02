@@ -1,5 +1,5 @@
 ---
-title: Abap
+title: The Abap Programming Language
 layout: default
 date: 2018-10-21
 featured-image: programming-languages.jpg

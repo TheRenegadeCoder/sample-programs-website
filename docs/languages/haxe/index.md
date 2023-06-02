@@ -1,5 +1,5 @@
 ---
-title: Haxe
+title: The Haxe Programming Language
 layout: default
 date: 2021-08-12
 featured-image: programming-languages.jpg

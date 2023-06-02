@@ -3,7 +3,7 @@ title: The Elm Programming Language
 layout: default
 date: 2020-05-02
 last-modified: 2022-05-18
-featured-imaged: programming-languages.jpg
+featured-image: programming-languages.jpg
 tags: [elm]
 authors:
   - the_renegade_coder

@@ -1,5 +1,5 @@
 ---
-title: Groovy
+title: The Groovy Programming Language
 layout: default
 date: 2018-04-19
 featured-image: programming-languages.jpg

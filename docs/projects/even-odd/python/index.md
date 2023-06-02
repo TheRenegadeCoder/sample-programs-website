@@ -2,7 +2,7 @@
 title: Even Odd in Python  
 layout: default  
 last-modified: 2020-05-02
-featured-imaged: even-odd-in-every-language.jpg
+featured-image: even-odd-in-every-language.jpg
 tags: [python, even-odd]  
 authors: [ MandyMericle ]
 

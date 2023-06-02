@@ -1,5 +1,5 @@
 ---
-title: Apex
+title: The Apex Programming Language
 layout: default
 date: 2019-10-02
 featured-image: programming-languages.jpg

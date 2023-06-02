@@ -1,5 +1,5 @@
 ---
-title: Mojiscript
+title: The Mojiscript Programming Language
 layout: default
 date: 2018-10-15
 featured-image: programming-languages.jpg

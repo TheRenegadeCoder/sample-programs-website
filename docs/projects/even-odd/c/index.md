@@ -2,7 +2,7 @@
 title: Even Odd in C  
 layout: default  
 date: 2020-10-05
-featured-imaged: even-odd-in-every-language.jpg
+featured-image: even-odd-in-every-language.jpg
 tags: [c, even-odd]  
 authors:
 - shubhragupta-code

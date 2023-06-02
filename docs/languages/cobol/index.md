@@ -1,5 +1,5 @@
 ---
-title: Cobol
+title: The Cobol Programming Language
 layout: default
 date: 2021-10-09
 featured-image: programming-languages.jpg

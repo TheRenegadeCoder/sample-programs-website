@@ -2,7 +2,7 @@
 title: Fizz Buzz in C
 layout: default
 date: 2020-10-05
-featured-imaged: fizz-buzz-in-every-language.png
+featured-image: fizz-buzz-in-every-language.png
 tags: [c, fizz-buzz]
 authors:
   - shubhragupta-code

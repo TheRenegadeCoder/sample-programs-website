@@ -1,5 +1,5 @@
 ---
-title: Dusk
+title: The Dusk Programming Language
 layout: default
 date: 2018-12-30
 featured-image: programming-languages.jpg

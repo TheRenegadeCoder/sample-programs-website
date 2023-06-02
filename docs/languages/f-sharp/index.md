@@ -1,5 +1,5 @@
 ---
-title: F#
+title: The F# Programming Language
 layout: default
 date: 2018-04-27
 featured-image: programming-languages.jpg

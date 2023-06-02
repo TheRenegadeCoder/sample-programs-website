@@ -1,5 +1,5 @@
 ---
-title: Owl Lisp
+title: The Owl Lisp Programming Language
 layout: default
 date: 2018-06-29
 featured-image: programming-languages.jpg

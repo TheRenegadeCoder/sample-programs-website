@@ -1,5 +1,5 @@
 ---
-title: Lucee
+title: The Lucee Programming Language
 layout: default
 date: 2019-10-02
 featured-image: programming-languages.jpg

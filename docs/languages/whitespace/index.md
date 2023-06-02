@@ -1,5 +1,5 @@
 ---
-title: Whitespace
+title: The Whitespace Programming Language
 layout: default
 date: 2019-10-04
 featured-image: programming-languages.jpg

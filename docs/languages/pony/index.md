@@ -1,5 +1,5 @@
 ---
-title: Pony
+title: The Pony Programming Language
 layout: default
 date: 2018-04-26
 featured-image: programming-languages.jpg

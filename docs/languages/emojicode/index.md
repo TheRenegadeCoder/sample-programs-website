@@ -1,5 +1,5 @@
 ---
-title: Emojicode
+title: The Emojicode Programming Language
 layout: default
 date: 2018-05-05
 featured-image: programming-languages.jpg

@@ -1,5 +1,5 @@
 ---
-title: X86 64
+title: The X86 64 Programming Language
 layout: default
 date: 2023-05-04
 featured-image: programming-languages.jpg

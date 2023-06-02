@@ -1,5 +1,5 @@
 ---
-title: Dg
+title: The Dg Programming Language
 layout: default
 date: 2018-10-03
 featured-image: programming-languages.jpg

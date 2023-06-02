@@ -1,5 +1,5 @@
 ---
-title: Little
+title: The Little Programming Language
 layout: default
 date: 2018-08-23
 featured-image: programming-languages.jpg

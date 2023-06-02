@@ -1,5 +1,5 @@
 ---
-title: Lolcode
+title: The Lolcode Programming Language
 layout: default
 date: 2018-05-11
 featured-image: programming-languages.jpg

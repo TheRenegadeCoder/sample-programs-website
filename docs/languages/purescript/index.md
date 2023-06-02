@@ -1,5 +1,5 @@
 ---
-title: Purescript
+title: The Purescript Programming Language
 layout: default
 date: 2018-12-22
 featured-image: programming-languages.jpg

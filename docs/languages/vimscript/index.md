@@ -1,5 +1,5 @@
 ---
-title: Vimscript
+title: The Vimscript Programming Language
 layout: default
 date: 2018-08-27
 featured-image: programming-languages.jpg

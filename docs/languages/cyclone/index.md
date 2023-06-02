@@ -1,5 +1,5 @@
 ---
-title: Cyclone
+title: The Cyclone Programming Language
 layout: default
 date: 2020-12-02
 featured-image: programming-languages.jpg

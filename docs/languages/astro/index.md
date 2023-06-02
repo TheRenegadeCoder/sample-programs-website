@@ -1,5 +1,5 @@
 ---
-title: Astro
+title: The Astro Programming Language
 layout: default
 date: 2020-10-26
 featured-image: programming-languages.jpg

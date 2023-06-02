@@ -3,7 +3,7 @@ title: The Haskell Programming Language
 layout: default
 date: 2020-05-02
 last-modified: 2022-05-11
-featured-imaged: programming-languages.jpg
+featured-image: programming-languages.jpg
 tags: [haskell]
 authors:
   - the_renegade_coder

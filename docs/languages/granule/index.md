@@ -1,5 +1,5 @@
 ---
-title: Granule
+title: The Granule Programming Language
 layout: default
 date: 2022-12-06
 featured-image: programming-languages.jpg
