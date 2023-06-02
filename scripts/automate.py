@@ -291,7 +291,7 @@ def _generate_language_index(language: subete.LanguageCollection):
     _generate_front_matter(
         doc,
         root_path / "front_matter.yaml",
-        str(language),
+        f"The {language} Programming Language",
         created_at=oldest_program.created(),
         image="programming-languages.jpg"
     )
