@@ -5,6 +5,7 @@ last-modified: 2020-05-02
 tags: [opa]
 authors:
   - nicovillanueva
+featured-image: programming-languages.jpg
 
 ---
 

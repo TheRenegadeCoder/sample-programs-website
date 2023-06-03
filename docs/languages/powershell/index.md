@@ -5,6 +5,7 @@ last-modified: 2020-05-02
 tags: [powershell]
 authors:
   - alcha
+featured-image: programming-languages.jpg
 
 ---
 

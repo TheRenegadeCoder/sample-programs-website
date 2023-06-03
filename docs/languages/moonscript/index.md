@@ -5,6 +5,7 @@ last-modified: 2020-05-02
 tags: [moonscript]
 authors:
   - bassem_mohamed
+featured-image: programming-languages.jpg
 
 ---
 

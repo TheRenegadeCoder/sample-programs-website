@@ -5,6 +5,7 @@ last-modified: 2020-05-02
 tags: [solidity]
 authors:
   - two_clutch
+featured-image: programming-languages.jpg
 
 ---
 

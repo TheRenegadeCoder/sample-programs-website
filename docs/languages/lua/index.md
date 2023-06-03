@@ -6,6 +6,7 @@ last-modified: 2022-05-18
 tags: [lua]
 authors:
   - the_renegade_coder
+featured-image: programming-languages.jpg
 
 ---
 
