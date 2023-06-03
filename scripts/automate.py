@@ -3,12 +3,15 @@ import logging
 import os
 import pathlib
 import shutil
+import subprocess
+import tempfile
+import sys
 
 import snakemd
 import subete
 import glotter
 
-log = logging.getLogger(__name__)
+log = logging.getLogger("automate")
 AUTO_GEN_TEST_DOC_DIR = "sources/generated"
 
 
@@ -320,6 +323,7 @@ def generate_project_paths(repo: subete.Repo):
     projects.sort(key=lambda x: x.name().casefold())
     for i, project in enumerate(projects):
         project: subete.Project
+        log.info("Generating project paths for %s", str(project))
         path = pathlib.Path(f"docs/projects/{project.pathlike_name()}")
         path.mkdir(exist_ok=True, parents=True)
         _generate_project_index(project, projects[i - 1], projects[(i + 1) % len(projects)])
@@ -332,6 +336,7 @@ def generate_sample_programs(repo: subete.Repo):
     for language in repo:
         language: subete.LanguageCollection
         for program in language:
+            log.info("Generate sample programs for %s in %s", str(program), str(language))
             program: subete.SampleProgram
             path = pathlib.Path(
                 f"docs/projects/{program.project_pathlike_name()}/{language.pathlike_name()}"
@@ -346,6 +351,7 @@ def generate_language_paths(repo: subete.Repo):
     and index.md files. 
     """
     for language in repo:
+        log.info("Generating language paths for %s", str(language))
         language: subete.LanguageCollection
         path = pathlib.Path(f"docs/languages/{language.pathlike_name()}")
         path.mkdir(exist_ok=True, parents=True)
@@ -356,6 +362,7 @@ def generate_auto_gen_test_docs(repo: subete.Repo):
     """
     Generate auto-generated test documentation
     """
+    log.info("Generating test documentation")
     curr_dir = os.getcwd()
     doc_dir = pathlib.Path(AUTO_GEN_TEST_DOC_DIR).absolute()
     os.chdir(repo.sample_programs_repo_dir())
@@ -371,6 +378,7 @@ def generate_languages_index(repo: subete.Repo):
     """
     Creates the index.md files for the root directories.
     """
+    log.info("Generating language index")
     language_index_path = pathlib.Path("docs/languages")
     language_index = snakemd.new_doc()
     oldest_lang: subete.LanguageCollection = min(repo, key=lambda lang: min(lang, key=lambda x: x.created()).created())
@@ -417,6 +425,7 @@ def generate_languages_index(repo: subete.Repo):
 
 
 def generate_projects_index(repo: subete.Repo):
+    log.info("Generating projects index")
     projects_index_path = pathlib.Path("docs/projects")
     projects_index: snakemd.Document = snakemd.new_doc()
     oldest_lang: subete.LanguageCollection = min(repo, key=lambda lang: min(lang, key=lambda x: x.created()).created())
@@ -455,6 +464,43 @@ def generate_projects_index(repo: subete.Repo):
     projects_index.dump("index", dir=str(projects_index_path))
 
 
+def generate_images() -> int:
+    """
+    Use image-titler to resize and crop images and add logo
+
+    :return: 0 if no error, non-zero otherwise
+    """
+
+    status_code = 0
+    src = pathlib.Path("sources/images")
+    dest = pathlib.Path("docs/assets/images")
+    logo = str(dest / "icon-small.png")
+    with tempfile.TemporaryDirectory() as temp_dir:
+        for src_image_path in pathlib.Path(src).iterdir():
+            log.info("Processing %s", str(src_image_path))
+            try:
+                subprocess.run(
+                    [
+                        "image-titler",
+                        "--path", str(src_image_path),
+                        "--output", temp_dir,
+                        "--logo", logo,
+                        "--no_title"
+                    ],
+                    check=True
+                )
+            except subprocess.CalledProcessError as exc:
+                status_code = 1
+                log.error("image-titler exited with %d status", exc.returncode)
+                continue
+
+            dest_image_path = dest / src_image_path.name
+            temp_image_path = next(pathlib.Path(temp_dir).iterdir())
+            shutil.move(temp_image_path, dest_image_path)
+
+    return status_code
+
+
 def clean(folder: str):
     """
     Deletes the contents of the docs directory.
@@ -470,14 +516,20 @@ def clean(folder: str):
 
 
 if __name__ == "__main__":
-    logging.basicConfig(level=logging.INFO)
+    logging.basicConfig(format="%(name)-12s | %(levelname)-8s | %(message)s", level=logging.INFO)
     clean("docs/projects")
     clean("docs/languages")
     clean(AUTO_GEN_TEST_DOC_DIR)
+
+    subete.repo.logger.setLevel(logging.WARNING)  # Reduce the noise of subete
+    log.info("Loading repos (this may take several minutes)")
     repo = subete.load()
+
     generate_language_paths(repo)
     generate_auto_gen_test_docs(repo)
     generate_project_paths(repo)
     generate_sample_programs(repo)
     generate_languages_index(repo)
     generate_projects_index(repo)
+    status_code = generate_images()
+    sys.exit(status_code)

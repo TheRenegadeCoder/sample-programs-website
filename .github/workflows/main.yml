@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+  pull_request:
+    branches:
+      - main
   schedule:
     - cron: 0 0 * * 0
   workflow_dispatch:
@@ -22,22 +25,9 @@ jobs:
       - name: Install Dependencies
         run: pip install -r requirements.txt
 
-      - name: Generate Webpages
+      - name: Generate Webpages and Images
         run: python scripts/automate.py
 
-      - name: Generate Images
-        run: |
-          sources=sources/images/
-          images=docs/assets/images/
-          logo=icon-small.png
-          for file in "$sources"*
-          do
-            image-titler --path "$file" --output "$images" --logo "$images$logo" --no_title
-            filename=$(basename "$file")
-            edit=$(cd "$images" && ls -t | head -n1)
-            mv "$images$edit" "$images$filename" 
-          done
-      
       - name: Commit Changes
         uses: EndBug/add-and-commit@v9 
         with:
@@ -52,3 +42,6 @@ jobs:
         env:
           # This is necessary in order to push a commit to the repo
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Leave this line unchanged
+
+        # Only commit if on main branch
+        if: ${{ github.ref == 'refs/heads/main' }}
