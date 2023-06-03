@@ -134,6 +134,9 @@ def _generate_front_matter(
                 line = f"featured-image: {image}"
 
             raw += f"{line}\n"
+
+        if "featured-image:" not in raw and image:
+            raw += f"featured-image: {image}\n"
     else:
         raw += f"title: {title}\n"
         raw += f"layout: default\n"
