@@ -28,6 +28,16 @@ jobs:
       - name: Generate Webpages and Images
         run: python scripts/automate.py
 
+      - name: Build Webpages with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: docs/
+          destination: docs/_site
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+        # Only build webpage if not on main branch
+        if: ${{ github.ref != 'refs/heads/main' }}
+
       - name: Commit Changes
         uses: EndBug/add-and-commit@v9 
         with:
