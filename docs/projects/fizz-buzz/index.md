@@ -29,8 +29,8 @@ For the purposes of this repository, the following rules apply:
 > instead of the number. For numbers which are multiples of both three and five,
 > print "FizzBuzz"
 
-To be even more specific, please output each value on its own line. The output
-should look something like:
+To be even more specific, please output each value on its own line. The first 15
+lines of output should look something like:
 
 ```console
 1
