@@ -3,11 +3,11 @@ title: Programming Languages
 layout: default
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2023-06-10
+last-modified: 2023-06-17
 
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 166 languages, of which 56 are tested, and 773 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 167 languages, of which 57 are tested, and 774 code snippets.
 
 ## Language Collections by Letter
 
@@ -271,8 +271,9 @@ The 'T' collection contains 5 languages, of which 1 is tested, and 11 code snipp
 
 ### V
 
-The 'V' collection contains 4 languages, of which 1 is tested, and 10 code snippets.
+The 'V' collection contains 5 languages, of which 2 are tested, and 11 code snippets.
 
+- [V](https://sampleprograms.io/languages/v)
 - [Verilog](https://sampleprograms.io/languages/verilog)
 - [Verve](https://sampleprograms.io/languages/verve)
 - [Vimscript](https://sampleprograms.io/languages/vimscript)

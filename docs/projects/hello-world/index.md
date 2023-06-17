@@ -189,6 +189,7 @@ Verify that the actual output matches the expected output
 - [Hello World in Tex](https://sampleprograms.io/projects/hello-world/tex)
 - [Hello World in Ti Basic](https://sampleprograms.io/projects/hello-world/ti-basic)
 - [Hello World in Typescript](https://sampleprograms.io/projects/hello-world/typescript)
+- [Hello World in V](https://sampleprograms.io/projects/hello-world/v)
 - [Hello World in Verilog](https://sampleprograms.io/projects/hello-world/verilog)
 - [Hello World in Verve](https://sampleprograms.io/projects/hello-world/verve)
 - [Hello World in Vimscript](https://sampleprograms.io/projects/hello-world/vimscript)
