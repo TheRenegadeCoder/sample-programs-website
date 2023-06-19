@@ -94,6 +94,7 @@ Verify that the actual output matches the expected output
 - [Fizz Buzz in Perl](https://sampleprograms.io/projects/fizz-buzz/perl)
 - [Fizz Buzz in Php](https://sampleprograms.io/projects/fizz-buzz/php)
 - [Fizz Buzz in Powershell](https://sampleprograms.io/projects/fizz-buzz/powershell)
+- [Fizz Buzz in Prolog](https://sampleprograms.io/projects/fizz-buzz/prolog)
 - [Fizz Buzz in Python](https://sampleprograms.io/projects/fizz-buzz/python)
 - [Fizz Buzz in R](https://sampleprograms.io/projects/fizz-buzz/r)
 - [Fizz Buzz in Racket](https://sampleprograms.io/projects/fizz-buzz/racket)

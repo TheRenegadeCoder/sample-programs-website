@@ -3,11 +3,11 @@ title: Programming Languages
 layout: default
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2023-06-19
 
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 165 languages, of which 55 are tested, and 772 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 168 languages, of which 58 are tested, and 775 code snippets.
 
 ## Language Collections by Letter
 
@@ -205,7 +205,7 @@ The 'O' collection contains 7 languages, of which 1 is tested, and 16 code snipp
 
 ### P
 
-The 'P' collection contains 16 languages, of which 8 are tested, and 115 code snippets.
+The 'P' collection contains 17 languages, of which 9 are tested, and 116 code snippets.
 
 - [P](https://sampleprograms.io/languages/p)
 - [P4](https://sampleprograms.io/languages/p4)
@@ -220,6 +220,7 @@ The 'P' collection contains 16 languages, of which 8 are tested, and 115 code sn
 - [Pinecone](https://sampleprograms.io/languages/pinecone)
 - [Pony](https://sampleprograms.io/languages/pony)
 - [Powershell](https://sampleprograms.io/languages/powershell)
+- [Prolog](https://sampleprograms.io/languages/prolog)
 - [Purescript](https://sampleprograms.io/languages/purescript)
 - [Pyret](https://sampleprograms.io/languages/pyret)
 - [Python](https://sampleprograms.io/languages/python)
@@ -270,8 +271,9 @@ The 'T' collection contains 5 languages, of which 1 is tested, and 11 code snipp
 
 ### V
 
-The 'V' collection contains 4 languages, of which 1 is tested, and 10 code snippets.
+The 'V' collection contains 5 languages, of which 2 are tested, and 11 code snippets.
 
+- [V](https://sampleprograms.io/languages/v)
 - [Verilog](https://sampleprograms.io/languages/verilog)
 - [Verve](https://sampleprograms.io/languages/verve)
 - [Vimscript](https://sampleprograms.io/languages/vimscript)
@@ -291,6 +293,12 @@ The 'W' collection contains 4 languages, of which 1 is tested, and 4 code snippe
 The 'X' collection contains 1 language, of which 1 is tested, and 4 code snippets.
 
 - [X86 64](https://sampleprograms.io/languages/x86-64)
+
+### Y
+
+The 'Y' collection contains 1 language, of which 1 is tested, and 1 code snippets.
+
+- [Yoix](https://sampleprograms.io/languages/yoix)
 
 ### Z
 
