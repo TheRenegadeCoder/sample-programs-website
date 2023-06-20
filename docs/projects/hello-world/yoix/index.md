@@ -1,9 +1,11 @@
 ---
 title: Hello World in Yoix
 layout: default
-date: 2023-06-19
-featured-image: hello-world-in-every-language.jpg
 last-modified: 2023-06-19
+featured-image: hello-world-in-yoix.jpg
+tags: [yoix, hello-world]
+authors:
+  - rzuckerm
 
 ---
 
@@ -29,7 +31,15 @@ If you see anything you'd like to change or update, [please consider contributin
 
 ## How to Implement the Solution
 
-No 'How to Implement the Solution' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
+Yoix requires you to import every system function that you use. All the
+`import` statements start with `yoix`, followed by the module where the
+function is located, followed by the function name. Since `printf` is in
+the `stdio` module, the `import` statement is `yoix.stdio.printf`.
+The `printf` statement is same as Java, which is not surprising since
+[the Yoix interpreter runs in Java][1].
+
+[1]: https://en.wikipedia.org/wiki/Yoix
+
 
 ## How to Run the Solution
 
