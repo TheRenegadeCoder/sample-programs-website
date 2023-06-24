@@ -142,7 +142,7 @@ def _generate_front_matter(
     if source_path.exists():
         front_matter = yaml.safe_load(source_path.read_text(encoding="utf-8"))
     else:
-        front_matter = {"title": title}
+        front_matter = {}
         if created_at:
             front_matter["date"] = created_at.strftime("%Y-%m-%d")
 
@@ -154,6 +154,7 @@ def _generate_front_matter(
 
         log.warning(f"Failed to find %s", str(source_path))
 
+    front_matter["title"] = title
     front_matter["layout"] = "default"
     if image:
         front_matter["featured-image"] = image
@@ -598,8 +599,6 @@ def _copy_program_images(repo: subete.Repo):
     language: subete.LanguageCollection
     for language in repo:
         language_path = language.pathlike_name()
-        if language_path == "piet":
-            breakpoint()
         program: subete.SampleProgram
         for program in repo[str(language)]:
             project_path = program.project_pathlike_name()
