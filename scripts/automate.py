@@ -1,5 +1,7 @@
 from typing import Optional
 import datetime
+import functools
+import imghdr
 import logging
 import os
 import pathlib
@@ -7,7 +9,6 @@ import shutil
 import subprocess
 import tempfile
 import sys
-import functools
 
 import snakemd
 import subete
@@ -562,6 +563,71 @@ def generate_projects_index(repo: subete.Repo):
     projects_index.dump("index", dir=str(projects_index_path))
 
 
+def copy_article_images(repo: subete.Repo):
+    """
+    Copy article images to the appropriate directory
+
+    :param subete.Repo repo: the repo to pull from.
+    """
+    _copy_language_images(repo)
+    _copy_project_images(repo)
+    _copy_program_images(repo)
+
+
+def _copy_language_images(repo: subete.Repo):
+    language: subete.LanguageCollection
+    for language in repo:
+        language_path = language.pathlike_name()
+        _copy_image(
+            f"sources/languages/{language_path}",
+            f"docs/assets/images/languages/{language_path}"
+        )
+
+
+def _copy_project_images(repo: subete.Repo):
+    project: subete.Project
+    for project in repo.approved_projects():
+        project_path = project.pathlike_name()
+        _copy_image(
+            f"sources/projects/{project_path}",
+            f"docs/assets/images/projects/{project_path}"
+        )
+
+
+def _copy_program_images(repo: subete.Repo):
+    language: subete.LanguageCollection
+    for language in repo:
+        language_path = language.pathlike_name()
+        if language_path == "piet":
+            breakpoint()
+        program: subete.SampleProgram
+        for program in repo[str(language)]:
+            project_path = program.project_pathlike_name()
+            _copy_image(
+                f"sources/programs/{project_path}/{language_path}",
+                f"docs/assets/images/projects/{project_path}/{language_path}"
+            )
+
+
+def _copy_image(src_dir: str, dest_dir: str):
+    src_dir_path = pathlib.Path(src_dir)
+    dest_dir_path = pathlib.Path(dest_dir)
+    if not src_dir_path.exists():
+        return
+
+    src_image_paths = [
+        path
+        for path in src_dir_path.iterdir()
+        if path.is_file() and path.stem != "featured-image" and imghdr.what(path)
+    ]
+    if src_image_paths:
+        os.makedirs(dest_dir, exist_ok=True)
+        for src_image_path in src_image_paths:
+            dest_image_path = dest_dir_path / src_image_path.name
+            log.info("Copying image %s -> %s", str(src_image_path), str(dest_image_path))
+            shutil.copy(src_image_path, dest_image_path)
+
+
 def generate_images(repo: subete.Repo) -> int:
     """
     Use image-titler to resize and crop images and add logo
@@ -686,5 +752,6 @@ if __name__ == "__main__":
     generate_sample_programs(repo)
     generate_languages_index(repo)
     generate_projects_index(repo)
+    copy_article_images(repo)
     status_code = generate_images(repo)
     sys.exit(status_code)
