@@ -12,6 +12,7 @@ import functools
 import snakemd
 import subete
 import glotter
+import yaml
 
 log = logging.getLogger("automate")
 AUTO_GEN_TEST_DOC_DIR = "sources/generated"
@@ -132,32 +133,34 @@ def _generate_front_matter(
     :param snakemd.Document doc: the document to add the front matter to.
     :param pathlib.Path path: the path to the front matter file.
     :param str title: the title of the document.
-    :param datetime.datetime created_at: when item is created.
-    :param datatime.datetime last_modified: when item was last modified.
-    :param str image: the filename of the image.
+    :param datetime.datetime created_at: optional date/time when item is created.
+    :param datatime.datetime last_modified: optional date/time when item was last modified.
+    :param str image: optional filename of the image.
     """
     source_path = pathlib.Path("sources") / path
-    raw = ""
-    raw += "---\n"
     if source_path.exists():
-        front_matter = source_path.read_text(encoding="utf-8").strip()
-        for line in front_matter.splitlines():
-            if line.strip() == "featured-image:" and image:
-                line = f"featured-image: {image}"
-
-            raw += f"{line}\n"
-
-        if "featured-image:" not in raw and image:
-            raw += f"featured-image: {image}\n"
+        front_matter = yaml.safe_load(source_path.read_text(encoding="utf-8"))
     else:
-        raw += f"title: {title}\n"
-        raw += f"layout: default\n"
-        raw += f"date: {created_at.date()}\n"
-        if image:
-            raw += f"featured-image: {image}\n"
-        raw += f"last-modified: {last_modified.date() if last_modified else created_at.date()}\n"
-        log.warning(f"Failed to find {source_path}")
-    raw += "\n---"
+        front_matter = {"title": title}
+        if created_at:
+            front_matter["date"] = created_at.strftime("%Y-%m-%d")
+
+        if not last_modified:
+            last_modified = created_at
+
+        if last_modified:
+            front_matter["last-modified"] = last_modified.strftime("%Y-%m-%d")
+
+        log.warning(f"Failed to find %s", str(source_path))
+
+    front_matter["layout"] = "default"
+    if image:
+        front_matter["featured-image"] = image
+
+    if front_matter.get("date") and not front_matter.get("last-modified"):
+        front_matter["last-modified"] = front_matter["date"]
+
+    raw = "---\n" + yaml.safe_dump(front_matter) + "---"
     doc.add_raw(raw)
 
 
