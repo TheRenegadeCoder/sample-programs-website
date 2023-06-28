@@ -1,4 +1,7 @@
+from typing import Optional
 import datetime
+import functools
+import imghdr
 import logging
 import os
 import pathlib
@@ -10,9 +13,14 @@ import sys
 import snakemd
 import subete
 import glotter
+import yaml
 
 log = logging.getLogger("automate")
 AUTO_GEN_TEST_DOC_DIR = "sources/generated"
+
+DEFAULT_PROGRAM_IMAGE_NO_EXT = "sample-programs-in-every-language"
+DEFAULT_PROJECT_IMAGE_NO_EXT = "programming-projects-in-every-language"
+DEFAULT_LANGUAGE_IMAGE_NO_EXT = "programming-languages"
 
 
 def _add_section(doc: snakemd.Document, source: str, source_instance: str, section: str, level: int = 2):
@@ -115,9 +123,9 @@ def _generate_front_matter(
         doc: snakemd.Document, 
         path: pathlib.Path, 
         title: str, 
-        created_at: datetime.datetime = None, 
-        last_modified: datetime.datetime = None, 
-        image: str = None
+        created_at: Optional[datetime.datetime] = None, 
+        last_modified: Optional[datetime.datetime] = None, 
+        image: Optional[str] = None
     ):
     """
     Takes the existing front matter and adds it to the document.
@@ -125,30 +133,36 @@ def _generate_front_matter(
 
     :param snakemd.Document doc: the document to add the front matter to.
     :param pathlib.Path path: the path to the front matter file.
-    :param str title: the title of the document
+    :param str title: the title of the document.
+    :param datetime.datetime created_at: optional date/time when item is created.
+    :param datatime.datetime last_modified: optional date/time when item was last modified.
+    :param str image: optional filename of the image.
     """
     source_path = pathlib.Path("sources") / path
-    raw = ""
-    raw += "---\n"
     if source_path.exists():
-        front_matter = source_path.read_text(encoding="utf-8").strip()
-        for line in front_matter.splitlines():
-            if line.strip() == "featured-image:" and image:
-                line = f"featured-image: {image}"
-
-            raw += f"{line}\n"
-
-        if "featured-image:" not in raw and image:
-            raw += f"featured-image: {image}\n"
+        front_matter = yaml.safe_load(source_path.read_text(encoding="utf-8"))
     else:
-        raw += f"title: {title}\n"
-        raw += f"layout: default\n"
-        raw += f"date: {created_at.date()}\n"
-        if image:
-            raw += f"featured-image: {image}\n"
-        raw += f"last-modified: {last_modified.date() if last_modified else created_at.date()}\n"
-        log.warning(f"Failed to find {source_path}")
-    raw += "\n---"
+        front_matter = {}
+        if created_at:
+            front_matter["date"] = created_at.strftime("%Y-%m-%d")
+
+        if not last_modified:
+            last_modified = created_at
+
+        if last_modified:
+            front_matter["last-modified"] = last_modified.strftime("%Y-%m-%d")
+
+        log.warning(f"Failed to find %s", str(source_path))
+
+    front_matter["title"] = title
+    front_matter["layout"] = "default"
+    if image:
+        front_matter["featured-image"] = image
+
+    if front_matter.get("date") and not front_matter.get("last-modified"):
+        front_matter["last-modified"] = front_matter["date"]
+
+    raw = "---\n" + yaml.safe_dump(front_matter) + "---"
     doc.add_raw(raw)
 
 
@@ -168,7 +182,7 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         root_path / "front_matter.yaml", 
         str(program), 
         created_at=program.created(),
-        image=_get_default_program_image(program)
+        image=_get_program_image(program)
     )
     doc.add_paragraph(
         f"Welcome to the {program} page! Here, you'll find the source code for this program "
@@ -227,21 +241,63 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         log.exception(f"Failed to write {path}")
 
 
-def _get_default_program_image(program: subete.SampleProgram) -> str:
+def _get_program_image(program: subete.SampleProgram) -> Optional[str]:
     """
-    Gets the filename of the default image for a sample project
+    Gets the filename of the image for a sample program
 
-    :param subete.SampleProgram program: the sample program to get the default image for.
+    :param subete.SampleProgram program: the sample program to get the image for.
+    :return: Filename of image if found, None otherwise.
+    """
+    project_path = program.project_pathlike_name()
+    language_path = program.language_pathlike_name()
+    image_path = pathlib.Path(f"sources/programs/{project_path}/{language_path}")
+    return _get_image(
+        image_path,
+        f"{project_path}-in-{language_path}",
+        _get_project_image(program.project())
+    )
+
+
+@functools.lru_cache()
+def _get_project_image(project: subete.Project) -> Optional[str]:
+    """
+    Gets the filename of the image for a project
+
+    :param subete.Project project: the project to create the index file 
+        for in the normalized form (e.g., hello-world).
+    :return: Filename of image if found, None otherwise.
+    """
+
+    project_path = project.pathlike_name()
+    image_path = pathlib.Path(f"sources/projects/{project_path}")
+    return _get_image(
+        image_path,
+        f"{project_path}-in-every-language",
+        _get_default_project_image()
+    )
+
+
+@functools.lru_cache()
+def _get_default_project_image() -> Optional[str]:
+    """
+    Gets the filename of the default project image
+
     :return: Filename of image if found, None otherwise
     """
 
-    image_path: pathlib.Path = pathlib.Path("sources/images")
-    filename_no_ext = f"{program.project_pathlike_name()}-in-every-language"
-    for path in image_path.iterdir():
-        if path.stem == filename_no_ext:
-            return path.name
+    _get_image(pathlib.Path("sources"), DEFAULT_PROJECT_IMAGE_NO_EXT)
+
+
+@functools.lru_cache()
+def _get_image(
+    image_path: pathlib.Path, filename_prefix_no_ext: str, default_filename: Optional[str] = None
+) -> str:
+    if image_path.is_dir():
+        path = next(image_path.glob("featured-image.*"), None)
+        if path:
+            return f"{filename_prefix_no_ext}{path.suffix}"
         
-    return None
+    return default_filename
 
 
 def _generate_project_index(project: subete.Project, previous: subete.Project, next: subete.Project):
@@ -258,7 +314,7 @@ def _generate_project_index(project: subete.Project, previous: subete.Project, n
         doc,
         root_path / "front_matter.yaml",
         project.name(),
-        image="programming-projects-in-every-language.jpg"
+        image=_get_project_image(project)
     )
     doc.add_paragraph(
         f"Welcome to the {project.name()} page! Here, you'll find a description "
@@ -289,7 +345,9 @@ def _generate_project_index(project: subete.Project, previous: subete.Project, n
 def _generate_language_index(language: subete.LanguageCollection):
     """
     Creates a language file for a single language. The path is assumed
-    to be `languages/language/index.md`. 
+    to be `languages/language/index.md`.
+
+    :param subete.LanguageCollection language: the collection sample programs for a language.
     """
     doc: snakemd.Document = snakemd.new_doc()
     root_path = pathlib.Path(f"languages/{language.pathlike_name()}")
@@ -299,7 +357,7 @@ def _generate_language_index(language: subete.LanguageCollection):
         root_path / "front_matter.yaml",
         f"The {language} Programming Language",
         created_at=oldest_program.created(),
-        image="programming-languages.jpg"
+        image=_get_language_image(language)
     )
     doc.add_paragraph(
         f"Welcome to the {language} page! Here, you'll find a description "
@@ -314,10 +372,39 @@ def _generate_language_index(language: subete.LanguageCollection):
         log.exception(f"Failed to write {language.pathlike_name()}")
 
 
+def _get_language_image(language: subete.LanguageCollection) -> Optional[str]:
+    """
+    Get image filename for a language
+
+    :param subete.LanguageCollection language: the collection sample programs for a language.
+    :return: Filename of image if found, None otherwise.
+    """
+    language_path = language.pathlike_name()
+    image_path = pathlib.Path(f"sources/languages/{language_path}")
+    return _get_image(
+        image_path,
+        f"the-{language_path}-programming-language",
+        _get_default_language_image()
+    )
+
+
+@functools.lru_cache()
+def _get_default_language_image() -> Optional[str]:
+    """
+    Get default language image filename
+
+    :return: Filename of image if found, None otherwise.
+    """
+
+    return _get_image(pathlib.Path("sources/languages"), DEFAULT_LANGUAGE_IMAGE_NO_EXT)
+
+
 def generate_project_paths(repo: subete.Repo):
     """
     Creates the project directory which contains all of the project folders
     and index.md files.
+
+    :param subete.Repo repo: the repo to pull from.
     """
     projects = repo.approved_projects()
     projects.sort(key=lambda x: x.name().casefold())
@@ -332,6 +419,8 @@ def generate_project_paths(repo: subete.Repo):
 def generate_sample_programs(repo: subete.Repo):
     """
     Creates the language folders in each project directory.
+
+    :param subete.Repo repo: the repo to pull from.
     """
     for language in repo:
         language: subete.LanguageCollection
@@ -349,6 +438,8 @@ def generate_language_paths(repo: subete.Repo):
     """
     Creates the language directory which contains all of the language folders
     and index.md files. 
+
+    :param subete.Repo repo: the repo to pull from.
     """
     for language in repo:
         log.info("Generating language paths for %s", str(language))
@@ -361,6 +452,8 @@ def generate_language_paths(repo: subete.Repo):
 def generate_auto_gen_test_docs(repo: subete.Repo):
     """
     Generate auto-generated test documentation
+
+    :param subete.Repo repo: the repo to pull from.
     """
     log.info("Generating test documentation")
     curr_dir = os.getcwd()
@@ -377,6 +470,8 @@ def generate_auto_gen_test_docs(repo: subete.Repo):
 def generate_languages_index(repo: subete.Repo):
     """
     Creates the index.md files for the root directories.
+
+    :param subete.Repo repo: the repo to pull from.
     """
     log.info("Generating language index")
     language_index_path = pathlib.Path("docs/languages")
@@ -391,7 +486,7 @@ def generate_languages_index(repo: subete.Repo):
         "Programming Languages",
         created_at=oldest_program.created(),
         last_modified=newest_program.created(),
-        image="programming-languages.jpg"
+        image=_get_default_language_image()
     )
     language_index.add_paragraph(
         "Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. "
@@ -425,6 +520,11 @@ def generate_languages_index(repo: subete.Repo):
 
 
 def generate_projects_index(repo: subete.Repo):
+    """
+    Generate index.md for file for Projects page
+
+    :param subete.Repo repo: the repo to pull from.
+    """
     log.info("Generating projects index")
     projects_index_path = pathlib.Path("docs/projects")
     projects_index: snakemd.Document = snakemd.new_doc()
@@ -438,7 +538,7 @@ def generate_projects_index(repo: subete.Repo):
         "Programming Projects in Every Language",
         created_at=oldest_program.created(),
         last_modified=newest_program.created(),
-        image="programming-projects-in-every-language.jpg"
+        image=_get_default_project_image()
     )
     project_tests = sum(
         1 if project.has_testing() else 0 
@@ -464,39 +564,159 @@ def generate_projects_index(repo: subete.Repo):
     projects_index.dump("index", dir=str(projects_index_path))
 
 
-def generate_images() -> int:
+def copy_article_images(repo: subete.Repo):
+    """
+    Copy article images to the appropriate directory
+
+    :param subete.Repo repo: the repo to pull from.
+    """
+    _copy_language_images(repo)
+    _copy_project_images(repo)
+    _copy_program_images(repo)
+
+
+def _copy_language_images(repo: subete.Repo):
+    language: subete.LanguageCollection
+    for language in repo:
+        language_path = language.pathlike_name()
+        _copy_image(
+            f"sources/languages/{language_path}",
+            f"docs/assets/images/languages/{language_path}"
+        )
+
+
+def _copy_project_images(repo: subete.Repo):
+    project: subete.Project
+    for project in repo.approved_projects():
+        project_path = project.pathlike_name()
+        _copy_image(
+            f"sources/projects/{project_path}",
+            f"docs/assets/images/projects/{project_path}"
+        )
+
+
+def _copy_program_images(repo: subete.Repo):
+    language: subete.LanguageCollection
+    for language in repo:
+        language_path = language.pathlike_name()
+        program: subete.SampleProgram
+        for program in repo[str(language)]:
+            project_path = program.project_pathlike_name()
+            _copy_image(
+                f"sources/programs/{project_path}/{language_path}",
+                f"docs/assets/images/projects/{project_path}/{language_path}"
+            )
+
+
+def _copy_image(src_dir: str, dest_dir: str):
+    src_dir_path = pathlib.Path(src_dir)
+    dest_dir_path = pathlib.Path(dest_dir)
+    if not src_dir_path.exists():
+        return
+
+    src_image_paths = [
+        path
+        for path in src_dir_path.iterdir()
+        if path.is_file() and path.stem != "featured-image" and imghdr.what(path)
+    ]
+    if src_image_paths:
+        os.makedirs(dest_dir, exist_ok=True)
+        for src_image_path in src_image_paths:
+            dest_image_path = dest_dir_path / src_image_path.name
+            log.info("Copying image %s -> %s", str(src_image_path), str(dest_image_path))
+            shutil.copy(src_image_path, dest_image_path)
+
+
+def generate_images(repo: subete.Repo) -> int:
     """
     Use image-titler to resize and crop images and add logo
 
+    :param subete.Repo repo: the repo to pull from.
     :return: 0 if no error, non-zero otherwise
     """
 
-    status_code = 0
-    src = pathlib.Path("sources/images")
+    with tempfile.TemporaryDirectory() as temp_dir:
+        status_code = 0
+        status_code = _generate_language_images(repo, temp_dir, status_code)
+        status_code = _generate_project_images(repo, temp_dir, status_code)
+        status_code = _generate_program_images(repo, temp_dir, status_code)
+    return status_code
+
+
+def _generate_language_images(repo: subete.Repo, temp_dir: str, status_code: int) -> int:
+    status_code = _generate_image(
+        temp_dir, "sources/languages", DEFAULT_LANGUAGE_IMAGE_NO_EXT, status_code
+    )
+    language: subete.LanguageCollection
+    for language in repo:
+        language_path = language.pathlike_name()
+        status_code = _generate_image(
+            temp_dir, f"sources/{language_path}", language_path, status_code
+        )
+
+    return status_code
+
+
+def _generate_project_images(repo: subete.Repo, temp_dir: str, status_code: int) -> int:
+    status_code = _generate_image(
+        temp_dir, "sources/projects", DEFAULT_PROJECT_IMAGE_NO_EXT, status_code
+    )
+    for project in repo.approved_projects():
+        project_path = project.pathlike_name()
+        status_code = _generate_image(
+            temp_dir,
+            f"sources/projects/{project_path}",
+            f"{project_path}-in-every-language",
+            status_code
+        )
+
+
+def _generate_program_images(repo:subete.Repo, temp_dir: str, status_code: int) -> int:
+    status_code = _generate_image(
+        temp_dir, "sources", DEFAULT_PROGRAM_IMAGE_NO_EXT, status_code
+    )
+    language: subete.LanguageCollection
+    for language in repo:
+        language_path = language.pathlike_name()
+        program: subete.SampleProgram
+        for program in repo[str(language)]:
+            program_path = program.project_pathlike_name()
+            status_code = _generate_image(
+                temp_dir,
+                f"sources/programs/{program_path}/{language_path}",
+                f"{program_path}-in-{language_path}",
+                status_code
+            )
+
+    return status_code
+
+
+def _generate_image(temp_dir: str, src: str, dest_filename_no_ext: str, status_code: int) -> int:
+    src_image_path = next(pathlib.Path(src).glob("featured-image.*"), None)
+    if not src_image_path:
+        return status_code
+
     dest = pathlib.Path("docs/assets/images")
     logo = str(dest / "icon-small.png")
-    with tempfile.TemporaryDirectory() as temp_dir:
-        for src_image_path in pathlib.Path(src).iterdir():
-            log.info("Processing %s", str(src_image_path))
-            try:
-                subprocess.run(
-                    [
-                        "image-titler",
-                        "--path", str(src_image_path),
-                        "--output", temp_dir,
-                        "--logo", logo,
-                        "--no_title"
-                    ],
-                    check=True
-                )
-            except subprocess.CalledProcessError as exc:
-                status_code = 1
-                log.error("image-titler exited with %d status", exc.returncode)
-                continue
 
-            dest_image_path = dest / src_image_path.name
-            temp_image_path = next(pathlib.Path(temp_dir).iterdir())
-            shutil.move(temp_image_path, dest_image_path)
+    dest_image_path = dest / f"{dest_filename_no_ext}{src_image_path.suffix}"
+    log.info("Processing %s -> %s", str(src_image_path), str(dest_image_path))
+    try:
+        subprocess.run(
+            [
+                "image-titler",
+                "--path", str(src_image_path),
+                "--output", temp_dir,
+                "--logo", logo,
+                "--no_title"
+            ],
+            check=True
+        )
+        temp_image_path = next(pathlib.Path(temp_dir).iterdir())
+        shutil.move(temp_image_path, dest_image_path)
+    except subprocess.CalledProcessError as exc:
+        log.error("image-titler exited with %d status", exc.returncode)
+        status_code = 1
 
     return status_code
 
@@ -531,5 +751,6 @@ if __name__ == "__main__":
     generate_sample_programs(repo)
     generate_languages_index(repo)
     generate_projects_index(repo)
-    status_code = generate_images()
+    copy_article_images(repo)
+    status_code = generate_images(repo)
     sys.exit(status_code)

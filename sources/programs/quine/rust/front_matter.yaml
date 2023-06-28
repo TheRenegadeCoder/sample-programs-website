@@ -1,7 +1,4 @@
-title: Quine in Rust
-layout: default
 last-modified: 2023-04-05
-featured-image: quine-in-rust.jpg
 tags: [rust, quine]
 authors:
   - rzuckerm

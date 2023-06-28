@@ -1,4 +1,5 @@
-snakemd~=2.0.0
+snakemd~=2.1.0
 subete~=0.16.0
 image-titler~=2.4.0
-glotter2~=0.6.0
+glotter2~=0.7.0
+pyyaml~=6.0

@@ -36,12 +36,14 @@ just press Ctrl+C to exit the web server.
 
 ## Where to Put Images
 
-Images for articles that are suppose to be modified by [image-titler][image-titler] should be
-placed in `sources/images`. The filename should look like this:
+The top image in an article is called the "featured image", and it always has the name
+`featured-image.<extension>`, where `<extension>` is the filename extension (such as `jpg`,
+`png`, etc.). The images are modified by [image-titler][image-titler]. In general, all images
+go in the same directory as the rest of the article files:
 
-```
-<project>-in-<language>.<extension>
-```
+* Language article: `sources/languages/<language>`
+* Sample program article: `sources/programs/<language>/<project>`
+* Project article: `sources/projects/<project>`
 
 where:
 
@@ -52,13 +54,6 @@ where:
   - `c-plus-plus` for `C++`
   - `c-sharp` for `C#`
   - `google-apps-script` for `Google Apps Script`
-- `<extension>` is the image file extension, such as `jpg`, `png`, etc.
-
-All other images are stored in the following directories:
-
-- Project: `docs/assets/projects/<project>`
-- Language: `docs/assets/languages/<language>`
-- Sample Program: `docs/assets/projects/<project>/<language>`
 
 In the article, you can reference these like this:
 
@@ -66,9 +61,15 @@ In the article, you can reference these like this:
 ![Name of image](<image-directory>/<image-filename>)
 ```
 
-where `<image-directory>` is the directory where the image is stored without `docs`.
+where `<image-directory>` is the directory is one of the following, and `<image-filename>`
+is the filename of the image:
+
+* Language article: `/assets/images/languages/<language>`
+* Sample program article: `/assets/images/programs/<language>/<project>`
+* Project article: `/assets/images/programs/<project>`
+
 For example:
 
 ```markdown
-![Space Loop 1](/assets/images/projects/baklava/piet/space-loop1.png)
+![Annotated Baklava in Piet](/assets/images/projects/baklava/piet/baklava-annotated.png)
 ```
