@@ -65,8 +65,8 @@ where `<image-directory>` is the directory is one of the following, and `<image-
 is the filename of the image:
 
 * Language article: `/assets/images/languages/<language>`
-* Sample program article: `/assets/images/programs/<language>/<project>`
-* Project article: `/assets/images/programs/<project>`
+* Sample program article: `/assets/images/projects/<language>/<project>`
+* Project article: `/assets/images/projects/<project>`
 
 For example:
 
