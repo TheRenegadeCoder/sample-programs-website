@@ -1,10 +1,9 @@
 ---
-title: Job Sequencing in Javascript
-layout: default
-date: 2020-10-07
+date: '2020-10-07'
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: 2020-10-07
-
+last-modified: '2020-10-07'
+layout: default
+title: Job Sequencing in Javascript
 ---
 
 Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.

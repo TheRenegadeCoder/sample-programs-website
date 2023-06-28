@@ -1,10 +1,9 @@
 ---
-title: Maximum Subarray in Mathematica
-layout: default
-date: 2023-01-20
+date: '2023-01-20'
 featured-image: maximum-subarray-in-every-language.jpg
-last-modified: 2023-01-20
-
+last-modified: '2023-01-20'
+layout: default
+title: Maximum Subarray in Mathematica
 ---
 
 Welcome to the [Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.

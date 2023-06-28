@@ -1,10 +1,9 @@
 ---
-title: Hello World in Whitespace
-layout: default
-date: 2019-10-04
+date: '2019-10-04'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2019-10-04
-
+last-modified: '2019-10-04'
+layout: default
+title: Hello World in Whitespace
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Whitespace](https://sampleprograms.io/languages/whitespace) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: The Modula2 Programming Language
-layout: default
-date: 2020-10-02
+date: '2020-10-02'
 featured-image: programming-languages.jpg
-last-modified: 2020-10-02
-
+last-modified: '2020-10-02'
+layout: default
+title: The Modula2 Programming Language
 ---
 
 Welcome to the Modula2 page! Here, you'll find a description of the language as well as a list of sample programs in that language.

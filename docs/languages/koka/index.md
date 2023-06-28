@@ -1,13 +1,13 @@
 ---
-title: The Koka Programming Language
-layout: default
-date: 2020-05-02
-last-modified: 2022-05-18
-featured-image: programming-languages.jpg
-tags: [koka]
 authors:
-  - bassem_mohamed
-
+- bassem_mohamed
+date: 2020-05-02
+featured-image: programming-languages.jpg
+last-modified: 2022-05-18
+layout: default
+tags:
+- koka
+title: The Koka Programming Language
 ---
 
 Welcome to the Koka page! Here, you'll find a description of the language as well as a list of sample programs in that language.

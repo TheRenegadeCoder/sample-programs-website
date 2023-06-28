@@ -1,10 +1,9 @@
 ---
-title: Quick Sort in Rust
-layout: default
-date: 2022-10-03
+date: '2022-10-03'
 featured-image: quick-sort-in-every-language.jpg
-last-modified: 2022-10-03
-
+last-modified: '2022-10-03'
+layout: default
+title: Quick Sort in Rust
 ---
 
 Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

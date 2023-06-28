@@ -1,10 +1,9 @@
 ---
-title: Baklava in Dart
-layout: default
-date: 2019-10-21
+date: '2019-10-21'
 featured-image: baklava-in-every-language.jpg
-last-modified: 2019-10-21
-
+last-modified: '2019-10-21'
+layout: default
+title: Baklava in Dart
 ---
 
 Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.

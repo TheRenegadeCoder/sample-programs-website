@@ -1,10 +1,9 @@
 ---
-title: Capitalize in Julia
-layout: default
-date: 2022-10-02
+date: '2022-10-02'
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2022-10-02
-
+last-modified: '2022-10-02'
+layout: default
+title: Capitalize in Julia
 ---
 
 Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Julia](https://sampleprograms.io/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.

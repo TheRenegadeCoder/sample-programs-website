@@ -1,10 +1,9 @@
 ---
-title: The Egison Programming Language
-layout: default
-date: 2018-10-24
+date: '2018-10-24'
 featured-image: programming-languages.jpg
-last-modified: 2018-10-24
-
+last-modified: '2018-10-24'
+layout: default
+title: The Egison Programming Language
 ---
 
 Welcome to the Egison page! Here, you'll find a description of the language as well as a list of sample programs in that language.

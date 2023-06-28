@@ -1,10 +1,9 @@
 ---
-title: File Input Output in Go
-layout: default
-date: 2019-03-05
+date: '2019-03-05'
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2019-03-05
-
+last-modified: '2019-03-05'
+layout: default
+title: File Input Output in Go
 ---
 
 Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Baklava in Elixir
-layout: default
-date: 2019-05-22
+date: '2019-05-22'
 featured-image: baklava-in-every-language.jpg
-last-modified: 2019-05-22
-
+last-modified: '2019-05-22'
+layout: default
+title: Baklava in Elixir
 ---
 
 Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Elixir](https://sampleprograms.io/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.

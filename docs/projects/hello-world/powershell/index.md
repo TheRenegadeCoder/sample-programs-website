@@ -1,12 +1,13 @@
 ---
-title: Hello World in PowerShell
-layout: default
-last-modified: 2020-10-15
-featured-image: hello-world-in-powershell.jpg
-tags: [powershell, hello-world]
 authors:
-  - alcha
-
+- alcha
+featured-image: hello-world-in-powershell.jpg
+last-modified: 2020-10-15
+layout: default
+tags:
+- powershell
+- hello-world
+title: Hello World in Powershell
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.

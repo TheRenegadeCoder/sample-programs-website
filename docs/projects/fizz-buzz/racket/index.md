@@ -1,10 +1,9 @@
 ---
-title: Fizz Buzz in Racket
-layout: default
-date: 2020-10-02
+date: '2020-10-02'
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2020-10-02
-
+last-modified: '2020-10-02'
+layout: default
+title: Fizz Buzz in Racket
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Racket](https://sampleprograms.io/languages/racket) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Prime Number in Fortran
-layout: default
-date: 2020-10-30
+date: '2020-10-30'
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2020-10-30
-
+last-modified: '2020-10-30'
+layout: default
+title: Prime Number in Fortran
 ---
 
 Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Fortran](https://sampleprograms.io/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.

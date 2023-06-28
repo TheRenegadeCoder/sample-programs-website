@@ -1,10 +1,9 @@
 ---
-title: Longest Common Subsequence in Kotlin
-layout: default
-date: 2020-10-05
+date: '2020-10-05'
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: 2020-10-05
-
+last-modified: '2020-10-05'
+layout: default
+title: Longest Common Subsequence in Kotlin
 ---
 
 Welcome to the [Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.

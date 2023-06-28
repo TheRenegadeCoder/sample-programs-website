@@ -1,10 +1,9 @@
 ---
-title: Quine in Php
-layout: default
-date: 2019-10-18
+date: '2019-10-18'
 featured-image: quine-in-every-language.jpg
-last-modified: 2019-10-18
-
+last-modified: '2019-10-18'
+layout: default
+title: Quine in Php
 ---
 
 Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

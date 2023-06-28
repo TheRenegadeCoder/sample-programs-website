@@ -1,10 +1,9 @@
 ---
-title: Prime Number in Kotlin
-layout: default
-date: 2020-10-08
+date: '2020-10-08'
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2020-10-08
-
+last-modified: '2020-10-08'
+layout: default
+title: Prime Number in Kotlin
 ---
 
 Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.

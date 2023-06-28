@@ -1,10 +1,9 @@
 ---
-title: Capitalize in Lisp
-layout: default
-date: 2020-10-09
+date: '2020-10-09'
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2020-10-09
-
+last-modified: '2020-10-09'
+layout: default
+title: Capitalize in Lisp
 ---
 
 Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Lisp](https://sampleprograms.io/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.

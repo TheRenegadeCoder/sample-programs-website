@@ -1,10 +1,9 @@
 ---
-title: Hello World in Clipper
-layout: default
-date: 2018-07-05
+date: '2018-07-05'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-07-05
-
+last-modified: '2018-07-05'
+layout: default
+title: Hello World in Clipper
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Clipper](https://sampleprograms.io/languages/clipper) page! Here, you'll find the source code for this program as well as a description of how the program works.

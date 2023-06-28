@@ -1,12 +1,13 @@
 ---
-title: Hello World in Emojicode
-layout: default
-last-modified: 2020-09-30
-featured-image: hello-world-in-emojicode.jpg
-tags: [emojicode, hello-world]
 authors:
-  - bracciata
-
+- bracciata
+featured-image: hello-world-in-emojicode.jpg
+last-modified: 2020-09-30
+layout: default
+tags:
+- emojicode
+- hello-world
+title: Hello World in Emojicode
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Emojicode](https://sampleprograms.io/languages/emojicode) page! Here, you'll find the source code for this program as well as a description of how the program works.

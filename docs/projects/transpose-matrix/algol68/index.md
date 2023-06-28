@@ -1,10 +1,9 @@
 ---
-title: Transpose Matrix in Algol68
-layout: default
-date: 2023-02-06
+date: '2023-02-06'
 featured-image: transpose-matrix-in-every-language.jpg
-last-modified: 2023-02-06
-
+last-modified: '2023-02-06'
+layout: default
+title: Transpose Matrix in Algol68
 ---
 
 Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.

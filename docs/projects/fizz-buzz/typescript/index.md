@@ -1,10 +1,9 @@
 ---
-title: Fizz Buzz in Typescript
-layout: default
-date: 2018-10-11
+date: '2018-10-11'
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2018-10-11
-
+last-modified: '2018-10-11'
+layout: default
+title: Fizz Buzz in Typescript
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.

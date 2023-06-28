@@ -1,10 +1,9 @@
 ---
-title: Hello World in Granule
-layout: default
-date: 2022-12-06
+date: '2022-12-06'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2022-12-06
-
+last-modified: '2022-12-06'
+layout: default
+title: Hello World in Granule
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Granule](https://sampleprograms.io/languages/granule) page! Here, you'll find the source code for this program as well as a description of how the program works.

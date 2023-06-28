@@ -1,10 +1,9 @@
 ---
-title: Prime Number in Go
-layout: default
-date: 2019-05-02
+date: '2019-05-02'
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2019-05-02
-
+last-modified: '2019-05-02'
+layout: default
+title: Prime Number in Go
 ---
 
 Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.

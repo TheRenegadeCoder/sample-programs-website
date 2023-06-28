@@ -1,10 +1,9 @@
 ---
-title: Transpose Matrix in Euphoria
-layout: default
-date: 2023-02-27
+date: '2023-02-27'
 featured-image: transpose-matrix-in-every-language.jpg
-last-modified: 2023-02-27
-
+last-modified: '2023-02-27'
+layout: default
+title: Transpose Matrix in Euphoria
 ---
 
 Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,12 +1,12 @@
 ---
-title: The Ruby Programming Language
-layout: default
-last-modified: 2021-08-12
-featured-image: programming-languages.jpg
-tags: [ruby]
 authors:
-  - the_renegade_coder
-
+- the_renegade_coder
+featured-image: programming-languages.jpg
+last-modified: 2021-08-12
+layout: default
+tags:
+- ruby
+title: The Ruby Programming Language
 ---
 
 Welcome to the Ruby page! Here, you'll find a description of the language as well as a list of sample programs in that language.

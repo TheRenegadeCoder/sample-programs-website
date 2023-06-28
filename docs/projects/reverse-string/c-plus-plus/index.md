@@ -1,10 +1,9 @@
 ---
-title: Reverse String in C++
-layout: default
-date: 2018-09-14
+date: '2018-09-14'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2018-09-14
-
+last-modified: '2018-09-14'
+layout: default
+title: Reverse String in C++
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.

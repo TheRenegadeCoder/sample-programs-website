@@ -1,10 +1,9 @@
 ---
-title: Insertion Sort in Matlab
-layout: default
-date: 2020-10-05
+date: '2020-10-05'
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: 2020-10-05
-
+last-modified: '2020-10-05'
+layout: default
+title: Insertion Sort in Matlab
 ---
 
 Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Matlab](https://sampleprograms.io/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.

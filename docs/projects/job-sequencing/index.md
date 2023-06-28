@@ -1,13 +1,13 @@
 ---
-title: Job Sequencing in Every Language
-layout: default
-date: 2018-11-03
-last-modified: 2020-05-02
-featured-image: job-sequencing-in-every-language.jpg
-tags: [job-sequencing]
 authors:
-  - the_renegade_coder
-
+- the_renegade_coder
+date: 2018-11-03
+featured-image: job-sequencing-in-every-language.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- job-sequencing
+title: Job Sequencing
 ---
 
 Welcome to the Job Sequencing page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

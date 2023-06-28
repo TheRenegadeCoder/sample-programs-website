@@ -1,12 +1,13 @@
 ---
-title: Hello World in Opa
-layout: default
-last-modified: 2020-10-15
-featured-image: hello-world-in-opa.jpg
-tags: [opa, hello-world]
 authors:
-  - nicovillanueva
-
+- nicovillanueva
+featured-image: hello-world-in-opa.jpg
+last-modified: 2020-10-15
+layout: default
+tags:
+- opa
+- hello-world
+title: Hello World in Opa
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Opa](https://sampleprograms.io/languages/opa) page! Here, you'll find the source code for this program as well as a description of how the program works.

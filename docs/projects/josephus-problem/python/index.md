@@ -1,10 +1,9 @@
 ---
-title: Josephus Problem in Python
-layout: default
-date: 2022-12-30
+date: '2022-12-30'
 featured-image: josephus-problem-in-every-language.jpg
-last-modified: 2022-12-30
-
+last-modified: '2022-12-30'
+layout: default
+title: Josephus Problem in Python
 ---
 
 Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

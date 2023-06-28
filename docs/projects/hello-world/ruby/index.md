@@ -1,10 +1,9 @@
 ---
-title: Hello World in Ruby
+date: '2018-03-21'
+featured-image: hello-world-in-ruby.jpg
+last-modified: '2018-03-21'
 layout: default
-date: 2018-03-21
-featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-03-21
-
+title: Hello World in Ruby
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Bubble Sort in Perl
-layout: default
-date: 2020-10-02
+date: '2020-10-02'
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2020-10-02
-
+last-modified: '2020-10-02'
+layout: default
+title: Bubble Sort in Perl
 ---
 
 Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.

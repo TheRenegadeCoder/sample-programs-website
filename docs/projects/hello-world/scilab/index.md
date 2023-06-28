@@ -1,10 +1,9 @@
 ---
-title: Hello World in Scilab
-layout: default
-date: 2021-05-25
+date: '2021-05-25'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2021-05-25
-
+last-modified: '2021-05-25'
+layout: default
+title: Hello World in Scilab
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Scilab](https://sampleprograms.io/languages/scilab) page! Here, you'll find the source code for this program as well as a description of how the program works.

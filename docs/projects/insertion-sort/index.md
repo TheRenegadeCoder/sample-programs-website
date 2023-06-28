@@ -1,13 +1,13 @@
 ---
-title: Insertion Sort in Every Language 
-layout: default
-date: 2018-12-16
-last-modified: 2020-05-02
-featured-image: insertion-sort-in-every-language.jpg
-tags: [insertion-sort]
 authors:
-  - auroq
-
+- auroq
+date: 2018-12-16
+featured-image: insertion-sort-in-every-language.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- insertion-sort
+title: Insertion Sort
 ---
 
 Welcome to the Insertion Sort page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

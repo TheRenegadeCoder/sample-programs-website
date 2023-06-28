@@ -1,12 +1,13 @@
 ---
-title: Reverse a String in JavaScript
-layout: default
-last-modified: 2020-05-02
-featured-image: reverse-string-in-every-language.jpg
-tags: [javascript, reverse-string]
 authors:
-  - herrfugbaum
-
+- herrfugbaum
+featured-image: reverse-string-in-every-language.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- javascript
+- reverse-string
+title: Reverse String in Javascript
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.

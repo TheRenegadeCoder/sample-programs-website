@@ -1,10 +1,9 @@
 ---
-title: Hello World in Tcl
-layout: default
-date: 2018-04-19
+date: '2018-04-19'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-04-19
-
+last-modified: '2018-04-19'
+layout: default
+title: Hello World in Tcl
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Tcl](https://sampleprograms.io/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.

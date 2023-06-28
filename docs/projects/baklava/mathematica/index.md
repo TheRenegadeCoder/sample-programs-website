@@ -1,10 +1,9 @@
 ---
-title: Baklava in Mathematica
-layout: default
-date: 2023-01-16
+date: '2023-01-16'
 featured-image: baklava-in-every-language.jpg
-last-modified: 2023-01-16
-
+last-modified: '2023-01-16'
+layout: default
+title: Baklava in Mathematica
 ---
 
 Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.

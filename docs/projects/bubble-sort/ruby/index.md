@@ -1,10 +1,9 @@
 ---
-title: Bubble Sort in Ruby
-layout: default
-date: 2019-03-20
+date: '2019-03-20'
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2019-03-20
-
+last-modified: '2019-03-20'
+layout: default
+title: Bubble Sort in Ruby
 ---
 
 Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.

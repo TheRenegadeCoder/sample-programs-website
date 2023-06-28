@@ -1,10 +1,9 @@
 ---
-title: Even Odd in Pascal
-layout: default
-date: 2020-10-18
+date: '2020-10-18'
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2020-10-18
-
+last-modified: '2020-10-18'
+layout: default
+title: Even Odd in Pascal
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Pascal](https://sampleprograms.io/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.

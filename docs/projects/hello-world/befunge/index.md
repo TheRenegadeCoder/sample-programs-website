@@ -1,12 +1,13 @@
 ---
-title: Hello World in Befunge
-layout: default
-last-modified: 2020-05-02
-featured-image: hello-world-in-befunge.jpg
-tags: [befunge, hello-world]
 authors:
-  - stuin
-
+- stuin
+featured-image: hello-world-in-befunge.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- befunge
+- hello-world
+title: Hello World in Befunge
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Befunge](https://sampleprograms.io/languages/befunge) page! Here, you'll find the source code for this program as well as a description of how the program works.

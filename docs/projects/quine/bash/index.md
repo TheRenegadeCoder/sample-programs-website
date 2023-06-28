@@ -1,10 +1,9 @@
 ---
-title: Quine in Bash
-layout: default
-date: 2020-10-04
+date: '2020-10-04'
 featured-image: quine-in-every-language.jpg
-last-modified: 2020-10-04
-
+last-modified: '2020-10-04'
+layout: default
+title: Quine in Bash
 ---
 
 Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.

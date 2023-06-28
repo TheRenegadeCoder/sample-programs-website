@@ -1,10 +1,9 @@
 ---
-title: Factorial in Matlab
-layout: default
-date: 2019-10-11
+date: '2019-10-11'
 featured-image: factorial-in-every-language.jpg
-last-modified: 2019-10-11
-
+last-modified: '2019-10-11'
+layout: default
+title: Factorial in Matlab
 ---
 
 Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Matlab](https://sampleprograms.io/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.

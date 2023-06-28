@@ -1,12 +1,13 @@
 ---
-title: Hello World in Scheme
-layout: default
-last-modified: 2020-05-02
-featured-image: hello-world-in-scheme.jpg
-tags: [scheme, hello-world]
 authors:
-  - the_renegade_coder
-
+- the_renegade_coder
+featured-image: hello-world-in-scheme.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- scheme
+- hello-world
+title: Hello World in Scheme
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Scheme](https://sampleprograms.io/languages/scheme) page! Here, you'll find the source code for this program as well as a description of how the program works.

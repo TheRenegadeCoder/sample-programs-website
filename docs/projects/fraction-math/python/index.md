@@ -1,12 +1,13 @@
 ---
-title: Fractions in Python
-layout: default
-last-modified: 2020-05-02
-featured-image: fraction-math-in-every-language.jpg
-tags: [python, fraction-math]
 authors:
-  - niraj-kamdar
-
+- niraj-kamdar
+featured-image: fraction-math-in-every-language.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- python
+- fraction-math
+title: Fraction Math in Python
 ---
 
 Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

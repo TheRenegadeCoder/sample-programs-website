@@ -1,10 +1,9 @@
 ---
-title: Longest Common Subsequence in Java
-layout: default
-date: 2022-05-16
+date: '2022-05-16'
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: 2022-05-16
-
+last-modified: '2022-05-16'
+layout: default
+title: Longest Common Subsequence in Java
 ---
 
 Welcome to the [Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.

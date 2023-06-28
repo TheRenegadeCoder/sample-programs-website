@@ -1,10 +1,9 @@
 ---
-title: Minimum Spanning Tree in Rust
-layout: default
-date: 2023-04-20
+date: '2023-04-20'
 featured-image: minimum-spanning-tree-in-every-language.jpg
-last-modified: 2023-04-20
-
+last-modified: '2023-04-20'
+layout: default
+title: Minimum Spanning Tree in Rust
 ---
 
 Welcome to the [Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

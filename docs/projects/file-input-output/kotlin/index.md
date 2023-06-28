@@ -1,10 +1,9 @@
 ---
-title: File Input Output in Kotlin
-layout: default
-date: 2019-10-16
+date: '2019-10-16'
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2019-10-16
-
+last-modified: '2019-10-16'
+layout: default
+title: File Input Output in Kotlin
 ---
 
 Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.

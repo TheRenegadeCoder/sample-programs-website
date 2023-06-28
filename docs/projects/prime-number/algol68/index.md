@@ -1,10 +1,9 @@
 ---
-title: Prime Number in Algol68
-layout: default
-date: 2023-01-20
+date: '2023-01-20'
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2023-01-20
-
+last-modified: '2023-01-20'
+layout: default
+title: Prime Number in Algol68
 ---
 
 Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.

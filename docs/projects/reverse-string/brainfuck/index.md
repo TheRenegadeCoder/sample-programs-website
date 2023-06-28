@@ -1,10 +1,9 @@
 ---
-title: Reverse String in Brainfuck
-layout: default
-date: 2018-08-23
+date: '2018-08-23'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2018-08-23
-
+last-modified: '2018-08-23'
+layout: default
+title: Reverse String in Brainfuck
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Brainfuck](https://sampleprograms.io/languages/brainfuck) page! Here, you'll find the source code for this program as well as a description of how the program works.

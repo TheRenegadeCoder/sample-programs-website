@@ -1,12 +1,12 @@
 ---
-title: The Google Apps Script Programming Language
-layout: default
-last-modified: 2020-05-02
-featured-image: programming-languages.jpg
-tags: [google-apps-script]
 authors:
-  - the_renegade_coder
-
+- the_renegade_coder
+featured-image: programming-languages.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- google-apps-script
+title: The Google Apps Script Programming Language
 ---
 
 Welcome to the Google Apps Script page! Here, you'll find a description of the language as well as a list of sample programs in that language.

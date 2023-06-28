@@ -1,10 +1,9 @@
 ---
-title: Hello World in Ti Basic
-layout: default
-date: 2019-10-01
+date: '2019-10-01'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2019-10-01
-
+last-modified: '2019-10-01'
+layout: default
+title: Hello World in Ti Basic
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Ti Basic](https://sampleprograms.io/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.

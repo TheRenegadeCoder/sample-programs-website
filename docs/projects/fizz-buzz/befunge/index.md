@@ -1,12 +1,13 @@
 ---
-title: Fizz Buzz in Befunge
-layout: default
-last-modified: 2020-08-30
-featured-image: fizz-buzz-in-befunge.jpg
-tags: [befunge, fizz-buzz]
 authors:
-  - stuin
-
+- stuin
+featured-image: fizz-buzz-in-befunge.jpg
+last-modified: 2020-08-30
+layout: default
+tags:
+- befunge
+- fizz-buzz
+title: Fizz Buzz in Befunge
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Befunge](https://sampleprograms.io/languages/befunge) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,14 +1,14 @@
 ---
-title: The Brainfuck Programming Language
-layout: default
-date: 2020-05-02
-last-modified: 2022-05-11
-featured-image: programming-languages.jpg
-tags: [brainfuck]
 authors:
-  - chrboe
-  - the_renegade_coder
-
+- chrboe
+- the_renegade_coder
+date: 2020-05-02
+featured-image: programming-languages.jpg
+last-modified: 2022-05-11
+layout: default
+tags:
+- brainfuck
+title: The Brainfuck Programming Language
 ---
 
 Welcome to the Brainfuck page! Here, you'll find a description of the language as well as a list of sample programs in that language.

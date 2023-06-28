@@ -1,10 +1,9 @@
 ---
-title: Capitalize in Matlab
-layout: default
-date: 2020-10-02
+date: '2020-10-02'
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2020-10-02
-
+last-modified: '2020-10-02'
+layout: default
+title: Capitalize in Matlab
 ---
 
 Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Matlab](https://sampleprograms.io/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.

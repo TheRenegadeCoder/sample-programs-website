@@ -1,10 +1,9 @@
 ---
-title: Depth First Search in Euphoria
-layout: default
-date: 2023-02-19
+date: '2023-02-19'
 featured-image: depth-first-search-in-every-language.jpg
-last-modified: 2023-02-19
-
+last-modified: '2023-02-19'
+layout: default
+title: Depth First Search in Euphoria
 ---
 
 Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.

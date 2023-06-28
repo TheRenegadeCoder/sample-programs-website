@@ -1,10 +1,9 @@
 ---
-title: The Fortran Programming Language
-layout: default
-date: 2018-04-25
+date: '2018-04-25'
 featured-image: programming-languages.jpg
-last-modified: 2018-04-25
-
+last-modified: '2018-04-25'
+layout: default
+title: The Fortran Programming Language
 ---
 
 Welcome to the Fortran page! Here, you'll find a description of the language as well as a list of sample programs in that language.

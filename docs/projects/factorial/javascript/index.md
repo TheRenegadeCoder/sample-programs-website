@@ -1,10 +1,9 @@
 ---
-title: Factorial in Javascript
-layout: default
-date: 2019-10-10
+date: '2019-10-10'
 featured-image: factorial-in-every-language.jpg
-last-modified: 2019-10-10
-
+last-modified: '2019-10-10'
+layout: default
+title: Factorial in Javascript
 ---
 
 Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Reverse String in Groovy
-layout: default
-date: 2019-07-01
+date: '2019-07-01'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2019-07-01
-
+last-modified: '2019-07-01'
+layout: default
+title: Reverse String in Groovy
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Groovy](https://sampleprograms.io/languages/groovy) page! Here, you'll find the source code for this program as well as a description of how the program works.

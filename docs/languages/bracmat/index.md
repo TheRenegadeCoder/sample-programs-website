@@ -1,10 +1,9 @@
 ---
-title: The Bracmat Programming Language
-layout: default
-date: 2020-12-07
+date: '2020-12-07'
 featured-image: programming-languages.jpg
-last-modified: 2020-12-07
-
+last-modified: '2020-12-07'
+layout: default
+title: The Bracmat Programming Language
 ---
 
 Welcome to the Bracmat page! Here, you'll find a description of the language as well as a list of sample programs in that language.

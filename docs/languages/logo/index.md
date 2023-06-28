@@ -1,10 +1,9 @@
 ---
-title: The Logo Programming Language
-layout: default
-date: 2020-12-14
+date: '2020-12-14'
 featured-image: programming-languages.jpg
-last-modified: 2020-12-14
-
+last-modified: '2020-12-14'
+layout: default
+title: The Logo Programming Language
 ---
 
 Welcome to the Logo page! Here, you'll find a description of the language as well as a list of sample programs in that language.

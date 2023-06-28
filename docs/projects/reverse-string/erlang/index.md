@@ -1,10 +1,9 @@
 ---
-title: Reverse String in Erlang
-layout: default
-date: 2019-10-06
+date: '2019-10-06'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2019-10-06
-
+last-modified: '2019-10-06'
+layout: default
+title: Reverse String in Erlang
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Erlang](https://sampleprograms.io/languages/erlang) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Duplicate Character Counter in Php
-layout: default
-date: 2023-03-22
+date: '2023-03-22'
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2023-03-22
-
+last-modified: '2023-03-22'
+layout: default
+title: Duplicate Character Counter in Php
 ---
 
 Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

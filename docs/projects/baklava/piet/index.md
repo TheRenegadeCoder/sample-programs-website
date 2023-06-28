@@ -1,12 +1,14 @@
 ---
-title: Baklava in Piet
-layout: default
-date: 2023-04-30
-featured-image: baklava-in-piet.jpg
-tags: [piet, baklava]
 authors:
-  - rzuckerm
-
+- rzuckerm
+date: &id001 2023-04-30
+featured-image: baklava-in-piet.jpg
+last-modified: *id001
+layout: default
+tags:
+- piet
+- baklava
+title: Baklava in Piet
 ---
 
 Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Piet](https://sampleprograms.io/languages/piet) page! Here, you'll find the source code for this program as well as a description of how the program works.

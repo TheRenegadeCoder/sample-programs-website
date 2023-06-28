@@ -1,10 +1,9 @@
 ---
-title: Depth First Search in Mathematica
-layout: default
-date: 2023-01-21
+date: '2023-01-21'
 featured-image: depth-first-search-in-every-language.jpg
-last-modified: 2023-01-21
-
+last-modified: '2023-01-21'
+layout: default
+title: Depth First Search in Mathematica
 ---
 
 Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.

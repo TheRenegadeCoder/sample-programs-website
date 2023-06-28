@@ -1,10 +1,9 @@
 ---
-title: Prime Number in Rexx
-layout: default
-date: 2020-10-07
+date: '2020-10-07'
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2020-10-07
-
+last-modified: '2020-10-07'
+layout: default
+title: Prime Number in Rexx
 ---
 
 Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Rexx](https://sampleprograms.io/languages/rexx) page! Here, you'll find the source code for this program as well as a description of how the program works.

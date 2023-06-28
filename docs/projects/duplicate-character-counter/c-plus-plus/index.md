@@ -1,10 +1,9 @@
 ---
-title: Duplicate Character Counter in C++
-layout: default
-date: 2022-10-03
+date: '2022-10-03'
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2022-10-03
-
+last-modified: '2022-10-03'
+layout: default
+title: Duplicate Character Counter in C++
 ---
 
 Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.

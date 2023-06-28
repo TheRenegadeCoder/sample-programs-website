@@ -1,10 +1,9 @@
 ---
-title: Bubble Sort in Mathematica
-layout: default
-date: 2023-01-19
+date: '2023-01-19'
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2023-01-19
-
+last-modified: '2023-01-19'
+layout: default
+title: Bubble Sort in Mathematica
 ---
 
 Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.

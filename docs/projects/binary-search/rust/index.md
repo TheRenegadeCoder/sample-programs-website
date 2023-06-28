@@ -1,10 +1,9 @@
 ---
-title: Binary Search in Rust
-layout: default
-date: 2020-10-03
+date: '2020-10-03'
 featured-image: binary-search-in-every-language.jpg
-last-modified: 2020-10-03
-
+last-modified: '2020-10-03'
+layout: default
+title: Binary Search in Rust
 ---
 
 Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

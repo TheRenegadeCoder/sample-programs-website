@@ -1,10 +1,9 @@
 ---
-title: Capitalize in Bash
-layout: default
-date: 2019-10-08
+date: '2019-10-08'
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2019-10-08
-
+last-modified: '2019-10-08'
+layout: default
+title: Capitalize in Bash
 ---
 
 Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Factorial in Coffeescript
-layout: default
-date: 2019-10-11
+date: '2019-10-11'
 featured-image: factorial-in-every-language.jpg
-last-modified: 2019-10-11
-
+last-modified: '2019-10-11'
+layout: default
+title: Factorial in Coffeescript
 ---
 
 Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.

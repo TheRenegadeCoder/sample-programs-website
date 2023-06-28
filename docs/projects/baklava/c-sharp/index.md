@@ -1,10 +1,9 @@
 ---
-title: Baklava in C#
-layout: default
-date: 2018-09-17
+date: '2018-09-17'
 featured-image: baklava-in-every-language.jpg
-last-modified: 2018-09-17
-
+last-modified: '2018-09-17'
+layout: default
+title: Baklava in C#
 ---
 
 Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [C#](https://sampleprograms.io/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.

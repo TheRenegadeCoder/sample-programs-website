@@ -1,10 +1,9 @@
 ---
-title: Hello World in X86 64
-layout: default
-date: 2023-05-04
+date: '2023-05-04'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2023-05-04
-
+last-modified: '2023-05-04'
+layout: default
+title: Hello World in X86 64
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [X86 64](https://sampleprograms.io/languages/x86-64) page! Here, you'll find the source code for this program as well as a description of how the program works.

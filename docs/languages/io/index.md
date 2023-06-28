@@ -1,10 +1,9 @@
 ---
-title: The Io Programming Language
-layout: default
-date: 2021-05-24
+date: '2021-05-24'
 featured-image: programming-languages.jpg
-last-modified: 2021-05-24
-
+last-modified: '2021-05-24'
+layout: default
+title: The Io Programming Language
 ---
 
 Welcome to the Io page! Here, you'll find a description of the language as well as a list of sample programs in that language.

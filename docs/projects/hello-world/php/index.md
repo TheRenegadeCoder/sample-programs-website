@@ -1,10 +1,9 @@
 ---
-title: Hello World in Php
+date: '2018-03-31'
+featured-image: hello-world-in-php.jpg
+last-modified: '2018-03-31'
 layout: default
-date: 2018-03-31
-featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-03-31
-
+title: Hello World in Php
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Rot13 in Rust
-layout: default
-date: 2019-07-15
+date: '2019-07-15'
 featured-image: rot13-in-every-language.jpg
-last-modified: 2019-07-15
-
+last-modified: '2019-07-15'
+layout: default
+title: Rot13 in Rust
 ---
 
 Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

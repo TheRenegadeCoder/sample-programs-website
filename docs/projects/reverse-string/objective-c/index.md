@@ -1,10 +1,9 @@
 ---
-title: Reverse String in Objective C
-layout: default
-date: 2019-10-14
+date: '2019-10-14'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2019-10-14
-
+last-modified: '2019-10-14'
+layout: default
+title: Reverse String in Objective C
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Objective C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.

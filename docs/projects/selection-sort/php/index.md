@@ -1,10 +1,9 @@
 ---
-title: Selection Sort in Php
-layout: default
-date: 2019-10-16
+date: '2019-10-16'
 featured-image: selection-sort-in-every-language.jpg
-last-modified: 2019-10-16
-
+last-modified: '2019-10-16'
+layout: default
+title: Selection Sort in Php
 ---
 
 Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,12 +1,12 @@
 ---
-title: Fibonacci in Every Language
-layout: default
+authors: null
 date: 2018-11-01
-last-modified: 2020-05-02
 featured-image: fibonacci-in-every-language.jpg
-tags: [fibonacci]
-authors:
-
+last-modified: 2020-05-02
+layout: default
+tags:
+- fibonacci
+title: Fibonacci
 ---
 
 Welcome to the Fibonacci page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

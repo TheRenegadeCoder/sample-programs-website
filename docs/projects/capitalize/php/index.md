@@ -1,10 +1,9 @@
 ---
-title: Capitalize in Php
-layout: default
-date: 2019-10-12
+date: '2019-10-12'
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2019-10-12
-
+last-modified: '2019-10-12'
+layout: default
+title: Capitalize in Php
 ---
 
 Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

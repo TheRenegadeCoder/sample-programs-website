@@ -1,10 +1,9 @@
 ---
-title: Duplicate Character Counter in Euphoria
-layout: default
-date: 2023-02-19
+date: '2023-02-19'
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2023-02-19
-
+last-modified: '2023-02-19'
+layout: default
+title: Duplicate Character Counter in Euphoria
 ---
 
 Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: The Formality Programming Language
-layout: default
-date: 2019-10-10
+date: '2019-10-10'
 featured-image: programming-languages.jpg
-last-modified: 2019-10-10
-
+last-modified: '2019-10-10'
+layout: default
+title: The Formality Programming Language
 ---
 
 Welcome to the Formality page! Here, you'll find a description of the language as well as a list of sample programs in that language.

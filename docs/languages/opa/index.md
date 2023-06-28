@@ -1,12 +1,12 @@
 ---
-title: The Opa Programming Language
-layout: default
-last-modified: 2020-05-02
-tags: [opa]
 authors:
-  - nicovillanueva
+- nicovillanueva
 featured-image: programming-languages.jpg
-
+last-modified: 2020-05-02
+layout: default
+tags:
+- opa
+title: The Opa Programming Language
 ---
 
 Welcome to the Opa page! Here, you'll find a description of the language as well as a list of sample programs in that language.

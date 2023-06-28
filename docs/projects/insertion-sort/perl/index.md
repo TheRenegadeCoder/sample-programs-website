@@ -1,10 +1,9 @@
 ---
-title: Insertion Sort in Perl
-layout: default
-date: 2020-10-02
+date: '2020-10-02'
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: 2020-10-02
-
+last-modified: '2020-10-02'
+layout: default
+title: Insertion Sort in Perl
 ---
 
 Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.

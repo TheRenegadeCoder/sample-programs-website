@@ -1,12 +1,13 @@
 ---
-title: Hello World in Google Apps Script
-layout: default
-last-modified: 2020-05-02
-featured-image: hello-world-in-google-apps-script.jpg
-tags: [google-apps-script, hello-world]
 authors:
-  - the_renegade_coder
-
+- the_renegade_coder
+featured-image: hello-world-in-google-apps-script.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- google-apps-script
+- hello-world
+title: Hello World in Google Apps Script
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Google Apps Script](https://sampleprograms.io/languages/google-apps-script) page! Here, you'll find the source code for this program as well as a description of how the program works.

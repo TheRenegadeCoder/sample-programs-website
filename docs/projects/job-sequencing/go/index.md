@@ -1,10 +1,9 @@
 ---
-title: Job Sequencing in Go
-layout: default
-date: 2019-03-16
+date: '2019-03-16'
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: 2019-03-16
-
+last-modified: '2019-03-16'
+layout: default
+title: Job Sequencing in Go
 ---
 
 Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.

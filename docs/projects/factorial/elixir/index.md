@@ -1,10 +1,9 @@
 ---
-title: Factorial in Elixir
-layout: default
-date: 2019-10-12
+date: '2019-10-12'
 featured-image: factorial-in-every-language.jpg
-last-modified: 2019-10-12
-
+last-modified: '2019-10-12'
+layout: default
+title: Factorial in Elixir
 ---
 
 Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Elixir](https://sampleprograms.io/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.

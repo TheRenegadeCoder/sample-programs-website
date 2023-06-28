@@ -1,12 +1,13 @@
 ---
-title: Hello World in Perl
-layout: default
-last-modified: 2020-05-02
-featured-image: hello-world-in-perl.jpg
-tags: [perl, hello-world]
 authors:
-  - the_renegade_coder
-
+- the_renegade_coder
+featured-image: hello-world-in-perl.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- perl
+- hello-world
+title: Hello World in Perl
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.

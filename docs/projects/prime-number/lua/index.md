@@ -1,10 +1,9 @@
 ---
-title: Prime Number in Lua
-layout: default
-date: 2019-10-27
+date: '2019-10-27'
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2019-10-27
-
+last-modified: '2019-10-27'
+layout: default
+title: Prime Number in Lua
 ---
 
 Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.

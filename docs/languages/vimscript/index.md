@@ -1,10 +1,9 @@
 ---
-title: The Vimscript Programming Language
-layout: default
-date: 2018-08-27
+date: '2018-08-27'
 featured-image: programming-languages.jpg
-last-modified: 2018-08-27
-
+last-modified: '2018-08-27'
+layout: default
+title: The Vimscript Programming Language
 ---
 
 Welcome to the Vimscript page! Here, you'll find a description of the language as well as a list of sample programs in that language.

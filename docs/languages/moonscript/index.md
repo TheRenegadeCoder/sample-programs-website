@@ -1,12 +1,12 @@
 ---
-title: The MoonScript Programming Language
-layout: default
-last-modified: 2020-05-02
-tags: [moonscript]
 authors:
-  - bassem_mohamed
+- bassem_mohamed
 featured-image: programming-languages.jpg
-
+last-modified: 2020-05-02
+layout: default
+tags:
+- moonscript
+title: The Moonscript Programming Language
 ---
 
 Welcome to the Moonscript page! Here, you'll find a description of the language as well as a list of sample programs in that language.

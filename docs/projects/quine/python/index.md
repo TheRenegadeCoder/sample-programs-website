@@ -1,10 +1,9 @@
 ---
-title: Quine in Python
-layout: default
-date: 2018-08-07
+date: '2018-08-07'
 featured-image: quine-in-every-language.jpg
-last-modified: 2018-08-07
-
+last-modified: '2018-08-07'
+layout: default
+title: Quine in Python
 ---
 
 Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

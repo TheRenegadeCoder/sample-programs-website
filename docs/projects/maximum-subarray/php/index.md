@@ -1,10 +1,9 @@
 ---
-title: Maximum Subarray in Php
-layout: default
-date: 2023-03-27
+date: '2023-03-27'
 featured-image: maximum-subarray-in-every-language.jpg
-last-modified: 2023-03-27
-
+last-modified: '2023-03-27'
+layout: default
+title: Maximum Subarray in Php
 ---
 
 Welcome to the [Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

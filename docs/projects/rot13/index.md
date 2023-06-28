@@ -1,13 +1,13 @@
 ---
-title: ROT13 in Every Language
-layout: default
-date: 2018-11-20
-last-modified: 2020-05-02
-featured-image: rot13-in-every-language.jpg
-tags: [rot13]
 authors:
-  - auroq
-
+- auroq
+date: 2018-11-20
+featured-image: rot13-in-every-language.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- rot13
+title: Rot13
 ---
 
 Welcome to the Rot13 page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

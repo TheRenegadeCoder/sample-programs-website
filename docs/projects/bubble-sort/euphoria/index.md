@@ -1,10 +1,9 @@
 ---
-title: Bubble Sort in Euphoria
-layout: default
-date: 2023-02-19
+date: '2023-02-19'
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2023-02-19
-
+last-modified: '2023-02-19'
+layout: default
+title: Bubble Sort in Euphoria
 ---
 
 Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.

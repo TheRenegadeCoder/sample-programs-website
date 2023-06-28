@@ -1,10 +1,9 @@
 ---
-title: Longest Palindromic Substring in Algol68
-layout: default
-date: 2023-02-13
+date: '2023-02-13'
 featured-image: longest-palindromic-substring-in-every-language.jpg
-last-modified: 2023-02-13
-
+last-modified: '2023-02-13'
+layout: default
+title: Longest Palindromic Substring in Algol68
 ---
 
 Welcome to the [Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.

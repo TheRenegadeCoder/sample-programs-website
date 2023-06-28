@@ -1,10 +1,9 @@
 ---
-title: Longest Common Subsequence in Mathematica
-layout: default
-date: 2023-01-19
+date: '2023-01-19'
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: 2023-01-19
-
+last-modified: '2023-01-19'
+layout: default
+title: Longest Common Subsequence in Mathematica
 ---
 
 Welcome to the [Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Hello World in Grain
-layout: default
-date: 2020-10-14
+date: '2020-10-14'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2020-10-14
-
+last-modified: '2020-10-14'
+layout: default
+title: Hello World in Grain
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Grain](https://sampleprograms.io/languages/grain) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: The Little Programming Language
-layout: default
-date: 2018-08-23
+date: '2018-08-23'
 featured-image: programming-languages.jpg
-last-modified: 2018-08-23
-
+last-modified: '2018-08-23'
+layout: default
+title: The Little Programming Language
 ---
 
 Welcome to the Little page! Here, you'll find a description of the language as well as a list of sample programs in that language.

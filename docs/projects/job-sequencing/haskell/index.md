@@ -1,10 +1,9 @@
 ---
-title: Job Sequencing in Haskell
-layout: default
-date: 2018-11-19
+date: '2018-11-19'
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: 2018-11-19
-
+last-modified: '2018-11-19'
+layout: default
+title: Job Sequencing in Haskell
 ---
 
 Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Even Odd in Ruby
-layout: default
-date: 2019-10-31
+date: '2019-10-31'
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2019-10-31
-
+last-modified: '2019-10-31'
+layout: default
+title: Even Odd in Ruby
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.

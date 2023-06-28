@@ -1,10 +1,9 @@
 ---
-title: Fibonacci in Groovy
-layout: default
-date: 2018-10-18
+date: '2018-10-18'
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2018-10-18
-
+last-modified: '2018-10-18'
+layout: default
+title: Fibonacci in Groovy
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Groovy](https://sampleprograms.io/languages/groovy) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Factorial in Kotlin
-layout: default
-date: 2019-10-06
+date: '2019-10-06'
 featured-image: factorial-in-every-language.jpg
-last-modified: 2019-10-06
-
+last-modified: '2019-10-06'
+layout: default
+title: Factorial in Kotlin
 ---
 
 Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.

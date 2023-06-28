@@ -1,10 +1,9 @@
 ---
-title: Hello World in Lily
-layout: default
-date: 2018-04-22
+date: '2018-04-22'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-04-22
-
+last-modified: '2018-04-22'
+layout: default
+title: Hello World in Lily
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Lily](https://sampleprograms.io/languages/lily) page! Here, you'll find the source code for this program as well as a description of how the program works.

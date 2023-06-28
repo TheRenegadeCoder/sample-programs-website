@@ -1,10 +1,9 @@
 ---
-title: Reverse String in Php
-layout: default
-date: 2019-07-15
+date: '2019-07-15'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2019-07-15
-
+last-modified: '2019-07-15'
+layout: default
+title: Reverse String in Php
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

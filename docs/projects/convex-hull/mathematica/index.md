@@ -1,10 +1,9 @@
 ---
-title: Convex Hull in Mathematica
-layout: default
-date: 2023-01-18
+date: '2023-01-18'
 featured-image: convex-hull-in-every-language.jpg
-last-modified: 2023-01-18
-
+last-modified: '2023-01-18'
+layout: default
+title: Convex Hull in Mathematica
 ---
 
 Welcome to the [Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.

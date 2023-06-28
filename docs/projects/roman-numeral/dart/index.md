@@ -1,10 +1,9 @@
 ---
-title: Roman Numeral in Dart
-layout: default
-date: 2019-10-20
+date: '2019-10-20'
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: 2019-10-20
-
+last-modified: '2019-10-20'
+layout: default
+title: Roman Numeral in Dart
 ---
 
 Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.

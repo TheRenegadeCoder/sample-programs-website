@@ -1,10 +1,9 @@
 ---
-title: Roman Numeral in Ruby
-layout: default
-date: 2020-10-06
+date: '2020-10-06'
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: 2020-10-06
-
+last-modified: '2020-10-06'
+layout: default
+title: Roman Numeral in Ruby
 ---
 
 Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Fibonacci in Julia
-layout: default
-date: 2018-10-12
+date: '2018-10-12'
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2018-10-12
-
+last-modified: '2018-10-12'
+layout: default
+title: Fibonacci in Julia
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Julia](https://sampleprograms.io/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.

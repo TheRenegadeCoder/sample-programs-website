@@ -1,10 +1,9 @@
 ---
-title: The Pyret Programming Language
-layout: default
-date: 2018-04-23
+date: '2018-04-23'
 featured-image: programming-languages.jpg
-last-modified: 2018-04-23
-
+last-modified: '2018-04-23'
+layout: default
+title: The Pyret Programming Language
 ---
 
 Welcome to the Pyret page! Here, you'll find a description of the language as well as a list of sample programs in that language.

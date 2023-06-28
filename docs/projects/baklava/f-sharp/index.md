@@ -1,10 +1,9 @@
 ---
-title: Baklava in F#
-layout: default
-date: 2019-09-12
+date: '2019-09-12'
 featured-image: baklava-in-every-language.jpg
-last-modified: 2019-09-12
-
+last-modified: '2019-09-12'
+layout: default
+title: Baklava in F#
 ---
 
 Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [F#](https://sampleprograms.io/languages/f-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.

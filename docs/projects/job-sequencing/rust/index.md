@@ -1,10 +1,9 @@
 ---
-title: Job Sequencing in Rust
-layout: default
-date: 2023-04-15
+date: '2023-04-15'
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: 2023-04-15
-
+last-modified: '2023-04-15'
+layout: default
+title: Job Sequencing in Rust
 ---
 
 Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

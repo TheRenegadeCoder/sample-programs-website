@@ -1,12 +1,13 @@
 ---
-title: Prime Number in Python
-layout: default
-last-modified: 2020-05-02
-featured-image: prime-number-in-every-language.jpg
-tags: [python, prime-number]
 authors:
-  - hmajid2301
-
+- hmajid2301
+featured-image: prime-number-in-every-language.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- python
+- prime-number
+title: Prime Number in Python
 ---
 
 Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Even Odd in Fortran
-layout: default
-date: 2020-10-29
+date: '2020-10-29'
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2020-10-29
-
+last-modified: '2020-10-29'
+layout: default
+title: Even Odd in Fortran
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Fortran](https://sampleprograms.io/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.

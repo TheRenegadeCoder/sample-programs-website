@@ -1,10 +1,9 @@
 ---
-title: Hello World in Go
+date: '2018-03-25'
+featured-image: hello-world-in-go.jpg
+last-modified: '2018-03-25'
 layout: default
-date: 2018-03-25
-featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-03-25
-
+title: Hello World in Go
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.

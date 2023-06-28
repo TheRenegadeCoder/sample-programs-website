@@ -1,10 +1,9 @@
 ---
-title: Sleep Sort in Rust
-layout: default
-date: 2022-10-31
+date: '2022-10-31'
 featured-image: sleep-sort-in-every-language.jpg
-last-modified: 2022-10-31
-
+last-modified: '2022-10-31'
+layout: default
+title: Sleep Sort in Rust
 ---
 
 Welcome to the [Sleep Sort](https://sampleprograms.io/projects/sleep-sort) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,14 +1,14 @@
 ---
-title: Bubble Sort in Every Language
-layout: default
-date: 2018-11-29
-last-modified: 2022-05-18
-featured-image: bubble-sort-in-every-language.jpg
-tags: [bubble-sort]
 authors:
-  - auroq
-  - the_renegade_coder
-
+- auroq
+- the_renegade_coder
+date: 2018-11-29
+featured-image: bubble-sort-in-every-language.jpg
+last-modified: 2022-05-18
+layout: default
+tags:
+- bubble-sort
+title: Bubble Sort
 ---
 
 Welcome to the Bubble Sort page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

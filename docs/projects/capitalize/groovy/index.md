@@ -1,10 +1,9 @@
 ---
-title: Capitalize in Groovy
-layout: default
-date: 2019-07-01
+date: '2019-07-01'
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2019-07-01
-
+last-modified: '2019-07-01'
+layout: default
+title: Capitalize in Groovy
 ---
 
 Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Groovy](https://sampleprograms.io/languages/groovy) page! Here, you'll find the source code for this program as well as a description of how the program works.

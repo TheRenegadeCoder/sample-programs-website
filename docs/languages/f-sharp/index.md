@@ -1,10 +1,9 @@
 ---
-title: The F# Programming Language
-layout: default
-date: 2018-04-27
+date: '2018-04-27'
 featured-image: programming-languages.jpg
-last-modified: 2018-04-27
-
+last-modified: '2018-04-27'
+layout: default
+title: The F# Programming Language
 ---
 
 Welcome to the F# page! Here, you'll find a description of the language as well as a list of sample programs in that language.

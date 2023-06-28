@@ -1,10 +1,9 @@
 ---
-title: Minimum Spanning Tree in Php
-layout: default
-date: 2023-03-27
+date: '2023-03-27'
 featured-image: minimum-spanning-tree-in-every-language.jpg
-last-modified: 2023-03-27
-
+last-modified: '2023-03-27'
+layout: default
+title: Minimum Spanning Tree in Php
 ---
 
 Welcome to the [Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

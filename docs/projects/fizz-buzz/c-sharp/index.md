@@ -1,10 +1,9 @@
 ---
-title: Fizz Buzz in C#
-layout: default
-date: 2018-08-14
+date: '2018-08-14'
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2018-08-14
-
+last-modified: '2018-08-14'
+layout: default
+title: Fizz Buzz in C#
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [C#](https://sampleprograms.io/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Remove All Whitespace in Mathematica
-layout: default
-date: 2023-01-16
+date: '2023-01-16'
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2023-01-16
-
+last-modified: '2023-01-16'
+layout: default
+title: Remove All Whitespace in Mathematica
 ---
 
 Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.

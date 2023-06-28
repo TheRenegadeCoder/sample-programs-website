@@ -1,10 +1,9 @@
 ---
-title: Capitalize in Ruby
-layout: default
-date: 2020-10-08
+date: '2020-10-08'
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2020-10-08
-
+last-modified: '2020-10-08'
+layout: default
+title: Capitalize in Ruby
 ---
 
 Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.

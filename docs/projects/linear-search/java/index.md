@@ -1,10 +1,9 @@
 ---
-title: Linear Search in Java
-layout: default
-date: 2020-10-05
+date: '2020-10-05'
 featured-image: linear-search-in-every-language.jpg
-last-modified: 2020-10-05
-
+last-modified: '2020-10-05'
+layout: default
+title: Linear Search in Java
 ---
 
 Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.

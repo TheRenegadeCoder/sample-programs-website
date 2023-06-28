@@ -1,10 +1,9 @@
 ---
-title: Hello World in Lolcode
-layout: default
-date: 2018-05-11
+date: '2018-05-11'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-05-11
-
+last-modified: '2018-05-11'
+layout: default
+title: Hello World in Lolcode
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Lolcode](https://sampleprograms.io/languages/lolcode) page! Here, you'll find the source code for this program as well as a description of how the program works.

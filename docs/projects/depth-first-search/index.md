@@ -1,14 +1,14 @@
 ---
-title: Depth First Search in Every Language
-layout: default
-date: 2020-10-02
-last-modified: 2022-05-18
-featured-image: depth-first-search-in-every-language.jpg
-tags: [depth-first-search]
 authors:
-  - mowies
-  - the_renegade_coder
-
+- mowies
+- the_renegade_coder
+date: 2020-10-02
+featured-image: depth-first-search-in-every-language.jpg
+last-modified: 2022-05-18
+layout: default
+tags:
+- depth-first-search
+title: Depth First Search
 ---
 
 Welcome to the Depth First Search page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

@@ -1,12 +1,13 @@
 ---
-title: Hello World in MoonScript
-layout: default
-last-modified: 2020-10-15
-featured-image: hello-world-in-moonscript.jpg
-tags: [moonscript, hello-world]
 authors:
-  - bassem_mohamed
-
+- bassem_mohamed
+featured-image: hello-world-in-moonscript.jpg
+last-modified: 2020-10-15
+layout: default
+tags:
+- moonscript
+- hello-world
+title: Hello World in Moonscript
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Moonscript](https://sampleprograms.io/languages/moonscript) page! Here, you'll find the source code for this program as well as a description of how the program works.

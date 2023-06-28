@@ -1,10 +1,9 @@
 ---
-title: Bubble Sort in Lua
-layout: default
-date: 2019-10-28
+date: '2019-10-28'
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2019-10-28
-
+last-modified: '2019-10-28'
+layout: default
+title: Bubble Sort in Lua
 ---
 
 Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.

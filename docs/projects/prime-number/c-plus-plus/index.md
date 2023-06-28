@@ -1,10 +1,9 @@
 ---
-title: Prime Number in C++
-layout: default
-date: 2019-10-14
+date: '2019-10-14'
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2019-10-14
-
+last-modified: '2019-10-14'
+layout: default
+title: Prime Number in C++
 ---
 
 Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: The Tcl Programming Language
-layout: default
-date: 2018-04-19
+date: '2018-04-19'
 featured-image: programming-languages.jpg
-last-modified: 2018-04-19
-
+last-modified: '2018-04-19'
+layout: default
+title: The Tcl Programming Language
 ---
 
 Welcome to the Tcl page! Here, you'll find a description of the language as well as a list of sample programs in that language.

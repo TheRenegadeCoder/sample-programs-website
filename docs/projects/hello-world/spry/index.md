@@ -1,10 +1,9 @@
 ---
-title: Hello World in Spry
-layout: default
-date: 2021-05-24
+date: '2021-05-24'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2021-05-24
-
+last-modified: '2021-05-24'
+layout: default
+title: Hello World in Spry
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Spry](https://sampleprograms.io/languages/spry) page! Here, you'll find the source code for this program as well as a description of how the program works.

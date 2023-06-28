@@ -1,10 +1,9 @@
 ---
-title: Capitalize in Kotlin
-layout: default
-date: 2019-10-11
+date: '2019-10-11'
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2019-10-11
-
+last-modified: '2019-10-11'
+layout: default
+title: Capitalize in Kotlin
 ---
 
 Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.

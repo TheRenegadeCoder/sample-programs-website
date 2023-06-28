@@ -1,10 +1,9 @@
 ---
-title: Hello World in Octave
-layout: default
-date: 2018-10-15
+date: '2018-10-15'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-10-15
-
+last-modified: '2018-10-15'
+layout: default
+title: Hello World in Octave
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Octave](https://sampleprograms.io/languages/octave) page! Here, you'll find the source code for this program as well as a description of how the program works.

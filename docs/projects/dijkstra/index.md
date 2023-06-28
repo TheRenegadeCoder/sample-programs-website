@@ -1,13 +1,12 @@
 ---
-title: Dijkstra in Every Language
-layout: default
-date: 2019-10-28
-last-modified: 2022-05-18
-featured-image: dijkstra-in-every-language.jpg
 authors:
-  - fuboki10
-  - the_renegade_coder
-
+- fuboki10
+- the_renegade_coder
+date: 2019-10-28
+featured-image: dijkstra-in-every-language.jpg
+last-modified: 2022-05-18
+layout: default
+title: Dijkstra
 ---
 
 Welcome to the Dijkstra page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

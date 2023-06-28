@@ -1,10 +1,9 @@
 ---
-title: Fizz Buzz in Bash
-layout: default
-date: 2018-08-31
+date: '2018-08-31'
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2018-08-31
-
+last-modified: '2018-08-31'
+layout: default
+title: Fizz Buzz in Bash
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.

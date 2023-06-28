@@ -1,10 +1,9 @@
 ---
-title: Baklava in Solisp
-layout: default
-date: 2020-03-01
+date: '2020-03-01'
 featured-image: baklava-in-every-language.jpg
-last-modified: 2020-03-01
-
+last-modified: '2020-03-01'
+layout: default
+title: Baklava in Solisp
 ---
 
 Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Solisp](https://sampleprograms.io/languages/solisp) page! Here, you'll find the source code for this program as well as a description of how the program works.

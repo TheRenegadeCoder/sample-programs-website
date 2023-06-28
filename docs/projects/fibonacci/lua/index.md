@@ -1,10 +1,9 @@
 ---
-title: Fibonacci in Lua
-layout: default
-date: 2019-10-14
+date: '2019-10-14'
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2019-10-14
-
+last-modified: '2019-10-14'
+layout: default
+title: Fibonacci in Lua
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.

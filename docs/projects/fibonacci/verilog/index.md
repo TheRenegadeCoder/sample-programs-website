@@ -1,10 +1,9 @@
 ---
-title: Fibonacci in Verilog
-layout: default
-date: 2019-10-06
+date: '2019-10-06'
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2019-10-06
-
+last-modified: '2019-10-06'
+layout: default
+title: Fibonacci in Verilog
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Verilog](https://sampleprograms.io/languages/verilog) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Quine in Mathematica
-layout: default
-date: 2023-01-17
+date: '2023-01-17'
 featured-image: quine-in-every-language.jpg
-last-modified: 2023-01-17
-
+last-modified: '2023-01-17'
+layout: default
+title: Quine in Mathematica
 ---
 
 Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.

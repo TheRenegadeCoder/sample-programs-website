@@ -1,10 +1,9 @@
 ---
-title: Capitalize in Go
-layout: default
-date: 2019-10-09
+date: '2019-10-09'
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2019-10-09
-
+last-modified: '2019-10-09'
+layout: default
+title: Capitalize in Go
 ---
 
 Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.

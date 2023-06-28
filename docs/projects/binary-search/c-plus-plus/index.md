@@ -1,10 +1,9 @@
 ---
-title: Binary Search in C++
-layout: default
-date: 2019-10-27
+date: '2019-10-27'
 featured-image: binary-search-in-every-language.jpg
-last-modified: 2019-10-27
-
+last-modified: '2019-10-27'
+layout: default
+title: Binary Search in C++
 ---
 
 Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.

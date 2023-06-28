@@ -1,10 +1,9 @@
 ---
-title: Baklava in Julia
-layout: default
-date: 2018-10-04
+date: '2018-10-04'
 featured-image: baklava-in-every-language.jpg
-last-modified: 2018-10-04
-
+last-modified: '2018-10-04'
+layout: default
+title: Baklava in Julia
 ---
 
 Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Julia](https://sampleprograms.io/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.

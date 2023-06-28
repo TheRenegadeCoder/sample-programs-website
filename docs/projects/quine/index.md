@@ -1,12 +1,12 @@
 ---
-title: Quine in Every Language
-layout: default
+authors: null
 date: 2018-11-01
-last-modified: 2020-05-02
 featured-image: quine-in-every-language.jpg
-tags: [quine]
-authors:
-
+last-modified: 2020-05-02
+layout: default
+tags:
+- quine
+title: Quine
 ---
 
 Welcome to the Quine page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

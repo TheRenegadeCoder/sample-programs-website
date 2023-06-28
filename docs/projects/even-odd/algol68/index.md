@@ -1,10 +1,9 @@
 ---
-title: Even Odd in Algol68
-layout: default
-date: 2023-01-21
+date: '2023-01-21'
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2023-01-21
-
+last-modified: '2023-01-21'
+layout: default
+title: Even Odd in Algol68
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.

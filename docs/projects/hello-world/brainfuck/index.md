@@ -1,12 +1,13 @@
 ---
-title: Hello World in Brainfuck
-layout: default
-last-modified: 2020-10-15
-featured-image: hello-world-in-brainfuck.jpg
-tags: [brainfuck, hello-world]
 authors:
-  - chrboe
-
+- chrboe
+featured-image: hello-world-in-brainfuck.jpg
+last-modified: 2020-10-15
+layout: default
+tags:
+- brainfuck
+- hello-world
+title: Hello World in Brainfuck
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Brainfuck](https://sampleprograms.io/languages/brainfuck) page! Here, you'll find the source code for this program as well as a description of how the program works.

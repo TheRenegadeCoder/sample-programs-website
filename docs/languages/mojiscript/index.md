@@ -1,10 +1,9 @@
 ---
-title: The Mojiscript Programming Language
-layout: default
-date: 2018-10-15
+date: '2018-10-15'
 featured-image: programming-languages.jpg
-last-modified: 2018-10-15
-
+last-modified: '2018-10-15'
+layout: default
+title: The Mojiscript Programming Language
 ---
 
 Welcome to the Mojiscript page! Here, you'll find a description of the language as well as a list of sample programs in that language.

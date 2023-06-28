@@ -1,10 +1,9 @@
 ---
-title: Roman Numeral in Euphoria
-layout: default
-date: 2023-02-25
+date: '2023-02-25'
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: 2023-02-25
-
+last-modified: '2023-02-25'
+layout: default
+title: Roman Numeral in Euphoria
 ---
 
 Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.

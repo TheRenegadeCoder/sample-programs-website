@@ -1,10 +1,9 @@
 ---
-title: Baklava in Lisp
-layout: default
-date: 2019-11-09
+date: '2019-11-09'
 featured-image: baklava-in-every-language.jpg
-last-modified: 2019-11-09
-
+last-modified: '2019-11-09'
+layout: default
+title: Baklava in Lisp
 ---
 
 Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Lisp](https://sampleprograms.io/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.

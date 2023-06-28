@@ -1,12 +1,12 @@
 ---
-title: Reverse String in Visual Basic
-layout: default
-last-modified: 2020-05-02
+authors: -manxbiker
 featured-image: reverse-string-in-every-language.jpg
-tags: [visual-basic, reverse-string]
-authors:
-  -manxbiker
-
+last-modified: 2020-05-02
+layout: default
+tags:
+- visual-basic
+- reverse-string
+title: Reverse String in Visual Basic
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Visual Basic](https://sampleprograms.io/languages/visual-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.

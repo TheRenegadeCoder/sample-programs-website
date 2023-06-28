@@ -1,10 +1,9 @@
 ---
-title: Bubble Sort in Java
-layout: default
-date: 2019-10-16
+date: '2019-10-16'
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2019-10-16
-
+last-modified: '2019-10-16'
+layout: default
+title: Bubble Sort in Java
 ---
 
 Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.

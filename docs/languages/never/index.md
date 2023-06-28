@@ -1,10 +1,9 @@
 ---
-title: The Never Programming Language
-layout: default
-date: 2018-09-20
+date: '2018-09-20'
 featured-image: programming-languages.jpg
-last-modified: 2018-09-20
-
+last-modified: '2018-09-20'
+layout: default
+title: The Never Programming Language
 ---
 
 Welcome to the Never page! Here, you'll find a description of the language as well as a list of sample programs in that language.

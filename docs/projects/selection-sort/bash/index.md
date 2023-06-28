@@ -1,10 +1,9 @@
 ---
-title: Selection Sort in Bash
-layout: default
-date: 2020-10-05
+date: '2020-10-05'
 featured-image: selection-sort-in-every-language.jpg
-last-modified: 2020-10-05
-
+last-modified: '2020-10-05'
+layout: default
+title: Selection Sort in Bash
 ---
 
 Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.

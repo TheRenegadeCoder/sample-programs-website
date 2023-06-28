@@ -1,10 +1,9 @@
 ---
-title: Insertion Sort in Go
-layout: default
-date: 2019-03-15
+date: '2019-03-15'
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: 2019-03-15
-
+last-modified: '2019-03-15'
+layout: default
+title: Insertion Sort in Go
 ---
 
 Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.

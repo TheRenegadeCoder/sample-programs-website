@@ -1,10 +1,9 @@
 ---
-title: Longest Word in C++
-layout: default
-date: 2022-10-02
+date: '2022-10-02'
 featured-image: longest-word-in-every-language.jpg
-last-modified: 2022-10-02
-
+last-modified: '2022-10-02'
+layout: default
+title: Longest Word in C++
 ---
 
 Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.

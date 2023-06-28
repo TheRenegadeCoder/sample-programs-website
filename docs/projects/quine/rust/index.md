@@ -1,12 +1,13 @@
 ---
-title: Quine in Rust
-layout: default
-last-modified: 2023-04-05
-featured-image: quine-in-rust.jpg
-tags: [rust, quine]
 authors:
-  - rzuckerm
-
+- rzuckerm
+featured-image: quine-in-rust.jpg
+last-modified: 2023-04-05
+layout: default
+tags:
+- rust
+- quine
+title: Quine in Rust
 ---
 
 Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

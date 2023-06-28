@@ -1,10 +1,9 @@
 ---
-title: Depth First Search in Php
-layout: default
-date: 2023-03-21
+date: '2023-03-21'
 featured-image: depth-first-search-in-every-language.jpg
-last-modified: 2023-03-21
-
+last-modified: '2023-03-21'
+layout: default
+title: Depth First Search in Php
 ---
 
 Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

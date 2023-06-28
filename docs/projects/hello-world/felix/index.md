@@ -1,10 +1,9 @@
 ---
-title: Hello World in Felix
-layout: default
-date: 2018-04-29
+date: '2018-04-29'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-04-29
-
+last-modified: '2018-04-29'
+layout: default
+title: Hello World in Felix
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Felix](https://sampleprograms.io/languages/felix) page! Here, you'll find the source code for this program as well as a description of how the program works.

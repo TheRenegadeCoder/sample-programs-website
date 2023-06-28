@@ -1,10 +1,9 @@
 ---
-title: Hello World in Owl Lisp
-layout: default
-date: 2018-06-29
+date: '2018-06-29'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-06-29
-
+last-modified: '2018-06-29'
+layout: default
+title: Hello World in Owl Lisp
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Owl Lisp](https://sampleprograms.io/languages/owl-lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.

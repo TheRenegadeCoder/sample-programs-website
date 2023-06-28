@@ -1,10 +1,9 @@
 ---
-title: The Nim Programming Language
-layout: default
-date: 2019-10-16
+date: '2019-10-16'
 featured-image: programming-languages.jpg
-last-modified: 2019-10-16
-
+last-modified: '2019-10-16'
+layout: default
+title: The Nim Programming Language
 ---
 
 Welcome to the Nim page! Here, you'll find a description of the language as well as a list of sample programs in that language.

@@ -1,10 +1,9 @@
 ---
-title: Hello World in Livescript
-layout: default
-date: 2019-10-10
+date: '2019-10-10'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2019-10-10
-
+last-modified: '2019-10-10'
+layout: default
+title: Hello World in Livescript
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Livescript](https://sampleprograms.io/languages/livescript) page! Here, you'll find the source code for this program as well as a description of how the program works.

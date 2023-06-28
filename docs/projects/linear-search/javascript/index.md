@@ -1,10 +1,9 @@
 ---
-title: Linear Search in Javascript
-layout: default
-date: 2020-10-01
+date: '2020-10-01'
 featured-image: linear-search-in-every-language.jpg
-last-modified: 2020-10-01
-
+last-modified: '2020-10-01'
+layout: default
+title: Linear Search in Javascript
 ---
 
 Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.

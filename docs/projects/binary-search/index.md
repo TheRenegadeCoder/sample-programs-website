@@ -1,13 +1,13 @@
 ---
-title: Binary Search in Every Language
-layout: default
-date: 2019-10-25
-last-modified: 2020-05-02
-featured-image: binary-search-in-every-language.jpg
-tags: [binary-search]
 authors:
-  - the_renegade_coder
-
+- the_renegade_coder
+date: 2019-10-25
+featured-image: binary-search-in-every-language.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- binary-search
+title: Binary Search
 ---
 
 Welcome to the Binary Search page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

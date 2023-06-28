@@ -1,10 +1,9 @@
 ---
-title: Longest Common Subsequence in Rust
-layout: default
-date: 2023-04-18
+date: '2023-04-18'
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: 2023-04-18
-
+last-modified: '2023-04-18'
+layout: default
+title: Longest Common Subsequence in Rust
 ---
 
 Welcome to the [Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

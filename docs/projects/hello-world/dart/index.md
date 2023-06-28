@@ -1,12 +1,13 @@
 ---
-title: Hello World in Dart
-layout: default
-last-modified: 2020-10-15
-featured-image: hello-world-in-dart.jpg
-tags: [dart, hello-world]
 authors:
-  - stargator
-
+- stargator
+featured-image: hello-world-in-dart.jpg
+last-modified: 2020-10-15
+layout: default
+tags:
+- dart
+- hello-world
+title: Hello World in Dart
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.

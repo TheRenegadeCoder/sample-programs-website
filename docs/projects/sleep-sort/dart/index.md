@@ -1,10 +1,9 @@
 ---
-title: Sleep Sort in Dart
-layout: default
-date: 2019-10-07
+date: '2019-10-07'
 featured-image: sleep-sort-in-every-language.jpg
-last-modified: 2019-10-07
-
+last-modified: '2019-10-07'
+layout: default
+title: Sleep Sort in Dart
 ---
 
 Welcome to the [Sleep Sort](https://sampleprograms.io/projects/sleep-sort) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.

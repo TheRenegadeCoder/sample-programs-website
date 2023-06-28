@@ -1,10 +1,9 @@
 ---
-title: Merge Sort in Php
-layout: default
-date: 2019-10-10
+date: '2019-10-10'
 featured-image: merge-sort-in-every-language.jpg
-last-modified: 2019-10-10
-
+last-modified: '2019-10-10'
+layout: default
+title: Merge Sort in Php
 ---
 
 Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Reverse String in Apex
-layout: default
-date: 2019-10-20
+date: '2019-10-20'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2019-10-20
-
+last-modified: '2019-10-20'
+layout: default
+title: Reverse String in Apex
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Apex](https://sampleprograms.io/languages/apex) page! Here, you'll find the source code for this program as well as a description of how the program works.

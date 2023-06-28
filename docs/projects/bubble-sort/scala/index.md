@@ -1,10 +1,9 @@
 ---
-title: Bubble Sort in Scala
-layout: default
-date: 2019-03-22
+date: '2019-03-22'
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2019-03-22
-
+last-modified: '2019-03-22'
+layout: default
+title: Bubble Sort in Scala
 ---
 
 Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Scala](https://sampleprograms.io/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.

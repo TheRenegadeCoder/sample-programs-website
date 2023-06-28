@@ -1,10 +1,9 @@
 ---
-title: Sleep Sort in C#
-layout: default
-date: 2020-10-05
+date: '2020-10-05'
 featured-image: sleep-sort-in-every-language.jpg
-last-modified: 2020-10-05
-
+last-modified: '2020-10-05'
+layout: default
+title: Sleep Sort in C#
 ---
 
 Welcome to the [Sleep Sort](https://sampleprograms.io/projects/sleep-sort) in [C#](https://sampleprograms.io/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Even Odd in Haskell
-layout: default
-date: 2018-11-16
+date: '2018-11-16'
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2018-11-16
-
+last-modified: '2018-11-16'
+layout: default
+title: Even Odd in Haskell
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.

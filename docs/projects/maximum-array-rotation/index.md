@@ -1,14 +1,14 @@
 ---
-title: Maximum Array Rotation in Every Language
-layout: default
-date: 2020-10-28
-last-modified: 2020-10-28
-featured-image: maximum-array-rotation-in-every-language.jpg
-tags: [maximum-array-rotation]
 authors:
-  - agasheaditya
-  - the_renegade_coder
-
+- agasheaditya
+- the_renegade_coder
+date: 2020-10-28
+featured-image: maximum-array-rotation-in-every-language.jpg
+last-modified: 2020-10-28
+layout: default
+tags:
+- maximum-array-rotation
+title: Maximum Array Rotation
 ---
 
 Welcome to the Maximum Array Rotation page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

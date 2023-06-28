@@ -1,10 +1,9 @@
 ---
-title: Sleep Sort in Algol68
-layout: default
-date: 2023-02-14
+date: '2023-02-14'
 featured-image: sleep-sort-in-every-language.jpg
-last-modified: 2023-02-14
-
+last-modified: '2023-02-14'
+layout: default
+title: Sleep Sort in Algol68
 ---
 
 Welcome to the [Sleep Sort](https://sampleprograms.io/projects/sleep-sort) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.

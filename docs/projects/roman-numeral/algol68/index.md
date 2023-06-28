@@ -1,10 +1,9 @@
 ---
-title: Roman Numeral in Algol68
-layout: default
-date: 2023-02-01
+date: '2023-02-01'
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: 2023-02-01
-
+last-modified: '2023-02-01'
+layout: default
+title: Roman Numeral in Algol68
 ---
 
 Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.

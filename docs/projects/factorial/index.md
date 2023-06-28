@@ -1,12 +1,12 @@
 ---
-title: Factorial in Every Language
-layout: default
+authors: null
 date: 2018-11-01
-last-modified: 2020-05-02
 featured-image: factorial-in-every-language.jpg
-tags: [factorial]
-authors:
-
+last-modified: 2020-05-02
+layout: default
+tags:
+- factorial
+title: Factorial
 ---
 
 Welcome to the Factorial page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

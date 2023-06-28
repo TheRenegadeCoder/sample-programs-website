@@ -1,13 +1,13 @@
 ---
-title: Selection Sort in Every Language 
-layout: default
-date: 2018-11-29
-last-modified: 2020-05-02
-featured-image: selection-sort-in-every-language.jpg
-tags: [selection-sort]
 authors:
-  - auroq
-
+- auroq
+date: 2018-11-29
+featured-image: selection-sort-in-every-language.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- selection-sort
+title: Selection Sort
 ---
 
 Welcome to the Selection Sort page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

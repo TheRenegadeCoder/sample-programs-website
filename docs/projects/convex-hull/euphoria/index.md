@@ -1,10 +1,9 @@
 ---
-title: Convex Hull in Euphoria
-layout: default
-date: 2023-02-25
+date: '2023-02-25'
 featured-image: convex-hull-in-every-language.jpg
-last-modified: 2023-02-25
-
+last-modified: '2023-02-25'
+layout: default
+title: Convex Hull in Euphoria
 ---
 
 Welcome to the [Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.

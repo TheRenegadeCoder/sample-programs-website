@@ -1,10 +1,9 @@
 ---
-title: Josephus Problem in Rust
-layout: default
-date: 2023-04-09
+date: '2023-04-09'
 featured-image: josephus-problem-in-every-language.jpg
-last-modified: 2023-04-09
-
+last-modified: '2023-04-09'
+layout: default
+title: Josephus Problem in Rust
 ---
 
 Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Sleep Sort in Python
-layout: default
-date: 2020-10-02
+date: '2020-10-02'
 featured-image: sleep-sort-in-every-language.jpg
-last-modified: 2020-10-02
-
+last-modified: '2020-10-02'
+layout: default
+title: Sleep Sort in Python
 ---
 
 Welcome to the [Sleep Sort](https://sampleprograms.io/projects/sleep-sort) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

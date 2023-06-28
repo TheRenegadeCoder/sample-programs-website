@@ -1,10 +1,9 @@
 ---
-title: File Input Output in R
-layout: default
-date: 2020-10-25
+date: '2020-10-25'
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2020-10-25
-
+last-modified: '2020-10-25'
+layout: default
+title: File Input Output in R
 ---
 
 Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [R](https://sampleprograms.io/languages/r) page! Here, you'll find the source code for this program as well as a description of how the program works.

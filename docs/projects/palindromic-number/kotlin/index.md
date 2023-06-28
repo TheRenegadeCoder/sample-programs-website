@@ -1,12 +1,12 @@
 ---
-title: Palindromic Number in Kotlin
-layout: default
-last-modified: 2020-10-07
-featured-image: palindromic-number-in-every-language.jpg
-tags: [palindromic-number]
 authors:
-  - anohene1
-
+- anohene1
+featured-image: palindromic-number-in-every-language.jpg
+last-modified: 2020-10-07
+layout: default
+tags:
+- palindromic-number
+title: Palindromic Number in Kotlin
 ---
 
 Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.

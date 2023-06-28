@@ -1,10 +1,9 @@
 ---
-title: Binary Search in Algol68
-layout: default
-date: 2023-01-27
+date: '2023-01-27'
 featured-image: binary-search-in-every-language.jpg
-last-modified: 2023-01-27
-
+last-modified: '2023-01-27'
+layout: default
+title: Binary Search in Algol68
 ---
 
 Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.

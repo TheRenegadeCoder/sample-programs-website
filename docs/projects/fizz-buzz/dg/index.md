@@ -1,10 +1,9 @@
 ---
-title: Fizz Buzz in Dg
-layout: default
-date: 2018-10-03
+date: '2018-10-03'
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2018-10-03
-
+last-modified: '2018-10-03'
+layout: default
+title: Fizz Buzz in Dg
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Dg](https://sampleprograms.io/languages/dg) page! Here, you'll find the source code for this program as well as a description of how the program works.

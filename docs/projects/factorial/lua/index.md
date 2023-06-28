@@ -1,10 +1,9 @@
 ---
-title: Factorial in Lua
-layout: default
-date: 2019-10-10
+date: '2019-10-10'
 featured-image: factorial-in-every-language.jpg
-last-modified: 2019-10-10
-
+last-modified: '2019-10-10'
+layout: default
+title: Factorial in Lua
 ---
 
 Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Factorial in Julia
-layout: default
-date: 2020-10-01
+date: '2020-10-01'
 featured-image: factorial-in-every-language.jpg
-last-modified: 2020-10-01
-
+last-modified: '2020-10-01'
+layout: default
+title: Factorial in Julia
 ---
 
 Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Julia](https://sampleprograms.io/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.

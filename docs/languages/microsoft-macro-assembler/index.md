@@ -1,10 +1,9 @@
 ---
-title: The Microsoft Macro Assembler Programming Language
-layout: default
-date: 2020-04-23
+date: '2020-04-23'
 featured-image: programming-languages.jpg
-last-modified: 2020-04-23
-
+last-modified: '2020-04-23'
+layout: default
+title: The Microsoft Macro Assembler Programming Language
 ---
 
 Welcome to the Microsoft Macro Assembler page! Here, you'll find a description of the language as well as a list of sample programs in that language.

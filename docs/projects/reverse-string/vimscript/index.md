@@ -1,10 +1,9 @@
 ---
-title: Reverse String in Vimscript
-layout: default
-date: 2018-08-27
+date: '2018-08-27'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2018-08-27
-
+last-modified: '2018-08-27'
+layout: default
+title: Reverse String in Vimscript
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Vimscript](https://sampleprograms.io/languages/vimscript) page! Here, you'll find the source code for this program as well as a description of how the program works.

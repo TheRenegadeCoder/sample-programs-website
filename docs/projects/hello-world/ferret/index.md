@@ -1,10 +1,9 @@
 ---
-title: Hello World in Ferret
-layout: default
-date: 2018-10-09
+date: '2018-10-09'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-10-09
-
+last-modified: '2018-10-09'
+layout: default
+title: Hello World in Ferret
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Ferret](https://sampleprograms.io/languages/ferret) page! Here, you'll find the source code for this program as well as a description of how the program works.

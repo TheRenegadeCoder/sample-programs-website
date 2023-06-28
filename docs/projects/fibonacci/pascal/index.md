@@ -1,10 +1,9 @@
 ---
-title: Fibonacci in Pascal
-layout: default
-date: 2021-10-24
+date: '2021-10-24'
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2021-10-24
-
+last-modified: '2021-10-24'
+layout: default
+title: Fibonacci in Pascal
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Pascal](https://sampleprograms.io/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.

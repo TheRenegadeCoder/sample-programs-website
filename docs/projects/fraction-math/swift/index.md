@@ -1,10 +1,9 @@
 ---
-title: Fraction Math in Swift
-layout: default
-date: 2020-10-01
+date: '2020-10-01'
 featured-image: fraction-math-in-every-language.jpg
-last-modified: 2020-10-01
-
+last-modified: '2020-10-01'
+layout: default
+title: Fraction Math in Swift
 ---
 
 Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.

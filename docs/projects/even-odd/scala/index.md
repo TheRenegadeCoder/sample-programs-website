@@ -1,10 +1,9 @@
 ---
-title: Even Odd in Scala
-layout: default
-date: 2023-05-15
+date: '2023-05-15'
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2023-05-15
-
+last-modified: '2023-05-15'
+layout: default
+title: Even Odd in Scala
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Scala](https://sampleprograms.io/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.

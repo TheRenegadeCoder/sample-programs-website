@@ -1,10 +1,9 @@
 ---
-title: Quick Sort in C++
-layout: default
-date: 2019-11-01
+date: '2019-11-01'
 featured-image: quick-sort-in-every-language.jpg
-last-modified: 2019-11-01
-
+last-modified: '2019-11-01'
+layout: default
+title: Quick Sort in C++
 ---
 
 Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.

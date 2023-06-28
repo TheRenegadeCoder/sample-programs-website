@@ -1,10 +1,9 @@
 ---
-title: Hello World in Fetlang
-layout: default
-date: 2018-05-03
+date: '2018-05-03'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-05-03
-
+last-modified: '2018-05-03'
+layout: default
+title: Hello World in Fetlang
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Fetlang](https://sampleprograms.io/languages/fetlang) page! Here, you'll find the source code for this program as well as a description of how the program works.

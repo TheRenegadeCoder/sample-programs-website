@@ -1,10 +1,9 @@
 ---
-title: Fibonacci in Kotlin
-layout: default
-date: 2018-10-18
+date: '2018-10-18'
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2018-10-18
-
+last-modified: '2018-10-18'
+layout: default
+title: Fibonacci in Kotlin
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Convex Hull in Python
-layout: default
-date: 2019-10-22
+date: '2019-10-22'
 featured-image: convex-hull-in-every-language.jpg
-last-modified: 2019-10-22
-
+last-modified: '2019-10-22'
+layout: default
+title: Convex Hull in Python
 ---
 
 Welcome to the [Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

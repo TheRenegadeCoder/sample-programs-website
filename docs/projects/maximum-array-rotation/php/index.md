@@ -1,10 +1,9 @@
 ---
-title: Maximum Array Rotation in Php
-layout: default
-date: 2023-03-27
+date: '2023-03-27'
 featured-image: maximum-array-rotation-in-every-language.jpg
-last-modified: 2023-03-27
-
+last-modified: '2023-03-27'
+layout: default
+title: Maximum Array Rotation in Php
 ---
 
 Welcome to the [Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

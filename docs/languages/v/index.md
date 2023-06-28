@@ -1,10 +1,9 @@
 ---
-title: The V Programming Language
-layout: default
-date: 2023-06-17
+date: '2023-06-17'
 featured-image: programming-languages.jpg
-last-modified: 2023-06-17
-
+last-modified: '2023-06-17'
+layout: default
+title: The V Programming Language
 ---
 
 Welcome to the V page! Here, you'll find a description of the language as well as a list of sample programs in that language.

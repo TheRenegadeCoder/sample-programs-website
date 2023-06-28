@@ -1,10 +1,9 @@
 ---
-title: Maximum Subarray in Rust
-layout: default
-date: 2023-04-09
+date: '2023-04-09'
 featured-image: maximum-subarray-in-every-language.jpg
-last-modified: 2023-04-09
-
+last-modified: '2023-04-09'
+layout: default
+title: Maximum Subarray in Rust
 ---
 
 Welcome to the [Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

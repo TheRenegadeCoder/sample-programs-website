@@ -1,13 +1,13 @@
 ---
-title: Baklava in Every Language
-layout: default
-date: 2018-11-01
-last-modified: 2022-05-18
-featured-image: baklava-in-every-language.jpg
-tags: [baklava]
 authors:
-  - the_renegade_coder
-
+- the_renegade_coder
+date: 2018-11-01
+featured-image: baklava-in-every-language.jpg
+last-modified: 2022-05-18
+layout: default
+tags:
+- baklava
+title: Baklava
 ---
 
 Welcome to the Baklava page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

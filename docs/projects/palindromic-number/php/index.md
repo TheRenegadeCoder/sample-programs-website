@@ -1,10 +1,9 @@
 ---
-title: Palindromic Number in Php
-layout: default
-date: 2023-03-27
+date: '2023-03-27'
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2023-03-27
-
+last-modified: '2023-03-27'
+layout: default
+title: Palindromic Number in Php
 ---
 
 Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

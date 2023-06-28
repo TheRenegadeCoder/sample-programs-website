@@ -1,10 +1,9 @@
 ---
-title: Selection Sort in Go
-layout: default
-date: 2019-03-18
+date: '2019-03-18'
 featured-image: selection-sort-in-every-language.jpg
-last-modified: 2019-03-18
-
+last-modified: '2019-03-18'
+layout: default
+title: Selection Sort in Go
 ---
 
 Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.

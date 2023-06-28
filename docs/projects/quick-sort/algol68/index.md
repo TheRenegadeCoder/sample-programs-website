@@ -1,10 +1,9 @@
 ---
-title: Quick Sort in Algol68
-layout: default
-date: 2023-01-29
+date: '2023-01-29'
 featured-image: quick-sort-in-every-language.jpg
-last-modified: 2023-01-29
-
+last-modified: '2023-01-29'
+layout: default
+title: Quick Sort in Algol68
 ---
 
 Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.

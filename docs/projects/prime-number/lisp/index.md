@@ -1,10 +1,9 @@
 ---
-title: Prime Number in Lisp
-layout: default
-date: 2020-10-01
+date: '2020-10-01'
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2020-10-01
-
+last-modified: '2020-10-01'
+layout: default
+title: Prime Number in Lisp
 ---
 
 Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Lisp](https://sampleprograms.io/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.

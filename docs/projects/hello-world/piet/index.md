@@ -1,10 +1,9 @@
 ---
-title: Hello World in Piet
-layout: default
-date: 2023-04-25
+date: '2023-04-25'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2023-04-25
-
+last-modified: '2023-04-25'
+layout: default
+title: Hello World in Piet
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Piet](https://sampleprograms.io/languages/piet) page! Here, you'll find the source code for this program as well as a description of how the program works.

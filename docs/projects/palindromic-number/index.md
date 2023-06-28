@@ -1,14 +1,14 @@
 ---
-title: Palindromic Number in Every Language
-layout: default
-date: 2020-10-07
-last-modified: 2022-10-10
-featured-image: palindromic-number-in-every-language.jpg
-tags: [palindromic-number]
 authors:
-  - anohene1
-  - the_renegade_coder
-
+- anohene1
+- the_renegade_coder
+date: 2020-10-07
+featured-image: palindromic-number-in-every-language.jpg
+last-modified: 2022-10-10
+layout: default
+tags:
+- palindromic-number
+title: Palindromic Number
 ---
 
 Welcome to the Palindromic Number page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

@@ -1,13 +1,13 @@
 ---
-title: The Euphoria Programming Language
-layout: default
-date: 2023-02-12
-last-modified: 2023-02-12
-featured-image: programming-languages.jpg
-tags: [euphoria]
 authors:
-  - rzuckerm
-
+- rzuckerm
+date: 2023-02-12
+featured-image: programming-languages.jpg
+last-modified: 2023-02-12
+layout: default
+tags:
+- euphoria
+title: The Euphoria Programming Language
 ---
 
 Welcome to the Euphoria page! Here, you'll find a description of the language as well as a list of sample programs in that language.

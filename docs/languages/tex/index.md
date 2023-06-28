@@ -1,10 +1,9 @@
 ---
-title: The Tex Programming Language
-layout: default
-date: 2018-08-28
+date: '2018-08-28'
 featured-image: programming-languages.jpg
-last-modified: 2018-08-28
-
+last-modified: '2018-08-28'
+layout: default
+title: The Tex Programming Language
 ---
 
 Welcome to the Tex page! Here, you'll find a description of the language as well as a list of sample programs in that language.

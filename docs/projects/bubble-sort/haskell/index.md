@@ -1,10 +1,9 @@
 ---
-title: Bubble Sort in Haskell
-layout: default
-date: 2018-12-02
+date: '2018-12-02'
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2018-12-02
-
+last-modified: '2018-12-02'
+layout: default
+title: Bubble Sort in Haskell
 ---
 
 Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,12 +1,13 @@
 ---
-title: Hello World in Lua
-layout: default
-last-modified: 2020-10-15
-featured-image: hello-world-in-lua.jpg
-tags: [lua, hello-world]
 authors:
-  - the_renegade_coder
-
+- the_renegade_coder
+featured-image: hello-world-in-lua.jpg
+last-modified: 2020-10-15
+layout: default
+tags:
+- lua
+- hello-world
+title: Hello World in Lua
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.

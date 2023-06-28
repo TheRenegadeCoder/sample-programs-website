@@ -1,14 +1,14 @@
 ---
-title: The Dart Programming Language
-layout: default
-date: 2020-05-02
-last-modified: 2022-05-11
-featured-image: programming-languages.jpg
-tags: [dart]
 authors:
-  - stargator
-  - the_renegade_coder
-
+- stargator
+- the_renegade_coder
+date: 2020-05-02
+featured-image: programming-languages.jpg
+last-modified: 2022-05-11
+layout: default
+tags:
+- dart
+title: The Dart Programming Language
 ---
 
 Welcome to the Dart page! Here, you'll find a description of the language as well as a list of sample programs in that language.

@@ -1,12 +1,12 @@
 ---
-title: The Solidity Programming Language
-layout: default
-last-modified: 2020-05-02
-tags: [solidity]
 authors:
-  - two_clutch
+- two_clutch
 featured-image: programming-languages.jpg
-
+last-modified: 2020-05-02
+layout: default
+tags:
+- solidity
+title: The Solidity Programming Language
 ---
 
 Welcome to the Solidity page! Here, you'll find a description of the language as well as a list of sample programs in that language.

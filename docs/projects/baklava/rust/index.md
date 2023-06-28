@@ -1,10 +1,9 @@
 ---
-title: Baklava in Rust
-layout: default
-date: 2023-04-06
+date: '2023-04-06'
 featured-image: baklava-in-every-language.jpg
-last-modified: 2023-04-06
-
+last-modified: '2023-04-06'
+layout: default
+title: Baklava in Rust
 ---
 
 Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

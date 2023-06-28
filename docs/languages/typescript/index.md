@@ -1,10 +1,9 @@
 ---
-title: The Typescript Programming Language
-layout: default
-date: 2018-06-22
+date: '2018-06-22'
 featured-image: programming-languages.jpg
-last-modified: 2018-06-22
-
+last-modified: '2018-06-22'
+layout: default
+title: The Typescript Programming Language
 ---
 
 Welcome to the Typescript page! Here, you'll find a description of the language as well as a list of sample programs in that language.

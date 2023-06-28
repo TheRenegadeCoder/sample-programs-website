@@ -1,10 +1,9 @@
 ---
-title: The Haxe Programming Language
-layout: default
-date: 2021-08-12
+date: '2021-08-12'
 featured-image: programming-languages.jpg
-last-modified: 2021-08-12
-
+last-modified: '2021-08-12'
+layout: default
+title: The Haxe Programming Language
 ---
 
 Welcome to the Haxe page! Here, you'll find a description of the language as well as a list of sample programs in that language.

@@ -1,10 +1,9 @@
 ---
-title: Hello World in Objective C
+date: '2018-03-21'
+featured-image: hello-world-in-objective-c.jpg
+last-modified: '2018-03-21'
 layout: default
-date: 2018-03-21
-featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-03-21
-
+title: Hello World in Objective C
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Objective C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.

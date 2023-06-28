@@ -1,10 +1,9 @@
 ---
-title: The Emojicode Programming Language
-layout: default
-date: 2018-05-05
+date: '2018-05-05'
 featured-image: programming-languages.jpg
-last-modified: 2018-05-05
-
+last-modified: '2018-05-05'
+layout: default
+title: The Emojicode Programming Language
 ---
 
 Welcome to the Emojicode page! Here, you'll find a description of the language as well as a list of sample programs in that language.

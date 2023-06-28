@@ -1,10 +1,9 @@
 ---
-title: Palindromic Number in Mathematica
-layout: default
-date: 2023-01-18
+date: '2023-01-18'
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2023-01-18
-
+last-modified: '2023-01-18'
+layout: default
+title: Palindromic Number in Mathematica
 ---
 
 Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.

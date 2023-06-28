@@ -1,10 +1,9 @@
 ---
-title: Hello World in Shen
-layout: default
-date: 2018-06-28
+date: '2018-06-28'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-06-28
-
+last-modified: '2018-06-28'
+layout: default
+title: Hello World in Shen
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Shen](https://sampleprograms.io/languages/shen) page! Here, you'll find the source code for this program as well as a description of how the program works.

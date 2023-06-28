@@ -1,12 +1,13 @@
 ---
-title: Hello World in Goby
-layout: default
-last-modified: 2020-05-02
-featured-image: hello-world-in-goby.jpg
-tags: [goby, hello-world]
 authors:
-  - the_renegade_coder
-
+- the_renegade_coder
+featured-image: hello-world-in-goby.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- goby
+- hello-world
+title: Hello World in Goby
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Goby](https://sampleprograms.io/languages/goby) page! Here, you'll find the source code for this program as well as a description of how the program works.

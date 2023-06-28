@@ -1,12 +1,12 @@
 ---
-title: File Input Output in Every Language
-layout: default
+authors: null
 date: 2018-11-01
-last-modified: 2020-05-02
 featured-image: file-input-output-in-every-language.jpg
-tags: [file-input-output]
-authors:
-
+last-modified: 2020-05-02
+layout: default
+tags:
+- file-input-output
+title: File Input Output
 ---
 
 Welcome to the File Input Output page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

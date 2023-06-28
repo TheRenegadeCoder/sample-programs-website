@@ -1,10 +1,9 @@
 ---
-title: Transpose Matrix in Python
-layout: default
-date: 2022-05-13
+date: '2022-05-13'
 featured-image: transpose-matrix-in-every-language.jpg
-last-modified: 2022-05-13
-
+last-modified: '2022-05-13'
+layout: default
+title: Transpose Matrix in Python
 ---
 
 Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

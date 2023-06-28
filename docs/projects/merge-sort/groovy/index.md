@@ -1,10 +1,9 @@
 ---
-title: Merge Sort in Groovy
-layout: default
-date: 2019-10-20
+date: '2019-10-20'
 featured-image: merge-sort-in-every-language.jpg
-last-modified: 2019-10-20
-
+last-modified: '2019-10-20'
+layout: default
+title: Merge Sort in Groovy
 ---
 
 Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Groovy](https://sampleprograms.io/languages/groovy) page! Here, you'll find the source code for this program as well as a description of how the program works.

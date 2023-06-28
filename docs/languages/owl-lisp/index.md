@@ -1,10 +1,9 @@
 ---
-title: The Owl Lisp Programming Language
-layout: default
-date: 2018-06-29
+date: '2018-06-29'
 featured-image: programming-languages.jpg
-last-modified: 2018-06-29
-
+last-modified: '2018-06-29'
+layout: default
+title: The Owl Lisp Programming Language
 ---
 
 Welcome to the Owl Lisp page! Here, you'll find a description of the language as well as a list of sample programs in that language.

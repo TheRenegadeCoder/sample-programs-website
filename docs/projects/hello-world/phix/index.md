@@ -1,10 +1,9 @@
 ---
-title: Hello World in Phix
-layout: default
-date: 2023-04-17
+date: '2023-04-17'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2023-04-17
-
+last-modified: '2023-04-17'
+layout: default
+title: Hello World in Phix
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Phix](https://sampleprograms.io/languages/phix) page! Here, you'll find the source code for this program as well as a description of how the program works.

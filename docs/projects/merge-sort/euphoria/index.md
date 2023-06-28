@@ -1,10 +1,9 @@
 ---
-title: Merge Sort in Euphoria
-layout: default
-date: 2023-02-19
+date: '2023-02-19'
 featured-image: merge-sort-in-every-language.jpg
-last-modified: 2023-02-19
-
+last-modified: '2023-02-19'
+layout: default
+title: Merge Sort in Euphoria
 ---
 
 Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.

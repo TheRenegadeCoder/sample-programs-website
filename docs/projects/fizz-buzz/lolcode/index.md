@@ -1,10 +1,9 @@
 ---
-title: Fizz Buzz in Lolcode
-layout: default
-date: 2020-10-01
+date: '2020-10-01'
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2020-10-01
-
+last-modified: '2020-10-01'
+layout: default
+title: Fizz Buzz in Lolcode
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Lolcode](https://sampleprograms.io/languages/lolcode) page! Here, you'll find the source code for this program as well as a description of how the program works.

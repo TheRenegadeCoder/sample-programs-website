@@ -1,10 +1,9 @@
 ---
-title: Dijkstra in Algol68
-layout: default
-date: 2023-02-09
+date: '2023-02-09'
 featured-image: dijkstra-in-every-language.jpg
-last-modified: 2023-02-09
-
+last-modified: '2023-02-09'
+layout: default
+title: Dijkstra in Algol68
 ---
 
 Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Hello World in Carp
-layout: default
-date: 2018-04-27
+date: '2018-04-27'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-04-27
-
+last-modified: '2018-04-27'
+layout: default
+title: Hello World in Carp
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Carp](https://sampleprograms.io/languages/carp) page! Here, you'll find the source code for this program as well as a description of how the program works.

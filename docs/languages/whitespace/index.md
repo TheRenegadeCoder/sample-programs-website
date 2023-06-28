@@ -1,10 +1,9 @@
 ---
-title: The Whitespace Programming Language
-layout: default
-date: 2019-10-04
+date: '2019-10-04'
 featured-image: programming-languages.jpg
-last-modified: 2019-10-04
-
+last-modified: '2019-10-04'
+layout: default
+title: The Whitespace Programming Language
 ---
 
 Welcome to the Whitespace page! Here, you'll find a description of the language as well as a list of sample programs in that language.

@@ -1,10 +1,9 @@
 ---
-title: Hello World in Pyret
-layout: default
-date: 2018-04-23
+date: '2018-04-23'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-04-23
-
+last-modified: '2018-04-23'
+layout: default
+title: Hello World in Pyret
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Pyret](https://sampleprograms.io/languages/pyret) page! Here, you'll find the source code for this program as well as a description of how the program works.

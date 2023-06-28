@@ -1,10 +1,9 @@
 ---
-title: Quick Sort in Scala
-layout: default
-date: 2019-03-22
+date: '2019-03-22'
 featured-image: quick-sort-in-every-language.jpg
-last-modified: 2019-03-22
-
+last-modified: '2019-03-22'
+layout: default
+title: Quick Sort in Scala
 ---
 
 Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Scala](https://sampleprograms.io/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.

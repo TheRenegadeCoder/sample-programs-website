@@ -1,10 +1,9 @@
 ---
-title: Longest Common Subsequence in Elixir
-layout: default
-date: 2019-10-14
+date: '2019-10-14'
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: 2019-10-14
-
+last-modified: '2019-10-14'
+layout: default
+title: Longest Common Subsequence in Elixir
 ---
 
 Welcome to the [Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Elixir](https://sampleprograms.io/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.

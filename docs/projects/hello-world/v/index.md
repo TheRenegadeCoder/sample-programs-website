@@ -1,10 +1,9 @@
 ---
-title: Hello World in V
-layout: default
-date: 2023-06-17
+date: '2023-06-17'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2023-06-17
-
+last-modified: '2023-06-17'
+layout: default
+title: Hello World in V
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [V](https://sampleprograms.io/languages/v) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Hello World in Idris
-layout: default
-date: 2018-11-21
+date: '2018-11-21'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-11-21
-
+last-modified: '2018-11-21'
+layout: default
+title: Hello World in Idris
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Idris](https://sampleprograms.io/languages/idris) page! Here, you'll find the source code for this program as well as a description of how the program works.

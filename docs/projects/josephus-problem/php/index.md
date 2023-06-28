@@ -1,10 +1,9 @@
 ---
-title: Josephus Problem in Php
-layout: default
-date: 2023-03-24
+date: '2023-03-24'
 featured-image: josephus-problem-in-every-language.jpg
-last-modified: 2023-03-24
-
+last-modified: '2023-03-24'
+layout: default
+title: Josephus Problem in Php
 ---
 
 Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

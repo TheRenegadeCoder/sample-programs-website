@@ -1,11 +1,13 @@
 ---
-title: Even Odd in COBOL
-layout: default
-last-modified: 2021-10-16
+authors:
+- ShivaniThevar
 featured-image: even-odd-in-cobol.jpg
-tags: [COBOL, even-odd]
-authors: [ShivaniThevar]
-
+last-modified: 2021-10-16
+layout: default
+tags:
+- COBOL
+- even-odd
+title: Even Odd in Cobol
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Cobol](https://sampleprograms.io/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.

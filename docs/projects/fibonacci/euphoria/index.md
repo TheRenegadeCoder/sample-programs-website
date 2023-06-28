@@ -1,10 +1,9 @@
 ---
-title: Fibonacci in Euphoria
-layout: default
-date: 2023-02-19
+date: '2023-02-19'
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2023-02-19
-
+last-modified: '2023-02-19'
+layout: default
+title: Fibonacci in Euphoria
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.

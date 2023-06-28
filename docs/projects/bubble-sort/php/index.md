@@ -1,10 +1,9 @@
 ---
-title: Bubble Sort in Php
-layout: default
-date: 2019-10-04
+date: '2019-10-04'
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2019-10-04
-
+last-modified: '2019-10-04'
+layout: default
+title: Bubble Sort in Php
 ---
 
 Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

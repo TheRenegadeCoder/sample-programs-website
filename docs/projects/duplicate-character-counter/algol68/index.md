@@ -1,10 +1,9 @@
 ---
-title: Duplicate Character Counter in Algol68
-layout: default
-date: 2023-01-22
+date: '2023-01-22'
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2023-01-22
-
+last-modified: '2023-01-22'
+layout: default
+title: Duplicate Character Counter in Algol68
 ---
 
 Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.

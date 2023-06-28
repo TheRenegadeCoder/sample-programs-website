@@ -1,10 +1,9 @@
 ---
-title: Even Odd in Lua
-layout: default
-date: 2019-10-17
+date: '2019-10-17'
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2019-10-17
-
+last-modified: '2019-10-17'
+layout: default
+title: Even Odd in Lua
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,12 +1,13 @@
 ---
-title: Insertion Sort in C++
-layout: default
-last-modified: 2020-05-02
-featured-image: insertion-sort-in-every-language.jpg
-tags: [c-plus-plus, insertion-sort]
 authors:
-  - sun-fox
-
+- sun-fox
+featured-image: insertion-sort-in-every-language.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- c-plus-plus
+- insertion-sort
+title: Insertion Sort in C++
 ---
 
 Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.

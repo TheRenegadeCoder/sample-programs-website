@@ -1,13 +1,13 @@
 ---
-title: The Crystal Programming Language
-layout: default
-date: 2020-05-02
-last-modified: 2022-05-18
-tags: [crystal]
 authors:
-  - the_renegade_coder
+- the_renegade_coder
+date: 2020-05-02
 featured-image: programming-languages.jpg
-
+last-modified: 2022-05-18
+layout: default
+tags:
+- crystal
+title: The Crystal Programming Language
 ---
 
 Welcome to the Crystal page! Here, you'll find a description of the language as well as a list of sample programs in that language.

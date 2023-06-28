@@ -1,12 +1,13 @@
 ---
-title: Hello World in Yoix
-layout: default
-last-modified: 2023-06-19
-featured-image: hello-world-in-yoix.jpg
-tags: [yoix, hello-world]
 authors:
-  - rzuckerm
-
+- rzuckerm
+featured-image: hello-world-in-yoix.jpg
+last-modified: 2023-06-19
+layout: default
+tags:
+- yoix
+- hello-world
+title: Hello World in Yoix
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Yoix](https://sampleprograms.io/languages/yoix) page! Here, you'll find the source code for this program as well as a description of how the program works.

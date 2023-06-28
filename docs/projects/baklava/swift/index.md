@@ -1,10 +1,9 @@
 ---
-title: Baklava in Swift
-layout: default
-date: 2018-10-20
+date: '2018-10-20'
 featured-image: baklava-in-every-language.jpg
-last-modified: 2018-10-20
-
+last-modified: '2018-10-20'
+layout: default
+title: Baklava in Swift
 ---
 
 Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.

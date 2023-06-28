@@ -1,10 +1,9 @@
 ---
-title: Rot13 in Haskell
-layout: default
-date: 2018-11-20
+date: '2018-11-20'
 featured-image: rot13-in-every-language.jpg
-last-modified: 2018-11-20
-
+last-modified: '2018-11-20'
+layout: default
+title: Rot13 in Haskell
 ---
 
 Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Josephus Problem in Javascript
-layout: default
-date: 2021-10-08
+date: '2021-10-08'
 featured-image: josephus-problem-in-every-language.jpg
-last-modified: 2021-10-08
-
+last-modified: '2021-10-08'
+layout: default
+title: Josephus Problem in Javascript
 ---
 
 Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.

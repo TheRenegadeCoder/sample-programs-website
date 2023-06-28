@@ -1,13 +1,13 @@
 ---
-title: Fizz Buzz in Every Language
-layout: default
-date: 2018-11-01
-last-modified: 2020-05-02
-featured-image: fizz-buzz-in-every-language.png
-tags: [fizz-buzz]
 authors:
-  - the_renegade_coder
-
+- the_renegade_coder
+date: 2018-11-01
+featured-image: fizz-buzz-in-every-language.png
+last-modified: 2020-05-02
+layout: default
+tags:
+- fizz-buzz
+title: Fizz Buzz
 ---
 
 Welcome to the Fizz Buzz page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

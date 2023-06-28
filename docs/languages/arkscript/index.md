@@ -1,10 +1,9 @@
 ---
-title: The Arkscript Programming Language
-layout: default
-date: 2020-10-03
+date: '2020-10-03'
 featured-image: programming-languages.jpg
-last-modified: 2020-10-03
-
+last-modified: '2020-10-03'
+layout: default
+title: The Arkscript Programming Language
 ---
 
 Welcome to the Arkscript page! Here, you'll find a description of the language as well as a list of sample programs in that language.

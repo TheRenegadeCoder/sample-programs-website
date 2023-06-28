@@ -1,10 +1,9 @@
 ---
-title: Remove All Whitespace in Php
-layout: default
-date: 2023-03-23
+date: '2023-03-23'
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2023-03-23
-
+last-modified: '2023-03-23'
+layout: default
+title: Remove All Whitespace in Php
 ---
 
 Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,12 +1,12 @@
 ---
-title: The R Programming Language
-layout: default
-last-modified: 2020-05-02
-tags: [r]
 authors:
-  - alexandra_woerner
+- alexandra_woerner
 featured-image: programming-languages.jpg
-
+last-modified: 2020-05-02
+layout: default
+tags:
+- r
+title: The R Programming Language
 ---
 
 Welcome to the R page! Here, you'll find a description of the language as well as a list of sample programs in that language.

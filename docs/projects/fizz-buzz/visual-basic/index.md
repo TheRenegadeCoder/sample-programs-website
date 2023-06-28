@@ -1,10 +1,9 @@
 ---
-title: Fizz Buzz in Visual Basic
-layout: default
-date: 2020-10-01
+date: '2020-10-01'
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2020-10-01
-
+last-modified: '2020-10-01'
+layout: default
+title: Fizz Buzz in Visual Basic
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Visual Basic](https://sampleprograms.io/languages/visual-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.

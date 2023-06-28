@@ -1,10 +1,9 @@
 ---
-title: Fizz Buzz in Brainfuck
-layout: default
-date: 2018-08-24
+date: '2018-08-24'
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2018-08-24
-
+last-modified: '2018-08-24'
+layout: default
+title: Fizz Buzz in Brainfuck
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Brainfuck](https://sampleprograms.io/languages/brainfuck) page! Here, you'll find the source code for this program as well as a description of how the program works.

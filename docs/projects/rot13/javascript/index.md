@@ -1,10 +1,9 @@
 ---
-title: Rot13 in Javascript
-layout: default
-date: 2019-10-22
+date: '2019-10-22'
 featured-image: rot13-in-every-language.jpg
-last-modified: 2019-10-22
-
+last-modified: '2019-10-22'
+layout: default
+title: Rot13 in Javascript
 ---
 
 Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.

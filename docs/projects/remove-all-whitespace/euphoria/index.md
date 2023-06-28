@@ -1,10 +1,9 @@
 ---
-title: Remove All Whitespace in Euphoria
-layout: default
-date: 2023-02-19
+date: '2023-02-19'
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2023-02-19
-
+last-modified: '2023-02-19'
+layout: default
+title: Remove All Whitespace in Euphoria
 ---
 
 Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.

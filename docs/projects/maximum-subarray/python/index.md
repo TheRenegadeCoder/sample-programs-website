@@ -1,12 +1,13 @@
 ---
-title: Maximum Subarray in Python
-layout: default
-last-modified: 2020-10-14
-featured-image: maximum-subarray-in-every-language.jpg
-tags: [python, maximum-subarray]
 authors:
-  - Senpai1199
-
+- Senpai1199
+featured-image: maximum-subarray-in-every-language.jpg
+last-modified: 2020-10-14
+layout: default
+tags:
+- python
+- maximum-subarray
+title: Maximum Subarray in Python
 ---
 
 Welcome to the [Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

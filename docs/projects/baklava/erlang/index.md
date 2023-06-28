@@ -1,10 +1,9 @@
 ---
-title: Baklava in Erlang
-layout: default
-date: 2019-10-04
+date: '2019-10-04'
 featured-image: baklava-in-every-language.jpg
-last-modified: 2019-10-04
-
+last-modified: '2019-10-04'
+layout: default
+title: Baklava in Erlang
 ---
 
 Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Erlang](https://sampleprograms.io/languages/erlang) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,12 +1,13 @@
 ---
-title: Hello World in Tex
-layout: default
-last-modified: 2020-09-30
-featured-image: hello-world-in-tex.jpg
-tags: [tex, hello-world]
 authors:
-  - bracciata
-
+- bracciata
+featured-image: hello-world-in-tex.jpg
+last-modified: 2020-09-30
+layout: default
+tags:
+- tex
+- hello-world
+title: Hello World in Tex
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Tex](https://sampleprograms.io/languages/tex) page! Here, you'll find the source code for this program as well as a description of how the program works.

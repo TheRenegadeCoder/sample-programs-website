@@ -1,10 +1,9 @@
 ---
-title: Factorial in Cobol
-layout: default
-date: 2021-10-14
+date: '2021-10-14'
 featured-image: factorial-in-every-language.jpg
-last-modified: 2021-10-14
-
+last-modified: '2021-10-14'
+layout: default
+title: Factorial in Cobol
 ---
 
 Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Cobol](https://sampleprograms.io/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.

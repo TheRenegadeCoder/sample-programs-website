@@ -1,10 +1,9 @@
 ---
-title: Fizz Buzz in Erlang
-layout: default
-date: 2019-10-04
+date: '2019-10-04'
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2019-10-04
-
+last-modified: '2019-10-04'
+layout: default
+title: Fizz Buzz in Erlang
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Erlang](https://sampleprograms.io/languages/erlang) page! Here, you'll find the source code for this program as well as a description of how the program works.

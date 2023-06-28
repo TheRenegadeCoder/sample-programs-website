@@ -1,10 +1,9 @@
 ---
-title: The Prolog Programming Language
-layout: default
-date: 2023-06-10
+date: '2023-06-10'
 featured-image: programming-languages.jpg
-last-modified: 2023-06-10
-
+last-modified: '2023-06-10'
+layout: default
+title: The Prolog Programming Language
 ---
 
 Welcome to the Prolog page! Here, you'll find a description of the language as well as a list of sample programs in that language.

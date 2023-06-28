@@ -1,10 +1,9 @@
 ---
-title: Bubble Sort in Javascript
-layout: default
-date: 2019-10-12
+date: '2019-10-12'
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2019-10-12
-
+last-modified: '2019-10-12'
+layout: default
+title: Bubble Sort in Javascript
 ---
 
 Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.

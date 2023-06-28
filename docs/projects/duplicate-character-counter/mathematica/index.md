@@ -1,10 +1,9 @@
 ---
-title: Duplicate Character Counter in Mathematica
-layout: default
-date: 2023-01-21
+date: '2023-01-21'
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2023-01-21
-
+last-modified: '2023-01-21'
+layout: default
+title: Duplicate Character Counter in Mathematica
 ---
 
 Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.

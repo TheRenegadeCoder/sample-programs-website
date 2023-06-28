@@ -1,10 +1,9 @@
 ---
-title: Palindromic Number in Pascal
-layout: default
-date: 2021-10-29
+date: '2021-10-29'
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2021-10-29
-
+last-modified: '2021-10-29'
+layout: default
+title: Palindromic Number in Pascal
 ---
 
 Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Pascal](https://sampleprograms.io/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.

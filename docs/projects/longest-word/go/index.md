@@ -1,10 +1,9 @@
 ---
-title: Longest Word in Go
-layout: default
-date: 2023-03-19
+date: '2023-03-19'
 featured-image: longest-word-in-every-language.jpg
-last-modified: 2023-03-19
-
+last-modified: '2023-03-19'
+layout: default
+title: Longest Word in Go
 ---
 
 Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.

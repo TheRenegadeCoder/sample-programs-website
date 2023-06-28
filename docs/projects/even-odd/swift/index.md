@@ -1,10 +1,9 @@
 ---
-title: Even Odd in Swift
-layout: default
-date: 2020-10-05
+date: '2020-10-05'
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2020-10-05
-
+last-modified: '2020-10-05'
+layout: default
+title: Even Odd in Swift
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.

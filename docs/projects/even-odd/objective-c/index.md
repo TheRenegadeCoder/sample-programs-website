@@ -1,10 +1,9 @@
 ---
-title: Even Odd in Objective C
-layout: default
-date: 2020-10-01
+date: '2020-10-01'
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2020-10-01
-
+last-modified: '2020-10-01'
+layout: default
+title: Even Odd in Objective C
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Objective C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Merge Sort in Kotlin
-layout: default
-date: 2020-10-02
+date: '2020-10-02'
 featured-image: merge-sort-in-every-language.jpg
-last-modified: 2020-10-02
-
+last-modified: '2020-10-02'
+layout: default
+title: Merge Sort in Kotlin
 ---
 
 Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.

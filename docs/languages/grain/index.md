@@ -1,10 +1,9 @@
 ---
-title: The Grain Programming Language
-layout: default
-date: 2020-10-14
+date: '2020-10-14'
 featured-image: programming-languages.jpg
-last-modified: 2020-10-14
-
+last-modified: '2020-10-14'
+layout: default
+title: The Grain Programming Language
 ---
 
 Welcome to the Grain page! Here, you'll find a description of the language as well as a list of sample programs in that language.

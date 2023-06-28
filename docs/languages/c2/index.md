@@ -1,10 +1,9 @@
 ---
-title: The C2 Programming Language
-layout: default
-date: 2021-05-25
+date: '2021-05-25'
 featured-image: programming-languages.jpg
-last-modified: 2021-05-25
-
+last-modified: '2021-05-25'
+layout: default
+title: The C2 Programming Language
 ---
 
 Welcome to the C2 page! Here, you'll find a description of the language as well as a list of sample programs in that language.

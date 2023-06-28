@@ -1,10 +1,9 @@
 ---
-title: Fibonacci in Racket
-layout: default
-date: 2019-10-31
+date: '2019-10-31'
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2019-10-31
-
+last-modified: '2019-10-31'
+layout: default
+title: Fibonacci in Racket
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Racket](https://sampleprograms.io/languages/racket) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Longest Word in Php
-layout: default
-date: 2023-03-23
+date: '2023-03-23'
 featured-image: longest-word-in-every-language.jpg
-last-modified: 2023-03-23
-
+last-modified: '2023-03-23'
+layout: default
+title: Longest Word in Php
 ---
 
 Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

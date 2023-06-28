@@ -1,12 +1,13 @@
 ---
-title: Reverse String in Swift
-layout: default
-last-modified: 2020-05-02
-featured-image: reverse-string-in-every-language.jpg
-tags: [swift, reverse-string]
 authors:
-  - martyav
-
+- martyav
+featured-image: reverse-string-in-every-language.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- swift
+- reverse-string
+title: Reverse String in Swift
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.

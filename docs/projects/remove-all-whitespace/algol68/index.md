@@ -1,10 +1,9 @@
 ---
-title: Remove All Whitespace in Algol68
-layout: default
-date: 2023-01-24
+date: '2023-01-24'
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2023-01-24
-
+last-modified: '2023-01-24'
+layout: default
+title: Remove All Whitespace in Algol68
 ---
 
 Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.

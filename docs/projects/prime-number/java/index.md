@@ -1,10 +1,9 @@
 ---
-title: Prime Number in Java
-layout: default
-date: 2019-10-10
+date: '2019-10-10'
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2019-10-10
-
+last-modified: '2019-10-10'
+layout: default
+title: Prime Number in Java
 ---
 
 Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.

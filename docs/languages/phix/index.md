@@ -1,13 +1,13 @@
 ---
-title: The Phix Programming Language
-layout: default
-date: 2023-04-16
-last-modified: 2023-04-16
-featured-image: programming-languages.jpg
-tags: [phix]
 authors:
-  - rzuckerm
-
+- rzuckerm
+date: 2023-04-16
+featured-image: programming-languages.jpg
+last-modified: 2023-04-16
+layout: default
+tags:
+- phix
+title: The Phix Programming Language
 ---
 
 Welcome to the Phix page! Here, you'll find a description of the language as well as a list of sample programs in that language.

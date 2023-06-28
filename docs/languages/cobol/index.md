@@ -1,10 +1,9 @@
 ---
-title: The Cobol Programming Language
-layout: default
-date: 2021-10-09
+date: '2021-10-09'
 featured-image: programming-languages.jpg
-last-modified: 2021-10-09
-
+last-modified: '2021-10-09'
+layout: default
+title: The Cobol Programming Language
 ---
 
 Welcome to the Cobol page! Here, you'll find a description of the language as well as a list of sample programs in that language.

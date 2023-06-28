@@ -1,10 +1,9 @@
 ---
-title: Hello World in Javascript
+date: '2018-03-31'
+featured-image: hello-world-in-javascript.jpg
+last-modified: '2018-03-31'
 layout: default
-date: 2018-03-31
-featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-03-31
-
+title: Hello World in Javascript
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.

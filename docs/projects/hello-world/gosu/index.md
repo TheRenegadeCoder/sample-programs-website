@@ -1,10 +1,9 @@
 ---
-title: Hello World in Gosu
-layout: default
-date: 2020-11-03
+date: '2020-11-03'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2020-11-03
-
+last-modified: '2020-11-03'
+layout: default
+title: Hello World in Gosu
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Gosu](https://sampleprograms.io/languages/gosu) page! Here, you'll find the source code for this program as well as a description of how the program works.

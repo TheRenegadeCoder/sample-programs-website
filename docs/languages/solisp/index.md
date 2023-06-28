@@ -1,10 +1,9 @@
 ---
-title: The Solisp Programming Language
-layout: default
-date: 2020-02-25
+date: '2020-02-25'
 featured-image: programming-languages.jpg
-last-modified: 2020-02-25
-
+last-modified: '2020-02-25'
+layout: default
+title: The Solisp Programming Language
 ---
 
 Welcome to the Solisp page! Here, you'll find a description of the language as well as a list of sample programs in that language.

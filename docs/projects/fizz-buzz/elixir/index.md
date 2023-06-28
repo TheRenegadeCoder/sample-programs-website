@@ -1,10 +1,9 @@
 ---
-title: Fizz Buzz in Elixir
-layout: default
-date: 2019-04-25
+date: '2019-04-25'
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2019-04-25
-
+last-modified: '2019-04-25'
+layout: default
+title: Fizz Buzz in Elixir
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Elixir](https://sampleprograms.io/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.

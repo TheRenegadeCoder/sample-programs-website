@@ -1,10 +1,9 @@
 ---
-title: Baklava in Ada
-layout: default
-date: 2021-10-29
+date: '2021-10-29'
 featured-image: baklava-in-every-language.jpg
-last-modified: 2021-10-29
-
+last-modified: '2021-10-29'
+layout: default
+title: Baklava in Ada
 ---
 
 Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Ada](https://sampleprograms.io/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.

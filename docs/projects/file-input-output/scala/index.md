@@ -1,12 +1,13 @@
 ---
-title: File Input Output in Scala
-layout: default
-last-modified: 2020-05-02
-featured-image: file-input-output-in-every-language.jpg
-tags: [scala, file-input-output]
 authors:
-  - veevidify
-
+- veevidify
+featured-image: file-input-output-in-every-language.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- scala
+- file-input-output
+title: File Input Output in Scala
 ---
 
 Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Scala](https://sampleprograms.io/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.

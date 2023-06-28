@@ -1,10 +1,9 @@
 ---
-title: Merge Sort in C
-layout: default
-date: 2019-10-15
+date: '2019-10-15'
 featured-image: merge-sort-in-every-language.jpg
-last-modified: 2019-10-15
-
+last-modified: '2019-10-15'
+layout: default
+title: Merge Sort in C
 ---
 
 Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.

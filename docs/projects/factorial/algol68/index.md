@@ -1,10 +1,9 @@
 ---
-title: Factorial in Algol68
-layout: default
-date: 2023-01-21
+date: '2023-01-21'
 featured-image: factorial-in-every-language.jpg
-last-modified: 2023-01-21
-
+last-modified: '2023-01-21'
+layout: default
+title: Factorial in Algol68
 ---
 
 Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Even Odd in Perl
-layout: default
-date: 2019-10-16
+date: '2019-10-16'
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2019-10-16
-
+last-modified: '2019-10-16'
+layout: default
+title: Even Odd in Perl
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.

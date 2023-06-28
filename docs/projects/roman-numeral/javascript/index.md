@@ -1,10 +1,9 @@
 ---
-title: Roman Numeral in Javascript
-layout: default
-date: 2019-10-11
+date: '2019-10-11'
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: 2019-10-11
-
+last-modified: '2019-10-11'
+layout: default
+title: Roman Numeral in Javascript
 ---
 
 Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.

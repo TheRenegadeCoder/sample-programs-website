@@ -1,10 +1,9 @@
 ---
-title: Rot13 in Php
-layout: default
-date: 2019-10-13
+date: '2019-10-13'
 featured-image: rot13-in-every-language.jpg
-last-modified: 2019-10-13
-
+last-modified: '2019-10-13'
+layout: default
+title: Rot13 in Php
 ---
 
 Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

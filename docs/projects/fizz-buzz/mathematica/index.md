@@ -1,10 +1,9 @@
 ---
-title: Fizz Buzz in Mathematica
-layout: default
-date: 2023-01-21
+date: '2023-01-21'
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2023-01-21
-
+last-modified: '2023-01-21'
+layout: default
+title: Fizz Buzz in Mathematica
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.

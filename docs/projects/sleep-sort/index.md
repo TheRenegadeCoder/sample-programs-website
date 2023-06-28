@@ -1,13 +1,13 @@
 ---
-title: Sleep Sort in Every Language
-layout: default
-date: 2019-10-08
-last-modified: 2020-05-02
-featured-image: sleep-sort-in-every-language.jpg
-tags: [sleep-sort]
 authors:
-  - agilob
-
+- agilob
+date: 2019-10-08
+featured-image: sleep-sort-in-every-language.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- sleep-sort
+title: Sleep Sort
 ---
 
 Welcome to the Sleep Sort page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

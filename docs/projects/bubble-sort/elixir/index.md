@@ -1,10 +1,9 @@
 ---
-title: Bubble Sort in Elixir
-layout: default
-date: 2019-10-03
+date: '2019-10-03'
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2019-10-03
-
+last-modified: '2019-10-03'
+layout: default
+title: Bubble Sort in Elixir
 ---
 
 Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Elixir](https://sampleprograms.io/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.

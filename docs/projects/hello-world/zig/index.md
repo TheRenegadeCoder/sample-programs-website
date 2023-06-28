@@ -1,10 +1,9 @@
 ---
-title: Hello World in Zig
-layout: default
-date: 2020-10-09
+date: '2020-10-09'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2020-10-09
-
+last-modified: '2020-10-09'
+layout: default
+title: Hello World in Zig
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Zig](https://sampleprograms.io/languages/zig) page! Here, you'll find the source code for this program as well as a description of how the program works.

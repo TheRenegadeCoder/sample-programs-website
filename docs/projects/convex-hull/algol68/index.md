@@ -1,10 +1,9 @@
 ---
-title: Convex Hull in Algol68
-layout: default
-date: 2023-02-14
+date: '2023-02-14'
 featured-image: convex-hull-in-every-language.jpg
-last-modified: 2023-02-14
-
+last-modified: '2023-02-14'
+layout: default
+title: Convex Hull in Algol68
 ---
 
 Welcome to the [Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Job Sequencing in Algol68
-layout: default
-date: 2023-02-06
+date: '2023-02-06'
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: 2023-02-06
-
+last-modified: '2023-02-06'
+layout: default
+title: Job Sequencing in Algol68
 ---
 
 Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Capitalize in Rust
-layout: default
-date: 2019-10-26
+date: '2019-10-26'
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2019-10-26
-
+last-modified: '2019-10-26'
+layout: default
+title: Capitalize in Rust
 ---
 
 Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

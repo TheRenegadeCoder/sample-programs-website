@@ -1,10 +1,9 @@
 ---
-title: Reverse String in Clojure
-layout: default
-date: 2019-10-11
+date: '2019-10-11'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2019-10-11
-
+last-modified: '2019-10-11'
+layout: default
+title: Reverse String in Clojure
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Clojure](https://sampleprograms.io/languages/clojure) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Even Odd in Go
-layout: default
-date: 2018-10-25
+date: '2018-10-25'
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2018-10-25
-
+last-modified: '2018-10-25'
+layout: default
+title: Even Odd in Go
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Reverse String in Lisp
-layout: default
-date: 2020-10-11
+date: '2020-10-11'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2020-10-11
-
+last-modified: '2020-10-11'
+layout: default
+title: Reverse String in Lisp
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Lisp](https://sampleprograms.io/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.

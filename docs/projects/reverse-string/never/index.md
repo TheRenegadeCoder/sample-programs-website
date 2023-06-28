@@ -1,10 +1,9 @@
 ---
-title: Reverse String in Never
-layout: default
-date: 2018-09-20
+date: '2018-09-20'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2018-09-20
-
+last-modified: '2018-09-20'
+layout: default
+title: Reverse String in Never
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Never](https://sampleprograms.io/languages/never) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,12 +1,13 @@
 ---
-title: Hello World in Bash
-layout: default
-last-modified: 2020-05-02
-featured-image: hello-world-in-bash.jpg
-tags: [bash, hello-world]
 authors:
-  - the_renegade_coder
-
+- the_renegade_coder
+featured-image: hello-world-in-bash.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- bash
+- hello-world
+title: Hello World in Bash
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.

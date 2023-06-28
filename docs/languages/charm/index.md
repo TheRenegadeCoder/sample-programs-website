@@ -1,10 +1,9 @@
 ---
-title: The Charm Programming Language
-layout: default
-date: 2020-12-09
+date: '2020-12-09'
 featured-image: programming-languages.jpg
-last-modified: 2020-12-09
-
+last-modified: '2020-12-09'
+layout: default
+title: The Charm Programming Language
 ---
 
 Welcome to the Charm page! Here, you'll find a description of the language as well as a list of sample programs in that language.

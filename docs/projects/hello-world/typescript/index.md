@@ -1,12 +1,13 @@
 ---
-title: Hello World in TypeScript
-layout: default
-last-modified: 2020-09-30
-featured-image: hello-world-in-typescript.jpg
-tags: [typescript, hello-world]
 authors:
-  - bracciata
-
+- bracciata
+featured-image: hello-world-in-every-language.jpg
+last-modified: 2020-09-30
+layout: default
+tags:
+- typescript
+- hello-world
+title: Hello World in Typescript
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.

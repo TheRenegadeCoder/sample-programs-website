@@ -1,10 +1,9 @@
 ---
-title: Longest Common Subsequence in C
-layout: default
-date: 2019-10-20
+date: '2019-10-20'
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: 2019-10-20
-
+last-modified: '2019-10-20'
+layout: default
+title: Longest Common Subsequence in C
 ---
 
 Welcome to the Longest [C](https://sampleprograms.io/languages/c)ommon Subsequence in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Reverse String in Haskell
-layout: default
-date: 2018-10-17
+date: '2018-10-17'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2018-10-17
-
+last-modified: '2018-10-17'
+layout: default
+title: Reverse String in Haskell
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.

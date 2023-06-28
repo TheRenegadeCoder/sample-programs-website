@@ -1,10 +1,9 @@
 ---
-title: Fibonacci in Swift
-layout: default
-date: 2020-10-11
+date: '2020-10-11'
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2020-10-11
-
+last-modified: '2020-10-11'
+layout: default
+title: Fibonacci in Swift
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.

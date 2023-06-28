@@ -1,10 +1,9 @@
 ---
-title: Fizz Buzz in Php
-layout: default
-date: 2018-09-09
+date: '2018-09-09'
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2018-09-09
-
+last-modified: '2018-09-09'
+layout: default
+title: Fizz Buzz in Php
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

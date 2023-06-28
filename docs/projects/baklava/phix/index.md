@@ -1,10 +1,9 @@
 ---
-title: Baklava in Phix
-layout: default
-date: 2021-05-07
+date: '2021-05-07'
 featured-image: baklava-in-every-language.jpg
-last-modified: 2021-05-07
-
+last-modified: '2021-05-07'
+layout: default
+title: Baklava in Phix
 ---
 
 Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Phix](https://sampleprograms.io/languages/phix) page! Here, you'll find the source code for this program as well as a description of how the program works.

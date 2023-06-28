@@ -1,10 +1,9 @@
 ---
-title: The Clipper Programming Language
-layout: default
-date: 2018-07-05
+date: '2018-07-05'
 featured-image: programming-languages.jpg
-last-modified: 2018-07-05
-
+last-modified: '2018-07-05'
+layout: default
+title: The Clipper Programming Language
 ---
 
 Welcome to the Clipper page! Here, you'll find a description of the language as well as a list of sample programs in that language.

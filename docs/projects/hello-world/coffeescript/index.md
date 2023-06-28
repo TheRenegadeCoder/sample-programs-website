@@ -1,10 +1,9 @@
 ---
-title: Hello World in Coffeescript
-layout: default
-date: 2018-12-30
+date: '2018-12-30'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-12-30
-
+last-modified: '2018-12-30'
+layout: default
+title: Hello World in Coffeescript
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.

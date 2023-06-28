@@ -1,13 +1,13 @@
 ---
-title: The C Programming Language
-layout: default
-date: 2020-05-02
-last-modified: 2022-05-11
-featured-image: programming-languages.jpg
-tags: [c]
 authors:
-  - the_renegade_coder
-
+- the_renegade_coder
+date: 2020-05-02
+featured-image: programming-languages.jpg
+last-modified: 2022-05-11
+layout: default
+tags:
+- c
+title: The C Programming Language
 ---
 
 Welcome to the C page! Here, you'll find a description of the language as well as a list of sample programs in that language.

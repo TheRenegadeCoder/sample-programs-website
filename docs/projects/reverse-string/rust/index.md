@@ -1,10 +1,9 @@
 ---
-title: Reverse String in Rust
-layout: default
-date: 2018-07-04
+date: '2018-07-04'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2018-07-04
-
+last-modified: '2018-07-04'
+layout: default
+title: Reverse String in Rust
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

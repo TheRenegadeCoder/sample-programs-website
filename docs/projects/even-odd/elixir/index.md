@@ -1,10 +1,9 @@
 ---
-title: Even Odd in Elixir
-layout: default
-date: 2020-10-03
+date: '2020-10-03'
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2020-10-03
-
+last-modified: '2020-10-03'
+layout: default
+title: Even Odd in Elixir
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Elixir](https://sampleprograms.io/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Remove All Whitespace in Python
-layout: default
-date: 2022-05-12
+date: '2022-05-12'
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2022-05-12
-
+last-modified: '2022-05-12'
+layout: default
+title: Remove All Whitespace in Python
 ---
 
 Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

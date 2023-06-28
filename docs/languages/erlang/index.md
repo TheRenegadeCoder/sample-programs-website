@@ -1,10 +1,9 @@
 ---
-title: The Erlang Programming Language
-layout: default
-date: 2018-08-08
+date: '2018-08-08'
 featured-image: programming-languages.jpg
-last-modified: 2018-08-08
-
+last-modified: '2018-08-08'
+layout: default
+title: The Erlang Programming Language
 ---
 
 Welcome to the Erlang page! Here, you'll find a description of the language as well as a list of sample programs in that language.

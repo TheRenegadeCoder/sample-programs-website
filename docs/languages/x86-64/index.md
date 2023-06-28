@@ -1,10 +1,9 @@
 ---
-title: The X86 64 Programming Language
-layout: default
-date: 2023-05-04
+date: '2023-05-04'
 featured-image: programming-languages.jpg
-last-modified: 2023-05-04
-
+last-modified: '2023-05-04'
+layout: default
+title: The X86 64 Programming Language
 ---
 
 Welcome to the X86 64 page! Here, you'll find a description of the language as well as a list of sample programs in that language.

@@ -1,10 +1,9 @@
 ---
-title: The Autohotkey Programming Language
-layout: default
-date: 2023-04-06
+date: '2023-04-06'
 featured-image: programming-languages.jpg
-last-modified: 2023-04-06
-
+last-modified: '2023-04-06'
+layout: default
+title: The Autohotkey Programming Language
 ---
 
 Welcome to the Autohotkey page! Here, you'll find a description of the language as well as a list of sample programs in that language.

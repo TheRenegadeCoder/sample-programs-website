@@ -1,10 +1,9 @@
 ---
-title: Capitalize in Javascript
-layout: default
-date: 2019-03-31
+date: '2019-03-31'
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2019-03-31
-
+last-modified: '2019-03-31'
+layout: default
+title: Capitalize in Javascript
 ---
 
 Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.

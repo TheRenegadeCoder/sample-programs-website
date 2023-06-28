@@ -1,10 +1,9 @@
 ---
-title: File Input Output in Lua
-layout: default
-date: 2019-10-31
+date: '2019-10-31'
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2019-10-31
-
+last-modified: '2019-10-31'
+layout: default
+title: File Input Output in Lua
 ---
 
 Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,12 +1,13 @@
 ---
-title: FizzBuzz in JavaScript
-layout: default
-last-modified: 2020-05-02
-featured-image: fizz-buzz-in-every-language.png
-tags: [javascript, fizzbuzz]
 authors:
-  - herrfugbaum
-
+- herrfugbaum
+featured-image: fizz-buzz-in-every-language.png
+last-modified: 2020-05-02
+layout: default
+tags:
+- javascript
+- fizzbuzz
+title: Fizz Buzz in Javascript
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.

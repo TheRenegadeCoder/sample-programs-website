@@ -1,10 +1,9 @@
 ---
-title: Reverse String in Matlab
-layout: default
-date: 2020-10-02
+date: '2020-10-02'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2020-10-02
-
+last-modified: '2020-10-02'
+layout: default
+title: Reverse String in Matlab
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Matlab](https://sampleprograms.io/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.

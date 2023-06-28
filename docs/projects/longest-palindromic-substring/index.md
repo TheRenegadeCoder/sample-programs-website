@@ -1,13 +1,13 @@
 ---
-title: Longest Palindromic Substring in Every Language
-layout: default
+authors:
+- Sayantan Paul
 date: 2019-10-08
-last-modified: 2020-05-02
 featured-image: longest-palindromic-substring-in-every-language.jpg
-tags: [longest-palindromic-substring]
-authors: 
-  - Sayantan Paul
-
+last-modified: 2020-05-02
+layout: default
+tags:
+- longest-palindromic-substring
+title: Longest Palindromic Substring
 ---
 
 Welcome to the Longest Palindromic Substring page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

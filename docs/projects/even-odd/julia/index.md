@@ -1,10 +1,9 @@
 ---
-title: Even Odd in Julia
-layout: default
-date: 2021-11-01
+date: '2021-11-01'
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2021-11-01
-
+last-modified: '2021-11-01'
+layout: default
+title: Even Odd in Julia
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Julia](https://sampleprograms.io/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.

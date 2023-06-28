@@ -1,10 +1,9 @@
 ---
-title: Factorial in Rust
-layout: default
-date: 2019-10-31
+date: '2019-10-31'
 featured-image: factorial-in-every-language.jpg
-last-modified: 2019-10-31
-
+last-modified: '2019-10-31'
+layout: default
+title: Factorial in Rust
 ---
 
 Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: The Granule Programming Language
-layout: default
-date: 2022-12-06
+date: '2022-12-06'
 featured-image: programming-languages.jpg
-last-modified: 2022-12-06
-
+last-modified: '2022-12-06'
+layout: default
+title: The Granule Programming Language
 ---
 
 Welcome to the Granule page! Here, you'll find a description of the language as well as a list of sample programs in that language.

@@ -1,10 +1,9 @@
 ---
-title: Quine in Ruby
-layout: default
-date: 2018-08-12
+date: '2018-08-12'
 featured-image: quine-in-every-language.jpg
-last-modified: 2018-08-12
-
+last-modified: '2018-08-12'
+layout: default
+title: Quine in Ruby
 ---
 
 Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.

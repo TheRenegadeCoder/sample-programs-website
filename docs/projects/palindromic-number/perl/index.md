@@ -1,10 +1,9 @@
 ---
-title: Palindromic Number in Perl
-layout: default
-date: 2021-10-29
+date: '2021-10-29'
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2021-10-29
-
+last-modified: '2021-10-29'
+layout: default
+title: Palindromic Number in Perl
 ---
 
 Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.

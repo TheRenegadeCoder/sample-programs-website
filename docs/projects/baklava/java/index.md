@@ -1,10 +1,9 @@
 ---
-title: Baklava in Java
-layout: default
-date: 2018-12-30
+date: '2018-12-30'
 featured-image: baklava-in-every-language.jpg
-last-modified: 2018-12-30
-
+last-modified: '2018-12-30'
+layout: default
+title: Baklava in Java
 ---
 
 Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.

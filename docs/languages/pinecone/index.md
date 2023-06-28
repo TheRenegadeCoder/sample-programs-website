@@ -1,10 +1,9 @@
 ---
-title: The Pinecone Programming Language
-layout: default
-date: 2020-10-04
+date: '2020-10-04'
 featured-image: programming-languages.jpg
-last-modified: 2020-10-04
-
+last-modified: '2020-10-04'
+layout: default
+title: The Pinecone Programming Language
 ---
 
 Welcome to the Pinecone page! Here, you'll find a description of the language as well as a list of sample programs in that language.

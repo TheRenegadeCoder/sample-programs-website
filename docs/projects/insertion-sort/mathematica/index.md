@@ -1,10 +1,9 @@
 ---
-title: Insertion Sort in Mathematica
-layout: default
-date: 2023-01-21
+date: '2023-01-21'
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: 2023-01-21
-
+last-modified: '2023-01-21'
+layout: default
+title: Insertion Sort in Mathematica
 ---
 
 Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.

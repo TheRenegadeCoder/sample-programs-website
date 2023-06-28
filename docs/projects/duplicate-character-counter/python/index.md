@@ -1,10 +1,9 @@
 ---
-title: Duplicate Character Counter in Python
-layout: default
-date: 2022-05-14
+date: '2022-05-14'
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2022-05-14
-
+last-modified: '2022-05-14'
+layout: default
+title: Duplicate Character Counter in Python
 ---
 
 Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

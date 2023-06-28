@@ -1,10 +1,9 @@
 ---
-title: Transpose Matrix in Rust
-layout: default
-date: 2023-04-17
+date: '2023-04-17'
 featured-image: transpose-matrix-in-every-language.jpg
-last-modified: 2023-04-17
-
+last-modified: '2023-04-17'
+layout: default
+title: Transpose Matrix in Rust
 ---
 
 Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

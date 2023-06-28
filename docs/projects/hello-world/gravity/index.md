@@ -1,10 +1,9 @@
 ---
-title: Hello World in Gravity
-layout: default
-date: 2018-04-24
+date: '2018-04-24'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-04-24
-
+last-modified: '2018-04-24'
+layout: default
+title: Hello World in Gravity
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Gravity](https://sampleprograms.io/languages/gravity) page! Here, you'll find the source code for this program as well as a description of how the program works.

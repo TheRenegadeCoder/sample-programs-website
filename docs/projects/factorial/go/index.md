@@ -1,10 +1,9 @@
 ---
-title: Factorial in Go
-layout: default
-date: 2019-02-24
+date: '2019-02-24'
 featured-image: factorial-in-every-language.jpg
-last-modified: 2019-02-24
-
+last-modified: '2019-02-24'
+layout: default
+title: Factorial in Go
 ---
 
 Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.

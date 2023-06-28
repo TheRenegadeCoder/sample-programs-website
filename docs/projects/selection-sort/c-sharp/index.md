@@ -1,10 +1,9 @@
 ---
-title: Selection Sort in C#
-layout: default
-date: 2018-12-30
+date: '2018-12-30'
 featured-image: selection-sort-in-every-language.jpg
-last-modified: 2018-12-30
-
+last-modified: '2018-12-30'
+layout: default
+title: Selection Sort in C#
 ---
 
 Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [C#](https://sampleprograms.io/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.

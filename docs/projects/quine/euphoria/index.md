@@ -1,10 +1,9 @@
 ---
-title: Quine in Euphoria
-layout: default
-date: 2023-02-15
+date: '2023-02-15'
 featured-image: quine-in-every-language.jpg
-last-modified: 2023-02-15
-
+last-modified: '2023-02-15'
+layout: default
+title: Quine in Euphoria
 ---
 
 Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.

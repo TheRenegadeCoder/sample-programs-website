@@ -1,10 +1,9 @@
 ---
-title: The Hobbes Programming Language
-layout: default
-date: 2020-12-04
+date: '2020-12-04'
 featured-image: programming-languages.jpg
-last-modified: 2020-12-04
-
+last-modified: '2020-12-04'
+layout: default
+title: The Hobbes Programming Language
 ---
 
 Welcome to the Hobbes page! Here, you'll find a description of the language as well as a list of sample programs in that language.

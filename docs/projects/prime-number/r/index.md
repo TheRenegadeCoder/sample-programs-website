@@ -1,10 +1,9 @@
 ---
-title: Prime Number in R
-layout: default
-date: 2020-10-19
+date: '2020-10-19'
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2020-10-19
-
+last-modified: '2020-10-19'
+layout: default
+title: Prime Number in R
 ---
 
 Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [R](https://sampleprograms.io/languages/r) page! Here, you'll find the source code for this program as well as a description of how the program works.

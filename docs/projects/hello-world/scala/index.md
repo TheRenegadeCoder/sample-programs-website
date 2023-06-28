@@ -1,12 +1,13 @@
 ---
-title: Hello World in Scala
-layout: default
-last-modified: 2020-05-02
-featured-image: hello-world-in-scala.jpg
-tags: [scala, hello-world]
 authors:
-  - the_renegade_coder
-
+- the_renegade_coder
+featured-image: hello-world-in-scala.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- scala
+- hello-world
+title: Hello World in Scala
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Scala](https://sampleprograms.io/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.

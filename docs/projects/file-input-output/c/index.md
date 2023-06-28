@@ -1,10 +1,9 @@
 ---
-title: File Input Output in C
-layout: default
-date: 2018-09-12
+date: '2018-09-12'
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2018-09-12
-
+last-modified: '2018-09-12'
+layout: default
+title: File Input Output in C
 ---
 
 Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.

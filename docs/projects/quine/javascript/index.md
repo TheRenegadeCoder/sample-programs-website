@@ -1,10 +1,9 @@
 ---
-title: Quine in Javascript
-layout: default
-date: 2020-09-25
+date: '2020-09-25'
 featured-image: quine-in-every-language.jpg
-last-modified: 2020-09-25
-
+last-modified: '2020-09-25'
+layout: default
+title: Quine in Javascript
 ---
 
 Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.

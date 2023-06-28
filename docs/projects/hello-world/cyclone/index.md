@@ -1,10 +1,9 @@
 ---
-title: Hello World in Cyclone
-layout: default
-date: 2020-12-02
+date: '2020-12-02'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2020-12-02
-
+last-modified: '2020-12-02'
+layout: default
+title: Hello World in Cyclone
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Cyclone](https://sampleprograms.io/languages/cyclone) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,12 +1,14 @@
 ---
-title: Fizz Buzz in C
-layout: default
-date: 2020-10-05
-featured-image: fizz-buzz-in-every-language.png
-tags: [c, fizz-buzz]
 authors:
-  - shubhragupta-code
-
+- shubhragupta-code
+date: &id001 2020-10-05
+featured-image: fizz-buzz-in-every-language.png
+last-modified: *id001
+layout: default
+tags:
+- c
+- fizz-buzz
+title: Fizz Buzz in C
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.

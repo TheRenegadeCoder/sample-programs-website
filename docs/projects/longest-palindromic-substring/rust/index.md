@@ -1,10 +1,9 @@
 ---
-title: Longest Palindromic Substring in Rust
-layout: default
-date: 2023-04-17
+date: '2023-04-17'
 featured-image: longest-palindromic-substring-in-every-language.jpg
-last-modified: 2023-04-17
-
+last-modified: '2023-04-17'
+layout: default
+title: Longest Palindromic Substring in Rust
 ---
 
 Welcome to the [Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

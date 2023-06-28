@@ -1,10 +1,9 @@
 ---
-title: Fizz Buzz in Ruby
-layout: default
-date: 2018-08-12
+date: '2018-08-12'
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2018-08-12
-
+last-modified: '2018-08-12'
+layout: default
+title: Fizz Buzz in Ruby
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.

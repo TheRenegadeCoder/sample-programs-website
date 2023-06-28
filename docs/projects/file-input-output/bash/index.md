@@ -1,10 +1,9 @@
 ---
-title: File Input Output in Bash
-layout: default
-date: 2018-10-28
+date: '2018-10-28'
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2018-10-28
-
+last-modified: '2018-10-28'
+layout: default
+title: File Input Output in Bash
 ---
 
 Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.

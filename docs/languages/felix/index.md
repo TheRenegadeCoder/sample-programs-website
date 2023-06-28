@@ -1,10 +1,9 @@
 ---
-title: The Felix Programming Language
-layout: default
-date: 2018-04-29
+date: '2018-04-29'
 featured-image: programming-languages.jpg
-last-modified: 2018-04-29
-
+last-modified: '2018-04-29'
+layout: default
+title: The Felix Programming Language
 ---
 
 Welcome to the Felix page! Here, you'll find a description of the language as well as a list of sample programs in that language.

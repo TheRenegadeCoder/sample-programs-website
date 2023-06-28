@@ -1,10 +1,9 @@
 ---
-title: The Objective C Programming Language
-layout: default
-date: 2018-03-21
+date: '2018-03-21'
 featured-image: programming-languages.jpg
-last-modified: 2018-03-21
-
+last-modified: '2018-03-21'
+layout: default
+title: The Objective C Programming Language
 ---
 
 Welcome to the Objective C page! Here, you'll find a description of the language as well as a list of sample programs in that language.

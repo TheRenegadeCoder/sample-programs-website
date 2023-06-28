@@ -1,10 +1,9 @@
 ---
-title: Reverse String in Powershell
-layout: default
-date: 2018-05-28
+date: '2018-05-28'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2018-05-28
-
+last-modified: '2018-05-28'
+layout: default
+title: Reverse String in Powershell
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.

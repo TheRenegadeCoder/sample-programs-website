@@ -1,10 +1,9 @@
 ---
-title: Fibonacci in Java
-layout: default
-date: 2018-10-03
+date: '2018-10-03'
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2018-10-03
-
+last-modified: '2018-10-03'
+layout: default
+title: Fibonacci in Java
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.

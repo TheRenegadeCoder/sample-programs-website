@@ -1,10 +1,9 @@
 ---
-title: Factorial in Scala
-layout: default
-date: 2023-05-15
+date: '2023-05-15'
 featured-image: factorial-in-every-language.jpg
-last-modified: 2023-05-15
-
+last-modified: '2023-05-15'
+layout: default
+title: Factorial in Scala
 ---
 
 Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Scala](https://sampleprograms.io/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Longest Word in Java
-layout: default
-date: 2022-10-03
+date: '2022-10-03'
 featured-image: longest-word-in-every-language.jpg
-last-modified: 2022-10-03
-
+last-modified: '2022-10-03'
+layout: default
+title: Longest Word in Java
 ---
 
 Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.

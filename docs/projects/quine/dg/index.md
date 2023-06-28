@@ -1,10 +1,9 @@
 ---
-title: Quine in Dg
-layout: default
-date: 2018-10-03
+date: '2018-10-03'
 featured-image: quine-in-every-language.jpg
-last-modified: 2018-10-03
-
+last-modified: '2018-10-03'
+layout: default
+title: Quine in Dg
 ---
 
 Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Dg](https://sampleprograms.io/languages/dg) page! Here, you'll find the source code for this program as well as a description of how the program works.

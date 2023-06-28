@@ -1,10 +1,9 @@
 ---
-title: The Apex Programming Language
-layout: default
-date: 2019-10-02
+date: '2019-10-02'
 featured-image: programming-languages.jpg
-last-modified: 2019-10-02
-
+last-modified: '2019-10-02'
+layout: default
+title: The Apex Programming Language
 ---
 
 Welcome to the Apex page! Here, you'll find a description of the language as well as a list of sample programs in that language.

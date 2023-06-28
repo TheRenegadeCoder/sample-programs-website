@@ -1,10 +1,9 @@
 ---
-title: Hello World in Java
+date: '2018-03-15'
+featured-image: hello-world-in-java.jpg
+last-modified: '2018-03-15'
 layout: default
-date: 2018-03-15
-featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-03-15
-
+title: Hello World in Java
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.

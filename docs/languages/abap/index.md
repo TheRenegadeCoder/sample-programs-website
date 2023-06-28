@@ -1,10 +1,9 @@
 ---
-title: The Abap Programming Language
-layout: default
-date: 2018-10-21
+date: '2018-10-21'
 featured-image: programming-languages.jpg
-last-modified: 2018-10-21
-
+last-modified: '2018-10-21'
+layout: default
+title: The Abap Programming Language
 ---
 
 Welcome to the Abap page! Here, you'll find a description of the language as well as a list of sample programs in that language.

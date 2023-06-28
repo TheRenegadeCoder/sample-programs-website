@@ -1,10 +1,9 @@
 ---
-title: Fizz Buzz in X86 64
-layout: default
-date: 2023-05-05
+date: '2023-05-05'
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2023-05-05
-
+last-modified: '2023-05-05'
+layout: default
+title: Fizz Buzz in X86 64
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [X86 64](https://sampleprograms.io/languages/x86-64) page! Here, you'll find the source code for this program as well as a description of how the program works.

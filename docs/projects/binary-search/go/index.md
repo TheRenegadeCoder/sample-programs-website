@@ -1,10 +1,9 @@
 ---
-title: Binary Search in Go
-layout: default
-date: 2019-10-24
+date: '2019-10-24'
 featured-image: binary-search-in-every-language.jpg
-last-modified: 2019-10-24
-
+last-modified: '2019-10-24'
+layout: default
+title: Binary Search in Go
 ---
 
 Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.

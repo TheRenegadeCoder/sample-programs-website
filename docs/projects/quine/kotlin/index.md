@@ -1,10 +1,9 @@
 ---
-title: Quine in Kotlin
-layout: default
-date: 2019-10-19
+date: '2019-10-19'
 featured-image: quine-in-every-language.jpg
-last-modified: 2019-10-19
-
+last-modified: '2019-10-19'
+layout: default
+title: Quine in Kotlin
 ---
 
 Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.

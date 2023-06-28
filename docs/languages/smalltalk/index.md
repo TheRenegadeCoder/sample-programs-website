@@ -1,10 +1,9 @@
 ---
-title: The Smalltalk Programming Language
-layout: default
-date: 2018-04-26
+date: '2018-04-26'
 featured-image: programming-languages.jpg
-last-modified: 2018-04-26
-
+last-modified: '2018-04-26'
+layout: default
+title: The Smalltalk Programming Language
 ---
 
 Welcome to the Smalltalk page! Here, you'll find a description of the language as well as a list of sample programs in that language.

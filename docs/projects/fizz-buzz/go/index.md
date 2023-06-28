@@ -1,10 +1,9 @@
 ---
-title: Fizz Buzz in Go
-layout: default
-date: 2018-08-13
+date: '2018-08-13'
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2018-08-13
-
+last-modified: '2018-08-13'
+layout: default
+title: Fizz Buzz in Go
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.

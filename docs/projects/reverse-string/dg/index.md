@@ -1,10 +1,9 @@
 ---
-title: Reverse String in Dg
-layout: default
-date: 2018-10-03
+date: '2018-10-03'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2018-10-03
-
+last-modified: '2018-10-03'
+layout: default
+title: Reverse String in Dg
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Dg](https://sampleprograms.io/languages/dg) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,12 +1,13 @@
 ---
-title: Reverse String in Scheme
-layout: default
-last-modified: 2020-05-02
-featured-image: reverse-string-in-every-language.jpg
-tags: [scheme, reverse-string]
 authors:
-  - alexandra_woerner
-
+- alexandra_woerner
+featured-image: reverse-string-in-every-language.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- scheme
+- reverse-string
+title: Reverse String in Scheme
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Scheme](https://sampleprograms.io/languages/scheme) page! Here, you'll find the source code for this program as well as a description of how the program works.

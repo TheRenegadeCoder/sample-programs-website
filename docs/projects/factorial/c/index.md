@@ -1,10 +1,9 @@
 ---
-title: Factorial in C
-layout: default
-date: 2018-10-26
+date: '2018-10-26'
 featured-image: factorial-in-every-language.jpg
-last-modified: 2018-10-26
-
+last-modified: '2018-10-26'
+layout: default
+title: Factorial in C
 ---
 
 Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.

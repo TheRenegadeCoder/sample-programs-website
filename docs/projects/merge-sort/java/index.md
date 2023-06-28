@@ -1,10 +1,9 @@
 ---
-title: Merge Sort in Java
-layout: default
-date: 2019-10-17
+date: '2019-10-17'
 featured-image: merge-sort-in-every-language.jpg
-last-modified: 2019-10-17
-
+last-modified: '2019-10-17'
+layout: default
+title: Merge Sort in Java
 ---
 
 Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Capitalize in R
-layout: default
-date: 2020-10-19
+date: '2020-10-19'
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2020-10-19
-
+last-modified: '2020-10-19'
+layout: default
+title: Capitalize in R
 ---
 
 Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [R](https://sampleprograms.io/languages/r) page! Here, you'll find the source code for this program as well as a description of how the program works.

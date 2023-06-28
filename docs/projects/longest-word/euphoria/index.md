@@ -1,10 +1,9 @@
 ---
-title: Longest Word in Euphoria
-layout: default
-date: 2023-02-17
+date: '2023-02-17'
 featured-image: longest-word-in-every-language.jpg
-last-modified: 2023-02-17
-
+last-modified: '2023-02-17'
+layout: default
+title: Longest Word in Euphoria
 ---
 
 Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.

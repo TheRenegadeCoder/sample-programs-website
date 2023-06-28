@@ -1,10 +1,9 @@
 ---
-title: Longest Common Subsequence in Python
-layout: default
-date: 2018-10-16
+date: '2018-10-16'
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: 2018-10-16
-
+last-modified: '2018-10-16'
+layout: default
+title: Longest Common Subsequence in Python
 ---
 
 Welcome to the [Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

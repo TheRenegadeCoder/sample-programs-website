@@ -1,10 +1,9 @@
 ---
-title: Longest Word in Rust
-layout: default
-date: 2023-04-09
+date: '2023-04-09'
 featured-image: longest-word-in-every-language.jpg
-last-modified: 2023-04-09
-
+last-modified: '2023-04-09'
+layout: default
+title: Longest Word in Rust
 ---
 
 Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

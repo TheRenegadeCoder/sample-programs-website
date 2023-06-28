@@ -1,10 +1,9 @@
 ---
-title: Dijkstra in Rust
-layout: default
-date: 2023-04-20
+date: '2023-04-20'
 featured-image: dijkstra-in-every-language.jpg
-last-modified: 2023-04-20
-
+last-modified: '2023-04-20'
+layout: default
+title: Dijkstra in Rust
 ---
 
 Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

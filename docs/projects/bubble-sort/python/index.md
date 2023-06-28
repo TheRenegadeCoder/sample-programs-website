@@ -1,12 +1,13 @@
 ---
-title: Bubble Sort in Python
-layout: default
-last-modified: 2020-05-02
-featured-image: bubble-sort-in-python.jpg
-tags: [python, bubble-sort]
 authors:
-  - hmajid2301
-
+- hmajid2301
+featured-image: bubble-sort-in-python.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- python
+- bubble-sort
+title: Bubble Sort in Python
 ---
 
 Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

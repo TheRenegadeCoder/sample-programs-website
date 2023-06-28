@@ -1,10 +1,9 @@
 ---
-title: Factorial in D
-layout: default
-date: 2020-10-04
+date: '2020-10-04'
 featured-image: factorial-in-every-language.jpg
-last-modified: 2020-10-04
-
+last-modified: '2020-10-04'
+layout: default
+title: Factorial in D
 ---
 
 Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [D](https://sampleprograms.io/languages/d) page! Here, you'll find the source code for this program as well as a description of how the program works.

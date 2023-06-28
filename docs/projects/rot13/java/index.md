@@ -1,10 +1,9 @@
 ---
-title: Rot13 in Java
-layout: default
-date: 2019-10-27
+date: '2019-10-27'
 featured-image: rot13-in-every-language.jpg
-last-modified: 2019-10-27
-
+last-modified: '2019-10-27'
+layout: default
+title: Rot13 in Java
 ---
 
 Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.

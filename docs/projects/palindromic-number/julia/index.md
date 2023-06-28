@@ -1,10 +1,9 @@
 ---
-title: Palindromic Number in Julia
-layout: default
-date: 2022-10-11
+date: '2022-10-11'
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2022-10-11
-
+last-modified: '2022-10-11'
+layout: default
+title: Palindromic Number in Julia
 ---
 
 Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Julia](https://sampleprograms.io/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.

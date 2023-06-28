@@ -1,10 +1,9 @@
 ---
-title: Factorial in C++
-layout: default
-date: 2019-10-09
+date: '2019-10-09'
 featured-image: factorial-in-every-language.jpg
-last-modified: 2019-10-09
-
+last-modified: '2019-10-09'
+layout: default
+title: Factorial in C++
 ---
 
 Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.

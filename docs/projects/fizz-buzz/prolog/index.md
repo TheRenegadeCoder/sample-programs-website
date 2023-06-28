@@ -1,10 +1,9 @@
 ---
-title: Fizz Buzz in Prolog
-layout: default
-date: 2023-06-10
+date: '2023-06-10'
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2023-06-10
-
+last-modified: '2023-06-10'
+layout: default
+title: Fizz Buzz in Prolog
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Prolog](https://sampleprograms.io/languages/prolog) page! Here, you'll find the source code for this program as well as a description of how the program works.

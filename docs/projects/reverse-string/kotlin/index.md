@@ -1,10 +1,9 @@
 ---
-title: Reverse String in Kotlin
-layout: default
-date: 2018-10-20
+date: '2018-10-20'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2018-10-20
-
+last-modified: '2018-10-20'
+layout: default
+title: Reverse String in Kotlin
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.

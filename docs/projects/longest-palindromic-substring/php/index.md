@@ -1,10 +1,9 @@
 ---
-title: Longest Palindromic Substring in Php
-layout: default
-date: 2023-03-27
+date: '2023-03-27'
 featured-image: longest-palindromic-substring-in-every-language.jpg
-last-modified: 2023-03-27
-
+last-modified: '2023-03-27'
+layout: default
+title: Longest Palindromic Substring in Php
 ---
 
 Welcome to the [Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Hello World in Sather
-layout: default
-date: 2020-10-02
+date: '2020-10-02'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2020-10-02
-
+last-modified: '2020-10-02'
+layout: default
+title: Hello World in Sather
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Sather](https://sampleprograms.io/languages/sather) page! Here, you'll find the source code for this program as well as a description of how the program works.

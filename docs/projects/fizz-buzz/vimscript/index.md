@@ -1,10 +1,9 @@
 ---
-title: Fizz Buzz in Vimscript
-layout: default
-date: 2018-08-28
+date: '2018-08-28'
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2018-08-28
-
+last-modified: '2018-08-28'
+layout: default
+title: Fizz Buzz in Vimscript
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Vimscript](https://sampleprograms.io/languages/vimscript) page! Here, you'll find the source code for this program as well as a description of how the program works.

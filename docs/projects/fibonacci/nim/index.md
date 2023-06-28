@@ -1,10 +1,9 @@
 ---
-title: Fibonacci in Nim
-layout: default
-date: 2019-10-16
+date: '2019-10-16'
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2019-10-16
-
+last-modified: '2019-10-16'
+layout: default
+title: Fibonacci in Nim
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Nim](https://sampleprograms.io/languages/nim) page! Here, you'll find the source code for this program as well as a description of how the program works.

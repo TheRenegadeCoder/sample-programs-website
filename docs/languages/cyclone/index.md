@@ -1,10 +1,9 @@
 ---
-title: The Cyclone Programming Language
-layout: default
-date: 2020-12-02
+date: '2020-12-02'
 featured-image: programming-languages.jpg
-last-modified: 2020-12-02
-
+last-modified: '2020-12-02'
+layout: default
+title: The Cyclone Programming Language
 ---
 
 Welcome to the Cyclone page! Here, you'll find a description of the language as well as a list of sample programs in that language.

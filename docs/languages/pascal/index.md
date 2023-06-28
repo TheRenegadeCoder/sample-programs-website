@@ -1,12 +1,12 @@
 ---
-title: The Pascal Programming Language
-layout: default
-last-modified: 2020-05-02
-featured-image: programming-languages.jpg
-tags: [pascal]
 authors:
-  - the_renegade_coder
-
+- the_renegade_coder
+featured-image: programming-languages.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- pascal
+title: The Pascal Programming Language
 ---
 
 Welcome to the Pascal page! Here, you'll find a description of the language as well as a list of sample programs in that language.

@@ -1,10 +1,9 @@
 ---
-title: Reverse String in Solisp
-layout: default
-date: 2020-03-05
+date: '2020-03-05'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2020-03-05
-
+last-modified: '2020-03-05'
+layout: default
+title: Reverse String in Solisp
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Solisp](https://sampleprograms.io/languages/solisp) page! Here, you'll find the source code for this program as well as a description of how the program works.

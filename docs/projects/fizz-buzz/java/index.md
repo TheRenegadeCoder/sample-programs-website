@@ -1,12 +1,13 @@
 ---
-title: Fizz Buzz in Java
-layout: default
-last-modified: 2020-05-02
-featured-image: fizz-buzz-in-java.jpg
-tags: [java, fizz-buzz]
 authors:
-  - stuin
-
+- stuin
+featured-image: fizz-buzz-in-java.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- java
+- fizz-buzz
+title: Fizz Buzz in Java
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.

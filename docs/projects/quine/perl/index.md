@@ -1,10 +1,9 @@
 ---
-title: Quine in Perl
-layout: default
-date: 2019-10-18
+date: '2019-10-18'
 featured-image: quine-in-every-language.jpg
-last-modified: 2019-10-18
-
+last-modified: '2019-10-18'
+layout: default
+title: Quine in Perl
 ---
 
 Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.

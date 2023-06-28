@@ -1,12 +1,14 @@
 ---
-title: Even Odd in C  
-layout: default  
-date: 2020-10-05
-featured-image: even-odd-in-every-language.jpg
-tags: [c, even-odd]  
 authors:
 - shubhragupta-code
-
+date: &id001 2020-10-05
+featured-image: even-odd-in-every-language.jpg
+last-modified: *id001
+layout: default
+tags:
+- c
+- even-odd
+title: Even Odd in C
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.

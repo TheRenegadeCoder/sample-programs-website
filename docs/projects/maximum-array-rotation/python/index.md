@@ -1,10 +1,9 @@
 ---
-title: Maximum Array Rotation in Python
-layout: default
-date: 2021-10-05
+date: '2021-10-05'
 featured-image: maximum-array-rotation-in-every-language.jpg
-last-modified: 2021-10-05
-
+last-modified: '2021-10-05'
+layout: default
+title: Maximum Array Rotation in Python
 ---
 
 Welcome to the [Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.

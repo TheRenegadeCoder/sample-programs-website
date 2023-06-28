@@ -1,12 +1,13 @@
 ---
-title: Hello World in COBOL
-layout: default
-last-modified: 2021-10-08
-featured-image: hello-world-in-cobol.jpg
-tags: [COBOL, hello-world]
 authors:
-  - sudhanshu_dubey
-
+- sudhanshu_dubey
+featured-image: hello-world-in-cobol.jpg
+last-modified: 2021-10-08
+layout: default
+tags:
+- COBOL
+- hello-world
+title: Hello World in Cobol
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Cobol](https://sampleprograms.io/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Binary Search in Javascript
-layout: default
-date: 2020-10-23
+date: '2020-10-23'
 featured-image: binary-search-in-every-language.jpg
-last-modified: 2020-10-23
-
+last-modified: '2020-10-23'
+layout: default
+title: Binary Search in Javascript
 ---
 
 Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,14 +1,14 @@
 ---
-title: Linear Search in Every Language
-layout: default
-date: 2019-10-17
-last-modified: 2020-10-15
-featured-image: linear-search-in-every-language.jpg
-tags: [linear-search]
 authors:
-  - frankhart2017
-  - the_renegade_coder
-
+- frankhart2017
+- the_renegade_coder
+date: 2019-10-17
+featured-image: linear-search-in-every-language.jpg
+last-modified: 2020-10-15
+layout: default
+tags:
+- linear-search
+title: Linear Search
 ---
 
 Welcome to the Linear Search page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

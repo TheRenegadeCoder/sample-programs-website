@@ -1,10 +1,9 @@
 ---
-title: Fizz Buzz in Algol68
-layout: default
-date: 2023-01-18
+date: '2023-01-18'
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2023-01-18
-
+last-modified: '2023-01-18'
+layout: default
+title: Fizz Buzz in Algol68
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.

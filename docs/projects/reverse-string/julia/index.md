@@ -1,10 +1,9 @@
 ---
-title: Reverse String in Julia
-layout: default
-date: 2022-10-02
+date: '2022-10-02'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2022-10-02
-
+last-modified: '2022-10-02'
+layout: default
+title: Reverse String in Julia
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Julia](https://sampleprograms.io/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.

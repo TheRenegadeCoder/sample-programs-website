@@ -1,10 +1,9 @@
 ---
-title: Josephus Problem in Mathematica
-layout: default
-date: 2023-01-20
+date: '2023-01-20'
 featured-image: josephus-problem-in-every-language.jpg
-last-modified: 2023-01-20
-
+last-modified: '2023-01-20'
+layout: default
+title: Josephus Problem in Mathematica
 ---
 
 Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.

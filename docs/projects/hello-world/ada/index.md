@@ -1,10 +1,9 @@
 ---
-title: Hello World in Ada
-layout: default
-date: 2018-04-24
+date: '2018-04-24'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-04-24
-
+last-modified: '2018-04-24'
+layout: default
+title: Hello World in Ada
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Ada](https://sampleprograms.io/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.

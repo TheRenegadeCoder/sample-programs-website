@@ -1,10 +1,9 @@
 ---
-title: Fibonacci in Php
-layout: default
-date: 2019-01-03
+date: '2019-01-03'
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2019-01-03
-
+last-modified: '2019-01-03'
+layout: default
+title: Fibonacci in Php
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

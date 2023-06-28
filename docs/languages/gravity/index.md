@@ -1,10 +1,9 @@
 ---
-title: The Gravity Programming Language
-layout: default
-date: 2018-04-24
+date: '2018-04-24'
 featured-image: programming-languages.jpg
-last-modified: 2018-04-24
-
+last-modified: '2018-04-24'
+layout: default
+title: The Gravity Programming Language
 ---
 
 Welcome to the Gravity page! Here, you'll find a description of the language as well as a list of sample programs in that language.

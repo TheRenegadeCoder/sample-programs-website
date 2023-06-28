@@ -1,10 +1,9 @@
 ---
-title: Capitalize in Typescript
-layout: default
-date: 2019-10-03
+date: '2019-10-03'
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2019-10-03
-
+last-modified: '2019-10-03'
+layout: default
+title: Capitalize in Typescript
 ---
 
 Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.

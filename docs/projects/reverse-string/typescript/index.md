@@ -1,10 +1,9 @@
 ---
-title: Reverse String in Typescript
-layout: default
-date: 2019-10-03
+date: '2019-10-03'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2019-10-03
-
+last-modified: '2019-10-03'
+layout: default
+title: Reverse String in Typescript
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.

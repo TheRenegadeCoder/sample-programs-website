@@ -1,10 +1,9 @@
 ---
-title: Rot13 in Kotlin
-layout: default
-date: 2020-10-07
+date: '2020-10-07'
 featured-image: rot13-in-every-language.jpg
-last-modified: 2020-10-07
-
+last-modified: '2020-10-07'
+layout: default
+title: Rot13 in Kotlin
 ---
 
 Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.

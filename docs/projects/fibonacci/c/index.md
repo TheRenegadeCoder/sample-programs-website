@@ -1,10 +1,9 @@
 ---
-title: Fibonacci in C
-layout: default
-date: 2018-10-04
+date: '2018-10-04'
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2018-10-04
-
+last-modified: '2018-10-04'
+layout: default
+title: Fibonacci in C
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.

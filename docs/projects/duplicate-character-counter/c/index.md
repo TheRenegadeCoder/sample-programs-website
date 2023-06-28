@@ -1,10 +1,9 @@
 ---
-title: Duplicate Character Counter in C
-layout: default
-date: 2022-10-03
+date: '2022-10-03'
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2022-10-03
-
+last-modified: '2022-10-03'
+layout: default
+title: Duplicate Character Counter in C
 ---
 
 Welcome to the Duplicate [C](https://sampleprograms.io/languages/c)haracter [C](https://sampleprograms.io/languages/c)ounter in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.

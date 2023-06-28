@@ -1,10 +1,9 @@
 ---
-title: Fibonacci in Boo
-layout: default
-date: 2020-10-02
+date: '2020-10-02'
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2020-10-02
-
+last-modified: '2020-10-02'
+layout: default
+title: Fibonacci in Boo
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Boo](https://sampleprograms.io/languages/boo) page! Here, you'll find the source code for this program as well as a description of how the program works.

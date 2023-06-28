@@ -1,10 +1,9 @@
 ---
-title: Even Odd in Coffeescript
-layout: default
-date: 2020-10-09
+date: '2020-10-09'
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2020-10-09
-
+last-modified: '2020-10-09'
+layout: default
+title: Even Odd in Coffeescript
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.

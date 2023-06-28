@@ -1,10 +1,9 @@
 ---
-title: Even Odd in X86 64
-layout: default
-date: 2023-05-07
+date: '2023-05-07'
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2023-05-07
-
+last-modified: '2023-05-07'
+layout: default
+title: Even Odd in X86 64
 ---
 
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [X86 64](https://sampleprograms.io/languages/x86-64) page! Here, you'll find the source code for this program as well as a description of how the program works.

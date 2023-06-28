@@ -1,10 +1,9 @@
 ---
-title: The Dusk Programming Language
-layout: default
-date: 2018-12-30
+date: '2018-12-30'
 featured-image: programming-languages.jpg
-last-modified: 2018-12-30
-
+last-modified: '2018-12-30'
+layout: default
+title: The Dusk Programming Language
 ---
 
 Welcome to the Dusk page! Here, you'll find a description of the language as well as a list of sample programs in that language.

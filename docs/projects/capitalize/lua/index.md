@@ -1,10 +1,9 @@
 ---
-title: Capitalize in Lua
-layout: default
-date: 2019-10-17
+date: '2019-10-17'
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2019-10-17
-
+last-modified: '2019-10-17'
+layout: default
+title: Capitalize in Lua
 ---
 
 Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.

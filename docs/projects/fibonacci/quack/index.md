@@ -1,10 +1,9 @@
 ---
-title: Fibonacci in Quack
-layout: default
-date: 2020-10-03
+date: '2020-10-03'
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2020-10-03
-
+last-modified: '2020-10-03'
+layout: default
+title: Fibonacci in Quack
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Quack](https://sampleprograms.io/languages/quack) page! Here, you'll find the source code for this program as well as a description of how the program works.

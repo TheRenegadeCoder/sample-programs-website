@@ -1,10 +1,9 @@
 ---
-title: Hello World in Lobster
-layout: default
-date: 2019-09-14
+date: '2019-09-14'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2019-09-14
-
+last-modified: '2019-09-14'
+layout: default
+title: Hello World in Lobster
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Lobster](https://sampleprograms.io/languages/lobster) page! Here, you'll find the source code for this program as well as a description of how the program works.

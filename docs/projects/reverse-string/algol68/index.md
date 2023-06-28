@@ -1,10 +1,9 @@
 ---
-title: Reverse String in Algol68
-layout: default
-date: 2023-01-24
+date: '2023-01-24'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2023-01-24
-
+last-modified: '2023-01-24'
+layout: default
+title: Reverse String in Algol68
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.

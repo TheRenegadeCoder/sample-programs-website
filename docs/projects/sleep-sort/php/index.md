@@ -1,10 +1,9 @@
 ---
-title: Sleep Sort in Php
-layout: default
-date: 2023-03-21
+date: '2023-03-21'
 featured-image: sleep-sort-in-every-language.jpg
-last-modified: 2023-03-21
-
+last-modified: '2023-03-21'
+layout: default
+title: Sleep Sort in Php
 ---
 
 Welcome to the [Sleep Sort](https://sampleprograms.io/projects/sleep-sort) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.

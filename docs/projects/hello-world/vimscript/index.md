@@ -1,10 +1,9 @@
 ---
-title: Hello World in Vimscript
-layout: default
-date: 2018-08-27
+date: '2018-08-27'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-08-27
-
+last-modified: '2018-08-27'
+layout: default
+title: Hello World in Vimscript
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Vimscript](https://sampleprograms.io/languages/vimscript) page! Here, you'll find the source code for this program as well as a description of how the program works.

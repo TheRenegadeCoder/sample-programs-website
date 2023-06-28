@@ -1,10 +1,9 @@
 ---
-title: Prime Number in Javascript
-layout: default
-date: 2019-10-05
+date: '2019-10-05'
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2019-10-05
-
+last-modified: '2019-10-05'
+layout: default
+title: Prime Number in Javascript
 ---
 
 Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.

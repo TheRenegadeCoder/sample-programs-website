@@ -1,10 +1,9 @@
 ---
-title: Fibonacci in Rust
-layout: default
-date: 2018-10-05
+date: '2018-10-05'
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2018-10-05
-
+last-modified: '2018-10-05'
+layout: default
+title: Fibonacci in Rust
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Prime Number in Rust
-layout: default
-date: 2019-10-31
+date: '2019-10-31'
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2019-10-31
-
+last-modified: '2019-10-31'
+layout: default
+title: Prime Number in Rust
 ---
 
 Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Baklava in Coffeescript
-layout: default
-date: 2020-10-07
+date: '2020-10-07'
 featured-image: baklava-in-every-language.jpg
-last-modified: 2020-10-07
-
+last-modified: '2020-10-07'
+layout: default
+title: Baklava in Coffeescript
 ---
 
 Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.

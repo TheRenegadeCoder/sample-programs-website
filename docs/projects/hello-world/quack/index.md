@@ -1,10 +1,9 @@
 ---
-title: Hello World in Quack
-layout: default
-date: 2018-06-15
+date: '2018-06-15'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-06-15
-
+last-modified: '2018-06-15'
+layout: default
+title: Hello World in Quack
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Quack](https://sampleprograms.io/languages/quack) page! Here, you'll find the source code for this program as well as a description of how the program works.

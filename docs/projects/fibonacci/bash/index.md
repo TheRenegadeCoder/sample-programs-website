@@ -1,10 +1,9 @@
 ---
-title: Fibonacci in Bash
-layout: default
-date: 2018-10-26
+date: '2018-10-26'
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2018-10-26
-
+last-modified: '2018-10-26'
+layout: default
+title: Fibonacci in Bash
 ---
 
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,12 +1,13 @@
 ---
-title: Fizz Buzz in PowerShell
-layout: default
-last-modified: 2020-05-02
-featured-image: fizz-buzz-in-every-language.png
-tags: [powershell, fizz-buzz]
 authors:
-  - alcha
-
+- alcha
+featured-image: fizz-buzz-in-every-language.png
+last-modified: 2020-05-02
+layout: default
+tags:
+- powershell
+- fizz-buzz
+title: Fizz Buzz in Powershell
 ---
 
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.

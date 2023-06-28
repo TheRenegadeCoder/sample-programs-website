@@ -1,10 +1,9 @@
 ---
-title: File Input Output in Haskell
-layout: default
-date: 2018-10-22
+date: '2018-10-22'
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2018-10-22
-
+last-modified: '2018-10-22'
+layout: default
+title: File Input Output in Haskell
 ---
 
 Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,14 +1,14 @@
 ---
-title: Duplicate Character Counter in Every Language
-layout: default
-date: 2020-10-11
-last-modified: 2022-05-14
-featured-image: duplicate-character-counter-in-every-language.jpg
-tags: [duplicate-character-counter]
 authors:
-  - GoodbyeBlues
-  - the_renegade_coder
-
+- GoodbyeBlues
+- the_renegade_coder
+date: 2020-10-11
+featured-image: duplicate-character-counter-in-every-language.jpg
+last-modified: 2022-05-14
+layout: default
+tags:
+- duplicate-character-counter
+title: Duplicate Character Counter
 ---
 
 Welcome to the Duplicate Character Counter page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

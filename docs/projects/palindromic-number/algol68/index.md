@@ -1,10 +1,9 @@
 ---
-title: Palindromic Number in Algol68
-layout: default
-date: 2023-01-24
+date: '2023-01-24'
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2023-01-24
-
+last-modified: '2023-01-24'
+layout: default
+title: Palindromic Number in Algol68
 ---
 
 Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.

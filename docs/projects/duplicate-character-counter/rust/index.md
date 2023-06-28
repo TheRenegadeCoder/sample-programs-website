@@ -1,10 +1,9 @@
 ---
-title: Duplicate Character Counter in Rust
-layout: default
-date: 2023-04-09
+date: '2023-04-09'
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2023-04-09
-
+last-modified: '2023-04-09'
+layout: default
+title: Duplicate Character Counter in Rust
 ---
 
 Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.

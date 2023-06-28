@@ -1,10 +1,9 @@
 ---
-title: Reverse String in Picolisp
-layout: default
-date: 2023-05-15
+date: '2023-05-15'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2023-05-15
-
+last-modified: '2023-05-15'
+layout: default
+title: Reverse String in Picolisp
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Picolisp](https://sampleprograms.io/languages/picolisp) page! Here, you'll find the source code for this program as well as a description of how the program works.

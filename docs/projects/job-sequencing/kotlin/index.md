@@ -1,10 +1,9 @@
 ---
-title: Job Sequencing in Kotlin
-layout: default
-date: 2020-10-08
+date: '2020-10-08'
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: 2020-10-08
-
+last-modified: '2020-10-08'
+layout: default
+title: Job Sequencing in Kotlin
 ---
 
 Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.

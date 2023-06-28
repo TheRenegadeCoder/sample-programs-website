@@ -1,10 +1,9 @@
 ---
-title: Reverse String in Perl
-layout: default
-date: 2018-08-22
+date: '2018-08-22'
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2018-08-22
-
+last-modified: '2018-08-22'
+layout: default
+title: Reverse String in Perl
 ---
 
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.

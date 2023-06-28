@@ -1,10 +1,9 @@
 ---
-title: Prime Number in Haskell
-layout: default
-date: 2018-11-16
+date: '2018-11-16'
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2018-11-16
-
+last-modified: '2018-11-16'
+layout: default
+title: Prime Number in Haskell
 ---
 
 Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.

@@ -1,10 +1,9 @@
 ---
-title: Selection Sort in Java
-layout: default
-date: 2019-10-15
+date: '2019-10-15'
 featured-image: selection-sort-in-every-language.jpg
-last-modified: 2019-10-15
-
+last-modified: '2019-10-15'
+layout: default
+title: Selection Sort in Java
 ---
 
 Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.

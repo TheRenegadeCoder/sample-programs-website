@@ -1,10 +1,9 @@
 ---
-title: The Ti Basic Programming Language
-layout: default
-date: 2019-10-01
+date: '2019-10-01'
 featured-image: programming-languages.jpg
-last-modified: 2019-10-01
-
+last-modified: '2019-10-01'
+layout: default
+title: The Ti Basic Programming Language
 ---
 
 Welcome to the Ti Basic page! Here, you'll find a description of the language as well as a list of sample programs in that language.

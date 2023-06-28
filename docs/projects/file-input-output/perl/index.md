@@ -1,10 +1,9 @@
 ---
-title: File Input Output in Perl
-layout: default
-date: 2019-10-15
+date: '2019-10-15'
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2019-10-15
-
+last-modified: '2019-10-15'
+layout: default
+title: File Input Output in Perl
 ---
 
 Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.

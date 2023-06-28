@@ -1,12 +1,12 @@
 ---
-title: The Rust Programming Language
-layout: default
-last-modified: 2020-05-02
-featured-image: programming-languages.jpg
-tags: [rust]
 authors:
-  - the_renegade_coder
-
+- the_renegade_coder
+featured-image: programming-languages.jpg
+last-modified: 2020-05-02
+layout: default
+tags:
+- rust
+title: The Rust Programming Language
 ---
 
 Welcome to the Rust page! Here, you'll find a description of the language as well as a list of sample programs in that language.

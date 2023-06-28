@@ -1,10 +1,9 @@
 ---
-title: The Ferret Programming Language
-layout: default
-date: 2018-10-09
+date: '2018-10-09'
 featured-image: programming-languages.jpg
-last-modified: 2018-10-09
-
+last-modified: '2018-10-09'
+layout: default
+title: The Ferret Programming Language
 ---
 
 Welcome to the Ferret page! Here, you'll find a description of the language as well as a list of sample programs in that language.

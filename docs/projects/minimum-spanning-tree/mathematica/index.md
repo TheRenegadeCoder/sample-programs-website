@@ -1,10 +1,9 @@
 ---
-title: Minimum Spanning Tree in Mathematica
-layout: default
-date: 2023-01-18
+date: '2023-01-18'
 featured-image: minimum-spanning-tree-in-every-language.jpg
-last-modified: 2023-01-18
-
+last-modified: '2023-01-18'
+layout: default
+title: Minimum Spanning Tree in Mathematica
 ---
 
 Welcome to the [Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.

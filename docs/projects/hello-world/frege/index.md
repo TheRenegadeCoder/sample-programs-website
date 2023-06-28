@@ -1,10 +1,9 @@
 ---
-title: Hello World in Frege
-layout: default
-date: 2018-11-14
+date: '2018-11-14'
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-11-14
-
+last-modified: '2018-11-14'
+layout: default
+title: Hello World in Frege
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Frege](https://sampleprograms.io/languages/frege) page! Here, you'll find the source code for this program as well as a description of how the program works.

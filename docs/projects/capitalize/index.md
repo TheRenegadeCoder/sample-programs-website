@@ -1,14 +1,14 @@
 ---
-title: Capitalize in Every Language
-layout: default
+authors:
+- daniellunsc
+- the_renegade_coder
 date: 2019-03-31
-last-modified: 2022-05-18
 featured-image: capitalize-in-every-language.jpg
-tags: [capitalize]
-authors: 
- - daniellunsc
- - the_renegade_coder
-
+last-modified: 2022-05-18
+layout: default
+tags:
+- capitalize
+title: Capitalize
 ---
 
 Welcome to the Capitalize page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.

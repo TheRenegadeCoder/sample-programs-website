@@ -1,10 +1,9 @@
 ---
-title: Rot13 in Lua
-layout: default
-date: 2019-10-18
+date: '2019-10-18'
 featured-image: rot13-in-every-language.jpg
-last-modified: 2019-10-18
-
+last-modified: '2019-10-18'
+layout: default
+title: Rot13 in Lua
 ---
 
 Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.

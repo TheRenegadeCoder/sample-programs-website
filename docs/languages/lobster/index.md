@@ -1,10 +1,9 @@
 ---
-title: The Lobster Programming Language
-layout: default
-date: 2019-09-14
+date: '2019-09-14'
 featured-image: programming-languages.jpg
-last-modified: 2019-09-14
-
+last-modified: '2019-09-14'
+layout: default
+title: The Lobster Programming Language
 ---
 
 Welcome to the Lobster page! Here, you'll find a description of the language as well as a list of sample programs in that language.

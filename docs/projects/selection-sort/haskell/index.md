@@ -1,10 +1,9 @@
 ---
-title: Selection Sort in Haskell
-layout: default
-date: 2018-12-02
+date: '2018-12-02'
 featured-image: selection-sort-in-every-language.jpg
-last-modified: 2018-12-02
-
+last-modified: '2018-12-02'
+layout: default
+title: Selection Sort in Haskell
 ---
 
 Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.

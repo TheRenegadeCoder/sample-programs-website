@@ -1,10 +1,9 @@
 ---
-title: Prime Number in Pascal
-layout: default
-date: 2020-10-18
+date: '2020-10-18'
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2020-10-18
-
+last-modified: '2020-10-18'
+layout: default
+title: Prime Number in Pascal
 ---
 
 Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Pascal](https://sampleprograms.io/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.

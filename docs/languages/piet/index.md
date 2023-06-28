@@ -1,10 +1,9 @@
 ---
-title: The Piet Programming Language
-layout: default
-date: 2023-04-25
+date: '2023-04-25'
 featured-image: programming-languages.jpg
-last-modified: 2023-04-25
-
+last-modified: '2023-04-25'
+layout: default
+title: The Piet Programming Language
 ---
 
 Welcome to the Piet page! Here, you'll find a description of the language as well as a list of sample programs in that language.
