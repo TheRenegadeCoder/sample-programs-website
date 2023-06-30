@@ -1,4 +1,4 @@
-from typing import Optional
+from typing import Optional, Iterable, List
 import datetime
 import functools
 import imghdr
@@ -121,46 +121,42 @@ def _add_language_article_section(doc: snakemd.Document, repo: subete.Repo, lang
 
 def _generate_front_matter(
         doc: snakemd.Document, 
-        path: pathlib.Path, 
         title: str, 
         created_at: Optional[datetime.datetime] = None, 
         last_modified: Optional[datetime.datetime] = None, 
-        image: Optional[str] = None
+        image: Optional[str] = None,
+        authors: Optional[Iterable[str]] = None,
+        tags: Optional[Iterable[str]] = None
     ):
     """
-    Takes the existing front matter and adds it to the document.
-    If no front matter exists, a default one is created.
+    Generates front matter and adds it to the document.
 
     :param snakemd.Document doc: the document to add the front matter to.
-    :param pathlib.Path path: the path to the front matter file.
     :param str title: the title of the document.
     :param datetime.datetime created_at: optional date/time when item is created.
     :param datatime.datetime last_modified: optional date/time when item was last modified.
     :param str image: optional filename of the image.
+    :param Iterable[str] authors: optional list of authors
+    :param Iterable[str] tags: optional list of tags
     """
-    source_path = pathlib.Path("sources") / path
-    if source_path.exists():
-        front_matter = yaml.safe_load(source_path.read_text(encoding="utf-8"))
-    else:
-        front_matter = {}
-        if created_at:
-            front_matter["date"] = created_at.strftime("%Y-%m-%d")
+    front_matter = {"title": title, "layout": "default"}
+    if created_at:
+        front_matter["date"] = created_at.date()
 
-        if not last_modified:
-            last_modified = created_at
+    if not last_modified:
+        last_modified = created_at
 
-        if last_modified:
-            front_matter["last-modified"] = last_modified.strftime("%Y-%m-%d")
+    if last_modified:
+        front_matter["last-modified"] = last_modified.date()
 
-        log.warning(f"Failed to find %s", str(source_path))
-
-    front_matter["title"] = title
-    front_matter["layout"] = "default"
     if image:
         front_matter["featured-image"] = image
 
-    if front_matter.get("date") and not front_matter.get("last-modified"):
-        front_matter["last-modified"] = front_matter["date"]
+    if authors:
+        front_matter["authors"] = sorted(authors, key=lambda x: x.casefold())
+
+    if tags:
+        front_matter["tags"] = sorted(tags, key=lambda x: x.casefold())
 
     raw = "---\n" + yaml.safe_dump(front_matter) + "---"
     doc.add_raw(raw)
@@ -179,10 +175,12 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
     )
     _generate_front_matter(
         doc, 
-        root_path / "front_matter.yaml", 
         str(program), 
         created_at=program.created(),
-        image=_get_program_image(program)
+        last_modified=program.modified(),
+        image=_get_program_image(program),
+        authors=program.authors(),
+        tags=[program.language_pathlike_name(), program.project_pathlike_name()]
     )
     doc.add_paragraph(
         f"Welcome to the {program} page! Here, you'll find the source code for this program "
@@ -300,21 +298,36 @@ def _get_image(
     return default_filename
 
 
-def _generate_project_index(project: subete.Project, previous: subete.Project, next: subete.Project):
+def _generate_project_index(
+    repo: subete.Repo, project: subete.Project, previous: subete.Project, next: subete.Project
+):
     """
     Creates an index file for a single project. The path is assumed
     to be `projects/project/index.md`. 
 
+    :param subete.Repo repo: the repo to pull from.
     :param subete.Project project: the project to create the index file 
         for in the normalized form (e.g., hello-world).
+    :param subete.Project previous: the previous project alphabetically.
+    :param subete.Project next: the next project alphabetically.
     """
     doc: snakemd.Document = snakemd.new_doc()
-    root_path = pathlib.Path(f"projects/{project.pathlike_name()}")
+    project_name: str = project.name()
+    programs: List[subete.SampleProgram] = [
+        program
+        for language in repo
+        for program in language
+        if program.project_name() == project_name
+    ]
+    oldest_program: subete.SampleProgram = min(programs, key=lambda x: x.created())
+    newest_program: subete.SampleProgram = max(programs, key=lambda x: x.created())
     _generate_front_matter(
         doc,
-        root_path / "front_matter.yaml",
         project.name(),
-        image=_get_project_image(project)
+        image=_get_project_image(project),
+        created_at=oldest_program.created(),
+        last_modified=newest_program.created(),
+        tags=[project.pathlike_name()]
     )
     doc.add_paragraph(
         f"Welcome to the {project.name()} page! Here, you'll find a description "
@@ -350,14 +363,15 @@ def _generate_language_index(language: subete.LanguageCollection):
     :param subete.LanguageCollection language: the collection sample programs for a language.
     """
     doc: snakemd.Document = snakemd.new_doc()
-    root_path = pathlib.Path(f"languages/{language.pathlike_name()}")
     oldest_program: subete.SampleProgram = min(language, key=lambda x: x.created())
+    newest_program: subete.SampleProgram = max(language, key=lambda x: x.created())
     _generate_front_matter(
         doc,
-        root_path / "front_matter.yaml",
         f"The {language} Programming Language",
         created_at=oldest_program.created(),
-        image=_get_language_image(language)
+        last_modified=newest_program.created(),
+        image=_get_language_image(language),
+        tags=[language.pathlike_name()]
     )
     doc.add_paragraph(
         f"Welcome to the {language} page! Here, you'll find a description "
@@ -413,7 +427,7 @@ def generate_project_paths(repo: subete.Repo):
         log.info("Generating project paths for %s", str(project))
         path = pathlib.Path(f"docs/projects/{project.pathlike_name()}")
         path.mkdir(exist_ok=True, parents=True)
-        _generate_project_index(project, projects[i - 1], projects[(i + 1) % len(projects)])
+        _generate_project_index(repo, project, projects[i - 1], projects[(i + 1) % len(projects)])
 
 
 def generate_sample_programs(repo: subete.Repo):
@@ -482,7 +496,6 @@ def generate_languages_index(repo: subete.Repo):
     newest_program: subete.SampleProgram = max(newest_lang, key=lambda x: x.created())
     _generate_front_matter(
         language_index, 
-        language_index_path / "front_matter.yaml", 
         "Programming Languages",
         created_at=oldest_program.created(),
         last_modified=newest_program.created(),
@@ -534,7 +547,6 @@ def generate_projects_index(repo: subete.Repo):
     newest_program: subete.SampleProgram = max(newest_lang, key=lambda x: x.created())
     _generate_front_matter(
         projects_index, 
-        projects_index_path / "front_matter.yaml", 
         "Programming Projects in Every Language",
         created_at=oldest_program.created(),
         last_modified=newest_program.created(),
