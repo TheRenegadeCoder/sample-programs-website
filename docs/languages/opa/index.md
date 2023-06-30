@@ -1,8 +1,7 @@
 ---
-authors:
-- nicovillanueva
+date: 2018-07-16
 featured-image: programming-languages.jpg
-last-modified: 2020-05-02
+last-modified: 2018-07-16
 layout: default
 tags:
 - opa

@@ -1,8 +1,13 @@
 ---
-date: '2019-10-12'
+authors:
+- Rafael Vargas
+date: 2019-10-12
 featured-image: baklava-in-every-language.jpg
-last-modified: '2019-10-12'
+last-modified: 2019-10-12
 layout: default
+tags:
+- baklava
+- groovy
 title: Baklava in Groovy
 ---
 

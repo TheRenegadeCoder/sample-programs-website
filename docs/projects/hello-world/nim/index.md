@@ -1,8 +1,13 @@
 ---
-date: '2019-10-16'
+authors:
+- Michael Olson
+date: 2019-10-16
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2019-10-16'
+last-modified: 2019-10-16
 layout: default
+tags:
+- hello-world
+- nim
 title: Hello World in Nim
 ---
 

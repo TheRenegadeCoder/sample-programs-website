@@ -1,8 +1,13 @@
 ---
-date: '2018-08-27'
+authors:
+- "Christoph B\xF6hmwalder"
+date: 2018-08-27
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-08-27'
+last-modified: 2018-08-27
 layout: default
+tags:
+- hello-world
+- vimscript
 title: Hello World in Vimscript
 ---
 

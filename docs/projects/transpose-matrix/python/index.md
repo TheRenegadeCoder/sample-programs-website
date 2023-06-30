@@ -1,8 +1,13 @@
 ---
-date: '2022-05-13'
+authors:
+- Jeremy Grifski
+date: 2022-05-13
 featured-image: transpose-matrix-in-every-language.jpg
-last-modified: '2022-05-13'
+last-modified: 2022-05-13
 layout: default
+tags:
+- python
+- transpose-matrix
 title: Transpose Matrix in Python
 ---
 

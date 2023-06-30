@@ -1,8 +1,13 @@
 ---
-date: '2020-10-08'
+authors:
+- Nikhil Gupta
+date: 2020-10-08
 featured-image: merge-sort-in-every-language.jpg
-last-modified: '2020-10-08'
+last-modified: 2020-10-08
 layout: default
+tags:
+- matlab
+- merge-sort
 title: Merge Sort in Matlab
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2023-04-06'
+authors:
+- rzuckerm
+date: 2023-04-06
 featured-image: selection-sort-in-every-language.jpg
-last-modified: '2023-04-06'
+last-modified: 2023-05-08
 layout: default
+tags:
+- rust
+- selection-sort
 title: Selection Sort in Rust
 ---
 

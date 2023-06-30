@@ -1,8 +1,13 @@
 ---
-date: '2019-10-17'
+authors:
+- Berry Semexan
+date: 2019-10-17
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2019-10-17'
+last-modified: 2019-10-17
 layout: default
+tags:
+- even-odd
+- lua
 title: Even Odd in Lua
 ---
 

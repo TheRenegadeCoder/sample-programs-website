@@ -1,12 +1,14 @@
 ---
 authors:
-- noah11012
+- Noah Nichols
+- rzuckerm
+date: 2018-09-24
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2023-03-19
 layout: default
 tags:
-- ruby
 - reverse-string
+- ruby
 title: Reverse String in Ruby
 ---
 

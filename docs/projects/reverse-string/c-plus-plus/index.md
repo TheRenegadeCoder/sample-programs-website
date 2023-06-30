@@ -1,8 +1,14 @@
 ---
-date: '2018-09-14'
+authors:
+- Jeremy Grifski
+- Noah
+date: 2018-09-14
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2018-09-14'
+last-modified: 2022-10-10
 layout: default
+tags:
+- c-plus-plus
+- reverse-string
 title: Reverse String in C++
 ---
 

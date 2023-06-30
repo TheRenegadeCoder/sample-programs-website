@@ -1,8 +1,13 @@
 ---
-date: '2019-10-21'
+authors:
+- Paddy
+date: 2019-10-21
 featured-image: baklava-in-every-language.jpg
-last-modified: '2019-10-21'
+last-modified: 2019-10-21
 layout: default
+tags:
+- baklava
+- dart
 title: Baklava in Dart
 ---
 

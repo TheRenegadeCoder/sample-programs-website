@@ -1,8 +1,13 @@
 ---
-date: '2019-10-18'
+authors:
+- Parker Johansen
+date: 2019-10-18
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2019-10-18'
+last-modified: 2019-10-18
 layout: default
+tags:
+- dart
+- even-odd
 title: Even Odd in Dart
 ---
 

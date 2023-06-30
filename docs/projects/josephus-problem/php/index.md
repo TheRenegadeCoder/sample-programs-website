@@ -1,8 +1,13 @@
 ---
-date: '2023-03-24'
+authors:
+- rzuckerm
+date: 2023-03-24
 featured-image: josephus-problem-in-every-language.jpg
-last-modified: '2023-03-24'
+last-modified: 2023-03-24
 layout: default
+tags:
+- josephus-problem
+- php
 title: Josephus Problem in Php
 ---
 

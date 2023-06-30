@@ -1,9 +1,7 @@
 ---
-authors:
-- the_renegade_coder
-date: 2020-05-02
+date: 2018-05-06
 featured-image: programming-languages.jpg
-last-modified: 2022-05-11
+last-modified: 2023-02-14
 layout: default
 tags:
 - algol68

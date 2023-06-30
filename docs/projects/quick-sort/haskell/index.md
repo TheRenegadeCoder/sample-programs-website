@@ -1,8 +1,13 @@
 ---
-date: '2018-12-04'
+authors:
+- Parker Johansen
+date: 2018-12-04
 featured-image: quick-sort-in-every-language.jpg
-last-modified: '2018-12-04'
+last-modified: 2019-03-26
 layout: default
+tags:
+- haskell
+- quick-sort
 title: Quick Sort in Haskell
 ---
 

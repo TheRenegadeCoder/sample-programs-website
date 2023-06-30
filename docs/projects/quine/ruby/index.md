@@ -1,8 +1,13 @@
 ---
-date: '2018-08-12'
+authors:
+- Jeremy Grifski
+date: 2018-08-12
 featured-image: quine-in-every-language.jpg
-last-modified: '2018-08-12'
+last-modified: 2018-08-12
 layout: default
+tags:
+- quine
+- ruby
 title: Quine in Ruby
 ---
 

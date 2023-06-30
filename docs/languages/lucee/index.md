@@ -1,8 +1,10 @@
 ---
-date: '2019-10-02'
+date: 2019-10-02
 featured-image: programming-languages.jpg
-last-modified: '2019-10-02'
+last-modified: 2019-10-02
 layout: default
+tags:
+- lucee
 title: The Lucee Programming Language
 ---
 

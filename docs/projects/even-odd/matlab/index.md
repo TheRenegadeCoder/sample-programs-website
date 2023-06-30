@@ -1,8 +1,14 @@
 ---
-date: '2019-10-11'
+authors:
+- Jeremy Grifski
+- sakurakhadag
+date: 2019-10-11
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2019-10-11'
+last-modified: 2021-05-22
 layout: default
+tags:
+- even-odd
+- matlab
 title: Even Odd in Matlab
 ---
 

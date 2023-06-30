@@ -1,8 +1,13 @@
 ---
-date: '2018-11-16'
+authors:
+- Parker Johansen
+date: 2018-11-16
 featured-image: factorial-in-every-language.jpg
-last-modified: '2018-11-16'
+last-modified: 2018-11-16
 layout: default
+tags:
+- factorial
+- haskell
 title: Factorial in Haskell
 ---
 

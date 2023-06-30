@@ -1,8 +1,13 @@
 ---
-date: '2023-05-15'
+authors:
+- rzuckerm
+date: 2023-05-15
 featured-image: factorial-in-every-language.jpg
-last-modified: '2023-05-15'
+last-modified: 2023-05-15
 layout: default
+tags:
+- factorial
+- scala
 title: Factorial in Scala
 ---
 

@@ -1,8 +1,15 @@
 ---
-date: '2019-10-12'
+authors:
+- Jeremy Grifski
+- Parker Johansen
+- pearl2201
+date: 2019-10-12
 featured-image: factorial-in-every-language.jpg
-last-modified: '2019-10-12'
+last-modified: 2019-10-16
 layout: default
+tags:
+- elixir
+- factorial
 title: Factorial in Elixir
 ---
 

@@ -1,8 +1,14 @@
 ---
-date: '2018-10-12'
+authors:
+- Chris Thomas
+- rzuckerm
+date: 2018-10-12
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2018-10-12'
+last-modified: 2023-05-15
 layout: default
+tags:
+- fibonacci
+- typescript
 title: Fibonacci in Typescript
 ---
 

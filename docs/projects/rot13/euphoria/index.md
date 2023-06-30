@@ -1,8 +1,13 @@
 ---
-date: '2023-02-17'
+authors:
+- rzuckerm
+date: 2023-02-17
 featured-image: rot13-in-every-language.jpg
-last-modified: '2023-02-17'
+last-modified: 2023-02-24
 layout: default
+tags:
+- euphoria
+- rot13
 title: Rot13 in Euphoria
 ---
 

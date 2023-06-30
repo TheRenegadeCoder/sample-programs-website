@@ -1,9 +1,7 @@
 ---
-authors:
-- auroq
 date: 2018-11-20
 featured-image: rot13-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2023-02-17
 layout: default
 tags:
 - rot13

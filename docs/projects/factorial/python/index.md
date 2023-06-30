@@ -1,12 +1,15 @@
 ---
 authors:
-- underscoreanuj
+- Bharath
+- Jeremy Grifski
+- Parker Johansen
+date: 2018-12-22
 featured-image: factorial-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2020-10-15
 layout: default
 tags:
-- python
 - factorial
+- python
 title: Factorial in Python
 ---
 

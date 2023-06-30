@@ -1,8 +1,14 @@
 ---
-date: '2019-10-03'
+authors:
+- Ray
+- rzuckerm
+date: 2019-10-03
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2019-10-03'
+last-modified: 2023-05-15
 layout: default
+tags:
+- reverse-string
+- typescript
 title: Reverse String in Typescript
 ---
 

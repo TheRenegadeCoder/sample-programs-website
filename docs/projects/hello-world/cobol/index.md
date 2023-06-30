@@ -1,11 +1,12 @@
 ---
 authors:
-- sudhanshu_dubey
+- Ron Zuckerman
+date: 2023-05-08
 featured-image: hello-world-in-cobol.jpg
-last-modified: 2021-10-08
+last-modified: 2023-05-08
 layout: default
 tags:
-- COBOL
+- cobol
 - hello-world
 title: Hello World in Cobol
 ---

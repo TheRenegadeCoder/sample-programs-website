@@ -1,8 +1,13 @@
 ---
-date: '2021-11-12'
+authors:
+- Nazar Stepan
+date: 2021-11-12
 featured-image: depth-first-search-in-every-language.jpg
-last-modified: '2021-11-12'
+last-modified: 2021-11-12
 layout: default
+tags:
+- depth-first-search
+- python
 title: Depth First Search in Python
 ---
 

@@ -1,8 +1,15 @@
 ---
-date: '2019-03-22'
+authors:
+- rzuckerm
+- Vee Ng
+- Viet Thang Nguyen
+date: 2019-03-22
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: '2019-03-22'
+last-modified: 2023-05-15
 layout: default
+tags:
+- bubble-sort
+- scala
 title: Bubble Sort in Scala
 ---
 

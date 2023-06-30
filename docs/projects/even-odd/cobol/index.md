@@ -1,11 +1,13 @@
 ---
 authors:
-- ShivaniThevar
+- Ron Zuckerman
+- Sudhanshu Dubey
+date: 2021-10-09
 featured-image: even-odd-in-cobol.jpg
-last-modified: 2021-10-16
+last-modified: 2023-05-08
 layout: default
 tags:
-- COBOL
+- cobol
 - even-odd
 title: Even Odd in Cobol
 ---

@@ -1,8 +1,10 @@
 ---
-date: '2021-05-24'
+date: 2021-05-24
 featured-image: programming-languages.jpg
-last-modified: '2021-05-24'
+last-modified: 2021-05-24
 layout: default
+tags:
+- chaiscript
 title: The Chaiscript Programming Language
 ---
 

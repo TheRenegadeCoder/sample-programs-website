@@ -1,8 +1,14 @@
 ---
-date: '2018-10-04'
+authors:
+- germmand
+- Jeremy Grifski
+date: 2018-10-04
 featured-image: baklava-in-every-language.jpg
-last-modified: '2018-10-04'
+last-modified: 2019-03-27
 layout: default
+tags:
+- baklava
+- julia
 title: Baklava in Julia
 ---
 

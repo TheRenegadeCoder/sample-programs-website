@@ -1,8 +1,10 @@
 ---
-date: '2018-06-28'
+date: 2018-06-28
 featured-image: programming-languages.jpg
-last-modified: '2018-06-28'
+last-modified: 2018-06-28
 layout: default
+tags:
+- shen
 title: The Shen Programming Language
 ---
 

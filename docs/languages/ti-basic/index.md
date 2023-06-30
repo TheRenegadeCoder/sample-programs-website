@@ -1,8 +1,10 @@
 ---
-date: '2019-10-01'
+date: 2019-10-01
 featured-image: programming-languages.jpg
-last-modified: '2019-10-01'
+last-modified: 2019-10-01
 layout: default
+tags:
+- ti-basic
 title: The Ti Basic Programming Language
 ---
 

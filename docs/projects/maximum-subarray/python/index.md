@@ -1,12 +1,15 @@
 ---
 authors:
-- Senpai1199
+- Divyansh Agarwal
+- Jeremy Grifski
+- rzuckerm
+date: 2020-11-03
 featured-image: maximum-subarray-in-every-language.jpg
-last-modified: 2020-10-14
+last-modified: 2023-02-06
 layout: default
 tags:
-- python
 - maximum-subarray
+- python
 title: Maximum Subarray in Python
 ---
 

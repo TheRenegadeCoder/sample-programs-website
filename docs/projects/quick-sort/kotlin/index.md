@@ -1,8 +1,15 @@
 ---
-date: '2020-10-01'
+authors:
+- Blake.Ke
+- Jeremy Grifski
+- mikenmo
+date: 2020-10-01
 featured-image: quick-sort-in-every-language.jpg
-last-modified: '2020-10-01'
+last-modified: 2020-10-09
 layout: default
+tags:
+- kotlin
+- quick-sort
 title: Quick Sort in Kotlin
 ---
 

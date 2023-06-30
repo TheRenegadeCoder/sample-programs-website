@@ -1,8 +1,13 @@
 ---
-date: '2019-10-28'
+authors:
+- Oxymora
+date: 2019-10-28
 featured-image: quick-sort-in-every-language.jpg
-last-modified: '2019-10-28'
+last-modified: 2019-11-04
 layout: default
+tags:
+- dart
+- quick-sort
 title: Quick Sort in Dart
 ---
 

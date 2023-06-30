@@ -1,8 +1,10 @@
 ---
-date: '2020-10-02'
+date: 2020-10-02
 featured-image: programming-languages.jpg
-last-modified: '2020-10-02'
+last-modified: 2020-10-02
 layout: default
+tags:
+- sather
 title: The Sather Programming Language
 ---
 

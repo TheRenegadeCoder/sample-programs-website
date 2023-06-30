@@ -1,8 +1,13 @@
 ---
-date: '2023-03-27'
+authors:
+- rzuckerm
+date: 2023-03-27
 featured-image: maximum-array-rotation-in-every-language.jpg
-last-modified: '2023-03-27'
+last-modified: 2023-03-27
 layout: default
+tags:
+- maximum-array-rotation
+- php
 title: Maximum Array Rotation in Php
 ---
 

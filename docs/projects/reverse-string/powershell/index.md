@@ -1,8 +1,15 @@
 ---
-date: '2018-05-28'
+authors:
+- Devin Leaman
+- Jeremy Grifski
+- rzuckerm
+date: 2018-05-28
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2018-05-28'
+last-modified: 2023-05-15
 layout: default
+tags:
+- powershell
+- reverse-string
 title: Reverse String in Powershell
 ---
 

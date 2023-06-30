@@ -1,8 +1,13 @@
 ---
-date: '2022-05-12'
+authors:
+- Jeremy Grifski
+date: 2022-05-12
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: '2022-05-12'
+last-modified: 2022-05-12
 layout: default
+tags:
+- python
+- remove-all-whitespace
 title: Remove All Whitespace in Python
 ---
 

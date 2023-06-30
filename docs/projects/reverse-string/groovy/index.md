@@ -1,8 +1,13 @@
 ---
-date: '2019-07-01'
+authors:
+- robin
+date: 2019-07-01
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2019-07-01'
+last-modified: 2019-07-01
 layout: default
+tags:
+- groovy
+- reverse-string
 title: Reverse String in Groovy
 ---
 

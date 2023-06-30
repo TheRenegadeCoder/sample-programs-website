@@ -1,8 +1,13 @@
 ---
-date: '2023-02-09'
+authors:
+- rzuckerm
+date: 2023-02-09
 featured-image: dijkstra-in-every-language.jpg
-last-modified: '2023-02-09'
+last-modified: 2023-02-09
 layout: default
+tags:
+- algol68
+- dijkstra
 title: Dijkstra in Algol68
 ---
 

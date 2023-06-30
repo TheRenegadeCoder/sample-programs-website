@@ -1,12 +1,13 @@
 ---
 authors:
-- the_renegade_coder
+- Jeremy Griffith
+date: 2018-03-15
 featured-image: hello-world-in-python.jpg
-last-modified: 2020-05-02
+last-modified: 2018-03-15
 layout: default
 tags:
-- python
 - hello-world
+- python
 title: Hello World in Python
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2018-10-22'
+authors:
+- Parker Johansen
+date: 2018-10-22
 featured-image: file-input-output-in-every-language.jpg
-last-modified: '2018-10-22'
+last-modified: 2018-10-24
 layout: default
+tags:
+- file-input-output
+- haskell
 title: File Input Output in Haskell
 ---
 

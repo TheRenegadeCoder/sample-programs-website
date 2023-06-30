@@ -1,8 +1,10 @@
 ---
-date: '2023-06-10'
+date: 2023-06-10
 featured-image: programming-languages.jpg
-last-modified: '2023-06-10'
+last-modified: 2023-06-10
 layout: default
+tags:
+- prolog
 title: The Prolog Programming Language
 ---
 

@@ -1,6 +1,6 @@
 ---
-date: '2018-03-15'
-last-modified: '2023-06-19'
+date: 2018-03-15
+last-modified: 2023-06-19
 layout: default
 title: Programming Projects in Every Language
 ---

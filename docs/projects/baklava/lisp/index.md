@@ -1,8 +1,14 @@
 ---
-date: '2019-11-09'
+authors:
+- Parker Johansen
+- Stuart Irwin
+date: 2019-11-09
 featured-image: baklava-in-every-language.jpg
-last-modified: '2019-11-09'
+last-modified: 2020-10-09
 layout: default
+tags:
+- baklava
+- lisp
 title: Baklava in Lisp
 ---
 

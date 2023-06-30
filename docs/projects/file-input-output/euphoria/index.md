@@ -1,8 +1,13 @@
 ---
-date: '2023-02-16'
+authors:
+- rzuckerm
+date: 2023-02-16
 featured-image: file-input-output-in-every-language.jpg
-last-modified: '2023-02-16'
+last-modified: 2023-02-19
 layout: default
+tags:
+- euphoria
+- file-input-output
 title: File Input Output in Euphoria
 ---
 

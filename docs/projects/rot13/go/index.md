@@ -1,8 +1,13 @@
 ---
-date: '2019-03-17'
+authors:
+- Parker Johansen
+date: 2019-03-17
 featured-image: rot13-in-every-language.jpg
-last-modified: '2019-03-17'
+last-modified: 2019-04-06
 layout: default
+tags:
+- go
+- rot13
 title: Rot13 in Go
 ---
 

@@ -1,8 +1,15 @@
 ---
-date: '2019-10-23'
+authors:
+- Jeremy Grifski
+- Parker Johansen
+- Sailok Chinta
+date: 2019-10-23
 featured-image: selection-sort-in-every-language.jpg
-last-modified: '2019-10-23'
+last-modified: 2022-10-10
 layout: default
+tags:
+- c-plus-plus
+- selection-sort
 title: Selection Sort in C++
 ---
 

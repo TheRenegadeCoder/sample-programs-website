@@ -1,8 +1,14 @@
 ---
-date: '2019-10-11'
+authors:
+- pablocostass
+- rzuckerm
+date: 2019-10-11
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2019-10-11'
+last-modified: 2023-03-19
 layout: default
+tags:
+- clojure
+- reverse-string
 title: Reverse String in Clojure
 ---
 

@@ -1,8 +1,15 @@
 ---
-date: '2021-10-25'
+authors:
+- Jeremy Grifski
+- Matteo Planchet
+- rzuckerm
+date: 2021-10-25
 featured-image: dijkstra-in-every-language.jpg
-last-modified: '2021-10-25'
+last-modified: 2023-03-30
 layout: default
+tags:
+- dijkstra
+- javascript
 title: Dijkstra in Javascript
 ---
 

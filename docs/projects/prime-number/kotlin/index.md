@@ -1,8 +1,14 @@
 ---
-date: '2020-10-08'
+authors:
+- Blake.Ke
+- smallblack9
+date: 2020-10-08
 featured-image: prime-number-in-every-language.jpg
-last-modified: '2020-10-08'
+last-modified: 2020-10-09
 layout: default
+tags:
+- kotlin
+- prime-number
 title: Prime Number in Kotlin
 ---
 

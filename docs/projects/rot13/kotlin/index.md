@@ -1,8 +1,14 @@
 ---
-date: '2020-10-07'
+authors:
+- Cristiano Lopes
+- Jeremy Grifski
+date: 2020-10-07
 featured-image: rot13-in-every-language.jpg
-last-modified: '2020-10-07'
+last-modified: 2020-10-09
 layout: default
+tags:
+- kotlin
+- rot13
 title: Rot13 in Kotlin
 ---
 

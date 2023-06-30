@@ -1,8 +1,13 @@
 ---
-date: '2019-10-18'
+authors:
+- sourabbr
+date: 2019-10-18
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: '2019-10-18'
+last-modified: 2019-10-18
 layout: default
+tags:
+- c
+- insertion-sort
 title: Insertion Sort in C
 ---
 

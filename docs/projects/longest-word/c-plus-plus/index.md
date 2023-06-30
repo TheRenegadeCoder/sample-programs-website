@@ -1,8 +1,14 @@
 ---
-date: '2022-10-02'
+authors:
+- Jeremy Grifski
+- sachchu007
+date: 2022-10-02
 featured-image: longest-word-in-every-language.jpg
-last-modified: '2022-10-02'
+last-modified: 2022-10-10
 layout: default
+tags:
+- c-plus-plus
+- longest-word
 title: Longest Word in C++
 ---
 

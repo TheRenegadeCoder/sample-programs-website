@@ -1,8 +1,13 @@
 ---
-date: '2019-10-20'
+authors:
+- Reilly Howell
+date: 2019-10-20
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: '2019-10-20'
+last-modified: 2019-10-21
 layout: default
+tags:
+- dart
+- roman-numeral
 title: Roman Numeral in Dart
 ---
 

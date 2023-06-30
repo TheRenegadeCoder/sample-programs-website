@@ -1,8 +1,13 @@
 ---
-date: '2020-10-30'
+authors:
+- Mallikarjuna S J
+date: 2020-10-30
 featured-image: prime-number-in-every-language.jpg
-last-modified: '2020-10-30'
+last-modified: 2020-10-30
 layout: default
+tags:
+- fortran
+- prime-number
 title: Prime Number in Fortran
 ---
 

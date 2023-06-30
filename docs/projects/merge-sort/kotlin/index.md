@@ -1,8 +1,15 @@
 ---
-date: '2020-10-02'
+authors:
+- Blake.Ke
+- Jeremy Grifski
+- mikenmo
+date: 2020-10-02
 featured-image: merge-sort-in-every-language.jpg
-last-modified: '2020-10-02'
+last-modified: 2020-10-09
 layout: default
+tags:
+- kotlin
+- merge-sort
 title: Merge Sort in Kotlin
 ---
 

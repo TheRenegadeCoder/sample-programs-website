@@ -1,8 +1,13 @@
 ---
-date: '2023-01-18'
+authors:
+- Ben Hekster
+date: 2023-01-18
 featured-image: convex-hull-in-every-language.jpg
-last-modified: '2023-01-18'
+last-modified: 2023-01-18
 layout: default
+tags:
+- convex-hull
+- mathematica
 title: Convex Hull in Mathematica
 ---
 

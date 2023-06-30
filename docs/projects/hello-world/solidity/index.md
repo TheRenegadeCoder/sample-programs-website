@@ -1,12 +1,13 @@
 ---
 authors:
-- two_clutch
+- Maximillian Naza
+date: 2018-05-29
 featured-image: hello-world-in-solidity.jpg
-last-modified: 2020-05-02
+last-modified: 2018-05-29
 layout: default
 tags:
-- solidity
 - hello-world
+- solidity
 title: Hello World in Solidity
 ---
 

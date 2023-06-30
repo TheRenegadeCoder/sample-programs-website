@@ -1,8 +1,14 @@
 ---
-date: '2019-10-12'
+authors:
+- Dowayne Breedt
+- Jeremy Grifski
+date: 2019-10-12
 featured-image: capitalize-in-every-language.jpg
-last-modified: '2019-10-12'
+last-modified: 2019-10-26
 layout: default
+tags:
+- capitalize
+- php
 title: Capitalize in Php
 ---
 

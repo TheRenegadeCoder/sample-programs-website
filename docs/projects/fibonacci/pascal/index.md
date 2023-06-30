@@ -1,8 +1,13 @@
 ---
-date: '2021-10-24'
+authors:
+- manasmithamn
+date: 2021-10-24
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2021-10-24'
+last-modified: 2021-10-24
 layout: default
+tags:
+- fibonacci
+- pascal
 title: Fibonacci in Pascal
 ---
 

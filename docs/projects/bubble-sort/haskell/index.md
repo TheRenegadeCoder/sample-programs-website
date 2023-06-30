@@ -1,8 +1,13 @@
 ---
-date: '2018-12-02'
+authors:
+- Parker Johansen
+date: 2018-12-02
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: '2018-12-02'
+last-modified: 2019-03-26
 layout: default
+tags:
+- bubble-sort
+- haskell
 title: Bubble Sort in Haskell
 ---
 

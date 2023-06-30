@@ -1,8 +1,10 @@
 ---
 authors:
-- bracciata
+- Jeremy Grifski
+- rzuckerm
+date: 2018-05-05
 featured-image: hello-world-in-emojicode.jpg
-last-modified: 2020-09-30
+last-modified: 2023-05-13
 layout: default
 tags:
 - emojicode

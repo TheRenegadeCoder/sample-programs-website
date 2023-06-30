@@ -1,8 +1,14 @@
 ---
-date: '2020-10-04'
+authors:
+- rzuckerm
+- Scott Little
+date: 2020-10-04
 featured-image: factorial-in-every-language.jpg
-last-modified: '2020-10-04'
+last-modified: 2023-05-13
 layout: default
+tags:
+- d
+- factorial
 title: Factorial in D
 ---
 

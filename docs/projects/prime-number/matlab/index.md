@@ -1,8 +1,13 @@
 ---
-date: '2019-10-14'
+authors:
+- rpartha
+date: 2019-10-14
 featured-image: prime-number-in-every-language.jpg
-last-modified: '2019-10-14'
+last-modified: 2019-10-14
 layout: default
+tags:
+- matlab
+- prime-number
 title: Prime Number in Matlab
 ---
 

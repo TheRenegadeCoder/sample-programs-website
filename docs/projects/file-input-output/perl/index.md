@@ -1,8 +1,13 @@
 ---
-date: '2019-10-15'
+authors:
+- Ewerton Queiroz
+date: 2019-10-15
 featured-image: file-input-output-in-every-language.jpg
-last-modified: '2019-10-15'
+last-modified: 2019-10-15
 layout: default
+tags:
+- file-input-output
+- perl
 title: File Input Output in Perl
 ---
 

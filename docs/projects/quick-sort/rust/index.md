@@ -1,8 +1,13 @@
 ---
-date: '2022-10-03'
+authors:
+- Paolo Cretaro
+date: 2022-10-03
 featured-image: quick-sort-in-every-language.jpg
-last-modified: '2022-10-03'
+last-modified: 2022-10-03
 layout: default
+tags:
+- quick-sort
+- rust
 title: Quick Sort in Rust
 ---
 

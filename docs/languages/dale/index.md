@@ -1,8 +1,10 @@
 ---
-date: '2018-10-03'
+date: 2018-10-03
 featured-image: programming-languages.jpg
-last-modified: '2018-10-03'
+last-modified: 2018-10-03
 layout: default
+tags:
+- dale
 title: The Dale Programming Language
 ---
 

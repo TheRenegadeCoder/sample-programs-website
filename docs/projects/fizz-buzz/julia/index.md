@@ -1,8 +1,13 @@
 ---
-date: '2018-10-12'
+authors:
+- Michael King
+date: 2018-10-12
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2018-10-12'
+last-modified: 2018-10-12
 layout: default
+tags:
+- fizz-buzz
+- julia
 title: Fizz Buzz in Julia
 ---
 

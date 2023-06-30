@@ -1,8 +1,14 @@
 ---
-date: '2019-10-13'
+authors:
+- Jeremy Grifski
+- Shubham Raj
+date: 2019-10-13
 featured-image: file-input-output-in-every-language.jpg
-last-modified: '2019-10-13'
+last-modified: 2022-10-10
 layout: default
+tags:
+- file-input-output
+- java
 title: File Input Output in Java
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2018-09-19'
+authors:
+- Jeremy Grifski
+date: 2018-09-19
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2018-09-19'
+last-modified: 2018-09-19
 layout: default
+tags:
+- fizz-buzz
+- lua
 title: Fizz Buzz in Lua
 ---
 

@@ -1,10 +1,7 @@
 ---
-authors:
-- anohene1
-- the_renegade_coder
-date: 2020-10-07
+date: 2020-10-08
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2022-10-10
+last-modified: 2023-04-09
 layout: default
 tags:
 - palindromic-number

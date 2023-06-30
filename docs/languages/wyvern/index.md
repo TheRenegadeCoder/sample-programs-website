@@ -1,8 +1,10 @@
 ---
-date: '2018-06-21'
+date: 2018-06-21
 featured-image: programming-languages.jpg
-last-modified: '2018-06-21'
+last-modified: 2018-06-21
 layout: default
+tags:
+- wyvern
 title: The Wyvern Programming Language
 ---
 

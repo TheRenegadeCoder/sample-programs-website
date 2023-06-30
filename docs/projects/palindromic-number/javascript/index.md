@@ -1,8 +1,14 @@
 ---
-date: '2021-11-01'
+authors:
+- Jeremy Grifski
+- smjalageri
+date: 2021-11-01
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: '2021-11-01'
+last-modified: 2022-10-11
 layout: default
+tags:
+- javascript
+- palindromic-number
 title: Palindromic Number in Javascript
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2023-02-27'
+authors:
+- rzuckerm
+date: 2023-02-27
 featured-image: transpose-matrix-in-every-language.jpg
-last-modified: '2023-02-27'
+last-modified: 2023-02-27
 layout: default
+tags:
+- euphoria
+- transpose-matrix
 title: Transpose Matrix in Euphoria
 ---
 

@@ -1,8 +1,14 @@
 ---
-date: '2022-10-31'
+authors:
+- Nishant Giri
+- rzuckerm
+date: 2022-10-31
 featured-image: sleep-sort-in-every-language.jpg
-last-modified: '2022-10-31'
+last-modified: 2023-05-08
 layout: default
+tags:
+- rust
+- sleep-sort
 title: Sleep Sort in Rust
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2023-02-25'
+authors:
+- rzuckerm
+date: 2023-02-25
 featured-image: maximum-array-rotation-in-every-language.jpg
-last-modified: '2023-02-25'
+last-modified: 2023-02-25
 layout: default
+tags:
+- euphoria
+- maximum-array-rotation
 title: Maximum Array Rotation in Euphoria
 ---
 

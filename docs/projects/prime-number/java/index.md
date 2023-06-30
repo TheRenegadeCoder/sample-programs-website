@@ -1,8 +1,16 @@
 ---
-date: '2019-10-10'
+authors:
+- Ewerton Queiroz
+- Ganesh Naik
+- Jeremy Grifski
+- Juan D Frias
+date: 2019-10-10
 featured-image: prime-number-in-every-language.jpg
-last-modified: '2019-10-10'
+last-modified: 2022-10-10
 layout: default
+tags:
+- java
+- prime-number
 title: Prime Number in Java
 ---
 

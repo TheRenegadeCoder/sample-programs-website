@@ -1,8 +1,14 @@
 ---
-date: '2019-10-10'
+authors:
+- Eliver L
+- EliverLara
+date: 2019-10-10
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: '2019-10-10'
+last-modified: 2019-10-10
 layout: default
+tags:
+- insertion-sort
+- javascript
 title: Insertion Sort in Javascript
 ---
 

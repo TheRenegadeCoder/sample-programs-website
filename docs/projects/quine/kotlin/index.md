@@ -1,8 +1,13 @@
 ---
-date: '2019-10-19'
+authors:
+- Stuart Irwin
+date: 2019-10-19
 featured-image: quine-in-every-language.jpg
-last-modified: '2019-10-19'
+last-modified: 2019-10-19
 layout: default
+tags:
+- kotlin
+- quine
 title: Quine in Kotlin
 ---
 

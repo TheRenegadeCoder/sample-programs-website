@@ -1,9 +1,7 @@
 ---
-authors:
-- the_renegade_coder
-date: 2021-08-12
+date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2022-05-11
+last-modified: 2022-10-03
 layout: default
 tags:
 - java

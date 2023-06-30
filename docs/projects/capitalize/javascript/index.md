@@ -1,8 +1,14 @@
 ---
-date: '2019-03-31'
+authors:
+- Daniel Luna
+- Jeremy Grifski
+date: 2019-03-31
 featured-image: capitalize-in-every-language.jpg
-last-modified: '2019-03-31'
+last-modified: 2019-10-26
 layout: default
+tags:
+- capitalize
+- javascript
 title: Capitalize in Javascript
 ---
 

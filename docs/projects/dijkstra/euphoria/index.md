@@ -1,8 +1,13 @@
 ---
-date: '2023-02-28'
+authors:
+- rzuckerm
+date: 2023-02-28
 featured-image: dijkstra-in-every-language.jpg
-last-modified: '2023-02-28'
+last-modified: 2023-02-28
 layout: default
+tags:
+- dijkstra
+- euphoria
 title: Dijkstra in Euphoria
 ---
 

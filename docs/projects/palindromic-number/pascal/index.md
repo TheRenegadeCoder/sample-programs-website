@@ -1,8 +1,14 @@
 ---
-date: '2021-10-29'
+authors:
+- Jeremy Grifski
+- manasmithamn
+date: 2021-10-29
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: '2021-10-29'
+last-modified: 2022-10-11
 layout: default
+tags:
+- palindromic-number
+- pascal
 title: Palindromic Number in Pascal
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2023-02-26'
+authors:
+- rzuckerm
+date: 2023-02-26
 featured-image: fraction-math-in-every-language.jpg
-last-modified: '2023-02-26'
+last-modified: 2023-02-26
 layout: default
+tags:
+- euphoria
+- fraction-math
 title: Fraction Math in Euphoria
 ---
 

@@ -1,8 +1,14 @@
 ---
-date: '2019-10-07'
+authors:
+- agilob
+- Jeremy Grifski
+date: 2019-10-07
 featured-image: sleep-sort-in-every-language.jpg
-last-modified: '2019-10-07'
+last-modified: 2020-10-06
 layout: default
+tags:
+- dart
+- sleep-sort
 title: Sleep Sort in Dart
 ---
 

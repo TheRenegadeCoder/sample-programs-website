@@ -1,8 +1,14 @@
 ---
-date: '2018-08-14'
+authors:
+- Jeremy Grifski
+- Parker Johansen
+date: 2018-08-14
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2018-08-14'
+last-modified: 2019-03-26
 layout: default
+tags:
+- c-sharp
+- fizz-buzz
 title: Fizz Buzz in C#
 ---
 

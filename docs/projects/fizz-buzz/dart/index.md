@@ -1,8 +1,13 @@
 ---
-date: '2020-10-02'
+authors:
+- Sanchit Sahay
+date: 2020-10-02
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2020-10-02'
+last-modified: 2020-10-02
 layout: default
+tags:
+- dart
+- fizz-buzz
 title: Fizz Buzz in Dart
 ---
 

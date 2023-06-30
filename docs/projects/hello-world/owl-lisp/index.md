@@ -1,8 +1,13 @@
 ---
-date: '2018-06-29'
+authors:
+- Jeremy Grifski
+date: 2018-06-29
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-06-29'
+last-modified: 2018-06-29
 layout: default
+tags:
+- hello-world
+- owl-lisp
 title: Hello World in Owl Lisp
 ---
 

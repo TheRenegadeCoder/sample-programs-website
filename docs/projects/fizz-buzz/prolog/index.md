@@ -1,8 +1,13 @@
 ---
-date: '2023-06-10'
+authors:
+- sabrinahuwang
+date: 2023-06-10
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2023-06-10'
+last-modified: 2023-06-10
 layout: default
+tags:
+- fizz-buzz
+- prolog
 title: Fizz Buzz in Prolog
 ---
 

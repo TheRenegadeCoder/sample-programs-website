@@ -1,8 +1,10 @@
 ---
-date: '2018-04-29'
+date: 2018-04-29
 featured-image: programming-languages.jpg
-last-modified: '2018-04-29'
+last-modified: 2018-04-29
 layout: default
+tags:
+- felix
 title: The Felix Programming Language
 ---
 

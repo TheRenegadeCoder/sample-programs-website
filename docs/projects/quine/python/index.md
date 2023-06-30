@@ -1,8 +1,13 @@
 ---
-date: '2018-08-07'
+authors:
+- Jeremy Grifski
+date: 2018-08-07
 featured-image: quine-in-every-language.jpg
-last-modified: '2018-08-07'
+last-modified: 2018-08-07
 layout: default
+tags:
+- python
+- quine
 title: Quine in Python
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2018-10-03'
+authors:
+- Riley Martine
+date: 2018-10-03
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-10-03'
+last-modified: 2018-10-03
 layout: default
+tags:
+- dg
+- hello-world
 title: Hello World in Dg
 ---
 

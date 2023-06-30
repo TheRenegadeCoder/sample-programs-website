@@ -1,8 +1,10 @@
 ---
 authors:
-- the_renegade_coder
+- Jeremy Griffith
+- Jeremy Grifski
+date: 2018-04-13
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2022-10-10
 layout: default
 tags:
 - java

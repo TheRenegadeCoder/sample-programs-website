@@ -1,8 +1,10 @@
 ---
-date: '2020-10-03'
+date: 2020-10-03
 featured-image: programming-languages.jpg
-last-modified: '2020-10-03'
+last-modified: 2020-10-03
 layout: default
+tags:
+- arkscript
 title: The Arkscript Programming Language
 ---
 

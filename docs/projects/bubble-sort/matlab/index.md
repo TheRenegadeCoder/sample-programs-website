@@ -1,8 +1,14 @@
 ---
-date: '2019-10-13'
+authors:
+- Jeremy Grifski
+- sakurakhadag
+date: 2019-10-13
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: '2019-10-13'
+last-modified: 2022-04-28
 layout: default
+tags:
+- bubble-sort
+- matlab
 title: Bubble Sort in Matlab
 ---
 

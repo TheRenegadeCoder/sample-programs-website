@@ -1,8 +1,14 @@
 ---
-date: '2019-10-13'
+authors:
+- Jeremy Grifski
+- Shubham Tiwari
+date: 2019-10-13
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: '2019-10-13'
+last-modified: 2022-10-10
 layout: default
+tags:
+- c-plus-plus
+- longest-common-subsequence
 title: Longest Common Subsequence in C++
 ---
 

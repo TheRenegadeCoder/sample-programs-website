@@ -1,8 +1,14 @@
 ---
-date: '2020-10-01'
+authors:
+- rzuckerm
+- Thomas Braccia
+date: 2020-10-01
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: '2020-10-01'
+last-modified: 2023-05-16
 layout: default
+tags:
+- bubble-sort
+- visual-basic
 title: Bubble Sort in Visual Basic
 ---
 

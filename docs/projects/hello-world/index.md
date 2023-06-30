@@ -1,9 +1,7 @@
 ---
-authors:
-- the_renegade_coder
-date: 2018-11-01
+date: 2018-03-15
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-11-09
+last-modified: 2023-06-19
 layout: default
 tags:
 - hello-world

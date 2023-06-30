@@ -1,8 +1,14 @@
 ---
-date: '2019-10-13'
+authors:
+- Andy Alban
+- Jeremy Grifski
+date: 2019-10-13
 featured-image: rot13-in-every-language.jpg
-last-modified: '2019-10-13'
+last-modified: 2022-05-09
 layout: default
+tags:
+- php
+- rot13
 title: Rot13 in Php
 ---
 

@@ -1,8 +1,10 @@
 ---
 authors:
-- the_renegade_coder
+- rzuckerm
+- Trever Shick
+date: 2018-05-06
 featured-image: hello-world-in-d.jpg
-last-modified: 2020-05-02
+last-modified: 2023-05-13
 layout: default
 tags:
 - d

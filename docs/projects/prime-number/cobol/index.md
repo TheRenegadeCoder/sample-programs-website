@@ -1,8 +1,14 @@
 ---
-date: '2021-10-12'
+authors:
+- Ron Zuckerman
+- Sudhanshu Dubey
+date: 2021-10-12
 featured-image: prime-number-in-every-language.jpg
-last-modified: '2021-10-12'
+last-modified: 2023-05-08
 layout: default
+tags:
+- cobol
+- prime-number
 title: Prime Number in Cobol
 ---
 

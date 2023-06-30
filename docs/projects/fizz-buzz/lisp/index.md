@@ -1,12 +1,13 @@
 ---
 authors:
-- stuin
+- Parker Johansen
+date: 2020-10-10
 featured-image: fizz-buzz-in-lisp.jpg
-last-modified: 2020-05-02
+last-modified: 2020-10-11
 layout: default
 tags:
-- lisp
 - fizz-buzz
+- lisp
 title: Fizz Buzz in Lisp
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2023-01-22'
+authors:
+- rzuckerm
+date: 2023-01-22
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: '2023-01-22'
+last-modified: 2023-01-31
 layout: default
+tags:
+- algol68
+- duplicate-character-counter
 title: Duplicate Character Counter in Algol68
 ---
 

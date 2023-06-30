@@ -1,8 +1,13 @@
 ---
-date: '2018-09-09'
+authors:
+- Jeremy Grifski
+date: 2018-09-09
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2018-09-09'
+last-modified: 2022-05-09
 layout: default
+tags:
+- fizz-buzz
+- php
 title: Fizz Buzz in Php
 ---
 

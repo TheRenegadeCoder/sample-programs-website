@@ -1,8 +1,13 @@
 ---
-date: '2019-10-23'
+authors:
+- Kateryna Tokar
+date: 2019-10-23
 featured-image: baklava-in-every-language.jpg
-last-modified: '2019-10-23'
+last-modified: 2019-10-23
 layout: default
+tags:
+- baklava
+- perl
 title: Baklava in Perl
 ---
 

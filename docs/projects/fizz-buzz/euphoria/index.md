@@ -1,8 +1,13 @@
 ---
-date: '2023-02-19'
+authors:
+- rzuckerm
+date: 2023-02-19
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2023-02-19'
+last-modified: 2023-02-19
 layout: default
+tags:
+- euphoria
+- fizz-buzz
 title: Fizz Buzz in Euphoria
 ---
 

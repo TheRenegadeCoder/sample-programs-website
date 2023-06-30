@@ -1,8 +1,13 @@
 ---
-date: '2021-10-08'
+authors:
+- Matteo Planchet
+date: 2021-10-08
 featured-image: josephus-problem-in-every-language.jpg
-last-modified: '2021-10-08'
+last-modified: 2021-10-08
 layout: default
+tags:
+- javascript
+- josephus-problem
 title: Josephus Problem in Javascript
 ---
 

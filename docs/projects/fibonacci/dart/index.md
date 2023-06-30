@@ -1,8 +1,13 @@
 ---
-date: '2019-10-20'
+authors:
+- Reilly Howell
+date: 2019-10-20
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2019-10-20'
+last-modified: 2019-10-20
 layout: default
+tags:
+- dart
+- fibonacci
 title: Fibonacci in Dart
 ---
 

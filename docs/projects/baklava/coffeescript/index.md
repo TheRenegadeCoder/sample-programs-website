@@ -1,8 +1,13 @@
 ---
-date: '2020-10-07'
+authors:
+- Sayantan Sarkar
+date: 2020-10-07
 featured-image: baklava-in-every-language.jpg
-last-modified: '2020-10-07'
+last-modified: 2020-10-07
 layout: default
+tags:
+- baklava
+- coffeescript
 title: Baklava in Coffeescript
 ---
 

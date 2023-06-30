@@ -1,9 +1,7 @@
 ---
-authors:
-- the_renegade_coder
-date: 2018-11-03
+date: 2018-11-19
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2023-04-15
 layout: default
 tags:
 - job-sequencing

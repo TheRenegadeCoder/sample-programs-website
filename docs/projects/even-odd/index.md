@@ -1,10 +1,7 @@
 ---
-authors:
-- the_renegade_coder
-- auroq
-date: 2018-11-01
+date: 2018-10-21
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2023-05-15
 layout: default
 tags:
 - even-odd

@@ -1,12 +1,13 @@
 ---
 authors:
-- martyav
+- Marty Hernandez Avedon
+date: 2018-10-03
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2020-05-02
+last-modified: 2018-10-03
 layout: default
 tags:
-- swift
 - fizz-buzz
+- swift
 title: Fizz Buzz in Swift
 ---
 

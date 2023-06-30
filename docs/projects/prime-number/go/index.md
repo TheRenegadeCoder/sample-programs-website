@@ -1,8 +1,13 @@
 ---
-date: '2019-05-02'
+authors:
+- Parker Johansen
+date: 2019-05-02
 featured-image: prime-number-in-every-language.jpg
-last-modified: '2019-05-02'
+last-modified: 2019-05-02
 layout: default
+tags:
+- go
+- prime-number
 title: Prime Number in Go
 ---
 

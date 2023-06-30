@@ -1,8 +1,14 @@
 ---
-date: '2018-10-11'
+authors:
+- Nadir Fayazov
+- rzuckerm
+date: 2018-10-11
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2018-10-11'
+last-modified: 2023-05-15
 layout: default
+tags:
+- fizz-buzz
+- typescript
 title: Fizz Buzz in Typescript
 ---
 

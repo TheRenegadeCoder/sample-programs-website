@@ -1,8 +1,10 @@
 ---
-date: '2018-08-27'
+date: 2018-08-27
 featured-image: programming-languages.jpg
-last-modified: '2018-08-27'
+last-modified: 2018-08-28
 layout: default
+tags:
+- vimscript
 title: The Vimscript Programming Language
 ---
 

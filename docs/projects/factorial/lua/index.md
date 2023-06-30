@@ -1,8 +1,14 @@
 ---
-date: '2019-10-10'
+authors:
+- Jeremy Grifski
+- Matt Wiley
+date: 2019-10-10
 featured-image: factorial-in-every-language.jpg
-last-modified: '2019-10-10'
+last-modified: 2020-10-15
 layout: default
+tags:
+- factorial
+- lua
 title: Factorial in Lua
 ---
 

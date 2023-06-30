@@ -1,8 +1,13 @@
 ---
-date: '2020-03-05'
+authors:
+- Stuart Irwin
+date: 2020-03-05
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2020-03-05'
+last-modified: 2020-03-05
 layout: default
+tags:
+- reverse-string
+- solisp
 title: Reverse String in Solisp
 ---
 

@@ -1,8 +1,14 @@
 ---
-date: '2018-10-15'
+authors:
+- Noah Nichols
+- Patrick Biffle
+date: 2018-10-15
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-10-15'
+last-modified: 2018-10-17
 layout: default
+tags:
+- hello-world
+- mojiscript
 title: Hello World in Mojiscript
 ---
 

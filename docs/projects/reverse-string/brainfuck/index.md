@@ -1,8 +1,13 @@
 ---
-date: '2018-08-23'
+authors:
+- "Christoph B\xF6hmwalder"
+date: 2018-08-23
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2018-08-23'
+last-modified: 2018-08-23
 layout: default
+tags:
+- brainfuck
+- reverse-string
 title: Reverse String in Brainfuck
 ---
 

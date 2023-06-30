@@ -1,12 +1,13 @@
 ---
 authors:
-- bassem_mohamed
+- rzuckerm
+date: 2023-05-14
 featured-image: hello-world-in-koka.jpg
-last-modified: 2020-05-02
+last-modified: 2023-05-14
 layout: default
 tags:
-- koka
 - hello-world
+- koka
 title: Hello World in Koka
 ---
 

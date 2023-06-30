@@ -1,8 +1,13 @@
 ---
-date: '2023-02-27'
+authors:
+- rzuckerm
+date: 2023-02-27
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: '2023-02-27'
+last-modified: 2023-02-27
 layout: default
+tags:
+- euphoria
+- job-sequencing
 title: Job Sequencing in Euphoria
 ---
 

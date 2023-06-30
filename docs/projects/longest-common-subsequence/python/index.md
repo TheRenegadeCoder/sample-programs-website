@@ -1,8 +1,14 @@
 ---
-date: '2018-10-16'
+authors:
+- Boot-Error
+- Parker Johansen
+date: 2018-10-16
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: '2018-10-16'
+last-modified: 2019-03-21
 layout: default
+tags:
+- longest-common-subsequence
+- python
 title: Longest Common Subsequence in Python
 ---
 

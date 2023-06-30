@@ -1,8 +1,13 @@
 ---
-date: '2019-10-22'
+authors:
+- mericleac
+date: 2019-10-22
 featured-image: rot13-in-every-language.jpg
-last-modified: '2019-10-22'
+last-modified: 2019-10-22
 layout: default
+tags:
+- javascript
+- rot13
 title: Rot13 in Javascript
 ---
 

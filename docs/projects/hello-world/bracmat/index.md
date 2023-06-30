@@ -1,8 +1,13 @@
 ---
-date: '2020-12-07'
+authors:
+- Shivam Choudhary
+date: 2020-12-07
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2020-12-07'
+last-modified: 2020-12-07
 layout: default
+tags:
+- bracmat
+- hello-world
 title: Hello World in Bracmat
 ---
 

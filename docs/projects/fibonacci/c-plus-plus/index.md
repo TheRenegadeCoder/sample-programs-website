@@ -1,8 +1,15 @@
 ---
-date: '2018-10-06'
+authors:
+- Jeremy Grifski
+- Marius
+- Parker Johansen
+date: 2018-10-06
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2018-10-06'
+last-modified: 2022-10-10
 layout: default
+tags:
+- c-plus-plus
+- fibonacci
 title: Fibonacci in C++
 ---
 

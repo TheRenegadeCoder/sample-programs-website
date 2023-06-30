@@ -1,8 +1,10 @@
 ---
-date: '2018-08-28'
+date: 2018-08-28
 featured-image: programming-languages.jpg
-last-modified: '2018-08-28'
+last-modified: 2018-09-04
 layout: default
+tags:
+- tex
 title: The Tex Programming Language
 ---
 

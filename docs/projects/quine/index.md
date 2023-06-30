@@ -1,8 +1,7 @@
 ---
-authors: null
-date: 2018-11-01
+date: 2018-08-07
 featured-image: quine-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2023-04-05
 layout: default
 tags:
 - quine

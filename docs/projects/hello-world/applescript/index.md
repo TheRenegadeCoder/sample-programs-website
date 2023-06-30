@@ -1,8 +1,13 @@
 ---
-date: '2018-04-26'
+authors:
+- Jeremy Grifski
+date: 2018-04-26
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-04-26'
+last-modified: 2018-04-26
 layout: default
+tags:
+- applescript
+- hello-world
 title: Hello World in Applescript
 ---
 

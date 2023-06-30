@@ -1,12 +1,13 @@
 ---
 authors:
-- bracciata
+- "Christoph B\xF6hmwalder"
+date: 2018-08-28
 featured-image: hello-world-in-tex.jpg
-last-modified: 2020-09-30
+last-modified: 2018-09-04
 layout: default
 tags:
-- tex
 - hello-world
+- tex
 title: Hello World in Tex
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2018-12-30'
+authors:
+- Jeremy Grifski
+date: 2018-12-30
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-12-30'
+last-modified: 2018-12-30
 layout: default
+tags:
+- dusk
+- hello-world
 title: Hello World in Dusk
 ---
 

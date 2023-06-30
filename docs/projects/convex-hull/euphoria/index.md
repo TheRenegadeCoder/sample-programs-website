@@ -1,8 +1,13 @@
 ---
-date: '2023-02-25'
+authors:
+- rzuckerm
+date: 2023-02-25
 featured-image: convex-hull-in-every-language.jpg
-last-modified: '2023-02-25'
+last-modified: 2023-03-27
 layout: default
+tags:
+- convex-hull
+- euphoria
 title: Convex Hull in Euphoria
 ---
 

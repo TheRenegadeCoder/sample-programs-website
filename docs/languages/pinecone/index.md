@@ -1,8 +1,10 @@
 ---
-date: '2020-10-04'
+date: 2020-10-04
 featured-image: programming-languages.jpg
-last-modified: '2020-10-04'
+last-modified: 2020-10-04
 layout: default
+tags:
+- pinecone
 title: The Pinecone Programming Language
 ---
 

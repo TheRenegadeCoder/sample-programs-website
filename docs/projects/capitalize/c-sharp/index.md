@@ -1,8 +1,14 @@
 ---
-date: '2019-10-11'
+authors:
+- Jeremy Grifski
+- Renato Ramos Nascimento
+date: 2019-10-11
 featured-image: capitalize-in-every-language.jpg
-last-modified: '2019-10-11'
+last-modified: 2019-10-26
 layout: default
+tags:
+- c-sharp
+- capitalize
 title: Capitalize in C#
 ---
 

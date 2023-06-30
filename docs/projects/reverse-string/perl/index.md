@@ -1,8 +1,14 @@
 ---
-date: '2018-08-22'
+authors:
+- "Christoph B\xF6hmwalder"
+- rzuckerm
+date: 2018-08-22
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2018-08-22'
+last-modified: 2023-03-19
 layout: default
+tags:
+- perl
+- reverse-string
 title: Reverse String in Perl
 ---
 

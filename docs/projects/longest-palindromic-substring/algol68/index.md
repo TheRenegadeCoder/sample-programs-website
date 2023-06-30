@@ -1,8 +1,13 @@
 ---
-date: '2023-02-13'
+authors:
+- rzuckerm
+date: 2023-02-13
 featured-image: longest-palindromic-substring-in-every-language.jpg
-last-modified: '2023-02-13'
+last-modified: 2023-02-13
 layout: default
+tags:
+- algol68
+- longest-palindromic-substring
 title: Longest Palindromic Substring in Algol68
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2019-02-24'
+authors:
+- Parker Johansen
+date: 2019-02-24
 featured-image: factorial-in-every-language.jpg
-last-modified: '2019-02-24'
+last-modified: 2019-02-24
 layout: default
+tags:
+- factorial
+- go
 title: Factorial in Go
 ---
 

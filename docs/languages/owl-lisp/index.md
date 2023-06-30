@@ -1,8 +1,10 @@
 ---
-date: '2018-06-29'
+date: 2018-06-29
 featured-image: programming-languages.jpg
-last-modified: '2018-06-29'
+last-modified: 2018-06-29
 layout: default
+tags:
+- owl-lisp
 title: The Owl Lisp Programming Language
 ---
 

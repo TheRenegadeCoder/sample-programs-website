@@ -1,8 +1,14 @@
 ---
-date: '2019-10-16'
+authors:
+- Gurmeet
+- Jeremy Grifski
+date: 2019-10-16
 featured-image: quick-sort-in-every-language.jpg
-last-modified: '2019-10-16'
+last-modified: 2022-05-09
 layout: default
+tags:
+- php
+- quick-sort
 title: Quick Sort in Php
 ---
 

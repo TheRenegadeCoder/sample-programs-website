@@ -1,8 +1,10 @@
 ---
-date: '2020-12-07'
+date: 2020-12-07
 featured-image: programming-languages.jpg
-last-modified: '2020-12-07'
+last-modified: 2020-12-07
 layout: default
+tags:
+- bracmat
 title: The Bracmat Programming Language
 ---
 

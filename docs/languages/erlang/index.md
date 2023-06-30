@@ -1,8 +1,10 @@
 ---
-date: '2018-08-08'
+date: 2018-08-08
 featured-image: programming-languages.jpg
-last-modified: '2018-08-08'
+last-modified: 2019-10-06
 layout: default
+tags:
+- erlang
 title: The Erlang Programming Language
 ---
 

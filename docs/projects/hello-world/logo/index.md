@@ -1,8 +1,13 @@
 ---
-date: '2020-12-14'
+authors:
+- Shivam Choudhary
+date: 2020-12-14
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2020-12-14'
+last-modified: 2020-12-14
 layout: default
+tags:
+- hello-world
+- logo
 title: Hello World in Logo
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2020-10-01'
+authors:
+- sayashraaj
+date: 2020-10-01
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2020-10-01'
+last-modified: 2020-10-01
 layout: default
+tags:
+- fizz-buzz
+- lolcode
 title: Fizz Buzz in Lolcode
 ---
 

@@ -1,12 +1,13 @@
 ---
 authors:
-- alcha
+- Devin Leaman
+date: 2018-05-28
 featured-image: hello-world-in-powershell.jpg
-last-modified: 2020-10-15
+last-modified: 2018-05-28
 layout: default
 tags:
-- powershell
 - hello-world
+- powershell
 title: Hello World in Powershell
 ---
 

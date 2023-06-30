@@ -1,8 +1,13 @@
 ---
-date: '2018-12-22'
+authors:
+- Parker Johansen
+date: 2018-12-22
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-12-22'
+last-modified: 2018-12-22
 layout: default
+tags:
+- hello-world
+- purescript
 title: Hello World in Purescript
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2023-02-19'
+authors:
+- rzuckerm
+date: 2023-02-19
 featured-image: depth-first-search-in-every-language.jpg
-last-modified: '2023-02-19'
+last-modified: 2023-03-24
 layout: default
+tags:
+- depth-first-search
+- euphoria
 title: Depth First Search in Euphoria
 ---
 

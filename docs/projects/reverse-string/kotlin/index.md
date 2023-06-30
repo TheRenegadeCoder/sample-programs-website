@@ -1,8 +1,14 @@
 ---
-date: '2018-10-20'
+authors:
+- Barry Rowe
+- rzuckerm
+date: 2018-10-20
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2018-10-20'
+last-modified: 2023-03-19
 layout: default
+tags:
+- kotlin
+- reverse-string
 title: Reverse String in Kotlin
 ---
 

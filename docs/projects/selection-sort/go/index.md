@@ -1,8 +1,13 @@
 ---
-date: '2019-03-18'
+authors:
+- Parker Johansen
+date: 2019-03-18
 featured-image: selection-sort-in-every-language.jpg
-last-modified: '2019-03-18'
+last-modified: 2019-03-25
 layout: default
+tags:
+- go
+- selection-sort
 title: Selection Sort in Go
 ---
 

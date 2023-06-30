@@ -1,8 +1,10 @@
 ---
 authors:
-- hmajid2301
+- Jeremy Grifski
+- Parker Johansen
+date: 2018-12-23
 featured-image: selection-sort-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2020-10-15
 layout: default
 tags:
 - python

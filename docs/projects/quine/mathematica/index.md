@@ -1,8 +1,13 @@
 ---
-date: '2023-01-17'
+authors:
+- Ben Hekster
+date: 2023-01-17
 featured-image: quine-in-every-language.jpg
-last-modified: '2023-01-17'
+last-modified: 2023-01-17
 layout: default
+tags:
+- mathematica
+- quine
 title: Quine in Mathematica
 ---
 

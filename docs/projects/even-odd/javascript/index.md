@@ -1,8 +1,13 @@
 ---
-date: '2019-10-11'
+authors:
+- Manan Gill
+date: 2019-10-11
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2019-10-11'
+last-modified: 2019-10-12
 layout: default
+tags:
+- even-odd
+- javascript
 title: Even Odd in Javascript
 ---
 

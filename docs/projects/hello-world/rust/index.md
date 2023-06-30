@@ -1,12 +1,13 @@
 ---
 authors:
-- the_renegade_coder
+- Jeremy Griffith
+date: 2018-03-31
 featured-image: hello-world-in-rust.jpg
-last-modified: 2020-05-02
+last-modified: 2018-03-31
 layout: default
 tags:
-- rust
 - hello-world
+- rust
 title: Hello World in Rust
 ---
 

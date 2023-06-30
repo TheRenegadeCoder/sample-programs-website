@@ -1,12 +1,13 @@
 ---
 authors:
-- the_renegade_coder
+- Jeremy Griffith
+date: 2018-04-08
 featured-image: hello-world-in-perl.jpg
-last-modified: 2020-05-02
+last-modified: 2018-04-08
 layout: default
 tags:
-- perl
 - hello-world
+- perl
 title: Hello World in Perl
 ---
 

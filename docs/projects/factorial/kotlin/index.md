@@ -1,8 +1,14 @@
 ---
-date: '2019-10-06'
+authors:
+- Blake.Ke
+- Satyajit Pradhan
+date: 2019-10-06
 featured-image: factorial-in-every-language.jpg
-last-modified: '2019-10-06'
+last-modified: 2020-10-09
 layout: default
+tags:
+- factorial
+- kotlin
 title: Factorial in Kotlin
 ---
 

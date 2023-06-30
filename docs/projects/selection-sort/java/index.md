@@ -1,8 +1,14 @@
 ---
-date: '2019-10-15'
+authors:
+- Jeremy Grifski
+- Tim Lange
+date: 2019-10-15
 featured-image: selection-sort-in-every-language.jpg
-last-modified: '2019-10-15'
+last-modified: 2022-10-10
 layout: default
+tags:
+- java
+- selection-sort
 title: Selection Sort in Java
 ---
 

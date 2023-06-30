@@ -1,8 +1,13 @@
 ---
-date: '2023-02-01'
+authors:
+- rzuckerm
+date: 2023-02-01
 featured-image: fraction-math-in-every-language.jpg
-last-modified: '2023-02-01'
+last-modified: 2023-02-01
 layout: default
+tags:
+- algol68
+- fraction-math
 title: Fraction Math in Algol68
 ---
 

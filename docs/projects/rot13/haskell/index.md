@@ -1,8 +1,13 @@
 ---
-date: '2018-11-20'
+authors:
+- Parker Johansen
+date: 2018-11-20
 featured-image: rot13-in-every-language.jpg
-last-modified: '2018-11-20'
+last-modified: 2019-04-07
 layout: default
+tags:
+- haskell
+- rot13
 title: Rot13 in Haskell
 ---
 

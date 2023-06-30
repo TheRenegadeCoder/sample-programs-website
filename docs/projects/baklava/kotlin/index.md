@@ -1,13 +1,13 @@
 ---
 authors:
-- stuin
-date: &id001 2020-10-22
+- Jeremy Grifski
+date: 2018-09-17
 featured-image: baklava-in-kotlin.jpg
-last-modified: *id001
+last-modified: 2018-09-17
 layout: default
 tags:
-- kotlin
 - baklava
+- kotlin
 title: Baklava in Kotlin
 ---
 

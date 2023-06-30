@@ -1,8 +1,13 @@
 ---
-date: '2023-02-19'
+authors:
+- rzuckerm
+date: 2023-02-19
 featured-image: prime-number-in-every-language.jpg
-last-modified: '2023-02-19'
+last-modified: 2023-02-19
 layout: default
+tags:
+- euphoria
+- prime-number
 title: Prime Number in Euphoria
 ---
 

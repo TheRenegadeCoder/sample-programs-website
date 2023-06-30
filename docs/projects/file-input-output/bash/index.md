@@ -1,8 +1,13 @@
 ---
-date: '2018-10-28'
+authors:
+- Parker Johansen
+date: 2018-10-28
 featured-image: file-input-output-in-every-language.jpg
-last-modified: '2018-10-28'
+last-modified: 2018-10-28
 layout: default
+tags:
+- bash
+- file-input-output
 title: File Input Output in Bash
 ---
 

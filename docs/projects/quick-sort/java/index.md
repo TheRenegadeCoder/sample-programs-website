@@ -1,8 +1,14 @@
 ---
-date: '2019-11-01'
+authors:
+- Jeremy Grifski
+- Sumathi Varadharajan
+date: 2019-11-01
 featured-image: quick-sort-in-every-language.jpg
-last-modified: '2019-11-01'
+last-modified: 2022-10-10
 layout: default
+tags:
+- java
+- quick-sort
 title: Quick Sort in Java
 ---
 

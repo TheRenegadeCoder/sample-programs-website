@@ -1,8 +1,13 @@
 ---
-date: '2018-04-23'
+authors:
+- Jeremy Griffith
+date: 2018-04-23
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-04-23'
+last-modified: 2018-04-23
 layout: default
+tags:
+- hello-world
+- pyret
 title: Hello World in Pyret
 ---
 

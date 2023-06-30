@@ -1,8 +1,13 @@
 ---
-date: '2020-10-09'
+authors:
+- Parker Johansen
+date: 2020-10-09
 featured-image: capitalize-in-every-language.jpg
-last-modified: '2020-10-09'
+last-modified: 2020-10-11
 layout: default
+tags:
+- capitalize
+- lisp
 title: Capitalize in Lisp
 ---
 

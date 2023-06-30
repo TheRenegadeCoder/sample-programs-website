@@ -1,8 +1,14 @@
 ---
-date: '2019-10-09'
+authors:
+- allievo-sudo
+- Jeremy Grifski
+date: 2019-10-09
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2019-10-09'
+last-modified: 2019-10-29
 layout: default
+tags:
+- bash
+- even-odd
 title: Even Odd in Bash
 ---
 

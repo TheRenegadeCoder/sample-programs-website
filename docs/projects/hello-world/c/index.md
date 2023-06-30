@@ -1,8 +1,10 @@
 ---
 authors:
-- the_renegade_coder
+- "Christoph B\xF6hmwalder"
+- Jeremy Griffith
+date: 2018-03-15
 featured-image: hello-world-in-c.jpg
-last-modified: 2020-05-02
+last-modified: 2018-07-24
 layout: default
 tags:
 - c

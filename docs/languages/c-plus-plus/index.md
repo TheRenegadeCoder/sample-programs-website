@@ -1,8 +1,7 @@
 ---
-authors:
-- the_renegade_coder
+date: 2018-03-21
 featured-image: programming-languages.jpg
-last-modified: 2020-05-02
+last-modified: 2022-10-06
 layout: default
 tags:
 - c-plus-plus

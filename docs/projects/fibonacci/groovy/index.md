@@ -1,8 +1,14 @@
 ---
-date: '2018-10-18'
+authors:
+- Jeremy Grifski
+- Loic Beylot
+date: 2018-10-18
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2018-10-18'
+last-modified: 2018-10-21
 layout: default
+tags:
+- fibonacci
+- groovy
 title: Fibonacci in Groovy
 ---
 

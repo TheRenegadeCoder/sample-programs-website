@@ -1,8 +1,13 @@
 ---
-date: '2018-07-27'
+authors:
+- Purplebabar
+date: 2018-07-27
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-07-27'
+last-modified: 2018-07-27
 layout: default
+tags:
+- hello-world
+- wu
 title: Hello World in Wu
 ---
 

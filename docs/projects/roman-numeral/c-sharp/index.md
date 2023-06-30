@@ -1,8 +1,13 @@
 ---
-date: '2018-10-21'
+authors:
+- Parker Johansen
+date: 2018-10-21
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: '2018-10-21'
+last-modified: 2019-04-01
 layout: default
+tags:
+- c-sharp
+- roman-numeral
 title: Roman Numeral in C#
 ---
 

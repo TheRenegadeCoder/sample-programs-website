@@ -1,8 +1,14 @@
 ---
-date: '2019-10-31'
+authors:
+- Jeremy Grifski
+- zafar hussain
+date: 2019-10-31
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2019-10-31'
+last-modified: 2022-05-10
 layout: default
+tags:
+- fibonacci
+- racket
 title: Fibonacci in Racket
 ---
 

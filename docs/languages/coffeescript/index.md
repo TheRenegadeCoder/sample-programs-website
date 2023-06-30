@@ -1,8 +1,10 @@
 ---
-date: '2018-12-30'
+date: 2018-12-30
 featured-image: programming-languages.jpg
-last-modified: '2018-12-30'
+last-modified: 2020-10-09
 layout: default
+tags:
+- coffeescript
 title: The Coffeescript Programming Language
 ---
 

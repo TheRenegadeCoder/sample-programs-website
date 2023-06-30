@@ -1,8 +1,13 @@
 ---
-date: '2023-04-09'
+authors:
+- rzuckerm
+date: 2023-04-09
 featured-image: longest-word-in-every-language.jpg
-last-modified: '2023-04-09'
+last-modified: 2023-05-08
 layout: default
+tags:
+- longest-word
+- rust
 title: Longest Word in Rust
 ---
 

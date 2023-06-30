@@ -1,8 +1,13 @@
 ---
-date: '2023-01-24'
+authors:
+- rzuckerm
+date: 2023-01-24
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2023-01-24'
+last-modified: 2023-03-19
 layout: default
+tags:
+- algol68
+- reverse-string
 title: Reverse String in Algol68
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2023-02-13'
+authors:
+- rzuckerm
+date: 2023-02-13
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: '2023-02-13'
+last-modified: 2023-02-13
 layout: default
+tags:
+- algol68
+- longest-common-subsequence
 title: Longest Common Subsequence in Algol68
 ---
 

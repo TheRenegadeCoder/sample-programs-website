@@ -1,11 +1,15 @@
 ---
-authors: -manxbiker
+authors:
+- AaronLenoir
+- Andrew Reid
+- rzuckerm
+date: 2018-05-04
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2023-05-16
 layout: default
 tags:
-- visual-basic
 - reverse-string
+- visual-basic
 title: Reverse String in Visual Basic
 ---
 

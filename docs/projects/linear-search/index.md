@@ -1,10 +1,7 @@
 ---
-authors:
-- frankhart2017
-- the_renegade_coder
 date: 2019-10-17
 featured-image: linear-search-in-every-language.jpg
-last-modified: 2020-10-15
+last-modified: 2023-04-09
 layout: default
 tags:
 - linear-search

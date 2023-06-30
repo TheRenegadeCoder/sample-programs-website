@@ -1,8 +1,14 @@
 ---
-date: '2020-10-04'
+authors:
+- Palash Dubey
+- Parker Johansen
+date: 2020-10-04
 featured-image: quick-sort-in-every-language.jpg
-last-modified: '2020-10-04'
+last-modified: 2020-10-11
 layout: default
+tags:
+- lisp
+- quick-sort
 title: Quick Sort in Lisp
 ---
 

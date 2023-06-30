@@ -1,8 +1,13 @@
 ---
-date: '2023-02-25'
+authors:
+- rzuckerm
+date: 2023-02-25
 featured-image: josephus-problem-in-every-language.jpg
-last-modified: '2023-02-25'
+last-modified: 2023-02-25
 layout: default
+tags:
+- euphoria
+- josephus-problem
 title: Josephus Problem in Euphoria
 ---
 

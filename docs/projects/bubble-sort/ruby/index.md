@@ -1,8 +1,14 @@
 ---
-date: '2019-03-20'
+authors:
+- Jeremy Grifski
+- Parker Johansen
+date: 2019-03-20
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: '2019-03-20'
+last-modified: 2019-03-20
 layout: default
+tags:
+- bubble-sort
+- ruby
 title: Bubble Sort in Ruby
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2018-12-30'
+authors:
+- Parker Johansen
+date: 2018-12-30
 featured-image: rot13-in-every-language.jpg
-last-modified: '2018-12-30'
+last-modified: 2019-04-06
 layout: default
+tags:
+- c-sharp
+- rot13
 title: Rot13 in C#
 ---
 

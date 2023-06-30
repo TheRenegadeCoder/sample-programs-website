@@ -1,8 +1,10 @@
 ---
-date: '2021-10-09'
+date: 2021-10-09
 featured-image: programming-languages.jpg
-last-modified: '2021-10-09'
+last-modified: 2023-05-08
 layout: default
+tags:
+- cobol
 title: The Cobol Programming Language
 ---
 

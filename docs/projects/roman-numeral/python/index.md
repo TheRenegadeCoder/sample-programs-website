@@ -1,8 +1,12 @@
 ---
 authors:
-- rayavarapuvikram1
+- Jeremy Grifski
+- Parker Johansen
+- prateeksharma21
+- Vikram Rayavarapu
+date: 2018-10-07
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2020-10-15
 layout: default
 tags:
 - python

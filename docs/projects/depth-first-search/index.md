@@ -1,10 +1,7 @@
 ---
-authors:
-- mowies
-- the_renegade_coder
-date: 2020-10-02
+date: 2021-11-12
 featured-image: depth-first-search-in-every-language.jpg
-last-modified: 2022-05-18
+last-modified: 2023-04-11
 layout: default
 tags:
 - depth-first-search

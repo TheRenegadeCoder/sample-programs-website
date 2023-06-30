@@ -1,8 +1,13 @@
 ---
-date: '2020-03-05'
+authors:
+- Stuart Irwin
+date: 2020-03-05
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2020-03-05'
+last-modified: 2020-03-05
 layout: default
+tags:
+- hello-world
+- solisp
 title: Hello World in Solisp
 ---
 

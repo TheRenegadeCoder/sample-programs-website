@@ -1,8 +1,13 @@
 ---
-date: '2020-10-23'
+authors:
+- izexi
+date: 2020-10-23
 featured-image: binary-search-in-every-language.jpg
-last-modified: '2020-10-23'
+last-modified: 2020-10-23
 layout: default
+tags:
+- binary-search
+- javascript
 title: Binary Search in Javascript
 ---
 

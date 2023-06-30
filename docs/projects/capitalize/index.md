@@ -1,10 +1,7 @@
 ---
-authors:
-- daniellunsc
-- the_renegade_coder
 date: 2019-03-31
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2022-05-18
+last-modified: 2023-05-15
 layout: default
 tags:
 - capitalize

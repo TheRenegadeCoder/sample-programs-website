@@ -1,8 +1,14 @@
 ---
-date: '2022-10-06'
+authors:
+- Ajay Maheshwari
+- Jeremy Grifski
+date: 2022-10-06
 featured-image: dijkstra-in-every-language.jpg
-last-modified: '2022-10-06'
+last-modified: 2022-10-10
 layout: default
+tags:
+- c-plus-plus
+- dijkstra
 title: Dijkstra in C++
 ---
 

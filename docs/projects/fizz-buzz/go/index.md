@@ -1,8 +1,14 @@
 ---
-date: '2018-08-13'
+authors:
+- Jeremy Grifski
+- Parker Johansen
+date: 2018-08-13
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2018-08-13'
+last-modified: 2019-04-01
 layout: default
+tags:
+- fizz-buzz
+- go
 title: Fizz Buzz in Go
 ---
 

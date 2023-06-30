@@ -1,8 +1,13 @@
 ---
-date: '2018-08-13'
+authors:
+- Jeremy Grifski
+date: 2018-08-13
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2018-08-13'
+last-modified: 2018-08-13
 layout: default
+tags:
+- fizz-buzz
+- haskell
 title: Fizz Buzz in Haskell
 ---
 

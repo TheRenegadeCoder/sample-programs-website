@@ -1,8 +1,13 @@
 ---
-date: '2023-02-01'
+authors:
+- rzuckerm
+date: 2023-02-01
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: '2023-02-01'
+last-modified: 2023-02-01
 layout: default
+tags:
+- algol68
+- roman-numeral
 title: Roman Numeral in Algol68
 ---
 

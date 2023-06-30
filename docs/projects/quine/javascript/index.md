@@ -1,8 +1,13 @@
 ---
-date: '2020-09-25'
+authors:
+- Jeng
+date: 2020-09-25
 featured-image: quine-in-every-language.jpg
-last-modified: '2020-09-25'
+last-modified: 2020-09-25
 layout: default
+tags:
+- javascript
+- quine
 title: Quine in Javascript
 ---
 

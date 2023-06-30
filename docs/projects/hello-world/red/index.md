@@ -1,12 +1,13 @@
 ---
 authors:
-- the_renegade_coder
+- Jeremy Griffith
+date: 2018-04-20
 featured-image: hello-world-in-red.jpg
-last-modified: 2020-05-02
+last-modified: 2018-04-20
 layout: default
 tags:
-- red
 - hello-world
+- red
 title: Hello World in Red
 ---
 

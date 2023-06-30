@@ -1,11 +1,10 @@
 ---
-authors:
-- fuboki10
-- the_renegade_coder
-date: 2019-10-28
+date: 2021-10-25
 featured-image: dijkstra-in-every-language.jpg
-last-modified: 2022-05-18
+last-modified: 2023-04-20
 layout: default
+tags:
+- dijkstra
 title: Dijkstra
 ---
 

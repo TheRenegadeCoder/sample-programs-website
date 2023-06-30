@@ -1,8 +1,10 @@
 ---
-date: '2020-12-09'
+date: 2020-12-09
 featured-image: programming-languages.jpg
-last-modified: '2020-12-09'
+last-modified: 2020-12-09
 layout: default
+tags:
+- charm
 title: The Charm Programming Language
 ---
 

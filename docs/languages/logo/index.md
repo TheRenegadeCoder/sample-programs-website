@@ -1,8 +1,10 @@
 ---
-date: '2020-12-14'
+date: 2020-12-14
 featured-image: programming-languages.jpg
-last-modified: '2020-12-14'
+last-modified: 2020-12-14
 layout: default
+tags:
+- logo
 title: The Logo Programming Language
 ---
 

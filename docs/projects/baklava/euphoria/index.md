@@ -1,8 +1,13 @@
 ---
-date: '2023-02-16'
+authors:
+- rzuckerm
+date: 2023-02-16
 featured-image: baklava-in-every-language.jpg
-last-modified: '2023-02-16'
+last-modified: 2023-02-16
 layout: default
+tags:
+- baklava
+- euphoria
 title: Baklava in Euphoria
 ---
 

@@ -1,8 +1,14 @@
 ---
-date: '2019-10-17'
+authors:
+- Berry Semexan
+- Jeremy Grifski
+date: 2019-10-17
 featured-image: capitalize-in-every-language.jpg
-last-modified: '2019-10-17'
+last-modified: 2020-10-15
 layout: default
+tags:
+- capitalize
+- lua
 title: Capitalize in Lua
 ---
 

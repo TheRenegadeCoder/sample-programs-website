@@ -1,8 +1,13 @@
 ---
-date: '2020-12-04'
+authors:
+- Shivam Choudhary
+date: 2020-12-04
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2020-12-04'
+last-modified: 2020-12-04
 layout: default
+tags:
+- hello-world
+- hobbes
 title: Hello World in Hobbes
 ---
 

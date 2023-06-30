@@ -1,8 +1,13 @@
 ---
-date: '2022-05-14'
+authors:
+- Jeremy Grifski
+date: 2022-05-14
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: '2022-05-14'
+last-modified: 2022-05-14
 layout: default
+tags:
+- duplicate-character-counter
+- python
 title: Duplicate Character Counter in Python
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2023-01-21'
+authors:
+- Ben Hekster
+date: 2023-01-21
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2023-01-21'
+last-modified: 2023-01-21
 layout: default
+tags:
+- fizz-buzz
+- mathematica
 title: Fizz Buzz in Mathematica
 ---
 

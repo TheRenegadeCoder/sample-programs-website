@@ -1,8 +1,13 @@
 ---
-date: '2020-10-09'
+authors:
+- Sayantan Sarkar
+date: 2020-10-09
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2020-10-09'
+last-modified: 2020-10-09
 layout: default
+tags:
+- coffeescript
+- even-odd
 title: Even Odd in Coffeescript
 ---
 

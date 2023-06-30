@@ -1,8 +1,13 @@
 ---
-date: '2019-10-31'
+authors:
+- Mallikarjuna S J
+date: 2019-10-31
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2019-10-31'
+last-modified: 2019-11-04
 layout: default
+tags:
+- even-odd
+- ruby
 title: Even Odd in Ruby
 ---
 

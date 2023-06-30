@@ -1,8 +1,13 @@
 ---
-date: '2023-02-19'
+authors:
+- rzuckerm
+date: 2023-02-19
 featured-image: binary-search-in-every-language.jpg
-last-modified: '2023-02-19'
+last-modified: 2023-02-19
 layout: default
+tags:
+- binary-search
+- euphoria
 title: Binary Search in Euphoria
 ---
 

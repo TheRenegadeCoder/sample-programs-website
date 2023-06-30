@@ -1,12 +1,14 @@
 ---
 authors:
-- herrfugbaum
+- Jeremy Grifski
+- Juan F Gonzalez
+date: 2018-07-27
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2020-05-02
+last-modified: 2021-05-22
 layout: default
 tags:
+- fizz-buzz
 - javascript
-- fizzbuzz
 title: Fizz Buzz in Javascript
 ---
 

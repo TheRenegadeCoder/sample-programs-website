@@ -1,8 +1,13 @@
 ---
-date: '2020-10-07'
+authors:
+- Sudhanshu Dubey
+date: 2020-10-07
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2020-10-07'
+last-modified: 2020-10-07
 layout: default
+tags:
+- even-odd
+- rexx
 title: Even Odd in Rexx
 ---
 

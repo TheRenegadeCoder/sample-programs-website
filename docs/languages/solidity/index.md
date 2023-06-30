@@ -1,8 +1,7 @@
 ---
-authors:
-- two_clutch
+date: 2018-05-29
 featured-image: programming-languages.jpg
-last-modified: 2020-05-02
+last-modified: 2018-05-29
 layout: default
 tags:
 - solidity

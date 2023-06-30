@@ -1,8 +1,10 @@
 ---
-date: '2021-05-25'
+date: 2021-05-25
 featured-image: programming-languages.jpg
-last-modified: '2021-05-25'
+last-modified: 2023-01-21
 layout: default
+tags:
+- mathematica
 title: The Mathematica Programming Language
 ---
 

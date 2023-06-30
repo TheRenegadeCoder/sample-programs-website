@@ -1,8 +1,14 @@
 ---
-date: '2018-10-15'
+authors:
+- Parker Johansen
+- Riddhi K
+date: 2018-10-15
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2018-10-15'
+last-modified: 2019-04-01
 layout: default
+tags:
+- go
+- reverse-string
 title: Reverse String in Go
 ---
 

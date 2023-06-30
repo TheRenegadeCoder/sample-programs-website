@@ -1,8 +1,9 @@
 ---
 authors:
-- stuin
+- Stuart
+date: 2018-10-22
 featured-image: fizz-buzz-in-befunge.jpg
-last-modified: 2020-08-30
+last-modified: 2018-10-22
 layout: default
 tags:
 - befunge

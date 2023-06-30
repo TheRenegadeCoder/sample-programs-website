@@ -1,8 +1,13 @@
 ---
-date: '2018-08-27'
+authors:
+- "Christoph B\xF6hmwalder"
+date: 2018-08-27
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2018-08-27'
+last-modified: 2018-08-27
 layout: default
+tags:
+- reverse-string
+- vimscript
 title: Reverse String in Vimscript
 ---
 

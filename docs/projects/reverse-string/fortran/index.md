@@ -1,8 +1,14 @@
 ---
-date: '2020-10-27'
+authors:
+- Mallikarjuna S J
+- rzuckerm
+date: 2020-10-27
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2020-10-27'
+last-modified: 2023-03-19
 layout: default
+tags:
+- fortran
+- reverse-string
 title: Reverse String in Fortran
 ---
 

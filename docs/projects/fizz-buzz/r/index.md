@@ -1,8 +1,14 @@
 ---
-date: '2019-10-24'
+authors:
+- Gabi Herman
+- Jeremy Grifski
+date: 2019-10-24
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2019-10-24'
+last-modified: 2020-10-18
 layout: default
+tags:
+- fizz-buzz
+- r
 title: Fizz Buzz in R
 ---
 

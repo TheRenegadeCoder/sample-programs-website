@@ -1,8 +1,13 @@
 ---
-date: '2023-04-06'
+authors:
+- rzuckerm
+date: 2023-04-06
 featured-image: baklava-in-every-language.jpg
-last-modified: '2023-04-06'
+last-modified: 2023-04-06
 layout: default
+tags:
+- baklava
+- rust
 title: Baklava in Rust
 ---
 

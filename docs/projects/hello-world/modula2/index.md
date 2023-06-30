@@ -1,8 +1,13 @@
 ---
-date: '2020-10-02'
+authors:
+- Shashank KV
+date: 2020-10-02
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2020-10-02'
+last-modified: 2020-10-02
 layout: default
+tags:
+- hello-world
+- modula2
 title: Hello World in Modula2
 ---
 

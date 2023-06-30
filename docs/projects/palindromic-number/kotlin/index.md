@@ -1,10 +1,14 @@
 ---
 authors:
-- anohene1
+- Blake.Ke
+- Isaac Anohene
+- Jeremy Grifski
+date: 2020-10-08
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2020-10-07
+last-modified: 2022-10-11
 layout: default
 tags:
+- kotlin
 - palindromic-number
 title: Palindromic Number in Kotlin
 ---

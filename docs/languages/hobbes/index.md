@@ -1,8 +1,10 @@
 ---
-date: '2020-12-04'
+date: 2020-12-04
 featured-image: programming-languages.jpg
-last-modified: '2020-12-04'
+last-modified: 2020-12-04
 layout: default
+tags:
+- hobbes
 title: The Hobbes Programming Language
 ---
 

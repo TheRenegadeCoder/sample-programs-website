@@ -1,8 +1,13 @@
 ---
-date: '2018-11-16'
+authors:
+- Parker Johansen
+date: 2018-11-16
 featured-image: prime-number-in-every-language.jpg
-last-modified: '2018-11-16'
+last-modified: 2019-05-02
 layout: default
+tags:
+- haskell
+- prime-number
 title: Prime Number in Haskell
 ---
 

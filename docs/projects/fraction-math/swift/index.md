@@ -1,8 +1,13 @@
 ---
-date: '2020-10-01'
+authors:
+- Zapnuk
+date: 2020-10-01
 featured-image: fraction-math-in-every-language.jpg
-last-modified: '2020-10-01'
+last-modified: 2020-10-01
 layout: default
+tags:
+- fraction-math
+- swift
 title: Fraction Math in Swift
 ---
 

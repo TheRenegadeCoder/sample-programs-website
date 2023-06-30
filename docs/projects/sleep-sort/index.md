@@ -1,9 +1,7 @@
 ---
-authors:
-- agilob
-date: 2019-10-08
+date: 2019-10-07
 featured-image: sleep-sort-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2023-04-28
 layout: default
 tags:
 - sleep-sort

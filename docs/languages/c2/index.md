@@ -1,8 +1,10 @@
 ---
-date: '2021-05-25'
+date: 2021-05-25
 featured-image: programming-languages.jpg
-last-modified: '2021-05-25'
+last-modified: 2021-05-25
 layout: default
+tags:
+- c2
 title: The C2 Programming Language
 ---
 

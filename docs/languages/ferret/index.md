@@ -1,8 +1,10 @@
 ---
-date: '2018-10-09'
+date: 2018-10-09
 featured-image: programming-languages.jpg
-last-modified: '2018-10-09'
+last-modified: 2018-10-09
 layout: default
+tags:
+- ferret
 title: The Ferret Programming Language
 ---
 

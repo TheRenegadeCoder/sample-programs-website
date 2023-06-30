@@ -1,12 +1,13 @@
 ---
 authors:
-- stuin
+- ali-abdullah
+date: 2018-10-11
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2020-05-02
+last-modified: 2018-10-11
 layout: default
 tags:
-- kotlin
 - fizz-buzz
+- kotlin
 title: Fizz Buzz in Kotlin
 ---
 

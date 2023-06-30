@@ -1,8 +1,10 @@
 ---
 authors:
-- abhishek_raut
+- "Christoph B\xF6hmwalder"
+- rzuckerm
+date: 2018-07-24
 featured-image: reverse-string-in-c.jpg
-last-modified: 2020-10-01
+last-modified: 2023-03-19
 layout: default
 tags:
 - c

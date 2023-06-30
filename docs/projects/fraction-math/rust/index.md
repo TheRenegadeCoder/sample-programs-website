@@ -1,8 +1,13 @@
 ---
-date: '2023-04-12'
+authors:
+- rzuckerm
+date: 2023-04-12
 featured-image: fraction-math-in-every-language.jpg
-last-modified: '2023-04-12'
+last-modified: 2023-05-08
 layout: default
+tags:
+- fraction-math
+- rust
 title: Fraction Math in Rust
 ---
 

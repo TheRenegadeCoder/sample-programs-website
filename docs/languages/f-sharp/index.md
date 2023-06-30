@@ -1,8 +1,10 @@
 ---
-date: '2018-04-27'
+date: 2018-04-27
 featured-image: programming-languages.jpg
-last-modified: '2018-04-27'
+last-modified: 2019-09-12
 layout: default
+tags:
+- f-sharp
 title: The F# Programming Language
 ---
 

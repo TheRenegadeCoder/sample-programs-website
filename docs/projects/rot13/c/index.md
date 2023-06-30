@@ -1,8 +1,13 @@
 ---
-date: '2019-10-09'
+authors:
+- Softizo
+date: 2019-10-09
 featured-image: rot13-in-every-language.jpg
-last-modified: '2019-10-09'
+last-modified: 2019-10-09
 layout: default
+tags:
+- c
+- rot13
 title: Rot13 in C
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2020-10-09'
+authors:
+- Subhasmita Swain
+date: 2020-10-09
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2020-10-09'
+last-modified: 2020-10-09
 layout: default
+tags:
+- debug
+- hello-world
 title: Hello World in Debug
 ---
 

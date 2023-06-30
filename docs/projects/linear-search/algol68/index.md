@@ -1,8 +1,13 @@
 ---
-date: '2023-01-30'
+authors:
+- rzuckerm
+date: 2023-01-30
 featured-image: linear-search-in-every-language.jpg
-last-modified: '2023-01-30'
+last-modified: 2023-01-30
 layout: default
+tags:
+- algol68
+- linear-search
 title: Linear Search in Algol68
 ---
 

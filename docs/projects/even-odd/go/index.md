@@ -1,8 +1,14 @@
 ---
-date: '2018-10-25'
+authors:
+- clarkimusmax
+- Parker Johansen
+date: 2018-10-25
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2018-10-25'
+last-modified: 2019-04-01
 layout: default
+tags:
+- even-odd
+- go
 title: Even Odd in Go
 ---
 

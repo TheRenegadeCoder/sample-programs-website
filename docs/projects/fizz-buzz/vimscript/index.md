@@ -1,8 +1,13 @@
 ---
-date: '2018-08-28'
+authors:
+- "Christoph B\xF6hmwalder"
+date: 2018-08-28
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2018-08-28'
+last-modified: 2018-08-28
 layout: default
+tags:
+- fizz-buzz
+- vimscript
 title: Fizz Buzz in Vimscript
 ---
 

@@ -1,10 +1,7 @@
 ---
-authors:
-- barhouum7
-- the_renegade_coder
-date: 2020-10-21
+date: 2022-05-12
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2020-10-28
+last-modified: 2023-04-09
 layout: default
 tags:
 - remove-all-whitespace

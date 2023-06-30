@@ -1,8 +1,14 @@
 ---
-date: '2019-10-09'
+authors:
+- Angooj Kumar Singh
+- Jeremy Grifski
+date: 2019-10-09
 featured-image: factorial-in-every-language.jpg
-last-modified: '2019-10-09'
+last-modified: 2022-10-10
 layout: default
+tags:
+- c-plus-plus
+- factorial
 title: Factorial in C++
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2018-03-21'
+authors:
+- Jeremy Griffith
+date: 2018-03-21
 featured-image: hello-world-in-ruby.jpg
-last-modified: '2018-03-21'
+last-modified: 2018-03-21
 layout: default
+tags:
+- hello-world
+- ruby
 title: Hello World in Ruby
 ---
 

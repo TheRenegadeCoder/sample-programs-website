@@ -1,8 +1,13 @@
 ---
-date: '2020-11-03'
+authors:
+- Prakhar Pande
+date: 2020-11-03
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2020-11-03'
+last-modified: 2020-11-03
 layout: default
+tags:
+- gosu
+- hello-world
 title: Hello World in Gosu
 ---
 

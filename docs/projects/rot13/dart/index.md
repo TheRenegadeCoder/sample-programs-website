@@ -1,8 +1,13 @@
 ---
-date: '2019-10-18'
+authors:
+- slashdoom
+date: 2019-10-18
 featured-image: rot13-in-every-language.jpg
-last-modified: '2019-10-18'
+last-modified: 2019-10-18
 layout: default
+tags:
+- dart
+- rot13
 title: Rot13 in Dart
 ---
 

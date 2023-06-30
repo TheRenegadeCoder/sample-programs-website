@@ -1,8 +1,13 @@
 ---
-date: '2019-10-20'
+authors:
+- LezendarySandwich
+date: 2019-10-20
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: '2019-10-20'
+last-modified: 2019-10-20
 layout: default
+tags:
+- c
+- longest-common-subsequence
 title: Longest Common Subsequence in C
 ---
 

@@ -1,8 +1,10 @@
 ---
-date: '2018-12-22'
+date: 2018-12-22
 featured-image: programming-languages.jpg
-last-modified: '2018-12-22'
+last-modified: 2020-10-04
 layout: default
+tags:
+- clojure
 title: The Clojure Programming Language
 ---
 

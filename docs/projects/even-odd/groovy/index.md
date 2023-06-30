@@ -1,8 +1,13 @@
 ---
-date: '2019-07-01'
+authors:
+- robin
+date: 2019-07-01
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2019-07-01'
+last-modified: 2019-07-01
 layout: default
+tags:
+- even-odd
+- groovy
 title: Even Odd in Groovy
 ---
 

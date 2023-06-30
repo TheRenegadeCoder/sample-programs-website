@@ -1,8 +1,14 @@
 ---
-date: '2018-11-19'
+authors:
+- Parker Johansen
+- rzuckerm
+date: 2018-11-19
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: '2018-11-19'
+last-modified: 2023-03-19
 layout: default
+tags:
+- job-sequencing
+- python
 title: Job Sequencing in Python
 ---
 

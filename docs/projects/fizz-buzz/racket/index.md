@@ -1,8 +1,13 @@
 ---
-date: '2020-10-02'
+authors:
+- RubinMathias
+date: 2020-10-02
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2020-10-02'
+last-modified: 2020-10-02
 layout: default
+tags:
+- fizz-buzz
+- racket
 title: Fizz Buzz in Racket
 ---
 

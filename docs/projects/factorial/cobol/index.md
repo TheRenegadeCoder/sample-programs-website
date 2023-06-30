@@ -1,8 +1,13 @@
 ---
-date: '2021-10-14'
+authors:
+- Sudhanshu Dubey
+date: 2021-10-14
 featured-image: factorial-in-every-language.jpg
-last-modified: '2021-10-14'
+last-modified: 2021-10-14
 layout: default
+tags:
+- cobol
+- factorial
 title: Factorial in Cobol
 ---
 

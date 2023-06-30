@@ -1,8 +1,13 @@
 ---
-date: '2018-10-09'
+authors:
+- Arfat Salman
+date: 2018-10-09
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-10-09'
+last-modified: 2018-10-09
 layout: default
+tags:
+- ferret
+- hello-world
 title: Hello World in Ferret
 ---
 

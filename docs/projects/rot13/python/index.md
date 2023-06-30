@@ -1,8 +1,14 @@
 ---
-date: '2018-12-23'
+authors:
+- Jeremy Grifski
+- Parker Johansen
+date: 2018-12-23
 featured-image: rot13-in-every-language.jpg
-last-modified: '2018-12-23'
+last-modified: 2020-10-15
 layout: default
+tags:
+- python
+- rot13
 title: Rot13 in Python
 ---
 

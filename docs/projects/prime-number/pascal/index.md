@@ -1,8 +1,13 @@
 ---
-date: '2020-10-18'
+authors:
+- smjalageri
+date: 2020-10-18
 featured-image: prime-number-in-every-language.jpg
-last-modified: '2020-10-18'
+last-modified: 2020-10-18
 layout: default
+tags:
+- pascal
+- prime-number
 title: Prime Number in Pascal
 ---
 

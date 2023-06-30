@@ -1,8 +1,13 @@
 ---
-date: '2020-10-29'
+authors:
+- Mallikarjuna S J
+date: 2020-10-29
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2020-10-29'
+last-modified: 2020-10-29
 layout: default
+tags:
+- even-odd
+- fortran
 title: Even Odd in Fortran
 ---
 

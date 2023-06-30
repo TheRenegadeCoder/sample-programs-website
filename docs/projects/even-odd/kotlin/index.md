@@ -1,8 +1,14 @@
 ---
-date: '2020-10-01'
+authors:
+- Blake.Ke
+- mikenmo
+date: 2020-10-01
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2020-10-01'
+last-modified: 2020-10-09
 layout: default
+tags:
+- even-odd
+- kotlin
 title: Even Odd in Kotlin
 ---
 

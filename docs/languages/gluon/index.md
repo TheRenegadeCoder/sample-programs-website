@@ -1,8 +1,10 @@
 ---
-date: '2018-12-30'
+date: 2018-12-30
 featured-image: programming-languages.jpg
-last-modified: '2018-12-30'
+last-modified: 2018-12-30
 layout: default
+tags:
+- gluon
 title: The Gluon Programming Language
 ---
 

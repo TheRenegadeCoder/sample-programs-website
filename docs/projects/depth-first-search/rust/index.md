@@ -1,8 +1,13 @@
 ---
-date: '2023-04-11'
+authors:
+- rzuckerm
+date: 2023-04-11
 featured-image: depth-first-search-in-every-language.jpg
-last-modified: '2023-04-11'
+last-modified: 2023-05-08
 layout: default
+tags:
+- depth-first-search
+- rust
 title: Depth First Search in Rust
 ---
 

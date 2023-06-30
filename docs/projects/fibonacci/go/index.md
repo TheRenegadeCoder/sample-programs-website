@@ -1,8 +1,13 @@
 ---
-date: '2019-02-24'
+authors:
+- Parker Johansen
+date: 2019-02-24
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2019-02-24'
+last-modified: 2019-04-07
 layout: default
+tags:
+- fibonacci
+- go
 title: Fibonacci in Go
 ---
 

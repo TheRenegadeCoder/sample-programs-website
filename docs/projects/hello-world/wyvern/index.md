@@ -1,8 +1,13 @@
 ---
-date: '2018-06-21'
+authors:
+- Jeremy Grifski
+date: 2018-06-21
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-06-21'
+last-modified: 2018-06-21
 layout: default
+tags:
+- hello-world
+- wyvern
 title: Hello World in Wyvern
 ---
 

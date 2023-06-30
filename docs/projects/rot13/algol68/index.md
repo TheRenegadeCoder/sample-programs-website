@@ -1,8 +1,13 @@
 ---
-date: '2023-01-24'
+authors:
+- rzuckerm
+date: 2023-01-24
 featured-image: rot13-in-every-language.jpg
-last-modified: '2023-01-24'
+last-modified: 2023-02-01
 layout: default
+tags:
+- algol68
+- rot13
 title: Rot13 in Algol68
 ---
 

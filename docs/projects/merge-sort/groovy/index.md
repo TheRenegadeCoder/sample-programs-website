@@ -1,8 +1,13 @@
 ---
-date: '2019-10-20'
+authors:
+- Mykhaylo Samonov
+date: 2019-10-20
 featured-image: merge-sort-in-every-language.jpg
-last-modified: '2019-10-20'
+last-modified: 2019-10-20
 layout: default
+tags:
+- groovy
+- merge-sort
 title: Merge Sort in Groovy
 ---
 

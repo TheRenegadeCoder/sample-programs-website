@@ -1,8 +1,13 @@
 ---
-date: '2023-03-19'
+authors:
+- alope107
+date: 2023-03-19
 featured-image: longest-word-in-every-language.jpg
-last-modified: '2023-03-19'
+last-modified: 2023-03-19
 layout: default
+tags:
+- go
+- longest-word
 title: Longest Word in Go
 ---
 

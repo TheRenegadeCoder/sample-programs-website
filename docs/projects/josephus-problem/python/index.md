@@ -1,8 +1,13 @@
 ---
-date: '2022-12-30'
+authors:
+- Sriniketh J
+date: 2022-12-30
 featured-image: josephus-problem-in-every-language.jpg
-last-modified: '2022-12-30'
+last-modified: 2022-12-30
 layout: default
+tags:
+- josephus-problem
+- python
 title: Josephus Problem in Python
 ---
 

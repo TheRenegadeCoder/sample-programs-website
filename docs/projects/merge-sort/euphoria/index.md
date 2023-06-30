@@ -1,8 +1,13 @@
 ---
-date: '2023-02-19'
+authors:
+- rzuckerm
+date: 2023-02-19
 featured-image: merge-sort-in-every-language.jpg
-last-modified: '2023-02-19'
+last-modified: 2023-02-27
 layout: default
+tags:
+- euphoria
+- merge-sort
 title: Merge Sort in Euphoria
 ---
 

@@ -1,8 +1,9 @@
 ---
 authors:
 - rzuckerm
+date: 2023-02-14
 featured-image: hello-world-in-euphoria.jpg
-last-modified: 2023-02-16
+last-modified: 2023-02-14
 layout: default
 tags:
 - euphoria

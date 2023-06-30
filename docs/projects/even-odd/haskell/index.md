@@ -1,8 +1,13 @@
 ---
-date: '2018-11-16'
+authors:
+- Parker Johansen
+date: 2018-11-16
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2018-11-16'
+last-modified: 2018-11-16
 layout: default
+tags:
+- even-odd
+- haskell
 title: Even Odd in Haskell
 ---
 

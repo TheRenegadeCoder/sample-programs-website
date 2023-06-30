@@ -1,8 +1,7 @@
 ---
-authors: null
-date: 2018-11-01
+date: 2018-10-16
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2023-04-18
 layout: default
 tags:
 - longest-common-subsequence

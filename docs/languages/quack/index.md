@@ -1,8 +1,10 @@
 ---
-date: '2018-06-15'
+date: 2018-06-15
 featured-image: programming-languages.jpg
-last-modified: '2018-06-15'
+last-modified: 2020-10-03
 layout: default
+tags:
+- quack
 title: The Quack Programming Language
 ---
 

@@ -1,10 +1,7 @@
 ---
-authors:
-- auroq
-- the_renegade_coder
-date: 2018-11-29
+date: 2018-12-02
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2022-05-18
+last-modified: 2023-02-19
 layout: default
 tags:
 - bubble-sort

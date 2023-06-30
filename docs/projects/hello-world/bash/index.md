@@ -1,8 +1,10 @@
 ---
 authors:
-- the_renegade_coder
+- Abdus
+- Jeremy Grifski
+date: 2018-05-09
 featured-image: hello-world-in-bash.jpg
-last-modified: 2020-05-02
+last-modified: 2018-05-09
 layout: default
 tags:
 - bash

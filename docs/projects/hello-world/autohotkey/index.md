@@ -1,8 +1,13 @@
 ---
-date: '2023-04-06'
+authors:
+- Jeremy Grifski
+date: 2023-04-06
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2023-04-06'
+last-modified: 2023-04-06
 layout: default
+tags:
+- autohotkey
+- hello-world
 title: Hello World in Autohotkey
 ---
 

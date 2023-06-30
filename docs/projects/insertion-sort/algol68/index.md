@@ -1,8 +1,13 @@
 ---
-date: '2023-01-29'
+authors:
+- rzuckerm
+date: 2023-01-29
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: '2023-01-29'
+last-modified: 2023-01-31
 layout: default
+tags:
+- algol68
+- insertion-sort
 title: Insertion Sort in Algol68
 ---
 

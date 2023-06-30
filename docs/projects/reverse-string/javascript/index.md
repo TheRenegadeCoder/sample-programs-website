@@ -1,8 +1,10 @@
 ---
 authors:
-- herrfugbaum
+- rzuckerm
+- Trever Shick
+date: 2018-05-06
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2023-03-19
 layout: default
 tags:
 - javascript

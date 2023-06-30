@@ -1,8 +1,13 @@
 ---
-date: '2020-10-03'
+authors:
+- Harshal Singh Raushan
+date: 2020-10-03
 featured-image: merge-sort-in-every-language.jpg
-last-modified: '2020-10-03'
+last-modified: 2020-10-03
 layout: default
+tags:
+- merge-sort
+- objective-c
 title: Merge Sort in Objective C
 ---
 

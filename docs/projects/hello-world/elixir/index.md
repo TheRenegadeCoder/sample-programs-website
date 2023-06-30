@@ -1,8 +1,9 @@
 ---
 authors:
-- the_renegade_coder
+- Jeremy Grifski
+date: 2019-10-15
 featured-image: hello-world-in-elixir.jpg
-last-modified: 2020-05-02
+last-modified: 2019-10-15
 layout: default
 tags:
 - elixir

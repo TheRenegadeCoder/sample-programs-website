@@ -1,8 +1,13 @@
 ---
-date: '2018-12-18'
+authors:
+- Parker Johansen
+date: 2018-12-18
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: '2018-12-18'
+last-modified: 2019-03-26
 layout: default
+tags:
+- haskell
+- insertion-sort
 title: Insertion Sort in Haskell
 ---
 

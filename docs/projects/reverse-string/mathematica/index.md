@@ -1,8 +1,13 @@
 ---
-date: '2023-01-16'
+authors:
+- Ben Hekster
+date: 2023-01-16
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2023-01-16'
+last-modified: 2023-01-16
 layout: default
+tags:
+- mathematica
+- reverse-string
 title: Reverse String in Mathematica
 ---
 

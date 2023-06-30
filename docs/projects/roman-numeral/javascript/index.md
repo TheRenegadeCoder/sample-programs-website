@@ -1,8 +1,13 @@
 ---
-date: '2019-10-11'
+authors:
+- Rani Kheir
+date: 2019-10-11
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: '2019-10-11'
+last-modified: 2019-10-12
 layout: default
+tags:
+- javascript
+- roman-numeral
 title: Roman Numeral in Javascript
 ---
 

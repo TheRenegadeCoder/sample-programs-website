@@ -1,8 +1,13 @@
 ---
-date: '2023-02-14'
+authors:
+- rzuckerm
+date: 2023-02-14
 featured-image: convex-hull-in-every-language.jpg
-last-modified: '2023-02-14'
+last-modified: 2023-02-14
 layout: default
+tags:
+- algol68
+- convex-hull
 title: Convex Hull in Algol68
 ---
 

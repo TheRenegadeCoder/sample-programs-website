@@ -1,8 +1,14 @@
 ---
-date: '2019-10-14'
+authors:
+- Bharath
+- "Gabriela Kandov\xE1"
+date: 2019-10-14
 featured-image: factorial-in-every-language.jpg
-last-modified: '2019-10-14'
+last-modified: 2019-10-16
 layout: default
+tags:
+- factorial
+- perl
 title: Factorial in Perl
 ---
 

@@ -1,8 +1,14 @@
 ---
-date: '2019-10-28'
+authors:
+- Jeremy Grifski
+- jketterer
+date: 2019-10-28
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: '2019-10-28'
+last-modified: 2020-10-15
 layout: default
+tags:
+- lua
+- roman-numeral
 title: Roman Numeral in Lua
 ---
 

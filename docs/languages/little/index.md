@@ -1,8 +1,10 @@
 ---
-date: '2018-08-23'
+date: 2018-08-23
 featured-image: programming-languages.jpg
-last-modified: '2018-08-23'
+last-modified: 2018-08-23
 layout: default
+tags:
+- little
 title: The Little Programming Language
 ---
 

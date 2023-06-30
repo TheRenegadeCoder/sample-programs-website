@@ -1,9 +1,7 @@
 ---
-authors:
-- auroq
-date: 2018-11-29
+date: 2018-12-02
 featured-image: selection-sort-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2023-04-06
 layout: default
 tags:
 - selection-sort

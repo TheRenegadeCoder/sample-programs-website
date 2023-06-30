@@ -1,8 +1,13 @@
 ---
-date: '2023-04-28'
+authors:
+- alope107
+date: 2023-04-28
 featured-image: sleep-sort-in-every-language.jpg
-last-modified: '2023-04-28'
+last-modified: 2023-04-28
 layout: default
+tags:
+- go
+- sleep-sort
 title: Sleep Sort in Go
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2019-03-17'
+authors:
+- Parker Johansen
+date: 2019-03-17
 featured-image: quick-sort-in-every-language.jpg
-last-modified: '2019-03-17'
+last-modified: 2019-03-25
 layout: default
+tags:
+- go
+- quick-sort
 title: Quick Sort in Go
 ---
 

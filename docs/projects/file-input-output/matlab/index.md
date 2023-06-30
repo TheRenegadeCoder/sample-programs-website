@@ -1,8 +1,13 @@
 ---
-date: '2020-10-02'
+authors:
+- iwishiwasaneagle
+date: 2020-10-02
 featured-image: file-input-output-in-every-language.jpg
-last-modified: '2020-10-02'
+last-modified: 2020-10-02
 layout: default
+tags:
+- file-input-output
+- matlab
 title: File Input Output in Matlab
 ---
 

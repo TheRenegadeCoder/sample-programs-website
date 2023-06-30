@@ -1,8 +1,13 @@
 ---
-date: '2021-10-29'
+authors:
+- Gagan Agarwal
+date: 2021-10-29
 featured-image: baklava-in-every-language.jpg
-last-modified: '2021-10-29'
+last-modified: 2021-10-29
 layout: default
+tags:
+- ada
+- baklava
 title: Baklava in Ada
 ---
 

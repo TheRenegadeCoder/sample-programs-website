@@ -1,8 +1,13 @@
 ---
-date: '2023-01-27'
+authors:
+- rzuckerm
+date: 2023-01-27
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: '2023-01-27'
+last-modified: 2023-01-30
 layout: default
+tags:
+- algol68
+- bubble-sort
 title: Bubble Sort in Algol68
 ---
 

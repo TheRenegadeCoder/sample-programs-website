@@ -1,8 +1,13 @@
 ---
-date: '2020-10-04'
+authors:
+- Jeng
+date: 2020-10-04
 featured-image: quine-in-every-language.jpg
-last-modified: '2020-10-04'
+last-modified: 2020-10-04
 layout: default
+tags:
+- coffeescript
+- quine
 title: Quine in Coffeescript
 ---
 

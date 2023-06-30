@@ -1,8 +1,13 @@
 ---
-date: '2018-03-25'
+authors:
+- Jeremy Griffith
+date: 2018-03-25
 featured-image: hello-world-in-swift.jpg
-last-modified: '2018-03-25'
+last-modified: 2018-03-25
 layout: default
+tags:
+- hello-world
+- swift
 title: Hello World in Swift
 ---
 

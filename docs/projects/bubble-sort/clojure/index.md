@@ -1,8 +1,14 @@
 ---
-date: '2019-10-02'
+authors:
+- Kateryna Tokar
+- "Tobias Schr\xF6der"
+date: 2019-10-02
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: '2019-10-02'
+last-modified: 2019-10-19
 layout: default
+tags:
+- bubble-sort
+- clojure
 title: Bubble Sort in Clojure
 ---
 

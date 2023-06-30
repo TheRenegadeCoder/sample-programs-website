@@ -1,8 +1,13 @@
 ---
-date: '2018-09-26'
+authors:
+- Noah Nichols
+date: 2018-09-26
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2018-09-26'
+last-modified: 2018-09-26
 layout: default
+tags:
+- crystal
+- fizz-buzz
 title: Fizz Buzz in Crystal
 ---
 

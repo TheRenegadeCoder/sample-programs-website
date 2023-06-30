@@ -1,8 +1,13 @@
 ---
-date: '2018-04-27'
+authors:
+- Jeremy Grifski
+date: 2018-04-27
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-04-27'
+last-modified: 2018-04-27
 layout: default
+tags:
+- eve
+- hello-world
 title: Hello World in Eve
 ---
 

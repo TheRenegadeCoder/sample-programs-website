@@ -1,8 +1,13 @@
 ---
-date: '2023-01-18'
+authors:
+- rzuckerm
+date: 2023-01-18
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2023-01-18'
+last-modified: 2023-01-21
 layout: default
+tags:
+- algol68
+- fizz-buzz
 title: Fizz Buzz in Algol68
 ---
 

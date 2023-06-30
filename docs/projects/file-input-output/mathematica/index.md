@@ -1,8 +1,13 @@
 ---
-date: '2023-01-21'
+authors:
+- Ben Hekster
+date: 2023-01-21
 featured-image: file-input-output-in-every-language.jpg
-last-modified: '2023-01-21'
+last-modified: 2023-01-21
 layout: default
+tags:
+- file-input-output
+- mathematica
 title: File Input Output in Mathematica
 ---
 

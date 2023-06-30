@@ -1,8 +1,13 @@
 ---
-date: '2023-05-04'
+authors:
+- alope107
+date: 2023-05-04
 featured-image: baklava-in-every-language.jpg
-last-modified: '2023-05-04'
+last-modified: 2023-05-04
 layout: default
+tags:
+- baklava
+- x86-64
 title: Baklava in X86 64
 ---
 

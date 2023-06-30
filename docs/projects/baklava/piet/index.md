@@ -1,13 +1,13 @@
 ---
 authors:
 - rzuckerm
-date: &id001 2023-04-30
+date: 2023-04-30
 featured-image: baklava-in-piet.jpg
-last-modified: *id001
+last-modified: 2023-04-30
 layout: default
 tags:
-- piet
 - baklava
+- piet
 title: Baklava in Piet
 ---
 

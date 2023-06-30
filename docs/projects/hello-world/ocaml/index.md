@@ -1,8 +1,13 @@
 ---
-date: '2018-10-17'
+authors:
+- Jeremy Grifski
+date: 2018-10-17
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-10-17'
+last-modified: 2018-10-17
 layout: default
+tags:
+- hello-world
+- ocaml
 title: Hello World in Ocaml
 ---
 

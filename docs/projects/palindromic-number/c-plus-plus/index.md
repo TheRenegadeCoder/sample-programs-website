@@ -1,8 +1,15 @@
 ---
-date: '2021-11-01'
+authors:
+- Jeremy Grifski
+- rzuckerm
+- smjalageri
+date: 2021-11-01
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: '2021-11-01'
+last-modified: 2023-03-30
 layout: default
+tags:
+- c-plus-plus
+- palindromic-number
 title: Palindromic Number in C++
 ---
 

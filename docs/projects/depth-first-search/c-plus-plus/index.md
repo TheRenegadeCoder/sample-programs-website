@@ -1,8 +1,14 @@
 ---
-date: '2022-10-03'
+authors:
+- Ajay Maheshwari
+- Jeremy Grifski
+date: 2022-10-03
 featured-image: depth-first-search-in-every-language.jpg
-last-modified: '2022-10-03'
+last-modified: 2022-10-10
 layout: default
+tags:
+- c-plus-plus
+- depth-first-search
 title: Depth First Search in C++
 ---
 

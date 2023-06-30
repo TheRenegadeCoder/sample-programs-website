@@ -1,8 +1,9 @@
 ---
 authors:
-- the_renegade_coder
+- Jeremy Griffith
+date: 2018-04-12
 featured-image: reverse-string-in-python.jpg
-last-modified: 2020-05-02
+last-modified: 2018-04-12
 layout: default
 tags:
 - python

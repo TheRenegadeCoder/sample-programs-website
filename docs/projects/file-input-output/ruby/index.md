@@ -1,12 +1,13 @@
 ---
 authors:
-- noah11012
+- Noah
+date: 2018-09-13
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2018-09-13
 layout: default
 tags:
-- ruby
 - file-input-output
+- ruby
 title: File Input Output in Ruby
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2019-10-31'
+authors:
+- Mallikarjuna S J
+date: 2019-10-31
 featured-image: prime-number-in-every-language.jpg
-last-modified: '2019-10-31'
+last-modified: 2019-11-05
 layout: default
+tags:
+- perl
+- prime-number
 title: Prime Number in Perl
 ---
 

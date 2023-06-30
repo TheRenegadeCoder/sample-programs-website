@@ -1,8 +1,9 @@
 ---
 authors:
-- stargator
+- Jeremy Grifski
+date: 2018-06-21
 featured-image: hello-world-in-dart.jpg
-last-modified: 2020-10-15
+last-modified: 2018-06-21
 layout: default
 tags:
 - dart

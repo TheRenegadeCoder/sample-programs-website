@@ -1,8 +1,13 @@
 ---
-date: '2023-01-21'
+authors:
+- Ben Hekster
+date: 2023-01-21
 featured-image: fraction-math-in-every-language.jpg
-last-modified: '2023-01-21'
+last-modified: 2023-01-21
 layout: default
+tags:
+- fraction-math
+- mathematica
 title: Fraction Math in Mathematica
 ---
 

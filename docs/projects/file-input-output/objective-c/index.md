@@ -1,8 +1,13 @@
 ---
-date: '2020-10-04'
+authors:
+- Cristiano Lopes
+date: 2020-10-04
 featured-image: file-input-output-in-every-language.jpg
-last-modified: '2020-10-04'
+last-modified: 2020-10-04
 layout: default
+tags:
+- file-input-output
+- objective-c
 title: File Input Output in Objective C
 ---
 

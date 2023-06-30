@@ -1,8 +1,10 @@
 ---
-date: '2019-11-01'
+date: 2019-11-01
 featured-image: programming-languages.jpg
-last-modified: '2019-11-01'
+last-modified: 2019-11-01
 layout: default
+tags:
+- gerbil
 title: The Gerbil Programming Language
 ---
 

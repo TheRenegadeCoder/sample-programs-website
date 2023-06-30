@@ -1,8 +1,14 @@
 ---
-date: '2019-10-21'
+authors:
+- Jeremy Grifski
+- Sailok Chinta
+date: 2019-10-21
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: '2019-10-21'
+last-modified: 2022-10-10
 layout: default
+tags:
+- c-plus-plus
+- roman-numeral
 title: Roman Numeral in C++
 ---
 

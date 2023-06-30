@@ -1,8 +1,13 @@
 ---
-date: '2023-01-20'
+authors:
+- rzuckerm
+date: 2023-01-20
 featured-image: file-input-output-in-every-language.jpg
-last-modified: '2023-01-20'
+last-modified: 2023-01-31
 layout: default
+tags:
+- algol68
+- file-input-output
 title: File Input Output in Algol68
 ---
 

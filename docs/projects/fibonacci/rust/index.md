@@ -1,8 +1,14 @@
 ---
-date: '2018-10-05'
+authors:
+- Noah Nichols
+- rzuckerm
+date: 2018-10-05
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2018-10-05'
+last-modified: 2023-05-08
 layout: default
+tags:
+- fibonacci
+- rust
 title: Fibonacci in Rust
 ---
 

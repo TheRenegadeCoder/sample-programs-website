@@ -1,8 +1,14 @@
 ---
-date: '2019-10-31'
+authors:
+- Mallikarjuna S J
+- rzuckerm
+date: 2019-10-31
 featured-image: factorial-in-every-language.jpg
-last-modified: '2019-10-31'
+last-modified: 2023-05-08
 layout: default
+tags:
+- factorial
+- rust
 title: Factorial in Rust
 ---
 

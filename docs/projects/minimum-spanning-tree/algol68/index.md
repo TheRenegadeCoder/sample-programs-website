@@ -1,8 +1,13 @@
 ---
-date: '2023-02-06'
+authors:
+- rzuckerm
+date: 2023-02-06
 featured-image: minimum-spanning-tree-in-every-language.jpg
-last-modified: '2023-02-06'
+last-modified: 2023-02-06
 layout: default
+tags:
+- algol68
+- minimum-spanning-tree
 title: Minimum Spanning Tree in Algol68
 ---
 

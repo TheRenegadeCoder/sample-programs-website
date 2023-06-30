@@ -1,8 +1,10 @@
 ---
-date: '2018-11-21'
+date: 2018-11-21
 featured-image: programming-languages.jpg
-last-modified: '2018-11-21'
+last-modified: 2018-11-21
 layout: default
+tags:
+- idris
 title: The Idris Programming Language
 ---
 

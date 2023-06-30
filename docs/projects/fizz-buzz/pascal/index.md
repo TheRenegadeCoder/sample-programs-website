@@ -1,8 +1,13 @@
 ---
-date: '2018-10-11'
+authors:
+- "Eduardo Rodr\xEDguez"
+date: 2018-10-11
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2018-10-11'
+last-modified: 2018-10-11
 layout: default
+tags:
+- fizz-buzz
+- pascal
 title: Fizz Buzz in Pascal
 ---
 

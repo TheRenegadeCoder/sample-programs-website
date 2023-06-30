@@ -1,8 +1,13 @@
 ---
-date: '2023-01-19'
+authors:
+- Ben Hekster
+date: 2023-01-19
 featured-image: quick-sort-in-every-language.jpg
-last-modified: '2023-01-19'
+last-modified: 2023-01-19
 layout: default
+tags:
+- mathematica
+- quick-sort
 title: Quick Sort in Mathematica
 ---
 

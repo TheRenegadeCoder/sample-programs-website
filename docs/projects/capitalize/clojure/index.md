@@ -1,8 +1,14 @@
 ---
-date: '2019-10-10'
+authors:
+- Jeremy Grifski
+- pablocostass
+date: 2019-10-10
 featured-image: capitalize-in-every-language.jpg
-last-modified: '2019-10-10'
+last-modified: 2019-10-26
 layout: default
+tags:
+- capitalize
+- clojure
 title: Capitalize in Clojure
 ---
 

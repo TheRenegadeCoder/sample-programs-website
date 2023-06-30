@@ -1,12 +1,13 @@
 ---
 authors:
-- ShivaniThevar
+- Jeremy Griffith
+date: 2018-04-19
 featured-image: hello-world-in-rexx.jpg
-last-modified: 2021-10-13
+last-modified: 2018-04-19
 layout: default
 tags:
-- rexx
 - hello-world
+- rexx
 title: Hello World in Rexx
 ---
 

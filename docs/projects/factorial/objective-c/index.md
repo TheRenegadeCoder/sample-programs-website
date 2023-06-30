@@ -1,8 +1,13 @@
 ---
-date: '2020-10-01'
+authors:
+- niftycode
+date: 2020-10-01
 featured-image: factorial-in-every-language.jpg
-last-modified: '2020-10-01'
+last-modified: 2020-10-01
 layout: default
+tags:
+- factorial
+- objective-c
 title: Factorial in Objective C
 ---
 

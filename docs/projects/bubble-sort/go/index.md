@@ -1,12 +1,13 @@
 ---
 authors:
-- bracciata
+- Parker Johansen
+date: 2019-03-05
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2020-09-30
+last-modified: 2019-03-25
 layout: default
 tags:
-- go
 - bubble-sort
+- go
 title: Bubble Sort in Go
 ---
 

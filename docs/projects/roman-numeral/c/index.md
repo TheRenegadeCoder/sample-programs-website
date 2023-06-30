@@ -1,9 +1,9 @@
 ---
 authors:
-- shubhragupta-code
-date: 2021-10-27
+- LezendarySandwich
+date: 2019-10-20
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: 2021-10-27
+last-modified: 2019-10-20
 layout: default
 tags:
 - c

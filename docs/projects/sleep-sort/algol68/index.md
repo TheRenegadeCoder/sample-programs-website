@@ -1,8 +1,13 @@
 ---
-date: '2023-02-14'
+authors:
+- rzuckerm
+date: 2023-02-14
 featured-image: sleep-sort-in-every-language.jpg
-last-modified: '2023-02-14'
+last-modified: 2023-02-25
 layout: default
+tags:
+- algol68
+- sleep-sort
 title: Sleep Sort in Algol68
 ---
 

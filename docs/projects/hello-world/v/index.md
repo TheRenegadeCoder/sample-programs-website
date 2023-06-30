@@ -1,8 +1,13 @@
 ---
-date: '2023-06-17'
+authors:
+- ToyireuDev
+date: 2023-06-17
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2023-06-17'
+last-modified: 2023-06-17
 layout: default
+tags:
+- hello-world
+- v
 title: Hello World in V
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2023-02-15'
+authors:
+- rzuckerm
+date: 2023-02-15
 featured-image: quine-in-every-language.jpg
-last-modified: '2023-02-15'
+last-modified: 2023-02-15
 layout: default
+tags:
+- euphoria
+- quine
 title: Quine in Euphoria
 ---
 

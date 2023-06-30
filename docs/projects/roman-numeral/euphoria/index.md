@@ -1,8 +1,13 @@
 ---
-date: '2023-02-25'
+authors:
+- rzuckerm
+date: 2023-02-25
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: '2023-02-25'
+last-modified: 2023-02-25
 layout: default
+tags:
+- euphoria
+- roman-numeral
 title: Roman Numeral in Euphoria
 ---
 

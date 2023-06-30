@@ -1,8 +1,13 @@
 ---
-date: '2023-04-25'
+authors:
+- alope107
+date: 2023-04-25
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2023-04-25'
+last-modified: 2023-04-25
 layout: default
+tags:
+- hello-world
+- piet
 title: Hello World in Piet
 ---
 

@@ -1,9 +1,7 @@
 ---
-authors:
-- DedAvocado
-date: 2020-10-08
+date: 2022-05-13
 featured-image: transpose-matrix-in-every-language.jpg
-last-modified: 2021-10-06
+last-modified: 2023-04-17
 layout: default
 tags:
 - transpose-matrix

@@ -1,9 +1,7 @@
 ---
-authors:
-- rzuckerm
-date: 2023-02-12
+date: 2023-02-14
 featured-image: programming-languages.jpg
-last-modified: 2023-02-12
+last-modified: 2023-02-28
 layout: default
 tags:
 - euphoria

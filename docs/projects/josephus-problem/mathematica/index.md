@@ -1,8 +1,13 @@
 ---
-date: '2023-01-20'
+authors:
+- Ben Hekster
+date: 2023-01-20
 featured-image: josephus-problem-in-every-language.jpg
-last-modified: '2023-01-20'
+last-modified: 2023-01-20
 layout: default
+tags:
+- josephus-problem
+- mathematica
 title: Josephus Problem in Mathematica
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2019-10-16'
+authors:
+- "Gabriela Kandov\xE1"
+date: 2019-10-16
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2019-10-16'
+last-modified: 2019-10-16
 layout: default
+tags:
+- even-odd
+- perl
 title: Even Odd in Perl
 ---
 

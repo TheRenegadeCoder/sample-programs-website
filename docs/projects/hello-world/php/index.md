@@ -1,8 +1,13 @@
 ---
-date: '2018-03-31'
+authors:
+- Jeremy Griffith
+date: 2018-03-31
 featured-image: hello-world-in-php.jpg
-last-modified: '2018-03-31'
+last-modified: 2018-03-31
 layout: default
+tags:
+- hello-world
+- php
 title: Hello World in Php
 ---
 

@@ -1,12 +1,14 @@
 ---
 authors:
-- niftycode
+- Noah Nichols
+- Vincent Caron
+date: 2018-09-24
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2021-12-11
+last-modified: 2019-07-12
 layout: default
 tags:
-- rust
 - fizz-buzz
+- rust
 title: Fizz Buzz in Rust
 ---
 

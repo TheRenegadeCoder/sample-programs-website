@@ -1,8 +1,13 @@
 ---
-date: '2021-08-12'
+authors:
+- Jeremy Grifski
+date: 2021-08-12
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2021-08-12'
+last-modified: 2021-08-12
 layout: default
+tags:
+- haxe
+- hello-world
 title: Hello World in Haxe
 ---
 

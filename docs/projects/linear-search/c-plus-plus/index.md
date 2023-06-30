@@ -1,8 +1,15 @@
 ---
-date: '2022-10-03'
+authors:
+- Jeremy Grifski
+- rzuckerm
+- Vipin Yadav
+date: 2022-10-03
 featured-image: linear-search-in-every-language.jpg
-last-modified: '2022-10-03'
+last-modified: 2023-01-29
 layout: default
+tags:
+- c-plus-plus
+- linear-search
 title: Linear Search in C++
 ---
 

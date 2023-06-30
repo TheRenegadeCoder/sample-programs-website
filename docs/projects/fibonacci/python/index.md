@@ -1,12 +1,14 @@
 ---
 authors:
-- shubhragupta-code
+- Marius
+- Parker Johansen
+date: 2018-10-06
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2020-10-13
+last-modified: 2019-04-07
 layout: default
 tags:
-- python
 - fibonacci
+- python
 title: Fibonacci in Python
 ---
 

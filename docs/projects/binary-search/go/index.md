@@ -1,8 +1,13 @@
 ---
-date: '2019-10-24'
+authors:
+- Parker Johansen
+date: 2019-10-24
 featured-image: binary-search-in-every-language.jpg
-last-modified: '2019-10-24'
+last-modified: 2019-10-24
 layout: default
+tags:
+- binary-search
+- go
 title: Binary Search in Go
 ---
 

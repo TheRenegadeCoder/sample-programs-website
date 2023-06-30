@@ -1,8 +1,13 @@
 ---
-date: '2023-01-18'
+authors:
+- rzuckerm
+date: 2023-01-18
 featured-image: baklava-in-every-language.jpg
-last-modified: '2023-01-18'
+last-modified: 2023-01-18
 layout: default
+tags:
+- algol68
+- baklava
 title: Baklava in Algol68
 ---
 

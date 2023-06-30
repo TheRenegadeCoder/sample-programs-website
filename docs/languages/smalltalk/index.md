@@ -1,8 +1,10 @@
 ---
-date: '2018-04-26'
+date: 2018-04-26
 featured-image: programming-languages.jpg
-last-modified: '2018-04-26'
+last-modified: 2018-04-26
 layout: default
+tags:
+- smalltalk
 title: The Smalltalk Programming Language
 ---
 

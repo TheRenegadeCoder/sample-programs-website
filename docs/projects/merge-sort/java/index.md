@@ -1,8 +1,14 @@
 ---
-date: '2019-10-17'
+authors:
+- Jeremy Grifski
+- Shubham Raj
+date: 2019-10-17
 featured-image: merge-sort-in-every-language.jpg
-last-modified: '2019-10-17'
+last-modified: 2022-10-10
 layout: default
+tags:
+- java
+- merge-sort
 title: Merge Sort in Java
 ---
 

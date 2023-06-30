@@ -1,8 +1,13 @@
 ---
-date: '2023-03-24'
+authors:
+- rzuckerm
+date: 2023-03-24
 featured-image: linear-search-in-every-language.jpg
-last-modified: '2023-03-24'
+last-modified: 2023-03-24
 layout: default
+tags:
+- linear-search
+- php
 title: Linear Search in Php
 ---
 

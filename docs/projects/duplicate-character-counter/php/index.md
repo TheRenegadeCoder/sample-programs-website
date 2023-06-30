@@ -1,8 +1,13 @@
 ---
-date: '2023-03-22'
+authors:
+- rzuckerm
+date: 2023-03-22
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: '2023-03-22'
+last-modified: 2023-03-22
 layout: default
+tags:
+- duplicate-character-counter
+- php
 title: Duplicate Character Counter in Php
 ---
 

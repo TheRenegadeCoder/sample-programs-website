@@ -1,8 +1,14 @@
 ---
-date: '2018-10-18'
+authors:
+- Blake.Ke
+- Erik Nelson
+date: 2018-10-18
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2018-10-18'
+last-modified: 2020-10-09
 layout: default
+tags:
+- fibonacci
+- kotlin
 title: Fibonacci in Kotlin
 ---
 

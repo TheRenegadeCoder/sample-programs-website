@@ -1,8 +1,13 @@
 ---
-date: '2023-01-21'
+authors:
+- rzuckerm
+date: 2023-01-21
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2023-01-21'
+last-modified: 2023-01-31
 layout: default
+tags:
+- algol68
+- fibonacci
 title: Fibonacci in Algol68
 ---
 

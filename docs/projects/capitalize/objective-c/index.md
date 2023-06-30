@@ -1,8 +1,13 @@
 ---
-date: '2020-10-03'
+authors:
+- Cristiano Lopes
+date: 2020-10-03
 featured-image: capitalize-in-every-language.jpg
-last-modified: '2020-10-03'
+last-modified: 2020-10-03
 layout: default
+tags:
+- capitalize
+- objective-c
 title: Capitalize in Objective C
 ---
 

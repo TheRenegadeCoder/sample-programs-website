@@ -1,12 +1,13 @@
 ---
 authors:
-- the_renegade_coder
+- Jeremy Griffith
+date: 2018-04-11
 featured-image: hello-world-in-julia.jpg
-last-modified: 2020-05-02
+last-modified: 2018-04-11
 layout: default
 tags:
-- julia
 - hello-world
+- julia
 title: Hello World in Julia
 ---
 

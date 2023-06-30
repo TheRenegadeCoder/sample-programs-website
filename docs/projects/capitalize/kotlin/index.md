@@ -1,8 +1,14 @@
 ---
-date: '2019-10-11'
+authors:
+- Blake.Ke
+- Saurabh
+date: 2019-10-11
 featured-image: capitalize-in-every-language.jpg
-last-modified: '2019-10-11'
+last-modified: 2020-10-08
 layout: default
+tags:
+- capitalize
+- kotlin
 title: Capitalize in Kotlin
 ---
 

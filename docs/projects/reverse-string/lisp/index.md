@@ -1,8 +1,14 @@
 ---
-date: '2020-10-11'
+authors:
+- Parker Johansen
+- rzuckerm
+date: 2020-10-11
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2020-10-11'
+last-modified: 2023-03-19
 layout: default
+tags:
+- lisp
+- reverse-string
 title: Reverse String in Lisp
 ---
 

@@ -1,9 +1,7 @@
 ---
-authors:
-- belide_aakash
-date: 2020-10-06
+date: 2021-10-08
 featured-image: josephus-problem-in-every-language.jpg
-last-modified: 2020-10-06
+last-modified: 2023-04-09
 layout: default
 tags:
 - josephus-problem

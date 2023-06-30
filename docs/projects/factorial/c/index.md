@@ -1,8 +1,14 @@
 ---
-date: '2018-10-26'
+authors:
+- Bharath
+- clarkimusmax
+date: 2018-10-26
 featured-image: factorial-in-every-language.jpg
-last-modified: '2018-10-26'
+last-modified: 2019-10-16
 layout: default
+tags:
+- c
+- factorial
 title: Factorial in C
 ---
 

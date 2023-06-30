@@ -1,8 +1,13 @@
 ---
-date: '2023-02-27'
+authors:
+- rzuckerm
+date: 2023-02-27
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: '2023-02-27'
+last-modified: 2023-02-27
 layout: default
+tags:
+- euphoria
+- longest-common-subsequence
 title: Longest Common Subsequence in Euphoria
 ---
 

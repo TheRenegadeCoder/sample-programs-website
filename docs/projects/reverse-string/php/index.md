@@ -1,8 +1,14 @@
 ---
-date: '2019-07-15'
+authors:
+- rzuckerm
+- samgan-khan
+date: 2019-07-15
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2019-07-15'
+last-modified: 2023-03-19
 layout: default
+tags:
+- php
+- reverse-string
 title: Reverse String in Php
 ---
 

@@ -1,9 +1,7 @@
 ---
-authors:
-- bassem_mohamed
-date: 2020-05-02
+date: 2023-05-14
 featured-image: programming-languages.jpg
-last-modified: 2022-05-18
+last-modified: 2023-05-14
 layout: default
 tags:
 - koka

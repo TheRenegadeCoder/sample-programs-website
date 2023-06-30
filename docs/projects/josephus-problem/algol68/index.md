@@ -1,8 +1,13 @@
 ---
-date: '2023-01-24'
+authors:
+- rzuckerm
+date: 2023-01-24
 featured-image: josephus-problem-in-every-language.jpg
-last-modified: '2023-01-24'
+last-modified: 2023-01-31
 layout: default
+tags:
+- algol68
+- josephus-problem
 title: Josephus Problem in Algol68
 ---
 

@@ -1,12 +1,13 @@
 ---
 authors:
-- stuin
+- Jeremy Grifski
+date: 2018-09-08
 featured-image: fizz-buzz-in-java.jpg
-last-modified: 2020-05-02
+last-modified: 2022-10-10
 layout: default
 tags:
-- java
 - fizz-buzz
+- java
 title: Fizz Buzz in Java
 ---
 

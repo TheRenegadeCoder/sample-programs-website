@@ -1,12 +1,14 @@
 ---
 authors:
-- hmajid2301
+- Haseeb Majid
+- Parker Johansen
+date: 2018-12-23
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2019-05-02
 layout: default
 tags:
-- python
 - prime-number
+- python
 title: Prime Number in Python
 ---
 

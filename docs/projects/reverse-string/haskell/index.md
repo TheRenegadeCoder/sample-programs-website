@@ -1,8 +1,14 @@
 ---
-date: '2018-10-17'
+authors:
+- Panagiotis Georgiadis
+- rzuckerm
+date: 2018-10-17
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2018-10-17'
+last-modified: 2023-03-19
 layout: default
+tags:
+- haskell
+- reverse-string
 title: Reverse String in Haskell
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2018-07-05'
+authors:
+- Abhinav Keshav
+date: 2018-07-05
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-07-05'
+last-modified: 2018-07-05
 layout: default
+tags:
+- clipper
+- hello-world
 title: Hello World in Clipper
 ---
 

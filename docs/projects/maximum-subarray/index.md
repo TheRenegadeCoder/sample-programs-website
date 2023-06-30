@@ -1,9 +1,7 @@
 ---
-authors:
-- Senpai1199
-date: 2020-10-06
+date: 2020-11-03
 featured-image: maximum-subarray-in-every-language.jpg
-last-modified: 2020-10-14
+last-modified: 2023-04-09
 layout: default
 tags:
 - maximum-subarray

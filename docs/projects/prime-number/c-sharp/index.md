@@ -1,8 +1,13 @@
 ---
-date: '2018-12-30'
+authors:
+- Parker Johansen
+date: 2018-12-30
 featured-image: prime-number-in-every-language.jpg
-last-modified: '2018-12-30'
+last-modified: 2019-05-02
 layout: default
+tags:
+- c-sharp
+- prime-number
 title: Prime Number in C#
 ---
 

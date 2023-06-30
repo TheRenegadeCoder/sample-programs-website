@@ -1,8 +1,14 @@
 ---
-date: '2020-10-03'
+authors:
+- Andrew Johnson
+- rzuckerm
+date: 2020-10-03
 featured-image: merge-sort-in-every-language.jpg
-last-modified: '2020-10-03'
+last-modified: 2023-05-08
 layout: default
+tags:
+- merge-sort
+- rust
 title: Merge Sort in Rust
 ---
 

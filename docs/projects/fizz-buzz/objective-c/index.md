@@ -1,8 +1,13 @@
 ---
-date: '2019-10-16'
+authors:
+- Juan D Frias
+date: 2019-10-16
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2019-10-16'
+last-modified: 2019-10-16
 layout: default
+tags:
+- fizz-buzz
+- objective-c
 title: Fizz Buzz in Objective C
 ---
 

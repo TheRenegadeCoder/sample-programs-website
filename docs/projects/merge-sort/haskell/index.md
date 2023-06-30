@@ -1,8 +1,13 @@
 ---
-date: '2018-12-03'
+authors:
+- Parker Johansen
+date: 2018-12-03
 featured-image: merge-sort-in-every-language.jpg
-last-modified: '2018-12-03'
+last-modified: 2019-03-26
 layout: default
+tags:
+- haskell
+- merge-sort
 title: Merge Sort in Haskell
 ---
 

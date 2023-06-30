@@ -1,8 +1,14 @@
 ---
-date: '2019-10-05'
+authors:
+- Ganesh Naik
+- Jayden Thrasher
+date: 2019-10-05
 featured-image: prime-number-in-every-language.jpg
-last-modified: '2019-10-05'
+last-modified: 2020-10-03
 layout: default
+tags:
+- javascript
+- prime-number
 title: Prime Number in Javascript
 ---
 

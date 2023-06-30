@@ -1,8 +1,13 @@
 ---
-date: '2020-10-10'
+authors:
+- Parker Johansen
+date: 2020-10-10
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2020-10-10'
+last-modified: 2020-10-11
 layout: default
+tags:
+- fibonacci
+- lisp
 title: Fibonacci in Lisp
 ---
 

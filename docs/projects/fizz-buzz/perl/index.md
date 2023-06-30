@@ -1,8 +1,14 @@
 ---
-date: '2018-10-12'
+authors:
+- Chris Thomas
+- Jeremy Grifski
+date: 2018-10-12
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2018-10-12'
+last-modified: 2019-03-25
 layout: default
+tags:
+- fizz-buzz
+- perl
 title: Fizz Buzz in Perl
 ---
 

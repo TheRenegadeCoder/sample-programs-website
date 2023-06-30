@@ -1,8 +1,14 @@
 ---
-date: '2018-10-02'
+authors:
+- Marius
+- Parker Johansen
+date: 2018-10-02
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2018-10-02'
+last-modified: 2019-04-07
 layout: default
+tags:
+- c-sharp
+- fibonacci
 title: Fibonacci in C#
 ---
 

@@ -1,8 +1,14 @@
 ---
-date: '2021-10-05'
+authors:
+- Jeremy Grifski
+- Tanisha Banik
+date: 2021-10-05
 featured-image: maximum-array-rotation-in-every-language.jpg
-last-modified: '2021-10-05'
+last-modified: 2022-05-10
 layout: default
+tags:
+- maximum-array-rotation
+- python
 title: Maximum Array Rotation in Python
 ---
 

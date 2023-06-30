@@ -1,8 +1,13 @@
 ---
-date: '2023-02-19'
+authors:
+- rzuckerm
+date: 2023-02-19
 featured-image: selection-sort-in-every-language.jpg
-last-modified: '2023-02-19'
+last-modified: 2023-02-26
 layout: default
+tags:
+- euphoria
+- selection-sort
 title: Selection Sort in Euphoria
 ---
 

@@ -1,8 +1,10 @@
 ---
 authors:
-- the_renegade_coder
+- Jeremy Griffith
+- Jeremy Grifski
+date: 2018-03-21
 featured-image: hello-world-in-c-plus-plus.jpg
-last-modified: 2020-05-02
+last-modified: 2022-10-10
 layout: default
 tags:
 - c-plus-plus

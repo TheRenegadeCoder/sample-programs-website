@@ -1,8 +1,13 @@
 ---
-date: '2020-10-26'
+authors:
+- asharma13524
+date: 2020-10-26
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2020-10-26'
+last-modified: 2020-10-26
 layout: default
+tags:
+- astro
+- hello-world
 title: Hello World in Astro
 ---
 

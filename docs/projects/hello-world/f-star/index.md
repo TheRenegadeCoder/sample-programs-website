@@ -1,8 +1,13 @@
 ---
-date: '2021-05-24'
+authors:
+- Jeremy Grifski
+date: 2021-05-24
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2021-05-24'
+last-modified: 2021-05-24
 layout: default
+tags:
+- f-star
+- hello-world
 title: Hello World in F\*
 ---
 

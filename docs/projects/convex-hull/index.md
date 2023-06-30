@@ -1,9 +1,7 @@
 ---
-authors:
-- the_renegade_coder
-date: 2018-11-01
+date: 2019-10-22
 featured-image: convex-hull-in-every-language.jpg
-last-modified: 2022-05-18
+last-modified: 2023-04-22
 layout: default
 tags:
 - convex-hull

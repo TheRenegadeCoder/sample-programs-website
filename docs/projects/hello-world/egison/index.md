@@ -1,8 +1,13 @@
 ---
-date: '2018-10-24'
+authors:
+- "Vin\xEDcius Alencar"
+date: 2018-10-24
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-10-24'
+last-modified: 2018-10-24
 layout: default
+tags:
+- egison
+- hello-world
 title: Hello World in Egison
 ---
 

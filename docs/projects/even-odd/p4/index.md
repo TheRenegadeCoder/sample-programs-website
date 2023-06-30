@@ -1,8 +1,13 @@
 ---
-date: '2020-10-07'
+authors:
+- "Fabricio Rodr\xEDguez"
+date: 2020-10-07
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2020-10-07'
+last-modified: 2020-10-07
 layout: default
+tags:
+- even-odd
+- p4
 title: Even Odd in P4
 ---
 

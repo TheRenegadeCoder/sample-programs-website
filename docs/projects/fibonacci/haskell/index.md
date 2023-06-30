@@ -1,8 +1,14 @@
 ---
-date: '2018-10-15'
+authors:
+- Panagiotis Georgiadis
+- Parker Johansen
+date: 2018-10-15
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2018-10-15'
+last-modified: 2019-04-07
 layout: default
+tags:
+- fibonacci
+- haskell
 title: Fibonacci in Haskell
 ---
 

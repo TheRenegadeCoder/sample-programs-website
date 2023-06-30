@@ -1,8 +1,15 @@
 ---
-date: '2020-10-05'
+authors:
+- Ashish Aggarwal
+- Jeremy Grifski
+- rzuckerm
+date: 2020-10-05
 featured-image: linear-search-in-every-language.jpg
-last-modified: '2020-10-05'
+last-modified: 2023-01-29
 layout: default
+tags:
+- java
+- linear-search
 title: Linear Search in Java
 ---
 

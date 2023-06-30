@@ -1,10 +1,7 @@
 ---
-authors:
-- agasheaditya
-- the_renegade_coder
-date: 2020-10-28
+date: 2021-10-05
 featured-image: maximum-array-rotation-in-every-language.jpg
-last-modified: 2020-10-28
+last-modified: 2023-04-09
 layout: default
 tags:
 - maximum-array-rotation

@@ -1,8 +1,13 @@
 ---
-date: '2022-05-16'
+authors:
+- Jeremy Grifski
+date: 2022-05-16
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: '2022-05-16'
+last-modified: 2022-05-16
 layout: default
+tags:
+- java
+- longest-common-subsequence
 title: Longest Common Subsequence in Java
 ---
 

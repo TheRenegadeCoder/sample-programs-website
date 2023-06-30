@@ -1,8 +1,13 @@
 ---
-date: '2023-03-21'
+authors:
+- rzuckerm
+date: 2023-03-21
 featured-image: depth-first-search-in-every-language.jpg
-last-modified: '2023-03-21'
+last-modified: 2023-03-27
 layout: default
+tags:
+- depth-first-search
+- php
 title: Depth First Search in Php
 ---
 

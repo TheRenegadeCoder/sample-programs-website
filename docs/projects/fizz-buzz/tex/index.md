@@ -1,8 +1,13 @@
 ---
-date: '2018-09-04'
+authors:
+- "Christoph B\xF6hmwalder"
+date: 2018-09-04
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2018-09-04'
+last-modified: 2018-09-04
 layout: default
+tags:
+- fizz-buzz
+- tex
 title: Fizz Buzz in Tex
 ---
 

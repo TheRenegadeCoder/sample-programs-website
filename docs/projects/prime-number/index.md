@@ -1,9 +1,7 @@
 ---
-authors:
-- the_renegade_coder
-date: 2018-11-01
+date: 2018-11-16
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2023-02-19
 layout: default
 tags:
 - prime-number

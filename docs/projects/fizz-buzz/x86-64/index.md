@@ -1,8 +1,13 @@
 ---
-date: '2023-05-05'
+authors:
+- alope107
+date: 2023-05-05
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2023-05-05'
+last-modified: 2023-05-05
 layout: default
+tags:
+- fizz-buzz
+- x86-64
 title: Fizz Buzz in X86 64
 ---
 

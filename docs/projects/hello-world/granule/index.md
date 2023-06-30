@@ -1,8 +1,13 @@
 ---
-date: '2022-12-06'
+authors:
+- Dominic Orchard
+date: 2022-12-06
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2022-12-06'
+last-modified: 2022-12-06
 layout: default
+tags:
+- granule
+- hello-world
 title: Hello World in Granule
 ---
 

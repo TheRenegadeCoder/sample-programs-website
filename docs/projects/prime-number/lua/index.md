@@ -1,8 +1,14 @@
 ---
-date: '2019-10-27'
+authors:
+- bhaskar_datta
+- Jeremy Grifski
+date: 2019-10-27
 featured-image: prime-number-in-every-language.jpg
-last-modified: '2019-10-27'
+last-modified: 2020-10-15
 layout: default
+tags:
+- lua
+- prime-number
 title: Prime Number in Lua
 ---
 

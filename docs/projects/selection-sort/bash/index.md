@@ -1,8 +1,13 @@
 ---
-date: '2020-10-05'
+authors:
+- Jan-Hendrik Ewers
+date: 2020-10-05
 featured-image: selection-sort-in-every-language.jpg
-last-modified: '2020-10-05'
+last-modified: 2020-10-05
 layout: default
+tags:
+- bash
+- selection-sort
 title: Selection Sort in Bash
 ---
 

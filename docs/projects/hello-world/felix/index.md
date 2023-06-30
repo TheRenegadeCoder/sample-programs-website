@@ -1,8 +1,13 @@
 ---
-date: '2018-04-29'
+authors:
+- Jeremy Grifski
+date: 2018-04-29
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-04-29'
+last-modified: 2018-04-29
 layout: default
+tags:
+- felix
+- hello-world
 title: Hello World in Felix
 ---
 

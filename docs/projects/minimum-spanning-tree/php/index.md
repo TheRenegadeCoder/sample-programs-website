@@ -1,8 +1,13 @@
 ---
-date: '2023-03-27'
+authors:
+- rzuckerm
+date: 2023-03-27
 featured-image: minimum-spanning-tree-in-every-language.jpg
-last-modified: '2023-03-27'
+last-modified: 2023-03-27
 layout: default
+tags:
+- minimum-spanning-tree
+- php
 title: Minimum Spanning Tree in Php
 ---
 

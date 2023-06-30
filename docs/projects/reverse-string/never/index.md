@@ -1,8 +1,13 @@
 ---
-date: '2018-09-20'
+authors:
+- smaludzi
+date: 2018-09-20
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2018-09-20'
+last-modified: 2018-09-20
 layout: default
+tags:
+- never
+- reverse-string
 title: Reverse String in Never
 ---
 

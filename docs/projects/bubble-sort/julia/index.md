@@ -1,8 +1,13 @@
 ---
-date: '2020-10-01'
+authors:
+- sniklas142
+date: 2020-10-01
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: '2020-10-01'
+last-modified: 2020-10-01
 layout: default
+tags:
+- bubble-sort
+- julia
 title: Bubble Sort in Julia
 ---
 

@@ -1,8 +1,14 @@
 ---
-date: '2019-10-22'
+authors:
+- Jeremy Grifski
+- Vicrobot
+date: 2019-10-22
 featured-image: convex-hull-in-every-language.jpg
-last-modified: '2019-10-22'
+last-modified: 2022-05-14
 layout: default
+tags:
+- convex-hull
+- python
 title: Convex Hull in Python
 ---
 

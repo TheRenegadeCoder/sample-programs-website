@@ -1,8 +1,14 @@
 ---
-date: '2019-10-28'
+authors:
+- bhaskar_datta
+- Jeremy Grifski
+date: 2019-10-28
 featured-image: baklava-in-every-language.jpg
-last-modified: '2019-10-28'
+last-modified: 2020-10-15
 layout: default
+tags:
+- baklava
+- lua
 title: Baklava in Lua
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2023-03-23'
+authors:
+- rzuckerm
+date: 2023-03-23
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: '2023-03-23'
+last-modified: 2023-03-23
 layout: default
+tags:
+- php
+- remove-all-whitespace
 title: Remove All Whitespace in Php
 ---
 

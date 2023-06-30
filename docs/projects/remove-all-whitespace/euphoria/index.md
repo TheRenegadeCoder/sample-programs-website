@@ -1,8 +1,13 @@
 ---
-date: '2023-02-19'
+authors:
+- rzuckerm
+date: 2023-02-19
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: '2023-02-19'
+last-modified: 2023-02-19
 layout: default
+tags:
+- euphoria
+- remove-all-whitespace
 title: Remove All Whitespace in Euphoria
 ---
 

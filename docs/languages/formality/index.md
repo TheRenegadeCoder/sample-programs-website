@@ -1,8 +1,10 @@
 ---
-date: '2019-10-10'
+date: 2019-10-10
 featured-image: programming-languages.jpg
-last-modified: '2019-10-10'
+last-modified: 2019-10-10
 layout: default
+tags:
+- formality
 title: The Formality Programming Language
 ---
 

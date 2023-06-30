@@ -1,8 +1,14 @@
 ---
-date: '2019-10-31'
+authors:
+- bhaskar_datta
+- Jeremy Grifski
+date: 2019-10-31
 featured-image: file-input-output-in-every-language.jpg
-last-modified: '2019-10-31'
+last-modified: 2020-10-15
 layout: default
+tags:
+- file-input-output
+- lua
 title: File Input Output in Lua
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2019-10-02'
+authors:
+- Chris Nord
+date: 2019-10-02
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2019-10-02'
+last-modified: 2019-10-02
 layout: default
+tags:
+- hello-world
+- janet
 title: Hello World in Janet
 ---
 

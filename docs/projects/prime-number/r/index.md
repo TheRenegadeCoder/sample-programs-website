@@ -1,8 +1,13 @@
 ---
-date: '2020-10-19'
+authors:
+- Veena ManikPrabhu
+date: 2020-10-19
 featured-image: prime-number-in-every-language.jpg
-last-modified: '2020-10-19'
+last-modified: 2020-10-19
 layout: default
+tags:
+- prime-number
+- r
 title: Prime Number in R
 ---
 

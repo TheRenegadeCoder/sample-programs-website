@@ -1,8 +1,14 @@
 ---
-date: '2018-10-14'
+authors:
+- Noah Nichols
+- Parker Johansen
+date: 2018-10-14
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2018-10-14'
+last-modified: 2019-04-07
 layout: default
+tags:
+- fibonacci
+- ruby
 title: Fibonacci in Ruby
 ---
 

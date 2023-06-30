@@ -1,8 +1,15 @@
 ---
-date: '2018-12-30'
+authors:
+- Bharath
+- Jeremy Grifski
+- Parker Johansen
+date: 2018-12-30
 featured-image: factorial-in-every-language.jpg
-last-modified: '2018-12-30'
+last-modified: 2022-10-10
 layout: default
+tags:
+- factorial
+- java
 title: Factorial in Java
 ---
 

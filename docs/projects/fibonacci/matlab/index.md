@@ -1,8 +1,14 @@
 ---
-date: '2019-10-24'
+authors:
+- Gabi Herman
+- gabiherman
+date: 2019-10-24
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2019-10-24'
+last-modified: 2019-11-05
 layout: default
+tags:
+- fibonacci
+- matlab
 title: Fibonacci in Matlab
 ---
 

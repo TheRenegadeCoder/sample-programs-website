@@ -1,8 +1,13 @@
 ---
-date: '2019-03-05'
+authors:
+- Parker Johansen
+date: 2019-03-05
 featured-image: file-input-output-in-every-language.jpg
-last-modified: '2019-03-05'
+last-modified: 2019-03-05
 layout: default
+tags:
+- file-input-output
+- go
 title: File Input Output in Go
 ---
 

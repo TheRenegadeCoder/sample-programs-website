@@ -1,12 +1,14 @@
 ---
 authors:
-- niraj-kamdar
+- Jeremy Grifski
+- Niraj Kamdar
+date: 2019-10-16
 featured-image: fraction-math-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2022-05-10
 layout: default
 tags:
-- python
 - fraction-math
+- python
 title: Fraction Math in Python
 ---
 

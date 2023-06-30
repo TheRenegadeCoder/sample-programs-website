@@ -1,8 +1,13 @@
 ---
-date: '2018-04-24'
+authors:
+- Jeremy Grifski
+date: 2018-04-24
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-04-24'
+last-modified: 2018-04-24
 layout: default
+tags:
+- ada
+- hello-world
 title: Hello World in Ada
 ---
 

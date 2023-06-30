@@ -1,9 +1,7 @@
 ---
-authors:
-- the_renegade_coder
-date: 2019-10-25
+date: 2019-10-24
 featured-image: binary-search-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2023-03-21
 layout: default
 tags:
 - binary-search

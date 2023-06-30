@@ -1,8 +1,13 @@
 ---
-date: '2022-10-08'
+authors:
+- sachchu007
+date: 2022-10-08
 featured-image: longest-word-in-every-language.jpg
-last-modified: '2022-10-08'
+last-modified: 2022-10-08
 layout: default
+tags:
+- c
+- longest-word
 title: Longest Word in C
 ---
 

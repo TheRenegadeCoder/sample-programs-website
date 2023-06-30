@@ -1,8 +1,13 @@
 ---
-date: '2018-03-31'
+authors:
+- Jeremy Griffith
+date: 2018-03-31
 featured-image: hello-world-in-javascript.jpg
-last-modified: '2018-03-31'
+last-modified: 2018-03-31
 layout: default
+tags:
+- hello-world
+- javascript
 title: Hello World in Javascript
 ---
 

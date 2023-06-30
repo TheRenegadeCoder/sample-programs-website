@@ -1,8 +1,13 @@
 ---
-date: '2020-10-01'
+authors:
+- Siddhant
+date: 2020-10-01
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2020-10-01'
+last-modified: 2020-10-01
 layout: default
+tags:
+- even-odd
+- objective-c
 title: Even Odd in Objective C
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2019-10-01'
+authors:
+- Calum Dingwall
+date: 2019-10-01
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2019-10-01'
+last-modified: 2019-10-01
 layout: default
+tags:
+- hello-world
+- ti-basic
 title: Hello World in Ti Basic
 ---
 

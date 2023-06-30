@@ -1,8 +1,13 @@
 ---
-date: '2023-01-22'
+authors:
+- rzuckerm
+date: 2023-01-22
 featured-image: quine-in-every-language.jpg
-last-modified: '2023-01-22'
+last-modified: 2023-01-22
 layout: default
+tags:
+- algol68
+- quine
 title: Quine in Algol68
 ---
 

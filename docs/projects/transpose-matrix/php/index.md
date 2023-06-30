@@ -1,8 +1,13 @@
 ---
-date: '2023-03-27'
+authors:
+- rzuckerm
+date: 2023-03-27
 featured-image: transpose-matrix-in-every-language.jpg
-last-modified: '2023-03-27'
+last-modified: 2023-03-27
 layout: default
+tags:
+- php
+- transpose-matrix
 title: Transpose Matrix in Php
 ---
 

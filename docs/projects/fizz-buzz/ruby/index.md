@@ -1,8 +1,13 @@
 ---
-date: '2018-08-12'
+authors:
+- Jeremy Grifski
+date: 2018-08-12
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2018-08-12'
+last-modified: 2018-08-12
 layout: default
+tags:
+- fizz-buzz
+- ruby
 title: Fizz Buzz in Ruby
 ---
 

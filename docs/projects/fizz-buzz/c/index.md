@@ -1,9 +1,9 @@
 ---
 authors:
-- shubhragupta-code
-date: &id001 2020-10-05
+- Jeremy Grifski
+date: 2018-08-16
 featured-image: fizz-buzz-in-every-language.png
-last-modified: *id001
+last-modified: 2018-08-16
 layout: default
 tags:
 - c

@@ -1,8 +1,10 @@
 ---
-date: '2018-03-21'
+date: 2018-03-21
 featured-image: programming-languages.jpg
-last-modified: '2018-03-21'
+last-modified: 2020-10-04
 layout: default
+tags:
+- objective-c
 title: The Objective C Programming Language
 ---
 

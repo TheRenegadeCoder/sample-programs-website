@@ -1,8 +1,10 @@
 ---
 authors:
-- the_renegade_coder
+- Jeremy Grifski
+- Muhammad
+date: 2018-05-11
 featured-image: hello-world-in-c-star.jpg
-last-modified: 2020-05-02
+last-modified: 2018-05-11
 layout: default
 tags:
 - c-star

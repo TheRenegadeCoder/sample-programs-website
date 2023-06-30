@@ -1,8 +1,10 @@
 ---
-date: '2023-04-25'
+date: 2023-04-25
 featured-image: programming-languages.jpg
-last-modified: '2023-04-25'
+last-modified: 2023-04-30
 layout: default
+tags:
+- piet
 title: The Piet Programming Language
 ---
 

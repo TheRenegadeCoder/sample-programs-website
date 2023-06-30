@@ -1,8 +1,14 @@
 ---
-date: '2019-10-26'
+authors:
+- Mallikarjuna S J
+- rzuckerm
+date: 2019-10-26
 featured-image: capitalize-in-every-language.jpg
-last-modified: '2019-10-26'
+last-modified: 2023-04-04
 layout: default
+tags:
+- capitalize
+- rust
 title: Capitalize in Rust
 ---
 

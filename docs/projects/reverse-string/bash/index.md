@@ -1,8 +1,14 @@
 ---
-date: '2018-05-09'
+authors:
+- Abdus
+- Parker Johansen
+date: 2018-05-09
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2018-05-09'
+last-modified: 2019-03-21
 layout: default
+tags:
+- bash
+- reverse-string
 title: Reverse String in Bash
 ---
 

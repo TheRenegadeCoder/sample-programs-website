@@ -1,8 +1,13 @@
 ---
-date: '2018-10-21'
+authors:
+- Nils
+date: 2018-10-21
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-10-21'
+last-modified: 2018-10-21
 layout: default
+tags:
+- abap
+- hello-world
 title: Hello World in Abap
 ---
 

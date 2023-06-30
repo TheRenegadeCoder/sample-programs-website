@@ -1,8 +1,7 @@
 ---
-authors:
-- alcha
+date: 2018-05-28
 featured-image: programming-languages.jpg
-last-modified: 2020-05-02
+last-modified: 2018-08-04
 layout: default
 tags:
 - powershell

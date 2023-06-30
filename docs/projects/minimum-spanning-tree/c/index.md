@@ -1,8 +1,14 @@
 ---
-date: '2019-10-20'
+authors:
+- Jeremy Grifski
+- LezendarySandwich
+date: 2019-10-20
 featured-image: minimum-spanning-tree-in-every-language.jpg
-last-modified: '2019-10-20'
+last-modified: 2022-04-28
 layout: default
+tags:
+- c
+- minimum-spanning-tree
 title: Minimum Spanning Tree in C
 ---
 

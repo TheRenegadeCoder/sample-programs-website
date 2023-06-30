@@ -1,8 +1,13 @@
 ---
-date: '2023-02-19'
+authors:
+- rzuckerm
+date: 2023-02-19
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: '2023-02-19'
+last-modified: 2023-02-19
 layout: default
+tags:
+- duplicate-character-counter
+- euphoria
 title: Duplicate Character Counter in Euphoria
 ---
 

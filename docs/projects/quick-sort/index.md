@@ -1,9 +1,7 @@
 ---
-authors:
-- auroq
-date: 2018-11-29
+date: 2018-12-04
 featured-image: quick-sort-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2023-02-19
 layout: default
 tags:
 - quick-sort

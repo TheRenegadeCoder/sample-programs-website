@@ -1,8 +1,9 @@
 ---
 authors:
-- the_renegade_coder
+- Jeremy Griffith
+date: 2018-04-08
 featured-image: hello-world-in-haskell.jpg
-last-modified: 2021-02-22
+last-modified: 2018-04-08
 layout: default
 tags:
 - haskell

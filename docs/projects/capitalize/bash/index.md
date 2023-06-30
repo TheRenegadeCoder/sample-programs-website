@@ -1,8 +1,14 @@
 ---
-date: '2019-10-08'
+authors:
+- Jeremy Grifski
+- lohxx
+date: 2019-10-08
 featured-image: capitalize-in-every-language.jpg
-last-modified: '2019-10-08'
+last-modified: 2019-10-26
 layout: default
+tags:
+- bash
+- capitalize
 title: Capitalize in Bash
 ---
 

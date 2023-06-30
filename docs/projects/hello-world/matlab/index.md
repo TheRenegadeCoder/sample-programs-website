@@ -1,12 +1,13 @@
 ---
-author:
-- virtual_flat
+authors:
+- Jeremy Griffith
+date: 2018-04-11
 featured-image: hello-world-in-matlab.jpg
-last-modified: 2020-05-02
+last-modified: 2018-04-11
 layout: default
 tags:
-- matlab
 - hello-world
+- matlab
 title: Hello World in Matlab
 ---
 

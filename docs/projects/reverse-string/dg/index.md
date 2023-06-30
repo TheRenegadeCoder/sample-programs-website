@@ -1,8 +1,13 @@
 ---
-date: '2018-10-03'
+authors:
+- Riley Martine
+date: 2018-10-03
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2018-10-03'
+last-modified: 2018-10-03
 layout: default
+tags:
+- dg
+- reverse-string
 title: Reverse String in Dg
 ---
 

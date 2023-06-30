@@ -1,8 +1,14 @@
 ---
-date: '2019-10-11'
+authors:
+- dyllew3
+- Jeremy Grifski
+date: 2019-10-11
 featured-image: capitalize-in-every-language.jpg
-last-modified: '2019-10-11'
+last-modified: 2022-10-10
 layout: default
+tags:
+- capitalize
+- java
 title: Capitalize in Java
 ---
 

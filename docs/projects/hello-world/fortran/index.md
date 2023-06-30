@@ -1,8 +1,13 @@
 ---
-date: '2018-04-25'
+authors:
+- Jeremy Grifski
+date: 2018-04-25
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-04-25'
+last-modified: 2018-04-25
 layout: default
+tags:
+- fortran
+- hello-world
 title: Hello World in Fortran
 ---
 

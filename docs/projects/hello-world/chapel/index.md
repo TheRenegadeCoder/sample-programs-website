@@ -1,8 +1,13 @@
 ---
-date: '2018-11-22'
+authors:
+- Jeremy Grifski
+date: 2018-11-22
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-11-22'
+last-modified: 2018-11-22
 layout: default
+tags:
+- chapel
+- hello-world
 title: Hello World in Chapel
 ---
 

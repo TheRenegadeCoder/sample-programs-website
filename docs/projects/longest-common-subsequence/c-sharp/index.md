@@ -1,8 +1,13 @@
 ---
-date: '2018-10-28'
+authors:
+- Parker Johansen
+date: 2018-10-28
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: '2018-10-28'
+last-modified: 2019-03-26
 layout: default
+tags:
+- c-sharp
+- longest-common-subsequence
 title: Longest Common Subsequence in C#
 ---
 

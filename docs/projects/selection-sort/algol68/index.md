@@ -1,8 +1,13 @@
 ---
-date: '2023-01-29'
+authors:
+- rzuckerm
+date: 2023-01-29
 featured-image: selection-sort-in-every-language.jpg
-last-modified: '2023-01-29'
+last-modified: 2023-02-01
 layout: default
+tags:
+- algol68
+- selection-sort
 title: Selection Sort in Algol68
 ---
 

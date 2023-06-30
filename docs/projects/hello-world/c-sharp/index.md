@@ -1,8 +1,11 @@
 ---
 authors:
-- the_renegade_coder
+- ildoc
+- Jeremy Griffith
+- Jeremy Grifski
+date: 2018-03-21
 featured-image: hello-world-in-c-sharp.jpg
-last-modified: 2020-05-02
+last-modified: 2018-07-24
 layout: default
 tags:
 - c-sharp

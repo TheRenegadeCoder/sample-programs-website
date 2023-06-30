@@ -1,8 +1,13 @@
 ---
-date: '2023-01-29'
+authors:
+- rzuckerm
+date: 2023-01-29
 featured-image: depth-first-search-in-every-language.jpg
-last-modified: '2023-01-29'
+last-modified: 2023-03-24
 layout: default
+tags:
+- algol68
+- depth-first-search
 title: Depth First Search in Algol68
 ---
 

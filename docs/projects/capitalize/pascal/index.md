@@ -1,8 +1,13 @@
 ---
-date: '2020-10-17'
+authors:
+- smjalageri
+date: 2020-10-17
 featured-image: capitalize-in-every-language.jpg
-last-modified: '2020-10-17'
+last-modified: 2020-10-18
 layout: default
+tags:
+- capitalize
+- pascal
 title: Capitalize in Pascal
 ---
 

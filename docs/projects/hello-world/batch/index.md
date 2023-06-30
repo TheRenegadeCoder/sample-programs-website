@@ -1,8 +1,13 @@
 ---
-date: '2020-04-23'
+authors:
+- Jeremy Grifski
+date: 2020-04-23
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2020-04-23'
+last-modified: 2020-04-23
 layout: default
+tags:
+- batch
+- hello-world
 title: Hello World in Batch
 ---
 

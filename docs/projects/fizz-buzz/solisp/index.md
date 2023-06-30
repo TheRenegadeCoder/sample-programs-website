@@ -1,8 +1,13 @@
 ---
-date: '2020-02-25'
+authors:
+- Stuart Irwin
+date: 2020-02-25
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2020-02-25'
+last-modified: 2020-03-23
 layout: default
+tags:
+- fizz-buzz
+- solisp
 title: Fizz Buzz in Solisp
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2020-10-14'
+authors:
+- franciscogallardo
+date: 2020-10-14
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2020-10-14'
+last-modified: 2020-10-14
 layout: default
+tags:
+- grain
+- hello-world
 title: Hello World in Grain
 ---
 

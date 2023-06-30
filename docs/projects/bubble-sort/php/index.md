@@ -1,8 +1,15 @@
 ---
-date: '2019-10-04'
+authors:
+- Jeremy Grifski
+- Parker Johansen
+- Shahab Rahnama
+date: 2019-10-04
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: '2019-10-04'
+last-modified: 2022-05-09
 layout: default
+tags:
+- bubble-sort
+- php
 title: Bubble Sort in Php
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2020-10-05'
+authors:
+- Jonas Halstrup
+date: 2020-10-05
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2020-10-05'
+last-modified: 2020-10-05
 layout: default
+tags:
+- even-odd
+- swift
 title: Even Odd in Swift
 ---
 

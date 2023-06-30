@@ -1,8 +1,13 @@
 ---
-date: '2023-01-21'
+authors:
+- rzuckerm
+date: 2023-01-21
 featured-image: factorial-in-every-language.jpg
-last-modified: '2023-01-21'
+last-modified: 2023-01-30
 layout: default
+tags:
+- algol68
+- factorial
 title: Factorial in Algol68
 ---
 

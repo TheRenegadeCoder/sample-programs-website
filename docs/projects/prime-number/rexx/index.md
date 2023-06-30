@@ -1,8 +1,13 @@
 ---
-date: '2020-10-07'
+authors:
+- Sudhanshu Dubey
+date: 2020-10-07
 featured-image: prime-number-in-every-language.jpg
-last-modified: '2020-10-07'
+last-modified: 2020-10-07
 layout: default
+tags:
+- prime-number
+- rexx
 title: Prime Number in Rexx
 ---
 

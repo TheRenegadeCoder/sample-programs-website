@@ -1,8 +1,13 @@
 ---
-date: '2018-12-28'
+authors:
+- Parker Johansen
+date: 2018-12-28
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: '2018-12-28'
+last-modified: 2019-03-26
 layout: default
+tags:
+- bubble-sort
+- c-sharp
 title: Bubble Sort in C#
 ---
 

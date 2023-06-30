@@ -1,8 +1,13 @@
 ---
-date: '2020-10-04'
+authors:
+- iwishiwasaneagle
+date: 2020-10-04
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2020-10-04'
+last-modified: 2020-10-04
 layout: default
+tags:
+- hello-world
+- pinecone
 title: Hello World in Pinecone
 ---
 

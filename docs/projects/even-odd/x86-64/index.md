@@ -1,8 +1,13 @@
 ---
-date: '2023-05-07'
+authors:
+- alope107
+date: 2023-05-07
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2023-05-07'
+last-modified: 2023-05-07
 layout: default
+tags:
+- even-odd
+- x86-64
 title: Even Odd in X86 64
 ---
 

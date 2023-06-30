@@ -1,8 +1,10 @@
 ---
-date: '2018-10-17'
+date: 2018-10-17
 featured-image: programming-languages.jpg
-last-modified: '2018-10-17'
+last-modified: 2018-10-17
 layout: default
+tags:
+- ocaml
 title: The Ocaml Programming Language
 ---
 

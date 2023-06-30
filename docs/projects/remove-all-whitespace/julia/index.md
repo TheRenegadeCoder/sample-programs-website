@@ -1,8 +1,13 @@
 ---
-date: '2022-10-05'
+authors:
+- smjalageri
+date: 2022-10-05
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: '2022-10-05'
+last-modified: 2022-10-05
 layout: default
+tags:
+- julia
+- remove-all-whitespace
 title: Remove All Whitespace in Julia
 ---
 

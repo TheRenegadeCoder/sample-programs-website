@@ -1,8 +1,14 @@
 ---
-date: '2018-10-12'
+authors:
+- Jeremy Grifski
+- Michael King
+date: 2018-10-12
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2018-10-12'
+last-modified: 2019-04-16
 layout: default
+tags:
+- fibonacci
+- julia
 title: Fibonacci in Julia
 ---
 

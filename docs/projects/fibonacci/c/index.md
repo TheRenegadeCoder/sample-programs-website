@@ -1,8 +1,15 @@
 ---
-date: '2018-10-04'
+authors:
+- "Christoph B\xF6hmwalder"
+- Jeremy Grifski
+- Parker Johansen
+date: 2018-10-04
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2018-10-04'
+last-modified: 2019-04-18
 layout: default
+tags:
+- c
+- fibonacci
 title: Fibonacci in C
 ---
 

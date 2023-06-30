@@ -1,8 +1,13 @@
 ---
-date: '2019-01-04'
+authors:
+- "Christoph B\xF6hmwalder"
+date: 2019-01-04
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: '2019-01-04'
+last-modified: 2019-01-04
 layout: default
+tags:
+- bubble-sort
+- c
 title: Bubble Sort in C
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2023-02-19'
+authors:
+- rzuckerm
+date: 2023-02-19
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: '2023-02-19'
+last-modified: 2023-02-19
 layout: default
+tags:
+- euphoria
+- palindromic-number
 title: Palindromic Number in Euphoria
 ---
 

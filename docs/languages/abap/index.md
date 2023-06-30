@@ -1,8 +1,10 @@
 ---
-date: '2018-10-21'
+date: 2018-10-21
 featured-image: programming-languages.jpg
-last-modified: '2018-10-21'
+last-modified: 2018-10-21
 layout: default
+tags:
+- abap
 title: The Abap Programming Language
 ---
 

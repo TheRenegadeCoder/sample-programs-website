@@ -1,12 +1,14 @@
 ---
 authors:
-- s18k
+- Jeremy Grifski
+- Vipin Yadav
+date: 2022-10-02
 featured-image: binary-search-in-every-language.jpg
-last-modified: 2022-10-08
+last-modified: 2022-10-10
 layout: default
 tags:
+- binary-search
 - java
-- binary_search
 title: Binary Search in Java
 ---
 

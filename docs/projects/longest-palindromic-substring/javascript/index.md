@@ -1,8 +1,13 @@
 ---
-date: '2020-10-17'
+authors:
+- izexi
+date: 2020-10-17
 featured-image: longest-palindromic-substring-in-every-language.jpg
-last-modified: '2020-10-17'
+last-modified: 2020-10-26
 layout: default
+tags:
+- javascript
+- longest-palindromic-substring
 title: Longest Palindromic Substring in Javascript
 ---
 

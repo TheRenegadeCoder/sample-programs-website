@@ -1,8 +1,7 @@
 ---
-authors: null
-date: 2018-11-01
+date: 2018-10-07
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2023-02-25
 layout: default
 tags:
 - roman-numeral

@@ -1,12 +1,14 @@
 ---
 authors:
-- slashdoom
+- Jeremy Grifski
+- Paddy
+date: 2019-10-17
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2019-10-26
 layout: default
 tags:
-- dart
 - capitalize
+- dart
 title: Capitalize in Dart
 ---
 

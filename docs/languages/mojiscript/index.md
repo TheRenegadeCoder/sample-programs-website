@@ -1,8 +1,10 @@
 ---
-date: '2018-10-15'
+date: 2018-10-15
 featured-image: programming-languages.jpg
-last-modified: '2018-10-15'
+last-modified: 2018-10-15
 layout: default
+tags:
+- mojiscript
 title: The Mojiscript Programming Language
 ---
 

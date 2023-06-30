@@ -1,8 +1,14 @@
 ---
-date: '2022-10-02'
+authors:
+- rzuckerm
+- smjalageri
+date: 2022-10-02
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2022-10-02'
+last-modified: 2023-03-19
 layout: default
+tags:
+- julia
+- reverse-string
 title: Reverse String in Julia
 ---
 

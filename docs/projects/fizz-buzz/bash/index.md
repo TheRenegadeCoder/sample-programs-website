@@ -1,8 +1,13 @@
 ---
-date: '2018-08-31'
+authors:
+- "Christoph B\xF6hmwalder"
+date: 2018-08-31
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2018-08-31'
+last-modified: 2018-08-31
 layout: default
+tags:
+- bash
+- fizz-buzz
 title: Fizz Buzz in Bash
 ---
 

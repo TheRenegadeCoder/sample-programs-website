@@ -1,8 +1,13 @@
 ---
-date: '2023-01-18'
+authors:
+- Ben Hekster
+date: 2023-01-18
 featured-image: minimum-spanning-tree-in-every-language.jpg
-last-modified: '2023-01-18'
+last-modified: 2023-01-18
 layout: default
+tags:
+- mathematica
+- minimum-spanning-tree
 title: Minimum Spanning Tree in Mathematica
 ---
 

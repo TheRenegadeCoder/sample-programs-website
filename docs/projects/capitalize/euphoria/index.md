@@ -1,8 +1,13 @@
 ---
-date: '2023-02-17'
+authors:
+- rzuckerm
+date: 2023-02-17
 featured-image: capitalize-in-every-language.jpg
-last-modified: '2023-02-17'
+last-modified: 2023-02-17
 layout: default
+tags:
+- capitalize
+- euphoria
 title: Capitalize in Euphoria
 ---
 

@@ -1,12 +1,15 @@
 ---
 authors:
-- alexandra_woerner
+- Francisco Peters
+- Jeremy Grifski
+- rzuckerm
+date: 2018-05-07
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2023-03-19
 layout: default
 tags:
-- scheme
 - reverse-string
+- scheme
 title: Reverse String in Scheme
 ---
 

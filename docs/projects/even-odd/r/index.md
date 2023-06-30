@@ -1,8 +1,13 @@
 ---
-date: '2021-10-22'
+authors:
+- Grooble
+date: 2021-10-22
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2021-10-22'
+last-modified: 2021-10-22
 layout: default
+tags:
+- even-odd
+- r
 title: Even Odd in R
 ---
 

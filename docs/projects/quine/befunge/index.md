@@ -1,8 +1,13 @@
 ---
-date: '2020-10-17'
+authors:
+- Stuart Irwin
+date: 2020-10-17
 featured-image: quine-in-every-language.jpg
-last-modified: '2020-10-17'
+last-modified: 2020-10-17
 layout: default
+tags:
+- befunge
+- quine
 title: Quine in Befunge
 ---
 

@@ -1,8 +1,9 @@
 ---
 authors:
-- stuin
+- Stuart Irwin
+date: 2020-10-17
 featured-image: hello-world-in-befunge.jpg
-last-modified: 2020-05-02
+last-modified: 2020-10-17
 layout: default
 tags:
 - befunge

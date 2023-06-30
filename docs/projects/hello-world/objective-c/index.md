@@ -1,8 +1,13 @@
 ---
-date: '2018-03-21'
+authors:
+- Jeremy Griffith
+date: 2018-03-21
 featured-image: hello-world-in-objective-c.jpg
-last-modified: '2018-03-21'
+last-modified: 2018-03-21
 layout: default
+tags:
+- hello-world
+- objective-c
 title: Hello World in Objective C
 ---
 

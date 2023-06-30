@@ -1,8 +1,13 @@
 ---
-date: '2023-02-06'
+authors:
+- rzuckerm
+date: 2023-02-06
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: '2023-02-06'
+last-modified: 2023-02-06
 layout: default
+tags:
+- algol68
+- job-sequencing
 title: Job Sequencing in Algol68
 ---
 

@@ -1,8 +1,14 @@
 ---
-date: '2020-10-01'
+authors:
+- Parker Johansen
+- Renato
+date: 2020-10-01
 featured-image: prime-number-in-every-language.jpg
-last-modified: '2020-10-01'
+last-modified: 2020-10-11
 layout: default
+tags:
+- lisp
+- prime-number
 title: Prime Number in Lisp
 ---
 

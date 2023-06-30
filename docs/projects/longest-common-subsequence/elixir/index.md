@@ -1,8 +1,14 @@
 ---
-date: '2019-10-14'
+authors:
+- Ann
+- Jeremy Grifski
+date: 2019-10-14
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: '2019-10-14'
+last-modified: 2019-10-16
 layout: default
+tags:
+- elixir
+- longest-common-subsequence
 title: Longest Common Subsequence in Elixir
 ---
 

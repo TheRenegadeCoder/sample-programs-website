@@ -1,8 +1,13 @@
 ---
-date: '2020-10-06'
+authors:
+- Allan Klaus
+date: 2020-10-06
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: '2020-10-06'
+last-modified: 2020-10-06
 layout: default
+tags:
+- roman-numeral
+- ruby
 title: Roman Numeral in Ruby
 ---
 

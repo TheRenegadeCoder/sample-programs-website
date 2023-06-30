@@ -1,12 +1,14 @@
 ---
 authors:
-- the_renegade_coder
+- AaronLenoir
+- Jeremy Grifski
+date: 2018-05-04
 featured-image: hello-world-in-visual-basic.jpg
-last-modified: 2020-05-02
+last-modified: 2018-05-04
 layout: default
 tags:
-- visual-basic
 - hello-world
+- visual-basic
 title: Hello World in Visual Basic
 ---
 

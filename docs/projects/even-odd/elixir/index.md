@@ -1,8 +1,13 @@
 ---
-date: '2020-10-03'
+authors:
+- Zapnuk
+date: 2020-10-03
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2020-10-03'
+last-modified: 2020-10-04
 layout: default
+tags:
+- elixir
+- even-odd
 title: Even Odd in Elixir
 ---
 

@@ -1,8 +1,14 @@
 ---
-date: '2019-10-17'
+authors:
+- JaneLiu
+- Jeremy Grifski
+date: 2019-10-17
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: '2019-10-17'
+last-modified: 2022-10-10
 layout: default
+tags:
+- java
+- job-sequencing
 title: Job Sequencing in Java
 ---
 

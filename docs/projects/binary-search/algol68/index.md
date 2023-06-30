@@ -1,8 +1,13 @@
 ---
-date: '2023-01-27'
+authors:
+- rzuckerm
+date: 2023-01-27
 featured-image: binary-search-in-every-language.jpg
-last-modified: '2023-01-27'
+last-modified: 2023-01-30
 layout: default
+tags:
+- algol68
+- binary-search
 title: Binary Search in Algol68
 ---
 

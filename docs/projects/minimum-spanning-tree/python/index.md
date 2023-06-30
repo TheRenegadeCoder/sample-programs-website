@@ -1,8 +1,14 @@
 ---
-date: '2019-10-14'
+authors:
+- Jeremy Grifski
+- Yuchuan Liu
+date: 2019-10-14
 featured-image: minimum-spanning-tree-in-every-language.jpg
-last-modified: '2019-10-14'
+last-modified: 2020-10-15
 layout: default
+tags:
+- minimum-spanning-tree
+- python
 title: Minimum Spanning Tree in Python
 ---
 

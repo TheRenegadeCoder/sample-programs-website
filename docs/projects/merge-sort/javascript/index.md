@@ -1,8 +1,13 @@
 ---
-date: '2019-10-31'
+authors:
+- Sumathi Varadharajan
+date: 2019-10-31
 featured-image: merge-sort-in-every-language.jpg
-last-modified: '2019-10-31'
+last-modified: 2019-10-31
 layout: default
+tags:
+- javascript
+- merge-sort
 title: Merge Sort in Javascript
 ---
 

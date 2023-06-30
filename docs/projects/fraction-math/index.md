@@ -1,10 +1,7 @@
 ---
-authors:
-- niraj-kamdar
-- the_renegade_coder
 date: 2019-10-10
 featured-image: fraction-math-in-every-language.jpg
-last-modified: 2022-05-10
+last-modified: 2023-04-12
 layout: default
 tags:
 - fraction-math

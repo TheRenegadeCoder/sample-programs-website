@@ -1,8 +1,14 @@
 ---
-date: '2019-10-16'
+authors:
+- Jeremy Grifski
+- Tim Lange
+date: 2019-10-16
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: '2019-10-16'
+last-modified: 2022-10-10
 layout: default
+tags:
+- bubble-sort
+- java
 title: Bubble Sort in Java
 ---
 

@@ -1,8 +1,14 @@
 ---
-date: '2019-10-28'
+authors:
+- Jeremy Grifski
+- jsonW0
+date: 2019-10-28
 featured-image: convex-hull-in-every-language.jpg
-last-modified: '2019-10-28'
+last-modified: 2022-10-10
 layout: default
+tags:
+- convex-hull
+- java
 title: Convex Hull in Java
 ---
 

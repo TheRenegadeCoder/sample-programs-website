@@ -1,8 +1,13 @@
 ---
-date: '2019-10-06'
+authors:
+- Mark Magahis
+date: 2019-10-06
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2019-10-06'
+last-modified: 2019-10-06
 layout: default
+tags:
+- erlang
+- reverse-string
 title: Reverse String in Erlang
 ---
 

@@ -1,8 +1,10 @@
 ---
-date: '2018-05-11'
+date: 2018-05-11
 featured-image: programming-languages.jpg
-last-modified: '2018-05-11'
+last-modified: 2020-10-01
 layout: default
+tags:
+- lolcode
 title: The Lolcode Programming Language
 ---
 

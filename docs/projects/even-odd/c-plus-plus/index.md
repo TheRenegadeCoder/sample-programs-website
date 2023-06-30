@@ -1,8 +1,14 @@
 ---
-date: '2019-10-09'
+authors:
+- Jeremy Grifski
+- killbotxd
+date: 2019-10-09
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2019-10-09'
+last-modified: 2022-10-10
 layout: default
+tags:
+- c-plus-plus
+- even-odd
 title: Even Odd in C++
 ---
 

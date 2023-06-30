@@ -1,8 +1,13 @@
 ---
-date: '2020-10-07'
+authors:
+- Sayantan Sarkar
+date: 2020-10-07
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: '2020-10-07'
+last-modified: 2020-10-07
 layout: default
+tags:
+- javascript
+- job-sequencing
 title: Job Sequencing in Javascript
 ---
 

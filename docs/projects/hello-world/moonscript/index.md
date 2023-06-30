@@ -1,12 +1,13 @@
 ---
 authors:
-- bassem_mohamed
+- bassemmohamed1994
+date: 2018-08-28
 featured-image: hello-world-in-moonscript.jpg
-last-modified: 2020-10-15
+last-modified: 2018-08-28
 layout: default
 tags:
-- moonscript
 - hello-world
+- moonscript
 title: Hello World in Moonscript
 ---
 

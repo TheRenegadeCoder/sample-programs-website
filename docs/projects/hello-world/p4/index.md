@@ -1,8 +1,13 @@
 ---
-date: '2020-10-03'
+authors:
+- Fabricio R
+date: 2020-10-03
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2020-10-03'
+last-modified: 2020-10-03
 layout: default
+tags:
+- hello-world
+- p4
 title: Hello World in P4
 ---
 

@@ -1,8 +1,10 @@
 ---
-date: '2022-12-06'
+date: 2022-12-06
 featured-image: programming-languages.jpg
-last-modified: '2022-12-06'
+last-modified: 2022-12-06
 layout: default
+tags:
+- granule
 title: The Granule Programming Language
 ---
 

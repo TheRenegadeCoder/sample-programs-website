@@ -1,12 +1,16 @@
 ---
 authors:
 - frankhart2017
+- Jeremy Grifski
+- rzuckerm
+- Siddhartha Dhar Choudhury
+date: 2019-10-17
 featured-image: linear-search-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2023-01-29
 layout: default
 tags:
-- python
 - linear-search
+- python
 title: Linear Search in Python
 ---
 

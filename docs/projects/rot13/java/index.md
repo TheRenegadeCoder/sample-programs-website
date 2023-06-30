@@ -1,8 +1,14 @@
 ---
-date: '2019-10-27'
+authors:
+- Jeremy Grifski
+- jsonW0
+date: 2019-10-27
 featured-image: rot13-in-every-language.jpg
-last-modified: '2019-10-27'
+last-modified: 2022-10-10
 layout: default
+tags:
+- java
+- rot13
 title: Rot13 in Java
 ---
 

@@ -1,8 +1,9 @@
 ---
 authors:
-- chrboe
+- "Christoph B\xF6hmwalder"
+date: 2018-08-24
 featured-image: hello-world-in-brainfuck.jpg
-last-modified: 2020-10-15
+last-modified: 2018-08-24
 layout: default
 tags:
 - brainfuck

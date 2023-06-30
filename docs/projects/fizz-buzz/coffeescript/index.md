@@ -1,8 +1,13 @@
 ---
-date: '2020-10-01'
+authors:
+- darkpanda08
+date: 2020-10-01
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2020-10-01'
+last-modified: 2020-10-01
 layout: default
+tags:
+- coffeescript
+- fizz-buzz
 title: Fizz Buzz in Coffeescript
 ---
 

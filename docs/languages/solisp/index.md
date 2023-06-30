@@ -1,8 +1,10 @@
 ---
-date: '2020-02-25'
+date: 2020-02-25
 featured-image: programming-languages.jpg
-last-modified: '2020-02-25'
+last-modified: 2020-03-05
 layout: default
+tags:
+- solisp
 title: The Solisp Programming Language
 ---
 

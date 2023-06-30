@@ -1,9 +1,10 @@
 ---
 authors:
-- nickkeers
-- the_renegade_coder
+- Jeremy Grifski
+- Nick Keers
+date: 2018-08-08
 featured-image: hello-world-in-erlang.jpg
-last-modified: 2020-05-02
+last-modified: 2019-10-04
 layout: default
 tags:
 - erlang

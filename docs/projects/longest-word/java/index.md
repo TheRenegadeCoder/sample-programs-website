@@ -1,8 +1,14 @@
 ---
-date: '2022-10-03'
+authors:
+- Jeremy Grifski
+- Vipin Yadav
+date: 2022-10-03
 featured-image: longest-word-in-every-language.jpg
-last-modified: '2022-10-03'
+last-modified: 2022-10-10
 layout: default
+tags:
+- java
+- longest-word
 title: Longest Word in Java
 ---
 

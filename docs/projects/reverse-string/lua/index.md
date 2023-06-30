@@ -1,8 +1,10 @@
 ---
 authors:
-- wileymab
+- Jeremy Grifski
+- Matt Wiley
+date: 2018-09-19
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2019-10-03
 layout: default
 tags:
 - lua

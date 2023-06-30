@@ -1,8 +1,13 @@
 ---
-date: '2022-05-13'
+authors:
+- Jeremy Grifski
+date: 2022-05-13
 featured-image: longest-word-in-every-language.jpg
-last-modified: '2022-05-13'
+last-modified: 2022-05-13
 layout: default
+tags:
+- longest-word
+- python
 title: Longest Word in Python
 ---
 

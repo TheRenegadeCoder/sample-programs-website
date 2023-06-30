@@ -1,8 +1,13 @@
 ---
-date: '2023-01-22'
+authors:
+- rzuckerm
+date: 2023-01-22
 featured-image: capitalize-in-every-language.jpg
-last-modified: '2023-01-22'
+last-modified: 2023-02-01
 layout: default
+tags:
+- algol68
+- capitalize
 title: Capitalize in Algol68
 ---
 

@@ -1,8 +1,14 @@
 ---
-date: '2019-10-14'
+authors:
+- Daffa Daraz
+- Jeremy Grifski
+date: 2019-10-14
 featured-image: prime-number-in-every-language.jpg
-last-modified: '2019-10-14'
+last-modified: 2022-10-10
 layout: default
+tags:
+- c-plus-plus
+- prime-number
 title: Prime Number in C++
 ---
 

@@ -1,8 +1,14 @@
 ---
-date: '2019-10-26'
+authors:
+- Jeremy Grifski
+- Sailok Chinta
+date: 2019-10-26
 featured-image: merge-sort-in-every-language.jpg
-last-modified: '2019-10-26'
+last-modified: 2022-10-10
 layout: default
+tags:
+- c-plus-plus
+- merge-sort
 title: Merge Sort in C++
 ---
 

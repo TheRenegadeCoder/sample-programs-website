@@ -1,8 +1,10 @@
 ---
-date: '2018-03-31'
+date: 2018-03-31
 featured-image: programming-languages.jpg
-last-modified: '2018-03-31'
+last-modified: 2023-03-27
 layout: default
+tags:
+- php
 title: The Php Programming Language
 ---
 

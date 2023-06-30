@@ -1,8 +1,10 @@
 ---
-date: '2020-04-23'
+date: 2020-04-23
 featured-image: programming-languages.jpg
-last-modified: '2020-04-23'
+last-modified: 2020-04-23
 layout: default
+tags:
+- microsoft-macro-assembler
 title: The Microsoft Macro Assembler Programming Language
 ---
 

@@ -1,12 +1,13 @@
 ---
 authors:
-- nicovillanueva
+- Nico Villanueva
+date: 2018-07-16
 featured-image: hello-world-in-opa.jpg
-last-modified: 2020-10-15
+last-modified: 2018-07-16
 layout: default
 tags:
-- opa
 - hello-world
+- opa
 title: Hello World in Opa
 ---
 

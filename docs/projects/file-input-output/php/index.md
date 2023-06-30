@@ -1,8 +1,15 @@
 ---
-date: '2019-10-14'
+authors:
+- Jeremy Grifski
+- Juan D Frias
+- Parker Johansen
+date: 2019-10-14
 featured-image: file-input-output-in-every-language.jpg
-last-modified: '2019-10-14'
+last-modified: 2022-05-09
 layout: default
+tags:
+- file-input-output
+- php
 title: File Input Output in Php
 ---
 

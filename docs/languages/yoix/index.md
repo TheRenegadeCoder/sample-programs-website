@@ -1,8 +1,10 @@
 ---
-date: '2023-06-19'
+date: 2023-06-19
 featured-image: programming-languages.jpg
-last-modified: '2023-06-19'
+last-modified: 2023-06-19
 layout: default
+tags:
+- yoix
 title: The Yoix Programming Language
 ---
 

@@ -1,8 +1,10 @@
 ---
 authors:
-- sun-fox
+- Jeremy Grifski
+- Prasun Kumar
+date: 2019-10-09
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2022-10-10
 layout: default
 tags:
 - c-plus-plus

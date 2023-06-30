@@ -1,12 +1,14 @@
 ---
 authors:
-- the_renegade_coder
+- Jeremy Grifski
+- rzuckerm
+date: 2018-05-08
 featured-image: hello-world-in-picolisp.jpg
-last-modified: 2020-05-02
+last-modified: 2023-05-15
 layout: default
 tags:
-- picolisp
 - hello-world
+- picolisp
 title: Hello World in Picolisp
 ---
 

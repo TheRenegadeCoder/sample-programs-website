@@ -1,9 +1,7 @@
 ---
-authors:
-- the_renegade_coder
-date: 2018-11-01
+date: 2018-07-27
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2020-05-02
+last-modified: 2023-06-10
 layout: default
 tags:
 - fizz-buzz

@@ -1,8 +1,14 @@
 ---
-date: '2020-10-08'
+authors:
+- Blake.Ke
+- smallblack9
+date: 2020-10-08
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: '2020-10-08'
+last-modified: 2020-10-09
 layout: default
+tags:
+- job-sequencing
+- kotlin
 title: Job Sequencing in Kotlin
 ---
 

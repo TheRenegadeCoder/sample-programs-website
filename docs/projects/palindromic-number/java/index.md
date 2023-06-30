@@ -1,8 +1,14 @@
 ---
-date: '2020-10-11'
+authors:
+- Jeremy Grifski
+- smallblack9
+date: 2020-10-11
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: '2020-10-11'
+last-modified: 2022-10-11
 layout: default
+tags:
+- java
+- palindromic-number
 title: Palindromic Number in Java
 ---
 

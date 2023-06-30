@@ -1,8 +1,13 @@
 ---
-date: '2019-10-12'
+authors:
+- Zachary Smith
+date: 2019-10-12
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: '2019-10-12'
+last-modified: 2019-10-17
 layout: default
+tags:
+- bubble-sort
+- javascript
 title: Bubble Sort in Javascript
 ---
 

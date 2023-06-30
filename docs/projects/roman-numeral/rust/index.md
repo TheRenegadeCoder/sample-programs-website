@@ -1,8 +1,14 @@
 ---
-date: '2018-10-12'
+authors:
+- Noah Nichols
+- rzuckerm
+date: 2018-10-12
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: '2018-10-12'
+last-modified: 2023-04-04
 layout: default
+tags:
+- roman-numeral
+- rust
 title: Roman Numeral in Rust
 ---
 

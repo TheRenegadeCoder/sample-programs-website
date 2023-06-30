@@ -1,8 +1,13 @@
 ---
-date: '2023-05-04'
+authors:
+- alope107
+date: 2023-05-04
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2023-05-04'
+last-modified: 2023-05-04
 layout: default
+tags:
+- hello-world
+- x86-64
 title: Hello World in X86 64
 ---
 

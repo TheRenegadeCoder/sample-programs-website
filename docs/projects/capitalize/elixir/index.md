@@ -1,8 +1,13 @@
 ---
-date: '2020-10-06'
+authors:
+- Jonas Halstrup
+date: 2020-10-06
 featured-image: capitalize-in-every-language.jpg
-last-modified: '2020-10-06'
+last-modified: 2020-10-06
 layout: default
+tags:
+- capitalize
+- elixir
 title: Capitalize in Elixir
 ---
 

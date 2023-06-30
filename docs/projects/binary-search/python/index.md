@@ -1,12 +1,14 @@
 ---
 authors:
-- rayavarapuvikram1
+- Jeremy Grifski
+- Vikram Rayavarapu
+date: 2019-10-27
 featured-image: binary-search-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2020-10-15
 layout: default
 tags:
+- binary-search
 - python
-- binary_search
 title: Binary Search in Python
 ---
 

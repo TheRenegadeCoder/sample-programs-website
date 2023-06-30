@@ -1,8 +1,14 @@
 ---
-date: '2018-12-30'
+authors:
+- Jeremy Grifski
+- Parker Johansen
+date: 2018-12-30
 featured-image: baklava-in-every-language.jpg
-last-modified: '2018-12-30'
+last-modified: 2022-10-10
 layout: default
+tags:
+- baklava
+- java
 title: Baklava in Java
 ---
 

@@ -1,8 +1,14 @@
 ---
-date: '2018-03-25'
+authors:
+- Jeremy Griffith
+- Parker Johansen
+date: 2018-03-25
 featured-image: hello-world-in-go.jpg
-last-modified: '2018-03-25'
+last-modified: 2019-04-01
 layout: default
+tags:
+- go
+- hello-world
 title: Hello World in Go
 ---
 

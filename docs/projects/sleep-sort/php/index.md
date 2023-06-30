@@ -1,8 +1,13 @@
 ---
-date: '2023-03-21'
+authors:
+- rzuckerm
+date: 2023-03-21
 featured-image: sleep-sort-in-every-language.jpg
-last-modified: '2023-03-21'
+last-modified: 2023-03-24
 layout: default
+tags:
+- php
+- sleep-sort
 title: Sleep Sort in Php
 ---
 

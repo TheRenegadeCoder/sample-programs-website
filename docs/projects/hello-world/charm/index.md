@@ -1,8 +1,13 @@
 ---
-date: '2020-12-09'
+authors:
+- Shivam Choudhary
+date: 2020-12-09
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2020-12-09'
+last-modified: 2020-12-09
 layout: default
+tags:
+- charm
+- hello-world
 title: Hello World in Charm
 ---
 

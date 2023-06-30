@@ -1,12 +1,13 @@
 ---
 authors:
 - rzuckerm
+date: 2023-04-05
 featured-image: quine-in-rust.jpg
 last-modified: 2023-04-05
 layout: default
 tags:
-- rust
 - quine
+- rust
 title: Quine in Rust
 ---
 

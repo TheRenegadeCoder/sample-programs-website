@@ -1,8 +1,13 @@
 ---
-date: '2023-04-22'
+authors:
+- rzuckerm
+date: 2023-04-22
 featured-image: convex-hull-in-every-language.jpg
-last-modified: '2023-04-22'
+last-modified: 2023-05-08
 layout: default
+tags:
+- convex-hull
+- rust
 title: Convex Hull in Rust
 ---
 

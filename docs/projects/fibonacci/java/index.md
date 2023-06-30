@@ -1,8 +1,15 @@
 ---
-date: '2018-10-03'
+authors:
+- Jeremy Grifski
+- Marius
+- Parker Johansen
+date: 2018-10-03
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2018-10-03'
+last-modified: 2022-10-10
 layout: default
+tags:
+- fibonacci
+- java
 title: Fibonacci in Java
 ---
 

@@ -1,8 +1,10 @@
 ---
-date: '2023-05-04'
+date: 2023-05-04
 featured-image: programming-languages.jpg
-last-modified: '2023-05-04'
+last-modified: 2023-05-07
 layout: default
+tags:
+- x86-64
 title: The X86 64 Programming Language
 ---
 

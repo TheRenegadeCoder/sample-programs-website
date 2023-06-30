@@ -1,8 +1,13 @@
 ---
-date: '2019-10-20'
+authors:
+- coderdecoder01
+date: 2019-10-20
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2019-10-20'
+last-modified: 2019-10-20
 layout: default
+tags:
+- apex
+- reverse-string
 title: Reverse String in Apex
 ---
 

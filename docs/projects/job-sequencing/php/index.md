@@ -1,8 +1,14 @@
 ---
-date: '2019-10-28'
+authors:
+- Jeremy Grifski
+- Kateryna Tokar
+date: 2019-10-28
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: '2019-10-28'
+last-modified: 2022-05-09
 layout: default
+tags:
+- job-sequencing
+- php
 title: Job Sequencing in Php
 ---
 

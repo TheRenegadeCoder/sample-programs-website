@@ -1,12 +1,13 @@
 ---
 authors:
-- veevidify
+- rzuckerm
+date: 2023-05-15
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2023-05-15
 layout: default
 tags:
-- scala
 - file-input-output
+- scala
 title: File Input Output in Scala
 ---
 

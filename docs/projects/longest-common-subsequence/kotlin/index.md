@@ -1,8 +1,14 @@
 ---
-date: '2020-10-05'
+authors:
+- Blake.Ke
+- David Phillips
+date: 2020-10-05
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: '2020-10-05'
+last-modified: 2020-10-09
 layout: default
+tags:
+- kotlin
+- longest-common-subsequence
 title: Longest Common Subsequence in Kotlin
 ---
 

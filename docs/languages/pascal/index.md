@@ -1,8 +1,7 @@
 ---
-authors:
-- the_renegade_coder
+date: 2018-04-10
 featured-image: programming-languages.jpg
-last-modified: 2020-05-02
+last-modified: 2021-10-29
 layout: default
 tags:
 - pascal

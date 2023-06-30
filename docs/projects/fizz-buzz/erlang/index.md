@@ -1,8 +1,13 @@
 ---
-date: '2019-10-04'
+authors:
+- Caio Ariede
+date: 2019-10-04
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2019-10-04'
+last-modified: 2019-10-04
 layout: default
+tags:
+- erlang
+- fizz-buzz
 title: Fizz Buzz in Erlang
 ---
 

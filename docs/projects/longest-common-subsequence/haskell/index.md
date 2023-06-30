@@ -1,8 +1,13 @@
 ---
-date: '2018-10-20'
+authors:
+- Parker Johansen
+date: 2018-10-20
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: '2018-10-20'
+last-modified: 2019-03-26
 layout: default
+tags:
+- haskell
+- longest-common-subsequence
 title: Longest Common Subsequence in Haskell
 ---
 

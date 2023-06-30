@@ -1,8 +1,14 @@
 ---
-date: '2018-12-28'
+authors:
+- Bharath
+- Parker Johansen
+date: 2018-12-28
 featured-image: factorial-in-every-language.jpg
-last-modified: '2018-12-28'
+last-modified: 2019-10-16
 layout: default
+tags:
+- c-sharp
+- factorial
 title: Factorial in C#
 ---
 

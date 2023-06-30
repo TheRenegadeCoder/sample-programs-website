@@ -1,12 +1,13 @@
 ---
 authors:
-- the_renegade_coder
+- Jeremy Griffith
+date: 2018-04-20
 featured-image: hello-world-in-wren.jpg
-last-modified: 2020-05-02
+last-modified: 2018-04-20
 layout: default
 tags:
-- wren
 - hello-world
+- wren
 title: Hello World in Wren
 ---
 

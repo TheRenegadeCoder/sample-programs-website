@@ -1,8 +1,14 @@
 ---
-date: '2019-01-03'
+authors:
+- Carles Capell
+- Parker Johansen
+date: 2019-01-03
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2019-01-03'
+last-modified: 2019-10-15
 layout: default
+tags:
+- fibonacci
+- php
 title: Fibonacci in Php
 ---
 

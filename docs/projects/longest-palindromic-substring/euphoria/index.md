@@ -1,8 +1,13 @@
 ---
-date: '2023-02-26'
+authors:
+- rzuckerm
+date: 2023-02-26
 featured-image: longest-palindromic-substring-in-every-language.jpg
-last-modified: '2023-02-26'
+last-modified: 2023-02-26
 layout: default
+tags:
+- euphoria
+- longest-palindromic-substring
 title: Longest Palindromic Substring in Euphoria
 ---
 

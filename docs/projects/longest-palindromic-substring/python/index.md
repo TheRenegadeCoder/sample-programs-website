@@ -1,8 +1,13 @@
 ---
-date: '2020-10-26'
+authors:
+- izexi
+date: 2020-10-26
 featured-image: longest-palindromic-substring-in-every-language.jpg
-last-modified: '2020-10-26'
+last-modified: 2020-10-26
 layout: default
+tags:
+- longest-palindromic-substring
+- python
 title: Longest Palindromic Substring in Python
 ---
 

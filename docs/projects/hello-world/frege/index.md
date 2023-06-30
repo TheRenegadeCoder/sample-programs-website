@@ -1,8 +1,13 @@
 ---
-date: '2018-11-14'
+authors:
+- joel ibaceta
+date: 2018-11-14
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-11-14'
+last-modified: 2018-11-14
 layout: default
+tags:
+- frege
+- hello-world
 title: Hello World in Frege
 ---
 

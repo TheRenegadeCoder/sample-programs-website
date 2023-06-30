@@ -1,8 +1,7 @@
 ---
-authors:
-- the_renegade_coder
+date: 2018-03-21
 featured-image: programming-languages.jpg
-last-modified: 2021-08-12
+last-modified: 2020-10-08
 layout: default
 tags:
 - ruby

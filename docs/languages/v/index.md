@@ -1,8 +1,10 @@
 ---
-date: '2023-06-17'
+date: 2023-06-17
 featured-image: programming-languages.jpg
-last-modified: '2023-06-17'
+last-modified: 2023-06-17
 layout: default
+tags:
+- v
 title: The V Programming Language
 ---
 

@@ -1,8 +1,10 @@
 ---
-date: '2018-05-05'
+date: 2018-05-05
 featured-image: programming-languages.jpg
-last-modified: '2018-05-05'
+last-modified: 2018-05-05
 layout: default
+tags:
+- emojicode
 title: The Emojicode Programming Language
 ---
 

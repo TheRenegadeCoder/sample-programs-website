@@ -1,8 +1,13 @@
 ---
-date: '2020-10-01'
+authors:
+- Renato
+date: 2020-10-01
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2020-10-01'
+last-modified: 2020-10-01
 layout: default
+tags:
+- fibonacci
+- objective-c
 title: Fibonacci in Objective C
 ---
 

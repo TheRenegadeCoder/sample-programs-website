@@ -1,8 +1,14 @@
 ---
-date: '2019-10-22'
+authors:
+- Michael Olson
+- rzuckerm
+date: 2019-10-22
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2019-10-22'
+last-modified: 2023-03-19
 layout: default
+tags:
+- nim
+- reverse-string
 title: Reverse String in Nim
 ---
 

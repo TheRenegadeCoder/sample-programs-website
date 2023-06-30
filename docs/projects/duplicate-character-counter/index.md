@@ -1,10 +1,7 @@
 ---
-authors:
-- GoodbyeBlues
-- the_renegade_coder
-date: 2020-10-11
+date: 2022-05-14
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2022-05-14
+last-modified: 2023-04-09
 layout: default
 tags:
 - duplicate-character-counter

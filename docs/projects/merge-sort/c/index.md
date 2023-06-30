@@ -1,8 +1,13 @@
 ---
-date: '2019-10-15'
+authors:
+- panda311
+date: 2019-10-15
 featured-image: merge-sort-in-every-language.jpg
-last-modified: '2019-10-15'
+last-modified: 2019-10-16
 layout: default
+tags:
+- c
+- merge-sort
 title: Merge Sort in C
 ---
 

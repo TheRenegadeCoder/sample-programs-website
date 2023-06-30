@@ -1,8 +1,13 @@
 ---
-date: '2018-08-23'
+authors:
+- Jeremy Grifski
+date: 2018-08-23
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-08-23'
+last-modified: 2018-08-23
 layout: default
+tags:
+- hello-world
+- little
 title: Hello World in Little
 ---
 

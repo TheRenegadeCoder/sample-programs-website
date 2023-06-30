@@ -1,8 +1,10 @@
 ---
-date: '2018-09-20'
+date: 2018-09-20
 featured-image: programming-languages.jpg
-last-modified: '2018-09-20'
+last-modified: 2018-09-20
 layout: default
+tags:
+- never
 title: The Never Programming Language
 ---
 

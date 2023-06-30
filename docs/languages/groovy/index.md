@@ -1,8 +1,10 @@
 ---
-date: '2018-04-19'
+date: 2018-04-19
 featured-image: programming-languages.jpg
-last-modified: '2018-04-19'
+last-modified: 2019-10-20
 layout: default
+tags:
+- groovy
 title: The Groovy Programming Language
 ---
 

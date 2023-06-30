@@ -1,8 +1,13 @@
 ---
-date: '2023-02-28'
+authors:
+- rzuckerm
+date: 2023-02-28
 featured-image: maximum-subarray-in-every-language.jpg
-last-modified: '2023-02-28'
+last-modified: 2023-02-28
 layout: default
+tags:
+- euphoria
+- maximum-subarray
 title: Maximum Subarray in Euphoria
 ---
 

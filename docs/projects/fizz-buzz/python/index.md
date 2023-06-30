@@ -1,12 +1,13 @@
 ---
 authors:
-- samdoj
+- xPolar
+date: 2020-10-05
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2020-05-02
+last-modified: 2020-10-05
 layout: default
 tags:
-- python
 - fizz-buzz
+- python
 title: Fizz Buzz in Python
 ---
 

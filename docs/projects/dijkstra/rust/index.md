@@ -1,8 +1,13 @@
 ---
-date: '2023-04-20'
+authors:
+- rzuckerm
+date: 2023-04-20
 featured-image: dijkstra-in-every-language.jpg
-last-modified: '2023-04-20'
+last-modified: 2023-05-08
 layout: default
+tags:
+- dijkstra
+- rust
 title: Dijkstra in Rust
 ---
 

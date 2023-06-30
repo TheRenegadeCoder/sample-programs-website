@@ -1,8 +1,13 @@
 ---
-date: '2020-10-11'
+authors:
+- smallblack9
+date: 2020-10-11
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2020-10-11'
+last-modified: 2020-10-11
 layout: default
+tags:
+- fibonacci
+- swift
 title: Fibonacci in Swift
 ---
 

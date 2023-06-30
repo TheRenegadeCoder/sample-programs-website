@@ -1,12 +1,13 @@
 ---
 authors:
-- the_renegade_coder
+- Jeremy Griffith
+date: 2018-04-08
 featured-image: hello-world-in-lisp.jpg
-last-modified: 2020-05-02
+last-modified: 2018-04-08
 layout: default
 tags:
-- lisp
 - hello-world
+- lisp
 title: Hello World in Lisp
 ---
 

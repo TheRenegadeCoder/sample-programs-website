@@ -1,12 +1,13 @@
 ---
 authors:
-- the_renegade_coder
+- Jeremy Griffith
+date: 2018-04-10
 featured-image: hello-world-in-pascal.jpg
-last-modified: 2020-05-02
+last-modified: 2018-04-10
 layout: default
 tags:
-- pascal
 - hello-world
+- pascal
 title: Hello World in Pascal
 ---
 

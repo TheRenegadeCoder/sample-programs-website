@@ -1,9 +1,7 @@
 ---
-authors:
-- Sayantan Paul
-date: 2019-10-08
+date: 2020-10-17
 featured-image: longest-palindromic-substring-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2023-04-17
 layout: default
 tags:
 - longest-palindromic-substring

@@ -1,8 +1,13 @@
 ---
-date: '2018-12-30'
+authors:
+- Parker Johansen
+date: 2018-12-30
 featured-image: quine-in-every-language.jpg
-last-modified: '2018-12-30'
+last-modified: 2018-12-30
 layout: default
+tags:
+- c-sharp
+- quine
 title: Quine in C#
 ---
 

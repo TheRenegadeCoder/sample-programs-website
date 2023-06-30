@@ -1,8 +1,10 @@
 ---
 authors:
-- noah11012
+- Jeremy Grifski
+- Noah Nichols
+date: 2018-09-10
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2022-10-10
 layout: default
 tags:
 - c-plus-plus

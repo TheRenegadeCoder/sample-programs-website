@@ -1,12 +1,13 @@
 ---
 authors:
-- martyav
+- Marty A/V
+date: 2018-05-10
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2018-08-10
 layout: default
 tags:
-- swift
 - reverse-string
+- swift
 title: Reverse String in Swift
 ---
 

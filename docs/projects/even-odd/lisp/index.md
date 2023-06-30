@@ -1,8 +1,13 @@
 ---
-date: '2020-10-11'
+authors:
+- Parker Johansen
+date: 2020-10-11
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2020-10-11'
+last-modified: 2020-10-11
 layout: default
+tags:
+- even-odd
+- lisp
 title: Even Odd in Lisp
 ---
 

@@ -1,8 +1,14 @@
 ---
-date: '2018-10-03'
+authors:
+- Jeremy Grifski
+- Riley Martine
+date: 2018-10-03
 featured-image: file-input-output-in-every-language.jpg
-last-modified: '2018-10-03'
+last-modified: 2018-10-10
 layout: default
+tags:
+- dg
+- file-input-output
 title: File Input Output in Dg
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2020-03-01'
+authors:
+- Stuart Irwin
+date: 2020-03-01
 featured-image: baklava-in-every-language.jpg
-last-modified: '2020-03-01'
+last-modified: 2020-03-01
 layout: default
+tags:
+- baklava
+- solisp
 title: Baklava in Solisp
 ---
 

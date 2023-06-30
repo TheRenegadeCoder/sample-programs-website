@@ -1,8 +1,10 @@
 ---
 authors:
-- slashdoom
+- Bassem Mohamed
+- rzuckerm
+date: 2018-10-01
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2023-03-19
 layout: default
 tags:
 - dart

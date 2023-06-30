@@ -1,8 +1,13 @@
 ---
-date: '2018-09-13'
+authors:
+- Noah
+date: 2018-09-13
 featured-image: file-input-output-in-every-language.jpg
-last-modified: '2018-09-13'
+last-modified: 2018-09-13
 layout: default
+tags:
+- file-input-output
+- rust
 title: File Input Output in Rust
 ---
 

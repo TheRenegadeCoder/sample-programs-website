@@ -1,8 +1,13 @@
 ---
-date: '2020-11-02'
+authors:
+- Jeremy Grifski
+date: 2020-11-02
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2020-11-02'
+last-modified: 2020-11-02
 layout: default
+tags:
+- hello-world
+- raku
 title: Hello World in Raku
 ---
 

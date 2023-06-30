@@ -1,8 +1,10 @@
 ---
-date: '2018-05-03'
+date: 2018-05-03
 featured-image: programming-languages.jpg
-last-modified: '2018-05-03'
+last-modified: 2018-05-03
 layout: default
+tags:
+- elena
 title: The Elena Programming Language
 ---
 

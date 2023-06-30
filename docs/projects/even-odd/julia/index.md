@@ -1,8 +1,13 @@
 ---
-date: '2021-11-01'
+authors:
+- smjalageri
+date: 2021-11-01
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2021-11-01'
+last-modified: 2021-11-01
 layout: default
+tags:
+- even-odd
+- julia
 title: Even Odd in Julia
 ---
 

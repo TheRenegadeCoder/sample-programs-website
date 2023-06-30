@@ -1,12 +1,13 @@
 ---
 authors:
-- alexandra_woerner
+- Jeremy Grifski
+date: 2018-04-27
 featured-image: hello-world-in-r.jpg
-last-modified: 2020-10-15
+last-modified: 2018-04-27
 layout: default
 tags:
-- r
 - hello-world
+- r
 title: Hello World in R
 ---
 

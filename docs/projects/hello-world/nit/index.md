@@ -1,8 +1,13 @@
 ---
-date: '2021-05-25'
+authors:
+- Jeremy Grifski
+date: 2021-05-25
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2021-05-25'
+last-modified: 2021-05-25
 layout: default
+tags:
+- hello-world
+- nit
 title: Hello World in Nit
 ---
 

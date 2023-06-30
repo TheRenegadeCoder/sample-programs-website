@@ -1,8 +1,13 @@
 ---
-date: '2019-03-15'
+authors:
+- Parker Johansen
+date: 2019-03-15
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: '2019-03-15'
+last-modified: 2019-03-25
 layout: default
+tags:
+- go
+- insertion-sort
 title: Insertion Sort in Go
 ---
 

@@ -1,12 +1,14 @@
 ---
 authors:
-- Alina1Black
+- Marius
+- Parker Johansen
+date: 2018-10-04
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2019-04-07
 layout: default
 tags:
-- javascript
 - fibonacci
+- javascript
 title: Fibonacci in Javascript
 ---
 

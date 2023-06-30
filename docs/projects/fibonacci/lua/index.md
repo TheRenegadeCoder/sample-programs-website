@@ -1,8 +1,13 @@
 ---
-date: '2019-10-14'
+authors:
+- Andy Alban
+date: 2019-10-14
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2019-10-14'
+last-modified: 2019-10-14
 layout: default
+tags:
+- fibonacci
+- lua
 title: Fibonacci in Lua
 ---
 

@@ -1,8 +1,14 @@
 ---
-date: '2019-10-13'
+authors:
+- Amanda Eubanks
+- Jeremy Grifski
+date: 2019-10-13
 featured-image: capitalize-in-every-language.jpg
-last-modified: '2019-10-13'
+last-modified: 2019-10-26
 layout: default
+tags:
+- capitalize
+- haskell
 title: Capitalize in Haskell
 ---
 

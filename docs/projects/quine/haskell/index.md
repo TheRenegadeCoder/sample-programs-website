@@ -1,8 +1,13 @@
 ---
-date: '2018-11-19'
+authors:
+- Parker Johansen
+date: 2018-11-19
 featured-image: quine-in-every-language.jpg
-last-modified: '2018-11-19'
+last-modified: 2018-11-19
 layout: default
+tags:
+- haskell
+- quine
 title: Quine in Haskell
 ---
 

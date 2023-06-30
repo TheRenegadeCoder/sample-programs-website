@@ -1,8 +1,10 @@
 ---
-date: '2018-06-22'
+date: 2018-06-22
 featured-image: programming-languages.jpg
-last-modified: '2018-06-22'
+last-modified: 2019-10-03
 layout: default
+tags:
+- typescript
 title: The Typescript Programming Language
 ---
 

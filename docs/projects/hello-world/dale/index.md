@@ -1,8 +1,13 @@
 ---
-date: '2018-10-03'
+authors:
+- tom-vthptvh
+date: 2018-10-03
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-10-03'
+last-modified: 2018-10-03
 layout: default
+tags:
+- dale
+- hello-world
 title: Hello World in Dale
 ---
 

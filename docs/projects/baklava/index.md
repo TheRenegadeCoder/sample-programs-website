@@ -1,9 +1,7 @@
 ---
-authors:
-- the_renegade_coder
-date: 2018-11-01
+date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2022-05-18
+last-modified: 2023-05-04
 layout: default
 tags:
 - baklava

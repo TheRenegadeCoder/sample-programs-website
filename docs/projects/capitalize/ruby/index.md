@@ -1,8 +1,13 @@
 ---
-date: '2020-10-08'
+authors:
+- Couraxe
+date: 2020-10-08
 featured-image: capitalize-in-every-language.jpg
-last-modified: '2020-10-08'
+last-modified: 2020-10-08
 layout: default
+tags:
+- capitalize
+- ruby
 title: Capitalize in Ruby
 ---
 

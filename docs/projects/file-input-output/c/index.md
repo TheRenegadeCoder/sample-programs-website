@@ -1,8 +1,13 @@
 ---
-date: '2018-09-12'
+authors:
+- "Christoph B\xF6hmwalder"
+date: 2018-09-12
 featured-image: file-input-output-in-every-language.jpg
-last-modified: '2018-09-12'
+last-modified: 2018-09-12
 layout: default
+tags:
+- c
+- file-input-output
 title: File Input Output in C
 ---
 

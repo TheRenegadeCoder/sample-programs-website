@@ -1,8 +1,13 @@
 ---
-date: '2023-04-18'
+authors:
+- rzuckerm
+date: 2023-04-18
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: '2023-04-18'
+last-modified: 2023-05-08
 layout: default
+tags:
+- longest-common-subsequence
+- rust
 title: Longest Common Subsequence in Rust
 ---
 

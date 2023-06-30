@@ -1,8 +1,13 @@
 ---
-date: '2018-05-03'
+authors:
+- Jeremy Grifski
+date: 2018-05-03
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-05-03'
+last-modified: 2018-05-03
 layout: default
+tags:
+- agda
+- hello-world
 title: Hello World in Agda
 ---
 

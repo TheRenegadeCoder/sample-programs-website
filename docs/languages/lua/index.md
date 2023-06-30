@@ -1,9 +1,7 @@
 ---
-authors:
-- the_renegade_coder
-date: 2020-05-02
+date: 2018-04-19
 featured-image: programming-languages.jpg
-last-modified: 2022-05-18
+last-modified: 2019-10-31
 layout: default
 tags:
 - lua

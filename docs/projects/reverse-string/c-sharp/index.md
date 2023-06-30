@@ -1,8 +1,14 @@
 ---
-date: '2018-04-25'
+authors:
+- ildoc
+- Jeremy Grifski
+date: 2018-04-25
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2018-04-25'
+last-modified: 2018-07-03
 layout: default
+tags:
+- c-sharp
+- reverse-string
 title: Reverse String in C#
 ---
 

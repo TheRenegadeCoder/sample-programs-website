@@ -1,8 +1,13 @@
 ---
-date: '2023-01-21'
+authors:
+- Ben Hekster
+date: 2023-01-21
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: '2023-01-21'
+last-modified: 2023-01-21
 layout: default
+tags:
+- duplicate-character-counter
+- mathematica
 title: Duplicate Character Counter in Mathematica
 ---
 

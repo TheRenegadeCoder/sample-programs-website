@@ -1,8 +1,14 @@
 ---
-date: '2019-10-09'
+authors:
+- Jeremy Grifski
+- Nathaniel Niosco
+date: 2019-10-09
 featured-image: capitalize-in-every-language.jpg
-last-modified: '2019-10-09'
+last-modified: 2019-10-26
 layout: default
+tags:
+- capitalize
+- go
 title: Capitalize in Go
 ---
 

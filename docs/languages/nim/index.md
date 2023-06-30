@@ -1,8 +1,10 @@
 ---
-date: '2019-10-16'
+date: 2019-10-16
 featured-image: programming-languages.jpg
-last-modified: '2019-10-16'
+last-modified: 2019-10-22
 layout: default
+tags:
+- nim
 title: The Nim Programming Language
 ---
 

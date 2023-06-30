@@ -1,8 +1,10 @@
 ---
-date: '2018-04-19'
+date: 2018-04-19
 featured-image: programming-languages.jpg
-last-modified: '2018-04-19'
+last-modified: 2018-04-19
 layout: default
+tags:
+- tcl
 title: The Tcl Programming Language
 ---
 

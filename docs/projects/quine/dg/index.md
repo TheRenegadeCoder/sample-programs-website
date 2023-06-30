@@ -1,8 +1,13 @@
 ---
-date: '2018-10-03'
+authors:
+- Riley Martine
+date: 2018-10-03
 featured-image: quine-in-every-language.jpg
-last-modified: '2018-10-03'
+last-modified: 2018-10-03
 layout: default
+tags:
+- dg
+- quine
 title: Quine in Dg
 ---
 

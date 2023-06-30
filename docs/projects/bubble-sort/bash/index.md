@@ -1,8 +1,13 @@
 ---
-date: '2019-10-01'
+authors:
+- Lucas Schaan
+date: 2019-10-01
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: '2019-10-01'
+last-modified: 2019-10-01
 layout: default
+tags:
+- bash
+- bubble-sort
 title: Bubble Sort in Bash
 ---
 

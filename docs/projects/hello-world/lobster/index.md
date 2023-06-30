@@ -1,8 +1,13 @@
 ---
-date: '2019-09-14'
+authors:
+- Abel D
+date: 2019-09-14
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2019-09-14'
+last-modified: 2019-09-16
 layout: default
+tags:
+- hello-world
+- lobster
 title: Hello World in Lobster
 ---
 

@@ -1,8 +1,14 @@
 ---
-date: '2018-05-11'
+authors:
+- Jeremy Grifski
+- Muhammad
+date: 2018-05-11
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-05-11'
+last-modified: 2021-08-10
 layout: default
+tags:
+- hello-world
+- lolcode
 title: Hello World in Lolcode
 ---
 

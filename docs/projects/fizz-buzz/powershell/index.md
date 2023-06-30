@@ -1,12 +1,14 @@
 ---
 authors:
-- alcha
+- Devin Leaman
+- rzuckerm
+date: 2018-08-04
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2020-05-02
+last-modified: 2023-05-15
 layout: default
 tags:
-- powershell
 - fizz-buzz
+- powershell
 title: Fizz Buzz in Powershell
 ---
 

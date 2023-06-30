@@ -1,8 +1,13 @@
 ---
-date: '2020-10-04'
+authors:
+- niftycode
+date: 2020-10-04
 featured-image: quick-sort-in-every-language.jpg
-last-modified: '2020-10-04'
+last-modified: 2020-10-04
 layout: default
+tags:
+- objective-c
+- quick-sort
 title: Quick Sort in Objective C
 ---
 

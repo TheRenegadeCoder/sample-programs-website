@@ -1,8 +1,13 @@
 ---
-date: '2019-11-01'
+authors:
+- zafar hussain
+date: 2019-11-01
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2019-11-01'
+last-modified: 2019-11-01
 layout: default
+tags:
+- gerbil
+- hello-world
 title: Hello World in Gerbil
 ---
 

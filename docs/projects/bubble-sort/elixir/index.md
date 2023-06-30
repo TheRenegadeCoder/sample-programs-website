@@ -1,8 +1,14 @@
 ---
-date: '2019-10-03'
+authors:
+- Jeremy Grifski
+- Sree Siva Sandeep Palaparthi
+date: 2019-10-03
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: '2019-10-03'
+last-modified: 2019-10-16
 layout: default
+tags:
+- bubble-sort
+- elixir
 title: Bubble Sort in Elixir
 ---
 

@@ -1,8 +1,10 @@
 ---
-date: '2018-11-22'
+date: 2018-11-22
 featured-image: programming-languages.jpg
-last-modified: '2018-11-22'
+last-modified: 2018-11-22
 layout: default
+tags:
+- chapel
 title: The Chapel Programming Language
 ---
 

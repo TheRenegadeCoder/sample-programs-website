@@ -1,8 +1,13 @@
 ---
-date: '2023-01-20'
+authors:
+- rzuckerm
+date: 2023-01-20
 featured-image: prime-number-in-every-language.jpg
-last-modified: '2023-01-20'
+last-modified: 2023-01-30
 layout: default
+tags:
+- algol68
+- prime-number
 title: Prime Number in Algol68
 ---
 

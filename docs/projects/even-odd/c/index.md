@@ -1,9 +1,10 @@
 ---
 authors:
-- shubhragupta-code
-date: &id001 2020-10-05
+- AceKnight
+- Jeremy Grifski
+date: 2018-10-21
 featured-image: even-odd-in-every-language.jpg
-last-modified: *id001
+last-modified: 2019-03-30
 layout: default
 tags:
 - c

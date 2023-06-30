@@ -1,8 +1,13 @@
 ---
-date: '2020-10-19'
+authors:
+- Veena ManikPrabhu
+date: 2020-10-19
 featured-image: factorial-in-every-language.jpg
-last-modified: '2020-10-19'
+last-modified: 2020-10-19
 layout: default
+tags:
+- factorial
+- r
 title: Factorial in R
 ---
 

@@ -1,9 +1,9 @@
 ---
 authors:
-- shubhragupta-code
-date: 2021-10-26
+- Matias
+date: 2019-10-15
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2021-10-26
+last-modified: 2019-10-15
 layout: default
 tags:
 - c

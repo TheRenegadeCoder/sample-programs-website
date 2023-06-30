@@ -1,8 +1,10 @@
 ---
-date: '2018-11-14'
+date: 2018-11-14
 featured-image: programming-languages.jpg
-last-modified: '2018-11-14'
+last-modified: 2018-11-14
 layout: default
+tags:
+- frege
 title: The Frege Programming Language
 ---
 

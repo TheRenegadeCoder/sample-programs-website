@@ -1,8 +1,13 @@
 ---
-date: '2020-10-05'
+authors:
+- SirePi
+date: 2020-10-05
 featured-image: sleep-sort-in-every-language.jpg
-last-modified: '2020-10-05'
+last-modified: 2020-10-05
 layout: default
+tags:
+- c-sharp
+- sleep-sort
 title: Sleep Sort in C#
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2020-12-02'
+authors:
+- Shivam Choudhary
+date: 2020-12-02
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2020-12-02'
+last-modified: 2020-12-02
 layout: default
+tags:
+- cyclone
+- hello-world
 title: Hello World in Cyclone
 ---
 

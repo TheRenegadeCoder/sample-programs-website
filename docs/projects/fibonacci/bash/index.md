@@ -1,8 +1,13 @@
 ---
-date: '2018-10-26'
+authors:
+- Parker Johansen
+date: 2018-10-26
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2018-10-26'
+last-modified: 2019-04-07
 layout: default
+tags:
+- bash
+- fibonacci
 title: Fibonacci in Bash
 ---
 

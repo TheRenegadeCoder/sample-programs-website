@@ -1,8 +1,14 @@
 ---
-date: '2019-10-11'
+authors:
+- Hanyuan Li
+- Jeremy Grifski
+date: 2019-10-11
 featured-image: factorial-in-every-language.jpg
-last-modified: '2019-10-11'
+last-modified: 2020-10-15
 layout: default
+tags:
+- coffeescript
+- factorial
 title: Factorial in Coffeescript
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2019-10-10'
+authors:
+- Michael Beebower
+date: 2019-10-10
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2019-10-10'
+last-modified: 2019-10-10
 layout: default
+tags:
+- formality
+- hello-world
 title: Hello World in Formality
 ---
 

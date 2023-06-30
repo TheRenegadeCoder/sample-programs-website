@@ -1,8 +1,14 @@
 ---
-date: '2019-07-15'
+authors:
+- Jeremy Grifski
+- Vincent Caron
+date: 2019-07-15
 featured-image: rot13-in-every-language.jpg
-last-modified: '2019-07-15'
+last-modified: 2022-05-16
 layout: default
+tags:
+- rot13
+- rust
 title: Rot13 in Rust
 ---
 

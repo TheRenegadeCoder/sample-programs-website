@@ -1,8 +1,10 @@
 ---
-date: '2018-04-22'
+date: 2018-04-22
 featured-image: programming-languages.jpg
-last-modified: '2018-04-22'
+last-modified: 2018-04-22
 layout: default
+tags:
+- lily
 title: The Lily Programming Language
 ---
 

@@ -1,8 +1,14 @@
 ---
-date: '2019-10-03'
+authors:
+- Ray
+- rzuckerm
+date: 2019-10-03
 featured-image: capitalize-in-every-language.jpg
-last-modified: '2019-10-03'
+last-modified: 2023-05-15
 layout: default
+tags:
+- capitalize
+- typescript
 title: Capitalize in Typescript
 ---
 

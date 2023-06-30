@@ -1,8 +1,13 @@
 ---
-date: '2019-10-16'
+authors:
+- Michael Olson
+date: 2019-10-16
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2019-10-16'
+last-modified: 2019-10-16
 layout: default
+tags:
+- fibonacci
+- nim
 title: Fibonacci in Nim
 ---
 

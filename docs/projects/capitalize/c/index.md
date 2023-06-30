@@ -1,9 +1,10 @@
 ---
 authors:
-- shubhragupta-code
-date: 2021-10-25
+- Jeremy Grifski
+- Softizo
+date: 2019-10-09
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2021-10-26
+last-modified: 2019-10-26
 layout: default
 tags:
 - c

@@ -1,8 +1,10 @@
 ---
-date: '2018-07-05'
+date: 2018-07-05
 featured-image: programming-languages.jpg
-last-modified: '2018-07-05'
+last-modified: 2018-07-05
 layout: default
+tags:
+- clipper
 title: The Clipper Programming Language
 ---
 

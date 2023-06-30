@@ -1,12 +1,13 @@
 ---
 authors:
-- the_renegade_coder
+- Jeremy Griffith
+date: 2018-04-19
 featured-image: hello-world-in-lua.jpg
-last-modified: 2020-10-15
+last-modified: 2018-04-19
 layout: default
 tags:
-- lua
 - hello-world
+- lua
 title: Hello World in Lua
 ---
 

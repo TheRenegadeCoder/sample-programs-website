@@ -1,9 +1,7 @@
 ---
-authors:
-- virtual_flat
-date: 2020-05-02
+date: 2018-04-11
 featured-image: programming-languages.jpg
-last-modified: 2022-05-18
+last-modified: 2020-10-08
 layout: default
 tags:
 - matlab

@@ -1,8 +1,13 @@
 ---
-date: '2018-07-04'
+authors:
+- Sebastian Veitleder
+date: 2018-07-04
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2018-07-04'
+last-modified: 2018-07-04
 layout: default
+tags:
+- reverse-string
+- rust
 title: Reverse String in Rust
 ---
 

@@ -1,12 +1,14 @@
 ---
 authors:
-- MandyMericle
+- Jeremy Grifski
+- Parker Johansen
+date: 2018-12-22
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2020-10-15
 layout: default
 tags:
-- python
 - even-odd
+- python
 title: Even Odd in Python
 ---
 

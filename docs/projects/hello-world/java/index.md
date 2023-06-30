@@ -1,8 +1,15 @@
 ---
-date: '2018-03-15'
+authors:
+- Jeremy Griffith
+- Jeremy Grifski
+- vivmost
+date: 2018-03-15
 featured-image: hello-world-in-java.jpg
-last-modified: '2018-03-15'
+last-modified: 2022-10-10
 layout: default
+tags:
+- hello-world
+- java
 title: Hello World in Java
 ---
 

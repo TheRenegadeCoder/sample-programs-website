@@ -1,8 +1,9 @@
 ---
 authors:
-- the_renegade_coder
+- Jeremy Griffith
+date: 2018-04-20
 featured-image: hello-world-in-goby.jpg
-last-modified: 2020-05-02
+last-modified: 2018-04-20
 layout: default
 tags:
 - goby

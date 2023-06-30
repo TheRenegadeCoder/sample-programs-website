@@ -1,8 +1,13 @@
 ---
-date: '2019-10-16'
+authors:
+- mericleac
+date: 2019-10-16
 featured-image: selection-sort-in-every-language.jpg
-last-modified: '2019-10-16'
+last-modified: 2019-10-16
 layout: default
+tags:
+- javascript
+- selection-sort
 title: Selection Sort in Javascript
 ---
 

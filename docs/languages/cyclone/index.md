@@ -1,8 +1,10 @@
 ---
-date: '2020-12-02'
+date: 2020-12-02
 featured-image: programming-languages.jpg
-last-modified: '2020-12-02'
+last-modified: 2020-12-02
 layout: default
+tags:
+- cyclone
 title: The Cyclone Programming Language
 ---
 

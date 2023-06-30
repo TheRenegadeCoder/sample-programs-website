@@ -1,8 +1,14 @@
 ---
-date: '2018-09-17'
+authors:
+- Jeremy Grifski
+- Parker Johansen
+date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: '2018-09-17'
+last-modified: 2019-04-01
 layout: default
+tags:
+- baklava
+- go
 title: Baklava in Go
 ---
 

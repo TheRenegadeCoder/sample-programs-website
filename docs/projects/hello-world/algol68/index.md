@@ -1,8 +1,9 @@
 ---
 authors:
-- the_renegade_coder
+- Jeremy Grifski
+date: 2018-05-06
 featured-image: hello-world-in-algol68.jpg
-last-modified: 2020-05-02
+last-modified: 2018-05-06
 layout: default
 tags:
 - algol68

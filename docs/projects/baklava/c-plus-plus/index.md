@@ -1,8 +1,15 @@
 ---
-date: '2019-10-09'
+authors:
+- Behnam Ahmad khan beigi
+- Jeremy Grifski
+- yottanami
+date: 2019-10-09
 featured-image: baklava-in-every-language.jpg
-last-modified: '2019-10-09'
+last-modified: 2022-10-10
 layout: default
+tags:
+- baklava
+- c-plus-plus
 title: Baklava in C++
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2022-10-03'
+authors:
+- Vipin Yadav
+date: 2022-10-03
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: '2022-10-03'
+last-modified: 2022-10-03
 layout: default
+tags:
+- c
+- duplicate-character-counter
 title: Duplicate Character Counter in C
 ---
 

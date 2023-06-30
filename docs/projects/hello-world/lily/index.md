@@ -1,8 +1,13 @@
 ---
-date: '2018-04-22'
+authors:
+- Jeremy Griffith
+date: 2018-04-22
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-04-22'
+last-modified: 2018-04-22
 layout: default
+tags:
+- hello-world
+- lily
 title: Hello World in Lily
 ---
 

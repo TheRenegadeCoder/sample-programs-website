@@ -1,8 +1,13 @@
 ---
-date: '2018-10-03'
+authors:
+- Riley Martine
+date: 2018-10-03
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2018-10-03'
+last-modified: 2018-10-03
 layout: default
+tags:
+- dg
+- fizz-buzz
 title: Fizz Buzz in Dg
 ---
 

@@ -1,8 +1,14 @@
 ---
-date: '2020-10-19'
+authors:
+- rzuckerm
+- smjalageri
+date: 2020-10-19
 featured-image: reverse-string-in-every-language.jpg
-last-modified: '2020-10-19'
+last-modified: 2023-03-19
 layout: default
+tags:
+- pascal
+- reverse-string
 title: Reverse String in Pascal
 ---
 

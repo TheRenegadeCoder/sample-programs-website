@@ -1,8 +1,13 @@
 ---
-date: '2019-05-22'
+authors:
+- Oleksii Filonenko
+date: 2019-05-22
 featured-image: baklava-in-every-language.jpg
-last-modified: '2019-05-22'
+last-modified: 2019-05-22
 layout: default
+tags:
+- baklava
+- elixir
 title: Baklava in Elixir
 ---
 

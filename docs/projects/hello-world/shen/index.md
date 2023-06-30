@@ -1,8 +1,13 @@
 ---
-date: '2018-06-28'
+authors:
+- Jeremy Grifski
+date: 2018-06-28
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-06-28'
+last-modified: 2018-06-28
 layout: default
+tags:
+- hello-world
+- shen
 title: Hello World in Shen
 ---
 

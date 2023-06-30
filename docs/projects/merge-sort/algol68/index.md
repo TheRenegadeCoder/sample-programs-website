@@ -1,8 +1,13 @@
 ---
-date: '2023-01-29'
+authors:
+- rzuckerm
+date: 2023-01-29
 featured-image: merge-sort-in-every-language.jpg
-last-modified: '2023-01-29'
+last-modified: 2023-01-31
 layout: default
+tags:
+- algol68
+- merge-sort
 title: Merge Sort in Algol68
 ---
 

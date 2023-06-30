@@ -1,8 +1,14 @@
 ---
-date: '2019-10-14'
+authors:
+- Jeremy Grifski
+- thetbl
+date: 2019-10-14
 featured-image: prime-number-in-every-language.jpg
-last-modified: '2019-10-14'
+last-modified: 2021-05-22
 layout: default
+tags:
+- bash
+- prime-number
 title: Prime Number in Bash
 ---
 

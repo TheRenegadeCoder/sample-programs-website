@@ -1,8 +1,14 @@
 ---
-date: '2019-10-27'
+authors:
+- Jeremy Grifski
+- Sailok Chinta
+date: 2019-10-27
 featured-image: binary-search-in-every-language.jpg
-last-modified: '2019-10-27'
+last-modified: 2022-10-10
 layout: default
+tags:
+- binary-search
+- c-plus-plus
 title: Binary Search in C++
 ---
 

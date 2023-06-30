@@ -1,8 +1,13 @@
 ---
-date: '2019-09-12'
+authors:
+- Parker Johansen
+date: 2019-09-12
 featured-image: baklava-in-every-language.jpg
-last-modified: '2019-09-12'
+last-modified: 2019-09-12
 layout: default
+tags:
+- baklava
+- f-sharp
 title: Baklava in F#
 ---
 

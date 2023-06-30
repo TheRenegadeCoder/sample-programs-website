@@ -1,8 +1,13 @@
 ---
-date: '2020-10-25'
+authors:
+- manasmithamn
+date: 2020-10-25
 featured-image: file-input-output-in-every-language.jpg
-last-modified: '2020-10-25'
+last-modified: 2020-10-25
 layout: default
+tags:
+- file-input-output
+- r
 title: File Input Output in R
 ---
 

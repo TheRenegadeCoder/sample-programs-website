@@ -1,12 +1,15 @@
 ---
 authors:
-- noah11012
+- Ganesh Naik
+- Jeremy Grifski
+- Noah Nichols
+date: 2018-09-12
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2020-05-02
+last-modified: 2020-10-15
 layout: default
 tags:
-- python
 - file-input-output
+- python
 title: File Input Output in Python
 ---
 

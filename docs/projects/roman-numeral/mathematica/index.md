@@ -1,8 +1,13 @@
 ---
-date: '2023-01-16'
+authors:
+- Ben Hekster
+date: 2023-01-16
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: '2023-01-16'
+last-modified: 2023-01-16
 layout: default
+tags:
+- mathematica
+- roman-numeral
 title: Roman Numeral in Mathematica
 ---
 

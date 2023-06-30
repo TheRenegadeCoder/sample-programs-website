@@ -1,8 +1,14 @@
 ---
-date: '2018-09-17'
+authors:
+- Jeremy Grifski
+- Parker Johansen
+date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: '2018-09-17'
+last-modified: 2019-03-18
 layout: default
+tags:
+- baklava
+- bash
 title: Baklava in Bash
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2020-10-03'
+authors:
+- Aneendya
+date: 2020-10-03
 featured-image: fibonacci-in-every-language.jpg
-last-modified: '2020-10-03'
+last-modified: 2020-10-03
 layout: default
+tags:
+- fibonacci
+- quack
 title: Fibonacci in Quack
 ---
 

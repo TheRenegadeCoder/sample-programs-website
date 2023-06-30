@@ -1,8 +1,10 @@
 ---
-date: '2018-04-24'
+date: 2018-04-24
 featured-image: programming-languages.jpg
-last-modified: '2018-04-24'
+last-modified: 2018-04-24
 layout: default
+tags:
+- gravity
 title: The Gravity Programming Language
 ---
 

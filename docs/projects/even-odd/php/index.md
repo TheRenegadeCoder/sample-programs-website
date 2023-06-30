@@ -1,8 +1,14 @@
 ---
-date: '2019-10-16'
+authors:
+- Berry Semexan
+- Jeremy Grifski
+date: 2019-10-16
 featured-image: even-odd-in-every-language.jpg
-last-modified: '2019-10-16'
+last-modified: 2022-05-09
 layout: default
+tags:
+- even-odd
+- php
 title: Even Odd in Php
 ---
 

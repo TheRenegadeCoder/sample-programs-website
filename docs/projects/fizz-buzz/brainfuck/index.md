@@ -1,8 +1,13 @@
 ---
-date: '2018-08-24'
+authors:
+- "Christoph B\xF6hmwalder"
+date: 2018-08-24
 featured-image: fizz-buzz-in-every-language.png
-last-modified: '2018-08-24'
+last-modified: 2018-08-24
 layout: default
+tags:
+- brainfuck
+- fizz-buzz
 title: Fizz Buzz in Brainfuck
 ---
 

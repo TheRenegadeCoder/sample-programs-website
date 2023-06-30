@@ -1,8 +1,13 @@
 ---
-date: '2023-04-15'
+authors:
+- rzuckerm
+date: 2023-04-15
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: '2023-04-15'
+last-modified: 2023-05-08
 layout: default
+tags:
+- job-sequencing
+- rust
 title: Job Sequencing in Rust
 ---
 

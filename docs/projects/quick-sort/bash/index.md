@@ -1,8 +1,14 @@
 ---
-date: '2019-10-14'
+authors:
+- tehtbl
+- thetbl
+date: 2019-10-14
 featured-image: quick-sort-in-every-language.jpg
-last-modified: '2019-10-14'
+last-modified: 2019-10-14
 layout: default
+tags:
+- bash
+- quick-sort
 title: Quick Sort in Bash
 ---
 

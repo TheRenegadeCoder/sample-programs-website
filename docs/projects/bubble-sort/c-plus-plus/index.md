@@ -1,8 +1,14 @@
 ---
-date: '2019-10-02'
+authors:
+- Jayden Thrasher
+- Jeremy Grifski
+date: 2019-10-02
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: '2019-10-02'
+last-modified: 2022-10-10
 layout: default
+tags:
+- bubble-sort
+- c-plus-plus
 title: Bubble Sort in C++
 ---
 

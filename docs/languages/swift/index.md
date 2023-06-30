@@ -1,8 +1,10 @@
 ---
-date: '2018-03-25'
+date: 2018-03-25
 featured-image: programming-languages.jpg
-last-modified: '2018-03-25'
+last-modified: 2020-10-11
 layout: default
+tags:
+- swift
 title: The Swift Programming Language
 ---
 

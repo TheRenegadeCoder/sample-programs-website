@@ -1,8 +1,13 @@
 ---
-date: '2018-09-17'
+authors:
+- Jeremy Grifski
+date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: '2018-09-17'
+last-modified: 2019-04-02
 layout: default
+tags:
+- baklava
+- fortran
 title: Baklava in Fortran
 ---
 

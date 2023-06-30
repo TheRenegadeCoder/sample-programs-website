@@ -1,8 +1,13 @@
 ---
-date: '2018-06-15'
+authors:
+- Jeremy Grifski
+date: 2018-06-15
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-06-15'
+last-modified: 2018-06-15
 layout: default
+tags:
+- hello-world
+- odin
 title: Hello World in Odin
 ---
 

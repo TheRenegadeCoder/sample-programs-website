@@ -1,8 +1,13 @@
 ---
-date: '2023-04-17'
+authors:
+- rzuckerm
+date: 2023-04-17
 featured-image: transpose-matrix-in-every-language.jpg
-last-modified: '2023-04-17'
+last-modified: 2023-05-08
 layout: default
+tags:
+- rust
+- transpose-matrix
 title: Transpose Matrix in Rust
 ---
 

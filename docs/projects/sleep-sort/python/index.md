@@ -1,8 +1,14 @@
 ---
-date: '2020-10-02'
+authors:
+- aymaneMx
+- Jeremy Grifski
+date: 2020-10-02
 featured-image: sleep-sort-in-every-language.jpg
-last-modified: '2020-10-02'
+last-modified: 2020-10-15
 layout: default
+tags:
+- python
+- sleep-sort
 title: Sleep Sort in Python
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2021-05-07'
+authors:
+- Pete Lomax
+date: 2021-05-07
 featured-image: baklava-in-every-language.jpg
-last-modified: '2021-05-07'
+last-modified: 2021-05-07
 layout: default
+tags:
+- baklava
+- phix
 title: Baklava in Phix
 ---
 

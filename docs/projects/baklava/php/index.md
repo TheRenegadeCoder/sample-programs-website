@@ -1,8 +1,13 @@
 ---
-date: '2018-09-17'
+authors:
+- Jeremy Grifski
+date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: '2018-09-17'
+last-modified: 2022-05-09
 layout: default
+tags:
+- baklava
+- php
 title: Baklava in Php
 ---
 

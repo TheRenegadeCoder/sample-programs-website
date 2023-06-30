@@ -1,8 +1,13 @@
 ---
-date: '2018-08-28'
+authors:
+- Bassem Mohamed
+date: 2018-08-28
 featured-image: hello-world-in-every-language.jpg
-last-modified: '2018-08-28'
+last-modified: 2018-08-28
 layout: default
+tags:
+- hello-world
+- orc
 title: Hello World in Orc
 ---
 

@@ -1,12 +1,13 @@
 ---
 authors:
 - rzuckerm
+date: 2023-06-19
 featured-image: hello-world-in-yoix.jpg
 last-modified: 2023-06-19
 layout: default
 tags:
-- yoix
 - hello-world
+- yoix
 title: Hello World in Yoix
 ---
 

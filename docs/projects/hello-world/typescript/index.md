@@ -1,12 +1,13 @@
 ---
 authors:
-- bracciata
+- Jeremy Grifski
+date: 2018-06-22
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2020-09-30
+last-modified: 2018-06-22
 layout: default
 tags:
-- typescript
 - hello-world
+- typescript
 title: Hello World in Typescript
 ---
 

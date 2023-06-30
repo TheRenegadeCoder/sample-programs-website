@@ -1,9 +1,10 @@
 ---
 authors:
-- shubhragupta-code
-date: 2021-10-24
+- Jeremy Grifski
+- Manan Gill
+date: 2019-10-09
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2021-10-24
+last-modified: 2020-10-15
 layout: default
 tags:
 - capitalize

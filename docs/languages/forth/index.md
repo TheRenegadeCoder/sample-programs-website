@@ -1,8 +1,10 @@
 ---
-date: '2018-04-27'
+date: 2018-04-27
 featured-image: programming-languages.jpg
-last-modified: '2018-04-27'
+last-modified: 2018-04-27
 layout: default
+tags:
+- forth
 title: The Forth Programming Language
 ---
 

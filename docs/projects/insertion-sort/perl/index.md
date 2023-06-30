@@ -1,8 +1,13 @@
 ---
-date: '2020-10-02'
+authors:
+- SourabhBadhya
+date: 2020-10-02
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: '2020-10-02'
+last-modified: 2020-10-02
 layout: default
+tags:
+- insertion-sort
+- perl
 title: Insertion Sort in Perl
 ---
 

@@ -1,8 +1,13 @@
 ---
-date: '2018-10-20'
+authors:
+- Mark Magahis
+date: 2018-10-20
 featured-image: baklava-in-every-language.jpg
-last-modified: '2018-10-20'
+last-modified: 2018-10-22
 layout: default
+tags:
+- baklava
+- swift
 title: Baklava in Swift
 ---
 

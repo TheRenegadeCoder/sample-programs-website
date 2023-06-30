@@ -1,8 +1,13 @@
 ---
-date: '2018-12-02'
+authors:
+- Parker Johansen
+date: 2018-12-02
 featured-image: selection-sort-in-every-language.jpg
-last-modified: '2018-12-02'
+last-modified: 2019-03-26
 layout: default
+tags:
+- haskell
+- selection-sort
 title: Selection Sort in Haskell
 ---
 
