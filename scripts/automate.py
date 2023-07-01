@@ -125,7 +125,7 @@ def _generate_front_matter(
         created_at: Optional[datetime.datetime] = None, 
         last_modified: Optional[datetime.datetime] = None, 
         image: Optional[str] = None,
-        authors: Optional[Iterable[str]] = None,
+        authors: Optional[Set[str]] = None,
         tags: Optional[Iterable[str]] = None
     ):
     """
@@ -136,7 +136,7 @@ def _generate_front_matter(
     :param datetime.datetime created_at: optional date/time when item is created.
     :param datatime.datetime last_modified: optional date/time when item was last modified.
     :param str image: optional filename of the image.
-    :param Iterable[str] authors: optional list of authors
+    :param Set[str] authors: optional list of authors
     :param Iterable[str] tags: optional list of tags
     """
     front_matter = {"title": title, "layout": "default"}
@@ -423,13 +423,14 @@ def generate_main_page(repo: subete.Repo):
     num_articles = 0
     language: subete.LanguageCollection
     for language in repo:
-        num_articles += 1
+        num_articles += 1  # 1 article per language
+        program: subete.SampleProgram
         for program in language:
             authors |= program.authors()
             times.append(program.created())
-            num_articles += 1
+            num_articles += 1  # 1 article per sample program
 
-    num_articles += len(repo.approved_projects())
+    num_articles += len(repo.approved_projects())  # Include all the project articles
 
     log.info("Generating main page")
     main_page: snakemd.Document = snakemd.new_doc()
