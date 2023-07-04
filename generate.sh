@@ -26,7 +26,7 @@ python -m http.server >/dev/null &
 pid=$!
 trap "printf '\n\n*** Kill webserver (PID %s) ***\n' $pid; \
     kill $pid; \
-    git checkout ../languages ../projects; \
+    git checkout ../languages ../projects ../index.md; \
     git clean -f ../languages ../projects" SIGINT SIGHUP SIGABRT
 sleep 5
 

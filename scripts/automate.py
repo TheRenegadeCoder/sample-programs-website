@@ -1,4 +1,4 @@
-from typing import Optional, Iterable, List
+from typing import Optional, Iterable, List, Set
 import datetime
 import functools
 import imghdr
@@ -125,7 +125,7 @@ def _generate_front_matter(
         created_at: Optional[datetime.datetime] = None, 
         last_modified: Optional[datetime.datetime] = None, 
         image: Optional[str] = None,
-        authors: Optional[Iterable[str]] = None,
+        authors: Optional[Set[str]] = None,
         tags: Optional[Iterable[str]] = None
     ):
     """
@@ -136,7 +136,7 @@ def _generate_front_matter(
     :param datetime.datetime created_at: optional date/time when item is created.
     :param datatime.datetime last_modified: optional date/time when item was last modified.
     :param str image: optional filename of the image.
-    :param Iterable[str] authors: optional list of authors
+    :param Set[str] authors: optional list of authors
     :param Iterable[str] tags: optional list of tags
     """
     front_matter = {"title": title, "layout": "default"}
@@ -282,8 +282,7 @@ def _get_default_project_image() -> Optional[str]:
 
     :return: Filename of image if found, None otherwise
     """
-
-    _get_image(pathlib.Path("sources"), DEFAULT_PROJECT_IMAGE_NO_EXT)
+    return _get_image(pathlib.Path("sources/projects"), DEFAULT_PROJECT_IMAGE_NO_EXT)
 
 
 @functools.lru_cache()
@@ -411,6 +410,74 @@ def _get_default_language_image() -> Optional[str]:
     """
 
     return _get_image(pathlib.Path("sources/languages"), DEFAULT_LANGUAGE_IMAGE_NO_EXT)
+
+
+def generate_main_page(repo: subete.Repo):
+    """
+    Generate the main page.
+
+    :param subete.Repo repo: the repo to pull from.
+    """
+    authors: Set[str] = set()
+    times: List[datetime.datetime] = []
+    num_articles = 0
+    language: subete.LanguageCollection
+    for language in repo:
+        num_articles += 1  # 1 article per language
+        program: subete.SampleProgram
+        for program in language:
+            authors |= program.authors()
+            times.append(program.created())
+            num_articles += 1  # 1 article per sample program
+
+    num_articles += len(repo.approved_projects())  # Include all the project articles
+
+    log.info("Generating main page")
+    main_page: snakemd.Document = snakemd.new_doc()
+    _generate_front_matter(
+        main_page,
+        "Sample Programs in Every Language",
+        created_at=min(times),
+        last_modified=max(times)
+    )
+    main_page.add_paragraph(
+        "Welcome to Sample Programs in Every Language, a collection of code snippets "
+        "in as many languages as possible. Thanks for taking an interest in our collection "
+        f"which currently contains {num_articles} articles written by {len(authors)} authors."
+    )
+    paragraph = snakemd.Paragraph(
+        [
+            snakemd.Inline(
+                "If you'd like to contribute to this growing collection, check out our "
+            ),
+            snakemd.Inline(
+                "contributing document",
+                link="https://github.com/TheRenegadeCoder/sample-programs/blob/master/.github/CONTRIBUTING.md"
+            ),
+            snakemd.Inline(
+                " for more information. In addition, you can explore our documentation which is organized by "
+            ),
+            snakemd.Inline("project", link="/projects"),
+            snakemd.Inline(" and by "),
+            snakemd.Inline("language", link="/languages"),
+            snakemd.Inline(". If you don't find what you're look for, check out our list of related "),
+            snakemd.Inline("open-source projects", link="/related"),
+            snakemd.Inline(
+                ". Finally, if code isn't your thing but you'd still like to help, there are plenty "
+                "of other ways to "
+            ),
+            snakemd.Inline(
+                "support the project",
+                link="https://therenegadecoder.com/updates/5-ways-you-can-support-the-renegade-coder/"
+            ),
+            snakemd.Inline(".")
+        ]
+    )
+    main_page.add_paragraph(str(paragraph))
+    try:
+        main_page.dump("index", "docs")
+    except Exception:
+        log.exception("Failed to write docs/index")
 
 
 def generate_project_paths(repo: subete.Repo):
@@ -757,6 +824,7 @@ if __name__ == "__main__":
     log.info("Loading repos (this may take several minutes)")
     repo = subete.load()
 
+    generate_main_page(repo)
     generate_language_paths(repo)
     generate_auto_gen_test_docs(repo)
     generate_project_paths(repo)
