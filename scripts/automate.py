@@ -141,7 +141,7 @@ def _generate_front_matter(
     front_matter = {"title": title.replace("\\", ""), "layout": "default"}
     filtered_times: List[datetime.datetime] = list(filter(None, times or []))
     created_at: Optional[datetime.datetime] = min(filtered_times, default=None)
-    last_modified = Optional[datetime.datetime] = max(filtered_times, default=None)
+    last_modified: Optional[datetime.datetime] = max(filtered_times, default=None)
     if created_at:
         front_matter["date"] = created_at.date()
 
@@ -222,8 +222,8 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         .insert_link("please consider contributing", "https://github.com/TheRenegadeCoder/sample-programs")
 
     created_at: datetime.datetime = program.created()
-    modified = datetime.datetime = program.modified()
-    doc_modified = Optional[datetime.datetime] = program.doc_modified()
+    modified: datetime.datetime = program.modified()
+    doc_modified: Optional[datetime.datetime] = program.doc_modified()
     if created_at != modified and doc_modified and doc_modified < modified:
         datetime_format = "%b %d %Y %H:%M:%S"
         doc.add_paragraph(
