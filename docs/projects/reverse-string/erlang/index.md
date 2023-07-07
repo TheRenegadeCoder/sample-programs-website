@@ -38,7 +38,7 @@ start(Number) when is_integer(Number) ->
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
+Reverse String in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
 
 - Mark Magahis
 

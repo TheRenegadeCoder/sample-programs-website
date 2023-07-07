@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```coffeescript
 console.log("Hello, World!")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
+Hello World in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
 
 - Parker Johansen
 

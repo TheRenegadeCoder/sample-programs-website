@@ -20,11 +20,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 ```orc
 Println("Hello, World!") >>
 stop
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Orc](https://sampleprograms.io/languages/orc) was written by:
+Hello World in [Orc](https://sampleprograms.io/languages/orc) was written by:
 
 - Bassem Mohamed
 

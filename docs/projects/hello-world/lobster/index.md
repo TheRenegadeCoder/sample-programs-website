@@ -32,13 +32,11 @@ while gl_frame() and gl_button("escape") != 1:
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Lobster](https://sampleprograms.io/languages/lobster) was written by:
+Hello World in [Lobster](https://sampleprograms.io/languages/lobster) was written by:
 
 - Abel D
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Sep 16 2019 13:20:15. The solution was first committed on Sep 14 2019 12:53:02. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

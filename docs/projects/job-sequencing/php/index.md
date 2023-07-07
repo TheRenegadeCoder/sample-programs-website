@@ -62,18 +62,17 @@ function return_error()
     echo "Usage: please provide a list of profits and a list of deadlines\n";
     exit();
 }
+
 ```
 
 {% endraw %}
 
-[Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Php](https://sampleprograms.io/languages/php) was written by:
+Job Sequencing in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - Jeremy Grifski
 - Kateryna Tokar
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 28 2019 19:28:30. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

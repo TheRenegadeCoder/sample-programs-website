@@ -6,7 +6,7 @@ authors:
 - Siddhartha Dhar Choudhury
 date: 2019-10-17
 featured-image: linear-search-in-every-language.jpg
-last-modified: 2023-01-29
+last-modified: 2023-05-15
 layout: default
 tags:
 - linear-search
@@ -41,20 +41,25 @@ else:
     key = int(sys.argv[2])
     array = sysarg_to_list(sys.argv[1])
     print(linear_search(array, key))
+
 ```
 
 {% endraw %}
 
-[Linear Search](https://sampleprograms.io/projects/linear-search) in [Python](https://sampleprograms.io/languages/python) was written by:
+Linear Search in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - frankhart2017
 - Jeremy Grifski
 - rzuckerm
 - Siddhartha Dhar Choudhury
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 29 2023 21:43:56. The solution was first committed on Oct 17 2019 18:06:11. As a result, documentation below may be outdated.
+- frankhart2017
+- Jeremy Grifski
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

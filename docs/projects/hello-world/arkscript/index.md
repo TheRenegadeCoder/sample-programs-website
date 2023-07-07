@@ -23,7 +23,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Arkscript](https://sampleprograms.io/languages/arkscript) was written by:
+Hello World in [Arkscript](https://sampleprograms.io/languages/arkscript) was written by:
 
 - SuperFola
 

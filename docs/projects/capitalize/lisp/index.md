@@ -37,17 +37,16 @@ Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [L
 (cond
   ((= (length (car input)) 0) (write-line "Usage: please provide a string"))
   (t (write-line (join-string (cons (capitalize (car input)) (cdr input))))))
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
+Capitalize in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
 
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 10:18:56. The solution was first committed on Oct 09 2020 11:46:14. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -54,11 +54,12 @@ fn main() {
 
     println!("{:?}", quicksort_recursive(input_vec));
 }
+
 ```
 
 {% endraw %}
 
-[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Quick Sort in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Paolo Cretaro
 

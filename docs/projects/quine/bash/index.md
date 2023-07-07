@@ -19,11 +19,12 @@ Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Bash](https
 
 ```bash
 echo $BASH_COMMAND
+
 ```
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [Bash](https://sampleprograms.io/languages/bash) was written by:
+Quine in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
 - Jeng
 

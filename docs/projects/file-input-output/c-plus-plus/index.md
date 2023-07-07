@@ -2,9 +2,10 @@
 authors:
 - Jeremy Grifski
 - Noah Nichols
+- rzuckerm
 date: 2018-09-10
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2022-10-10
+last-modified: 2023-05-15
 layout: default
 tags:
 - c-plus-plus
@@ -71,14 +72,17 @@ int main()
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+File Input Output in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Jeremy Grifski
 - Noah Nichols
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 16:05:09. The solution was first committed on Sep 10 2018 22:37:35. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

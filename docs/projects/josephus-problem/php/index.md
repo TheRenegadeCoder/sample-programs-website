@@ -92,11 +92,12 @@ if ($n === FALSE || $k === FALSE)
 // Run Josephus problem and store results
 $g = josephus($n, $k);
 echo "${g}\n";
+
 ```
 
 {% endraw %}
 
-[Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Php](https://sampleprograms.io/languages/php) was written by:
+Josephus Problem in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

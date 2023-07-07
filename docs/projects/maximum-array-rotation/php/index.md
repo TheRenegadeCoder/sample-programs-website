@@ -155,11 +155,12 @@ if ($values === FALSE)
 // Calculate maximum array rotation and display
 $max_value = maximum_array_rotation($values);
 echo "${max_value}\n";
+
 ```
 
 {% endraw %}
 
-[Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [Php](https://sampleprograms.io/languages/php) was written by:
+Maximum Array Rotation in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

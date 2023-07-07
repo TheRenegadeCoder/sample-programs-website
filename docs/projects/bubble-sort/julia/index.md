@@ -73,17 +73,18 @@ try
 catch e
     error()
 end
+
+
+
 ```
 
 {% endraw %}
 
-[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Julia](https://sampleprograms.io/languages/julia) was written by:
+Bubble Sort in [Julia](https://sampleprograms.io/languages/julia) was written by:
 
 - sniklas142
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 01 2020 20:53:17. The solution was first committed on Oct 01 2020 15:22:44. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

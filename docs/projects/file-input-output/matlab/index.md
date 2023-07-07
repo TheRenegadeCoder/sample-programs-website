@@ -37,11 +37,14 @@ if file == -1
 end
 a = fscanf(file,'%s');
 fprintf(a)
+
+
+
 ```
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
+File Input Output in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
 
 - iwishiwasaneagle
 

@@ -19,11 +19,12 @@ Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Algol68](ht
 
 ```algol68
 STRINGs:="STRINGs:="";printf(($gl$,s[:10]*2+s[10:]*2))";printf(($gl$,s[:10]*2+s[10:]*2))
+
 ```
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Quine in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

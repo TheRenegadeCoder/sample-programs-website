@@ -1,10 +1,11 @@
 ---
 authors:
+- Jeremy Grifski
 - Noah Nichols
 - rzuckerm
 date: 2018-09-24
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2023-03-19
+last-modified: 2023-05-15
 layout: default
 tags:
 - reverse-string
@@ -28,14 +29,17 @@ end
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Reverse String in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Noah Nichols
 - rzuckerm
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:24:49. The solution was first committed on Sep 24 2018 15:19:38. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

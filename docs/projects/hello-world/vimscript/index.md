@@ -23,11 +23,12 @@ func! Hello()
 endfunc
 
 au BufEnter,BufReadPost * call Hello()
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Vimscript](https://sampleprograms.io/languages/vimscript) was written by:
+Hello World in [Vimscript](https://sampleprograms.io/languages/vimscript) was written by:
 
 - Christoph Böhmwalder
 

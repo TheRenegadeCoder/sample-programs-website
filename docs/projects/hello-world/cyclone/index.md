@@ -20,14 +20,15 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 ```cyclone
 #include <stdio.h>
 int main() {
-    puts("Hello, World!");
-    return 0;
+	puts("Hello, World!");
+	return 0;
 }
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Cyclone](https://sampleprograms.io/languages/cyclone) was written by:
+Hello World in [Cyclone](https://sampleprograms.io/languages/cyclone) was written by:
 
 - Shivam Choudhary
 

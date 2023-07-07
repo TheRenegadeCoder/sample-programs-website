@@ -51,18 +51,17 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 ```
 
 {% endraw %}
 
-[Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Python](https://sampleprograms.io/languages/python) was written by:
+Palindromic Number in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Grifski
 - manasmithamn
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2022 01:31:51. The solution was first committed on Oct 27 2021 22:20:36. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

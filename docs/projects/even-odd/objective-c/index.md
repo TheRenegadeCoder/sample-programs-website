@@ -41,7 +41,7 @@ int main (int argc, char *argv[])
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
+Even Odd in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - Siddhant
 

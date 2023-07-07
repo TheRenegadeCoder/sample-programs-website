@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```chaiscript
 print("Hello, World!")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Chaiscript](https://sampleprograms.io/languages/chaiscript) was written by:
+Hello World in [Chaiscript](https://sampleprograms.io/languages/chaiscript) was written by:
 
 - Jeremy Grifski
 

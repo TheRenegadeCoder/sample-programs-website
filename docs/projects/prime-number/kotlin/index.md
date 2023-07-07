@@ -44,18 +44,17 @@ fun main(args: Array<String>)
         println("Composite")
     }
 }
+
 ```
 
 {% endraw %}
 
-[Prime Number](https://sampleprograms.io/projects/prime-number) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
+Prime Number in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 - Blake.Ke
 - smallblack9
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 22:55:30. The solution was first committed on Oct 08 2020 21:50:57. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

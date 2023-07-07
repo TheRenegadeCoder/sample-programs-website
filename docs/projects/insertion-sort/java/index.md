@@ -79,19 +79,18 @@ public class InsertionSort {
     }
 
 }
+
 ```
 
 {% endraw %}
 
-[Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Java](https://sampleprograms.io/languages/java) was written by:
+Insertion Sort in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Ganesh Naik
 - Jeremy Grifski
 - Shubham Raj
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Oct 15 2019 00:10:22. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

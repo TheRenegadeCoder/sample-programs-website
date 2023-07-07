@@ -71,18 +71,17 @@ fn main() {
     bubble_sort(&mut arr);
     println!("{arr:?}");
 }
+
 ```
 
 {% endraw %}
 
-[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Bubble Sort in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Andrew Johnson
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 08 2023 19:53:07. The solution was first committed on Oct 03 2020 19:46:19. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

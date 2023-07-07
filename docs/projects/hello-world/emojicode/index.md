@@ -2,9 +2,10 @@
 authors:
 - Jeremy Grifski
 - rzuckerm
+- Thomas Braccia
 date: 2018-05-05
 featured-image: hello-world-in-emojicode.jpg
-last-modified: 2023-05-13
+last-modified: 2023-05-15
 layout: default
 tags:
 - emojicode
@@ -22,18 +23,23 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 🏁 🍇
   😀 🔤Hello, World!🔤❗️
 🍉
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Emojicode](https://sampleprograms.io/languages/emojicode) was written by:
+Hello World in [Emojicode](https://sampleprograms.io/languages/emojicode) was written by:
 
 - Jeremy Grifski
 - rzuckerm
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 13 2023 21:01:35. The solution was first committed on May 05 2018 17:08:17. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+- Thomas Braccia
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

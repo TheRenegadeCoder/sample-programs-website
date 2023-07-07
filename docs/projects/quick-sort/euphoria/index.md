@@ -149,17 +149,16 @@ end if
 -- Do quick sort and show results
 values = quick_sort(values)
 show_list_values(values)
+
 ```
 
 {% endraw %}
 
-[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Quick Sort in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Feb 27 2023 22:02:37. The solution was first committed on Feb 19 2023 21:55:20. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -1,7 +1,7 @@
 ---
 date: 2018-12-02
 featured-image: selection-sort-in-every-language.jpg
-last-modified: 2023-04-06
+last-modified: 2023-05-15
 layout: default
 tags:
 - selection-sort
@@ -9,6 +9,12 @@ title: Selection Sort
 ---
 
 Welcome to the Selection Sort page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
+
+This article was written by:
+
+- Jeremy Grifski
+- Parker Johansen
+- Ron Zuckerman
 
 ## Description
 

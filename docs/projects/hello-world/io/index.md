@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```io
 "Hello, World!" println
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Io](https://sampleprograms.io/languages/io) was written by:
+Hello World in [Io](https://sampleprograms.io/languages/io) was written by:
 
 - Jeremy Grifski
 

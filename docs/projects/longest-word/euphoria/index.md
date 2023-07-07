@@ -52,11 +52,12 @@ end if
 -- Get longest word length and display it
 sequence s = argv[4]
 printf(STDOUT, "%d\n", longest_word(s))
+
 ```
 
 {% endraw %}
 
-[Longest Word](https://sampleprograms.io/projects/longest-word) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Longest Word in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

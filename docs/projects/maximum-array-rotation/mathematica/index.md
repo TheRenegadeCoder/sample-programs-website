@@ -56,11 +56,12 @@ Print /@ longestArrayRotationMain /@ {
 (* Invalid Tests *)
 
 longestArrayRotationMain[""]
+
 ```
 
 {% endraw %}
 
-[Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Maximum Array Rotation in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

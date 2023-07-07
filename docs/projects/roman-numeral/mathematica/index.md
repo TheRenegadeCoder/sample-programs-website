@@ -54,11 +54,12 @@ Print /@ romanNumeralsMain /@ {
 (* Invalid Tests *)
 
 romanNumeralsMain["XT"]
+
 ```
 
 {% endraw %}
 
-[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Roman Numeral in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

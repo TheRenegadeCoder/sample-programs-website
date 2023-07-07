@@ -173,17 +173,16 @@ FI;
 # Do bubble sort and show results #
 bubble sort(values);
 show list values(values)
+
 ```
 
 {% endraw %}
 
-[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Bubble Sort in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 30 2023 20:22:16. The solution was first committed on Jan 27 2023 14:00:19. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

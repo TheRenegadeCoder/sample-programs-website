@@ -42,11 +42,12 @@ try
 catch e
     err()
 end
+
 ```
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Julia](https://sampleprograms.io/languages/julia) was written by:
+Factorial in [Julia](https://sampleprograms.io/languages/julia) was written by:
 
 - sniklas142
 

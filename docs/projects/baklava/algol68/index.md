@@ -23,11 +23,12 @@ DO
     INT num spaces := ABS n;
     printf(($gl$, " " * num spaces + "*" * (21 - 2*num spaces)))
 OD
+
 ```
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Baklava in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

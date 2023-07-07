@@ -43,18 +43,17 @@ public class Baklava {
         down();
     }
 }
+
 ```
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Java](https://sampleprograms.io/languages/java) was written by:
+Baklava in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Jeremy Grifski
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Dec 30 2018 18:01:26. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -23,7 +23,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Charm](https://sampleprograms.io/languages/charm) was written by:
+Hello World in [Charm](https://sampleprograms.io/languages/charm) was written by:
 
 - Shivam Choudhary
 

@@ -2,9 +2,11 @@
 authors:
 - Jeremy Grifski
 - Juan F Gonzalez
+- Pascal Spiesz
+- rzuckerm
 date: 2018-07-27
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2021-05-22
+last-modified: 2023-05-15
 layout: default
 tags:
 - fizz-buzz
@@ -35,18 +37,23 @@ function fizzbuzz(num){
   }
   
 fizzbuzz(100);
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Fizz Buzz in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Jeremy Grifski
 - Juan F Gonzalez
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 22 2021 15:02:49. The solution was first committed on Jul 27 2018 10:37:06. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- Pascal Spiesz
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

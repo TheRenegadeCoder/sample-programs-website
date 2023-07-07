@@ -178,13 +178,11 @@ default:
 
 {% endraw %}
 
-[Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Swift](https://sampleprograms.io/languages/swift) was written by:
+Fraction Math in [Swift](https://sampleprograms.io/languages/swift) was written by:
 
 - Zapnuk
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 01 2020 17:31:54. The solution was first committed on Oct 01 2020 17:07:28. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

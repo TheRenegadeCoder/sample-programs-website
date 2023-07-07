@@ -21,11 +21,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 module Main where
 main :: IO ()
 main = putStrLn "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Eta](https://sampleprograms.io/languages/eta) was written by:
+Hello World in [Eta](https://sampleprograms.io/languages/eta) was written by:
 
 - Jeremy Grifski
 

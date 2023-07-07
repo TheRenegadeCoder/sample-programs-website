@@ -2,9 +2,10 @@
 authors:
 - Jeremy Griffith
 - Jeremy Grifski
+- rzuckerm
 date: 2018-03-21
 featured-image: hello-world-in-c-plus-plus.jpg
-last-modified: 2022-10-10
+last-modified: 2023-05-15
 layout: default
 tags:
 - c-plus-plus
@@ -27,18 +28,22 @@ int main()
     cout << "Hello, World!";
     return 0;
 }
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+Hello World in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Jeremy Griffith
 - Jeremy Grifski
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 16:05:09. The solution was first committed on Mar 21 2018 00:11:57. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

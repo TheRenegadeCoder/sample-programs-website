@@ -41,7 +41,7 @@ object FizzBuzz {
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Scala](https://sampleprograms.io/languages/scala) was written by:
+Fizz Buzz in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
 - Chris Thomas
 

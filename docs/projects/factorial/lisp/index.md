@@ -40,14 +40,12 @@ Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Lis
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
+Factorial in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
 
 - Parker Johansen
 - Renato
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 06:48:59. The solution was first committed on Oct 01 2020 17:40:32. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```ring
 see "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Ring](https://sampleprograms.io/languages/ring) was written by:
+Hello World in [Ring](https://sampleprograms.io/languages/ring) was written by:
 
 - Jeremy Griffith
 

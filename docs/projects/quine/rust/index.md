@@ -1,9 +1,10 @@
 ---
 authors:
+- Ron Zuckerman
 - rzuckerm
 date: 2023-04-05
 featured-image: quine-in-rust.jpg
-last-modified: 2023-04-05
+last-modified: 2023-04-06
 layout: default
 tags:
 - quine
@@ -19,12 +20,18 @@ Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Rust](https
 
 ```rust
 fn main(){println!("fn main(){{println!({0:?},{0:?})}}","fn main(){{println!({0:?},{0:?})}}")}
+
 ```
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Quine in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
+- rzuckerm
+
+This article was written by:
+
+- Ron Zuckerman
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).

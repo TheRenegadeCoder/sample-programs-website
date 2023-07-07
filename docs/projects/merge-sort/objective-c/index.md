@@ -63,7 +63,7 @@ NSArray* mergeSort(NSArray* randomArray){
 
 {% endraw %}
 
-[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
+Merge Sort in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - Harshal Singh Raushan
 

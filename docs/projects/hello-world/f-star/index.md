@@ -8,7 +8,7 @@ layout: default
 tags:
 - f-star
 - hello-world
-title: Hello World in F\*
+title: Hello World in F*
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [F\*](https://sampleprograms.io/languages/f-star) page! Here, you'll find the source code for this program as well as a description of how the program works.
@@ -23,11 +23,12 @@ module Hello
 open FStar.IO
 
 let main = print_string "Hello, World!\n"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [F\*](https://sampleprograms.io/languages/f-star) was written by:
+Hello World in [F\*](https://sampleprograms.io/languages/f-star) was written by:
 
 - Jeremy Grifski
 

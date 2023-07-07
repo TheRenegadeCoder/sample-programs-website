@@ -1,10 +1,12 @@
 ---
 authors:
 - Jeremy Grifski
+- rzuckerm
+- shubhragupta-code
 - Softizo
 date: 2019-10-09
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2019-10-26
+last-modified: 2023-05-15
 layout: default
 tags:
 - c
@@ -45,6 +47,7 @@ int main(int argc, char *argv[]) {
 
     return 0;
 }
+
 ```
 
 {% endraw %}
@@ -54,9 +57,13 @@ int main(int argc, char *argv[]) {
 - Jeremy Grifski
 - Softizo
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 21:04:13. The solution was first committed on Oct 09 2019 17:27:39. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+- shubhragupta-code
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

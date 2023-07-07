@@ -32,11 +32,12 @@ begin
       else
          writeln(i)
 end.
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
+Fizz Buzz in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
 
 - Eduardo Rodríguez
 

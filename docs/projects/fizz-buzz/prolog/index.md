@@ -46,7 +46,7 @@ main() :-
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Prolog](https://sampleprograms.io/languages/prolog) was written by:
+Fizz Buzz in [Prolog](https://sampleprograms.io/languages/prolog) was written by:
 
 - sabrinahuwang
 

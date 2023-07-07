@@ -50,18 +50,17 @@ fun main(args: Array<String>) {
 
     lcsOf(seqA, seqB).joinToString(", ").also { println(it) }
 }
+
 ```
 
 {% endraw %}
 
-[Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
+Longest Common Subsequence in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 - Blake.Ke
 - David Phillips
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 23:02:08. The solution was first committed on Oct 05 2020 00:20:57. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```f#
 printf "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [F#](https://sampleprograms.io/languages/f-sharp) was written by:
+Hello World in [F#](https://sampleprograms.io/languages/f-sharp) was written by:
 
 - Jeremy Grifski
 

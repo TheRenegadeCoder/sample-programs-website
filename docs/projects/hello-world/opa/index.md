@@ -1,9 +1,11 @@
 ---
 authors:
+- Jeremy Grifski
 - Nico Villanueva
+- rzuckerm
 date: 2018-07-16
 featured-image: hello-world-in-opa.jpg
-last-modified: 2018-07-16
+last-modified: 2023-05-15
 layout: default
 tags:
 - hello-world
@@ -19,20 +21,26 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```opa
 function page() {
-    <h1>Hello, World!</h1>
+	<h1>Hello, World!</h1>
 }
 
 Server.start(
-    Server.http,
-    {~page, title: "SPEPL"}
+	Server.http,
+	{~page, title: "SPEPL"}
 )
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Opa](https://sampleprograms.io/languages/opa) was written by:
+Hello World in [Opa](https://sampleprograms.io/languages/opa) was written by:
 
 - Nico Villanueva
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

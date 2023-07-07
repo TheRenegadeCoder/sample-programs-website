@@ -107,19 +107,18 @@ function main() {
 }
 
 main()
+
 ```
 
 {% endraw %}
 
-[Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Dijkstra in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Jeremy Grifski
 - Matteo Planchet
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 30 2023 15:49:43. The solution was first committed on Oct 25 2021 16:28:29. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -1,9 +1,11 @@
 ---
 authors:
+- Jeremy Grifski
 - Noah
+- rzuckerm
 date: 2018-09-13
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2018-09-13
+last-modified: 2023-05-15
 layout: default
 tags:
 - file-input-output
@@ -45,9 +47,14 @@ read_file()
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+File Input Output in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Noah
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

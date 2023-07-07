@@ -138,17 +138,16 @@ end if
 -- Do bubble sort and show results
 values = bubble_sort(values)
 show_list_values(values)
+
 ```
 
 {% endraw %}
 
-[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Bubble Sort in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Feb 27 2023 22:15:50. The solution was first committed on Feb 19 2023 21:26:52. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

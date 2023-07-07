@@ -127,7 +127,7 @@ _start:
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [X86 64](https://sampleprograms.io/languages/x86-64) was written by:
+Even Odd in [X86 64](https://sampleprograms.io/languages/x86-64) was written by:
 
 - alope107
 

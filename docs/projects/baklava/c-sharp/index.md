@@ -39,17 +39,16 @@ class CSharp
     }
 
 }
+
 ```
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
+Baklava in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 06 2023 22:50:37. The solution was first committed on Sep 17 2018 16:48:59. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

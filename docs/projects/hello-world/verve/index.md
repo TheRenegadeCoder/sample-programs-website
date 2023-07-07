@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```verve
 print("Hello, World!")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Verve](https://sampleprograms.io/languages/verve) was written by:
+Hello World in [Verve](https://sampleprograms.io/languages/verve) was written by:
 
 - Jeremy Grifski
 

@@ -51,11 +51,12 @@ palindromicNumberMain[""]
 palindromicNumberMain["a"]
 palindromicNumberMain["-5"]
 palindromicNumberMain["5.41"]
+
 ```
 
 {% endraw %}
 
-[Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Palindromic Number in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

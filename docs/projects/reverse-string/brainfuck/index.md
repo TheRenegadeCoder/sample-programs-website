@@ -19,11 +19,12 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 
 ```brainfuck
 >,[>,]<[.<]
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Brainfuck](https://sampleprograms.io/languages/brainfuck) was written by:
+Reverse String in [Brainfuck](https://sampleprograms.io/languages/brainfuck) was written by:
 
 - Christoph Böhmwalder
 

@@ -29,15 +29,13 @@ class HelloWorld {
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Java](https://sampleprograms.io/languages/java) was written by:
+Hello World in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Jeremy Griffith
 - Jeremy Grifski
 - vivmost
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Mar 15 2018 18:38:58. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

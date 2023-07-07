@@ -20,11 +20,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 ```mirth
 main : --
 main = "Hello world!" _prim_unsafe_print
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Mirth](https://sampleprograms.io/languages/mirth) was written by:
+Hello World in [Mirth](https://sampleprograms.io/languages/mirth) was written by:
 
 - Jeremy Grifski
 

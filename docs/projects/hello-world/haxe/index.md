@@ -23,11 +23,12 @@ class HelloWorld {
         trace("Hello, World!");
     }
 }
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Haxe](https://sampleprograms.io/languages/haxe) was written by:
+Hello World in [Haxe](https://sampleprograms.io/languages/haxe) was written by:
 
 - Jeremy Grifski
 

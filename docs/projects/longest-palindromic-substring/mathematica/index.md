@@ -52,11 +52,12 @@ Print /@ longestPalindromicSubstringMain /@ {
 (* Invalid Tests *)
 
 longestPalindromicSubstringMain[""]
+
 ```
 
 {% endraw %}
 
-[Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Longest Palindromic Substring in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

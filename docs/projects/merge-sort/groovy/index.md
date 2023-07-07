@@ -78,7 +78,7 @@ class MergeSort {
 
 {% endraw %}
 
-[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
+Merge Sort in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
 
 - Mykhaylo Samonov
 

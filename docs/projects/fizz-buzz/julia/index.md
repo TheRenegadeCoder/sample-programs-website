@@ -28,11 +28,12 @@ for i = 1:100
     end
     println(str)
 end
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Julia](https://sampleprograms.io/languages/julia) was written by:
+Fizz Buzz in [Julia](https://sampleprograms.io/languages/julia) was written by:
 
 - Michael King
 

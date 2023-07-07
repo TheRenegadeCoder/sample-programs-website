@@ -21,40 +21,39 @@ Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Mat
 function result=factorial(n)
 
 if n<0
-    error('Please input a non-negative integer')
+	error('Please input a non-negative integer')
 end
 
 if not(ischar(n))
-    error('Please input a non-negative integer')
+	error('Please input a non-negative integer')
 end
 
 if isempty(n)=1
-    error('Please input a non-negative integer')
+	error('Please input a non-negative integer')
 end
 
 x=1;
 
 if n>0
-    for i = 1:n
+	for i = 1:n
   
-            x=x*i;
+     		x=x*i;
 
-    end
+	end
 end
 
 result = x
 end
+
 ```
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
+Factorial in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
 
 - sdmmssa
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2019 20:10:31. The solution was first committed on Oct 11 2019 19:40:51. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

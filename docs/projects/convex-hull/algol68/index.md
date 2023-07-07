@@ -249,11 +249,12 @@ REF []POINT points = form points(values[1], values[2]);
 # Get convex hull of points and show points #
 REF []POINT hull points = convex hull(points);
 show points(hull points)
+
 ```
 
 {% endraw %}
 
-[Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Convex Hull in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

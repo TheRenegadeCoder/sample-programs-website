@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```nim
 echo "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Nim](https://sampleprograms.io/languages/nim) was written by:
+Hello World in [Nim](https://sampleprograms.io/languages/nim) was written by:
 
 - Michael Olson
 

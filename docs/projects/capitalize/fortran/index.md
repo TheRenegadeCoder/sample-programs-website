@@ -49,11 +49,12 @@ endif
     printoutput = adjustl(trim(cmd))
     write(*,'(g0.8)')printoutput
 end program capitalize
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
+Capitalize in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
 
 - Mallikarjuna S J
 

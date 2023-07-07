@@ -135,7 +135,7 @@ end:
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [X86 64](https://sampleprograms.io/languages/x86-64) was written by:
+Baklava in [X86 64](https://sampleprograms.io/languages/x86-64) was written by:
 
 - alope107
 

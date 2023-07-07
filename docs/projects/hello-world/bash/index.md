@@ -2,9 +2,10 @@
 authors:
 - Abdus
 - Jeremy Grifski
+- rzuckerm
 date: 2018-05-09
 featured-image: hello-world-in-bash.jpg
-last-modified: 2018-05-09
+last-modified: 2023-05-15
 layout: default
 tags:
 - bash
@@ -22,18 +23,22 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 #!/bin/bash
 
 echo Hello, World!
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Bash](https://sampleprograms.io/languages/bash) was written by:
+Hello World in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
 - Abdus
 - Jeremy Grifski
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2018 12:47:13. The solution was first committed on May 09 2018 11:32:08. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

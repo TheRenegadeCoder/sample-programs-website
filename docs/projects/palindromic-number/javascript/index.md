@@ -46,18 +46,17 @@ if (input !== '' && Number.isInteger(number) && number >= 0) {
 } else {
     console.log("Usage: please input a non-negative integer")
 }
+
 ```
 
 {% endraw %}
 
-[Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Palindromic Number in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Jeremy Grifski
 - smjalageri
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2022 01:31:51. The solution was first committed on Nov 01 2021 09:28:10. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

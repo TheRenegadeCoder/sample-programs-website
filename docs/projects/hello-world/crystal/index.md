@@ -1,9 +1,11 @@
 ---
 authors:
 - Jeremy Griffith
+- Jeremy Grifski
+- rzuckerm
 date: 2018-04-22
 featured-image: hello-world-in-crystal.jpg
-last-modified: 2018-04-22
+last-modified: 2023-05-15
 layout: default
 tags:
 - crystal
@@ -19,13 +21,19 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```crystal
 puts "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Crystal](https://sampleprograms.io/languages/crystal) was written by:
+Hello World in [Crystal](https://sampleprograms.io/languages/crystal) was written by:
 
 - Jeremy Griffith
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

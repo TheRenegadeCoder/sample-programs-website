@@ -1,7 +1,7 @@
 ---
 date: 2022-05-13
 featured-image: transpose-matrix-in-every-language.jpg
-last-modified: 2023-04-17
+last-modified: 2023-05-08
 layout: default
 tags:
 - transpose-matrix
@@ -9,6 +9,10 @@ title: Transpose Matrix
 ---
 
 Welcome to the Transpose Matrix page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
+
+This article was written by:
+
+- Jeremy Grifski
 
 ## Description
 

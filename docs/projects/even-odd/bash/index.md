@@ -32,18 +32,17 @@ then
 else
     echo "Odd"
 fi
+
 ```
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Bash](https://sampleprograms.io/languages/bash) was written by:
+Even Odd in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
 - allievo-sudo
 - Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 29 2019 15:23:13. The solution was first committed on Oct 09 2019 16:14:54. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

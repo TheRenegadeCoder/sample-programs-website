@@ -99,17 +99,16 @@ FI;
 # Calculate and display factorial #
 LONG LONG INT fact := factorial(n);
 print((whole(fact, 0), newline))
+
 ```
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Factorial in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 30 2023 18:32:37. The solution was first committed on Jan 21 2023 16:17:56. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -59,7 +59,7 @@ public class SleepSort
 
 {% endraw %}
 
-[Sleep Sort](https://sampleprograms.io/projects/sleep-sort) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
+Sleep Sort in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - SirePi
 

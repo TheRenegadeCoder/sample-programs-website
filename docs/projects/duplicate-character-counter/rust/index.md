@@ -73,17 +73,16 @@ fn main() {
     let counts: HashMap<char, usize> = duplicate_character_counter(&s);
     show_duplicate_character_counts(&s, &counts);
 }
+
 ```
 
 {% endraw %}
 
-[Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Duplicate Character Counter in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 08 2023 19:53:07. The solution was first committed on Apr 09 2023 11:02:14. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

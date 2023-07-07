@@ -1,10 +1,12 @@
 ---
 authors:
+- Haseeb Majid
 - Jeremy Grifski
 - Parker Johansen
+- rzuckerm
 date: 2018-12-04
 featured-image: bubble-sort-in-python.jpg
-last-modified: 2020-10-15
+last-modified: 2023-05-15
 layout: default
 tags:
 - bubble-sort
@@ -57,18 +59,23 @@ def main(args):
 
 if __name__ == "__main__":
     main(sys.argv[1:])
+
 ```
 
 {% endraw %}
 
-[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Python](https://sampleprograms.io/languages/python) was written by:
+Bubble Sort in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Grifski
 - Parker Johansen
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Dec 04 2018 13:28:02. As a result, documentation below may be outdated.
+- Haseeb Majid
+- Jeremy Grifski
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

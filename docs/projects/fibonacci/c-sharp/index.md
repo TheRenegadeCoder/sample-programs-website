@@ -49,18 +49,17 @@ namespace SamplePrograms
         }
     }
 }
+
 ```
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
+Fibonacci in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Marius
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2019 00:47:29. The solution was first committed on Oct 02 2018 12:09:09. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

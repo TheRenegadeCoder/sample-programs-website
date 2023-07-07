@@ -29,18 +29,17 @@ end
 if (length(ARGS) > 0)
   reverse_string(ARGS[1])
 end
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Julia](https://sampleprograms.io/languages/julia) was written by:
+Reverse String in [Julia](https://sampleprograms.io/languages/julia) was written by:
 
 - rzuckerm
 - smjalageri
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:24:49. The solution was first committed on Oct 02 2022 21:33:48. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

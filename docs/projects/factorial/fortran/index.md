@@ -69,11 +69,12 @@ program factorial_generate
   end do
   write(*,'(g0.8)') factorial
 end program
+
 ```
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
+Factorial in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
 
 - Mallikarjuna S J
 

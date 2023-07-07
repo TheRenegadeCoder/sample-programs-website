@@ -78,19 +78,18 @@ fun mergeSort(arr1: IntArray):IntArray
     }
     return(arr)
 }
+
 ```
 
 {% endraw %}
 
-[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
+Merge Sort in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 - Blake.Ke
 - Jeremy Grifski
 - mikenmo
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 22:39:08. The solution was first committed on Oct 02 2020 04:45:02. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

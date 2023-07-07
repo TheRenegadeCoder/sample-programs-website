@@ -122,7 +122,7 @@ main(process.argv[2], process.argv[3])
 
 {% endraw %}
 
-[Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Job Sequencing in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Sayantan Sarkar
 

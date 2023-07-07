@@ -142,18 +142,17 @@ int main(int argc, char *argv[])
 
     cout << ans << endl;
 }
+
 ```
 
 {% endraw %}
 
-[Binary Search](https://sampleprograms.io/projects/binary-search) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+Binary Search in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Jeremy Grifski
 - Sailok Chinta
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 16:05:09. The solution was first committed on Oct 27 2019 18:00:32. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

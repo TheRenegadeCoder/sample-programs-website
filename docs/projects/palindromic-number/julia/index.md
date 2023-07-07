@@ -48,11 +48,12 @@ try
 catch e
    err()
 end
+
 ```
 
 {% endraw %}
 
-[Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Julia](https://sampleprograms.io/languages/julia) was written by:
+Palindromic Number in [Julia](https://sampleprograms.io/languages/julia) was written by:
 
 - smjalageri
 

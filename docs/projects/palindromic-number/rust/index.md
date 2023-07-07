@@ -55,17 +55,16 @@ fn main() {
     // Determine if palindromic number and display result
     println!("{}", is_palindromic_number::<u32>(n));
 }
+
 ```
 
 {% endraw %}
 
-[Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Palindromic Number in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 08 2023 19:53:07. The solution was first committed on Apr 09 2023 10:36:45. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

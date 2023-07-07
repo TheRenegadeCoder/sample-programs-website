@@ -2,9 +2,10 @@
 authors:
 - AaronLenoir
 - Jeremy Grifski
+- rzuckerm
 date: 2018-05-04
 featured-image: hello-world-in-visual-basic.jpg
-last-modified: 2018-05-04
+last-modified: 2023-05-15
 layout: default
 tags:
 - hello-world
@@ -24,18 +25,22 @@ Public Module HelloWorld
     System.Console.WriteLine("Hello, World!")
   End Sub
 End Module
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Visual Basic](https://sampleprograms.io/languages/visual-basic) was written by:
+Hello World in [Visual Basic](https://sampleprograms.io/languages/visual-basic) was written by:
 
 - AaronLenoir
 - Jeremy Grifski
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 04 2018 13:58:37. The solution was first committed on May 04 2018 00:59:34. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```owl_lisp
 (λ (args) (print "Hello, World!"))
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Owl Lisp](https://sampleprograms.io/languages/owl-lisp) was written by:
+Hello World in [Owl Lisp](https://sampleprograms.io/languages/owl-lisp) was written by:
 
 - Jeremy Grifski
 

@@ -51,11 +51,12 @@ Print /@ removeAllWhitespaceMain /@ {
 (* Invalid Tests *)
 
 removeAllWhitespaceMain[""]
+
 ```
 
 {% endraw %}
 
-[Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Remove All Whitespace in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

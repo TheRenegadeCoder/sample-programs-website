@@ -82,11 +82,12 @@ dijkstraMain["0, 2, 0, 6, 0, 2, 0, 3, 8, 5, 0, 3, 0, 0, 7, 6, 8, 0, 0, 9, 0, 5, 
 dijkstraMain["0, 2, 0, -6, 0, 2, 0, 3, 8, 5, 0, 3, 0, 0, 7, -6, 8, 0, 0, 9, 0, 5, 7, 9, 0", "1", "2"]
 dijkstraMain["0, 2, 0, 6, 0, 2, 0, 3, 8, 5, 0, 3, 0, 0, 7, 6, 8, 0, 0, 9, 0, 5, 7, 9, 0", "1", "10"]
 dijkstraMain["0, 0, 0, 0", "0", "1"]
+
 ```
 
 {% endraw %}
 
-[Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Dijkstra in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

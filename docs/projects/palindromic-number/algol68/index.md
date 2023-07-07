@@ -94,17 +94,16 @@ FI;
 # Check if number is a palindrome and display results #
 BOOL is palindrome := is palindromic number(n);
 printf(($gl$, (is palindrome | "true" | "false")))
+
 ```
 
 {% endraw %}
 
-[Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Palindromic Number in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 31 2023 22:16:41. The solution was first committed on Jan 24 2023 19:35:50. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

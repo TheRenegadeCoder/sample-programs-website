@@ -27,11 +27,12 @@ fn main() {
         println!("{}", string.chars().rev().collect::<String>());
     }
 }
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Reverse String in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Sebastian Veitleder
 

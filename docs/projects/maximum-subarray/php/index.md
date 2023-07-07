@@ -105,11 +105,12 @@ if ($values === FALSE)
 // Calculate maximum subarray and display
 $max_value = maximum_subarray($values);
 echo "${max_value}\n";
+
 ```
 
 {% endraw %}
 
-[Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Php](https://sampleprograms.io/languages/php) was written by:
+Maximum Subarray in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

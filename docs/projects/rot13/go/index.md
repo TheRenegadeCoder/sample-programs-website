@@ -21,52 +21,51 @@ Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Go](https:/
 package main
 
 import (
-    "fmt"
-    "os"
-    "strings"
+	"fmt"
+	"os"
+	"strings"
 )
 
 func rot13(str string) string {
-    return strings.Map(encryptRune, str)
+	return strings.Map(encryptRune, str)
 }
 
 func encryptRune(r rune) rune {
-    if r >= 65 && r <= 90 {
-        return (((r - 65) + 13) % 26) + 65
-    } else if r >= 97 && r <= 122 {
-        return (((r - 97) + 13) % 26) + 97
-    } else {
-        return r
-    }
+	if r >= 65 && r <= 90 {
+		return (((r - 65) + 13) % 26) + 65
+	} else if r >= 97 && r <= 122 {
+		return (((r - 97) + 13) % 26) + 97
+	} else {
+		return r
+	}
 }
 
 func exitWithError() {
-    fmt.Println("Usage: please provide a string to encrypt")
-    os.Exit(1)
+	fmt.Println("Usage: please provide a string to encrypt")
+	os.Exit(1)
 }
 
 func main() {
-    if len(os.Args) != 2 {
-        exitWithError()
-    }
+	if len(os.Args) != 2 {
+		exitWithError()
+	}
 
-    if len(os.Args[1]) <= 0 {
-        exitWithError()
-    }
+	if len(os.Args[1]) <= 0 {
+	    exitWithError()
+	}
 
-    fmt.Println(rot13(os.Args[1]))
+	fmt.Println(rot13(os.Args[1]))
 }
+
 ```
 
 {% endraw %}
 
-[Rot13](https://sampleprograms.io/projects/rot13) in [Go](https://sampleprograms.io/languages/go) was written by:
+Rot13 in [Go](https://sampleprograms.io/languages/go) was written by:
 
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 06 2019 00:32:12. The solution was first committed on Mar 17 2019 19:16:07. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

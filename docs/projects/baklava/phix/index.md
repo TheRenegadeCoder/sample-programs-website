@@ -21,11 +21,12 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Phix](h
 for i=-10 to 10 do
     printf(1,"%s%s\n",{repeat(' ',abs(i)),repeat('*',21-abs(i)*2)})
 end for
+
 ```
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Phix](https://sampleprograms.io/languages/phix) was written by:
+Baklava in [Phix](https://sampleprograms.io/languages/phix) was written by:
 
 - Pete Lomax
 

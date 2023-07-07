@@ -55,11 +55,12 @@ const main = (input) => {
 }
 
 main(process.argv[2])
+
 ```
 
 {% endraw %}
 
-[Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Selection Sort in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - mericleac
 

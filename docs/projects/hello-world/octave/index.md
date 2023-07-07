@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```octave
 disp('Hello, World!');
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Octave](https://sampleprograms.io/languages/octave) was written by:
+Hello World in [Octave](https://sampleprograms.io/languages/octave) was written by:
 
 - Jeremy Grifski
 

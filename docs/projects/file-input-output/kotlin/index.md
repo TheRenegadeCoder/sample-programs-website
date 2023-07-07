@@ -41,11 +41,12 @@ fun main(args: Array<String>) {
         }
     }
 }
+
 ```
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
+File Input Output in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 - Tim Lange
 

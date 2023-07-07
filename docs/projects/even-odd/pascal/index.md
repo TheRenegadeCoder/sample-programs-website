@@ -41,11 +41,12 @@ begin
             end
     end
 end.
+
 ```
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
+Even Odd in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
 
 - smjalageri
 

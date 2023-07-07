@@ -21,17 +21,16 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 module helloworld where
   open import IO
   main = run (putStrLn "Hello, World!")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Agda](https://sampleprograms.io/languages/agda) was written by:
+Hello World in [Agda](https://sampleprograms.io/languages/agda) was written by:
 
 - Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 03 2018 14:11:56. The solution was first committed on May 03 2018 14:10:41. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -198,11 +198,12 @@ FI;
 # Find maximum array rotation and display result #
 INT value = maximum array rotation(values);
 printf(($gl$, whole(value, 0)))
+
 ```
 
 {% endraw %}
 
-[Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Maximum Array Rotation in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

@@ -1,9 +1,12 @@
 ---
 authors:
+- Jeremy Grifski
+- rzuckerm
+- Stuart
 - Stuart Irwin
-date: 2020-10-17
+date: 2018-11-27
 featured-image: hello-world-in-befunge.jpg
-last-modified: 2020-10-17
+last-modified: 2023-05-15
 layout: default
 tags:
 - befunge
@@ -21,13 +24,21 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 0"!dlroW ,olleH"v    
                 > , v
                 | : <
-                @
+                @    
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Befunge](https://sampleprograms.io/languages/befunge) was written by:
+Hello World in [Befunge](https://sampleprograms.io/languages/befunge) was written by:
 
+- Stuart Irwin
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
+- Stuart
 - Stuart Irwin
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).

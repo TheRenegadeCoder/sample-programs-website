@@ -10,6 +10,10 @@ title: Factorial
 
 Welcome to the Factorial page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
 
+This article was written by:
+
+- Jeremy Grifski
+
 ## Description
 
 The factorial of an integer `n` is defined as:

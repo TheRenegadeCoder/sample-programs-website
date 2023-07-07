@@ -49,11 +49,12 @@ int main(int argc, char *argv[])
     
     return 0;
 }
+
 ```
 
 {% endraw %}
 
-[Longest Word](https://sampleprograms.io/projects/longest-word) in [C](https://sampleprograms.io/languages/c) was written by:
+Longest Word in [C](https://sampleprograms.io/languages/c) was written by:
 
 - sachchu007
 

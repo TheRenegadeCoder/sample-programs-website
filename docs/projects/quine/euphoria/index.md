@@ -19,11 +19,12 @@ Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Euphoria](h
 
 ```euphoria
 constant s="constant s=%s%s%sprintf(1,s&10,{34,s,34})"printf(1,s&10,{34,s,34})
+
 ```
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Quine in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

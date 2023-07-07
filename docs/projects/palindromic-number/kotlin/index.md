@@ -3,9 +3,10 @@ authors:
 - Blake.Ke
 - Isaac Anohene
 - Jeremy Grifski
-date: 2020-10-08
+- rzuckerm
+date: 2020-10-07
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2022-10-11
+last-modified: 2023-05-15
 layout: default
 tags:
 - kotlin
@@ -52,19 +53,24 @@ fun main(args: Array<String>) {
         println("Usage: please input a non-negative integer")
     }
 }
+
 ```
 
 {% endraw %}
 
-[Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
+Palindromic Number in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 - Blake.Ke
 - Isaac Anohene
 - Jeremy Grifski
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2022 01:31:51. The solution was first committed on Oct 08 2020 16:44:11. As a result, documentation below may be outdated.
+- Isaac Anohene
+- Jeremy Grifski
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

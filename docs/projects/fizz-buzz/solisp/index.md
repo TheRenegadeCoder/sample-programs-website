@@ -19,7 +19,7 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Sol
 
 ```solisp
 (Join (Map num (Seq 1 100)
-    (Switch
+	(Switch
         {(== (% num 3) (% num 5) 0) "FizzBuzz"}
         {(== (% num 3) 0) "Fizz"}
         {(== (% num 5) 0) "Buzz"}
@@ -30,13 +30,11 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Sol
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Solisp](https://sampleprograms.io/languages/solisp) was written by:
+Fizz Buzz in [Solisp](https://sampleprograms.io/languages/solisp) was written by:
 
 - Stuart Irwin
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 23 2020 14:34:09. The solution was first committed on Feb 25 2020 15:47:14. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

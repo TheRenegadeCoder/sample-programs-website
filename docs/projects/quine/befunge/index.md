@@ -19,11 +19,12 @@ Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Befunge](ht
 
 ```befunge
 <Quine>:#,_$$98+2*00$$,#00@#"
+
 ```
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [Befunge](https://sampleprograms.io/languages/befunge) was written by:
+Quine in [Befunge](https://sampleprograms.io/languages/befunge) was written by:
 
 - Stuart Irwin
 

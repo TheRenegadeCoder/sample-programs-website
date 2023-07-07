@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```fennel
 (print "Hello, World!")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Fennel](https://sampleprograms.io/languages/fennel) was written by:
+Hello World in [Fennel](https://sampleprograms.io/languages/fennel) was written by:
 
 - Jeremy Grifski
 

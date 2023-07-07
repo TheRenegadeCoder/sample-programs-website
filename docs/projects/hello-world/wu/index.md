@@ -21,11 +21,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 print: extern def<T>(..T)
 
 print("Hello World")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Wu](https://sampleprograms.io/languages/wu) was written by:
+Hello World in [Wu](https://sampleprograms.io/languages/wu) was written by:
 
 - Purplebabar
 

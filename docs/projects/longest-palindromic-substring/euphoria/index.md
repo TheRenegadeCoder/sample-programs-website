@@ -103,11 +103,12 @@ end if
 
 -- Show longest palindromic substring
 printf(STDOUT, "%s\n", {longest})
+
 ```
 
 {% endraw %}
 
-[Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Longest Palindromic Substring in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

@@ -20,11 +20,12 @@ Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [C](https://
 ```c
 #include "stdio.h"
 int main() { char* s="#include %cstdio.h%c%cint main() { char* s=%c%s%c; printf(s,34,34,10,34,s,34,10); return 0; }%c"; printf(s,34,34,10,34,s,34,10); return 0; }
+
 ```
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [C](https://sampleprograms.io/languages/c) was written by:
+Quine in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Juan D Frias
 

@@ -72,17 +72,16 @@ REF []INT char counter := duplicate character counter(s);
 
 # Show all duplicate character counts in order in which they occurred in string (if any) #
 show duplicate character counts(s, char counter)
+
 ```
 
 {% endraw %}
 
-[Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Duplicate Character Counter in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 31 2023 11:58:16. The solution was first committed on Jan 22 2023 14:02:26. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

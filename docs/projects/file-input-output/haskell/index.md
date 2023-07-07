@@ -35,17 +35,16 @@ main = do
   -- Haskell reads the file lazily, so the value must be printed before the handle is closed
   putStrLn value
   hClose handle
+
 ```
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+File Input Output in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
 
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 24 2018 10:42:45. The solution was first committed on Oct 22 2018 09:07:26. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

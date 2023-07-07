@@ -25,7 +25,7 @@ end
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
+Reverse String in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
 
 - iwishiwasaneagle
 

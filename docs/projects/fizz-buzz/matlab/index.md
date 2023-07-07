@@ -47,7 +47,7 @@ end
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
+Fizz Buzz in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
 
 - darkpanda08
 

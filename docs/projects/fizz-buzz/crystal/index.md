@@ -35,7 +35,7 @@ end
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Crystal](https://sampleprograms.io/languages/crystal) was written by:
+Fizz Buzz in [Crystal](https://sampleprograms.io/languages/crystal) was written by:
 
 - Noah Nichols
 

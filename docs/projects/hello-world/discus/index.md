@@ -25,11 +25,12 @@ where
 
 main ()
  = do   writel "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Discus](https://sampleprograms.io/languages/discus) was written by:
+Hello World in [Discus](https://sampleprograms.io/languages/discus) was written by:
 
 - Jeremy Grifski
 

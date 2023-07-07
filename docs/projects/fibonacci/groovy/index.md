@@ -36,18 +36,17 @@ class Fibonacci {
         }
     }
 }
+
 ```
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
+Fibonacci in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
 
 - Jeremy Grifski
 - Loic Beylot
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 21 2018 14:29:00. The solution was first committed on Oct 18 2018 19:51:09. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

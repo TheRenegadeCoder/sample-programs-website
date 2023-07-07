@@ -76,11 +76,12 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 ```
 
 {% endraw %}
 
-[Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Python](https://sampleprograms.io/languages/python) was written by:
+Depth First Search in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Nazar Stepan
 

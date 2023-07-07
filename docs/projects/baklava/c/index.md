@@ -1,9 +1,11 @@
 ---
 authors:
 - Jeremy Grifski
+- rzuckerm
+- Stuart Irwin
 date: 2018-09-17
 featured-image: baklava-in-c.jpg
-last-modified: 2018-09-17
+last-modified: 2023-05-15
 layout: default
 tags:
 - baklava
@@ -40,13 +42,20 @@ int main (void)
   return 0;
 
 }
+
 ```
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [C](https://sampleprograms.io/languages/c) was written by:
+Baklava in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Jeremy Grifski
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
+- Stuart Irwin
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

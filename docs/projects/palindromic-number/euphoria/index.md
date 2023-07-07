@@ -92,11 +92,12 @@ end if
 
 -- Indicate whether palindromic number or not
 puts(STDOUT, iif(is_palindromic_number(value), "true\n", "false\n"))
+
 ```
 
 {% endraw %}
 
-[Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Palindromic Number in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

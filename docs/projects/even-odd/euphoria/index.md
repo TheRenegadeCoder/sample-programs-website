@@ -75,11 +75,12 @@ end if
 
 -- Indicate whether even or odd
 puts(STDOUT, iif(is_even(value), "Even\n", "Odd\n"))
+
 ```
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Even Odd in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

@@ -195,17 +195,16 @@ $tree = create_tree($adjacency_matrix, $vertices);
 // Run depth first search and indicate if value is found
 $node = depth_first_search($tree, $target);
 printf("%s\n", (!is_null($node) ? "true" : "false"));
+
 ```
 
 {% endraw %}
 
-[Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Php](https://sampleprograms.io/languages/php) was written by:
+Depth First Search in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 27 2023 19:39:22. The solution was first committed on Mar 21 2023 14:52:35. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

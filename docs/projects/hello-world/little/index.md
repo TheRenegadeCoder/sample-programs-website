@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```little
 puts("Hello, World!");
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Little](https://sampleprograms.io/languages/little) was written by:
+Hello World in [Little](https://sampleprograms.io/languages/little) was written by:
 
 - Jeremy Grifski
 

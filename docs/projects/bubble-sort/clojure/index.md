@@ -20,7 +20,7 @@ Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in 
 
 ```clojure
 (ns bubble-sort
-    (:gen-class))
+	(:gen-class))
   
 (defn- bubble [ys x]
   (if-let [y (peek ys)]
@@ -70,14 +70,12 @@ Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in 
 
 {% endraw %}
 
-[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Clojure](https://sampleprograms.io/languages/clojure) was written by:
+Bubble Sort in [Clojure](https://sampleprograms.io/languages/clojure) was written by:
 
 - Kateryna Tokar
 - Tobias Schröder
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 19 2019 23:52:25. The solution was first committed on Oct 02 2019 16:17:26. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

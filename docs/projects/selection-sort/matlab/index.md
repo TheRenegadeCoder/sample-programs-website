@@ -35,7 +35,7 @@ end
 
 {% endraw %}
 
-[Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
+Selection Sort in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
 
 - iwishiwasaneagle
 

@@ -41,11 +41,12 @@ Column[fizzBuzz[100]]
 
 
 (* Invalid Tests *)
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Fizz Buzz in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

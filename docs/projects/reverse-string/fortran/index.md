@@ -32,18 +32,17 @@ end do
 reversed = adjustl(trim(buff))
 write(*,'(g0.8)')reversed
 end program reversestring
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
+Reverse String in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
 
 - Mallikarjuna S J
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:24:49. The solution was first committed on Oct 27 2020 09:31:11. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

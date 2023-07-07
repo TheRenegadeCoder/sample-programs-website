@@ -19,11 +19,12 @@ Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Perl](https
 
 ```perl
 $s='$s=%c%s%c;printf($s,39,$s,39,10);%c';printf($s,39,$s,39,10);
+
 ```
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [Perl](https://sampleprograms.io/languages/perl) was written by:
+Quine in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
 - Juan D Frias
 

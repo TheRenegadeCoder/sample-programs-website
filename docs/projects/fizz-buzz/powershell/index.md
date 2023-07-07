@@ -1,6 +1,7 @@
 ---
 authors:
 - Devin Leaman
+- Jeremy Grifski
 - rzuckerm
 date: 2018-08-04
 featured-image: fizz-buzz-in-every-language.png
@@ -80,18 +81,22 @@ for ($X = $Min; $X -le $Max; $X++) {
 
   Write-Output $Output
 }
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
+Fizz Buzz in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
 
 - Devin Leaman
 - rzuckerm
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 15 2023 09:50:39. The solution was first committed on Aug 04 2018 14:54:06. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

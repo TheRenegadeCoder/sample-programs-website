@@ -31,11 +31,12 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Rac
     [(equal? 0 (modulo i 3)) (printf "Fizz\n")]
     [(equal? 0 (modulo i 5)) (printf "Buzz\n")]
     [else (printf "~a\n" i)]))
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Racket](https://sampleprograms.io/languages/racket) was written by:
+Fizz Buzz in [Racket](https://sampleprograms.io/languages/racket) was written by:
 
 - RubinMathias
 

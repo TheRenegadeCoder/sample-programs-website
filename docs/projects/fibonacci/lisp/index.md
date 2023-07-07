@@ -40,17 +40,16 @@ Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Lis
   ((null num) (write-line "Usage: please input the count of fibonacci numbers to output"))
   (t (dolist (item (countfibs (list) 1 (fibonacci num)))
     (format t "~D: ~D~%" (car item) (cadr item)))))
+
 ```
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
+Fibonacci in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
 
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 10:18:56. The solution was first committed on Oct 10 2020 18:17:08. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -1,9 +1,11 @@
 ---
 authors:
+- Jeremy Grifski
+- rzuckerm
 - xPolar
-date: 2020-10-05
+date: 2018-12-15
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2020-10-05
+last-modified: 2023-05-15
 layout: default
 tags:
 - fizz-buzz
@@ -23,13 +25,19 @@ for n in range(1, 101):
         print("FizzBuzz" if n % 5 == 0 else "Fizz")
         continue
     print("Buzz" if n % 5 == 0 else n)
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Python](https://sampleprograms.io/languages/python) was written by:
+Fizz Buzz in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - xPolar
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

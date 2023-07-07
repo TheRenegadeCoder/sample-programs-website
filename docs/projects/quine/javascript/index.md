@@ -19,11 +19,12 @@ Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Javascript]
 
 ```javascript
 (function(){console.log('('+arguments.callee.toString()+')()')})()
+
 ```
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Quine in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Jeng
 

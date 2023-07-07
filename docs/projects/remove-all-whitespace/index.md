@@ -1,7 +1,7 @@
 ---
 date: 2022-05-12
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2023-04-09
+last-modified: 2023-05-08
 layout: default
 tags:
 - remove-all-whitespace
@@ -9,6 +9,10 @@ title: Remove All Whitespace
 ---
 
 Welcome to the Remove All Whitespace page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
+
+This article was written by:
+
+- Jeremy Grifski
 
 ## Description
 

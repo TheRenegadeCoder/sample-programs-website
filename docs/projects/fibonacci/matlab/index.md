@@ -22,15 +22,15 @@ Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Mat
 function f = fibonacci(n)
 
 if ischar(n)
-    error('Usage: please input the count of fibonacci numbers to output')
+	error('Usage: please input the count of fibonacci numbers to output')
 end
 
 if n < 0
-    error('Usage: please input a non-negative integer')
+	error('Usage: please input a non-negative integer')
 end
 
 if not(n==round(n))
-    error('Usage: please input an integer, not a floating point')
+	error('Usage: please input an integer, not a floating point')
 end
 
 
@@ -45,18 +45,17 @@ end
 f = mat2str(a);
 
 end
+
 ```
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
+Fibonacci in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
 
 - Gabi Herman
 - gabiherman
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Nov 05 2019 15:10:54. The solution was first committed on Oct 24 2019 15:37:31. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

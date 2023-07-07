@@ -1,10 +1,13 @@
 ---
 authors:
 - Bassem Mohamed
+- Jeremy Grifski
+- Paddy
+- Patrick
 - rzuckerm
 date: 2018-10-01
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2023-03-19
+last-modified: 2023-05-15
 layout: default
 tags:
 - dart
@@ -32,14 +35,19 @@ String reverse(input) {
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Dart](https://sampleprograms.io/languages/dart) was written by:
+Reverse String in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
 - Bassem Mohamed
 - rzuckerm
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:24:49. The solution was first committed on Oct 01 2018 05:17:13. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- Paddy
+- Patrick
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

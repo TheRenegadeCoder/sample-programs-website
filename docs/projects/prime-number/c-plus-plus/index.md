@@ -58,18 +58,17 @@ int main(int argc, char **argv)
 
     return 0;
 }
+
 ```
 
 {% endraw %}
 
-[Prime Number](https://sampleprograms.io/projects/prime-number) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+Prime Number in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Daffa Daraz
 - Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 16:05:09. The solution was first committed on Oct 14 2019 00:44:05. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

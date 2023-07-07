@@ -37,7 +37,7 @@ int main(void)
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
+Fibonacci in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - Renato
 

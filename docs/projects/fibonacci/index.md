@@ -10,6 +10,10 @@ title: Fibonacci
 
 Welcome to the Fibonacci page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
 
+This article was written by:
+
+- Jeremy Grifski
+
 ## Description
 
 In mathematics, the Fibonacci numbers are the numbers in the following integer

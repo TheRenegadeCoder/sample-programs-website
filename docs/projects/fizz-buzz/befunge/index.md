@@ -1,9 +1,12 @@
 ---
 authors:
+- Jeremy Grifski
+- rzuckerm
 - Stuart
+- Stuart Irwin
 date: 2018-10-22
 featured-image: fizz-buzz-in-befunge.jpg
-last-modified: 2018-10-22
+last-modified: 2023-05-15
 layout: default
 tags:
 - befunge
@@ -27,13 +30,21 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Bef
    v       <           @
    > :25*  ::,  *1-`   |
   ^        +1          <
+
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Befunge](https://sampleprograms.io/languages/befunge) was written by:
+Fizz Buzz in [Befunge](https://sampleprograms.io/languages/befunge) was written by:
 
 - Stuart
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
+- Stuart Irwin
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```spry
 echo "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Spry](https://sampleprograms.io/languages/spry) was written by:
+Hello World in [Spry](https://sampleprograms.io/languages/spry) was written by:
 
 - Jeremy Grifski
 

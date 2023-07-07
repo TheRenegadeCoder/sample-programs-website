@@ -54,11 +54,12 @@ Print /@ Apply[transposeMain] /@ {
 
 transposeMain["", "", "1, 2, 3, 4, 5, 6"]
 transposeMain["3", "3", ""]
+
 ```
 
 {% endraw %}
 
-[Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Transpose Matrix in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

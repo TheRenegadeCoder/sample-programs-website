@@ -53,11 +53,12 @@ Print /@ Apply[linearSearchMain] /@ {
 
 linearSearchMain["1, 2, 3, 4", ""]
 linearSearchMain["", "5"]
+
 ```
 
 {% endraw %}
 
-[Linear Search](https://sampleprograms.io/projects/linear-search) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Linear Search in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

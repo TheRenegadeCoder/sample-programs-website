@@ -82,7 +82,7 @@ binarySearchMain["", "5"]
 
 {% endraw %}
 
-[Binary Search](https://sampleprograms.io/projects/binary-search) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Binary Search in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

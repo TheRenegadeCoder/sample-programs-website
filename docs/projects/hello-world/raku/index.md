@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```raku
 say 'Hello, World!'
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Raku](https://sampleprograms.io/languages/raku) was written by:
+Hello World in [Raku](https://sampleprograms.io/languages/raku) was written by:
 
 - Jeremy Grifski
 

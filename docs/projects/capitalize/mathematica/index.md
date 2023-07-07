@@ -48,11 +48,12 @@ Print /@ capitalizeMain /@ {
 
 (* Invalid Tests *)
 capitalizeMain[""]
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Capitalize in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

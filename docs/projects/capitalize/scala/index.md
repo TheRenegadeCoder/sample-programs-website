@@ -32,11 +32,12 @@ object Capitalize {
     }
   }
 }
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Scala](https://sampleprograms.io/languages/scala) was written by:
+Capitalize in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
 - rzuckerm
 

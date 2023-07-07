@@ -1,9 +1,10 @@
 ---
 authors:
+- Jeremy Grifski
 - rzuckerm
-date: 2023-05-14
+date: 2022-04-28
 featured-image: hello-world-in-koka.jpg
-last-modified: 2023-05-14
+last-modified: 2023-05-15
 layout: default
 tags:
 - hello-world
@@ -22,12 +23,18 @@ fun main()
 {
     println("Hello, World!")
 }
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Koka](https://sampleprograms.io/languages/koka) was written by:
+Hello World in [Koka](https://sampleprograms.io/languages/koka) was written by:
 
+- rzuckerm
+
+This article was written by:
+
+- Jeremy Grifski
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).

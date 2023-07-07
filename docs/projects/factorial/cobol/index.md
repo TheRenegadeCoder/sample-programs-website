@@ -70,11 +70,12 @@ Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Cob
           ERROR-PARA.
            DISPLAY "Usage: please input a non-negative integer".
            STOP RUN.
+
 ```
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Cobol](https://sampleprograms.io/languages/cobol) was written by:
+Factorial in [Cobol](https://sampleprograms.io/languages/cobol) was written by:
 
 - Sudhanshu Dubey
 

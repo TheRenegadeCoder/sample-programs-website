@@ -101,17 +101,16 @@ fn main() {
     // Show longest palindromic substring
     println!("{longest}");
 }
+
 ```
 
 {% endraw %}
 
-[Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Longest Palindromic Substring in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 08 2023 19:53:07. The solution was first committed on Apr 17 2023 20:17:59. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

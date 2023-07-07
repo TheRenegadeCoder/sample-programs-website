@@ -62,13 +62,11 @@ public class SelectionSort
 
 {% endraw %}
 
-[Selection Sort](https://sampleprograms.io/projects/selection-sort) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
+Selection Sort in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 26 2019 00:26:31. The solution was first committed on Dec 30 2018 02:45:43. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -243,11 +243,12 @@ REF []MST mst := prim mst(graph);
 # Calculate total weight of MST and display #
 INT total weight := get total mst weight(mst);
 printf(($gl$, whole(total weight, 0)))
+
 ```
 
 {% endraw %}
 
-[Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Minimum Spanning Tree in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

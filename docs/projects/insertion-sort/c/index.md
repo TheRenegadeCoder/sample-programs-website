@@ -132,7 +132,7 @@ void insertion_sort(long * arr_sort, int n)
 
 {% endraw %}
 
-[Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [C](https://sampleprograms.io/languages/c) was written by:
+Insertion Sort in [C](https://sampleprograms.io/languages/c) was written by:
 
 - sourabbr
 

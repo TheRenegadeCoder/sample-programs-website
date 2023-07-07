@@ -31,7 +31,7 @@ for i in [10..0]
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
+Baklava in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
 
 - Sayantan Sarkar
 

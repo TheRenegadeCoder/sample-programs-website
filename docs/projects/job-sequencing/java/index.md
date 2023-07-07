@@ -118,14 +118,12 @@ public class JobSequencing {
 
 {% endraw %}
 
-[Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Java](https://sampleprograms.io/languages/java) was written by:
+Job Sequencing in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - JaneLiu
 - Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Oct 17 2019 20:32:42. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -129,11 +129,12 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 ```
 
 {% endraw %}
 
-[Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Python](https://sampleprograms.io/languages/python) was written by:
+Dijkstra in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - rzuckerm
 

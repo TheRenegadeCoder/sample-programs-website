@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```chapel
 writeln("Hello, World!");
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Chapel](https://sampleprograms.io/languages/chapel) was written by:
+Hello World in [Chapel](https://sampleprograms.io/languages/chapel) was written by:
 
 - Jeremy Grifski
 

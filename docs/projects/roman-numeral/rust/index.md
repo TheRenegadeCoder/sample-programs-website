@@ -76,18 +76,17 @@ fn convert_roman_numeral(s: &String) -> i64 {
 
     number
 }
+
 ```
 
 {% endraw %}
 
-[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Roman Numeral in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Noah Nichols
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 04 2023 17:31:25. The solution was first committed on Oct 12 2018 18:00:40. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -20,11 +20,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 ```batch
 @echo off
 echo Hello world!
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Batch](https://sampleprograms.io/languages/batch) was written by:
+Hello World in [Batch](https://sampleprograms.io/languages/batch) was written by:
 
 - Jeremy Grifski
 

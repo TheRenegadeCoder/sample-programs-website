@@ -23,7 +23,7 @@ put$"Hello, World!"
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Bracmat](https://sampleprograms.io/languages/bracmat) was written by:
+Hello World in [Bracmat](https://sampleprograms.io/languages/bracmat) was written by:
 
 - Shivam Choudhary
 

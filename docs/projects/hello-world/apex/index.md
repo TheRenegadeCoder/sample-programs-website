@@ -23,11 +23,12 @@ global class HelloWorld {
       System.debug('Hello, World!');
     }
 }
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Apex](https://sampleprograms.io/languages/apex) was written by:
+Hello World in [Apex](https://sampleprograms.io/languages/apex) was written by:
 
 - Akhil09
 

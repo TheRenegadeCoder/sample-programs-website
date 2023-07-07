@@ -52,7 +52,7 @@ Capitalize.main(System.argv()) |> IO.puts
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
+Capitalize in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
 
 - Jonas Halstrup
 

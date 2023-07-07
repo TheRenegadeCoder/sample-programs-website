@@ -168,17 +168,16 @@ fn main() {
     // Calculate total weight of MST and display
     println!("{}", get_total_mst_weight(&mst));
 }
+
 ```
 
 {% endraw %}
 
-[Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Minimum Spanning Tree in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 08 2023 19:53:07. The solution was first committed on Apr 20 2023 21:14:25. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

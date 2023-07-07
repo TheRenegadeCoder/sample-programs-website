@@ -69,15 +69,13 @@ object QuickSort {
 
 {% endraw %}
 
-[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Scala](https://sampleprograms.io/languages/scala) was written by:
+Quick Sort in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
 - rzuckerm
 - Vee Ng
 - Viet Thang Nguyen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 15 2023 16:11:44. The solution was first committed on Mar 22 2019 12:57:43. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

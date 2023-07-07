@@ -24,7 +24,7 @@ print [Hello World!]
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Logo](https://sampleprograms.io/languages/logo) was written by:
+Hello World in [Logo](https://sampleprograms.io/languages/logo) was written by:
 
 - Shivam Choudhary
 

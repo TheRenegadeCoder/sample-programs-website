@@ -31,11 +31,12 @@ loop do
   puts ((" " * (10 - b)) + ("*" * (b * 2 + 1)))
   break if b == 0
 end
+
 ```
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Crystal](https://sampleprograms.io/languages/crystal) was written by:
+Baklava in [Crystal](https://sampleprograms.io/languages/crystal) was written by:
 
 - Jeremy Grifski
 

@@ -19,11 +19,12 @@ Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Php](https:
 
 ```php
 <?php $s='<?php $s=%c%s%c; printf($s,39,$s,39,10); ?>%c'; printf($s,39,$s,39,10); ?>
+
 ```
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [Php](https://sampleprograms.io/languages/php) was written by:
+Quine in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - Juan D Frias
 

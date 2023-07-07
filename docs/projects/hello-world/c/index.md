@@ -2,9 +2,12 @@
 authors:
 - "Christoph B\xF6hmwalder"
 - Jeremy Griffith
+- Jeremy Grifski
+- Johnny Fang
+- rzuckerm
 date: 2018-03-15
 featured-image: hello-world-in-c.jpg
-last-modified: 2018-07-24
+last-modified: 2023-05-15
 layout: default
 tags:
 - c
@@ -26,18 +29,23 @@ int main()
    puts("Hello, World!");
    return 0;
 }
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [C](https://sampleprograms.io/languages/c) was written by:
+Hello World in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Christoph Böhmwalder
 - Jeremy Griffith
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jul 24 2018 11:02:56. The solution was first committed on Mar 15 2018 20:27:08. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- Johnny Fang
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

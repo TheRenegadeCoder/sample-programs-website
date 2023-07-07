@@ -23,7 +23,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Solisp](https://sampleprograms.io/languages/solisp) was written by:
+Hello World in [Solisp](https://sampleprograms.io/languages/solisp) was written by:
 
 - Stuart Irwin
 

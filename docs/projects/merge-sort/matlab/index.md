@@ -73,11 +73,12 @@ end
 
 % BY - Nikhil Gupta
 % GitHub - nikkkhil067
+
 ```
 
 {% endraw %}
 
-[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
+Merge Sort in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
 
 - Nikhil Gupta
 

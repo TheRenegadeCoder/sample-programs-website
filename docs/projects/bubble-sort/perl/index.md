@@ -27,11 +27,11 @@ if ($num_args == 0) {
     my @arr = split(',',$input_string);
     $n = $#arr + 1;
     if ($n <= 1) {
-    print "Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\"";
+	print "Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\"";
     } else {
-    for ($i = 0;$i < $n;$i++) {
-        $arr[$i] = int($arr[$i])
-    }
+	for ($i = 0;$i < $n;$i++) {
+	    $arr[$i] = int($arr[$i])
+	}
         for ($i = 0;$i < $n;$i = $i + 1) {
             for ($j = 0;$j < $n - $i - 1;$j = $j + 1) {
                 if ($arr[$j] > $arr[$j + 1]) {
@@ -50,11 +50,12 @@ if ($num_args == 0) {
         }
     }
 }
+
 ```
 
 {% endraw %}
 
-[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Perl](https://sampleprograms.io/languages/perl) was written by:
+Bubble Sort in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
 - SourabhBadhya
 

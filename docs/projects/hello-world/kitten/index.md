@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```kitten
 "Hello, World!" say
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Kitten](https://sampleprograms.io/languages/kitten) was written by:
+Hello World in [Kitten](https://sampleprograms.io/languages/kitten) was written by:
 
 - Jeremy Grifski
 

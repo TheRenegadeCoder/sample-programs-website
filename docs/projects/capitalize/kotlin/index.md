@@ -28,18 +28,17 @@ fun main(args: Array<String>) {
         println(args[0].capitalize())
     }
 }
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
+Capitalize in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 - Blake.Ke
 - Saurabh
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 08 2020 22:09:00. The solution was first committed on Oct 11 2019 23:46:12. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

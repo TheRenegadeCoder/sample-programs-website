@@ -76,11 +76,12 @@ $counts = duplicate_character_counter($str);
 
 // Show all duplicate character counts in order in which they occurred in string (if any)
 show_duplicate_character_counts($counts);
+
 ```
 
 {% endraw %}
 
-[Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Php](https://sampleprograms.io/languages/php) was written by:
+Duplicate Character Counter in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```applescript
 display dialog "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Applescript](https://sampleprograms.io/languages/applescript) was written by:
+Hello World in [Applescript](https://sampleprograms.io/languages/applescript) was written by:
 
 - Jeremy Grifski
 

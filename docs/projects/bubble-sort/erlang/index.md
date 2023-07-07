@@ -72,7 +72,7 @@ handle_output([Num|NumList]) ->
 
 {% endraw %}
 
-[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
+Bubble Sort in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
 
 - Jacky Hui
 

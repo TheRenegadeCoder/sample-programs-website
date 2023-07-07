@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```phix
 puts(1, "Hello, World!")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Phix](https://sampleprograms.io/languages/phix) was written by:
+Hello World in [Phix](https://sampleprograms.io/languages/phix) was written by:
 
 - rzuckerm
 

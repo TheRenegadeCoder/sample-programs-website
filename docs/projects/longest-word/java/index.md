@@ -48,14 +48,12 @@ class LongestWord {
 
 {% endraw %}
 
-[Longest Word](https://sampleprograms.io/projects/longest-word) in [Java](https://sampleprograms.io/languages/java) was written by:
+Longest Word in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Jeremy Grifski
 - Vipin Yadav
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Oct 03 2022 21:33:24. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

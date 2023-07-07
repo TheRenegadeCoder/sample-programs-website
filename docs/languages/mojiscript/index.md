@@ -1,7 +1,7 @@
 ---
 date: 2018-10-15
 featured-image: programming-languages.jpg
-last-modified: 2018-10-15
+last-modified: 2018-10-17
 layout: default
 tags:
 - mojiscript

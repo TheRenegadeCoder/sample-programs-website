@@ -38,11 +38,12 @@ try
 catch e
   err()
 end
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Julia](https://sampleprograms.io/languages/julia) was written by:
+Capitalize in [Julia](https://sampleprograms.io/languages/julia) was written by:
 
 - smjalageri
 

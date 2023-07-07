@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```gosu
 print("Hello, World!")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Gosu](https://sampleprograms.io/languages/gosu) was written by:
+Hello World in [Gosu](https://sampleprograms.io/languages/gosu) was written by:
 
 - Prakhar Pande
 

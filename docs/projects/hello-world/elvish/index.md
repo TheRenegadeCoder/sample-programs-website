@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```elvish
 echo "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Elvish](https://sampleprograms.io/languages/elvish) was written by:
+Hello World in [Elvish](https://sampleprograms.io/languages/elvish) was written by:
 
 - Jeremy Grifski
 

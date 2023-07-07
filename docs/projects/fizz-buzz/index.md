@@ -10,6 +10,11 @@ title: Fizz Buzz
 
 Welcome to the Fizz Buzz page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
 
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
+
 ## Description
 
 Fizz Buzz is a typical interview question which tests the developers knowledge

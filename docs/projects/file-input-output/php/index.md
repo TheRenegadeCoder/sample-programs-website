@@ -59,19 +59,18 @@ $file_name = "output.txt";
 if (write_file($file_name)) {
     read_file($file_name);
 }
+
 ```
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Php](https://sampleprograms.io/languages/php) was written by:
+File Input Output in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - Jeremy Grifski
 - Juan D Frias
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 14 2019 14:16:18. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

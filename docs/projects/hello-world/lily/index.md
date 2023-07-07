@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```lily
 "Hello, World!" |> print
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Lily](https://sampleprograms.io/languages/lily) was written by:
+Hello World in [Lily](https://sampleprograms.io/languages/lily) was written by:
 
 - Jeremy Griffith
 

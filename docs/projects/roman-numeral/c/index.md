@@ -1,9 +1,12 @@
 ---
 authors:
+- Jeremy Grifski
 - LezendarySandwich
+- rzuckerm
+- shubhragupta-code
 date: 2019-10-20
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: 2019-10-20
+last-modified: 2023-05-15
 layout: default
 tags:
 - c
@@ -63,13 +66,17 @@ int main(int argc,char **argv)
 
 {% endraw %}
 
-[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [C](https://sampleprograms.io/languages/c) was written by:
+Roman Numeral in [C](https://sampleprograms.io/languages/c) was written by:
 
 - LezendarySandwich
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 20 2019 12:36:36. The solution was first committed on Oct 20 2019 11:59:04. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+- shubhragupta-code
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

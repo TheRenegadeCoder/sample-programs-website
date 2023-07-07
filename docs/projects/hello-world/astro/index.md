@@ -23,7 +23,7 @@ print "Hello World!"
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Astro](https://sampleprograms.io/languages/astro) was written by:
+Hello World in [Astro](https://sampleprograms.io/languages/astro) was written by:
 
 - asharma13524
 

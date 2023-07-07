@@ -19,7 +19,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```clojure
 (ns hello-world
-    (:gen-class))
+	(:gen-class))
 
 (defn main
   "Hello World"
@@ -27,17 +27,17 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
   (println "Hello, World!"))
 
 (main)
+
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Clojure](https://sampleprograms.io/languages/clojure) was written by:
+Hello World in [Clojure](https://sampleprograms.io/languages/clojure) was written by:
 
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Dec 23 2018 15:29:16. The solution was first committed on Dec 22 2018 21:06:24. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

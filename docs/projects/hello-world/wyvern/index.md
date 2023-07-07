@@ -21,11 +21,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 require stdout
 
 stdout.print("Hello, World!")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Wyvern](https://sampleprograms.io/languages/wyvern) was written by:
+Hello World in [Wyvern](https://sampleprograms.io/languages/wyvern) was written by:
 
 - Jeremy Grifski
 

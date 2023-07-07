@@ -28,7 +28,7 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Groovy]
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
+Baklava in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
 
 - Rafael Vargas
 

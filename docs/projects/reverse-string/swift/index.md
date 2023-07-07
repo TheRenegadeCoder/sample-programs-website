@@ -1,9 +1,11 @@
 ---
 authors:
+- Jeremy Grifski
 - Marty A/V
+- rzuckerm
 date: 2018-05-10
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2018-08-10
+last-modified: 2023-05-15
 layout: default
 tags:
 - reverse-string
@@ -29,17 +31,21 @@ let reversedCollection = usersString.reversed()
 let reversedString = String(reversedCollection)
 
 print(reversedString)
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Swift](https://sampleprograms.io/languages/swift) was written by:
+Reverse String in [Swift](https://sampleprograms.io/languages/swift) was written by:
 
 - Marty A/V
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Aug 10 2018 23:25:53. The solution was first committed on May 10 2018 10:37:34. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

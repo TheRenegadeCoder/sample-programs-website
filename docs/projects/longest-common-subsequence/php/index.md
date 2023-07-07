@@ -136,11 +136,12 @@ if ($list1 === FALSE || $list2 === FALSE)
 // Get longest common subsequence and display it
 $result = longest_common_subsequence($list1, $list2);
 printf("%s\n", implode(", ", $result));
+
 ```
 
 {% endraw %}
 
-[Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Php](https://sampleprograms.io/languages/php) was written by:
+Longest Common Subsequence in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

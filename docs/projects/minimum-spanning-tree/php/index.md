@@ -250,11 +250,12 @@ $mst = prim_mst($graph);
 // Calculate total weight of MST and display
 $total_weight = get_total_mst_weight($mst);
 echo "${total_weight}\n";
+
 ```
 
 {% endraw %}
 
-[Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [Php](https://sampleprograms.io/languages/php) was written by:
+Minimum Spanning Tree in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

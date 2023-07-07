@@ -1,9 +1,11 @@
 ---
 authors:
 - Jeremy Griffith
+- Jeremy Grifski
+- rzuckerm
 date: 2018-04-10
 featured-image: hello-world-in-scala.jpg
-last-modified: 2018-04-10
+last-modified: 2023-05-15
 layout: default
 tags:
 - hello-world
@@ -21,13 +23,19 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 object HelloWorld extends App {
   println("Hello, World!")
 }
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Scala](https://sampleprograms.io/languages/scala) was written by:
+Hello World in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
 - Jeremy Griffith
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

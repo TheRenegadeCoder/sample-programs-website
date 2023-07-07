@@ -74,14 +74,12 @@ int main(int argc, char *argv[])
 
 {% endraw %}
 
-[Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+Duplicate Character Counter in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Jeremy Grifski
 - Vipin Yadav
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 16:05:09. The solution was first committed on Oct 03 2022 23:26:42. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

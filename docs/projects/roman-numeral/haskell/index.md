@@ -58,17 +58,16 @@ main = do
         putStrLn "Error: invalid string of roman numerals"
         exitWith $ ExitFailure 1
       Just x -> putStrLn $ show $ x
+
 ```
 
 {% endraw %}
 
-[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+Roman Numeral in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
 
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 01 2019 03:55:34. The solution was first committed on Oct 21 2018 01:06:56. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

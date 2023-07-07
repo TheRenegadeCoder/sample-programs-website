@@ -22,18 +22,19 @@ Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Rexx]
 arg number
 If (DATATYPE(number, 'W') == 0) then signal err
 if (number // 2 == 0) then
-    say "Even"
+	say "Even"
 else
-    say "Odd"
+	say "Odd"
 ;exit
 
 Err:
 say 'Usage: please input a number'; exit
+
 ```
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Rexx](https://sampleprograms.io/languages/rexx) was written by:
+Even Odd in [Rexx](https://sampleprograms.io/languages/rexx) was written by:
 
 - Sudhanshu Dubey
 

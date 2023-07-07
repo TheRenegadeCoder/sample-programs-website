@@ -22,16 +22,17 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 machine HelloWorld
 {
   start state Init {  
-    entry {     
+    entry { 	
       print "Hello World\n"; 
     } 
   }
 }
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [P](https://sampleprograms.io/languages/p) was written by:
+Hello World in [P](https://sampleprograms.io/languages/p) was written by:
 
 - Amanda Hager Lopes de Andrade Katz
 

@@ -145,17 +145,16 @@ if (!check_sorted($values))
 $index = binary_search($target, $values);
 printf("%s\n", ($index >= 0) ? "true" : "false");
 ?>
+
 ```
 
 {% endraw %}
 
-[Binary Search](https://sampleprograms.io/projects/binary-search) in [Php](https://sampleprograms.io/languages/php) was written by:
+Binary Search in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 27 2023 18:53:33. The solution was first committed on Mar 21 2023 14:49:35. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -1,9 +1,11 @@
 ---
 authors:
 - Jeremy Griffith
+- Jeremy Grifski
+- rzuckerm
 date: 2018-04-11
 featured-image: hello-world-in-elm.jpg
-last-modified: 2018-04-19
+last-modified: 2023-05-15
 layout: default
 tags:
 - elm
@@ -24,17 +26,21 @@ import Html exposing (text)
 
 main =
   text "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Elm](https://sampleprograms.io/languages/elm) was written by:
+Hello World in [Elm](https://sampleprograms.io/languages/elm) was written by:
 
 - Jeremy Griffith
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 19 2018 18:37:30. The solution was first committed on Apr 11 2018 12:33:24. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

@@ -23,11 +23,12 @@ module main
 fn main(){
     println('Hello, World!')
 }
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [V](https://sampleprograms.io/languages/v) was written by:
+Hello World in [V](https://sampleprograms.io/languages/v) was written by:
 
 - ToyireuDev
 

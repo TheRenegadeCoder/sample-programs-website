@@ -1,9 +1,11 @@
 ---
 authors:
 - Devin Leaman
+- Jeremy Grifski
+- rzuckerm
 date: 2018-05-28
 featured-image: hello-world-in-powershell.jpg
-last-modified: 2018-05-28
+last-modified: 2023-05-15
 layout: default
 tags:
 - hello-world
@@ -19,13 +21,19 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```powershell
 Write-Host "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
+Hello World in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
 
 - Devin Leaman
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

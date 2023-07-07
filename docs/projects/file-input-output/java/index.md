@@ -76,18 +76,17 @@ public class FileInputOutput {
     }
 
 }
+
 ```
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Java](https://sampleprograms.io/languages/java) was written by:
+File Input Output in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Jeremy Grifski
 - Shubham Raj
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Oct 13 2019 19:02:32. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

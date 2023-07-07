@@ -72,18 +72,17 @@ fun main(args: Array<String>) {
         println(rot13Encode(strToEncode))
     }
 }
+
 ```
 
 {% endraw %}
 
-[Rot13](https://sampleprograms.io/projects/rot13) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
+Rot13 in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 - Cristiano Lopes
 - Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 16:40:09. The solution was first committed on Oct 07 2020 16:32:12. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

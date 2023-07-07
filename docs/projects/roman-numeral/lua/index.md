@@ -88,18 +88,17 @@ end
 
 -- Print converted value
 print(convertToDecimal(input))
+
 ```
 
 {% endraw %}
 
-[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Lua](https://sampleprograms.io/languages/lua) was written by:
+Roman Numeral in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
 - Jeremy Grifski
 - jketterer
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 19:22:39. The solution was first committed on Oct 28 2019 13:27:00. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

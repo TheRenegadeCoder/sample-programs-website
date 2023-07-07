@@ -55,11 +55,12 @@ Print /@ rot13Main /@ {
 (* Invalid Tests *)
 
 rot13Main[""]
+
 ```
 
 {% endraw %}
 
-[Rot13](https://sampleprograms.io/projects/rot13) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Rot13 in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

@@ -186,17 +186,16 @@ FI;
 # Do binary search and show results #
 INT index = binary search(target, values);
 printf(($gl$, (index > 0 | "true" | "false")))
+
 ```
 
 {% endraw %}
 
-[Binary Search](https://sampleprograms.io/projects/binary-search) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Binary Search in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 30 2023 19:07:29. The solution was first committed on Jan 27 2023 13:52:01. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

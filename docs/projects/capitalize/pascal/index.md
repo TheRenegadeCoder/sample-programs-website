@@ -32,17 +32,16 @@ begin
     buf[1] := UpCase(buf[1]);
     writeln(buf);
 end.
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
+Capitalize in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
 
 - smjalageri
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 18 2020 11:48:50. The solution was first committed on Oct 17 2020 08:09:13. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

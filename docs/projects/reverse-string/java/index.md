@@ -2,9 +2,10 @@
 authors:
 - Jeremy Griffith
 - Jeremy Grifski
+- rzuckerm
 date: 2018-04-13
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2022-10-10
+last-modified: 2023-05-15
 layout: default
 tags:
 - java
@@ -28,18 +29,22 @@ public class ReverseString {
         }
     }
 }
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Java](https://sampleprograms.io/languages/java) was written by:
+Reverse String in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Jeremy Griffith
 - Jeremy Grifski
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Apr 13 2018 15:12:54. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

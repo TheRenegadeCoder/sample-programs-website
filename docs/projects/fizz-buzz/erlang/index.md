@@ -31,11 +31,12 @@ fizz_buzz(N, Max) when N rem 15 == 0 -> io:format("FizzBuzz~n", []), fizz_buzz(N
 fizz_buzz(N, Max) when N rem 5 == 0 -> io:format("Buzz~n", []), fizz_buzz(N+1, Max);
 fizz_buzz(N, Max) when N rem 3 == 0 -> io:format("Fizz~n", []), fizz_buzz(N+1, Max);
 fizz_buzz(N, Max) -> io:format("~p~n", [N]), fizz_buzz(N+1, Max).
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
+Fizz Buzz in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
 
 - Caio Ariede
 

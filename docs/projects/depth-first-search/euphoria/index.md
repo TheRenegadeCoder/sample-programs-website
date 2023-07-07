@@ -215,17 +215,16 @@ sequence tree = create_tree(adjacency_matrix, vertex_values)
 -- Run depth first search and indicate if value is found
 sequence node = depth_first_search(tree, target)
 puts(STDOUT, iif(length(node) > 0, "true\n", "false\n"))
+
 ```
 
 {% endraw %}
 
-[Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Depth First Search in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 24 2023 21:58:02. The solution was first committed on Feb 19 2023 22:25:47. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

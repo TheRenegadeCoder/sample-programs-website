@@ -10,6 +10,10 @@ title: File Input Output
 
 Welcome to the File Input Output page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
 
+This article was written by:
+
+- Jeremy Grifski
+
 ## Description
 
 Most languages have built-in utilities or functions for reading and writing files.

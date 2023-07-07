@@ -2,9 +2,11 @@
 authors:
 - Jeremy Grifski
 - Paddy
+- rzuckerm
+- slashdoom
 date: 2019-10-17
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2019-10-26
+last-modified: 2023-05-15
 layout: default
 tags:
 - capitalize
@@ -33,18 +35,23 @@ main(List<String> args) {
 
 String capitalize(String input) =>
     '${input[0].toUpperCase()}${input.substring(1)}';
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Dart](https://sampleprograms.io/languages/dart) was written by:
+Capitalize in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
 - Jeremy Grifski
 - Paddy
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 22:15:11. The solution was first committed on Oct 17 2019 23:01:31. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+- slashdoom
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

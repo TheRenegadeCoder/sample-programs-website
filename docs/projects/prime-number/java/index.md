@@ -60,11 +60,12 @@ public class PrimeNumber {
         }
     }
 }
+
 ```
 
 {% endraw %}
 
-[Prime Number](https://sampleprograms.io/projects/prime-number) in [Java](https://sampleprograms.io/languages/java) was written by:
+Prime Number in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Ewerton Queiroz
 - Ganesh Naik
@@ -72,8 +73,6 @@ public class PrimeNumber {
 - Juan D Frias
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Oct 10 2019 02:15:05. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

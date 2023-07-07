@@ -28,11 +28,12 @@ fizzbuzz x
     | otherwise       = show x
 
 main = mapM (putStrLn . fizzbuzz) [1..100]
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+Fizz Buzz in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
 
 - Jeremy Grifski
 

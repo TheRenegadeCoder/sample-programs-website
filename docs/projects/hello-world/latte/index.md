@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```latte
 println('Hello, World!')
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Latte](https://sampleprograms.io/languages/latte) was written by:
+Hello World in [Latte](https://sampleprograms.io/languages/latte) was written by:
 
 - Jeremy Grifski
 

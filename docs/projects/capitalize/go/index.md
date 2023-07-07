@@ -22,45 +22,44 @@ Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [G
 package main
 
 import (
-    "fmt"
-    "os"
-    "strings"
+	"fmt"
+	"os"
+	"strings"
 )
 
 func exitWithError() {
-    fmt.Println("Usage: please provide a string")
-    os.Exit(1)
+	fmt.Println("Usage: please provide a string")
+	os.Exit(1)
 }
 
 func uppercaseFirst(str string) string {
-    s := string(str[0])
-    u := strings.ToUpper(s)
-    up := u + str[1:]
-    return up
+	s := string(str[0])
+	u := strings.ToUpper(s)
+	up := u + str[1:]
+	return up
 }
 
 func main() {
-    if len(os.Args) != 2 || len(os.Args[1]) == 0 {
-        exitWithError()
-    }
+	if len(os.Args) != 2 || len(os.Args[1]) == 0 {
+		exitWithError()
+	}
 
-    s := os.Args[1]
-    up := uppercaseFirst(s)
+	s := os.Args[1]
+	up := uppercaseFirst(s)
 
-    fmt.Println(up)
+	fmt.Println(up)
 }
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Go](https://sampleprograms.io/languages/go) was written by:
+Capitalize in [Go](https://sampleprograms.io/languages/go) was written by:
 
 - Jeremy Grifski
 - Nathaniel Niosco
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 20:30:14. The solution was first committed on Oct 09 2019 21:50:12. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -2,9 +2,11 @@
 authors:
 - Jeremy Grifski
 - Niraj Kamdar
+- Niraj-Kamdar
+- rzuckerm
 date: 2019-10-10
 featured-image: fraction-math-in-every-language.jpg
-last-modified: 2022-10-10
+last-modified: 2023-05-15
 layout: default
 tags:
 - c-plus-plus
@@ -343,18 +345,24 @@ int main(int argc, char const *argv[])
     }
     return 0;
 }
+
 ```
 
 {% endraw %}
 
-[Fraction Math](https://sampleprograms.io/projects/fraction-math) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+Fraction Math in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Jeremy Grifski
 - Niraj Kamdar
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 16:05:09. The solution was first committed on Oct 10 2019 21:55:40. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- Niraj Kamdar
+- Niraj-Kamdar
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

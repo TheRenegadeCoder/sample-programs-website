@@ -151,17 +151,16 @@ fn main() {
     let hull_points = convex_hull(&points);
     show_points(&hull_points);
 }
+
 ```
 
 {% endraw %}
 
-[Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Convex Hull in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 08 2023 19:53:07. The solution was first committed on Apr 22 2023 09:56:16. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

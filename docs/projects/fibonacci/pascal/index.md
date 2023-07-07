@@ -52,11 +52,12 @@ begin
     end;
    end;
 end.
+
 ```
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
+Fibonacci in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
 
 - manasmithamn
 

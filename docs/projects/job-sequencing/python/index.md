@@ -78,18 +78,17 @@ def main(args):
 
 if __name__ == "__main__":
     main(sys.argv[1:])
+
 ```
 
 {% endraw %}
 
-[Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Python](https://sampleprograms.io/languages/python) was written by:
+Job Sequencing in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Parker Johansen
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:13:03. The solution was first committed on Nov 19 2018 14:50:55. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

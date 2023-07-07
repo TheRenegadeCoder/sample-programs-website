@@ -38,18 +38,17 @@ int main(int argc, const char *argv[])
             std::cout << *(argv[1] + sizeof(char) * j);
     }
 }
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+Capitalize in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Ford Smith
 - Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 16:05:09. The solution was first committed on Oct 09 2019 01:39:47. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

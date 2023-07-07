@@ -1,9 +1,11 @@
 ---
 authors:
 - Jeremy Griffith
+- Jeremy Grifski
+- rzuckerm
 date: 2018-04-12
 featured-image: reverse-string-in-python.jpg
-last-modified: 2018-04-12
+last-modified: 2023-05-15
 layout: default
 tags:
 - python
@@ -22,13 +24,19 @@ import sys
 
 if len(sys.argv) > 1:
     print(sys.argv[1][::-1])
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Python](https://sampleprograms.io/languages/python) was written by:
+Reverse String in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Griffith
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -101,18 +101,17 @@ if __name__ == '__main__':
     convex_polygon_coords = foo(Z)
     for coord in convex_polygon_coords:
         print(coord)
+
 ```
 
 {% endraw %}
 
-[Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Python](https://sampleprograms.io/languages/python) was written by:
+Convex Hull in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Grifski
 - Vicrobot
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 14 2022 15:37:34. The solution was first committed on Oct 22 2019 05:05:49. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

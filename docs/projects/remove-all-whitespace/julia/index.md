@@ -41,11 +41,12 @@ try
 catch e
   err()
 end
+
 ```
 
 {% endraw %}
 
-[Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Julia](https://sampleprograms.io/languages/julia) was written by:
+Remove All Whitespace in [Julia](https://sampleprograms.io/languages/julia) was written by:
 
 - smjalageri
 

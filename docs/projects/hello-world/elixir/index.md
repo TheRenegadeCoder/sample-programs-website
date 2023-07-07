@@ -1,9 +1,10 @@
 ---
 authors:
 - Jeremy Grifski
-date: 2019-10-15
+- rzuckerm
+date: 2019-05-08
 featured-image: hello-world-in-elixir.jpg
-last-modified: 2019-10-15
+last-modified: 2023-05-15
 layout: default
 tags:
 - elixir
@@ -19,13 +20,19 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```elixir
 IO.puts "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
+Hello World in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
 
 - Jeremy Grifski
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

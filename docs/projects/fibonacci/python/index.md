@@ -1,10 +1,13 @@
 ---
 authors:
+- Jeremy Grifski
 - Marius
 - Parker Johansen
+- rzuckerm
+- shubhragupta-code
 date: 2018-10-06
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2019-04-07
+last-modified: 2023-05-15
 layout: default
 tags:
 - fibonacci
@@ -50,18 +53,23 @@ def main(args):
 
 if __name__ == "__main__":
     main(sys.argv[1:])
+
 ```
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Python](https://sampleprograms.io/languages/python) was written by:
+Fibonacci in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Marius
 - Parker Johansen
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2019 00:40:32. The solution was first committed on Oct 06 2018 15:20:01. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+- shubhragupta-code
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

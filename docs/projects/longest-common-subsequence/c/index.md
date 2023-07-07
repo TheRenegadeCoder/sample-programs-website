@@ -116,8 +116,6 @@ Longest [C](https://sampleprograms.io/languages/c)ommon Subsequence in [C](https
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 20 2019 12:43:44. The solution was first committed on Oct 20 2019 12:08:37. As a result, documentation below may be outdated.
-
 ## How to Implement the Solution
 
 No 'How to Implement the Solution' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).

@@ -18,20 +18,20 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Cof
 {% raw %}
 
 ```coffeescript
-for i in [1..100]   
-    if i % 15 is 0  
-      console.log "FizzBuzz"    
-    else if i % 3 is 0  
-      console.log "Fizz"    
-    else if i % 5 is 0  
-      console.log "Buzz"    
-    else    
-      console.log i
+for i in [1..100]	
+    if i % 15 is 0	
+      console.log "FizzBuzz"	
+    else if i % 3 is 0	
+      console.log "Fizz"	
+    else if i % 5 is 0	
+      console.log "Buzz"	
+    else	
+      console.log i 
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
+Fizz Buzz in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
 
 - darkpanda08
 

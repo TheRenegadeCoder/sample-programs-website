@@ -45,11 +45,12 @@ Print /@ longestWord /@ {
 (* Invalid Tests *)
 
 longestWordMain[""]
+
 ```
 
 {% endraw %}
 
-[Longest Word](https://sampleprograms.io/projects/longest-word) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Longest Word in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

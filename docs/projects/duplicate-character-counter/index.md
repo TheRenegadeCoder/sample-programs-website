@@ -1,7 +1,7 @@
 ---
 date: 2022-05-14
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2023-04-09
+last-modified: 2023-05-08
 layout: default
 tags:
 - duplicate-character-counter
@@ -9,6 +9,11 @@ title: Duplicate Character Counter
 ---
 
 Welcome to the Duplicate Character Counter page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 ## Description
 

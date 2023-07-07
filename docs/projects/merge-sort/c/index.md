@@ -154,17 +154,17 @@ void merge_array(long *arr_sort,int a, int b, int c, int d) {
     arr_sort[i] = t[j];
     
 }                                       // End of function merge()
+
+
 ```
 
 {% endraw %}
 
-[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [C](https://sampleprograms.io/languages/c) was written by:
+Merge Sort in [C](https://sampleprograms.io/languages/c) was written by:
 
 - panda311
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 11:32:12. The solution was first committed on Oct 15 2019 20:00:57. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

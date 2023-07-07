@@ -1,7 +1,7 @@
 ---
 date: 2018-11-19
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: 2023-04-15
+last-modified: 2023-05-08
 layout: default
 tags:
 - job-sequencing
@@ -9,6 +9,11 @@ title: Job Sequencing
 ---
 
 Welcome to the Job Sequencing page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 ## Description
 

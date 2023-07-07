@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```nit
 print "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Nit](https://sampleprograms.io/languages/nit) was written by:
+Hello World in [Nit](https://sampleprograms.io/languages/nit) was written by:
 
 - Jeremy Grifski
 

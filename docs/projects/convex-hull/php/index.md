@@ -211,11 +211,12 @@ $points = form_points($x_values, $y_values);
 // Get convex hull of points and show points
 $hull_points = convex_hull($points);
 show_points($hull_points);
+
 ```
 
 {% endraw %}
 
-[Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Php](https://sampleprograms.io/languages/php) was written by:
+Convex Hull in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

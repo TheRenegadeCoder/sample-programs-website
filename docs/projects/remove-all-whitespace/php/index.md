@@ -38,11 +38,12 @@ if (count($argv) < 2 || empty($argv[1]))
 // Remove all whitespace and display string
 $str = remove_all_whitespace($argv[1]);
 echo "${str}\n";
+
 ```
 
 {% endraw %}
 
-[Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Php](https://sampleprograms.io/languages/php) was written by:
+Remove All Whitespace in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

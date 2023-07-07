@@ -170,11 +170,12 @@ sequence matrix_t = transpose_matrix(matrix)
 
 -- Show transposed matrix as a list
 show_matrix_as_list(matrix_t)
+
 ```
 
 {% endraw %}
 
-[Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Transpose Matrix in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

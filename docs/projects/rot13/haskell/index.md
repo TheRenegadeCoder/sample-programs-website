@@ -46,17 +46,16 @@ main = do
     exitWith $ ExitFailure 1
   else
     putStrLn $ rot13 $ head args
+
 ```
 
 {% endraw %}
 
-[Rot13](https://sampleprograms.io/projects/rot13) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+Rot13 in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
 
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2019 01:48:28. The solution was first committed on Nov 20 2018 02:15:20. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -55,18 +55,17 @@ def main(args):
 
 if __name__ == "__main__":
     main(sys.argv[1:])
+
 ```
 
 {% endraw %}
 
-[Rot13](https://sampleprograms.io/projects/rot13) in [Python](https://sampleprograms.io/languages/python) was written by:
+Rot13 in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Grifski
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Dec 23 2018 01:26:11. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

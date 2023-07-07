@@ -147,18 +147,17 @@ int main(int argc, char *argv[])
         cout << "false"
              << "\n";
 }
+
 ```
 
 {% endraw %}
 
-[Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+Depth First Search in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Ajay Maheshwari
 - Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 16:05:09. The solution was first committed on Oct 03 2022 22:27:16. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```javascript
 console.log("Hello, World!")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Hello World in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Jeremy Griffith
 

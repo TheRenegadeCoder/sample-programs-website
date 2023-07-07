@@ -39,14 +39,12 @@ fun main(args: Array<String>) {
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
+Factorial in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 - Blake.Ke
 - Satyajit Pradhan
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 23:34:00. The solution was first committed on Oct 06 2019 08:53:26. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -45,11 +45,12 @@ end
 input_array = [9 8 7 6 5 4];
 %input_array element can be different
 output_array = insertion_sort(input_array);
+
 ```
 
 {% endraw %}
 
-[Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
+Insertion Sort in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
 
 - aiashwarj kumar
 

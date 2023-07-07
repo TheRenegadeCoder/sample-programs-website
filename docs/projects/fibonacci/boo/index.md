@@ -27,11 +27,12 @@ def fib():
 # Print the first 5 numbers in the series:
 for index as int, element in zip(range(5), fib()):
     print("${index+1}: ${element}")
+
 ```
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Boo](https://sampleprograms.io/languages/boo) was written by:
+Fibonacci in [Boo](https://sampleprograms.io/languages/boo) was written by:
 
 - Subhayu Roy
 

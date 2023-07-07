@@ -115,11 +115,12 @@ then
 else
     puts(STDOUT, "false\n")
 end if
+
 ```
 
 {% endraw %}
 
-[Linear Search](https://sampleprograms.io/projects/linear-search) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Linear Search in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

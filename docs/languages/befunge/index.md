@@ -1,7 +1,11 @@
 ---
+authors:
+- Jeremy Grifski
+- Ron Zuckerman
+- Stuart Irwin
 date: 2018-10-22
 featured-image: programming-languages.jpg
-last-modified: 2020-10-17
+last-modified: 2023-05-15
 layout: default
 tags:
 - befunge
@@ -9,6 +13,12 @@ title: The Befunge Programming Language
 ---
 
 Welcome to the Befunge page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+
+This article was written by:
+
+- Jeremy Grifski
+- Ron Zuckerman
+- Stuart Irwin
 
 ## Description
 

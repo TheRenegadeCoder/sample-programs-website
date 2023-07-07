@@ -218,11 +218,12 @@ sequence mst = prim_mst(graph)
 -- Calculate total weight of MST and display
 integer total_weight = get_total_mst_weight(mst)
 printf(STDOUT, "%d\n", total_weight)
+
 ```
 
 {% endraw %}
 
-[Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Minimum Spanning Tree in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

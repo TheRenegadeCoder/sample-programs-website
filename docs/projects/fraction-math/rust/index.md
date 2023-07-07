@@ -228,17 +228,16 @@ fn main() {
     let result: FractionResult = fraction_math(frac1, frac2, op);
     println!("{result:?}");
 }
+
 ```
 
 {% endraw %}
 
-[Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Fraction Math in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 08 2023 19:53:07. The solution was first committed on Apr 12 2023 09:19:43. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -1,7 +1,7 @@
 ---
 date: 2018-12-02
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2023-02-19
+last-modified: 2023-05-16
 layout: default
 tags:
 - bubble-sort
@@ -9,6 +9,11 @@ title: Bubble Sort
 ---
 
 Welcome to the Bubble Sort page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
+
+This article was written by:
+
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

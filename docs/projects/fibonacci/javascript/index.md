@@ -1,10 +1,13 @@
 ---
 authors:
+- Alina 1Black
+- Jeremy Grifski
 - Marius
 - Parker Johansen
+- rzuckerm
 date: 2018-10-04
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2019-04-07
+last-modified: 2023-05-15
 layout: default
 tags:
 - fibonacci
@@ -25,9 +28,9 @@ function fibonacci(num) {
     let second = 1;
     let result = 0;
     for (let i = 1; i <= n; i++) {
-        result = first + second;
-        first = second;
-        second = result;
+    	result = first + second;
+    	first = second;
+    	second = result;
         console.log(i + ": " + first);
     }
 }
@@ -39,18 +42,23 @@ if (num && !isNaN(num)) {
 } else {
     console.log("Usage: please input the count of fibonacci numbers to output")
 }
+
 ```
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Fibonacci in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Marius
 - Parker Johansen
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2019 00:40:32. The solution was first committed on Oct 04 2018 13:17:58. As a result, documentation below may be outdated.
+- Alina 1Black
+- Jeremy Grifski
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

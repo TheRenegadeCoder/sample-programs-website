@@ -21,15 +21,15 @@ Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) i
 function result = prime_number(n)
 
 if n < 0
-    result = 'Please input a non-negative integer'
+	result = 'Please input a non-negative integer'
 end
 
 if not(ischar(n))
-    result = 'Please input a non-negative integer'
+	result = 'Please input a non-negative integer'
 end
 
 if not(isempty(n)) = 1
-    result = 'Please input a non-negative integer'
+	result = 'Please input a non-negative integer'
 end
 
 if not(~isinf(x) & floor(x) == x)
@@ -61,7 +61,7 @@ end
 
 {% endraw %}
 
-[Prime Number](https://sampleprograms.io/projects/prime-number) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
+Prime Number in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
 
 - rpartha
 

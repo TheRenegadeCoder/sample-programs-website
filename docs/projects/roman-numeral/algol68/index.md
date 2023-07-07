@@ -103,11 +103,12 @@ THEN
 ELSE
     error
 FI
+
 ```
 
 {% endraw %}
 
-[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Roman Numeral in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```pinecone
 print: "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Pinecone](https://sampleprograms.io/languages/pinecone) was written by:
+Hello World in [Pinecone](https://sampleprograms.io/languages/pinecone) was written by:
 
 - iwishiwasaneagle
 

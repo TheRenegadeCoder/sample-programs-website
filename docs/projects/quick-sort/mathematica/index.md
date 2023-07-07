@@ -122,11 +122,12 @@ Print /@ quicksortMain /@ {
 quicksortMain[""]
 quicksortMain["1"]
 quicksortMain["4 5 3"]
+
 ```
 
 {% endraw %}
 
-[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Quick Sort in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

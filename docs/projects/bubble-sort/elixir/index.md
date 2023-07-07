@@ -64,18 +64,17 @@ defmodule Bubble do
 end
 
 Bubble.main(System.argv())
+
 ```
 
 {% endraw %}
 
-[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
+Bubble Sort in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
 
 - Jeremy Grifski
 - Sree Siva Sandeep Palaparthi
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 00:35:06. The solution was first committed on Oct 03 2019 22:47:13. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

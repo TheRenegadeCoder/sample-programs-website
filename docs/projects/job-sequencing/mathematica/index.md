@@ -71,11 +71,12 @@ Print /@ Apply[scheduleMain] /@ {
 scheduleMain["", ""]
 scheduleMain["25, 15, 10, 5", ""]
 scheduleMain["1, 2, 3, 4", "1, 2, 3, 4, 5"]
+
 ```
 
 {% endraw %}
 
-[Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Job Sequencing in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

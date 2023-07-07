@@ -1,11 +1,12 @@
 ---
 authors:
+- awoerner92
 - Francisco Peters
 - Jeremy Grifski
 - rzuckerm
 date: 2018-05-07
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2023-03-19
+last-modified: 2023-05-15
 layout: default
 tags:
 - reverse-string
@@ -26,19 +27,24 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 (if (> (length (command-line)) 1)
   (display (reverse-string (list-ref (command-line) 1)))
 )
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Scheme](https://sampleprograms.io/languages/scheme) was written by:
+Reverse String in [Scheme](https://sampleprograms.io/languages/scheme) was written by:
 
 - Francisco Peters
 - Jeremy Grifski
 - rzuckerm
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:24:49. The solution was first committed on May 07 2018 23:12:09. As a result, documentation below may be outdated.
+- awoerner92
+- Jeremy Grifski
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

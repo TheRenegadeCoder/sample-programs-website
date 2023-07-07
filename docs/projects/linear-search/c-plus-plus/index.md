@@ -80,15 +80,13 @@ int main(int argc, char *argv[])
 
 {% endraw %}
 
-[Linear Search](https://sampleprograms.io/projects/linear-search) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+Linear Search in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Jeremy Grifski
 - rzuckerm
 - Vipin Yadav
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 29 2023 21:43:56. The solution was first committed on Oct 03 2022 18:59:58. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

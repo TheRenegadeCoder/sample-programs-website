@@ -63,17 +63,16 @@ fn main() {
     // Get maximum subarray and display
     println!("{}", maximum_subarray(&arr));
 }
+
 ```
 
 {% endraw %}
 
-[Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Maximum Subarray in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 08 2023 19:53:07. The solution was first committed on Apr 09 2023 10:53:37. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

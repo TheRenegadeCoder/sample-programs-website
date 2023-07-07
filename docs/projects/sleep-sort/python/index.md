@@ -59,18 +59,17 @@ def main():
 
 
 main()
+
 ```
 
 {% endraw %}
 
-[Sleep Sort](https://sampleprograms.io/projects/sleep-sort) in [Python](https://sampleprograms.io/languages/python) was written by:
+Sleep Sort in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - aymaneMx
 - Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Oct 02 2020 02:28:25. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

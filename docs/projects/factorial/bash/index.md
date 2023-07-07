@@ -24,8 +24,8 @@ number=$1
 
 if [[ -z "$number" ]]
 then
-    echo "Usage: please input a non-negative integer"
-    exit 1
+	echo "Usage: please input a non-negative integer"
+	exit 1
 fi
 
 if ! [[ "$number" =~ ^[0-9]+$ ]]  
@@ -46,11 +46,12 @@ do
 done
 
 echo $value
+
 ```
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Bash](https://sampleprograms.io/languages/bash) was written by:
+Factorial in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
 - Amanda Hager Lopes de Andrade Katz
 

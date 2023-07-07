@@ -184,17 +184,16 @@ FI;
 # Do sleep sort and show results #
 REF []INT values := sleep sort(sleep times);
 show list values(values)
+
 ```
 
 {% endraw %}
 
-[Sleep Sort](https://sampleprograms.io/projects/sleep-sort) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Sleep Sort in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Feb 25 2023 13:10:07. The solution was first committed on Feb 14 2023 19:06:05. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

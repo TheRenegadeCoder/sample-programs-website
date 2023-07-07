@@ -37,17 +37,16 @@ void fizzBuzz(int maxNumber){
 void main() {
   fizzBuzz(100);
 }
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Dart](https://sampleprograms.io/languages/dart) was written by:
+Fizz Buzz in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
 - Sanchit Sahay
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 02 2020 09:18:47. The solution was first committed on Oct 02 2020 00:37:01. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

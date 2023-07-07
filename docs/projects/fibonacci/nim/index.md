@@ -43,17 +43,17 @@ for i in 1..n:
     previouspreviousInt = previousInt
     previousInt = currentInt
     currentInt = previouspreviousInt + previousInt
+
+
 ```
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Nim](https://sampleprograms.io/languages/nim) was written by:
+Fibonacci in [Nim](https://sampleprograms.io/languages/nim) was written by:
 
 - Michael Olson
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 23:58:35. The solution was first committed on Oct 16 2019 20:14:08. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

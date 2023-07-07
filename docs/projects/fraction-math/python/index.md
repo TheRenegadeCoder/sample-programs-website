@@ -2,9 +2,10 @@
 authors:
 - Jeremy Grifski
 - Niraj Kamdar
+- rzuckerm
 date: 2019-10-16
 featured-image: fraction-math-in-every-language.jpg
-last-modified: 2022-05-10
+last-modified: 2023-05-15
 layout: default
 tags:
 - fraction-math
@@ -58,18 +59,23 @@ def main(args):
 
 if __name__ == "__main__":
     main(sys.argv[1:])
+
 ```
 
 {% endraw %}
 
-[Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Python](https://sampleprograms.io/languages/python) was written by:
+Fraction Math in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Grifski
 - Niraj Kamdar
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 10 2022 16:42:22. The solution was first committed on Oct 16 2019 13:04:44. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- Niraj Kamdar
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

@@ -1,9 +1,11 @@
 ---
 authors:
 - Jeremy Grifski
+- rzuckerm
+- Stuart Irwin
 date: 2018-09-17
 featured-image: baklava-in-kotlin.jpg
-last-modified: 2018-09-17
+last-modified: 2023-05-15
 layout: default
 tags:
 - baklava
@@ -26,13 +28,20 @@ fun main (args: Array<String>)
     for (i in 10 downTo 0)
         println (" ".repeat (10 - i) + "*".repeat (i * 2 + 1));
 }
+
 ```
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
+Baklava in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 - Jeremy Grifski
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
+- Stuart Irwin
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

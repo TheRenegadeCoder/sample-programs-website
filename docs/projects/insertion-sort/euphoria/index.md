@@ -133,17 +133,16 @@ end if
 -- Do insertion sort and show results
 values = insertion_sort(values)
 show_list_values(values)
+
 ```
 
 {% endraw %}
 
-[Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Insertion Sort in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Feb 26 2023 08:24:38. The solution was first committed on Feb 19 2023 21:44:13. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

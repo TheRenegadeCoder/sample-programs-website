@@ -22,11 +22,12 @@ module Main
 
 main : IO ()
 main = putStrLn "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Idris](https://sampleprograms.io/languages/idris) was written by:
+Hello World in [Idris](https://sampleprograms.io/languages/idris) was written by:
 
 - Jeremy Grifski
 

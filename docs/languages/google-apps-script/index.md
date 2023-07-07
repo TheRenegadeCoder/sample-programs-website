@@ -1,7 +1,11 @@
 ---
+authors:
+- Jeremy Grifski
+- Johnny Fang
+- Ron Zuckerman
 date: 2018-05-09
 featured-image: programming-languages.jpg
-last-modified: 2018-05-09
+last-modified: 2023-05-15
 layout: default
 tags:
 - google-apps-script
@@ -9,6 +13,12 @@ title: The Google Apps Script Programming Language
 ---
 
 Welcome to the Google Apps Script page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+
+This article was written by:
+
+- Jeremy Grifski
+- Johnny Fang
+- Ron Zuckerman
 
 ## Description
 

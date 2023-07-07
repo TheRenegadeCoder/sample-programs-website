@@ -23,11 +23,12 @@ import "core:fmt.odin";
 main :: proc() {
   fmt.println("Hello, World!");
 }
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Odin](https://sampleprograms.io/languages/odin) was written by:
+Hello World in [Odin](https://sampleprograms.io/languages/odin) was written by:
 
 - Jeremy Grifski
 

@@ -1,7 +1,7 @@
 ---
 date: 2018-11-20
 featured-image: rot13-in-every-language.jpg
-last-modified: 2023-02-17
+last-modified: 2023-02-24
 layout: default
 tags:
 - rot13
@@ -9,6 +9,11 @@ title: Rot13
 ---
 
 Welcome to the Rot13 page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
+
+This article was written by:
+
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

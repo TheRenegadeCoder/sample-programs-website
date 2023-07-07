@@ -36,18 +36,17 @@ int main()
     }
     return 0;
 }
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+Fizz Buzz in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Ford Smith
 - Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 16:05:09. The solution was first committed on Oct 09 2019 00:53:15. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

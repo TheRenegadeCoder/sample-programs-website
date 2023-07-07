@@ -145,17 +145,16 @@ FI;
 # Calculate maximum subarray and display #
 INT max value = maximum subarray(values);
 printf(($gl$, whole(max value, 0)))
+
 ```
 
 {% endraw %}
 
-[Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Maximum Subarray in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Feb 06 2023 19:40:54. The solution was first committed on Feb 06 2023 09:59:05. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

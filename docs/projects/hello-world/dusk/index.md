@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```dusk
 println("Hello, World!")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Dusk](https://sampleprograms.io/languages/dusk) was written by:
+Hello World in [Dusk](https://sampleprograms.io/languages/dusk) was written by:
 
 - Jeremy Grifski
 

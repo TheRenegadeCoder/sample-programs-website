@@ -37,7 +37,7 @@ main(arg[1])
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Lua](https://sampleprograms.io/languages/lua) was written by:
+Even Odd in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
 - Berry Semexan
 

@@ -52,13 +52,11 @@ EvenOdd.main(System.argv()) |> IO.puts
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
+Even Odd in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
 
 - Zapnuk
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 04 2020 23:28:49. The solution was first committed on Oct 03 2020 02:22:00. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -57,11 +57,12 @@ defmodule Baklava do
 end
 
 Baklava.baklava() |> IO.puts()
+
 ```
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
+Baklava in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
 
 - Oleksii Filonenko
 

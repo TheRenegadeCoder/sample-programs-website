@@ -23,7 +23,7 @@ String revStr = ' ';
 
 for (Integer i = original.length()-1; i >= 0; i--)
 {
-    revStr += original.substring(i, i+1);
+	revStr += original.substring(i, i+1);
 }
 
 system.debug(revStr );
@@ -31,7 +31,7 @@ system.debug(revStr );
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Apex](https://sampleprograms.io/languages/apex) was written by:
+Reverse String in [Apex](https://sampleprograms.io/languages/apex) was written by:
 
 - coderdecoder01
 

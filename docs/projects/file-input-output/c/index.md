@@ -79,11 +79,12 @@ int main(int argc, char **argv)
 
     return EXIT_SUCCESS;
 }
+
 ```
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [C](https://sampleprograms.io/languages/c) was written by:
+File Input Output in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Christoph Böhmwalder
 

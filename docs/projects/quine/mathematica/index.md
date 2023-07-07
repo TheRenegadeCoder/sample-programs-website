@@ -23,11 +23,12 @@ Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Mathematica
 (* Credit to https://mathematica.stackexchange.com/a/6110/61814 for this answer: *)
 
 Print[ToString[#0][]] &[]
+
 ```
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Quine in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

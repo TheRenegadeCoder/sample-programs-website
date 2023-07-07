@@ -30,11 +30,12 @@ write_file () {
 
 write_file "File text line 1\nFile text line 2\nFile text line 3"
 read_file
+
 ```
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Bash](https://sampleprograms.io/languages/bash) was written by:
+File Input Output in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
 - Parker Johansen
 

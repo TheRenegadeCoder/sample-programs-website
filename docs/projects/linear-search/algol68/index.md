@@ -153,11 +153,12 @@ FI;
 # Do linear search and show results #
 INT index = linear search(target, values);
 printf(($gl$, (index > 0 | "true" | "false")))
+
 ```
 
 {% endraw %}
 
-[Linear Search](https://sampleprograms.io/projects/linear-search) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Linear Search in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

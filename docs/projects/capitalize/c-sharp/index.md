@@ -39,18 +39,17 @@ namespace SamplePrograms
         }
     }
 }
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
+Capitalize in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Jeremy Grifski
 - Renato Ramos Nascimento
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 21:08:00. The solution was first committed on Oct 11 2019 19:29:17. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

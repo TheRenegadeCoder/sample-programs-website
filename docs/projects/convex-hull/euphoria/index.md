@@ -214,17 +214,16 @@ sequence points = form_points(values[1], values[2])
 -- Get convex hull of points and show points
 sequence hull_points = convex_hull(points)
 show_points(hull_points)
+
 ```
 
 {% endraw %}
 
-[Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Convex Hull in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 27 2023 20:03:45. The solution was first committed on Feb 25 2023 15:34:20. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

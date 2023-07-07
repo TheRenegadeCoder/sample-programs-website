@@ -34,11 +34,13 @@ void main(List<String> args) {
     print("Usage: please input the count of fibonacci numbers to output");
   }
 }
+
+
 ```
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Dart](https://sampleprograms.io/languages/dart) was written by:
+Fibonacci in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
 - Reilly Howell
 

@@ -142,11 +142,12 @@ int main(int argc, char **argv)
 
     free(arr);
 }
+
 ```
 
 {% endraw %}
 
-[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [C](https://sampleprograms.io/languages/c) was written by:
+Bubble Sort in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Christoph Böhmwalder
 

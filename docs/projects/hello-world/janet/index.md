@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```janet
 (print "Hello, World!")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Janet](https://sampleprograms.io/languages/janet) was written by:
+Hello World in [Janet](https://sampleprograms.io/languages/janet) was written by:
 
 - Chris Nord
 

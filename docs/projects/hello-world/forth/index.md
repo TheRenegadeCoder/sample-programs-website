@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```forth
 .( Hello, World!)
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Forth](https://sampleprograms.io/languages/forth) was written by:
+Hello World in [Forth](https://sampleprograms.io/languages/forth) was written by:
 
 - Jeremy Grifski
 

@@ -46,14 +46,12 @@ fun main(args: Array<String>) {
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
+Fibonacci in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 - Blake.Ke
 - Erik Nelson
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 23:34:00. The solution was first committed on Oct 18 2018 14:52:56. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

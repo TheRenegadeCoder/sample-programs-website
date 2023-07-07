@@ -65,11 +65,12 @@ Print /@ selectionSortMain /@ {
 selectionSortMain[""]
 selectionSortMain["1"]
 selectionSortMain["4 5 3"]
+
 ```
 
 {% endraw %}
 
-[Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Selection Sort in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

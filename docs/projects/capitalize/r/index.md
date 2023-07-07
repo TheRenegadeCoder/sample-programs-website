@@ -37,11 +37,12 @@ if(length(args) > 0){
 }else{
     cat("Usage: please provide a string")
 }
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [R](https://sampleprograms.io/languages/r) was written by:
+Capitalize in [R](https://sampleprograms.io/languages/r) was written by:
 
 - Veena ManikPrabhu
 

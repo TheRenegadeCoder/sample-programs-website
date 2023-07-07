@@ -51,18 +51,17 @@ namespace FizzBuzz
         }
     }
 }
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
+Fizz Buzz in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Jeremy Grifski
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 26 2019 00:00:41. The solution was first committed on Aug 14 2018 11:18:18. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -53,11 +53,12 @@ Print /@ Apply[josephusMain] /@ {
 josephusMain["", ""]
 josephusMain["word", "word"]
 josephusMain["0", "1"]
+
 ```
 
 {% endraw %}
 
-[Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Josephus Problem in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

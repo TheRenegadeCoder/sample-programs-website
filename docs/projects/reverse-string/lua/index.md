@@ -2,9 +2,10 @@
 authors:
 - Jeremy Grifski
 - Matt Wiley
+- rzuckerm
 date: 2018-09-19
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2019-10-03
+last-modified: 2023-05-15
 layout: default
 tags:
 - lua
@@ -22,18 +23,23 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 if #arg > 0 then
     print(string.reverse(arg[1]))
 end
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Lua](https://sampleprograms.io/languages/lua) was written by:
+Reverse String in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
 - Jeremy Grifski
 - Matt Wiley
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 03 2019 19:09:30. The solution was first committed on Sep 19 2018 19:41:10. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- Matt Wiley
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

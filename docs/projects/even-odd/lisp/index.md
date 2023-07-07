@@ -34,11 +34,12 @@ Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Lisp]
 (cond
   ((null num) (write-line "Usage: please input a number"))
   (t (write-line (even-odd num))))
+
 ```
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
+Even Odd in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
 
 - Parker Johansen
 

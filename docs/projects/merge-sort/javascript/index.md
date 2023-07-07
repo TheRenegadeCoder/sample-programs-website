@@ -77,7 +77,7 @@ else {
 
 {% endraw %}
 
-[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Merge Sort in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Sumathi Varadharajan
 

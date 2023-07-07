@@ -34,11 +34,13 @@ func main() -> int
     
     print_str(hw)
 }
+
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Never](https://sampleprograms.io/languages/never) was written by:
+Hello World in [Never](https://sampleprograms.io/languages/never) was written by:
 
 - smaludzi
 

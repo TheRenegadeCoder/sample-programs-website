@@ -56,18 +56,17 @@ function quicksort($array)
 $sorted_numbers = quicksort($numbers);
 
 echo implode(', ', $sorted_numbers);
+
 ```
 
 {% endraw %}
 
-[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Php](https://sampleprograms.io/languages/php) was written by:
+Quick Sort in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - Gurmeet
 - Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 16 2019 00:10:51. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

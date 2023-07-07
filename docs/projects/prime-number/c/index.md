@@ -1,9 +1,12 @@
 ---
 authors:
+- Jeremy Grifski
 - Matias
+- rzuckerm
+- shubhragupta-code
 date: 2019-10-15
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2019-10-15
+last-modified: 2023-05-15
 layout: default
 tags:
 - c
@@ -57,16 +60,23 @@ int main(int ac, char **av)
         printf("Usage: please input a non-negative integer\n");
         return (1);
     }
-    prime_number(atoi(av[1]));
-    return (0);
+	prime_number(atoi(av[1]));
+	return (0);
 }
+
 ```
 
 {% endraw %}
 
-[Prime Number](https://sampleprograms.io/projects/prime-number) in [C](https://sampleprograms.io/languages/c) was written by:
+Prime Number in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Matias
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
+- shubhragupta-code
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

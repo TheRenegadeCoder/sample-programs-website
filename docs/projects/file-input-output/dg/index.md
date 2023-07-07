@@ -40,18 +40,17 @@ read_file = filename ->
 filename = "output.txt"
 write_file filename "Example text"
 read_file filename
+
 ```
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Dg](https://sampleprograms.io/languages/dg) was written by:
+File Input Output in [Dg](https://sampleprograms.io/languages/dg) was written by:
 
 - Jeremy Grifski
 - Riley Martine
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2018 22:42:39. The solution was first committed on Oct 03 2018 17:19:04. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

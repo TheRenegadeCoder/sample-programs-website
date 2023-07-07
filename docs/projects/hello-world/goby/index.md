@@ -1,9 +1,11 @@
 ---
 authors:
 - Jeremy Griffith
+- Jeremy Grifski
+- rzuckerm
 date: 2018-04-20
 featured-image: hello-world-in-goby.jpg
-last-modified: 2018-04-20
+last-modified: 2023-05-15
 layout: default
 tags:
 - goby
@@ -19,13 +21,19 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```goby
 puts("Hello, World!")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Goby](https://sampleprograms.io/languages/goby) was written by:
+Hello World in [Goby](https://sampleprograms.io/languages/goby) was written by:
 
 - Jeremy Griffith
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

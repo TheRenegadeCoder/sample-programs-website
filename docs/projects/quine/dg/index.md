@@ -20,11 +20,12 @@ Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Dg](https:/
 ```dg
 s = 's = %r\nprint $ s%%s'
 print $ s%s
+
 ```
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [Dg](https://sampleprograms.io/languages/dg) was written by:
+Quine in [Dg](https://sampleprograms.io/languages/dg) was written by:
 
 - Riley Martine
 

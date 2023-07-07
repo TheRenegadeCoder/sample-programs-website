@@ -21,36 +21,37 @@ Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input
 package main
 
 import (
-    "fmt"
-    "io/ioutil"
-    "log"
+	"fmt"
+	"io/ioutil"
+	"log"
 )
 
 func read() (string, error) {
-    contents, err := ioutil.ReadFile("output.txt")
-    return string(contents), err
+	contents, err := ioutil.ReadFile("output.txt")
+	return string(contents), err
 }
 
 func write(contents string) error {
-    return ioutil.WriteFile("output.txt", []byte(contents), 0644)
+	return ioutil.WriteFile("output.txt", []byte(contents), 0644)
 }
 
 func main() {
-    err := write("file contents")
-    if err != nil {
-        log.Fatal(err)
-    }
-    contents, err := read()
-    if err != nil {
-        log.Fatal(err)
-    }
-    fmt.Println(contents)
+	err := write("file contents")
+	if err != nil {
+		log.Fatal(err)
+	}
+	contents, err := read()
+	if err != nil {
+		log.Fatal(err)
+	}
+	fmt.Println(contents)
 }
+
 ```
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Go](https://sampleprograms.io/languages/go) was written by:
+File Input Output in [Go](https://sampleprograms.io/languages/go) was written by:
 
 - Parker Johansen
 

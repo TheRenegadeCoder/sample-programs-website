@@ -1,7 +1,9 @@
 ---
+authors:
+- Jeremy Grifski
 date: 2018-05-06
 featured-image: programming-languages.jpg
-last-modified: 2023-02-14
+last-modified: 2023-05-15
 layout: default
 tags:
 - algol68
@@ -9,6 +11,10 @@ title: The Algol68 Programming Language
 ---
 
 Welcome to the Algol68 page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+
+This article was written by:
+
+- Jeremy Grifski
 
 ## Description
 

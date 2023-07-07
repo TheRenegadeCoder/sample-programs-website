@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```php
 <?="Hello, World!";
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Php](https://sampleprograms.io/languages/php) was written by:
+Hello World in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - Jeremy Griffith
 

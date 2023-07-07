@@ -82,14 +82,12 @@ main(input)
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Factorial in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Bharath
 - Matt Wiley
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 15:14:04. The solution was first committed on Oct 10 2019 08:24:08. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

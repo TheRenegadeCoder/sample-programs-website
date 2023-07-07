@@ -34,13 +34,11 @@ end
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
+Capitalize in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
 
 - iwishiwasaneagle
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 02 2020 11:51:28. The solution was first committed on Oct 02 2020 11:42:05. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

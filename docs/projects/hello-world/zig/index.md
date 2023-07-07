@@ -24,11 +24,12 @@ pub fn main() !void {
     const stdout = std.io.getStdOut().writer();
     try stdout.print("Hello, {}!\n", .{"world"});
 }
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Zig](https://sampleprograms.io/languages/zig) was written by:
+Hello World in [Zig](https://sampleprograms.io/languages/zig) was written by:
 
 - Palash Dubey
 

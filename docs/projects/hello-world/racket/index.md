@@ -1,9 +1,11 @@
 ---
 authors:
 - Jeremy Griffith
+- Jeremy Grifski
+- rzuckerm
 date: 2018-04-08
 featured-image: hello-world-in-racket.jpg
-last-modified: 2018-04-08
+last-modified: 2023-05-15
 layout: default
 tags:
 - hello-world
@@ -20,13 +22,19 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 ```racket
 #lang racket/base
 "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Racket](https://sampleprograms.io/languages/racket) was written by:
+Hello World in [Racket](https://sampleprograms.io/languages/racket) was written by:
 
 - Jeremy Griffith
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

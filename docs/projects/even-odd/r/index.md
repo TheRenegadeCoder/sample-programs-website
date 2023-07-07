@@ -31,11 +31,12 @@ if (length(args) < 1 || !suppressWarnings(!is.na(as.numeric(number)))) {
     cat("Odd")
   }
 }
+
 ```
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [R](https://sampleprograms.io/languages/r) was written by:
+Even Odd in [R](https://sampleprograms.io/languages/r) was written by:
 
 - Grooble
 

@@ -25,11 +25,12 @@ class Capitalize {
     }
   }
 }
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
+Capitalize in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
 
 - robin
 

@@ -47,11 +47,13 @@ func main() -> int
     
     print_str(reverse(hw))
 }
+
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Never](https://sampleprograms.io/languages/never) was written by:
+Reverse String in [Never](https://sampleprograms.io/languages/never) was written by:
 
 - smaludzi
 

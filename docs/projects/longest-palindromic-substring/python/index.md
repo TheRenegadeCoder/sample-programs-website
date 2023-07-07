@@ -62,11 +62,12 @@ if __name__ == '__main__':
             print(errorMessage)
         else:
             print(sub)
+
 ```
 
 {% endraw %}
 
-[Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Python](https://sampleprograms.io/languages/python) was written by:
+Longest Palindromic Substring in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - izexi
 

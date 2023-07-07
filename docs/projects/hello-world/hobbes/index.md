@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```hobbes
 putStr("Hello, World!")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Hobbes](https://sampleprograms.io/languages/hobbes) was written by:
+Hello World in [Hobbes](https://sampleprograms.io/languages/hobbes) was written by:
 
 - Shivam Choudhary
 

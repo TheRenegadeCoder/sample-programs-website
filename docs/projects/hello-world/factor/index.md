@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```factor
 "Hello, World!" print
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Factor](https://sampleprograms.io/languages/factor) was written by:
+Hello World in [Factor](https://sampleprograms.io/languages/factor) was written by:
 
 - Jeremy Grifski
 

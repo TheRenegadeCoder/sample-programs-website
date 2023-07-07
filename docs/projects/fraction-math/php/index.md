@@ -238,11 +238,12 @@ if ($f1 === FALSE || $f2 == FALSE)
 $op = $argv[2];
 $result = fraction_math($f1, $f2, $op);
 show_fraction_result($result);
+
 ```
 
 {% endraw %}
 
-[Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Php](https://sampleprograms.io/languages/php) was written by:
+Fraction Math in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

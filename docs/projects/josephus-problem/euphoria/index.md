@@ -100,11 +100,12 @@ integer n = values[1]
 integer k = values[2]
 integer g = josephus(n, k)
 printf(STDOUT, "%d\n", g)
+
 ```
 
 {% endraw %}
 
-[Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Josephus Problem in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

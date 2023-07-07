@@ -35,18 +35,17 @@ main = do
         [] -> putStrLn "Usage: please provide a string"
         _  -> putStrLn $ capitalize inputStr
       _          -> putStrLn "Usage: please provide a string"
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+Capitalize in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
 
 - Amanda Eubanks
 - Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 23:11:24. The solution was first committed on Oct 13 2019 17:52:43. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

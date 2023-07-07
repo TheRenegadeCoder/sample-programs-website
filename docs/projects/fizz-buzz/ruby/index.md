@@ -35,11 +35,12 @@ def fizzbuzz(number)
 end
 
 (1..100).each {|n| fizzbuzz n}
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Fizz Buzz in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Jeremy Grifski
 

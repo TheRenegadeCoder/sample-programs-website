@@ -164,11 +164,12 @@ end if
 -- Find maximum array rotation and display result
 integer value = maximum_array_rotation(values)
 printf(STDOUT, "%d\n", value)
+
 ```
 
 {% endraw %}
 
-[Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Maximum Array Rotation in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

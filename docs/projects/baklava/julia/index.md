@@ -34,18 +34,17 @@ function main()
 end
 
 main()
+
 ```
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Julia](https://sampleprograms.io/languages/julia) was written by:
+Baklava in [Julia](https://sampleprograms.io/languages/julia) was written by:
 
 - germmand
 - Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 27 2019 14:00:36. The solution was first committed on Oct 04 2018 17:07:58. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

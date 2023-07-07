@@ -71,17 +71,16 @@ namespace SamplePrograms
         }
     }
 }
+
 ```
 
 {% endraw %}
 
-[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
+Roman Numeral in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 01 2019 04:00:30. The solution was first committed on Oct 21 2018 15:22:45. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

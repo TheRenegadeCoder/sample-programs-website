@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```smalltalk
 Transcript show: 'Hello, World!'.
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Smalltalk](https://sampleprograms.io/languages/smalltalk) was written by:
+Hello World in [Smalltalk](https://sampleprograms.io/languages/smalltalk) was written by:
 
 - Jeremy Grifski
 

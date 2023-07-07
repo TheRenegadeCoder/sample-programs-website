@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-06-19
 featured-image: hello-world-in-yoix.jpg
-last-modified: 2023-06-19
+last-modified: 2023-06-20
 layout: default
 tags:
 - hello-world
@@ -21,11 +21,16 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 import yoix.stdio.printf;
 
 printf("Hello, World!\n");
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Yoix](https://sampleprograms.io/languages/yoix) was written by:
+Hello World in [Yoix](https://sampleprograms.io/languages/yoix) was written by:
+
+- rzuckerm
+
+This article was written by:
 
 - rzuckerm
 

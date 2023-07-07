@@ -1,9 +1,11 @@
 ---
 authors:
 - Jeremy Griffith
+- Jeremy Grifski
+- rzuckerm
 date: 2018-04-11
 featured-image: hello-world-in-julia.jpg
-last-modified: 2018-04-11
+last-modified: 2023-05-15
 layout: default
 tags:
 - hello-world
@@ -19,13 +21,19 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```julia
 println("Hello, World!")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Julia](https://sampleprograms.io/languages/julia) was written by:
+Hello World in [Julia](https://sampleprograms.io/languages/julia) was written by:
 
 - Jeremy Griffith
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

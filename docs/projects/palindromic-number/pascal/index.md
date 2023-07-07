@@ -20,12 +20,12 @@ Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindrom
 
 ```pascal
 (*
-Description     Input   Output
-no input    None    Usage: please input a number
-empty input     ””  Usage: please input a number
-invalid input: not a number     a   Usage: please input a number
-sample input: palindrome    232     true
-sample input: not palindrome    521     false
+Description 	Input 	Output
+no input 	None 	Usage: please input a number
+empty input 	”” 	Usage: please input a number
+invalid input: not a number 	a 	Usage: please input a number
+sample input: palindrome 	232 	true
+sample input: not palindrome 	521 	false
 
 Count the no. of digits
 compare the left most with rightmost no & keep moving nearer to midpoint
@@ -77,18 +77,17 @@ begin
       writeln('Usage: please input a non-negative integer')
     end; (* Begin Reading NUmber*)
 end.  (* Begin Program Block*)
+
 ```
 
 {% endraw %}
 
-[Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
+Palindromic Number in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
 
 - Jeremy Grifski
 - manasmithamn
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2022 01:31:51. The solution was first committed on Oct 29 2021 22:21:59. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

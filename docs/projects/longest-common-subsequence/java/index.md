@@ -97,11 +97,12 @@ public class LongestCommonSubsequence {
         longest_common_subsequence(arr1, arr2);
     }
 }
+
 ```
 
 {% endraw %}
 
-[Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Java](https://sampleprograms.io/languages/java) was written by:
+Longest Common Subsequence in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Jeremy Grifski
 

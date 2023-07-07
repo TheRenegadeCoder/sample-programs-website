@@ -81,11 +81,12 @@ Print /@ mergeSortMain /@ {
 mergeSortMain[""]
 mergeSortMain["1"]
 mergeSortMain["4 5 3"]
+
 ```
 
 {% endraw %}
 
-[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Merge Sort in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

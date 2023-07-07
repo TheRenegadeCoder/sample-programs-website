@@ -34,11 +34,12 @@ if (!n || !k || typeof n !== "number" || typeof k !== "number") {
 }
 
 console.log(josephus(n, k));
+
 ```
 
 {% endraw %}
 
-[Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Josephus Problem in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Matteo Planchet
 

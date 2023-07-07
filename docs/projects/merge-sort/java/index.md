@@ -125,18 +125,17 @@ public class MergeSort {
     }
 
 }
+
 ```
 
 {% endraw %}
 
-[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Java](https://sampleprograms.io/languages/java) was written by:
+Merge Sort in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Jeremy Grifski
 - Shubham Raj
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Oct 17 2019 03:07:02. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

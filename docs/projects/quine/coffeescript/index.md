@@ -19,11 +19,12 @@ Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Coffeescrip
 
 ```coffeescript
 a="a=%j; console.log a,a"; console.log a,a
+
 ```
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
+Quine in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
 
 - Jeng
 

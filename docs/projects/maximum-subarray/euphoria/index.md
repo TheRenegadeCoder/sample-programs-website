@@ -115,11 +115,12 @@ end if
 -- Calculate maximum subarray and display
 integer max_value = maximum_subarray(values)
 printf(STDOUT, "%d\n", max_value)
+
 ```
 
 {% endraw %}
 
-[Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Maximum Subarray in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

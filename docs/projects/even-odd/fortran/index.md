@@ -58,11 +58,12 @@ else
   write(*,'(g0.8)') "Odd"
 end if
 end program
+
 ```
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
+Even Odd in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
 
 - Mallikarjuna S J
 

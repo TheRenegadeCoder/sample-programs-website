@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```carp
 (println "Hello, World!")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Carp](https://sampleprograms.io/languages/carp) was written by:
+Hello World in [Carp](https://sampleprograms.io/languages/carp) was written by:
 
 - Jeremy Grifski
 

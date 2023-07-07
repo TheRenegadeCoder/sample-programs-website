@@ -55,13 +55,11 @@ Map numeral_map(){
 
 {% endraw %}
 
-[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Dart](https://sampleprograms.io/languages/dart) was written by:
+Roman Numeral in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
 - Reilly Howell
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 21 2019 18:06:11. The solution was first committed on Oct 20 2019 18:59:46. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

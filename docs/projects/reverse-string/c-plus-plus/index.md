@@ -37,14 +37,12 @@ int main(int argc, char *argv[])
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+Reverse String in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Jeremy Grifski
 - Noah
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 16:05:09. The solution was first committed on Sep 14 2018 10:48:01. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

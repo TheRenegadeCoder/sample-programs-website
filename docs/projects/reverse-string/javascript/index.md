@@ -1,10 +1,12 @@
 ---
 authors:
+- Jeremy Grifski
+- Pascal Spiesz
 - rzuckerm
 - Trever Shick
 date: 2018-05-06
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2023-03-19
+last-modified: 2023-05-15
 layout: default
 tags:
 - javascript
@@ -24,18 +26,23 @@ const reverse = s => s.split('').reverse().join('');
 if (process.argv.length > 2) {
     console.log(reverse(process.argv[2]));
 }
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Reverse String in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - rzuckerm
 - Trever Shick
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:24:49. The solution was first committed on May 06 2018 09:06:55. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- Pascal Spiesz
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

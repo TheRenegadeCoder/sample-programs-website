@@ -49,7 +49,7 @@ evenOddMain["a"]
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Even Odd in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

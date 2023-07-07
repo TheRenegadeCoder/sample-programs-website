@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```dg
 print "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Dg](https://sampleprograms.io/languages/dg) was written by:
+Hello World in [Dg](https://sampleprograms.io/languages/dg) was written by:
 
 - Riley Martine
 

@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```swift
 print("Hello, World!")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Swift](https://sampleprograms.io/languages/swift) was written by:
+Hello World in [Swift](https://sampleprograms.io/languages/swift) was written by:
 
 - Jeremy Griffith
 

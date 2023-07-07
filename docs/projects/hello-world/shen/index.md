@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```shen
 (0-) (pr "Hello, World!")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Shen](https://sampleprograms.io/languages/shen) was written by:
+Hello World in [Shen](https://sampleprograms.io/languages/shen) was written by:
 
 - Jeremy Grifski
 

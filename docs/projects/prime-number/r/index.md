@@ -56,11 +56,12 @@ if(length(args) > 0){
 }else{    # Empty Input
   cat("Usage: please input a non-negative integer")
 }
+
 ```
 
 {% endraw %}
 
-[Prime Number](https://sampleprograms.io/projects/prime-number) in [R](https://sampleprograms.io/languages/r) was written by:
+Prime Number in [R](https://sampleprograms.io/languages/r) was written by:
 
 - Veena ManikPrabhu
 

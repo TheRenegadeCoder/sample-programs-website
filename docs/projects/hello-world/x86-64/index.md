@@ -41,7 +41,7 @@ _start:
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [X86 64](https://sampleprograms.io/languages/x86-64) was written by:
+Hello World in [X86 64](https://sampleprograms.io/languages/x86-64) was written by:
 
 - alope107
 

@@ -84,11 +84,12 @@ int main(int argc, const char * argv[]) {
   }
   return 0;
 }
+
 ```
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
+File Input Output in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - Cristiano Lopes
 

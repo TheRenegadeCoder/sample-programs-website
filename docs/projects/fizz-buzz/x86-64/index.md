@@ -157,7 +157,7 @@ print_val:
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [X86 64](https://sampleprograms.io/languages/x86-64) was written by:
+Fizz Buzz in [X86 64](https://sampleprograms.io/languages/x86-64) was written by:
 
 - alope107
 

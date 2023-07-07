@@ -51,11 +51,12 @@ int main(int argc, const char * argv[]) {
     }
     return 0;
 }
+
 ```
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
+Factorial in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - niftycode
 

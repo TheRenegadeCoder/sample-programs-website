@@ -43,18 +43,17 @@ if (isNaN(num)) {
 }
 
 fibonacci(num);
+
 ```
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
+Fibonacci in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
 
 - Chris Thomas
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 15 2023 16:26:37. The solution was first committed on Oct 12 2018 10:16:37. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

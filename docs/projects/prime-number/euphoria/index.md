@@ -95,11 +95,12 @@ end if
 
 -- Indicate whether prime or composite
 puts(STDOUT, iif(is_prime(value), "Prime\n", "Composite\n"))
+
 ```
 
 {% endraw %}
 
-[Prime Number](https://sampleprograms.io/projects/prime-number) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Prime Number in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

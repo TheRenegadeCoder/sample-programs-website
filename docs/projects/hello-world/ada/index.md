@@ -24,11 +24,12 @@ procedure Hello_World is
 begin
   Text_IO.Put_Line("Hello, World!");
 end Hello_World;
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Ada](https://sampleprograms.io/languages/ada) was written by:
+Hello World in [Ada](https://sampleprograms.io/languages/ada) was written by:
 
 - Jeremy Grifski
 

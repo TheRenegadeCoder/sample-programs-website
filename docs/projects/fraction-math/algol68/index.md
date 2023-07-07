@@ -233,11 +233,12 @@ FI;
 # DO fraction math and show result #
 FRACTIONRESULT fraction result := fraction math(fractions[1], op, fractions[2]);
 show fraction result(fraction result)
+
 ```
 
 {% endraw %}
 
-[Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Fraction Math in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

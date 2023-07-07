@@ -47,11 +47,12 @@ end if
 sequence s = argv[4]
 sequence t = remove_all_whitespace(s)
 printf(STDOUT, "%s\n", {t})
+
 ```
 
 {% endraw %}
 
-[Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Remove All Whitespace in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

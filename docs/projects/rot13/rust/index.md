@@ -70,14 +70,12 @@ fn main() {
 
 {% endraw %}
 
-[Rot13](https://sampleprograms.io/projects/rot13) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Rot13 in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Jeremy Grifski
 - Vincent Caron
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 16 2022 11:56:20. The solution was first committed on Jul 15 2019 10:49:39. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

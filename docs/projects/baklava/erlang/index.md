@@ -67,17 +67,16 @@ print(N, space) ->
 print(N, star) ->
     io:format("*"),
     print(N-1, star).
+
 ```
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
+Baklava in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
 
 - Mark Magahis
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 04 2019 16:16:30. The solution was first committed on Oct 04 2019 16:00:01. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

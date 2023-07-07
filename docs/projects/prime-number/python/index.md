@@ -1,10 +1,12 @@
 ---
 authors:
 - Haseeb Majid
+- Jeremy Grifski
 - Parker Johansen
+- rzuckerm
 date: 2018-12-23
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2019-05-02
+last-modified: 2023-05-15
 layout: default
 tags:
 - prime-number
@@ -46,18 +48,24 @@ def main(args):
 
 if __name__ == "__main__":
     main(sys.argv[1:])
+
 ```
 
 {% endraw %}
 
-[Prime Number](https://sampleprograms.io/projects/prime-number) in [Python](https://sampleprograms.io/languages/python) was written by:
+Prime Number in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Haseeb Majid
 - Parker Johansen
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 02 2019 11:43:38. The solution was first committed on Dec 23 2018 00:11:48. As a result, documentation below may be outdated.
+- Haseeb Majid
+- Jeremy Grifski
+- Parker Johansen
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

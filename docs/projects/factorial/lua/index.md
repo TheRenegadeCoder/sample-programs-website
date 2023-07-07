@@ -65,18 +65,17 @@ end
 
 -- Run the script
 main(arg[1])
+
 ```
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Lua](https://sampleprograms.io/languages/lua) was written by:
+Factorial in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
 - Jeremy Grifski
 - Matt Wiley
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 19:22:39. The solution was first committed on Oct 10 2019 12:43:45. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

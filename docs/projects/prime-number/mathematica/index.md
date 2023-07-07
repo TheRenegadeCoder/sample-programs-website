@@ -53,11 +53,12 @@ primeNumberMain[""]
 primeNumberMain["a"]
 palindromicNumberMain["6.7"]
 palindromicNumberMain["-7"]
+
 ```
 
 {% endraw %}
 
-[Prime Number](https://sampleprograms.io/projects/prime-number) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Prime Number in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

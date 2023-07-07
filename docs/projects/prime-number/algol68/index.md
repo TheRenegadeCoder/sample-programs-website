@@ -100,17 +100,16 @@ FI;
 
 # Indicate if prime #
 printf(($gl$, (is prime(n) | "Prime" | "Composite")))
+
 ```
 
 {% endraw %}
 
-[Prime Number](https://sampleprograms.io/projects/prime-number) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Prime Number in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 30 2023 18:44:29. The solution was first committed on Jan 20 2023 11:12:25. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

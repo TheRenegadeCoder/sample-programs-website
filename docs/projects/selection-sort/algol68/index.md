@@ -176,17 +176,16 @@ FI;
 # Do selection sort and show results #
 selection sort(values);
 show list values(values)
+
 ```
 
 {% endraw %}
 
-[Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Selection Sort in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Feb 01 2023 12:37:22. The solution was first committed on Jan 29 2023 21:27:48. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

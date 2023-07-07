@@ -3,9 +3,9 @@ authors:
 - Divyansh Agarwal
 - Jeremy Grifski
 - rzuckerm
-date: 2020-11-03
+date: 2020-10-14
 featured-image: maximum-subarray-in-every-language.jpg
-last-modified: 2023-02-06
+last-modified: 2023-05-15
 layout: default
 tags:
 - maximum-subarray
@@ -48,19 +48,24 @@ def maximum_subarray(nums: List[int]) -> int:
 if __name__ == "__main__":
     nums = error_handling(sys.argv)
     print(maximum_subarray(nums))
+
 ```
 
 {% endraw %}
 
-[Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Python](https://sampleprograms.io/languages/python) was written by:
+Maximum Subarray in [Python](https://sampleprograms.io/languages/python) was written by:
+
+- Divyansh Agarwal
+- Jeremy Grifski
+- rzuckerm
+
+This article was written by:
 
 - Divyansh Agarwal
 - Jeremy Grifski
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Feb 06 2023 19:40:54. The solution was first committed on Nov 03 2020 08:56:37. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

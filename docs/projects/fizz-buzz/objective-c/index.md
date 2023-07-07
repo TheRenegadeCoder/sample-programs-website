@@ -48,11 +48,12 @@ int main (int argc, const char *argv[]){
     [pool drain];
     return 0;
 }
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
+Fizz Buzz in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - Juan D Frias
 

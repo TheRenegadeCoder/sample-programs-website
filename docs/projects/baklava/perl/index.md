@@ -35,7 +35,7 @@ for my $j (0..$size){
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Perl](https://sampleprograms.io/languages/perl) was written by:
+Baklava in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
 - Kateryna Tokar
 

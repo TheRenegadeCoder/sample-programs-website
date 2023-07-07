@@ -2,9 +2,11 @@
 authors:
 - Jeremy Grifski
 - Manan Gill
+- rzuckerm
+- shubhragupta-code
 date: 2019-10-09
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2020-10-15
+last-modified: 2023-05-15
 layout: default
 tags:
 - capitalize
@@ -32,18 +34,23 @@ if __name__ == '__main__':
         print('Usage: please provide a string')
     else:
         capitalize(sys.argv[1])
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Python](https://sampleprograms.io/languages/python) was written by:
+Capitalize in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Grifski
 - Manan Gill
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Oct 09 2019 21:02:30. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+- shubhragupta-code
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```pikelet
 "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Pikelet](https://sampleprograms.io/languages/pikelet) was written by:
+Hello World in [Pikelet](https://sampleprograms.io/languages/pikelet) was written by:
 
 - Jeremy Grifski
 

@@ -19,11 +19,12 @@ Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Haskell](ht
 
 ```haskell
 main = putStrLn $ (++) <*> show $ "main = putStrLn $ (++) <*> show $ "
+
 ```
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+Quine in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
 
 - Parker Johansen
 

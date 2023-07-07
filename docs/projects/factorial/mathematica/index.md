@@ -45,11 +45,12 @@ factorialMain["10000"]
 factorialMain[""]
 factorialMain["asdf"]
 factorialMain["-1"]
+
 ```
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Factorial in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

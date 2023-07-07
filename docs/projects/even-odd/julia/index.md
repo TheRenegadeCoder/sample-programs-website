@@ -39,11 +39,12 @@ try
 catch e
     err()
 end
+
 ```
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Julia](https://sampleprograms.io/languages/julia) was written by:
+Even Odd in [Julia](https://sampleprograms.io/languages/julia) was written by:
 
 - smjalageri
 

@@ -23,14 +23,16 @@ MODULE PrintHelloWorld;
 FROM InOut IMPORT WriteString, WriteLn;
 
 BEGIN
-    WriteString('Hello world!');
-    WriteLn;
+	WriteString('Hello world!');
+	WriteLn;
 END PrintHelloWorld.
+
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Modula2](https://sampleprograms.io/languages/modula2) was written by:
+Hello World in [Modula2](https://sampleprograms.io/languages/modula2) was written by:
 
 - Shashank KV
 

@@ -2,9 +2,10 @@
 authors:
 - Jeremy Grifski
 - Nick Keers
+- rzuckerm
 date: 2018-08-08
 featured-image: hello-world-in-erlang.jpg
-last-modified: 2019-10-04
+last-modified: 2023-05-15
 layout: default
 tags:
 - erlang
@@ -24,18 +25,23 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 start() ->
    io:format("Hello, World!~n").
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
+Hello World in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
 
 - Jeremy Grifski
 - Nick Keers
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 04 2019 10:45:28. The solution was first committed on Aug 08 2018 00:54:57. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- Nick Keers
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

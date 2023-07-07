@@ -53,11 +53,12 @@ const main = (input) => {
 }
 
 main(process.argv[2]);
+
 ```
 
 {% endraw %}
 
-[Rot13](https://sampleprograms.io/projects/rot13) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Rot13 in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - mericleac
 

@@ -27,19 +27,19 @@ if ($num_args == 0) {
     my @arr = split(',',$input_string);
     $n = $#arr + 1;
     if ($n <= 1) {
-    print "Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\"";
+	print "Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\"";
     } else {
-    for ($i = 0;$i < $n;$i++) {
-        $arr[$i] = int($arr[$i])
-    }
+	for ($i = 0;$i < $n;$i++) {
+	    $arr[$i] = int($arr[$i])
+	}
         for ($i = 1;$i < $n;$i = $i + 1) {
             $p = $arr[$i];
-        $j = $i - 1;
-        while($j >= 0 && $arr[$j] > $p) {
-        $arr[$j + 1] = $arr[$j];
-        $j = $j - 1;
-        }
-        $arr[$j + 1] = $p;
+	    $j = $i - 1;
+	    while($j >= 0 && $arr[$j] > $p) {
+		$arr[$j + 1] = $arr[$j];
+		$j = $j - 1;
+	    }
+	    $arr[$j + 1] = $p;
         }
         for ($i = 0;$i < $n;$i = $i + 1) {
             if ($i == 0) {
@@ -50,11 +50,12 @@ if ($num_args == 0) {
         }
     }
 }
+
 ```
 
 {% endraw %}
 
-[Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Perl](https://sampleprograms.io/languages/perl) was written by:
+Insertion Sort in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
 - SourabhBadhya
 

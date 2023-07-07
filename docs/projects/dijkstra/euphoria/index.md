@@ -266,11 +266,12 @@ sequence graph = create_graph(weights, num_vertices)
 sequence dijkstra_result = dijkstra(graph, src)
 integer dist = dijkstra_result[DIJKSTRA_DISTS][dest + 1]
 printf(STDOUT, "%d\n", dist)
+
 ```
 
 {% endraw %}
 
-[Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Dijkstra in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

@@ -40,11 +40,12 @@ namespace SamplePrograms
         }
     }
 }
+
 ```
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
+Even Odd in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Parker Johansen
 

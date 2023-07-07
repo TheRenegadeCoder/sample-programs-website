@@ -97,11 +97,12 @@ if ($target === FALSE)
 // Use built-in linear search and show result
 $index = array_search($target, $values);
 printf("%s\n", ($index !== FALSE) ? "true" : "false");
+
 ```
 
 {% endraw %}
 
-[Linear Search](https://sampleprograms.io/projects/linear-search) in [Php](https://sampleprograms.io/languages/php) was written by:
+Linear Search in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

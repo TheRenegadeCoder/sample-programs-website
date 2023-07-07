@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-02-14
 featured-image: hello-world-in-euphoria.jpg
-last-modified: 2023-02-14
+last-modified: 2023-02-19
 layout: default
 tags:
 - euphoria
@@ -21,11 +21,16 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 include std/io.e
 
 puts(STDOUT, "Hello, World!\n")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Hello World in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+
+- rzuckerm
+
+This article was written by:
 
 - rzuckerm
 

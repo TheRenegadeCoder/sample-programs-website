@@ -32,7 +32,7 @@ console.log main(process.argv[2])
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
+Even Odd in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
 
 - Sayantan Sarkar
 

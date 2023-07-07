@@ -59,17 +59,16 @@ main = do
     exitWith $ ExitFailure 1
   else
     putStrLn $ listToString $ reverse $ lcs l1 l2
+
 ```
 
 {% endraw %}
 
-[Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+Longest Common Subsequence in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
 
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 26 2019 01:28:05. The solution was first committed on Oct 20 2018 22:54:15. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

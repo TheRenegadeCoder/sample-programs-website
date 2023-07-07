@@ -53,17 +53,16 @@ FI;
 
 INT longest word len := longest word length(s);
 print((whole(longest word len, 0), newline))
+
 ```
 
 {% endraw %}
 
-[Longest Word](https://sampleprograms.io/projects/longest-word) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Longest Word in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 31 2023 22:00:52. The solution was first committed on Jan 24 2023 12:12:05. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

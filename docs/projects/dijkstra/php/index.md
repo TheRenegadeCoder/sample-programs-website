@@ -266,11 +266,12 @@ $graph = create_graph($weights, $num_vertices);
 // Run Dijkstra's algorithm on graph and show distance to destination
 $results = dijkstra($graph, $src);
 printf("%d\n", $results[$dest]->dist);
+
 ```
 
 {% endraw %}
 
-[Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Php](https://sampleprograms.io/languages/php) was written by:
+Dijkstra in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

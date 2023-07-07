@@ -20,7 +20,7 @@ Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [C
 
 ```clojure
 (ns capitalize
-    (:gen-class))
+	(:gen-class))
 
 (defn- is-valid-input [args]
   (and 
@@ -44,18 +44,17 @@ Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [C
 
 
 (main *command-line-args*)
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Clojure](https://sampleprograms.io/languages/clojure) was written by:
+Capitalize in [Clojure](https://sampleprograms.io/languages/clojure) was written by:
 
 - Jeremy Grifski
 - pablocostass
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 23:49:48. The solution was first committed on Oct 10 2019 23:54:24. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

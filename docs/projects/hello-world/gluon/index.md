@@ -20,11 +20,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 ```gluon
 let io = import! std.io
 io.print "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Gluon](https://sampleprograms.io/languages/gluon) was written by:
+Hello World in [Gluon](https://sampleprograms.io/languages/gluon) was written by:
 
 - Jeremy Grifski
 

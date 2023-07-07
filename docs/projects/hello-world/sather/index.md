@@ -23,11 +23,12 @@ class HELLO_WORLD is
       #OUT+"Hello, World!";
    end;
 end;
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Sather](https://sampleprograms.io/languages/sather) was written by:
+Hello World in [Sather](https://sampleprograms.io/languages/sather) was written by:
 
 - Prakhar Pande
 

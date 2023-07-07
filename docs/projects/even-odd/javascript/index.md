@@ -24,17 +24,16 @@ if(!Number.isInteger(input)){ //if there is no input, input = undefined and the 
 } else {
     console.log(input%2 === 0 ? 'Even' : 'Odd');
 }
+
 ```
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Even Odd in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Manan Gill
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 12 2019 10:08:50. The solution was first committed on Oct 11 2019 16:27:51. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

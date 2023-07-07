@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-04-30
 featured-image: baklava-in-piet.jpg
-last-modified: 2023-04-30
+last-modified: 2023-05-02
 layout: default
 tags:
 - baklava
@@ -17,7 +17,11 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Piet](h
 
 ![Baklava in Piet](/projects/baklava/piet/baklava.png)
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Piet](https://sampleprograms.io/languages/piet) was written by:
+Baklava in [Piet](https://sampleprograms.io/languages/piet) was written by:
+
+- rzuckerm
+
+This article was written by:
 
 - rzuckerm
 

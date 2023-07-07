@@ -43,11 +43,12 @@ duplicateCharacterCounterMain /@ {
 
 
 (* Invalid Tests *)
+
 ```
 
 {% endraw %}
 
-[Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Duplicate Character Counter in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

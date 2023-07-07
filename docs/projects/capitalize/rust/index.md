@@ -42,18 +42,17 @@ fn main() {
     // {} will print string without double quotes {:?} will print string with double quotes
     println!("{}", buff_hold);
 }
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Capitalize in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Mallikarjuna S J
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 04 2023 17:31:25. The solution was first committed on Oct 26 2019 23:33:47. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

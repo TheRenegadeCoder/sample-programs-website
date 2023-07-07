@@ -1,9 +1,11 @@
 ---
 authors:
+- Jeremy Grifski
 - Marty Hernandez Avedon
+- shubhragupta-code
 date: 2018-10-03
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2018-10-03
+last-modified: 2022-04-28
 layout: default
 tags:
 - fizz-buzz
@@ -46,13 +48,17 @@ fizzBuzz();
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Swift](https://sampleprograms.io/languages/swift) was written by:
+Fizz Buzz in [Swift](https://sampleprograms.io/languages/swift) was written by:
 
 - Marty Hernandez Avedon
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 03 2018 18:20:42. The solution was first committed on Oct 03 2018 15:06:30. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- Marty Hernandez Avedon
+- shubhragupta-code
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

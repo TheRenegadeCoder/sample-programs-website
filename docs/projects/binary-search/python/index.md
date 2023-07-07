@@ -1,10 +1,12 @@
 ---
 authors:
 - Jeremy Grifski
+- rzuckerm
+- shubhragupta-code
 - Vikram Rayavarapu
 date: 2019-10-27
 featured-image: binary-search-in-every-language.jpg
-last-modified: 2020-10-15
+last-modified: 2023-05-15
 layout: default
 tags:
 - binary-search
@@ -64,18 +66,24 @@ if __name__ == "__main__":
             print(True)
     except (IndexError, ValueError):
         exit_with_error()
+
 ```
 
 {% endraw %}
 
-[Binary Search](https://sampleprograms.io/projects/binary-search) in [Python](https://sampleprograms.io/languages/python) was written by:
+Binary Search in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Grifski
 - Vikram Rayavarapu
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Oct 27 2019 02:01:55. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+- shubhragupta-code
+- Vikram Rayavarapu
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

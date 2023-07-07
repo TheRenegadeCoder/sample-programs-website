@@ -29,11 +29,12 @@ main = start end ruleset ->
         print <| ruleset i
 
 main 1 100 fizz_buzz
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Dg](https://sampleprograms.io/languages/dg) was written by:
+Fizz Buzz in [Dg](https://sampleprograms.io/languages/dg) was written by:
 
 - Riley Martine
 

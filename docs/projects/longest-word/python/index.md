@@ -29,11 +29,12 @@ if len(sys.argv) == 1 or sys.argv[1] == "":
 input_string = sys.argv[1]
 longest_word = max(len(word) for word in input_string.split())
 print(longest_word)
+
 ```
 
 {% endraw %}
 
-[Longest Word](https://sampleprograms.io/projects/longest-word) in [Python](https://sampleprograms.io/languages/python) was written by:
+Longest Word in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Grifski
 

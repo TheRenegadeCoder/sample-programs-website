@@ -1,4 +1,7 @@
 ---
+authors:
+- Jeremy Grifski
+- Ron Zuckerman
 date: 2018-04-10
 featured-image: programming-languages.jpg
 last-modified: 2023-05-15
@@ -9,6 +12,11 @@ title: The Scala Programming Language
 ---
 
 Welcome to the Scala page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+
+This article was written by:
+
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

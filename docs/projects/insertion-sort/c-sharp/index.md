@@ -69,13 +69,11 @@ public class InsertionSort
 
 {% endraw %}
 
-[Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
+Insertion Sort in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 26 2019 00:26:31. The solution was first committed on Dec 28 2018 22:42:56. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

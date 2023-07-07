@@ -23,14 +23,15 @@ package main
 import "fmt"
 
 func main() {
-    a := "package main\n\nimport \"fmt\"\n\nfunc main() {\n\ta := %q\n\tfmt.Printf(a, a)\n}\n"
-    fmt.Printf(a, a)
+	a := "package main\n\nimport \"fmt\"\n\nfunc main() {\n\ta := %q\n\tfmt.Printf(a, a)\n}\n"
+	fmt.Printf(a, a)
 }
+
 ```
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [Go](https://sampleprograms.io/languages/go) was written by:
+Quine in [Go](https://sampleprograms.io/languages/go) was written by:
 
 - Parker Johansen
 

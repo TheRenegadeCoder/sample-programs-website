@@ -36,11 +36,12 @@ Module[{file = CreateFile["output.txt"]},
 
 
 (* Invalid Tests *)
+
 ```
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+File Input Output in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

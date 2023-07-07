@@ -86,18 +86,17 @@ result_string = num2str(array);
 
 
 end
+
 ```
 
 {% endraw %}
 
-[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
+Bubble Sort in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
 
 - Jeremy Grifski
 - sakurakhadag
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 28 2022 21:08:00. The solution was first committed on Oct 13 2019 19:22:30. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

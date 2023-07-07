@@ -32,11 +32,12 @@ end if
 -- Show reversed string
 sequence t = reverse(s)
 printf(STDOUT, "%s\n", {t})
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Reverse String in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

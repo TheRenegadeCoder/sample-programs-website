@@ -57,19 +57,18 @@ public class LinearSearch {
         return ans;
     }
 }
+
 ```
 
 {% endraw %}
 
-[Linear Search](https://sampleprograms.io/projects/linear-search) in [Java](https://sampleprograms.io/languages/java) was written by:
+Linear Search in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Ashish Aggarwal
 - Jeremy Grifski
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 29 2023 21:43:56. The solution was first committed on Oct 05 2020 19:35:45. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

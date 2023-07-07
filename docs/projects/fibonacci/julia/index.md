@@ -38,18 +38,18 @@ try
 catch e
     error()
 end
+
+
 ```
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Julia](https://sampleprograms.io/languages/julia) was written by:
+Fibonacci in [Julia](https://sampleprograms.io/languages/julia) was written by:
 
 - Jeremy Grifski
 - Michael King
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 16 2019 10:06:37. The solution was first committed on Oct 12 2018 13:55:57. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

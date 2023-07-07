@@ -28,11 +28,12 @@ if len(sys.argv) == 1 or sys.argv[1] == "":
 
 input_string = sys.argv[1]
 print("".join(input_string.split()))
+
 ```
 
 {% endraw %}
 
-[Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Python](https://sampleprograms.io/languages/python) was written by:
+Remove All Whitespace in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Grifski
 

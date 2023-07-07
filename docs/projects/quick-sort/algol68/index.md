@@ -202,17 +202,16 @@ FI;
 # Do quick sort and show results #
 quick sort(values);
 show list values(values)
+
 ```
 
 {% endraw %}
 
-[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Quick Sort in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 31 2023 22:28:00. The solution was first committed on Jan 29 2023 21:54:03. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

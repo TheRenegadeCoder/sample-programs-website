@@ -5,7 +5,7 @@ last-modified: 2021-05-24
 layout: default
 tags:
 - f-star
-title: The F\* Programming Language
+title: The F* Programming Language
 ---
 
 Welcome to the F\* page! Here, you'll find a description of the language as well as a list of sample programs in that language.

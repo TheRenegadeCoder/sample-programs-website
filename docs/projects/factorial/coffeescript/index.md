@@ -33,18 +33,17 @@ main = () ->
     usage()
 
 console.log main()
+
 ```
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
+Factorial in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
 
 - Hanyuan Li
 - Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:14:45. The solution was first committed on Oct 11 2019 21:51:03. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

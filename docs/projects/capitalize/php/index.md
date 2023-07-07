@@ -28,18 +28,17 @@ if (count($argv) == 2 && strlen($argv[1])) {
 } else {
     echo "Usage: please provide a string";
 }
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Php](https://sampleprograms.io/languages/php) was written by:
+Capitalize in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - Dowayne Breedt
 - Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 22:45:19. The solution was first committed on Oct 12 2019 20:02:21. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

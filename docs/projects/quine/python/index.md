@@ -19,11 +19,12 @@ Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Python](htt
 
 ```python
 s='s=%r;print(s%%s)';print(s%s)
+
 ```
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [Python](https://sampleprograms.io/languages/python) was written by:
+Quine in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Grifski
 

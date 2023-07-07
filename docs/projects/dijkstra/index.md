@@ -1,7 +1,7 @@
 ---
 date: 2021-10-25
 featured-image: dijkstra-in-every-language.jpg
-last-modified: 2023-04-20
+last-modified: 2023-05-08
 layout: default
 tags:
 - dijkstra
@@ -9,6 +9,10 @@ title: Dijkstra
 ---
 
 Welcome to the Dijkstra page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
+
+This article was written by:
+
+- Jeremy Grifski
 
 ## Description
 

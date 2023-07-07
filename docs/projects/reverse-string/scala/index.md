@@ -47,19 +47,18 @@ object ReverseString {
     inputStr.map(reverseString).map(println)
   }
 }
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Scala](https://sampleprograms.io/languages/scala) was written by:
+Reverse String in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
 - rzuckerm
 - Vee Ng
 - Viet Thang Nguyen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 15 2023 16:11:44. The solution was first committed on Mar 22 2019 12:59:04. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

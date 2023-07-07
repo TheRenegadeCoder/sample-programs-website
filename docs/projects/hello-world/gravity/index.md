@@ -21,11 +21,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 func main() {
   System.print("Hello, World!");
 }
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Gravity](https://sampleprograms.io/languages/gravity) was written by:
+Hello World in [Gravity](https://sampleprograms.io/languages/gravity) was written by:
 
 - Jeremy Grifski
 

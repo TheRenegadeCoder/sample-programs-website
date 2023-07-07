@@ -34,11 +34,12 @@ program fizz_buzz
         end do
         
 end program fizz_buzz
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
+Fizz Buzz in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
 
 - sniklas142
 

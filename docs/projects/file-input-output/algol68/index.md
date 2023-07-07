@@ -72,17 +72,16 @@ IF read file(filename) /= 0
 THEN
     stop
 FI
+
 ```
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+File Input Output in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 31 2023 21:43:37. The solution was first committed on Jan 20 2023 11:21:46. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

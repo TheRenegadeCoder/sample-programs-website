@@ -24,11 +24,12 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
       (reverse 
         (chop A)))))
 (bye)
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Picolisp](https://sampleprograms.io/languages/picolisp) was written by:
+Reverse String in [Picolisp](https://sampleprograms.io/languages/picolisp) was written by:
 
 - rzuckerm
 

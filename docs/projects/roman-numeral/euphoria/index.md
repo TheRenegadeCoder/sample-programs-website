@@ -107,11 +107,12 @@ then
 else
     error()
 end if
+
 ```
 
 {% endraw %}
 
-[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Roman Numeral in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

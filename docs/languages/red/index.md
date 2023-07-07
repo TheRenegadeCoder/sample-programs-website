@@ -1,7 +1,11 @@
 ---
+authors:
+- Jeremy Grifski
+- Johnny Fang
+- Ron Zuckerman
 date: 2018-04-20
 featured-image: programming-languages.jpg
-last-modified: 2018-04-20
+last-modified: 2023-05-15
 layout: default
 tags:
 - red
@@ -9,6 +13,12 @@ title: The Red Programming Language
 ---
 
 Welcome to the Red page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+
+This article was written by:
+
+- Jeremy Grifski
+- Johnny Fang
+- Ron Zuckerman
 
 ## Description
 

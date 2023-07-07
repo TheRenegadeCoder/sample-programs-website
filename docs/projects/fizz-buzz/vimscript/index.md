@@ -38,11 +38,12 @@ func! FizzBuzz()
 endfunc
 
 au BufEnter,BufReadPost * call FizzBuzz()
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Vimscript](https://sampleprograms.io/languages/vimscript) was written by:
+Fizz Buzz in [Vimscript](https://sampleprograms.io/languages/vimscript) was written by:
 
 - Christoph Böhmwalder
 

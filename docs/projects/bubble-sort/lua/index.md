@@ -65,18 +65,17 @@ for k,v in pairs(nums) do
 end
 
 io.write("\n")
+
 ```
 
 {% endraw %}
 
-[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Lua](https://sampleprograms.io/languages/lua) was written by:
+Bubble Sort in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
 - Jeremy Grifski
 - jketterer
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 19:22:39. The solution was first committed on Oct 28 2019 15:46:03. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

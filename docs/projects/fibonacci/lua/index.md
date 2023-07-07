@@ -32,11 +32,12 @@ if tonumber(arg[1]) ~= nil then
 else
   print("Usage: please input the count of fibonacci numbers to output")
 end
+
 ```
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Lua](https://sampleprograms.io/languages/lua) was written by:
+Fibonacci in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
 - Andy Alban
 

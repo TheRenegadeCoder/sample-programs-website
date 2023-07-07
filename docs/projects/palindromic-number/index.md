@@ -1,7 +1,7 @@
 ---
-date: 2020-10-08
+date: 2020-10-07
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2023-04-09
+last-modified: 2023-05-15
 layout: default
 tags:
 - palindromic-number
@@ -9,6 +9,10 @@ title: Palindromic Number
 ---
 
 Welcome to the Palindromic Number page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
+
+This article was written by:
+
+- Jeremy Grifski
 
 ## Description
 

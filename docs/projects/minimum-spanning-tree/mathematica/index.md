@@ -59,11 +59,12 @@ minimumSpanningTreeWeightMain["0, 2, 0, 6, 0, 2, 0, 3, 8, 5, 0, 3, 0, 0, 7, 6, 8
 
 minimumSpanningTreeWeightMain[""]
 minimumSpanningTreeWeightMain["1, 0, 3, 0, 5, 1"]
+
 ```
 
 {% endraw %}
 
-[Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Minimum Spanning Tree in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

@@ -63,18 +63,17 @@ int main(string[] args)
     writeln(result);
     return 0;
 }
+
 ```
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [D](https://sampleprograms.io/languages/d) was written by:
+Factorial in [D](https://sampleprograms.io/languages/d) was written by:
 
 - rzuckerm
 - Scott Little
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 13 2023 20:47:23. The solution was first committed on Oct 04 2020 13:56:29. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

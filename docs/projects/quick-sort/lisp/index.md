@@ -78,14 +78,12 @@ Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [L
 
 {% endraw %}
 
-[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
+Quick Sort in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
 
 - Palash Dubey
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 09:45:24. The solution was first committed on Oct 04 2020 18:08:31. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

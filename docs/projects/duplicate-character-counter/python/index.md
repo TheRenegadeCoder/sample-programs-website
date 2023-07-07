@@ -38,11 +38,12 @@ if dupes:
             print(f"{key}: {value}")
 else:
     print("No duplicate characters")
+
 ```
 
 {% endraw %}
 
-[Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Python](https://sampleprograms.io/languages/python) was written by:
+Duplicate Character Counter in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Grifski
 

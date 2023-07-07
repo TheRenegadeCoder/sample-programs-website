@@ -1,7 +1,7 @@
 ---
-date: 2020-11-03
+date: 2020-10-14
 featured-image: maximum-subarray-in-every-language.jpg
-last-modified: 2023-04-09
+last-modified: 2023-05-15
 layout: default
 tags:
 - maximum-subarray
@@ -9,6 +9,10 @@ title: Maximum Subarray
 ---
 
 Welcome to the Maximum Subarray page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
+
+This article was written by:
+
+- Jeremy Grifski
 
 ## Description
 

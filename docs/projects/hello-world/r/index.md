@@ -1,9 +1,10 @@
 ---
 authors:
 - Jeremy Grifski
+- rzuckerm
 date: 2018-04-27
 featured-image: hello-world-in-r.jpg
-last-modified: 2018-04-27
+last-modified: 2023-05-15
 layout: default
 tags:
 - hello-world
@@ -19,13 +20,19 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```r
 cat("Hello, World!")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [R](https://sampleprograms.io/languages/r) was written by:
+Hello World in [R](https://sampleprograms.io/languages/r) was written by:
 
 - Jeremy Grifski
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

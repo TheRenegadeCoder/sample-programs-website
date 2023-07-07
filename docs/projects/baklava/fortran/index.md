@@ -26,17 +26,16 @@ program Baklava
         print '(10a)', repeat (" ", (10 - i)), repeat ("*", (i * 2 + 1))
     end do
 end program Baklava
+
 ```
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
+Baklava in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
 
 - Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 02 2019 15:07:11. The solution was first committed on Sep 17 2018 16:48:59. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

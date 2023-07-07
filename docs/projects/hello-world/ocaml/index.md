@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```ocaml
 print_string "Hello, World!\n";;
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Ocaml](https://sampleprograms.io/languages/ocaml) was written by:
+Hello World in [Ocaml](https://sampleprograms.io/languages/ocaml) was written by:
 
 - Jeremy Grifski
 

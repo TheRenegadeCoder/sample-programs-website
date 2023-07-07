@@ -140,17 +140,16 @@ end if
 -- Do selection sort and show results
 values = selection_sort(values)
 show_list_values(values)
+
 ```
 
 {% endraw %}
 
-[Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Selection Sort in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Feb 26 2023 09:29:12. The solution was first committed on Feb 19 2023 21:56:50. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -199,11 +199,12 @@ OD;
 # Get longest common subsequence and display it #
 REF []INT result = longest common subsequence(lists[1], lists[2]);
 show list values(result)
+
 ```
 
 {% endraw %}
 
-[Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Longest Common Subsequence in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

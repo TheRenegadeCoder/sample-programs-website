@@ -1,9 +1,13 @@
 ---
 authors:
 - Jeremy Griffith
+- Jeremy Grifski
+- Johnny Fang
+- rzuckerm
+- shubhragupta-code
 date: 2018-03-31
 featured-image: hello-world-in-rust.jpg
-last-modified: 2018-03-31
+last-modified: 2023-05-15
 layout: default
 tags:
 - hello-world
@@ -21,13 +25,21 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 fn main() {
     println!("Hello, World!");
 }
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Hello World in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Jeremy Griffith
+
+This article was written by:
+
+- Jeremy Grifski
+- Johnny Fang
+- rzuckerm
+- shubhragupta-code
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

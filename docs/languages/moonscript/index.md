@@ -1,7 +1,10 @@
 ---
+authors:
+- Jeremy Grifski
+- Ron Zuckerman
 date: 2018-08-28
 featured-image: programming-languages.jpg
-last-modified: 2018-08-28
+last-modified: 2023-05-15
 layout: default
 tags:
 - moonscript
@@ -9,6 +12,11 @@ title: The Moonscript Programming Language
 ---
 
 Welcome to the Moonscript page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+
+This article was written by:
+
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

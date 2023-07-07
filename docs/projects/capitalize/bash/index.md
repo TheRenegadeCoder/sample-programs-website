@@ -27,18 +27,17 @@ if [ -z "$1" ]; then
 fi
 
 echo ${1^}
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Bash](https://sampleprograms.io/languages/bash) was written by:
+Capitalize in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
 - Jeremy Grifski
 - lohxx
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2019 23:22:44. The solution was first committed on Oct 08 2019 21:12:31. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

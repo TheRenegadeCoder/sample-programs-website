@@ -35,11 +35,12 @@ for i = 1, 100 do
 
     print(output)
 end
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Lua](https://sampleprograms.io/languages/lua) was written by:
+Fizz Buzz in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
 - Jeremy Grifski
 

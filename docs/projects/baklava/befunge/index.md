@@ -24,12 +24,14 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Befunge
  : + -   > 1+  > 67*, v 
  1 1 1         | :-1  < 
  + \ \         > $\ v   
-^_@^_^# `0 :-1 ,*25 <
+^_@^_^# `0 :-1 ,*25 <   
+                        
+
 ```
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Befunge](https://sampleprograms.io/languages/befunge) was written by:
+Baklava in [Befunge](https://sampleprograms.io/languages/befunge) was written by:
 
 - Stuart Irwin
 

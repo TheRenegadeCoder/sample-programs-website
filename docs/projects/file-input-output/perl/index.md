@@ -21,41 +21,40 @@ Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input
 #!/usr/bin/env perl
 
 sub Main {
-    Write("Some arbitrary data.");
-    Read();
-    exit(0);
+	Write("Some arbitrary data.");
+	Read();
+	exit(0);
 }
 
 sub Write {
-    open(my $writing, ">output.txt") || die "File could not be written.\nError: $!";
+	open(my $writing, ">output.txt") || die "File could not be written.\nError: $!";
 
-    print $writing "@_"."\n";
+	print $writing "@_"."\n";
 
-    close($writing) || die "The file could not be closed on write.\nError: $!";
+	close($writing) || die "The file could not be closed on write.\nError: $!";
 }
 
 sub Read {
-    open(my $reading, "<output.txt") || die "File could not be readed.\nError: $!";
+	open(my $reading, "<output.txt") || die "File could not be readed.\nError: $!";
 
-    while (!eof($reading)) {
-        print <$reading>;
-    }
+	while (!eof($reading)) {
+		print <$reading>;
+	}
 
-    close($reading) || die "The file could not be closed on reading.\nError: $!";
+	close($reading) || die "The file could not be closed on reading.\nError: $!";
 }
 
 Main();
+
 ```
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Perl](https://sampleprograms.io/languages/perl) was written by:
+File Input Output in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
 - Ewerton Queiroz
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2019 01:29:31. The solution was first committed on Oct 15 2019 01:15:38. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -100,17 +100,16 @@ fn main() {
     let result: Vec<i32> = longest_common_subsequence::<i32>(&list1, &list2);
     println!("{result:?}");
 }
+
 ```
 
 {% endraw %}
 
-[Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Longest Common Subsequence in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 08 2023 19:53:07. The solution was first committed on Apr 18 2023 20:12:58. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

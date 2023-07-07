@@ -20,11 +20,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 ```pineapple
 def ().main
     'Hello, World!'.show
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Pineapple](https://sampleprograms.io/languages/pineapple) was written by:
+Hello World in [Pineapple](https://sampleprograms.io/languages/pineapple) was written by:
 
 - Jeremy Grifski
 

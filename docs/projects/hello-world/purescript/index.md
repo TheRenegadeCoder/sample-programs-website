@@ -23,11 +23,13 @@ module Main where
 import Effect.Console (log)
 
 main = log "Hello, world!"
+
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Purescript](https://sampleprograms.io/languages/purescript) was written by:
+Hello World in [Purescript](https://sampleprograms.io/languages/purescript) was written by:
 
 - Parker Johansen
 

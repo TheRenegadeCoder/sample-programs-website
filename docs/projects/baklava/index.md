@@ -1,7 +1,7 @@
 ---
 date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2023-05-04
+last-modified: 2023-05-15
 layout: default
 tags:
 - baklava
@@ -9,6 +9,10 @@ title: Baklava
 ---
 
 Welcome to the Baklava page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
+
+This article was written by:
+
+- Jeremy Grifski
 
 ## Description
 

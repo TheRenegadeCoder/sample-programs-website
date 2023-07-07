@@ -68,11 +68,12 @@ Print /@ bubbleSortMain /@ {
 
 (* Invalid Tests *)
 bubbleSortMain[""]
+
 ```
 
 {% endraw %}
 
-[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Bubble Sort in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

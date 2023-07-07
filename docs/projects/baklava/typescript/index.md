@@ -27,11 +27,12 @@ for (var i = 10; -1 < i; i--)
     console.log (
         " ".repeat (10 - i) + "*".repeat (i * 2 + 1)
     );
+
 ```
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
+Baklava in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
 
 - Jeremy Grifski
 

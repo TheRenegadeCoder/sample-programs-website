@@ -1,7 +1,7 @@
 ---
 date: 2018-08-07
 featured-image: quine-in-every-language.jpg
-last-modified: 2023-04-05
+last-modified: 2023-04-06
 layout: default
 tags:
 - quine
@@ -9,6 +9,11 @@ title: Quine
 ---
 
 Welcome to the Quine page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
+
+This article was written by:
+
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

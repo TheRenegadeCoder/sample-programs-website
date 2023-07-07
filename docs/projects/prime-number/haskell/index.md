@@ -47,17 +47,16 @@ main = do
     Just x
       | x < 0       -> putStrLn "Usage: please input a non-negative integer"
       | otherwise   -> putStrLn $ output $ isPrime x
+
 ```
 
 {% endraw %}
 
-[Prime Number](https://sampleprograms.io/projects/prime-number) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+Prime Number in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
 
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 02 2019 11:43:38. The solution was first committed on Nov 16 2018 22:37:33. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

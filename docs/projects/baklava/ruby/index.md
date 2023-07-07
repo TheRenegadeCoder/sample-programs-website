@@ -26,11 +26,12 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Ruby](h
 for i in 10.downto(0) do
   puts ((" " * (10 - i)) + ("*" * (i * 2 + 1)))
 end
+
 ```
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Baklava in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Jeremy Grifski
 

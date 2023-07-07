@@ -27,11 +27,12 @@ class EvenOdd {
     }
   }
 }
+
 ```
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
+Even Odd in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
 
 - robin
 

@@ -100,18 +100,19 @@ if (process.argv.length > 2) {
 else {
     console.log(usage);
 }
+
+
+
 ```
 
 {% endraw %}
 
-[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Quick Sort in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Gurmeet
 - Gurmeet Singh
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 18 2019 23:18:28. The solution was first committed on Oct 16 2019 15:49:03. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

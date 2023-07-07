@@ -22,7 +22,7 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Lisp](h
 (defparameter space_list '(#\space))
 (defparameter star_list '(#\*))
 (dotimes (run 9)
-    (push #\space space_list))
+	(push #\space space_list))
 (dotimes (run 10)
     (write-line (concatenate 'string space_list star_list))
     (pop space_list)
@@ -39,14 +39,12 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Lisp](h
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
+Baklava in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
 
 - Parker Johansen
 - Stuart Irwin
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2020 11:45:55. The solution was first committed on Nov 09 2019 13:11:46. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -1,7 +1,7 @@
 ---
 date: 2019-10-17
 featured-image: linear-search-in-every-language.jpg
-last-modified: 2023-04-09
+last-modified: 2023-05-15
 layout: default
 tags:
 - linear-search
@@ -9,6 +9,11 @@ title: Linear Search
 ---
 
 Welcome to the Linear Search page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
+
+This article was written by:
+
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

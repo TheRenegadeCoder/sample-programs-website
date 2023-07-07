@@ -101,17 +101,16 @@ FI;
 
 # Show requested number of Fibonacci values #
 show fibonacci values(n)
+
 ```
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Fibonacci in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 31 2023 21:23:22. The solution was first committed on Jan 21 2023 16:11:14. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

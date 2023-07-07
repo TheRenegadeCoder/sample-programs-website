@@ -69,19 +69,18 @@ if ($array_size <= 1) {
 }
 
 echo implode(', ', merge_sort($test_array)) . "\n";
+
 ```
 
 {% endraw %}
 
-[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Php](https://sampleprograms.io/languages/php) was written by:
+Merge Sort in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - Ankit kumar
 - Jeremy Grifski
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2022 21:44:19. The solution was first committed on Oct 10 2019 02:24:20. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

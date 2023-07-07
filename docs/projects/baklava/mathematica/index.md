@@ -32,7 +32,7 @@ TableForm[
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Baklava in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

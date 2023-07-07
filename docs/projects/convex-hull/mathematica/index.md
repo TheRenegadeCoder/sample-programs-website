@@ -98,11 +98,12 @@ convexHullMain["100, 180", "240, 60, 40, 200, 300"]
 convexHullMain["100, 180, 240", "240, 60, 40, 200, 300"]
 convexHullMain["100, 180, 240", ""]
 convexHullMain["100, 1A0, 240", "220, 120, 20"]
+
 ```
 
 {% endraw %}
 
-[Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Convex Hull in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

@@ -42,7 +42,7 @@ factorial(N,Acc) ->
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
+Factorial in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
 
 - Mark Magahis
 

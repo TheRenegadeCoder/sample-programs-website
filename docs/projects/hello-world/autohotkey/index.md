@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```autohotkey
 MsgBox, 0x30, Sample Programs, Hello, World!
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Autohotkey](https://sampleprograms.io/languages/autohotkey) was written by:
+Hello World in [Autohotkey](https://sampleprograms.io/languages/autohotkey) was written by:
 
 - Jeremy Grifski
 

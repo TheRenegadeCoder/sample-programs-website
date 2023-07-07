@@ -167,11 +167,12 @@ sequence job_sequence = job_sequencing(profits, deadlines)
 -- Get total profit and display
 integer total_profit = get_total_profit(job_sequence)
 printf(STDOUT, "%d\n", total_profit)
+
 ```
 
 {% endraw %}
 
-[Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Job Sequencing in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

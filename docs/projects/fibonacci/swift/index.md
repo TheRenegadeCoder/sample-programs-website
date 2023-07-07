@@ -53,7 +53,7 @@ fibonacciProgram(number)
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Swift](https://sampleprograms.io/languages/swift) was written by:
+Fibonacci in [Swift](https://sampleprograms.io/languages/swift) was written by:
 
 - smallblack9
 

@@ -52,14 +52,12 @@ public class Rot13 {
 
 {% endraw %}
 
-[Rot13](https://sampleprograms.io/projects/rot13) in [Java](https://sampleprograms.io/languages/java) was written by:
+Rot13 in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Jeremy Grifski
 - jsonW0
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Oct 27 2019 22:01:29. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

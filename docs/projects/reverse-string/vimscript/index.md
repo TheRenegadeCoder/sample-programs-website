@@ -22,11 +22,12 @@ func! Reverse(str)
     let l:r = join(reverse(split(a:str, '\zs')), '')
     call append(0, l:r)
 endfunc
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Vimscript](https://sampleprograms.io/languages/vimscript) was written by:
+Reverse String in [Vimscript](https://sampleprograms.io/languages/vimscript) was written by:
 
 - Christoph Böhmwalder
 

@@ -68,7 +68,7 @@ print(roman_to_decimal(ARGV[0]))
 
 {% endraw %}
 
-[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Roman Numeral in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Allan Klaus
 

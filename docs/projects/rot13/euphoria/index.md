@@ -57,17 +57,16 @@ end if
 sequence s = argv[4]
 sequence t = rot13(s)
 printf(STDOUT, "%s\n", {t})
+
 ```
 
 {% endraw %}
 
-[Rot13](https://sampleprograms.io/projects/rot13) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Rot13 in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Feb 24 2023 09:50:39. The solution was first committed on Feb 17 2023 12:26:43. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

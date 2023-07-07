@@ -22,11 +22,12 @@ function MAIN
  clear
  ?"Hello, World!"
  return
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Clipper](https://sampleprograms.io/languages/clipper) was written by:
+Hello World in [Clipper](https://sampleprograms.io/languages/clipper) was written by:
 
 - Abhinav Keshav
 

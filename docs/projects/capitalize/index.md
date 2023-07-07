@@ -10,6 +10,10 @@ title: Capitalize
 
 Welcome to the Capitalize page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
 
+This article was written by:
+
+- Jeremy Grifski
+
 ## Description
 
 This simple program picks a string and return the first letter of it in uppercase.

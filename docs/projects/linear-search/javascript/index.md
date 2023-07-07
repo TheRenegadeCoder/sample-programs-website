@@ -59,19 +59,18 @@ const main = (input, key) => {
 }
 
 main(process.argv[2], process.argv[3])
+
 ```
 
 {% endraw %}
 
-[Linear Search](https://sampleprograms.io/projects/linear-search) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Linear Search in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Jeremy Grifski
 - NameerWaqas
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 29 2023 21:43:56. The solution was first committed on Oct 01 2020 13:30:39. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -83,17 +83,16 @@ else {
     print "Usage: please input a non-negative integer";
     exit(0);
 }
+
 ```
 
 {% endraw %}
 
-[Prime Number](https://sampleprograms.io/projects/prime-number) in [Perl](https://sampleprograms.io/languages/perl) was written by:
+Prime Number in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
 - Mallikarjuna S J
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Nov 05 2019 10:34:57. The solution was first committed on Oct 31 2019 19:30:18. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

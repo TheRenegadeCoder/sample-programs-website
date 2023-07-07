@@ -1,9 +1,11 @@
 ---
 authors:
 - Jeremy Griffith
+- Jeremy Grifski
+- rzuckerm
 date: 2018-04-08
 featured-image: hello-world-in-haskell.jpg
-last-modified: 2018-04-08
+last-modified: 2023-05-15
 layout: default
 tags:
 - haskell
@@ -21,13 +23,19 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 module Main where
 
 main = putStrLn "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+Hello World in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
 
 - Jeremy Griffith
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

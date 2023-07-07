@@ -41,11 +41,12 @@ object Fibonacci {
     }
   }
 }
+
 ```
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Scala](https://sampleprograms.io/languages/scala) was written by:
+Fibonacci in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
 - rzuckerm
 

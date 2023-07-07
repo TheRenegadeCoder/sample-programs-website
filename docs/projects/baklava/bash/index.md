@@ -22,31 +22,30 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Bash](h
 #!/bin/bash
 
 for i in {0..9}; do
-    printf " %.0s" $(seq 1 $(( 10 - $i )))
-    printf "*%.0s" $(seq 1 $(( $i * 2 + 1 )))
-    echo
+	printf " %.0s" $(seq 1 $(( 10 - $i )))
+	printf "*%.0s" $(seq 1 $(( $i * 2 + 1 )))
+	echo
 done
 
 printf "*%.0s" {1..21}
 echo
 
 for i in {9..0}; do
-    printf " %.0s" $(seq 1 $(( 10 - $i )))
-    printf "*%.0s" $(seq 1 $(( $i * 2 + 1 )))
-    echo
+	printf " %.0s" $(seq 1 $(( 10 - $i )))
+	printf "*%.0s" $(seq 1 $(( $i * 2 + 1 )))
+	echo
 done
+
 ```
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Bash](https://sampleprograms.io/languages/bash) was written by:
+Baklava in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
 - Jeremy Grifski
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 18 2019 16:44:21. The solution was first committed on Sep 17 2018 16:48:59. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

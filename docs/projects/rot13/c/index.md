@@ -43,17 +43,16 @@ int main(int argc, char *argv[]) {
     
     return 0;
 }
+
 ```
 
 {% endraw %}
 
-[Rot13](https://sampleprograms.io/projects/rot13) in [C](https://sampleprograms.io/languages/c) was written by:
+Rot13 in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Softizo
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 09 2019 20:06:02. The solution was first committed on Oct 09 2019 18:23:24. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

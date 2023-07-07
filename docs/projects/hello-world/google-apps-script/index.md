@@ -2,9 +2,10 @@
 authors:
 - Arun Pattni
 - Jeremy Grifski
+- rzuckerm
 date: 2018-05-09
 featured-image: hello-world-in-google-apps-script.jpg
-last-modified: 2018-05-09
+last-modified: 2023-05-15
 layout: default
 tags:
 - google-apps-script
@@ -22,18 +23,22 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 function helloWorld() {
   Logger.log("Hello, World!");
 }
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Google Apps Script](https://sampleprograms.io/languages/google-apps-script) was written by:
+Hello World in [Google Apps Script](https://sampleprograms.io/languages/google-apps-script) was written by:
 
 - Arun Pattni
 - Jeremy Grifski
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 09 2018 14:58:56. The solution was first committed on May 09 2018 19:50:32. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

@@ -1,7 +1,7 @@
 ---
 date: 2021-05-25
 featured-image: programming-languages.jpg
-last-modified: 2023-01-21
+last-modified: 2023-02-06
 layout: default
 tags:
 - mathematica

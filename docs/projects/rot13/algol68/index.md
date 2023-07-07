@@ -51,17 +51,16 @@ FI;
 # Encrypt string with ROT13 and display #
 s := rot13(s);
 printf(($gl$, s))
+
 ```
 
 {% endraw %}
 
-[Rot13](https://sampleprograms.io/projects/rot13) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Rot13 in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Feb 01 2023 12:00:13. The solution was first committed on Jan 24 2023 12:24:28. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

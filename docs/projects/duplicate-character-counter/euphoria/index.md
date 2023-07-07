@@ -72,11 +72,12 @@ sequence char_counter = duplicate_character_counter(s)
 
 -- Show all duplicate character counts in order in which they occurred in string (if any)
 show_duplicate_character_counts(s, char_counter)
+
 ```
 
 {% endraw %}
 
-[Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Duplicate Character Counter in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

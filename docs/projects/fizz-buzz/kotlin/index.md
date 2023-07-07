@@ -1,9 +1,12 @@
 ---
 authors:
 - ali-abdullah
+- Jeremy Grifski
+- rzuckerm
+- Stuart Irwin
 date: 2018-10-11
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2018-10-11
+last-modified: 2023-05-15
 layout: default
 tags:
 - fizz-buzz
@@ -32,9 +35,15 @@ fun main(args: Array<String>){
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
+Fizz Buzz in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 - ali-abdullah
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
+- Stuart Irwin
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

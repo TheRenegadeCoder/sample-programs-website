@@ -137,18 +137,17 @@ def _test_case_5():
 if __name__ == '__main__':
     # test()
     main()
+
 ```
 
 {% endraw %}
 
-[Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [Python](https://sampleprograms.io/languages/python) was written by:
+Minimum Spanning Tree in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Grifski
 - Yuchuan Liu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Oct 14 2019 21:01:04. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

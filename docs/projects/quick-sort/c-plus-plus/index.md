@@ -145,18 +145,17 @@ int main(int argc, char *argv[])
     }
     cout << v[n - 1];
 }
+
 ```
 
 {% endraw %}
 
-[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+Quick Sort in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Jeremy Grifski
 - Sumathi Varadharajan
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 16:05:09. The solution was first committed on Nov 01 2019 02:04:42. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

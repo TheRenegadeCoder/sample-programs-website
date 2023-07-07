@@ -1,7 +1,7 @@
 ---
 date: 2020-10-17
 featured-image: longest-palindromic-substring-in-every-language.jpg
-last-modified: 2023-04-17
+last-modified: 2023-05-08
 layout: default
 tags:
 - longest-palindromic-substring
@@ -9,6 +9,11 @@ title: Longest Palindromic Substring
 ---
 
 Welcome to the Longest Palindromic Substring page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
+
+This article was written by:
+
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

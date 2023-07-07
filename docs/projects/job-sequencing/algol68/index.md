@@ -263,11 +263,12 @@ REF []JOB sequence := job sequencing(profits, deadlines);
 # Get total profit and display #
 INT total profit := get total profit(sequence);
 printf(($gl$, whole(total profit, 0)))
+
 ```
 
 {% endraw %}
 
-[Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Job Sequencing in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```livescript
 console.log 'hello, world!'
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Livescript](https://sampleprograms.io/languages/livescript) was written by:
+Hello World in [Livescript](https://sampleprograms.io/languages/livescript) was written by:
 
 - Michael Beebower
 

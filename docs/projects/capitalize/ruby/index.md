@@ -29,11 +29,12 @@ if ARGV.length == 0 || ARGV[0] == ''
 else
     puts capitalize_str(ARGV[0])
 end
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Capitalize in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Couraxe
 

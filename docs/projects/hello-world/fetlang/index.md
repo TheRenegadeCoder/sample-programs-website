@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```fetlang
 make slave scream "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Fetlang](https://sampleprograms.io/languages/fetlang) was written by:
+Hello World in [Fetlang](https://sampleprograms.io/languages/fetlang) was written by:
 
 - Jeremy Grifski
 

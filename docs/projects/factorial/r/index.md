@@ -44,11 +44,12 @@ if(length(args) > 0){
 }else{
     cat("Usage: please input a non-negative integer")
      }
+
 ```
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [R](https://sampleprograms.io/languages/r) was written by:
+Factorial in [R](https://sampleprograms.io/languages/r) was written by:
 
 - Veena ManikPrabhu
 

@@ -55,18 +55,17 @@ def main(args):
 
 if __name__ == "__main__":
     main(sys.argv[1:])
+
 ```
 
 {% endraw %}
 
-[Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Python](https://sampleprograms.io/languages/python) was written by:
+Longest Common Subsequence in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Boot-Error
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 21 2019 16:33:32. The solution was first committed on Oct 16 2018 08:04:37. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -32,11 +32,12 @@ feature
         end
         
 end
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Eiffel](https://sampleprograms.io/languages/eiffel) was written by:
+Hello World in [Eiffel](https://sampleprograms.io/languages/eiffel) was written by:
 
 - Jeremy Grifski
 

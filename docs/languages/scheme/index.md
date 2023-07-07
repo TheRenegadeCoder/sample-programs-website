@@ -1,7 +1,11 @@
 ---
+authors:
+- awoerner92
+- Jeremy Grifski
+- Ron Zuckerman
 date: 2018-04-08
 featured-image: programming-languages.jpg
-last-modified: 2018-05-07
+last-modified: 2023-05-15
 layout: default
 tags:
 - scheme
@@ -9,6 +13,12 @@ title: The Scheme Programming Language
 ---
 
 Welcome to the Scheme page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+
+This article was written by:
+
+- awoerner92
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

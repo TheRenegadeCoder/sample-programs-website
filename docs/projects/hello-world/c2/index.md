@@ -26,11 +26,12 @@ func i32 main(i32 argc, char** argv) {
     io.printf("Hello, World!\n");
     return 0;
 }
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [C2](https://sampleprograms.io/languages/c2) was written by:
+Hello World in [C2](https://sampleprograms.io/languages/c2) was written by:
 
 - Jeremy Grifski
 

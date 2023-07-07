@@ -27,11 +27,12 @@ do
     integer num_stars = 21 - 2 * num_spaces
     printf(STDOUT, "%s%s\n", {repeat(' ', num_spaces), repeat('*', num_stars)})
 end for
+
 ```
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Baklava in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

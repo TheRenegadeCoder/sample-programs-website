@@ -61,18 +61,17 @@ Print /@ maximumSubarrayMain /@ {
 (* Invalid Tests *)
 
 maximumSubarrayMain[""]
+
 ```
 
 {% endraw %}
 
-[Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Maximum Subarray in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Feb 06 2023 19:40:54. The solution was first committed on Jan 20 2023 09:27:27. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

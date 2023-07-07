@@ -2,14 +2,15 @@
 authors:
 - Jeremy Grifski
 - Muhammad
+- rzuckerm
 date: 2018-05-11
 featured-image: hello-world-in-c-star.jpg
-last-modified: 2018-05-11
+last-modified: 2023-05-15
 layout: default
 tags:
 - c-star
 - hello-world
-title: Hello World in C\*
+title: Hello World in C*
 ---
 
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [C\*](https://sampleprograms.io/languages/c-star) page! Here, you'll find the source code for this program as well as a description of how the program works.
@@ -22,20 +23,24 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 #include <stdio.h>
 main ()
 {
-    printf ("Hello, World!")
+	printf ("Hello, World!")
 }
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [C\*](https://sampleprograms.io/languages/c-star) was written by:
+Hello World in [C\*](https://sampleprograms.io/languages/c-star) was written by:
 
 - Jeremy Grifski
 - Muhammad
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 11 2018 00:48:11. The solution was first committed on May 11 2018 00:47:40. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

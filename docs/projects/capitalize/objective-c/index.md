@@ -44,11 +44,12 @@ int main(int argc, const char * argv[]) {
   }
   return 0;
 }
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
+Capitalize in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - Cristiano Lopes
 

@@ -24,11 +24,12 @@ fn main() {
         println!("{}{}", " ".repeat(num_spaces), "*".repeat(21 - 2 * num_spaces));
     }
 }
+
 ```
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Baklava in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - rzuckerm
 

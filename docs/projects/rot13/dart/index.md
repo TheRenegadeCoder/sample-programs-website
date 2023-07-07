@@ -53,17 +53,16 @@ String rot13(String input) {
 
   return coded.join();
 }
+
 ```
 
 {% endraw %}
 
-[Rot13](https://sampleprograms.io/projects/rot13) in [Dart](https://sampleprograms.io/languages/dart) was written by:
+Rot13 in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
 - slashdoom
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 18 2019 09:04:37. The solution was first committed on Oct 18 2019 08:52:24. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

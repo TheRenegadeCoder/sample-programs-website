@@ -66,11 +66,12 @@ begin
           end;
         end
 end.
+
 ```
 
 {% endraw %}
 
-[Prime Number](https://sampleprograms.io/projects/prime-number) in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
+Prime Number in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
 
 - smjalageri
 

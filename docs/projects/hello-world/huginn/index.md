@@ -19,13 +19,14 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```huginn
 main() {
-    print("Hello, World!");
+	print("Hello, World!");
 }
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Huginn](https://sampleprograms.io/languages/huginn) was written by:
+Hello World in [Huginn](https://sampleprograms.io/languages/huginn) was written by:
 
 - Jeremy Grifski
 

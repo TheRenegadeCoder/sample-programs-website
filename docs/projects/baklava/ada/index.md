@@ -49,7 +49,7 @@ end Baklava;
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Ada](https://sampleprograms.io/languages/ada) was written by:
+Baklava in [Ada](https://sampleprograms.io/languages/ada) was written by:
 
 - Gagan Agarwal
 

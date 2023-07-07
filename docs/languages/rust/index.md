@@ -1,7 +1,11 @@
 ---
+authors:
+- Jeremy Grifski
+- Johnny Fang
+- Ron Zuckerman
 date: 2018-03-31
 featured-image: programming-languages.jpg
-last-modified: 2023-04-22
+last-modified: 2023-05-15
 layout: default
 tags:
 - rust
@@ -9,6 +13,12 @@ title: The Rust Programming Language
 ---
 
 Welcome to the Rust page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+
+This article was written by:
+
+- Jeremy Grifski
+- Johnny Fang
+- Ron Zuckerman
 
 ## Description
 

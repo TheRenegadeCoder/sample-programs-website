@@ -1,9 +1,11 @@
 ---
 authors:
 - Jeremy Griffith
+- Jeremy Grifski
+- rzuckerm
 date: 2018-04-10
 featured-image: hello-world-in-hack.jpg
-last-modified: 2018-04-10
+last-modified: 2023-05-15
 layout: default
 tags:
 - hack
@@ -20,13 +22,19 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 ```hack
 <?hh
 echo "Hello, World!";
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Hack](https://sampleprograms.io/languages/hack) was written by:
+Hello World in [Hack](https://sampleprograms.io/languages/hack) was written by:
 
 - Jeremy Griffith
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

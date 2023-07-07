@@ -138,11 +138,12 @@ $matrix_t = transpose_matrix($matrix);
 
 // Show matrix as a list
 show_matrix_as_list($matrix_t);
+
 ```
 
 {% endraw %}
 
-[Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Php](https://sampleprograms.io/languages/php) was written by:
+Transpose Matrix in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

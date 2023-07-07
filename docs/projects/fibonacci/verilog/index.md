@@ -40,11 +40,13 @@ initial #50 //Prints 25 fibonacci numbers as values change at POSEDGE of clock
     $finish;
 
 endmodule
+
+
 ```
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Verilog](https://sampleprograms.io/languages/verilog) was written by:
+Fibonacci in [Verilog](https://sampleprograms.io/languages/verilog) was written by:
 
 - TheSupremePatel
 

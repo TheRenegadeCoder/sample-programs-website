@@ -198,11 +198,12 @@ REF [, ]INT matrix t := transpose matrix(matrix);
 
 # Show transposed matrix as a list #
 show matrix as list(matrix t)
+
 ```
 
 {% endraw %}
 
-[Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Transpose Matrix in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

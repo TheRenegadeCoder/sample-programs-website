@@ -49,12 +49,13 @@ object Factorial
       println(factorial(m))
     }
   } 
-}
+} 
+
 ```
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Scala](https://sampleprograms.io/languages/scala) was written by:
+Factorial in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
 - rzuckerm
 

@@ -159,17 +159,16 @@ end if
 -- Do merge sort and show results
 values = merge_sort(values)
 show_list_values(values)
+
 ```
 
 {% endraw %}
 
-[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Merge Sort in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Feb 27 2023 22:11:29. The solution was first committed on Feb 19 2023 21:46:25. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

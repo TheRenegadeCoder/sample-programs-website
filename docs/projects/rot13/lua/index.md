@@ -38,18 +38,17 @@ else
 end
 
 io.write("\n")
+
 ```
 
 {% endraw %}
 
-[Rot13](https://sampleprograms.io/projects/rot13) in [Lua](https://sampleprograms.io/languages/lua) was written by:
+Rot13 in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
 - Alex Gustafsson
 - Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 19:22:39. The solution was first committed on Oct 18 2019 23:31:32. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

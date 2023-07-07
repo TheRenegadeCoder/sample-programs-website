@@ -34,14 +34,12 @@ fun main(args: Array<String>){
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
+Reverse String in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 - Barry Rowe
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:24:49. The solution was first committed on Oct 20 2018 12:01:39. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -23,7 +23,7 @@ def main(): String = "Hello World!"
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Flix](https://sampleprograms.io/languages/flix) was written by:
+Hello World in [Flix](https://sampleprograms.io/languages/flix) was written by:
 
 - Javier "Javi" Carrion
 

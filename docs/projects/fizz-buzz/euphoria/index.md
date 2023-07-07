@@ -30,11 +30,12 @@ do
     s &= iif(length(s) = 0, sprintf("%d", n), "")
     printf(STDOUT, "%s\n", {s})
 end for
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Fizz Buzz in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

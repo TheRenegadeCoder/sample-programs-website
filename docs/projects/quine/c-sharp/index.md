@@ -23,7 +23,7 @@ class Quine { static void Main() { var s = "class Quine {{ static void Main() {{
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
+Quine in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Parker Johansen
 

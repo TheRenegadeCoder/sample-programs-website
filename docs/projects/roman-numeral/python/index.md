@@ -3,10 +3,11 @@ authors:
 - Jeremy Grifski
 - Parker Johansen
 - prateeksharma21
+- rzuckerm
 - Vikram Rayavarapu
 date: 2018-10-07
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: 2020-10-15
+last-modified: 2023-05-15
 layout: default
 tags:
 - python
@@ -89,20 +90,25 @@ def main(args):
 
 if __name__ == '__main__':
     main(sys.argv[1:])
+
 ```
 
 {% endraw %}
 
-[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Python](https://sampleprograms.io/languages/python) was written by:
+Roman Numeral in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Grifski
 - Parker Johansen
 - prateeksharma21
 - Vikram Rayavarapu
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Oct 07 2018 01:52:26. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+- Vikram Rayavarapu
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

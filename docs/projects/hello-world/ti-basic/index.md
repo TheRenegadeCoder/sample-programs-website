@@ -20,11 +20,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 ```ti_basic
 ClrHome
 Disp "HELLO, WORLD!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Ti Basic](https://sampleprograms.io/languages/ti-basic) was written by:
+Hello World in [Ti Basic](https://sampleprograms.io/languages/ti-basic) was written by:
 
 - Calum Dingwall
 

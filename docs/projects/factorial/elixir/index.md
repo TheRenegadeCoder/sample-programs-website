@@ -55,19 +55,18 @@ defmodule Factorial do
 end
 
 Factorial.main(System.argv())
+
 ```
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
+Factorial in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
 
 - Jeremy Grifski
 - Parker Johansen
 - pearl2201
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 14:19:14. The solution was first committed on Oct 12 2019 09:32:34. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

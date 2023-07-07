@@ -83,13 +83,11 @@ class CSharp
 
 {% endraw %}
 
-[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
+Bubble Sort in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 26 2019 00:26:31. The solution was first committed on Dec 28 2018 00:03:37. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2023-06-19
+last-modified: 2023-06-20
 layout: default
 tags:
 - hello-world
@@ -9,6 +9,10 @@ title: Hello World
 ---
 
 Welcome to the Hello World page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
+
+This article was written by:
+
+- Jeremy Grifski
 
 ## Description
 

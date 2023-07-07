@@ -26,7 +26,7 @@ main = do putStrLn "Hello world"
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Frege](https://sampleprograms.io/languages/frege) was written by:
+Hello World in [Frege](https://sampleprograms.io/languages/frege) was written by:
 
 - joel ibaceta
 

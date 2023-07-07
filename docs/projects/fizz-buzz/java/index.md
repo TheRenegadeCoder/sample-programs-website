@@ -1,9 +1,12 @@
 ---
 authors:
 - Jeremy Grifski
+- rzuckerm
+- shubhragupta-code
+- Stuart
 date: 2018-09-08
 featured-image: fizz-buzz-in-java.jpg
-last-modified: 2022-10-10
+last-modified: 2023-05-15
 layout: default
 tags:
 - fizz-buzz
@@ -35,17 +38,23 @@ public class FizzBuzz {
         }
     }
 }
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Java](https://sampleprograms.io/languages/java) was written by:
+Fizz Buzz in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Jeremy Grifski
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Sep 08 2018 22:49:52. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+- shubhragupta-code
+- Stuart
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

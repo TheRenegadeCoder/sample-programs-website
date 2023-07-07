@@ -89,11 +89,12 @@ if ($value === FALSE || $value < 0)
 // Check if number is a palindrome and display results
 $is_palindrome = is_palindromic_number($value);
 printf("%s\n", $is_palindrome ? "true" : "false");
+
 ```
 
 {% endraw %}
 
-[Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Php](https://sampleprograms.io/languages/php) was written by:
+Palindromic Number in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

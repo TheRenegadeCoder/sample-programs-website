@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```ruby
 puts 'Hello, World!'
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Hello World in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Jeremy Griffith
 

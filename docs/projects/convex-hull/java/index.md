@@ -91,14 +91,12 @@ class Point {
 
 {% endraw %}
 
-[Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Java](https://sampleprograms.io/languages/java) was written by:
+Convex Hull in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Jeremy Grifski
 - jsonW0
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Oct 28 2019 01:27:00. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

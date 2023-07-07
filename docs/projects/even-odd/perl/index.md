@@ -26,20 +26,21 @@ use warnings;
 my ($number) = @ARGV;
 
 if (!defined $number || $number !~ /^\-?\d+$/) {
-    print "Usage: please input a number\n";
-    exit;
+	print "Usage: please input a number\n";
+	exit;
 }
 
 if ($number % 2 == 0) {
-    print "Even\n";
+	print "Even\n";
 } else {
-    print "Odd\n";
+	print "Odd\n";
 }
+
 ```
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Perl](https://sampleprograms.io/languages/perl) was written by:
+Even Odd in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
 - Gabriela Kandová
 

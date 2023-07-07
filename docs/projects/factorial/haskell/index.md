@@ -41,11 +41,12 @@ main = do
       | n < 0       -> putStrLn "Usage: please input a non-negative integer"
       | n <= 250000 -> putStrLn $ take 10 $ show $ factorial n
       | otherwise   -> putStrLn $ "!" ++ (show n) ++ " is out of the reasonable bounds for calculation"
+
 ```
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+Factorial in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
 
 - Parker Johansen
 

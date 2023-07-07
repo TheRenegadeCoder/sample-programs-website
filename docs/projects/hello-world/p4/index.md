@@ -223,7 +223,7 @@ MyDeparser()
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [P4](https://sampleprograms.io/languages/p4) was written by:
+Hello World in [P4](https://sampleprograms.io/languages/p4) was written by:
 
 - Fabricio R
 

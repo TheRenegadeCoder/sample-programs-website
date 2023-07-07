@@ -39,18 +39,17 @@ Module FizzBuzz
         Next
     End Sub
 End Module
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Visual Basic](https://sampleprograms.io/languages/visual-basic) was written by:
+Fizz Buzz in [Visual Basic](https://sampleprograms.io/languages/visual-basic) was written by:
 
 - rzuckerm
 - Thomas Braccia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 16 2023 12:29:09. The solution was first committed on Oct 01 2020 18:54:14. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

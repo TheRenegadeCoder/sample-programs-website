@@ -26,7 +26,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Egison](https://sampleprograms.io/languages/egison) was written by:
+Hello World in [Egison](https://sampleprograms.io/languages/egison) was written by:
 
 - Vinícius Alencar
 

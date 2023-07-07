@@ -1,9 +1,10 @@
 ---
 authors:
 - Jeremy Grifski
+- rzuckerm
 date: 2018-06-21
 featured-image: hello-world-in-dart.jpg
-last-modified: 2018-06-21
+last-modified: 2023-05-15
 layout: default
 tags:
 - dart
@@ -19,13 +20,19 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```dart
 void main() => print('Hello, World!');
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Dart](https://sampleprograms.io/languages/dart) was written by:
+Hello World in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
 - Jeremy Grifski
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

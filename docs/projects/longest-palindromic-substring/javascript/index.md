@@ -48,13 +48,11 @@ console.log(
 
 {% endraw %}
 
-[Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Longest Palindromic Substring in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - izexi
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 26 2020 13:59:30. The solution was first committed on Oct 17 2020 22:08:50. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

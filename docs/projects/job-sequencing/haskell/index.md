@@ -92,18 +92,18 @@ main = do
   case jobs of
     Nothing -> putStrLn "Usage: please provide a list of profits and a list of deadlines"
     Just n  -> putStrLn $ show $ maxProfit $ iterateJobs n
+
+
 ```
 
 {% endraw %}
 
-[Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+Job Sequencing in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
 
 - Parker Johansen
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:13:03. The solution was first committed on Nov 19 2018 20:00:34. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -182,18 +182,17 @@ int main(int argc, char *argv[])
     }
     cout << v[n - 1];
 }
+
 ```
 
 {% endraw %}
 
-[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+Merge Sort in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Jeremy Grifski
 - Sailok Chinta
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 16:05:09. The solution was first committed on Oct 26 2019 08:19:51. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

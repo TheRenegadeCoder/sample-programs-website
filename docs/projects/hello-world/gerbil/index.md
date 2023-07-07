@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```gerbil
 (displayln "Hello, World!")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Gerbil](https://sampleprograms.io/languages/gerbil) was written by:
+Hello World in [Gerbil](https://sampleprograms.io/languages/gerbil) was written by:
 
 - zafar hussain
 

@@ -1,7 +1,10 @@
 ---
+authors:
+- Jeremy Grifski
+- Ron Zuckerman
 date: 2018-04-11
 featured-image: programming-languages.jpg
-last-modified: 2020-10-08
+last-modified: 2023-05-15
 layout: default
 tags:
 - matlab
@@ -9,6 +12,11 @@ title: The Matlab Programming Language
 ---
 
 Welcome to the Matlab page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+
+This article was written by:
+
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

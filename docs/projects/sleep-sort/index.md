@@ -1,7 +1,7 @@
 ---
 date: 2019-10-07
 featured-image: sleep-sort-in-every-language.jpg
-last-modified: 2023-04-28
+last-modified: 2023-05-08
 layout: default
 tags:
 - sleep-sort
@@ -9,6 +9,11 @@ title: Sleep Sort
 ---
 
 Welcome to the Sleep Sort page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 ## Description
 

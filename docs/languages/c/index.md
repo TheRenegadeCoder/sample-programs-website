@@ -1,7 +1,11 @@
 ---
+authors:
+- Jeremy Grifski
+- Johnny Fang
+- Ron Zuckerman
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2022-10-08
+last-modified: 2023-05-15
 layout: default
 tags:
 - c
@@ -9,6 +13,12 @@ title: The C Programming Language
 ---
 
 Welcome to the C page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+
+This article was written by:
+
+- Jeremy Grifski
+- Johnny Fang
+- Ron Zuckerman
 
 ## Description
 

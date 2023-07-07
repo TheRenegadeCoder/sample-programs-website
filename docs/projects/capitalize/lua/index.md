@@ -31,18 +31,17 @@ else
     s, _ = s:gsub("^%l", string.upper)
     print(s)  
 end
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Lua](https://sampleprograms.io/languages/lua) was written by:
+Capitalize in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
 - Berry Semexan
 - Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 19:22:39. The solution was first committed on Oct 17 2019 11:02:13. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

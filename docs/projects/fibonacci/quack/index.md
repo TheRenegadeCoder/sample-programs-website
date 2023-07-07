@@ -21,11 +21,12 @@ Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Qua
 fn fibonacci(0) :- 0
 fn fibonacci(1) :- 1
 fn fibonacci(n) :- fibonacci(n - 1) + fibonacci(n - 2)
+
 ```
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Quack](https://sampleprograms.io/languages/quack) was written by:
+Fibonacci in [Quack](https://sampleprograms.io/languages/quack) was written by:
 
 - Aneendya
 

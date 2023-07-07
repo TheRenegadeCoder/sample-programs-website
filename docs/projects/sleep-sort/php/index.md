@@ -128,17 +128,16 @@ if ($values === FALSE || count($values) < 2)
 // Run sleep sort and show results
 $values = sleep_sort($values);
 printf("%s\n", implode(", ", $values));
+
 ```
 
 {% endraw %}
 
-[Sleep Sort](https://sampleprograms.io/projects/sleep-sort) in [Php](https://sampleprograms.io/languages/php) was written by:
+Sleep Sort in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 24 2023 20:24:38. The solution was first committed on Mar 21 2023 00:04:47. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

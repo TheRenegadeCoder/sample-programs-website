@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```mathematica
 Print["Hello, World!"];
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Hello World in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Jeremy Grifski
 

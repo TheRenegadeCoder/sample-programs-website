@@ -71,18 +71,17 @@ arrayString=${qsort_ret[@]}
 echo "${arrayString// /, }"
 
 exit 0
+
 ```
 
 {% endraw %}
 
-[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Bash](https://sampleprograms.io/languages/bash) was written by:
+Quick Sort in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
 - tehtbl
 - thetbl
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 14 2019 19:50:40. The solution was first committed on Oct 14 2019 10:11:59. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

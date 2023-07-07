@@ -58,11 +58,12 @@ done
 str=$(printf ', %s' "${array[@]}")
 str=${str:2}
 echo $str
+
 ```
 
 {% endraw %}
 
-[Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Bash](https://sampleprograms.io/languages/bash) was written by:
+Selection Sort in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
 - Jan-Hendrik Ewers
 

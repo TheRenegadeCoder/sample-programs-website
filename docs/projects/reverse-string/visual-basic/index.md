@@ -2,6 +2,7 @@
 authors:
 - AaronLenoir
 - Andrew Reid
+- Jeremy Grifski
 - rzuckerm
 date: 2018-05-04
 featured-image: reverse-string-in-every-language.jpg
@@ -36,19 +37,26 @@ Public Module ReverseString
         Return New String(chars)
     End Function
 End Module
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Visual Basic](https://sampleprograms.io/languages/visual-basic) was written by:
+Reverse String in [Visual Basic](https://sampleprograms.io/languages/visual-basic) was written by:
 
 - AaronLenoir
 - Andrew Reid
 - rzuckerm
 
+This article was written by:
+
+- Andrew Reid
+- Jeremy Grifski
+- rzuckerm
+
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 16 2023 12:29:09. The solution was first committed on May 04 2018 23:43:40. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 16 2023 12:29:09. The solution was first committed on May 04 2018 23:43:40. The documentation was last updated on May 15 2023 15:51:23. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

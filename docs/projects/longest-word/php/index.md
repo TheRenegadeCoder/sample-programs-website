@@ -40,17 +40,16 @@ if (count($argv) < 2 || empty($argv[1]))
 $str = $argv[1];
 $longest_len = longest_word_length($str);
 echo "${longest_len}\n";
+
 ```
 
 {% endraw %}
 
-[Longest Word](https://sampleprograms.io/projects/longest-word) in [Php](https://sampleprograms.io/languages/php) was written by:
+Longest Word in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 27 2023 17:32:52. The solution was first committed on Mar 23 2023 14:06:34. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

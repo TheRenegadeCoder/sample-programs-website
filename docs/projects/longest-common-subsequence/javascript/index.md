@@ -81,17 +81,17 @@ else{
   const array2 = input2.split(',').map(y => parseInt(y.trim(),10));
   lcs(array1,array2);
 }
+
+
 ```
 
 {% endraw %}
 
-[Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Longest Common Subsequence in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Sayantan Sarkar
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 04 2020 13:01:54. The solution was first committed on Oct 04 2020 12:15:30. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

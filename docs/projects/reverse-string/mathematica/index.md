@@ -41,11 +41,12 @@ Print /@ stringReverseMain /@ {
 (* Invalid Tests *)
 
 stringReverseMain[""]
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Reverse String in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

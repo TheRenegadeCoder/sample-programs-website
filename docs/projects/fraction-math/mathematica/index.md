@@ -67,7 +67,7 @@ fractionMathMain[{"", "+", "4/5"}]
 
 {% endraw %}
 
-[Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Fraction Math in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

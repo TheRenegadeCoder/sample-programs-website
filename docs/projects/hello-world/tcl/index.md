@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```tcl
 puts "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Tcl](https://sampleprograms.io/languages/tcl) was written by:
+Hello World in [Tcl](https://sampleprograms.io/languages/tcl) was written by:
 
 - Jeremy Griffith
 

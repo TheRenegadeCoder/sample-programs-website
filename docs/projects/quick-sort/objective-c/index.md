@@ -112,17 +112,16 @@ int main(int argc, const char * argv[]) {
 }
 
 @end
+
 ```
 
 {% endraw %}
 
-[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
+Quick Sort in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - niftycode
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 04 2020 17:02:28. The solution was first committed on Oct 04 2020 16:46:55. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

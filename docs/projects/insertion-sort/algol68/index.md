@@ -168,17 +168,16 @@ FI;
 # Do insertion sort and show results #
 insertion sort(values);
 show list values(values)
+
 ```
 
 {% endraw %}
 
-[Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Insertion Sort in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 31 2023 21:47:57. The solution was first committed on Jan 29 2023 21:18:29. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

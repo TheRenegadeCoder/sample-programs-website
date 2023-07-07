@@ -1,9 +1,10 @@
 ---
 authors:
 - Jeremy Grifski
+- rzuckerm
 date: 2018-06-22
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-06-22
+last-modified: 2023-05-15
 layout: default
 tags:
 - hello-world
@@ -19,13 +20,19 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```typescript
 console.log("Hello, World!");
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
+Hello World in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
 
 - Jeremy Grifski
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -225,11 +225,12 @@ sequence op = argv[5]
 -- Do fraction math and show result
 object fraction_result = fraction_math(fractions[1], op, fractions[2])
 show_fraction_result(fraction_result)
+
 ```
 
 {% endraw %}
 
-[Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Fraction Math in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

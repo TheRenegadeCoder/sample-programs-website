@@ -47,11 +47,12 @@ STR: DB 'Hello world!',0DH,0AH,'$'
 
 XSEG ENDS
  END
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Microsoft Macro Assembler](https://sampleprograms.io/languages/microsoft-macro-assembler) was written by:
+Hello World in [Microsoft Macro Assembler](https://sampleprograms.io/languages/microsoft-macro-assembler) was written by:
 
 - Jeremy Grifski
 

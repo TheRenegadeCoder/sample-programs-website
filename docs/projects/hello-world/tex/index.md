@@ -1,9 +1,11 @@
 ---
 authors:
 - "Christoph B\xF6hmwalder"
+- Jeremy Grifski
+- rzuckerm
 date: 2018-08-28
 featured-image: hello-world-in-tex.jpg
-last-modified: 2018-09-04
+last-modified: 2023-05-15
 layout: default
 tags:
 - hello-world
@@ -22,17 +24,21 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 Hello, World!
 \end
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Tex](https://sampleprograms.io/languages/tex) was written by:
+Hello World in [Tex](https://sampleprograms.io/languages/tex) was written by:
 
 - Christoph Böhmwalder
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Sep 04 2018 11:11:25. The solution was first committed on Aug 28 2018 15:40:04. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

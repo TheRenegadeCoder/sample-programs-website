@@ -23,11 +23,12 @@ module hello.World
 function main = |args| {
   println("Hello, World!")
 }
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Golo](https://sampleprograms.io/languages/golo) was written by:
+Hello World in [Golo](https://sampleprograms.io/languages/golo) was written by:
 
 - Jeremy Grifski
 

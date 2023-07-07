@@ -26,11 +26,12 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Eli
   n -> Integer.to_string(n)
 end)
 |> Enum.each(&IO.puts/1)
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
+Fizz Buzz in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
 
 - Jeremy Grifski
 

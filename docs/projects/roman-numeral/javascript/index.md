@@ -93,17 +93,17 @@ if (args.length < 1) {
 } else {
   args.forEach(arg => console.log(romanNumeralConversion(arg)));
 }
+
+
 ```
 
 {% endraw %}
 
-[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Roman Numeral in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Rani Kheir
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 12 2019 03:40:21. The solution was first committed on Oct 11 2019 01:41:10. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

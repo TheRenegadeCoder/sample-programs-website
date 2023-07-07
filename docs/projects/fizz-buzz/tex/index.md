@@ -52,17 +52,16 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Tex
 \repeat
 
 \end
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Tex](https://sampleprograms.io/languages/tex) was written by:
+Fizz Buzz in [Tex](https://sampleprograms.io/languages/tex) was written by:
 
 - Christoph Böhmwalder
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Sep 04 2018 11:11:25. The solution was first committed on Sep 04 2018 11:04:08. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -41,11 +41,12 @@ if (n <= k):
     exit(1)
 
 print(josephus(n, k))
+
 ```
 
 {% endraw %}
 
-[Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Python](https://sampleprograms.io/languages/python) was written by:
+Josephus Problem in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Sriniketh J
 

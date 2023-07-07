@@ -20,11 +20,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 ```granule
 main : () <{Stdout}>
 main = toStdout "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Granule](https://sampleprograms.io/languages/granule) was written by:
+Hello World in [Granule](https://sampleprograms.io/languages/granule) was written by:
 
 - Dominic Orchard
 

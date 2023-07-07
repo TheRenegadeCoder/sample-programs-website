@@ -25,11 +25,12 @@ module main;
       $finish;
     end
 endmodule
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Verilog](https://sampleprograms.io/languages/verilog) was written by:
+Hello World in [Verilog](https://sampleprograms.io/languages/verilog) was written by:
 
 - Jeremy Grifski
 

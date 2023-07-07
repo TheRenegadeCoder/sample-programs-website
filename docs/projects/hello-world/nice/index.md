@@ -22,11 +22,12 @@ void main(String[] args)
 {
   System.out.println("Hello, world!");
 }
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Nice](https://sampleprograms.io/languages/nice) was written by:
+Hello World in [Nice](https://sampleprograms.io/languages/nice) was written by:
 
 - Jeremy Grifski
 

@@ -47,7 +47,7 @@ _main:                            ; the entry point! void main()
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Debug](https://sampleprograms.io/languages/debug) was written by:
+Hello World in [Debug](https://sampleprograms.io/languages/debug) was written by:
 
 - Subhasmita Swain
 

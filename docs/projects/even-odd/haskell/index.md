@@ -41,17 +41,16 @@ main = do
   case x >>= readMaybe of
     Nothing -> putStrLn "Usage: please input a number"
     Just x  -> putStrLn $ show $ isEvenOdd x
+
 ```
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+Even Odd in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
 
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Nov 16 2018 11:15:37. The solution was first committed on Nov 16 2018 01:28:55. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

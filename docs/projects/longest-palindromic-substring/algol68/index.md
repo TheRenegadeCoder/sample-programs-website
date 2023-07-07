@@ -109,11 +109,12 @@ FI;
 
 # Show longest palindromic substring #
 printf(($gl$, longest))
+
 ```
 
 {% endraw %}
 
-[Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Longest Palindromic Substring in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

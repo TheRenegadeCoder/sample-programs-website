@@ -318,11 +318,12 @@ GRAPH graph := create graph(num vertices, weights);
 DIJKSTRA_RESULT dijkstra result = dijkstra(graph, src);
 INT dist := (dists OF dijkstra result)[dest + 1];
 printf(($gl$, whole(dist, 0)))
+
 ```
 
 {% endraw %}
 
-[Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Dijkstra in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

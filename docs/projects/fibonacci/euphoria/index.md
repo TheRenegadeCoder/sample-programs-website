@@ -93,11 +93,12 @@ end if
 
 -- Show requested number of Fibonacci values
 show_fibonacci_values(value)
+
 ```
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Fibonacci in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

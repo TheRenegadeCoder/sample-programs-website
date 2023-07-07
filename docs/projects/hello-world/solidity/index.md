@@ -1,9 +1,11 @@
 ---
 authors:
+- Jeremy Grifski
 - Maximillian Naza
+- rzuckerm
 date: 2018-05-29
 featured-image: hello-world-in-solidity.jpg
-last-modified: 2018-05-29
+last-modified: 2023-05-15
 layout: default
 tags:
 - hello-world
@@ -22,16 +24,21 @@ pragma solidity ^0.4.22;
 
 contract helloWorld {
 function renderHelloWorld () public pure returns (string) {
-        return 'helloWorld';
-    }
+		return 'helloWorld';
+	}
 }
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Solidity](https://sampleprograms.io/languages/solidity) was written by:
+Hello World in [Solidity](https://sampleprograms.io/languages/solidity) was written by:
 
 - Maximillian Naza
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

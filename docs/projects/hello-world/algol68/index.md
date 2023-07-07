@@ -1,9 +1,11 @@
 ---
 authors:
+- awoerner92
 - Jeremy Grifski
+- rzuckerm
 date: 2018-05-06
 featured-image: hello-world-in-algol68.jpg
-last-modified: 2018-05-06
+last-modified: 2023-05-15
 layout: default
 tags:
 - algol68
@@ -19,13 +21,20 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```algol68
 printf(($gl$, "Hello, World!"))
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Hello World in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - Jeremy Grifski
+
+This article was written by:
+
+- awoerner92
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

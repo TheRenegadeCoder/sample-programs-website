@@ -57,19 +57,18 @@ for ($x = ($Str.Length - 1); $x -ge 0; $x--) {
 }
 
 Write-Host $StringBuilder.ToString()
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
+Reverse String in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
 
 - Devin Leaman
 - Jeremy Grifski
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 15 2023 09:50:39. The solution was first committed on May 28 2018 19:52:57. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

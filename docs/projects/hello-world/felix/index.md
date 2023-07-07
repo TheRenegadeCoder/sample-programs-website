@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```felix
 println$ "Hello, World!";
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Felix](https://sampleprograms.io/languages/felix) was written by:
+Hello World in [Felix](https://sampleprograms.io/languages/felix) was written by:
 
 - Jeremy Grifski
 

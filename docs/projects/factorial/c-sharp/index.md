@@ -58,18 +58,17 @@ namespace SamplePrograms
         }
     }
 }
+
 ```
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
+Factorial in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Bharath
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 16 2019 15:14:04. The solution was first committed on Dec 28 2018 17:51:27. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

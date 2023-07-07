@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```pyret
 print("Hello, World!")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Pyret](https://sampleprograms.io/languages/pyret) was written by:
+Hello World in [Pyret](https://sampleprograms.io/languages/pyret) was written by:
 
 - Jeremy Griffith
 

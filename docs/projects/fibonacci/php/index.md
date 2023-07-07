@@ -41,14 +41,12 @@ for ($index = 1; $index <= $input; $index++) {
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Php](https://sampleprograms.io/languages/php) was written by:
+Fibonacci in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - Carles Capell
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2019 00:25:43. The solution was first committed on Jan 03 2019 09:42:35. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -256,17 +256,16 @@ REF []NODE tree := create tree(adjacency matrix, vertex values);
 # Run depth first search and indicate if value is found #
 REF NODE node := depth first search(tree, value);
 printf(($gl$, (node ISNT REF NODE(NIL) | "true" | "false")))
+
 ```
 
 {% endraw %}
 
-[Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Depth First Search in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 24 2023 20:59:12. The solution was first committed on Jan 29 2023 22:12:08. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

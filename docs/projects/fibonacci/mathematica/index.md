@@ -51,11 +51,12 @@ fibonacciSequenceMain /@ {"1", "2", "5", "10"};
 
 fibonacciSequenceMain[""]
 fibonacciSequenceMain["word"]
+
 ```
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Fibonacci in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

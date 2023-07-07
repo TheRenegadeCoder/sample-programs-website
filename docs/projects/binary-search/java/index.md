@@ -1,10 +1,12 @@
 ---
 authors:
 - Jeremy Grifski
+- rzuckerm
+- Shreyas Kamath
 - Vipin Yadav
 date: 2022-10-02
 featured-image: binary-search-in-every-language.jpg
-last-modified: 2022-10-10
+last-modified: 2023-05-15
 layout: default
 tags:
 - binary-search
@@ -67,14 +69,18 @@ public class BinarySearch {
 
 {% endraw %}
 
-[Binary Search](https://sampleprograms.io/projects/binary-search) in [Java](https://sampleprograms.io/languages/java) was written by:
+Binary Search in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Jeremy Grifski
 - Vipin Yadav
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Oct 02 2022 21:55:00. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+- Shreyas Kamath
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

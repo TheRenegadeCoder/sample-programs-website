@@ -1,9 +1,13 @@
 ---
 authors:
 - Jeremy Griffith
+- Jeremy Grifski
+- Johnny Fang
+- rzuckerm
+- shubhragupta-code
 date: 2018-04-20
 featured-image: hello-world-in-red.jpg
-last-modified: 2018-04-20
+last-modified: 2023-05-15
 layout: default
 tags:
 - hello-world
@@ -21,13 +25,21 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 Red [Title: "Hello World in Red"]
 
 print "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Red](https://sampleprograms.io/languages/red) was written by:
+Hello World in [Red](https://sampleprograms.io/languages/red) was written by:
 
 - Jeremy Griffith
+
+This article was written by:
+
+- Jeremy Grifski
+- Johnny Fang
+- rzuckerm
+- shubhragupta-code
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

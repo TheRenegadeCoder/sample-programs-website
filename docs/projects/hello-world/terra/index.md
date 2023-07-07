@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```terra
 print("Hello, World!")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Terra](https://sampleprograms.io/languages/terra) was written by:
+Hello World in [Terra](https://sampleprograms.io/languages/terra) was written by:
 
 - Jeremy Grifski
 

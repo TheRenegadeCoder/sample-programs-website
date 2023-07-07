@@ -217,17 +217,16 @@ FI;
 # Do merge sort and show results #
 merge sort(values);
 show list values(values)
+
 ```
 
 {% endraw %}
 
-[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Merge Sort in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 31 2023 22:09:49. The solution was first committed on Jan 29 2023 21:35:49. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

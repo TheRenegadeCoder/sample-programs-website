@@ -1,9 +1,11 @@
 ---
 authors:
 - "Christoph B\xF6hmwalder"
+- Jeremy Grifski
+- rzuckerm
 date: 2018-08-24
 featured-image: hello-world-in-brainfuck.jpg
-last-modified: 2018-08-24
+last-modified: 2023-05-15
 layout: default
 tags:
 - brainfuck
@@ -21,13 +23,19 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 >++++++++[<+++++++++>-]<.>++++[<+++++++>-]<+.+++++++..+++.>>++++++[<+++++++>-]<+
 +.------------.>++++++[<+++++++++>-]<+.<.+++.------.--------.>>>++++[<++++++++>-
 ]<+.
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Brainfuck](https://sampleprograms.io/languages/brainfuck) was written by:
+Hello World in [Brainfuck](https://sampleprograms.io/languages/brainfuck) was written by:
 
 - Christoph Böhmwalder
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

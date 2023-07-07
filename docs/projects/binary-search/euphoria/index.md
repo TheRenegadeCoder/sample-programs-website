@@ -130,11 +130,12 @@ end if
 -- Use built-in binary search and show results
 integer index = binary_search(target, values)
 puts(STDOUT, iif(index > 0, "true\n", "false\n"))
+
 ```
 
 {% endraw %}
 
-[Binary Search](https://sampleprograms.io/projects/binary-search) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Binary Search in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

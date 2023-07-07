@@ -44,7 +44,7 @@ class Factorial {
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
+Factorial in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
 
 - Rafael Vargas
 

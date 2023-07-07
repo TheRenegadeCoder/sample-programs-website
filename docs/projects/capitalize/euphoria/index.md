@@ -41,11 +41,12 @@ end if
 sequence s = argv[4]
 s = capitalize(s)
 printf(STDOUT, "%s\n", {s})
+
 ```
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Capitalize in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

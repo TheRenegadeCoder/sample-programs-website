@@ -26,11 +26,12 @@ main() {
     print(" " * (10 - i) + "*" * (i * 2 + 1));
   }
 }
+
 ```
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Dart](https://sampleprograms.io/languages/dart) was written by:
+Baklava in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
 - Paddy
 

@@ -2,9 +2,10 @@
 authors:
 - Jeremy Grifski
 - Parker Johansen
+- rzuckerm
 date: 2018-12-22
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2020-10-15
+last-modified: 2023-05-15
 layout: default
 tags:
 - even-odd
@@ -41,18 +42,22 @@ def main(args):
 
 if __name__ == "__main__":
     main(sys.argv[1:])
+
 ```
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Python](https://sampleprograms.io/languages/python) was written by:
+Even Odd in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Grifski
 - Parker Johansen
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Dec 22 2018 22:22:54. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

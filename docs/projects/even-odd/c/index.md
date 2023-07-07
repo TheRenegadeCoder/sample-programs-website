@@ -2,9 +2,11 @@
 authors:
 - AceKnight
 - Jeremy Grifski
+- rzuckerm
+- shubhragupta-code
 date: 2018-10-21
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2019-03-30
+last-modified: 2023-05-15
 layout: default
 tags:
 - c
@@ -39,18 +41,23 @@ int main(int argc, char **argv)
 
     return 0;
 }
+
 ```
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [C](https://sampleprograms.io/languages/c) was written by:
+Even Odd in [C](https://sampleprograms.io/languages/c) was written by:
 
 - AceKnight
 - Jeremy Grifski
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 30 2019 16:30:59. The solution was first committed on Oct 21 2018 19:46:02. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+- shubhragupta-code
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

@@ -84,17 +84,16 @@ main(List<String> args) {
     exitWithError();
   }
 }
+
 ```
 
 {% endraw %}
 
-[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Dart](https://sampleprograms.io/languages/dart) was written by:
+Quick Sort in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
 - Oxymora
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Nov 04 2019 12:06:42. The solution was first committed on Oct 28 2019 14:45:55. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

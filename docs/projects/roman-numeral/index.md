@@ -1,7 +1,7 @@
 ---
 date: 2018-10-07
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: 2023-02-25
+last-modified: 2023-05-15
 layout: default
 tags:
 - roman-numeral
@@ -9,6 +9,10 @@ title: Roman Numeral
 ---
 
 Welcome to the Roman Numeral page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
+
+This article was written by:
+
+- Jeremy Grifski
 
 ## Description
 

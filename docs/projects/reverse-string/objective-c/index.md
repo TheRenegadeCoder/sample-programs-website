@@ -51,11 +51,12 @@ int main (int argc, const char *argv[]){
     [pool drain];
     return 0;
 }
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
+Reverse String in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - Tim Lange
 

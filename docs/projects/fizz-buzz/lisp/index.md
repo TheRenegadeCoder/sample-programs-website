@@ -1,9 +1,13 @@
 ---
 authors:
+- Jeremy Grifski
 - Parker Johansen
-date: 2020-10-10
+- rzuckerm
+- shubhragupta-code
+- Stuart Irwin
+date: 2019-10-18
 featured-image: fizz-buzz-in-lisp.jpg
-last-modified: 2020-10-11
+last-modified: 2023-05-15
 layout: default
 tags:
 - fizz-buzz
@@ -32,13 +36,18 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Lis
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
+Fizz Buzz in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
 
 - Parker Johansen
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2020 10:18:56. The solution was first committed on Oct 10 2020 18:18:40. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+- shubhragupta-code
+- Stuart Irwin
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

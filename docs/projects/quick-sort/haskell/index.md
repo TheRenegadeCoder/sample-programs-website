@@ -61,17 +61,17 @@ main = do
       putStrLn "Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\""
       exitWith $ ExitFailure 1
     Just xs  -> putStrLn $ listToString $ quickSort xs
+
+
 ```
 
 {% endraw %}
 
-[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+Quick Sort in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
 
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 26 2019 01:28:05. The solution was first committed on Dec 04 2018 20:35:19. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

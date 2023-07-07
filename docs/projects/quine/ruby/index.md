@@ -19,11 +19,12 @@ Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Ruby](https
 
 ```ruby
 s="s=%c%s%c; printf s,34,s,34,10%c"; printf s,34,s,34,10
+
 ```
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Quine in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Jeremy Grifski
 

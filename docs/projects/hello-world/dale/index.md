@@ -22,11 +22,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 (def main (fn extern-c int (void)
     (printf "hello, world\n")))
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Dale](https://sampleprograms.io/languages/dale) was written by:
+Hello World in [Dale](https://sampleprograms.io/languages/dale) was written by:
 
 - tom-vthptvh
 

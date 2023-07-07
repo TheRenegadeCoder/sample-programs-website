@@ -22,11 +22,12 @@ import ballerina/io;
 function main(string... args) {
     io:println("Hello, World!");
 }
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Ballerina](https://sampleprograms.io/languages/ballerina) was written by:
+Hello World in [Ballerina](https://sampleprograms.io/languages/ballerina) was written by:
 
 - Jeremy Grifski
 

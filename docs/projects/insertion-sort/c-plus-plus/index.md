@@ -2,9 +2,12 @@
 authors:
 - Jeremy Grifski
 - Prasun Kumar
+- rzuckerm
+- sun-fox
+- SUNNY KUMAR SINGH
 date: 2019-10-09
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: 2022-10-10
+last-modified: 2023-05-15
 layout: default
 tags:
 - c-plus-plus
@@ -93,18 +96,24 @@ int main(int argc, char *argv[])
     std::cout << numbers[i] << std::endl;
     return 0;
 }
+
 ```
 
 {% endraw %}
 
-[Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+Insertion Sort in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Jeremy Grifski
 - Prasun Kumar
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 16:05:09. The solution was first committed on Oct 09 2019 21:10:56. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+- sun-fox
+- SUNNY KUMAR SINGH
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

@@ -38,22 +38,21 @@ else
     end
 
     if num % 2 == 0
-        puts "Even"
+    	puts "Even"
     else
-        puts "Odd"
+    	puts "Odd"
     end
 end
+
 ```
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Even Odd in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Mallikarjuna S J
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Nov 04 2019 21:23:52. The solution was first committed on Oct 31 2019 20:35:47. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

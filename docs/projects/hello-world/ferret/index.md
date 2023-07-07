@@ -20,11 +20,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 ```ferret
 (do
   (println "Hello, World!"))
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Ferret](https://sampleprograms.io/languages/ferret) was written by:
+Hello World in [Ferret](https://sampleprograms.io/languages/ferret) was written by:
 
 - Arfat Salman
 

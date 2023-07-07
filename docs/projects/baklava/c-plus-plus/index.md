@@ -50,19 +50,18 @@ int main(int argc, char *argv[])
     }
     return (0);
 }
+
 ```
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+Baklava in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Behnam Ahmad khan beigi
 - Jeremy Grifski
 - yottanami
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 16:05:09. The solution was first committed on Oct 09 2019 12:57:32. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

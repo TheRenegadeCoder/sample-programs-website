@@ -23,11 +23,12 @@ from console
 effect main
     do console.write('Hello, World!')
 end
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Quack](https://sampleprograms.io/languages/quack) was written by:
+Hello World in [Quack](https://sampleprograms.io/languages/quack) was written by:
 
 - Jeremy Grifski
 

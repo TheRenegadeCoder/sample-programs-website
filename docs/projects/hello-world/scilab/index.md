@@ -20,11 +20,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 ```scilab
 clc
 disp('Hello, World!')
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Scilab](https://sampleprograms.io/languages/scilab) was written by:
+Hello World in [Scilab](https://sampleprograms.io/languages/scilab) was written by:
 
 - Jeremy Grifski
 

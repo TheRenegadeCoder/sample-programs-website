@@ -31,11 +31,12 @@ matrix = [[serial_matrix[i * columns + j] for j in range(columns)] for i in rang
 transposed_matrix = [[matrix[j][i] for j in range(rows)] for i in range(columns)]
 serial_transposed_matrix = [x for row in transposed_matrix for x in row]
 print(serial_transposed_matrix)
+
 ```
 
 {% endraw %}
 
-[Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Python](https://sampleprograms.io/languages/python) was written by:
+Transpose Matrix in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Grifski
 

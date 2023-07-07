@@ -76,11 +76,12 @@ Print /@ Apply[depthFirstSearchMain] /@ {
 depthFirstSearchMain["", "1, 3, 5, 2, 4", "4"]
 depthFirstSearchMain["0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0", "", "1"]
 depthFirstSearchMain["0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0", "1, 3, 5, 2, 4", ""]
+
 ```
 
 {% endraw %}
 
-[Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Depth First Search in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

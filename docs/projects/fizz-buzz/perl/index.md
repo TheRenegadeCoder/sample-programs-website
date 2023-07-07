@@ -34,18 +34,17 @@ for my $n (1..100) {
     !($n % 5)  ?    say "Buzz"        :
                     say "$n";
 }
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Perl](https://sampleprograms.io/languages/perl) was written by:
+Fizz Buzz in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
 - Chris Thomas
 - Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 25 2019 12:44:48. The solution was first committed on Oct 12 2018 17:15:01. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

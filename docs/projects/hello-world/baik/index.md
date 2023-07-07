@@ -23,7 +23,7 @@ tulis "Hello World"
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Baik](https://sampleprograms.io/languages/baik) was written by:
+Hello World in [Baik](https://sampleprograms.io/languages/baik) was written by:
 
 - Fawaz AR
 

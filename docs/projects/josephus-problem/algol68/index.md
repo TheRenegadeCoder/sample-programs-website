@@ -104,17 +104,16 @@ INT n := values[1];
 INT k := values[2];
 INT g := josephus(n, k);
 printf(($gl$, whole(g, 0)))
+
 ```
 
 {% endraw %}
 
-[Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Josephus Problem in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 31 2023 21:55:33. The solution was first committed on Jan 24 2023 19:58:12. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

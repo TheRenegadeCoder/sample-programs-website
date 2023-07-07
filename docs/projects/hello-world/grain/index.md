@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```grain
 print('Hello, World!')
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Grain](https://sampleprograms.io/languages/grain) was written by:
+Hello World in [Grain](https://sampleprograms.io/languages/grain) was written by:
 
 - franciscogallardo
 

@@ -41,18 +41,17 @@ Future<List<int>> sleepsort(Iterable<int> input) async {
   await Future.wait(input.map((i) => Future.delayed(Duration(seconds: i), () => sorted.add(i))));
   return Future.value(sorted);
 }
+
 ```
 
 {% endraw %}
 
-[Sleep Sort](https://sampleprograms.io/projects/sleep-sort) in [Dart](https://sampleprograms.io/languages/dart) was written by:
+Sleep Sort in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
 - agilob
 - Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 06 2020 11:53:48. The solution was first committed on Oct 07 2019 07:03:04. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

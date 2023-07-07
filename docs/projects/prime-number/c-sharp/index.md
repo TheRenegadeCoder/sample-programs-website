@@ -62,17 +62,16 @@ namespace SamplePrograms
         }
     }
 }
+
 ```
 
 {% endraw %}
 
-[Prime Number](https://sampleprograms.io/projects/prime-number) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
+Prime Number in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 02 2019 11:43:38. The solution was first committed on Dec 30 2018 01:40:03. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -101,11 +101,12 @@ program prime_check
     write(*,'(g0.8)') "Composite"
   end if
 end program
+
 ```
 
 {% endraw %}
 
-[Prime Number](https://sampleprograms.io/projects/prime-number) in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
+Prime Number in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
 
 - Mallikarjuna S J
 

@@ -1,7 +1,9 @@
 ---
 authors:
+- Jeremy Grifski
 - rzuckerm
-date: 2023-05-15
+- Vee Ng
+date: 2019-04-05
 featured-image: file-input-output-in-every-language.jpg
 last-modified: 2023-05-15
 layout: default
@@ -59,13 +61,20 @@ object FileInputOutput {
     readFromFile("output.txt")
   }
 }
+
 ```
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Scala](https://sampleprograms.io/languages/scala) was written by:
+File Input Output in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
 - rzuckerm
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
+- Vee Ng
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

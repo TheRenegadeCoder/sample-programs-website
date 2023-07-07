@@ -1,7 +1,7 @@
 ---
 date: 2022-05-13
 featured-image: longest-word-in-every-language.jpg
-last-modified: 2023-04-09
+last-modified: 2023-05-08
 layout: default
 tags:
 - longest-word
@@ -9,6 +9,10 @@ title: Longest Word
 ---
 
 Welcome to the Longest Word page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
+
+This article was written by:
+
+- Jeremy Grifski
 
 ## Description
 

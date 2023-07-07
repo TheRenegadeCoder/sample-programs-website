@@ -22,11 +22,12 @@ import Base@0
 
 main : Output
   print("Hello, world!")
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Formality](https://sampleprograms.io/languages/formality) was written by:
+Hello World in [Formality](https://sampleprograms.io/languages/formality) was written by:
 
 - Michael Beebower
 

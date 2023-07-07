@@ -45,14 +45,12 @@ end
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Fibonacci in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Noah Nichols
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2019 00:40:32. The solution was first committed on Oct 14 2018 13:08:19. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

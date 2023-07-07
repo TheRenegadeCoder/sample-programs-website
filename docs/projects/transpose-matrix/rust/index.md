@@ -115,17 +115,16 @@ fn main() {
     let arr_t = convert_matrix_to_array::<i32>(matrix_t);
     println!("{arr_t:?}");
 }
+
 ```
 
 {% endraw %}
 
-[Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Transpose Matrix in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 08 2023 19:53:07. The solution was first committed on Apr 17 2023 16:06:14. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

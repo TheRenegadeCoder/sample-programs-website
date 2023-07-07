@@ -27,11 +27,12 @@ int main (int argc, const char * argv[])
    [pool drain];
    return 0;
 }
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
+Hello World in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - Jeremy Griffith
 

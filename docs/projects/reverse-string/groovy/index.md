@@ -25,11 +25,12 @@ class ReverseAString {
     }
   }
 }
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
+Reverse String in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
 
 - robin
 

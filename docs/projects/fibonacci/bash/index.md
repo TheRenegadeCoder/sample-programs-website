@@ -35,17 +35,16 @@ for i in $(seq 2 $count); do
     n=$[$n+$n_minus_1]
     n_minus_1=$tmp
 done
+
 ```
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Bash](https://sampleprograms.io/languages/bash) was written by:
+Fibonacci in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 07 2019 00:40:32. The solution was first committed on Oct 26 2018 03:28:37. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

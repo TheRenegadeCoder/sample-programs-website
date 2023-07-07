@@ -31,11 +31,12 @@ for i in {1..100}; do
         echo $i
     fi
 done
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Bash](https://sampleprograms.io/languages/bash) was written by:
+Fizz Buzz in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
 - Christoph Böhmwalder
 

@@ -42,7 +42,7 @@ namespace SamplePrograms
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
+File Input Output in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Parker Johansen
 

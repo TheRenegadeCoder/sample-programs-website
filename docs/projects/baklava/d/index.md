@@ -34,11 +34,12 @@ void main (string[ ] args)
         );
 
 }
+
 ```
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [D](https://sampleprograms.io/languages/d) was written by:
+Baklava in [D](https://sampleprograms.io/languages/d) was written by:
 
 - Jeremy Grifski
 

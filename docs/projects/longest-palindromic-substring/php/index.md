@@ -99,11 +99,12 @@ if (strlen($longest) < 2)
 
 // Show longest palindromic substring
 echo "${longest}\n";
+
 ```
 
 {% endraw %}
 
-[Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Php](https://sampleprograms.io/languages/php) was written by:
+Longest Palindromic Substring in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

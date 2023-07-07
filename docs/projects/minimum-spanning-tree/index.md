@@ -1,7 +1,7 @@
 ---
 date: 2019-10-14
 featured-image: minimum-spanning-tree-in-every-language.jpg
-last-modified: 2023-04-20
+last-modified: 2023-05-08
 layout: default
 tags:
 - minimum-spanning-tree
@@ -9,6 +9,11 @@ title: Minimum Spanning Tree
 ---
 
 Welcome to the Minimum Spanning Tree page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 ## Description
 

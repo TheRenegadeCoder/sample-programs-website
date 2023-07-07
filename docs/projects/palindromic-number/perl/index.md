@@ -35,12 +35,12 @@ my ($number) = @ARGV;
 
 # if not provided, read from standard input
 if (!defined $number) {
-    $number = <STDIN>;
-    chomp $number;
+	$number = <STDIN>;
+	chomp $number;
 }
 
 if (!defined $number || $number !~ /^\d+$/ || $number < 0) {
-    usage();
+	usage();
 }
 
 my $temp = $number;
@@ -67,21 +67,20 @@ else{
 }
 
 sub usage {
-    print "Usage: please input a non-negative integer";
-    exit;
+	print "Usage: please input a non-negative integer";
+	exit;
 }
+
 ```
 
 {% endraw %}
 
-[Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Perl](https://sampleprograms.io/languages/perl) was written by:
+Palindromic Number in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
 - Jeremy Grifski
 - manasmithamn
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2022 01:31:51. The solution was first committed on Oct 29 2021 01:46:51. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

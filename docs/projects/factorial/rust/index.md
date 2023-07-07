@@ -52,18 +52,17 @@ fn main() {
     }
     println!("{result}");
 }
+
 ```
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Factorial in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Mallikarjuna S J
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 08 2023 19:53:07. The solution was first committed on Oct 31 2019 17:25:13. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

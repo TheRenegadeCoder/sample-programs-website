@@ -46,18 +46,17 @@ function printString(err, data){
 }
 
 writeFile();
+
 ```
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+File Input Output in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Jeremy Grifski
 - Manan Gill
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 11 2019 16:27:27. The solution was first committed on Oct 10 2019 14:10:37. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

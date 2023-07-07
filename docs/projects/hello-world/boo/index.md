@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```boo
 print "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Boo](https://sampleprograms.io/languages/boo) was written by:
+Hello World in [Boo](https://sampleprograms.io/languages/boo) was written by:
 
 - Subhayu Roy
 

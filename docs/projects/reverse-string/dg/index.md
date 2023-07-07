@@ -29,11 +29,12 @@ reverse = s -> if
     otherwise => ""
 
 print $ reverse <| snd_if_exists argv
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Dg](https://sampleprograms.io/languages/dg) was written by:
+Reverse String in [Dg](https://sampleprograms.io/languages/dg) was written by:
 
 - Riley Martine
 

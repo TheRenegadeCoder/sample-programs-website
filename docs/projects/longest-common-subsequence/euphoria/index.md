@@ -157,11 +157,12 @@ end for
 -- Get longest common subsequence and display it
 sequence result = longest_common_subsequence(lists[1], lists[2])
 show_list_values(result)
+
 ```
 
 {% endraw %}
 
-[Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Longest Common Subsequence in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

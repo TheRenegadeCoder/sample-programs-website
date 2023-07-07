@@ -35,17 +35,16 @@ STRING s := argv(4);
 # Reverse string and show result #
 s := reverse string(s);
 printf(($gl$, s))
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Reverse String in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:24:49. The solution was first committed on Jan 24 2023 20:34:53. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

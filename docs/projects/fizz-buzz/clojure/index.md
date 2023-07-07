@@ -39,17 +39,16 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Clo
   (join "\n" (map n-to-str (range 1 (+ n 1)))))
 
 (println (fizzbuzz 100))
+
 ```
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Clojure](https://sampleprograms.io/languages/clojure) was written by:
+Fizz Buzz in [Clojure](https://sampleprograms.io/languages/clojure) was written by:
 
 - Cristiano Lopes
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 04 2020 19:20:07. The solution was first committed on Oct 04 2020 17:31:12. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

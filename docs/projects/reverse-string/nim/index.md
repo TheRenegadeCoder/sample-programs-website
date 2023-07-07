@@ -34,18 +34,18 @@ for i in countdown(len(text)-1, 0):
   reversed_text = reversed_text & text[i]
 
 echo reversed_text
+
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Nim](https://sampleprograms.io/languages/nim) was written by:
+Reverse String in [Nim](https://sampleprograms.io/languages/nim) was written by:
 
 - Michael Olson
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:24:49. The solution was first committed on Oct 22 2019 07:54:58. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

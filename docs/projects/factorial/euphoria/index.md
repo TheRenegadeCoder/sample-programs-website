@@ -92,11 +92,12 @@ end if
 -- Calculate and display factorial
 atom fact = factorial(value)
 printf(STDOUT, "%d\n", {fact})
+
 ```
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Factorial in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

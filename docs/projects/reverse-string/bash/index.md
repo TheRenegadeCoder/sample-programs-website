@@ -33,14 +33,12 @@ echo $reverseStr
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Bash](https://sampleprograms.io/languages/bash) was written by:
+Reverse String in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
 - Abdus
 - Parker Johansen
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 21 2019 17:52:55. The solution was first committed on May 09 2018 11:32:08. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

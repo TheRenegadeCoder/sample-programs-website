@@ -41,7 +41,7 @@ if is_even {
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Swift](https://sampleprograms.io/languages/swift) was written by:
+Even Odd in [Swift](https://sampleprograms.io/languages/swift) was written by:
 
 - Jonas Halstrup
 

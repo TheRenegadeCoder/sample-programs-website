@@ -3,9 +3,10 @@ authors:
 - Ganesh Naik
 - Jeremy Grifski
 - Noah Nichols
+- rzuckerm
 date: 2018-09-12
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2020-10-15
+last-modified: 2023-05-15
 layout: default
 tags:
 - file-input-output
@@ -43,19 +44,23 @@ def read_file():
 if __name__ == '__main__':
     write_file()
     read_file()
+
 ```
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Python](https://sampleprograms.io/languages/python) was written by:
+File Input Output in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Ganesh Naik
 - Jeremy Grifski
 - Noah Nichols
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 15 2020 22:17:17. The solution was first committed on Sep 12 2018 13:00:03. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

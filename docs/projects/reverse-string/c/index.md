@@ -1,10 +1,12 @@
 ---
 authors:
+- Abhishek Dinkar Raut
 - "Christoph B\xF6hmwalder"
+- Jeremy Grifski
 - rzuckerm
 date: 2018-07-24
 featured-image: reverse-string-in-c.jpg
-last-modified: 2023-03-19
+last-modified: 2023-05-15
 layout: default
 tags:
 - c
@@ -44,18 +46,23 @@ int main(int argc, char **argv)
 
     return 0;
 }
+
 ```
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [C](https://sampleprograms.io/languages/c) was written by:
+Reverse String in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Christoph Böhmwalder
 - rzuckerm
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 19 2023 22:24:49. The solution was first committed on Jul 24 2018 12:26:56. As a result, documentation below may be outdated.
+- Abhishek Dinkar Raut
+- Jeremy Grifski
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

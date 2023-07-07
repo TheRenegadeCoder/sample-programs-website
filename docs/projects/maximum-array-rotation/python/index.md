@@ -38,18 +38,17 @@ try:
 
 except:
     print('Usage: please provide a list of integers (e.g. "8, 3, 1, 2")')
+
 ```
 
 {% endraw %}
 
-[Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [Python](https://sampleprograms.io/languages/python) was written by:
+Maximum Array Rotation in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Grifski
 - Tanisha Banik
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 10 2022 00:44:08. The solution was first committed on Oct 05 2021 21:06:14. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

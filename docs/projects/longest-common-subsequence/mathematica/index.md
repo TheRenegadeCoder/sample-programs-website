@@ -71,11 +71,12 @@ Print /@ Apply[longestCommonSubsequenceMain] /@ {
 (* Invalid Tests *)
 
 longestCommonSubsequenceMain["3", ""]
+
 ```
 
 {% endraw %}
 
-[Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Longest Common Subsequence in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

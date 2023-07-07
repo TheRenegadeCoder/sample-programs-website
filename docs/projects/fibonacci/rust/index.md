@@ -60,18 +60,17 @@ fn main() {
     // Show request number of Fibonacci numbers
     fibonacci(input_num);
 }
+
 ```
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Fibonacci in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Noah Nichols
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 08 2023 19:53:07. The solution was first committed on Oct 05 2018 09:33:10. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

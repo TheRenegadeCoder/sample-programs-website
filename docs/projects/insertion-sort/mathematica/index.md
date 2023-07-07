@@ -71,11 +71,12 @@ Print /@ insertionSortMain /@ {
 insertionSortMain[""]
 insertionSortMain["1"]
 insertionSortMain["4 5 3"]
+
 ```
 
 {% endraw %}
 
-[Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Insertion Sort in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

@@ -17,7 +17,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ![Hello World in Piet](/projects/hello-world/piet/hello-world.png)
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Piet](https://sampleprograms.io/languages/piet) was written by:
+Hello World in [Piet](https://sampleprograms.io/languages/piet) was written by:
 
 - alope107
 

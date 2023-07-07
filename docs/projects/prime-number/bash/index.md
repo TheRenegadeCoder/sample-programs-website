@@ -45,8 +45,8 @@ function is_prime(){
 # validate input number
 if [[ -z "${1}" ]]
 then
-    echo "${ERROR}"
-    exit 1
+	echo "${ERROR}"
+	exit 1
 fi
 
 if ! [[ "${1}" =~ ^[0-9]+$ ]]
@@ -65,18 +65,17 @@ else
 fi
 
 exit 0
+
 ```
 
 {% endraw %}
 
-[Prime Number](https://sampleprograms.io/projects/prime-number) in [Bash](https://sampleprograms.io/languages/bash) was written by:
+Prime Number in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
 - Jeremy Grifski
 - thetbl
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 22 2021 15:02:49. The solution was first committed on Oct 14 2019 21:17:21. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

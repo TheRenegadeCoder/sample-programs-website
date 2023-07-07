@@ -39,11 +39,12 @@ const binarySearch = (array, target, start = 0, end = array.length - 1) => {
 };
 
 console.log(array && target ? binarySearch(array.split(', '), target) : error);
+
 ```
 
 {% endraw %}
 
-[Binary Search](https://sampleprograms.io/projects/binary-search) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Binary Search in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - izexi
 

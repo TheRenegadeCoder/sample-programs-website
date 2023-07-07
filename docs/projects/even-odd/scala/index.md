@@ -37,12 +37,13 @@ object EvenOdd
             case Success(m) => println(check_even_odd(m))
         }
     }
-}
+} 
+
 ```
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Scala](https://sampleprograms.io/languages/scala) was written by:
+Even Odd in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
 - rzuckerm
 

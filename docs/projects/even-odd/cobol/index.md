@@ -1,10 +1,13 @@
 ---
 authors:
+- Jeremy Grifski
 - Ron Zuckerman
+- rzuckerm
+- ShivaniThevar
 - Sudhanshu Dubey
 date: 2021-10-09
 featured-image: even-odd-in-cobol.jpg
-last-modified: 2023-05-08
+last-modified: 2023-05-15
 layout: default
 tags:
 - cobol
@@ -39,18 +42,23 @@ Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Cobol
            ELSE 
               DISPLAY "Usage: please input a number"
            STOP RUN.
+
 ```
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Cobol](https://sampleprograms.io/languages/cobol) was written by:
+Even Odd in [Cobol](https://sampleprograms.io/languages/cobol) was written by:
 
 - Ron Zuckerman
 - Sudhanshu Dubey
 
-If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+This article was written by:
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 08 2023 19:11:58. The solution was first committed on Oct 09 2021 21:24:10. As a result, documentation below may be outdated.
+- Jeremy Grifski
+- rzuckerm
+- ShivaniThevar
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
 

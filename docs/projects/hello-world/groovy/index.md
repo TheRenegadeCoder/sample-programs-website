@@ -19,11 +19,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```groovy
 println "Hello, World!"
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
+Hello World in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
 
 - Jeremy Griffith
 

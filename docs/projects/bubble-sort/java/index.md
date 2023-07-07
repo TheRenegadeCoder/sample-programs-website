@@ -66,18 +66,17 @@ public class BubbleSort {
         return list;
     }
 }
+
 ```
 
 {% endraw %}
 
-[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Java](https://sampleprograms.io/languages/java) was written by:
+Bubble Sort in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Jeremy Grifski
 - Tim Lange
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Oct 10 2022 15:04:56. The solution was first committed on Oct 16 2019 12:14:51. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

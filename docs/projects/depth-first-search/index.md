@@ -1,7 +1,7 @@
 ---
 date: 2021-11-12
 featured-image: depth-first-search-in-every-language.jpg
-last-modified: 2023-04-11
+last-modified: 2023-05-08
 layout: default
 tags:
 - depth-first-search
@@ -9,6 +9,11 @@ title: Depth First Search
 ---
 
 Welcome to the Depth First Search page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
+
+This article was written by:
+
+- Jeremy Grifski
+- rzuckerm
 
 ## Description
 

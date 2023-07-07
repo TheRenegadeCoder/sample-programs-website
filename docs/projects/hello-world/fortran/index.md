@@ -21,11 +21,12 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 PROGRAM HELLOWORLD
   PRINT *, 'Hello, World!'
 END
+
 ```
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
+Hello World in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
 
 - Jeremy Grifski
 
