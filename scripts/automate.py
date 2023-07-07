@@ -120,10 +120,9 @@ def _add_language_article_section(doc: snakemd.Document, repo: subete.Repo, lang
 
 
 def _generate_front_matter(
-        doc: snakemd.Document, 
-        title: str, 
-        created_at: Optional[datetime.datetime] = None, 
-        last_modified: Optional[datetime.datetime] = None, 
+        doc: snakemd.Document,
+        title: str,
+        times: Optional[List[Optional[datetime.datetime]]] = None,
         image: Optional[str] = None,
         authors: Optional[Set[str]] = None,
         tags: Optional[Iterable[str]] = None
@@ -133,18 +132,18 @@ def _generate_front_matter(
 
     :param snakemd.Document doc: the document to add the front matter to.
     :param str title: the title of the document.
-    :param datetime.datetime created_at: optional date/time when item is created.
-    :param datatime.datetime last_modified: optional date/time when item was last modified.
+    :param Optional[List[Optional[datetime.datetime]]] times: optional list of
+        date/times that may be `None`.
     :param str image: optional filename of the image.
     :param Set[str] authors: optional list of authors
     :param Iterable[str] tags: optional list of tags
     """
-    front_matter = {"title": title, "layout": "default"}
+    front_matter = {"title": title.replace("\\", ""), "layout": "default"}
+    filtered_times: List[datetime.datetime] = list(filter(None, times or []))
+    created_at: Optional[datetime.datetime] = min(filtered_times, default=None)
+    last_modified: Optional[datetime.datetime] = max(filtered_times, default=None)
     if created_at:
         front_matter["date"] = created_at.date()
-
-    if not last_modified:
-        last_modified = created_at
 
     if last_modified:
         front_matter["last-modified"] = last_modified.date()
@@ -173,13 +172,14 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
     root_path = pathlib.Path(
         f"programs/{program.project_pathlike_name()}/{program.language_pathlike_name()}"
     )
+    authors: Set[str] = program.authors()
+    doc_authors: Set[str] = program.doc_authors()
     _generate_front_matter(
-        doc, 
-        str(program), 
-        created_at=program.created(),
-        last_modified=program.modified(),
+        doc,
+        str(program),
+        times=_get_program_datetimes(program),
         image=_get_program_image(program),
-        authors=program.authors(),
+        authors=authors | doc_authors,
         tags=[program.language_pathlike_name(), program.project_pathlike_name()]
     )
     doc.add_paragraph(
@@ -205,22 +205,35 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         )
     else:
         doc.add_paragraph("{% raw %}")
-        doc.add_code(program.code().rstrip().expandtabs(4), lang=program.language_name().lower().replace(" ", "_"))
+        doc.add_code(program.code(), lang=program.language_name().lower().replace(" ", "_"))
         doc.add_paragraph("{% endraw %}")
 
-    doc.add_paragraph(f"{program} was written by:") \
-        .insert_link(program.language_name(), program.language_collection().lang_docs_url()) \
-        .insert_link(program.project_name(), program.project().requirements_url())
-    doc.add_block(snakemd.MDList(sorted(program.authors(), key=lambda x: x.casefold())))
+    doc.add_paragraph(f"{program} was written by:").insert_link(
+        program.language_name(), program.language_collection().lang_docs_url()
+    )
+    _add_authors_to_doc(doc, authors)
+
+    doc_authors: Set[str] = program.doc_authors()
+    if doc_authors:
+        doc.add_paragraph("This article was written by:")
+        _add_authors_to_doc(doc, doc_authors)
+
     doc.add_paragraph("If you see anything you'd like to change or update, please consider contributing.") \
         .insert_link("please consider contributing", "https://github.com/TheRenegadeCoder/sample-programs")
-    if program.modified() != program.created():
+
+    created_at: datetime.datetime = program.created()
+    modified: datetime.datetime = program.modified()
+    doc_modified: Optional[datetime.datetime] = program.doc_modified()
+    if created_at != modified and doc_modified and doc_modified < modified:
+        datetime_format = "%b %d %Y %H:%M:%S"
         doc.add_paragraph(
             "**Note**: The solution shown above is the current solution in the Sample "
-            f"Programs repository as of {program.modified().strftime('%b %d %Y %H:%M:%S')}. "
-            f"The solution was first committed on {program.created().strftime('%b %d %Y %H:%M:%S')}. "
+            f"Programs repository as of {modified.strftime(datetime_format)}. "
+            f"The solution was first committed on {created_at.strftime(datetime_format)}. "
+            f"The documentation was last updated on {doc_modified.strftime(datetime_format)}. "
             "As a result, documentation below may be outdated."
         )
+
     _add_section(
         doc,
         str(root_path / ".."),
@@ -237,6 +250,27 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         doc.dump("index", dir=str(path))
     except Exception:
         log.exception(f"Failed to write {path}")
+
+
+def _get_program_datetimes(program: subete.SampleProgram) -> List[Optional[datetime.datetime]]:
+    """
+    Get list of date/times for a sample program.
+
+    :param subete.SampleProgram program: Sample program to get date/times for.
+    :return: List of date/times for sample program
+    """
+
+    return [program.created(), program.modified(), program.doc_created(), program.doc_modified()]
+
+
+def _add_authors_to_doc(doc: snakemd.Document, authors: Set[str]):
+    """
+    Add a sorted list of authors to a document.
+
+    :param snakemd.Document doc: the document to add the list of authors to.
+    :param authors: List of authors
+    """
+    doc.add_block(snakemd.MDList(sorted(authors, key=lambda x: x.casefold())))
 
 
 def _get_program_image(program: subete.SampleProgram) -> Optional[str]:
@@ -312,20 +346,19 @@ def _generate_project_index(
     """
     doc: snakemd.Document = snakemd.new_doc()
     project_name: str = project.name()
-    programs: List[subete.SampleProgram] = [
-        program
-        for language in repo
-        for program in language
-        if program.project_name() == project_name
-    ]
-    oldest_program: subete.SampleProgram = min(programs, key=lambda x: x.created())
-    newest_program: subete.SampleProgram = max(programs, key=lambda x: x.created())
+    times: List[Optional[datetime.datetime]] = []
+    for language in repo:
+        language: subete.Language
+        for program in language:
+            program: subete.SamplePrograms
+            if program.project_name() == project_name:
+                times += _get_program_datetimes(program)
+
     _generate_front_matter(
         doc,
         project.name(),
         image=_get_project_image(project),
-        created_at=oldest_program.created(),
-        last_modified=newest_program.created(),
+        times=times,
         tags=[project.pathlike_name()]
     )
     doc.add_paragraph(
@@ -333,6 +366,11 @@ def _generate_project_index(
         f"of the project as well as a list of sample programs "
         f"written in various languages."
     )
+    doc_authors: Set[str] = project.doc_authors()
+    if doc_authors:
+        doc.add_paragraph("This article was written by:")
+        _add_authors_to_doc(doc, doc_authors)
+
     _add_section(doc, "projects", project.pathlike_name(), "Description")
     _add_section(doc, "projects", project.pathlike_name(), "Requirements")
     _add_testing_section(doc, "projects", project.pathlike_name())
@@ -341,6 +379,7 @@ def _generate_project_index(
             snakemd.Inline("Note:", bold=True),
             f" {project.name()} is not currently tested by Glotter2. Consider contributing!"
         ]))
+
     _add_project_article_section(doc, repo, project)
     doc.add_horizontal_rule()
     doc.add_paragraph("<nav class=\"project-nav\">")
@@ -351,7 +390,7 @@ def _generate_project_index(
     doc.add_block(snakemd.Paragraph([snakemd.Inline(f"Next Project ({next}) -->", link=next.requirements_url())]))
     doc.add_paragraph("</div>")
     doc.add_paragraph("</nav>")
-    doc.dump("index", dir=f"docs/projects/{project.pathlike_name()}")  
+    doc.dump("index", dir=f"docs/projects/{project.pathlike_name()}")
 
 
 def _generate_language_index(language: subete.LanguageCollection):
@@ -362,14 +401,20 @@ def _generate_language_index(language: subete.LanguageCollection):
     :param subete.LanguageCollection language: the collection sample programs for a language.
     """
     doc: snakemd.Document = snakemd.new_doc()
-    oldest_program: subete.SampleProgram = min(language, key=lambda x: x.created())
-    newest_program: subete.SampleProgram = max(language, key=lambda x: x.created())
+    times: List[Optional[datetime.datetime]] = []
+    for program in language:
+        program: subete.SampleProgram
+        times += _get_program_datetimes(program)
+
+    times += [language.doc_created(), language.doc_modified()]
+
+    doc_authors: Set[str] = language.doc_authors()
     _generate_front_matter(
         doc,
         f"The {language} Programming Language",
-        created_at=oldest_program.created(),
-        last_modified=newest_program.created(),
+        times=times,
         image=_get_language_image(language),
+        authors=doc_authors,
         tags=[language.pathlike_name()]
     )
     doc.add_paragraph(
@@ -377,6 +422,10 @@ def _generate_language_index(language: subete.LanguageCollection):
         f"of the language as well as a list of sample programs "
         f"in that language."
     )
+    if doc_authors:
+        doc.add_paragraph("This article was written by:")
+        _add_authors_to_doc(doc, doc_authors)
+
     _add_section(doc, "languages", language.pathlike_name(), "Description")
     _add_language_article_section(doc, repo, str(language))
     try:
@@ -419,26 +468,32 @@ def generate_main_page(repo: subete.Repo):
     :param subete.Repo repo: the repo to pull from.
     """
     authors: Set[str] = set()
-    times: List[datetime.datetime] = []
+    times: List[Optional[datetime.datetime]] = []
     num_articles = 0
-    language: subete.LanguageCollection
     for language in repo:
+        language: subete.LanguageCollection
         num_articles += 1  # 1 article per language
+        authors |= language.doc_authors()
+        times += [language.doc_created(), language.doc_modified()]
         program: subete.SampleProgram
         for program in language:
-            authors |= program.authors()
-            times.append(program.created())
+            authors |= program.authors() | program.doc_authors()
+            times += _get_program_datetimes(program)
+
             num_articles += 1  # 1 article per sample program
 
-    num_articles += len(repo.approved_projects())  # Include all the project articles
+    for project in repo.approved_projects():
+        num_articles += 1  # 1 article per approved project
+        project: subete.Project
+        authors |= project.doc_authors()
+        times += [project.doc_created(), project.doc_modified()]
 
     log.info("Generating main page")
     main_page: snakemd.Document = snakemd.new_doc()
     _generate_front_matter(
         main_page,
         "Sample Programs in Every Language",
-        created_at=min(times),
-        last_modified=max(times)
+        times=times,
     )
     main_page.add_paragraph(
         "Welcome to Sample Programs in Every Language, a collection of code snippets "
@@ -556,16 +611,18 @@ def generate_languages_index(repo: subete.Repo):
     """
     log.info("Generating language index")
     language_index_path = pathlib.Path("docs/languages")
+    times: List[Optional[datetime.datetime]] = []
+    for language in repo:
+        language: subete.LanguageCollection
+        for program in language:
+            program: subete.SampleProgram
+            times += _get_program_datetimes(program)
+
     language_index = snakemd.new_doc()
-    oldest_lang: subete.LanguageCollection = min(repo, key=lambda lang: min(lang, key=lambda x: x.created()).created())
-    oldest_program: subete.SampleProgram = min(oldest_lang, key=lambda x: x.created())
-    newest_lang: subete.LanguageCollection = max(repo, key=lambda lang: max(lang, key=lambda x: x.created()).created())
-    newest_program: subete.SampleProgram = max(newest_lang, key=lambda x: x.created())
     _generate_front_matter(
         language_index, 
         "Programming Languages",
-        created_at=oldest_program.created(),
-        last_modified=newest_program.created(),
+        times=times,
         image=_get_default_language_image()
     )
     language_index.add_paragraph(
@@ -608,15 +665,17 @@ def generate_projects_index(repo: subete.Repo):
     log.info("Generating projects index")
     projects_index_path = pathlib.Path("docs/projects")
     projects_index: snakemd.Document = snakemd.new_doc()
-    oldest_lang: subete.LanguageCollection = min(repo, key=lambda lang: min(lang, key=lambda x: x.created()).created())
-    oldest_program: subete.SampleProgram = min(oldest_lang, key=lambda x: x.created())
-    newest_lang: subete.LanguageCollection = max(repo, key=lambda lang: max(lang, key=lambda x: x.created()).created())
-    newest_program: subete.SampleProgram = max(newest_lang, key=lambda x: x.created())
+    times: List[Optional[datetime.datetime]] = []
+    for language in repo:
+        language: subete.LanguageCollection
+        for program in language:
+            program: subete.SampleProgram
+            times += _get_program_datetimes(program)
+
     _generate_front_matter(
         projects_index, 
         "Programming Projects in Every Language",
-        created_at=oldest_program.created(),
-        last_modified=newest_program.created(),
+        times=times,
         image=_get_default_project_image()
     )
     project_tests = sum(
