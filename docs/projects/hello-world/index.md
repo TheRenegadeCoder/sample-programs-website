@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2023-06-20
+last-modified: 2023-07-11
 layout: default
 tags:
 - hello-world
@@ -100,6 +100,7 @@ Verify that the actual output matches the expected output
 - [Hello World in Frege](https://sampleprograms.io/projects/hello-world/frege)
 - [Hello World in Gerbil](https://sampleprograms.io/projects/hello-world/gerbil)
 - [Hello World in Gluon](https://sampleprograms.io/projects/hello-world/gluon)
+- [Hello World in Gnu Make](https://sampleprograms.io/projects/hello-world/gnu-make)
 - [Hello World in Go](https://sampleprograms.io/projects/hello-world/go)
 - [Hello World in Goby](https://sampleprograms.io/projects/hello-world/goby)
 - [Hello World in Golo](https://sampleprograms.io/projects/hello-world/golo)
