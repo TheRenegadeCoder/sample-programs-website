@@ -1,7 +1,7 @@
 ---
 date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2023-07-13
 layout: default
 tags:
 - baklava
@@ -84,6 +84,7 @@ Verify that the actual output matches the expected output
 - [Baklava in Euphoria](https://sampleprograms.io/projects/baklava/euphoria)
 - [Baklava in F#](https://sampleprograms.io/projects/baklava/f-sharp)
 - [Baklava in Fortran](https://sampleprograms.io/projects/baklava/fortran)
+- [Baklava in Gnu Make](https://sampleprograms.io/projects/baklava/gnu-make)
 - [Baklava in Go](https://sampleprograms.io/projects/baklava/go)
 - [Baklava in Groovy](https://sampleprograms.io/projects/baklava/groovy)
 - [Baklava in Haskell](https://sampleprograms.io/projects/baklava/haskell)
