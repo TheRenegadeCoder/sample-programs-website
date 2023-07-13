@@ -1,7 +1,7 @@
 ---
 date: 2018-09-10
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2023-07-13
 layout: default
 tags:
 - file-input-output
@@ -56,6 +56,7 @@ Verify that the actual output matches the expected output
 - [File Input Output in C++](https://sampleprograms.io/projects/file-input-output/c-plus-plus)
 - [File Input Output in Dg](https://sampleprograms.io/projects/file-input-output/dg)
 - [File Input Output in Euphoria](https://sampleprograms.io/projects/file-input-output/euphoria)
+- [File Input Output in Gnu Make](https://sampleprograms.io/projects/file-input-output/gnu-make)
 - [File Input Output in Go](https://sampleprograms.io/projects/file-input-output/go)
 - [File Input Output in Haskell](https://sampleprograms.io/projects/file-input-output/haskell)
 - [File Input Output in Java](https://sampleprograms.io/projects/file-input-output/java)
