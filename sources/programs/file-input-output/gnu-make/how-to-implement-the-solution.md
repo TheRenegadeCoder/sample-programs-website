@@ -58,23 +58,24 @@ like this:
 all: ;@:
 ```
 
-The [.PHONY][3] keyword specifies targets that will always be built, whether or
+The [.PHONY][4] keyword specifies targets that will always be built, whether or
 not they exist. In this case, that is the `all` target. This target is written
-in the [alternate form][4] for brevity:
+in the [alternate form][5] for brevity:
 
 ```make
 target: ;command
 ```
 
 This means that whenever the target needs to be built, `make` will execute the
-command following the semicolon. By default, `make` [echoes each command][5]
+command following the semicolon. By default, `make` [echoes each command][6]
 that it executes. To suppress this, `@` may be used before the command. The
-[colon (:) command][6] just exits with non-error status.
+[colon (:) command][7] just exits with non-error status.
 
 
 [1]: https://www.gnu.org/software/make/manual/html_node/Multi_002dLine.html
 [2]: https://www.gnu.org/software/make/manual/html_node/File-Function.html
-[3]: https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html
-[4]: https://www.gnu.org/software/make/manual/html_node/Rule-Syntax.html
-[5]: https://www.gnu.org/software/make/manual/html_node/Echoing.html
-[6]: https://man7.org/linux/man-pages/man1/colon.1p.html
+[3]: https://www.gnu.org/software/make/manual/html_node/Make-Control-Functions.html
+[4]: https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html
+[5]: https://www.gnu.org/software/make/manual/html_node/Rule-Syntax.html
+[6]: https://www.gnu.org/software/make/manual/html_node/Echoing.html
+[7]: https://man7.org/linux/man-pages/man1/colon.1p.html
