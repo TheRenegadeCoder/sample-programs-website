@@ -29,7 +29,7 @@ where:
 * `text` is the text to be written to the file for the `>` and `>>` file
   operations.
 
-This writes the text (store in the `TEXT` variable) to a file called
+This writes the text (stored in the `TEXT` variable) to a file called
 `output.txt`:
 
 ```make
