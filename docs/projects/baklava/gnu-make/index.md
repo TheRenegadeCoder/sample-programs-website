@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-07-13
 featured-image: baklava-in-every-language.jpg
-last-modified: 2023-07-13
+last-modified: 2023-07-25
 layout: default
 tags:
 - baklava
@@ -33,7 +33,7 @@ TEN := $(TWO) $(TWO) $(TWO) $(TWO) $(TWO)
 # Increment function
 # Arg 1: Number encoded as x's
 # Return: Number + 1 encoded as x's
-INC = $(1) $(ONE)
+INC = $(strip $(1) $(ONE))
 
 # Decrement function
 # Arg 1: Number encoded as x's
@@ -44,7 +44,7 @@ DEC = $(wordlist 2,$(words $(1)),$1)
 # Arg 1: Number 1 encoded as x's
 # Arg 2: Number 2 encoded as x's
 # Return: Number 1 + Number 2 encoded as x's
-ADD = $(1) $(2)
+ADD = $(strip $(1) $(2))
 
 # Subtract function
 # Arg 1: Number 1 encoded as x's
@@ -56,7 +56,7 @@ SUB = $(wordlist $(words $(call INC,$(2))),$(words $(1)),$(1))
 # Arg 1: Character
 # Arg 2: Number of repeats encoded as x's
 # Return: Character repeated specified number of times
-REPEAT = $(if $(2),$(1)$(call REPEAT,$(1),$(call DEC,$(2))))
+REPEAT = $(subst $(1)$(SPACE),$(1),$(foreach _,$(2),$(1)))
 
 # Baklava line function
 # Arg 1: Number of spaces encoded as x's
