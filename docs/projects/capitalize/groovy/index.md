@@ -1,9 +1,10 @@
 ---
 authors:
 - robin
+- rzuckerm
 date: 2019-07-01
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2019-07-01
+last-modified: 2023-07-25
 layout: default
 tags:
 - capitalize
@@ -23,6 +24,9 @@ class Capitalize {
     if(args?.length >= 1 && args[0]?.length() >= 1) {
       println args[0]?.capitalize()
     }
+    else {
+      println "Usage: please provide a string"
+    }
   }
 }
 
@@ -33,6 +37,7 @@ class Capitalize {
 Capitalize in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
 
 - robin
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

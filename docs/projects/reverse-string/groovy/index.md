@@ -1,9 +1,10 @@
 ---
 authors:
 - robin
+- rzuckerm
 date: 2019-07-01
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2019-07-01
+last-modified: 2023-07-25
 layout: default
 tags:
 - groovy
@@ -18,7 +19,7 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 {% raw %}
 
 ```groovy
-class ReverseAString {
+class ReverseString {
   static void main(String... args) {
     if(args?.length >= 1 && args[0]?.length() >= 1) {
       println args[0]?.reverse()
@@ -33,6 +34,7 @@ class ReverseAString {
 Reverse String in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
 
 - robin
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
