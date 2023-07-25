@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 169 languages, of which 60 are tested, and 779 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 169 languages, of which 60 are tested, and 780 code snippets.
 
 ## Language Collections by Letter
 
@@ -106,7 +106,7 @@ The 'F' collection contains 12 languages, of which 2 are tested, and 20 code sni
 
 ### G
 
-The 'G' collection contains 12 languages, of which 4 are tested, and 45 code snippets.
+The 'G' collection contains 12 languages, of which 4 are tested, and 46 code snippets.
 
 - [Gerbil](https://sampleprograms.io/languages/gerbil)
 - [Gluon](https://sampleprograms.io/languages/gluon)

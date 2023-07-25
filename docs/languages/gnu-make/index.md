@@ -103,3 +103,4 @@ Loops can be simulated using macros that invoke themselves recursively.
 - [File Input Output in Gnu Make](https://sampleprograms.io/projects/file-input-output/gnu-make)
 - [Fizz Buzz in Gnu Make](https://sampleprograms.io/projects/fizz-buzz/gnu-make)
 - [Hello World in Gnu Make](https://sampleprograms.io/projects/hello-world/gnu-make)
+- [Prime Number in Gnu Make](https://sampleprograms.io/projects/prime-number/gnu-make)

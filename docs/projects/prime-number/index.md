@@ -1,7 +1,7 @@
 ---
 date: 2018-11-16
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2023-07-25
 layout: default
 tags:
 - prime-number
@@ -80,6 +80,7 @@ Usage: please input a non-negative integer
 - [Prime Number in Cobol](https://sampleprograms.io/projects/prime-number/cobol)
 - [Prime Number in Euphoria](https://sampleprograms.io/projects/prime-number/euphoria)
 - [Prime Number in Fortran](https://sampleprograms.io/projects/prime-number/fortran)
+- [Prime Number in Gnu Make](https://sampleprograms.io/projects/prime-number/gnu-make)
 - [Prime Number in Go](https://sampleprograms.io/projects/prime-number/go)
 - [Prime Number in Haskell](https://sampleprograms.io/projects/prime-number/haskell)
 - [Prime Number in Java](https://sampleprograms.io/projects/prime-number/java)
