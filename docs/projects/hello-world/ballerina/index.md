@@ -1,9 +1,10 @@
 ---
 authors:
 - Jeremy Grifski
+- rzuckerm
 date: 2018-06-15
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-06-15
+last-modified: 2023-07-27
 layout: default
 tags:
 - ballerina
@@ -19,7 +20,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```ballerina
 import ballerina/io;
-function main(string... args) {
+public function main(string... args) {
     io:println("Hello, World!");
 }
 
@@ -30,6 +31,7 @@ function main(string... args) {
 Hello World in [Ballerina](https://sampleprograms.io/languages/ballerina) was written by:
 
 - Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
