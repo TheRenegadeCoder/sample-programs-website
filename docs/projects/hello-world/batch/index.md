@@ -1,9 +1,10 @@
 ---
 authors:
 - Jeremy Grifski
+- rzuckerm
 date: 2020-04-23
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2020-04-23
+last-modified: 2023-07-27
 layout: default
 tags:
 - batch
@@ -19,7 +20,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```batch
 @echo off
-echo Hello world!
+echo Hello, World!
 
 ```
 
@@ -28,6 +29,7 @@ echo Hello world!
 Hello World in [Batch](https://sampleprograms.io/languages/batch) was written by:
 
 - Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
