@@ -39,9 +39,9 @@ command following the semicolon. By default, `make` [echoes each command][3]
 that it executes. To suppress this, `@` may be used before the command. The
 [colon (:) command][6] just exits with non-error status.
 
-[1]: https://www.gnu.org/software/make/manual/html_node/Make-Control-Functions.html#index-info
-[2]: https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html#index-phony-targets
-[3]: https://www.gnu.org/software/make/manual/html_node/Echoing.html#index-_0040-_0028in-recipes_0029
+[1]: https://www.gnu.org/software/make/manual/html_node/Make-Control-Functions.html
+[2]: https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html
+[3]: https://www.gnu.org/software/make/manual/html_node/Echoing.html
 [4]: https://www.gnu.org/software/make/manual/html_node/Rule-Syntax.html
-[5]: https://www.gnu.org/software/make/manual/html_node/Syntax-of-Functions.html#index-_0024_002c-in-function-call
+[5]: https://www.gnu.org/software/make/manual/html_node/Syntax-of-Functions.html
 [6]: https://man7.org/linux/man-pages/man1/colon.1p.html
