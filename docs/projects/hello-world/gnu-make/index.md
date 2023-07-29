@@ -1,9 +1,10 @@
 ---
 authors:
+- Ron Zuckerman
 - rzuckerm
 date: 2023-07-11
 featured-image: hello-world-in-gnu-make.jpg
-last-modified: 2023-07-17
+last-modified: 2023-07-29
 layout: default
 tags:
 - gnu-make
@@ -33,6 +34,7 @@ Hello World in [Gnu Make](https://sampleprograms.io/languages/gnu-make) was writ
 
 This article was written by:
 
+- Ron Zuckerman
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
@@ -80,22 +82,30 @@ command following the semicolon. By default, `make` [echoes each command][3]
 that it executes. To suppress this, `@` may be used before the command. The
 [colon (:) command][6] just exits with non-error status.
 
-[1]: https://www.gnu.org/software/make/manual/html_node/Make-Control-Functions.html#index-info
-[2]: https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html#index-phony-targets
-[3]: https://www.gnu.org/software/make/manual/html_node/Echoing.html#index-_0040-_0028in-recipes_0029
+[1]: https://www.gnu.org/software/make/manual/html_node/Make-Control-Functions.html
+[2]: https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html
+[3]: https://www.gnu.org/software/make/manual/html_node/Echoing.html
 [4]: https://www.gnu.org/software/make/manual/html_node/Rule-Syntax.html
-[5]: https://www.gnu.org/software/make/manual/html_node/Syntax-of-Functions.html#index-_0024_002c-in-function-call
+[5]: https://www.gnu.org/software/make/manual/html_node/Syntax-of-Functions.html
 [6]: https://man7.org/linux/man-pages/man1/colon.1p.html
 
 
 ## How to Run the Solution
 
-To run this program just download [the latest GNU Make][7], download a copy
-of [Hello World in GNU Make][8], and run this command:
+To run this program, download and install the latest GNU Make using these
+instructions:
+
+* [Windows][7]
+* For [Linux][8], see "How to Download" section
+* [Mac][9]
+
+Download a copy of [Hello World in GNU Make][10], and run this command:
 
 ```
 make -sf hello-world.mk
 ```
 
-[7]: https://www.gnu.org/software/make/#download
-[8]: https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/g/gnu-make/hello-world.mk
+[7]: https://leangaurav.medium.com/how-to-setup-install-gnu-make-on-windows-324480f1da69
+[8]: https://www.incredibuild.com/integrations/gnu-make
+[9]: https://formulae.brew.sh/formula/make
+[10]: https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/g/gnu-make/hello-world.mk

@@ -1,9 +1,10 @@
 ---
 authors:
+- Ron Zuckerman
 - rzuckerm
 date: 2023-07-13
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2023-07-25
+last-modified: 2023-07-29
 layout: default
 tags:
 - file-input-output
@@ -42,6 +43,7 @@ File Input Output in [Gnu Make](https://sampleprograms.io/languages/gnu-make) wa
 
 This article was written by:
 
+- Ron Zuckerman
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
@@ -133,12 +135,20 @@ that it executes. To suppress this, `@` may be used before the command. The
 
 ## How to Run the Solution
 
-To run this program just download [the latest GNU Make][8], download a copy
-of [File Input Output in GNU Make][9], and run this command:
+To run this program, download and install the latest GNU Make using these
+instructions:
+
+* [Windows][8]
+* For [Linux][9], see "How to Download" section
+* [Mac][10]
+
+Download a copy of [File Input Output in GNU Make][11], and run this command:
 
 ```
 make -sf file-input-output.mk
 ```
 
-[8]: https://www.gnu.org/software/make/#download
-[9]: https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/g/gnu-make/file-input-output.mk
+[8]: https://leangaurav.medium.com/how-to-setup-install-gnu-make-on-windows-324480f1da69
+[9]: https://www.incredibuild.com/integrations/gnu-make
+[10]: https://formulae.brew.sh/formula/make
+[11]: https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/g/gnu-make/file-input-output.mk

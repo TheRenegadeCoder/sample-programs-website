@@ -1,7 +1,7 @@
 ---
 date: 2018-09-10
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2023-07-25
+last-modified: 2023-07-29
 layout: default
 tags:
 - file-input-output
