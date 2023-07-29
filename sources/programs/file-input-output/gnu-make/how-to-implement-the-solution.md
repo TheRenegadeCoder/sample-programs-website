@@ -72,7 +72,7 @@ that it executes. To suppress this, `@` may be used before the command. The
 [colon (:) command][7] just exits with non-error status.
 
 
-[1]: https://www.gnu.org/software/make/manual/html_node/Make-Control-Functions.html#index-info
+[1]: https://www.gnu.org/software/make/manual/html_node/Multi_002dLine.html
 [2]: https://www.gnu.org/software/make/manual/html_node/File-Function.html
 [3]: https://www.gnu.org/software/make/manual/html_node/Make-Control-Functions.html
 [4]: https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html
