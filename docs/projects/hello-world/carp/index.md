@@ -1,9 +1,9 @@
 ---
 authors:
-- Jeremy Grifski
-date: 2018-04-27
+- rzuckerm
+date: 2023-07-29
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-04-27
+last-modified: 2023-07-29
 layout: default
 tags:
 - carp
@@ -18,7 +18,9 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```carp
-(println "Hello, World!")
+(defn main[]
+    (println* "Hello, World!")
+)
 
 ```
 
@@ -26,7 +28,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 Hello World in [Carp](https://sampleprograms.io/languages/carp) was written by:
 
-- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
