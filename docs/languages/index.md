@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 169 languages, of which 66 are tested, and 780 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 169 languages, of which 67 are tested, and 780 code snippets.
 
 ## Language Collections by Letter
 
@@ -73,7 +73,7 @@ The 'D' collection contains 7 languages, of which 3 are tested, and 24 code snip
 
 ### E
 
-The 'E' collection contains 11 languages, of which 3 are tested, and 59 code snippets.
+The 'E' collection contains 11 languages, of which 4 are tested, and 59 code snippets.
 
 - [Egison](https://sampleprograms.io/languages/egison)
 - [Eiffel](https://sampleprograms.io/languages/eiffel)
