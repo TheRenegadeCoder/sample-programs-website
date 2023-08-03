@@ -1,7 +1,7 @@
 ---
 date: 2018-08-07
 featured-image: quine-in-every-language.jpg
-last-modified: 2023-04-06
+last-modified: 2023-08-02
 layout: default
 tags:
 - quine
@@ -51,6 +51,7 @@ Verify that the actual output matches the expected output
 - [Quine in Coffeescript](https://sampleprograms.io/projects/quine/coffeescript)
 - [Quine in Dg](https://sampleprograms.io/projects/quine/dg)
 - [Quine in Euphoria](https://sampleprograms.io/projects/quine/euphoria)
+- [Quine in Gnu Make](https://sampleprograms.io/projects/quine/gnu-make)
 - [Quine in Go](https://sampleprograms.io/projects/quine/go)
 - [Quine in Haskell](https://sampleprograms.io/projects/quine/haskell)
 - [Quine in Java](https://sampleprograms.io/projects/quine/java)

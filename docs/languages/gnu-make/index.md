@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-07-11
 featured-image: programming-languages.jpg
-last-modified: 2023-07-29
+last-modified: 2023-08-02
 layout: default
 tags:
 - gnu-make
@@ -104,3 +104,4 @@ Loops can be simulated using macros that invoke themselves recursively.
 - [Fizz Buzz in Gnu Make](https://sampleprograms.io/projects/fizz-buzz/gnu-make)
 - [Hello World in Gnu Make](https://sampleprograms.io/projects/hello-world/gnu-make)
 - [Prime Number in Gnu Make](https://sampleprograms.io/projects/prime-number/gnu-make)
+- [Quine in Gnu Make](https://sampleprograms.io/projects/quine/gnu-make)
