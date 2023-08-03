@@ -1,9 +1,10 @@
 ---
 authors:
 - joel ibaceta
+- rzuckerm
 date: 2018-11-14
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-11-14
+last-modified: 2023-08-02
 layout: default
 tags:
 - frege
@@ -21,7 +22,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 module HelloWorld where
 
 main :: IO ()
-main = do putStrLn "Hello world"
+main = do putStrLn "Hello, World!"
 ```
 
 {% endraw %}
@@ -29,6 +30,7 @@ main = do putStrLn "Hello world"
 Hello World in [Frege](https://sampleprograms.io/languages/frege) was written by:
 
 - joel ibaceta
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
