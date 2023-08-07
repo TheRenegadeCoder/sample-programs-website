@@ -269,9 +269,9 @@ interesting trick at work here. The [subst][8] take three arguments:
 2. The replace string
 3. The string to modify
 
-This is being used is to remove all instances of the divisor from the
-dividend. If the result is non-empty, then the dividend is not divisible by
-the divisor. Otherwise, it is divisible.
+This is used to remove all instances of the divisor from the dividend. If the
+result is non-empty, then the dividend is not divisible by the divisor.
+Otherwise, it is divisible.
 
 Let's work through a couple of examples. Let `ARG1` be `8` and `ARG2` be `3`,
 each represented as `x`'s:
