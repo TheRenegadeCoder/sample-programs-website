@@ -1,9 +1,9 @@
 ---
 authors:
-- zafar hussain
-date: 2019-11-01
+- rzuckerm
+date: 2023-08-07
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2019-11-01
+last-modified: 2023-08-07
 layout: default
 tags:
 - gerbil
@@ -18,7 +18,10 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```gerbil
-(displayln "Hello, World!")
+(export main)
+(def (main . args)
+  (displayln "Hello, World!")
+)
 
 ```
 
@@ -26,7 +29,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 Hello World in [Gerbil](https://sampleprograms.io/languages/gerbil) was written by:
 
-- zafar hussain
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
