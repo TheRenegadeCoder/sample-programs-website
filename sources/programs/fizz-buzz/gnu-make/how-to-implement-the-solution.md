@@ -1,7 +1,7 @@
 ### Introduction
 
 GNU Make has very few functions that accept or return numbers, so doing
-anything that requires math is challenging. After doing to Google searches,
+anything that requires math is challenging. After doing some Google searches,
 I discovered the [GNU Make Standard Library][1]. This library does some
 amazing things with the functions available in GNU Make. I studied the code,
 and the way they handle numbers is to convert them with a sequence of `x`'s
