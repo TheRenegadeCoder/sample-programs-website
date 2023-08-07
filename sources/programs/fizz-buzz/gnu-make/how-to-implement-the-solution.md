@@ -269,7 +269,7 @@ interesting trick at work here. The [subst][8] take three arguments:
 2. The replace string
 3. The string to modify
 
-How this is being used is to remove all instances of the divisor from the
+This is being used is to remove all instances of the divisor from the
 dividend. If the result is non-empty, then the dividend is not divisible by
 the divisor. Otherwise, it is divisible.
 
