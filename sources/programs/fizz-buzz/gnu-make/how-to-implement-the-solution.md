@@ -288,7 +288,7 @@ The `subst` function would look like this:
 $(subst x x x,,x x x x x x x x)
 ```
 
-In other word, substitute 3 `x`'s with nothing. The return value of `subst`
+In other words, substitute 3 `x`'s with nothing. The return value of `subst`
 would be the right-most side of this:
 
 ```
