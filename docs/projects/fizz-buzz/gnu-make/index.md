@@ -261,7 +261,7 @@ FIFTEEN := $(TEN) $(FIVE)
 HUNDRED := $(TEN) $(TEN) $(TEN) $(TEN) $(TEN) $(TEN) $(TEN) $(TEN) $(TEN) $(TEN)
 ```
 
-From then names, it's obvious as to which number each variable represents --
+From the names, it's obvious as to which number each variable represents --
 e.g., `FIVE` (which is effectively `THREE` plus `TWO`) is 5 `x`'s separated by
 spaces.
 
@@ -464,13 +464,13 @@ Here is what this function would look like in pseudocode:
 
 ```
 function FIZZ_BUZZ_LOOP(start, end)
-    call FIZZ_BUZZ(start)
+    display FIZZ_BUZZ(start)
     if start < end:
         call FIZZ_BUZZ_LOOP(start + 1, end)
 ```
 
 You'll notice that this is using recursion. That is the only way to implement
-loops in GNU make.
+loops in GNU Make.
 
 #### The Final Step
 
