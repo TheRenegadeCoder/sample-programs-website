@@ -359,7 +359,8 @@ endef
 ```
 
 The [define][10] keyword assigns a multi-line value to a variable. The value
-is terminated with an `endef` keyword.
+is terminated with an `endef` keyword. The [info][9] function takes a single
+value: the value to be displayed.
 
 Here is what this function would look like in pseudocode:
 
