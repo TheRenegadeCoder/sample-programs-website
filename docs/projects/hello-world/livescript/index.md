@@ -1,9 +1,9 @@
 ---
 authors:
-- Michael Beebower
-date: 2019-10-10
+- rzuckerm
+date: 2023-08-14
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2019-10-10
+last-modified: 2023-08-14
 layout: default
 tags:
 - hello-world
@@ -18,7 +18,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```livescript
-console.log 'hello, world!'
+console.log 'Hello, World!'
 
 ```
 
@@ -26,7 +26,7 @@ console.log 'hello, world!'
 
 Hello World in [Livescript](https://sampleprograms.io/languages/livescript) was written by:
 
-- Michael Beebower
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
