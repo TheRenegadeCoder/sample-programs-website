@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 169 languages, of which 80 are tested, and 781 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 169 languages, of which 81 are tested, and 781 code snippets.
 
 ## Language Collections by Letter
 
@@ -157,7 +157,7 @@ The 'K' collection contains 3 languages, of which 2 are tested, and 20 code snip
 
 ### L
 
-The 'L' collection contains 10 languages, of which 4 are tested, and 32 code snippets.
+The 'L' collection contains 10 languages, of which 5 are tested, and 32 code snippets.
 
 - [Latte](https://sampleprograms.io/languages/latte)
 - [Lily](https://sampleprograms.io/languages/lily)
