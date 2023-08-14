@@ -1,9 +1,9 @@
 ---
 authors:
-- Shashank KV
-date: 2020-10-02
+- rzuckerm
+date: 2023-08-14
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2020-10-02
+last-modified: 2023-08-14
 layout: default
 tags:
 - hello-world
@@ -18,15 +18,14 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```modula2
-MODULE PrintHelloWorld;
+MODULE HelloWorld;
 
-FROM InOut IMPORT WriteString, WriteLn;
+FROM StrIO IMPORT WriteString, WriteLn;
 
 BEGIN
-	WriteString('Hello world!');
-	WriteLn;
-END PrintHelloWorld.
-
+    WriteString('Hello, World!');
+    WriteLn;
+END HelloWorld.
 
 ```
 
@@ -34,7 +33,7 @@ END PrintHelloWorld.
 
 Hello World in [Modula2](https://sampleprograms.io/languages/modula2) was written by:
 
-- Shashank KV
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

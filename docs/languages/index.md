@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 169 languages, of which 83 are tested, and 781 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 169 languages, of which 85 are tested, and 781 code snippets.
 
 ## Language Collections by Letter
 
@@ -172,7 +172,7 @@ The 'L' collection contains 10 languages, of which 7 are tested, and 32 code sni
 
 ### M
 
-The 'M' collection contains 7 languages, of which 1 is tested, and 54 code snippets.
+The 'M' collection contains 7 languages, of which 2 are tested, and 54 code snippets.
 
 - [Mathematica](https://sampleprograms.io/languages/mathematica)
 - [Matlab](https://sampleprograms.io/languages/matlab)
@@ -184,7 +184,7 @@ The 'M' collection contains 7 languages, of which 1 is tested, and 54 code snipp
 
 ### N
 
-The 'N' collection contains 4 languages, of which 1 is tested, and 7 code snippets.
+The 'N' collection contains 4 languages, of which 2 are tested, and 7 code snippets.
 
 - [Never](https://sampleprograms.io/languages/never)
 - [Nice](https://sampleprograms.io/languages/nice)

@@ -1,7 +1,7 @@
 ---
-date: 2020-10-02
+date: 2023-08-14
 featured-image: programming-languages.jpg
-last-modified: 2020-10-02
+last-modified: 2023-08-14
 layout: default
 tags:
 - modula2
