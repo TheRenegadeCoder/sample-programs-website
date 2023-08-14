@@ -1,11 +1,10 @@
 ---
 authors:
-- Jeremy Griffith
 - Jeremy Grifski
 - rzuckerm
-date: 2018-04-10
+date: 2019-05-07
 featured-image: hello-world-in-hack.jpg
-last-modified: 2023-05-15
+last-modified: 2023-08-14
 layout: default
 tags:
 - hack
@@ -20,8 +19,10 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```hack
-<?hh
-echo "Hello, World!";
+<<__EntryPoint>>
+function main(): void {
+    echo "Hello, World!";
+}
 
 ```
 
@@ -29,7 +30,7 @@ echo "Hello, World!";
 
 Hello World in [Hack](https://sampleprograms.io/languages/hack) was written by:
 
-- Jeremy Griffith
+- rzuckerm
 
 This article was written by:
 
