@@ -1,9 +1,9 @@
 ---
 authors:
-- Jeremy Grifski
-date: 2021-05-24
+- rzuckerm
+date: 2023-08-19
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2021-05-24
+last-modified: 2023-08-19
 layout: default
 tags:
 - hello-world
@@ -18,8 +18,8 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```pineapple
-def ().main
-    'Hello, World!'.show
+def .main
+    "Hello, World!".show
 
 ```
 
@@ -27,7 +27,7 @@ def ().main
 
 Hello World in [Pineapple](https://sampleprograms.io/languages/pineapple) was written by:
 
-- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
