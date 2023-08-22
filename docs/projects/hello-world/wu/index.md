@@ -1,9 +1,9 @@
 ---
 authors:
-- Purplebabar
-date: 2018-07-27
+- rzuckerm
+date: 2023-08-22
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-07-27
+last-modified: 2023-08-22
 layout: default
 tags:
 - hello-world
@@ -18,9 +18,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```wu
-print: extern def<T>(..T)
-
-print("Hello World")
+print("Hello, World!\n")
 
 ```
 
@@ -28,7 +26,7 @@ print("Hello World")
 
 Hello World in [Wu](https://sampleprograms.io/languages/wu) was written by:
 
-- Purplebabar
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
