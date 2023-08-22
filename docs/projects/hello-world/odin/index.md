@@ -1,9 +1,10 @@
 ---
 authors:
 - Jeremy Grifski
+- rzuckerm
 date: 2018-06-15
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-06-15
+last-modified: 2023-08-22
 layout: default
 tags:
 - hello-world
@@ -18,7 +19,9 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```odin
-import "core:fmt.odin";
+package main;
+
+import "core:fmt";
 
 main :: proc() {
   fmt.println("Hello, World!");
@@ -31,6 +34,7 @@ main :: proc() {
 Hello World in [Odin](https://sampleprograms.io/languages/odin) was written by:
 
 - Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
