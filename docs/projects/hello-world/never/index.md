@@ -1,10 +1,9 @@
 ---
 authors:
-- rzuckerm
 - smaludzi
 date: 2018-09-20
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2023-08-22
+last-modified: 2018-09-20
 layout: default
 tags:
 - hello-world
@@ -19,10 +18,23 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```never
-func main() -> int {
-    prints("Hello, World!\n");
-    0
+
+func print_str(hw[L] -> int) -> int
+{
+    func __print(hw[L] -> int, i -> int) -> int
+    {
+        i < L ? { print(hw[i]); __print(hw, i + 1) } : 0
+    }
+    __print(hw, 0)
 }
+
+func main() -> int
+{
+    let hw = [ 72, 101, 108, 108, 111, 44, 32, 87, 111, 114, 108, 100, 33 ] -> int;
+    
+    print_str(hw)
+}
+
 
 ```
 
@@ -30,7 +42,6 @@ func main() -> int {
 
 Hello World in [Never](https://sampleprograms.io/languages/never) was written by:
 
-- rzuckerm
 - smaludzi
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).

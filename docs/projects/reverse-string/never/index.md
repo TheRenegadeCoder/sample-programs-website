@@ -1,10 +1,9 @@
 ---
 authors:
-- rzuckerm
 - smaludzi
 date: 2018-09-20
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2023-08-22
+last-modified: 2018-09-20
 layout: default
 tags:
 - never
@@ -19,18 +18,36 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 {% raw %}
 
 ```never
-func reverse(s: string) -> string
+
+func print_str(hw[L] -> int) -> int
 {
-    let n = length(s);
-    (n > 0) ? s[n - 1 .. 0] : ""
+    func __print(hw[L] -> int, i -> int) -> int
+    {
+        i < L ? { print(hw[i]); __print(hw, i + 1) } : 0
+    }
+    __print(hw, 0)
 }
 
-func main(argv[argc]: string) -> int
+func reverse(hw[L] -> int) -> [_] -> int
 {
-    let s = (argc > 1) ? argv[1] : "";
-    prints(reverse(s) + "\n");
-    0
+    let rev = {[ L ]} -> int;
+    
+    func __reverse(hw[L1] -> int, rev[L2] -> int, i -> int) -> int
+    {
+        i < L1 ? { rev[L2 - i - 1] = hw[i]; __reverse(hw, rev, i + 1) } : 0 
+    }
+    __reverse(hw, rev, 0);
+
+    rev
 }
+
+func main() -> int
+{
+    let hw = [ 72, 101, 108, 108, 111, 44, 32, 87, 111, 114, 108, 100, 33 ] -> int;
+    
+    print_str(reverse(hw))
+}
+
 
 ```
 
@@ -38,7 +55,6 @@ func main(argv[argc]: string) -> int
 
 Reverse String in [Never](https://sampleprograms.io/languages/never) was written by:
 
-- rzuckerm
 - smaludzi
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).

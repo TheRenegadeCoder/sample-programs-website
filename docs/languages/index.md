@@ -184,7 +184,7 @@ The 'M' collection contains 7 languages, of which 2 are tested, and 54 code snip
 
 ### N
 
-The 'N' collection contains 4 languages, of which 3 are tested, and 7 code snippets.
+The 'N' collection contains 4 languages, of which 2 are tested, and 7 code snippets.
 
 - [Never](https://sampleprograms.io/languages/never)
 - [Nice](https://sampleprograms.io/languages/nice)
@@ -193,7 +193,7 @@ The 'N' collection contains 4 languages, of which 3 are tested, and 7 code snipp
 
 ### O
 
-The 'O' collection contains 7 languages, of which 3 are tested, and 16 code snippets.
+The 'O' collection contains 7 languages, of which 4 are tested, and 16 code snippets.
 
 - [Objective C](https://sampleprograms.io/languages/objective-c)
 - [Ocaml](https://sampleprograms.io/languages/ocaml)
@@ -233,7 +233,7 @@ The 'Q' collection contains 1 language, of which 0 are tested, and 2 code snippe
 
 ### R
 
-The 'R' collection contains 8 languages, of which 7 are tested, and 65 code snippets.
+The 'R' collection contains 8 languages, of which 6 are tested, and 65 code snippets.
 
 - [R](https://sampleprograms.io/languages/r)
 - [Racket](https://sampleprograms.io/languages/racket)
@@ -261,7 +261,7 @@ The 'S' collection contains 10 languages, of which 4 are tested, and 29 code sni
 
 ### T
 
-The 'T' collection contains 5 languages, of which 2 are tested, and 11 code snippets.
+The 'T' collection contains 5 languages, of which 3 are tested, and 11 code snippets.
 
 - [Tcl](https://sampleprograms.io/languages/tcl)
 - [Terra](https://sampleprograms.io/languages/terra)
