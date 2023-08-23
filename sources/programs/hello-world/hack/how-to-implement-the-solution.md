@@ -16,7 +16,7 @@ function.
 
 Next, the `main` function is defined. For this sample program,
 there are no command-line arguments to process, so no arguments are
-needed. The function does not returned anything, so the return type
+needed. The function does not return anything, so the return type
 is `void`.
 
 Finally, there is the `echo` statement, which is exactly the same
