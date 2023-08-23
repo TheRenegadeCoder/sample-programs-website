@@ -4,7 +4,7 @@ authors:
 - rzuckerm
 date: 2019-05-07
 featured-image: hello-world-in-hack.jpg
-last-modified: 2023-08-14
+last-modified: 2023-08-23
 layout: default
 tags:
 - hack
@@ -43,28 +43,42 @@ If you see anything you'd like to change or update, [please consider contributin
 
 At long last, let's take a stab at Hello World in Hack.
 
-Right away, you should scream "that looks a lot like PHP!" 
-After all, Hack is just a dialect of PHP.
+Although Hack is derived from PHP, this code looks quite
+different than PHP. The first thing you'll notice is this:
 
-That said, there is at least one obvious syntactic difference: 
-the Hack tag. I can't seem to figure out the formal name of 
-the `<?hh` tag, so I've been calling it the Hack tag. At any 
-rate, at least that's different.
+```hack
+<<__EntryPoint>>
+```
 
-Beyond the tag, Hello World in Hack is exactly the same in Hello 
-World in PHP. However, I will point out that you can't mix HTML 
-with Hack like you can with PHP, so that's probably the biggest 
-syntactic difference. Otherwise, both languages perform a similar 
+The `<<...>>` is how Hack defines an attribute. The
+[`__EntryPoint` attribute][1] defines a top-level function
+where execution is started. That function is `main`, but it
+does not have to be called `main`. Any function with the
+`__EntryPoint` attribute will be considered the top-level
+function.
+
+Next, the `main` function is defined. For this sample program,
+there are no command-line arguments to process, so no arguments are
+needed. The function does not return anything, so the return type
+is `void`.
+
+Finally, there is the `echo` statement, which is exactly the same
+as Hello World in PHP. However, I will point out that you can't mix
+HTML with Hack like you can with PHP, so that's one of the biggest 
+syntactic differences. Otherwise, both languages perform a similar 
 function: backend web development.
+
+[1]: https://docs.hhvm.com/hack/attributes/predefined-attributes#__entrypoint
 
 
 ## How to Run the Solution
 
-If we want to try this code, we can use an [online Hack compiler][1].
+If we want to try this code, we can use an [online Hack compiler][2].
 
 Alternatively, we can download the Hack Virtual Machine to run
-Hack code locally. From there, I recommend reading up on how to
-get started with Hack. Getting everything up and running is bit
-out of scope of this article.
+Hack code locally. From there, I recommend reading up on
+[how to get started with Hack][3]. Getting everything up and running is
+bit out of scope of this article.
 
-[1]: https://www.jdoodle.com/execute-hack-online/
+[2]: https://www.jdoodle.com/execute-hack-online/
+[3]: https://docs.hhvm.com/hack/getting-started/getting-started
