@@ -33,7 +33,7 @@ remaining arguments are the arguments to pass to the user-defined function.
 
 ### Built-In Numeric Functions
 
-GNU has a few function that deal with numbers:
+GNU has a few functions that deal with numbers:
 
 * [words][4]
 * [wordlist][5]
