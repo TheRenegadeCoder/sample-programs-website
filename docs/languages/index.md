@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2023-08-22
+last-modified: 2023-08-23
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 169 languages, of which 96 are tested, and 781 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 169 languages, of which 101 are tested, and 781 code snippets.
 
 ## Language Collections by Letter
 
@@ -184,7 +184,7 @@ The 'M' collection contains 7 languages, of which 2 are tested, and 54 code snip
 
 ### N
 
-The 'N' collection contains 4 languages, of which 2 are tested, and 7 code snippets.
+The 'N' collection contains 4 languages, of which 3 are tested, and 7 code snippets.
 
 - [Never](https://sampleprograms.io/languages/never)
 - [Nice](https://sampleprograms.io/languages/nice)
@@ -205,7 +205,7 @@ The 'O' collection contains 7 languages, of which 4 are tested, and 16 code snip
 
 ### P
 
-The 'P' collection contains 17 languages, of which 12 are tested, and 116 code snippets.
+The 'P' collection contains 17 languages, of which 13 are tested, and 116 code snippets.
 
 - [P](https://sampleprograms.io/languages/p)
 - [P4](https://sampleprograms.io/languages/p4)
@@ -233,7 +233,7 @@ The 'Q' collection contains 1 language, of which 0 are tested, and 2 code snippe
 
 ### R
 
-The 'R' collection contains 8 languages, of which 6 are tested, and 65 code snippets.
+The 'R' collection contains 8 languages, of which 7 are tested, and 65 code snippets.
 
 - [R](https://sampleprograms.io/languages/r)
 - [Racket](https://sampleprograms.io/languages/racket)
@@ -246,7 +246,7 @@ The 'R' collection contains 8 languages, of which 6 are tested, and 65 code snip
 
 ### S
 
-The 'S' collection contains 10 languages, of which 4 are tested, and 29 code snippets.
+The 'S' collection contains 10 languages, of which 5 are tested, and 29 code snippets.
 
 - [Sather](https://sampleprograms.io/languages/sather)
 - [Scala](https://sampleprograms.io/languages/scala)
@@ -302,6 +302,6 @@ The 'Y' collection contains 1 language, of which 1 is tested, and 1 code snippet
 
 ### Z
 
-The 'Z' collection contains 1 language, of which 0 are tested, and 1 code snippets.
+The 'Z' collection contains 1 language, of which 1 is tested, and 1 code snippets.
 
 - [Zig](https://sampleprograms.io/languages/zig)

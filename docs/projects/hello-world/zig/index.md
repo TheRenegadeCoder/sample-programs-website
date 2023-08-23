@@ -1,9 +1,10 @@
 ---
 authors:
 - Palash Dubey
+- rzuckerm
 date: 2020-10-09
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2020-10-09
+last-modified: 2023-08-22
 layout: default
 tags:
 - hello-world
@@ -22,7 +23,7 @@ const std = @import("std");
 
 pub fn main() !void {
     const stdout = std.io.getStdOut().writer();
-    try stdout.print("Hello, {}!\n", .{"world"});
+    try stdout.writeAll("Hello, World!\n");
 }
 
 ```
@@ -32,6 +33,7 @@ pub fn main() !void {
 Hello World in [Zig](https://sampleprograms.io/languages/zig) was written by:
 
 - Palash Dubey
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
