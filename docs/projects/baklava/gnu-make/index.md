@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-07-13
 featured-image: baklava-in-every-language.jpg
-last-modified: 2023-07-25
+last-modified: 2023-08-23
 layout: default
 tags:
 - baklava
@@ -102,6 +102,10 @@ Baklava in [Gnu Make](https://sampleprograms.io/languages/gnu-make) was written 
 
 - rzuckerm
 
+This article was written by:
+
+- rzuckerm
+
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
 ## How to Implement the Solution
@@ -110,4 +114,20 @@ No 'How to Implement the Solution' section available. [Please consider contribut
 
 ## How to Run the Solution
 
-No 'How to Run the Solution' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
+To run this program, download and install the latest GNU Make using these
+instructions:
+
+* [Windows][12]
+* For [Linux][13], see "How to Download" section
+* [Mac][14]
+
+Download a copy of [Baklava in GNU Make][15], and run this command:
+
+```
+make -sf baklava.mk
+```
+
+[12]: https://leangaurav.medium.com/how-to-setup-install-gnu-make-on-windows-324480f1da69
+[13]: https://www.incredibuild.com/integrations/gnu-make
+[14]: https://formulae.brew.sh/formula/make
+[15]: https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/g/gnu-make/baklava.mk
