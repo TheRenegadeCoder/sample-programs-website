@@ -430,7 +430,7 @@ of the lower triangle, `LOWER_BAKLAVA_LOOP` is called list this:
 $(call LOWER_BAKLAVA_LOOP,$(ONE),$(call DEC,$(call ADD,$(TEN),$(TEN))))
 ```
 
-That's all there to it!
+That's all there is to it!
 
 [1]: https://github.com/jgrahamc/gmsl
 [2]: https://www.gnu.org/software/make/manual/html_node/Reading-Makefiles.html
