@@ -290,35 +290,27 @@ infinite loop.
 
 ### Conclusion
 
-Programming in Unicat was really challenging. Although the instructions are
-easy enough to understand, I had to translate them into cat emojis that look
-very similar in the code editor. Fortunally, the code editor has zoom in
-capability so that I could see the emojis better. Then, when I ran the program,
-it will usually hang since I translated the instructions incorrecly. I would
-usually just take the Unicat source code and modify it to add breakpoints in
-key locations. Then, I would run my program and examine key things:
+Programming in Unicat is really challenging. It feels more like programming
+in machine language without the benefit of an assembler. Instead of
+translating instructions into hexadecimal, you have to translate them into cat
+emojis, some of which look very similar. If your editor has zoom capability,
+I highly recommend using that.
 
-* What instructions did my emojis turn into?
-* What does the memory look like through each instruction?
-* For programs with jumps, where is it jumping to?
+When you run your program, there is a good chance it will lock up. Here are
+some of the reasons why (other than the obvious logic error):
 
-Eventually, I would get my program working, but it would usually take me hours
-of this type of debugging to get it right. Quite frankly, the mysterious
-1337 value and going into an infinite loop are the most frustrating aspects of
-this language. If it were up to me, an exception would be raised instead
-with some type of information that would make it easier to debug, but I wanted
-to remain true to the original implementation.
+* You did not translate the instructions into the right emojis.
+* You forgot to terminate a number with the right emojis.
+* You forgot to add a `diepgrm` instruction.
+* Your jump instructions are not going to the right place.
 
-By the way, I got tired of using python 2 and ported Unicat to python 3. The
-code is available on [pypi][9], and the source code is available on
-[GitHub][10]. It has some limited debugging capability which uses the python
-debugger to do the heavy lifting.
+By the way, I got tired of using python 2 and ported Unicat to python 3. I
+also fixed a couple of bugs in the original python 2 implementation. The code
+is available on [pypi][9], and the source code is available on [GitHub][10].
+It has some limited debugging capability which uses the python debugger to do
+the heavy lifting.
 
-At the time of this writing, the documentation was quite thin. I intend to
-address that once this article is published. This article will serve as the
-language documentation.
-
-In this meantime, happy coding <span class="cat">😸</span>!
+In the meantime, happy coding <span class="cat">😸</span>!
 
 [1]: https://en.wikipedia.org/wiki/Esoteric_programming_language
 [2]: https://github.com/gemdude46/unicat
