@@ -1,7 +1,7 @@
 ---
 date: 2018-07-27
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2023-08-12
+last-modified: 2023-08-28
 layout: default
 tags:
 - fizz-buzz
@@ -109,6 +109,7 @@ Verify that the actual output matches the expected output
 - [Fizz Buzz in Swift](https://sampleprograms.io/projects/fizz-buzz/swift)
 - [Fizz Buzz in Tex](https://sampleprograms.io/projects/fizz-buzz/tex)
 - [Fizz Buzz in Typescript](https://sampleprograms.io/projects/fizz-buzz/typescript)
+- [Fizz Buzz in Unicat](https://sampleprograms.io/projects/fizz-buzz/unicat)
 - [Fizz Buzz in Vimscript](https://sampleprograms.io/projects/fizz-buzz/vimscript)
 - [Fizz Buzz in Visual Basic](https://sampleprograms.io/projects/fizz-buzz/visual-basic)
 - [Fizz Buzz in X86 64](https://sampleprograms.io/projects/fizz-buzz/x86-64)
