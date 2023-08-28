@@ -1,7 +1,7 @@
 ---
 date: 2018-04-12
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2023-08-23
+last-modified: 2023-08-28
 layout: default
 tags:
 - reverse-string
@@ -100,6 +100,7 @@ In this section, we specify the set of tests specific to Reverse String.
 - [Reverse String in Solisp](https://sampleprograms.io/projects/reverse-string/solisp)
 - [Reverse String in Swift](https://sampleprograms.io/projects/reverse-string/swift)
 - [Reverse String in Typescript](https://sampleprograms.io/projects/reverse-string/typescript)
+- [Reverse String in Unicat](https://sampleprograms.io/projects/reverse-string/unicat)
 - [Reverse String in Vimscript](https://sampleprograms.io/projects/reverse-string/vimscript)
 - [Reverse String in Visual Basic](https://sampleprograms.io/projects/reverse-string/visual-basic)
 
