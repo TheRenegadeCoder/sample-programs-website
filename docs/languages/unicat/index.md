@@ -16,6 +16,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+- [Baklava in Unicat](https://sampleprograms.io/projects/baklava/unicat)
 - [Fizz Buzz in Unicat](https://sampleprograms.io/projects/fizz-buzz/unicat)
 - [Hello World in Unicat](https://sampleprograms.io/projects/hello-world/unicat)
 - [Reverse String in Unicat](https://sampleprograms.io/projects/reverse-string/unicat)
