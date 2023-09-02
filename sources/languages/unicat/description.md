@@ -114,7 +114,7 @@ If an invalid instruction is detected, the program will just jump back to the
 beginning, creating an infinite loop. This also happens if there are no more
 instructions to process.
 
-The subsequent section description each of the instructions and their
+The subsequent sections describe each of the instructions and their
 corresponding arguments.
 
 #### `asgnlit`
@@ -143,8 +143,8 @@ as 21 (`0o25`):
 
 #### `jumpif>`
 
-The `jumpif>` instruction compares a value of a memory address to 0. If it is
-greater than zero, then the instruction address is changed to the specified
+The `jumpif>` instruction compares a value of a memory address to zero. If it
+is greater than zero, then the instruction address is changed to the specified
 value. Otherwise, the instruction address goes to the next address. This acts
 like a conditional jump. It takes two arguments:
 
@@ -238,20 +238,20 @@ null-terminate the line. It takes a single argument:
 
 * `MEMADDR` - The starting memory address to store the input line
 
-For example, let's store the input line to memory address 10 (`0o10`):
+For example, let's store the input line to memory address 8 (`0o10`):
 
 <span class="cat">😺😼 😹😸🙀🙀</span> (`"24 1088"`)
 
 If the input line is `"Hello"` followed by a newline (`"\n"`). This is the
 result:
 
-* Memory address 10 = `"H"` (72)
-* Memory address 11 = `"e"` (101)
-* Memory address 12 = `"l"` (108)
-* Memory address 13 = `"l"` (108)
-* Memory address 14 = `"o"` (111)
-* Memory address 15 = `"\n"` (10)
-* Memory address 16 = `"\0"` (0)
+* Memory address 8  = `"H"` (72)
+* Memory address 9  = `"e"` (101)
+* Memory address 10 = `"l"` (108)
+* Memory address 11 = `"l"` (108)
+* Memory address 12 = `"o"` (111)
+* Memory address 13 = `"\n"` (10)
+* Memory address 14 = `"\0"` (0)
 
 where `"\0"` is called the NUL character, which is used in other languages
 like C to indicate the end of a string value.
@@ -275,12 +275,12 @@ It performs the following operation depending upon the mnemonic:
 For example, let's set the value of memory address 9 (`0o11`) to 55 and the
 value of memory address 7 (`0o7`) is 10:
 
-| Mnemonic  | Emojis                                           | Byte Code       | Result                                     |
-| --------  | ------------------------------------------------ | --------------- | -------------------------------------------|
-| `applop+` | <span class="cat">😿🙀😸 😹😹🙀🙀 😿🙀🙀</span> | `"780 1188 788"` | Memory address 9 value is `55 + 10 = 65`  |
-| `applop-` | <span class="cat">😿🙀😸 😹😹🙀🙀 😿🙀🙀</span> | `"782 1188 788"` | Memory address 9 value is `55 - 10 = 45`  |
-| `applop-` | <span class="cat">😿🙀🙀 😹😹🙀🙀 😿🙀🙀</span> | `"788 1188 788"` | Memory address 9 value is `55 * 10 = 550` |
-| `applop-` | <span class="cat">😿🙀😿 😹😹🙀🙀 😿🙀🙀</span> | `"787 1188 788"` | Memory address 9 value is `55 / 10 = 5`   |
+| Mnemonic  | Emojis                                           | Byte Code       | Result                                         |
+| --------  | ------------------------------------------------ | --------------- | ---------------------------------------------- |
+| `applop+` | <span class="cat">😿🙀😸 😹😹🙀🙀 😿🙀🙀</span> | `"780 1188 788"` | Memory address 9 value is `55 + 10 = 65`       |
+| `applop-` | <span class="cat">😿🙀😸 😹😹🙀🙀 😿🙀🙀</span> | `"782 1188 788"` | Memory address 9 value is `55 - 10 = 45`       |
+| `applop-` | <span class="cat">😿🙀🙀 😹😹🙀🙀 😿🙀🙀</span> | `"788 1188 788"` | Memory address 9 value is `55 * 10 = 550`      |
+| `applop-` | <span class="cat">😿🙀😿 😹😹🙀🙀 😿🙀🙀</span> | `"787 1188 788"` | Memory address 9 value is `floor(55 / 10) = 5` |
 
 ### `diepgrm`
 
