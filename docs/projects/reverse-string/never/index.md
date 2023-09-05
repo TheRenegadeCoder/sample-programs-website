@@ -1,10 +1,11 @@
 ---
 authors:
 - Ron Zuckerman
+- rzuckerm
 - smaludzi
 date: 2018-09-20
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2023-08-23
+last-modified: 2023-09-05
 layout: default
 tags:
 - never
@@ -27,7 +28,7 @@ func reverse(s: string) -> string
 
 func main(argv[argc]: string) -> int
 {
-    let s = (argc > 1) ? argv[1] : "";
+    let s = (argc > 0) ? argv[0] : "";
     prints(reverse(s) + "\n");
     0
 }
@@ -39,6 +40,7 @@ func main(argv[argc]: string) -> int
 Reverse String in [Never](https://sampleprograms.io/languages/never) was written by:
 
 - Ron Zuckerman
+- rzuckerm
 - smaludzi
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
