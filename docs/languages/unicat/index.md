@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-08-23
 featured-image: programming-languages.jpg
-last-modified: 2023-09-02
+last-modified: 2023-09-09
 layout: default
 tags:
 - unicat
@@ -31,7 +31,7 @@ since it is entirely composed of cat emojis! But seriously, this is an
 [esoteric language][1], so it is designed to be challenging and difficult
 to do anything useful.
 
-The Unicat language was created by [gemdud64][2]. Sadly, there was no
+The Unicat language was created by [gemdude46][2]. Sadly, there was no
 documentation that described how to use it. In order to learn this language,
 I had to [study the code][3]. It is written in python2, which went
 [End-of-Life on January 1, 2020][4]. Fortunately, I had a python2.7
