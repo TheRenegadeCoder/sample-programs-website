@@ -1,7 +1,7 @@
 ---
 date: 2018-07-27
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2023-08-28
+last-modified: 2023-09-13
 layout: default
 tags:
 - fizz-buzz
@@ -74,6 +74,7 @@ Verify that the actual output matches the expected output
 - [Fizz Buzz in C++](https://sampleprograms.io/projects/fizz-buzz/c-plus-plus)
 - [Fizz Buzz in Clojure](https://sampleprograms.io/projects/fizz-buzz/clojure)
 - [Fizz Buzz in Coffeescript](https://sampleprograms.io/projects/fizz-buzz/coffeescript)
+- [Fizz Buzz in Commodore Basic](https://sampleprograms.io/projects/fizz-buzz/commodore-basic)
 - [Fizz Buzz in Crystal](https://sampleprograms.io/projects/fizz-buzz/crystal)
 - [Fizz Buzz in Dart](https://sampleprograms.io/projects/fizz-buzz/dart)
 - [Fizz Buzz in Dg](https://sampleprograms.io/projects/fizz-buzz/dg)
