@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2023-08-23
+last-modified: 2023-09-16
 layout: default
 tags:
 - hello-world
@@ -66,6 +66,7 @@ Verify that the actual output matches the expected output
 - [Hello World in Clojure](https://sampleprograms.io/projects/hello-world/clojure)
 - [Hello World in Cobol](https://sampleprograms.io/projects/hello-world/cobol)
 - [Hello World in Coffeescript](https://sampleprograms.io/projects/hello-world/coffeescript)
+- [Hello World in Commodore Basic](https://sampleprograms.io/projects/hello-world/commodore-basic)
 - [Hello World in Crystal](https://sampleprograms.io/projects/hello-world/crystal)
 - [Hello World in Cyclone](https://sampleprograms.io/projects/hello-world/cyclone)
 - [Hello World in D](https://sampleprograms.io/projects/hello-world/d)
