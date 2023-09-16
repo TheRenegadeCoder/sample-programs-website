@@ -18,7 +18,9 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 - [Baklava in Commodore Basic](https://sampleprograms.io/projects/baklava/commodore-basic)
 - [Factorial in Commodore Basic](https://sampleprograms.io/projects/factorial/commodore-basic)
+- [Fibonacci in Commodore Basic](https://sampleprograms.io/projects/fibonacci/commodore-basic)
 - [File Input Output in Commodore Basic](https://sampleprograms.io/projects/file-input-output/commodore-basic)
 - [Fizz Buzz in Commodore Basic](https://sampleprograms.io/projects/fizz-buzz/commodore-basic)
 - [Hello World in Commodore Basic](https://sampleprograms.io/projects/hello-world/commodore-basic)
+- [Josephus Problem in Commodore Basic](https://sampleprograms.io/projects/josephus-problem/commodore-basic)
 - [Quine in Commodore Basic](https://sampleprograms.io/projects/quine/commodore-basic)

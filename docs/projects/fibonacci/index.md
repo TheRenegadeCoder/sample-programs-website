@@ -1,7 +1,7 @@
 ---
 date: 2018-10-02
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2023-07-25
+last-modified: 2023-09-16
 layout: default
 tags:
 - fibonacci
@@ -83,6 +83,7 @@ Usage: please input the count of fibonacci numbers to output
 - [Fibonacci in C](https://sampleprograms.io/projects/fibonacci/c)
 - [Fibonacci in C#](https://sampleprograms.io/projects/fibonacci/c-sharp)
 - [Fibonacci in C++](https://sampleprograms.io/projects/fibonacci/c-plus-plus)
+- [Fibonacci in Commodore Basic](https://sampleprograms.io/projects/fibonacci/commodore-basic)
 - [Fibonacci in Dart](https://sampleprograms.io/projects/fibonacci/dart)
 - [Fibonacci in Euphoria](https://sampleprograms.io/projects/fibonacci/euphoria)
 - [Fibonacci in Go](https://sampleprograms.io/projects/fibonacci/go)
