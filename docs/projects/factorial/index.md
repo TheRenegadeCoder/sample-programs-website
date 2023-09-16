@@ -1,7 +1,7 @@
 ---
 date: 2018-10-26
 featured-image: factorial-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2023-09-16
 layout: default
 tags:
 - factorial
@@ -79,6 +79,7 @@ Usage: please input a non-negative integer
 - [Factorial in C++](https://sampleprograms.io/projects/factorial/c-plus-plus)
 - [Factorial in Cobol](https://sampleprograms.io/projects/factorial/cobol)
 - [Factorial in Coffeescript](https://sampleprograms.io/projects/factorial/coffeescript)
+- [Factorial in Commodore Basic](https://sampleprograms.io/projects/factorial/commodore-basic)
 - [Factorial in D](https://sampleprograms.io/projects/factorial/d)
 - [Factorial in Elixir](https://sampleprograms.io/projects/factorial/elixir)
 - [Factorial in Erlang](https://sampleprograms.io/projects/factorial/erlang)
