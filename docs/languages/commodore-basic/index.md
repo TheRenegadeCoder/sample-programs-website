@@ -17,5 +17,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 ## Articles
 
 - [Baklava in Commodore Basic](https://sampleprograms.io/projects/baklava/commodore-basic)
+- [File Input Output in Commodore Basic](https://sampleprograms.io/projects/file-input-output/commodore-basic)
 - [Fizz Buzz in Commodore Basic](https://sampleprograms.io/projects/fizz-buzz/commodore-basic)
 - [Hello World in Commodore Basic](https://sampleprograms.io/projects/hello-world/commodore-basic)
