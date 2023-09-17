@@ -1,7 +1,7 @@
 ---
 date: 2018-10-21
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2023-09-16
 layout: default
 tags:
 - even-odd
@@ -74,6 +74,7 @@ Usage: please input a number
 - [Even Odd in C++](https://sampleprograms.io/projects/even-odd/c-plus-plus)
 - [Even Odd in Cobol](https://sampleprograms.io/projects/even-odd/cobol)
 - [Even Odd in Coffeescript](https://sampleprograms.io/projects/even-odd/coffeescript)
+- [Even Odd in Commodore Basic](https://sampleprograms.io/projects/even-odd/commodore-basic)
 - [Even Odd in Dart](https://sampleprograms.io/projects/even-odd/dart)
 - [Even Odd in Elixir](https://sampleprograms.io/projects/even-odd/elixir)
 - [Even Odd in Euphoria](https://sampleprograms.io/projects/even-odd/euphoria)

@@ -17,6 +17,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 ## Articles
 
 - [Baklava in Commodore Basic](https://sampleprograms.io/projects/baklava/commodore-basic)
+- [Even Odd in Commodore Basic](https://sampleprograms.io/projects/even-odd/commodore-basic)
 - [Factorial in Commodore Basic](https://sampleprograms.io/projects/factorial/commodore-basic)
 - [Fibonacci in Commodore Basic](https://sampleprograms.io/projects/fibonacci/commodore-basic)
 - [File Input Output in Commodore Basic](https://sampleprograms.io/projects/file-input-output/commodore-basic)
