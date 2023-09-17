@@ -1,7 +1,7 @@
 ---
 date: 2023-09-13
 featured-image: programming-languages.jpg
-last-modified: 2023-09-16
+last-modified: 2023-09-17
 layout: default
 tags:
 - commodore-basic
@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Hello World in Commodore Basic](https://sampleprograms.io/projects/hello-world/commodore-basic)
 - [Josephus Problem in Commodore Basic](https://sampleprograms.io/projects/josephus-problem/commodore-basic)
 - [Longest Word in Commodore Basic](https://sampleprograms.io/projects/longest-word/commodore-basic)
+- [Palindromic Number in Commodore Basic](https://sampleprograms.io/projects/palindromic-number/commodore-basic)
 - [Prime Number in Commodore Basic](https://sampleprograms.io/projects/prime-number/commodore-basic)
 - [Quine in Commodore Basic](https://sampleprograms.io/projects/quine/commodore-basic)
 - [Reverse String in Commodore Basic](https://sampleprograms.io/projects/reverse-string/commodore-basic)
+- [Rot13 in Commodore Basic](https://sampleprograms.io/projects/rot13/commodore-basic)
