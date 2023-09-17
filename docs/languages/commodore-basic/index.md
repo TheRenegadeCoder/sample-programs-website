@@ -29,5 +29,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Palindromic Number in Commodore Basic](https://sampleprograms.io/projects/palindromic-number/commodore-basic)
 - [Prime Number in Commodore Basic](https://sampleprograms.io/projects/prime-number/commodore-basic)
 - [Quine in Commodore Basic](https://sampleprograms.io/projects/quine/commodore-basic)
+- [Remove All Whitespace in Commodore Basic](https://sampleprograms.io/projects/remove-all-whitespace/commodore-basic)
 - [Reverse String in Commodore Basic](https://sampleprograms.io/projects/reverse-string/commodore-basic)
 - [Rot13 in Commodore Basic](https://sampleprograms.io/projects/rot13/commodore-basic)
