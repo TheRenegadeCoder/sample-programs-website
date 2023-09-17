@@ -1,7 +1,7 @@
 ---
 date: 2019-03-31
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2023-07-25
+last-modified: 2023-09-17
 layout: default
 tags:
 - capitalize
@@ -84,6 +84,7 @@ Usage: please provide a string
 - [Capitalize in C#](https://sampleprograms.io/projects/capitalize/c-sharp)
 - [Capitalize in C++](https://sampleprograms.io/projects/capitalize/c-plus-plus)
 - [Capitalize in Clojure](https://sampleprograms.io/projects/capitalize/clojure)
+- [Capitalize in Commodore Basic](https://sampleprograms.io/projects/capitalize/commodore-basic)
 - [Capitalize in Dart](https://sampleprograms.io/projects/capitalize/dart)
 - [Capitalize in Elixir](https://sampleprograms.io/projects/capitalize/elixir)
 - [Capitalize in Euphoria](https://sampleprograms.io/projects/capitalize/euphoria)

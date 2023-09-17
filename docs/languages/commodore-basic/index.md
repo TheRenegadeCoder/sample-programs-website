@@ -17,6 +17,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 ## Articles
 
 - [Baklava in Commodore Basic](https://sampleprograms.io/projects/baklava/commodore-basic)
+- [Capitalize in Commodore Basic](https://sampleprograms.io/projects/capitalize/commodore-basic)
 - [Duplicate Character Counter in Commodore Basic](https://sampleprograms.io/projects/duplicate-character-counter/commodore-basic)
 - [Even Odd in Commodore Basic](https://sampleprograms.io/projects/even-odd/commodore-basic)
 - [Factorial in Commodore Basic](https://sampleprograms.io/projects/factorial/commodore-basic)
