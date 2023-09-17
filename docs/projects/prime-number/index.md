@@ -1,7 +1,7 @@
 ---
 date: 2018-11-16
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2023-07-25
+last-modified: 2023-09-16
 layout: default
 tags:
 - prime-number
@@ -78,6 +78,7 @@ Usage: please input a non-negative integer
 - [Prime Number in C#](https://sampleprograms.io/projects/prime-number/c-sharp)
 - [Prime Number in C++](https://sampleprograms.io/projects/prime-number/c-plus-plus)
 - [Prime Number in Cobol](https://sampleprograms.io/projects/prime-number/cobol)
+- [Prime Number in Commodore Basic](https://sampleprograms.io/projects/prime-number/commodore-basic)
 - [Prime Number in Euphoria](https://sampleprograms.io/projects/prime-number/euphoria)
 - [Prime Number in Fortran](https://sampleprograms.io/projects/prime-number/fortran)
 - [Prime Number in Gnu Make](https://sampleprograms.io/projects/prime-number/gnu-make)

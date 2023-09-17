@@ -23,4 +23,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Fizz Buzz in Commodore Basic](https://sampleprograms.io/projects/fizz-buzz/commodore-basic)
 - [Hello World in Commodore Basic](https://sampleprograms.io/projects/hello-world/commodore-basic)
 - [Josephus Problem in Commodore Basic](https://sampleprograms.io/projects/josephus-problem/commodore-basic)
+- [Prime Number in Commodore Basic](https://sampleprograms.io/projects/prime-number/commodore-basic)
 - [Quine in Commodore Basic](https://sampleprograms.io/projects/quine/commodore-basic)
