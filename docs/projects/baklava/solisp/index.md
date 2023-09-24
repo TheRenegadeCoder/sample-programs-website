@@ -1,9 +1,10 @@
 ---
 authors:
+- rzuckerm
 - Stuart Irwin
 date: 2020-03-01
 featured-image: baklava-in-every-language.jpg
-last-modified: 2020-03-01
+last-modified: 2023-09-24
 layout: default
 tags:
 - baklava
@@ -18,18 +19,19 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Solisp]
 {% raw %}
 
 ```solisp
-(Join (Map x (Append (Seq 0 10) (Reverse (Seq 0 9)))
-	(Join (Append
+(JoinD newline (Map x (Append (Seq 0 10) (Reverse (Seq 0 9)))
+	(Append
 		(Clone (- 10 x) " ")
-		(Clone (+ (* x 2) 1) "#")
-	))
-) "\n")
+		(Clone (+ (* x 2) 1) (Force Char 42))
+    )
+))
 ```
 
 {% endraw %}
 
 Baklava in [Solisp](https://sampleprograms.io/languages/solisp) was written by:
 
+- rzuckerm
 - Stuart Irwin
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).

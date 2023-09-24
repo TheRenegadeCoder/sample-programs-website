@@ -98,7 +98,6 @@ In this section, we specify the set of tests specific to Reverse String.
 - [Reverse String in Rust](https://sampleprograms.io/projects/reverse-string/rust)
 - [Reverse String in Scala](https://sampleprograms.io/projects/reverse-string/scala)
 - [Reverse String in Scheme](https://sampleprograms.io/projects/reverse-string/scheme)
-- [Reverse String in Solisp](https://sampleprograms.io/projects/reverse-string/solisp)
 - [Reverse String in Swift](https://sampleprograms.io/projects/reverse-string/swift)
 - [Reverse String in Typescript](https://sampleprograms.io/projects/reverse-string/typescript)
 - [Reverse String in Unicat](https://sampleprograms.io/projects/reverse-string/unicat)

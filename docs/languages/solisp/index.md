@@ -1,7 +1,7 @@
 ---
 date: 2020-02-25
 featured-image: programming-languages.jpg
-last-modified: 2020-03-23
+last-modified: 2023-09-24
 layout: default
 tags:
 - solisp
@@ -19,4 +19,3 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Baklava in Solisp](https://sampleprograms.io/projects/baklava/solisp)
 - [Fizz Buzz in Solisp](https://sampleprograms.io/projects/fizz-buzz/solisp)
 - [Hello World in Solisp](https://sampleprograms.io/projects/hello-world/solisp)
-- [Reverse String in Solisp](https://sampleprograms.io/projects/reverse-string/solisp)
