@@ -91,7 +91,7 @@ language. Therefore, it uses (gasp!) [GOTO][12] statements to unconditionally
 jump to another part of the program.
 
 The [IF][13] statement is used to execute a piece of code conditionally. It
-can also in conjunction with `GOTO` to jump to another part of the program.
+can also be used in conjunction with `GOTO` to jump to another part of the program.
 For example:
 
 ```basic
