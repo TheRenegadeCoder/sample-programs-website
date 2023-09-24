@@ -124,7 +124,7 @@ loop. For example, this displays even numbers from 10 down to 0:
 120 NEXT I
 ```
 
-Subroutines are supported via the [GOSUB][18] statement. This push the line
+Subroutines are supported via the [GOSUB][18] statement. This pushes the line
 number of the next instruction to be executed on to the stack and jumps to
 the specified line number. The [RETURN][19] statement is used to return
 control back to the caller. It pops the line number off the stack and jumps
