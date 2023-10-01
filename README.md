@@ -1,75 +1,46 @@
 # Sample Programs in Every Language Website
 
-[![Discord](https://img.shields.io/discord/612072397545275424)](https://discord.gg/Jhmtj7Z)  
+[![Build Status](https://github.com/TheRenegadeCoder/sample-programs-website/actions/workflows/main.yml/badge.svg)](https://github.com/TheRenegadeCoder/sample-programs-website/actions/workflows/main.yml)
+[![Discord](https://img.shields.io/discord/612072397545275424)](https://discord.gg/Jhmtj7Z)
 
-Welcome to the Sample Programs in Every Language Website repository. Here, the documentation
-for all the code snippets is maintained. 
+Welcome to the Sample Programs in Every Language Website repository, which is used to
+generate [sampleprograms.io][2]. Here, the documentation for all the code snippets is
+maintained for the [Sample Programs in Every Language][1] repository.
 
-If you'd like to contribute, you're welcome to make any additions or changes you like
-to the source files (see sources folder). These files are used to automatically
-generate the documentation.
+## Learn More
 
-See our list of issues to get started or create your own!
+To get up to speed quickly, check out the [Contributing Document][3]. Otherwise,
+here are some helpful links:
 
-[language-template]: https://github.com/TheRenegadeCoder/sample-programs-website/blob/master/templates/LANGUAGE_ARTICLE_TEMPLATE.md
-[project-template]: https://github.com/TheRenegadeCoder/sample-programs-website/blob/master/templates/PROJECT_ARTICLE_TEMPLATE.md
-[sample-program-template]: https://github.com/TheRenegadeCoder/sample-programs-website/blob/master/templates/CODE_ARTICLE_TEMPLATE.md
-[image-titler]: https://github.com/TheRenegadeCoder/image-titler
+- [Discord][4]: an invitation to our community discord
+- [Code of Conduct][5]: a copy of the Contributor Convenant
+- [License][6]: a copy of the Creative Commons license document
 
-## Building Website Locally
+## Support
 
-If you wish to build a local copy of the website, create a virtualenv, activate it, and install
-`requirements.txt`:
+Sample Programs in Every Language Website is a project run by myself, Jeremy Grifski, also
+known as [The Renegade Coder][7]. If you're looking to support The Renegade Coder, check out my
+[list of ways you can grow the site][8]. To summarize, here are a few links you can use to
+support this project:
 
-```console
-virtualenv -p python3 venv
-source venv/bin/activate
-pip install -r requirements.txt
-```
+- Subscribe to the The Renegade Coder
+  - [Patreon][9]
+  - [Newsletter][10]
+- [Support via PayPal][11]
+- [Turn off AdBlock When Using The Renegade Coder][12]
+- [Follow Me on Twitter][13]
+- [Join the Community on Discord][4]
 
-You should only need to do the above once. All other times, just activate the virtualenv with the
-`source` command.
-
-Now, run `generate.sh`. This will build the website, create a temporary web server, and open
-up the home webpage in your default browser at `http://localhost:8000/index.html`. When you are done,
-just press Ctrl+C to exit the web server.
-
-## Where to Put Images
-
-The top image in an article is called the "featured image", and it always has the name
-`featured-image.<extension>`, where `<extension>` is the filename extension (such as `jpg`,
-`png`, etc.). The images are modified by [image-titler][image-titler]. In general, all images
-go in the same directory as the rest of the article files:
-
-* Language article: `sources/languages/<language>`
-* Sample program article: `sources/programs/<language>/<project>`
-* Project article: `sources/projects/<project>`
-
-where:
-
-- `<project>` is the name of the project in lowercase, with spaces converted to dashes.
-  For example: `even-odd` for `Even Odd`
-- `<language>` is the name of the language in lowercase, with spaces converted to dashes,
-  and symbols like `+` converted to words. Examples:
-  - `c-plus-plus` for `C++`
-  - `c-sharp` for `C#`
-  - `google-apps-script` for `Google Apps Script`
-
-In the article, you can reference these like this:
-
-```markdown
-![Name of image](<image-directory>/<image-filename>)
-```
-
-where `<image-directory>` is the directory is one of the following, and `<image-filename>`
-is the filename of the image:
-
-* Language article: `/assets/images/languages/<language>`
-* Sample program article: `/assets/images/projects/<language>/<project>`
-* Project article: `/assets/images/projects/<project>`
-
-For example:
-
-```markdown
-![Annotated Baklava in Piet](/assets/images/projects/baklava/piet/baklava-annotated.png)
-```
+[1]: https://github.com/TheRenegadeCoder/sample-programs/
+[2]: https://sampleprograms.io/
+[3]: https://github.com/TheRenegadeCoder/sample-programs-website/blob/main/.github/CONTRIBUTING.md
+[4]: https://discord.gg/Jhmtj7Z
+[5]: https://github.com/TheRenegadeCoder/sample-programs-website/blob/main/.github/CODE_OF_CONDUCT.md
+[6]: https://github.com/TheRenegadeCoder/sample-programs-website/blob/main/LICENSE
+[7]: https://therenegadecoder.com/
+[8]: https://therenegadecoder.com/blog/ways-you-can-help-grow-the-renegade-coder/
+[9]: https://www.patreon.com/TheRenegadeCoder
+[10]: https://therenegadecoder.com/about/newsletter/
+[11]: https://www.paypal.me/therenegadecoder
+[12]: https://helpcenter.getadblock.com/hc/en-us/articles/9738549326995-Pausing-and-unpausing-AdBlock-using-a-keyboard-shortcut-or-context-menu-command
+[13]: https://twitter.com/RenegadeCoder94
