@@ -158,7 +158,7 @@ Images go into the same folder. These are optional. See [Images](#images) for de
 #### description.md (manditory)
 
 This file contains a description of a programming language. It should contain enough detail
-to give an overview of the language. It may contain snippets of code with explanation around
+to give an overview of the language. It may contain snippets of code with explanations around
 them. The code is enclosed in triple-backticks followed by the language name (use the same name as
 `<language>` shown above). For example, here is a description of a portion of code written in D:
 
@@ -266,7 +266,7 @@ where `<url>` is the website to the image. For example:
 
 ## Building Website Locally
 
-Prerequisite:
+Prerequisites:
 
 * [Python 3.8 or better][12]
 * [virtualenv python package][13]
