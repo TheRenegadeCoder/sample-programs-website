@@ -5,21 +5,18 @@ Here is the code:
 ```php
 
 <?php
-// Define a function to check if a number is even or odd
-function checkEvenOdd($number) {
-    if ($number % 2 == 0) {
-        echo "$number is even.";
-    } else {
-        echo "$number is odd.";
-    }
+
+if ($argc < 2 || !is_numeric($argv[1])) {
+    die("Usage: please input a number\n");
 }
 
-// Test the function with a number
-$number = 7; // You can change this number to test different values
+$input = abs($argv[1]);
 
-// Call the function to check if the number is even or odd
-checkEvenOdd($number);
-?>
+if ($input % 2 == 0) {
+    echo "Even\n";
+} elseif ($input % 2 == 1) {
+    echo "Odd\n";
+}
 
 ```
 
