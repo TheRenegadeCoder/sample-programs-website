@@ -1,7 +1,7 @@
 ---
 date: 2020-10-07
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2023-09-17
+last-modified: 2023-10-01
 layout: default
 tags:
 - palindromic-number
@@ -86,6 +86,7 @@ Usage: please input a non-negative integer
 - [Palindromic Number in Php](https://sampleprograms.io/projects/palindromic-number/php)
 - [Palindromic Number in Python](https://sampleprograms.io/projects/palindromic-number/python)
 - [Palindromic Number in Rust](https://sampleprograms.io/projects/palindromic-number/rust)
+- [Palindromic Number in Typescript](https://sampleprograms.io/projects/palindromic-number/typescript)
 
 ***
 
