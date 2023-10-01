@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-08
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2023-10-01
 layout: default
 tags:
 - perl
@@ -63,6 +63,7 @@ and preferably only one, obvious way to do it"
 - [Insertion Sort in Perl](https://sampleprograms.io/projects/insertion-sort/perl)
 - [Palindromic Number in Perl](https://sampleprograms.io/projects/palindromic-number/perl)
 - [Prime Number in Perl](https://sampleprograms.io/projects/prime-number/perl)
+- [Quick Sort in Perl](https://sampleprograms.io/projects/quick-sort/perl)
 - [Quine in Perl](https://sampleprograms.io/projects/quine/perl)
 - [Reverse String in Perl](https://sampleprograms.io/projects/reverse-string/perl)
 - [Rot13 in Perl](https://sampleprograms.io/projects/rot13/perl)
