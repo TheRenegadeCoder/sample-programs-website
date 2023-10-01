@@ -73,5 +73,3 @@ But, Python 2 is slowly losing support.
 - [Selection Sort in Python](https://sampleprograms.io/projects/selection-sort/python)
 - [Sleep Sort in Python](https://sampleprograms.io/projects/sleep-sort/python)
 - [Transpose Matrix in Python](https://sampleprograms.io/projects/transpose-matrix/python)
-- [Array Declaration in Python](https://sampleprograms.io/projects/array-declaration/python)
-- [Data Type Transformation in Python](https://sampleprograms.io/projects/data-type-transformation/python)
