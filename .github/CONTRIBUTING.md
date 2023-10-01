@@ -57,7 +57,7 @@ Please make sure that your pull request follows these guidelines:
 Please make sure that your article follows these guidelines:
 
 - All articles go in folders under `sources` folder, **not** the `docs` folder. The `docs` folder
-  is used to generated the website.
+  is used to generate the website.
 - All articles are written using Markdown. If you are unfamiliar with this, please refer to
   [this guide][5].
 - If you use someone else's work, please cite your references.
@@ -238,7 +238,7 @@ Local images are referenced like this:
 ![Name of image](<image-directory>/<image-filename>)
 ```
 
-where `<image-directory>` is the directory is one of the following, and `<image-filename>`
+where `<image-directory>` is one of the following directories, and `<image-filename>`
 is the filename of the image:
 
 * Sample program article: `/assets/images/projects/<language>/<project>`
