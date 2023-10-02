@@ -18,6 +18,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 - [Baklava in Typescript](https://sampleprograms.io/projects/baklava/typescript)
 - [Capitalize in Typescript](https://sampleprograms.io/projects/capitalize/typescript)
+- [Factorial in Typescript](https://sampleprograms.io/projects/factorial/typescript)
 - [Fibonacci in Typescript](https://sampleprograms.io/projects/fibonacci/typescript)
 - [Fizz Buzz in Typescript](https://sampleprograms.io/projects/fizz-buzz/typescript)
 - [Hello World in Typescript](https://sampleprograms.io/projects/hello-world/typescript)

@@ -1,7 +1,7 @@
 ---
 date: 2018-10-26
 featured-image: factorial-in-every-language.jpg
-last-modified: 2023-09-16
+last-modified: 2023-10-02
 layout: default
 tags:
 - factorial
@@ -103,6 +103,7 @@ Usage: please input a non-negative integer
 - [Factorial in R](https://sampleprograms.io/projects/factorial/r)
 - [Factorial in Rust](https://sampleprograms.io/projects/factorial/rust)
 - [Factorial in Scala](https://sampleprograms.io/projects/factorial/scala)
+- [Factorial in Typescript](https://sampleprograms.io/projects/factorial/typescript)
 
 ***
 
