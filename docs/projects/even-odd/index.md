@@ -1,7 +1,7 @@
 ---
 date: 2018-10-21
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2023-09-16
+last-modified: 2023-10-02
 layout: default
 tags:
 - even-odd
@@ -102,6 +102,7 @@ Usage: please input a number
 - [Even Odd in Rust](https://sampleprograms.io/projects/even-odd/rust)
 - [Even Odd in Scala](https://sampleprograms.io/projects/even-odd/scala)
 - [Even Odd in Swift](https://sampleprograms.io/projects/even-odd/swift)
+- [Even Odd in Typescript](https://sampleprograms.io/projects/even-odd/typescript)
 - [Even Odd in X86 64](https://sampleprograms.io/projects/even-odd/x86-64)
 
 ***

@@ -18,6 +18,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 - [Baklava in Typescript](https://sampleprograms.io/projects/baklava/typescript)
 - [Capitalize in Typescript](https://sampleprograms.io/projects/capitalize/typescript)
+- [Duplicate Character Counter in Typescript](https://sampleprograms.io/projects/duplicate-character-counter/typescript)
+- [Even Odd in Typescript](https://sampleprograms.io/projects/even-odd/typescript)
 - [Factorial in Typescript](https://sampleprograms.io/projects/factorial/typescript)
 - [Fibonacci in Typescript](https://sampleprograms.io/projects/fibonacci/typescript)
 - [Fizz Buzz in Typescript](https://sampleprograms.io/projects/fizz-buzz/typescript)

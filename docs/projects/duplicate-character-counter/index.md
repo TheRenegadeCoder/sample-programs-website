@@ -1,7 +1,7 @@
 ---
 date: 2022-05-14
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2023-09-16
+last-modified: 2023-10-02
 layout: default
 tags:
 - duplicate-character-counter
@@ -75,6 +75,7 @@ Usage: please provide a string
 - [Duplicate Character Counter in Php](https://sampleprograms.io/projects/duplicate-character-counter/php)
 - [Duplicate Character Counter in Python](https://sampleprograms.io/projects/duplicate-character-counter/python)
 - [Duplicate Character Counter in Rust](https://sampleprograms.io/projects/duplicate-character-counter/rust)
+- [Duplicate Character Counter in Typescript](https://sampleprograms.io/projects/duplicate-character-counter/typescript)
 
 ***
 
