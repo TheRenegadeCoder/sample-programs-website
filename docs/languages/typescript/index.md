@@ -1,7 +1,7 @@
 ---
 date: 2018-06-22
 featured-image: programming-languages.jpg
-last-modified: 2023-10-01
+last-modified: 2023-10-02
 layout: default
 tags:
 - typescript
@@ -21,5 +21,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Fibonacci in Typescript](https://sampleprograms.io/projects/fibonacci/typescript)
 - [Fizz Buzz in Typescript](https://sampleprograms.io/projects/fizz-buzz/typescript)
 - [Hello World in Typescript](https://sampleprograms.io/projects/hello-world/typescript)
+- [Linear Search in Typescript](https://sampleprograms.io/projects/linear-search/typescript)
 - [Palindromic Number in Typescript](https://sampleprograms.io/projects/palindromic-number/typescript)
 - [Reverse String in Typescript](https://sampleprograms.io/projects/reverse-string/typescript)
