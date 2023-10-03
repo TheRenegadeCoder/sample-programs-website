@@ -1,7 +1,7 @@
 ---
 date: 2018-10-07
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: 2023-09-28
+last-modified: 2023-10-04
 layout: default
 tags:
 - roman-numeral
@@ -107,6 +107,7 @@ In order to keep things simple, we split up the testing as follows:
 - [Roman Numeral in Python](https://sampleprograms.io/projects/roman-numeral/python)
 - [Roman Numeral in Ruby](https://sampleprograms.io/projects/roman-numeral/ruby)
 - [Roman Numeral in Rust](https://sampleprograms.io/projects/roman-numeral/rust)
+- [Roman Numeral in Typescript](https://sampleprograms.io/projects/roman-numeral/typescript)
 
 ***
 
