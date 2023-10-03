@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-08
 featured-image: programming-languages.jpg
-last-modified: 2023-10-01
+last-modified: 2023-10-03
 layout: default
 tags:
 - perl
@@ -61,6 +61,7 @@ and preferably only one, obvious way to do it"
 - [Fizz Buzz in Perl](https://sampleprograms.io/projects/fizz-buzz/perl)
 - [Hello World in Perl](https://sampleprograms.io/projects/hello-world/perl)
 - [Insertion Sort in Perl](https://sampleprograms.io/projects/insertion-sort/perl)
+- [Merge Sort in Perl](https://sampleprograms.io/projects/merge-sort/perl)
 - [Palindromic Number in Perl](https://sampleprograms.io/projects/palindromic-number/perl)
 - [Prime Number in Perl](https://sampleprograms.io/projects/prime-number/perl)
 - [Quick Sort in Perl](https://sampleprograms.io/projects/quick-sort/perl)

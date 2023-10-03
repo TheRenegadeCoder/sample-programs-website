@@ -1,7 +1,7 @@
 ---
 date: 2018-12-03
 featured-image: merge-sort-in-every-language.jpg
-last-modified: 2023-07-25
+last-modified: 2023-10-03
 layout: default
 tags:
 - merge-sort
@@ -127,6 +127,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 - [Merge Sort in Mathematica](https://sampleprograms.io/projects/merge-sort/mathematica)
 - [Merge Sort in Matlab](https://sampleprograms.io/projects/merge-sort/matlab)
 - [Merge Sort in Objective C](https://sampleprograms.io/projects/merge-sort/objective-c)
+- [Merge Sort in Perl](https://sampleprograms.io/projects/merge-sort/perl)
 - [Merge Sort in Php](https://sampleprograms.io/projects/merge-sort/php)
 - [Merge Sort in Python](https://sampleprograms.io/projects/merge-sort/python)
 - [Merge Sort in Rust](https://sampleprograms.io/projects/merge-sort/rust)
