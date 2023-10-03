@@ -1,7 +1,7 @@
 ---
 date: 2018-12-02
 featured-image: selection-sort-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2023-10-03
 layout: default
 tags:
 - selection-sort
@@ -168,6 +168,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 - [Selection Sort in Julia](https://sampleprograms.io/projects/selection-sort/julia)
 - [Selection Sort in Mathematica](https://sampleprograms.io/projects/selection-sort/mathematica)
 - [Selection Sort in Matlab](https://sampleprograms.io/projects/selection-sort/matlab)
+- [Selection Sort in Perl](https://sampleprograms.io/projects/selection-sort/perl)
 - [Selection Sort in Php](https://sampleprograms.io/projects/selection-sort/php)
 - [Selection Sort in Python](https://sampleprograms.io/projects/selection-sort/python)
 - [Selection Sort in Rust](https://sampleprograms.io/projects/selection-sort/rust)

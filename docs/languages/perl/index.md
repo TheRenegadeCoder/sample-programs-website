@@ -68,3 +68,4 @@ and preferably only one, obvious way to do it"
 - [Quine in Perl](https://sampleprograms.io/projects/quine/perl)
 - [Reverse String in Perl](https://sampleprograms.io/projects/reverse-string/perl)
 - [Rot13 in Perl](https://sampleprograms.io/projects/rot13/perl)
+- [Selection Sort in Perl](https://sampleprograms.io/projects/selection-sort/perl)
