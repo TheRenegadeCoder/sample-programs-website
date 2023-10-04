@@ -22,6 +22,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Even Odd in Typescript](https://sampleprograms.io/projects/even-odd/typescript)
 - [Factorial in Typescript](https://sampleprograms.io/projects/factorial/typescript)
 - [Fibonacci in Typescript](https://sampleprograms.io/projects/fibonacci/typescript)
+- [File Input Output in Typescript](https://sampleprograms.io/projects/file-input-output/typescript)
 - [Fizz Buzz in Typescript](https://sampleprograms.io/projects/fizz-buzz/typescript)
 - [Hello World in Typescript](https://sampleprograms.io/projects/hello-world/typescript)
 - [Linear Search in Typescript](https://sampleprograms.io/projects/linear-search/typescript)

@@ -1,7 +1,7 @@
 ---
 date: 2018-09-10
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2023-09-16
+last-modified: 2023-10-04
 layout: default
 tags:
 - file-input-output
@@ -74,6 +74,7 @@ Verify that the actual output matches the expected output
 - [File Input Output in Ruby](https://sampleprograms.io/projects/file-input-output/ruby)
 - [File Input Output in Rust](https://sampleprograms.io/projects/file-input-output/rust)
 - [File Input Output in Scala](https://sampleprograms.io/projects/file-input-output/scala)
+- [File Input Output in Typescript](https://sampleprograms.io/projects/file-input-output/typescript)
 
 ***
 
