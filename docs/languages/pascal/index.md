@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-10
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2023-10-05
 layout: default
 tags:
 - pascal
@@ -92,6 +92,7 @@ At any rate, I think we've played around enough
 
 - [Capitalize in Pascal](https://sampleprograms.io/projects/capitalize/pascal)
 - [Even Odd in Pascal](https://sampleprograms.io/projects/even-odd/pascal)
+- [Factorial in Pascal](https://sampleprograms.io/projects/factorial/pascal)
 - [Fibonacci in Pascal](https://sampleprograms.io/projects/fibonacci/pascal)
 - [Fizz Buzz in Pascal](https://sampleprograms.io/projects/fizz-buzz/pascal)
 - [Hello World in Pascal](https://sampleprograms.io/projects/hello-world/pascal)

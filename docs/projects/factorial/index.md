@@ -1,7 +1,7 @@
 ---
 date: 2018-10-26
 featured-image: factorial-in-every-language.jpg
-last-modified: 2023-10-02
+last-modified: 2023-10-05
 layout: default
 tags:
 - factorial
@@ -97,6 +97,7 @@ Usage: please input a non-negative integer
 - [Factorial in Mathematica](https://sampleprograms.io/projects/factorial/mathematica)
 - [Factorial in Matlab](https://sampleprograms.io/projects/factorial/matlab)
 - [Factorial in Objective C](https://sampleprograms.io/projects/factorial/objective-c)
+- [Factorial in Pascal](https://sampleprograms.io/projects/factorial/pascal)
 - [Factorial in Perl](https://sampleprograms.io/projects/factorial/perl)
 - [Factorial in Php](https://sampleprograms.io/projects/factorial/php)
 - [Factorial in Python](https://sampleprograms.io/projects/factorial/python)
