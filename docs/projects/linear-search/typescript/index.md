@@ -1,9 +1,9 @@
 ---
 authors:
-- Vipin Yadav
-date: 2023-10-02
+- Meet Thakur
+date: 2023-10-05
 featured-image: linear-search-in-every-language.jpg
-last-modified: 2023-10-02
+last-modified: 2023-10-05
 layout: default
 tags:
 - linear-search
@@ -18,28 +18,38 @@ Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search)
 {% raw %}
 
 ```typescript
-const error_msg: string = "Usage: please provide a list of integers (\"1, 4, 5, 11, 12\") and the integer to find (\"11\")";
-if (process.argv.length != 4) {
-    console.log(error_msg);
-    process.exit(1);
-}
-
-let list_str: string = process.argv[2]
-let target: number = parseInt(process.argv[3]);
-
-if (isNaN(target) || list_str.length == 0) {
-    console.log(error_msg);
-    process.exit(1);
-}
-let list: number[] = list_str.split(",").map((x: string) => parseInt(x));
-let found: boolean = false;
-for (let i = 0; i < list.length; i++) {
-    if (list[i] == target) {
-        found = true;
-        break;
+function isPrime(num: number): boolean {
+  if (num < 2) {
+    return false;
+  }
+  for (let i = 2; i <= Math.sqrt(num); i++) {
+    if (num % i === 0) {
+      return false;
     }
+  }
+  return true;
 }
-console.log(found ? "true" : "false");
+
+function main() {
+  if (process.argv.length !== 3) {
+    console.log('Usage: please input a non-negative integer');
+    return;
+  }
+
+  const inputNum = parseInt(process.argv[2], 10);
+
+  if (isNaN(inputNum) || inputNum < 0 || inputNum % 1 !== 0) {
+    console.log('Usage: please input a non-negative integer');
+    return;
+  }
+
+  if (isPrime(inputNum)) {
+    console.log('prime');
+  } else {
+    console.log('composite');
+  }
+}
+main();
 
 ```
 
@@ -47,7 +57,7 @@ console.log(found ? "true" : "false");
 
 Linear Search in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
 
-- Vipin Yadav
+- Meet Thakur
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

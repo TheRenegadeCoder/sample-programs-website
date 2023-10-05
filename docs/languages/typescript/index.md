@@ -1,7 +1,7 @@
 ---
 date: 2018-06-22
 featured-image: programming-languages.jpg
-last-modified: 2023-10-04
+last-modified: 2023-10-05
 layout: default
 tags:
 - typescript
