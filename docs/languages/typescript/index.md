@@ -1,7 +1,7 @@
 ---
 date: 2018-06-22
 featured-image: programming-languages.jpg
-last-modified: 2023-10-05
+last-modified: 2023-10-07
 layout: default
 tags:
 - typescript
@@ -29,3 +29,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Palindromic Number in Typescript](https://sampleprograms.io/projects/palindromic-number/typescript)
 - [Reverse String in Typescript](https://sampleprograms.io/projects/reverse-string/typescript)
 - [Roman Numeral in Typescript](https://sampleprograms.io/projects/roman-numeral/typescript)
+- [Transpose Matrix in Typescript](https://sampleprograms.io/projects/transpose-matrix/typescript)

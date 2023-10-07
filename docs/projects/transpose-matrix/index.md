@@ -1,7 +1,7 @@
 ---
 date: 2022-05-13
 featured-image: transpose-matrix-in-every-language.jpg
-last-modified: 2023-05-08
+last-modified: 2023-10-07
 layout: default
 tags:
 - transpose-matrix
@@ -87,6 +87,7 @@ Usage: please enter the dimension of the matrix and the serialized matrix
 - [Transpose Matrix in Php](https://sampleprograms.io/projects/transpose-matrix/php)
 - [Transpose Matrix in Python](https://sampleprograms.io/projects/transpose-matrix/python)
 - [Transpose Matrix in Rust](https://sampleprograms.io/projects/transpose-matrix/rust)
+- [Transpose Matrix in Typescript](https://sampleprograms.io/projects/transpose-matrix/typescript)
 
 ***
 
