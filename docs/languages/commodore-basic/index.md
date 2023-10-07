@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-09-13
 featured-image: programming-languages.jpg
-last-modified: 2023-09-28
+last-modified: 2023-10-07
 layout: default
 tags:
 - commodore-basic
@@ -245,6 +245,7 @@ cbmbasic hello-world.bas
 - [Fizz Buzz in Commodore Basic](https://sampleprograms.io/projects/fizz-buzz/commodore-basic)
 - [Hello World in Commodore Basic](https://sampleprograms.io/projects/hello-world/commodore-basic)
 - [Josephus Problem in Commodore Basic](https://sampleprograms.io/projects/josephus-problem/commodore-basic)
+- [Linear Search in Commodore Basic](https://sampleprograms.io/projects/linear-search/commodore-basic)
 - [Longest Word in Commodore Basic](https://sampleprograms.io/projects/longest-word/commodore-basic)
 - [Palindromic Number in Commodore Basic](https://sampleprograms.io/projects/palindromic-number/commodore-basic)
 - [Prime Number in Commodore Basic](https://sampleprograms.io/projects/prime-number/commodore-basic)
