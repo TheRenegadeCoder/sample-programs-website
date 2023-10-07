@@ -17,6 +17,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 ## Articles
 
 - [Baklava in Typescript](https://sampleprograms.io/projects/baklava/typescript)
+- [Binary Search in Typescript](https://sampleprograms.io/projects/binary-search/typescript)
 - [Capitalize in Typescript](https://sampleprograms.io/projects/capitalize/typescript)
 - [Duplicate Character Counter in Typescript](https://sampleprograms.io/projects/duplicate-character-counter/typescript)
 - [Even Odd in Typescript](https://sampleprograms.io/projects/even-odd/typescript)

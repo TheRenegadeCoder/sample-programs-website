@@ -1,7 +1,7 @@
 ---
 date: 2018-03-31
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2023-10-07
 layout: default
 tags:
 - javascript
@@ -42,3 +42,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Roman Numeral in Javascript](https://sampleprograms.io/projects/roman-numeral/javascript)
 - [Rot13 in Javascript](https://sampleprograms.io/projects/rot13/javascript)
 - [Selection Sort in Javascript](https://sampleprograms.io/projects/selection-sort/javascript)
+- [Transpose Matrix in Javascript](https://sampleprograms.io/projects/transpose-matrix/javascript)

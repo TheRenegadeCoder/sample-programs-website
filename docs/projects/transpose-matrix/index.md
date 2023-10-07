@@ -83,6 +83,7 @@ Usage: please enter the dimension of the matrix and the serialized matrix
 
 - [Transpose Matrix in Algol68](https://sampleprograms.io/projects/transpose-matrix/algol68)
 - [Transpose Matrix in Euphoria](https://sampleprograms.io/projects/transpose-matrix/euphoria)
+- [Transpose Matrix in Javascript](https://sampleprograms.io/projects/transpose-matrix/javascript)
 - [Transpose Matrix in Mathematica](https://sampleprograms.io/projects/transpose-matrix/mathematica)
 - [Transpose Matrix in Php](https://sampleprograms.io/projects/transpose-matrix/php)
 - [Transpose Matrix in Python](https://sampleprograms.io/projects/transpose-matrix/python)

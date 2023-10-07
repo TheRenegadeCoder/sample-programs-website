@@ -1,7 +1,7 @@
 ---
 date: 2019-10-24
 featured-image: binary-search-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2023-10-07
 layout: default
 tags:
 - binary-search
@@ -97,6 +97,7 @@ Usage: please provide a list of sorted integers ("1, 4, 5, 11, 12") and the inte
 - [Binary Search in Php](https://sampleprograms.io/projects/binary-search/php)
 - [Binary Search in Python](https://sampleprograms.io/projects/binary-search/python)
 - [Binary Search in Rust](https://sampleprograms.io/projects/binary-search/rust)
+- [Binary Search in Typescript](https://sampleprograms.io/projects/binary-search/typescript)
 
 ***
 
