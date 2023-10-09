@@ -1,7 +1,7 @@
 ---
 date: 2018-12-18
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2023-10-08
 layout: default
 tags:
 - insertion-sort
@@ -131,6 +131,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 - [Insertion Sort in C](https://sampleprograms.io/projects/insertion-sort/c)
 - [Insertion Sort in C#](https://sampleprograms.io/projects/insertion-sort/c-sharp)
 - [Insertion Sort in C++](https://sampleprograms.io/projects/insertion-sort/c-plus-plus)
+- [Insertion Sort in Commodore Basic](https://sampleprograms.io/projects/insertion-sort/commodore-basic)
 - [Insertion Sort in Euphoria](https://sampleprograms.io/projects/insertion-sort/euphoria)
 - [Insertion Sort in Go](https://sampleprograms.io/projects/insertion-sort/go)
 - [Insertion Sort in Haskell](https://sampleprograms.io/projects/insertion-sort/haskell)
