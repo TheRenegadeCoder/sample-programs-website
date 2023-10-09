@@ -1,7 +1,7 @@
 ---
 date: 2018-12-02
 featured-image: selection-sort-in-every-language.jpg
-last-modified: 2023-10-03
+last-modified: 2023-10-08
 layout: default
 tags:
 - selection-sort
@@ -160,6 +160,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 - [Selection Sort in C](https://sampleprograms.io/projects/selection-sort/c)
 - [Selection Sort in C#](https://sampleprograms.io/projects/selection-sort/c-sharp)
 - [Selection Sort in C++](https://sampleprograms.io/projects/selection-sort/c-plus-plus)
+- [Selection Sort in Commodore Basic](https://sampleprograms.io/projects/selection-sort/commodore-basic)
 - [Selection Sort in Euphoria](https://sampleprograms.io/projects/selection-sort/euphoria)
 - [Selection Sort in Go](https://sampleprograms.io/projects/selection-sort/go)
 - [Selection Sort in Haskell](https://sampleprograms.io/projects/selection-sort/haskell)
