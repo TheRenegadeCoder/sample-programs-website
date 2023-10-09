@@ -258,3 +258,4 @@ cbmbasic hello-world.bas
 - [Roman Numeral in Commodore Basic](https://sampleprograms.io/projects/roman-numeral/commodore-basic)
 - [Rot13 in Commodore Basic](https://sampleprograms.io/projects/rot13/commodore-basic)
 - [Selection Sort in Commodore Basic](https://sampleprograms.io/projects/selection-sort/commodore-basic)
+- [Sleep Sort in Commodore Basic](https://sampleprograms.io/projects/sleep-sort/commodore-basic)
