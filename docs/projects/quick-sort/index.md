@@ -1,7 +1,7 @@
 ---
 date: 2018-12-04
 featured-image: quick-sort-in-every-language.jpg
-last-modified: 2023-10-01
+last-modified: 2023-10-10
 layout: default
 tags:
 - quick-sort
@@ -127,6 +127,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 - [Quick Sort in C](https://sampleprograms.io/projects/quick-sort/c)
 - [Quick Sort in C#](https://sampleprograms.io/projects/quick-sort/c-sharp)
 - [Quick Sort in C++](https://sampleprograms.io/projects/quick-sort/c-plus-plus)
+- [Quick Sort in Commodore Basic](https://sampleprograms.io/projects/quick-sort/commodore-basic)
 - [Quick Sort in Dart](https://sampleprograms.io/projects/quick-sort/dart)
 - [Quick Sort in Euphoria](https://sampleprograms.io/projects/quick-sort/euphoria)
 - [Quick Sort in Go](https://sampleprograms.io/projects/quick-sort/go)
