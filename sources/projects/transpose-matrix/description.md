@@ -2,6 +2,7 @@ In linear algebra, the transpose of a matrix is an operator which flips a matrix
 that is, it switches the row and column indices of the matrix A by producing another matrix, often 
 denoted by A<sup>T</sup>. For example, the following matrix could be the matrix A:
 
+|   |   |   |
 | - |:-:| -:|
 | 1 | 2 | 3 |
 | 4 | 5 | 6 |
@@ -9,6 +10,7 @@ denoted by A<sup>T</sup>. For example, the following matrix could be the matrix 
 
 Once transposed, A becomes the following matrix, A<sup>T</sup>:
 
+|   |   |   |
 | - |:-:| -:|
 | 1 | 4 | 7 |
 | 2 | 5 | 8 |
