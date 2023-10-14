@@ -1,7 +1,7 @@
 ---
 date: 2018-12-03
 featured-image: merge-sort-in-every-language.jpg
-last-modified: 2023-10-03
+last-modified: 2023-10-14
 layout: default
 tags:
 - merge-sort
@@ -117,6 +117,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 - [Merge Sort in C](https://sampleprograms.io/projects/merge-sort/c)
 - [Merge Sort in C#](https://sampleprograms.io/projects/merge-sort/c-sharp)
 - [Merge Sort in C++](https://sampleprograms.io/projects/merge-sort/c-plus-plus)
+- [Merge Sort in Commodore Basic](https://sampleprograms.io/projects/merge-sort/commodore-basic)
 - [Merge Sort in Euphoria](https://sampleprograms.io/projects/merge-sort/euphoria)
 - [Merge Sort in Go](https://sampleprograms.io/projects/merge-sort/go)
 - [Merge Sort in Groovy](https://sampleprograms.io/projects/merge-sort/groovy)

@@ -250,6 +250,8 @@ cbmbasic hello-world.bas
 - [Josephus Problem in Commodore Basic](https://sampleprograms.io/projects/josephus-problem/commodore-basic)
 - [Linear Search in Commodore Basic](https://sampleprograms.io/projects/linear-search/commodore-basic)
 - [Longest Word in Commodore Basic](https://sampleprograms.io/projects/longest-word/commodore-basic)
+- [Maximum Array Rotation in Commodore Basic](https://sampleprograms.io/projects/maximum-array-rotation/commodore-basic)
+- [Merge Sort in Commodore Basic](https://sampleprograms.io/projects/merge-sort/commodore-basic)
 - [Palindromic Number in Commodore Basic](https://sampleprograms.io/projects/palindromic-number/commodore-basic)
 - [Prime Number in Commodore Basic](https://sampleprograms.io/projects/prime-number/commodore-basic)
 - [Quick Sort in Commodore Basic](https://sampleprograms.io/projects/quick-sort/commodore-basic)
