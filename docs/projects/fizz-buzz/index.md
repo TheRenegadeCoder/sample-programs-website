@@ -1,7 +1,7 @@
 ---
 date: 2018-07-27
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2023-09-13
+last-modified: 2023-10-15
 layout: default
 tags:
 - fizz-buzz
@@ -100,6 +100,7 @@ Verify that the actual output matches the expected output
 - [Fizz Buzz in Php](https://sampleprograms.io/projects/fizz-buzz/php)
 - [Fizz Buzz in Powershell](https://sampleprograms.io/projects/fizz-buzz/powershell)
 - [Fizz Buzz in Prolog](https://sampleprograms.io/projects/fizz-buzz/prolog)
+- [Fizz Buzz in Pyret](https://sampleprograms.io/projects/fizz-buzz/pyret)
 - [Fizz Buzz in Python](https://sampleprograms.io/projects/fizz-buzz/python)
 - [Fizz Buzz in R](https://sampleprograms.io/projects/fizz-buzz/r)
 - [Fizz Buzz in Racket](https://sampleprograms.io/projects/fizz-buzz/racket)

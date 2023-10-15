@@ -1,7 +1,7 @@
 ---
 date: 2018-04-23
 featured-image: programming-languages.jpg
-last-modified: 2018-04-23
+last-modified: 2023-10-15
 layout: default
 tags:
 - pyret
@@ -16,4 +16,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+- [Fizz Buzz in Pyret](https://sampleprograms.io/projects/fizz-buzz/pyret)
 - [Hello World in Pyret](https://sampleprograms.io/projects/hello-world/pyret)
