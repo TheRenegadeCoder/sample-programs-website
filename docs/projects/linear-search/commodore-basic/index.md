@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-10-07
 featured-image: linear-search-in-every-language.jpg
-last-modified: 2023-10-07
+last-modified: 2023-10-15
 layout: default
 tags:
 - commodore-basic
@@ -18,7 +18,7 @@ Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search)
 {% raw %}
 
 ```commodore_basic
-10 DIM A(100)
+10 DIM A(99)
 20 GOSUB 2000: REM Get array
 30 IF V = 0 OR C <> -1 THEN GOTO 200: REM invalid or end of input/value
 40 GOSUB 1000: REM Get target value
@@ -27,7 +27,7 @@ Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search)
 60 T = NR
 70 GOSUB 3000
 80 R$ = "false"
-90 IF I > 0 THEN R$ = "true"
+90 IF I >= 0 THEN R$ = "true"
 100 PRINT R$
 110 END
 200 Q$ = CHR$(34): REM quote
@@ -91,8 +91,8 @@ Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search)
 2010 NA = 0
 2020 GOSUB 1000: REM Read input value
 2030 IF V = 0 THEN RETURN: REM invalid
-2040 NA = NA + 1
-2050 A(NA) = NR
+2040 A(NA) = NR
+2050 NA = NA + 1
 2060 IF C < 0 THEN RETURN: REM end of input or value
 2070 IF C = 44 THEN GOTO 2020: REM comma, get next value
 2080 V = 0
@@ -102,10 +102,10 @@ Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search)
 3002 REM - A contains array to search
 3003 REM - NA contains size of array
 3004 REM - T contains item to find
-3005 REM Outputs: I contains index of array item found, 0 if not found
-3010 I = 0
+3005 REM Outputs: I contains index of array item found, -1 if not found
+3010 I = -1
 3020 I = I + 1
-3030 IF I > NA THEN I = 0: RETURN: REM not found
+3030 IF I >= NA THEN I = -1: RETURN: REM not found
 3040 IF A(I) = T THEN RETURN: REM found
 3050 GOTO 3020
 
