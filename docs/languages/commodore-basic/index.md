@@ -239,6 +239,7 @@ cbmbasic hello-world.bas
 - [Binary Search in Commodore Basic](https://sampleprograms.io/projects/binary-search/commodore-basic)
 - [Bubble Sort in Commodore Basic](https://sampleprograms.io/projects/bubble-sort/commodore-basic)
 - [Capitalize in Commodore Basic](https://sampleprograms.io/projects/capitalize/commodore-basic)
+- [Convex Hull in Commodore Basic](https://sampleprograms.io/projects/convex-hull/commodore-basic)
 - [Duplicate Character Counter in Commodore Basic](https://sampleprograms.io/projects/duplicate-character-counter/commodore-basic)
 - [Even Odd in Commodore Basic](https://sampleprograms.io/projects/even-odd/commodore-basic)
 - [Factorial in Commodore Basic](https://sampleprograms.io/projects/factorial/commodore-basic)
