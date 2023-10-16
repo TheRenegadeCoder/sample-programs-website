@@ -1,7 +1,7 @@
 ---
 date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2023-09-24
+last-modified: 2023-10-16
 layout: default
 tags:
 - baklava
@@ -100,6 +100,7 @@ Verify that the actual output matches the expected output
 - [Baklava in Phix](https://sampleprograms.io/projects/baklava/phix)
 - [Baklava in Php](https://sampleprograms.io/projects/baklava/php)
 - [Baklava in Piet](https://sampleprograms.io/projects/baklava/piet)
+- [Baklava in Pyret](https://sampleprograms.io/projects/baklava/pyret)
 - [Baklava in Python](https://sampleprograms.io/projects/baklava/python)
 - [Baklava in Ruby](https://sampleprograms.io/projects/baklava/ruby)
 - [Baklava in Rust](https://sampleprograms.io/projects/baklava/rust)
