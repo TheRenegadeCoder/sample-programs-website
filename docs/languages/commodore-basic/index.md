@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-09-13
 featured-image: programming-languages.jpg
-last-modified: 2023-10-15
+last-modified: 2023-10-18
 layout: default
 tags:
 - commodore-basic
@@ -246,6 +246,7 @@ cbmbasic hello-world.bas
 - [Fibonacci in Commodore Basic](https://sampleprograms.io/projects/fibonacci/commodore-basic)
 - [File Input Output in Commodore Basic](https://sampleprograms.io/projects/file-input-output/commodore-basic)
 - [Fizz Buzz in Commodore Basic](https://sampleprograms.io/projects/fizz-buzz/commodore-basic)
+- [Fraction Math in Commodore Basic](https://sampleprograms.io/projects/fraction-math/commodore-basic)
 - [Hello World in Commodore Basic](https://sampleprograms.io/projects/hello-world/commodore-basic)
 - [Insertion Sort in Commodore Basic](https://sampleprograms.io/projects/insertion-sort/commodore-basic)
 - [Josephus Problem in Commodore Basic](https://sampleprograms.io/projects/josephus-problem/commodore-basic)
