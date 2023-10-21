@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-09-13
 featured-image: programming-languages.jpg
-last-modified: 2023-10-18
+last-modified: 2023-10-21
 layout: default
 tags:
 - commodore-basic
@@ -240,6 +240,7 @@ cbmbasic hello-world.bas
 - [Bubble Sort in Commodore Basic](https://sampleprograms.io/projects/bubble-sort/commodore-basic)
 - [Capitalize in Commodore Basic](https://sampleprograms.io/projects/capitalize/commodore-basic)
 - [Convex Hull in Commodore Basic](https://sampleprograms.io/projects/convex-hull/commodore-basic)
+- [Depth First Search in Commodore Basic](https://sampleprograms.io/projects/depth-first-search/commodore-basic)
 - [Duplicate Character Counter in Commodore Basic](https://sampleprograms.io/projects/duplicate-character-counter/commodore-basic)
 - [Even Odd in Commodore Basic](https://sampleprograms.io/projects/even-odd/commodore-basic)
 - [Factorial in Commodore Basic](https://sampleprograms.io/projects/factorial/commodore-basic)

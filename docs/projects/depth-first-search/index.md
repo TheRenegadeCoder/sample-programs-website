@@ -1,7 +1,7 @@
 ---
 date: 2021-11-12
 featured-image: depth-first-search-in-every-language.jpg
-last-modified: 2023-05-08
+last-modified: 2023-10-21
 layout: default
 tags:
 - depth-first-search
@@ -115,6 +115,7 @@ Usage: please provide a tree in an adjacency matrix form ("0, 1, 1, 0, 0, 1, 0, 
 
 - [Depth First Search in Algol68](https://sampleprograms.io/projects/depth-first-search/algol68)
 - [Depth First Search in C++](https://sampleprograms.io/projects/depth-first-search/c-plus-plus)
+- [Depth First Search in Commodore Basic](https://sampleprograms.io/projects/depth-first-search/commodore-basic)
 - [Depth First Search in Euphoria](https://sampleprograms.io/projects/depth-first-search/euphoria)
 - [Depth First Search in Mathematica](https://sampleprograms.io/projects/depth-first-search/mathematica)
 - [Depth First Search in Php](https://sampleprograms.io/projects/depth-first-search/php)

@@ -1,7 +1,7 @@
 ---
 date: 2018-11-16
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2023-09-16
+last-modified: 2023-10-21
 layout: default
 tags:
 - prime-number
@@ -98,6 +98,7 @@ Usage: please input a non-negative integer
 - [Prime Number in R](https://sampleprograms.io/projects/prime-number/r)
 - [Prime Number in Rexx](https://sampleprograms.io/projects/prime-number/rexx)
 - [Prime Number in Rust](https://sampleprograms.io/projects/prime-number/rust)
+- [Prime Number in Typescript](https://sampleprograms.io/projects/prime-number/typescript)
 
 ***
 

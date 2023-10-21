@@ -28,6 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Hello World in Typescript](https://sampleprograms.io/projects/hello-world/typescript)
 - [Linear Search in Typescript](https://sampleprograms.io/projects/linear-search/typescript)
 - [Palindromic Number in Typescript](https://sampleprograms.io/projects/palindromic-number/typescript)
+- [Prime Number in Typescript](https://sampleprograms.io/projects/prime-number/typescript)
 - [Quick Sort in Typescript](https://sampleprograms.io/projects/quick-sort/typescript)
 - [Reverse String in Typescript](https://sampleprograms.io/projects/reverse-string/typescript)
 - [Roman Numeral in Typescript](https://sampleprograms.io/projects/roman-numeral/typescript)
