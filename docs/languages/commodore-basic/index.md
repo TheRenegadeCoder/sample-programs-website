@@ -250,6 +250,7 @@ cbmbasic hello-world.bas
 - [Fraction Math in Commodore Basic](https://sampleprograms.io/projects/fraction-math/commodore-basic)
 - [Hello World in Commodore Basic](https://sampleprograms.io/projects/hello-world/commodore-basic)
 - [Insertion Sort in Commodore Basic](https://sampleprograms.io/projects/insertion-sort/commodore-basic)
+- [Job Sequencing in Commodore Basic](https://sampleprograms.io/projects/job-sequencing/commodore-basic)
 - [Josephus Problem in Commodore Basic](https://sampleprograms.io/projects/josephus-problem/commodore-basic)
 - [Linear Search in Commodore Basic](https://sampleprograms.io/projects/linear-search/commodore-basic)
 - [Longest Palindromic Substring in Commodore Basic](https://sampleprograms.io/projects/longest-palindromic-substring/commodore-basic)
