@@ -1,7 +1,7 @@
 ---
 date: 2018-12-18
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: 2023-10-15
+last-modified: 2023-10-22
 layout: default
 tags:
 - insertion-sort
@@ -143,6 +143,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 - [Insertion Sort in Php](https://sampleprograms.io/projects/insertion-sort/php)
 - [Insertion Sort in Python](https://sampleprograms.io/projects/insertion-sort/python)
 - [Insertion Sort in Rust](https://sampleprograms.io/projects/insertion-sort/rust)
+- [Insertion Sort in Typescript](https://sampleprograms.io/projects/insertion-sort/typescript)
 
 ***
 
