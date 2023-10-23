@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-09-13
 featured-image: programming-languages.jpg
-last-modified: 2023-10-21
+last-modified: 2023-10-23
 layout: default
 tags:
 - commodore-basic
@@ -258,6 +258,7 @@ cbmbasic hello-world.bas
 - [Maximum Array Rotation in Commodore Basic](https://sampleprograms.io/projects/maximum-array-rotation/commodore-basic)
 - [Maximum Subarray in Commodore Basic](https://sampleprograms.io/projects/maximum-subarray/commodore-basic)
 - [Merge Sort in Commodore Basic](https://sampleprograms.io/projects/merge-sort/commodore-basic)
+- [Minimum Spanning Tree in Commodore Basic](https://sampleprograms.io/projects/minimum-spanning-tree/commodore-basic)
 - [Palindromic Number in Commodore Basic](https://sampleprograms.io/projects/palindromic-number/commodore-basic)
 - [Prime Number in Commodore Basic](https://sampleprograms.io/projects/prime-number/commodore-basic)
 - [Quick Sort in Commodore Basic](https://sampleprograms.io/projects/quick-sort/commodore-basic)
