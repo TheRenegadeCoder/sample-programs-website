@@ -1,7 +1,7 @@
 ---
 date: 2022-05-13
 featured-image: longest-word-in-every-language.jpg
-last-modified: 2023-09-16
+last-modified: 2023-10-24
 layout: default
 tags:
 - longest-word
@@ -94,6 +94,7 @@ Usage: please provide a string
 - [Longest Word in Euphoria](https://sampleprograms.io/projects/longest-word/euphoria)
 - [Longest Word in Go](https://sampleprograms.io/projects/longest-word/go)
 - [Longest Word in Java](https://sampleprograms.io/projects/longest-word/java)
+- [Longest Word in Javascript](https://sampleprograms.io/projects/longest-word/javascript)
 - [Longest Word in Mathematica](https://sampleprograms.io/projects/longest-word/mathematica)
 - [Longest Word in Php](https://sampleprograms.io/projects/longest-word/php)
 - [Longest Word in Python](https://sampleprograms.io/projects/longest-word/python)

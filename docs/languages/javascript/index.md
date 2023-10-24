@@ -1,7 +1,7 @@
 ---
 date: 2018-03-31
 featured-image: programming-languages.jpg
-last-modified: 2023-10-23
+last-modified: 2023-10-24
 layout: default
 tags:
 - javascript
@@ -33,6 +33,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Linear Search in Javascript](https://sampleprograms.io/projects/linear-search/javascript)
 - [Longest Common Subsequence in Javascript](https://sampleprograms.io/projects/longest-common-subsequence/javascript)
 - [Longest Palindromic Substring in Javascript](https://sampleprograms.io/projects/longest-palindromic-substring/javascript)
+- [Longest Word in Javascript](https://sampleprograms.io/projects/longest-word/javascript)
 - [Merge Sort in Javascript](https://sampleprograms.io/projects/merge-sort/javascript)
 - [Palindromic Number in Javascript](https://sampleprograms.io/projects/palindromic-number/javascript)
 - [Prime Number in Javascript](https://sampleprograms.io/projects/prime-number/javascript)
