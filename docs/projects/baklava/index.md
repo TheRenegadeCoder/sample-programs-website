@@ -1,7 +1,7 @@
 ---
 date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2023-10-16
+last-modified: 2023-10-23
 layout: default
 tags:
 - baklava
@@ -96,6 +96,7 @@ Verify that the actual output matches the expected output
 - [Baklava in Lisp](https://sampleprograms.io/projects/baklava/lisp)
 - [Baklava in Lua](https://sampleprograms.io/projects/baklava/lua)
 - [Baklava in Mathematica](https://sampleprograms.io/projects/baklava/mathematica)
+- [Baklava in Pascal](https://sampleprograms.io/projects/baklava/pascal)
 - [Baklava in Perl](https://sampleprograms.io/projects/baklava/perl)
 - [Baklava in Phix](https://sampleprograms.io/projects/baklava/phix)
 - [Baklava in Php](https://sampleprograms.io/projects/baklava/php)

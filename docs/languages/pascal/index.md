@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-10
 featured-image: programming-languages.jpg
-last-modified: 2023-10-05
+last-modified: 2023-10-23
 layout: default
 tags:
 - pascal
@@ -90,6 +90,7 @@ At any rate, I think we've played around enough
 
 ## Articles
 
+- [Baklava in Pascal](https://sampleprograms.io/projects/baklava/pascal)
 - [Capitalize in Pascal](https://sampleprograms.io/projects/capitalize/pascal)
 - [Even Odd in Pascal](https://sampleprograms.io/projects/even-odd/pascal)
 - [Factorial in Pascal](https://sampleprograms.io/projects/factorial/pascal)
