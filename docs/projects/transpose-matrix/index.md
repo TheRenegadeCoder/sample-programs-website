@@ -1,7 +1,7 @@
 ---
 date: 2022-05-13
 featured-image: transpose-matrix-in-every-language.jpg
-last-modified: 2023-10-07
+last-modified: 2023-10-23
 layout: default
 tags:
 - transpose-matrix
@@ -141,6 +141,7 @@ Usage: please enter the dimension of the matrix and the serialized matrix
 ## Articles
 
 - [Transpose Matrix in Algol68](https://sampleprograms.io/projects/transpose-matrix/algol68)
+- [Transpose Matrix in Commodore Basic](https://sampleprograms.io/projects/transpose-matrix/commodore-basic)
 - [Transpose Matrix in Euphoria](https://sampleprograms.io/projects/transpose-matrix/euphoria)
 - [Transpose Matrix in Javascript](https://sampleprograms.io/projects/transpose-matrix/javascript)
 - [Transpose Matrix in Mathematica](https://sampleprograms.io/projects/transpose-matrix/mathematica)

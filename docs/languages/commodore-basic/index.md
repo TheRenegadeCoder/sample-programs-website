@@ -270,3 +270,4 @@ cbmbasic hello-world.bas
 - [Rot13 in Commodore Basic](https://sampleprograms.io/projects/rot13/commodore-basic)
 - [Selection Sort in Commodore Basic](https://sampleprograms.io/projects/selection-sort/commodore-basic)
 - [Sleep Sort in Commodore Basic](https://sampleprograms.io/projects/sleep-sort/commodore-basic)
+- [Transpose Matrix in Commodore Basic](https://sampleprograms.io/projects/transpose-matrix/commodore-basic)
