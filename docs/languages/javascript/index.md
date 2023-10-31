@@ -1,7 +1,7 @@
 ---
 date: 2018-03-31
 featured-image: programming-languages.jpg
-last-modified: 2023-10-24
+last-modified: 2023-11-01
 layout: default
 tags:
 - javascript
@@ -20,6 +20,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Binary Search in Javascript](https://sampleprograms.io/projects/binary-search/javascript)
 - [Bubble Sort in Javascript](https://sampleprograms.io/projects/bubble-sort/javascript)
 - [Capitalize in Javascript](https://sampleprograms.io/projects/capitalize/javascript)
+- [Convex Hull in Javascript](https://sampleprograms.io/projects/convex-hull/javascript)
 - [Dijkstra in Javascript](https://sampleprograms.io/projects/dijkstra/javascript)
 - [Even Odd in Javascript](https://sampleprograms.io/projects/even-odd/javascript)
 - [Factorial in Javascript](https://sampleprograms.io/projects/factorial/javascript)
