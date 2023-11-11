@@ -1,9 +1,9 @@
 ---
 authors:
-- Jeremy Grifski
-date: 2018-05-03
+- rzuckerm
+date: 2023-11-10
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-05-03
+last-modified: 2023-11-10
 layout: default
 tags:
 - agda
@@ -18,9 +18,18 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```agda
-module helloworld where
-  open import IO
-  main = run (putStrLn "Hello, World!")
+module HelloWorld where
+
+open import Agda.Builtin.IO using (IO)
+open import Agda.Builtin.Unit using (⊤)
+open import Agda.Builtin.String using (String)
+
+postulate putStrLn : String → IO ⊤
+{-# FOREIGN GHC import qualified Data.Text as T #-}
+{-# COMPILE GHC putStrLn = putStrLn . T.unpack #-}
+
+main : IO ⊤
+main = putStrLn "Hello, World!"
 
 ```
 
@@ -28,7 +37,7 @@ module helloworld where
 
 Hello World in [Agda](https://sampleprograms.io/languages/agda) was written by:
 
-- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
