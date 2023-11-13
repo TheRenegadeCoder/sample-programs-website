@@ -1,9 +1,10 @@
 ---
 authors:
 - Jeremy Grifski
+- rzuckerm
 date: 2018-05-03
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-05-03
+last-modified: 2023-11-13
 layout: default
 tags:
 - factor
@@ -18,6 +19,8 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```factor
+USE: io
+
 "Hello, World!" print
 
 ```
@@ -27,6 +30,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 Hello World in [Factor](https://sampleprograms.io/languages/factor) was written by:
 
 - Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

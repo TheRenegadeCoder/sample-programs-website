@@ -1,9 +1,10 @@
 ---
 authors:
+- rzuckerm
 - tom-vthptvh
 date: 2018-10-03
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-10-03
+last-modified: 2023-11-13
 layout: default
 tags:
 - dale
@@ -21,7 +22,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 (import cstdio)
 
 (def main (fn extern-c int (void)
-    (printf "hello, world\n")))
+    (printf "Hello, World!\n")))
 
 ```
 
@@ -29,6 +30,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 Hello World in [Dale](https://sampleprograms.io/languages/dale) was written by:
 
+- rzuckerm
 - tom-vthptvh
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
