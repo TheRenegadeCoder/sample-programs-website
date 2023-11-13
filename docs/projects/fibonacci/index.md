@@ -1,7 +1,7 @@
 ---
 date: 2018-10-02
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2023-09-16
+last-modified: 2023-11-13
 layout: default
 tags:
 - fibonacci

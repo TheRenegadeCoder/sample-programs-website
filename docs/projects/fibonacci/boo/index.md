@@ -1,9 +1,10 @@
 ---
 authors:
+- rzuckerm
 - Subhayu Roy
 date: 2020-10-02
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2020-10-02
+last-modified: 2023-11-13
 layout: default
 tags:
 - boo
@@ -18,15 +19,27 @@ Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Boo
 {% raw %}
 
 ```boo
-def fib():
+import System
+
+def usage():
+    print("Usage: please input the count of fibonacci numbers to output")
+    Environment.Exit(0)
+
+def fib(n):
     a, b = 0L, 1L       # The 'L's make the numbers double word length (typically 64 bits)
-    while true:
-        yield b
+    for index in range(n):
+        yield index + 1, b
         a, b = b, a + b
 
-# Print the first 5 numbers in the series:
-for index as int, element in zip(range(5), fib()):
-    print("${index+1}: ${element}")
+# Print the first n numbers in the series:
+try:
+    n = int.Parse(argv[0])
+    for index as int, element in fib(n):
+        print("${index}: ${element}")
+except _ as IndexOutOfRangeException:
+    usage()
+except _ as FormatException:
+    usage()
 
 ```
 
@@ -34,6 +47,7 @@ for index as int, element in zip(range(5), fib()):
 
 Fibonacci in [Boo](https://sampleprograms.io/languages/boo) was written by:
 
+- rzuckerm
 - Subhayu Roy
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
