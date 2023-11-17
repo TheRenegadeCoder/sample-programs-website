@@ -1,9 +1,10 @@
 ---
 authors:
 - Jeremy Grifski
+- rzuckerm
 date: 2018-12-30
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-12-30
+last-modified: 2023-11-16
 layout: default
 tags:
 - gluon
@@ -19,7 +20,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```gluon
 let io = import! std.io
-io.print "Hello, World!"
+io.print "Hello, World!\n"
 
 ```
 
@@ -28,6 +29,7 @@ io.print "Hello, World!"
 Hello World in [Gluon](https://sampleprograms.io/languages/gluon) was written by:
 
 - Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
