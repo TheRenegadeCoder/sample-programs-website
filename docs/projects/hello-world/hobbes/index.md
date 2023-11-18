@@ -1,9 +1,9 @@
 ---
 authors:
-- Shivam Choudhary
-date: 2020-12-04
+- rzuckerm
+date: 2023-11-18
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2020-12-04
+last-modified: 2023-11-18
 layout: default
 tags:
 - hello-world
@@ -18,7 +18,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```hobbes
-putStr("Hello, World!")
+putStrLn("Hello, World!")
 
 ```
 
@@ -26,7 +26,7 @@ putStr("Hello, World!")
 
 Hello World in [Hobbes](https://sampleprograms.io/languages/hobbes) was written by:
 
-- Shivam Choudhary
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
