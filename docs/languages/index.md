@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 171 languages, of which 123 are tested, and 845 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 171 languages, of which 125 are tested, and 845 code snippets.
 
 ## Language Collections by Letter
 
@@ -194,7 +194,7 @@ The 'N' collection contains 4 languages, of which 3 are tested, and 7 code snipp
 
 ### O
 
-The 'O' collection contains 7 languages, of which 4 are tested, and 16 code snippets.
+The 'O' collection contains 7 languages, of which 5 are tested, and 16 code snippets.
 
 - [Objective C](https://sampleprograms.io/languages/objective-c)
 - [Ocaml](https://sampleprograms.io/languages/ocaml)
@@ -206,7 +206,7 @@ The 'O' collection contains 7 languages, of which 4 are tested, and 16 code snip
 
 ### P
 
-The 'P' collection contains 17 languages, of which 13 are tested, and 123 code snippets.
+The 'P' collection contains 17 languages, of which 14 are tested, and 123 code snippets.
 
 - [P](https://sampleprograms.io/languages/p)
 - [P4](https://sampleprograms.io/languages/p4)

@@ -1,9 +1,10 @@
 ---
 authors:
 - Parker Johansen
+- rzuckerm
 date: 2018-12-22
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-12-22
+last-modified: 2023-11-20
 layout: default
 tags:
 - hello-world
@@ -20,10 +21,13 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 ```purescript
 module Main where
 
+import Prelude
+import Effect (Effect)
 import Effect.Console (log)
 
-main = log "Hello, world!"
-
+main :: Effect Unit
+main = do
+    log "Hello, World!"
 
 ```
 
@@ -32,6 +36,7 @@ main = log "Hello, world!"
 Hello World in [Purescript](https://sampleprograms.io/languages/purescript) was written by:
 
 - Parker Johansen
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
