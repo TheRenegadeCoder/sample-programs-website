@@ -1,9 +1,10 @@
 ---
 authors:
 - Caio Ariede
+- rzuckerm
 date: 2019-10-04
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2019-10-04
+last-modified: 2023-11-21
 layout: default
 tags:
 - erlang
@@ -19,11 +20,11 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Erl
 
 ```erlang
 -module(fizz_buzz).
--export([start/0]).
+-export([main/1]).
 
-% Run with: erl -noshell -run fizz_buzz -s init stop
+% Run with: escript fizz_buzz.erl
 
-start() ->
+main(_) ->
     fizz_buzz(1, 100).
 
 fizz_buzz(N, Max) when N > Max -> [];
@@ -39,6 +40,7 @@ fizz_buzz(N, Max) -> io:format("~p~n", [N]), fizz_buzz(N+1, Max).
 Fizz Buzz in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
 
 - Caio Ariede
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

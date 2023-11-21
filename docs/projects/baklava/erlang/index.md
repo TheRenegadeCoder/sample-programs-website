@@ -1,9 +1,10 @@
 ---
 authors:
 - Mark Magahis
+- rzuckerm
 date: 2019-10-04
 featured-image: baklava-in-every-language.jpg
-last-modified: 2019-10-04
+last-modified: 2023-11-21
 layout: default
 tags:
 - baklava
@@ -19,12 +20,7 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Erlang]
 
 ```erlang
 -module(baklava).
--export([start/1]).
-
--spec start(MaxWidth :: integer()) -> ok.
-start(MaxWidth) ->
-    baklava(MaxWidth, 0),
-    ok.
+-export([main/1]).
 
 -spec baklava(MaxWidth :: integer(),
               Incrementor :: integer()) -> ok.
@@ -57,6 +53,9 @@ reverse_baklava(MaxWidth, Decrementor) ->
 %%--------------------------------------------------------------------
 %% Recursively prints the specified Number of stars or spaces
 %%--------------------------------------------------------------------
+main(_) ->
+    baklava(10, 0).
+
 print(0,star) ->
     io:format("~n");
 print(0,_) ->
@@ -75,6 +74,7 @@ print(N, star) ->
 Baklava in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
 
 - Mark Magahis
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

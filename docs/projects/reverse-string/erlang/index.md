@@ -1,9 +1,10 @@
 ---
 authors:
 - Mark Magahis
+- rzuckerm
 date: 2019-10-06
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2019-10-06
+last-modified: 2023-11-21
 layout: default
 tags:
 - erlang
@@ -19,21 +20,25 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 
 ```erlang
 -module(reverse_string).
--export([start/1]).
+-export([main/1]).
 
--spec start(StringOrAtom :: list() | atom() | integer()) -> 
-   list() | atom() | integer().
 %%--------------------------------------------------------------------
-%% Reverse a given string, atom, or integer
+%% Reverse a given string
 %%--------------------------------------------------------------------
-start(String) when is_list(String)  ->
-   lists:reverse(String);
+reverse_string(String) ->
+   lists:reverse(String).
 
-start(Atom) when is_atom(Atom) ->
-   list_to_atom(lists:reverse(atom_to_list(Atom)));
+main(Args) ->
+    if
+        length(Args) >= 1 ->
+            Str = lists:nth(1, Args);
+        true ->
+            Str = ""
+    end,
 
-start(Number) when is_integer(Number) ->
-   list_to_integer(lists:reverse(integer_to_list(Number))).
+   ReverseStr = reverse_string(Str),
+   io:format("~s~n", [ReverseStr]).
+
 ```
 
 {% endraw %}
@@ -41,6 +46,7 @@ start(Number) when is_integer(Number) ->
 Reverse String in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
 
 - Mark Magahis
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

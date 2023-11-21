@@ -5,7 +5,7 @@ authors:
 - rzuckerm
 date: 2018-08-08
 featured-image: hello-world-in-erlang.jpg
-last-modified: 2023-05-15
+last-modified: 2023-11-21
 layout: default
 tags:
 - erlang
@@ -21,9 +21,9 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```erlang
 -module(hello_world).
--export([start/0]).
+-export([main/1]).
 
-start() ->
+main(_) ->
    io:format("Hello, World!~n").
 
 ```
@@ -34,6 +34,7 @@ Hello World in [Erlang](https://sampleprograms.io/languages/erlang) was written 
 
 - Jeremy Grifski
 - Nick Keers
+- rzuckerm
 
 This article was written by:
 
@@ -42,6 +43,8 @@ This article was written by:
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Nov 21 2023 11:41:13. The solution was first committed on Aug 08 2018 00:54:57. The documentation was last updated on May 15 2023 15:51:23. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 
