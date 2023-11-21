@@ -18,10 +18,10 @@ file.erl:2: no module definition
 Next, to use functions from the module we've written we have to export them explicitly.
 
 ```erlang
--export([start/0]).
+-export([main/1]).
 ```
 
-This exports our `start` function, it takes no arguments so we reference the function as `start/0`. The number of arguments is called the "arity" of the function.
+This exports our `main` function, it takes one argument so we reference the function as `main/1`. The number of arguments is called the "arity" of the function.
 
 
 Functions in Erlang start with an atom (for now, think of these as just lowercase letters + underscores), then the parameters, followed by an arrow `->`. The following functions are both valid:
@@ -34,6 +34,6 @@ myfunction() ->
   ok.
 ```
 
-Our `start` function only does one thing for this simple program, it calls the `format` function from the `io` module to print characters to standard output by default. `io:format()`. The string `"Hello world!~n"` includes the newline control sequence `~n` - you can see a list of control sequences available for use in the documentation for `io:fwrite` [here][1] (scroll down to "Available control sequences").
+Our `main` function only does one thing for this simple program, it calls the `format` function from the `io` module to print characters to standard output by default. `io:format()`. The string `"Hello world!~n"` includes the newline control sequence `~n` - you can see a list of control sequences available for use in the documentation for `io:fwrite` [here][1] (scroll down to "Available control sequences").
 
 [1]: https://www.erlang.org/doc/man/io.html#fwrite-1
