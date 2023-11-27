@@ -1,9 +1,9 @@
 ---
 authors:
-- Javier "Javi" Carrion
-date: 2020-10-26
+- rzuckerm
+date: 2023-11-26
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2020-10-26
+last-modified: 2023-11-26
 layout: default
 tags:
 - flix
@@ -18,14 +18,14 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```flix
-def main(): String = "Hello World!"
+def main(): String = "Hello, World!"
 ```
 
 {% endraw %}
 
 Hello World in [Flix](https://sampleprograms.io/languages/flix) was written by:
 
-- Javier "Javi" Carrion
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
