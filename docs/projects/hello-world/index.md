@@ -72,7 +72,6 @@ Verify that the actual output matches the expected output
 - [Hello World in D](https://sampleprograms.io/projects/hello-world/d)
 - [Hello World in Dale](https://sampleprograms.io/projects/hello-world/dale)
 - [Hello World in Dart](https://sampleprograms.io/projects/hello-world/dart)
-- [Hello World in Debug](https://sampleprograms.io/projects/hello-world/debug)
 - [Hello World in Dg](https://sampleprograms.io/projects/hello-world/dg)
 - [Hello World in Discus](https://sampleprograms.io/projects/hello-world/discus)
 - [Hello World in Dusk](https://sampleprograms.io/projects/hello-world/dusk)
