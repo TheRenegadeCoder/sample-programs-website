@@ -1,9 +1,10 @@
 ---
 authors:
 - Jeremy Grifski
+- rzuckerm
 date: 2021-05-25
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2021-05-25
+last-modified: 2023-11-26
 layout: default
 tags:
 - c2
@@ -22,7 +23,7 @@ module hello_world;
 
 import stdio as io;
 
-func i32 main(i32 argc, char** argv) {
+public fn i32 main(i32 argc, char** argv) {
     io.printf("Hello, World!\n");
     return 0;
 }
@@ -34,6 +35,7 @@ func i32 main(i32 argc, char** argv) {
 Hello World in [C2](https://sampleprograms.io/languages/c2) was written by:
 
 - Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
