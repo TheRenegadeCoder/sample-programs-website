@@ -1,11 +1,10 @@
 ---
 authors:
 - Jeremy Grifski
-- Muhammad
 - rzuckerm
-date: 2018-05-11
+date: 2022-04-28
 featured-image: hello-world-in-c-star.jpg
-last-modified: 2023-05-15
+last-modified: 2023-11-29
 layout: default
 tags:
 - c-star
@@ -20,10 +19,9 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```c\*
-#include <stdio.h>
-main ()
+void main()
 {
-	printf ("Hello, World!")
+    println("Hello, World!");
 }
 
 ```
@@ -32,8 +30,7 @@ main ()
 
 Hello World in [C\*](https://sampleprograms.io/languages/c-star) was written by:
 
-- Jeremy Grifski
-- Muhammad
+- rzuckerm
 
 This article was written by:
 

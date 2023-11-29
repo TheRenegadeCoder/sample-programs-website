@@ -1,9 +1,9 @@
 ---
 authors:
 - Ron Zuckerman
-date: 2018-05-11
+date: 2022-04-28
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2023-11-29
 layout: default
 tags:
 - c-star
