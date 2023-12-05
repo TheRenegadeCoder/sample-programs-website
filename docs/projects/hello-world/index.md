@@ -43,7 +43,6 @@ Verify that the actual output matches the expected output
 - [Hello World in Apex](https://sampleprograms.io/projects/hello-world/apex)
 - [Hello World in Applescript](https://sampleprograms.io/projects/hello-world/applescript)
 - [Hello World in Arkscript](https://sampleprograms.io/projects/hello-world/arkscript)
-- [Hello World in Astro](https://sampleprograms.io/projects/hello-world/astro)
 - [Hello World in Autohotkey](https://sampleprograms.io/projects/hello-world/autohotkey)
 - [Hello World in Baik](https://sampleprograms.io/projects/hello-world/baik)
 - [Hello World in Ballerina](https://sampleprograms.io/projects/hello-world/ballerina)
