@@ -1,9 +1,10 @@
 ---
 authors:
 - Jeremy Grifski
+- rzuckerm
 date: 2021-05-24
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2021-05-24
+last-modified: 2023-12-05
 layout: default
 tags:
 - f-star
@@ -18,7 +19,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```f\*
-module Hello
+module HelloWorld
 
 open FStar.IO
 
@@ -31,6 +32,7 @@ let main = print_string "Hello, World!\n"
 Hello World in [F\*](https://sampleprograms.io/languages/f-star) was written by:
 
 - Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
