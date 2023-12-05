@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 169 languages, of which 134 are tested, and 843 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 168 languages, of which 134 are tested, and 841 code snippets.
 
 ## Language Collections by Letter
 
@@ -223,12 +223,6 @@ The 'P' collection contains 17 languages, of which 14 are tested, and 123 code s
 - [Purescript](https://sampleprograms.io/languages/purescript)
 - [Pyret](https://sampleprograms.io/languages/pyret)
 - [Python](https://sampleprograms.io/languages/python)
-
-### Q
-
-The 'Q' collection contains 1 language, of which 0 are tested, and 2 code snippets.
-
-- [Quack](https://sampleprograms.io/languages/quack)
 
 ### R
 

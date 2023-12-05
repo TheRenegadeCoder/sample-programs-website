@@ -167,7 +167,6 @@ Verify that the actual output matches the expected output
 - [Hello World in Purescript](https://sampleprograms.io/projects/hello-world/purescript)
 - [Hello World in Pyret](https://sampleprograms.io/projects/hello-world/pyret)
 - [Hello World in Python](https://sampleprograms.io/projects/hello-world/python)
-- [Hello World in Quack](https://sampleprograms.io/projects/hello-world/quack)
 - [Hello World in R](https://sampleprograms.io/projects/hello-world/r)
 - [Hello World in Racket](https://sampleprograms.io/projects/hello-world/racket)
 - [Hello World in Raku](https://sampleprograms.io/projects/hello-world/raku)

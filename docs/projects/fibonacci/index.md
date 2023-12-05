@@ -103,7 +103,6 @@ Usage: please input the count of fibonacci numbers to output
 - [Fibonacci in Perl](https://sampleprograms.io/projects/fibonacci/perl)
 - [Fibonacci in Php](https://sampleprograms.io/projects/fibonacci/php)
 - [Fibonacci in Python](https://sampleprograms.io/projects/fibonacci/python)
-- [Fibonacci in Quack](https://sampleprograms.io/projects/fibonacci/quack)
 - [Fibonacci in Racket](https://sampleprograms.io/projects/fibonacci/racket)
 - [Fibonacci in Ruby](https://sampleprograms.io/projects/fibonacci/ruby)
 - [Fibonacci in Rust](https://sampleprograms.io/projects/fibonacci/rust)
