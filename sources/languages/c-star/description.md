@@ -22,7 +22,7 @@ features like these:
 - Integer overflow checking
 - Null checking
 
-For further information on this language, see the [C* documentation].
+For further information on this language, see the [C* documentation][5].
 
 [1]: https://en.wikipedia.org/wiki/C*
 [2]: https://github.com/emlai
