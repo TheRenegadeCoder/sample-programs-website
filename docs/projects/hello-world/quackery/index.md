@@ -1,32 +1,32 @@
 ---
 authors:
-- Jeremy Griffith
-date: 2018-04-11
+- rzuckerm
+date: 2023-12-09
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-04-11
+last-modified: 2023-12-09
 layout: default
 tags:
 - hello-world
-- octave
-title: Hello World in Octave
+- quackery
+title: Hello World in Quackery
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Octave](https://sampleprograms.io/languages/octave) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Quackery](https://sampleprograms.io/languages/quackery) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```octave
-disp('Hello, World!');
+```quackery
+say "Hello, World!"
 
 ```
 
 {% endraw %}
 
-Hello World in [Octave](https://sampleprograms.io/languages/octave) was written by:
+Hello World in [Quackery](https://sampleprograms.io/languages/quackery) was written by:
 
-- Jeremy Griffith
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

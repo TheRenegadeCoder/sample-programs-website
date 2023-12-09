@@ -1,7 +1,7 @@
 ---
 date: 2018-12-18
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: 2023-10-22
+last-modified: 2023-12-09
 layout: default
 tags:
 - insertion-sort
@@ -138,7 +138,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 - [Insertion Sort in Java](https://sampleprograms.io/projects/insertion-sort/java)
 - [Insertion Sort in Javascript](https://sampleprograms.io/projects/insertion-sort/javascript)
 - [Insertion Sort in Mathematica](https://sampleprograms.io/projects/insertion-sort/mathematica)
-- [Insertion Sort in Matlab](https://sampleprograms.io/projects/insertion-sort/matlab)
+- [Insertion Sort in Octave](https://sampleprograms.io/projects/insertion-sort/octave)
 - [Insertion Sort in Perl](https://sampleprograms.io/projects/insertion-sort/perl)
 - [Insertion Sort in Php](https://sampleprograms.io/projects/insertion-sort/php)
 - [Insertion Sort in Python](https://sampleprograms.io/projects/insertion-sort/python)

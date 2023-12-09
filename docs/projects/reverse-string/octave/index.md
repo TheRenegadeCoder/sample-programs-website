@@ -1,33 +1,38 @@
 ---
 authors:
-- iwishiwasaneagle
-date: 2020-10-02
+- rzuckerm
+date: 2023-12-09
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2020-10-02
+last-modified: 2023-12-09
 layout: default
 tags:
-- matlab
+- octave
 - reverse-string
-title: Reverse String in Matlab
+title: Reverse String in Octave
 ---
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Matlab](https://sampleprograms.io/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Octave](https://sampleprograms.io/languages/octave) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```matlab
-function rev = reverse_a_string(string)
-    rev = reverse(string);
+```octave
+function reverse_string()
+    arg_list = argv();
+    nargin = length(arg_list);
+    if nargin ~= 0
+        disp(fliplr(arg_list{1}));
+    end
 end
+
 ```
 
 {% endraw %}
 
-Reverse String in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
+Reverse String in [Octave](https://sampleprograms.io/languages/octave) was written by:
 
-- iwishiwasaneagle
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

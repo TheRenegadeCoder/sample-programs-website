@@ -1,7 +1,7 @@
 ---
 date: 2018-12-02
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2023-11-21
+last-modified: 2023-12-09
 layout: default
 tags:
 - bubble-sort
@@ -155,7 +155,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 - [Bubble Sort in Kotlin](https://sampleprograms.io/projects/bubble-sort/kotlin)
 - [Bubble Sort in Lua](https://sampleprograms.io/projects/bubble-sort/lua)
 - [Bubble Sort in Mathematica](https://sampleprograms.io/projects/bubble-sort/mathematica)
-- [Bubble Sort in Matlab](https://sampleprograms.io/projects/bubble-sort/matlab)
+- [Bubble Sort in Octave](https://sampleprograms.io/projects/bubble-sort/octave)
 - [Bubble Sort in Perl](https://sampleprograms.io/projects/bubble-sort/perl)
 - [Bubble Sort in Php](https://sampleprograms.io/projects/bubble-sort/php)
 - [Bubble Sort in Python](https://sampleprograms.io/projects/bubble-sort/python)

@@ -1,7 +1,7 @@
 ---
 date: 2018-09-10
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2023-10-04
+last-modified: 2023-12-09
 layout: default
 tags:
 - file-input-output
@@ -65,8 +65,8 @@ Verify that the actual output matches the expected output
 - [File Input Output in Kotlin](https://sampleprograms.io/projects/file-input-output/kotlin)
 - [File Input Output in Lua](https://sampleprograms.io/projects/file-input-output/lua)
 - [File Input Output in Mathematica](https://sampleprograms.io/projects/file-input-output/mathematica)
-- [File Input Output in Matlab](https://sampleprograms.io/projects/file-input-output/matlab)
 - [File Input Output in Objective C](https://sampleprograms.io/projects/file-input-output/objective-c)
+- [File Input Output in Octave](https://sampleprograms.io/projects/file-input-output/octave)
 - [File Input Output in Perl](https://sampleprograms.io/projects/file-input-output/perl)
 - [File Input Output in Php](https://sampleprograms.io/projects/file-input-output/php)
 - [File Input Output in Python](https://sampleprograms.io/projects/file-input-output/python)

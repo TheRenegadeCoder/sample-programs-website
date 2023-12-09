@@ -1,7 +1,7 @@
 ---
 date: 2018-07-27
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2023-11-21
+last-modified: 2023-12-09
 layout: default
 tags:
 - fizz-buzz
@@ -93,8 +93,8 @@ Verify that the actual output matches the expected output
 - [Fizz Buzz in Lolcode](https://sampleprograms.io/projects/fizz-buzz/lolcode)
 - [Fizz Buzz in Lua](https://sampleprograms.io/projects/fizz-buzz/lua)
 - [Fizz Buzz in Mathematica](https://sampleprograms.io/projects/fizz-buzz/mathematica)
-- [Fizz Buzz in Matlab](https://sampleprograms.io/projects/fizz-buzz/matlab)
 - [Fizz Buzz in Objective C](https://sampleprograms.io/projects/fizz-buzz/objective-c)
+- [Fizz Buzz in Octave](https://sampleprograms.io/projects/fizz-buzz/octave)
 - [Fizz Buzz in Pascal](https://sampleprograms.io/projects/fizz-buzz/pascal)
 - [Fizz Buzz in Perl](https://sampleprograms.io/projects/fizz-buzz/perl)
 - [Fizz Buzz in Php](https://sampleprograms.io/projects/fizz-buzz/php)

@@ -1,7 +1,7 @@
 ---
 date: 2018-04-12
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2023-11-21
+last-modified: 2023-12-09
 layout: default
 tags:
 - reverse-string
@@ -83,10 +83,10 @@ In this section, we specify the set of tests specific to Reverse String.
 - [Reverse String in Lisp](https://sampleprograms.io/projects/reverse-string/lisp)
 - [Reverse String in Lua](https://sampleprograms.io/projects/reverse-string/lua)
 - [Reverse String in Mathematica](https://sampleprograms.io/projects/reverse-string/mathematica)
-- [Reverse String in Matlab](https://sampleprograms.io/projects/reverse-string/matlab)
 - [Reverse String in Never](https://sampleprograms.io/projects/reverse-string/never)
 - [Reverse String in Nim](https://sampleprograms.io/projects/reverse-string/nim)
 - [Reverse String in Objective C](https://sampleprograms.io/projects/reverse-string/objective-c)
+- [Reverse String in Octave](https://sampleprograms.io/projects/reverse-string/octave)
 - [Reverse String in Pascal](https://sampleprograms.io/projects/reverse-string/pascal)
 - [Reverse String in Perl](https://sampleprograms.io/projects/reverse-string/perl)
 - [Reverse String in Php](https://sampleprograms.io/projects/reverse-string/php)

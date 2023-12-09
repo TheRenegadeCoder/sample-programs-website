@@ -1,24 +1,25 @@
 ---
 authors:
 - darkpanda08
+- rzuckerm
 date: 2020-10-01
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2020-10-01
+last-modified: 2023-12-09
 layout: default
 tags:
 - fizz-buzz
-- matlab
-title: Fizz Buzz in Matlab
+- octave
+title: Fizz Buzz in Octave
 ---
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Matlab](https://sampleprograms.io/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Octave](https://sampleprograms.io/languages/octave) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```matlab
-function [] = fizzBuzz(x)
+```octave
+function fizz_buzz()
 
   % Loop from 1 to 100
   for i = 1:100
@@ -36,20 +37,22 @@ function [] = fizzBuzz(x)
     
     % If fizzbuzz variable is empty,print i
     if isempty(fizzbuzz)
-      disp(i)
+      disp(i);
     else
       % If fizzbuzz variable is not empty, print the variable
-      disp(fizzbuzz)
+      disp(fizzbuzz);
     end
   end
 end
+
 ```
 
 {% endraw %}
 
-Fizz Buzz in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
+Fizz Buzz in [Octave](https://sampleprograms.io/languages/octave) was written by:
 
 - darkpanda08
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

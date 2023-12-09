@@ -1,52 +1,57 @@
 ---
 authors:
 - iwishiwasaneagle
+- rzuckerm
 date: 2020-10-02
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2020-10-02
+last-modified: 2023-12-09
 layout: default
 tags:
 - file-input-output
-- matlab
-title: File Input Output in Matlab
+- octave
+title: File Input Output in Octave
 ---
 
-Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Matlab](https://sampleprograms.io/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Octave](https://sampleprograms.io/languages/octave) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```matlab
+```octave
 path = "output.txt";
 
 % Write content to file
 file = fopen(path,'w');
 if file == -1
     fprintf(strcat(path, " does not exist\n"));
-    return
+    return;
 end
 fprintf(file, "Hello, World!\n");
+fprintf(file, "Goodbye!\n");
 fclose(file);
 
 % Read content from file
 file = fopen(path,'r');
 if file == -1
     fprintf(strcat(path, " does not exist\n"));
-    return
+    return;
 end
-a = fscanf(file,'%s');
-fprintf(a)
-
-
+a = fgetl(file);
+while ischar(a)
+    disp(a);
+    a = fgetl(file);
+end
+fclose(file);
 
 ```
 
 {% endraw %}
 
-File Input Output in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
+File Input Output in [Octave](https://sampleprograms.io/languages/octave) was written by:
 
 - iwishiwasaneagle
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

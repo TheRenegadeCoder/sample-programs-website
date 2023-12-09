@@ -1,7 +1,7 @@
 ---
 date: 2019-03-31
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2023-09-17
+last-modified: 2023-12-09
 layout: default
 tags:
 - capitalize
@@ -99,8 +99,8 @@ Usage: please provide a string
 - [Capitalize in Lisp](https://sampleprograms.io/projects/capitalize/lisp)
 - [Capitalize in Lua](https://sampleprograms.io/projects/capitalize/lua)
 - [Capitalize in Mathematica](https://sampleprograms.io/projects/capitalize/mathematica)
-- [Capitalize in Matlab](https://sampleprograms.io/projects/capitalize/matlab)
 - [Capitalize in Objective C](https://sampleprograms.io/projects/capitalize/objective-c)
+- [Capitalize in Octave](https://sampleprograms.io/projects/capitalize/octave)
 - [Capitalize in Pascal](https://sampleprograms.io/projects/capitalize/pascal)
 - [Capitalize in Perl](https://sampleprograms.io/projects/capitalize/perl)
 - [Capitalize in Php](https://sampleprograms.io/projects/capitalize/php)

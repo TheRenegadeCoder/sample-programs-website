@@ -1,7 +1,7 @@
 ---
 date: 2018-10-02
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2023-11-13
+last-modified: 2023-12-09
 layout: default
 tags:
 - fibonacci
@@ -96,9 +96,9 @@ Usage: please input the count of fibonacci numbers to output
 - [Fibonacci in Lisp](https://sampleprograms.io/projects/fibonacci/lisp)
 - [Fibonacci in Lua](https://sampleprograms.io/projects/fibonacci/lua)
 - [Fibonacci in Mathematica](https://sampleprograms.io/projects/fibonacci/mathematica)
-- [Fibonacci in Matlab](https://sampleprograms.io/projects/fibonacci/matlab)
 - [Fibonacci in Nim](https://sampleprograms.io/projects/fibonacci/nim)
 - [Fibonacci in Objective C](https://sampleprograms.io/projects/fibonacci/objective-c)
+- [Fibonacci in Octave](https://sampleprograms.io/projects/fibonacci/octave)
 - [Fibonacci in Pascal](https://sampleprograms.io/projects/fibonacci/pascal)
 - [Fibonacci in Perl](https://sampleprograms.io/projects/fibonacci/perl)
 - [Fibonacci in Php](https://sampleprograms.io/projects/fibonacci/php)

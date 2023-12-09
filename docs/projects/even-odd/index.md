@@ -1,7 +1,7 @@
 ---
 date: 2018-10-21
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2023-10-02
+last-modified: 2023-12-09
 layout: default
 tags:
 - even-odd
@@ -89,8 +89,8 @@ Usage: please input a number
 - [Even Odd in Lisp](https://sampleprograms.io/projects/even-odd/lisp)
 - [Even Odd in Lua](https://sampleprograms.io/projects/even-odd/lua)
 - [Even Odd in Mathematica](https://sampleprograms.io/projects/even-odd/mathematica)
-- [Even Odd in Matlab](https://sampleprograms.io/projects/even-odd/matlab)
 - [Even Odd in Objective C](https://sampleprograms.io/projects/even-odd/objective-c)
+- [Even Odd in Octave](https://sampleprograms.io/projects/even-odd/octave)
 - [Even Odd in P4](https://sampleprograms.io/projects/even-odd/p4)
 - [Even Odd in Pascal](https://sampleprograms.io/projects/even-odd/pascal)
 - [Even Odd in Perl](https://sampleprograms.io/projects/even-odd/perl)
