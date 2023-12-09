@@ -60,7 +60,6 @@ In this section, we specify the set of tests specific to Reverse String.
 ## Articles
 
 - [Reverse String in Algol68](https://sampleprograms.io/projects/reverse-string/algol68)
-- [Reverse String in Apex](https://sampleprograms.io/projects/reverse-string/apex)
 - [Reverse String in Bash](https://sampleprograms.io/projects/reverse-string/bash)
 - [Reverse String in Brainfuck](https://sampleprograms.io/projects/reverse-string/brainfuck)
 - [Reverse String in C](https://sampleprograms.io/projects/reverse-string/c)
