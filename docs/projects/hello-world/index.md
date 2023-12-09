@@ -56,7 +56,6 @@ Verify that the actual output matches the expected output
 - [Hello World in Carp](https://sampleprograms.io/projects/hello-world/carp)
 - [Hello World in Chaiscript](https://sampleprograms.io/projects/hello-world/chaiscript)
 - [Hello World in Chapel](https://sampleprograms.io/projects/hello-world/chapel)
-- [Hello World in Charm](https://sampleprograms.io/projects/hello-world/charm)
 - [Hello World in Clipper](https://sampleprograms.io/projects/hello-world/clipper)
 - [Hello World in Clojure](https://sampleprograms.io/projects/hello-world/clojure)
 - [Hello World in Cobol](https://sampleprograms.io/projects/hello-world/cobol)

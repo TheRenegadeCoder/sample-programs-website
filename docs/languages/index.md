@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 164 languages, of which 136 are tested, and 836 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 163 languages, of which 136 are tested, and 835 code snippets.
 
 ## Language Collections by Letter
 
@@ -36,7 +36,7 @@ The 'B' collection contains 8 languages, of which 7 are tested, and 27 code snip
 
 ### C
 
-The 'C' collection contains 16 languages, of which 13 are tested, and 132 code snippets.
+The 'C' collection contains 15 languages, of which 13 are tested, and 131 code snippets.
 
 - [C](https://sampleprograms.io/languages/c)
 - [C#](https://sampleprograms.io/languages/c-sharp)
@@ -46,7 +46,6 @@ The 'C' collection contains 16 languages, of which 13 are tested, and 132 code s
 - [Carp](https://sampleprograms.io/languages/carp)
 - [Chaiscript](https://sampleprograms.io/languages/chaiscript)
 - [Chapel](https://sampleprograms.io/languages/chapel)
-- [Charm](https://sampleprograms.io/languages/charm)
 - [Clipper](https://sampleprograms.io/languages/clipper)
 - [Clojure](https://sampleprograms.io/languages/clojure)
 - [Cobol](https://sampleprograms.io/languages/cobol)
