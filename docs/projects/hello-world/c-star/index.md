@@ -4,7 +4,7 @@ authors:
 - rzuckerm
 date: 2022-04-28
 featured-image: hello-world-in-c-star.jpg
-last-modified: 2023-11-29
+last-modified: 2023-12-09
 layout: default
 tags:
 - c-star
@@ -43,34 +43,35 @@ If you see anything you'd like to change or update, [please consider contributin
 
 At long last, here's Hello World in C*.
 
-As we can see, Hello World in C* looks alarmingly similar to C. That said, C*
+As we can see, Hello World in C* looks similar to C. That said, C*
 is a superset of C, so this shouldn't be too much of a surprise. At any rate,
 let's dig in.
 
-Up first, we have the `include` statement which pulls in the `stdio` header. With
-the standard IO header included, we're able to write to standard output using
-`printf`.
+Unlike C, there is no `include` statement. As far as I can tell, the language
+does not actually have an `include` statement or header files. Somehow, the
+compiler know where to pull the definition for standard libraries.
 
 Next, we have our usual `main` function declaration which serves as the drop in
 function for our program. We should be used to seeing this convention since it's
 common in the popular industrial languages like C++ and Java.
 
-Finally, we make a call to `printf` which is a special print function that allows
-for string formatting. Of course, all we're going to pass to it is the "Hello,
-World!" string. And, that's it!
+Finally, we make a call to `println` which is a special print function that outputs
+the specified string with a newline character. Of course, all we're going to pass
+to it is the "Hello, World!" string. And, that's it!
 
 
 ## How to Run the Solution
 
-Unfortunately, I haven't found a way to execute C* programs. That said, I did
-find a handful of open-source C* compilers, so maybe those can help us out:
+The compiler source can be found in the [C* GitHub repository][1]. To build it,
+just follow the [build from source instructions][2] for your particular OS.
+Once, you've built the compiler, download a copy of the [Hello World in C* sample][3].
+Then, build and run the program like this:
 
-- <https://github.com/KayvanMazaheri/c-star-compiler>
-- <https://github.com/renjithgr/cstar-compiler-Java>
+```
+cx -o hello-world hello-world.cx
+./hello-world
+```
 
-In addition, the [user guide][1] does detail how to compile and run C* programs. But,
-again, that information isn't super helpful without the compiler.
-
-If you know of an official compiler, let me know in the comments.
-
-[1]: https://people.csail.mit.edu/bradley/cm5docs/CStarUsersGuide.pdf
+[1]: https://github.com/cx-language/cx
+[2]: https://github.com/cx-language/cx#building-from-source
+[3]: https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/c/c-star/hello-world.cx
