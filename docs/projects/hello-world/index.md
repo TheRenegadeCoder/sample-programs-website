@@ -40,7 +40,6 @@ Verify that the actual output matches the expected output
 - [Hello World in Agda](https://sampleprograms.io/projects/hello-world/agda)
 - [Hello World in Algol68](https://sampleprograms.io/projects/hello-world/algol68)
 - [Hello World in Arkscript](https://sampleprograms.io/projects/hello-world/arkscript)
-- [Hello World in Autohotkey](https://sampleprograms.io/projects/hello-world/autohotkey)
 - [Hello World in Baik](https://sampleprograms.io/projects/hello-world/baik)
 - [Hello World in Ballerina](https://sampleprograms.io/projects/hello-world/ballerina)
 - [Hello World in Bash](https://sampleprograms.io/projects/hello-world/bash)

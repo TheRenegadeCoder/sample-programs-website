@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 165 languages, of which 136 are tested, and 837 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 164 languages, of which 136 are tested, and 836 code snippets.
 
 ## Language Collections by Letter
 
@@ -14,13 +14,12 @@ To help you navigate the collection, the following languages are organized alpha
 
 ### A
 
-The 'A' collection contains 5 languages, of which 4 are tested, and 42 code snippets.
+The 'A' collection contains 4 languages, of which 4 are tested, and 41 code snippets.
 
 - [Ada](https://sampleprograms.io/languages/ada)
 - [Agda](https://sampleprograms.io/languages/agda)
 - [Algol68](https://sampleprograms.io/languages/algol68)
 - [Arkscript](https://sampleprograms.io/languages/arkscript)
-- [Autohotkey](https://sampleprograms.io/languages/autohotkey)
 
 ### B
 
