@@ -1,9 +1,9 @@
 ---
 authors:
-- Fawaz AR
-date: 2020-10-09
+- rzuckerm
+date: 2023-12-09
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2020-10-09
+last-modified: 2023-12-09
 layout: default
 tags:
 - baik
@@ -18,14 +18,15 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```baik
-tulis "Hello World"
+tulis "Hello, World!\n"
+
 ```
 
 {% endraw %}
 
 Hello World in [Baik](https://sampleprograms.io/languages/baik) was written by:
 
-- Fawaz AR
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
