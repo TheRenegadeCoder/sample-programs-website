@@ -1,12 +1,13 @@
-Unfortunately, I haven't found a way to execute C* programs. That said, I did
-find a handful of open-source C* compilers, so maybe those can help us out:
+The compiler source can be found in the [C* GitHub repository][1]. To build it,
+just follow the [build from source instructions][2] for your particular OS.
+Once, you've built the compiler, download a copy of the [Hello World in C* sample][3].
+Then, build and run the program like this:
 
-- <https://github.com/KayvanMazaheri/c-star-compiler>
-- <https://github.com/renjithgr/cstar-compiler-Java>
+```
+cx -o hello-world hello-world.cx
+./hello-world
+```
 
-In addition, the [user guide][1] does detail how to compile and run C* programs. But,
-again, that information isn't super helpful without the compiler.
-
-If you know of an official compiler, let me know in the comments.
-
-[1]: https://people.csail.mit.edu/bradley/cm5docs/CStarUsersGuide.pdf
+[1]: https://github.com/cx-language/cx
+[2]: https://github.com/cx-language/cx#building-from-source
+[3]: https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/c/c-star/hello-world.cx
