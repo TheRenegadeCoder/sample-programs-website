@@ -72,7 +72,6 @@ Verify that the actual output matches the expected output
 - [Hello World in Eiffel](https://sampleprograms.io/projects/hello-world/eiffel)
 - [Hello World in Elena](https://sampleprograms.io/projects/hello-world/elena)
 - [Hello World in Elixir](https://sampleprograms.io/projects/hello-world/elixir)
-- [Hello World in Elm](https://sampleprograms.io/projects/hello-world/elm)
 - [Hello World in Elvish](https://sampleprograms.io/projects/hello-world/elvish)
 - [Hello World in Emojicode](https://sampleprograms.io/projects/hello-world/emojicode)
 - [Hello World in Erlang](https://sampleprograms.io/projects/hello-world/erlang)
