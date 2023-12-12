@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-08-23
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2023-12-11
 layout: default
 tags:
 - brainfuck
@@ -45,6 +45,7 @@ That's it!
 
 ## Articles
 
+- [Baklava in Brainfuck](https://sampleprograms.io/projects/baklava/brainfuck)
 - [Fizz Buzz in Brainfuck](https://sampleprograms.io/projects/fizz-buzz/brainfuck)
 - [Hello World in Brainfuck](https://sampleprograms.io/projects/hello-world/brainfuck)
 - [Reverse String in Brainfuck](https://sampleprograms.io/projects/reverse-string/brainfuck)

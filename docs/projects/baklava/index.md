@@ -1,7 +1,7 @@
 ---
 date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2023-11-21
+last-modified: 2023-12-11
 layout: default
 tags:
 - baklava
@@ -72,6 +72,7 @@ Verify that the actual output matches the expected output
 - [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
 - [Baklava in Bash](https://sampleprograms.io/projects/baklava/bash)
 - [Baklava in Befunge](https://sampleprograms.io/projects/baklava/befunge)
+- [Baklava in Brainfuck](https://sampleprograms.io/projects/baklava/brainfuck)
 - [Baklava in C](https://sampleprograms.io/projects/baklava/c)
 - [Baklava in C#](https://sampleprograms.io/projects/baklava/c-sharp)
 - [Baklava in C++](https://sampleprograms.io/projects/baklava/c-plus-plus)
