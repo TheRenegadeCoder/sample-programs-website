@@ -1,9 +1,9 @@
 ---
 authors:
-- Calum Dingwall
-date: 2019-10-01
+- rzuckerm
+date: 2023-12-16
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2019-10-01
+last-modified: 2023-12-16
 layout: default
 tags:
 - hello-world
@@ -18,8 +18,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```ti_basic
-ClrHome
-Disp "HELLO, WORLD!"
+Disp "Hello, World!"
 
 ```
 
@@ -27,7 +26,7 @@ Disp "HELLO, WORLD!"
 
 Hello World in [Ti Basic](https://sampleprograms.io/languages/ti-basic) was written by:
 
-- Calum Dingwall
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -1,7 +1,7 @@
 ---
-date: 2019-10-01
+date: 2023-12-16
 featured-image: programming-languages.jpg
-last-modified: 2019-10-01
+last-modified: 2023-12-16
 layout: default
 tags:
 - ti-basic
