@@ -95,7 +95,6 @@ Verify that the actual output matches the expected output
 - [Hello World in Go](https://sampleprograms.io/projects/hello-world/go)
 - [Hello World in Goby](https://sampleprograms.io/projects/hello-world/goby)
 - [Hello World in Golo](https://sampleprograms.io/projects/hello-world/golo)
-- [Hello World in Google Apps Script](https://sampleprograms.io/projects/hello-world/google-apps-script)
 - [Hello World in Gosu](https://sampleprograms.io/projects/hello-world/gosu)
 - [Hello World in Grain](https://sampleprograms.io/projects/hello-world/grain)
 - [Hello World in Granule](https://sampleprograms.io/projects/hello-world/granule)
