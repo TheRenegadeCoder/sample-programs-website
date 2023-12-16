@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 161 languages, of which 139 are tested, and 834 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 160 languages, of which 139 are tested, and 833 code snippets.
 
 ## Language Collections by Letter
 
@@ -164,10 +164,9 @@ The 'L' collection contains 10 languages, of which 8 are tested, and 32 code sni
 
 ### M
 
-The 'M' collection contains 6 languages, of which 3 are tested, and 41 code snippets.
+The 'M' collection contains 5 languages, of which 3 are tested, and 40 code snippets.
 
 - [Mathematica](https://sampleprograms.io/languages/mathematica)
-- [Microsoft Macro Assembler](https://sampleprograms.io/languages/microsoft-macro-assembler)
 - [Mirth](https://sampleprograms.io/languages/mirth)
 - [Modula2](https://sampleprograms.io/languages/modula2)
 - [Mojiscript](https://sampleprograms.io/languages/mojiscript)

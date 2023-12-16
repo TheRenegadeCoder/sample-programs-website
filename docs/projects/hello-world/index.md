@@ -127,7 +127,6 @@ Verify that the actual output matches the expected output
 - [Hello World in Lua](https://sampleprograms.io/projects/hello-world/lua)
 - [Hello World in Lucee](https://sampleprograms.io/projects/hello-world/lucee)
 - [Hello World in Mathematica](https://sampleprograms.io/projects/hello-world/mathematica)
-- [Hello World in Microsoft Macro Assembler](https://sampleprograms.io/projects/hello-world/microsoft-macro-assembler)
 - [Hello World in Mirth](https://sampleprograms.io/projects/hello-world/mirth)
 - [Hello World in Modula2](https://sampleprograms.io/projects/hello-world/modula2)
 - [Hello World in Mojiscript](https://sampleprograms.io/projects/hello-world/mojiscript)
