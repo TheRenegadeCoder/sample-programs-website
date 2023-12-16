@@ -1,9 +1,10 @@
 ---
 authors:
 - Juan D Frias
+- rzuckerm
 date: 2019-10-16
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2019-10-16
+last-modified: 2023-12-16
 layout: default
 tags:
 - fizz-buzz
@@ -37,10 +38,10 @@ int main (int argc, const char *argv[]){
         }
 
         if ([fizzbuzz length] != 0) {
-            NSLog(fizzbuzz);
+            printf("%s\n", [fizzbuzz UTF8String]);
 
         } else {
-            NSLog(@"%d", i);
+            printf("%d\n", i);
         }
     }
 
@@ -56,6 +57,7 @@ int main (int argc, const char *argv[]){
 Fizz Buzz in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - Juan D Frias
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

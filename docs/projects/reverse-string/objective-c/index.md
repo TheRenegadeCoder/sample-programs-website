@@ -1,9 +1,10 @@
 ---
 authors:
+- rzuckerm
 - Tim Lange
 date: 2019-10-14
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2019-10-14
+last-modified: 2023-12-16
 layout: default
 tags:
 - objective-c
@@ -40,13 +41,12 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 
 int main (int argc, const char *argv[]){
     NSAutoreleasePool *pool =[[NSAutoreleasePool alloc] init];
-    char textInput[1000];
-    scanf ("%[^\n]%*c", textInput);
-    NSString *userInput =[NSString stringWithUTF8String:textInput];
-    if([userInput length] > 0){
-        NSLog(@"\n%@", userInput);
-        StringHelper* helper = [[StringHelper alloc] init];
-        NSLog(@"\n%@", [helper reverseString: userInput]);  
+    if (argc >= 2){
+        NSString *userInput =[NSString stringWithUTF8String:argv[1]];
+        if([userInput length] > 0){
+            StringHelper* helper = [[StringHelper alloc] init];
+            printf("%s\n", [[helper reverseString: userInput] UTF8String]);
+        }
     }
     [pool drain];
     return 0;
@@ -58,6 +58,7 @@ int main (int argc, const char *argv[]){
 
 Reverse String in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
 
+- rzuckerm
 - Tim Lange
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).

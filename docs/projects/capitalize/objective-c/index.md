@@ -1,9 +1,10 @@
 ---
 authors:
 - Cristiano Lopes
+- rzuckerm
 date: 2020-10-03
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2020-10-03
+last-modified: 2023-12-16
 layout: default
 tags:
 - capitalize
@@ -21,27 +22,27 @@ Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [O
 #import <Foundation/Foundation.h>
 
 int main(int argc, const char * argv[]) {
-  @autoreleasepool {
-    
-    NSLog(@"Enter the text to be capitalized: ");
-    NSString* textFromStdin = [[NSString alloc] initWithData:[[NSFileHandle fileHandleWithStandardInput] availableData] encoding:NSUTF8StringEncoding];
-    
-    NSString* normalizedText = [textFromStdin stringByTrimmingCharactersInSet:[NSCharacterSet newlineCharacterSet]];
-    
-    if([normalizedText length] < 1){
-      NSLog(@"Usage: please provide a string");
-      return 0;
-    }
-    
-    NSString *firstChar = [[normalizedText substringToIndex:1] uppercaseString];
-    NSString *remainingText = [normalizedText substringFromIndex:1];
-    NSString *capitalizedText = [firstChar stringByAppendingString:remainingText];
-    
-    NSLog(@"%@", capitalizedText);
-    
-    return 0;
-    
+  NSAutoreleasePool *pool =[[NSAutoreleasePool alloc] init];
+  NSString *usage = @"Usage: please provide a string";
+  if (argc < 2) {
+    printf("%s\n", [usage UTF8String]);
   }
+  else {
+    NSString* textFromArg = [NSString stringWithUTF8String:argv[1]];
+    NSString* normalizedText = [textFromArg stringByTrimmingCharactersInSet:[NSCharacterSet newlineCharacterSet]];
+
+    if([normalizedText length] < 1){
+      printf("%s\n", [usage UTF8String]);
+    }
+    else {
+      NSString *firstChar = [[normalizedText substringToIndex:1] uppercaseString];
+      NSString *remainingText = [normalizedText substringFromIndex:1];
+      NSString *capitalizedText = [firstChar stringByAppendingString:remainingText];
+      printf("%s\n", [capitalizedText UTF8String]);
+    }
+  }
+
+  [pool drain];
   return 0;
 }
 
@@ -52,6 +53,7 @@ int main(int argc, const char * argv[]) {
 Capitalize in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - Cristiano Lopes
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

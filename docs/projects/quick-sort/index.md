@@ -1,7 +1,7 @@
 ---
 date: 2018-12-04
 featured-image: quick-sort-in-every-language.jpg
-last-modified: 2023-10-21
+last-modified: 2023-12-16
 layout: default
 tags:
 - quick-sort
