@@ -1,9 +1,10 @@
 ---
 authors:
 - Genki Oji
+- rzuckerm
 date: 2019-10-02
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2019-10-02
+last-modified: 2023-12-16
 layout: default
 tags:
 - hello-world
@@ -23,9 +24,8 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 		<title>My first page</title>
 	</head>
 	<body>
-		<h1>Hello World!</h1>
 		<cfoutput>
-		<p>The time is #now()#</p>
+		<pre>Hello, World!</pre>
 		</cfoutput>
 	</body>
 </html>
@@ -37,6 +37,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 Hello World in [Lucee](https://sampleprograms.io/languages/lucee) was written by:
 
 - Genki Oji
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
