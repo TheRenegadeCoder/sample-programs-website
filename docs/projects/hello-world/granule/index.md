@@ -1,9 +1,10 @@
 ---
 authors:
 - Dominic Orchard
+- rzuckerm
 date: 2022-12-06
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2022-12-06
+last-modified: 2023-12-16
 layout: default
 tags:
 - granule
@@ -19,7 +20,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```granule
 main : () <{Stdout}>
-main = toStdout "Hello, World!"
+main = toStdout "Hello, World!\n"
 
 ```
 
@@ -28,6 +29,7 @@ main = toStdout "Hello, World!"
 Hello World in [Granule](https://sampleprograms.io/languages/granule) was written by:
 
 - Dominic Orchard
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
