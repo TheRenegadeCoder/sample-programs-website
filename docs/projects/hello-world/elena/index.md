@@ -1,9 +1,9 @@
 ---
 authors:
-- Jeremy Grifski
-date: 2018-05-03
+- rzuckerm
+date: 2023-12-16
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-05-03
+last-modified: 2023-12-16
 layout: default
 tags:
 - elena
@@ -18,10 +18,10 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```elena
-program =
-[
-    console writeLine:"Hello, World!".
-].
+public program()
+{
+    console.writeLine("Hello, World!");
+}
 
 ```
 
@@ -29,7 +29,7 @@ program =
 
 Hello World in [Elena](https://sampleprograms.io/languages/elena) was written by:
 
-- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
