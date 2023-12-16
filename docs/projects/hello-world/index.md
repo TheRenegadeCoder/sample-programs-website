@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2023-12-11
+last-modified: 2023-12-16
 layout: default
 tags:
 - hello-world
@@ -132,7 +132,6 @@ Verify that the actual output matches the expected output
 - [Hello World in Mojiscript](https://sampleprograms.io/projects/hello-world/mojiscript)
 - [Hello World in Moonscript](https://sampleprograms.io/projects/hello-world/moonscript)
 - [Hello World in Never](https://sampleprograms.io/projects/hello-world/never)
-- [Hello World in Nice](https://sampleprograms.io/projects/hello-world/nice)
 - [Hello World in Nim](https://sampleprograms.io/projects/hello-world/nim)
 - [Hello World in Nit](https://sampleprograms.io/projects/hello-world/nit)
 - [Hello World in Objective C](https://sampleprograms.io/projects/hello-world/objective-c)
