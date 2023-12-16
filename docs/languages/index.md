@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 155 languages, of which 142 are tested, and 827 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 153 languages, of which 142 are tested, and 825 code snippets.
 
 ## Language Collections by Letter
 
@@ -113,13 +113,12 @@ The 'G' collection contains 11 languages, of which 11 are tested, and 46 code sn
 
 ### H
 
-The 'H' collection contains 5 languages, of which 4 are tested, and 24 code snippets.
+The 'H' collection contains 4 languages, of which 4 are tested, and 23 code snippets.
 
 - [Hack](https://sampleprograms.io/languages/hack)
 - [Haskell](https://sampleprograms.io/languages/haskell)
 - [Haxe](https://sampleprograms.io/languages/haxe)
 - [Hobbes](https://sampleprograms.io/languages/hobbes)
-- [Huginn](https://sampleprograms.io/languages/huginn)
 
 ### I
 
@@ -147,7 +146,7 @@ The 'K' collection contains 3 languages, of which 3 are tested, and 20 code snip
 
 ### L
 
-The 'L' collection contains 10 languages, of which 8 are tested, and 32 code snippets.
+The 'L' collection contains 9 languages, of which 8 are tested, and 31 code snippets.
 
 - [Latte](https://sampleprograms.io/languages/latte)
 - [Lily](https://sampleprograms.io/languages/lily)
@@ -155,7 +154,6 @@ The 'L' collection contains 10 languages, of which 8 are tested, and 32 code sni
 - [Little](https://sampleprograms.io/languages/little)
 - [Livescript](https://sampleprograms.io/languages/livescript)
 - [Lobster](https://sampleprograms.io/languages/lobster)
-- [Logo](https://sampleprograms.io/languages/logo)
 - [Lolcode](https://sampleprograms.io/languages/lolcode)
 - [Lua](https://sampleprograms.io/languages/lua)
 - [Lucee](https://sampleprograms.io/languages/lucee)
