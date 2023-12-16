@@ -91,7 +91,6 @@ Usage: please input a number
 - [Even Odd in Mathematica](https://sampleprograms.io/projects/even-odd/mathematica)
 - [Even Odd in Objective C](https://sampleprograms.io/projects/even-odd/objective-c)
 - [Even Odd in Octave](https://sampleprograms.io/projects/even-odd/octave)
-- [Even Odd in P4](https://sampleprograms.io/projects/even-odd/p4)
 - [Even Odd in Pascal](https://sampleprograms.io/projects/even-odd/pascal)
 - [Even Odd in Perl](https://sampleprograms.io/projects/even-odd/perl)
 - [Even Odd in Php](https://sampleprograms.io/projects/even-odd/php)

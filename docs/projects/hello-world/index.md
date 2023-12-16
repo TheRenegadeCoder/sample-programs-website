@@ -140,7 +140,6 @@ Verify that the actual output matches the expected output
 - [Hello World in Opa](https://sampleprograms.io/projects/hello-world/opa)
 - [Hello World in Orc](https://sampleprograms.io/projects/hello-world/orc)
 - [Hello World in Owl Lisp](https://sampleprograms.io/projects/hello-world/owl-lisp)
-- [Hello World in P4](https://sampleprograms.io/projects/hello-world/p4)
 - [Hello World in Pascal](https://sampleprograms.io/projects/hello-world/pascal)
 - [Hello World in Perl](https://sampleprograms.io/projects/hello-world/perl)
 - [Hello World in Phix](https://sampleprograms.io/projects/hello-world/phix)
