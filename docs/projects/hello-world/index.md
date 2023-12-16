@@ -143,7 +143,6 @@ Verify that the actual output matches the expected output
 - [Hello World in Php](https://sampleprograms.io/projects/hello-world/php)
 - [Hello World in Picolisp](https://sampleprograms.io/projects/hello-world/picolisp)
 - [Hello World in Piet](https://sampleprograms.io/projects/hello-world/piet)
-- [Hello World in Pikelet](https://sampleprograms.io/projects/hello-world/pikelet)
 - [Hello World in Pineapple](https://sampleprograms.io/projects/hello-world/pineapple)
 - [Hello World in Pinecone](https://sampleprograms.io/projects/hello-world/pinecone)
 - [Hello World in Pony](https://sampleprograms.io/projects/hello-world/pony)

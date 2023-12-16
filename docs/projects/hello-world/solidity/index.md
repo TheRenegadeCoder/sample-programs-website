@@ -1,11 +1,10 @@
 ---
 authors:
 - Jeremy Grifski
-- Maximillian Naza
 - rzuckerm
-date: 2018-05-29
+date: 2022-04-28
 featured-image: hello-world-in-solidity.jpg
-last-modified: 2023-05-15
+last-modified: 2023-12-16
 layout: default
 tags:
 - hello-world
@@ -20,20 +19,22 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```solidity
-pragma solidity ^0.4.22;
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8;
 
-contract helloWorld {
-function renderHelloWorld () public pure returns (string) {
-		return 'helloWorld';
-	}
+contract HelloWorld {
+    function main (string memory) public pure returns (string memory) {
+        return 'Hello, World!\n';
+    }
 }
+
 ```
 
 {% endraw %}
 
 Hello World in [Solidity](https://sampleprograms.io/languages/solidity) was written by:
 
-- Maximillian Naza
+- rzuckerm
 
 This article was written by:
 

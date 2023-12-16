@@ -2,9 +2,9 @@
 authors:
 - Jeremy Grifski
 - Ron Zuckerman
-date: 2018-05-29
+date: 2018-10-31
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2023-12-16
 layout: default
 tags:
 - solidity

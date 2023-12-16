@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 153 languages, of which 145 are tested, and 825 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 152 languages, of which 146 are tested, and 824 code snippets.
 
 ## Language Collections by Letter
 
@@ -190,7 +190,7 @@ The 'O' collection contains 7 languages, of which 7 are tested, and 28 code snip
 
 ### P
 
-The 'P' collection contains 15 languages, of which 14 are tested, and 120 code snippets.
+The 'P' collection contains 14 languages, of which 14 are tested, and 119 code snippets.
 
 - [Pascal](https://sampleprograms.io/languages/pascal)
 - [Perl](https://sampleprograms.io/languages/perl)
@@ -198,7 +198,6 @@ The 'P' collection contains 15 languages, of which 14 are tested, and 120 code s
 - [Php](https://sampleprograms.io/languages/php)
 - [Picolisp](https://sampleprograms.io/languages/picolisp)
 - [Piet](https://sampleprograms.io/languages/piet)
-- [Pikelet](https://sampleprograms.io/languages/pikelet)
 - [Pineapple](https://sampleprograms.io/languages/pineapple)
 - [Pinecone](https://sampleprograms.io/languages/pinecone)
 - [Pony](https://sampleprograms.io/languages/pony)
@@ -229,7 +228,7 @@ The 'R' collection contains 8 languages, of which 8 are tested, and 65 code snip
 
 ### S
 
-The 'S' collection contains 10 languages, of which 9 are tested, and 28 code snippets.
+The 'S' collection contains 10 languages, of which 10 are tested, and 28 code snippets.
 
 - [Sather](https://sampleprograms.io/languages/sather)
 - [Scala](https://sampleprograms.io/languages/scala)
