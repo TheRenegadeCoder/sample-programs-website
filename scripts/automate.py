@@ -1,4 +1,4 @@
-from typing import Optional, Iterable, List, Set
+from typing import Optional, Iterable, List, Set, Union
 import datetime
 import functools
 import imghdr
@@ -641,19 +641,45 @@ def generate_languages_index(repo: subete.Repo):
         snippets = sum(language.total_programs() for language in languages)
         tests = sum(1 if language.has_testinfo()
                     else 0 for language in languages)
+        untestables = sum(1 if language.has_untestable_info()
+                    else 0 for language in languages)
         verb = "are" if tests != 1 else "is"
         singular = "language" if len(languages) == 1 else "languages"
-        language_index.add_paragraph(
+        verb_untestables = "are" if untestables != 1 else "is"
+        language_statement = (
             f"The '{letter.upper()}' collection contains {len(languages)} {singular}, "
-            f"of which {tests} {verb} tested, and {snippets} code snippets."
+            f"of which {tests} {verb} tested"
         )
+        if untestables:
+            language_statement += f", {verb_untestables} untestable"
+
+        language_index.add_paragraph(f"{language_statement}, and {snippets} code snippets.")
         languages.sort(key=lambda x: x.name().casefold())
         languages = [
-            snakemd.Inline(x.name(), link=x.lang_docs_url())
+            _get_language_link_and_testability(x)
             for x in languages
         ]
         language_index.add_block(snakemd.MDList(languages))
     language_index.dump("index", dir=str(language_index_path))
+
+
+def _get_language_link_and_testability(
+    language: subete.LanguageCollection
+) -> Union[snakemd.Inline, snakemd.Paragraph]:
+    language_link = snakemd.Inline(language.name(), link=language.lang_docs_url())
+    if language.has_testinfo():
+        return language_link
+
+    if language.has_untestable_info():
+        testability = [
+            snakemd.Inline(" ("),
+            snakemd.Inline("untestabled", link=language.untestable_info_url()),
+            snakemd.Inline(")")
+        ]
+    else:
+        testability = [snakemd.Inline(" (untested)")]
+    
+    return snakemd.Paragraph([language_link] + testability)
 
 
 def generate_projects_index(repo: subete.Repo):
