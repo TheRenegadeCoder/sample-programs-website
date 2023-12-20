@@ -625,11 +625,17 @@ def generate_languages_index(repo: subete.Repo):
         times=times,
         image=_get_default_language_image()
     )
-    language_index.add_paragraph(
+    welcome_text = (
         "Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. "
-        f"At this time, there are {len(list(repo))} languages, of which {repo.total_tests()} are tested, "
-        f"and {repo.total_programs()} code snippets."
+        f"At this time, there are {len(list(repo))} languages, of which {repo.total_tests()} are tested"
     )
+    untestables = repo.total_untestables()
+    if untestables:
+        verb_untestables = "are" if untestables != 1 else "is"
+        welcome_text += f", {untestables} {verb_untestables} untestable"
+
+    welcome_text += f", and {repo.total_programs()} code snippets."
+    language_index.add_paragraph(welcome_text)
     language_index.add_heading("Language Collections by Letter", level=2)
     language_index.add_paragraph(
         "To help you navigate the collection, the following languages are organized alphabetically and grouped by first letter."
@@ -651,7 +657,7 @@ def generate_languages_index(repo: subete.Repo):
             f"of which {tests} {verb} tested"
         )
         if untestables:
-            language_statement += f", {verb_untestables} untestable"
+            language_statement += f", {untestables} {verb_untestables} untestable"
 
         language_index.add_paragraph(f"{language_statement}, and {snippets} code snippets.")
         languages.sort(key=lambda x: x.name().casefold())
