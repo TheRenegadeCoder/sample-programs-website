@@ -3,7 +3,7 @@ authors:
 - Jeremy Grifski
 date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2020-10-15
+last-modified: 2023-12-22
 layout: default
 tags:
 - baklava
@@ -21,7 +21,7 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Python]
 for i in range(0, 10, 1):
     print((" " * (10 - i)) + ("*" * (i * 2 + 1)))
 
-for i in range(10, -1, -1):
+for i in range(10, -1, -1): 
     print((" " * (10 - i)) + ("*" * (i * 2 + 1)))
 
 ```
