@@ -6,8 +6,7 @@ python scripts/automate.py
 
 echo ""
 echo "*** Build With Jekyll ***"
-# Use as close to the same version of Jekyll as GitHub actions is using
-export JEKYLL_VERSION="4.2.2"
+export JEKYLL_VERSION=4.2.2
 docker run --rm \
     -e "JEKYLL_UID=$(id -u)" \
     -e "JEKYLL_GID=$(id -g)" \
