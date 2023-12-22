@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-08-23
 featured-image: programming-languages.jpg
-last-modified: 2023-12-21
+last-modified: 2023-12-22
 layout: default
 tags:
 - brainfuck
@@ -49,6 +49,7 @@ That's it!
 - [Capitalize in Brainfuck](https://sampleprograms.io/projects/capitalize/brainfuck)
 - [Fizz Buzz in Brainfuck](https://sampleprograms.io/projects/fizz-buzz/brainfuck)
 - [Hello World in Brainfuck](https://sampleprograms.io/projects/hello-world/brainfuck)
+- [Longest Word in Brainfuck](https://sampleprograms.io/projects/longest-word/brainfuck)
 - [Remove All Whitespace in Brainfuck](https://sampleprograms.io/projects/remove-all-whitespace/brainfuck)
 - [Reverse String in Brainfuck](https://sampleprograms.io/projects/reverse-string/brainfuck)
 - [Rot13 in Brainfuck](https://sampleprograms.io/projects/rot13/brainfuck)
