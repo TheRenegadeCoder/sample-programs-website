@@ -135,6 +135,34 @@ img {
   padding-bottom: 0px;
 }
 
+.letter-link {
+  list-style: none;
+  border-radius: 4px;
+  border: 0px;
+  display: block;
+  font-size: 22px;
+  font-family: serif;
+  font-weight: bold;
+}
+
+.letter-link>li {
+  display: inline-block;
+}
+
+.letter-link a {
+  color: $brand-color;
+}
+
+.letter-link a:hover {
+  color: darken($brand-color, 20%);
+}
+
+.letter-link>li+li:before {
+  color: #232323;
+  content: "|\00a0";
+  font-weight: normal;
+}
+
 @media print, screen and (max-width: 1200px) {
 
   div.wrapper {
