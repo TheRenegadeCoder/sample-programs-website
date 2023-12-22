@@ -1,7 +1,7 @@
 ---
 date: 2021-05-24
 featured-image: programming-languages.jpg
-last-modified: 2021-05-24
+last-modified: 2023-12-21
 layout: default
 tags:
 - verve
@@ -16,4 +16,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+- [Fizz Buzz in Verve](https://sampleprograms.io/projects/fizz-buzz/verve)
 - [Hello World in Verve](https://sampleprograms.io/projects/hello-world/verve)
