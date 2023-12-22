@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 152 languages, of which 151 are tested, and 826 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 152 languages, of which 151 are tested, 1 is untestable, and 827 code snippets.
 
 ## Language Collections by Letter
 
@@ -160,9 +160,9 @@ The 'L' collection contains 9 languages, of which 9 are tested, and 31 code snip
 
 ### M
 
-The 'M' collection contains 5 languages, of which 4 are tested, and 40 code snippets.
+The 'M' collection contains 5 languages, of which 4 are tested, 1 is untestable, and 40 code snippets.
 
-- [Mathematica](https://sampleprograms.io/languages/mathematica)
+- [Mathematica](https://sampleprograms.io/languages/mathematica) ([untestabled](https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/m/mathematica/untestable.yml))
 - [Mirth](https://sampleprograms.io/languages/mirth)
 - [Modula2](https://sampleprograms.io/languages/modula2)
 - [Mojiscript](https://sampleprograms.io/languages/mojiscript)
@@ -259,7 +259,7 @@ The 'U' collection contains 1 language, of which 1 is tested, and 4 code snippet
 
 ### V
 
-The 'V' collection contains 5 languages, of which 5 are tested, and 11 code snippets.
+The 'V' collection contains 5 languages, of which 5 are tested, and 12 code snippets.
 
 - [V](https://sampleprograms.io/languages/v)
 - [Verilog](https://sampleprograms.io/languages/verilog)

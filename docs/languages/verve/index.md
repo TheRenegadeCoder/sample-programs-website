@@ -16,5 +16,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+- [Baklava in Verve](https://sampleprograms.io/projects/baklava/verve)
 - [Fizz Buzz in Verve](https://sampleprograms.io/projects/fizz-buzz/verve)
 - [Hello World in Verve](https://sampleprograms.io/projects/hello-world/verve)
