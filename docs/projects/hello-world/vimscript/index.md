@@ -1,9 +1,10 @@
 ---
 authors:
 - "Christoph B\xF6hmwalder"
+- rzuckerm
 date: 2018-08-27
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-08-27
+last-modified: 2023-12-21
 layout: default
 tags:
 - hello-world
@@ -18,11 +19,9 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```vimscript
-func! Hello()
-    call append(0, "Hello, World!")
+func! Main()
+    echo "Hello, World!"
 endfunc
-
-au BufEnter,BufReadPost * call Hello()
 
 ```
 
@@ -31,6 +30,7 @@ au BufEnter,BufReadPost * call Hello()
 Hello World in [Vimscript](https://sampleprograms.io/languages/vimscript) was written by:
 
 - Christoph Böhmwalder
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -1,9 +1,10 @@
 ---
 authors:
 - "Christoph B\xF6hmwalder"
+- rzuckerm
 date: 2018-08-28
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2018-08-28
+last-modified: 2023-12-21
 layout: default
 tags:
 - fizz-buzz
@@ -30,14 +31,13 @@ func! FizzBuzz()
             let l:str = l:i
         endif
 
-        call append(l:i-1, l:str)
+        echo l:str
     endfor
-
-    " go to top of buffer
-    normal gg
 endfunc
 
-au BufEnter,BufReadPost * call FizzBuzz()
+func! Main()
+    call FizzBuzz()
+endfunc
 
 ```
 
@@ -46,6 +46,7 @@ au BufEnter,BufReadPost * call FizzBuzz()
 Fizz Buzz in [Vimscript](https://sampleprograms.io/languages/vimscript) was written by:
 
 - Christoph Böhmwalder
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

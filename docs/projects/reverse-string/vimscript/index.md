@@ -1,9 +1,10 @@
 ---
 authors:
 - "Christoph B\xF6hmwalder"
+- rzuckerm
 date: 2018-08-27
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2018-08-27
+last-modified: 2023-12-21
 layout: default
 tags:
 - reverse-string
@@ -19,8 +20,11 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 
 ```vimscript
 func! Reverse(str)
-    let l:r = join(reverse(split(a:str, '\zs')), '')
-    call append(0, l:r)
+    return join(reverse(split(a:str, '\zs')), '')
+endfunc
+
+func! Main(...)
+    echo Reverse(a:0 > 0 ? a:1 : '')
 endfunc
 
 ```
@@ -30,6 +34,7 @@ endfunc
 Reverse String in [Vimscript](https://sampleprograms.io/languages/vimscript) was written by:
 
 - Christoph Böhmwalder
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

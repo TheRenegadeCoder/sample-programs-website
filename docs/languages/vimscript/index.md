@@ -1,7 +1,7 @@
 ---
 date: 2018-08-27
 featured-image: programming-languages.jpg
-last-modified: 2018-08-28
+last-modified: 2023-12-21
 layout: default
 tags:
 - vimscript

@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15
 featured-image: programming-projects-in-every-language.jpg
-last-modified: 2023-12-19
+last-modified: 2023-12-21
 layout: default
 title: Programming Projects in Every Language
 ---
