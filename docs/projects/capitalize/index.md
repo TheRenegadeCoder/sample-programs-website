@@ -1,7 +1,7 @@
 ---
 date: 2019-03-31
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2023-12-16
+last-modified: 2023-12-21
 layout: default
 tags:
 - capitalize
@@ -80,6 +80,7 @@ Usage: please provide a string
 
 - [Capitalize in Algol68](https://sampleprograms.io/projects/capitalize/algol68)
 - [Capitalize in Bash](https://sampleprograms.io/projects/capitalize/bash)
+- [Capitalize in Brainfuck](https://sampleprograms.io/projects/capitalize/brainfuck)
 - [Capitalize in C](https://sampleprograms.io/projects/capitalize/c)
 - [Capitalize in C#](https://sampleprograms.io/projects/capitalize/c-sharp)
 - [Capitalize in C++](https://sampleprograms.io/projects/capitalize/c-plus-plus)
