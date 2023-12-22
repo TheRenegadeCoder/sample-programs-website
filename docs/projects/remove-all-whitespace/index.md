@@ -1,7 +1,7 @@
 ---
 date: 2022-05-12
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2023-09-17
+last-modified: 2023-12-21
 layout: default
 tags:
 - remove-all-whitespace
@@ -85,6 +85,7 @@ Usage: please provide a string
 ## Articles
 
 - [Remove All Whitespace in Algol68](https://sampleprograms.io/projects/remove-all-whitespace/algol68)
+- [Remove All Whitespace in Brainfuck](https://sampleprograms.io/projects/remove-all-whitespace/brainfuck)
 - [Remove All Whitespace in Commodore Basic](https://sampleprograms.io/projects/remove-all-whitespace/commodore-basic)
 - [Remove All Whitespace in Euphoria](https://sampleprograms.io/projects/remove-all-whitespace/euphoria)
 - [Remove All Whitespace in Julia](https://sampleprograms.io/projects/remove-all-whitespace/julia)

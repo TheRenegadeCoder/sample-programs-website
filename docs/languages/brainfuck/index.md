@@ -49,5 +49,6 @@ That's it!
 - [Capitalize in Brainfuck](https://sampleprograms.io/projects/capitalize/brainfuck)
 - [Fizz Buzz in Brainfuck](https://sampleprograms.io/projects/fizz-buzz/brainfuck)
 - [Hello World in Brainfuck](https://sampleprograms.io/projects/hello-world/brainfuck)
+- [Remove All Whitespace in Brainfuck](https://sampleprograms.io/projects/remove-all-whitespace/brainfuck)
 - [Reverse String in Brainfuck](https://sampleprograms.io/projects/reverse-string/brainfuck)
 - [Rot13 in Brainfuck](https://sampleprograms.io/projects/rot13/brainfuck)
