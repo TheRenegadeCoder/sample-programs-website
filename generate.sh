@@ -6,14 +6,21 @@ python scripts/automate.py
 
 echo ""
 echo "*** Build With Jekyll ***"
-export JEKYLL_VERSION=4.2.2
+# Use image that is a close to what is used for GitHub actions
+export GITHUB_PAGES_IMAGE=ghcr.io/actions/jekyll-build-pages
+export GITHUB_PAGES_VERSION=v1.0.9
 docker run --rm \
-    -e "JEKYLL_UID=$(id -u)" \
-    -e "JEKYLL_GID=$(id -g)" \
     -v "$PWD/docs:/srv/jekyll:Z" \
     -w "/srv/jekyll" \
-    -it jekyll/jekyll:$JEKYLL_VERSION \
-    bash -c "bundle install && jekyll build -V --config _config.yml"
+    -e JEKYLL_ENV=development \
+    --entrypoint="" \
+    -it $GITHUB_PAGES_IMAGE:$GITHUB_PAGES_VERSION \
+    bash -c "rm -f Gemfile.lock && \
+        bundle install && \
+        chown $(id -u):$(id -g) Gemfile.lock && \
+        jekyll clean --config _config.yml && \
+        jekyll build -V --config _config.yml && \
+        chown -R  $(id -u):$(id -g) _site"
 
 echo ""
 echo "*** Change Base URL For Generated Files ***"

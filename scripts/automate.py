@@ -638,12 +638,23 @@ def generate_languages_index(repo: subete.Repo):
     language_index.add_paragraph(welcome_text)
     language_index.add_heading("Language Collections by Letter", level=2)
     language_index.add_paragraph(
-        "To help you navigate the collection, the following languages are organized alphabetically and grouped by first letter."
+        "To help you navigate the collection, the following languages are organized alphabetically and grouped by first letter. "
+        "To go to a particular letter, just click one of the links below."
     )
+    language_index.add_raw(_get_language_letter_links(repo))
+
+    return_to_top = [
+        "&laquo; ",
+        snakemd.Inline("Return to Top", link="#language-collections-by-letter"),
+        " &raquo;"
+    ]
+    language_index.add_block(
+        snakemd.Paragraph(["To return here, just click the "] + return_to_top + [" link."])
+    )
+
     for letter in repo.sorted_language_letters():
         language_index.add_heading(letter.upper(), level=3)
-        languages: list[subete.LanguageCollection] = repo.languages_by_letter(
-            letter)
+        languages: list[subete.LanguageCollection] = repo.languages_by_letter(letter)
         snippets = sum(language.total_programs() for language in languages)
         tests = sum(1 if language.has_testinfo()
                     else 0 for language in languages)
@@ -666,7 +677,23 @@ def generate_languages_index(repo: subete.Repo):
             for x in languages
         ]
         language_index.add_block(snakemd.MDList(languages))
+        language_index.add_block(snakemd.Paragraph(return_to_top))
+
     language_index.dump("index", dir=str(language_index_path))
+
+
+def _get_language_letter_links(repo: subete.Repo) -> str:
+    # Have to use raw HTML for this since there is no way to add a class attribute
+    # in Markdown
+    language_letter_links = [
+        '<ul class="letter-link">'
+    ] + [
+        f'    <li><a href="#{letter.lower()}">{letter.upper()}</a></li>'
+        for letter in repo.sorted_language_letters()
+    ] + [
+        "</ul>"
+    ]
+    return "\n".join(language_letter_links)
 
 
 def _get_language_link_and_testability(
@@ -678,9 +705,9 @@ def _get_language_link_and_testability(
 
     if language.has_untestable_info():
         testability = [
-            snakemd.Inline(" ("),
+            " (",
             snakemd.Inline("untestabled", link=language.untestable_info_url()),
-            snakemd.Inline(")")
+            ")"
         ]
     else:
         testability = [snakemd.Inline(" (untested)")]
