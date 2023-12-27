@@ -1,7 +1,7 @@
 ---
 date: 2018-10-21
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2023-12-16
+last-modified: 2023-12-26
 layout: default
 tags:
 - even-odd
@@ -94,6 +94,7 @@ Usage: please input a number
 - [Even Odd in Pascal](https://sampleprograms.io/projects/even-odd/pascal)
 - [Even Odd in Perl](https://sampleprograms.io/projects/even-odd/perl)
 - [Even Odd in Php](https://sampleprograms.io/projects/even-odd/php)
+- [Even Odd in Pyret](https://sampleprograms.io/projects/even-odd/pyret)
 - [Even Odd in Python](https://sampleprograms.io/projects/even-odd/python)
 - [Even Odd in R](https://sampleprograms.io/projects/even-odd/r)
 - [Even Odd in Rexx](https://sampleprograms.io/projects/even-odd/rexx)
