@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-12-26
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2023-12-26
+last-modified: 2024-01-01
 layout: default
 tags:
 - even-odd
@@ -20,13 +20,15 @@ Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Pyret
 ```pyret
 import cmdline-lib as CL
 
+usage = "Usage: please input a number\n"
 args = CL.command-line-arguments()
 cases(Option) string-to-number(if args.length() > 1: args.get(1) else: "" end):
-  | none => print("Usage: please input a number\n")
+  | none => print(usage)
   | some(n) =>
-      if num-modulo(n, 2) == 0: print("Even\n")
-      else: print("Odd\n")
-      end
+    if not(num-is-integer(n)): print(usage)
+    else if num-modulo(n, 2) == 0: print("Even\n")
+    else: print("Odd\n")
+    end
 end
 
 ```
