@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2023-12-21
+last-modified: 2024-01-11
 layout: default
 tags:
 - hello-world
@@ -44,6 +44,7 @@ Verify that the actual output matches the expected output
 - [Hello World in Ballerina](https://sampleprograms.io/projects/hello-world/ballerina)
 - [Hello World in Bash](https://sampleprograms.io/projects/hello-world/bash)
 - [Hello World in Batch](https://sampleprograms.io/projects/hello-world/batch)
+- [Hello World in Beef](https://sampleprograms.io/projects/hello-world/beef)
 - [Hello World in Befunge](https://sampleprograms.io/projects/hello-world/befunge)
 - [Hello World in Boo](https://sampleprograms.io/projects/hello-world/boo)
 - [Hello World in Bracmat](https://sampleprograms.io/projects/hello-world/bracmat)
