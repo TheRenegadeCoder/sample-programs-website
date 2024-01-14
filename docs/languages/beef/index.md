@@ -17,4 +17,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 ## Articles
 
 - [Baklava in Beef](https://sampleprograms.io/projects/baklava/beef)
+- [Fizz Buzz in Beef](https://sampleprograms.io/projects/fizz-buzz/beef)
 - [Hello World in Beef](https://sampleprograms.io/projects/hello-world/beef)
+- [Reverse String in Beef](https://sampleprograms.io/projects/reverse-string/beef)

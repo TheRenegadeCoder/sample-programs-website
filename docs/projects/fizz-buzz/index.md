@@ -1,7 +1,7 @@
 ---
 date: 2018-07-27
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2023-12-21
+last-modified: 2024-01-14
 layout: default
 tags:
 - fizz-buzz
@@ -67,6 +67,7 @@ Verify that the actual output matches the expected output
 
 - [Fizz Buzz in Algol68](https://sampleprograms.io/projects/fizz-buzz/algol68)
 - [Fizz Buzz in Bash](https://sampleprograms.io/projects/fizz-buzz/bash)
+- [Fizz Buzz in Beef](https://sampleprograms.io/projects/fizz-buzz/beef)
 - [Fizz Buzz in Befunge](https://sampleprograms.io/projects/fizz-buzz/befunge)
 - [Fizz Buzz in Brainfuck](https://sampleprograms.io/projects/fizz-buzz/brainfuck)
 - [Fizz Buzz in C](https://sampleprograms.io/projects/fizz-buzz/c)

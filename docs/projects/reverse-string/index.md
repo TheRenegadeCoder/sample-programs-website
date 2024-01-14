@@ -1,7 +1,7 @@
 ---
 date: 2018-04-12
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2023-12-21
+last-modified: 2024-01-14
 layout: default
 tags:
 - reverse-string
@@ -61,6 +61,7 @@ In this section, we specify the set of tests specific to Reverse String.
 
 - [Reverse String in Algol68](https://sampleprograms.io/projects/reverse-string/algol68)
 - [Reverse String in Bash](https://sampleprograms.io/projects/reverse-string/bash)
+- [Reverse String in Beef](https://sampleprograms.io/projects/reverse-string/beef)
 - [Reverse String in Brainfuck](https://sampleprograms.io/projects/reverse-string/brainfuck)
 - [Reverse String in C](https://sampleprograms.io/projects/reverse-string/c)
 - [Reverse String in C#](https://sampleprograms.io/projects/reverse-string/c-sharp)
