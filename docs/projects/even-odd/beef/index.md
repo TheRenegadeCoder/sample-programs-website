@@ -1,0 +1,84 @@
+---
+authors:
+- rzuckerm
+date: 2024-01-14
+featured-image: even-odd-in-every-language.jpg
+last-modified: 2024-01-14
+layout: default
+tags:
+- beef
+- even-odd
+title: Even Odd in Beef
+---
+
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Beef](https://sampleprograms.io/languages/beef) page! Here, you'll find the source code for this program as well as a description of how the program works.
+
+## Current Solution
+
+{% raw %}
+
+```beef
+using System;
+
+namespace EvenOdd;
+
+class Program
+{
+    public static void Usage()
+    {
+        Console.WriteLine("Usage: please input a number");
+        Environment.Exit(0);
+    }
+
+    public static Result<T> ParseInt<T>(StringView str)
+    where T : IParseable<T>
+    {
+        StringView trimmedStr = scope String(str);
+        trimmedStr.Trim();
+
+        // For some reason T.Parse does not treat a sign without a number as an error.
+        // Also, for some reason T.Parse does not treat a single quote as an invalid character.
+        if (trimmedStr == "-" || trimmedStr == "+" || trimmedStr.Contains('\''))
+        {
+            return .Err;
+        }
+
+        return T.Parse(trimmedStr);
+    }
+
+    public static int Main(String[] args)
+    {
+        if (args.Count < 1)
+        {
+            Usage();
+        }
+
+        switch (ParseInt<int32>(args[0]))
+        {
+            case .Ok(let val):
+                Console.WriteLine((val % 2 == 0) ? "Even" : "Odd");
+            case .Err:
+                Usage();
+        }
+
+        return 0;
+    }
+}
+
+```
+
+{% endraw %}
+
+Even Odd in [Beef](https://sampleprograms.io/languages/beef) was written by:
+
+- rzuckerm
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+## How to Implement the Solution
+
+No 'How to Implement the Solution' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
+
+## How to Run the Solution
+
+No 'How to Run the Solution' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).

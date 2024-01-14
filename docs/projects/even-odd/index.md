@@ -1,7 +1,7 @@
 ---
 date: 2018-10-21
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2024-01-01
+last-modified: 2024-01-14
 layout: default
 tags:
 - even-odd
@@ -69,6 +69,7 @@ Usage: please input a number
 
 - [Even Odd in Algol68](https://sampleprograms.io/projects/even-odd/algol68)
 - [Even Odd in Bash](https://sampleprograms.io/projects/even-odd/bash)
+- [Even Odd in Beef](https://sampleprograms.io/projects/even-odd/beef)
 - [Even Odd in C](https://sampleprograms.io/projects/even-odd/c)
 - [Even Odd in C#](https://sampleprograms.io/projects/even-odd/c-sharp)
 - [Even Odd in C++](https://sampleprograms.io/projects/even-odd/c-plus-plus)
