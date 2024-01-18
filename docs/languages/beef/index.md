@@ -1,7 +1,7 @@
 ---
 date: 2024-01-11
 featured-image: programming-languages.jpg
-last-modified: 2024-01-14
+last-modified: 2024-01-18
 layout: default
 tags:
 - beef
@@ -20,4 +20,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Even Odd in Beef](https://sampleprograms.io/projects/even-odd/beef)
 - [Fizz Buzz in Beef](https://sampleprograms.io/projects/fizz-buzz/beef)
 - [Hello World in Beef](https://sampleprograms.io/projects/hello-world/beef)
+- [Quine in Beef](https://sampleprograms.io/projects/quine/beef)
 - [Reverse String in Beef](https://sampleprograms.io/projects/reverse-string/beef)

@@ -1,7 +1,7 @@
 ---
 date: 2018-08-07
 featured-image: quine-in-every-language.jpg
-last-modified: 2023-09-16
+last-modified: 2024-01-18
 layout: default
 tags:
 - quine
@@ -45,6 +45,7 @@ Verify that the actual output matches the expected output
 
 - [Quine in Algol68](https://sampleprograms.io/projects/quine/algol68)
 - [Quine in Bash](https://sampleprograms.io/projects/quine/bash)
+- [Quine in Beef](https://sampleprograms.io/projects/quine/beef)
 - [Quine in Befunge](https://sampleprograms.io/projects/quine/befunge)
 - [Quine in C](https://sampleprograms.io/projects/quine/c)
 - [Quine in C#](https://sampleprograms.io/projects/quine/c-sharp)
