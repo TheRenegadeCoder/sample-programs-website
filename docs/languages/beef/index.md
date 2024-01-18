@@ -24,4 +24,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Fizz Buzz in Beef](https://sampleprograms.io/projects/fizz-buzz/beef)
 - [Hello World in Beef](https://sampleprograms.io/projects/hello-world/beef)
 - [Quine in Beef](https://sampleprograms.io/projects/quine/beef)
+- [Remove All Whitespace in Beef](https://sampleprograms.io/projects/remove-all-whitespace/beef)
 - [Reverse String in Beef](https://sampleprograms.io/projects/reverse-string/beef)
