@@ -1,7 +1,7 @@
 ---
 date: 2018-09-10
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2023-12-16
+last-modified: 2024-01-18
 layout: default
 tags:
 - file-input-output
@@ -51,6 +51,7 @@ Verify that the actual output matches the expected output
 
 - [File Input Output in Algol68](https://sampleprograms.io/projects/file-input-output/algol68)
 - [File Input Output in Bash](https://sampleprograms.io/projects/file-input-output/bash)
+- [File Input Output in Beef](https://sampleprograms.io/projects/file-input-output/beef)
 - [File Input Output in C](https://sampleprograms.io/projects/file-input-output/c)
 - [File Input Output in C#](https://sampleprograms.io/projects/file-input-output/c-sharp)
 - [File Input Output in C++](https://sampleprograms.io/projects/file-input-output/c-plus-plus)
