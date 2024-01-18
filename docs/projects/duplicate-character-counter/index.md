@@ -1,7 +1,7 @@
 ---
 date: 2022-05-14
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2023-10-15
+last-modified: 2024-01-18
 layout: default
 tags:
 - duplicate-character-counter
@@ -66,6 +66,7 @@ Usage: please provide a string
 ## Articles
 
 - [Duplicate Character Counter in Algol68](https://sampleprograms.io/projects/duplicate-character-counter/algol68)
+- [Duplicate Character Counter in Beef](https://sampleprograms.io/projects/duplicate-character-counter/beef)
 - [Duplicate Character Counter in C](https://sampleprograms.io/projects/duplicate-character-counter/c)
 - [Duplicate Character Counter in C++](https://sampleprograms.io/projects/duplicate-character-counter/c-plus-plus)
 - [Duplicate Character Counter in Commodore Basic](https://sampleprograms.io/projects/duplicate-character-counter/commodore-basic)

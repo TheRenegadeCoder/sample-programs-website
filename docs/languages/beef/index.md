@@ -18,6 +18,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 - [Baklava in Beef](https://sampleprograms.io/projects/baklava/beef)
 - [Capitalize in Beef](https://sampleprograms.io/projects/capitalize/beef)
+- [Duplicate Character Counter in Beef](https://sampleprograms.io/projects/duplicate-character-counter/beef)
 - [Even Odd in Beef](https://sampleprograms.io/projects/even-odd/beef)
 - [Fizz Buzz in Beef](https://sampleprograms.io/projects/fizz-buzz/beef)
 - [Hello World in Beef](https://sampleprograms.io/projects/hello-world/beef)
