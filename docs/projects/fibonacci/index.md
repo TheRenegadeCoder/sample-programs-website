@@ -1,7 +1,7 @@
 ---
 date: 2018-10-02
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2023-12-16
+last-modified: 2024-01-22
 layout: default
 tags:
 - fibonacci
@@ -79,6 +79,7 @@ Usage: please input the count of fibonacci numbers to output
 
 - [Fibonacci in Algol68](https://sampleprograms.io/projects/fibonacci/algol68)
 - [Fibonacci in Bash](https://sampleprograms.io/projects/fibonacci/bash)
+- [Fibonacci in Beef](https://sampleprograms.io/projects/fibonacci/beef)
 - [Fibonacci in Boo](https://sampleprograms.io/projects/fibonacci/boo)
 - [Fibonacci in C](https://sampleprograms.io/projects/fibonacci/c)
 - [Fibonacci in C#](https://sampleprograms.io/projects/fibonacci/c-sharp)

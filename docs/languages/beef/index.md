@@ -21,6 +21,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Duplicate Character Counter in Beef](https://sampleprograms.io/projects/duplicate-character-counter/beef)
 - [Even Odd in Beef](https://sampleprograms.io/projects/even-odd/beef)
 - [Factorial in Beef](https://sampleprograms.io/projects/factorial/beef)
+- [Fibonacci in Beef](https://sampleprograms.io/projects/fibonacci/beef)
 - [File Input Output in Beef](https://sampleprograms.io/projects/file-input-output/beef)
 - [Fizz Buzz in Beef](https://sampleprograms.io/projects/fizz-buzz/beef)
 - [Hello World in Beef](https://sampleprograms.io/projects/hello-world/beef)
