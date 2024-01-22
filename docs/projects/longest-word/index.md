@@ -1,7 +1,7 @@
 ---
 date: 2022-05-13
 featured-image: longest-word-in-every-language.jpg
-last-modified: 2023-12-22
+last-modified: 2024-01-22
 layout: default
 tags:
 - longest-word
@@ -88,6 +88,7 @@ Usage: please provide a string
 ## Articles
 
 - [Longest Word in Algol68](https://sampleprograms.io/projects/longest-word/algol68)
+- [Longest Word in Beef](https://sampleprograms.io/projects/longest-word/beef)
 - [Longest Word in Brainfuck](https://sampleprograms.io/projects/longest-word/brainfuck)
 - [Longest Word in C](https://sampleprograms.io/projects/longest-word/c)
 - [Longest Word in C++](https://sampleprograms.io/projects/longest-word/c-plus-plus)
