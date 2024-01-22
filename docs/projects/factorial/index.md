@@ -1,7 +1,7 @@
 ---
 date: 2018-10-26
 featured-image: factorial-in-every-language.jpg
-last-modified: 2023-12-16
+last-modified: 2024-01-22
 layout: default
 tags:
 - factorial
@@ -74,6 +74,7 @@ Usage: please input a non-negative integer
 
 - [Factorial in Algol68](https://sampleprograms.io/projects/factorial/algol68)
 - [Factorial in Bash](https://sampleprograms.io/projects/factorial/bash)
+- [Factorial in Beef](https://sampleprograms.io/projects/factorial/beef)
 - [Factorial in C](https://sampleprograms.io/projects/factorial/c)
 - [Factorial in C#](https://sampleprograms.io/projects/factorial/c-sharp)
 - [Factorial in C++](https://sampleprograms.io/projects/factorial/c-plus-plus)
