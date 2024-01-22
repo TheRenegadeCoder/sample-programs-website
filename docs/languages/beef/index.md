@@ -27,3 +27,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Quine in Beef](https://sampleprograms.io/projects/quine/beef)
 - [Remove All Whitespace in Beef](https://sampleprograms.io/projects/remove-all-whitespace/beef)
 - [Reverse String in Beef](https://sampleprograms.io/projects/reverse-string/beef)
+- [Rot13 in Beef](https://sampleprograms.io/projects/rot13/beef)

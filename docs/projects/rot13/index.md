@@ -1,7 +1,7 @@
 ---
 date: 2018-11-20
 featured-image: rot13-in-every-language.jpg
-last-modified: 2023-12-18
+last-modified: 2024-01-22
 layout: default
 tags:
 - rot13
@@ -89,6 +89,7 @@ Usage: please provide a string to encrypt
 ## Articles
 
 - [Rot13 in Algol68](https://sampleprograms.io/projects/rot13/algol68)
+- [Rot13 in Beef](https://sampleprograms.io/projects/rot13/beef)
 - [Rot13 in Brainfuck](https://sampleprograms.io/projects/rot13/brainfuck)
 - [Rot13 in C](https://sampleprograms.io/projects/rot13/c)
 - [Rot13 in C#](https://sampleprograms.io/projects/rot13/c-sharp)
