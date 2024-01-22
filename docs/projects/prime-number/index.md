@@ -1,7 +1,7 @@
 ---
 date: 2018-11-16
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2023-12-09
+last-modified: 2024-01-22
 layout: default
 tags:
 - prime-number
@@ -74,6 +74,7 @@ Usage: please input a non-negative integer
 
 - [Prime Number in Algol68](https://sampleprograms.io/projects/prime-number/algol68)
 - [Prime Number in Bash](https://sampleprograms.io/projects/prime-number/bash)
+- [Prime Number in Beef](https://sampleprograms.io/projects/prime-number/beef)
 - [Prime Number in C](https://sampleprograms.io/projects/prime-number/c)
 - [Prime Number in C#](https://sampleprograms.io/projects/prime-number/c-sharp)
 - [Prime Number in C++](https://sampleprograms.io/projects/prime-number/c-plus-plus)
