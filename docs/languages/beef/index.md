@@ -1,7 +1,7 @@
 ---
 date: 2024-01-11
 featured-image: programming-languages.jpg
-last-modified: 2024-01-22
+last-modified: 2024-02-02
 layout: default
 tags:
 - beef
@@ -17,6 +17,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 ## Articles
 
 - [Baklava in Beef](https://sampleprograms.io/projects/baklava/beef)
+- [Binary Search in Beef](https://sampleprograms.io/projects/binary-search/beef)
 - [Capitalize in Beef](https://sampleprograms.io/projects/capitalize/beef)
 - [Duplicate Character Counter in Beef](https://sampleprograms.io/projects/duplicate-character-counter/beef)
 - [Even Odd in Beef](https://sampleprograms.io/projects/even-odd/beef)
