@@ -27,6 +27,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [File Input Output in Beef](https://sampleprograms.io/projects/file-input-output/beef)
 - [Fizz Buzz in Beef](https://sampleprograms.io/projects/fizz-buzz/beef)
 - [Hello World in Beef](https://sampleprograms.io/projects/hello-world/beef)
+- [Insertion Sort in Beef](https://sampleprograms.io/projects/insertion-sort/beef)
 - [Josephus Problem in Beef](https://sampleprograms.io/projects/josephus-problem/beef)
 - [Longest Word in Beef](https://sampleprograms.io/projects/longest-word/beef)
 - [Palindromic Number in Beef](https://sampleprograms.io/projects/palindromic-number/beef)
