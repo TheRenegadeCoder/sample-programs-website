@@ -1,7 +1,7 @@
 ---
 date: 2019-10-07
 featured-image: sleep-sort-in-every-language.jpg
-last-modified: 2023-10-23
+last-modified: 2024-02-02
 layout: default
 tags:
 - sleep-sort
@@ -77,6 +77,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 ## Articles
 
 - [Sleep Sort in Algol68](https://sampleprograms.io/projects/sleep-sort/algol68)
+- [Sleep Sort in Beef](https://sampleprograms.io/projects/sleep-sort/beef)
 - [Sleep Sort in C#](https://sampleprograms.io/projects/sleep-sort/c-sharp)
 - [Sleep Sort in Commodore Basic](https://sampleprograms.io/projects/sleep-sort/commodore-basic)
 - [Sleep Sort in Dart](https://sampleprograms.io/projects/sleep-sort/dart)

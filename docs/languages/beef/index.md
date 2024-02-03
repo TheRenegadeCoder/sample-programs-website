@@ -35,3 +35,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Reverse String in Beef](https://sampleprograms.io/projects/reverse-string/beef)
 - [Roman Numeral in Beef](https://sampleprograms.io/projects/roman-numeral/beef)
 - [Rot13 in Beef](https://sampleprograms.io/projects/rot13/beef)
+- [Sleep Sort in Beef](https://sampleprograms.io/projects/sleep-sort/beef)
