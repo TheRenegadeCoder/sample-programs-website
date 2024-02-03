@@ -18,6 +18,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 - [Baklava in Beef](https://sampleprograms.io/projects/baklava/beef)
 - [Binary Search in Beef](https://sampleprograms.io/projects/binary-search/beef)
+- [Bubble Sort in Beef](https://sampleprograms.io/projects/bubble-sort/beef)
 - [Capitalize in Beef](https://sampleprograms.io/projects/capitalize/beef)
 - [Duplicate Character Counter in Beef](https://sampleprograms.io/projects/duplicate-character-counter/beef)
 - [Even Odd in Beef](https://sampleprograms.io/projects/even-odd/beef)
