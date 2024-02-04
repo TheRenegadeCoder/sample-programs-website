@@ -1,7 +1,7 @@
 ---
 date: 2024-01-11
 featured-image: programming-languages.jpg
-last-modified: 2024-02-03
+last-modified: 2024-02-04
 layout: default
 tags:
 - beef
@@ -33,6 +33,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Longest Word in Beef](https://sampleprograms.io/projects/longest-word/beef)
 - [Palindromic Number in Beef](https://sampleprograms.io/projects/palindromic-number/beef)
 - [Prime Number in Beef](https://sampleprograms.io/projects/prime-number/beef)
+- [Quick Sort in Beef](https://sampleprograms.io/projects/quick-sort/beef)
 - [Quine in Beef](https://sampleprograms.io/projects/quine/beef)
 - [Remove All Whitespace in Beef](https://sampleprograms.io/projects/remove-all-whitespace/beef)
 - [Reverse String in Beef](https://sampleprograms.io/projects/reverse-string/beef)
