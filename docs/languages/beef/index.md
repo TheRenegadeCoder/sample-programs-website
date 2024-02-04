@@ -32,6 +32,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Josephus Problem in Beef](https://sampleprograms.io/projects/josephus-problem/beef)
 - [Linear Search in Beef](https://sampleprograms.io/projects/linear-search/beef)
 - [Longest Word in Beef](https://sampleprograms.io/projects/longest-word/beef)
+- [Merge Sort in Beef](https://sampleprograms.io/projects/merge-sort/beef)
 - [Palindromic Number in Beef](https://sampleprograms.io/projects/palindromic-number/beef)
 - [Prime Number in Beef](https://sampleprograms.io/projects/prime-number/beef)
 - [Quick Sort in Beef](https://sampleprograms.io/projects/quick-sort/beef)
