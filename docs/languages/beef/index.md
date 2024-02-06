@@ -1,7 +1,7 @@
 ---
 date: 2024-01-11
 featured-image: programming-languages.jpg
-last-modified: 2024-02-04
+last-modified: 2024-02-05
 layout: default
 tags:
 - beef
@@ -27,6 +27,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Fibonacci in Beef](https://sampleprograms.io/projects/fibonacci/beef)
 - [File Input Output in Beef](https://sampleprograms.io/projects/file-input-output/beef)
 - [Fizz Buzz in Beef](https://sampleprograms.io/projects/fizz-buzz/beef)
+- [Fraction Math in Beef](https://sampleprograms.io/projects/fraction-math/beef)
 - [Hello World in Beef](https://sampleprograms.io/projects/hello-world/beef)
 - [Insertion Sort in Beef](https://sampleprograms.io/projects/insertion-sort/beef)
 - [Josephus Problem in Beef](https://sampleprograms.io/projects/josephus-problem/beef)
