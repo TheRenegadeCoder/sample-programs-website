@@ -1,7 +1,7 @@
 ---
 date: 2024-01-11
 featured-image: programming-languages.jpg
-last-modified: 2024-02-05
+last-modified: 2024-02-09
 layout: default
 tags:
 - beef
@@ -33,6 +33,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Josephus Problem in Beef](https://sampleprograms.io/projects/josephus-problem/beef)
 - [Linear Search in Beef](https://sampleprograms.io/projects/linear-search/beef)
 - [Longest Word in Beef](https://sampleprograms.io/projects/longest-word/beef)
+- [Maximum Array Rotation in Beef](https://sampleprograms.io/projects/maximum-array-rotation/beef)
 - [Merge Sort in Beef](https://sampleprograms.io/projects/merge-sort/beef)
 - [Palindromic Number in Beef](https://sampleprograms.io/projects/palindromic-number/beef)
 - [Prime Number in Beef](https://sampleprograms.io/projects/prime-number/beef)
