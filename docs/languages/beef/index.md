@@ -32,6 +32,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Insertion Sort in Beef](https://sampleprograms.io/projects/insertion-sort/beef)
 - [Josephus Problem in Beef](https://sampleprograms.io/projects/josephus-problem/beef)
 - [Linear Search in Beef](https://sampleprograms.io/projects/linear-search/beef)
+- [Longest Common Subsequence in Beef](https://sampleprograms.io/projects/longest-common-subsequence/beef)
 - [Longest Palindromic Substring in Beef](https://sampleprograms.io/projects/longest-palindromic-substring/beef)
 - [Longest Word in Beef](https://sampleprograms.io/projects/longest-word/beef)
 - [Maximum Array Rotation in Beef](https://sampleprograms.io/projects/maximum-array-rotation/beef)
