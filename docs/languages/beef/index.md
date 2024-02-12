@@ -1,7 +1,7 @@
 ---
 date: 2024-01-11
 featured-image: programming-languages.jpg
-last-modified: 2024-02-09
+last-modified: 2024-02-11
 layout: default
 tags:
 - beef
@@ -32,6 +32,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Insertion Sort in Beef](https://sampleprograms.io/projects/insertion-sort/beef)
 - [Josephus Problem in Beef](https://sampleprograms.io/projects/josephus-problem/beef)
 - [Linear Search in Beef](https://sampleprograms.io/projects/linear-search/beef)
+- [Longest Palindromic Substring in Beef](https://sampleprograms.io/projects/longest-palindromic-substring/beef)
 - [Longest Word in Beef](https://sampleprograms.io/projects/longest-word/beef)
 - [Maximum Array Rotation in Beef](https://sampleprograms.io/projects/maximum-array-rotation/beef)
 - [Merge Sort in Beef](https://sampleprograms.io/projects/merge-sort/beef)
