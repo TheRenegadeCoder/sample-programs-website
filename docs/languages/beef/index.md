@@ -1,7 +1,7 @@
 ---
 date: 2024-01-11
 featured-image: programming-languages.jpg
-last-modified: 2024-02-11
+last-modified: 2024-02-15
 layout: default
 tags:
 - beef
@@ -36,6 +36,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Longest Palindromic Substring in Beef](https://sampleprograms.io/projects/longest-palindromic-substring/beef)
 - [Longest Word in Beef](https://sampleprograms.io/projects/longest-word/beef)
 - [Maximum Array Rotation in Beef](https://sampleprograms.io/projects/maximum-array-rotation/beef)
+- [Maximum Subarray in Beef](https://sampleprograms.io/projects/maximum-subarray/beef)
 - [Merge Sort in Beef](https://sampleprograms.io/projects/merge-sort/beef)
 - [Palindromic Number in Beef](https://sampleprograms.io/projects/palindromic-number/beef)
 - [Prime Number in Beef](https://sampleprograms.io/projects/prime-number/beef)
