@@ -31,6 +31,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Fraction Math in Beef](https://sampleprograms.io/projects/fraction-math/beef)
 - [Hello World in Beef](https://sampleprograms.io/projects/hello-world/beef)
 - [Insertion Sort in Beef](https://sampleprograms.io/projects/insertion-sort/beef)
+- [Job Sequencing in Beef](https://sampleprograms.io/projects/job-sequencing/beef)
 - [Josephus Problem in Beef](https://sampleprograms.io/projects/josephus-problem/beef)
 - [Linear Search in Beef](https://sampleprograms.io/projects/linear-search/beef)
 - [Longest Common Subsequence in Beef](https://sampleprograms.io/projects/longest-common-subsequence/beef)
