@@ -1,7 +1,7 @@
 ---
 date: 2024-01-11
 featured-image: programming-languages.jpg
-last-modified: 2024-02-18
+last-modified: 2024-02-26
 layout: default
 tags:
 - beef
@@ -22,6 +22,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Capitalize in Beef](https://sampleprograms.io/projects/capitalize/beef)
 - [Convex Hull in Beef](https://sampleprograms.io/projects/convex-hull/beef)
 - [Depth First Search in Beef](https://sampleprograms.io/projects/depth-first-search/beef)
+- [Dijkstra in Beef](https://sampleprograms.io/projects/dijkstra/beef)
 - [Duplicate Character Counter in Beef](https://sampleprograms.io/projects/duplicate-character-counter/beef)
 - [Even Odd in Beef](https://sampleprograms.io/projects/even-odd/beef)
 - [Factorial in Beef](https://sampleprograms.io/projects/factorial/beef)
