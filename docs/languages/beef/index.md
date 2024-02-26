@@ -41,6 +41,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [Maximum Array Rotation in Beef](https://sampleprograms.io/projects/maximum-array-rotation/beef)
 - [Maximum Subarray in Beef](https://sampleprograms.io/projects/maximum-subarray/beef)
 - [Merge Sort in Beef](https://sampleprograms.io/projects/merge-sort/beef)
+- [Minimum Spanning Tree in Beef](https://sampleprograms.io/projects/minimum-spanning-tree/beef)
 - [Palindromic Number in Beef](https://sampleprograms.io/projects/palindromic-number/beef)
 - [Prime Number in Beef](https://sampleprograms.io/projects/prime-number/beef)
 - [Quick Sort in Beef](https://sampleprograms.io/projects/quick-sort/beef)
