@@ -1,9 +1,9 @@
 ---
 authors:
-- "Vin\xEDcius Alencar"
-date: 2018-10-24
+- rzuckerm
+date: 2024-04-15
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-10-24
+last-modified: 2024-04-15
 layout: default
 tags:
 - egison
@@ -18,17 +18,17 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```egison
-;; Prints "Hello, World!" to the standard output.
-(define $main
-  (lambda [$args]
-    (write "Hello, World!\n")))
+-- Prints "Hello, World!" to the standard output.
+def main args := do
+  write "Hello, World!\n"
+
 ```
 
 {% endraw %}
 
 Hello World in [Egison](https://sampleprograms.io/languages/egison) was written by:
 
-- Vinícius Alencar
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

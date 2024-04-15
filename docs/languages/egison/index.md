@@ -1,7 +1,7 @@
 ---
-date: 2018-10-24
+date: 2024-04-15
 featured-image: programming-languages.jpg
-last-modified: 2018-10-24
+last-modified: 2024-04-15
 layout: default
 tags:
 - egison
