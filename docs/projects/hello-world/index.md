@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2024-04-15
+last-modified: 2024-05-26
 layout: default
 tags:
 - hello-world
@@ -148,6 +148,7 @@ Verify that the actual output matches the expected output
 - [Hello World in Pinecone](https://sampleprograms.io/projects/hello-world/pinecone)
 - [Hello World in Pony](https://sampleprograms.io/projects/hello-world/pony)
 - [Hello World in Powershell](https://sampleprograms.io/projects/hello-world/powershell)
+- [Hello World in Prolog](https://sampleprograms.io/projects/hello-world/prolog)
 - [Hello World in Purescript](https://sampleprograms.io/projects/hello-world/purescript)
 - [Hello World in Pyret](https://sampleprograms.io/projects/hello-world/pyret)
 - [Hello World in Python](https://sampleprograms.io/projects/hello-world/python)

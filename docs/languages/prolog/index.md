@@ -1,7 +1,7 @@
 ---
 date: 2023-06-10
 featured-image: programming-languages.jpg
-last-modified: 2023-06-10
+last-modified: 2024-05-26
 layout: default
 tags:
 - prolog
@@ -17,3 +17,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 ## Articles
 
 - [Fizz Buzz in Prolog](https://sampleprograms.io/projects/fizz-buzz/prolog)
+- [Hello World in Prolog](https://sampleprograms.io/projects/hello-world/prolog)
