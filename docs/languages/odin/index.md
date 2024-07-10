@@ -1,7 +1,7 @@
 ---
 date: 2018-06-15
 featured-image: programming-languages.jpg
-last-modified: 2023-08-22
+last-modified: 2024-07-10
 layout: default
 tags:
 - odin
@@ -17,3 +17,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 ## Articles
 
 - [Hello World in Odin](https://sampleprograms.io/projects/hello-world/odin)
+- [Prime Number in Odin](https://sampleprograms.io/projects/prime-number/odin)

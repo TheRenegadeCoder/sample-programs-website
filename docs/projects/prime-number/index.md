@@ -1,7 +1,7 @@
 ---
 date: 2018-11-16
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2024-01-22
+last-modified: 2024-07-10
 layout: default
 tags:
 - prime-number
@@ -92,6 +92,7 @@ Usage: please input a non-negative integer
 - [Prime Number in Lua](https://sampleprograms.io/projects/prime-number/lua)
 - [Prime Number in Mathematica](https://sampleprograms.io/projects/prime-number/mathematica)
 - [Prime Number in Octave](https://sampleprograms.io/projects/prime-number/octave)
+- [Prime Number in Odin](https://sampleprograms.io/projects/prime-number/odin)
 - [Prime Number in Pascal](https://sampleprograms.io/projects/prime-number/pascal)
 - [Prime Number in Perl](https://sampleprograms.io/projects/prime-number/perl)
 - [Prime Number in Php](https://sampleprograms.io/projects/prime-number/php)
