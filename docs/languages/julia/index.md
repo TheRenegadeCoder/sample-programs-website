@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-11
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2024-07-25
 layout: default
 tags:
 - julia
@@ -55,6 +55,7 @@ expect several different dialects of it to emerge.
 - [Even Odd in Julia](https://sampleprograms.io/projects/even-odd/julia)
 - [Factorial in Julia](https://sampleprograms.io/projects/factorial/julia)
 - [Fibonacci in Julia](https://sampleprograms.io/projects/fibonacci/julia)
+- [File Input Output in Julia](https://sampleprograms.io/projects/file-input-output/julia)
 - [Fizz Buzz in Julia](https://sampleprograms.io/projects/fizz-buzz/julia)
 - [Hello World in Julia](https://sampleprograms.io/projects/hello-world/julia)
 - [Palindromic Number in Julia](https://sampleprograms.io/projects/palindromic-number/julia)

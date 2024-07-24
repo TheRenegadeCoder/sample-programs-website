@@ -1,7 +1,7 @@
 ---
 date: 2018-09-10
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2024-07-11
+last-modified: 2024-07-25
 layout: default
 tags:
 - file-input-output
@@ -63,6 +63,7 @@ Verify that the actual output matches the expected output
 - [File Input Output in Haskell](https://sampleprograms.io/projects/file-input-output/haskell)
 - [File Input Output in Java](https://sampleprograms.io/projects/file-input-output/java)
 - [File Input Output in Javascript](https://sampleprograms.io/projects/file-input-output/javascript)
+- [File Input Output in Julia](https://sampleprograms.io/projects/file-input-output/julia)
 - [File Input Output in Kotlin](https://sampleprograms.io/projects/file-input-output/kotlin)
 - [File Input Output in Lua](https://sampleprograms.io/projects/file-input-output/lua)
 - [File Input Output in Mathematica](https://sampleprograms.io/projects/file-input-output/mathematica)
