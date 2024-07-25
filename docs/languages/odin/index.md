@@ -1,7 +1,7 @@
 ---
 date: 2018-06-15
 featured-image: programming-languages.jpg
-last-modified: 2024-07-12
+last-modified: 2024-07-25
 layout: default
 tags:
 - odin
@@ -20,3 +20,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 - [File Input Output in Odin](https://sampleprograms.io/projects/file-input-output/odin)
 - [Hello World in Odin](https://sampleprograms.io/projects/hello-world/odin)
 - [Prime Number in Odin](https://sampleprograms.io/projects/prime-number/odin)
+- [Reverse String in Odin](https://sampleprograms.io/projects/reverse-string/odin)
