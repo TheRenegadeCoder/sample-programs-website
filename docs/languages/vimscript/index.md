@@ -1,7 +1,7 @@
 ---
 date: 2018-08-27
 featured-image: programming-languages.jpg
-last-modified: 2023-12-21
+last-modified: 2024-09-26
 layout: default
 tags:
 - vimscript
@@ -16,6 +16,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+- [Baklava in Vimscript](https://sampleprograms.io/projects/baklava/vimscript)
 - [Fizz Buzz in Vimscript](https://sampleprograms.io/projects/fizz-buzz/vimscript)
 - [Hello World in Vimscript](https://sampleprograms.io/projects/hello-world/vimscript)
 - [Reverse String in Vimscript](https://sampleprograms.io/projects/reverse-string/vimscript)
