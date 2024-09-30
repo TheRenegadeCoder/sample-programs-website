@@ -22,13 +22,13 @@ DEFAULT_PROGRAM_IMAGE_NO_EXT = "sample-programs-in-every-language"
 DEFAULT_PROJECT_IMAGE_NO_EXT = "programming-projects-in-every-language"
 DEFAULT_LANGUAGE_IMAGE_NO_EXT = "programming-languages"
 
-AUTO_GEN_NOTE = "AUTO-GENERATED -- DO NOT EDIT!"
+AUTO_GEN_NOTE = "AUTO-GENERATED -- PLEASE DO NOT EDIT!"
 CONTRIBUTING_NOTE = "See .github/CONTRIBUTING.md for further details."
 PROGRAM_NOTE_FORMAT = f"""\
 <!--
 {AUTO_GEN_NOTE}
 
-Instead, edit the following:
+Instead, please edit the following:
 
 - sources/{{source}}/{{source_instance}}/how-to-implement-the-solution.md
 - sources/{{source}}/{{source_instance}}/how-to-run-the-solution.md
@@ -40,7 +40,7 @@ PROJECT_NOTE_FORMAT = f"""\
 <!--
 {AUTO_GEN_NOTE}
 
-Instead, edit the following:
+Instead, please edit the following:
 
 - sources/{{source}}/{{source_instance}}/description.md
 - sources/{{source}}/{{source_instance}}/requirements.md
@@ -52,7 +52,7 @@ LANGUAGE_NOTE_FORMAT = f"""\
 <!--
 {AUTO_GEN_NOTE}
 
-Instead, edit the following:
+Instead, please edit the following:
 
 - sources/{{source}}/{{source_instance}}/description.md
 
