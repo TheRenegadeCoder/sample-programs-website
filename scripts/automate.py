@@ -22,6 +22,12 @@ DEFAULT_PROGRAM_IMAGE_NO_EXT = "sample-programs-in-every-language"
 DEFAULT_PROJECT_IMAGE_NO_EXT = "programming-projects-in-every-language"
 DEFAULT_LANGUAGE_IMAGE_NO_EXT = "programming-languages"
 
+AUTO_GEN_NOTE = "AUTO-GENERATED -- PLEASE DO NOT EDIT!"
+CONTRIBUTING_NOTE = "See .github/CONTRIBUTING.md for further details."
+PROGRAM_MD_FILENAMES = ["how-to-implement-the-solution.md", "how-to-run-the-solution.md"]
+PROJECT_MD_FILENAMES = ["description.md", "requirements.md"]
+LANGUAGE_MD_FILENAMES = ["description.md"]
+
 
 def _add_section(doc: snakemd.Document, source: str, source_instance: str, section: str, level: int = 2):
     """
@@ -120,13 +126,13 @@ def _add_language_article_section(doc: snakemd.Document, repo: subete.Repo, lang
 
 
 def _generate_front_matter(
-        doc: snakemd.Document,
-        title: str,
-        times: Optional[List[Optional[datetime.datetime]]] = None,
-        image: Optional[str] = None,
-        authors: Optional[Set[str]] = None,
-        tags: Optional[Iterable[str]] = None
-    ):
+    doc: snakemd.Document,
+    title: str,
+    times: Optional[List[Optional[datetime.datetime]]] = None,
+    image: Optional[str] = None,
+    authors: Optional[Set[str]] = None,
+    tags: Optional[Iterable[str]] = None
+):
     """
     Generates front matter and adds it to the document.
 
@@ -161,6 +167,34 @@ def _generate_front_matter(
     doc.add_raw(raw)
 
 
+def _generate_no_edit_note(
+    doc: snakemd.Document, source: str, source_instance: str, filenames: List[str]
+):
+    """
+    Generates "DO NOT EDIT" note
+
+    :param snakemd.Document doc: the document to add the note to.
+    :param str source: the specific source folder to pull from (e.g., languages).
+    :param str source_instance: the specific source instance to pull from (e.g., c-plus-plus).
+    :param list[str] filenames: the markdown filenames
+    """
+
+    note_filenames = "\n".join(
+        f"- sources/{source}/{source_instance}/{filename}" for filename in filenames
+    )
+    note = f"""\
+<!--
+{AUTO_GEN_NOTE}
+
+Instead, please edit the following:
+
+{note_filenames}
+
+{CONTRIBUTING_NOTE}
+-->"""
+    doc.add_raw(note)
+
+
 def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.Path):
     """
     Creates a sample program documentation file.
@@ -182,6 +216,12 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         authors=authors | doc_authors,
         tags=[program.language_pathlike_name(), program.project_pathlike_name()]
     )
+    _generate_no_edit_note(doc,
+        str(root_path.parent),
+        program.language_pathlike_name(),
+        PROGRAM_MD_FILENAMES,
+    )
+ 
     doc.add_paragraph(
         f"Welcome to the {program} page! Here, you'll find the source code for this program "
         f"as well as a description of how the program works."
@@ -236,13 +276,13 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
 
     _add_section(
         doc,
-        str(root_path / ".."),
+        str(root_path.parent),
         program.language_pathlike_name(),
         "How to Implement the Solution"
     )
     _add_section(
         doc,
-        str(root_path / ".."),
+        str(root_path.parent),
         program.language_pathlike_name(),
         "How to Run the Solution"
     )
@@ -361,6 +401,7 @@ def _generate_project_index(
         times=times,
         tags=[project.pathlike_name()]
     )
+    _generate_no_edit_note(doc, "projects", project.pathlike_name(), PROJECT_MD_FILENAMES)
     doc.add_paragraph(
         f"Welcome to the {project.name()} page! Here, you'll find a description "
         f"of the project as well as a list of sample programs "
@@ -417,6 +458,7 @@ def _generate_language_index(language: subete.LanguageCollection):
         authors=doc_authors,
         tags=[language.pathlike_name()]
     )
+    _generate_no_edit_note(doc, "languages", language.pathlike_name(), LANGUAGE_MD_FILENAMES)
     doc.add_paragraph(
         f"Welcome to the {language} page! Here, you'll find a description "
         f"of the language as well as a list of sample programs "
