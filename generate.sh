@@ -33,7 +33,7 @@ cd docs/_site
 python -m http.server >/dev/null &
 pid=$!
 trap "printf '\n\n*** Kill webserver (PID %s) ***\n' $pid; \
-    trap - INT HUP ABRT TERM EXIT
+    trap - INT HUP ABRT TERM EXIT; \
     (kill $pid || true); \
     git checkout ../languages ../projects ../index.md; \
     git clean -f ../languages ../projects" INT HUP ABRT TERM EXIT
