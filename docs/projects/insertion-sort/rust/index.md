@@ -12,6 +12,17 @@ tags:
 title: Insertion Sort in Rust
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/insertion-sort/rust/how-to-implement-the-solution.md
+- sources/programs/insertion-sort/rust/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

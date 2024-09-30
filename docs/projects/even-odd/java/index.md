@@ -12,6 +12,17 @@ tags:
 title: Even Odd in Java
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/even-odd/java/how-to-implement-the-solution.md
+- sources/programs/even-odd/java/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

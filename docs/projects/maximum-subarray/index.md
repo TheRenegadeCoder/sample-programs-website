@@ -8,6 +8,17 @@ tags:
 title: Maximum Subarray
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/projects/maximum-subarray/description.md
+- sources/projects/maximum-subarray/requirements.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the Maximum Subarray page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
 
 This article was written by:

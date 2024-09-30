@@ -12,6 +12,17 @@ tags:
 title: Depth First Search in C++
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/depth-first-search/c-plus-plus/how-to-implement-the-solution.md
+- sources/programs/depth-first-search/c-plus-plus/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

@@ -14,6 +14,17 @@ tags:
 title: Palindromic Number in Kotlin
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/palindromic-number/kotlin/how-to-implement-the-solution.md
+- sources/programs/palindromic-number/kotlin/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

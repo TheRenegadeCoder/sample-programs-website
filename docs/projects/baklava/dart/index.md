@@ -11,6 +11,17 @@ tags:
 title: Baklava in Dart
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/baklava/dart/how-to-implement-the-solution.md
+- sources/programs/baklava/dart/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

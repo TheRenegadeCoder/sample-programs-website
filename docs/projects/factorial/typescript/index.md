@@ -11,6 +11,17 @@ tags:
 title: Factorial in Typescript
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/factorial/typescript/how-to-implement-the-solution.md
+- sources/programs/factorial/typescript/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

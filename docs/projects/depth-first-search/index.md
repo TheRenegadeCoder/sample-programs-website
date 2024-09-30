@@ -8,6 +8,17 @@ tags:
 title: Depth First Search
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/projects/depth-first-search/description.md
+- sources/projects/depth-first-search/requirements.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the Depth First Search page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
 
 This article was written by:

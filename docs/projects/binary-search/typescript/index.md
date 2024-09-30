@@ -11,6 +11,17 @@ tags:
 title: Binary Search in Typescript
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/binary-search/typescript/how-to-implement-the-solution.md
+- sources/programs/binary-search/typescript/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

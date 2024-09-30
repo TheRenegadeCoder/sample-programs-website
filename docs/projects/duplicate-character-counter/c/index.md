@@ -11,6 +11,17 @@ tags:
 title: Duplicate Character Counter in C
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/duplicate-character-counter/c/how-to-implement-the-solution.md
+- sources/programs/duplicate-character-counter/c/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the Duplicate [C](https://sampleprograms.io/languages/c)haracter [C](https://sampleprograms.io/languages/c)ounter in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

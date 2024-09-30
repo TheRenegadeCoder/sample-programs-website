@@ -11,6 +11,17 @@ tags:
 title: Quine in Beef
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/quine/beef/how-to-implement-the-solution.md
+- sources/programs/quine/beef/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Beef](https://sampleprograms.io/languages/beef) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

@@ -8,6 +8,17 @@ tags:
 title: Convex Hull
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/projects/convex-hull/description.md
+- sources/projects/convex-hull/requirements.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the Convex Hull page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
 
 This article was written by:

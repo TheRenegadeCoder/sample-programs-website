@@ -11,6 +11,17 @@ tags:
 title: Fibonacci in Octave
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/fibonacci/octave/how-to-implement-the-solution.md
+- sources/programs/fibonacci/octave/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Octave](https://sampleprograms.io/languages/octave) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

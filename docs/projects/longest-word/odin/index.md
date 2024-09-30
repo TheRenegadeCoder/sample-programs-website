@@ -11,6 +11,17 @@ tags:
 title: Longest Word in Odin
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/longest-word/odin/how-to-implement-the-solution.md
+- sources/programs/longest-word/odin/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Odin](https://sampleprograms.io/languages/odin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

@@ -8,6 +8,17 @@ tags:
 title: Selection Sort
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/projects/selection-sort/description.md
+- sources/projects/selection-sort/requirements.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the Selection Sort page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
 
 This article was written by:

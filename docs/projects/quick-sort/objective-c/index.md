@@ -12,6 +12,17 @@ tags:
 title: Quick Sort in Objective C
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/quick-sort/objective-c/how-to-implement-the-solution.md
+- sources/programs/quick-sort/objective-c/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Objective C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

@@ -11,6 +11,17 @@ tags:
 title: Remove All Whitespace in Rust
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/remove-all-whitespace/rust/how-to-implement-the-solution.md
+- sources/programs/remove-all-whitespace/rust/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

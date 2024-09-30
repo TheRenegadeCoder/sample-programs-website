@@ -8,6 +8,17 @@ tags:
 title: Sleep Sort
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/projects/sleep-sort/description.md
+- sources/projects/sleep-sort/requirements.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the Sleep Sort page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
 
 This article was written by:

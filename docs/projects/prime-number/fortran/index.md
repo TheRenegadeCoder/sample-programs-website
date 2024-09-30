@@ -11,6 +11,17 @@ tags:
 title: Prime Number in Fortran
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/prime-number/fortran/how-to-implement-the-solution.md
+- sources/programs/prime-number/fortran/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Fortran](https://sampleprograms.io/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

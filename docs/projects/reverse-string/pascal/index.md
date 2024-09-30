@@ -12,6 +12,17 @@ tags:
 title: Reverse String in Pascal
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/reverse-string/pascal/how-to-implement-the-solution.md
+- sources/programs/reverse-string/pascal/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Pascal](https://sampleprograms.io/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

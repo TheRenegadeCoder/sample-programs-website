@@ -11,6 +11,17 @@ tags:
 title: Hello World in Fennel
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/hello-world/fennel/how-to-implement-the-solution.md
+- sources/programs/hello-world/fennel/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Fennel](https://sampleprograms.io/languages/fennel) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

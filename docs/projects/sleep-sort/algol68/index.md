@@ -11,6 +11,17 @@ tags:
 title: Sleep Sort in Algol68
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/sleep-sort/algol68/how-to-implement-the-solution.md
+- sources/programs/sleep-sort/algol68/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Sleep Sort](https://sampleprograms.io/projects/sleep-sort) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

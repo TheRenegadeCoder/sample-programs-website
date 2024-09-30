@@ -15,6 +15,17 @@ tags:
 title: Roman Numeral in Python
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/roman-numeral/python/how-to-implement-the-solution.md
+- sources/programs/roman-numeral/python/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

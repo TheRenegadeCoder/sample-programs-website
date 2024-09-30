@@ -11,6 +11,17 @@ tags:
 title: Selection Sort in Haskell
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/selection-sort/haskell/how-to-implement-the-solution.md
+- sources/programs/selection-sort/haskell/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

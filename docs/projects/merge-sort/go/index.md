@@ -11,6 +11,17 @@ tags:
 title: Merge Sort in Go
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/merge-sort/go/how-to-implement-the-solution.md
+- sources/programs/merge-sort/go/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

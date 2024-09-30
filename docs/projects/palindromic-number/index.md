@@ -8,6 +8,17 @@ tags:
 title: Palindromic Number
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/projects/palindromic-number/description.md
+- sources/projects/palindromic-number/requirements.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the Palindromic Number page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
 
 This article was written by:

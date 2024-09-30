@@ -8,6 +8,16 @@ tags:
 title: The V Programming Language
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/languages/v/description.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the V page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 ## Description

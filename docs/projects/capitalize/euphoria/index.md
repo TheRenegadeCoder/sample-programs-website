@@ -11,6 +11,17 @@ tags:
 title: Capitalize in Euphoria
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/capitalize/euphoria/how-to-implement-the-solution.md
+- sources/programs/capitalize/euphoria/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

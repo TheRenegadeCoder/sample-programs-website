@@ -11,6 +11,17 @@ tags:
 title: Fizz Buzz in Unicat
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/fizz-buzz/unicat/how-to-implement-the-solution.md
+- sources/programs/fizz-buzz/unicat/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Unicat](https://sampleprograms.io/languages/unicat) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

@@ -14,6 +14,17 @@ tags:
 title: Capitalize in C
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/capitalize/c/how-to-implement-the-solution.md
+- sources/programs/capitalize/c/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [C](https://sampleprograms.io/languages/c)apitalize in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

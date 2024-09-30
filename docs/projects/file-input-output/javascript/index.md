@@ -12,6 +12,17 @@ tags:
 title: File Input Output in Javascript
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/file-input-output/javascript/how-to-implement-the-solution.md
+- sources/programs/file-input-output/javascript/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

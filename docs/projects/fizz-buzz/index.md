@@ -8,6 +8,17 @@ tags:
 title: Fizz Buzz
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/projects/fizz-buzz/description.md
+- sources/projects/fizz-buzz/requirements.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the Fizz Buzz page! Here, you'll find a description of the project as well as a list of sample programs written in various languages.
 
 This article was written by:

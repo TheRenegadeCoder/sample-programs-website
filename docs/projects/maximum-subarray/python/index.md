@@ -13,6 +13,17 @@ tags:
 title: Maximum Subarray in Python
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/maximum-subarray/python/how-to-implement-the-solution.md
+- sources/programs/maximum-subarray/python/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution

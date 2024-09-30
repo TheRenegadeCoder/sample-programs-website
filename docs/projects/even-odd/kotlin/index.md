@@ -12,6 +12,17 @@ tags:
 title: Even Odd in Kotlin
 ---
 
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/even-odd/kotlin/how-to-implement-the-solution.md
+- sources/programs/even-odd/kotlin/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
 Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
