@@ -5,7 +5,7 @@ authors:
 - Stuart Irwin
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2024-09-30
 layout: default
 tags:
 - java
@@ -65,6 +65,7 @@ great features like garbage collection which offset some of these complaints.
 - [Bubble Sort in Java](https://sampleprograms.io/projects/bubble-sort/java)
 - [Capitalize in Java](https://sampleprograms.io/projects/capitalize/java)
 - [Convex Hull in Java](https://sampleprograms.io/projects/convex-hull/java)
+- [Depth First Search in Java](https://sampleprograms.io/projects/depth-first-search/java)
 - [Duplicate Character Counter in Java](https://sampleprograms.io/projects/duplicate-character-counter/java)
 - [Even Odd in Java](https://sampleprograms.io/projects/even-odd/java)
 - [Factorial in Java](https://sampleprograms.io/projects/factorial/java)
