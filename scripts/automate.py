@@ -24,41 +24,9 @@ DEFAULT_LANGUAGE_IMAGE_NO_EXT = "programming-languages"
 
 AUTO_GEN_NOTE = "AUTO-GENERATED -- PLEASE DO NOT EDIT!"
 CONTRIBUTING_NOTE = "See .github/CONTRIBUTING.md for further details."
-PROGRAM_NOTE_FORMAT = f"""\
-<!--
-{AUTO_GEN_NOTE}
-
-Instead, please edit the following:
-
-- sources/{{source}}/{{source_instance}}/how-to-implement-the-solution.md
-- sources/{{source}}/{{source_instance}}/how-to-run-the-solution.md
-
-{CONTRIBUTING_NOTE}
--->
-"""
-PROJECT_NOTE_FORMAT = f"""\
-<!--
-{AUTO_GEN_NOTE}
-
-Instead, please edit the following:
-
-- sources/{{source}}/{{source_instance}}/description.md
-- sources/{{source}}/{{source_instance}}/requirements.md
-
-{CONTRIBUTING_NOTE}
--->
-"""
-LANGUAGE_NOTE_FORMAT = f"""\
-<!--
-{AUTO_GEN_NOTE}
-
-Instead, please edit the following:
-
-- sources/{{source}}/{{source_instance}}/description.md
-
-{CONTRIBUTING_NOTE}
--->
-"""
+PROGRAM_MD_FILENAMES = ["how-to-implement-the-solution.md", "how-to-run-the-solution.md"]
+PROJECT_MD_FILENAMES = ["description.md", "requirements.md"]
+LANGUAGE_MD_FILENAMES = ["description.md"]
 
 
 def _add_section(doc: snakemd.Document, source: str, source_instance: str, section: str, level: int = 2):
@@ -199,17 +167,31 @@ def _generate_front_matter(
     doc.add_raw(raw)
 
 
-def _generate_no_edit_note(doc: snakemd.Document, source: str, source_instance: str, note_format: str):
+def _generate_no_edit_note(
+    doc: snakemd.Document, source: str, source_instance: str, filenames: List[str]
+):
     """
     Generates "DO NOT EDIT" note
 
     :param snakemd.Document doc: the document to add the note to.
     :param str source: the specific source folder to pull from (e.g., languages).
     :param str source_instance: the specific source instance to pull from (e.g., c-plus-plus).
-    :param str note_format: the format string containing the note
+    :param list[str] filenames: the markdown filenames
     """
 
-    note = note_format.format(source=source, source_instance=source_instance).strip()
+    note_filenames = "\n".join(
+        f"- sources/{source}/{source_instance}/{filename}" for filename in filenames
+    )
+    note = f"""\
+<!--
+{AUTO_GEN_NOTE}
+
+Instead, please edit the following:
+
+{note_filenames}
+
+{CONTRIBUTING_NOTE}
+-->"""
     doc.add_raw(note)
 
 
@@ -237,7 +219,7 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
     _generate_no_edit_note(doc,
         str(root_path.parent),
         program.language_pathlike_name(),
-        PROGRAM_NOTE_FORMAT,
+        PROGRAM_MD_FILENAMES,
     )
  
     doc.add_paragraph(
@@ -419,7 +401,7 @@ def _generate_project_index(
         times=times,
         tags=[project.pathlike_name()]
     )
-    _generate_no_edit_note(doc, "projects", project.pathlike_name(), PROJECT_NOTE_FORMAT)
+    _generate_no_edit_note(doc, "projects", project.pathlike_name(), PROJECT_MD_FILENAMES)
     doc.add_paragraph(
         f"Welcome to the {project.name()} page! Here, you'll find a description "
         f"of the project as well as a list of sample programs "
@@ -476,7 +458,7 @@ def _generate_language_index(language: subete.LanguageCollection):
         authors=doc_authors,
         tags=[language.pathlike_name()]
     )
-    _generate_no_edit_note(doc, "languages", language.pathlike_name(), LANGUAGE_NOTE_FORMAT)
+    _generate_no_edit_note(doc, "languages", language.pathlike_name(), LANGUAGE_MD_FILENAMES)
     doc.add_paragraph(
         f"Welcome to the {language} page! Here, you'll find a description "
         f"of the language as well as a list of sample programs "
