@@ -1,7 +1,7 @@
 ---
 date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2024-09-26
+last-modified: 2024-10-01
 layout: default
 tags:
 - baklava
@@ -116,6 +116,7 @@ Verify that the actual output matches the expected output
 - [Baklava in Piet](https://sampleprograms.io/projects/baklava/piet)
 - [Baklava in Pyret](https://sampleprograms.io/projects/baklava/pyret)
 - [Baklava in Python](https://sampleprograms.io/projects/baklava/python)
+- [Baklava in Ring](https://sampleprograms.io/projects/baklava/ring)
 - [Baklava in Ruby](https://sampleprograms.io/projects/baklava/ruby)
 - [Baklava in Rust](https://sampleprograms.io/projects/baklava/rust)
 - [Baklava in Solisp](https://sampleprograms.io/projects/baklava/solisp)

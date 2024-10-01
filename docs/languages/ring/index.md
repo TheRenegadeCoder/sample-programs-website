@@ -1,7 +1,7 @@
 ---
 date: 2018-04-23
 featured-image: programming-languages.jpg
-last-modified: 2018-04-23
+last-modified: 2024-10-01
 layout: default
 tags:
 - ring
@@ -26,4 +26,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+- [Baklava in Ring](https://sampleprograms.io/projects/baklava/ring)
 - [Hello World in Ring](https://sampleprograms.io/projects/hello-world/ring)
