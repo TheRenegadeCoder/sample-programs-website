@@ -122,6 +122,7 @@ Verify that the actual output matches the expected output
 - [Baklava in Rust](https://sampleprograms.io/projects/baklava/rust)
 - [Baklava in Sather](https://sampleprograms.io/projects/baklava/sather)
 - [Baklava in Scala](https://sampleprograms.io/projects/baklava/scala)
+- [Baklava in Scilab](https://sampleprograms.io/projects/baklava/scilab)
 - [Baklava in Solisp](https://sampleprograms.io/projects/baklava/solisp)
 - [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
 - [Baklava in Typescript](https://sampleprograms.io/projects/baklava/typescript)

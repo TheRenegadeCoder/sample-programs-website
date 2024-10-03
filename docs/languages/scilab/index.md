@@ -1,7 +1,7 @@
 ---
 date: 2023-11-20
 featured-image: programming-languages.jpg
-last-modified: 2023-11-20
+last-modified: 2024-10-02
 layout: default
 tags:
 - scilab
@@ -26,4 +26,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+- [Baklava in Scilab](https://sampleprograms.io/projects/baklava/scilab)
 - [Hello World in Scilab](https://sampleprograms.io/projects/hello-world/scilab)
