@@ -116,6 +116,7 @@ Verify that the actual output matches the expected output
 - [Baklava in Piet](https://sampleprograms.io/projects/baklava/piet)
 - [Baklava in Pyret](https://sampleprograms.io/projects/baklava/pyret)
 - [Baklava in Python](https://sampleprograms.io/projects/baklava/python)
+- [Baklava in Rexx](https://sampleprograms.io/projects/baklava/rexx)
 - [Baklava in Ring](https://sampleprograms.io/projects/baklava/ring)
 - [Baklava in Ruby](https://sampleprograms.io/projects/baklava/ruby)
 - [Baklava in Rust](https://sampleprograms.io/projects/baklava/rust)

@@ -1,7 +1,7 @@
 ---
 date: 2018-04-19
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2024-10-02
 layout: default
 tags:
 - rexx
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+- [Baklava in Rexx](https://sampleprograms.io/projects/baklava/rexx)
 - [Even Odd in Rexx](https://sampleprograms.io/projects/even-odd/rexx)
 - [Hello World in Rexx](https://sampleprograms.io/projects/hello-world/rexx)
 - [Prime Number in Rexx](https://sampleprograms.io/projects/prime-number/rexx)
