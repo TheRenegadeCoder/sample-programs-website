@@ -1,7 +1,7 @@
 ---
 date: 2018-04-27
 featured-image: programming-languages.jpg
-last-modified: 2023-12-19
+last-modified: 2024-10-02
 layout: default
 tags:
 - verilog
@@ -26,4 +26,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+- [Baklava in Verilog](https://sampleprograms.io/projects/baklava/verilog)
 - [Hello World in Verilog](https://sampleprograms.io/projects/hello-world/verilog)

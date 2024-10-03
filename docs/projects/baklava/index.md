@@ -126,6 +126,7 @@ Verify that the actual output matches the expected output
 - [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
 - [Baklava in Typescript](https://sampleprograms.io/projects/baklava/typescript)
 - [Baklava in Unicat](https://sampleprograms.io/projects/baklava/unicat)
+- [Baklava in Verilog](https://sampleprograms.io/projects/baklava/verilog)
 - [Baklava in Verve](https://sampleprograms.io/projects/baklava/verve)
 - [Baklava in Vimscript](https://sampleprograms.io/projects/baklava/vimscript)
 - [Baklava in X86 64](https://sampleprograms.io/projects/baklava/x86-64)
