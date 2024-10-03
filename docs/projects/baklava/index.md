@@ -128,6 +128,7 @@ Verify that the actual output matches the expected output
 - [Baklava in Tcl](https://sampleprograms.io/projects/baklava/tcl)
 - [Baklava in Typescript](https://sampleprograms.io/projects/baklava/typescript)
 - [Baklava in Unicat](https://sampleprograms.io/projects/baklava/unicat)
+- [Baklava in V](https://sampleprograms.io/projects/baklava/v)
 - [Baklava in Verilog](https://sampleprograms.io/projects/baklava/verilog)
 - [Baklava in Verve](https://sampleprograms.io/projects/baklava/verve)
 - [Baklava in Vimscript](https://sampleprograms.io/projects/baklava/vimscript)

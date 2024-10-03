@@ -1,7 +1,7 @@
 ---
 date: 2023-06-17
 featured-image: programming-languages.jpg
-last-modified: 2023-06-17
+last-modified: 2024-10-02
 layout: default
 tags:
 - v
@@ -26,4 +26,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+- [Baklava in V](https://sampleprograms.io/projects/baklava/v)
 - [Hello World in V](https://sampleprograms.io/projects/hello-world/v)
