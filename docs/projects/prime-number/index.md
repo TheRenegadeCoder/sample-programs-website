@@ -1,7 +1,7 @@
 ---
 date: 2018-11-16
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2024-07-10
+last-modified: 2024-10-02
 layout: default
 tags:
 - prime-number
@@ -110,6 +110,7 @@ Usage: please input a non-negative integer
 - [Prime Number in Python](https://sampleprograms.io/projects/prime-number/python)
 - [Prime Number in R](https://sampleprograms.io/projects/prime-number/r)
 - [Prime Number in Rexx](https://sampleprograms.io/projects/prime-number/rexx)
+- [Prime Number in Ruby](https://sampleprograms.io/projects/prime-number/ruby)
 - [Prime Number in Rust](https://sampleprograms.io/projects/prime-number/rust)
 - [Prime Number in Typescript](https://sampleprograms.io/projects/prime-number/typescript)
 

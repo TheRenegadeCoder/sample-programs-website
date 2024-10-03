@@ -1,7 +1,7 @@
 ---
 date: 2020-10-02
 featured-image: programming-languages.jpg
-last-modified: 2020-10-02
+last-modified: 2024-10-02
 layout: default
 tags:
 - sather
@@ -26,4 +26,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+- [Baklava in Sather](https://sampleprograms.io/projects/baklava/sather)
 - [Hello World in Sather](https://sampleprograms.io/projects/hello-world/sather)

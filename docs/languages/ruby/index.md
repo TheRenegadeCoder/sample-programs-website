@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-03-21
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2024-10-02
 layout: default
 tags:
 - ruby
@@ -55,10 +55,13 @@ framework which helps developers build web applications quickly and easily.
 - [Bubble Sort in Ruby](https://sampleprograms.io/projects/bubble-sort/ruby)
 - [Capitalize in Ruby](https://sampleprograms.io/projects/capitalize/ruby)
 - [Even Odd in Ruby](https://sampleprograms.io/projects/even-odd/ruby)
+- [Factorial in Ruby](https://sampleprograms.io/projects/factorial/ruby)
 - [Fibonacci in Ruby](https://sampleprograms.io/projects/fibonacci/ruby)
 - [File Input Output in Ruby](https://sampleprograms.io/projects/file-input-output/ruby)
 - [Fizz Buzz in Ruby](https://sampleprograms.io/projects/fizz-buzz/ruby)
 - [Hello World in Ruby](https://sampleprograms.io/projects/hello-world/ruby)
+- [Palindromic Number in Ruby](https://sampleprograms.io/projects/palindromic-number/ruby)
+- [Prime Number in Ruby](https://sampleprograms.io/projects/prime-number/ruby)
 - [Quine in Ruby](https://sampleprograms.io/projects/quine/ruby)
 - [Reverse String in Ruby](https://sampleprograms.io/projects/reverse-string/ruby)
 - [Roman Numeral in Ruby](https://sampleprograms.io/projects/roman-numeral/ruby)

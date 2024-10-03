@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-10
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2024-10-02
 layout: default
 tags:
 - scala
@@ -75,6 +75,7 @@ yet to implement Hello World in Scala.
 
 ## Articles
 
+- [Baklava in Scala](https://sampleprograms.io/projects/baklava/scala)
 - [Bubble Sort in Scala](https://sampleprograms.io/projects/bubble-sort/scala)
 - [Capitalize in Scala](https://sampleprograms.io/projects/capitalize/scala)
 - [Even Odd in Scala](https://sampleprograms.io/projects/even-odd/scala)
