@@ -1,7 +1,7 @@
 ---
 date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2024-10-02
+last-modified: 2024-10-03
 layout: default
 tags:
 - baklava
@@ -126,6 +126,7 @@ Verify that the actual output matches the expected output
 - [Baklava in Solisp](https://sampleprograms.io/projects/baklava/solisp)
 - [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
 - [Baklava in Tcl](https://sampleprograms.io/projects/baklava/tcl)
+- [Baklava in Terra](https://sampleprograms.io/projects/baklava/terra)
 - [Baklava in Typescript](https://sampleprograms.io/projects/baklava/typescript)
 - [Baklava in Unicat](https://sampleprograms.io/projects/baklava/unicat)
 - [Baklava in V](https://sampleprograms.io/projects/baklava/v)

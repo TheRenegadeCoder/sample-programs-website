@@ -1,7 +1,7 @@
 ---
 date: 2021-05-24
 featured-image: programming-languages.jpg
-last-modified: 2021-05-24
+last-modified: 2024-10-03
 layout: default
 tags:
 - terra
@@ -26,4 +26,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+- [Baklava in Terra](https://sampleprograms.io/projects/baklava/terra)
 - [Hello World in Terra](https://sampleprograms.io/projects/hello-world/terra)
