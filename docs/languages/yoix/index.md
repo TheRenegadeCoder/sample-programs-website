@@ -1,7 +1,7 @@
 ---
 date: 2023-06-19
 featured-image: programming-languages.jpg
-last-modified: 2023-06-20
+last-modified: 2024-10-03
 layout: default
 tags:
 - yoix
@@ -26,4 +26,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+- [Baklava in Yoix](https://sampleprograms.io/projects/baklava/yoix)
 - [Hello World in Yoix](https://sampleprograms.io/projects/hello-world/yoix)

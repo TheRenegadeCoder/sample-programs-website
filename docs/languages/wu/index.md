@@ -1,7 +1,7 @@
 ---
 date: 2023-08-22
 featured-image: programming-languages.jpg
-last-modified: 2023-08-22
+last-modified: 2024-10-03
 layout: default
 tags:
 - wu
@@ -26,4 +26,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+- [Baklava in Wu](https://sampleprograms.io/projects/baklava/wu)
 - [Hello World in Wu](https://sampleprograms.io/projects/hello-world/wu)

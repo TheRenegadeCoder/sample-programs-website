@@ -1,7 +1,7 @@
 ---
 date: 2018-06-21
 featured-image: programming-languages.jpg
-last-modified: 2018-06-21
+last-modified: 2024-10-03
 layout: default
 tags:
 - wyvern
@@ -26,4 +26,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+- [Baklava in Wyvern](https://sampleprograms.io/projects/baklava/wyvern)
 - [Hello World in Wyvern](https://sampleprograms.io/projects/hello-world/wyvern)

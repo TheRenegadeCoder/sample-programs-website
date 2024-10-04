@@ -135,7 +135,10 @@ Verify that the actual output matches the expected output
 - [Baklava in Vimscript](https://sampleprograms.io/projects/baklava/vimscript)
 - [Baklava in Visual Basic](https://sampleprograms.io/projects/baklava/visual-basic)
 - [Baklava in Wren](https://sampleprograms.io/projects/baklava/wren)
+- [Baklava in Wu](https://sampleprograms.io/projects/baklava/wu)
+- [Baklava in Wyvern](https://sampleprograms.io/projects/baklava/wyvern)
 - [Baklava in X86 64](https://sampleprograms.io/projects/baklava/x86-64)
+- [Baklava in Yoix](https://sampleprograms.io/projects/baklava/yoix)
 - [Baklava in Zig](https://sampleprograms.io/projects/baklava/zig)
 
 ***
