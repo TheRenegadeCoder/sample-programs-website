@@ -134,6 +134,7 @@ Verify that the actual output matches the expected output
 - [Baklava in Verve](https://sampleprograms.io/projects/baklava/verve)
 - [Baklava in Vimscript](https://sampleprograms.io/projects/baklava/vimscript)
 - [Baklava in Visual Basic](https://sampleprograms.io/projects/baklava/visual-basic)
+- [Baklava in Wren](https://sampleprograms.io/projects/baklava/wren)
 - [Baklava in X86 64](https://sampleprograms.io/projects/baklava/x86-64)
 - [Baklava in Zig](https://sampleprograms.io/projects/baklava/zig)
 

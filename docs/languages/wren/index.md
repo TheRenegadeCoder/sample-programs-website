@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-20
 featured-image: programming-languages.jpg
-last-modified: 2023-05-16
+last-modified: 2024-10-03
 layout: default
 tags:
 - wren
@@ -61,4 +61,5 @@ JavaScript. Game developers should be pretty happy about this.
 
 ## Articles
 
+- [Baklava in Wren](https://sampleprograms.io/projects/baklava/wren)
 - [Hello World in Wren](https://sampleprograms.io/projects/hello-world/wren)
