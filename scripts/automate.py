@@ -97,7 +97,12 @@ def _add_project_article_section(doc: snakemd.Document, repo: subete.Repo, proje
             link=program.documentation_url()
         )
         articles.append(link)
-    if len(articles) > 0:
+    
+    num_articles = len(articles)
+    if num_articles > 0:
+        verb = pluralize(num_articles, "is", "are")
+        word = pluralize(num_articles, "article")
+        doc.add_paragraph(f"There {verb} {num_articles} {word}:")
         doc.add_block(snakemd.MDList(articles))
     else:
         log.warning(f"Failed to find any articles for {project}")
@@ -115,6 +120,11 @@ def _add_language_article_section(doc: snakemd.Document, repo: subete.Repo, lang
     :param str language: the language to add to the document in its lookup form (e.g., Python).
     """
     doc.add_heading("Articles", level=2)
+    num_articles = len(list(repo[language]))
+    verb = pluralize(num_articles, "is", "are")
+    word = pluralize(num_articles, "article")
+    doc.add_paragraph(f"There {verb} {num_articles} {word}:")
+
     articles = []
     for program in repo[language]:
         link = snakemd.Inline(
@@ -667,16 +677,21 @@ def generate_languages_index(repo: subete.Repo):
         times=times,
         image=_get_default_language_image()
     )
+    num_languages = len(list(repo))
+    verb = pluralize(num_languages, "is", "are")
+    singular = pluralize(num_languages, "language")
     welcome_text = (
         "Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. "
-        f"At this time, there are {len(list(repo))} languages, of which {repo.total_tests()} are tested"
+        f"At this time, there {verb} {num_languages} {singular}, of which {repo.total_tests()} are tested"
     )
     untestables = repo.total_untestables()
     if untestables:
-        verb_untestables = "are" if untestables != 1 else "is"
+        verb_untestables = pluralize(untestables, "is", "are")
         welcome_text += f", {untestables} {verb_untestables} untestable"
 
-    welcome_text += f", and {repo.total_programs()} code snippets."
+    num_programs = repo.total_programs()
+    singular = pluralize(num_programs, "snippet")
+    welcome_text += f", and {num_programs} code {singular}."
     language_index.add_paragraph(welcome_text)
     language_index.add_heading("Language Collections by Letter", level=2)
     language_index.add_paragraph(
@@ -702,11 +717,12 @@ def generate_languages_index(repo: subete.Repo):
                     else 0 for language in languages)
         untestables = sum(1 if language.has_untestable_info()
                     else 0 for language in languages)
-        verb = "are" if tests != 1 else "is"
-        singular = "language" if len(languages) == 1 else "languages"
-        verb_untestables = "are" if untestables != 1 else "is"
+        verb = pluralize(tests, "is", "are")
+        num_languages = len(languages)
+        singular = pluralize(tests, "language")
+        verb_untestables = pluralize(untestables, "is", "are")
         language_statement = (
-            f"The '{letter.upper()}' collection contains {len(languages)} {singular}, "
+            f"The '{letter.upper()}' collection contains {num_languages} {singular}, "
             f"of which {tests} {verb} tested"
         )
         if untestables:
@@ -740,19 +756,22 @@ def _get_language_letter_links(repo: subete.Repo) -> str:
 
 def _get_language_link_and_testability(
     language: subete.LanguageCollection
-) -> Union[snakemd.Inline, snakemd.Paragraph]:
+) -> snakemd.Paragraph:
     language_link = snakemd.Inline(language.name(), link=language.lang_docs_url())
+    num_programs = language.total_programs()
+    singular = pluralize(num_programs, "code snippet")
+    phrase = f"{num_programs} {singular}"
     if language.has_testinfo():
-        return language_link
+        return snakemd.Paragraph([language_link, f" ({phrase})"])
 
     if language.has_untestable_info():
         testability = [
-            " (",
+            f" ({phrase}, ",
             snakemd.Inline("untestabled", link=language.untestable_info_url()),
             ")"
         ]
     else:
-        testability = [snakemd.Inline(" (untested)")]
+        testability = [snakemd.Inline(f" {phrase}, (untested)")]
     
     return snakemd.Paragraph([language_link] + testability)
 
@@ -972,6 +991,22 @@ def clean(folder: str):
             else:
                 clean(child)
         path.rmdir()
+
+
+def pluralize(count: int, singular: str, plural: Optional[str]=None):
+    """
+    Pluralize an item
+
+    :param count: Count of number of items
+    :param singular: Singular form of item
+    :param plural: Plural form of item. If None, use singular plus an "s"
+    :return: Pluralized item
+    """
+
+    if plural is None:
+        plural = f"{singular}s"
+
+    return singular if count == 1 else plural
 
 
 if __name__ == "__main__":
