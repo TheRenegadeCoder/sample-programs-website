@@ -1,7 +1,7 @@
 ---
 date: 2018-12-03
 featured-image: merge-sort-in-every-language.jpg
-last-modified: 2024-02-04
+last-modified: 2024-10-06
 layout: default
 tags:
 - merge-sort
@@ -144,6 +144,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 - [Merge Sort in Php](https://sampleprograms.io/projects/merge-sort/php)
 - [Merge Sort in Python](https://sampleprograms.io/projects/merge-sort/python)
 - [Merge Sort in Rust](https://sampleprograms.io/projects/merge-sort/rust)
+- [Merge Sort in Typescript](https://sampleprograms.io/projects/merge-sort/typescript)
 
 ***
 
