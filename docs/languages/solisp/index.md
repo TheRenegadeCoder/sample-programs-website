@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 3 articles:
+
 - [Baklava in Solisp](https://sampleprograms.io/projects/baklava/solisp)
 - [Fizz Buzz in Solisp](https://sampleprograms.io/projects/fizz-buzz/solisp)
 - [Hello World in Solisp](https://sampleprograms.io/projects/hello-world/solisp)

@@ -26,5 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 2 articles:
+
 - [Baklava in Ring](https://sampleprograms.io/projects/baklava/ring)
 - [Hello World in Ring](https://sampleprograms.io/projects/hello-world/ring)

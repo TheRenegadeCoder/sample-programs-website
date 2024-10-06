@@ -88,6 +88,8 @@ Usage: please input the count of fibonacci numbers to output
 
 ## Articles
 
+There are 33 articles:
+
 - [Fibonacci in Algol68](https://sampleprograms.io/projects/fibonacci/algol68)
 - [Fibonacci in Bash](https://sampleprograms.io/projects/fibonacci/bash)
 - [Fibonacci in Beef](https://sampleprograms.io/projects/fibonacci/beef)

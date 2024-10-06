@@ -72,6 +72,8 @@ language feature.
 
 ## Articles
 
+There are 3 articles:
+
 - [Baklava in D](https://sampleprograms.io/projects/baklava/d)
 - [Factorial in D](https://sampleprograms.io/projects/factorial/d)
 - [Hello World in D](https://sampleprograms.io/projects/hello-world/d)

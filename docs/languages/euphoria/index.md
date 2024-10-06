@@ -127,6 +127,8 @@ If you'd like more information about this language, please see the
 
 ## Articles
 
+There are 37 articles:
+
 - [Baklava in Euphoria](https://sampleprograms.io/projects/baklava/euphoria)
 - [Binary Search in Euphoria](https://sampleprograms.io/projects/binary-search/euphoria)
 - [Bubble Sort in Euphoria](https://sampleprograms.io/projects/bubble-sort/euphoria)

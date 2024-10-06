@@ -70,6 +70,8 @@ is it's now open-source and will now be called PowerShell Core as it runs on
 
 ## Articles
 
+There are 3 articles:
+
 - [Fizz Buzz in Powershell](https://sampleprograms.io/projects/fizz-buzz/powershell)
 - [Hello World in Powershell](https://sampleprograms.io/projects/hello-world/powershell)
 - [Reverse String in Powershell](https://sampleprograms.io/projects/reverse-string/powershell)

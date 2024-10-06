@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 8 articles:
+
 - [Baklava in Fortran](https://sampleprograms.io/projects/baklava/fortran)
 - [Capitalize in Fortran](https://sampleprograms.io/projects/capitalize/fortran)
 - [Even Odd in Fortran](https://sampleprograms.io/projects/even-odd/fortran)

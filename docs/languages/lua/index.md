@@ -55,6 +55,8 @@ gaming community. How have I never used it?
 
 ## Articles
 
+There are 13 articles:
+
 - [Baklava in Lua](https://sampleprograms.io/projects/baklava/lua)
 - [Bubble Sort in Lua](https://sampleprograms.io/projects/bubble-sort/lua)
 - [Capitalize in Lua](https://sampleprograms.io/projects/capitalize/lua)

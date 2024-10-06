@@ -61,5 +61,7 @@ JavaScript. Game developers should be pretty happy about this.
 
 ## Articles
 
+There are 2 articles:
+
 - [Baklava in Wren](https://sampleprograms.io/projects/baklava/wren)
 - [Hello World in Wren](https://sampleprograms.io/projects/hello-world/wren)

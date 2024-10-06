@@ -60,6 +60,8 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
+There are 29 articles:
+
 - [File Input Output in Algol68](https://sampleprograms.io/projects/file-input-output/algol68)
 - [File Input Output in Bash](https://sampleprograms.io/projects/file-input-output/bash)
 - [File Input Output in Beef](https://sampleprograms.io/projects/file-input-output/beef)

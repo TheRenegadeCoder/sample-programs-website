@@ -55,6 +55,8 @@ That's it!
 
 ## Articles
 
+There are 8 articles:
+
 - [Baklava in Brainfuck](https://sampleprograms.io/projects/baklava/brainfuck)
 - [Capitalize in Brainfuck](https://sampleprograms.io/projects/capitalize/brainfuck)
 - [Fizz Buzz in Brainfuck](https://sampleprograms.io/projects/fizz-buzz/brainfuck)

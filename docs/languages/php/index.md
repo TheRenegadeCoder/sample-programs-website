@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 37 articles:
+
 - [Baklava in Php](https://sampleprograms.io/projects/baklava/php)
 - [Binary Search in Php](https://sampleprograms.io/projects/binary-search/php)
 - [Bubble Sort in Php](https://sampleprograms.io/projects/bubble-sort/php)

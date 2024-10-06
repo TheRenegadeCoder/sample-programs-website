@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 4 articles:
+
 - [Baklava in X86 64](https://sampleprograms.io/projects/baklava/x86-64)
 - [Even Odd in X86 64](https://sampleprograms.io/projects/even-odd/x86-64)
 - [Fizz Buzz in X86 64](https://sampleprograms.io/projects/fizz-buzz/x86-64)

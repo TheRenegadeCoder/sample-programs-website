@@ -98,6 +98,8 @@ Usage: please provide at least 3 x and y coordinates as separate lists (e.g. "10
 
 ## Articles
 
+There are 10 articles:
+
 - [Convex Hull in Algol68](https://sampleprograms.io/projects/convex-hull/algol68)
 - [Convex Hull in Beef](https://sampleprograms.io/projects/convex-hull/beef)
 - [Convex Hull in Commodore Basic](https://sampleprograms.io/projects/convex-hull/commodore-basic)

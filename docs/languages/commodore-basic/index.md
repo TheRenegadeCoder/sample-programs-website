@@ -245,6 +245,8 @@ cbmbasic hello-world.bas
 
 ## Articles
 
+There are 37 articles:
+
 - [Baklava in Commodore Basic](https://sampleprograms.io/projects/baklava/commodore-basic)
 - [Binary Search in Commodore Basic](https://sampleprograms.io/projects/binary-search/commodore-basic)
 - [Bubble Sort in Commodore Basic](https://sampleprograms.io/projects/bubble-sort/commodore-basic)

@@ -95,6 +95,8 @@ Usage: please provide a string
 
 ## Articles
 
+There are 11 articles:
+
 - [Remove All Whitespace in Algol68](https://sampleprograms.io/projects/remove-all-whitespace/algol68)
 - [Remove All Whitespace in Beef](https://sampleprograms.io/projects/remove-all-whitespace/beef)
 - [Remove All Whitespace in Brainfuck](https://sampleprograms.io/projects/remove-all-whitespace/brainfuck)

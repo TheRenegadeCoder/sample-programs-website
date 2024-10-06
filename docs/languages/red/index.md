@@ -65,4 +65,6 @@ Now, that's awesome!
 
 ## Articles
 
+There is 1 article:
+
 - [Hello World in Red](https://sampleprograms.io/projects/hello-world/red)

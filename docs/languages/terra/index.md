@@ -26,5 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 2 articles:
+
 - [Baklava in Terra](https://sampleprograms.io/projects/baklava/terra)
 - [Hello World in Terra](https://sampleprograms.io/projects/hello-world/terra)

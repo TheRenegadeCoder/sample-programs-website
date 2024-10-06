@@ -67,6 +67,8 @@ A programmer can just get started from the get-go!
 
 ## Articles
 
+There are 12 articles:
+
 - [Baklava in Dart](https://sampleprograms.io/projects/baklava/dart)
 - [Bubble Sort in Dart](https://sampleprograms.io/projects/bubble-sort/dart)
 - [Capitalize in Dart](https://sampleprograms.io/projects/capitalize/dart)

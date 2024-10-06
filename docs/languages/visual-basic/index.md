@@ -54,6 +54,8 @@ Python as one language instead of two.
 
 ## Articles
 
+There are 5 articles:
+
 - [Baklava in Visual Basic](https://sampleprograms.io/projects/baklava/visual-basic)
 - [Bubble Sort in Visual Basic](https://sampleprograms.io/projects/bubble-sort/visual-basic)
 - [Fizz Buzz in Visual Basic](https://sampleprograms.io/projects/fizz-buzz/visual-basic)

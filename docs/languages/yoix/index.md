@@ -26,5 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 2 articles:
+
 - [Baklava in Yoix](https://sampleprograms.io/projects/baklava/yoix)
 - [Hello World in Yoix](https://sampleprograms.io/projects/hello-world/yoix)

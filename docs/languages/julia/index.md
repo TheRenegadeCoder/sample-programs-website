@@ -59,6 +59,8 @@ expect several different dialects of it to emerge.
 
 ## Articles
 
+There are 13 articles:
+
 - [Baklava in Julia](https://sampleprograms.io/projects/baklava/julia)
 - [Bubble Sort in Julia](https://sampleprograms.io/projects/bubble-sort/julia)
 - [Capitalize in Julia](https://sampleprograms.io/projects/capitalize/julia)

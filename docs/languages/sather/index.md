@@ -26,5 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 2 articles:
+
 - [Baklava in Sather](https://sampleprograms.io/projects/baklava/sather)
 - [Hello World in Sather](https://sampleprograms.io/projects/hello-world/sather)

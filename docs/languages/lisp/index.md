@@ -140,6 +140,8 @@ implement Hello World in Lisp, so we should probably get to that.
 
 ## Articles
 
+There are 10 articles:
+
 - [Baklava in Lisp](https://sampleprograms.io/projects/baklava/lisp)
 - [Capitalize in Lisp](https://sampleprograms.io/projects/capitalize/lisp)
 - [Even Odd in Lisp](https://sampleprograms.io/projects/even-odd/lisp)

@@ -83,6 +83,8 @@ Usage: please input a non-negative integer
 
 ## Articles
 
+There are 30 articles:
+
 - [Prime Number in Algol68](https://sampleprograms.io/projects/prime-number/algol68)
 - [Prime Number in Bash](https://sampleprograms.io/projects/prime-number/bash)
 - [Prime Number in Beef](https://sampleprograms.io/projects/prime-number/beef)

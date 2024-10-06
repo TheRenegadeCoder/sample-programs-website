@@ -26,5 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 2 articles:
+
 - [Hello World in Never](https://sampleprograms.io/projects/hello-world/never)
 - [Reverse String in Never](https://sampleprograms.io/projects/reverse-string/never)

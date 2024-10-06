@@ -104,6 +104,8 @@ Usage: please provide a list of integers (e.g. "8, 3, 1, 2")
 
 ## Articles
 
+There are 8 articles:
+
 - [Maximum Array Rotation in Algol68](https://sampleprograms.io/projects/maximum-array-rotation/algol68)
 - [Maximum Array Rotation in Beef](https://sampleprograms.io/projects/maximum-array-rotation/beef)
 - [Maximum Array Rotation in Commodore Basic](https://sampleprograms.io/projects/maximum-array-rotation/commodore-basic)

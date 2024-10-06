@@ -80,6 +80,8 @@ we have to get to our implementation of Hello World in Elixir.
 
 ## Articles
 
+There are 8 articles:
+
 - [Baklava in Elixir](https://sampleprograms.io/projects/baklava/elixir)
 - [Bubble Sort in Elixir](https://sampleprograms.io/projects/bubble-sort/elixir)
 - [Capitalize in Elixir](https://sampleprograms.io/projects/capitalize/elixir)

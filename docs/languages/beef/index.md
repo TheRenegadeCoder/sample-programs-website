@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 37 articles:
+
 - [Baklava in Beef](https://sampleprograms.io/projects/baklava/beef)
 - [Binary Search in Beef](https://sampleprograms.io/projects/binary-search/beef)
 - [Bubble Sort in Beef](https://sampleprograms.io/projects/bubble-sort/beef)

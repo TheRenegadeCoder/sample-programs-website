@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 8 articles:
+
 - [Baklava in Groovy](https://sampleprograms.io/projects/baklava/groovy)
 - [Capitalize in Groovy](https://sampleprograms.io/projects/capitalize/groovy)
 - [Even Odd in Groovy](https://sampleprograms.io/projects/even-odd/groovy)

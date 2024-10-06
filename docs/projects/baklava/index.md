@@ -79,6 +79,8 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
+There are 61 articles:
+
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
 - [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
 - [Baklava in Bash](https://sampleprograms.io/projects/baklava/bash)

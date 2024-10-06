@@ -26,5 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 2 articles:
+
 - [Fizz Buzz in Lolcode](https://sampleprograms.io/projects/fizz-buzz/lolcode)
 - [Hello World in Lolcode](https://sampleprograms.io/projects/hello-world/lolcode)

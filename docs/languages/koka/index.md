@@ -47,4 +47,6 @@ Fun Fact: the word 'Koka' (or 効果) means "effect" or "effective" in Japanese.
 
 ## Articles
 
+There is 1 article:
+
 - [Hello World in Koka](https://sampleprograms.io/projects/hello-world/koka)

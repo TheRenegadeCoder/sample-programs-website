@@ -26,4 +26,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There is 1 article:
+
 - [Hello World in Hobbes](https://sampleprograms.io/projects/hello-world/hobbes)

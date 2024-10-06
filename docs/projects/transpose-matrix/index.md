@@ -151,6 +151,8 @@ Usage: please enter the dimension of the matrix and the serialized matrix
 
 ## Articles
 
+There are 10 articles:
+
 - [Transpose Matrix in Algol68](https://sampleprograms.io/projects/transpose-matrix/algol68)
 - [Transpose Matrix in Beef](https://sampleprograms.io/projects/transpose-matrix/beef)
 - [Transpose Matrix in Commodore Basic](https://sampleprograms.io/projects/transpose-matrix/commodore-basic)

@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 5 articles:
+
 - [Bubble Sort in Clojure](https://sampleprograms.io/projects/bubble-sort/clojure)
 - [Capitalize in Clojure](https://sampleprograms.io/projects/capitalize/clojure)
 - [Fizz Buzz in Clojure](https://sampleprograms.io/projects/fizz-buzz/clojure)

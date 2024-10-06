@@ -114,6 +114,8 @@ Usage: please provide a list of profits and a list of deadlines
 
 ## Articles
 
+There are 13 articles:
+
 - [Job Sequencing in Algol68](https://sampleprograms.io/projects/job-sequencing/algol68)
 - [Job Sequencing in Beef](https://sampleprograms.io/projects/job-sequencing/beef)
 - [Job Sequencing in Commodore Basic](https://sampleprograms.io/projects/job-sequencing/commodore-basic)

@@ -75,6 +75,8 @@ yet to implement Hello World in Scala.
 
 ## Articles
 
+There are 11 articles:
+
 - [Baklava in Scala](https://sampleprograms.io/projects/baklava/scala)
 - [Bubble Sort in Scala](https://sampleprograms.io/projects/bubble-sort/scala)
 - [Capitalize in Scala](https://sampleprograms.io/projects/capitalize/scala)

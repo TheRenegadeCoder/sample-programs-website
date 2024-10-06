@@ -102,6 +102,8 @@ In order to keep things simple, we split up the testing as follows:
 
 ## Articles
 
+There are 18 articles:
+
 - [Roman Numeral in Algol68](https://sampleprograms.io/projects/roman-numeral/algol68)
 - [Roman Numeral in Beef](https://sampleprograms.io/projects/roman-numeral/beef)
 - [Roman Numeral in C](https://sampleprograms.io/projects/roman-numeral/c)

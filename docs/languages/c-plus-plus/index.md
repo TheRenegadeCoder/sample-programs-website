@@ -41,6 +41,8 @@ However, with great power comes great responsibility. As a result, I personally 
 
 ## Articles
 
+There are 26 articles:
+
 - [Baklava in C++](https://sampleprograms.io/projects/baklava/c-plus-plus)
 - [Binary Search in C++](https://sampleprograms.io/projects/binary-search/c-plus-plus)
 - [Bubble Sort in C++](https://sampleprograms.io/projects/bubble-sort/c-plus-plus)

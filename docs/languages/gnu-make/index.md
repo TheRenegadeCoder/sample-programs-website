@@ -109,6 +109,8 @@ Loops can be simulated using macros that invoke themselves recursively.
 
 ## Articles
 
+There are 6 articles:
+
 - [Baklava in Gnu Make](https://sampleprograms.io/projects/baklava/gnu-make)
 - [File Input Output in Gnu Make](https://sampleprograms.io/projects/file-input-output/gnu-make)
 - [Fizz Buzz in Gnu Make](https://sampleprograms.io/projects/fizz-buzz/gnu-make)

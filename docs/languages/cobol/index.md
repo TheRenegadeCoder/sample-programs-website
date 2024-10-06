@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 4 articles:
+
 - [Even Odd in Cobol](https://sampleprograms.io/projects/even-odd/cobol)
 - [Factorial in Cobol](https://sampleprograms.io/projects/factorial/cobol)
 - [Hello World in Cobol](https://sampleprograms.io/projects/hello-world/cobol)

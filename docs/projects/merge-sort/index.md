@@ -124,6 +124,8 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
+There are 21 articles:
+
 - [Merge Sort in Algol68](https://sampleprograms.io/projects/merge-sort/algol68)
 - [Merge Sort in Beef](https://sampleprograms.io/projects/merge-sort/beef)
 - [Merge Sort in C](https://sampleprograms.io/projects/merge-sort/c)

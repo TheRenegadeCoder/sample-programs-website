@@ -147,6 +147,8 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
+There are 28 articles:
+
 - [Bubble Sort in Algol68](https://sampleprograms.io/projects/bubble-sort/algol68)
 - [Bubble Sort in Bash](https://sampleprograms.io/projects/bubble-sort/bash)
 - [Bubble Sort in Beef](https://sampleprograms.io/projects/bubble-sort/beef)

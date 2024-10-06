@@ -84,4 +84,6 @@ Welcome to solidity!
 
 ## Articles
 
+There is 1 article:
+
 - [Hello World in Solidity](https://sampleprograms.io/projects/hello-world/solidity)

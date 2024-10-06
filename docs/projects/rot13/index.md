@@ -99,6 +99,8 @@ Usage: please provide a string to encrypt
 
 ## Articles
 
+There are 20 articles:
+
 - [Rot13 in Algol68](https://sampleprograms.io/projects/rot13/algol68)
 - [Rot13 in Beef](https://sampleprograms.io/projects/rot13/beef)
 - [Rot13 in Brainfuck](https://sampleprograms.io/projects/rot13/brainfuck)

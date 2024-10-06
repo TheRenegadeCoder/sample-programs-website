@@ -26,5 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 2 articles:
+
 - [Baklava in Wyvern](https://sampleprograms.io/projects/baklava/wyvern)
 - [Hello World in Wyvern](https://sampleprograms.io/projects/hello-world/wyvern)

@@ -51,5 +51,7 @@ information, check out the [PicoLisp Official Website][5].
 
 ## Articles
 
+There are 2 articles:
+
 - [Hello World in Picolisp](https://sampleprograms.io/projects/hello-world/picolisp)
 - [Reverse String in Picolisp](https://sampleprograms.io/projects/reverse-string/picolisp)

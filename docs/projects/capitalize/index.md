@@ -89,6 +89,8 @@ Usage: please provide a string
 
 ## Articles
 
+There are 34 articles:
+
 - [Capitalize in Algol68](https://sampleprograms.io/projects/capitalize/algol68)
 - [Capitalize in Bash](https://sampleprograms.io/projects/capitalize/bash)
 - [Capitalize in Beef](https://sampleprograms.io/projects/capitalize/beef)

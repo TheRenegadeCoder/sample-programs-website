@@ -87,6 +87,8 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
+There are 11 articles:
+
 - [Sleep Sort in Algol68](https://sampleprograms.io/projects/sleep-sort/algol68)
 - [Sleep Sort in Beef](https://sampleprograms.io/projects/sleep-sort/beef)
 - [Sleep Sort in C#](https://sampleprograms.io/projects/sleep-sort/c-sharp)

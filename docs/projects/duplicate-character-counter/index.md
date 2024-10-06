@@ -76,6 +76,8 @@ Usage: please provide a string
 
 ## Articles
 
+There are 12 articles:
+
 - [Duplicate Character Counter in Algol68](https://sampleprograms.io/projects/duplicate-character-counter/algol68)
 - [Duplicate Character Counter in Beef](https://sampleprograms.io/projects/duplicate-character-counter/beef)
 - [Duplicate Character Counter in C](https://sampleprograms.io/projects/duplicate-character-counter/c)

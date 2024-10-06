@@ -50,6 +50,8 @@ originates.
 
 ## Articles
 
+There are 8 articles:
+
 - [Capitalize in R](https://sampleprograms.io/projects/capitalize/r)
 - [Even Odd in R](https://sampleprograms.io/projects/even-odd/r)
 - [Factorial in R](https://sampleprograms.io/projects/factorial/r)

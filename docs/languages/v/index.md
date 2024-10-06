@@ -26,5 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 2 articles:
+
 - [Baklava in V](https://sampleprograms.io/projects/baklava/v)
 - [Hello World in V](https://sampleprograms.io/projects/hello-world/v)

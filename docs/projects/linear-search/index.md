@@ -127,6 +127,8 @@ Usage: please provide a list of integers ("1, 4, 5, 11, 12") and the integer to 
 
 ## Articles
 
+There are 12 articles:
+
 - [Linear Search in Algol68](https://sampleprograms.io/projects/linear-search/algol68)
 - [Linear Search in Beef](https://sampleprograms.io/projects/linear-search/beef)
 - [Linear Search in C++](https://sampleprograms.io/projects/linear-search/c-plus-plus)

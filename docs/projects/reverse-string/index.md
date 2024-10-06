@@ -70,6 +70,8 @@ In this section, we specify the set of tests specific to Reverse String.
 
 ## Articles
 
+There are 45 articles:
+
 - [Reverse String in Algol68](https://sampleprograms.io/projects/reverse-string/algol68)
 - [Reverse String in Bash](https://sampleprograms.io/projects/reverse-string/bash)
 - [Reverse String in Beef](https://sampleprograms.io/projects/reverse-string/beef)

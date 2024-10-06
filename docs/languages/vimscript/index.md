@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 4 articles:
+
 - [Baklava in Vimscript](https://sampleprograms.io/projects/baklava/vimscript)
 - [Fizz Buzz in Vimscript](https://sampleprograms.io/projects/fizz-buzz/vimscript)
 - [Hello World in Vimscript](https://sampleprograms.io/projects/hello-world/vimscript)

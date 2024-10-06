@@ -60,6 +60,8 @@ great features like garbage collection which offset some of these complaints.
 
 ## Articles
 
+There are 26 articles:
+
 - [Baklava in Java](https://sampleprograms.io/projects/baklava/java)
 - [Binary Search in Java](https://sampleprograms.io/projects/binary-search/java)
 - [Bubble Sort in Java](https://sampleprograms.io/projects/bubble-sort/java)

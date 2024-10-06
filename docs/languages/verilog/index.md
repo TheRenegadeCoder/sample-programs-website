@@ -26,5 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 2 articles:
+
 - [Baklava in Verilog](https://sampleprograms.io/projects/baklava/verilog)
 - [Hello World in Verilog](https://sampleprograms.io/projects/hello-world/verilog)

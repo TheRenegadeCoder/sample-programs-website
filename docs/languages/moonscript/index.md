@@ -53,4 +53,6 @@ MoonScript and Lua APIs called Lapis.
 
 ## Articles
 
+There is 1 article:
+
 - [Hello World in Moonscript](https://sampleprograms.io/projects/hello-world/moonscript)

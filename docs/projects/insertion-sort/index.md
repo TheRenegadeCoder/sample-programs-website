@@ -138,6 +138,8 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
+There are 18 articles:
+
 - [Insertion Sort in Algol68](https://sampleprograms.io/projects/insertion-sort/algol68)
 - [Insertion Sort in Beef](https://sampleprograms.io/projects/insertion-sort/beef)
 - [Insertion Sort in C](https://sampleprograms.io/projects/insertion-sort/c)

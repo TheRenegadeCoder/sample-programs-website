@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 6 articles:
+
 - [Baklava in Erlang](https://sampleprograms.io/projects/baklava/erlang)
 - [Bubble Sort in Erlang](https://sampleprograms.io/projects/bubble-sort/erlang)
 - [Factorial in Erlang](https://sampleprograms.io/projects/factorial/erlang)

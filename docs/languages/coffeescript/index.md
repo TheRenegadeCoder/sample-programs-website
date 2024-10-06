@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 6 articles:
+
 - [Baklava in Coffeescript](https://sampleprograms.io/projects/baklava/coffeescript)
 - [Even Odd in Coffeescript](https://sampleprograms.io/projects/even-odd/coffeescript)
 - [Factorial in Coffeescript](https://sampleprograms.io/projects/factorial/coffeescript)

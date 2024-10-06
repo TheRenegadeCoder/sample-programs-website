@@ -63,4 +63,6 @@ the language in action.
 
 ## Articles
 
+There is 1 article:
+
 - [Hello World in Goby](https://sampleprograms.io/projects/hello-world/goby)

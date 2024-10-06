@@ -86,6 +86,8 @@ Usage: Please provide a list of integers in the format: "1, 2, 3, 4, 5"
 
 ## Articles
 
+There are 8 articles:
+
 - [Maximum Subarray in Algol68](https://sampleprograms.io/projects/maximum-subarray/algol68)
 - [Maximum Subarray in Beef](https://sampleprograms.io/projects/maximum-subarray/beef)
 - [Maximum Subarray in Commodore Basic](https://sampleprograms.io/projects/maximum-subarray/commodore-basic)

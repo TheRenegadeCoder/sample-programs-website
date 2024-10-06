@@ -356,6 +356,8 @@ In the meantime, happy coding <span class="cat">😸</span>!
 
 ## Articles
 
+There are 4 articles:
+
 - [Baklava in Unicat](https://sampleprograms.io/projects/baklava/unicat)
 - [Fizz Buzz in Unicat](https://sampleprograms.io/projects/fizz-buzz/unicat)
 - [Hello World in Unicat](https://sampleprograms.io/projects/hello-world/unicat)

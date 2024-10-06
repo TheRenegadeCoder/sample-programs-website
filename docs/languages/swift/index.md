@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 7 articles:
+
 - [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
 - [Even Odd in Swift](https://sampleprograms.io/projects/even-odd/swift)
 - [Fibonacci in Swift](https://sampleprograms.io/projects/fibonacci/swift)

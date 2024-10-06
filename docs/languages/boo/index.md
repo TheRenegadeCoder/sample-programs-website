@@ -26,5 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 2 articles:
+
 - [Fibonacci in Boo](https://sampleprograms.io/projects/fibonacci/boo)
 - [Hello World in Boo](https://sampleprograms.io/projects/hello-world/boo)

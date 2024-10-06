@@ -59,6 +59,8 @@ of Racket, there's a module for that: typed/racket.
 
 ## Articles
 
+There are 3 articles:
+
 - [Fibonacci in Racket](https://sampleprograms.io/projects/fibonacci/racket)
 - [Fizz Buzz in Racket](https://sampleprograms.io/projects/fizz-buzz/racket)
 - [Hello World in Racket](https://sampleprograms.io/projects/hello-world/racket)

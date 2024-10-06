@@ -61,6 +61,8 @@ and preferably only one, obvious way to do it"
 
 ## Articles
 
+There are 18 articles:
+
 - [Baklava in Perl](https://sampleprograms.io/projects/baklava/perl)
 - [Bubble Sort in Perl](https://sampleprograms.io/projects/bubble-sort/perl)
 - [Capitalize in Perl](https://sampleprograms.io/projects/capitalize/perl)

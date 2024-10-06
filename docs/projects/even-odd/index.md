@@ -78,6 +78,8 @@ Usage: please input a number
 
 ## Articles
 
+There are 39 articles:
+
 - [Even Odd in Algol68](https://sampleprograms.io/projects/even-odd/algol68)
 - [Even Odd in Bash](https://sampleprograms.io/projects/even-odd/bash)
 - [Even Odd in Beef](https://sampleprograms.io/projects/even-odd/beef)

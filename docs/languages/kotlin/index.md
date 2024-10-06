@@ -60,6 +60,8 @@ In this example, the lastChar method is added to the String class. How cool is t
 
 ## Articles
 
+There are 18 articles:
+
 - [Baklava in Kotlin](https://sampleprograms.io/projects/baklava/kotlin)
 - [Bubble Sort in Kotlin](https://sampleprograms.io/projects/bubble-sort/kotlin)
 - [Capitalize in Kotlin](https://sampleprograms.io/projects/capitalize/kotlin)

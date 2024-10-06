@@ -63,6 +63,8 @@ Android apps, I haven't seen many fun commercial uses for Java.
 
 ## Articles
 
+There are 21 articles:
+
 - [Baklava in C#](https://sampleprograms.io/projects/baklava/c-sharp)
 - [Bubble Sort in C#](https://sampleprograms.io/projects/bubble-sort/c-sharp)
 - [Capitalize in C#](https://sampleprograms.io/projects/capitalize/c-sharp)

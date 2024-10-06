@@ -55,6 +55,8 @@ At any rate, I think that's plenty of background for now.
 
 ## Articles
 
+There are 20 articles:
+
 - [Baklava in Haskell](https://sampleprograms.io/projects/baklava/haskell)
 - [Bubble Sort in Haskell](https://sampleprograms.io/projects/bubble-sort/haskell)
 - [Capitalize in Haskell](https://sampleprograms.io/projects/capitalize/haskell)

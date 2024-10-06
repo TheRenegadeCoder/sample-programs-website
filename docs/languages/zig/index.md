@@ -26,5 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 2 articles:
+
 - [Baklava in Zig](https://sampleprograms.io/projects/baklava/zig)
 - [Hello World in Zig](https://sampleprograms.io/projects/hello-world/zig)

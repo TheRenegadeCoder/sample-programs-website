@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 3 articles:
+
 - [Fibonacci in Nim](https://sampleprograms.io/projects/fibonacci/nim)
 - [Hello World in Nim](https://sampleprograms.io/projects/hello-world/nim)
 - [Reverse String in Nim](https://sampleprograms.io/projects/reverse-string/nim)

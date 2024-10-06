@@ -51,6 +51,8 @@ framework which helps developers build web applications quickly and easily.
 
 ## Articles
 
+There are 14 articles:
+
 - [Baklava in Ruby](https://sampleprograms.io/projects/baklava/ruby)
 - [Bubble Sort in Ruby](https://sampleprograms.io/projects/bubble-sort/ruby)
 - [Capitalize in Ruby](https://sampleprograms.io/projects/capitalize/ruby)

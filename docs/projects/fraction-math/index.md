@@ -90,6 +90,8 @@ Usage: ./fraction-math operand1 operator operand2
 
 ## Articles
 
+There are 10 articles:
+
 - [Fraction Math in Algol68](https://sampleprograms.io/projects/fraction-math/algol68)
 - [Fraction Math in Beef](https://sampleprograms.io/projects/fraction-math/beef)
 - [Fraction Math in C++](https://sampleprograms.io/projects/fraction-math/c-plus-plus)

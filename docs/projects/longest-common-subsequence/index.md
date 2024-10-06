@@ -98,6 +98,8 @@ Usage: please provide two lists in the format "1, 2, 3, 4, 5"
 
 ## Articles
 
+There are 17 articles:
+
 - [Longest Common Subsequence in Algol68](https://sampleprograms.io/projects/longest-common-subsequence/algol68)
 - [Longest Common Subsequence in Beef](https://sampleprograms.io/projects/longest-common-subsequence/beef)
 - [Longest Common Subsequence in C](https://sampleprograms.io/projects/longest-common-subsequence/c)

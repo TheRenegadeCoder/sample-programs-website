@@ -117,6 +117,8 @@ Usage: please provide a comma-separated list of integers
 
 ## Articles
 
+There are 9 articles:
+
 - [Minimum Spanning Tree in Algol68](https://sampleprograms.io/projects/minimum-spanning-tree/algol68)
 - [Minimum Spanning Tree in Beef](https://sampleprograms.io/projects/minimum-spanning-tree/beef)
 - [Minimum Spanning Tree in C](https://sampleprograms.io/projects/minimum-spanning-tree/c)

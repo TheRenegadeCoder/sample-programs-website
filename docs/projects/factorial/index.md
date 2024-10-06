@@ -83,6 +83,8 @@ Usage: please input a non-negative integer
 
 ## Articles
 
+There are 35 articles:
+
 - [Factorial in Algol68](https://sampleprograms.io/projects/factorial/algol68)
 - [Factorial in Bash](https://sampleprograms.io/projects/factorial/bash)
 - [Factorial in Beef](https://sampleprograms.io/projects/factorial/beef)

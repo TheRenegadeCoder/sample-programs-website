@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 24 articles:
+
 - [Baklava in Go](https://sampleprograms.io/projects/baklava/go)
 - [Binary Search in Go](https://sampleprograms.io/projects/binary-search/go)
 - [Bubble Sort in Go](https://sampleprograms.io/projects/bubble-sort/go)

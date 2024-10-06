@@ -47,6 +47,8 @@ implicitly.
 
 ## Articles
 
+There are 23 articles:
+
 - [Baklava in C](https://sampleprograms.io/projects/baklava/c)
 - [Bubble Sort in C](https://sampleprograms.io/projects/bubble-sort/c)
 - [Capitalize in C](https://sampleprograms.io/projects/capitalize/c)

@@ -98,6 +98,8 @@ Usage: please provide a string
 
 ## Articles
 
+There are 15 articles:
+
 - [Longest Word in Algol68](https://sampleprograms.io/projects/longest-word/algol68)
 - [Longest Word in Beef](https://sampleprograms.io/projects/longest-word/beef)
 - [Longest Word in Brainfuck](https://sampleprograms.io/projects/longest-word/brainfuck)

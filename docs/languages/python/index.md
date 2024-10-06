@@ -46,6 +46,8 @@ But, Python 2 is slowly losing support.
 
 ## Articles
 
+There are 37 articles:
+
 - [Baklava in Python](https://sampleprograms.io/projects/baklava/python)
 - [Binary Search in Python](https://sampleprograms.io/projects/binary-search/python)
 - [Bubble Sort in Python](https://sampleprograms.io/projects/bubble-sort/python)

@@ -51,6 +51,8 @@ In terms of syntax, Rust resembles languages like [C][3] and [C++][4], but it bo
 
 ## Articles
 
+There are 37 articles:
+
 - [Baklava in Rust](https://sampleprograms.io/projects/baklava/rust)
 - [Binary Search in Rust](https://sampleprograms.io/projects/binary-search/rust)
 - [Bubble Sort in Rust](https://sampleprograms.io/projects/bubble-sort/rust)

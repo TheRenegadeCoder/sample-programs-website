@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 5 articles:
+
 - [File Input Output in Dg](https://sampleprograms.io/projects/file-input-output/dg)
 - [Fizz Buzz in Dg](https://sampleprograms.io/projects/fizz-buzz/dg)
 - [Hello World in Dg](https://sampleprograms.io/projects/hello-world/dg)

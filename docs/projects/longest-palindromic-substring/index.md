@@ -119,6 +119,8 @@ Usage: please provide a string that contains at least one palindrome
 
 ## Articles
 
+There are 10 articles:
+
 - [Longest Palindromic Substring in Algol68](https://sampleprograms.io/projects/longest-palindromic-substring/algol68)
 - [Longest Palindromic Substring in Beef](https://sampleprograms.io/projects/longest-palindromic-substring/beef)
 - [Longest Palindromic Substring in Commodore Basic](https://sampleprograms.io/projects/longest-palindromic-substring/commodore-basic)

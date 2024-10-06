@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 10 articles:
+
 - [Capitalize in Objective C](https://sampleprograms.io/projects/capitalize/objective-c)
 - [Even Odd in Objective C](https://sampleprograms.io/projects/even-odd/objective-c)
 - [Factorial in Objective C](https://sampleprograms.io/projects/factorial/objective-c)

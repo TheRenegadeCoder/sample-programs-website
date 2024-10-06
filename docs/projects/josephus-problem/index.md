@@ -94,6 +94,8 @@ Usage: please input the total number of people and number of people to skip.
 
 ## Articles
 
+There are 9 articles:
+
 - [Josephus Problem in Algol68](https://sampleprograms.io/projects/josephus-problem/algol68)
 - [Josephus Problem in Beef](https://sampleprograms.io/projects/josephus-problem/beef)
 - [Josephus Problem in Commodore Basic](https://sampleprograms.io/projects/josephus-problem/commodore-basic)

@@ -69,4 +69,6 @@ For further information on this language, see the [C* documentation][5].
 
 ## Articles
 
+There is 1 article:
+
 - [Hello World in C\*](https://sampleprograms.io/projects/hello-world/c-star)

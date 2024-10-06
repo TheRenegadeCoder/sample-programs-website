@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 6 articles:
+
 - [Even Odd in Odin](https://sampleprograms.io/projects/even-odd/odin)
 - [File Input Output in Odin](https://sampleprograms.io/projects/file-input-output/odin)
 - [Hello World in Odin](https://sampleprograms.io/projects/hello-world/odin)

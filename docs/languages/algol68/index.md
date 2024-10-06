@@ -50,6 +50,8 @@ for the full syntax and features list.
 
 ## Articles
 
+There are 37 articles:
+
 - [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
 - [Binary Search in Algol68](https://sampleprograms.io/projects/binary-search/algol68)
 - [Bubble Sort in Algol68](https://sampleprograms.io/projects/bubble-sort/algol68)

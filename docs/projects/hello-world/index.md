@@ -47,6 +47,8 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
+There are 153 articles:
+
 - [Hello World in Ada](https://sampleprograms.io/projects/hello-world/ada)
 - [Hello World in Agda](https://sampleprograms.io/projects/hello-world/agda)
 - [Hello World in Algol68](https://sampleprograms.io/projects/hello-world/algol68)

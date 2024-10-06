@@ -26,4 +26,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There is 1 article:
+
 - [Hello World in Modula2](https://sampleprograms.io/projects/hello-world/modula2)

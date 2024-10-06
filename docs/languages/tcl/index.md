@@ -26,5 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 2 articles:
+
 - [Baklava in Tcl](https://sampleprograms.io/projects/baklava/tcl)
 - [Hello World in Tcl](https://sampleprograms.io/projects/hello-world/tcl)

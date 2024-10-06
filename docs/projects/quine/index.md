@@ -54,6 +54,8 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
+There are 22 articles:
+
 - [Quine in Algol68](https://sampleprograms.io/projects/quine/algol68)
 - [Quine in Bash](https://sampleprograms.io/projects/quine/bash)
 - [Quine in Beef](https://sampleprograms.io/projects/quine/beef)

@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 36 articles:
+
 - [Baklava in Mathematica](https://sampleprograms.io/projects/baklava/mathematica)
 - [Binary Search in Mathematica](https://sampleprograms.io/projects/binary-search/mathematica)
 - [Bubble Sort in Mathematica](https://sampleprograms.io/projects/bubble-sort/mathematica)

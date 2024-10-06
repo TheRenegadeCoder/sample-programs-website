@@ -52,6 +52,8 @@ builds.
 
 ## Articles
 
+There are 14 articles:
+
 - [Baklava in Bash](https://sampleprograms.io/projects/baklava/bash)
 - [Bubble Sort in Bash](https://sampleprograms.io/projects/bubble-sort/bash)
 - [Capitalize in Bash](https://sampleprograms.io/projects/capitalize/bash)

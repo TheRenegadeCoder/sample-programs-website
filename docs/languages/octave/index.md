@@ -72,6 +72,8 @@ chemistry professors, who published a textbook on chemical reactions.
 
 ## Articles
 
+There are 13 articles:
+
 - [Bubble Sort in Octave](https://sampleprograms.io/projects/bubble-sort/octave)
 - [Capitalize in Octave](https://sampleprograms.io/projects/capitalize/octave)
 - [Even Odd in Octave](https://sampleprograms.io/projects/even-odd/octave)

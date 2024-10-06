@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 30 articles:
+
 - [Baklava in Javascript](https://sampleprograms.io/projects/baklava/javascript)
 - [Binary Search in Javascript](https://sampleprograms.io/projects/binary-search/javascript)
 - [Bubble Sort in Javascript](https://sampleprograms.io/projects/bubble-sort/javascript)

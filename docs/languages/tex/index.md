@@ -26,5 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
+There are 2 articles:
+
 - [Fizz Buzz in Tex](https://sampleprograms.io/projects/fizz-buzz/tex)
 - [Hello World in Tex](https://sampleprograms.io/projects/hello-world/tex)
