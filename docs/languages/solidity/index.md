@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-10-31
 featured-image: programming-languages.jpg
-last-modified: 2023-12-16
+last-modified: 2024-10-07
 layout: default
 tags:
 - solidity
@@ -84,6 +84,7 @@ Welcome to solidity!
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Solidity](https://sampleprograms.io/projects/baklava/solidity)
 - [Hello World in Solidity](https://sampleprograms.io/projects/hello-world/solidity)
