@@ -1,7 +1,7 @@
 ---
 date: 2019-10-17
 featured-image: linear-search-in-every-language.jpg
-last-modified: 2024-02-03
+last-modified: 2024-10-08
 layout: default
 tags:
 - linear-search
@@ -127,13 +127,14 @@ Usage: please provide a list of integers ("1, 4, 5, 11, 12") and the integer to 
 
 ## Articles
 
-There are 12 articles:
+There are 13 articles:
 
 - [Linear Search in Algol68](https://sampleprograms.io/projects/linear-search/algol68)
 - [Linear Search in Beef](https://sampleprograms.io/projects/linear-search/beef)
 - [Linear Search in C++](https://sampleprograms.io/projects/linear-search/c-plus-plus)
 - [Linear Search in Commodore Basic](https://sampleprograms.io/projects/linear-search/commodore-basic)
 - [Linear Search in Euphoria](https://sampleprograms.io/projects/linear-search/euphoria)
+- [Linear Search in Go](https://sampleprograms.io/projects/linear-search/go)
 - [Linear Search in Java](https://sampleprograms.io/projects/linear-search/java)
 - [Linear Search in Javascript](https://sampleprograms.io/projects/linear-search/javascript)
 - [Linear Search in Mathematica](https://sampleprograms.io/projects/linear-search/mathematica)
