@@ -26,12 +26,13 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 25 articles:
+There are 27 articles:
 
 - [Baklava in Go](https://sampleprograms.io/projects/baklava/go)
 - [Binary Search in Go](https://sampleprograms.io/projects/binary-search/go)
 - [Bubble Sort in Go](https://sampleprograms.io/projects/bubble-sort/go)
 - [Capitalize in Go](https://sampleprograms.io/projects/capitalize/go)
+- [Duplicate Character Counter in Go](https://sampleprograms.io/projects/duplicate-character-counter/go)
 - [Even Odd in Go](https://sampleprograms.io/projects/even-odd/go)
 - [Factorial in Go](https://sampleprograms.io/projects/factorial/go)
 - [Fibonacci in Go](https://sampleprograms.io/projects/fibonacci/go)
@@ -48,6 +49,7 @@ There are 25 articles:
 - [Prime Number in Go](https://sampleprograms.io/projects/prime-number/go)
 - [Quick Sort in Go](https://sampleprograms.io/projects/quick-sort/go)
 - [Quine in Go](https://sampleprograms.io/projects/quine/go)
+- [Remove All Whitespace in Go](https://sampleprograms.io/projects/remove-all-whitespace/go)
 - [Reverse String in Go](https://sampleprograms.io/projects/reverse-string/go)
 - [Roman Numeral in Go](https://sampleprograms.io/projects/roman-numeral/go)
 - [Rot13 in Go](https://sampleprograms.io/projects/rot13/go)
