@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 27 articles:
+There are 28 articles:
 
 - [Baklava in Go](https://sampleprograms.io/projects/baklava/go)
 - [Binary Search in Go](https://sampleprograms.io/projects/binary-search/go)
@@ -46,6 +46,7 @@ There are 27 articles:
 - [Longest Palindromic Substring in Go](https://sampleprograms.io/projects/longest-palindromic-substring/go)
 - [Longest Word in Go](https://sampleprograms.io/projects/longest-word/go)
 - [Merge Sort in Go](https://sampleprograms.io/projects/merge-sort/go)
+- [Palindromic Number in Go](https://sampleprograms.io/projects/palindromic-number/go)
 - [Prime Number in Go](https://sampleprograms.io/projects/prime-number/go)
 - [Quick Sort in Go](https://sampleprograms.io/projects/quick-sort/go)
 - [Quine in Go](https://sampleprograms.io/projects/quine/go)
