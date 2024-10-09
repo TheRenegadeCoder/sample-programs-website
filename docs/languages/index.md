@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2024-10-08
+last-modified: 2024-10-09
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 153 languages, of which 152 are tested, 1 is untestable, and 902 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 153 languages, of which 152 are tested, 1 is untestable, and 903 code snippets.
 
 ## Language Collections by Letter
 
@@ -313,13 +313,13 @@ The 'S' collection contains 10 languages, of which 10 are tested, and 32 code sn
 
 ### T
 
-The 'T' collection contains 5 languages, of which 5 are tested, and 27 code snippets.
+The 'T' collection contains 5 languages, of which 5 are tested, and 28 code snippets.
 
 - [Tcl](https://sampleprograms.io/languages/tcl) (2 code snippets)
 - [Terra](https://sampleprograms.io/languages/terra) (2 code snippets)
 - [Tex](https://sampleprograms.io/languages/tex) (2 code snippets)
 - [Ti Basic](https://sampleprograms.io/languages/ti-basic) (1 code snippet)
-- [Typescript](https://sampleprograms.io/languages/typescript) (20 code snippets)
+- [Typescript](https://sampleprograms.io/languages/typescript) (21 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 

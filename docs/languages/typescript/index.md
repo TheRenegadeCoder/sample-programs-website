@@ -1,7 +1,7 @@
 ---
 date: 2018-06-22
 featured-image: programming-languages.jpg
-last-modified: 2024-10-08
+last-modified: 2024-10-09
 layout: default
 tags:
 - typescript
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 20 articles:
+There are 21 articles:
 
 - [Baklava in Typescript](https://sampleprograms.io/projects/baklava/typescript)
 - [Binary Search in Typescript](https://sampleprograms.io/projects/binary-search/typescript)
@@ -47,4 +47,5 @@ There are 20 articles:
 - [Quick Sort in Typescript](https://sampleprograms.io/projects/quick-sort/typescript)
 - [Reverse String in Typescript](https://sampleprograms.io/projects/reverse-string/typescript)
 - [Roman Numeral in Typescript](https://sampleprograms.io/projects/roman-numeral/typescript)
+- [Rot13 in Typescript](https://sampleprograms.io/projects/rot13/typescript)
 - [Transpose Matrix in Typescript](https://sampleprograms.io/projects/transpose-matrix/typescript)
