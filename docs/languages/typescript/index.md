@@ -1,7 +1,7 @@
 ---
 date: 2018-06-22
 featured-image: programming-languages.jpg
-last-modified: 2024-10-06
+last-modified: 2024-10-08
 layout: default
 tags:
 - typescript
@@ -26,10 +26,11 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 19 articles:
+There are 20 articles:
 
 - [Baklava in Typescript](https://sampleprograms.io/projects/baklava/typescript)
 - [Binary Search in Typescript](https://sampleprograms.io/projects/binary-search/typescript)
+- [Bubble Sort in Typescript](https://sampleprograms.io/projects/bubble-sort/typescript)
 - [Capitalize in Typescript](https://sampleprograms.io/projects/capitalize/typescript)
 - [Duplicate Character Counter in Typescript](https://sampleprograms.io/projects/duplicate-character-counter/typescript)
 - [Even Odd in Typescript](https://sampleprograms.io/projects/even-odd/typescript)
