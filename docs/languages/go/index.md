@@ -1,7 +1,7 @@
 ---
 date: 2018-03-25
 featured-image: programming-languages.jpg
-last-modified: 2024-10-08
+last-modified: 2024-10-11
 layout: default
 tags:
 - go
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 28 articles:
+There are 29 articles:
 
 - [Baklava in Go](https://sampleprograms.io/projects/baklava/go)
 - [Binary Search in Go](https://sampleprograms.io/projects/binary-search/go)
@@ -56,3 +56,4 @@ There are 28 articles:
 - [Rot13 in Go](https://sampleprograms.io/projects/rot13/go)
 - [Selection Sort in Go](https://sampleprograms.io/projects/selection-sort/go)
 - [Sleep Sort in Go](https://sampleprograms.io/projects/sleep-sort/go)
+- [Transpose Matrix in Go](https://sampleprograms.io/projects/transpose-matrix/go)
