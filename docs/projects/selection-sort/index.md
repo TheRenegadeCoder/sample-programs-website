@@ -1,7 +1,7 @@
 ---
 date: 2018-12-02
 featured-image: selection-sort-in-every-language.jpg
-last-modified: 2024-02-04
+last-modified: 2024-10-13
 layout: default
 tags:
 - selection-sort
@@ -166,7 +166,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-There are 19 articles:
+There are 20 articles:
 
 - [Selection Sort in Algol68](https://sampleprograms.io/projects/selection-sort/algol68)
 - [Selection Sort in Bash](https://sampleprograms.io/projects/selection-sort/bash)
@@ -187,6 +187,7 @@ There are 19 articles:
 - [Selection Sort in Php](https://sampleprograms.io/projects/selection-sort/php)
 - [Selection Sort in Python](https://sampleprograms.io/projects/selection-sort/python)
 - [Selection Sort in Rust](https://sampleprograms.io/projects/selection-sort/rust)
+- [Selection Sort in Typescript](https://sampleprograms.io/projects/selection-sort/typescript)
 
 ***
 
