@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 153 languages, of which 152 are tested, 1 is untestable, and 906 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 153 languages, of which 152 are tested, 1 is untestable, and 907 code snippets.
 
 ## Language Collections by Letter
 
@@ -345,9 +345,9 @@ The 'V' collection contains 5 languages, of which 5 are tested, and 16 code snip
 
 ### W
 
-The 'W' collection contains 4 languages, of which 4 are tested, and 8 code snippets.
+The 'W' collection contains 4 languages, of which 4 are tested, and 9 code snippets.
 
-- [Whitespace](https://sampleprograms.io/languages/whitespace) (2 code snippets)
+- [Whitespace](https://sampleprograms.io/languages/whitespace) (3 code snippets)
 - [Wren](https://sampleprograms.io/languages/wren) (2 code snippets)
 - [Wu](https://sampleprograms.io/languages/wu) (2 code snippets)
 - [Wyvern](https://sampleprograms.io/languages/wyvern) (2 code snippets)

@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
 - [Baklava in Whitespace](https://sampleprograms.io/projects/baklava/whitespace)
+- [Fizz Buzz in Whitespace](https://sampleprograms.io/projects/fizz-buzz/whitespace)
 - [Hello World in Whitespace](https://sampleprograms.io/projects/hello-world/whitespace)
