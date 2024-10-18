@@ -5,7 +5,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-20
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2024-10-17
 layout: default
 tags:
 - red
@@ -65,6 +65,7 @@ Now, that's awesome!
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Fizz Buzz in Red](https://sampleprograms.io/projects/fizz-buzz/red)
 - [Hello World in Red](https://sampleprograms.io/projects/hello-world/red)
