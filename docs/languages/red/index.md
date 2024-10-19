@@ -65,7 +65,8 @@ Now, that's awesome!
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
+- [Baklava in Red](https://sampleprograms.io/projects/baklava/red)
 - [Fizz Buzz in Red](https://sampleprograms.io/projects/fizz-buzz/red)
 - [Hello World in Red](https://sampleprograms.io/projects/hello-world/red)

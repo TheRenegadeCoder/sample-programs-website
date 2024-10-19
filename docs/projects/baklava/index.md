@@ -1,7 +1,7 @@
 ---
 date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2024-10-14
+last-modified: 2024-10-19
 layout: default
 tags:
 - baklava
@@ -79,7 +79,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 63 articles:
+There are 65 articles:
 
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
 - [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
@@ -118,6 +118,8 @@ There are 63 articles:
 - [Baklava in Piet](https://sampleprograms.io/projects/baklava/piet)
 - [Baklava in Pyret](https://sampleprograms.io/projects/baklava/pyret)
 - [Baklava in Python](https://sampleprograms.io/projects/baklava/python)
+- [Baklava in Raku](https://sampleprograms.io/projects/baklava/raku)
+- [Baklava in Red](https://sampleprograms.io/projects/baklava/red)
 - [Baklava in Rexx](https://sampleprograms.io/projects/baklava/rexx)
 - [Baklava in Ring](https://sampleprograms.io/projects/baklava/ring)
 - [Baklava in Ruby](https://sampleprograms.io/projects/baklava/ruby)
