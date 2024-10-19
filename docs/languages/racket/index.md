@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-08
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2024-10-19
 layout: default
 tags:
 - racket
@@ -59,8 +59,9 @@ of Racket, there's a module for that: typed/racket.
 
 ## Articles
 
-There are 3 articles:
+There are 4 articles:
 
+- [Baklava in Racket](https://sampleprograms.io/projects/baklava/racket)
 - [Fibonacci in Racket](https://sampleprograms.io/projects/fibonacci/racket)
 - [Fizz Buzz in Racket](https://sampleprograms.io/projects/fizz-buzz/racket)
 - [Hello World in Racket](https://sampleprograms.io/projects/hello-world/racket)
