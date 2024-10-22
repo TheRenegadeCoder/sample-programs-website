@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-27
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2024-10-22
 layout: default
 tags:
 - r
@@ -50,8 +50,9 @@ originates.
 
 ## Articles
 
-There are 8 articles:
+There are 9 articles:
 
+- [Baklava in R](https://sampleprograms.io/projects/baklava/r)
 - [Capitalize in R](https://sampleprograms.io/projects/capitalize/r)
 - [Even Odd in R](https://sampleprograms.io/projects/even-odd/r)
 - [Factorial in R](https://sampleprograms.io/projects/factorial/r)
