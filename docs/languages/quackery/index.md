@@ -1,7 +1,7 @@
 ---
 date: 2023-12-09
 featured-image: programming-languages.jpg
-last-modified: 2023-12-09
+last-modified: 2024-10-23
 layout: default
 tags:
 - quackery
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Quackery](https://sampleprograms.io/projects/baklava/quackery)
 - [Hello World in Quackery](https://sampleprograms.io/projects/hello-world/quackery)

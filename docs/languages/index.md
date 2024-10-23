@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 914 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 915 code snippets.
 
 ## Language Collections by Letter
 
@@ -274,9 +274,9 @@ The 'P' collection contains 14 languages, of which 14 are tested, and 121 code s
 
 ### Q
 
-The 'Q' collection contains 1 language, of which 1 is tested, and 1 code snippets.
+The 'Q' collection contains 1 language, of which 1 is tested, and 2 code snippets.
 
-- [Quackery](https://sampleprograms.io/languages/quackery) (1 code snippet)
+- [Quackery](https://sampleprograms.io/languages/quackery) (2 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 
