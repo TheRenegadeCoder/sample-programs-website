@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2024-10-22
+last-modified: 2024-10-23
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 153 languages, of which 152 are tested, 1 is untestable, and 913 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 914 code snippets.
 
 ## Language Collections by Letter
 
@@ -216,8 +216,9 @@ The 'L' collection contains 9 languages, of which 9 are tested, and 31 code snip
 
 ### M
 
-The 'M' collection contains 5 languages, of which 4 are tested, 1 is untestable, and 40 code snippets.
+The 'M' collection contains 6 languages, of which 5 are tested, 1 is untestable, and 41 code snippets.
 
+- [Malbolge](https://sampleprograms.io/languages/malbolge) (1 code snippet)
 - [Mathematica](https://sampleprograms.io/languages/mathematica) (36 code snippets, [untestabled](https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/m/mathematica/untestable.yml))
 - [Mirth](https://sampleprograms.io/languages/mirth) (1 code snippet)
 - [Modula2](https://sampleprograms.io/languages/modula2) (1 code snippet)

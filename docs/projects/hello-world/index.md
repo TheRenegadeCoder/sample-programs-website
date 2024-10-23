@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2024-09-30
+last-modified: 2024-10-23
 layout: default
 tags:
 - hello-world
@@ -47,7 +47,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 153 articles:
+There are 154 articles:
 
 - [Hello World in Ada](https://sampleprograms.io/projects/hello-world/ada)
 - [Hello World in Agda](https://sampleprograms.io/projects/hello-world/agda)
@@ -136,6 +136,7 @@ There are 153 articles:
 - [Hello World in Lolcode](https://sampleprograms.io/projects/hello-world/lolcode)
 - [Hello World in Lua](https://sampleprograms.io/projects/hello-world/lua)
 - [Hello World in Lucee](https://sampleprograms.io/projects/hello-world/lucee)
+- [Hello World in Malbolge](https://sampleprograms.io/projects/hello-world/malbolge)
 - [Hello World in Mathematica](https://sampleprograms.io/projects/hello-world/mathematica)
 - [Hello World in Mirth](https://sampleprograms.io/projects/hello-world/mirth)
 - [Hello World in Modula2](https://sampleprograms.io/projects/hello-world/modula2)
