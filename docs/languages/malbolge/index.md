@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Malbolge](https://sampleprograms.io/projects/baklava/malbolge)
 - [Hello World in Malbolge](https://sampleprograms.io/projects/hello-world/malbolge)
