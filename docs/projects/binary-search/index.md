@@ -1,7 +1,7 @@
 ---
 date: 2019-10-24
 featured-image: binary-search-in-every-language.jpg
-last-modified: 2024-02-02
+last-modified: 2024-10-28
 layout: default
 tags:
 - binary-search
@@ -98,10 +98,11 @@ Usage: please provide a list of sorted integers ("1, 4, 5, 11, 12") and the inte
 
 ## Articles
 
-There are 13 articles:
+There are 14 articles:
 
 - [Binary Search in Algol68](https://sampleprograms.io/projects/binary-search/algol68)
 - [Binary Search in Beef](https://sampleprograms.io/projects/binary-search/beef)
+- [Binary Search in C](https://sampleprograms.io/projects/binary-search/c)
 - [Binary Search in C++](https://sampleprograms.io/projects/binary-search/c-plus-plus)
 - [Binary Search in Commodore Basic](https://sampleprograms.io/projects/binary-search/commodore-basic)
 - [Binary Search in Euphoria](https://sampleprograms.io/projects/binary-search/euphoria)
