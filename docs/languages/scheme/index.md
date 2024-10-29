@@ -5,7 +5,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-08
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2024-10-28
 layout: default
 tags:
 - scheme
@@ -56,7 +56,8 @@ education, Scheme is mainly used by hobbyists for scripting purposes.
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
+- [Baklava in Scheme](https://sampleprograms.io/projects/baklava/scheme)
 - [Hello World in Scheme](https://sampleprograms.io/projects/hello-world/scheme)
 - [Reverse String in Scheme](https://sampleprograms.io/projects/reverse-string/scheme)
