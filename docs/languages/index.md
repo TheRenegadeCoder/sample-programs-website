@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 918 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 921 code snippets.
 
 ## Language Collections by Letter
 
@@ -253,7 +253,7 @@ The 'O' collection contains 7 languages, of which 7 are tested, and 33 code snip
 
 ### P
 
-The 'P' collection contains 14 languages, of which 14 are tested, and 121 code snippets.
+The 'P' collection contains 14 languages, of which 14 are tested, and 122 code snippets.
 
 - [Pascal](https://sampleprograms.io/languages/pascal) (10 code snippets)
 - [Perl](https://sampleprograms.io/languages/perl) (18 code snippets)
@@ -264,7 +264,7 @@ The 'P' collection contains 14 languages, of which 14 are tested, and 121 code s
 - [Pineapple](https://sampleprograms.io/languages/pineapple) (1 code snippet)
 - [Pinecone](https://sampleprograms.io/languages/pinecone) (1 code snippet)
 - [Pony](https://sampleprograms.io/languages/pony) (1 code snippet)
-- [Powershell](https://sampleprograms.io/languages/powershell) (3 code snippets)
+- [Powershell](https://sampleprograms.io/languages/powershell) (4 code snippets)
 - [Prolog](https://sampleprograms.io/languages/prolog) (2 code snippets)
 - [Purescript](https://sampleprograms.io/languages/purescript) (1 code snippet)
 - [Pyret](https://sampleprograms.io/languages/pyret) (4 code snippets)
@@ -297,13 +297,13 @@ The 'R' collection contains 8 languages, of which 8 are tested, and 75 code snip
 
 ### S
 
-The 'S' collection contains 10 languages, of which 10 are tested, and 34 code snippets.
+The 'S' collection contains 10 languages, of which 10 are tested, and 35 code snippets.
 
 - [Sather](https://sampleprograms.io/languages/sather) (2 code snippets)
 - [Scala](https://sampleprograms.io/languages/scala) (11 code snippets)
 - [Scheme](https://sampleprograms.io/languages/scheme) (3 code snippets)
 - [Scilab](https://sampleprograms.io/languages/scilab) (2 code snippets)
-- [Shen](https://sampleprograms.io/languages/shen) (1 code snippet)
+- [Shen](https://sampleprograms.io/languages/shen) (2 code snippets)
 - [Smalltalk](https://sampleprograms.io/languages/smalltalk) (2 code snippets)
 - [Solidity](https://sampleprograms.io/languages/solidity) (2 code snippets)
 - [Solisp](https://sampleprograms.io/languages/solisp) (3 code snippets)
@@ -314,12 +314,12 @@ The 'S' collection contains 10 languages, of which 10 are tested, and 34 code sn
 
 ### T
 
-The 'T' collection contains 5 languages, of which 5 are tested, and 29 code snippets.
+The 'T' collection contains 5 languages, of which 5 are tested, and 30 code snippets.
 
 - [Tcl](https://sampleprograms.io/languages/tcl) (2 code snippets)
 - [Terra](https://sampleprograms.io/languages/terra) (2 code snippets)
 - [Tex](https://sampleprograms.io/languages/tex) (2 code snippets)
-- [Ti Basic](https://sampleprograms.io/languages/ti-basic) (1 code snippet)
+- [Ti Basic](https://sampleprograms.io/languages/ti-basic) (2 code snippets)
 - [Typescript](https://sampleprograms.io/languages/typescript) (22 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
