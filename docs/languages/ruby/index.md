@@ -51,7 +51,7 @@ framework which helps developers build web applications quickly and easily.
 
 ## Articles
 
-There are 15 articles:
+There are 16 articles:
 
 - [Baklava in Ruby](https://sampleprograms.io/projects/baklava/ruby)
 - [Bubble Sort in Ruby](https://sampleprograms.io/projects/bubble-sort/ruby)
@@ -66,5 +66,6 @@ There are 15 articles:
 - [Palindromic Number in Ruby](https://sampleprograms.io/projects/palindromic-number/ruby)
 - [Prime Number in Ruby](https://sampleprograms.io/projects/prime-number/ruby)
 - [Quine in Ruby](https://sampleprograms.io/projects/quine/ruby)
+- [Remove All Whitespace in Ruby](https://sampleprograms.io/projects/remove-all-whitespace/ruby)
 - [Reverse String in Ruby](https://sampleprograms.io/projects/reverse-string/ruby)
 - [Roman Numeral in Ruby](https://sampleprograms.io/projects/roman-numeral/ruby)

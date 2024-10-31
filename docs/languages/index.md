@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 924 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 925 code snippets.
 
 ## Language Collections by Letter
 
@@ -282,7 +282,7 @@ The 'Q' collection contains 1 language, of which 1 is tested, and 2 code snippet
 
 ### R
 
-The 'R' collection contains 8 languages, of which 8 are tested, and 76 code snippets.
+The 'R' collection contains 8 languages, of which 8 are tested, and 77 code snippets.
 
 - [R](https://sampleprograms.io/languages/r) (9 code snippets)
 - [Racket](https://sampleprograms.io/languages/racket) (4 code snippets)
@@ -290,7 +290,7 @@ The 'R' collection contains 8 languages, of which 8 are tested, and 76 code snip
 - [Red](https://sampleprograms.io/languages/red) (3 code snippets)
 - [Rexx](https://sampleprograms.io/languages/rexx) (4 code snippets)
 - [Ring](https://sampleprograms.io/languages/ring) (2 code snippets)
-- [Ruby](https://sampleprograms.io/languages/ruby) (15 code snippets)
+- [Ruby](https://sampleprograms.io/languages/ruby) (16 code snippets)
 - [Rust](https://sampleprograms.io/languages/rust) (37 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;

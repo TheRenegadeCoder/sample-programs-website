@@ -1,7 +1,7 @@
 ---
 date: 2022-05-12
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2024-10-08
+last-modified: 2024-10-31
 layout: default
 tags:
 - remove-all-whitespace
@@ -95,7 +95,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 12 articles:
+There are 13 articles:
 
 - [Remove All Whitespace in Algol68](https://sampleprograms.io/projects/remove-all-whitespace/algol68)
 - [Remove All Whitespace in Beef](https://sampleprograms.io/projects/remove-all-whitespace/beef)
@@ -108,6 +108,7 @@ There are 12 articles:
 - [Remove All Whitespace in Mathematica](https://sampleprograms.io/projects/remove-all-whitespace/mathematica)
 - [Remove All Whitespace in Php](https://sampleprograms.io/projects/remove-all-whitespace/php)
 - [Remove All Whitespace in Python](https://sampleprograms.io/projects/remove-all-whitespace/python)
+- [Remove All Whitespace in Ruby](https://sampleprograms.io/projects/remove-all-whitespace/ruby)
 - [Remove All Whitespace in Rust](https://sampleprograms.io/projects/remove-all-whitespace/rust)
 
 ***
