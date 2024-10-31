@@ -1,7 +1,7 @@
 ---
 date: 2022-05-14
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2024-10-08
+last-modified: 2024-10-31
 layout: default
 tags:
 - duplicate-character-counter
@@ -76,7 +76,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 13 articles:
+There are 14 articles:
 
 - [Duplicate Character Counter in Algol68](https://sampleprograms.io/projects/duplicate-character-counter/algol68)
 - [Duplicate Character Counter in Beef](https://sampleprograms.io/projects/duplicate-character-counter/beef)
@@ -89,6 +89,7 @@ There are 13 articles:
 - [Duplicate Character Counter in Mathematica](https://sampleprograms.io/projects/duplicate-character-counter/mathematica)
 - [Duplicate Character Counter in Php](https://sampleprograms.io/projects/duplicate-character-counter/php)
 - [Duplicate Character Counter in Python](https://sampleprograms.io/projects/duplicate-character-counter/python)
+- [Duplicate Character Counter in Ruby](https://sampleprograms.io/projects/duplicate-character-counter/ruby)
 - [Duplicate Character Counter in Rust](https://sampleprograms.io/projects/duplicate-character-counter/rust)
 - [Duplicate Character Counter in Typescript](https://sampleprograms.io/projects/duplicate-character-counter/typescript)
 
