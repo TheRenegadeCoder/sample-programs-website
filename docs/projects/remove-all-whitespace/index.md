@@ -1,7 +1,7 @@
 ---
 date: 2022-05-12
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2024-10-31
+last-modified: 2024-11-06
 layout: default
 tags:
 - remove-all-whitespace
@@ -95,11 +95,12 @@ Usage: please provide a string
 
 ## Articles
 
-There are 13 articles:
+There are 14 articles:
 
 - [Remove All Whitespace in Algol68](https://sampleprograms.io/projects/remove-all-whitespace/algol68)
 - [Remove All Whitespace in Beef](https://sampleprograms.io/projects/remove-all-whitespace/beef)
 - [Remove All Whitespace in Brainfuck](https://sampleprograms.io/projects/remove-all-whitespace/brainfuck)
+- [Remove All Whitespace in C](https://sampleprograms.io/projects/remove-all-whitespace/c)
 - [Remove All Whitespace in C#](https://sampleprograms.io/projects/remove-all-whitespace/c-sharp)
 - [Remove All Whitespace in Commodore Basic](https://sampleprograms.io/projects/remove-all-whitespace/commodore-basic)
 - [Remove All Whitespace in Euphoria](https://sampleprograms.io/projects/remove-all-whitespace/euphoria)

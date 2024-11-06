@@ -5,7 +5,7 @@ authors:
 - Ron Zuckerman
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2024-10-28
+last-modified: 2024-11-06
 layout: default
 tags:
 - c
@@ -47,7 +47,7 @@ implicitly.
 
 ## Articles
 
-There are 24 articles:
+There are 25 articles:
 
 - [Baklava in C](https://sampleprograms.io/projects/baklava/c)
 - [Binary Search in C](https://sampleprograms.io/projects/binary-search/c)
@@ -69,6 +69,7 @@ There are 24 articles:
 - [Prime Number in C](https://sampleprograms.io/projects/prime-number/c)
 - [Quick Sort in C](https://sampleprograms.io/projects/quick-sort/c)
 - [Quine in C](https://sampleprograms.io/projects/quine/c)
+- [Remove All Whitespace in C](https://sampleprograms.io/projects/remove-all-whitespace/c)
 - [Reverse String in C](https://sampleprograms.io/projects/reverse-string/c)
 - [Roman Numeral in C](https://sampleprograms.io/projects/roman-numeral/c)
 - [Rot13 in C](https://sampleprograms.io/projects/rot13/c)
