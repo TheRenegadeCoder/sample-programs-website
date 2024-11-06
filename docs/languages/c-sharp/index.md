@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-03-21
 featured-image: programming-languages.jpg
-last-modified: 2024-10-29
+last-modified: 2024-11-06
 layout: default
 tags:
 - c-sharp
@@ -63,7 +63,7 @@ Android apps, I haven't seen many fun commercial uses for Java.
 
 ## Articles
 
-There are 23 articles:
+There are 24 articles:
 
 - [Baklava in C#](https://sampleprograms.io/projects/baklava/c-sharp)
 - [Binary Search in C#](https://sampleprograms.io/projects/binary-search/c-sharp)
@@ -76,6 +76,7 @@ There are 23 articles:
 - [Fizz Buzz in C#](https://sampleprograms.io/projects/fizz-buzz/c-sharp)
 - [Hello World in C#](https://sampleprograms.io/projects/hello-world/c-sharp)
 - [Insertion Sort in C#](https://sampleprograms.io/projects/insertion-sort/c-sharp)
+- [Josephus Problem in C#](https://sampleprograms.io/projects/josephus-problem/c-sharp)
 - [Linear Search in C#](https://sampleprograms.io/projects/linear-search/c-sharp)
 - [Longest Common Subsequence in C#](https://sampleprograms.io/projects/longest-common-subsequence/c-sharp)
 - [Merge Sort in C#](https://sampleprograms.io/projects/merge-sort/c-sharp)
