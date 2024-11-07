@@ -3,7 +3,7 @@ authors:
 - Ron Zuckerman
 date: 2018-03-21
 featured-image: programming-languages.jpg
-last-modified: 2023-10-19
+last-modified: 2024-11-07
 layout: default
 tags:
 - c-plus-plus
@@ -41,7 +41,7 @@ However, with great power comes great responsibility. As a result, I personally 
 
 ## Articles
 
-There are 26 articles:
+There are 27 articles:
 
 - [Baklava in C++](https://sampleprograms.io/projects/baklava/c-plus-plus)
 - [Binary Search in C++](https://sampleprograms.io/projects/binary-search/c-plus-plus)
@@ -65,6 +65,7 @@ There are 26 articles:
 - [Palindromic Number in C++](https://sampleprograms.io/projects/palindromic-number/c-plus-plus)
 - [Prime Number in C++](https://sampleprograms.io/projects/prime-number/c-plus-plus)
 - [Quick Sort in C++](https://sampleprograms.io/projects/quick-sort/c-plus-plus)
+- [Remove All Whitespace in C++](https://sampleprograms.io/projects/remove-all-whitespace/c-plus-plus)
 - [Reverse String in C++](https://sampleprograms.io/projects/reverse-string/c-plus-plus)
 - [Roman Numeral in C++](https://sampleprograms.io/projects/roman-numeral/c-plus-plus)
 - [Rot13 in C++](https://sampleprograms.io/projects/rot13/c-plus-plus)
