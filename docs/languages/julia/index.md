@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-11
 featured-image: programming-languages.jpg
-last-modified: 2024-07-25
+last-modified: 2024-11-09
 layout: default
 tags:
 - julia
@@ -59,7 +59,7 @@ expect several different dialects of it to emerge.
 
 ## Articles
 
-There are 13 articles:
+There are 14 articles:
 
 - [Baklava in Julia](https://sampleprograms.io/projects/baklava/julia)
 - [Bubble Sort in Julia](https://sampleprograms.io/projects/bubble-sort/julia)
@@ -70,6 +70,7 @@ There are 13 articles:
 - [File Input Output in Julia](https://sampleprograms.io/projects/file-input-output/julia)
 - [Fizz Buzz in Julia](https://sampleprograms.io/projects/fizz-buzz/julia)
 - [Hello World in Julia](https://sampleprograms.io/projects/hello-world/julia)
+- [Longest Word in Julia](https://sampleprograms.io/projects/longest-word/julia)
 - [Palindromic Number in Julia](https://sampleprograms.io/projects/palindromic-number/julia)
 - [Remove All Whitespace in Julia](https://sampleprograms.io/projects/remove-all-whitespace/julia)
 - [Reverse String in Julia](https://sampleprograms.io/projects/reverse-string/julia)

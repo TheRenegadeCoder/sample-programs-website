@@ -98,7 +98,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 17 articles:
+There are 18 articles:
 
 - [Longest Word in Algol68](https://sampleprograms.io/projects/longest-word/algol68)
 - [Longest Word in Beef](https://sampleprograms.io/projects/longest-word/beef)
@@ -111,6 +111,7 @@ There are 17 articles:
 - [Longest Word in Go](https://sampleprograms.io/projects/longest-word/go)
 - [Longest Word in Java](https://sampleprograms.io/projects/longest-word/java)
 - [Longest Word in Javascript](https://sampleprograms.io/projects/longest-word/javascript)
+- [Longest Word in Julia](https://sampleprograms.io/projects/longest-word/julia)
 - [Longest Word in Mathematica](https://sampleprograms.io/projects/longest-word/mathematica)
 - [Longest Word in Odin](https://sampleprograms.io/projects/longest-word/odin)
 - [Longest Word in Php](https://sampleprograms.io/projects/longest-word/php)
