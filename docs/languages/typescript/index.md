@@ -1,7 +1,7 @@
 ---
 date: 2018-06-22
 featured-image: programming-languages.jpg
-last-modified: 2024-10-13
+last-modified: 2024-11-09
 layout: default
 tags:
 - typescript
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 22 articles:
+There are 23 articles:
 
 - [Baklava in Typescript](https://sampleprograms.io/projects/baklava/typescript)
 - [Binary Search in Typescript](https://sampleprograms.io/projects/binary-search/typescript)
@@ -41,6 +41,7 @@ There are 22 articles:
 - [Hello World in Typescript](https://sampleprograms.io/projects/hello-world/typescript)
 - [Insertion Sort in Typescript](https://sampleprograms.io/projects/insertion-sort/typescript)
 - [Linear Search in Typescript](https://sampleprograms.io/projects/linear-search/typescript)
+- [Longest Word in Typescript](https://sampleprograms.io/projects/longest-word/typescript)
 - [Merge Sort in Typescript](https://sampleprograms.io/projects/merge-sort/typescript)
 - [Palindromic Number in Typescript](https://sampleprograms.io/projects/palindromic-number/typescript)
 - [Prime Number in Typescript](https://sampleprograms.io/projects/prime-number/typescript)

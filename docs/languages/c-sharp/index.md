@@ -63,7 +63,7 @@ Android apps, I haven't seen many fun commercial uses for Java.
 
 ## Articles
 
-There are 25 articles:
+There are 26 articles:
 
 - [Baklava in C#](https://sampleprograms.io/projects/baklava/c-sharp)
 - [Binary Search in C#](https://sampleprograms.io/projects/binary-search/c-sharp)
@@ -80,6 +80,7 @@ There are 25 articles:
 - [Linear Search in C#](https://sampleprograms.io/projects/linear-search/c-sharp)
 - [Longest Common Subsequence in C#](https://sampleprograms.io/projects/longest-common-subsequence/c-sharp)
 - [Longest Palindromic Substring in C#](https://sampleprograms.io/projects/longest-palindromic-substring/c-sharp)
+- [Longest Word in C#](https://sampleprograms.io/projects/longest-word/c-sharp)
 - [Merge Sort in C#](https://sampleprograms.io/projects/merge-sort/c-sharp)
 - [Prime Number in C#](https://sampleprograms.io/projects/prime-number/c-sharp)
 - [Quick Sort in C#](https://sampleprograms.io/projects/quick-sort/c-sharp)

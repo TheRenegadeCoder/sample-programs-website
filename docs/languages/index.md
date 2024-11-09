@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2024-11-08
+last-modified: 2024-11-09
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 930 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 932 code snippets.
 
 ## Language Collections by Letter
 
@@ -72,10 +72,10 @@ The 'B' collection contains 9 languages, of which 9 are tested, and 69 code snip
 
 ### C
 
-The 'C' collection contains 14 languages, of which 14 are tested, and 138 code snippets.
+The 'C' collection contains 14 languages, of which 14 are tested, and 139 code snippets.
 
 - [C](https://sampleprograms.io/languages/c) (25 code snippets)
-- [C#](https://sampleprograms.io/languages/c-sharp) (25 code snippets)
+- [C#](https://sampleprograms.io/languages/c-sharp) (26 code snippets)
 - [C++](https://sampleprograms.io/languages/c-plus-plus) (27 code snippets)
 - [C2](https://sampleprograms.io/languages/c2) (1 code snippet)
 - [C\*](https://sampleprograms.io/languages/c-star) (1 code snippet)
@@ -314,13 +314,13 @@ The 'S' collection contains 10 languages, of which 10 are tested, and 35 code sn
 
 ### T
 
-The 'T' collection contains 5 languages, of which 5 are tested, and 30 code snippets.
+The 'T' collection contains 5 languages, of which 5 are tested, and 31 code snippets.
 
 - [Tcl](https://sampleprograms.io/languages/tcl) (2 code snippets)
 - [Terra](https://sampleprograms.io/languages/terra) (2 code snippets)
 - [Tex](https://sampleprograms.io/languages/tex) (2 code snippets)
 - [Ti Basic](https://sampleprograms.io/languages/ti-basic) (2 code snippets)
-- [Typescript](https://sampleprograms.io/languages/typescript) (22 code snippets)
+- [Typescript](https://sampleprograms.io/languages/typescript) (23 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 

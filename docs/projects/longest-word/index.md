@@ -1,7 +1,7 @@
 ---
 date: 2022-05-13
 featured-image: longest-word-in-every-language.jpg
-last-modified: 2024-08-03
+last-modified: 2024-11-09
 layout: default
 tags:
 - longest-word
@@ -98,12 +98,13 @@ Usage: please provide a string
 
 ## Articles
 
-There are 15 articles:
+There are 17 articles:
 
 - [Longest Word in Algol68](https://sampleprograms.io/projects/longest-word/algol68)
 - [Longest Word in Beef](https://sampleprograms.io/projects/longest-word/beef)
 - [Longest Word in Brainfuck](https://sampleprograms.io/projects/longest-word/brainfuck)
 - [Longest Word in C](https://sampleprograms.io/projects/longest-word/c)
+- [Longest Word in C#](https://sampleprograms.io/projects/longest-word/c-sharp)
 - [Longest Word in C++](https://sampleprograms.io/projects/longest-word/c-plus-plus)
 - [Longest Word in Commodore Basic](https://sampleprograms.io/projects/longest-word/commodore-basic)
 - [Longest Word in Euphoria](https://sampleprograms.io/projects/longest-word/euphoria)
@@ -115,6 +116,7 @@ There are 15 articles:
 - [Longest Word in Php](https://sampleprograms.io/projects/longest-word/php)
 - [Longest Word in Python](https://sampleprograms.io/projects/longest-word/python)
 - [Longest Word in Rust](https://sampleprograms.io/projects/longest-word/rust)
+- [Longest Word in Typescript](https://sampleprograms.io/projects/longest-word/typescript)
 
 ***
 
