@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-03-21
 featured-image: programming-languages.jpg
-last-modified: 2024-10-31
+last-modified: 2024-11-09
 layout: default
 tags:
 - ruby
@@ -51,9 +51,10 @@ framework which helps developers build web applications quickly and easily.
 
 ## Articles
 
-There are 16 articles:
+There are 17 articles:
 
 - [Baklava in Ruby](https://sampleprograms.io/projects/baklava/ruby)
+- [Binary Search in Ruby](https://sampleprograms.io/projects/binary-search/ruby)
 - [Bubble Sort in Ruby](https://sampleprograms.io/projects/bubble-sort/ruby)
 - [Capitalize in Ruby](https://sampleprograms.io/projects/capitalize/ruby)
 - [Duplicate Character Counter in Ruby](https://sampleprograms.io/projects/duplicate-character-counter/ruby)
