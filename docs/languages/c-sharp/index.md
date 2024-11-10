@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-03-21
 featured-image: programming-languages.jpg
-last-modified: 2024-11-08
+last-modified: 2024-11-10
 layout: default
 tags:
 - c-sharp
@@ -76,6 +76,7 @@ There are 26 articles:
 - [Fizz Buzz in C#](https://sampleprograms.io/projects/fizz-buzz/c-sharp)
 - [Hello World in C#](https://sampleprograms.io/projects/hello-world/c-sharp)
 - [Insertion Sort in C#](https://sampleprograms.io/projects/insertion-sort/c-sharp)
+- [Job Sequencing in C#](https://sampleprograms.io/projects/job-sequencing/c-sharp)
 - [Josephus Problem in C#](https://sampleprograms.io/projects/josephus-problem/c-sharp)
 - [Linear Search in C#](https://sampleprograms.io/projects/linear-search/c-sharp)
 - [Longest Common Subsequence in C#](https://sampleprograms.io/projects/longest-common-subsequence/c-sharp)
@@ -85,7 +86,6 @@ There are 26 articles:
 - [Prime Number in C#](https://sampleprograms.io/projects/prime-number/c-sharp)
 - [Quick Sort in C#](https://sampleprograms.io/projects/quick-sort/c-sharp)
 - [Quine in C#](https://sampleprograms.io/projects/quine/c-sharp)
-- [Remove All Whitespace in C#](https://sampleprograms.io/projects/remove-all-whitespace/c-sharp)
 - [Reverse String in C#](https://sampleprograms.io/projects/reverse-string/c-sharp)
 - [Roman Numeral in C#](https://sampleprograms.io/projects/roman-numeral/c-sharp)
 - [Rot13 in C#](https://sampleprograms.io/projects/rot13/c-sharp)
