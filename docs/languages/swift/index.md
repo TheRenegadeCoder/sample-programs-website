@@ -1,7 +1,7 @@
 ---
 date: 2018-03-25
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2024-11-12
 layout: default
 tags:
 - swift
@@ -26,9 +26,10 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 7 articles:
+There are 8 articles:
 
 - [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
+- [Duplicate Character Counter in Swift](https://sampleprograms.io/projects/duplicate-character-counter/swift)
 - [Even Odd in Swift](https://sampleprograms.io/projects/even-odd/swift)
 - [Fibonacci in Swift](https://sampleprograms.io/projects/fibonacci/swift)
 - [Fizz Buzz in Swift](https://sampleprograms.io/projects/fizz-buzz/swift)
