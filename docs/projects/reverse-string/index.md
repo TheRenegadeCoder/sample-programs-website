@@ -1,7 +1,7 @@
 ---
 date: 2018-04-12
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2024-11-10
+last-modified: 2024-11-12
 layout: default
 tags:
 - reverse-string
@@ -70,7 +70,7 @@ In this section, we specify the set of tests specific to Reverse String.
 
 ## Articles
 
-There are 46 articles:
+There are 47 articles:
 
 - [Reverse String in Algol68](https://sampleprograms.io/projects/reverse-string/algol68)
 - [Reverse String in Bash](https://sampleprograms.io/projects/reverse-string/bash)
@@ -96,6 +96,7 @@ There are 46 articles:
 - [Reverse String in Lisp](https://sampleprograms.io/projects/reverse-string/lisp)
 - [Reverse String in Lua](https://sampleprograms.io/projects/reverse-string/lua)
 - [Reverse String in Mathematica](https://sampleprograms.io/projects/reverse-string/mathematica)
+- [Reverse String in Moonscript](https://sampleprograms.io/projects/reverse-string/moonscript)
 - [Reverse String in Never](https://sampleprograms.io/projects/reverse-string/never)
 - [Reverse String in Nim](https://sampleprograms.io/projects/reverse-string/nim)
 - [Reverse String in Objective C](https://sampleprograms.io/projects/reverse-string/objective-c)
