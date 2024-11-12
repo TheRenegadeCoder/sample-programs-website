@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 8 articles:
+There are 9 articles:
 
 - [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
 - [Duplicate Character Counter in Swift](https://sampleprograms.io/projects/duplicate-character-counter/swift)
@@ -35,4 +35,5 @@ There are 8 articles:
 - [Fizz Buzz in Swift](https://sampleprograms.io/projects/fizz-buzz/swift)
 - [Fraction Math in Swift](https://sampleprograms.io/projects/fraction-math/swift)
 - [Hello World in Swift](https://sampleprograms.io/projects/hello-world/swift)
+- [Palindromic Number in Swift](https://sampleprograms.io/projects/palindromic-number/swift)
 - [Reverse String in Swift](https://sampleprograms.io/projects/reverse-string/swift)

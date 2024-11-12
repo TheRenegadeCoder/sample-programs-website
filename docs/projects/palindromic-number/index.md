@@ -1,7 +1,7 @@
 ---
 date: 2020-10-07
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2024-10-08
+last-modified: 2024-11-12
 layout: default
 tags:
 - palindromic-number
@@ -82,7 +82,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 19 articles:
+There are 20 articles:
 
 - [Palindromic Number in Algol68](https://sampleprograms.io/projects/palindromic-number/algol68)
 - [Palindromic Number in Beef](https://sampleprograms.io/projects/palindromic-number/beef)
@@ -102,6 +102,7 @@ There are 19 articles:
 - [Palindromic Number in Python](https://sampleprograms.io/projects/palindromic-number/python)
 - [Palindromic Number in Ruby](https://sampleprograms.io/projects/palindromic-number/ruby)
 - [Palindromic Number in Rust](https://sampleprograms.io/projects/palindromic-number/rust)
+- [Palindromic Number in Swift](https://sampleprograms.io/projects/palindromic-number/swift)
 - [Palindromic Number in Typescript](https://sampleprograms.io/projects/palindromic-number/typescript)
 
 ***
