@@ -2,9 +2,10 @@
 authors:
 - Ajay Maheshwari
 - Jeremy Grifski
+- rzuckerm
 date: 2022-10-06
 featured-image: dijkstra-in-every-language.jpg
-last-modified: 2022-10-10
+last-modified: 2024-11-11
 layout: default
 tags:
 - c-plus-plus
@@ -154,7 +155,7 @@ int main(int argc, char *argv[])
         handle_error();
 
     int sz = sqrt((int)bin.size());
-    if (sz * sz != bin.size())
+    if ((size_t)sz * sz != bin.size())
         handle_error();
     int k = 0;
     for (int i = 0; i < bin.size(); i += sz)
@@ -187,6 +188,7 @@ Dijkstra in [C++](https://sampleprograms.io/languages/c-plus-plus) was written b
 
 - Ajay Maheshwari
 - Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
