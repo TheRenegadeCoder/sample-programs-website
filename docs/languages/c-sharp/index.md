@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-03-21
 featured-image: programming-languages.jpg
-last-modified: 2024-11-11
+last-modified: 2024-11-12
 layout: default
 tags:
 - c-sharp
@@ -63,12 +63,13 @@ Android apps, I haven't seen many fun commercial uses for Java.
 
 ## Articles
 
-There are 27 articles:
+There are 28 articles:
 
 - [Baklava in C#](https://sampleprograms.io/projects/baklava/c-sharp)
 - [Binary Search in C#](https://sampleprograms.io/projects/binary-search/c-sharp)
 - [Bubble Sort in C#](https://sampleprograms.io/projects/bubble-sort/c-sharp)
 - [Capitalize in C#](https://sampleprograms.io/projects/capitalize/c-sharp)
+- [Duplicate Character Counter in C#](https://sampleprograms.io/projects/duplicate-character-counter/c-sharp)
 - [Even Odd in C#](https://sampleprograms.io/projects/even-odd/c-sharp)
 - [Factorial in C#](https://sampleprograms.io/projects/factorial/c-sharp)
 - [Fibonacci in C#](https://sampleprograms.io/projects/fibonacci/c-sharp)
