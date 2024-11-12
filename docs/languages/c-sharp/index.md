@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-03-21
 featured-image: programming-languages.jpg
-last-modified: 2024-11-10
+last-modified: 2024-11-11
 layout: default
 tags:
 - c-sharp
@@ -63,7 +63,7 @@ Android apps, I haven't seen many fun commercial uses for Java.
 
 ## Articles
 
-There are 26 articles:
+There are 27 articles:
 
 - [Baklava in C#](https://sampleprograms.io/projects/baklava/c-sharp)
 - [Binary Search in C#](https://sampleprograms.io/projects/binary-search/c-sharp)
@@ -86,6 +86,7 @@ There are 26 articles:
 - [Prime Number in C#](https://sampleprograms.io/projects/prime-number/c-sharp)
 - [Quick Sort in C#](https://sampleprograms.io/projects/quick-sort/c-sharp)
 - [Quine in C#](https://sampleprograms.io/projects/quine/c-sharp)
+- [Remove All Whitespace in C#](https://sampleprograms.io/projects/remove-all-whitespace/c-sharp)
 - [Reverse String in C#](https://sampleprograms.io/projects/reverse-string/c-sharp)
 - [Roman Numeral in C#](https://sampleprograms.io/projects/roman-numeral/c-sharp)
 - [Rot13 in C#](https://sampleprograms.io/projects/rot13/c-sharp)
