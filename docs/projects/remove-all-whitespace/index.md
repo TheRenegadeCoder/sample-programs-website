@@ -1,7 +1,7 @@
 ---
 date: 2022-05-12
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2024-11-11
+last-modified: 2024-11-14
 layout: default
 tags:
 - remove-all-whitespace
@@ -95,7 +95,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 15 articles:
+There are 16 articles:
 
 - [Remove All Whitespace in Algol68](https://sampleprograms.io/projects/remove-all-whitespace/algol68)
 - [Remove All Whitespace in Beef](https://sampleprograms.io/projects/remove-all-whitespace/beef)
@@ -105,6 +105,7 @@ There are 15 articles:
 - [Remove All Whitespace in C++](https://sampleprograms.io/projects/remove-all-whitespace/c-plus-plus)
 - [Remove All Whitespace in Commodore Basic](https://sampleprograms.io/projects/remove-all-whitespace/commodore-basic)
 - [Remove All Whitespace in Euphoria](https://sampleprograms.io/projects/remove-all-whitespace/euphoria)
+- [Remove All Whitespace in F#](https://sampleprograms.io/projects/remove-all-whitespace/f-sharp)
 - [Remove All Whitespace in Go](https://sampleprograms.io/projects/remove-all-whitespace/go)
 - [Remove All Whitespace in Julia](https://sampleprograms.io/projects/remove-all-whitespace/julia)
 - [Remove All Whitespace in Mathematica](https://sampleprograms.io/projects/remove-all-whitespace/mathematica)
