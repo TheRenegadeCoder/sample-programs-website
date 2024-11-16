@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 944 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 945 code snippets.
 
 ## Language Collections by Letter
 
@@ -297,14 +297,14 @@ The 'R' collection contains 8 languages, of which 8 are tested, and 78 code snip
 
 ### S
 
-The 'S' collection contains 10 languages, of which 10 are tested, and 37 code snippets.
+The 'S' collection contains 10 languages, of which 10 are tested, and 38 code snippets.
 
 - [Sather](https://sampleprograms.io/languages/sather) (2 code snippets)
 - [Scala](https://sampleprograms.io/languages/scala) (11 code snippets)
 - [Scheme](https://sampleprograms.io/languages/scheme) (3 code snippets)
 - [Scilab](https://sampleprograms.io/languages/scilab) (2 code snippets)
 - [Shen](https://sampleprograms.io/languages/shen) (2 code snippets)
-- [Smalltalk](https://sampleprograms.io/languages/smalltalk) (2 code snippets)
+- [Smalltalk](https://sampleprograms.io/languages/smalltalk) (3 code snippets)
 - [Solidity](https://sampleprograms.io/languages/solidity) (2 code snippets)
 - [Solisp](https://sampleprograms.io/languages/solisp) (3 code snippets)
 - [Spry](https://sampleprograms.io/languages/spry) (1 code snippet)

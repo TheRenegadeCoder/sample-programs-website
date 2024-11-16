@@ -1,7 +1,7 @@
 ---
 date: 2018-04-26
 featured-image: programming-languages.jpg
-last-modified: 2024-10-22
+last-modified: 2024-11-16
 layout: default
 tags:
 - smalltalk
@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
 - [Baklava in Smalltalk](https://sampleprograms.io/projects/baklava/smalltalk)
+- [Fizz Buzz in Smalltalk](https://sampleprograms.io/projects/fizz-buzz/smalltalk)
 - [Hello World in Smalltalk](https://sampleprograms.io/projects/hello-world/smalltalk)
