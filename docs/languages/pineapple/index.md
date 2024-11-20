@@ -1,7 +1,7 @@
 ---
 date: 2023-08-19
 featured-image: programming-languages.jpg
-last-modified: 2023-08-19
+last-modified: 2024-11-20
 layout: default
 tags:
 - pineapple
@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 3 articles:
 
+- [Baklava in Pineapple](https://sampleprograms.io/projects/baklava/pineapple)
+- [Fizz Buzz in Pineapple](https://sampleprograms.io/projects/fizz-buzz/pineapple)
 - [Hello World in Pineapple](https://sampleprograms.io/projects/hello-world/pineapple)
