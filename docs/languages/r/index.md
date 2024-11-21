@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-27
 featured-image: programming-languages.jpg
-last-modified: 2024-10-22
+last-modified: 2024-11-21
 layout: default
 tags:
 - r
@@ -50,7 +50,7 @@ originates.
 
 ## Articles
 
-There are 9 articles:
+There are 10 articles:
 
 - [Baklava in R](https://sampleprograms.io/projects/baklava/r)
 - [Capitalize in R](https://sampleprograms.io/projects/capitalize/r)
@@ -59,5 +59,6 @@ There are 9 articles:
 - [File Input Output in R](https://sampleprograms.io/projects/file-input-output/r)
 - [Fizz Buzz in R](https://sampleprograms.io/projects/fizz-buzz/r)
 - [Hello World in R](https://sampleprograms.io/projects/hello-world/r)
+- [Longest Word in R](https://sampleprograms.io/projects/longest-word/r)
 - [Prime Number in R](https://sampleprograms.io/projects/prime-number/r)
 - [Reverse String in R](https://sampleprograms.io/projects/reverse-string/r)
