@@ -1,7 +1,7 @@
 ---
 date: 2018-07-27
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2024-11-20
+last-modified: 2024-12-02
 layout: default
 tags:
 - fizz-buzz
@@ -76,7 +76,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 59 articles:
+There are 60 articles:
 
 - [Fizz Buzz in Ada](https://sampleprograms.io/projects/fizz-buzz/ada)
 - [Fizz Buzz in Algol68](https://sampleprograms.io/projects/fizz-buzz/algol68)
@@ -115,6 +115,7 @@ There are 59 articles:
 - [Fizz Buzz in Perl](https://sampleprograms.io/projects/fizz-buzz/perl)
 - [Fizz Buzz in Php](https://sampleprograms.io/projects/fizz-buzz/php)
 - [Fizz Buzz in Pineapple](https://sampleprograms.io/projects/fizz-buzz/pineapple)
+- [Fizz Buzz in Pinecone](https://sampleprograms.io/projects/fizz-buzz/pinecone)
 - [Fizz Buzz in Powershell](https://sampleprograms.io/projects/fizz-buzz/powershell)
 - [Fizz Buzz in Prolog](https://sampleprograms.io/projects/fizz-buzz/prolog)
 - [Fizz Buzz in Pyret](https://sampleprograms.io/projects/fizz-buzz/pyret)

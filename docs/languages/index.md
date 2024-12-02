@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 951 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 952 code snippets.
 
 ## Language Collections by Letter
 
@@ -253,7 +253,7 @@ The 'O' collection contains 7 languages, of which 7 are tested, and 33 code snip
 
 ### P
 
-The 'P' collection contains 14 languages, of which 14 are tested, and 125 code snippets.
+The 'P' collection contains 14 languages, of which 14 are tested, and 126 code snippets.
 
 - [Pascal](https://sampleprograms.io/languages/pascal) (10 code snippets)
 - [Perl](https://sampleprograms.io/languages/perl) (18 code snippets)
@@ -262,7 +262,7 @@ The 'P' collection contains 14 languages, of which 14 are tested, and 125 code s
 - [Picolisp](https://sampleprograms.io/languages/picolisp) (2 code snippets)
 - [Piet](https://sampleprograms.io/languages/piet) (2 code snippets)
 - [Pineapple](https://sampleprograms.io/languages/pineapple) (3 code snippets)
-- [Pinecone](https://sampleprograms.io/languages/pinecone) (2 code snippets)
+- [Pinecone](https://sampleprograms.io/languages/pinecone) (3 code snippets)
 - [Pony](https://sampleprograms.io/languages/pony) (1 code snippet)
 - [Powershell](https://sampleprograms.io/languages/powershell) (4 code snippets)
 - [Prolog](https://sampleprograms.io/languages/prolog) (2 code snippets)

@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
 - [Baklava in Pinecone](https://sampleprograms.io/projects/baklava/pinecone)
+- [Fizz Buzz in Pinecone](https://sampleprograms.io/projects/fizz-buzz/pinecone)
 - [Hello World in Pinecone](https://sampleprograms.io/projects/hello-world/pinecone)
