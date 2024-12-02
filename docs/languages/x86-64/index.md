@@ -1,7 +1,7 @@
 ---
 date: 2023-05-04
 featured-image: programming-languages.jpg
-last-modified: 2024-11-10
+last-modified: 2024-12-02
 layout: default
 tags:
 - x86-64
@@ -26,10 +26,11 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 5 articles:
+There are 6 articles:
 
 - [Baklava in X86 64](https://sampleprograms.io/projects/baklava/x86-64)
 - [Even Odd in X86 64](https://sampleprograms.io/projects/even-odd/x86-64)
 - [Fizz Buzz in X86 64](https://sampleprograms.io/projects/fizz-buzz/x86-64)
 - [Hello World in X86 64](https://sampleprograms.io/projects/hello-world/x86-64)
 - [Reverse String in X86 64](https://sampleprograms.io/projects/reverse-string/x86-64)
+- [Sleep Sort in X86 64](https://sampleprograms.io/projects/sleep-sort/x86-64)

@@ -1,7 +1,7 @@
 ---
 date: 2019-10-07
 featured-image: sleep-sort-in-every-language.jpg
-last-modified: 2024-02-02
+last-modified: 2024-12-02
 layout: default
 tags:
 - sleep-sort
@@ -87,7 +87,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-There are 11 articles:
+There are 12 articles:
 
 - [Sleep Sort in Algol68](https://sampleprograms.io/projects/sleep-sort/algol68)
 - [Sleep Sort in Beef](https://sampleprograms.io/projects/sleep-sort/beef)
@@ -100,6 +100,7 @@ There are 11 articles:
 - [Sleep Sort in Php](https://sampleprograms.io/projects/sleep-sort/php)
 - [Sleep Sort in Python](https://sampleprograms.io/projects/sleep-sort/python)
 - [Sleep Sort in Rust](https://sampleprograms.io/projects/sleep-sort/rust)
+- [Sleep Sort in X86 64](https://sampleprograms.io/projects/sleep-sort/x86-64)
 
 ***
 
