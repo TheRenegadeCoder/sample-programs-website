@@ -1,7 +1,7 @@
 ---
 date: 2020-10-04
 featured-image: programming-languages.jpg
-last-modified: 2020-10-04
+last-modified: 2024-12-02
 layout: default
 tags:
 - pinecone
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Pinecone](https://sampleprograms.io/projects/baklava/pinecone)
 - [Hello World in Pinecone](https://sampleprograms.io/projects/hello-world/pinecone)
