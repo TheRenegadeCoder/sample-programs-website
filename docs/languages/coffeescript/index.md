@@ -1,7 +1,7 @@
 ---
 date: 2018-12-30
 featured-image: programming-languages.jpg
-last-modified: 2020-10-15
+last-modified: 2024-12-08
 layout: default
 tags:
 - coffeescript
@@ -26,11 +26,12 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 6 articles:
+There are 7 articles:
 
 - [Baklava in Coffeescript](https://sampleprograms.io/projects/baklava/coffeescript)
 - [Even Odd in Coffeescript](https://sampleprograms.io/projects/even-odd/coffeescript)
 - [Factorial in Coffeescript](https://sampleprograms.io/projects/factorial/coffeescript)
 - [Fizz Buzz in Coffeescript](https://sampleprograms.io/projects/fizz-buzz/coffeescript)
 - [Hello World in Coffeescript](https://sampleprograms.io/projects/hello-world/coffeescript)
+- [Longest Word in Coffeescript](https://sampleprograms.io/projects/longest-word/coffeescript)
 - [Quine in Coffeescript](https://sampleprograms.io/projects/quine/coffeescript)
