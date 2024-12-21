@@ -1,7 +1,7 @@
 ---
 date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2024-12-02
+last-modified: 2024-12-21
 layout: default
 tags:
 - baklava
@@ -79,7 +79,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 75 articles:
+There are 76 articles:
 
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
 - [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
@@ -139,6 +139,7 @@ There are 75 articles:
 - [Baklava in Smalltalk](https://sampleprograms.io/projects/baklava/smalltalk)
 - [Baklava in Solidity](https://sampleprograms.io/projects/baklava/solidity)
 - [Baklava in Solisp](https://sampleprograms.io/projects/baklava/solisp)
+- [Baklava in Spry](https://sampleprograms.io/projects/baklava/spry)
 - [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
 - [Baklava in Tcl](https://sampleprograms.io/projects/baklava/tcl)
 - [Baklava in Terra](https://sampleprograms.io/projects/baklava/terra)

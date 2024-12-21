@@ -1,7 +1,7 @@
 ---
 date: 2021-05-24
 featured-image: programming-languages.jpg
-last-modified: 2021-05-24
+last-modified: 2024-12-21
 layout: default
 tags:
 - spry
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Spry](https://sampleprograms.io/projects/baklava/spry)
 - [Hello World in Spry](https://sampleprograms.io/projects/hello-world/spry)
