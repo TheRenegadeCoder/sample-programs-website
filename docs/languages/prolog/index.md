@@ -1,7 +1,7 @@
 ---
 date: 2023-06-10
 featured-image: programming-languages.jpg
-last-modified: 2024-05-26
+last-modified: 2024-12-21
 layout: default
 tags:
 - prolog
@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
+- [Baklava in Prolog](https://sampleprograms.io/projects/baklava/prolog)
 - [Fizz Buzz in Prolog](https://sampleprograms.io/projects/fizz-buzz/prolog)
 - [Hello World in Prolog](https://sampleprograms.io/projects/hello-world/prolog)
