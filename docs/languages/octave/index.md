@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2018-04-11
 featured-image: programming-languages.jpg
-last-modified: 2023-12-11
+last-modified: 2024-12-23
 layout: default
 tags:
 - octave
@@ -72,8 +72,9 @@ chemistry professors, who published a textbook on chemical reactions.
 
 ## Articles
 
-There are 13 articles:
+There are 14 articles:
 
+- [Baklava in Octave](https://sampleprograms.io/projects/baklava/octave)
 - [Bubble Sort in Octave](https://sampleprograms.io/projects/bubble-sort/octave)
 - [Capitalize in Octave](https://sampleprograms.io/projects/capitalize/octave)
 - [Even Odd in Octave](https://sampleprograms.io/projects/even-odd/octave)
