@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2024-12-21
+last-modified: 2024-12-23
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 960 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 961 code snippets.
 
 ## Language Collections by Letter
 
@@ -253,7 +253,7 @@ The 'O' collection contains 7 languages, of which 7 are tested, and 33 code snip
 
 ### P
 
-The 'P' collection contains 14 languages, of which 14 are tested, and 129 code snippets.
+The 'P' collection contains 14 languages, of which 14 are tested, and 130 code snippets.
 
 - [Pascal](https://sampleprograms.io/languages/pascal) (10 code snippets)
 - [Perl](https://sampleprograms.io/languages/perl) (18 code snippets)
@@ -266,7 +266,7 @@ The 'P' collection contains 14 languages, of which 14 are tested, and 129 code s
 - [Pony](https://sampleprograms.io/languages/pony) (2 code snippets)
 - [Powershell](https://sampleprograms.io/languages/powershell) (4 code snippets)
 - [Prolog](https://sampleprograms.io/languages/prolog) (3 code snippets)
-- [Purescript](https://sampleprograms.io/languages/purescript) (1 code snippet)
+- [Purescript](https://sampleprograms.io/languages/purescript) (2 code snippets)
 - [Pyret](https://sampleprograms.io/languages/pyret) (4 code snippets)
 - [Python](https://sampleprograms.io/languages/python) (37 code snippets)
 

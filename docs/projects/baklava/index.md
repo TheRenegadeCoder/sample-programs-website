@@ -1,7 +1,7 @@
 ---
 date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2024-12-21
+last-modified: 2024-12-23
 layout: default
 tags:
 - baklava
@@ -79,7 +79,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 79 articles:
+There are 80 articles:
 
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
 - [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
@@ -123,6 +123,7 @@ There are 79 articles:
 - [Baklava in Pony](https://sampleprograms.io/projects/baklava/pony)
 - [Baklava in Powershell](https://sampleprograms.io/projects/baklava/powershell)
 - [Baklava in Prolog](https://sampleprograms.io/projects/baklava/prolog)
+- [Baklava in Purescript](https://sampleprograms.io/projects/baklava/purescript)
 - [Baklava in Pyret](https://sampleprograms.io/projects/baklava/pyret)
 - [Baklava in Python](https://sampleprograms.io/projects/baklava/python)
 - [Baklava in Quackery](https://sampleprograms.io/projects/baklava/quackery)
