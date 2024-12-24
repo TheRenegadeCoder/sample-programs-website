@@ -1,7 +1,7 @@
 ---
 date: 2021-05-25
 featured-image: programming-languages.jpg
-last-modified: 2021-05-25
+last-modified: 2024-12-23
 layout: default
 tags:
 - nit
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Nit](https://sampleprograms.io/projects/baklava/nit)
 - [Hello World in Nit](https://sampleprograms.io/projects/hello-world/nit)
