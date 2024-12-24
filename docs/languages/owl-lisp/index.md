@@ -1,7 +1,7 @@
 ---
 date: 2018-06-29
 featured-image: programming-languages.jpg
-last-modified: 2018-06-29
+last-modified: 2024-12-23
 layout: default
 tags:
 - owl-lisp
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Owl Lisp](https://sampleprograms.io/projects/baklava/owl-lisp)
 - [Hello World in Owl Lisp](https://sampleprograms.io/projects/hello-world/owl-lisp)
