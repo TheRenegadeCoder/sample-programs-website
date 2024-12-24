@@ -1,7 +1,7 @@
 ---
 date: 2018-08-28
 featured-image: programming-languages.jpg
-last-modified: 2018-08-28
+last-modified: 2024-12-23
 layout: default
 tags:
 - orc
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Orc](https://sampleprograms.io/projects/baklava/orc)
 - [Hello World in Orc](https://sampleprograms.io/projects/hello-world/orc)

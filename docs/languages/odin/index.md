@@ -1,7 +1,7 @@
 ---
 date: 2018-06-15
 featured-image: programming-languages.jpg
-last-modified: 2024-08-03
+last-modified: 2024-12-23
 layout: default
 tags:
 - odin
@@ -26,8 +26,9 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 6 articles:
+There are 7 articles:
 
+- [Baklava in Odin](https://sampleprograms.io/projects/baklava/odin)
 - [Even Odd in Odin](https://sampleprograms.io/projects/even-odd/odin)
 - [File Input Output in Odin](https://sampleprograms.io/projects/file-input-output/odin)
 - [Hello World in Odin](https://sampleprograms.io/projects/hello-world/odin)
