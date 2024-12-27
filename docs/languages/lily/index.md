@@ -1,7 +1,7 @@
 ---
 date: 2018-04-22
 featured-image: programming-languages.jpg
-last-modified: 2018-04-22
+last-modified: 2024-12-27
 layout: default
 tags:
 - lily
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Lily](https://sampleprograms.io/projects/baklava/lily)
 - [Hello World in Lily](https://sampleprograms.io/projects/hello-world/lily)
