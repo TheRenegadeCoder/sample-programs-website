@@ -1,7 +1,7 @@
 ---
 date: 2018-05-11
 featured-image: programming-languages.jpg
-last-modified: 2021-08-10
+last-modified: 2024-12-27
 layout: default
 tags:
 - lolcode
@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
+- [Baklava in Lolcode](https://sampleprograms.io/projects/baklava/lolcode)
 - [Fizz Buzz in Lolcode](https://sampleprograms.io/projects/fizz-buzz/lolcode)
 - [Hello World in Lolcode](https://sampleprograms.io/projects/hello-world/lolcode)
