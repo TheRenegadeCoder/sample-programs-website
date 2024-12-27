@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2024-12-23
+last-modified: 2024-12-27
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 971 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 972 code snippets.
 
 ## Language Collections by Letter
 
@@ -200,7 +200,7 @@ The 'K' collection contains 3 languages, of which 3 are tested, and 21 code snip
 
 ### L
 
-The 'L' collection contains 9 languages, of which 9 are tested, and 31 code snippets.
+The 'L' collection contains 9 languages, of which 9 are tested, and 32 code snippets.
 
 - [Latte](https://sampleprograms.io/languages/latte) (1 code snippet)
 - [Lily](https://sampleprograms.io/languages/lily) (1 code snippet)
@@ -210,7 +210,7 @@ The 'L' collection contains 9 languages, of which 9 are tested, and 31 code snip
 - [Lobster](https://sampleprograms.io/languages/lobster) (1 code snippet)
 - [Lolcode](https://sampleprograms.io/languages/lolcode) (2 code snippets)
 - [Lua](https://sampleprograms.io/languages/lua) (13 code snippets)
-- [Lucee](https://sampleprograms.io/languages/lucee) (1 code snippet)
+- [Lucee](https://sampleprograms.io/languages/lucee) (2 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 

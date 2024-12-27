@@ -1,7 +1,7 @@
 ---
 date: 2019-10-02
 featured-image: programming-languages.jpg
-last-modified: 2023-12-16
+last-modified: 2024-12-27
 layout: default
 tags:
 - lucee
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Lucee](https://sampleprograms.io/projects/baklava/lucee)
 - [Hello World in Lucee](https://sampleprograms.io/projects/hello-world/lucee)
