@@ -1,7 +1,7 @@
 ---
 date: 2021-05-24
 featured-image: programming-languages.jpg
-last-modified: 2021-05-24
+last-modified: 2024-12-30
 layout: default
 tags:
 - latte
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Latte](https://sampleprograms.io/projects/baklava/latte)
 - [Hello World in Latte](https://sampleprograms.io/projects/hello-world/latte)
