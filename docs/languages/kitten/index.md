@@ -1,7 +1,7 @@
 ---
 date: 2018-05-03
 featured-image: programming-languages.jpg
-last-modified: 2018-05-03
+last-modified: 2024-12-31
 layout: default
 tags:
 - kitten
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Kitten](https://sampleprograms.io/projects/baklava/kitten)
 - [Hello World in Kitten](https://sampleprograms.io/projects/hello-world/kitten)
