@@ -1,9 +1,9 @@
 ---
 authors:
-- franciscogallardo
-date: 2020-10-14
+- rzuckerm
+date: 2024-12-31
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2020-10-14
+last-modified: 2024-12-31
 layout: default
 tags:
 - grain
@@ -29,7 +29,9 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```grain
-print('Hello, World!')
+module Main
+
+print("Hello, World!")
 
 ```
 
@@ -37,7 +39,7 @@ print('Hello, World!')
 
 Hello World in [Grain](https://sampleprograms.io/languages/grain) was written by:
 
-- franciscogallardo
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
