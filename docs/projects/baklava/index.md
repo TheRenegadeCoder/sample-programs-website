@@ -79,7 +79,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 112 articles:
+There are 115 articles:
 
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
 - [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
@@ -107,6 +107,9 @@ There are 112 articles:
 - [Baklava in Goby](https://sampleprograms.io/projects/baklava/goby)
 - [Baklava in Golo](https://sampleprograms.io/projects/baklava/golo)
 - [Baklava in Gosu](https://sampleprograms.io/projects/baklava/gosu)
+- [Baklava in Grain](https://sampleprograms.io/projects/baklava/grain)
+- [Baklava in Granule](https://sampleprograms.io/projects/baklava/granule)
+- [Baklava in Gravity](https://sampleprograms.io/projects/baklava/gravity)
 - [Baklava in Groovy](https://sampleprograms.io/projects/baklava/groovy)
 - [Baklava in Hack](https://sampleprograms.io/projects/baklava/hack)
 - [Baklava in Haskell](https://sampleprograms.io/projects/baklava/haskell)
