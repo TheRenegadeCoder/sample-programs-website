@@ -1,7 +1,7 @@
 ---
 date: 2023-08-07
 featured-image: programming-languages.jpg
-last-modified: 2023-08-07
+last-modified: 2025-01-01
 layout: default
 tags:
 - gerbil
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Gerbil](https://sampleprograms.io/projects/baklava/gerbil)
 - [Hello World in Gerbil](https://sampleprograms.io/projects/hello-world/gerbil)
