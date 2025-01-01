@@ -3,7 +3,7 @@ authors:
 - Jeremy Grifski
 date: 2018-04-20
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2025-01-01
 layout: default
 tags:
 - goby
@@ -63,6 +63,7 @@ the language in action.
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Goby](https://sampleprograms.io/projects/baklava/goby)
 - [Hello World in Goby](https://sampleprograms.io/projects/hello-world/goby)

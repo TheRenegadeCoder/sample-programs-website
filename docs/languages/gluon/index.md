@@ -1,7 +1,7 @@
 ---
 date: 2018-12-30
 featured-image: programming-languages.jpg
-last-modified: 2023-11-16
+last-modified: 2025-01-01
 layout: default
 tags:
 - gluon
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Gluon](https://sampleprograms.io/projects/baklava/gluon)
 - [Hello World in Gluon](https://sampleprograms.io/projects/hello-world/gluon)
