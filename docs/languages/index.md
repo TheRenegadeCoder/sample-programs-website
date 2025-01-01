@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 992 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 993 code snippets.
 
 ## Language Collections by Letter
 
@@ -141,7 +141,7 @@ The 'F' collection contains 12 languages, of which 12 are tested, and 21 code sn
 
 ### G
 
-The 'G' collection contains 11 languages, of which 11 are tested, and 55 code snippets.
+The 'G' collection contains 11 languages, of which 11 are tested, and 56 code snippets.
 
 - [Gerbil](https://sampleprograms.io/languages/gerbil) (2 code snippets)
 - [Gluon](https://sampleprograms.io/languages/gluon) (2 code snippets)
@@ -149,7 +149,7 @@ The 'G' collection contains 11 languages, of which 11 are tested, and 55 code sn
 - [Go](https://sampleprograms.io/languages/go) (29 code snippets)
 - [Goby](https://sampleprograms.io/languages/goby) (2 code snippets)
 - [Golo](https://sampleprograms.io/languages/golo) (2 code snippets)
-- [Gosu](https://sampleprograms.io/languages/gosu) (1 code snippet)
+- [Gosu](https://sampleprograms.io/languages/gosu) (2 code snippets)
 - [Grain](https://sampleprograms.io/languages/grain) (1 code snippet)
 - [Granule](https://sampleprograms.io/languages/granule) (1 code snippet)
 - [Gravity](https://sampleprograms.io/languages/gravity) (1 code snippet)
