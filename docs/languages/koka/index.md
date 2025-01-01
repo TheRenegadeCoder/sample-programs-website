@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-11-09
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2024-12-31
 layout: default
 tags:
 - koka
@@ -47,6 +47,7 @@ Fun Fact: the word 'Koka' (or 効果) means "effect" or "effective" in Japanese.
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Koka](https://sampleprograms.io/projects/baklava/koka)
 - [Hello World in Koka](https://sampleprograms.io/projects/hello-world/koka)

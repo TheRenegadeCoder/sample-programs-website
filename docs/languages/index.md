@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2024-12-31
+last-modified: 2025-01-01
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 981 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 983 code snippets.
 
 ## Language Collections by Letter
 
@@ -179,9 +179,9 @@ The 'I' collection contains 2 languages, of which 2 are tested, and 2 code snipp
 
 ### J
 
-The 'J' collection contains 4 languages, of which 4 are tested, and 71 code snippets.
+The 'J' collection contains 4 languages, of which 4 are tested, and 72 code snippets.
 
-- [Janet](https://sampleprograms.io/languages/janet) (1 code snippet)
+- [Janet](https://sampleprograms.io/languages/janet) (2 code snippets)
 - [Java](https://sampleprograms.io/languages/java) (26 code snippets)
 - [Javascript](https://sampleprograms.io/languages/javascript) (30 code snippets)
 - [Julia](https://sampleprograms.io/languages/julia) (14 code snippets)
@@ -190,10 +190,10 @@ The 'J' collection contains 4 languages, of which 4 are tested, and 71 code snip
 
 ### K
 
-The 'K' collection contains 3 languages, of which 3 are tested, and 22 code snippets.
+The 'K' collection contains 3 languages, of which 3 are tested, and 23 code snippets.
 
 - [Kitten](https://sampleprograms.io/languages/kitten) (2 code snippets)
-- [Koka](https://sampleprograms.io/languages/koka) (1 code snippet)
+- [Koka](https://sampleprograms.io/languages/koka) (2 code snippets)
 - [Kotlin](https://sampleprograms.io/languages/kotlin) (19 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
