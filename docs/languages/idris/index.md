@@ -1,7 +1,7 @@
 ---
 date: 2018-11-21
 featured-image: programming-languages.jpg
-last-modified: 2018-11-21
+last-modified: 2025-01-01
 layout: default
 tags:
 - idris
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Idris](https://sampleprograms.io/projects/baklava/idris)
 - [Hello World in Idris](https://sampleprograms.io/projects/hello-world/idris)
