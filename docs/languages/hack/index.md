@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2019-05-07
 featured-image: programming-languages.jpg
-last-modified: 2023-08-23
+last-modified: 2025-01-01
 layout: default
 tags:
 - hack
@@ -86,6 +86,7 @@ Once again, I think I've explored a topic a bit too deeply, so I'll stop there.
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Hack](https://sampleprograms.io/projects/baklava/hack)
 - [Hello World in Hack](https://sampleprograms.io/projects/hello-world/hack)
