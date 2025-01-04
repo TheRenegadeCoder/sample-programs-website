@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-01-01
+last-modified: 2025-01-04
 layout: default
 title: Programming Languages
 ---
