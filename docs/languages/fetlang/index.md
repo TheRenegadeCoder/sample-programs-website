@@ -1,7 +1,7 @@
 ---
 date: 2018-05-03
 featured-image: programming-languages.jpg
-last-modified: 2018-05-03
+last-modified: 2025-01-06
 layout: default
 tags:
 - fetlang
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Fetlang](https://sampleprograms.io/projects/baklava/fetlang)
 - [Hello World in Fetlang](https://sampleprograms.io/projects/hello-world/fetlang)
