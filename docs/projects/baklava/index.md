@@ -1,7 +1,7 @@
 ---
 date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2025-01-01
+last-modified: 2025-01-06
 layout: default
 tags:
 - baklava
@@ -79,7 +79,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 115 articles:
+There are 116 articles:
 
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
 - [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
@@ -100,6 +100,7 @@ There are 115 articles:
 - [Baklava in Euphoria](https://sampleprograms.io/projects/baklava/euphoria)
 - [Baklava in F#](https://sampleprograms.io/projects/baklava/f-sharp)
 - [Baklava in Fortran](https://sampleprograms.io/projects/baklava/fortran)
+- [Baklava in Frege](https://sampleprograms.io/projects/baklava/frege)
 - [Baklava in Gerbil](https://sampleprograms.io/projects/baklava/gerbil)
 - [Baklava in Gluon](https://sampleprograms.io/projects/baklava/gluon)
 - [Baklava in Gnu Make](https://sampleprograms.io/projects/baklava/gnu-make)
