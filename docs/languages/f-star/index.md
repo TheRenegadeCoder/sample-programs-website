@@ -1,7 +1,7 @@
 ---
 date: 2021-05-24
 featured-image: programming-languages.jpg
-last-modified: 2023-12-05
+last-modified: 2025-01-06
 layout: default
 tags:
 - f-star
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in F\*](https://sampleprograms.io/projects/baklava/f-star)
 - [Hello World in F\*](https://sampleprograms.io/projects/hello-world/f-star)
