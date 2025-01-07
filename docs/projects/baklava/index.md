@@ -79,7 +79,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 123 articles:
+There are 125 articles:
 
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
 - [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
@@ -106,6 +106,8 @@ There are 123 articles:
 - [Baklava in Ferret](https://sampleprograms.io/projects/baklava/ferret)
 - [Baklava in Fetlang](https://sampleprograms.io/projects/baklava/fetlang)
 - [Baklava in Flix](https://sampleprograms.io/projects/baklava/flix)
+- [Baklava in Formality](https://sampleprograms.io/projects/baklava/formality)
+- [Baklava in Forth](https://sampleprograms.io/projects/baklava/forth)
 - [Baklava in Fortran](https://sampleprograms.io/projects/baklava/fortran)
 - [Baklava in Frege](https://sampleprograms.io/projects/baklava/frege)
 - [Baklava in Gerbil](https://sampleprograms.io/projects/baklava/gerbil)
