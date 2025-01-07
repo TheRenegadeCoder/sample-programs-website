@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1003 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1004 code snippets.
 
 ## Language Collections by Letter
 
@@ -122,7 +122,7 @@ The 'E' collection contains 9 languages, of which 9 are tested, and 57 code snip
 
 ### F
 
-The 'F' collection contains 12 languages, of which 12 are tested, and 28 code snippets.
+The 'F' collection contains 12 languages, of which 12 are tested, and 29 code snippets.
 
 - [F#](https://sampleprograms.io/languages/f-sharp) (3 code snippets)
 - [F\*](https://sampleprograms.io/languages/f-star) (2 code snippets)
@@ -131,7 +131,7 @@ The 'F' collection contains 12 languages, of which 12 are tested, and 28 code sn
 - [Fennel](https://sampleprograms.io/languages/fennel) (2 code snippets)
 - [Ferret](https://sampleprograms.io/languages/ferret) (2 code snippets)
 - [Fetlang](https://sampleprograms.io/languages/fetlang) (2 code snippets)
-- [Flix](https://sampleprograms.io/languages/flix) (1 code snippet)
+- [Flix](https://sampleprograms.io/languages/flix) (2 code snippets)
 - [Formality](https://sampleprograms.io/languages/formality) (1 code snippet)
 - [Forth](https://sampleprograms.io/languages/forth) (1 code snippet)
 - [Fortran](https://sampleprograms.io/languages/fortran) (8 code snippets)
