@@ -1,7 +1,7 @@
 ---
 date: 2018-10-21
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2024-12-15
+last-modified: 2025-01-07
 layout: default
 tags:
 - even-odd
@@ -78,7 +78,7 @@ Usage: please input a number
 
 ## Articles
 
-There are 40 articles:
+There are 41 articles:
 
 - [Even Odd in Algol68](https://sampleprograms.io/projects/even-odd/algol68)
 - [Even Odd in Bash](https://sampleprograms.io/projects/even-odd/bash)
@@ -91,6 +91,7 @@ There are 40 articles:
 - [Even Odd in Commodore Basic](https://sampleprograms.io/projects/even-odd/commodore-basic)
 - [Even Odd in Dart](https://sampleprograms.io/projects/even-odd/dart)
 - [Even Odd in Elixir](https://sampleprograms.io/projects/even-odd/elixir)
+- [Even Odd in Elvish](https://sampleprograms.io/projects/even-odd/elvish)
 - [Even Odd in Euphoria](https://sampleprograms.io/projects/even-odd/euphoria)
 - [Even Odd in Fortran](https://sampleprograms.io/projects/even-odd/fortran)
 - [Even Odd in Go](https://sampleprograms.io/projects/even-odd/go)

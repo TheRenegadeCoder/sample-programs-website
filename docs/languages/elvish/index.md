@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
 - [Baklava in Elvish](https://sampleprograms.io/projects/baklava/elvish)
+- [Even Odd in Elvish](https://sampleprograms.io/projects/even-odd/elvish)
 - [Hello World in Elvish](https://sampleprograms.io/projects/hello-world/elvish)
