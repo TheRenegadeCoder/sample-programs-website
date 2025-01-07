@@ -1,7 +1,7 @@
 ---
 date: 2018-04-29
 featured-image: programming-languages.jpg
-last-modified: 2018-04-29
+last-modified: 2025-01-06
 layout: default
 tags:
 - felix
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Felix](https://sampleprograms.io/projects/baklava/felix)
 - [Hello World in Felix](https://sampleprograms.io/projects/hello-world/felix)
