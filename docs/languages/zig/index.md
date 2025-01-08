@@ -1,7 +1,7 @@
 ---
 date: 2020-10-09
 featured-image: programming-languages.jpg
-last-modified: 2024-09-23
+last-modified: 2025-01-08
 layout: default
 tags:
 - zig
@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
 - [Baklava in Zig](https://sampleprograms.io/projects/baklava/zig)
+- [Fizz Buzz in Zig](https://sampleprograms.io/projects/fizz-buzz/zig)
 - [Hello World in Zig](https://sampleprograms.io/projects/hello-world/zig)

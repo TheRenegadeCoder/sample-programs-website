@@ -1,7 +1,7 @@
 ---
 date: 2018-07-27
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2024-12-15
+last-modified: 2025-01-08
 layout: default
 tags:
 - fizz-buzz
@@ -76,7 +76,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 61 articles:
+There are 62 articles:
 
 - [Fizz Buzz in Ada](https://sampleprograms.io/projects/fizz-buzz/ada)
 - [Fizz Buzz in Algol68](https://sampleprograms.io/projects/fizz-buzz/algol68)
@@ -139,6 +139,7 @@ There are 61 articles:
 - [Fizz Buzz in Visual Basic](https://sampleprograms.io/projects/fizz-buzz/visual-basic)
 - [Fizz Buzz in Whitespace](https://sampleprograms.io/projects/fizz-buzz/whitespace)
 - [Fizz Buzz in X86 64](https://sampleprograms.io/projects/fizz-buzz/x86-64)
+- [Fizz Buzz in Zig](https://sampleprograms.io/projects/fizz-buzz/zig)
 
 ***
 
