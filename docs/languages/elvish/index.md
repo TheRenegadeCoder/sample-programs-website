@@ -1,7 +1,7 @@
 ---
 date: 2021-05-25
 featured-image: programming-languages.jpg
-last-modified: 2025-01-07
+last-modified: 2025-01-08
 layout: default
 tags:
 - elvish
@@ -26,8 +26,10 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 3 articles:
+There are 5 articles:
 
 - [Baklava in Elvish](https://sampleprograms.io/projects/baklava/elvish)
 - [Even Odd in Elvish](https://sampleprograms.io/projects/even-odd/elvish)
+- [Fibonacci in Elvish](https://sampleprograms.io/projects/fibonacci/elvish)
+- [Fizz Buzz in Elvish](https://sampleprograms.io/projects/fizz-buzz/elvish)
 - [Hello World in Elvish](https://sampleprograms.io/projects/hello-world/elvish)
