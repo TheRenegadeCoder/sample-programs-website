@@ -1,7 +1,7 @@
 ---
 date: 2024-04-15
 featured-image: programming-languages.jpg
-last-modified: 2024-04-15
+last-modified: 2025-01-08
 layout: default
 tags:
 - egison
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Egison](https://sampleprograms.io/projects/baklava/egison)
 - [Hello World in Egison](https://sampleprograms.io/projects/hello-world/egison)
