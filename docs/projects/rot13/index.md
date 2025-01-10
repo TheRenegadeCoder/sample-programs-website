@@ -1,7 +1,7 @@
 ---
 date: 2018-11-20
 featured-image: rot13-in-every-language.jpg
-last-modified: 2024-10-09
+last-modified: 2025-01-10
 layout: default
 tags:
 - rot13
@@ -99,7 +99,7 @@ Usage: please provide a string to encrypt
 
 ## Articles
 
-There are 21 articles:
+There are 22 articles:
 
 - [Rot13 in Algol68](https://sampleprograms.io/projects/rot13/algol68)
 - [Rot13 in Beef](https://sampleprograms.io/projects/rot13/beef)
@@ -109,6 +109,7 @@ There are 21 articles:
 - [Rot13 in C++](https://sampleprograms.io/projects/rot13/c-plus-plus)
 - [Rot13 in Commodore Basic](https://sampleprograms.io/projects/rot13/commodore-basic)
 - [Rot13 in Dart](https://sampleprograms.io/projects/rot13/dart)
+- [Rot13 in Elvish](https://sampleprograms.io/projects/rot13/elvish)
 - [Rot13 in Euphoria](https://sampleprograms.io/projects/rot13/euphoria)
 - [Rot13 in Go](https://sampleprograms.io/projects/rot13/go)
 - [Rot13 in Haskell](https://sampleprograms.io/projects/rot13/haskell)
