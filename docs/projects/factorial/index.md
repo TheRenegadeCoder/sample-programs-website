@@ -1,7 +1,7 @@
 ---
 date: 2018-10-26
 featured-image: factorial-in-every-language.jpg
-last-modified: 2024-12-16
+last-modified: 2025-01-12
 layout: default
 tags:
 - factorial
@@ -83,7 +83,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 36 articles:
+There are 37 articles:
 
 - [Factorial in Algol68](https://sampleprograms.io/projects/factorial/algol68)
 - [Factorial in Bash](https://sampleprograms.io/projects/factorial/bash)
@@ -96,6 +96,7 @@ There are 36 articles:
 - [Factorial in Commodore Basic](https://sampleprograms.io/projects/factorial/commodore-basic)
 - [Factorial in D](https://sampleprograms.io/projects/factorial/d)
 - [Factorial in Elixir](https://sampleprograms.io/projects/factorial/elixir)
+- [Factorial in Elvish](https://sampleprograms.io/projects/factorial/elvish)
 - [Factorial in Erlang](https://sampleprograms.io/projects/factorial/erlang)
 - [Factorial in Euphoria](https://sampleprograms.io/projects/factorial/euphoria)
 - [Factorial in Fortran](https://sampleprograms.io/projects/factorial/fortran)
