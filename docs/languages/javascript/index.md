@@ -1,7 +1,7 @@
 ---
 date: 2018-03-31
 featured-image: programming-languages.jpg
-last-modified: 2023-11-01
+last-modified: 2025-01-12
 layout: default
 tags:
 - javascript
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 30 articles:
+There are 31 articles:
 
 - [Baklava in Javascript](https://sampleprograms.io/projects/baklava/javascript)
 - [Binary Search in Javascript](https://sampleprograms.io/projects/binary-search/javascript)
@@ -52,6 +52,7 @@ There are 30 articles:
 - [Prime Number in Javascript](https://sampleprograms.io/projects/prime-number/javascript)
 - [Quick Sort in Javascript](https://sampleprograms.io/projects/quick-sort/javascript)
 - [Quine in Javascript](https://sampleprograms.io/projects/quine/javascript)
+- [Remove All Whitespace in Javascript](https://sampleprograms.io/projects/remove-all-whitespace/javascript)
 - [Reverse String in Javascript](https://sampleprograms.io/projects/reverse-string/javascript)
 - [Roman Numeral in Javascript](https://sampleprograms.io/projects/roman-numeral/javascript)
 - [Rot13 in Javascript](https://sampleprograms.io/projects/rot13/javascript)
