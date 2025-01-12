@@ -1,7 +1,7 @@
 ---
 date: 2018-03-25
 featured-image: programming-languages.jpg
-last-modified: 2024-10-11
+last-modified: 2025-01-12
 layout: default
 tags:
 - go
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 29 articles:
+There are 30 articles:
 
 - [Baklava in Go](https://sampleprograms.io/projects/baklava/go)
 - [Binary Search in Go](https://sampleprograms.io/projects/binary-search/go)
@@ -38,6 +38,7 @@ There are 29 articles:
 - [Fibonacci in Go](https://sampleprograms.io/projects/fibonacci/go)
 - [File Input Output in Go](https://sampleprograms.io/projects/file-input-output/go)
 - [Fizz Buzz in Go](https://sampleprograms.io/projects/fizz-buzz/go)
+- [Fraction Math in Go](https://sampleprograms.io/projects/fraction-math/go)
 - [Hello World in Go](https://sampleprograms.io/projects/hello-world/go)
 - [Insertion Sort in Go](https://sampleprograms.io/projects/insertion-sort/go)
 - [Job Sequencing in Go](https://sampleprograms.io/projects/job-sequencing/go)
