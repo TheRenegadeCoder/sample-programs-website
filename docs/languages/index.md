@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1017 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1018 code snippets.
 
 ## Language Collections by Letter
 
@@ -170,10 +170,10 @@ The 'H' collection contains 4 languages, of which 4 are tested, and 26 code snip
 
 ### I
 
-The 'I' collection contains 2 languages, of which 2 are tested, and 4 code snippets.
+The 'I' collection contains 2 languages, of which 2 are tested, and 5 code snippets.
 
 - [Idris](https://sampleprograms.io/languages/idris) (2 code snippets)
-- [Io](https://sampleprograms.io/languages/io) (2 code snippets)
+- [Io](https://sampleprograms.io/languages/io) (3 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 

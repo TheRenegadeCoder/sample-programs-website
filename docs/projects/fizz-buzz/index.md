@@ -1,7 +1,7 @@
 ---
 date: 2018-07-27
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2025-01-08
+last-modified: 2025-01-12
 layout: default
 tags:
 - fizz-buzz
@@ -76,7 +76,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 63 articles:
+There are 64 articles:
 
 - [Fizz Buzz in Ada](https://sampleprograms.io/projects/fizz-buzz/ada)
 - [Fizz Buzz in Algol68](https://sampleprograms.io/projects/fizz-buzz/algol68)
@@ -101,6 +101,7 @@ There are 63 articles:
 - [Fizz Buzz in Gnu Make](https://sampleprograms.io/projects/fizz-buzz/gnu-make)
 - [Fizz Buzz in Go](https://sampleprograms.io/projects/fizz-buzz/go)
 - [Fizz Buzz in Haskell](https://sampleprograms.io/projects/fizz-buzz/haskell)
+- [Fizz Buzz in Io](https://sampleprograms.io/projects/fizz-buzz/io)
 - [Fizz Buzz in Java](https://sampleprograms.io/projects/fizz-buzz/java)
 - [Fizz Buzz in Javascript](https://sampleprograms.io/projects/fizz-buzz/javascript)
 - [Fizz Buzz in Julia](https://sampleprograms.io/projects/fizz-buzz/julia)
