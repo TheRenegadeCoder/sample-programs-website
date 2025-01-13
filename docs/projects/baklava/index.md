@@ -1,7 +1,7 @@
 ---
 date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2025-01-08
+last-modified: 2025-01-13
 layout: default
 tags:
 - baklava
@@ -79,7 +79,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 128 articles:
+There are 130 articles:
 
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
 - [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
@@ -99,7 +99,9 @@ There are 128 articles:
 - [Baklava in Eiffel](https://sampleprograms.io/projects/baklava/eiffel)
 - [Baklava in Elixir](https://sampleprograms.io/projects/baklava/elixir)
 - [Baklava in Elvish](https://sampleprograms.io/projects/baklava/elvish)
+- [Baklava in Emojicode](https://sampleprograms.io/projects/baklava/emojicode)
 - [Baklava in Erlang](https://sampleprograms.io/projects/baklava/erlang)
+- [Baklava in Eta](https://sampleprograms.io/projects/baklava/eta)
 - [Baklava in Euphoria](https://sampleprograms.io/projects/baklava/euphoria)
 - [Baklava in F#](https://sampleprograms.io/projects/baklava/f-sharp)
 - [Baklava in F\*](https://sampleprograms.io/projects/baklava/f-star)

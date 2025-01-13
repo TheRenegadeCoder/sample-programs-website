@@ -1,7 +1,7 @@
 ---
 date: 2018-05-05
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2025-01-13
 layout: default
 tags:
 - emojicode
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Emojicode](https://sampleprograms.io/projects/baklava/emojicode)
 - [Hello World in Emojicode](https://sampleprograms.io/projects/hello-world/emojicode)
