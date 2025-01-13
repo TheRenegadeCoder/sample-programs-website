@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1021 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1023 code snippets.
 
 ## Language Collections by Letter
 
@@ -106,11 +106,11 @@ The 'D' collection contains 6 languages, of which 6 are tested, and 24 code snip
 
 ### E
 
-The 'E' collection contains 9 languages, of which 9 are tested, and 67 code snippets.
+The 'E' collection contains 9 languages, of which 9 are tested, and 68 code snippets.
 
 - [Egison](https://sampleprograms.io/languages/egison) (2 code snippets)
 - [Eiffel](https://sampleprograms.io/languages/eiffel) (2 code snippets)
-- [Elena](https://sampleprograms.io/languages/elena) (1 code snippet)
+- [Elena](https://sampleprograms.io/languages/elena) (2 code snippets)
 - [Elixir](https://sampleprograms.io/languages/elixir) (8 code snippets)
 - [Elvish](https://sampleprograms.io/languages/elvish) (7 code snippets)
 - [Emojicode](https://sampleprograms.io/languages/emojicode) (2 code snippets)
@@ -122,7 +122,7 @@ The 'E' collection contains 9 languages, of which 9 are tested, and 67 code snip
 
 ### F
 
-The 'F' collection contains 12 languages, of which 12 are tested, and 31 code snippets.
+The 'F' collection contains 12 languages, of which 12 are tested, and 32 code snippets.
 
 - [F#](https://sampleprograms.io/languages/f-sharp) (3 code snippets)
 - [F\*](https://sampleprograms.io/languages/f-star) (2 code snippets)
@@ -130,7 +130,7 @@ The 'F' collection contains 12 languages, of which 12 are tested, and 31 code sn
 - [Felix](https://sampleprograms.io/languages/felix) (2 code snippets)
 - [Fennel](https://sampleprograms.io/languages/fennel) (2 code snippets)
 - [Ferret](https://sampleprograms.io/languages/ferret) (2 code snippets)
-- [Fetlang](https://sampleprograms.io/languages/fetlang) (2 code snippets)
+- [Fetlang](https://sampleprograms.io/languages/fetlang) (3 code snippets)
 - [Flix](https://sampleprograms.io/languages/flix) (2 code snippets)
 - [Formality](https://sampleprograms.io/languages/formality) (2 code snippets)
 - [Forth](https://sampleprograms.io/languages/forth) (2 code snippets)
