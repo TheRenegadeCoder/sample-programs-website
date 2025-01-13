@@ -1,7 +1,7 @@
 ---
 date: 2018-10-03
 featured-image: programming-languages.jpg
-last-modified: 2023-11-13
+last-modified: 2025-01-13
 layout: default
 tags:
 - dale
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Dale](https://sampleprograms.io/projects/baklava/dale)
 - [Hello World in Dale](https://sampleprograms.io/projects/hello-world/dale)
