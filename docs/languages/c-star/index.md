@@ -4,7 +4,7 @@ authors:
 - rzuckerm
 date: 2022-04-28
 featured-image: programming-languages.jpg
-last-modified: 2023-12-09
+last-modified: 2025-01-14
 layout: default
 tags:
 - c-star
@@ -69,6 +69,7 @@ For further information on this language, see the [C* documentation][5].
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in C\*](https://sampleprograms.io/projects/baklava/c-star)
 - [Hello World in C\*](https://sampleprograms.io/projects/hello-world/c-star)

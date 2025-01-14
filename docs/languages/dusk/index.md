@@ -1,7 +1,7 @@
 ---
 date: 2018-12-30
 featured-image: programming-languages.jpg
-last-modified: 2018-12-30
+last-modified: 2025-01-14
 layout: default
 tags:
 - dusk
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Dusk](https://sampleprograms.io/projects/baklava/dusk)
 - [Hello World in Dusk](https://sampleprograms.io/projects/hello-world/dusk)

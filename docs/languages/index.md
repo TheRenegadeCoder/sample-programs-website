@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-01-13
+last-modified: 2025-01-14
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1023 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1027 code snippets.
 
 ## Language Collections by Letter
 
@@ -72,13 +72,13 @@ The 'B' collection contains 9 languages, of which 9 are tested, and 69 code snip
 
 ### C
 
-The 'C' collection contains 14 languages, of which 14 are tested, and 144 code snippets.
+The 'C' collection contains 14 languages, of which 14 are tested, and 145 code snippets.
 
 - [C](https://sampleprograms.io/languages/c) (26 code snippets)
 - [C#](https://sampleprograms.io/languages/c-sharp) (29 code snippets)
 - [C++](https://sampleprograms.io/languages/c-plus-plus) (27 code snippets)
 - [C2](https://sampleprograms.io/languages/c2) (1 code snippet)
-- [C\*](https://sampleprograms.io/languages/c-star) (1 code snippet)
+- [C\*](https://sampleprograms.io/languages/c-star) (2 code snippets)
 - [Carp](https://sampleprograms.io/languages/carp) (1 code snippet)
 - [Chaiscript](https://sampleprograms.io/languages/chaiscript) (1 code snippet)
 - [Chapel](https://sampleprograms.io/languages/chapel) (1 code snippet)
@@ -93,14 +93,14 @@ The 'C' collection contains 14 languages, of which 14 are tested, and 144 code s
 
 ### D
 
-The 'D' collection contains 6 languages, of which 6 are tested, and 24 code snippets.
+The 'D' collection contains 6 languages, of which 6 are tested, and 27 code snippets.
 
 - [D](https://sampleprograms.io/languages/d) (3 code snippets)
 - [Dale](https://sampleprograms.io/languages/dale) (2 code snippets)
 - [Dart](https://sampleprograms.io/languages/dart) (12 code snippets)
-- [Dg](https://sampleprograms.io/languages/dg) (5 code snippets)
-- [Discus](https://sampleprograms.io/languages/discus) (1 code snippet)
-- [Dusk](https://sampleprograms.io/languages/dusk) (1 code snippet)
+- [Dg](https://sampleprograms.io/languages/dg) (6 code snippets)
+- [Discus](https://sampleprograms.io/languages/discus) (2 code snippets)
+- [Dusk](https://sampleprograms.io/languages/dusk) (2 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 

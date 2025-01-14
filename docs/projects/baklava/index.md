@@ -1,7 +1,7 @@
 ---
 date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2025-01-13
+last-modified: 2025-01-14
 layout: default
 tags:
 - baklava
@@ -79,7 +79,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 132 articles:
+There are 136 articles:
 
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
 - [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
@@ -90,12 +90,16 @@ There are 132 articles:
 - [Baklava in C](https://sampleprograms.io/projects/baklava/c)
 - [Baklava in C#](https://sampleprograms.io/projects/baklava/c-sharp)
 - [Baklava in C++](https://sampleprograms.io/projects/baklava/c-plus-plus)
+- [Baklava in C\*](https://sampleprograms.io/projects/baklava/c-star)
 - [Baklava in Coffeescript](https://sampleprograms.io/projects/baklava/coffeescript)
 - [Baklava in Commodore Basic](https://sampleprograms.io/projects/baklava/commodore-basic)
 - [Baklava in Crystal](https://sampleprograms.io/projects/baklava/crystal)
 - [Baklava in D](https://sampleprograms.io/projects/baklava/d)
 - [Baklava in Dale](https://sampleprograms.io/projects/baklava/dale)
 - [Baklava in Dart](https://sampleprograms.io/projects/baklava/dart)
+- [Baklava in Dg](https://sampleprograms.io/projects/baklava/dg)
+- [Baklava in Discus](https://sampleprograms.io/projects/baklava/discus)
+- [Baklava in Dusk](https://sampleprograms.io/projects/baklava/dusk)
 - [Baklava in Egison](https://sampleprograms.io/projects/baklava/egison)
 - [Baklava in Eiffel](https://sampleprograms.io/projects/baklava/eiffel)
 - [Baklava in Elena](https://sampleprograms.io/projects/baklava/elena)

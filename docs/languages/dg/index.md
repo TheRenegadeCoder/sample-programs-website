@@ -1,7 +1,7 @@
 ---
 date: 2018-10-03
 featured-image: programming-languages.jpg
-last-modified: 2018-10-10
+last-modified: 2025-01-13
 layout: default
 tags:
 - dg
@@ -26,8 +26,9 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 5 articles:
+There are 6 articles:
 
+- [Baklava in Dg](https://sampleprograms.io/projects/baklava/dg)
 - [File Input Output in Dg](https://sampleprograms.io/projects/file-input-output/dg)
 - [Fizz Buzz in Dg](https://sampleprograms.io/projects/fizz-buzz/dg)
 - [Hello World in Dg](https://sampleprograms.io/projects/hello-world/dg)
