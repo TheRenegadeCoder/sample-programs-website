@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 9 articles:
+There are 10 articles:
 
 - [Baklava in Elvish](https://sampleprograms.io/projects/baklava/elvish)
 - [Even Odd in Elvish](https://sampleprograms.io/projects/even-odd/elvish)
@@ -34,6 +34,7 @@ There are 9 articles:
 - [Fibonacci in Elvish](https://sampleprograms.io/projects/fibonacci/elvish)
 - [Fizz Buzz in Elvish](https://sampleprograms.io/projects/fizz-buzz/elvish)
 - [Hello World in Elvish](https://sampleprograms.io/projects/hello-world/elvish)
+- [Linear Search in Elvish](https://sampleprograms.io/projects/linear-search/elvish)
 - [Remove All Whitespace in Elvish](https://sampleprograms.io/projects/remove-all-whitespace/elvish)
 - [Reverse String in Elvish](https://sampleprograms.io/projects/reverse-string/elvish)
 - [Rot13 in Elvish](https://sampleprograms.io/projects/rot13/elvish)
