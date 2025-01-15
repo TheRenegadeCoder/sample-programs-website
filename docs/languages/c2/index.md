@@ -1,7 +1,7 @@
 ---
 date: 2021-05-25
 featured-image: programming-languages.jpg
-last-modified: 2023-11-26
+last-modified: 2025-01-14
 layout: default
 tags:
 - c2
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in C2](https://sampleprograms.io/projects/baklava/c2)
 - [Hello World in C2](https://sampleprograms.io/projects/hello-world/c2)

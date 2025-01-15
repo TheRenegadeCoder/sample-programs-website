@@ -1,7 +1,7 @@
 ---
 date: 2023-07-29
 featured-image: programming-languages.jpg
-last-modified: 2023-07-29
+last-modified: 2025-01-15
 layout: default
 tags:
 - carp
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Carp](https://sampleprograms.io/projects/baklava/carp)
 - [Hello World in Carp](https://sampleprograms.io/projects/hello-world/carp)
