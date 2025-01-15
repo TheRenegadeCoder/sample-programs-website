@@ -1,7 +1,7 @@
 ---
 date: 2018-04-12
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2024-12-15
+last-modified: 2025-01-15
 layout: default
 tags:
 - reverse-string
@@ -70,7 +70,7 @@ In this section, we specify the set of tests specific to Reverse String.
 
 ## Articles
 
-There are 48 articles:
+There are 49 articles:
 
 - [Reverse String in Algol68](https://sampleprograms.io/projects/reverse-string/algol68)
 - [Reverse String in Bash](https://sampleprograms.io/projects/reverse-string/bash)
@@ -83,6 +83,7 @@ There are 48 articles:
 - [Reverse String in Commodore Basic](https://sampleprograms.io/projects/reverse-string/commodore-basic)
 - [Reverse String in Dart](https://sampleprograms.io/projects/reverse-string/dart)
 - [Reverse String in Dg](https://sampleprograms.io/projects/reverse-string/dg)
+- [Reverse String in Elvish](https://sampleprograms.io/projects/reverse-string/elvish)
 - [Reverse String in Erlang](https://sampleprograms.io/projects/reverse-string/erlang)
 - [Reverse String in Euphoria](https://sampleprograms.io/projects/reverse-string/euphoria)
 - [Reverse String in Fortran](https://sampleprograms.io/projects/reverse-string/fortran)
