@@ -1,7 +1,7 @@
 ---
 date: 2018-12-22
 featured-image: programming-languages.jpg
-last-modified: 2023-03-19
+last-modified: 2025-01-15
 layout: default
 tags:
 - clojure
@@ -26,8 +26,9 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 5 articles:
+There are 6 articles:
 
+- [Baklava in Clojure](https://sampleprograms.io/projects/baklava/clojure)
 - [Bubble Sort in Clojure](https://sampleprograms.io/projects/bubble-sort/clojure)
 - [Capitalize in Clojure](https://sampleprograms.io/projects/capitalize/clojure)
 - [Fizz Buzz in Clojure](https://sampleprograms.io/projects/fizz-buzz/clojure)
