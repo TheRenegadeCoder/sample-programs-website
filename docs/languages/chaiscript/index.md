@@ -1,7 +1,7 @@
 ---
 date: 2021-05-24
 featured-image: programming-languages.jpg
-last-modified: 2021-05-24
+last-modified: 2025-01-15
 layout: default
 tags:
 - chaiscript
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Chaiscript](https://sampleprograms.io/projects/baklava/chaiscript)
 - [Hello World in Chaiscript](https://sampleprograms.io/projects/hello-world/chaiscript)
