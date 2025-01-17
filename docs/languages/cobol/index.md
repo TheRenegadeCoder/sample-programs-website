@@ -1,7 +1,7 @@
 ---
 date: 2021-10-08
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2025-01-17
 layout: default
 tags:
 - cobol
@@ -26,8 +26,9 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 4 articles:
+There are 5 articles:
 
+- [Baklava in Cobol](https://sampleprograms.io/projects/baklava/cobol)
 - [Even Odd in Cobol](https://sampleprograms.io/projects/even-odd/cobol)
 - [Factorial in Cobol](https://sampleprograms.io/projects/factorial/cobol)
 - [Hello World in Cobol](https://sampleprograms.io/projects/hello-world/cobol)
