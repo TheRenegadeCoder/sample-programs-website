@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1036 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1037 code snippets.
 
 ## Language Collections by Letter
 
@@ -106,13 +106,13 @@ The 'D' collection contains 6 languages, of which 6 are tested, and 27 code snip
 
 ### E
 
-The 'E' collection contains 9 languages, of which 9 are tested, and 72 code snippets.
+The 'E' collection contains 9 languages, of which 9 are tested, and 73 code snippets.
 
 - [Egison](https://sampleprograms.io/languages/egison) (2 code snippets)
 - [Eiffel](https://sampleprograms.io/languages/eiffel) (2 code snippets)
 - [Elena](https://sampleprograms.io/languages/elena) (2 code snippets)
 - [Elixir](https://sampleprograms.io/languages/elixir) (8 code snippets)
-- [Elvish](https://sampleprograms.io/languages/elvish) (11 code snippets)
+- [Elvish](https://sampleprograms.io/languages/elvish) (12 code snippets)
 - [Emojicode](https://sampleprograms.io/languages/emojicode) (2 code snippets)
 - [Erlang](https://sampleprograms.io/languages/erlang) (6 code snippets)
 - [Eta](https://sampleprograms.io/languages/eta) (2 code snippets)
