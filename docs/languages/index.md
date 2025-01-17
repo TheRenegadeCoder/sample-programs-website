@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1039 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1040 code snippets.
 
 ## Language Collections by Letter
 
@@ -72,7 +72,7 @@ The 'B' collection contains 9 languages, of which 9 are tested, and 69 code snip
 
 ### C
 
-The 'C' collection contains 14 languages, of which 14 are tested, and 151 code snippets.
+The 'C' collection contains 14 languages, of which 14 are tested, and 152 code snippets.
 
 - [C](https://sampleprograms.io/languages/c) (26 code snippets)
 - [C#](https://sampleprograms.io/languages/c-sharp) (29 code snippets)
@@ -87,7 +87,7 @@ The 'C' collection contains 14 languages, of which 14 are tested, and 151 code s
 - [Coffeescript](https://sampleprograms.io/languages/coffeescript) (7 code snippets)
 - [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) (37 code snippets)
 - [Crystal](https://sampleprograms.io/languages/crystal) (3 code snippets)
-- [Cyclone](https://sampleprograms.io/languages/cyclone) (1 code snippet)
+- [Cyclone](https://sampleprograms.io/languages/cyclone) (2 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 

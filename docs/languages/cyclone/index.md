@@ -1,7 +1,7 @@
 ---
 date: 2020-12-02
 featured-image: programming-languages.jpg
-last-modified: 2020-12-02
+last-modified: 2025-01-17
 layout: default
 tags:
 - cyclone
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Cyclone](https://sampleprograms.io/projects/baklava/cyclone)
 - [Hello World in Cyclone](https://sampleprograms.io/projects/hello-world/cyclone)
