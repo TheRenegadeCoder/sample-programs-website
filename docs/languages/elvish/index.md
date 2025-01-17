@@ -1,7 +1,7 @@
 ---
 date: 2021-05-25
 featured-image: programming-languages.jpg
-last-modified: 2025-01-16
+last-modified: 2025-01-17
 layout: default
 tags:
 - elvish
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 12 articles:
+There are 13 articles:
 
 - [Baklava in Elvish](https://sampleprograms.io/projects/baklava/elvish)
 - [Even Odd in Elvish](https://sampleprograms.io/projects/even-odd/elvish)
@@ -37,6 +37,7 @@ There are 12 articles:
 - [Hello World in Elvish](https://sampleprograms.io/projects/hello-world/elvish)
 - [Linear Search in Elvish](https://sampleprograms.io/projects/linear-search/elvish)
 - [Palindromic Number in Elvish](https://sampleprograms.io/projects/palindromic-number/elvish)
+- [Prime Number in Elvish](https://sampleprograms.io/projects/prime-number/elvish)
 - [Remove All Whitespace in Elvish](https://sampleprograms.io/projects/remove-all-whitespace/elvish)
 - [Reverse String in Elvish](https://sampleprograms.io/projects/reverse-string/elvish)
 - [Rot13 in Elvish](https://sampleprograms.io/projects/rot13/elvish)

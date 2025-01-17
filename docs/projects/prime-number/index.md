@@ -1,7 +1,7 @@
 ---
 date: 2018-11-16
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2024-10-02
+last-modified: 2025-01-17
 layout: default
 tags:
 - prime-number
@@ -83,7 +83,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 30 articles:
+There are 31 articles:
 
 - [Prime Number in Algol68](https://sampleprograms.io/projects/prime-number/algol68)
 - [Prime Number in Bash](https://sampleprograms.io/projects/prime-number/bash)
@@ -93,6 +93,7 @@ There are 30 articles:
 - [Prime Number in C++](https://sampleprograms.io/projects/prime-number/c-plus-plus)
 - [Prime Number in Cobol](https://sampleprograms.io/projects/prime-number/cobol)
 - [Prime Number in Commodore Basic](https://sampleprograms.io/projects/prime-number/commodore-basic)
+- [Prime Number in Elvish](https://sampleprograms.io/projects/prime-number/elvish)
 - [Prime Number in Euphoria](https://sampleprograms.io/projects/prime-number/euphoria)
 - [Prime Number in Fortran](https://sampleprograms.io/projects/prime-number/fortran)
 - [Prime Number in Gnu Make](https://sampleprograms.io/projects/prime-number/gnu-make)
