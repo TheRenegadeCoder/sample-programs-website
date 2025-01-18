@@ -5,7 +5,7 @@ authors:
 - Ron Zuckerman
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2024-11-16
+last-modified: 2025-01-18
 layout: default
 tags:
 - c
@@ -47,7 +47,7 @@ implicitly.
 
 ## Articles
 
-There are 26 articles:
+There are 27 articles:
 
 - [Baklava in C](https://sampleprograms.io/projects/baklava/c)
 - [Binary Search in C](https://sampleprograms.io/projects/binary-search/c)
@@ -62,6 +62,7 @@ There are 26 articles:
 - [Fizz Buzz in C](https://sampleprograms.io/projects/fizz-buzz/c)
 - [Hello World in C](https://sampleprograms.io/projects/hello-world/c)
 - [Insertion Sort in C](https://sampleprograms.io/projects/insertion-sort/c)
+- [Job Sequencing in C](https://sampleprograms.io/projects/job-sequencing/c)
 - [Longest Common Subsequence in C](https://sampleprograms.io/projects/longest-common-subsequence/c)
 - [Longest Word in C](https://sampleprograms.io/projects/longest-word/c)
 - [Merge Sort in C](https://sampleprograms.io/projects/merge-sort/c)
