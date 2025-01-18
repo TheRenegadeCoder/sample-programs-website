@@ -47,7 +47,7 @@ implicitly.
 
 ## Articles
 
-There are 27 articles:
+There are 28 articles:
 
 - [Baklava in C](https://sampleprograms.io/projects/baklava/c)
 - [Binary Search in C](https://sampleprograms.io/projects/binary-search/c)
@@ -60,6 +60,7 @@ There are 27 articles:
 - [Fibonacci in C](https://sampleprograms.io/projects/fibonacci/c)
 - [File Input Output in C](https://sampleprograms.io/projects/file-input-output/c)
 - [Fizz Buzz in C](https://sampleprograms.io/projects/fizz-buzz/c)
+- [Fraction Math in C](https://sampleprograms.io/projects/fraction-math/c)
 - [Hello World in C](https://sampleprograms.io/projects/hello-world/c)
 - [Insertion Sort in C](https://sampleprograms.io/projects/insertion-sort/c)
 - [Job Sequencing in C](https://sampleprograms.io/projects/job-sequencing/c)
