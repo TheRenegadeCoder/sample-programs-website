@@ -76,7 +76,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 80 articles:
+There are 81 articles:
 
 - [Fizz Buzz in Ada](https://sampleprograms.io/projects/fizz-buzz/ada)
 - [Fizz Buzz in Algol68](https://sampleprograms.io/projects/fizz-buzz/algol68)
@@ -91,6 +91,7 @@ There are 80 articles:
 - [Fizz Buzz in C++](https://sampleprograms.io/projects/fizz-buzz/c-plus-plus)
 - [Fizz Buzz in Chapel](https://sampleprograms.io/projects/fizz-buzz/chapel)
 - [Fizz Buzz in Clojure](https://sampleprograms.io/projects/fizz-buzz/clojure)
+- [Fizz Buzz in Cobol](https://sampleprograms.io/projects/fizz-buzz/cobol)
 - [Fizz Buzz in Coffeescript](https://sampleprograms.io/projects/fizz-buzz/coffeescript)
 - [Fizz Buzz in Commodore Basic](https://sampleprograms.io/projects/fizz-buzz/commodore-basic)
 - [Fizz Buzz in Crystal](https://sampleprograms.io/projects/fizz-buzz/crystal)
