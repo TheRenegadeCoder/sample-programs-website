@@ -47,13 +47,14 @@ implicitly.
 
 ## Articles
 
-There are 28 articles:
+There are 29 articles:
 
 - [Baklava in C](https://sampleprograms.io/projects/baklava/c)
 - [Binary Search in C](https://sampleprograms.io/projects/binary-search/c)
 - [Bubble Sort in C](https://sampleprograms.io/projects/bubble-sort/c)
 - [Capitalize in C](https://sampleprograms.io/projects/capitalize/c)
 - [Convex Hull in C](https://sampleprograms.io/projects/convex-hull/c)
+- [Depth First Search in C](https://sampleprograms.io/projects/depth-first-search/c)
 - [Duplicate Character Counter in C](https://sampleprograms.io/projects/duplicate-character-counter/c)
 - [Even Odd in C](https://sampleprograms.io/projects/even-odd/c)
 - [Factorial in C](https://sampleprograms.io/projects/factorial/c)
