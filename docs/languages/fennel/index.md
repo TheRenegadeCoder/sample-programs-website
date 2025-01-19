@@ -1,7 +1,7 @@
 ---
 date: 2018-12-30
 featured-image: programming-languages.jpg
-last-modified: 2025-01-06
+last-modified: 2025-01-19
 layout: default
 tags:
 - fennel
@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
 - [Baklava in Fennel](https://sampleprograms.io/projects/baklava/fennel)
+- [Fizz Buzz in Fennel](https://sampleprograms.io/projects/fizz-buzz/fennel)
 - [Hello World in Fennel](https://sampleprograms.io/projects/hello-world/fennel)

@@ -76,7 +76,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 78 articles:
+There are 80 articles:
 
 - [Fizz Buzz in Ada](https://sampleprograms.io/projects/fizz-buzz/ada)
 - [Fizz Buzz in Algol68](https://sampleprograms.io/projects/fizz-buzz/algol68)
@@ -101,6 +101,7 @@ There are 78 articles:
 - [Fizz Buzz in Elvish](https://sampleprograms.io/projects/fizz-buzz/elvish)
 - [Fizz Buzz in Erlang](https://sampleprograms.io/projects/fizz-buzz/erlang)
 - [Fizz Buzz in Euphoria](https://sampleprograms.io/projects/fizz-buzz/euphoria)
+- [Fizz Buzz in Fennel](https://sampleprograms.io/projects/fizz-buzz/fennel)
 - [Fizz Buzz in Fetlang](https://sampleprograms.io/projects/fizz-buzz/fetlang)
 - [Fizz Buzz in Forth](https://sampleprograms.io/projects/fizz-buzz/forth)
 - [Fizz Buzz in Fortran](https://sampleprograms.io/projects/fizz-buzz/fortran)
@@ -131,6 +132,7 @@ There are 78 articles:
 - [Fizz Buzz in Php](https://sampleprograms.io/projects/fizz-buzz/php)
 - [Fizz Buzz in Pineapple](https://sampleprograms.io/projects/fizz-buzz/pineapple)
 - [Fizz Buzz in Pinecone](https://sampleprograms.io/projects/fizz-buzz/pinecone)
+- [Fizz Buzz in Pony](https://sampleprograms.io/projects/fizz-buzz/pony)
 - [Fizz Buzz in Powershell](https://sampleprograms.io/projects/fizz-buzz/powershell)
 - [Fizz Buzz in Prolog](https://sampleprograms.io/projects/fizz-buzz/prolog)
 - [Fizz Buzz in Pyret](https://sampleprograms.io/projects/fizz-buzz/pyret)
