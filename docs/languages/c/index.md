@@ -47,7 +47,7 @@ implicitly.
 
 ## Articles
 
-There are 33 articles:
+There are 34 articles:
 
 - [Baklava in C](https://sampleprograms.io/projects/baklava/c)
 - [Binary Search in C](https://sampleprograms.io/projects/binary-search/c)
@@ -71,6 +71,7 @@ There are 33 articles:
 - [Longest Palindromic Substring in C](https://sampleprograms.io/projects/longest-palindromic-substring/c)
 - [Longest Word in C](https://sampleprograms.io/projects/longest-word/c)
 - [Maximum Array Rotation in C](https://sampleprograms.io/projects/maximum-array-rotation/c)
+- [Maximum Subarray in C](https://sampleprograms.io/projects/maximum-subarray/c)
 - [Merge Sort in C](https://sampleprograms.io/projects/merge-sort/c)
 - [Minimum Spanning Tree in C](https://sampleprograms.io/projects/minimum-spanning-tree/c)
 - [Palindromic Number in C](https://sampleprograms.io/projects/palindromic-number/c)
