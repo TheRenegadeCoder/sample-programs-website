@@ -1,7 +1,7 @@
 ---
 date: 2023-11-16
 featured-image: programming-languages.jpg
-last-modified: 2025-01-06
+last-modified: 2025-01-19
 layout: default
 tags:
 - forth
@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
 - [Baklava in Forth](https://sampleprograms.io/projects/baklava/forth)
+- [Fizz Buzz in Forth](https://sampleprograms.io/projects/fizz-buzz/forth)
 - [Hello World in Forth](https://sampleprograms.io/projects/hello-world/forth)

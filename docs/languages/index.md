@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1053 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1055 code snippets.
 
 ## Language Collections by Letter
 
@@ -72,7 +72,7 @@ The 'B' collection contains 9 languages, of which 9 are tested, and 69 code snip
 
 ### C
 
-The 'C' collection contains 14 languages, of which 14 are tested, and 156 code snippets.
+The 'C' collection contains 14 languages, of which 14 are tested, and 157 code snippets.
 
 - [C](https://sampleprograms.io/languages/c) (30 code snippets)
 - [C#](https://sampleprograms.io/languages/c-sharp) (29 code snippets)
@@ -81,7 +81,7 @@ The 'C' collection contains 14 languages, of which 14 are tested, and 156 code s
 - [C\*](https://sampleprograms.io/languages/c-star) (2 code snippets)
 - [Carp](https://sampleprograms.io/languages/carp) (2 code snippets)
 - [Chaiscript](https://sampleprograms.io/languages/chaiscript) (2 code snippets)
-- [Chapel](https://sampleprograms.io/languages/chapel) (2 code snippets)
+- [Chapel](https://sampleprograms.io/languages/chapel) (3 code snippets)
 - [Clojure](https://sampleprograms.io/languages/clojure) (6 code snippets)
 - [Cobol](https://sampleprograms.io/languages/cobol) (5 code snippets)
 - [Coffeescript](https://sampleprograms.io/languages/coffeescript) (7 code snippets)
@@ -122,7 +122,7 @@ The 'E' collection contains 9 languages, of which 9 are tested, and 75 code snip
 
 ### F
 
-The 'F' collection contains 12 languages, of which 12 are tested, and 32 code snippets.
+The 'F' collection contains 12 languages, of which 12 are tested, and 33 code snippets.
 
 - [F#](https://sampleprograms.io/languages/f-sharp) (3 code snippets)
 - [F\*](https://sampleprograms.io/languages/f-star) (2 code snippets)
@@ -133,7 +133,7 @@ The 'F' collection contains 12 languages, of which 12 are tested, and 32 code sn
 - [Fetlang](https://sampleprograms.io/languages/fetlang) (3 code snippets)
 - [Flix](https://sampleprograms.io/languages/flix) (2 code snippets)
 - [Formality](https://sampleprograms.io/languages/formality) (2 code snippets)
-- [Forth](https://sampleprograms.io/languages/forth) (2 code snippets)
+- [Forth](https://sampleprograms.io/languages/forth) (3 code snippets)
 - [Fortran](https://sampleprograms.io/languages/fortran) (8 code snippets)
 - [Frege](https://sampleprograms.io/languages/frege) (2 code snippets)
 

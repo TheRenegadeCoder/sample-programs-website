@@ -76,7 +76,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 73 articles:
+There are 75 articles:
 
 - [Fizz Buzz in Ada](https://sampleprograms.io/projects/fizz-buzz/ada)
 - [Fizz Buzz in Algol68](https://sampleprograms.io/projects/fizz-buzz/algol68)
@@ -87,6 +87,7 @@ There are 73 articles:
 - [Fizz Buzz in C](https://sampleprograms.io/projects/fizz-buzz/c)
 - [Fizz Buzz in C#](https://sampleprograms.io/projects/fizz-buzz/c-sharp)
 - [Fizz Buzz in C++](https://sampleprograms.io/projects/fizz-buzz/c-plus-plus)
+- [Fizz Buzz in Chapel](https://sampleprograms.io/projects/fizz-buzz/chapel)
 - [Fizz Buzz in Clojure](https://sampleprograms.io/projects/fizz-buzz/clojure)
 - [Fizz Buzz in Coffeescript](https://sampleprograms.io/projects/fizz-buzz/coffeescript)
 - [Fizz Buzz in Commodore Basic](https://sampleprograms.io/projects/fizz-buzz/commodore-basic)
@@ -99,6 +100,7 @@ There are 73 articles:
 - [Fizz Buzz in Erlang](https://sampleprograms.io/projects/fizz-buzz/erlang)
 - [Fizz Buzz in Euphoria](https://sampleprograms.io/projects/fizz-buzz/euphoria)
 - [Fizz Buzz in Fetlang](https://sampleprograms.io/projects/fizz-buzz/fetlang)
+- [Fizz Buzz in Forth](https://sampleprograms.io/projects/fizz-buzz/forth)
 - [Fizz Buzz in Fortran](https://sampleprograms.io/projects/fizz-buzz/fortran)
 - [Fizz Buzz in Gnu Make](https://sampleprograms.io/projects/fizz-buzz/gnu-make)
 - [Fizz Buzz in Go](https://sampleprograms.io/projects/fizz-buzz/go)

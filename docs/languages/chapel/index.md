@@ -1,7 +1,7 @@
 ---
 date: 2018-11-22
 featured-image: programming-languages.jpg
-last-modified: 2025-01-15
+last-modified: 2025-01-19
 layout: default
 tags:
 - chapel
@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
 - [Baklava in Chapel](https://sampleprograms.io/projects/baklava/chapel)
+- [Fizz Buzz in Chapel](https://sampleprograms.io/projects/fizz-buzz/chapel)
 - [Hello World in Chapel](https://sampleprograms.io/projects/hello-world/chapel)
