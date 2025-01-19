@@ -1,7 +1,7 @@
 ---
 date: 2021-08-12
 featured-image: programming-languages.jpg
-last-modified: 2025-01-01
+last-modified: 2025-01-18
 layout: default
 tags:
 - haxe
@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
 - [Baklava in Haxe](https://sampleprograms.io/projects/baklava/haxe)
+- [Fizz Buzz in Haxe](https://sampleprograms.io/projects/fizz-buzz/haxe)
 - [Hello World in Haxe](https://sampleprograms.io/projects/hello-world/haxe)
