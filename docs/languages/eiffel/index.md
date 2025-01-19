@@ -1,7 +1,7 @@
 ---
 date: 2021-05-25
 featured-image: programming-languages.jpg
-last-modified: 2025-01-08
+last-modified: 2025-01-19
 layout: default
 tags:
 - eiffel
@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
 - [Baklava in Eiffel](https://sampleprograms.io/projects/baklava/eiffel)
+- [Fizz Buzz in Eiffel](https://sampleprograms.io/projects/fizz-buzz/eiffel)
 - [Hello World in Eiffel](https://sampleprograms.io/projects/hello-world/eiffel)

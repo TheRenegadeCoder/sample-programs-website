@@ -76,7 +76,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 81 articles:
+There are 82 articles:
 
 - [Fizz Buzz in Ada](https://sampleprograms.io/projects/fizz-buzz/ada)
 - [Fizz Buzz in Algol68](https://sampleprograms.io/projects/fizz-buzz/algol68)
@@ -98,6 +98,7 @@ There are 81 articles:
 - [Fizz Buzz in D](https://sampleprograms.io/projects/fizz-buzz/d)
 - [Fizz Buzz in Dart](https://sampleprograms.io/projects/fizz-buzz/dart)
 - [Fizz Buzz in Dg](https://sampleprograms.io/projects/fizz-buzz/dg)
+- [Fizz Buzz in Eiffel](https://sampleprograms.io/projects/fizz-buzz/eiffel)
 - [Fizz Buzz in Elixir](https://sampleprograms.io/projects/fizz-buzz/elixir)
 - [Fizz Buzz in Elvish](https://sampleprograms.io/projects/fizz-buzz/elvish)
 - [Fizz Buzz in Erlang](https://sampleprograms.io/projects/fizz-buzz/erlang)
