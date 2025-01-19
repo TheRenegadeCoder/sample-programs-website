@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1047 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1049 code snippets.
 
 ## Language Collections by Letter
 
@@ -93,9 +93,9 @@ The 'C' collection contains 14 languages, of which 14 are tested, and 156 code s
 
 ### D
 
-The 'D' collection contains 6 languages, of which 6 are tested, and 27 code snippets.
+The 'D' collection contains 6 languages, of which 6 are tested, and 28 code snippets.
 
-- [D](https://sampleprograms.io/languages/d) (3 code snippets)
+- [D](https://sampleprograms.io/languages/d) (4 code snippets)
 - [Dale](https://sampleprograms.io/languages/dale) (2 code snippets)
 - [Dart](https://sampleprograms.io/languages/dart) (12 code snippets)
 - [Dg](https://sampleprograms.io/languages/dg) (6 code snippets)
@@ -141,7 +141,7 @@ The 'F' collection contains 12 languages, of which 12 are tested, and 32 code sn
 
 ### G
 
-The 'G' collection contains 11 languages, of which 11 are tested, and 60 code snippets.
+The 'G' collection contains 11 languages, of which 11 are tested, and 61 code snippets.
 
 - [Gerbil](https://sampleprograms.io/languages/gerbil) (2 code snippets)
 - [Gluon](https://sampleprograms.io/languages/gluon) (2 code snippets)
@@ -152,7 +152,7 @@ The 'G' collection contains 11 languages, of which 11 are tested, and 60 code sn
 - [Gosu](https://sampleprograms.io/languages/gosu) (2 code snippets)
 - [Grain](https://sampleprograms.io/languages/grain) (2 code snippets)
 - [Granule](https://sampleprograms.io/languages/granule) (2 code snippets)
-- [Gravity](https://sampleprograms.io/languages/gravity) (2 code snippets)
+- [Gravity](https://sampleprograms.io/languages/gravity) (3 code snippets)
 - [Groovy](https://sampleprograms.io/languages/groovy) (8 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;

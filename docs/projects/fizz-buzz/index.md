@@ -76,7 +76,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 67 articles:
+There are 69 articles:
 
 - [Fizz Buzz in Ada](https://sampleprograms.io/projects/fizz-buzz/ada)
 - [Fizz Buzz in Algol68](https://sampleprograms.io/projects/fizz-buzz/algol68)
@@ -91,6 +91,7 @@ There are 67 articles:
 - [Fizz Buzz in Coffeescript](https://sampleprograms.io/projects/fizz-buzz/coffeescript)
 - [Fizz Buzz in Commodore Basic](https://sampleprograms.io/projects/fizz-buzz/commodore-basic)
 - [Fizz Buzz in Crystal](https://sampleprograms.io/projects/fizz-buzz/crystal)
+- [Fizz Buzz in D](https://sampleprograms.io/projects/fizz-buzz/d)
 - [Fizz Buzz in Dart](https://sampleprograms.io/projects/fizz-buzz/dart)
 - [Fizz Buzz in Dg](https://sampleprograms.io/projects/fizz-buzz/dg)
 - [Fizz Buzz in Elixir](https://sampleprograms.io/projects/fizz-buzz/elixir)
@@ -101,6 +102,7 @@ There are 67 articles:
 - [Fizz Buzz in Fortran](https://sampleprograms.io/projects/fizz-buzz/fortran)
 - [Fizz Buzz in Gnu Make](https://sampleprograms.io/projects/fizz-buzz/gnu-make)
 - [Fizz Buzz in Go](https://sampleprograms.io/projects/fizz-buzz/go)
+- [Fizz Buzz in Gravity](https://sampleprograms.io/projects/fizz-buzz/gravity)
 - [Fizz Buzz in Haskell](https://sampleprograms.io/projects/fizz-buzz/haskell)
 - [Fizz Buzz in Haxe](https://sampleprograms.io/projects/fizz-buzz/haxe)
 - [Fizz Buzz in Io](https://sampleprograms.io/projects/fizz-buzz/io)

@@ -1,7 +1,7 @@
 ---
 date: 2018-04-24
 featured-image: programming-languages.jpg
-last-modified: 2025-01-01
+last-modified: 2025-01-19
 layout: default
 tags:
 - gravity
@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
 - [Baklava in Gravity](https://sampleprograms.io/projects/baklava/gravity)
+- [Fizz Buzz in Gravity](https://sampleprograms.io/projects/fizz-buzz/gravity)
 - [Hello World in Gravity](https://sampleprograms.io/projects/hello-world/gravity)

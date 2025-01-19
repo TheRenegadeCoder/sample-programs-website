@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-05-06
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2025-01-19
 layout: default
 tags:
 - d
@@ -72,8 +72,9 @@ language feature.
 
 ## Articles
 
-There are 3 articles:
+There are 4 articles:
 
 - [Baklava in D](https://sampleprograms.io/projects/baklava/d)
 - [Factorial in D](https://sampleprograms.io/projects/factorial/d)
+- [Fizz Buzz in D](https://sampleprograms.io/projects/fizz-buzz/d)
 - [Hello World in D](https://sampleprograms.io/projects/hello-world/d)
