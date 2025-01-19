@@ -76,7 +76,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 70 articles:
+There are 73 articles:
 
 - [Fizz Buzz in Ada](https://sampleprograms.io/projects/fizz-buzz/ada)
 - [Fizz Buzz in Algol68](https://sampleprograms.io/projects/fizz-buzz/algol68)
@@ -103,9 +103,11 @@ There are 70 articles:
 - [Fizz Buzz in Gnu Make](https://sampleprograms.io/projects/fizz-buzz/gnu-make)
 - [Fizz Buzz in Go](https://sampleprograms.io/projects/fizz-buzz/go)
 - [Fizz Buzz in Gravity](https://sampleprograms.io/projects/fizz-buzz/gravity)
+- [Fizz Buzz in Groovy](https://sampleprograms.io/projects/fizz-buzz/groovy)
 - [Fizz Buzz in Haskell](https://sampleprograms.io/projects/fizz-buzz/haskell)
 - [Fizz Buzz in Haxe](https://sampleprograms.io/projects/fizz-buzz/haxe)
 - [Fizz Buzz in Io](https://sampleprograms.io/projects/fizz-buzz/io)
+- [Fizz Buzz in Janet](https://sampleprograms.io/projects/fizz-buzz/janet)
 - [Fizz Buzz in Java](https://sampleprograms.io/projects/fizz-buzz/java)
 - [Fizz Buzz in Javascript](https://sampleprograms.io/projects/fizz-buzz/javascript)
 - [Fizz Buzz in Julia](https://sampleprograms.io/projects/fizz-buzz/julia)
@@ -117,6 +119,7 @@ There are 70 articles:
 - [Fizz Buzz in Moonscript](https://sampleprograms.io/projects/fizz-buzz/moonscript)
 - [Fizz Buzz in Nim](https://sampleprograms.io/projects/fizz-buzz/nim)
 - [Fizz Buzz in Objective C](https://sampleprograms.io/projects/fizz-buzz/objective-c)
+- [Fizz Buzz in Ocaml](https://sampleprograms.io/projects/fizz-buzz/ocaml)
 - [Fizz Buzz in Octave](https://sampleprograms.io/projects/fizz-buzz/octave)
 - [Fizz Buzz in Odin](https://sampleprograms.io/projects/fizz-buzz/odin)
 - [Fizz Buzz in Pascal](https://sampleprograms.io/projects/fizz-buzz/pascal)

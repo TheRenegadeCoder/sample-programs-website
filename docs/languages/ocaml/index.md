@@ -1,7 +1,7 @@
 ---
 date: 2018-10-17
 featured-image: programming-languages.jpg
-last-modified: 2024-12-23
+last-modified: 2025-01-19
 layout: default
 tags:
 - ocaml
@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
 - [Baklava in Ocaml](https://sampleprograms.io/projects/baklava/ocaml)
+- [Fizz Buzz in Ocaml](https://sampleprograms.io/projects/fizz-buzz/ocaml)
 - [Hello World in Ocaml](https://sampleprograms.io/projects/hello-world/ocaml)

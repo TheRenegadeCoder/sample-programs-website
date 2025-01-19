@@ -1,7 +1,7 @@
 ---
 date: 2019-10-02
 featured-image: programming-languages.jpg
-last-modified: 2025-01-01
+last-modified: 2025-01-19
 layout: default
 tags:
 - janet
@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
 - [Baklava in Janet](https://sampleprograms.io/projects/baklava/janet)
+- [Fizz Buzz in Janet](https://sampleprograms.io/projects/fizz-buzz/janet)
 - [Hello World in Janet](https://sampleprograms.io/projects/hello-world/janet)

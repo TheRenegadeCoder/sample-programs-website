@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1050 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1053 code snippets.
 
 ## Language Collections by Letter
 
@@ -141,7 +141,7 @@ The 'F' collection contains 12 languages, of which 12 are tested, and 32 code sn
 
 ### G
 
-The 'G' collection contains 11 languages, of which 11 are tested, and 61 code snippets.
+The 'G' collection contains 11 languages, of which 11 are tested, and 62 code snippets.
 
 - [Gerbil](https://sampleprograms.io/languages/gerbil) (2 code snippets)
 - [Gluon](https://sampleprograms.io/languages/gluon) (2 code snippets)
@@ -153,7 +153,7 @@ The 'G' collection contains 11 languages, of which 11 are tested, and 61 code sn
 - [Grain](https://sampleprograms.io/languages/grain) (2 code snippets)
 - [Granule](https://sampleprograms.io/languages/granule) (2 code snippets)
 - [Gravity](https://sampleprograms.io/languages/gravity) (3 code snippets)
-- [Groovy](https://sampleprograms.io/languages/groovy) (8 code snippets)
+- [Groovy](https://sampleprograms.io/languages/groovy) (9 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 
@@ -179,9 +179,9 @@ The 'I' collection contains 2 languages, of which 2 are tested, and 5 code snipp
 
 ### J
 
-The 'J' collection contains 4 languages, of which 4 are tested, and 73 code snippets.
+The 'J' collection contains 4 languages, of which 4 are tested, and 74 code snippets.
 
-- [Janet](https://sampleprograms.io/languages/janet) (2 code snippets)
+- [Janet](https://sampleprograms.io/languages/janet) (3 code snippets)
 - [Java](https://sampleprograms.io/languages/java) (26 code snippets)
 - [Javascript](https://sampleprograms.io/languages/javascript) (31 code snippets)
 - [Julia](https://sampleprograms.io/languages/julia) (14 code snippets)
@@ -239,10 +239,10 @@ The 'N' collection contains 3 languages, of which 3 are tested, and 10 code snip
 
 ### O
 
-The 'O' collection contains 7 languages, of which 7 are tested, and 40 code snippets.
+The 'O' collection contains 7 languages, of which 7 are tested, and 41 code snippets.
 
 - [Objective C](https://sampleprograms.io/languages/objective-c) (11 code snippets)
-- [Ocaml](https://sampleprograms.io/languages/ocaml) (2 code snippets)
+- [Ocaml](https://sampleprograms.io/languages/ocaml) (3 code snippets)
 - [Octave](https://sampleprograms.io/languages/octave) (14 code snippets)
 - [Odin](https://sampleprograms.io/languages/odin) (8 code snippets)
 - [Opa](https://sampleprograms.io/languages/opa) (1 code snippet)

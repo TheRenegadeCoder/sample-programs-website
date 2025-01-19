@@ -1,7 +1,7 @@
 ---
 date: 2018-04-19
 featured-image: programming-languages.jpg
-last-modified: 2023-07-25
+last-modified: 2025-01-19
 layout: default
 tags:
 - groovy
@@ -26,13 +26,14 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 8 articles:
+There are 9 articles:
 
 - [Baklava in Groovy](https://sampleprograms.io/projects/baklava/groovy)
 - [Capitalize in Groovy](https://sampleprograms.io/projects/capitalize/groovy)
 - [Even Odd in Groovy](https://sampleprograms.io/projects/even-odd/groovy)
 - [Factorial in Groovy](https://sampleprograms.io/projects/factorial/groovy)
 - [Fibonacci in Groovy](https://sampleprograms.io/projects/fibonacci/groovy)
+- [Fizz Buzz in Groovy](https://sampleprograms.io/projects/fizz-buzz/groovy)
 - [Hello World in Groovy](https://sampleprograms.io/projects/hello-world/groovy)
 - [Merge Sort in Groovy](https://sampleprograms.io/projects/merge-sort/groovy)
 - [Reverse String in Groovy](https://sampleprograms.io/projects/reverse-string/groovy)
