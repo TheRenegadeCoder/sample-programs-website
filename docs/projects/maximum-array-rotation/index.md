@@ -1,7 +1,7 @@
 ---
 date: 2021-10-05
 featured-image: maximum-array-rotation-in-every-language.jpg
-last-modified: 2024-02-09
+last-modified: 2025-01-19
 layout: default
 tags:
 - maximum-array-rotation
@@ -104,10 +104,11 @@ Usage: please provide a list of integers (e.g. "8, 3, 1, 2")
 
 ## Articles
 
-There are 8 articles:
+There are 9 articles:
 
 - [Maximum Array Rotation in Algol68](https://sampleprograms.io/projects/maximum-array-rotation/algol68)
 - [Maximum Array Rotation in Beef](https://sampleprograms.io/projects/maximum-array-rotation/beef)
+- [Maximum Array Rotation in C](https://sampleprograms.io/projects/maximum-array-rotation/c)
 - [Maximum Array Rotation in Commodore Basic](https://sampleprograms.io/projects/maximum-array-rotation/commodore-basic)
 - [Maximum Array Rotation in Euphoria](https://sampleprograms.io/projects/maximum-array-rotation/euphoria)
 - [Maximum Array Rotation in Mathematica](https://sampleprograms.io/projects/maximum-array-rotation/mathematica)
