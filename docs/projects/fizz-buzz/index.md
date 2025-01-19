@@ -76,10 +76,11 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 76 articles:
+There are 77 articles:
 
 - [Fizz Buzz in Ada](https://sampleprograms.io/projects/fizz-buzz/ada)
 - [Fizz Buzz in Algol68](https://sampleprograms.io/projects/fizz-buzz/algol68)
+- [Fizz Buzz in Arkscript](https://sampleprograms.io/projects/fizz-buzz/arkscript)
 - [Fizz Buzz in Bash](https://sampleprograms.io/projects/fizz-buzz/bash)
 - [Fizz Buzz in Beef](https://sampleprograms.io/projects/fizz-buzz/beef)
 - [Fizz Buzz in Befunge](https://sampleprograms.io/projects/fizz-buzz/befunge)
