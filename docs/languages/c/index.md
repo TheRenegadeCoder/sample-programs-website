@@ -5,7 +5,7 @@ authors:
 - Ron Zuckerman
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-01-18
+last-modified: 2025-01-19
 layout: default
 tags:
 - c
@@ -47,7 +47,7 @@ implicitly.
 
 ## Articles
 
-There are 29 articles:
+There are 30 articles:
 
 - [Baklava in C](https://sampleprograms.io/projects/baklava/c)
 - [Binary Search in C](https://sampleprograms.io/projects/binary-search/c)
@@ -55,6 +55,7 @@ There are 29 articles:
 - [Capitalize in C](https://sampleprograms.io/projects/capitalize/c)
 - [Convex Hull in C](https://sampleprograms.io/projects/convex-hull/c)
 - [Depth First Search in C](https://sampleprograms.io/projects/depth-first-search/c)
+- [Dijkstra in C](https://sampleprograms.io/projects/dijkstra/c)
 - [Duplicate Character Counter in C](https://sampleprograms.io/projects/duplicate-character-counter/c)
 - [Even Odd in C](https://sampleprograms.io/projects/even-odd/c)
 - [Factorial in C](https://sampleprograms.io/projects/factorial/c)
