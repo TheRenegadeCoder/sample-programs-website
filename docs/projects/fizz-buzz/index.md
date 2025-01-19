@@ -76,7 +76,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 69 articles:
+There are 70 articles:
 
 - [Fizz Buzz in Ada](https://sampleprograms.io/projects/fizz-buzz/ada)
 - [Fizz Buzz in Algol68](https://sampleprograms.io/projects/fizz-buzz/algol68)
@@ -118,6 +118,7 @@ There are 69 articles:
 - [Fizz Buzz in Nim](https://sampleprograms.io/projects/fizz-buzz/nim)
 - [Fizz Buzz in Objective C](https://sampleprograms.io/projects/fizz-buzz/objective-c)
 - [Fizz Buzz in Octave](https://sampleprograms.io/projects/fizz-buzz/octave)
+- [Fizz Buzz in Odin](https://sampleprograms.io/projects/fizz-buzz/odin)
 - [Fizz Buzz in Pascal](https://sampleprograms.io/projects/fizz-buzz/pascal)
 - [Fizz Buzz in Perl](https://sampleprograms.io/projects/fizz-buzz/perl)
 - [Fizz Buzz in Php](https://sampleprograms.io/projects/fizz-buzz/php)
