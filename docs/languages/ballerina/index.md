@@ -1,7 +1,7 @@
 ---
 date: 2018-06-15
 featured-image: programming-languages.jpg
-last-modified: 2025-01-19
+last-modified: 2025-01-20
 layout: default
 tags:
 - ballerina
@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
+- [Baklava in Ballerina](https://sampleprograms.io/projects/baklava/ballerina)
 - [Fizz Buzz in Ballerina](https://sampleprograms.io/projects/fizz-buzz/ballerina)
 - [Hello World in Ballerina](https://sampleprograms.io/projects/hello-world/ballerina)

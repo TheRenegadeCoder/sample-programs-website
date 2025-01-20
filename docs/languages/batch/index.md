@@ -1,7 +1,7 @@
 ---
 date: 2020-04-23
 featured-image: programming-languages.jpg
-last-modified: 2023-07-27
+last-modified: 2025-01-20
 layout: default
 tags:
 - batch
@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 3 articles:
 
+- [Baklava in Batch](https://sampleprograms.io/projects/baklava/batch)
+- [Fizz Buzz in Batch](https://sampleprograms.io/projects/fizz-buzz/batch)
 - [Hello World in Batch](https://sampleprograms.io/projects/hello-world/batch)

@@ -79,12 +79,15 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 145 articles:
+There are 148 articles:
 
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
+- [Baklava in Agda](https://sampleprograms.io/projects/baklava/agda)
 - [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
 - [Baklava in Baik](https://sampleprograms.io/projects/baklava/baik)
+- [Baklava in Ballerina](https://sampleprograms.io/projects/baklava/ballerina)
 - [Baklava in Bash](https://sampleprograms.io/projects/baklava/bash)
+- [Baklava in Batch](https://sampleprograms.io/projects/baklava/batch)
 - [Baklava in Beef](https://sampleprograms.io/projects/baklava/beef)
 - [Baklava in Befunge](https://sampleprograms.io/projects/baklava/befunge)
 - [Baklava in Boo](https://sampleprograms.io/projects/baklava/boo)

@@ -1,7 +1,7 @@
 ---
 date: 2023-11-10
 featured-image: programming-languages.jpg
-last-modified: 2023-11-10
+last-modified: 2025-01-20
 layout: default
 tags:
 - agda
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Agda](https://sampleprograms.io/projects/baklava/agda)
 - [Hello World in Agda](https://sampleprograms.io/projects/hello-world/agda)
