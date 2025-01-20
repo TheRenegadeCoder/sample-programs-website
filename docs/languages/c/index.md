@@ -5,7 +5,7 @@ authors:
 - Ron Zuckerman
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-01-19
+last-modified: 2025-01-20
 layout: default
 tags:
 - c
@@ -47,7 +47,7 @@ implicitly.
 
 ## Articles
 
-There are 34 articles:
+There are 35 articles:
 
 - [Baklava in C](https://sampleprograms.io/projects/baklava/c)
 - [Binary Search in C](https://sampleprograms.io/projects/binary-search/c)
@@ -83,3 +83,4 @@ There are 34 articles:
 - [Roman Numeral in C](https://sampleprograms.io/projects/roman-numeral/c)
 - [Rot13 in C](https://sampleprograms.io/projects/rot13/c)
 - [Selection Sort in C](https://sampleprograms.io/projects/selection-sort/c)
+- [Sleep Sort in C](https://sampleprograms.io/projects/sleep-sort/c)
