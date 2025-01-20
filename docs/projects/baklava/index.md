@@ -79,10 +79,11 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 144 articles:
+There are 145 articles:
 
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
 - [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
+- [Baklava in Baik](https://sampleprograms.io/projects/baklava/baik)
 - [Baklava in Bash](https://sampleprograms.io/projects/baklava/bash)
 - [Baklava in Beef](https://sampleprograms.io/projects/baklava/beef)
 - [Baklava in Befunge](https://sampleprograms.io/projects/baklava/befunge)
