@@ -3,7 +3,7 @@ authors:
 - Alexandre Plateau
 date: 2020-10-03
 featured-image: programming-languages.jpg
-last-modified: 2025-01-19
+last-modified: 2025-01-20
 layout: default
 tags:
 - arkscript
@@ -70,7 +70,8 @@ Then on line 6 we call `print` with the function call `(fibo 28)` as its argumen
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
+- [Baklava in Arkscript](https://sampleprograms.io/projects/baklava/arkscript)
 - [Fizz Buzz in Arkscript](https://sampleprograms.io/projects/fizz-buzz/arkscript)
 - [Hello World in Arkscript](https://sampleprograms.io/projects/hello-world/arkscript)

@@ -1,7 +1,7 @@
 ---
 date: 2020-12-07
 featured-image: programming-languages.jpg
-last-modified: 2020-12-07
+last-modified: 2025-01-20
 layout: default
 tags:
 - bracmat
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Bracmat](https://sampleprograms.io/projects/baklava/bracmat)
 - [Hello World in Bracmat](https://sampleprograms.io/projects/hello-world/bracmat)

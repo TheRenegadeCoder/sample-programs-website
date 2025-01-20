@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1073 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1075 code snippets.
 
 ## Language Collections by Letter
 
@@ -45,18 +45,18 @@ To return here, just click the &laquo; [Return to Top](#language-collections-by-
 
 ### A
 
-The 'A' collection contains 4 languages, of which 4 are tested, and 44 code snippets.
+The 'A' collection contains 4 languages, of which 4 are tested, and 45 code snippets.
 
 - [Ada](https://sampleprograms.io/languages/ada) (3 code snippets)
 - [Agda](https://sampleprograms.io/languages/agda) (2 code snippets)
 - [Algol68](https://sampleprograms.io/languages/algol68) (37 code snippets)
-- [Arkscript](https://sampleprograms.io/languages/arkscript) (2 code snippets)
+- [Arkscript](https://sampleprograms.io/languages/arkscript) (3 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 
 ### B
 
-The 'B' collection contains 9 languages, of which 9 are tested, and 75 code snippets.
+The 'B' collection contains 9 languages, of which 9 are tested, and 76 code snippets.
 
 - [Baik](https://sampleprograms.io/languages/baik) (2 code snippets)
 - [Ballerina](https://sampleprograms.io/languages/ballerina) (3 code snippets)
@@ -65,7 +65,7 @@ The 'B' collection contains 9 languages, of which 9 are tested, and 75 code snip
 - [Beef](https://sampleprograms.io/languages/beef) (37 code snippets)
 - [Befunge](https://sampleprograms.io/languages/befunge) (4 code snippets)
 - [Boo](https://sampleprograms.io/languages/boo) (3 code snippets)
-- [Bracmat](https://sampleprograms.io/languages/bracmat) (1 code snippet)
+- [Bracmat](https://sampleprograms.io/languages/bracmat) (2 code snippets)
 - [Brainfuck](https://sampleprograms.io/languages/brainfuck) (8 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
