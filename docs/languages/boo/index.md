@@ -1,7 +1,7 @@
 ---
 date: 2020-10-02
 featured-image: programming-languages.jpg
-last-modified: 2023-11-13
+last-modified: 2025-01-20
 layout: default
 tags:
 - boo
@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
+- [Baklava in Boo](https://sampleprograms.io/projects/baklava/boo)
 - [Fibonacci in Boo](https://sampleprograms.io/projects/fibonacci/boo)
 - [Hello World in Boo](https://sampleprograms.io/projects/hello-world/boo)
