@@ -61,7 +61,7 @@ JavaScript. Game developers should be pretty happy about this.
 
 ## Articles
 
-There are 7 articles:
+There are 8 articles:
 
 - [Baklava in Wren](https://sampleprograms.io/projects/baklava/wren)
 - [Even Odd in Wren](https://sampleprograms.io/projects/even-odd/wren)
@@ -69,4 +69,5 @@ There are 7 articles:
 - [File Input Output in Wren](https://sampleprograms.io/projects/file-input-output/wren)
 - [Fizz Buzz in Wren](https://sampleprograms.io/projects/fizz-buzz/wren)
 - [Hello World in Wren](https://sampleprograms.io/projects/hello-world/wren)
+- [Palindromic Number in Wren](https://sampleprograms.io/projects/palindromic-number/wren)
 - [Reverse String in Wren](https://sampleprograms.io/projects/reverse-string/wren)
