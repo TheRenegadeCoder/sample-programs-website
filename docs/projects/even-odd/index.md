@@ -1,7 +1,7 @@
 ---
 date: 2018-10-21
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2025-01-07
+last-modified: 2025-01-20
 layout: default
 tags:
 - even-odd
@@ -78,7 +78,7 @@ Usage: please input a number
 
 ## Articles
 
-There are 41 articles:
+There are 42 articles:
 
 - [Even Odd in Algol68](https://sampleprograms.io/projects/even-odd/algol68)
 - [Even Odd in Bash](https://sampleprograms.io/projects/even-odd/bash)
@@ -120,6 +120,7 @@ There are 41 articles:
 - [Even Odd in Swift](https://sampleprograms.io/projects/even-odd/swift)
 - [Even Odd in Typescript](https://sampleprograms.io/projects/even-odd/typescript)
 - [Even Odd in V](https://sampleprograms.io/projects/even-odd/v)
+- [Even Odd in Wren](https://sampleprograms.io/projects/even-odd/wren)
 - [Even Odd in X86 64](https://sampleprograms.io/projects/even-odd/x86-64)
 
 ***
