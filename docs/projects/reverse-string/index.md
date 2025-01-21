@@ -1,7 +1,7 @@
 ---
 date: 2018-04-12
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2025-01-15
+last-modified: 2025-01-21
 layout: default
 tags:
 - reverse-string
@@ -70,7 +70,7 @@ In this section, we specify the set of tests specific to Reverse String.
 
 ## Articles
 
-There are 49 articles:
+There are 50 articles:
 
 - [Reverse String in Algol68](https://sampleprograms.io/projects/reverse-string/algol68)
 - [Reverse String in Bash](https://sampleprograms.io/projects/reverse-string/bash)
@@ -120,6 +120,7 @@ There are 49 articles:
 - [Reverse String in V](https://sampleprograms.io/projects/reverse-string/v)
 - [Reverse String in Vimscript](https://sampleprograms.io/projects/reverse-string/vimscript)
 - [Reverse String in Visual Basic](https://sampleprograms.io/projects/reverse-string/visual-basic)
+- [Reverse String in Wren](https://sampleprograms.io/projects/reverse-string/wren)
 - [Reverse String in X86 64](https://sampleprograms.io/projects/reverse-string/x86-64)
 
 ***
