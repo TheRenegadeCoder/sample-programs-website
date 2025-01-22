@@ -1,7 +1,7 @@
 ---
 date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2025-01-20
+last-modified: 2025-01-22
 layout: default
 tags:
 - baklava
@@ -79,7 +79,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 150 articles:
+There are 151 articles:
 
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
 - [Baklava in Agda](https://sampleprograms.io/projects/baklava/agda)
@@ -180,6 +180,7 @@ There are 150 articles:
 - [Baklava in Ocaml](https://sampleprograms.io/projects/baklava/ocaml)
 - [Baklava in Octave](https://sampleprograms.io/projects/baklava/octave)
 - [Baklava in Odin](https://sampleprograms.io/projects/baklava/odin)
+- [Baklava in Opa](https://sampleprograms.io/projects/baklava/opa)
 - [Baklava in Orc](https://sampleprograms.io/projects/baklava/orc)
 - [Baklava in Owl Lisp](https://sampleprograms.io/projects/baklava/owl-lisp)
 - [Baklava in Pascal](https://sampleprograms.io/projects/baklava/pascal)

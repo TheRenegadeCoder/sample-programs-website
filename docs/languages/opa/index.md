@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-07-16
 featured-image: programming-languages.jpg
-last-modified: 2023-12-09
+last-modified: 2025-01-22
 layout: default
 tags:
 - opa
@@ -65,6 +65,7 @@ Luckily, there's this cute technology called containers.
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Baklava in Opa](https://sampleprograms.io/projects/baklava/opa)
 - [Hello World in Opa](https://sampleprograms.io/projects/hello-world/opa)
