@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-11-18
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2023-11-18
+last-modified: 2025-01-25
 layout: default
 tags:
 - hello-world
@@ -29,12 +29,14 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```mirth
-module(hello-world)
-import(prelude)
-import(platform.posix)
+module sample-programs.hello-world
 
-target-c99("hello-world.c",
-    "Hello, World!" str-print-ln!)
+import std.prelude
+import std.world
+
+def main {
+    "Hello, World!" print
+}
 
 ```
 
