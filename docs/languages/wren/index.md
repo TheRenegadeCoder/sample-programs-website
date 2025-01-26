@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-20
 featured-image: programming-languages.jpg
-last-modified: 2025-01-25
+last-modified: 2025-01-26
 layout: default
 tags:
 - wren
@@ -61,7 +61,7 @@ JavaScript. Game developers should be pretty happy about this.
 
 ## Articles
 
-There are 9 articles:
+There are 10 articles:
 
 - [Baklava in Wren](https://sampleprograms.io/projects/baklava/wren)
 - [Even Odd in Wren](https://sampleprograms.io/projects/even-odd/wren)
@@ -70,5 +70,6 @@ There are 9 articles:
 - [Fizz Buzz in Wren](https://sampleprograms.io/projects/fizz-buzz/wren)
 - [Hello World in Wren](https://sampleprograms.io/projects/hello-world/wren)
 - [Palindromic Number in Wren](https://sampleprograms.io/projects/palindromic-number/wren)
+- [Prime Number in Wren](https://sampleprograms.io/projects/prime-number/wren)
 - [Remove All Whitespace in Wren](https://sampleprograms.io/projects/remove-all-whitespace/wren)
 - [Reverse String in Wren](https://sampleprograms.io/projects/reverse-string/wren)
