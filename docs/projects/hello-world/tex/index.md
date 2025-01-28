@@ -5,7 +5,7 @@ authors:
 - rzuckerm
 date: 2018-08-28
 featured-image: hello-world-in-tex.jpg
-last-modified: 2023-05-15
+last-modified: 2025-01-28
 layout: default
 tags:
 - hello-world
@@ -31,9 +31,9 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```tex
-%&pdftex
-
-Hello, World!
+\newwrite\out
+\immediate\openout\out=hello-world.txt
+\immediate\write\out{Hello, World!}
 \end
 
 ```
@@ -43,6 +43,7 @@ Hello, World!
 Hello World in [Tex](https://sampleprograms.io/languages/tex) was written by:
 
 - Christoph Böhmwalder
+- rzuckerm
 
 This article was written by:
 
@@ -50,6 +51,8 @@ This article was written by:
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Jan 28 2025 07:29:53. The solution was first committed on Aug 28 2018 15:40:04. The documentation was last updated on May 15 2023 15:51:23. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -1,9 +1,10 @@
 ---
 authors:
 - "Christoph B\xF6hmwalder"
+- rzuckerm
 date: 2018-09-04
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2018-09-04
+last-modified: 2025-01-28
 layout: default
 tags:
 - fizz-buzz
@@ -29,7 +30,11 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Tex
 {% raw %}
 
 ```tex
-%&pdftex
+% Source: https://rosettacode.org/wiki/String_append#Plain_TeX
+\def\addtomacro#1#2{\expandafter\def\expandafter#1\expandafter{#1#2}}
+
+\newwrite\out
+\immediate\openout\out=fizz-buzz.txt
 
 \countdef\counter=1
 \countdef\threecounter=2
@@ -40,22 +45,23 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Tex
 
 \loop
     \def\printnum{1}
+    \def\result{}
     \noindent
     \ifnum \threecounter>2
-        Fizz%
+        \addtomacro\result{Fizz}
         \threecounter=0
         \def\printnum{0}
     \fi
     \ifnum \fivecounter>4
-        Buzz%
+        \addtomacro\result{Buzz}
         \fivecounter=0
         \def\printnum{0}
     \fi
     \ifnum\printnum=1
         % print the counter variable
-        \the\counter%
+        \addtomacro\result{\the\counter}
     \fi
-    \hfil \break
+    \immediate\write\out{\result}
     \advance \counter 1
     \advance \threecounter 1
     \advance \fivecounter 1
@@ -71,6 +77,7 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Tex
 Fizz Buzz in [Tex](https://sampleprograms.io/languages/tex) was written by:
 
 - Christoph Böhmwalder
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

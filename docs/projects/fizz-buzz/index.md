@@ -1,7 +1,7 @@
 ---
 date: 2018-07-27
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2025-01-20
+last-modified: 2025-01-28
 layout: default
 tags:
 - fizz-buzz
