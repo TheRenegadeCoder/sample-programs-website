@@ -1,7 +1,7 @@
 ---
 date: 2018-08-28
 featured-image: programming-languages.jpg
-last-modified: 2025-01-28
+last-modified: 2025-01-29
 layout: default
 tags:
 - tex
@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
+- [Baklava in Tex](https://sampleprograms.io/projects/baklava/tex)
 - [Fizz Buzz in Tex](https://sampleprograms.io/projects/fizz-buzz/tex)
 - [Hello World in Tex](https://sampleprograms.io/projects/hello-world/tex)
