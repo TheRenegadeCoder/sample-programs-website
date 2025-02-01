@@ -1,7 +1,7 @@
 ---
 date: 2023-12-16
 featured-image: programming-languages.jpg
-last-modified: 2024-10-28
+last-modified: 2025-02-01
 layout: default
 tags:
 - ti-basic
@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
+- [Baklava in Ti Basic](https://sampleprograms.io/projects/baklava/ti-basic)
 - [Fizz Buzz in Ti Basic](https://sampleprograms.io/projects/fizz-buzz/ti-basic)
 - [Hello World in Ti Basic](https://sampleprograms.io/projects/hello-world/ti-basic)
