@@ -26,8 +26,9 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 3 articles:
+There are 4 articles:
 
 - [Baklava in Ti Basic](https://sampleprograms.io/projects/baklava/ti-basic)
+- [Capitalize in Ti Basic](https://sampleprograms.io/projects/capitalize/ti-basic)
 - [Fizz Buzz in Ti Basic](https://sampleprograms.io/projects/fizz-buzz/ti-basic)
 - [Hello World in Ti Basic](https://sampleprograms.io/projects/hello-world/ti-basic)
