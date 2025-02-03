@@ -1,7 +1,7 @@
 ---
 date: 2023-12-16
 featured-image: programming-languages.jpg
-last-modified: 2025-02-02
+last-modified: 2025-02-03
 layout: default
 tags:
 - ti-basic
@@ -26,11 +26,12 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 9 articles:
+There are 10 articles:
 
 - [Baklava in Ti Basic](https://sampleprograms.io/projects/baklava/ti-basic)
 - [Capitalize in Ti Basic](https://sampleprograms.io/projects/capitalize/ti-basic)
 - [Even Odd in Ti Basic](https://sampleprograms.io/projects/even-odd/ti-basic)
+- [Fibonacci in Ti Basic](https://sampleprograms.io/projects/fibonacci/ti-basic)
 - [Fizz Buzz in Ti Basic](https://sampleprograms.io/projects/fizz-buzz/ti-basic)
 - [Hello World in Ti Basic](https://sampleprograms.io/projects/hello-world/ti-basic)
 - [Palindromic Number in Ti Basic](https://sampleprograms.io/projects/palindromic-number/ti-basic)
