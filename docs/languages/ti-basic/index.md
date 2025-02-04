@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 12 articles:
+There are 13 articles:
 
 - [Baklava in Ti Basic](https://sampleprograms.io/projects/baklava/ti-basic)
 - [Capitalize in Ti Basic](https://sampleprograms.io/projects/capitalize/ti-basic)
@@ -36,6 +36,7 @@ There are 12 articles:
 - [Fibonacci in Ti Basic](https://sampleprograms.io/projects/fibonacci/ti-basic)
 - [Fizz Buzz in Ti Basic](https://sampleprograms.io/projects/fizz-buzz/ti-basic)
 - [Hello World in Ti Basic](https://sampleprograms.io/projects/hello-world/ti-basic)
+- [Josephus Problem in Ti Basic](https://sampleprograms.io/projects/josephus-problem/ti-basic)
 - [Palindromic Number in Ti Basic](https://sampleprograms.io/projects/palindromic-number/ti-basic)
 - [Prime Number in Ti Basic](https://sampleprograms.io/projects/prime-number/ti-basic)
 - [Reverse String in Ti Basic](https://sampleprograms.io/projects/reverse-string/ti-basic)
