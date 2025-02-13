@@ -1,7 +1,7 @@
 ---
 date: 2018-11-16
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2025-02-02
+last-modified: 2025-02-13
 layout: default
 tags:
 - prime-number
@@ -83,7 +83,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 33 articles:
+There are 34 articles:
 
 - [Prime Number in Algol68](https://sampleprograms.io/projects/prime-number/algol68)
 - [Prime Number in Bash](https://sampleprograms.io/projects/prime-number/bash)
@@ -101,6 +101,7 @@ There are 33 articles:
 - [Prime Number in Haskell](https://sampleprograms.io/projects/prime-number/haskell)
 - [Prime Number in Java](https://sampleprograms.io/projects/prime-number/java)
 - [Prime Number in Javascript](https://sampleprograms.io/projects/prime-number/javascript)
+- [Prime Number in Julia](https://sampleprograms.io/projects/prime-number/julia)
 - [Prime Number in Kotlin](https://sampleprograms.io/projects/prime-number/kotlin)
 - [Prime Number in Lisp](https://sampleprograms.io/projects/prime-number/lisp)
 - [Prime Number in Lua](https://sampleprograms.io/projects/prime-number/lua)
