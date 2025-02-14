@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-10
 featured-image: programming-languages.jpg
-last-modified: 2024-11-11
+last-modified: 2025-02-13
 layout: default
 tags:
 - kotlin
@@ -60,7 +60,7 @@ In this example, the lastChar method is added to the String class. How cool is t
 
 ## Articles
 
-There are 19 articles:
+There are 20 articles:
 
 - [Baklava in Kotlin](https://sampleprograms.io/projects/baklava/kotlin)
 - [Bubble Sort in Kotlin](https://sampleprograms.io/projects/bubble-sort/kotlin)
@@ -72,6 +72,7 @@ There are 19 articles:
 - [Fizz Buzz in Kotlin](https://sampleprograms.io/projects/fizz-buzz/kotlin)
 - [Hello World in Kotlin](https://sampleprograms.io/projects/hello-world/kotlin)
 - [Job Sequencing in Kotlin](https://sampleprograms.io/projects/job-sequencing/kotlin)
+- [Linear Search in Kotlin](https://sampleprograms.io/projects/linear-search/kotlin)
 - [Longest Common Subsequence in Kotlin](https://sampleprograms.io/projects/longest-common-subsequence/kotlin)
 - [Longest Word in Kotlin](https://sampleprograms.io/projects/longest-word/kotlin)
 - [Merge Sort in Kotlin](https://sampleprograms.io/projects/merge-sort/kotlin)
