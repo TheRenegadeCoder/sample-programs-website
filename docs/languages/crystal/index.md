@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-22
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2025-02-16
 layout: default
 tags:
 - crystal
@@ -53,8 +53,9 @@ lower-level languages like C.
 
 ## Articles
 
-There are 3 articles:
+There are 4 articles:
 
 - [Baklava in Crystal](https://sampleprograms.io/projects/baklava/crystal)
+- [Factorial in Crystal](https://sampleprograms.io/projects/factorial/crystal)
 - [Fizz Buzz in Crystal](https://sampleprograms.io/projects/fizz-buzz/crystal)
 - [Hello World in Crystal](https://sampleprograms.io/projects/hello-world/crystal)
