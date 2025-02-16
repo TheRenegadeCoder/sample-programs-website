@@ -1,7 +1,7 @@
 ---
 date: 2018-10-02
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2025-02-03
+last-modified: 2025-02-16
 layout: default
 tags:
 - fibonacci
@@ -88,7 +88,7 @@ Usage: please input the count of fibonacci numbers to output
 
 ## Articles
 
-There are 35 articles:
+There are 36 articles:
 
 - [Fibonacci in Algol68](https://sampleprograms.io/projects/fibonacci/algol68)
 - [Fibonacci in Bash](https://sampleprograms.io/projects/fibonacci/bash)
@@ -101,6 +101,7 @@ There are 35 articles:
 - [Fibonacci in Dart](https://sampleprograms.io/projects/fibonacci/dart)
 - [Fibonacci in Elvish](https://sampleprograms.io/projects/fibonacci/elvish)
 - [Fibonacci in Euphoria](https://sampleprograms.io/projects/fibonacci/euphoria)
+- [Fibonacci in Fortran](https://sampleprograms.io/projects/fibonacci/fortran)
 - [Fibonacci in Go](https://sampleprograms.io/projects/fibonacci/go)
 - [Fibonacci in Groovy](https://sampleprograms.io/projects/fibonacci/groovy)
 - [Fibonacci in Haskell](https://sampleprograms.io/projects/fibonacci/haskell)
