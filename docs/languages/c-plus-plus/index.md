@@ -3,7 +3,7 @@ authors:
 - Ron Zuckerman
 date: 2018-03-21
 featured-image: programming-languages.jpg
-last-modified: 2024-11-11
+last-modified: 2025-02-17
 layout: default
 tags:
 - c-plus-plus
@@ -41,7 +41,7 @@ However, with great power comes great responsibility. As a result, I personally 
 
 ## Articles
 
-There are 27 articles:
+There are 28 articles:
 
 - [Baklava in C++](https://sampleprograms.io/projects/baklava/c-plus-plus)
 - [Binary Search in C++](https://sampleprograms.io/projects/binary-search/c-plus-plus)
@@ -62,6 +62,7 @@ There are 27 articles:
 - [Longest Common Subsequence in C++](https://sampleprograms.io/projects/longest-common-subsequence/c-plus-plus)
 - [Longest Word in C++](https://sampleprograms.io/projects/longest-word/c-plus-plus)
 - [Merge Sort in C++](https://sampleprograms.io/projects/merge-sort/c-plus-plus)
+- [Minimum Spanning Tree in C++](https://sampleprograms.io/projects/minimum-spanning-tree/c-plus-plus)
 - [Palindromic Number in C++](https://sampleprograms.io/projects/palindromic-number/c-plus-plus)
 - [Prime Number in C++](https://sampleprograms.io/projects/prime-number/c-plus-plus)
 - [Quick Sort in C++](https://sampleprograms.io/projects/quick-sort/c-plus-plus)
