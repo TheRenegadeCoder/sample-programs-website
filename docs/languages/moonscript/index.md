@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-08-28
 featured-image: programming-languages.jpg
-last-modified: 2024-12-30
+last-modified: 2025-02-17
 layout: default
 tags:
 - moonscript
@@ -53,9 +53,10 @@ MoonScript and Lua APIs called Lapis.
 
 ## Articles
 
-There are 4 articles:
+There are 5 articles:
 
 - [Baklava in Moonscript](https://sampleprograms.io/projects/baklava/moonscript)
+- [Fibonacci in Moonscript](https://sampleprograms.io/projects/fibonacci/moonscript)
 - [Fizz Buzz in Moonscript](https://sampleprograms.io/projects/fizz-buzz/moonscript)
 - [Hello World in Moonscript](https://sampleprograms.io/projects/hello-world/moonscript)
 - [Reverse String in Moonscript](https://sampleprograms.io/projects/reverse-string/moonscript)
