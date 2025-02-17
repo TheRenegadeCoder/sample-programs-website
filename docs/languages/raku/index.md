@@ -1,7 +1,7 @@
 ---
 date: 2020-11-02
 featured-image: programming-languages.jpg
-last-modified: 2024-10-19
+last-modified: 2025-02-17
 layout: default
 tags:
 - raku
@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
 - [Baklava in Raku](https://sampleprograms.io/projects/baklava/raku)
+- [Fizz Buzz in Raku](https://sampleprograms.io/projects/fizz-buzz/raku)
 - [Hello World in Raku](https://sampleprograms.io/projects/hello-world/raku)
