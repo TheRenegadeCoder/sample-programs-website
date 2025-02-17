@@ -1,7 +1,7 @@
 ---
 date: 2018-04-12
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2025-02-01
+last-modified: 2025-02-17
 layout: default
 tags:
 - reverse-string
@@ -70,7 +70,7 @@ In this section, we specify the set of tests specific to Reverse String.
 
 ## Articles
 
-There are 51 articles:
+There are 52 articles:
 
 - [Reverse String in Algol68](https://sampleprograms.io/projects/reverse-string/algol68)
 - [Reverse String in Bash](https://sampleprograms.io/projects/reverse-string/bash)
@@ -110,6 +110,7 @@ There are 51 articles:
 - [Reverse String in Powershell](https://sampleprograms.io/projects/reverse-string/powershell)
 - [Reverse String in Python](https://sampleprograms.io/projects/reverse-string/python)
 - [Reverse String in R](https://sampleprograms.io/projects/reverse-string/r)
+- [Reverse String in Rexx](https://sampleprograms.io/projects/reverse-string/rexx)
 - [Reverse String in Ruby](https://sampleprograms.io/projects/reverse-string/ruby)
 - [Reverse String in Rust](https://sampleprograms.io/projects/reverse-string/rust)
 - [Reverse String in Scala](https://sampleprograms.io/projects/reverse-string/scala)
