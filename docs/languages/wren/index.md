@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-20
 featured-image: programming-languages.jpg
-last-modified: 2025-01-26
+last-modified: 2025-02-17
 layout: default
 tags:
 - wren
@@ -61,9 +61,10 @@ JavaScript. Game developers should be pretty happy about this.
 
 ## Articles
 
-There are 10 articles:
+There are 11 articles:
 
 - [Baklava in Wren](https://sampleprograms.io/projects/baklava/wren)
+- [Duplicate Character Counter in Wren](https://sampleprograms.io/projects/duplicate-character-counter/wren)
 - [Even Odd in Wren](https://sampleprograms.io/projects/even-odd/wren)
 - [Factorial in Wren](https://sampleprograms.io/projects/factorial/wren)
 - [File Input Output in Wren](https://sampleprograms.io/projects/file-input-output/wren)
