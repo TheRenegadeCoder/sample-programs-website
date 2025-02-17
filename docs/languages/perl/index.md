@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-08
 featured-image: programming-languages.jpg
-last-modified: 2025-02-13
+last-modified: 2025-02-17
 layout: default
 tags:
 - perl
@@ -61,7 +61,7 @@ and preferably only one, obvious way to do it"
 
 ## Articles
 
-There are 19 articles:
+There are 20 articles:
 
 - [Baklava in Perl](https://sampleprograms.io/projects/baklava/perl)
 - [Bubble Sort in Perl](https://sampleprograms.io/projects/bubble-sort/perl)
@@ -74,6 +74,7 @@ There are 19 articles:
 - [Hello World in Perl](https://sampleprograms.io/projects/hello-world/perl)
 - [Insertion Sort in Perl](https://sampleprograms.io/projects/insertion-sort/perl)
 - [Linear Search in Perl](https://sampleprograms.io/projects/linear-search/perl)
+- [Longest Word in Perl](https://sampleprograms.io/projects/longest-word/perl)
 - [Merge Sort in Perl](https://sampleprograms.io/projects/merge-sort/perl)
 - [Palindromic Number in Perl](https://sampleprograms.io/projects/palindromic-number/perl)
 - [Prime Number in Perl](https://sampleprograms.io/projects/prime-number/perl)

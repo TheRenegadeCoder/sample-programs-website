@@ -1,7 +1,7 @@
 ---
 date: 2018-03-25
 featured-image: programming-languages.jpg
-last-modified: 2025-01-12
+last-modified: 2025-02-17
 layout: default
 tags:
 - go
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 30 articles:
+There are 31 articles:
 
 - [Baklava in Go](https://sampleprograms.io/projects/baklava/go)
 - [Binary Search in Go](https://sampleprograms.io/projects/binary-search/go)
@@ -42,6 +42,7 @@ There are 30 articles:
 - [Hello World in Go](https://sampleprograms.io/projects/hello-world/go)
 - [Insertion Sort in Go](https://sampleprograms.io/projects/insertion-sort/go)
 - [Job Sequencing in Go](https://sampleprograms.io/projects/job-sequencing/go)
+- [Josephus Problem in Go](https://sampleprograms.io/projects/josephus-problem/go)
 - [Linear Search in Go](https://sampleprograms.io/projects/linear-search/go)
 - [Longest Common Subsequence in Go](https://sampleprograms.io/projects/longest-common-subsequence/go)
 - [Longest Palindromic Substring in Go](https://sampleprograms.io/projects/longest-palindromic-substring/go)
