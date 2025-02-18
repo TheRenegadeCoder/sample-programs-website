@@ -1,7 +1,7 @@
 ---
 date: 2018-03-25
 featured-image: programming-languages.jpg
-last-modified: 2025-02-17
+last-modified: 2025-02-18
 layout: default
 tags:
 - go
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 31 articles:
+There are 32 articles:
 
 - [Baklava in Go](https://sampleprograms.io/projects/baklava/go)
 - [Binary Search in Go](https://sampleprograms.io/projects/binary-search/go)
@@ -47,6 +47,7 @@ There are 31 articles:
 - [Longest Common Subsequence in Go](https://sampleprograms.io/projects/longest-common-subsequence/go)
 - [Longest Palindromic Substring in Go](https://sampleprograms.io/projects/longest-palindromic-substring/go)
 - [Longest Word in Go](https://sampleprograms.io/projects/longest-word/go)
+- [Maximum Array Rotation in Go](https://sampleprograms.io/projects/maximum-array-rotation/go)
 - [Merge Sort in Go](https://sampleprograms.io/projects/merge-sort/go)
 - [Palindromic Number in Go](https://sampleprograms.io/projects/palindromic-number/go)
 - [Prime Number in Go](https://sampleprograms.io/projects/prime-number/go)

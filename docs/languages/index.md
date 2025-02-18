@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1115 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1116 code snippets.
 
 ## Language Collections by Letter
 
@@ -141,12 +141,12 @@ The 'F' collection contains 12 languages, of which 12 are tested, and 35 code sn
 
 ### G
 
-The 'G' collection contains 11 languages, of which 11 are tested, and 63 code snippets.
+The 'G' collection contains 11 languages, of which 11 are tested, and 64 code snippets.
 
 - [Gerbil](https://sampleprograms.io/languages/gerbil) (2 code snippets)
 - [Gluon](https://sampleprograms.io/languages/gluon) (2 code snippets)
 - [Gnu Make](https://sampleprograms.io/languages/gnu-make) (6 code snippets)
-- [Go](https://sampleprograms.io/languages/go) (31 code snippets)
+- [Go](https://sampleprograms.io/languages/go) (32 code snippets)
 - [Goby](https://sampleprograms.io/languages/goby) (2 code snippets)
 - [Golo](https://sampleprograms.io/languages/golo) (2 code snippets)
 - [Gosu](https://sampleprograms.io/languages/gosu) (2 code snippets)
