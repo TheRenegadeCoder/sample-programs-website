@@ -1,7 +1,7 @@
 ---
 date: 2019-10-24
 featured-image: binary-search-in-every-language.jpg
-last-modified: 2024-11-09
+last-modified: 2025-02-18
 layout: default
 tags:
 - binary-search
@@ -98,7 +98,7 @@ Usage: please provide a list of sorted integers ("1, 4, 5, 11, 12") and the inte
 
 ## Articles
 
-There are 16 articles:
+There are 17 articles:
 
 - [Binary Search in Algol68](https://sampleprograms.io/projects/binary-search/algol68)
 - [Binary Search in Beef](https://sampleprograms.io/projects/binary-search/beef)
@@ -110,6 +110,7 @@ There are 16 articles:
 - [Binary Search in Go](https://sampleprograms.io/projects/binary-search/go)
 - [Binary Search in Java](https://sampleprograms.io/projects/binary-search/java)
 - [Binary Search in Javascript](https://sampleprograms.io/projects/binary-search/javascript)
+- [Binary Search in Kotlin](https://sampleprograms.io/projects/binary-search/kotlin)
 - [Binary Search in Mathematica](https://sampleprograms.io/projects/binary-search/mathematica)
 - [Binary Search in Php](https://sampleprograms.io/projects/binary-search/php)
 - [Binary Search in Python](https://sampleprograms.io/projects/binary-search/python)
