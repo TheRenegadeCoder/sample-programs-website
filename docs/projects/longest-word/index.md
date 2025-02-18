@@ -1,7 +1,7 @@
 ---
 date: 2022-05-13
 featured-image: longest-word-in-every-language.jpg
-last-modified: 2025-02-17
+last-modified: 2025-02-18
 layout: default
 tags:
 - longest-word
@@ -98,7 +98,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 22 articles:
+There are 23 articles:
 
 - [Longest Word in Algol68](https://sampleprograms.io/projects/longest-word/algol68)
 - [Longest Word in Beef](https://sampleprograms.io/projects/longest-word/beef)
@@ -122,6 +122,7 @@ There are 22 articles:
 - [Longest Word in R](https://sampleprograms.io/projects/longest-word/r)
 - [Longest Word in Rust](https://sampleprograms.io/projects/longest-word/rust)
 - [Longest Word in Typescript](https://sampleprograms.io/projects/longest-word/typescript)
+- [Longest Word in Visual Basic](https://sampleprograms.io/projects/longest-word/visual-basic)
 
 ***
 
