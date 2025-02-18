@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-19
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2025-02-18
 layout: default
 tags:
 - lua
@@ -55,11 +55,12 @@ gaming community. How have I never used it?
 
 ## Articles
 
-There are 13 articles:
+There are 14 articles:
 
 - [Baklava in Lua](https://sampleprograms.io/projects/baklava/lua)
 - [Bubble Sort in Lua](https://sampleprograms.io/projects/bubble-sort/lua)
 - [Capitalize in Lua](https://sampleprograms.io/projects/capitalize/lua)
+- [Duplicate Character Counter in Lua](https://sampleprograms.io/projects/duplicate-character-counter/lua)
 - [Even Odd in Lua](https://sampleprograms.io/projects/even-odd/lua)
 - [Factorial in Lua](https://sampleprograms.io/projects/factorial/lua)
 - [Fibonacci in Lua](https://sampleprograms.io/projects/fibonacci/lua)
