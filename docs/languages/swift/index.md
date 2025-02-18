@@ -1,7 +1,7 @@
 ---
 date: 2018-03-25
 featured-image: programming-languages.jpg
-last-modified: 2024-11-12
+last-modified: 2025-02-18
 layout: default
 tags:
 - swift
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 9 articles:
+There are 10 articles:
 
 - [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
 - [Duplicate Character Counter in Swift](https://sampleprograms.io/projects/duplicate-character-counter/swift)
@@ -35,5 +35,6 @@ There are 9 articles:
 - [Fizz Buzz in Swift](https://sampleprograms.io/projects/fizz-buzz/swift)
 - [Fraction Math in Swift](https://sampleprograms.io/projects/fraction-math/swift)
 - [Hello World in Swift](https://sampleprograms.io/projects/hello-world/swift)
+- [Longest Word in Swift](https://sampleprograms.io/projects/longest-word/swift)
 - [Palindromic Number in Swift](https://sampleprograms.io/projects/palindromic-number/swift)
 - [Reverse String in Swift](https://sampleprograms.io/projects/reverse-string/swift)
