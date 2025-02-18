@@ -1,7 +1,7 @@
 ---
 date: 2020-10-07
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2025-02-02
+last-modified: 2025-02-18
 layout: default
 tags:
 - palindromic-number
@@ -82,11 +82,12 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 23 articles:
+There are 24 articles:
 
 - [Palindromic Number in Algol68](https://sampleprograms.io/projects/palindromic-number/algol68)
 - [Palindromic Number in Beef](https://sampleprograms.io/projects/palindromic-number/beef)
 - [Palindromic Number in C](https://sampleprograms.io/projects/palindromic-number/c)
+- [Palindromic Number in C#](https://sampleprograms.io/projects/palindromic-number/c-sharp)
 - [Palindromic Number in C++](https://sampleprograms.io/projects/palindromic-number/c-plus-plus)
 - [Palindromic Number in Commodore Basic](https://sampleprograms.io/projects/palindromic-number/commodore-basic)
 - [Palindromic Number in Elvish](https://sampleprograms.io/projects/palindromic-number/elvish)
