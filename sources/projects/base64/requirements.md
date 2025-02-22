@@ -7,5 +7,7 @@ If the mode is neither `encode` nor `decode`, it exit with an error.
 
 ```console
 $ ./base64.lang "encode" "hello world"
-aGVsbG8gd29ybGQK
+aGVsbG8gd29ybGQ=
+$ ./base64.lang "decode" "aGVsbG8gd29ybGQ="
+hello world
 ```
