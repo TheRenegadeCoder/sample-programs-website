@@ -13,3 +13,10 @@ aGVsbG8gd29ybGQ=
 $ ./base64.lang "decode" "aGVsbG8gd29ybGQ="
 hello world
 ```
+
+Acceptable language utilities include language features and built-in libraries.
+External dependencies are unacceptable. Remember, the goal is to show off
+language features and utilities.
+
+In this repository, the algorithm must handle ASCII strings. You don't need to
+worry about handling a string in the general case.
