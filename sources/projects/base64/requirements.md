@@ -20,3 +20,6 @@ language features and utilities.
 
 In this repository, the algorithm must handle ASCII strings. You don't need to
 worry about handling a string in the general case.
+
+The character set you should use is `ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/`.
+The padding character should be `=`.
