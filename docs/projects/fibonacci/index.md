@@ -88,7 +88,7 @@ Usage: please input the count of fibonacci numbers to output
 
 ## Articles
 
-There are 37 articles:
+There are 36 articles:
 
 - [Fibonacci in Algol68](https://sampleprograms.io/projects/fibonacci/algol68)
 - [Fibonacci in Bash](https://sampleprograms.io/projects/fibonacci/bash)
@@ -125,7 +125,6 @@ There are 37 articles:
 - [Fibonacci in Rust](https://sampleprograms.io/projects/fibonacci/rust)
 - [Fibonacci in Scala](https://sampleprograms.io/projects/fibonacci/scala)
 - [Fibonacci in Swift](https://sampleprograms.io/projects/fibonacci/swift)
-- [Fibonacci in Ti Basic](https://sampleprograms.io/projects/fibonacci/ti-basic)
 - [Fibonacci in Typescript](https://sampleprograms.io/projects/fibonacci/typescript)
 
 ***

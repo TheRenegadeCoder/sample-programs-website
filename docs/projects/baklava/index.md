@@ -1,7 +1,7 @@
 ---
 date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2025-02-01
+last-modified: 2025-01-29
 layout: default
 tags:
 - baklava
@@ -79,7 +79,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 154 articles:
+There are 153 articles:
 
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
 - [Baklava in Agda](https://sampleprograms.io/projects/baklava/agda)
@@ -220,7 +220,6 @@ There are 154 articles:
 - [Baklava in Tcl](https://sampleprograms.io/projects/baklava/tcl)
 - [Baklava in Terra](https://sampleprograms.io/projects/baklava/terra)
 - [Baklava in Tex](https://sampleprograms.io/projects/baklava/tex)
-- [Baklava in Ti Basic](https://sampleprograms.io/projects/baklava/ti-basic)
 - [Baklava in Typescript](https://sampleprograms.io/projects/baklava/typescript)
 - [Baklava in Unicat](https://sampleprograms.io/projects/baklava/unicat)
 - [Baklava in V](https://sampleprograms.io/projects/baklava/v)

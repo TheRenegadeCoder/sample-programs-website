@@ -70,7 +70,7 @@ In this section, we specify the set of tests specific to Reverse String.
 
 ## Articles
 
-There are 52 articles:
+There are 51 articles:
 
 - [Reverse String in Algol68](https://sampleprograms.io/projects/reverse-string/algol68)
 - [Reverse String in Bash](https://sampleprograms.io/projects/reverse-string/bash)
@@ -116,7 +116,6 @@ There are 52 articles:
 - [Reverse String in Scala](https://sampleprograms.io/projects/reverse-string/scala)
 - [Reverse String in Scheme](https://sampleprograms.io/projects/reverse-string/scheme)
 - [Reverse String in Swift](https://sampleprograms.io/projects/reverse-string/swift)
-- [Reverse String in Ti Basic](https://sampleprograms.io/projects/reverse-string/ti-basic)
 - [Reverse String in Typescript](https://sampleprograms.io/projects/reverse-string/typescript)
 - [Reverse String in Unicat](https://sampleprograms.io/projects/reverse-string/unicat)
 - [Reverse String in V](https://sampleprograms.io/projects/reverse-string/v)

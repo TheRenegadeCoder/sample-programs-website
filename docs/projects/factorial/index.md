@@ -83,7 +83,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 40 articles:
+There are 39 articles:
 
 - [Factorial in Algol68](https://sampleprograms.io/projects/factorial/algol68)
 - [Factorial in Bash](https://sampleprograms.io/projects/factorial/bash)
@@ -121,7 +121,6 @@ There are 40 articles:
 - [Factorial in Ruby](https://sampleprograms.io/projects/factorial/ruby)
 - [Factorial in Rust](https://sampleprograms.io/projects/factorial/rust)
 - [Factorial in Scala](https://sampleprograms.io/projects/factorial/scala)
-- [Factorial in Ti Basic](https://sampleprograms.io/projects/factorial/ti-basic)
 - [Factorial in Typescript](https://sampleprograms.io/projects/factorial/typescript)
 - [Factorial in V](https://sampleprograms.io/projects/factorial/v)
 - [Factorial in Wren](https://sampleprograms.io/projects/factorial/wren)

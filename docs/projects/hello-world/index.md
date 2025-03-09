@@ -47,7 +47,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 154 articles:
+There are 153 articles:
 
 - [Hello World in Ada](https://sampleprograms.io/projects/hello-world/ada)
 - [Hello World in Agda](https://sampleprograms.io/projects/hello-world/agda)
@@ -188,7 +188,6 @@ There are 154 articles:
 - [Hello World in Tcl](https://sampleprograms.io/projects/hello-world/tcl)
 - [Hello World in Terra](https://sampleprograms.io/projects/hello-world/terra)
 - [Hello World in Tex](https://sampleprograms.io/projects/hello-world/tex)
-- [Hello World in Ti Basic](https://sampleprograms.io/projects/hello-world/ti-basic)
 - [Hello World in Typescript](https://sampleprograms.io/projects/hello-world/typescript)
 - [Hello World in Unicat](https://sampleprograms.io/projects/hello-world/unicat)
 - [Hello World in V](https://sampleprograms.io/projects/hello-world/v)
