@@ -76,7 +76,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 18 articles:
+There are 19 articles:
 
 - [Duplicate Character Counter in Algol68](https://sampleprograms.io/projects/duplicate-character-counter/algol68)
 - [Duplicate Character Counter in Beef](https://sampleprograms.io/projects/duplicate-character-counter/beef)
@@ -94,6 +94,7 @@ There are 18 articles:
 - [Duplicate Character Counter in Ruby](https://sampleprograms.io/projects/duplicate-character-counter/ruby)
 - [Duplicate Character Counter in Rust](https://sampleprograms.io/projects/duplicate-character-counter/rust)
 - [Duplicate Character Counter in Swift](https://sampleprograms.io/projects/duplicate-character-counter/swift)
+- [Duplicate Character Counter in Ti Basic](https://sampleprograms.io/projects/duplicate-character-counter/ti-basic)
 - [Duplicate Character Counter in Typescript](https://sampleprograms.io/projects/duplicate-character-counter/typescript)
 - [Duplicate Character Counter in Wren](https://sampleprograms.io/projects/duplicate-character-counter/wren)
 

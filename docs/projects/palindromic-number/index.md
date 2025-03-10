@@ -82,7 +82,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 23 articles:
+There are 24 articles:
 
 - [Palindromic Number in Algol68](https://sampleprograms.io/projects/palindromic-number/algol68)
 - [Palindromic Number in Beef](https://sampleprograms.io/projects/palindromic-number/beef)
@@ -105,6 +105,7 @@ There are 23 articles:
 - [Palindromic Number in Ruby](https://sampleprograms.io/projects/palindromic-number/ruby)
 - [Palindromic Number in Rust](https://sampleprograms.io/projects/palindromic-number/rust)
 - [Palindromic Number in Swift](https://sampleprograms.io/projects/palindromic-number/swift)
+- [Palindromic Number in Ti Basic](https://sampleprograms.io/projects/palindromic-number/ti-basic)
 - [Palindromic Number in Typescript](https://sampleprograms.io/projects/palindromic-number/typescript)
 - [Palindromic Number in Wren](https://sampleprograms.io/projects/palindromic-number/wren)
 
