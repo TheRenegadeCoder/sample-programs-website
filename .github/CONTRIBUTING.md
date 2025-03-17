@@ -2,23 +2,25 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-  - [Issues](#issues)
-  - [Pull Requests](#pull-requests)
-- [Articles](#articles)
-  - [General Guidelines](#general-guidelines)
-  - [Sample Program Article](#sample-program-article)
-    - [how-to-implement-the-solution.md (manditory)](#how-to-implement-the-solutionmd-manditory)
-    - [how-to-run-the-solution.md (manditory)](#how-to-run-the-solutionmd-manditory)
-  - [Language Article](#language-article)
-    - [description.md (manditory)](#descriptionmd-manditory)
-- [Images](#images)
-  - [General Guidelines](#general-guidelines-1)
-  - [Title Image](#title-image)
-  - [Other Images](#other-images)
-    - [Local Images](#local-images)
-    - [External Images](#external-images)
-- [Building Website Locally](#building-website-locally)
+- [Contributing](#contributing)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+    - [Issues](#issues)
+    - [Pull Requests](#pull-requests)
+  - [Articles](#articles)
+    - [General Guidelines](#general-guidelines)
+    - [Sample Program Article](#sample-program-article)
+      - [how-to-implement-the-solution.md (manditory)](#how-to-implement-the-solutionmd-manditory)
+      - [how-to-run-the-solution.md (manditory)](#how-to-run-the-solutionmd-manditory)
+    - [Language Article](#language-article)
+      - [description.md (manditory)](#descriptionmd-manditory)
+  - [Images](#images)
+    - [General Guidelines](#general-guidelines-1)
+    - [Title Image](#title-image)
+    - [Other Images](#other-images)
+      - [Local Images](#local-images)
+      - [External Images](#external-images)
+  - [Building Website Locally](#building-website-locally)
 
 ## Overview
 
@@ -268,7 +270,7 @@ where `<url>` is the website to the image. For example:
 
 Prerequisites:
 
-* [Python 3.8 or better][12]
+* [Python 3.9 or better][12]
 * [virtualenv python package][13]
 * [Docker][14]
 
