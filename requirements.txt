@@ -1,5 +1,5 @@
 snakemd~=2.1.0
-subete~=0.19.0
+subete~=0.20.0
 image-titler~=2.4.0
-glotter2~=0.9.0
+glotter2~=0.10.0
 pyyaml~=6.0
