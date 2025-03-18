@@ -22,11 +22,15 @@ jobs:
         with:
           python-version: '3.9'
 
+      - uses: abatilo/actions-poetry@v3
+        with:
+          poetry-version: '2.1.1'
+    
       - name: Install Dependencies
-        run: pip install -r requirements.txt
+        run: poetry install
 
       - name: Generate Webpages and Images
-        run: python scripts/automate.py
+        run: poetry run python scripts/automate.py
 
       - name: Build Webpages with Jekyll
         uses: actions/jekyll-build-pages@v1
