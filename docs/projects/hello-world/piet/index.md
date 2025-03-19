@@ -26,7 +26,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ## Current Solution
 
-![Hello World in Piet](/projects/hello-world/piet/hello-world.png)
+<img class="program-image" src="/projects/hello-world/piet/hello-world.png" alt="Hello World in Piet">
 
 Hello World in [Piet](https://sampleprograms.io/languages/piet) was written by:
 

@@ -48,7 +48,7 @@ denoted by A<sup>T</sup>. For example, the following matrix could be the matrix 
 
 <table class="matrix">
     <tr>
-        <th class="empty;">&nbsp;</th>
+        <th class="empty">&nbsp;</th>
         <th>column 1</th>
         <th>column 2</th>
         <th>column 3</th>
@@ -80,7 +80,7 @@ Once transposed, A becomes the following matrix, A<sup>T</sup>:
         <th class="empty">&nbsp;</th>
         <th>column 1</th>
         <th>column 2</th>
-        <th >column 3</th>
+        <th>column 3</th>
     </tr>
     <tr>
         <th class="right">row 1</th>
