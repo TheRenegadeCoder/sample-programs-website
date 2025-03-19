@@ -135,6 +135,11 @@ img {
   padding-bottom: 0px;
 }
 
+.program-image {
+  width: 100%;
+  image-rendering: pixelated;
+}
+
 .letter-link {
   list-style: none;
   border-radius: 4px;
