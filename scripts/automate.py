@@ -1,7 +1,6 @@
 from typing import Optional, Iterable, List, Set, Union
 import datetime
 import functools
-import imghdr
 import logging
 import os
 import pathlib
@@ -14,6 +13,7 @@ import snakemd
 import subete
 import glotter
 import yaml
+from subete import imghdr
 
 log = logging.getLogger("automate")
 AUTO_GEN_TEST_DOC_DIR = "sources/generated"
@@ -243,14 +243,11 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
     if program.image_type():
         image_dest = path / pathlib.Path(program.project_path()).name
         shutil.copy(program.project_path(), image_dest)
+        image_uri = "/" + "/".join(image_dest.parts[1:])
+        image_description = f"{program.project_name()} in {program.language_name()}"
         doc.add_block(
-            snakemd.Paragraph(
-                [
-                    snakemd.Inline(
-                        f"{program.project_name()} in {program.language_name()}",
-                        image="/" + "/".join(image_dest.parts[1:])
-                    )
-                ]
+            snakemd.Raw(
+                f'''<img class="program-image" src="{image_uri}" alt="{image_description}">'''
             )
         )
     else:
@@ -297,7 +294,7 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         "How to Run the Solution"
     )
     try:
-        doc.dump("index", dir=str(path))
+        doc.dump("index", directory=str(path))
     except Exception:
         log.exception(f"Failed to write {path}")
 
@@ -441,7 +438,7 @@ def _generate_project_index(
     doc.add_block(snakemd.Paragraph([snakemd.Inline(f"Next Project ({next}) -->", link=next.requirements_url())]))
     doc.add_paragraph("</div>")
     doc.add_paragraph("</nav>")
-    doc.dump("index", dir=f"docs/projects/{project.pathlike_name()}")
+    doc.dump("index", directory=f"docs/projects/{project.pathlike_name()}")
 
 
 def _generate_language_index(language: subete.LanguageCollection):
@@ -481,7 +478,7 @@ def _generate_language_index(language: subete.LanguageCollection):
     _add_section(doc, "languages", language.pathlike_name(), "Description")
     _add_language_article_section(doc, repo, str(language))
     try:
-        doc.dump("index", dir=f"docs/languages/{language.pathlike_name()}")
+        doc.dump("index", directory=f"docs/languages/{language.pathlike_name()}")
     except Exception:
         log.exception(f"Failed to write {language.pathlike_name()}")
 
@@ -737,7 +734,7 @@ def generate_languages_index(repo: subete.Repo):
         language_index.add_block(snakemd.MDList(languages))
         language_index.add_block(snakemd.Paragraph(return_to_top))
 
-    language_index.dump("index", dir=str(language_index_path))
+    language_index.dump("index", directory=str(language_index_path))
 
 
 def _get_language_letter_links(repo: subete.Repo) -> str:
@@ -819,7 +816,7 @@ def generate_projects_index(repo: subete.Repo):
         for project in repo.approved_projects()
     ]
     projects_index.add_block(snakemd.MDList(projects))
-    projects_index.dump("index", dir=str(projects_index_path))
+    projects_index.dump("index", directory=str(projects_index_path))
 
 
 def copy_article_images(repo: subete.Repo):
