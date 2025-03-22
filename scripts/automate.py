@@ -1,4 +1,4 @@
-from typing import Optional, Iterable, List, Set, Union
+from typing import Optional, Iterable, List, Set
 import datetime
 import functools
 import logging
@@ -393,7 +393,7 @@ def _generate_project_index(
     """
     doc: snakemd.Document = snakemd.new_doc()
     project_name: str = project.name()
-    times: List[Optional[datetime.datetime]] = []
+    times: List[Optional[datetime.datetime]] = [project.doc_created(), project.doc_modified()]
     for language in repo:
         language: subete.Language
         for program in language:

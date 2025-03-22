@@ -157,7 +157,7 @@ Dividing this into 8-byte groups results in this:
 
 Ignoring the last 4 bits results in this:
 
-- `01101011` (107) = `k`
+- `01101011` (`107`) = `k`
 
 Therefore, this decodes to `k`.
 
