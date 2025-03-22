@@ -1,0 +1,27 @@
+[project]
+name = "sample-programs-website"
+version = "2025.03.17"
+description = "Sample Programs in Every Programming Language"
+readme = ".github/README.md"
+requires-python = ">=3.9,<4.0"
+license = {file = "LICENSE" }
+
+dependencies = [
+    "snakemd (>=2.3.0,<2.4.0)",
+    "subete (>=0.20.0,<0.21.0)",
+    "image-titler (>=2.4.0,<2.5.0)",
+    "glotter2 (>=0.10.0,<0.11.0)",
+    "pyyaml (>=6.0,<7.0)"
+]
+
+# Initiator of the collection
+authors = [
+    {name = "Jeremy Grifski", email = "jeremy.grifski@therenegadecoder.com"}
+]
+
+[tool.poetry]
+package-mode = false
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

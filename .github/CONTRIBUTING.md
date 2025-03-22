@@ -2,23 +2,25 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-  - [Issues](#issues)
-  - [Pull Requests](#pull-requests)
-- [Articles](#articles)
-  - [General Guidelines](#general-guidelines)
-  - [Sample Program Article](#sample-program-article)
-    - [how-to-implement-the-solution.md (manditory)](#how-to-implement-the-solutionmd-manditory)
-    - [how-to-run-the-solution.md (manditory)](#how-to-run-the-solutionmd-manditory)
-  - [Language Article](#language-article)
-    - [description.md (manditory)](#descriptionmd-manditory)
-- [Images](#images)
-  - [General Guidelines](#general-guidelines-1)
-  - [Title Image](#title-image)
-  - [Other Images](#other-images)
-    - [Local Images](#local-images)
-    - [External Images](#external-images)
-- [Building Website Locally](#building-website-locally)
+- [Contributing](#contributing)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+    - [Issues](#issues)
+    - [Pull Requests](#pull-requests)
+  - [Articles](#articles)
+    - [General Guidelines](#general-guidelines)
+    - [Sample Program Article](#sample-program-article)
+      - [how-to-implement-the-solution.md (manditory)](#how-to-implement-the-solutionmd-manditory)
+      - [how-to-run-the-solution.md (manditory)](#how-to-run-the-solutionmd-manditory)
+    - [Language Article](#language-article)
+      - [description.md (manditory)](#descriptionmd-manditory)
+  - [Images](#images)
+    - [General Guidelines](#general-guidelines-1)
+    - [Title Image](#title-image)
+    - [Other Images](#other-images)
+      - [Local Images](#local-images)
+      - [External Images](#external-images)
+  - [Building Website Locally](#building-website-locally)
 
 ## Overview
 
@@ -268,17 +270,16 @@ where `<url>` is the website to the image. For example:
 
 Prerequisites:
 
-* [Python 3.8 or better][12]
+* [Python 3.9 or better][12]
+* [pip python package][16]
 * [virtualenv python package][13]
+* [poetry 2.1.1 or better][15]
 * [Docker][14]
 
-If you wish to build a local copy of the website, create a virtualenv, activate it, and install
-`requirements.txt`:
+If you wish to build a local copy of the website install the necessary packages:
 
 ```console
-virtualenv -p python3 venv
-source venv/bin/activate
-pip install -r requirements.txt
+poetry install
 ```
 
 You should only need to do the above once. All other times, just activate the virtualenv with the
@@ -302,3 +303,5 @@ just press Ctrl+C to exit the web server.
 [12]: https://www.python.org/downloads/
 [13]: https://pypi.org/project/virtualenv/
 [14]: https://docs.docker.com/engine/install/
+[15]: https://pypi.org/project/poetry/
+[16]: https://pypi.org/project/pip/

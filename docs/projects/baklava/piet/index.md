@@ -26,7 +26,7 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Piet](h
 
 ## Current Solution
 
-![Baklava in Piet](/projects/baklava/piet/baklava.png)
+<img class="program-image" src="/projects/baklava/piet/baklava.png" alt="Baklava in Piet">
 
 Baklava in [Piet](https://sampleprograms.io/languages/piet) was written by:
 
