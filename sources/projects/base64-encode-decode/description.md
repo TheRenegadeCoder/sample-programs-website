@@ -1,4 +1,4 @@
-## Introduction
+### Introduction
 
 Base64 is a popular method of encoding strings and other data. It can encode
 images, text, JSON, and almost any other format as well. It is also URL-safe.
@@ -6,7 +6,7 @@ images, text, JSON, and almost any other format as well. It is also URL-safe.
 In this project you will be encoding normal text to Base64-encoded text and
 decoding Base64-encoded text into normal text.
 
-## Base64 Alphabet
+### Base64 Alphabet
 
 From [Base64 Table from Wikipedia][1], this is the Base64 Alphabet:
 
@@ -32,7 +32,7 @@ From [Base64 Table from Wikipedia][1], this is the Base64 Alphabet:
 
 This alphabet is used for both encode and decode.
 
-## Encode
+### Encode
 
 Base64 encode works as follows:
 
@@ -95,7 +95,7 @@ For the final encode example, let's consider the case when the last chunk is
 - Looking up those values in the table results in `a2k`.
 - Since this is only 3 bytes long, 1 padding character is added: `a2k=`.
 
-## Decode
+### Decode
 
 Before dividing into the algorithm for how to decode a Base64 string, let's
 talk about some rules for what constitutes a valid Base64 string:
@@ -181,7 +181,7 @@ Ignoring the last 2 bits results in this:
 
 Therefore, this decodes to `ki`.
 
-## Further Reading
+### Further Reading
 
 You can read more about Base64 in [Wikipedia][2].
 
