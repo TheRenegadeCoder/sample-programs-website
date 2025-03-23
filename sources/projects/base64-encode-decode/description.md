@@ -1,3 +1,9 @@
+<style>
+th:nth-child(3), th:nth-child(6), th:nth-child(9), td:nth-child(3), td:nth-child(6), td:nth-child(9) {
+    border-right: 5px white solid
+}
+</style>
+
 ### Introduction
 
 Base64 is a popular method of encoding strings and other data. It can encode
