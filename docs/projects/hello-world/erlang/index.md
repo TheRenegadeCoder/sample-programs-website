@@ -3,9 +3,10 @@ authors:
 - Jeremy Grifski
 - Nick Keers
 - rzuckerm
+- Zia
 date: 2018-08-08
 featured-image: hello-world-in-erlang.jpg
-last-modified: 2023-11-21
+last-modified: 2025-03-25
 layout: default
 tags:
 - erlang
@@ -49,8 +50,7 @@ Hello World in [Erlang](https://sampleprograms.io/languages/erlang) was written 
 
 This article was written by:
 
-- Nick Keers
-- rzuckerm
+- Zia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

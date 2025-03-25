@@ -1,11 +1,10 @@
 ---
 authors:
 - Jeremy Grifski
-- rzuckerm
-- Stuart Irwin
+- Zia
 date: 2018-09-17
 featured-image: baklava-in-kotlin.jpg
-last-modified: 2023-05-15
+last-modified: 2025-03-25
 layout: default
 tags:
 - baklava
@@ -50,9 +49,7 @@ Baklava in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 This article was written by:
 
-- Jeremy Grifski
-- rzuckerm
-- Stuart Irwin
+- Zia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

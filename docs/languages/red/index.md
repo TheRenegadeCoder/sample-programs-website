@@ -1,11 +1,9 @@
 ---
 authors:
-- Jeremy Grifski
-- Johnny Fang
-- Ron Zuckerman
+- Zia
 date: 2018-04-20
 featured-image: programming-languages.jpg
-last-modified: 2024-10-17
+last-modified: 2025-03-25
 layout: default
 tags:
 - red
@@ -26,9 +24,7 @@ Welcome to the Red page! Here, you'll find a description of the language as well
 
 This article was written by:
 
-- Jeremy Grifski
-- Johnny Fang
-- Ron Zuckerman
+- Zia
 
 ## Description
 

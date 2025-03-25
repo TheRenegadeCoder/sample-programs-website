@@ -1,10 +1,9 @@
 ---
 authors:
-- Jeremy Grifski
-- Ron Zuckerman
+- Zia
 date: 2018-04-10
 featured-image: programming-languages.jpg
-last-modified: 2023-10-23
+last-modified: 2025-03-25
 layout: default
 tags:
 - pascal
@@ -25,8 +24,7 @@ Welcome to the Pascal page! Here, you'll find a description of the language as w
 
 This article was written by:
 
-- Jeremy Grifski
-- Ron Zuckerman
+- Zia
 
 ## Description
 

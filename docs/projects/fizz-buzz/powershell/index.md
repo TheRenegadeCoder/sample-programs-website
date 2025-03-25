@@ -1,11 +1,11 @@
 ---
 authors:
 - Devin Leaman
-- Jeremy Grifski
 - rzuckerm
+- Zia
 date: 2018-08-04
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2023-05-15
+last-modified: 2025-03-25
 layout: default
 tags:
 - fizz-buzz
@@ -104,8 +104,7 @@ Fizz Buzz in [Powershell](https://sampleprograms.io/languages/powershell) was wr
 
 This article was written by:
 
-- Jeremy Grifski
-- rzuckerm
+- Zia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

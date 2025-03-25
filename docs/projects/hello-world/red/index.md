@@ -1,13 +1,10 @@
 ---
 authors:
 - Jeremy Griffith
-- Jeremy Grifski
-- Johnny Fang
-- rzuckerm
-- shubhragupta-code
+- Zia
 date: 2018-04-20
 featured-image: hello-world-in-red.jpg
-last-modified: 2023-05-15
+last-modified: 2025-03-25
 layout: default
 tags:
 - hello-world
@@ -47,10 +44,7 @@ Hello World in [Red](https://sampleprograms.io/languages/red) was written by:
 
 This article was written by:
 
-- Jeremy Grifski
-- Johnny Fang
-- rzuckerm
-- shubhragupta-code
+- Zia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

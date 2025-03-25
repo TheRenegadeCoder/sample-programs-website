@@ -1,10 +1,9 @@
 ---
 authors:
-- Jeremy Grifski
-- Ron Zuckerman
+- Zia
 date: 2018-03-21
 featured-image: programming-languages.jpg
-last-modified: 2025-02-15
+last-modified: 2025-03-25
 layout: default
 tags:
 - ruby
@@ -25,8 +24,7 @@ Welcome to the Ruby page! Here, you'll find a description of the language as wel
 
 This article was written by:
 
-- Jeremy Grifski
-- Ron Zuckerman
+- Zia
 
 ## Description
 

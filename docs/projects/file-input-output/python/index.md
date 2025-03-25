@@ -3,10 +3,10 @@ authors:
 - Ganesh Naik
 - Jeremy Grifski
 - Noah Nichols
-- rzuckerm
+- Zia
 date: 2018-09-12
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2025-03-25
 layout: default
 tags:
 - file-input-output
@@ -68,8 +68,7 @@ File Input Output in [Python](https://sampleprograms.io/languages/python) was wr
 
 This article was written by:
 
-- Jeremy Grifski
-- rzuckerm
+- Zia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

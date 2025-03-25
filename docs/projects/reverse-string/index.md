@@ -1,7 +1,7 @@
 ---
 date: 2018-04-12
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2025-02-17
+last-modified: 2025-03-25
 layout: default
 tags:
 - reverse-string
@@ -23,7 +23,7 @@ Welcome to the Reverse String page! Here, you'll find a description of the proje
 
 This article was written by:
 
-- Jeremy Grifski
+- Zia
 
 ## Description
 

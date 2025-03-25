@@ -2,9 +2,10 @@
 authors:
 - Jeremy Grifski
 - rzuckerm
+- Zia
 date: 2018-05-08
 featured-image: hello-world-in-picolisp.jpg
-last-modified: 2023-05-15
+last-modified: 2025-03-25
 layout: default
 tags:
 - hello-world
@@ -44,8 +45,7 @@ Hello World in [Picolisp](https://sampleprograms.io/languages/picolisp) was writ
 
 This article was written by:
 
-- Jeremy Grifski
-- rzuckerm
+- Zia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

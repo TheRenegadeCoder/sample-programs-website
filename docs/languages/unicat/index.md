@@ -1,9 +1,9 @@
 ---
 authors:
-- rzuckerm
+- Zia
 date: 2023-08-23
 featured-image: programming-languages.jpg
-last-modified: 2023-09-09
+last-modified: 2025-03-25
 layout: default
 tags:
 - unicat
@@ -24,7 +24,7 @@ Welcome to the Unicat page! Here, you'll find a description of the language as w
 
 This article was written by:
 
-- rzuckerm
+- Zia
 
 ## Description
 

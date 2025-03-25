@@ -1,10 +1,10 @@
 ---
 authors:
-- Jeremy Grifski
 - rzuckerm
-date: 2022-04-28
+- Zia
+date: 2023-11-29
 featured-image: hello-world-in-c-star.jpg
-last-modified: 2023-12-09
+last-modified: 2025-03-25
 layout: default
 tags:
 - c-star
@@ -45,8 +45,7 @@ Hello World in [C\*](https://sampleprograms.io/languages/c-star) was written by:
 
 This article was written by:
 
-- Jeremy Grifski
-- rzuckerm
+- Zia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

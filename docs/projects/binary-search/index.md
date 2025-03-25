@@ -1,7 +1,7 @@
 ---
 date: 2019-10-24
 featured-image: binary-search-in-every-language.jpg
-last-modified: 2025-02-18
+last-modified: 2025-03-25
 layout: default
 tags:
 - binary-search
@@ -23,7 +23,7 @@ Welcome to the Binary Search page! Here, you'll find a description of the projec
 
 This article was written by:
 
-- Jeremy Grifski
+- Zia
 
 ## Description
 
@@ -124,7 +124,7 @@ There are 17 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Baklava)](https://sampleprograms.io/projects/baklava)
+[<-- Previous Project (Base64 Encode Decode)](https://sampleprograms.io/projects/base64-encode-decode)
 
 </div>
 

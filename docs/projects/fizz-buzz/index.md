@@ -1,7 +1,7 @@
 ---
 date: 2018-07-27
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2025-02-17
+last-modified: 2025-03-25
 layout: default
 tags:
 - fizz-buzz
@@ -23,8 +23,7 @@ Welcome to the Fizz Buzz page! Here, you'll find a description of the project as
 
 This article was written by:
 
-- Jeremy Grifski
-- rzuckerm
+- Zia
 
 ## Description
 

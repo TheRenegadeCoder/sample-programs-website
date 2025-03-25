@@ -1,7 +1,7 @@
 ---
-date: 2020-10-07
+date: 2020-10-08
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2025-02-18
+last-modified: 2025-03-25
 layout: default
 tags:
 - palindromic-number
@@ -23,7 +23,7 @@ Welcome to the Palindromic Number page! Here, you'll find a description of the p
 
 This article was written by:
 
-- Jeremy Grifski
+- Zia
 
 ## Description
 

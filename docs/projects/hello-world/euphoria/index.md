@@ -1,9 +1,10 @@
 ---
 authors:
 - rzuckerm
+- Zia
 date: 2023-02-14
 featured-image: hello-world-in-euphoria.jpg
-last-modified: 2023-02-19
+last-modified: 2025-03-25
 layout: default
 tags:
 - euphoria
@@ -43,7 +44,7 @@ Hello World in [Euphoria](https://sampleprograms.io/languages/euphoria) was writ
 
 This article was written by:
 
-- rzuckerm
+- Zia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -1,18 +1,19 @@
 ---
 date: 2018-03-15
 featured-image: programming-projects-in-every-language.jpg
-last-modified: 2025-02-18
+last-modified: 2025-03-25
 layout: default
 title: Programming Projects in Every Language
 ---
 
-Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. At this time, the repo supports 37 projects, of which 37 are tested.
+Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. At this time, the repo supports 38 projects, of which 37 are tested.
 
 ## Projects List
 
 To help you navigate the collection, the following projects are organized alphabetically.
 
 - [Baklava](https://sampleprograms.io/projects/baklava)
+- [Base64 Encode Decode](https://sampleprograms.io/projects/base64-encode-decode)
 - [Binary Search](https://sampleprograms.io/projects/binary-search)
 - [Bubble Sort](https://sampleprograms.io/projects/bubble-sort)
 - [Capitalize](https://sampleprograms.io/projects/capitalize)

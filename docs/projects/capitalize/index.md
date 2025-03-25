@@ -1,7 +1,7 @@
 ---
 date: 2019-03-31
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2025-02-01
+last-modified: 2025-03-25
 layout: default
 tags:
 - capitalize
@@ -23,7 +23,7 @@ Welcome to the Capitalize page! Here, you'll find a description of the project a
 
 This article was written by:
 
-- Jeremy Grifski
+- Zia
 
 ## Description
 

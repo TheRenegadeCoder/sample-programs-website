@@ -1,10 +1,10 @@
 ---
 authors:
-- Ron Zuckerman
 - rzuckerm
+- Zia
 date: 2023-04-05
 featured-image: quine-in-rust.jpg
-last-modified: 2023-04-06
+last-modified: 2025-03-25
 layout: default
 tags:
 - quine
@@ -42,8 +42,7 @@ Quine in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 This article was written by:
 
-- Ron Zuckerman
-- rzuckerm
+- Zia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

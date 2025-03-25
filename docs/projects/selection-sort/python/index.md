@@ -1,12 +1,11 @@
 ---
 authors:
-- Haseeb Majid
 - Jeremy Grifski
 - Parker Johansen
-- rzuckerm
+- Zia
 date: 2018-12-23
 featured-image: selection-sort-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2025-03-25
 layout: default
 tags:
 - python
@@ -78,9 +77,7 @@ Selection Sort in [Python](https://sampleprograms.io/languages/python) was writt
 
 This article was written by:
 
-- Haseeb Majid
-- Jeremy Grifski
-- rzuckerm
+- Zia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

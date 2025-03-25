@@ -2,10 +2,10 @@
 authors:
 - Jeremy Grifski
 - Niraj Kamdar
-- rzuckerm
+- Zia
 date: 2019-10-16
 featured-image: fraction-math-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2025-03-25
 layout: default
 tags:
 - fraction-math
@@ -82,9 +82,7 @@ Fraction Math in [Python](https://sampleprograms.io/languages/python) was writte
 
 This article was written by:
 
-- Jeremy Grifski
-- Niraj Kamdar
-- rzuckerm
+- Zia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

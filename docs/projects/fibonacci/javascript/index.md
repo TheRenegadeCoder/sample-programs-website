@@ -1,13 +1,11 @@
 ---
 authors:
-- Alina 1Black
-- Jeremy Grifski
 - Marius
 - Parker Johansen
-- rzuckerm
+- Zia
 date: 2018-10-04
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2025-03-25
 layout: default
 tags:
 - fibonacci
@@ -65,9 +63,7 @@ Fibonacci in [Javascript](https://sampleprograms.io/languages/javascript) was wr
 
 This article was written by:
 
-- Alina 1Black
-- Jeremy Grifski
-- rzuckerm
+- Zia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

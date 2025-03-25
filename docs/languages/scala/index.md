@@ -1,10 +1,9 @@
 ---
 authors:
-- Jeremy Grifski
-- Ron Zuckerman
+- Zia
 date: 2018-04-10
 featured-image: programming-languages.jpg
-last-modified: 2024-10-02
+last-modified: 2025-03-25
 layout: default
 tags:
 - scala
@@ -25,8 +24,7 @@ Welcome to the Scala page! Here, you'll find a description of the language as we
 
 This article was written by:
 
-- Jeremy Grifski
-- Ron Zuckerman
+- Zia
 
 ## Description
 

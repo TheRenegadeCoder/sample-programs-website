@@ -1,13 +1,11 @@
 ---
 authors:
-- Jeremy Grifski
 - Ron Zuckerman
-- rzuckerm
-- ShivaniThevar
 - Sudhanshu Dubey
+- Zia
 date: 2021-10-09
 featured-image: even-odd-in-cobol.jpg
-last-modified: 2023-05-15
+last-modified: 2025-03-25
 layout: default
 tags:
 - cobol
@@ -65,9 +63,7 @@ Even Odd in [Cobol](https://sampleprograms.io/languages/cobol) was written by:
 
 This article was written by:
 
-- Jeremy Grifski
-- rzuckerm
-- ShivaniThevar
+- Zia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

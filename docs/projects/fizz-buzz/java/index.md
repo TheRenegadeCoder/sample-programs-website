@@ -1,12 +1,10 @@
 ---
 authors:
 - Jeremy Grifski
-- rzuckerm
-- shubhragupta-code
-- Stuart
+- Zia
 date: 2018-09-08
 featured-image: fizz-buzz-in-java.jpg
-last-modified: 2023-05-15
+last-modified: 2025-03-25
 layout: default
 tags:
 - fizz-buzz
@@ -60,10 +58,7 @@ Fizz Buzz in [Java](https://sampleprograms.io/languages/java) was written by:
 
 This article was written by:
 
-- Jeremy Grifski
-- rzuckerm
-- shubhragupta-code
-- Stuart
+- Zia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

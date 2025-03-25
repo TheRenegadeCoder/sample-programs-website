@@ -1,12 +1,10 @@
 ---
 authors:
-- Jeremy Grifski
 - Matias
-- rzuckerm
-- shubhragupta-code
+- Zia
 date: 2019-10-15
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2025-03-25
 layout: default
 tags:
 - c
@@ -85,9 +83,7 @@ Prime Number in [C](https://sampleprograms.io/languages/c) was written by:
 
 This article was written by:
 
-- Jeremy Grifski
-- rzuckerm
-- shubhragupta-code
+- Zia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

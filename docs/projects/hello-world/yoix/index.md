@@ -1,9 +1,10 @@
 ---
 authors:
 - rzuckerm
+- Zia
 date: 2023-06-19
 featured-image: hello-world-in-yoix.jpg
-last-modified: 2023-06-20
+last-modified: 2025-03-25
 layout: default
 tags:
 - hello-world
@@ -43,7 +44,7 @@ Hello World in [Yoix](https://sampleprograms.io/languages/yoix) was written by:
 
 This article was written by:
 
-- rzuckerm
+- Zia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

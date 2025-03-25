@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2025-01-30
+last-modified: 2025-03-25
 layout: default
 tags:
 - hello-world
@@ -23,7 +23,7 @@ Welcome to the Hello World page! Here, you'll find a description of the project 
 
 This article was written by:
 
-- Jeremy Grifski
+- Zia
 
 ## Description
 

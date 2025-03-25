@@ -1,12 +1,10 @@
 ---
 authors:
-- Jeremy Grifski
 - Parker Johansen
-- rzuckerm
-- Thomas Braccia
+- Zia
 date: 2019-03-05
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2025-03-25
 layout: default
 tags:
 - bubble-sort
@@ -107,9 +105,7 @@ Bubble Sort in [Go](https://sampleprograms.io/languages/go) was written by:
 
 This article was written by:
 
-- Jeremy Grifski
-- rzuckerm
-- Thomas Braccia
+- Zia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

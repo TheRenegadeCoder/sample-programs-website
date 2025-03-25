@@ -1,9 +1,10 @@
 ---
 authors:
 - rzuckerm
+- Zia
 date: 2023-08-02
 featured-image: quine-in-every-language.jpg
-last-modified: 2023-08-07
+last-modified: 2025-03-25
 layout: default
 tags:
 - gnu-make
@@ -42,7 +43,7 @@ Quine in [Gnu Make](https://sampleprograms.io/languages/gnu-make) was written by
 
 This article was written by:
 
-- rzuckerm
+- Zia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

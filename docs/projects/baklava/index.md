@@ -1,7 +1,7 @@
 ---
 date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2025-02-01
+last-modified: 2025-03-25
 layout: default
 tags:
 - baklava
@@ -23,7 +23,7 @@ Welcome to the Baklava page! Here, you'll find a description of the project as w
 
 This article was written by:
 
-- Jeremy Grifski
+- Zia
 
 ## Description
 
@@ -248,7 +248,7 @@ There are 154 articles:
 
 <div id="next" markdown="1">
 
-[Next Project (Binary Search) -->](https://sampleprograms.io/projects/binary-search)
+[Next Project (Base64 Encode Decode) -->](https://sampleprograms.io/projects/base64-encode-decode)
 
 </div>
 

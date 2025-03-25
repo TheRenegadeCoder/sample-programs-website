@@ -1,10 +1,9 @@
 ---
 authors:
-- Jeremy Grifski
-- Ron Zuckerman
+- Zia
 date: 2018-05-04
 featured-image: programming-languages.jpg
-last-modified: 2025-02-18
+last-modified: 2025-03-25
 layout: default
 tags:
 - visual-basic
@@ -25,8 +24,7 @@ Welcome to the Visual Basic page! Here, you'll find a description of the languag
 
 This article was written by:
 
-- Jeremy Grifski
-- Ron Zuckerman
+- Zia
 
 ## Description
 

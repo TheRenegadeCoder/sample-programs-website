@@ -1,11 +1,9 @@
 ---
 authors:
-- awoerner92
-- Jeremy Grifski
-- Ron Zuckerman
+- Zia
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2023-12-22
+last-modified: 2025-03-25
 layout: default
 tags:
 - python
@@ -26,9 +24,7 @@ Welcome to the Python page! Here, you'll find a description of the language as w
 
 This article was written by:
 
-- awoerner92
-- Jeremy Grifski
-- Ron Zuckerman
+- Zia
 
 ## Description
 

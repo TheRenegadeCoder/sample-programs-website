@@ -1,12 +1,11 @@
 ---
 authors:
-- "Bodo Sch\xF6nfeld"
-- Jeremy Grifski
 - Noah Nichols
 - Vincent Caron
+- Zia
 date: 2018-09-24
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2022-04-28
+last-modified: 2025-03-25
 layout: default
 tags:
 - fizz-buzz
@@ -57,8 +56,7 @@ Fizz Buzz in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 This article was written by:
 
-- Bodo Schönfeld
-- Jeremy Grifski
+- Zia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

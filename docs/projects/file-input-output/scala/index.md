@@ -1,11 +1,10 @@
 ---
 authors:
-- Jeremy Grifski
 - rzuckerm
-- Vee Ng
-date: 2019-04-05
+- Zia
+date: 2023-05-15
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2025-03-25
 layout: default
 tags:
 - file-input-output
@@ -83,9 +82,7 @@ File Input Output in [Scala](https://sampleprograms.io/languages/scala) was writ
 
 This article was written by:
 
-- Jeremy Grifski
-- rzuckerm
-- Vee Ng
+- Zia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

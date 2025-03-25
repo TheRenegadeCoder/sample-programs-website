@@ -1,7 +1,7 @@
 ---
 date: 2018-10-02
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2025-02-17
+last-modified: 2025-03-25
 layout: default
 tags:
 - fibonacci
@@ -23,7 +23,7 @@ Welcome to the Fibonacci page! Here, you'll find a description of the project as
 
 This article was written by:
 
-- Jeremy Grifski
+- Zia
 
 ## Description
 

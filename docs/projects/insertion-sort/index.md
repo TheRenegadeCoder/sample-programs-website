@@ -1,7 +1,7 @@
 ---
 date: 2018-12-18
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: 2024-02-02
+last-modified: 2025-03-25
 layout: default
 tags:
 - insertion-sort
@@ -23,8 +23,7 @@ Welcome to the Insertion Sort page! Here, you'll find a description of the proje
 
 This article was written by:
 
-- Jeremy Grifski
-- Ron Zuckerman
+- Zia
 
 ## Description
 
