@@ -1,6 +1,6 @@
 ---
 authors:
-- Zia
+- GitHub Actions
 date: 2018-04-27
 featured-image: programming-languages.jpg
 last-modified: 2025-03-25
@@ -24,7 +24,7 @@ Welcome to the R page! Here, you'll find a description of the language as well a
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 ## Description
 

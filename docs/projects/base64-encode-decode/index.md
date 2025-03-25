@@ -23,7 +23,7 @@ Welcome to the Base64 Encode Decode page! Here, you'll find a description of the
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 ## Description
 
@@ -251,13 +251,87 @@ worry about handling a string in the general case.
 
 ## Testing
 
-No 'Testing' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
+Every project in the [Sample Programs repo](https://github.com/TheRenegadeCoder/sample-programs) should be tested.
+In this section, we specify the set of tests specific to Base64 Encode Decode.
+In order to keep things simple, we split up the testing as follows:
+
+- Base64 Encode Valid Tests
+- Base64 Decode Valid Tests
+- Base64 Invalid Inputs Tests
+- Base64 Invalid Encode Tests
+- Base64 Invalid Decode Tests
+
+### Base64 Encode Valid Tests
+
+| Description | Input | Output |
+| ----------- | ----- | ------ |
+| Lowercase String | "encode" "hello world" | "aGVsbG8gd29ybGQ=" |
+| Long String | "encode" "They swam along the boat at incredible speeds." | "VGhleSBzd2FtIGFsb25nIHRoZSBib2F0IGF0IGluY3JlZGlibGUgc3BlZWRzLg==" |
+| Numbers | "encode" "1234567890" | "MTIzNDU2Nzg5MA==" |
+| Symbols | "encode" "xyz!#$%&()*+,-./:;<=>?@[\]^_`{|}~" | "eHl6ISMkJSYoKSorLC0uLzo7PD0+P0BbXF1eX2B7fH1+" |
+| All Base64 Characters | "encode" "!  }gggIIT55;qqs!!Gjjb??=~~2$$+;;i::x..4kk,ppnoo" | "ISAgfWdnZ0lJVDU1O3FxcyEhR2pqYj8/PX5+MiQkKzs7aTo6eC4uNGtrLHBwbm9v" |
+
+### Base64 Decode Valid Tests
+
+| Description | Input | Output |
+| ----------- | ----- | ------ |
+| Lowercase String | "decode" "aGVsbG8gd29ybGQ=" | "hello world" |
+| Long String | "decode" "VGhleSBzd2FtIGFsb25nIHRoZSBib2F0IGF0IGluY3JlZGlibGUgc3BlZWRzLg==" | "They swam along the boat at incredible speeds." |
+| Numbers | "decode" "MTIzNDU2Nzg5MA==" | "1234567890" |
+| Symbols | "decode" "eHl6ISMkJSYoKSorLC0uLzo7PD0+P0BbXF1eX2B7fH1+" | "xyz!#$%&()*+,-./:;<=>?@[\]^_`{|}~" |
+| All Base64 Characters | "decode" "ISAgfWdnZ0lJVDU1O3FxcyEhR2pqYj8/PX5+MiQkKzs7aTo6eC4uNGtrLHBwbm9v" | "!  }gggIIT55;qqs!!Gjjb??=~~2$$+;;i::x..4kk,ppnoo" |
+
+### Base64 Invalid Inputs Tests
+
+| Description | Input |
+| ----------- | ----- |
+| No Input |  |
+| Invalid Mode | "blue" "Oh look a Pascal triangle" |
+
+All of these tests should output the following:
+
+```
+Usage: please provide a mode and a string to encode/decode
+```
+
+### Base64 Invalid Encode Tests
+
+| Description | Input |
+| ----------- | ----- |
+| Missing String | "encode" |
+| Empty String | "encode" "" |
+
+All of these tests should output the following:
+
+```
+Usage: please provide a mode and a string to encode/decode
+```
+
+### Base64 Invalid Decode Tests
+
+| Description | Input |
+| ----------- | ----- |
+| Missing String | "decode" |
+| Empty String | "decode" "" |
+| Length Number Not Multiple Of 4 | "decode" "hello+world" |
+| Invalid Characters | "decode" "hello world=" |
+| Too Many Pad Characters At End | "decode" "MTIzNDU2Nzg5M===" |
+| Pad Characters In Middle | "decode" "MTIzNDU2=Nzg5M==" |
+
+All of these tests should output the following:
+
+```
+Usage: please provide a mode and a string to encode/decode
+```
+
 
 **Note:** Base64 Encode Decode is not currently tested by Glotter2. Consider contributing!
 
 ## Articles
 
-No articles available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
+There is 1 article:
+
+- [Base64 Encode Decode in Python](https://sampleprograms.io/projects/base64-encode-decode/python)
 
 ***
 

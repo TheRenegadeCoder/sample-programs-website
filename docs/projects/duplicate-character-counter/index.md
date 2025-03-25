@@ -23,7 +23,7 @@ Welcome to the Duplicate Character Counter page! Here, you'll find a description
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 ## Description
 

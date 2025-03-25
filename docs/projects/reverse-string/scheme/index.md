@@ -1,9 +1,9 @@
 ---
 authors:
 - Francisco Peters
+- GitHub Actions
 - Jeremy Grifski
 - rzuckerm
-- Zia
 date: 2018-05-07
 featured-image: reverse-string-in-every-language.jpg
 last-modified: 2025-03-25
@@ -51,7 +51,7 @@ Reverse String in [Scheme](https://sampleprograms.io/languages/scheme) was writt
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

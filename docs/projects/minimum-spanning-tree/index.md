@@ -23,7 +23,7 @@ Welcome to the Minimum Spanning Tree page! Here, you'll find a description of th
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 ## Description
 

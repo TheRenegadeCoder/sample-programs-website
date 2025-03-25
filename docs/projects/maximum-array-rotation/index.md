@@ -23,7 +23,7 @@ Welcome to the Maximum Array Rotation page! Here, you'll find a description of t
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 ## Description
 

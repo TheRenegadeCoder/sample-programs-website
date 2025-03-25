@@ -23,7 +23,7 @@ Welcome to the Josephus Problem page! Here, you'll find a description of the pro
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 ## Description
 

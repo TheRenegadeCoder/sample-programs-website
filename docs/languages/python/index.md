@@ -1,6 +1,6 @@
 ---
 authors:
-- Zia
+- GitHub Actions
 date: 2018-03-15
 featured-image: programming-languages.jpg
 last-modified: 2025-03-25
@@ -24,7 +24,7 @@ Welcome to the Python page! Here, you'll find a description of the language as w
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 ## Description
 
@@ -42,9 +42,10 @@ But, Python 2 is slowly losing support.
 
 ## Articles
 
-There are 37 articles:
+There are 38 articles:
 
 - [Baklava in Python](https://sampleprograms.io/projects/baklava/python)
+- [Base64 Encode Decode in Python](https://sampleprograms.io/projects/base64-encode-decode/python)
 - [Binary Search in Python](https://sampleprograms.io/projects/binary-search/python)
 - [Bubble Sort in Python](https://sampleprograms.io/projects/bubble-sort/python)
 - [Capitalize in Python](https://sampleprograms.io/projects/capitalize/python)

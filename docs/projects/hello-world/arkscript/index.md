@@ -1,7 +1,7 @@
 ---
 authors:
+- GitHub Actions
 - SuperFola
-- Zia
 date: 2020-10-03
 featured-image: hello-world-in-every-language.jpg
 last-modified: 2025-03-25
@@ -41,7 +41,7 @@ Hello World in [Arkscript](https://sampleprograms.io/languages/arkscript) was wr
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

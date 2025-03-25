@@ -1,8 +1,8 @@
 ---
 authors:
+- GitHub Actions
 - Jeremy Griffith
 - Jeremy Grifski
-- Zia
 date: 2018-03-21
 featured-image: hello-world-in-c-plus-plus.jpg
 last-modified: 2025-03-25
@@ -51,7 +51,7 @@ Hello World in [C++](https://sampleprograms.io/languages/c-plus-plus) was writte
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

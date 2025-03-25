@@ -23,7 +23,7 @@ Welcome to the Job Sequencing page! Here, you'll find a description of the proje
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 ## Description
 

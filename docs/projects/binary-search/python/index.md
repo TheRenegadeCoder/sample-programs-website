@@ -1,8 +1,8 @@
 ---
 authors:
+- GitHub Actions
 - Jeremy Grifski
 - Vikram Rayavarapu
-- Zia
 date: 2019-10-27
 featured-image: binary-search-in-every-language.jpg
 last-modified: 2025-03-25
@@ -88,7 +88,7 @@ Binary Search in [Python](https://sampleprograms.io/languages/python) was writte
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

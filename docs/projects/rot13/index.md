@@ -23,7 +23,7 @@ Welcome to the Rot13 page! Here, you'll find a description of the project as wel
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 ## Description
 

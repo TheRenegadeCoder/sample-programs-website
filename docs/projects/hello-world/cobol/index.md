@@ -1,7 +1,7 @@
 ---
 authors:
+- GitHub Actions
 - Ron Zuckerman
-- Zia
 date: 2023-05-08
 featured-image: hello-world-in-cobol.jpg
 last-modified: 2025-03-25
@@ -46,7 +46,7 @@ Hello World in [Cobol](https://sampleprograms.io/languages/cobol) was written by
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

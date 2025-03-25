@@ -23,7 +23,7 @@ Welcome to the Quick Sort page! Here, you'll find a description of the project a
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 ## Description
 

@@ -1,7 +1,7 @@
 ---
 authors:
+- GitHub Actions
 - Jeremy Griffith
-- Zia
 date: 2018-04-08
 featured-image: hello-world-in-racket.jpg
 last-modified: 2025-03-25
@@ -43,7 +43,7 @@ Hello World in [Racket](https://sampleprograms.io/languages/racket) was written 
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

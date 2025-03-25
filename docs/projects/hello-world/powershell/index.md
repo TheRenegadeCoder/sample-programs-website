@@ -1,7 +1,7 @@
 ---
 authors:
 - Devin Leaman
-- Zia
+- GitHub Actions
 date: 2018-05-28
 featured-image: hello-world-in-powershell.jpg
 last-modified: 2025-03-25
@@ -42,7 +42,7 @@ Hello World in [Powershell](https://sampleprograms.io/languages/powershell) was 
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

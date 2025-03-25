@@ -1,9 +1,9 @@
 ---
 authors:
 - Blake.Ke
+- GitHub Actions
 - Isaac Anohene
 - Jeremy Grifski
-- Zia
 date: 2020-10-08
 featured-image: palindromic-number-in-every-language.jpg
 last-modified: 2025-03-25
@@ -77,7 +77,7 @@ Palindromic Number in [Kotlin](https://sampleprograms.io/languages/kotlin) was w
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

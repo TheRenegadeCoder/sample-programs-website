@@ -1,7 +1,7 @@
 ---
 authors:
+- GitHub Actions
 - LezendarySandwich
-- Zia
 date: 2019-10-20
 featured-image: roman-numeral-in-every-language.jpg
 last-modified: 2025-03-25
@@ -81,7 +81,7 @@ Roman Numeral in [C](https://sampleprograms.io/languages/c) was written by:
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -1,7 +1,7 @@
 ---
 authors:
+- GitHub Actions
 - Parker Johansen
-- Zia
 date: 2020-10-10
 featured-image: fizz-buzz-in-lisp.jpg
 last-modified: 2025-03-25
@@ -50,7 +50,7 @@ Fizz Buzz in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

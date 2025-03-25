@@ -1,8 +1,8 @@
 ---
 authors:
+- GitHub Actions
 - Jeremy Grifski
 - Prasun Kumar
-- Zia
 date: 2019-10-09
 featured-image: insertion-sort-in-every-language.jpg
 last-modified: 2025-03-25
@@ -117,7 +117,7 @@ Insertion Sort in [C++](https://sampleprograms.io/languages/c-plus-plus) was wri
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

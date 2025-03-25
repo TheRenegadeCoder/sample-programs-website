@@ -1,7 +1,7 @@
 ---
 authors:
+- GitHub Actions
 - rzuckerm
-- Zia
 date: 2023-04-05
 featured-image: quine-in-rust.jpg
 last-modified: 2025-03-25
@@ -42,7 +42,7 @@ Quine in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -1,6 +1,6 @@
 ---
 authors:
-- Zia
+- GitHub Actions
 date: 2018-04-10
 featured-image: programming-languages.jpg
 last-modified: 2025-03-25
@@ -24,7 +24,7 @@ Welcome to the Scala page! Here, you'll find a description of the language as we
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 ## Description
 

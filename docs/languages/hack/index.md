@@ -1,6 +1,6 @@
 ---
 authors:
-- Zia
+- GitHub Actions
 date: 2023-08-14
 featured-image: programming-languages.jpg
 last-modified: 2025-03-25
@@ -24,7 +24,7 @@ Welcome to the Hack page! Here, you'll find a description of the language as wel
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 ## Description
 

@@ -1,8 +1,8 @@
 ---
 authors:
+- GitHub Actions
 - Jeremy Grifski
 - rzuckerm
-- Zia
 date: 2018-05-05
 featured-image: hello-world-in-emojicode.jpg
 last-modified: 2025-03-25
@@ -46,7 +46,7 @@ Hello World in [Emojicode](https://sampleprograms.io/languages/emojicode) was wr
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

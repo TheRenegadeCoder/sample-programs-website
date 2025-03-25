@@ -1,8 +1,8 @@
 ---
 authors:
+- GitHub Actions
 - Jeremy Grifski
 - Niraj Kamdar
-- Zia
 date: 2019-10-10
 featured-image: fraction-math-in-every-language.jpg
 last-modified: 2025-03-25
@@ -367,7 +367,7 @@ Fraction Math in [C++](https://sampleprograms.io/languages/c-plus-plus) was writ
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -1,9 +1,9 @@
 ---
 authors:
 - Divyansh Agarwal
+- GitHub Actions
 - Jeremy Grifski
 - rzuckerm
-- Zia
 date: 2020-11-03
 featured-image: maximum-subarray-in-every-language.jpg
 last-modified: 2025-03-25
@@ -73,7 +73,7 @@ Maximum Subarray in [Python](https://sampleprograms.io/languages/python) was wri
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

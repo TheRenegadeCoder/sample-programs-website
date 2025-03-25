@@ -23,7 +23,7 @@ Welcome to the Longest Word page! Here, you'll find a description of the project
 
 This article was written by:
 
-- Zia
+- GitHub Actions
 
 ## Description
 
