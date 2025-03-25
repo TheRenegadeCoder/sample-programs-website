@@ -1,4 +1,4 @@
-from typing import Optional, Iterable, List, Set, Union
+from typing import Optional, Iterable, List, Set
 import datetime
 import functools
 import logging
@@ -393,7 +393,7 @@ def _generate_project_index(
     """
     doc: snakemd.Document = snakemd.new_doc()
     project_name: str = project.name()
-    times: List[Optional[datetime.datetime]] = []
+    times: List[Optional[datetime.datetime]] = [project.doc_created(), project.doc_modified()]
     for language in repo:
         language: subete.Language
         for program in language:
@@ -1014,7 +1014,7 @@ if __name__ == "__main__":
 
     subete.repo.logger.setLevel(logging.WARNING)  # Reduce the noise of subete
     log.info("Loading repos (this may take several minutes)")
-    repo = subete.load()
+    repo = subete.load(sample_programs_website_repo_dir=".")
 
     generate_main_page(repo)
     generate_language_paths(repo)
