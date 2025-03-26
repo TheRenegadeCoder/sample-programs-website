@@ -1,7 +1,7 @@
 ---
 date: 2020-11-03
 featured-image: maximum-subarray-in-every-language.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - maximum-subarray
@@ -23,7 +23,7 @@ Welcome to the Maximum Subarray page! Here, you'll find a description of the pro
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 ## Description
 

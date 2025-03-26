@@ -1,7 +1,7 @@
 ---
 date: 2025-03-25
 featured-image: base64-encode-decode-in-every-language.png
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - base64-encode-decode
@@ -23,7 +23,7 @@ Welcome to the Base64 Encode Decode page! Here, you'll find a description of the
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 ## Description
 

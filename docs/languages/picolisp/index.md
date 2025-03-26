@@ -1,9 +1,9 @@
 ---
 authors:
-- rzuckerm
+- GitHub Actions
 date: 2018-05-08
 featured-image: programming-languages.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - picolisp
@@ -24,7 +24,7 @@ Welcome to the Picolisp page! Here, you'll find a description of the language as
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 ## Description
 

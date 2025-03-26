@@ -1,11 +1,11 @@
 ---
 authors:
+- GitHub Actions
 - Jeremy Grifski
-- rzuckerm
 - Vipin Yadav
 date: 2022-10-02
 featured-image: binary-search-in-every-language.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - binary-search
@@ -86,7 +86,7 @@ Binary Search in [Java](https://sampleprograms.io/languages/java) was written by
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

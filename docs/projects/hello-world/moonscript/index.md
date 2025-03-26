@@ -1,10 +1,10 @@
 ---
 authors:
 - bassemmohamed1994
-- rzuckerm
+- GitHub Actions
 date: 2018-08-28
 featured-image: hello-world-in-moonscript.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - hello-world
@@ -42,7 +42,7 @@ Hello World in [Moonscript](https://sampleprograms.io/languages/moonscript) was 
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

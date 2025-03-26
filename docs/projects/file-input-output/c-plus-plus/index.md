@@ -1,11 +1,11 @@
 ---
 authors:
+- GitHub Actions
 - Jeremy Grifski
 - Noah Nichols
-- rzuckerm
 date: 2018-09-10
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - c-plus-plus
@@ -90,7 +90,7 @@ File Input Output in [C++](https://sampleprograms.io/languages/c-plus-plus) was 
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -1,10 +1,11 @@
 ---
 authors:
 - "Christoph B\xF6hmwalder"
+- GitHub Actions
 - rzuckerm
 date: 2018-08-28
 featured-image: hello-world-in-tex.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - hello-world
@@ -46,7 +47,7 @@ Hello World in [Tex](https://sampleprograms.io/languages/tex) was written by:
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

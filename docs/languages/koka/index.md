@@ -1,9 +1,9 @@
 ---
 authors:
-- rzuckerm
+- GitHub Actions
 date: 2023-05-14
 featured-image: programming-languages.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - koka
@@ -24,7 +24,7 @@ Welcome to the Koka page! Here, you'll find a description of the language as wel
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 ## Description
 

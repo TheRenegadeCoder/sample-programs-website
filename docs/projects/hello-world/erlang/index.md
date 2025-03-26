@@ -1,11 +1,12 @@
 ---
 authors:
+- GitHub Actions
 - Jeremy Grifski
 - Nick Keers
 - rzuckerm
 date: 2018-08-08
 featured-image: hello-world-in-erlang.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - erlang
@@ -49,7 +50,7 @@ Hello World in [Erlang](https://sampleprograms.io/languages/erlang) was written 
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

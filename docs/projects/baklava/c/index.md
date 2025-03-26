@@ -1,10 +1,10 @@
 ---
 authors:
+- GitHub Actions
 - Jeremy Grifski
-- rzuckerm
 date: 2018-09-17
 featured-image: baklava-in-c.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - baklava
@@ -63,7 +63,7 @@ Baklava in [C](https://sampleprograms.io/languages/c) was written by:
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -1,7 +1,7 @@
 ---
 date: 2022-05-12
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - remove-all-whitespace
@@ -23,7 +23,7 @@ Welcome to the Remove All Whitespace page! Here, you'll find a description of th
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 ## Description
 

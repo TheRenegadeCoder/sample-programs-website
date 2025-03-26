@@ -1,7 +1,7 @@
 ---
 date: 2018-10-21
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - even-odd
@@ -23,7 +23,7 @@ Welcome to the Even Odd page! Here, you'll find a description of the project as 
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 ## Description
 

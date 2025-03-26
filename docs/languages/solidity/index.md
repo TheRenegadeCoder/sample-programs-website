@@ -1,9 +1,9 @@
 ---
 authors:
-- rzuckerm
+- GitHub Actions
 date: 2023-12-16
 featured-image: programming-languages.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - solidity
@@ -24,7 +24,7 @@ Welcome to the Solidity page! Here, you'll find a description of the language as
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 ## Description
 

@@ -1,10 +1,11 @@
 ---
 authors:
+- GitHub Actions
 - rzuckerm
 - Trever Shick
 date: 2018-05-06
 featured-image: hello-world-in-d.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - d
@@ -48,7 +49,7 @@ Hello World in [D](https://sampleprograms.io/languages/d) was written by:
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

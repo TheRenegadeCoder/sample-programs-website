@@ -1,7 +1,7 @@
 ---
 date: 2018-12-04
 featured-image: quick-sort-in-every-language.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - quick-sort
@@ -23,7 +23,7 @@ Welcome to the Quick Sort page! Here, you'll find a description of the project a
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 ## Description
 

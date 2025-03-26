@@ -1,10 +1,10 @@
 ---
 authors:
 - "Christoph B\xF6hmwalder"
-- rzuckerm
+- GitHub Actions
 date: 2018-08-24
 featured-image: hello-world-in-brainfuck.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - brainfuck
@@ -44,7 +44,7 @@ Hello World in [Brainfuck](https://sampleprograms.io/languages/brainfuck) was wr
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

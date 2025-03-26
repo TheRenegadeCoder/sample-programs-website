@@ -1,7 +1,7 @@
 ---
 date: 2019-10-24
 featured-image: binary-search-in-every-language.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - binary-search
@@ -23,7 +23,7 @@ Welcome to the Binary Search page! Here, you'll find a description of the projec
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 ## Description
 

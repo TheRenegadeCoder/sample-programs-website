@@ -1,7 +1,7 @@
 ---
 date: 2018-09-10
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - file-input-output
@@ -23,7 +23,7 @@ Welcome to the File Input Output page! Here, you'll find a description of the pr
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 ## Description
 

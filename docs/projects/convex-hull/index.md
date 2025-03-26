@@ -1,7 +1,7 @@
 ---
 date: 2019-10-22
 featured-image: convex-hull-in-every-language.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - convex-hull
@@ -23,7 +23,7 @@ Welcome to the Convex Hull page! Here, you'll find a description of the project 
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 ## Description
 

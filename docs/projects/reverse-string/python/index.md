@@ -1,10 +1,10 @@
 ---
 authors:
+- GitHub Actions
 - Jeremy Griffith
-- rzuckerm
 date: 2018-04-12
 featured-image: reverse-string-in-python.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - python
@@ -45,7 +45,7 @@ Reverse String in [Python](https://sampleprograms.io/languages/python) was writt
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -1,7 +1,7 @@
 ---
 date: 2022-05-13
 featured-image: transpose-matrix-in-every-language.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - transpose-matrix
@@ -23,7 +23,7 @@ Welcome to the Transpose Matrix page! Here, you'll find a description of the pro
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 ## Description
 

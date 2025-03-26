@@ -1,9 +1,9 @@
 ---
 authors:
-- rzuckerm
+- GitHub Actions
 date: 2023-09-13
 featured-image: programming-languages.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - commodore-basic
@@ -24,7 +24,7 @@ Welcome to the Commodore Basic page! Here, you'll find a description of the lang
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 ## Description
 

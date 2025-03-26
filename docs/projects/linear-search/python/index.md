@@ -1,12 +1,13 @@
 ---
 authors:
 - frankhart2017
+- GitHub Actions
 - Jeremy Grifski
 - rzuckerm
 - Siddhartha Dhar Choudhury
 date: 2019-10-17
 featured-image: linear-search-in-every-language.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - linear-search
@@ -66,7 +67,7 @@ Linear Search in [Python](https://sampleprograms.io/languages/python) was writte
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

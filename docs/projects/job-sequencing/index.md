@@ -1,7 +1,7 @@
 ---
 date: 2018-11-19
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - job-sequencing
@@ -23,7 +23,7 @@ Welcome to the Job Sequencing page! Here, you'll find a description of the proje
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 ## Description
 

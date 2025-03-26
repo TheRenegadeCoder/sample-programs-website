@@ -1,9 +1,9 @@
 ---
 authors:
-- rzuckerm
+- GitHub Actions
 date: 2018-08-23
 featured-image: programming-languages.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - brainfuck
@@ -24,7 +24,7 @@ Welcome to the Brainfuck page! Here, you'll find a description of the language a
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 ## Description
 

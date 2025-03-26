@@ -1,11 +1,11 @@
 ---
 authors:
+- GitHub Actions
 - Jeremy Grifski
 - Manan Gill
-- rzuckerm
 date: 2019-10-09
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - capitalize
@@ -56,7 +56,7 @@ Capitalize in [Python](https://sampleprograms.io/languages/python) was written b
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

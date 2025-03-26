@@ -1,10 +1,10 @@
 ---
 authors:
+- GitHub Actions
 - Jeremy Griffith
-- rzuckerm
 date: 2018-04-20
 featured-image: hello-world-in-goby.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - goby
@@ -42,7 +42,7 @@ Hello World in [Goby](https://sampleprograms.io/languages/goby) was written by:
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

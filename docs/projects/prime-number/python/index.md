@@ -1,12 +1,12 @@
 ---
 authors:
+- GitHub Actions
 - Haseeb Majid
 - Parker Johansen
-- rzuckerm
 - Zia
 date: 2018-12-23
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2025-03-25
+last-modified: 2025-03-26
 layout: default
 tags:
 - prime-number
@@ -72,7 +72,7 @@ Prime Number in [Python](https://sampleprograms.io/languages/python) was written
 
 This article was written by:
 
-- rzuckerm
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
