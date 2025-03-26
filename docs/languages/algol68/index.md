@@ -1,6 +1,6 @@
 ---
 authors:
-- GitHub Actions
+- rzuckerm
 date: 2018-05-06
 featured-image: programming-languages.jpg
 last-modified: 2025-03-25
@@ -24,7 +24,7 @@ Welcome to the Algol68 page! Here, you'll find a description of the language as 
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 ## Description
 

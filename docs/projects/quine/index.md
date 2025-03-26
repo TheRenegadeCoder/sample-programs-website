@@ -23,7 +23,7 @@ Welcome to the Quine page! Here, you'll find a description of the project as wel
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 ## Description
 

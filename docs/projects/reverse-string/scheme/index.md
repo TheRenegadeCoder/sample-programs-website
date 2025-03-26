@@ -1,7 +1,6 @@
 ---
 authors:
 - Francisco Peters
-- GitHub Actions
 - Jeremy Grifski
 - rzuckerm
 date: 2018-05-07
@@ -51,7 +50,7 @@ Reverse String in [Scheme](https://sampleprograms.io/languages/scheme) was writt
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -23,7 +23,7 @@ Welcome to the Capitalize page! Here, you'll find a description of the project a
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 ## Description
 

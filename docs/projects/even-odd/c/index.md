@@ -1,8 +1,8 @@
 ---
 authors:
 - AceKnight
-- GitHub Actions
 - Jeremy Grifski
+- rzuckerm
 date: 2018-10-21
 featured-image: even-odd-in-every-language.jpg
 last-modified: 2025-03-25
@@ -63,7 +63,7 @@ Even Odd in [C](https://sampleprograms.io/languages/c) was written by:
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

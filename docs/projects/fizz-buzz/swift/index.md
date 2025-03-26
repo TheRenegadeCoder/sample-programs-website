@@ -1,7 +1,7 @@
 ---
 authors:
-- GitHub Actions
 - Marty Hernandez Avedon
+- rzuckerm
 date: 2018-10-03
 featured-image: fizz-buzz-in-every-language.png
 last-modified: 2025-03-25
@@ -64,7 +64,7 @@ Fizz Buzz in [Swift](https://sampleprograms.io/languages/swift) was written by:
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

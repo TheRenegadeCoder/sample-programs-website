@@ -1,6 +1,5 @@
 ---
 authors:
-- GitHub Actions
 - rzuckerm
 date: 2023-08-14
 featured-image: hello-world-in-hack.jpg
@@ -45,7 +44,7 @@ Hello World in [Hack](https://sampleprograms.io/languages/hack) was written by:
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

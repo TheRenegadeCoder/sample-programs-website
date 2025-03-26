@@ -1,6 +1,5 @@
 ---
 authors:
-- GitHub Actions
 - Nico Villanueva
 - rzuckerm
 date: 2018-07-16
@@ -51,7 +50,7 @@ Hello World in [Opa](https://sampleprograms.io/languages/opa) was written by:
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

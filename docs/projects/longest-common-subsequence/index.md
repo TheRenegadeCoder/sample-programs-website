@@ -23,7 +23,7 @@ Welcome to the Longest Common Subsequence page! Here, you'll find a description 
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 ## Description
 

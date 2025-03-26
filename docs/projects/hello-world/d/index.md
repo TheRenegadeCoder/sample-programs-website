@@ -1,6 +1,5 @@
 ---
 authors:
-- GitHub Actions
 - rzuckerm
 - Trever Shick
 date: 2018-05-06
@@ -49,7 +48,7 @@ Hello World in [D](https://sampleprograms.io/languages/d) was written by:
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

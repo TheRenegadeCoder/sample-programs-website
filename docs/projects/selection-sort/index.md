@@ -23,7 +23,7 @@ Welcome to the Selection Sort page! Here, you'll find a description of the proje
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 ## Description
 

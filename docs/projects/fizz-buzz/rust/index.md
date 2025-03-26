@@ -1,7 +1,7 @@
 ---
 authors:
-- GitHub Actions
 - Noah Nichols
+- rzuckerm
 - Vincent Caron
 date: 2018-09-24
 featured-image: fizz-buzz-in-every-language.png
@@ -56,7 +56,7 @@ Fizz Buzz in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

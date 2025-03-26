@@ -1,9 +1,9 @@
 ---
 authors:
 - Bharath
-- GitHub Actions
 - Jeremy Grifski
 - Parker Johansen
+- rzuckerm
 date: 2018-12-22
 featured-image: factorial-in-every-language.jpg
 last-modified: 2025-03-25
@@ -75,7 +75,7 @@ Factorial in [Python](https://sampleprograms.io/languages/python) was written by
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

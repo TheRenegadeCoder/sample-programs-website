@@ -23,7 +23,7 @@ Welcome to the File Input Output page! Here, you'll find a description of the pr
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 ## Description
 

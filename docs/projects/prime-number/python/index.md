@@ -1,8 +1,8 @@
 ---
 authors:
-- GitHub Actions
 - Haseeb Majid
 - Parker Johansen
+- rzuckerm
 - Zia
 date: 2018-12-23
 featured-image: prime-number-in-every-language.jpg
@@ -72,11 +72,9 @@ Prime Number in [Python](https://sampleprograms.io/languages/python) was written
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
-
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Mar 25 2025 08:48:25. The solution was first committed on Dec 23 2018 00:11:48. The documentation was last updated on Mar 25 2025 12:42:25. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

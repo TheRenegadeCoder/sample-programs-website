@@ -1,7 +1,7 @@
 ---
 authors:
-- GitHub Actions
 - Jeremy Griffith
+- rzuckerm
 date: 2018-04-08
 featured-image: hello-world-in-haskell.jpg
 last-modified: 2025-03-25
@@ -44,7 +44,7 @@ Hello World in [Haskell](https://sampleprograms.io/languages/haskell) was writte
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

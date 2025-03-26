@@ -2,7 +2,6 @@
 authors:
 - AaronLenoir
 - Andrew Reid
-- GitHub Actions
 - rzuckerm
 date: 2018-05-04
 featured-image: reverse-string-in-every-language.jpg
@@ -61,7 +60,7 @@ Reverse String in [Visual Basic](https://sampleprograms.io/languages/visual-basi
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

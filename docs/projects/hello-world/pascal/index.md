@@ -1,7 +1,7 @@
 ---
 authors:
-- GitHub Actions
 - Jeremy Griffith
+- rzuckerm
 date: 2018-04-10
 featured-image: hello-world-in-pascal.jpg
 last-modified: 2025-03-25
@@ -45,7 +45,7 @@ Hello World in [Pascal](https://sampleprograms.io/languages/pascal) was written 
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

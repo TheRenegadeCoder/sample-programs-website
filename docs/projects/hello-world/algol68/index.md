@@ -1,7 +1,7 @@
 ---
 authors:
-- GitHub Actions
 - Jeremy Grifski
+- rzuckerm
 date: 2018-05-06
 featured-image: hello-world-in-algol68.jpg
 last-modified: 2025-03-25
@@ -42,7 +42,7 @@ Hello World in [Algol68](https://sampleprograms.io/languages/algol68) was writte
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

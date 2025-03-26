@@ -23,7 +23,7 @@ Welcome to the Transpose Matrix page! Here, you'll find a description of the pro
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 ## Description
 

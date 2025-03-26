@@ -1,7 +1,6 @@
 ---
 authors:
 - frankhart2017
-- GitHub Actions
 - Jeremy Grifski
 - rzuckerm
 - Siddhartha Dhar Choudhury
@@ -67,7 +66,7 @@ Linear Search in [Python](https://sampleprograms.io/languages/python) was writte
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

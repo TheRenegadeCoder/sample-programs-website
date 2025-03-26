@@ -23,7 +23,7 @@ Welcome to the Reverse String page! Here, you'll find a description of the proje
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 ## Description
 

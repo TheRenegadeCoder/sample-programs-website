@@ -23,7 +23,7 @@ Welcome to the Palindromic Number page! Here, you'll find a description of the p
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 ## Description
 

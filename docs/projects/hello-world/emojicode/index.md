@@ -1,6 +1,5 @@
 ---
 authors:
-- GitHub Actions
 - Jeremy Grifski
 - rzuckerm
 date: 2018-05-05
@@ -46,7 +45,7 @@ Hello World in [Emojicode](https://sampleprograms.io/languages/emojicode) was wr
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

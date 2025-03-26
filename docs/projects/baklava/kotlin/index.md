@@ -1,7 +1,7 @@
 ---
 authors:
-- GitHub Actions
 - Jeremy Grifski
+- rzuckerm
 date: 2018-09-17
 featured-image: baklava-in-kotlin.jpg
 last-modified: 2025-03-25
@@ -49,7 +49,7 @@ Baklava in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

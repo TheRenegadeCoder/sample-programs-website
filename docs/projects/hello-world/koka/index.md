@@ -1,6 +1,5 @@
 ---
 authors:
-- GitHub Actions
 - rzuckerm
 date: 2023-05-14
 featured-image: hello-world-in-koka.jpg
@@ -45,7 +44,7 @@ Hello World in [Koka](https://sampleprograms.io/languages/koka) was written by:
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
