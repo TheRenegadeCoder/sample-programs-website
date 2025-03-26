@@ -28,7 +28,6 @@ support this project:
   - [Newsletter][10]
 - [Support via PayPal][11]
 - [Turn off AdBlock When Using The Renegade Coder][12]
-- [Follow Me on Twitter][13]
 - [Join the Community on Discord][4]
 
 [1]: https://github.com/TheRenegadeCoder/sample-programs/
@@ -43,4 +42,3 @@ support this project:
 [10]: https://therenegadecoder.com/about/newsletter/
 [11]: https://www.paypal.me/therenegadecoder
 [12]: https://helpcenter.getadblock.com/hc/en-us/articles/9738549326995-Pausing-and-unpausing-AdBlock-using-a-keyboard-shortcut-or-context-menu-command
-[13]: https://twitter.com/RenegadeCoder94
