@@ -49,7 +49,7 @@ framework which helps developers build web applications quickly and easily.
 
 ## Articles
 
-There are 18 articles:
+There are 19 articles:
 
 - [Baklava in Ruby](https://sampleprograms.io/projects/baklava/ruby)
 - [Binary Search in Ruby](https://sampleprograms.io/projects/binary-search/ruby)
@@ -63,6 +63,7 @@ There are 18 articles:
 - [Fizz Buzz in Ruby](https://sampleprograms.io/projects/fizz-buzz/ruby)
 - [Hello World in Ruby](https://sampleprograms.io/projects/hello-world/ruby)
 - [Josephus Problem in Ruby](https://sampleprograms.io/projects/josephus-problem/ruby)
+- [Longest Word in Ruby](https://sampleprograms.io/projects/longest-word/ruby)
 - [Palindromic Number in Ruby](https://sampleprograms.io/projects/palindromic-number/ruby)
 - [Prime Number in Ruby](https://sampleprograms.io/projects/prime-number/ruby)
 - [Quine in Ruby](https://sampleprograms.io/projects/quine/ruby)
