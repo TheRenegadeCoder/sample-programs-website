@@ -1014,7 +1014,7 @@ if __name__ == "__main__":
 
     subete.repo.logger.setLevel(logging.WARNING)  # Reduce the noise of subete
     log.info("Loading repos (this may take several minutes)")
-    repo = subete.load(sample_programs_website_repo_dir=".")
+    repo = subete.load()
 
     generate_main_page(repo)
     generate_language_paths(repo)
