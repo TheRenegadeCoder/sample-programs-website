@@ -262,7 +262,7 @@ In order to keep things simple, we split up the testing as follows:
 | Lowercase String | "encode" "hello world" | "aGVsbG8gd29ybGQ=" |
 | Long String | "encode" "They swam along the boat at incredible speeds." | "VGhleSBzd2FtIGFsb25nIHRoZSBib2F0IGF0IGluY3JlZGlibGUgc3BlZWRzLg==" |
 | Numbers | "encode" "1234567890" | "MTIzNDU2Nzg5MA==" |
-| Symbols | "encode" "xyz!#$%&()*+,-./:;<=>?@[\]^_`{\|}~" | "eHl6ISMkJSYoKSorLC0uLzo7PD0+P0BbXF1eX2B7fH1+" |
+| Symbols | "encode" "xyz!#$%&()*+,-./:;<=>?@[\\]^_`{\|}~" | "eHl6ISMkJSYoKSorLC0uLzo7PD0+P0BbXF1eX2B7fH1+" |
 | All Base64 Characters | "encode" "!  }gggIIT55;qqs!!Gjjb??=~~2$$+;;i::x..4kk,ppnoo" | "ISAgfWdnZ0lJVDU1O3FxcyEhR2pqYj8/PX5+MiQkKzs7aTo6eC4uNGtrLHBwbm9v" |
 
 ### Base64 Decode Valid Tests
