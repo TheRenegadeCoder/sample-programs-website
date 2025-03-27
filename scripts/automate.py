@@ -1,4 +1,5 @@
 from typing import Optional, Iterable, List, Set
+import argparse
 import datetime
 import functools
 import logging
@@ -1007,6 +1008,10 @@ def pluralize(count: int, singular: str, plural: Optional[str]=None):
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--local", "-l", action="store_true", help="Use local contents of website")
+    parsed_args = parser.parse_args()
+
     logging.basicConfig(format="%(name)-12s | %(levelname)-8s | %(message)s", level=logging.INFO)
     clean("docs/projects")
     clean("docs/languages")
@@ -1014,7 +1019,8 @@ if __name__ == "__main__":
 
     subete.repo.logger.setLevel(logging.WARNING)  # Reduce the noise of subete
     log.info("Loading repos (this may take several minutes)")
-    repo = subete.load()
+    website_repo_dir = "." if parsed_args.local else None
+    repo = subete.load(sample_programs_website_repo_dir=website_repo_dir)
 
     generate_main_page(repo)
     generate_language_paths(repo)

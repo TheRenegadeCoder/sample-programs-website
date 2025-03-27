@@ -2,7 +2,7 @@
 set -e
 
 echo "*** Generate Webpages and Images ***"
-python scripts/automate.py
+python scripts/automate.py --local
 
 echo ""
 echo "*** Build With Jekyll ***"
