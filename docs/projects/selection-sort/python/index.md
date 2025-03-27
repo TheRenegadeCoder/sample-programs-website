@@ -1,6 +1,5 @@
 ---
 authors:
-- GitHub Actions
 - Jeremy Grifski
 - Parker Johansen
 date: 2018-12-23
@@ -77,7 +76,7 @@ Selection Sort in [Python](https://sampleprograms.io/languages/python) was writt
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

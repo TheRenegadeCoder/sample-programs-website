@@ -1,6 +1,6 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
 - rzuckerm
 date: 2023-07-13
 featured-image: file-input-output-in-every-language.jpg
@@ -54,7 +54,7 @@ File Input Output in [Gnu Make](https://sampleprograms.io/languages/gnu-make) wa
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

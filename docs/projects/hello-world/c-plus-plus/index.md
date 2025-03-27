@@ -1,6 +1,5 @@
 ---
 authors:
-- GitHub Actions
 - Jeremy Griffith
 - Jeremy Grifski
 date: 2018-03-21
@@ -51,7 +50,7 @@ Hello World in [C++](https://sampleprograms.io/languages/c-plus-plus) was writte
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

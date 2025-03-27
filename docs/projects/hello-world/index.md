@@ -23,7 +23,7 @@ Welcome to the Hello World page! Here, you'll find a description of the project 
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 ## Description
 

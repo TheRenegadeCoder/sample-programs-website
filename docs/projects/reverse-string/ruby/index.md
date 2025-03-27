@@ -1,6 +1,6 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
 - Noah Nichols
 - rzuckerm
 date: 2018-09-24
@@ -47,7 +47,7 @@ Reverse String in [Ruby](https://sampleprograms.io/languages/ruby) was written b
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

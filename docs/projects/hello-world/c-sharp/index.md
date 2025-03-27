@@ -1,6 +1,5 @@
 ---
 authors:
-- GitHub Actions
 - ildoc
 - Jeremy Griffith
 - Jeremy Grifski
@@ -55,7 +54,7 @@ Hello World in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

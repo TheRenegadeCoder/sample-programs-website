@@ -1,6 +1,6 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
 - rzuckerm
 - Trever Shick
 date: 2018-05-06
@@ -48,7 +48,7 @@ Reverse String in [Javascript](https://sampleprograms.io/languages/javascript) w
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

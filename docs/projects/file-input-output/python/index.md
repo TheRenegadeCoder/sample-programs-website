@@ -1,7 +1,6 @@
 ---
 authors:
 - Ganesh Naik
-- GitHub Actions
 - Jeremy Grifski
 - Noah Nichols
 date: 2018-09-12
@@ -68,7 +67,7 @@ File Input Output in [Python](https://sampleprograms.io/languages/python) was wr
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

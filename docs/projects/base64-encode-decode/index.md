@@ -23,7 +23,7 @@ Welcome to the Base64 Encode Decode page! Here, you'll find a description of the
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 ## Description
 
@@ -318,8 +318,6 @@ All of these tests should output the following:
 Usage: please provide a mode and a string to encode/decode
 ```
 
-
-**Note:** Base64 Encode Decode is not currently tested by Glotter2. Consider contributing!
 
 ## Articles
 

@@ -23,7 +23,7 @@ Welcome to the Convex Hull page! Here, you'll find a description of the project 
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 ## Description
 

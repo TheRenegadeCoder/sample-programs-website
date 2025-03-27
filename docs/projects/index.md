@@ -6,7 +6,7 @@ layout: default
 title: Programming Projects in Every Language
 ---
 
-Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. At this time, the repo supports 38 projects, of which 37 are tested.
+Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. At this time, the repo supports 38 projects, of which 38 are tested.
 
 ## Projects List
 

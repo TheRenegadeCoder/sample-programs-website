@@ -1,6 +1,6 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
 - Marty A/V
 date: 2018-05-10
 featured-image: reverse-string-in-every-language.jpg
@@ -52,7 +52,7 @@ Reverse String in [Swift](https://sampleprograms.io/languages/swift) was written
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -1,7 +1,7 @@
 ---
 authors:
-- GitHub Actions
 - Jeremy Griffith
+- Jeremy Grifski
 date: 2018-04-22
 featured-image: hello-world-in-crystal.jpg
 last-modified: 2025-03-26
@@ -42,7 +42,7 @@ Hello World in [Crystal](https://sampleprograms.io/languages/crystal) was writte
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

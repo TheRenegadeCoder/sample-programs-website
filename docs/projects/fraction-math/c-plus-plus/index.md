@@ -1,6 +1,5 @@
 ---
 authors:
-- GitHub Actions
 - Jeremy Grifski
 - Niraj Kamdar
 date: 2019-10-10
@@ -367,7 +366,7 @@ Fraction Math in [C++](https://sampleprograms.io/languages/c-plus-plus) was writ
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

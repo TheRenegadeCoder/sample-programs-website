@@ -1,7 +1,7 @@
 ---
 authors:
 - Devin Leaman
-- GitHub Actions
+- Jeremy Grifski
 - rzuckerm
 date: 2018-08-04
 featured-image: fizz-buzz-in-every-language.png
@@ -104,7 +104,7 @@ Fizz Buzz in [Powershell](https://sampleprograms.io/languages/powershell) was wr
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

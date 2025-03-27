@@ -23,7 +23,7 @@ Welcome to the Binary Search page! Here, you'll find a description of the projec
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 ## Description
 

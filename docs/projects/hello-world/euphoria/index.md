@@ -1,6 +1,6 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
 - rzuckerm
 date: 2023-02-14
 featured-image: hello-world-in-euphoria.jpg
@@ -44,7 +44,7 @@ Hello World in [Euphoria](https://sampleprograms.io/languages/euphoria) was writ
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

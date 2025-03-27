@@ -1,6 +1,6 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
 - Noah
 date: 2018-09-13
 featured-image: file-input-output-in-every-language.jpg
@@ -63,7 +63,7 @@ File Input Output in [Ruby](https://sampleprograms.io/languages/ruby) was writte
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

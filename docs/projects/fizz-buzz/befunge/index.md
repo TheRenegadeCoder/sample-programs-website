@@ -1,6 +1,6 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
 - Stuart
 date: 2018-10-22
 featured-image: fizz-buzz-in-befunge.jpg
@@ -51,7 +51,7 @@ Fizz Buzz in [Befunge](https://sampleprograms.io/languages/befunge) was written 
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

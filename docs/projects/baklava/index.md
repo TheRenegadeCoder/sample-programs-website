@@ -23,7 +23,7 @@ Welcome to the Baklava page! Here, you'll find a description of the project as w
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 ## Description
 

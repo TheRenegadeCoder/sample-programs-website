@@ -1,6 +1,6 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
 - rzuckerm
 date: 2023-08-02
 featured-image: quine-in-every-language.jpg
@@ -43,7 +43,7 @@ Quine in [Gnu Make](https://sampleprograms.io/languages/gnu-make) was written by
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

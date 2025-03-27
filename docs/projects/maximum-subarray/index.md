@@ -23,7 +23,7 @@ Welcome to the Maximum Subarray page! Here, you'll find a description of the pro
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 ## Description
 

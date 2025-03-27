@@ -1,6 +1,5 @@
 ---
 authors:
-- GitHub Actions
 - Jeremy Grifski
 - Niraj Kamdar
 date: 2019-10-16
@@ -82,7 +81,7 @@ Fraction Math in [Python](https://sampleprograms.io/languages/python) was writte
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

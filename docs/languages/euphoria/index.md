@@ -1,6 +1,6 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
 date: 2023-02-14
 featured-image: programming-languages.jpg
 last-modified: 2025-03-26
@@ -24,7 +24,7 @@ Welcome to the Euphoria page! Here, you'll find a description of the language as
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 ## Description
 

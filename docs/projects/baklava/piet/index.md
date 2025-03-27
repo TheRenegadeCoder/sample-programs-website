@@ -1,6 +1,6 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
 - rzuckerm
 date: 2023-04-30
 featured-image: baklava-in-piet.jpg
@@ -35,7 +35,7 @@ Baklava in [Piet](https://sampleprograms.io/languages/piet) was written by:
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

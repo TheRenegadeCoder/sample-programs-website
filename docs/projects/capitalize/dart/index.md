@@ -1,6 +1,5 @@
 ---
 authors:
-- GitHub Actions
 - Jeremy Grifski
 - Paddy
 date: 2019-10-17
@@ -57,7 +56,7 @@ Capitalize in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

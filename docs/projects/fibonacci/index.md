@@ -23,7 +23,7 @@ Welcome to the Fibonacci page! Here, you'll find a description of the project as
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 ## Description
 

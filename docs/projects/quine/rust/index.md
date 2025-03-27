@@ -1,6 +1,6 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
 - rzuckerm
 date: 2023-04-05
 featured-image: quine-in-rust.jpg
@@ -42,7 +42,7 @@ Quine in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

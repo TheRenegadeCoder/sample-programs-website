@@ -1,6 +1,5 @@
 ---
 authors:
-- GitHub Actions
 - Jeremy Griffith
 - Jeremy Grifski
 date: 2018-04-13
@@ -52,7 +51,7 @@ Reverse String in [Java](https://sampleprograms.io/languages/java) was written b
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

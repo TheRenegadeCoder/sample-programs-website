@@ -1,6 +1,5 @@
 ---
 authors:
-- GitHub Actions
 - Jeremy Grifski
 date: 2018-09-08
 featured-image: fizz-buzz-in-java.jpg
@@ -58,7 +57,7 @@ Fizz Buzz in [Java](https://sampleprograms.io/languages/java) was written by:
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

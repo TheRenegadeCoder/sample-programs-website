@@ -1,6 +1,5 @@
 ---
 authors:
-- GitHub Actions
 - Jeremy Grifski
 - Vikram Rayavarapu
 date: 2019-10-27
@@ -88,7 +87,7 @@ Binary Search in [Python](https://sampleprograms.io/languages/python) was writte
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

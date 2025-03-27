@@ -23,7 +23,7 @@ Welcome to the Remove All Whitespace page! Here, you'll find a description of th
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 ## Description
 

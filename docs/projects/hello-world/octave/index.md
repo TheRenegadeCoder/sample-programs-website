@@ -1,7 +1,7 @@
 ---
 authors:
-- GitHub Actions
 - Jeremy Griffith
+- Jeremy Grifski
 date: 2018-04-11
 featured-image: hello-world-in-octave.jpg
 last-modified: 2025-03-26
@@ -42,7 +42,7 @@ Hello World in [Octave](https://sampleprograms.io/languages/octave) was written 
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

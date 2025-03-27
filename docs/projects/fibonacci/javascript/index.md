@@ -1,6 +1,6 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
 - Marius
 - Parker Johansen
 date: 2018-10-04
@@ -63,7 +63,7 @@ Fibonacci in [Javascript](https://sampleprograms.io/languages/javascript) was wr
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

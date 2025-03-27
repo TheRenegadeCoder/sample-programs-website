@@ -1,6 +1,6 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
 - xPolar
 date: 2020-10-05
 featured-image: fizz-buzz-in-every-language.png
@@ -46,7 +46,7 @@ Fizz Buzz in [Python](https://sampleprograms.io/languages/python) was written by
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

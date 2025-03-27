@@ -23,7 +23,7 @@ Welcome to the Longest Palindromic Substring page! Here, you'll find a descripti
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 ## Description
 

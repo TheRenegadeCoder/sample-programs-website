@@ -1,6 +1,6 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
 - Ron Zuckerman
 date: 2023-05-08
 featured-image: hello-world-in-cobol.jpg
@@ -46,7 +46,7 @@ Hello World in [Cobol](https://sampleprograms.io/languages/cobol) was written by
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

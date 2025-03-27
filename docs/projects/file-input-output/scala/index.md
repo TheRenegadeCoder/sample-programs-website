@@ -1,6 +1,6 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
 - rzuckerm
 date: 2023-05-15
 featured-image: file-input-output-in-every-language.jpg
@@ -82,7 +82,7 @@ File Input Output in [Scala](https://sampleprograms.io/languages/scala) was writ
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

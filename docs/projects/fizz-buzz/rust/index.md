@@ -1,6 +1,6 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
 - Noah Nichols
 - Vincent Caron
 date: 2018-09-24
@@ -56,7 +56,7 @@ Fizz Buzz in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
