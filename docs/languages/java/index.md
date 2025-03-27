@@ -1,9 +1,11 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
+- Stuart Irwin
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-03-27
+last-modified: 2024-09-30
 layout: default
 tags:
 - java
@@ -24,7 +26,9 @@ Welcome to the Java page! Here, you'll find a description of the language as wel
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
+- Stuart Irwin
 
 ## Description
 

@@ -1,10 +1,10 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
 - rzuckerm
-date: 2023-08-14
+date: 2019-05-07
 featured-image: hello-world-in-hack.jpg
-last-modified: 2025-03-27
+last-modified: 2023-08-23
 layout: default
 tags:
 - hack
@@ -45,7 +45,8 @@ Hello World in [Hack](https://sampleprograms.io/languages/hack) was written by:
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

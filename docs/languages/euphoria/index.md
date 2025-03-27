@@ -1,9 +1,9 @@
 ---
 authors:
-- GitHub Actions
+- rzuckerm
 date: 2023-02-14
 featured-image: programming-languages.jpg
-last-modified: 2025-03-27
+last-modified: 2023-03-27
 layout: default
 tags:
 - euphoria
@@ -24,7 +24,7 @@ Welcome to the Euphoria page! Here, you'll find a description of the language as
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 ## Description
 

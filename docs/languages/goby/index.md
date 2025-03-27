@@ -1,9 +1,9 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
 date: 2018-04-20
 featured-image: programming-languages.jpg
-last-modified: 2025-03-27
+last-modified: 2025-01-01
 layout: default
 tags:
 - goby
@@ -24,7 +24,7 @@ Welcome to the Goby page! Here, you'll find a description of the language as wel
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 ## Description
 

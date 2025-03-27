@@ -1,7 +1,7 @@
 ---
 date: 2020-10-17
 featured-image: longest-palindromic-substring-in-every-language.jpg
-last-modified: 2025-03-27
+last-modified: 2025-01-19
 layout: default
 tags:
 - longest-palindromic-substring
@@ -23,7 +23,8 @@ Welcome to the Longest Palindromic Substring page! Here, you'll find a descripti
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

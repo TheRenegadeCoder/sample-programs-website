@@ -1,7 +1,7 @@
 ---
 date: 2018-03-31
 featured-image: programming-languages.jpg
-last-modified: 2025-03-27
+last-modified: 2025-01-12
 layout: default
 tags:
 - javascript

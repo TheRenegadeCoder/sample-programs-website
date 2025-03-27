@@ -1,10 +1,10 @@
 ---
 authors:
-- GitHub Actions
 - Jeremy Grifski
+- rzuckerm
 date: 2018-06-21
 featured-image: hello-world-in-dart.jpg
-last-modified: 2025-03-27
+last-modified: 2023-05-15
 layout: default
 tags:
 - dart
@@ -42,7 +42,8 @@ Hello World in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -1,9 +1,10 @@
 ---
 authors:
-- GitHub Actions
-date: 2023-11-29
+- Ron Zuckerman
+- rzuckerm
+date: 2022-04-28
 featured-image: programming-languages.jpg
-last-modified: 2025-03-27
+last-modified: 2025-01-14
 layout: default
 tags:
 - c-star
@@ -24,7 +25,8 @@ Welcome to the C\* page! Here, you'll find a description of the language as well
 
 This article was written by:
 
-- GitHub Actions
+- Ron Zuckerman
+- rzuckerm
 
 ## Description
 

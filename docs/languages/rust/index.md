@@ -1,9 +1,11 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
+- Johnny Fang
+- Ron Zuckerman
 date: 2018-03-31
 featured-image: programming-languages.jpg
-last-modified: 2025-03-27
+last-modified: 2023-05-15
 layout: default
 tags:
 - rust
@@ -24,7 +26,9 @@ Welcome to the Rust page! Here, you'll find a description of the language as wel
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- Johnny Fang
+- Ron Zuckerman
 
 ## Description
 

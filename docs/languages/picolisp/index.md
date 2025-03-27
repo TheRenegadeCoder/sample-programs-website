@@ -1,9 +1,10 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 date: 2018-05-08
 featured-image: programming-languages.jpg
-last-modified: 2025-03-27
+last-modified: 2024-12-21
 layout: default
 tags:
 - picolisp
@@ -24,7 +25,8 @@ Welcome to the Picolisp page! Here, you'll find a description of the language as
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

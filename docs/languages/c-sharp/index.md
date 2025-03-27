@@ -1,9 +1,10 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 date: 2018-03-21
 featured-image: programming-languages.jpg
-last-modified: 2025-03-27
+last-modified: 2025-02-18
 layout: default
 tags:
 - c-sharp
@@ -24,7 +25,8 @@ Welcome to the C# page! Here, you'll find a description of the language as well 
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

@@ -1,7 +1,7 @@
 ---
 date: 2019-10-10
 featured-image: fraction-math-in-every-language.jpg
-last-modified: 2025-03-27
+last-modified: 2025-01-18
 layout: default
 tags:
 - fraction-math
@@ -23,7 +23,7 @@ Welcome to the Fraction Math page! Here, you'll find a description of the projec
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 ## Description
 

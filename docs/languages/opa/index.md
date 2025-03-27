@@ -1,9 +1,10 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 date: 2018-07-16
 featured-image: programming-languages.jpg
-last-modified: 2025-03-27
+last-modified: 2025-01-22
 layout: default
 tags:
 - opa
@@ -24,7 +25,8 @@ Welcome to the Opa page! Here, you'll find a description of the language as well
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

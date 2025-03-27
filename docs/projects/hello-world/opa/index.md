@@ -1,11 +1,11 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
 - Nico Villanueva
 - rzuckerm
 date: 2018-07-16
 featured-image: hello-world-in-opa.jpg
-last-modified: 2025-03-27
+last-modified: 2023-12-09
 layout: default
 tags:
 - hello-world
@@ -51,9 +51,12 @@ Hello World in [Opa](https://sampleprograms.io/languages/opa) was written by:
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Dec 09 2023 12:43:52. The solution was first committed on Jul 16 2018 16:34:59. The documentation was last updated on May 15 2023 15:51:23. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

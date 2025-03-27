@@ -1,7 +1,7 @@
 ---
 date: 2018-11-20
 featured-image: rot13-in-every-language.jpg
-last-modified: 2025-03-27
+last-modified: 2025-02-01
 layout: default
 tags:
 - rot13
@@ -23,7 +23,8 @@ Welcome to the Rot13 page! Here, you'll find a description of the project as wel
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

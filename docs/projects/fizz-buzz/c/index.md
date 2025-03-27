@@ -1,10 +1,11 @@
 ---
 authors:
-- GitHub Actions
 - Jeremy Grifski
+- rzuckerm
+- shubhragupta-code
 date: 2018-08-16
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2025-03-27
+last-modified: 2023-05-15
 layout: default
 tags:
 - c
@@ -58,7 +59,9 @@ Fizz Buzz in [C](https://sampleprograms.io/languages/c) was written by:
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- rzuckerm
+- shubhragupta-code
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

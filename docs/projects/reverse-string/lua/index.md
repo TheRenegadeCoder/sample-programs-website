@@ -1,11 +1,11 @@
 ---
 authors:
-- GitHub Actions
 - Jeremy Grifski
 - Matt Wiley
+- rzuckerm
 date: 2018-09-19
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2025-03-27
+last-modified: 2023-05-15
 layout: default
 tags:
 - lua
@@ -46,7 +46,9 @@ Reverse String in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- Matt Wiley
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

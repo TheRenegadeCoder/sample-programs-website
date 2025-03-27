@@ -1,9 +1,10 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 date: 2018-05-09
 featured-image: programming-languages.jpg
-last-modified: 2025-03-27
+last-modified: 2023-05-15
 layout: default
 tags:
 - bash
@@ -24,7 +25,8 @@ Welcome to the Bash page! Here, you'll find a description of the language as wel
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

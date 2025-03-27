@@ -1,11 +1,11 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
 - Noah Nichols
 - rzuckerm
 date: 2018-09-24
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2025-03-27
+last-modified: 2023-05-15
 layout: default
 tags:
 - reverse-string
@@ -47,7 +47,8 @@ Reverse String in [Ruby](https://sampleprograms.io/languages/ruby) was written b
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -1,11 +1,11 @@
 ---
 authors:
-- GitHub Actions
 - Jeremy Grifski
 - rzuckerm
+- Thomas Braccia
 date: 2018-05-05
 featured-image: hello-world-in-emojicode.jpg
-last-modified: 2025-03-27
+last-modified: 2023-05-15
 layout: default
 tags:
 - emojicode
@@ -46,7 +46,9 @@ Hello World in [Emojicode](https://sampleprograms.io/languages/emojicode) was wr
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- rzuckerm
+- Thomas Braccia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

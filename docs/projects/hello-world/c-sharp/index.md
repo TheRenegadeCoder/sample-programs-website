@@ -1,12 +1,12 @@
 ---
 authors:
-- GitHub Actions
 - ildoc
 - Jeremy Griffith
 - Jeremy Grifski
+- rzuckerm
 date: 2018-03-21
 featured-image: hello-world-in-c-sharp.jpg
-last-modified: 2025-03-27
+last-modified: 2023-05-15
 layout: default
 tags:
 - c-sharp
@@ -55,7 +55,8 @@ Hello World in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

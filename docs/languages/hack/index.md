@@ -1,9 +1,10 @@
 ---
 authors:
-- GitHub Actions
-date: 2023-08-14
+- Jeremy Grifski
+- Ron Zuckerman
+date: 2019-05-07
 featured-image: programming-languages.jpg
-last-modified: 2025-03-27
+last-modified: 2025-01-01
 layout: default
 tags:
 - hack
@@ -24,7 +25,8 @@ Welcome to the Hack page! Here, you'll find a description of the language as wel
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

@@ -1,7 +1,7 @@
 ---
 date: 2022-05-14
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2025-03-27
+last-modified: 2025-02-18
 layout: default
 tags:
 - duplicate-character-counter
@@ -23,7 +23,8 @@ Welcome to the Duplicate Character Counter page! Here, you'll find a description
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- rzuckerm
 
 ## Description
 

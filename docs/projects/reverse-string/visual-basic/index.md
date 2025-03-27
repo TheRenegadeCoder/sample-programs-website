@@ -2,11 +2,11 @@
 authors:
 - AaronLenoir
 - Andrew Reid
-- GitHub Actions
+- Jeremy Grifski
 - rzuckerm
 date: 2018-05-04
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2025-03-27
+last-modified: 2023-05-16
 layout: default
 tags:
 - reverse-string
@@ -61,9 +61,13 @@ Reverse String in [Visual Basic](https://sampleprograms.io/languages/visual-basi
 
 This article was written by:
 
-- GitHub Actions
+- Andrew Reid
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 16 2023 12:29:09. The solution was first committed on May 04 2018 23:43:40. The documentation was last updated on May 15 2023 15:51:23. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

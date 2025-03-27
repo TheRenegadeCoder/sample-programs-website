@@ -1,9 +1,11 @@
 ---
 authors:
-- GitHub Actions
+- awoerner92
+- Jeremy Grifski
+- Ron Zuckerman
 date: 2018-04-08
 featured-image: programming-languages.jpg
-last-modified: 2025-03-27
+last-modified: 2024-10-28
 layout: default
 tags:
 - scheme
@@ -24,7 +26,9 @@ Welcome to the Scheme page! Here, you'll find a description of the language as w
 
 This article was written by:
 
-- GitHub Actions
+- awoerner92
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

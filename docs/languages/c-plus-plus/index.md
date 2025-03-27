@@ -1,9 +1,9 @@
 ---
 authors:
-- GitHub Actions
+- Ron Zuckerman
 date: 2018-03-21
 featured-image: programming-languages.jpg
-last-modified: 2025-03-27
+last-modified: 2025-02-17
 layout: default
 tags:
 - c-plus-plus
@@ -24,7 +24,7 @@ Welcome to the C++ page! Here, you'll find a description of the language as well
 
 This article was written by:
 
-- GitHub Actions
+- Ron Zuckerman
 
 ## Description
 

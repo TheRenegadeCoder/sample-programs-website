@@ -1,7 +1,7 @@
 ---
-date: 2018-12-02
+date: 2018-12-01
 featured-image: selection-sort-in-every-language.jpg
-last-modified: 2025-03-27
+last-modified: 2024-10-13
 layout: default
 tags:
 - selection-sort
@@ -23,7 +23,9 @@ Welcome to the Selection Sort page! Here, you'll find a description of the proje
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- Parker Johansen
+- Ron Zuckerman
 
 ## Description
 

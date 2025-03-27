@@ -1,7 +1,7 @@
 ---
 date: 2018-12-02
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2025-03-27
+last-modified: 2024-10-08
 layout: default
 tags:
 - bubble-sort
@@ -23,7 +23,8 @@ Welcome to the Bubble Sort page! Here, you'll find a description of the project 
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

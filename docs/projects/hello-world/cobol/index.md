@@ -1,10 +1,12 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
 - Ron Zuckerman
-date: 2023-05-08
+- rzuckerm
+- Sudhanshu Dubey
+date: 2021-10-08
 featured-image: hello-world-in-cobol.jpg
-last-modified: 2025-03-27
+last-modified: 2023-05-15
 layout: default
 tags:
 - cobol
@@ -46,7 +48,9 @@ Hello World in [Cobol](https://sampleprograms.io/languages/cobol) was written by
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- rzuckerm
+- Sudhanshu Dubey
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

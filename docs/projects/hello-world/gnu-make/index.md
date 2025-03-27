@@ -1,10 +1,10 @@
 ---
 authors:
-- GitHub Actions
+- Ron Zuckerman
 - rzuckerm
 date: 2023-07-11
 featured-image: hello-world-in-gnu-make.jpg
-last-modified: 2025-03-27
+last-modified: 2023-07-29
 layout: default
 tags:
 - gnu-make
@@ -45,7 +45,8 @@ Hello World in [Gnu Make](https://sampleprograms.io/languages/gnu-make) was writ
 
 This article was written by:
 
-- GitHub Actions
+- Ron Zuckerman
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

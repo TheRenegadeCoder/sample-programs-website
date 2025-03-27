@@ -1,7 +1,7 @@
 ---
-date: 2022-05-13
+date: 2022-04-28
 featured-image: longest-word-in-every-language.jpg
-last-modified: 2025-03-27
+last-modified: 2025-03-26
 layout: default
 tags:
 - longest-word
@@ -23,7 +23,7 @@ Welcome to the Longest Word page! Here, you'll find a description of the project
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 ## Description
 

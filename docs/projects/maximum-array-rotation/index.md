@@ -1,7 +1,7 @@
 ---
 date: 2021-10-05
 featured-image: maximum-array-rotation-in-every-language.jpg
-last-modified: 2025-03-27
+last-modified: 2025-02-18
 layout: default
 tags:
 - maximum-array-rotation
@@ -23,7 +23,8 @@ Welcome to the Maximum Array Rotation page! Here, you'll find a description of t
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- rzuckerm
 
 ## Description
 

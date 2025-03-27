@@ -1,10 +1,12 @@
 ---
 authors:
 - ali-abdullah
-- GitHub Actions
+- Jeremy Grifski
+- rzuckerm
+- Stuart Irwin
 date: 2018-10-11
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2025-03-27
+last-modified: 2023-05-15
 layout: default
 tags:
 - fizz-buzz
@@ -50,7 +52,9 @@ Fizz Buzz in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- rzuckerm
+- Stuart Irwin
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

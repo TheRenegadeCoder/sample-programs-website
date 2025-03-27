@@ -1,7 +1,7 @@
 ---
 date: 2018-08-08
 featured-image: programming-languages.jpg
-last-modified: 2025-03-27
+last-modified: 2023-11-21
 layout: default
 tags:
 - erlang

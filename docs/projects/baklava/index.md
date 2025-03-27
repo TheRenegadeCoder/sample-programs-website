@@ -1,7 +1,7 @@
 ---
 date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2025-03-27
+last-modified: 2025-02-01
 layout: default
 tags:
 - baklava
@@ -23,7 +23,7 @@ Welcome to the Baklava page! Here, you'll find a description of the project as w
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
 
 ## Description
 

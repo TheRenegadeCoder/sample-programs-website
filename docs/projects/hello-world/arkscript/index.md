@@ -1,10 +1,10 @@
 ---
 authors:
-- GitHub Actions
+- Alexandre Plateau
 - SuperFola
 date: 2020-10-03
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2025-03-27
+last-modified: 2024-09-30
 layout: default
 tags:
 - arkscript
@@ -41,7 +41,7 @@ Hello World in [Arkscript](https://sampleprograms.io/languages/arkscript) was wr
 
 This article was written by:
 
-- GitHub Actions
+- Alexandre Plateau
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

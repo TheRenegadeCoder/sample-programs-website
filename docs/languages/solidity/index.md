@@ -1,9 +1,10 @@
 ---
 authors:
-- GitHub Actions
-date: 2023-12-16
+- Jeremy Grifski
+- Ron Zuckerman
+date: 2018-10-31
 featured-image: programming-languages.jpg
-last-modified: 2025-03-27
+last-modified: 2024-10-07
 layout: default
 tags:
 - solidity
@@ -24,7 +25,8 @@ Welcome to the Solidity page! Here, you'll find a description of the language as
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

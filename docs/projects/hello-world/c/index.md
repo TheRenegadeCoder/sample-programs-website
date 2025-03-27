@@ -1,11 +1,13 @@
 ---
 authors:
 - "Christoph B\xF6hmwalder"
-- GitHub Actions
 - Jeremy Griffith
+- Jeremy Grifski
+- Johnny Fang
+- rzuckerm
 date: 2018-03-15
 featured-image: hello-world-in-c.jpg
-last-modified: 2025-03-27
+last-modified: 2023-05-15
 layout: default
 tags:
 - c
@@ -50,7 +52,9 @@ Hello World in [C](https://sampleprograms.io/languages/c) was written by:
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- Johnny Fang
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

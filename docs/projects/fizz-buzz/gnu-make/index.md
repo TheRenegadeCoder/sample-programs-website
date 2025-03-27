@@ -1,10 +1,9 @@
 ---
 authors:
-- GitHub Actions
 - rzuckerm
 date: 2023-07-17
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2025-03-27
+last-modified: 2023-08-12
 layout: default
 tags:
 - fizz-buzz
@@ -102,7 +101,7 @@ Fizz Buzz in [Gnu Make](https://sampleprograms.io/languages/gnu-make) was writte
 
 This article was written by:
 
-- GitHub Actions
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

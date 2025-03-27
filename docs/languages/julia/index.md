@@ -1,9 +1,10 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 date: 2018-04-11
 featured-image: programming-languages.jpg
-last-modified: 2025-03-27
+last-modified: 2025-02-13
 layout: default
 tags:
 - julia
@@ -24,7 +25,8 @@ Welcome to the Julia page! Here, you'll find a description of the language as we
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

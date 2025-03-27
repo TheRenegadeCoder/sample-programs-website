@@ -1,10 +1,10 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
 - rzuckerm
-date: 2023-12-16
+date: 2022-04-28
 featured-image: hello-world-in-solidity.jpg
-last-modified: 2025-03-27
+last-modified: 2023-12-16
 layout: default
 tags:
 - hello-world
@@ -49,7 +49,8 @@ Hello World in [Solidity](https://sampleprograms.io/languages/solidity) was writ
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

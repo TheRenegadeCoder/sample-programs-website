@@ -1,9 +1,10 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 date: 2018-08-23
 featured-image: programming-languages.jpg
-last-modified: 2025-03-27
+last-modified: 2023-12-22
 layout: default
 tags:
 - brainfuck
@@ -24,7 +25,8 @@ Welcome to the Brainfuck page! Here, you'll find a description of the language a
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

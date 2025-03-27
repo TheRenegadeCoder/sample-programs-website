@@ -1,9 +1,10 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 date: 2018-04-10
 featured-image: programming-languages.jpg
-last-modified: 2025-03-27
+last-modified: 2023-10-23
 layout: default
 tags:
 - pascal
@@ -24,7 +25,8 @@ Welcome to the Pascal page! Here, you'll find a description of the language as w
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

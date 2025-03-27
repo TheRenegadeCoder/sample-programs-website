@@ -1,9 +1,10 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 date: 2018-08-28
 featured-image: programming-languages.jpg
-last-modified: 2025-03-27
+last-modified: 2025-02-17
 layout: default
 tags:
 - moonscript
@@ -24,7 +25,8 @@ Welcome to the Moonscript page! Here, you'll find a description of the language 
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

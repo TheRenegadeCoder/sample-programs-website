@@ -1,11 +1,12 @@
 ---
 authors:
-- GitHub Actions
+- Haseeb Majid
 - Jeremy Grifski
 - Parker Johansen
+- rzuckerm
 date: 2018-12-04
 featured-image: bubble-sort-in-python.jpg
-last-modified: 2025-03-27
+last-modified: 2023-05-15
 layout: default
 tags:
 - bubble-sort
@@ -81,7 +82,9 @@ Bubble Sort in [Python](https://sampleprograms.io/languages/python) was written 
 
 This article was written by:
 
-- GitHub Actions
+- Haseeb Majid
+- Jeremy Grifski
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

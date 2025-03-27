@@ -1,7 +1,7 @@
 ---
 date: 2019-10-07
 featured-image: sleep-sort-in-every-language.jpg
-last-modified: 2025-03-27
+last-modified: 2025-01-20
 layout: default
 tags:
 - sleep-sort
@@ -23,7 +23,8 @@ Welcome to the Sleep Sort page! Here, you'll find a description of the project a
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- rzuckerm
 
 ## Description
 

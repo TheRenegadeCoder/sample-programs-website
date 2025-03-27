@@ -1,7 +1,7 @@
 ---
 date: 2019-10-14
 featured-image: minimum-spanning-tree-in-every-language.jpg
-last-modified: 2025-03-27
+last-modified: 2025-02-17
 layout: default
 tags:
 - minimum-spanning-tree
@@ -23,7 +23,8 @@ Welcome to the Minimum Spanning Tree page! Here, you'll find a description of th
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- rzuckerm
 
 ## Description
 

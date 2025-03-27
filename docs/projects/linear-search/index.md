@@ -1,7 +1,7 @@
 ---
 date: 2019-10-17
 featured-image: linear-search-in-every-language.jpg
-last-modified: 2025-03-27
+last-modified: 2025-02-13
 layout: default
 tags:
 - linear-search
@@ -23,7 +23,8 @@ Welcome to the Linear Search page! Here, you'll find a description of the projec
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

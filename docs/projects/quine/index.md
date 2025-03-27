@@ -1,7 +1,7 @@
 ---
 date: 2018-08-07
 featured-image: quine-in-every-language.jpg
-last-modified: 2025-03-27
+last-modified: 2024-01-18
 layout: default
 tags:
 - quine
@@ -23,7 +23,8 @@ Welcome to the Quine page! Here, you'll find a description of the project as wel
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 

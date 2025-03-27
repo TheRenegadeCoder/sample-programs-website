@@ -1,9 +1,10 @@
 ---
 authors:
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 date: 2018-04-22
 featured-image: programming-languages.jpg
-last-modified: 2025-03-27
+last-modified: 2025-02-16
 layout: default
 tags:
 - crystal
@@ -24,7 +25,8 @@ Welcome to the Crystal page! Here, you'll find a description of the language as 
 
 This article was written by:
 
-- GitHub Actions
+- Jeremy Grifski
+- Ron Zuckerman
 
 ## Description
 
