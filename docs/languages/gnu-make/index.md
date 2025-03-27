@@ -1,9 +1,9 @@
 ---
 authors:
-- Jeremy Grifski
+- GitHub Actions
 date: 2023-07-11
 featured-image: programming-languages.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - gnu-make
@@ -24,7 +24,7 @@ Welcome to the Gnu Make page! Here, you'll find a description of the language as
 
 This article was written by:
 
-- Jeremy Grifski
+- GitHub Actions
 
 ## Description
 

@@ -1,9 +1,10 @@
 ---
 authors:
+- GitHub Actions
 - Jeremy Grifski
 date: 2018-04-27
 featured-image: hello-world-in-r.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - hello-world
@@ -41,7 +42,7 @@ Hello World in [R](https://sampleprograms.io/languages/r) was written by:
 
 This article was written by:
 
-- Jeremy Grifski
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

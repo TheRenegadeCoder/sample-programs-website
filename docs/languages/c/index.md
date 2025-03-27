@@ -1,9 +1,9 @@
 ---
 authors:
-- Jeremy Grifski
+- GitHub Actions
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - c
@@ -24,7 +24,7 @@ Welcome to the C page! Here, you'll find a description of the language as well a
 
 This article was written by:
 
-- Jeremy Grifski
+- GitHub Actions
 
 ## Description
 

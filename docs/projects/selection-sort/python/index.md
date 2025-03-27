@@ -1,10 +1,11 @@
 ---
 authors:
+- GitHub Actions
 - Jeremy Grifski
 - Parker Johansen
 date: 2018-12-23
 featured-image: selection-sort-in-every-language.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - python
@@ -76,7 +77,7 @@ Selection Sort in [Python](https://sampleprograms.io/languages/python) was writt
 
 This article was written by:
 
-- Jeremy Grifski
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

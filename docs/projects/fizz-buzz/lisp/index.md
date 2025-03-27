@@ -1,10 +1,10 @@
 ---
 authors:
-- Jeremy Grifski
+- GitHub Actions
 - Parker Johansen
 date: 2020-10-10
 featured-image: fizz-buzz-in-lisp.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - fizz-buzz
@@ -50,7 +50,7 @@ Fizz Buzz in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
 
 This article was written by:
 
-- Jeremy Grifski
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

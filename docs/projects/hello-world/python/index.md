@@ -1,10 +1,10 @@
 ---
 authors:
+- GitHub Actions
 - Jeremy Griffith
-- Jeremy Grifski
 date: 2018-03-15
 featured-image: hello-world-in-python.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - hello-world
@@ -42,7 +42,7 @@ Hello World in [Python](https://sampleprograms.io/languages/python) was written 
 
 This article was written by:
 
-- Jeremy Grifski
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -1,11 +1,11 @@
 ---
 authors:
-- Jeremy Grifski
+- GitHub Actions
 - Marius
 - Parker Johansen
 date: 2018-10-06
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - fibonacci
@@ -74,7 +74,7 @@ Fibonacci in [Python](https://sampleprograms.io/languages/python) was written by
 
 This article was written by:
 
-- Jeremy Grifski
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -1,10 +1,11 @@
 ---
 authors:
+- GitHub Actions
 - Jeremy Grifski
 - Softizo
 date: 2019-10-09
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - c
@@ -68,7 +69,7 @@ int main(int argc, char *argv[]) {
 
 This article was written by:
 
-- Jeremy Grifski
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

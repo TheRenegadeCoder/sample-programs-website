@@ -1,11 +1,11 @@
 ---
 authors:
 - "Christoph B\xF6hmwalder"
-- Jeremy Grifski
+- GitHub Actions
 - rzuckerm
 date: 2018-07-24
 featured-image: reverse-string-in-c.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - c
@@ -68,7 +68,7 @@ Reverse String in [C](https://sampleprograms.io/languages/c) was written by:
 
 This article was written by:
 
-- Jeremy Grifski
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

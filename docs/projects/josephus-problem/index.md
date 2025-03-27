@@ -1,7 +1,7 @@
 ---
 date: 2021-10-08
 featured-image: josephus-problem-in-every-language.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - josephus-problem
@@ -23,7 +23,7 @@ Welcome to the Josephus Problem page! Here, you'll find a description of the pro
 
 This article was written by:
 
-- Jeremy Grifski
+- GitHub Actions
 
 ## Description
 

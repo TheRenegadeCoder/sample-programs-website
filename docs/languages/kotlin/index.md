@@ -1,9 +1,9 @@
 ---
 authors:
-- Jeremy Grifski
+- GitHub Actions
 date: 2018-04-10
 featured-image: programming-languages.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - kotlin
@@ -24,7 +24,7 @@ Welcome to the Kotlin page! Here, you'll find a description of the language as w
 
 This article was written by:
 
-- Jeremy Grifski
+- GitHub Actions
 
 ## Description
 

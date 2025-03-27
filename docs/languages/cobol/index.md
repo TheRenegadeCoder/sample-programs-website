@@ -1,7 +1,7 @@
 ---
 date: 2021-10-09
 featured-image: programming-languages.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - cobol

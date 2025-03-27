@@ -1,10 +1,11 @@
 ---
 authors:
 - AaronLenoir
+- GitHub Actions
 - Jeremy Grifski
 date: 2018-05-04
 featured-image: hello-world-in-visual-basic.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - hello-world
@@ -47,7 +48,7 @@ Hello World in [Visual Basic](https://sampleprograms.io/languages/visual-basic) 
 
 This article was written by:
 
-- Jeremy Grifski
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

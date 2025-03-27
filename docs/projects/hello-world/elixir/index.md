@@ -1,9 +1,10 @@
 ---
 authors:
+- GitHub Actions
 - Jeremy Grifski
 date: 2019-10-15
 featured-image: hello-world-in-elixir.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - elixir
@@ -41,7 +42,7 @@ Hello World in [Elixir](https://sampleprograms.io/languages/elixir) was written 
 
 This article was written by:
 
-- Jeremy Grifski
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

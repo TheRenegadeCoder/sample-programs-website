@@ -1,7 +1,7 @@
 ---
 date: 2018-10-07
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - roman-numeral
@@ -23,7 +23,7 @@ Welcome to the Roman Numeral page! Here, you'll find a description of the projec
 
 This article was written by:
 
-- Jeremy Grifski
+- GitHub Actions
 
 ## Description
 

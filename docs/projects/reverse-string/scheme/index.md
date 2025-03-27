@@ -1,11 +1,12 @@
 ---
 authors:
 - Francisco Peters
+- GitHub Actions
 - Jeremy Grifski
 - rzuckerm
 date: 2018-05-07
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - reverse-string
@@ -50,7 +51,7 @@ Reverse String in [Scheme](https://sampleprograms.io/languages/scheme) was writt
 
 This article was written by:
 
-- Jeremy Grifski
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -1,10 +1,11 @@
 ---
 authors:
 - Abdus
+- GitHub Actions
 - Jeremy Grifski
 date: 2018-05-09
 featured-image: hello-world-in-bash.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - bash
@@ -45,7 +46,7 @@ Hello World in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
 This article was written by:
 
-- Jeremy Grifski
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

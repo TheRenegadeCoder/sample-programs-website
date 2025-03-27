@@ -1,11 +1,12 @@
 ---
 authors:
 - Blake.Ke
+- GitHub Actions
 - Isaac Anohene
 - Jeremy Grifski
 date: 2020-10-08
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - kotlin
@@ -76,7 +77,7 @@ Palindromic Number in [Kotlin](https://sampleprograms.io/languages/kotlin) was w
 
 This article was written by:
 
-- Jeremy Grifski
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

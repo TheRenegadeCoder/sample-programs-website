@@ -1,12 +1,13 @@
 ---
 authors:
+- GitHub Actions
 - Jeremy Grifski
 - Parker Johansen
 - prateeksharma21
 - Vikram Rayavarapu
 date: 2018-10-07
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - python
@@ -114,7 +115,7 @@ Roman Numeral in [Python](https://sampleprograms.io/languages/python) was writte
 
 This article was written by:
 
-- Jeremy Grifski
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

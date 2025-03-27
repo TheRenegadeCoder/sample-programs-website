@@ -1,7 +1,7 @@
 ---
 date: 2018-10-16
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - longest-common-subsequence
@@ -23,7 +23,7 @@ Welcome to the Longest Common Subsequence page! Here, you'll find a description 
 
 This article was written by:
 
-- Jeremy Grifski
+- GitHub Actions
 
 ## Description
 

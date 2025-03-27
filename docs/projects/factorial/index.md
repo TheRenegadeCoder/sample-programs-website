@@ -1,7 +1,7 @@
 ---
 date: 2018-10-26
 featured-image: factorial-in-every-language.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - factorial
@@ -23,7 +23,7 @@ Welcome to the Factorial page! Here, you'll find a description of the project as
 
 This article was written by:
 
-- Jeremy Grifski
+- GitHub Actions
 
 ## Description
 

@@ -1,11 +1,11 @@
 ---
 authors:
-- Jeremy Grifski
+- GitHub Actions
 - Nico Villanueva
 - rzuckerm
 date: 2018-07-16
 featured-image: hello-world-in-opa.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - hello-world
@@ -51,7 +51,7 @@ Hello World in [Opa](https://sampleprograms.io/languages/opa) was written by:
 
 This article was written by:
 
-- Jeremy Grifski
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -1,10 +1,10 @@
 ---
 authors:
-- Jeremy Grifski
+- GitHub Actions
 - Stuart Irwin
 date: 2020-10-17
 featured-image: hello-world-in-befunge.jpg
-last-modified: 2025-03-26
+last-modified: 2025-03-27
 layout: default
 tags:
 - befunge
@@ -45,7 +45,7 @@ Hello World in [Befunge](https://sampleprograms.io/languages/befunge) was writte
 
 This article was written by:
 
-- Jeremy Grifski
+- GitHub Actions
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
