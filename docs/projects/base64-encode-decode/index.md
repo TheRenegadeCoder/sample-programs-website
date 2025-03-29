@@ -1,7 +1,7 @@
 ---
 date: 2025-03-25
 featured-image: base64-encode-decode-in-every-language.png
-last-modified: 2025-03-25
+last-modified: 2025-03-28
 layout: default
 tags:
 - base64-encode-decode
@@ -322,8 +322,9 @@ Usage: please provide a mode and a string to encode/decode
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Base64 Encode Decode in Algol68](https://sampleprograms.io/projects/base64-encode-decode/algol68)
 - [Base64 Encode Decode in Python](https://sampleprograms.io/projects/base64-encode-decode/python)
 
 ***
