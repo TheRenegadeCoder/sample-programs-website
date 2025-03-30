@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-09-13
 featured-image: programming-languages.jpg
-last-modified: 2024-01-22
+last-modified: 2025-03-30
 layout: default
 tags:
 - commodore-basic
@@ -245,9 +245,10 @@ cbmbasic hello-world.bas
 
 ## Articles
 
-There are 37 articles:
+There are 38 articles:
 
 - [Baklava in Commodore Basic](https://sampleprograms.io/projects/baklava/commodore-basic)
+- [Base64 Encode Decode in Commodore Basic](https://sampleprograms.io/projects/base64-encode-decode/commodore-basic)
 - [Binary Search in Commodore Basic](https://sampleprograms.io/projects/binary-search/commodore-basic)
 - [Bubble Sort in Commodore Basic](https://sampleprograms.io/projects/bubble-sort/commodore-basic)
 - [Capitalize in Commodore Basic](https://sampleprograms.io/projects/capitalize/commodore-basic)
