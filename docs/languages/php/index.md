@@ -1,7 +1,7 @@
 ---
 date: 2018-03-31
 featured-image: programming-languages.jpg
-last-modified: 2023-03-27
+last-modified: 2025-03-30
 layout: default
 tags:
 - php
@@ -26,9 +26,10 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 37 articles:
+There are 38 articles:
 
 - [Baklava in Php](https://sampleprograms.io/projects/baklava/php)
+- [Base64 Encode Decode in Php](https://sampleprograms.io/projects/base64-encode-decode/php)
 - [Binary Search in Php](https://sampleprograms.io/projects/binary-search/php)
 - [Bubble Sort in Php](https://sampleprograms.io/projects/bubble-sort/php)
 - [Capitalize in Php](https://sampleprograms.io/projects/capitalize/php)
