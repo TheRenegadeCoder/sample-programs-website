@@ -1,7 +1,7 @@
 ---
 date: 2018-03-25
 featured-image: programming-languages.jpg
-last-modified: 2025-02-18
+last-modified: 2025-03-29
 layout: default
 tags:
 - go
@@ -26,9 +26,10 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 32 articles:
+There are 33 articles:
 
 - [Baklava in Go](https://sampleprograms.io/projects/baklava/go)
+- [Base64 Encode Decode in Go](https://sampleprograms.io/projects/base64-encode-decode/go)
 - [Binary Search in Go](https://sampleprograms.io/projects/binary-search/go)
 - [Bubble Sort in Go](https://sampleprograms.io/projects/bubble-sort/go)
 - [Capitalize in Go](https://sampleprograms.io/projects/capitalize/go)

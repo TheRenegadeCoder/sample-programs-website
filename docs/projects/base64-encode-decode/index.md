@@ -322,9 +322,10 @@ Usage: please provide a mode and a string to encode/decode
 
 ## Articles
 
-There are 3 articles:
+There are 4 articles:
 
 - [Base64 Encode Decode in Algol68](https://sampleprograms.io/projects/base64-encode-decode/algol68)
+- [Base64 Encode Decode in Go](https://sampleprograms.io/projects/base64-encode-decode/go)
 - [Base64 Encode Decode in Python](https://sampleprograms.io/projects/base64-encode-decode/python)
 - [Base64 Encode Decode in Zig](https://sampleprograms.io/projects/base64-encode-decode/zig)
 
