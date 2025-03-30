@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1124 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1126 code snippets.
 
 ## Language Collections by Letter
 
@@ -56,13 +56,13 @@ The 'A' collection contains 4 languages, of which 4 are tested, and 46 code snip
 
 ### B
 
-The 'B' collection contains 9 languages, of which 9 are tested, and 76 code snippets.
+The 'B' collection contains 9 languages, of which 9 are tested, and 77 code snippets.
 
 - [Baik](https://sampleprograms.io/languages/baik) (2 code snippets)
 - [Ballerina](https://sampleprograms.io/languages/ballerina) (3 code snippets)
 - [Bash](https://sampleprograms.io/languages/bash) (14 code snippets)
 - [Batch](https://sampleprograms.io/languages/batch) (3 code snippets)
-- [Beef](https://sampleprograms.io/languages/beef) (37 code snippets)
+- [Beef](https://sampleprograms.io/languages/beef) (38 code snippets)
 - [Befunge](https://sampleprograms.io/languages/befunge) (4 code snippets)
 - [Boo](https://sampleprograms.io/languages/boo) (3 code snippets)
 - [Bracmat](https://sampleprograms.io/languages/bracmat) (2 code snippets)
@@ -106,7 +106,7 @@ The 'D' collection contains 6 languages, of which 6 are tested, and 28 code snip
 
 ### E
 
-The 'E' collection contains 9 languages, of which 9 are tested, and 76 code snippets.
+The 'E' collection contains 9 languages, of which 9 are tested, and 77 code snippets.
 
 - [Egison](https://sampleprograms.io/languages/egison) (2 code snippets)
 - [Eiffel](https://sampleprograms.io/languages/eiffel) (3 code snippets)
@@ -116,7 +116,7 @@ The 'E' collection contains 9 languages, of which 9 are tested, and 76 code snip
 - [Emojicode](https://sampleprograms.io/languages/emojicode) (2 code snippets)
 - [Erlang](https://sampleprograms.io/languages/erlang) (6 code snippets)
 - [Eta](https://sampleprograms.io/languages/eta) (2 code snippets)
-- [Euphoria](https://sampleprograms.io/languages/euphoria) (37 code snippets)
+- [Euphoria](https://sampleprograms.io/languages/euphoria) (38 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 
