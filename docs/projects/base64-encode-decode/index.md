@@ -1,7 +1,7 @@
 ---
 date: 2025-03-25
 featured-image: base64-encode-decode-in-every-language.png
-last-modified: 2025-03-30
+last-modified: 2025-03-31
 layout: default
 tags:
 - base64-encode-decode
@@ -322,7 +322,7 @@ Usage: please provide a mode and a string to encode/decode
 
 ## Articles
 
-There are 8 articles:
+There are 9 articles:
 
 - [Base64 Encode Decode in Algol68](https://sampleprograms.io/projects/base64-encode-decode/algol68)
 - [Base64 Encode Decode in Beef](https://sampleprograms.io/projects/base64-encode-decode/beef)
@@ -331,6 +331,7 @@ There are 8 articles:
 - [Base64 Encode Decode in Go](https://sampleprograms.io/projects/base64-encode-decode/go)
 - [Base64 Encode Decode in Php](https://sampleprograms.io/projects/base64-encode-decode/php)
 - [Base64 Encode Decode in Python](https://sampleprograms.io/projects/base64-encode-decode/python)
+- [Base64 Encode Decode in Rust](https://sampleprograms.io/projects/base64-encode-decode/rust)
 - [Base64 Encode Decode in Zig](https://sampleprograms.io/projects/base64-encode-decode/zig)
 
 ***
