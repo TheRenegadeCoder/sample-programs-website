@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
 - [Baklava in Awk](https://sampleprograms.io/projects/baklava/awk)
+- [Capitalize in Awk](https://sampleprograms.io/projects/capitalize/awk)
 - [Hello World in Awk](https://sampleprograms.io/projects/hello-world/awk)
