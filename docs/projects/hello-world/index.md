@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2025-01-30
+last-modified: 2025-04-06
 layout: default
 tags:
 - hello-world
@@ -47,12 +47,13 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 154 articles:
+There are 155 articles:
 
 - [Hello World in Ada](https://sampleprograms.io/projects/hello-world/ada)
 - [Hello World in Agda](https://sampleprograms.io/projects/hello-world/agda)
 - [Hello World in Algol68](https://sampleprograms.io/projects/hello-world/algol68)
 - [Hello World in Arkscript](https://sampleprograms.io/projects/hello-world/arkscript)
+- [Hello World in Awk](https://sampleprograms.io/projects/hello-world/awk)
 - [Hello World in Baik](https://sampleprograms.io/projects/hello-world/baik)
 - [Hello World in Ballerina](https://sampleprograms.io/projects/hello-world/ballerina)
 - [Hello World in Bash](https://sampleprograms.io/projects/hello-world/bash)

@@ -1,7 +1,7 @@
 ---
 date: 2025-03-25
 featured-image: base64-encode-decode-in-every-language.png
-last-modified: 2025-04-01
+last-modified: 2025-04-06
 layout: default
 tags:
 - base64-encode-decode
@@ -322,9 +322,10 @@ Usage: please provide a mode and a string to encode/decode
 
 ## Articles
 
-There are 9 articles:
+There are 10 articles:
 
 - [Base64 Encode Decode in Algol68](https://sampleprograms.io/projects/base64-encode-decode/algol68)
+- [Base64 Encode Decode in Bash](https://sampleprograms.io/projects/base64-encode-decode/bash)
 - [Base64 Encode Decode in Beef](https://sampleprograms.io/projects/base64-encode-decode/beef)
 - [Base64 Encode Decode in Commodore Basic](https://sampleprograms.io/projects/base64-encode-decode/commodore-basic)
 - [Base64 Encode Decode in Euphoria](https://sampleprograms.io/projects/base64-encode-decode/euphoria)

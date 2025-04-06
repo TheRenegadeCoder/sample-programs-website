@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-05-09
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2025-04-06
 layout: default
 tags:
 - bash
@@ -52,9 +52,10 @@ builds.
 
 ## Articles
 
-There are 14 articles:
+There are 15 articles:
 
 - [Baklava in Bash](https://sampleprograms.io/projects/baklava/bash)
+- [Base64 Encode Decode in Bash](https://sampleprograms.io/projects/base64-encode-decode/bash)
 - [Bubble Sort in Bash](https://sampleprograms.io/projects/bubble-sort/bash)
 - [Capitalize in Bash](https://sampleprograms.io/projects/capitalize/bash)
 - [Even Odd in Bash](https://sampleprograms.io/projects/even-odd/bash)
