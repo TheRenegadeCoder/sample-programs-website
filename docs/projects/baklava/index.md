@@ -1,7 +1,7 @@
 ---
 date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2025-02-01
+last-modified: 2025-04-06
 layout: default
 tags:
 - baklava
@@ -79,12 +79,13 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 154 articles:
+There are 155 articles:
 
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
 - [Baklava in Agda](https://sampleprograms.io/projects/baklava/agda)
 - [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
 - [Baklava in Arkscript](https://sampleprograms.io/projects/baklava/arkscript)
+- [Baklava in Awk](https://sampleprograms.io/projects/baklava/awk)
 - [Baklava in Baik](https://sampleprograms.io/projects/baklava/baik)
 - [Baklava in Ballerina](https://sampleprograms.io/projects/baklava/ballerina)
 - [Baklava in Bash](https://sampleprograms.io/projects/baklava/bash)
