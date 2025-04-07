@@ -1,7 +1,7 @@
 ---
 date: 2019-10-17
 featured-image: linear-search-in-every-language.jpg
-last-modified: 2025-02-13
+last-modified: 2025-04-07
 layout: default
 tags:
 - linear-search
@@ -127,9 +127,10 @@ Usage: please provide a list of integers ("1, 4, 5, 11, 12") and the integer to 
 
 ## Articles
 
-There are 18 articles:
+There are 19 articles:
 
 - [Linear Search in Algol68](https://sampleprograms.io/projects/linear-search/algol68)
+- [Linear Search in Awk](https://sampleprograms.io/projects/linear-search/awk)
 - [Linear Search in Beef](https://sampleprograms.io/projects/linear-search/beef)
 - [Linear Search in C](https://sampleprograms.io/projects/linear-search/c)
 - [Linear Search in C#](https://sampleprograms.io/projects/linear-search/c-sharp)
