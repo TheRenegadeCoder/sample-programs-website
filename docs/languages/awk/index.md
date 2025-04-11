@@ -1,7 +1,7 @@
 ---
 date: 2025-04-06
 featured-image: programming-languages.jpg
-last-modified: 2025-04-07
+last-modified: 2025-04-10
 layout: default
 tags:
 - awk
@@ -26,10 +26,11 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 13 articles:
+There are 14 articles:
 
 - [Baklava in Awk](https://sampleprograms.io/projects/baklava/awk)
 - [Capitalize in Awk](https://sampleprograms.io/projects/capitalize/awk)
+- [Depth First Search in Awk](https://sampleprograms.io/projects/depth-first-search/awk)
 - [Duplicate Character Counter in Awk](https://sampleprograms.io/projects/duplicate-character-counter/awk)
 - [Even Odd in Awk](https://sampleprograms.io/projects/even-odd/awk)
 - [File Input Output in Awk](https://sampleprograms.io/projects/file-input-output/awk)
