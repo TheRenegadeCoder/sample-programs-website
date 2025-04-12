@@ -1,9 +1,9 @@
 ---
 authors:
-- Stuart Irwin
-date: 2020-10-17
+- rzuckerm
+date: 2025-04-12
 featured-image: quine-in-every-language.jpg
-last-modified: 2020-10-17
+last-modified: 2025-04-12
 layout: default
 tags:
 - befunge
@@ -29,15 +29,14 @@ Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Befunge](ht
 {% raw %}
 
 ```befunge
-<Quine>:#,_$$98+2*00$$,#00@#"
-
+:0g,:66+`#@_1+
 ```
 
 {% endraw %}
 
 Quine in [Befunge](https://sampleprograms.io/languages/befunge) was written by:
 
-- Stuart Irwin
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
