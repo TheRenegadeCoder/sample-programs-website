@@ -1,7 +1,7 @@
 According to [Wikipedia][1], Whitespace is an esoteric language developed by
 Edwin Brady and Chris Morris in 2002 at the University of Durham. According to
-the [Esolang Wiki][4], a post to Slashdot was done on April 1, 2003. Most
-people assumed it was a joke. However, it was not.
+the [Esolang Wiki][4], a post to Slashdot about the language was done on April
+1, 2003. Most people assumed it was a joke. However, it was not.
 
 Unlike other languages where whitespace characters are either ignored
 or used as a separator between tokens, Whitespace uses these characters as
@@ -58,3 +58,4 @@ you can use a [Whitespace assembler][3] instead.
 [1]: https://en.wikipedia.org/wiki/Whitespace_(programming_language)
 [2]: https://web.archive.org/web/20150618184706/http://compsoc.dur.ac.uk/whitespace/tutorial.php
 [3]: https://github.com/rzuckerm/whitespace-asm
+[4]: https://esolangs.org/wiki/Whitespace
