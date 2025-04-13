@@ -13,7 +13,7 @@ instructions. All instructions are made up of 3 whitespace characters:
 
 Everything else is ignored, so non-whitespace characters can be used
 as comments or to annotate the program. A common practice is to add a letter
-indicating the whitespace character before the whitespace character:
+indicating the whitespace character before that character:
 
 - `S` for space
 - `T` for tab
