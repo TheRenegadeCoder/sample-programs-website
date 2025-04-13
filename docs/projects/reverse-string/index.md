@@ -1,7 +1,7 @@
 ---
 date: 2018-04-12
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2025-02-17
+last-modified: 2025-04-07
 layout: default
 tags:
 - reverse-string
@@ -70,9 +70,10 @@ In this section, we specify the set of tests specific to Reverse String.
 
 ## Articles
 
-There are 52 articles:
+There are 53 articles:
 
 - [Reverse String in Algol68](https://sampleprograms.io/projects/reverse-string/algol68)
+- [Reverse String in Awk](https://sampleprograms.io/projects/reverse-string/awk)
 - [Reverse String in Bash](https://sampleprograms.io/projects/reverse-string/bash)
 - [Reverse String in Beef](https://sampleprograms.io/projects/reverse-string/beef)
 - [Reverse String in Brainfuck](https://sampleprograms.io/projects/reverse-string/brainfuck)

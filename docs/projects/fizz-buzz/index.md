@@ -1,7 +1,7 @@
 ---
 date: 2018-07-27
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2025-02-17
+last-modified: 2025-04-07
 layout: default
 tags:
 - fizz-buzz
@@ -76,11 +76,12 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 84 articles:
+There are 85 articles:
 
 - [Fizz Buzz in Ada](https://sampleprograms.io/projects/fizz-buzz/ada)
 - [Fizz Buzz in Algol68](https://sampleprograms.io/projects/fizz-buzz/algol68)
 - [Fizz Buzz in Arkscript](https://sampleprograms.io/projects/fizz-buzz/arkscript)
+- [Fizz Buzz in Awk](https://sampleprograms.io/projects/fizz-buzz/awk)
 - [Fizz Buzz in Ballerina](https://sampleprograms.io/projects/fizz-buzz/ballerina)
 - [Fizz Buzz in Bash](https://sampleprograms.io/projects/fizz-buzz/bash)
 - [Fizz Buzz in Batch](https://sampleprograms.io/projects/fizz-buzz/batch)

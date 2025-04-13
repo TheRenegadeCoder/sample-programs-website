@@ -3,7 +3,7 @@ authors:
 - Jeremy Grifski
 date: 2018-05-06
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2025-03-28
 layout: default
 tags:
 - algol68
@@ -50,9 +50,10 @@ for the full syntax and features list.
 
 ## Articles
 
-There are 37 articles:
+There are 38 articles:
 
 - [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
+- [Base64 Encode Decode in Algol68](https://sampleprograms.io/projects/base64-encode-decode/algol68)
 - [Binary Search in Algol68](https://sampleprograms.io/projects/binary-search/algol68)
 - [Bubble Sort in Algol68](https://sampleprograms.io/projects/bubble-sort/algol68)
 - [Capitalize in Algol68](https://sampleprograms.io/projects/capitalize/algol68)

@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-03-26
+last-modified: 2025-04-12
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 154 languages, of which 153 are tested, 1 is untestable, and 1120 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 155 languages, of which 154 are tested, 1 is untestable, and 1144 code snippets.
 
 ## Language Collections by Letter
 
@@ -45,24 +45,25 @@ To return here, just click the &laquo; [Return to Top](#language-collections-by-
 
 ### A
 
-The 'A' collection contains 4 languages, of which 4 are tested, and 45 code snippets.
+The 'A' collection contains 5 languages, of which 5 are tested, and 60 code snippets.
 
 - [Ada](https://sampleprograms.io/languages/ada) (3 code snippets)
 - [Agda](https://sampleprograms.io/languages/agda) (2 code snippets)
-- [Algol68](https://sampleprograms.io/languages/algol68) (37 code snippets)
+- [Algol68](https://sampleprograms.io/languages/algol68) (38 code snippets)
 - [Arkscript](https://sampleprograms.io/languages/arkscript) (3 code snippets)
+- [Awk](https://sampleprograms.io/languages/awk) (14 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 
 ### B
 
-The 'B' collection contains 9 languages, of which 9 are tested, and 76 code snippets.
+The 'B' collection contains 9 languages, of which 9 are tested, and 78 code snippets.
 
 - [Baik](https://sampleprograms.io/languages/baik) (2 code snippets)
 - [Ballerina](https://sampleprograms.io/languages/ballerina) (3 code snippets)
-- [Bash](https://sampleprograms.io/languages/bash) (14 code snippets)
+- [Bash](https://sampleprograms.io/languages/bash) (15 code snippets)
 - [Batch](https://sampleprograms.io/languages/batch) (3 code snippets)
-- [Beef](https://sampleprograms.io/languages/beef) (37 code snippets)
+- [Beef](https://sampleprograms.io/languages/beef) (38 code snippets)
 - [Befunge](https://sampleprograms.io/languages/befunge) (4 code snippets)
 - [Boo](https://sampleprograms.io/languages/boo) (3 code snippets)
 - [Bracmat](https://sampleprograms.io/languages/bracmat) (2 code snippets)
@@ -72,7 +73,7 @@ The 'B' collection contains 9 languages, of which 9 are tested, and 76 code snip
 
 ### C
 
-The 'C' collection contains 14 languages, of which 14 are tested, and 168 code snippets.
+The 'C' collection contains 14 languages, of which 14 are tested, and 169 code snippets.
 
 - [C](https://sampleprograms.io/languages/c) (37 code snippets)
 - [C#](https://sampleprograms.io/languages/c-sharp) (30 code snippets)
@@ -85,7 +86,7 @@ The 'C' collection contains 14 languages, of which 14 are tested, and 168 code s
 - [Clojure](https://sampleprograms.io/languages/clojure) (6 code snippets)
 - [Cobol](https://sampleprograms.io/languages/cobol) (6 code snippets)
 - [Coffeescript](https://sampleprograms.io/languages/coffeescript) (7 code snippets)
-- [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) (37 code snippets)
+- [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) (38 code snippets)
 - [Crystal](https://sampleprograms.io/languages/crystal) (4 code snippets)
 - [Cyclone](https://sampleprograms.io/languages/cyclone) (2 code snippets)
 
@@ -106,7 +107,7 @@ The 'D' collection contains 6 languages, of which 6 are tested, and 28 code snip
 
 ### E
 
-The 'E' collection contains 9 languages, of which 9 are tested, and 76 code snippets.
+The 'E' collection contains 9 languages, of which 9 are tested, and 77 code snippets.
 
 - [Egison](https://sampleprograms.io/languages/egison) (2 code snippets)
 - [Eiffel](https://sampleprograms.io/languages/eiffel) (3 code snippets)
@@ -116,7 +117,7 @@ The 'E' collection contains 9 languages, of which 9 are tested, and 76 code snip
 - [Emojicode](https://sampleprograms.io/languages/emojicode) (2 code snippets)
 - [Erlang](https://sampleprograms.io/languages/erlang) (6 code snippets)
 - [Eta](https://sampleprograms.io/languages/eta) (2 code snippets)
-- [Euphoria](https://sampleprograms.io/languages/euphoria) (37 code snippets)
+- [Euphoria](https://sampleprograms.io/languages/euphoria) (38 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 
@@ -141,12 +142,12 @@ The 'F' collection contains 12 languages, of which 12 are tested, and 35 code sn
 
 ### G
 
-The 'G' collection contains 11 languages, of which 11 are tested, and 64 code snippets.
+The 'G' collection contains 11 languages, of which 11 are tested, and 65 code snippets.
 
 - [Gerbil](https://sampleprograms.io/languages/gerbil) (2 code snippets)
 - [Gluon](https://sampleprograms.io/languages/gluon) (2 code snippets)
 - [Gnu Make](https://sampleprograms.io/languages/gnu-make) (6 code snippets)
-- [Go](https://sampleprograms.io/languages/go) (32 code snippets)
+- [Go](https://sampleprograms.io/languages/go) (33 code snippets)
 - [Goby](https://sampleprograms.io/languages/goby) (2 code snippets)
 - [Golo](https://sampleprograms.io/languages/golo) (2 code snippets)
 - [Gosu](https://sampleprograms.io/languages/gosu) (2 code snippets)
@@ -253,12 +254,12 @@ The 'O' collection contains 7 languages, of which 7 are tested, and 42 code snip
 
 ### P
 
-The 'P' collection contains 14 languages, of which 14 are tested, and 134 code snippets.
+The 'P' collection contains 14 languages, of which 14 are tested, and 135 code snippets.
 
 - [Pascal](https://sampleprograms.io/languages/pascal) (10 code snippets)
 - [Perl](https://sampleprograms.io/languages/perl) (20 code snippets)
 - [Phix](https://sampleprograms.io/languages/phix) (2 code snippets)
-- [Php](https://sampleprograms.io/languages/php) (37 code snippets)
+- [Php](https://sampleprograms.io/languages/php) (38 code snippets)
 - [Picolisp](https://sampleprograms.io/languages/picolisp) (3 code snippets)
 - [Piet](https://sampleprograms.io/languages/piet) (2 code snippets)
 - [Pineapple](https://sampleprograms.io/languages/pineapple) (3 code snippets)
@@ -282,7 +283,7 @@ The 'Q' collection contains 1 language, of which 1 is tested, and 2 code snippet
 
 ### R
 
-The 'R' collection contains 8 languages, of which 8 are tested, and 83 code snippets.
+The 'R' collection contains 8 languages, of which 8 are tested, and 84 code snippets.
 
 - [R](https://sampleprograms.io/languages/r) (10 code snippets)
 - [Racket](https://sampleprograms.io/languages/racket) (4 code snippets)
@@ -291,16 +292,16 @@ The 'R' collection contains 8 languages, of which 8 are tested, and 83 code snip
 - [Rexx](https://sampleprograms.io/languages/rexx) (5 code snippets)
 - [Ring](https://sampleprograms.io/languages/ring) (2 code snippets)
 - [Ruby](https://sampleprograms.io/languages/ruby) (19 code snippets)
-- [Rust](https://sampleprograms.io/languages/rust) (37 code snippets)
+- [Rust](https://sampleprograms.io/languages/rust) (38 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 
 ### S
 
-The 'S' collection contains 10 languages, of which 10 are tested, and 40 code snippets.
+The 'S' collection contains 10 languages, of which 10 are tested, and 41 code snippets.
 
 - [Sather](https://sampleprograms.io/languages/sather) (2 code snippets)
-- [Scala](https://sampleprograms.io/languages/scala) (11 code snippets)
+- [Scala](https://sampleprograms.io/languages/scala) (12 code snippets)
 - [Scheme](https://sampleprograms.io/languages/scheme) (3 code snippets)
 - [Scilab](https://sampleprograms.io/languages/scilab) (2 code snippets)
 - [Shen](https://sampleprograms.io/languages/shen) (2 code snippets)
@@ -373,8 +374,8 @@ The 'Y' collection contains 1 language, of which 1 is tested, and 2 code snippet
 
 ### Z
 
-The 'Z' collection contains 1 language, of which 1 is tested, and 3 code snippets.
+The 'Z' collection contains 1 language, of which 1 is tested, and 4 code snippets.
 
-- [Zig](https://sampleprograms.io/languages/zig) (3 code snippets)
+- [Zig](https://sampleprograms.io/languages/zig) (4 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;

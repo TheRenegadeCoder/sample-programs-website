@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-02-14
 featured-image: programming-languages.jpg
-last-modified: 2023-03-27
+last-modified: 2025-03-30
 layout: default
 tags:
 - euphoria
@@ -127,9 +127,10 @@ If you'd like more information about this language, please see the
 
 ## Articles
 
-There are 37 articles:
+There are 38 articles:
 
 - [Baklava in Euphoria](https://sampleprograms.io/projects/baklava/euphoria)
+- [Base64 Encode Decode in Euphoria](https://sampleprograms.io/projects/base64-encode-decode/euphoria)
 - [Binary Search in Euphoria](https://sampleprograms.io/projects/binary-search/euphoria)
 - [Bubble Sort in Euphoria](https://sampleprograms.io/projects/bubble-sort/euphoria)
 - [Capitalize in Euphoria](https://sampleprograms.io/projects/capitalize/euphoria)

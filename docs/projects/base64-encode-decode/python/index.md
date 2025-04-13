@@ -1,9 +1,10 @@
 ---
 authors:
+- rzuckerm
 - Zia
 date: 2025-03-25
 featured-image: base64-encode-decode-in-every-language.png
-last-modified: 2025-03-25
+last-modified: 2025-04-01
 layout: default
 tags:
 - base64-encode-decode
@@ -45,7 +46,7 @@ def base64_encode(s: str) -> str:
 
 
 def base64_decode(s: str) -> str:
-    return base64.b64decode(s.encode("ascii")).decode("ascii")
+    return base64.b64decode(s.encode("ascii"), validate=True).decode("ascii")
 
 
 def main() -> None | NoReturn:
@@ -76,6 +77,7 @@ if __name__ == "__main__":
 
 Base64 Encode Decode in [Python](https://sampleprograms.io/languages/python) was written by:
 
+- rzuckerm
 - Zia
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).

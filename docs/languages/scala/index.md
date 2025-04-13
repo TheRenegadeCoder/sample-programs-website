@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-10
 featured-image: programming-languages.jpg
-last-modified: 2024-10-02
+last-modified: 2025-04-06
 layout: default
 tags:
 - scala
@@ -75,7 +75,7 @@ yet to implement Hello World in Scala.
 
 ## Articles
 
-There are 11 articles:
+There are 12 articles:
 
 - [Baklava in Scala](https://sampleprograms.io/projects/baklava/scala)
 - [Bubble Sort in Scala](https://sampleprograms.io/projects/bubble-sort/scala)
@@ -88,3 +88,4 @@ There are 11 articles:
 - [Hello World in Scala](https://sampleprograms.io/projects/hello-world/scala)
 - [Quick Sort in Scala](https://sampleprograms.io/projects/quick-sort/scala)
 - [Reverse String in Scala](https://sampleprograms.io/projects/reverse-string/scala)
+- [Sleep Sort in Scala](https://sampleprograms.io/projects/sleep-sort/scala)
