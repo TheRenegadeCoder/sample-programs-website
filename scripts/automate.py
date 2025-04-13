@@ -907,7 +907,8 @@ def _generate_language_images(repo: subete.Repo, temp_dir: str, status_code: int
     for language in repo:
         language_path = language.pathlike_name()
         status_code = _generate_image(
-            temp_dir, f"sources/{language_path}", language_path, status_code
+            temp_dir, f"sources/languages/{language_path}",
+            f"the-{language_path}-programming-language", status_code
         )
 
     return status_code
