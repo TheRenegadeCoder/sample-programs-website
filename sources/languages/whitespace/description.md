@@ -1,6 +1,6 @@
 According to [Wikipedia][1], Whitespace is an esoteric language developed by
 Edwin Brady and Chris Morris in 2002 at the University of Durham. Slashdot
-published a review on April 1, 2003. most people assumed it was a joke.
+published a review on April 1, 2003. Most people assumed it was a joke.
 However, it was not.
 
 Unlike other languages where whitespace characters are either ignored
@@ -47,7 +47,7 @@ Numbers are of arbitrary precision and are represented like this:
 
 For example, `100` (`110 0100`) would be represented as this:
 
-| sign  | 1     | 1     | 0     | 0     | 1     | 1     | 0     | term     |
+| sign  | 1     | 1     | 0     | 0     | 1     | 0     | 0     | term     |
 | ----  | :---: | :---: | :---: | :---: | :---: | :---: | :---: | -------- |
 | space | tab   | tab   | space | space | tab   | space | space | linefeed |
 
