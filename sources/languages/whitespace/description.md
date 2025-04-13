@@ -1,7 +1,7 @@
 According to [Wikipedia][1], Whitespace is an esoteric language developed by
-Edwin Brady and Chris Morris in 2002 at the University of Durham. Slashdot
-published a review on April 1, 2003. Most people assumed it was a joke.
-However, it was not.
+Edwin Brady and Chris Morris in 2002 at the University of Durham. According to
+the [Esolang Wiki][4], a post to Slashdot was done on April 1, 2003. Most
+people assumed it was a joke. However, it was not.
 
 Unlike other languages where whitespace characters are either ignored
 or used as a separator between tokens, Whitespace uses these characters as
