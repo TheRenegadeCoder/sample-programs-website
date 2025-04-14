@@ -1,7 +1,7 @@
 ---
 date: 2022-04-28
 featured-image: longest-word-in-every-language.jpg
-last-modified: 2025-03-26
+last-modified: 2025-04-14
 layout: default
 tags:
 - longest-word
@@ -98,9 +98,10 @@ Usage: please provide a string
 
 ## Articles
 
-There are 26 articles:
+There are 27 articles:
 
 - [Longest Word in Algol68](https://sampleprograms.io/projects/longest-word/algol68)
+- [Longest Word in Awk](https://sampleprograms.io/projects/longest-word/awk)
 - [Longest Word in Beef](https://sampleprograms.io/projects/longest-word/beef)
 - [Longest Word in Brainfuck](https://sampleprograms.io/projects/longest-word/brainfuck)
 - [Longest Word in C](https://sampleprograms.io/projects/longest-word/c)
