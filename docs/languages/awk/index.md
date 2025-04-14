@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 16 articles:
+There are 17 articles:
 
 - [Baklava in Awk](https://sampleprograms.io/projects/baklava/awk)
 - [Capitalize in Awk](https://sampleprograms.io/projects/capitalize/awk)
@@ -38,6 +38,7 @@ There are 16 articles:
 - [File Input Output in Awk](https://sampleprograms.io/projects/file-input-output/awk)
 - [Fizz Buzz in Awk](https://sampleprograms.io/projects/fizz-buzz/awk)
 - [Hello World in Awk](https://sampleprograms.io/projects/hello-world/awk)
+- [Josephus Problem in Awk](https://sampleprograms.io/projects/josephus-problem/awk)
 - [Linear Search in Awk](https://sampleprograms.io/projects/linear-search/awk)
 - [Palindromic Number in Awk](https://sampleprograms.io/projects/palindromic-number/awk)
 - [Prime Number in Awk](https://sampleprograms.io/projects/prime-number/awk)
