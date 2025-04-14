@@ -1,7 +1,7 @@
 ---
 date: 2018-10-26
 featured-image: factorial-in-every-language.jpg
-last-modified: 2025-02-16
+last-modified: 2025-04-14
 layout: default
 tags:
 - factorial
@@ -83,9 +83,10 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 40 articles:
+There are 41 articles:
 
 - [Factorial in Algol68](https://sampleprograms.io/projects/factorial/algol68)
+- [Factorial in Awk](https://sampleprograms.io/projects/factorial/awk)
 - [Factorial in Bash](https://sampleprograms.io/projects/factorial/bash)
 - [Factorial in Beef](https://sampleprograms.io/projects/factorial/beef)
 - [Factorial in C](https://sampleprograms.io/projects/factorial/c)
