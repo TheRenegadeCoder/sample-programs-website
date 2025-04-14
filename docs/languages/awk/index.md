@@ -26,9 +26,10 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 19 articles:
+There are 20 articles:
 
 - [Baklava in Awk](https://sampleprograms.io/projects/baklava/awk)
+- [Binary Search in Awk](https://sampleprograms.io/projects/binary-search/awk)
 - [Capitalize in Awk](https://sampleprograms.io/projects/capitalize/awk)
 - [Depth First Search in Awk](https://sampleprograms.io/projects/depth-first-search/awk)
 - [Duplicate Character Counter in Awk](https://sampleprograms.io/projects/duplicate-character-counter/awk)
