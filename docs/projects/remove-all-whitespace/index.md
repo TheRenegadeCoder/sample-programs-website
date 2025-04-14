@@ -1,7 +1,7 @@
 ---
 date: 2022-04-28
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2025-01-25
+last-modified: 2025-04-14
 layout: default
 tags:
 - remove-all-whitespace
@@ -95,9 +95,10 @@ Usage: please provide a string
 
 ## Articles
 
-There are 19 articles:
+There are 20 articles:
 
 - [Remove All Whitespace in Algol68](https://sampleprograms.io/projects/remove-all-whitespace/algol68)
+- [Remove All Whitespace in Awk](https://sampleprograms.io/projects/remove-all-whitespace/awk)
 - [Remove All Whitespace in Beef](https://sampleprograms.io/projects/remove-all-whitespace/beef)
 - [Remove All Whitespace in Brainfuck](https://sampleprograms.io/projects/remove-all-whitespace/brainfuck)
 - [Remove All Whitespace in C](https://sampleprograms.io/projects/remove-all-whitespace/c)
