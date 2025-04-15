@@ -38,7 +38,7 @@ arbitrary address. There are instructions for the following:
 - Flow control
 - I/O
 
-Numbers are of arbitrary precision and are represented like this:
+Numbers are of arbitrary length and are represented like this:
 
 - Sign bit: space (`0`) for positive, tab (`1`) for negative
 - Binary representation of the absolute value of the number, most-significant
