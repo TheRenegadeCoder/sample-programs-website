@@ -1,7 +1,7 @@
 ---
 date: 2018-08-07
 featured-image: quine-in-every-language.jpg
-last-modified: 2025-04-12
+last-modified: 2025-04-16
 layout: default
 tags:
 - quine
@@ -54,7 +54,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 23 articles:
+There are 24 articles:
 
 - [Quine in Algol68](https://sampleprograms.io/projects/quine/algol68)
 - [Quine in Awk](https://sampleprograms.io/projects/quine/awk)
@@ -79,6 +79,7 @@ There are 23 articles:
 - [Quine in Python](https://sampleprograms.io/projects/quine/python)
 - [Quine in Ruby](https://sampleprograms.io/projects/quine/ruby)
 - [Quine in Rust](https://sampleprograms.io/projects/quine/rust)
+- [Quine in Whitespace](https://sampleprograms.io/projects/quine/whitespace)
 
 ***
 

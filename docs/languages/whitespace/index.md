@@ -1,7 +1,7 @@
 ---
 date: 2019-10-04
 featured-image: programming-languages.jpg
-last-modified: 2024-10-14
+last-modified: 2025-04-16
 layout: default
 tags:
 - whitespace
@@ -26,8 +26,9 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 3 articles:
+There are 4 articles:
 
 - [Baklava in Whitespace](https://sampleprograms.io/projects/baklava/whitespace)
 - [Fizz Buzz in Whitespace](https://sampleprograms.io/projects/fizz-buzz/whitespace)
 - [Hello World in Whitespace](https://sampleprograms.io/projects/hello-world/whitespace)
+- [Quine in Whitespace](https://sampleprograms.io/projects/quine/whitespace)
