@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2025-04-07
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2025-04-07
+last-modified: 2025-04-16
 layout: default
 tags:
 - awk
@@ -38,7 +38,7 @@ function str_to_number(s) {
     return (s ~ /^\s*[+-]*[0-9]+\s*$/) ? s + 0 : "ERROR"
 }
 
-function is_palindromic_number(n) {
+function is_palindromic_number(n,  s, left, right, result) {
     result = 1
     s  = sprintf("%s", n)
     for (left = 1, right = length(s); result && left < right; left++, right--) {

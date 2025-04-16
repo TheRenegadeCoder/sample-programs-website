@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2025-04-06
 featured-image: baklava-in-every-language.jpg
-last-modified: 2025-04-06
+last-modified: 2025-04-16
 layout: default
 tags:
 - awk
@@ -29,7 +29,7 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Awk](ht
 {% raw %}
 
 ```awk
-function repeat_string(n, s) {
+function repeat_string(n, s,  result, k) {
     result = ""
     for (k = 1; k <= n; k++) {
         result = result s

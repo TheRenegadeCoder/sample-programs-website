@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2025-04-06
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2025-04-06
+last-modified: 2025-04-16
 layout: default
 tags:
 - awk
@@ -34,7 +34,7 @@ function usage() {
     exit(1)
 }
 
-function duplicate_character_counter(s, counts, order) {
+function duplicate_character_counter(s, counts, order,  i, c) {
     for (i = 1; i <= length(s); i++) {
         c = substr(s, i, 1)
         if (!(c in counts)) {
@@ -45,7 +45,7 @@ function duplicate_character_counter(s, counts, order) {
     }
 }
 
-function display_duplicate_character_counts(counts, order) {
+function display_duplicate_character_counts(counts, order,  dupes, idx, c) {
     dupes = 0
     for (idx in order) {
         c = order[idx]

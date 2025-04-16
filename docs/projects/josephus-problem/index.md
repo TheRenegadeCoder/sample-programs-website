@@ -1,7 +1,7 @@
 ---
 date: 2021-10-08
 featured-image: josephus-problem-in-every-language.jpg
-last-modified: 2025-04-14
+last-modified: 2025-04-16
 layout: default
 tags:
 - josephus-problem

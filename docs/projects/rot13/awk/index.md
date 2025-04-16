@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2025-04-07
 featured-image: rot13-in-every-language.jpg
-last-modified: 2025-04-07
+last-modified: 2025-04-16
 layout: default
 tags:
 - awk
@@ -34,9 +34,7 @@ function usage() {
     exit(1)
 }
 
-function rot13(s) {
-    input_table  = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
-    output_table = "NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm"
+function rot13(s,  result, i, c, idx) {
     result = ""
     for (i = 1; i <= length(s); i++) {
         c = substr(s, i, 1)
@@ -56,6 +54,8 @@ BEGIN {
         usage()
     }
 
+    input_table  = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+    output_table = "NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm"
     print rot13(ARGV[1])
 }
 

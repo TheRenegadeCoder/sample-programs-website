@@ -1,7 +1,7 @@
 ---
 date: 2022-04-28
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2025-04-14
+last-modified: 2025-04-16
 layout: default
 tags:
 - remove-all-whitespace

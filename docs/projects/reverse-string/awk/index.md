@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2025-04-07
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2025-04-07
+last-modified: 2025-04-16
 layout: default
 tags:
 - awk
@@ -29,7 +29,7 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 {% raw %}
 
 ```awk
-function reverse_string(s) {
+function reverse_string(s,  result, i) {
     result = ""
     for (i = length(s); i > 0; i--) {
         result = result substr(s, i, 1)

@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2025-04-14
 featured-image: factorial-in-every-language.jpg
-last-modified: 2025-04-14
+last-modified: 2025-04-16
 layout: default
 tags:
 - awk
@@ -38,7 +38,7 @@ function str_to_number(s) {
     return (s ~ /^\s*[+-]*[0-9]+\s*$/) ? s + 0 : "ERROR"
 }
 
-function factorial(n) {
+function factorial(n,  f) {
     f = 1
     while (n >= 2) {
         f *= n

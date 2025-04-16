@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2025-04-14
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2025-04-14
+last-modified: 2025-04-16
 layout: default
 tags:
 - awk
@@ -34,7 +34,7 @@ function usage() {
     exit(1)
 }
 
-function remove_whitespace(s) {
+function remove_whitespace(s,  arr, result) {
     split(s, arr, /\s+/)
     result = ""
     for (k in arr) {

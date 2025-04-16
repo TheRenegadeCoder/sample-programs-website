@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2025-04-14
 featured-image: longest-word-in-every-language.jpg
-last-modified: 2025-04-14
+last-modified: 2025-04-16
 layout: default
 tags:
 - awk
@@ -34,7 +34,7 @@ function usage() {
     exit(1)
 }
 
-function longest_word(s) {
+function longest_word(s,  len, max_len, k) {
     split(s, arr, /\s+/)
     max_len = 0
     for (k in arr) {
