@@ -1,7 +1,7 @@
 ---
 date: 2018-07-27
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2025-04-07
+last-modified: 2025-04-17
 layout: default
 tags:
 - fizz-buzz
@@ -76,7 +76,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 85 articles:
+There are 86 articles:
 
 - [Fizz Buzz in Ada](https://sampleprograms.io/projects/fizz-buzz/ada)
 - [Fizz Buzz in Algol68](https://sampleprograms.io/projects/fizz-buzz/algol68)
@@ -87,6 +87,7 @@ There are 85 articles:
 - [Fizz Buzz in Batch](https://sampleprograms.io/projects/fizz-buzz/batch)
 - [Fizz Buzz in Beef](https://sampleprograms.io/projects/fizz-buzz/beef)
 - [Fizz Buzz in Befunge](https://sampleprograms.io/projects/fizz-buzz/befunge)
+- [Fizz Buzz in Boo](https://sampleprograms.io/projects/fizz-buzz/boo)
 - [Fizz Buzz in Brainfuck](https://sampleprograms.io/projects/fizz-buzz/brainfuck)
 - [Fizz Buzz in C](https://sampleprograms.io/projects/fizz-buzz/c)
 - [Fizz Buzz in C#](https://sampleprograms.io/projects/fizz-buzz/c-sharp)
