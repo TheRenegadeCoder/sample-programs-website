@@ -35,8 +35,8 @@ pid=$!
 trap "printf '\n\n*** Kill webserver (PID %s) ***\n' $pid; \
     trap - INT HUP ABRT TERM EXIT; \
     (kill $pid || true); \
-    git checkout ../languages ../projects ../index.md; \
-    git clean -f ../languages ../projects" INT HUP ABRT TERM EXIT
+    git checkout ../languages ../projects ../index.md ../assets/images; \
+    git clean -f ../languages ../projects ../assets/images" INT HUP ABRT TERM EXIT
 sleep 5
 
 echo ""
