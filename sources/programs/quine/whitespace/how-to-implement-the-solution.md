@@ -43,9 +43,9 @@ is all whitespace). Let's break it down. The rest of the code, R, does this:
 The `Push` instruction consists of the following:
 
 - The `Push` opcode: space, space
-- The sign bit of P (`0` for positive): space
-- The value of P in base-2, most-significant bit first: space for `0`, tab
-  for `1`
+- The sign bit of P (0 for positive): space
+- The value of P in base-2, most-significant bit first: space for 0, tab
+  for 1
 - The terminator for the `Push` instruction: newline
 
 Outputting the `Push` instruction consists of the following:
@@ -55,13 +55,13 @@ Outputting the `Push` instruction consists of the following:
 - Output linefeed.
 
 In order to easily translate integers into whitespace characters, memory
-(mem) is set up as follows:
+(`mem`) is set up as follows:
 
 - mem\[0\] = space
 - mem\[1\] = tab
 - mem\[2\] = linefeed
 
-To output the value of P as whitespace characters is done like this:
+Outputting the value of P as whitespace characters is done like this:
 
 - Find D = 2<sup>K</sup> such that D is greater than or equal to P:
   ```
@@ -82,7 +82,7 @@ To output the value of P as whitespace characters is done like this:
 
 Outputting the rest of the program as whitespace characters consists of this:
 
-- Output `P` in base-3, least-signifant value first, translated to whitespace
+- Output P in base-3, least-significant value first, translated to whitespace
   characters:
   ```
   While P != 0
