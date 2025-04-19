@@ -27,8 +27,8 @@ In other words:
 
 where:
 
-- T is the number of bytes in R.
-- r<sub>i</sub> is the ith byte of R.
+- T is the number of values in R.
+- r<sub>i</sub> is the ith value of R.
 
 P is a very large number: 125 base-10 digits!
 
