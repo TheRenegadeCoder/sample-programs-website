@@ -1,7 +1,7 @@
 ---
 date: 2018-12-01
 featured-image: selection-sort-in-every-language.jpg
-last-modified: 2024-10-13
+last-modified: 2025-04-21
 layout: default
 tags:
 - selection-sort
@@ -166,9 +166,10 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-There are 20 articles:
+There are 21 articles:
 
 - [Selection Sort in Algol68](https://sampleprograms.io/projects/selection-sort/algol68)
+- [Selection Sort in Awk](https://sampleprograms.io/projects/selection-sort/awk)
 - [Selection Sort in Bash](https://sampleprograms.io/projects/selection-sort/bash)
 - [Selection Sort in Beef](https://sampleprograms.io/projects/selection-sort/beef)
 - [Selection Sort in C](https://sampleprograms.io/projects/selection-sort/c)

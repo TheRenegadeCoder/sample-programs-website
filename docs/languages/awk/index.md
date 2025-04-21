@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 23 articles:
+There are 24 articles:
 
 - [Baklava in Awk](https://sampleprograms.io/projects/baklava/awk)
 - [Binary Search in Awk](https://sampleprograms.io/projects/binary-search/awk)
@@ -51,3 +51,4 @@ There are 23 articles:
 - [Remove All Whitespace in Awk](https://sampleprograms.io/projects/remove-all-whitespace/awk)
 - [Reverse String in Awk](https://sampleprograms.io/projects/reverse-string/awk)
 - [Rot13 in Awk](https://sampleprograms.io/projects/rot13/awk)
+- [Selection Sort in Awk](https://sampleprograms.io/projects/selection-sort/awk)
