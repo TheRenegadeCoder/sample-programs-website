@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 24 articles:
+There are 25 articles:
 
 - [Baklava in Awk](https://sampleprograms.io/projects/baklava/awk)
 - [Binary Search in Awk](https://sampleprograms.io/projects/binary-search/awk)
@@ -47,6 +47,7 @@ There are 24 articles:
 - [Merge Sort in Awk](https://sampleprograms.io/projects/merge-sort/awk)
 - [Palindromic Number in Awk](https://sampleprograms.io/projects/palindromic-number/awk)
 - [Prime Number in Awk](https://sampleprograms.io/projects/prime-number/awk)
+- [Quick Sort in Awk](https://sampleprograms.io/projects/quick-sort/awk)
 - [Quine in Awk](https://sampleprograms.io/projects/quine/awk)
 - [Remove All Whitespace in Awk](https://sampleprograms.io/projects/remove-all-whitespace/awk)
 - [Reverse String in Awk](https://sampleprograms.io/projects/reverse-string/awk)
