@@ -1,7 +1,7 @@
 ---
 date: 2018-12-03
 featured-image: merge-sort-in-every-language.jpg
-last-modified: 2024-10-06
+last-modified: 2025-04-21
 layout: default
 tags:
 - merge-sort
@@ -124,9 +124,10 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-There are 21 articles:
+There are 22 articles:
 
 - [Merge Sort in Algol68](https://sampleprograms.io/projects/merge-sort/algol68)
+- [Merge Sort in Awk](https://sampleprograms.io/projects/merge-sort/awk)
 - [Merge Sort in Beef](https://sampleprograms.io/projects/merge-sort/beef)
 - [Merge Sort in C](https://sampleprograms.io/projects/merge-sort/c)
 - [Merge Sort in C#](https://sampleprograms.io/projects/merge-sort/c-sharp)
