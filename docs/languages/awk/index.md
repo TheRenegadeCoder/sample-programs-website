@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 22 articles:
+There are 23 articles:
 
 - [Baklava in Awk](https://sampleprograms.io/projects/baklava/awk)
 - [Binary Search in Awk](https://sampleprograms.io/projects/binary-search/awk)
@@ -40,6 +40,7 @@ There are 22 articles:
 - [File Input Output in Awk](https://sampleprograms.io/projects/file-input-output/awk)
 - [Fizz Buzz in Awk](https://sampleprograms.io/projects/fizz-buzz/awk)
 - [Hello World in Awk](https://sampleprograms.io/projects/hello-world/awk)
+- [Insertion Sort in Awk](https://sampleprograms.io/projects/insertion-sort/awk)
 - [Josephus Problem in Awk](https://sampleprograms.io/projects/josephus-problem/awk)
 - [Linear Search in Awk](https://sampleprograms.io/projects/linear-search/awk)
 - [Longest Word in Awk](https://sampleprograms.io/projects/longest-word/awk)
