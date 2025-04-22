@@ -1,7 +1,7 @@
 ---
 date: 2018-10-07
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: 2024-01-22
+last-modified: 2025-04-22
 layout: default
 tags:
 - roman-numeral
@@ -102,9 +102,10 @@ In order to keep things simple, we split up the testing as follows:
 
 ## Articles
 
-There are 18 articles:
+There are 19 articles:
 
 - [Roman Numeral in Algol68](https://sampleprograms.io/projects/roman-numeral/algol68)
+- [Roman Numeral in Awk](https://sampleprograms.io/projects/roman-numeral/awk)
 - [Roman Numeral in Beef](https://sampleprograms.io/projects/roman-numeral/beef)
 - [Roman Numeral in C](https://sampleprograms.io/projects/roman-numeral/c)
 - [Roman Numeral in C#](https://sampleprograms.io/projects/roman-numeral/c-sharp)
