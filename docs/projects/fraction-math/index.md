@@ -1,7 +1,7 @@
 ---
 date: 2019-10-10
 featured-image: fraction-math-in-every-language.jpg
-last-modified: 2025-01-18
+last-modified: 2025-04-25
 layout: default
 tags:
 - fraction-math
@@ -90,9 +90,10 @@ Usage: ./fraction-math operand1 operator operand2
 
 ## Articles
 
-There are 13 articles:
+There are 14 articles:
 
 - [Fraction Math in Algol68](https://sampleprograms.io/projects/fraction-math/algol68)
+- [Fraction Math in Awk](https://sampleprograms.io/projects/fraction-math/awk)
 - [Fraction Math in Beef](https://sampleprograms.io/projects/fraction-math/beef)
 - [Fraction Math in C](https://sampleprograms.io/projects/fraction-math/c)
 - [Fraction Math in C#](https://sampleprograms.io/projects/fraction-math/c-sharp)

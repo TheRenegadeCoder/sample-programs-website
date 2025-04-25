@@ -1,7 +1,7 @@
 ---
 date: 2025-04-06
 featured-image: programming-languages.jpg
-last-modified: 2025-04-24
+last-modified: 2025-04-25
 layout: default
 tags:
 - awk
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 29 articles:
+There are 31 articles:
 
 - [Baklava in Awk](https://sampleprograms.io/projects/baklava/awk)
 - [Binary Search in Awk](https://sampleprograms.io/projects/binary-search/awk)
@@ -39,6 +39,7 @@ There are 29 articles:
 - [Fibonacci in Awk](https://sampleprograms.io/projects/fibonacci/awk)
 - [File Input Output in Awk](https://sampleprograms.io/projects/file-input-output/awk)
 - [Fizz Buzz in Awk](https://sampleprograms.io/projects/fizz-buzz/awk)
+- [Fraction Math in Awk](https://sampleprograms.io/projects/fraction-math/awk)
 - [Hello World in Awk](https://sampleprograms.io/projects/hello-world/awk)
 - [Insertion Sort in Awk](https://sampleprograms.io/projects/insertion-sort/awk)
 - [Josephus Problem in Awk](https://sampleprograms.io/projects/josephus-problem/awk)
@@ -57,3 +58,4 @@ There are 29 articles:
 - [Rot13 in Awk](https://sampleprograms.io/projects/rot13/awk)
 - [Selection Sort in Awk](https://sampleprograms.io/projects/selection-sort/awk)
 - [Sleep Sort in Awk](https://sampleprograms.io/projects/sleep-sort/awk)
+- [Transpose Matrix in Awk](https://sampleprograms.io/projects/transpose-matrix/awk)
