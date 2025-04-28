@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 33 articles:
+There are 35 articles:
 
 - [Baklava in Awk](https://sampleprograms.io/projects/baklava/awk)
 - [Base64 Encode Decode in Awk](https://sampleprograms.io/projects/base64-encode-decode/awk)
@@ -44,8 +44,10 @@ There are 33 articles:
 - [Fraction Math in Awk](https://sampleprograms.io/projects/fraction-math/awk)
 - [Hello World in Awk](https://sampleprograms.io/projects/hello-world/awk)
 - [Insertion Sort in Awk](https://sampleprograms.io/projects/insertion-sort/awk)
+- [Job Sequencing in Awk](https://sampleprograms.io/projects/job-sequencing/awk)
 - [Josephus Problem in Awk](https://sampleprograms.io/projects/josephus-problem/awk)
 - [Linear Search in Awk](https://sampleprograms.io/projects/linear-search/awk)
+- [Longest Common Subsequence in Awk](https://sampleprograms.io/projects/longest-common-subsequence/awk)
 - [Longest Word in Awk](https://sampleprograms.io/projects/longest-word/awk)
 - [Maximum Array Rotation in Awk](https://sampleprograms.io/projects/maximum-array-rotation/awk)
 - [Maximum Subarray in Awk](https://sampleprograms.io/projects/maximum-subarray/awk)

@@ -1,7 +1,7 @@
 ---
 date: 2018-11-19
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: 2025-01-18
+last-modified: 2025-04-27
 layout: default
 tags:
 - job-sequencing
@@ -114,9 +114,10 @@ Usage: please provide a list of profits and a list of deadlines
 
 ## Articles
 
-There are 15 articles:
+There are 16 articles:
 
 - [Job Sequencing in Algol68](https://sampleprograms.io/projects/job-sequencing/algol68)
+- [Job Sequencing in Awk](https://sampleprograms.io/projects/job-sequencing/awk)
 - [Job Sequencing in Beef](https://sampleprograms.io/projects/job-sequencing/beef)
 - [Job Sequencing in C](https://sampleprograms.io/projects/job-sequencing/c)
 - [Job Sequencing in C#](https://sampleprograms.io/projects/job-sequencing/c-sharp)
