@@ -1,7 +1,7 @@
 ---
 date: 2025-04-06
 featured-image: programming-languages.jpg
-last-modified: 2025-04-27
+last-modified: 2025-04-28
 layout: default
 tags:
 - awk
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 35 articles:
+There are 36 articles:
 
 - [Baklava in Awk](https://sampleprograms.io/projects/baklava/awk)
 - [Base64 Encode Decode in Awk](https://sampleprograms.io/projects/base64-encode-decode/awk)
@@ -48,6 +48,7 @@ There are 35 articles:
 - [Josephus Problem in Awk](https://sampleprograms.io/projects/josephus-problem/awk)
 - [Linear Search in Awk](https://sampleprograms.io/projects/linear-search/awk)
 - [Longest Common Subsequence in Awk](https://sampleprograms.io/projects/longest-common-subsequence/awk)
+- [Longest Palindromic Substring in Awk](https://sampleprograms.io/projects/longest-palindromic-substring/awk)
 - [Longest Word in Awk](https://sampleprograms.io/projects/longest-word/awk)
 - [Maximum Array Rotation in Awk](https://sampleprograms.io/projects/maximum-array-rotation/awk)
 - [Maximum Subarray in Awk](https://sampleprograms.io/projects/maximum-subarray/awk)
