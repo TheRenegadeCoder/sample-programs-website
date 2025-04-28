@@ -26,13 +26,15 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 31 articles:
+There are 33 articles:
 
 - [Baklava in Awk](https://sampleprograms.io/projects/baklava/awk)
+- [Base64 Encode Decode in Awk](https://sampleprograms.io/projects/base64-encode-decode/awk)
 - [Binary Search in Awk](https://sampleprograms.io/projects/binary-search/awk)
 - [Bubble Sort in Awk](https://sampleprograms.io/projects/bubble-sort/awk)
 - [Capitalize in Awk](https://sampleprograms.io/projects/capitalize/awk)
 - [Depth First Search in Awk](https://sampleprograms.io/projects/depth-first-search/awk)
+- [Dijkstra in Awk](https://sampleprograms.io/projects/dijkstra/awk)
 - [Duplicate Character Counter in Awk](https://sampleprograms.io/projects/duplicate-character-counter/awk)
 - [Even Odd in Awk](https://sampleprograms.io/projects/even-odd/awk)
 - [Factorial in Awk](https://sampleprograms.io/projects/factorial/awk)

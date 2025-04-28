@@ -1,7 +1,7 @@
 ---
 date: 2021-10-25
 featured-image: dijkstra-in-every-language.jpg
-last-modified: 2025-01-19
+last-modified: 2025-04-27
 layout: default
 tags:
 - dijkstra
@@ -129,9 +129,10 @@ Usage: please provide three inputs: a serialized matrix, a source node and a des
 
 ## Articles
 
-There are 11 articles:
+There are 12 articles:
 
 - [Dijkstra in Algol68](https://sampleprograms.io/projects/dijkstra/algol68)
+- [Dijkstra in Awk](https://sampleprograms.io/projects/dijkstra/awk)
 - [Dijkstra in Beef](https://sampleprograms.io/projects/dijkstra/beef)
 - [Dijkstra in C](https://sampleprograms.io/projects/dijkstra/c)
 - [Dijkstra in C++](https://sampleprograms.io/projects/dijkstra/c-plus-plus)
