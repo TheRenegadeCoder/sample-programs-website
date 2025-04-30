@@ -1,7 +1,7 @@
 ---
 date: 2025-04-06
 featured-image: programming-languages.jpg
-last-modified: 2025-04-29
+last-modified: 2025-04-30
 layout: default
 tags:
 - awk
@@ -26,13 +26,14 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 37 articles:
+There are 38 articles:
 
 - [Baklava in Awk](https://sampleprograms.io/projects/baklava/awk)
 - [Base64 Encode Decode in Awk](https://sampleprograms.io/projects/base64-encode-decode/awk)
 - [Binary Search in Awk](https://sampleprograms.io/projects/binary-search/awk)
 - [Bubble Sort in Awk](https://sampleprograms.io/projects/bubble-sort/awk)
 - [Capitalize in Awk](https://sampleprograms.io/projects/capitalize/awk)
+- [Convex Hull in Awk](https://sampleprograms.io/projects/convex-hull/awk)
 - [Depth First Search in Awk](https://sampleprograms.io/projects/depth-first-search/awk)
 - [Dijkstra in Awk](https://sampleprograms.io/projects/dijkstra/awk)
 - [Duplicate Character Counter in Awk](https://sampleprograms.io/projects/duplicate-character-counter/awk)
