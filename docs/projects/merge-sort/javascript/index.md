@@ -1,9 +1,10 @@
 ---
 authors:
+- rzuckerm
 - Sumathi Varadharajan
 date: 2019-10-31
 featured-image: merge-sort-in-every-language.jpg
-last-modified: 2019-10-31
+last-modified: 2025-05-04
 layout: default
 tags:
 - javascript
@@ -68,7 +69,7 @@ const main = (input) => {
         });
         arr = arr.filter(n => n);
         arr=mergeSort(arr);
-        console.log(arr);
+        console.log(arr.join(", "));
     }
     else {
         console.log(usage);
@@ -84,12 +85,14 @@ if (process.argv.length > 2) {
 else {
     console.log(usage);
 }
+
 ```
 
 {% endraw %}
 
 Merge Sort in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
+- rzuckerm
 - Sumathi Varadharajan
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).

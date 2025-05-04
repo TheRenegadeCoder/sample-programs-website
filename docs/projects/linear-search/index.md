@@ -1,7 +1,7 @@
 ---
 date: 2019-10-17
 featured-image: linear-search-in-every-language.jpg
-last-modified: 2025-04-16
+last-modified: 2025-05-04
 layout: default
 tags:
 - linear-search

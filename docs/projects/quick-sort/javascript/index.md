@@ -2,9 +2,10 @@
 authors:
 - Gurmeet
 - Gurmeet Singh
+- rzuckerm
 date: 2019-10-16
 featured-image: quick-sort-in-every-language.jpg
-last-modified: 2019-10-18
+last-modified: 2025-05-04
 layout: default
 tags:
 - javascript
@@ -38,33 +39,33 @@ Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [J
 
 const quickSort = (arr, start, end) => {
   if(start < end) {
-    let pivot = partition(arr, start, end)
-    quickSort(arr, start, pivot - 1)
-    quickSort(arr, pivot + 1, end)
+    let pivot = partition(arr, start, end);
+    quickSort(arr, start, pivot - 1);
+    quickSort(arr, pivot + 1, end);
   } 
 }
 
 const partition = (arr, start, end) => { 
-  let pivot = end
-  let i = start - 1
-  let j = start
+  let pivot = end;
+  let i = start - 1;
+  let j = start;
   while (j < pivot) {
     if (arr[j] > arr[pivot]) {
-      j++
+      j++;
     } else {
-      i++
-      swap(arr, j, i)
-      j++
+      i++;
+      swap(arr, j, i);
+      j++;
     }
   }
-  swap(arr, i + 1, pivot)
-  return i + 1
+  swap(arr, i + 1, pivot);
+  return i + 1;
 }
 
 const swap = (arr, first, second) => {
-  let temp = arr[first]
-  arr[first] = arr[second]
-  arr[second] = temp
+  let temp = arr[first];
+  arr[first] = arr[second];
+  arr[second] = temp;
 }
 
 const main = (input) => {
@@ -93,8 +94,8 @@ const main = (input) => {
         arr = arr.filter(n => n);
 
         // apply quicksort and output result
-        quickSort(arr, 0, arr.length - 1)
-        console.log(arr)
+        quickSort(arr, 0, arr.length - 1);
+        console.log(arr.join(", "));
     }
     else {
         // invalid input
@@ -112,8 +113,6 @@ else {
     console.log(usage);
 }
 
-
-
 ```
 
 {% endraw %}
@@ -122,6 +121,7 @@ Quick Sort in [Javascript](https://sampleprograms.io/languages/javascript) was w
 
 - Gurmeet
 - Gurmeet Singh
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

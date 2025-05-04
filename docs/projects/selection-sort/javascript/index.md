@@ -1,9 +1,10 @@
 ---
 authors:
 - mericleac
+- rzuckerm
 date: 2019-10-16
 featured-image: selection-sort-in-every-language.jpg
-last-modified: 2019-10-16
+last-modified: 2025-05-04
 layout: default
 tags:
 - javascript
@@ -65,7 +66,7 @@ const main = (input) => {
     }
 }
 
-main(process.argv[2])
+main(process.argv[2]);
 
 ```
 
@@ -74,6 +75,7 @@ main(process.argv[2])
 Selection Sort in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - mericleac
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

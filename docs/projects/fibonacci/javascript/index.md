@@ -7,7 +7,7 @@ authors:
 - rzuckerm
 date: 2018-10-04
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2025-05-04
 layout: default
 tags:
 - fibonacci
@@ -51,7 +51,7 @@ num = process.argv[2];
 if (num && !isNaN(num)) {
     fibonacci(num);
 } else {
-    console.log("Usage: please input the count of fibonacci numbers to output")
+    console.log("Usage: please input the count of fibonacci numbers to output");
 }
 
 ```
@@ -62,6 +62,7 @@ Fibonacci in [Javascript](https://sampleprograms.io/languages/javascript) was wr
 
 - Marius
 - Parker Johansen
+- rzuckerm
 
 This article was written by:
 
@@ -70,6 +71,8 @@ This article was written by:
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 04 2025 12:16:22. The solution was first committed on Oct 04 2018 13:17:58. The documentation was last updated on May 15 2023 15:51:23. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -2,9 +2,10 @@
 authors:
 - Ganesh Naik
 - Jayden Thrasher
+- rzuckerm
 date: 2019-10-05
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2020-10-03
+last-modified: 2025-05-04
 layout: default
 tags:
 - javascript
@@ -32,7 +33,7 @@ Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) i
 ```javascript
 const isPrime = (number) => {
     if(number <= 1)
-      return false
+      return false;
 
     for (let i = 2; i <= Math.sqrt(number); i++) {
       if (number % i == 0) {
@@ -43,7 +44,7 @@ const isPrime = (number) => {
   };
   
   const input = process.argv[2];
-  let number = Number(input)
+  let number = Number(input);
   
   if (input !== '' && Number.isInteger(number) && number >= 0) {
     isPrime(input) ? console.log("prime") : console.log("composite");
@@ -59,6 +60,7 @@ Prime Number in [Javascript](https://sampleprograms.io/languages/javascript) was
 
 - Ganesh Naik
 - Jayden Thrasher
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

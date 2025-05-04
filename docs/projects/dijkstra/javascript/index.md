@@ -5,7 +5,7 @@ authors:
 - rzuckerm
 date: 2021-10-25
 featured-image: dijkstra-in-every-language.jpg
-last-modified: 2023-03-30
+last-modified: 2025-05-04
 layout: default
 tags:
 - dijkstra
@@ -117,7 +117,7 @@ function main() {
     console.log(dijkstra(src, des, n));
 }
 
-main()
+main();
 
 ```
 

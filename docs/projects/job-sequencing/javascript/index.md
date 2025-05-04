@@ -1,9 +1,10 @@
 ---
 authors:
+- rzuckerm
 - Sayantan Sarkar
 date: 2020-10-07
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: 2020-10-07
+last-modified: 2025-05-04
 layout: default
 tags:
 - javascript
@@ -128,13 +129,15 @@ const main = (string1, string2) => {
   }
 }
 
-main(process.argv[2], process.argv[3])
+main(process.argv[2], process.argv[3]);
+
 ```
 
 {% endraw %}
 
 Job Sequencing in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
+- rzuckerm
 - Sayantan Sarkar
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).

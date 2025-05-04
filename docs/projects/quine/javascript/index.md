@@ -1,9 +1,9 @@
 ---
 authors:
-- Jeng
-date: 2020-09-25
+- rzuckerm
+date: 2025-05-04
 featured-image: quine-in-every-language.jpg
-last-modified: 2020-09-25
+last-modified: 2025-05-04
 layout: default
 tags:
 - javascript
@@ -29,7 +29,7 @@ Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Javascript]
 {% raw %}
 
 ```javascript
-(function(){console.log('('+arguments.callee.toString()+')()')})()
+(function(){console.log('('+arguments.callee.toString()+')();')})();
 
 ```
 
@@ -37,7 +37,7 @@ Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Javascript]
 
 Quine in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
-- Jeng
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

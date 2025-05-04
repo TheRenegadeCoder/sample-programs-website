@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2025-04-06
+last-modified: 2025-05-04
 layout: default
 tags:
 - hello-world

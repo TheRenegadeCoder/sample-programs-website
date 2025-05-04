@@ -1,7 +1,7 @@
 ---
 date: 2018-11-19
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: 2025-04-27
+last-modified: 2025-05-04
 layout: default
 tags:
 - job-sequencing

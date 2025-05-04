@@ -2,9 +2,10 @@
 authors:
 - Eliver L
 - EliverLara
+- rzuckerm
 date: 2019-10-10
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: 2019-10-10
+last-modified: 2025-05-04
 layout: default
 tags:
 - insertion-sort
@@ -60,7 +61,7 @@ sanitizeArray = (list) => {
 const main = (input) => {
     try {
         arr = sanitizeArray(input);
-        arr.length <= 1 ? exit() : console.log(insertionSort(arr));
+        arr.length <= 1 ? exit() : console.log(insertionSort(arr).join(", "));
     } catch(err) {
         exit();
     }
@@ -76,6 +77,7 @@ Insertion Sort in [Javascript](https://sampleprograms.io/languages/javascript) w
 
 - Eliver L
 - EliverLara
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

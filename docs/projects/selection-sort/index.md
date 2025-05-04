@@ -1,7 +1,7 @@
 ---
 date: 2018-12-01
 featured-image: selection-sort-in-every-language.jpg
-last-modified: 2025-04-21
+last-modified: 2025-05-04
 layout: default
 tags:
 - selection-sort

@@ -5,7 +5,7 @@ authors:
 - rzuckerm
 date: 2020-10-01
 featured-image: linear-search-in-every-language.jpg
-last-modified: 2023-01-29
+last-modified: 2025-05-04
 layout: default
 tags:
 - javascript
@@ -33,16 +33,16 @@ Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search)
 ```javascript
 function LinSearch(arr = [], valToSearch) {
     let check = false;
-    if (arr.length == 0) return check
-    if(valToSearch==='') return check
+    if (arr.length == 0) return check;
+    if(valToSearch==='') return check;
     else {
         for (i = 0; i < arr.length; i++) {
             if (arr[i] == valToSearch){
-                check = true
-                return check
+                check = true;
+                return check;
             }
         }
-        return check
+        return check;
     }
 }
 
@@ -56,7 +56,7 @@ sanitizeArray = (list) => {
 
 const exit = () => {
      const usage = 'Usage: please provide a list of integers ("1, 4, 5, 11, 12") and the integer to find ("11")';
-     console.log(usage)
+     console.log(usage);
      process.exit();
  }
  
@@ -69,7 +69,7 @@ const main = (input, key) => {
     }
 }
 
-main(process.argv[2], process.argv[3])
+main(process.argv[2], process.argv[3]);
 
 ```
 
