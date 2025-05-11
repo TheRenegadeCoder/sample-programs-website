@@ -1,7 +1,7 @@
 ---
 date: 2018-11-20
 featured-image: rot13-in-every-language.jpg
-last-modified: 2025-04-16
+last-modified: 2025-05-11
 layout: default
 tags:
 - rot13
@@ -99,7 +99,7 @@ Usage: please provide a string to encrypt
 
 ## Articles
 
-There are 24 articles:
+There are 25 articles:
 
 - [Rot13 in Algol68](https://sampleprograms.io/projects/rot13/algol68)
 - [Rot13 in Awk](https://sampleprograms.io/projects/rot13/awk)
@@ -121,6 +121,7 @@ There are 24 articles:
 - [Rot13 in Mathematica](https://sampleprograms.io/projects/rot13/mathematica)
 - [Rot13 in Perl](https://sampleprograms.io/projects/rot13/perl)
 - [Rot13 in Php](https://sampleprograms.io/projects/rot13/php)
+- [Rot13 in Powershell](https://sampleprograms.io/projects/rot13/powershell)
 - [Rot13 in Python](https://sampleprograms.io/projects/rot13/python)
 - [Rot13 in Rust](https://sampleprograms.io/projects/rot13/rust)
 - [Rot13 in Ti Basic](https://sampleprograms.io/projects/rot13/ti-basic)
