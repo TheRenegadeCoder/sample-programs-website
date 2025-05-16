@@ -1,7 +1,7 @@
 ---
 date: 2019-03-31
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2025-04-06
+last-modified: 2025-05-16
 layout: default
 tags:
 - capitalize
@@ -89,7 +89,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 37 articles:
+There are 38 articles:
 
 - [Capitalize in Algol68](https://sampleprograms.io/projects/capitalize/algol68)
 - [Capitalize in Awk](https://sampleprograms.io/projects/capitalize/awk)
@@ -121,6 +121,7 @@ There are 37 articles:
 - [Capitalize in Pascal](https://sampleprograms.io/projects/capitalize/pascal)
 - [Capitalize in Perl](https://sampleprograms.io/projects/capitalize/perl)
 - [Capitalize in Php](https://sampleprograms.io/projects/capitalize/php)
+- [Capitalize in Powershell](https://sampleprograms.io/projects/capitalize/powershell)
 - [Capitalize in Python](https://sampleprograms.io/projects/capitalize/python)
 - [Capitalize in R](https://sampleprograms.io/projects/capitalize/r)
 - [Capitalize in Ruby](https://sampleprograms.io/projects/capitalize/ruby)
