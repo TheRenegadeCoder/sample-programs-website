@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-05-28
 featured-image: programming-languages.jpg
-last-modified: 2025-05-16
+last-modified: 2025-05-20
 layout: default
 tags:
 - powershell
@@ -70,14 +70,16 @@ is it's now open-source and will now be called PowerShell Core as it runs on
 
 ## Articles
 
-There are 9 articles:
+There are 11 articles:
 
 - [Baklava in Powershell](https://sampleprograms.io/projects/baklava/powershell)
 - [Base64 Encode Decode in Powershell](https://sampleprograms.io/projects/base64-encode-decode/powershell)
 - [Capitalize in Powershell](https://sampleprograms.io/projects/capitalize/powershell)
+- [Duplicate Character Counter in Powershell](https://sampleprograms.io/projects/duplicate-character-counter/powershell)
 - [File Input Output in Powershell](https://sampleprograms.io/projects/file-input-output/powershell)
 - [Fizz Buzz in Powershell](https://sampleprograms.io/projects/fizz-buzz/powershell)
 - [Hello World in Powershell](https://sampleprograms.io/projects/hello-world/powershell)
+- [Josephus Problem in Powershell](https://sampleprograms.io/projects/josephus-problem/powershell)
 - [Quine in Powershell](https://sampleprograms.io/projects/quine/powershell)
 - [Reverse String in Powershell](https://sampleprograms.io/projects/reverse-string/powershell)
 - [Rot13 in Powershell](https://sampleprograms.io/projects/rot13/powershell)
