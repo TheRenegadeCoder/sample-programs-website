@@ -70,16 +70,19 @@ is it's now open-source and will now be called PowerShell Core as it runs on
 
 ## Articles
 
-There are 11 articles:
+There are 14 articles:
 
 - [Baklava in Powershell](https://sampleprograms.io/projects/baklava/powershell)
 - [Base64 Encode Decode in Powershell](https://sampleprograms.io/projects/base64-encode-decode/powershell)
 - [Capitalize in Powershell](https://sampleprograms.io/projects/capitalize/powershell)
 - [Duplicate Character Counter in Powershell](https://sampleprograms.io/projects/duplicate-character-counter/powershell)
+- [Even Odd in Powershell](https://sampleprograms.io/projects/even-odd/powershell)
+- [Factorial in Powershell](https://sampleprograms.io/projects/factorial/powershell)
 - [File Input Output in Powershell](https://sampleprograms.io/projects/file-input-output/powershell)
 - [Fizz Buzz in Powershell](https://sampleprograms.io/projects/fizz-buzz/powershell)
 - [Hello World in Powershell](https://sampleprograms.io/projects/hello-world/powershell)
 - [Josephus Problem in Powershell](https://sampleprograms.io/projects/josephus-problem/powershell)
+- [Prime Number in Powershell](https://sampleprograms.io/projects/prime-number/powershell)
 - [Quine in Powershell](https://sampleprograms.io/projects/quine/powershell)
 - [Reverse String in Powershell](https://sampleprograms.io/projects/reverse-string/powershell)
 - [Rot13 in Powershell](https://sampleprograms.io/projects/rot13/powershell)

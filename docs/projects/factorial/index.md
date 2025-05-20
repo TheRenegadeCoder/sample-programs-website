@@ -1,7 +1,7 @@
 ---
 date: 2018-10-26
 featured-image: factorial-in-every-language.jpg
-last-modified: 2025-05-04
+last-modified: 2025-05-20
 layout: default
 tags:
 - factorial
@@ -83,7 +83,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 41 articles:
+There are 42 articles:
 
 - [Factorial in Algol68](https://sampleprograms.io/projects/factorial/algol68)
 - [Factorial in Awk](https://sampleprograms.io/projects/factorial/awk)
@@ -117,6 +117,7 @@ There are 41 articles:
 - [Factorial in Pascal](https://sampleprograms.io/projects/factorial/pascal)
 - [Factorial in Perl](https://sampleprograms.io/projects/factorial/perl)
 - [Factorial in Php](https://sampleprograms.io/projects/factorial/php)
+- [Factorial in Powershell](https://sampleprograms.io/projects/factorial/powershell)
 - [Factorial in Python](https://sampleprograms.io/projects/factorial/python)
 - [Factorial in R](https://sampleprograms.io/projects/factorial/r)
 - [Factorial in Ruby](https://sampleprograms.io/projects/factorial/ruby)

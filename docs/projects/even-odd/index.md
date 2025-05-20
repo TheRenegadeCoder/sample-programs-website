@@ -1,7 +1,7 @@
 ---
 date: 2018-10-21
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2025-04-06
+last-modified: 2025-05-20
 layout: default
 tags:
 - even-odd
@@ -78,7 +78,7 @@ Usage: please input a number
 
 ## Articles
 
-There are 44 articles:
+There are 45 articles:
 
 - [Even Odd in Algol68](https://sampleprograms.io/projects/even-odd/algol68)
 - [Even Odd in Awk](https://sampleprograms.io/projects/even-odd/awk)
@@ -111,6 +111,7 @@ There are 44 articles:
 - [Even Odd in Pascal](https://sampleprograms.io/projects/even-odd/pascal)
 - [Even Odd in Perl](https://sampleprograms.io/projects/even-odd/perl)
 - [Even Odd in Php](https://sampleprograms.io/projects/even-odd/php)
+- [Even Odd in Powershell](https://sampleprograms.io/projects/even-odd/powershell)
 - [Even Odd in Pyret](https://sampleprograms.io/projects/even-odd/pyret)
 - [Even Odd in Python](https://sampleprograms.io/projects/even-odd/python)
 - [Even Odd in R](https://sampleprograms.io/projects/even-odd/r)
