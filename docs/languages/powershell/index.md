@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-05-28
 featured-image: programming-languages.jpg
-last-modified: 2025-05-20
+last-modified: 2025-05-24
 layout: default
 tags:
 - powershell
@@ -70,7 +70,7 @@ is it's now open-source and will now be called PowerShell Core as it runs on
 
 ## Articles
 
-There are 14 articles:
+There are 17 articles:
 
 - [Baklava in Powershell](https://sampleprograms.io/projects/baklava/powershell)
 - [Base64 Encode Decode in Powershell](https://sampleprograms.io/projects/base64-encode-decode/powershell)
@@ -78,10 +78,13 @@ There are 14 articles:
 - [Duplicate Character Counter in Powershell](https://sampleprograms.io/projects/duplicate-character-counter/powershell)
 - [Even Odd in Powershell](https://sampleprograms.io/projects/even-odd/powershell)
 - [Factorial in Powershell](https://sampleprograms.io/projects/factorial/powershell)
+- [Fibonacci in Powershell](https://sampleprograms.io/projects/fibonacci/powershell)
 - [File Input Output in Powershell](https://sampleprograms.io/projects/file-input-output/powershell)
 - [Fizz Buzz in Powershell](https://sampleprograms.io/projects/fizz-buzz/powershell)
 - [Hello World in Powershell](https://sampleprograms.io/projects/hello-world/powershell)
 - [Josephus Problem in Powershell](https://sampleprograms.io/projects/josephus-problem/powershell)
+- [Longest Word in Powershell](https://sampleprograms.io/projects/longest-word/powershell)
+- [Palindromic Number in Powershell](https://sampleprograms.io/projects/palindromic-number/powershell)
 - [Prime Number in Powershell](https://sampleprograms.io/projects/prime-number/powershell)
 - [Quine in Powershell](https://sampleprograms.io/projects/quine/powershell)
 - [Reverse String in Powershell](https://sampleprograms.io/projects/reverse-string/powershell)

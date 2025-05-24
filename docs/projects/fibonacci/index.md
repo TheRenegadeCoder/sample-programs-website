@@ -1,7 +1,7 @@
 ---
 date: 2018-10-02
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2025-05-04
+last-modified: 2025-05-24
 layout: default
 tags:
 - fibonacci
@@ -88,7 +88,7 @@ Usage: please input the count of fibonacci numbers to output
 
 ## Articles
 
-There are 38 articles:
+There are 39 articles:
 
 - [Fibonacci in Algol68](https://sampleprograms.io/projects/fibonacci/algol68)
 - [Fibonacci in Awk](https://sampleprograms.io/projects/fibonacci/awk)
@@ -120,6 +120,7 @@ There are 38 articles:
 - [Fibonacci in Pascal](https://sampleprograms.io/projects/fibonacci/pascal)
 - [Fibonacci in Perl](https://sampleprograms.io/projects/fibonacci/perl)
 - [Fibonacci in Php](https://sampleprograms.io/projects/fibonacci/php)
+- [Fibonacci in Powershell](https://sampleprograms.io/projects/fibonacci/powershell)
 - [Fibonacci in Python](https://sampleprograms.io/projects/fibonacci/python)
 - [Fibonacci in Racket](https://sampleprograms.io/projects/fibonacci/racket)
 - [Fibonacci in Ruby](https://sampleprograms.io/projects/fibonacci/ruby)

@@ -1,7 +1,7 @@
 ---
 date: 2020-10-07
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2025-04-20
+last-modified: 2025-05-24
 layout: default
 tags:
 - palindromic-number
@@ -82,7 +82,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 25 articles:
+There are 26 articles:
 
 - [Palindromic Number in Algol68](https://sampleprograms.io/projects/palindromic-number/algol68)
 - [Palindromic Number in Awk](https://sampleprograms.io/projects/palindromic-number/awk)
@@ -102,6 +102,7 @@ There are 25 articles:
 - [Palindromic Number in Pascal](https://sampleprograms.io/projects/palindromic-number/pascal)
 - [Palindromic Number in Perl](https://sampleprograms.io/projects/palindromic-number/perl)
 - [Palindromic Number in Php](https://sampleprograms.io/projects/palindromic-number/php)
+- [Palindromic Number in Powershell](https://sampleprograms.io/projects/palindromic-number/powershell)
 - [Palindromic Number in Python](https://sampleprograms.io/projects/palindromic-number/python)
 - [Palindromic Number in Ruby](https://sampleprograms.io/projects/palindromic-number/ruby)
 - [Palindromic Number in Rust](https://sampleprograms.io/projects/palindromic-number/rust)
