@@ -70,7 +70,7 @@ is it's now open-source and will now be called PowerShell Core as it runs on
 
 ## Articles
 
-There are 18 articles:
+There are 19 articles:
 
 - [Baklava in Powershell](https://sampleprograms.io/projects/baklava/powershell)
 - [Base64 Encode Decode in Powershell](https://sampleprograms.io/projects/base64-encode-decode/powershell)
@@ -87,6 +87,7 @@ There are 18 articles:
 - [Palindromic Number in Powershell](https://sampleprograms.io/projects/palindromic-number/powershell)
 - [Prime Number in Powershell](https://sampleprograms.io/projects/prime-number/powershell)
 - [Quine in Powershell](https://sampleprograms.io/projects/quine/powershell)
+- [Remove All Whitespace in Powershell](https://sampleprograms.io/projects/remove-all-whitespace/powershell)
 - [Reverse String in Powershell](https://sampleprograms.io/projects/reverse-string/powershell)
 - [Roman Numeral in Powershell](https://sampleprograms.io/projects/roman-numeral/powershell)
 - [Rot13 in Powershell](https://sampleprograms.io/projects/rot13/powershell)
