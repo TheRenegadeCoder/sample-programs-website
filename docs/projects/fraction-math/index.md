@@ -1,7 +1,7 @@
 ---
 date: 2019-10-10
 featured-image: fraction-math-in-every-language.jpg
-last-modified: 2025-04-25
+last-modified: 2025-07-07
 layout: default
 tags:
 - fraction-math
@@ -90,7 +90,7 @@ Usage: ./fraction-math operand1 operator operand2
 
 ## Articles
 
-There are 14 articles:
+There are 15 articles:
 
 - [Fraction Math in Algol68](https://sampleprograms.io/projects/fraction-math/algol68)
 - [Fraction Math in Awk](https://sampleprograms.io/projects/fraction-math/awk)
@@ -103,6 +103,7 @@ There are 14 articles:
 - [Fraction Math in Go](https://sampleprograms.io/projects/fraction-math/go)
 - [Fraction Math in Mathematica](https://sampleprograms.io/projects/fraction-math/mathematica)
 - [Fraction Math in Php](https://sampleprograms.io/projects/fraction-math/php)
+- [Fraction Math in Powershell](https://sampleprograms.io/projects/fraction-math/powershell)
 - [Fraction Math in Python](https://sampleprograms.io/projects/fraction-math/python)
 - [Fraction Math in Rust](https://sampleprograms.io/projects/fraction-math/rust)
 - [Fraction Math in Swift](https://sampleprograms.io/projects/fraction-math/swift)
