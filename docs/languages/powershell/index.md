@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-05-28
 featured-image: programming-languages.jpg
-last-modified: 2025-07-07
+last-modified: 2025-07-09
 layout: default
 tags:
 - powershell
@@ -70,10 +70,11 @@ is it's now open-source and will now be called PowerShell Core as it runs on
 
 ## Articles
 
-There are 21 articles:
+There are 23 articles:
 
 - [Baklava in Powershell](https://sampleprograms.io/projects/baklava/powershell)
 - [Base64 Encode Decode in Powershell](https://sampleprograms.io/projects/base64-encode-decode/powershell)
+- [Binary Search in Powershell](https://sampleprograms.io/projects/binary-search/powershell)
 - [Capitalize in Powershell](https://sampleprograms.io/projects/capitalize/powershell)
 - [Duplicate Character Counter in Powershell](https://sampleprograms.io/projects/duplicate-character-counter/powershell)
 - [Even Odd in Powershell](https://sampleprograms.io/projects/even-odd/powershell)
@@ -84,6 +85,7 @@ There are 21 articles:
 - [Fraction Math in Powershell](https://sampleprograms.io/projects/fraction-math/powershell)
 - [Hello World in Powershell](https://sampleprograms.io/projects/hello-world/powershell)
 - [Josephus Problem in Powershell](https://sampleprograms.io/projects/josephus-problem/powershell)
+- [Linear Search in Powershell](https://sampleprograms.io/projects/linear-search/powershell)
 - [Longest Word in Powershell](https://sampleprograms.io/projects/longest-word/powershell)
 - [Palindromic Number in Powershell](https://sampleprograms.io/projects/palindromic-number/powershell)
 - [Prime Number in Powershell](https://sampleprograms.io/projects/prime-number/powershell)
