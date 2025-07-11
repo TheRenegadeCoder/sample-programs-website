@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-05-28
 featured-image: programming-languages.jpg
-last-modified: 2025-07-09
+last-modified: 2025-07-11
 layout: default
 tags:
 - powershell
@@ -70,12 +70,13 @@ is it's now open-source and will now be called PowerShell Core as it runs on
 
 ## Articles
 
-There are 23 articles:
+There are 24 articles:
 
 - [Baklava in Powershell](https://sampleprograms.io/projects/baklava/powershell)
 - [Base64 Encode Decode in Powershell](https://sampleprograms.io/projects/base64-encode-decode/powershell)
 - [Binary Search in Powershell](https://sampleprograms.io/projects/binary-search/powershell)
 - [Capitalize in Powershell](https://sampleprograms.io/projects/capitalize/powershell)
+- [Depth First Search in Powershell](https://sampleprograms.io/projects/depth-first-search/powershell)
 - [Duplicate Character Counter in Powershell](https://sampleprograms.io/projects/duplicate-character-counter/powershell)
 - [Even Odd in Powershell](https://sampleprograms.io/projects/even-odd/powershell)
 - [Factorial in Powershell](https://sampleprograms.io/projects/factorial/powershell)
