@@ -70,11 +70,12 @@ is it's now open-source and will now be called PowerShell Core as it runs on
 
 ## Articles
 
-There are 25 articles:
+There are 28 articles:
 
 - [Baklava in Powershell](https://sampleprograms.io/projects/baklava/powershell)
 - [Base64 Encode Decode in Powershell](https://sampleprograms.io/projects/base64-encode-decode/powershell)
 - [Binary Search in Powershell](https://sampleprograms.io/projects/binary-search/powershell)
+- [Bubble Sort in Powershell](https://sampleprograms.io/projects/bubble-sort/powershell)
 - [Capitalize in Powershell](https://sampleprograms.io/projects/capitalize/powershell)
 - [Depth First Search in Powershell](https://sampleprograms.io/projects/depth-first-search/powershell)
 - [Duplicate Character Counter in Powershell](https://sampleprograms.io/projects/duplicate-character-counter/powershell)
@@ -89,6 +90,7 @@ There are 25 articles:
 - [Josephus Problem in Powershell](https://sampleprograms.io/projects/josephus-problem/powershell)
 - [Linear Search in Powershell](https://sampleprograms.io/projects/linear-search/powershell)
 - [Longest Word in Powershell](https://sampleprograms.io/projects/longest-word/powershell)
+- [Merge Sort in Powershell](https://sampleprograms.io/projects/merge-sort/powershell)
 - [Palindromic Number in Powershell](https://sampleprograms.io/projects/palindromic-number/powershell)
 - [Prime Number in Powershell](https://sampleprograms.io/projects/prime-number/powershell)
 - [Quine in Powershell](https://sampleprograms.io/projects/quine/powershell)
@@ -96,4 +98,5 @@ There are 25 articles:
 - [Reverse String in Powershell](https://sampleprograms.io/projects/reverse-string/powershell)
 - [Roman Numeral in Powershell](https://sampleprograms.io/projects/roman-numeral/powershell)
 - [Rot13 in Powershell](https://sampleprograms.io/projects/rot13/powershell)
+- [Selection Sort in Powershell](https://sampleprograms.io/projects/selection-sort/powershell)
 - [Sleep Sort in Powershell](https://sampleprograms.io/projects/sleep-sort/powershell)
