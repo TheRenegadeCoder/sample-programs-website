@@ -70,7 +70,7 @@ is it's now open-source and will now be called PowerShell Core as it runs on
 
 ## Articles
 
-There are 31 articles:
+There are 32 articles:
 
 - [Baklava in Powershell](https://sampleprograms.io/projects/baklava/powershell)
 - [Base64 Encode Decode in Powershell](https://sampleprograms.io/projects/base64-encode-decode/powershell)
@@ -92,6 +92,7 @@ There are 31 articles:
 - [Linear Search in Powershell](https://sampleprograms.io/projects/linear-search/powershell)
 - [Longest Word in Powershell](https://sampleprograms.io/projects/longest-word/powershell)
 - [Maximum Array Rotation in Powershell](https://sampleprograms.io/projects/maximum-array-rotation/powershell)
+- [Maximum Subarray in Powershell](https://sampleprograms.io/projects/maximum-subarray/powershell)
 - [Merge Sort in Powershell](https://sampleprograms.io/projects/merge-sort/powershell)
 - [Palindromic Number in Powershell](https://sampleprograms.io/projects/palindromic-number/powershell)
 - [Prime Number in Powershell](https://sampleprograms.io/projects/prime-number/powershell)
