@@ -1,7 +1,7 @@
 ---
 date: 2020-10-17
 featured-image: longest-palindromic-substring-in-every-language.jpg
-last-modified: 2025-04-28
+last-modified: 2025-07-16
 layout: default
 tags:
 - longest-palindromic-substring
@@ -119,7 +119,7 @@ Usage: please provide a string that contains at least one palindrome
 
 ## Articles
 
-There are 13 articles:
+There are 14 articles:
 
 - [Longest Palindromic Substring in Algol68](https://sampleprograms.io/projects/longest-palindromic-substring/algol68)
 - [Longest Palindromic Substring in Awk](https://sampleprograms.io/projects/longest-palindromic-substring/awk)
@@ -132,6 +132,7 @@ There are 13 articles:
 - [Longest Palindromic Substring in Javascript](https://sampleprograms.io/projects/longest-palindromic-substring/javascript)
 - [Longest Palindromic Substring in Mathematica](https://sampleprograms.io/projects/longest-palindromic-substring/mathematica)
 - [Longest Palindromic Substring in Php](https://sampleprograms.io/projects/longest-palindromic-substring/php)
+- [Longest Palindromic Substring in Powershell](https://sampleprograms.io/projects/longest-palindromic-substring/powershell)
 - [Longest Palindromic Substring in Python](https://sampleprograms.io/projects/longest-palindromic-substring/python)
 - [Longest Palindromic Substring in Rust](https://sampleprograms.io/projects/longest-palindromic-substring/rust)
 
