@@ -100,9 +100,10 @@ At any rate, I think we've played around enough
 
 ## Articles
 
-There are 12 articles:
+There are 13 articles:
 
 - [Baklava in Pascal](https://sampleprograms.io/projects/baklava/pascal)
+- [Binary Search in Pascal](https://sampleprograms.io/projects/binary-search/pascal)
 - [Capitalize in Pascal](https://sampleprograms.io/projects/capitalize/pascal)
 - [Even Odd in Pascal](https://sampleprograms.io/projects/even-odd/pascal)
 - [Factorial in Pascal](https://sampleprograms.io/projects/factorial/pascal)
