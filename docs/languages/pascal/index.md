@@ -100,7 +100,7 @@ At any rate, I think we've played around enough
 
 ## Articles
 
-There are 11 articles:
+There are 12 articles:
 
 - [Baklava in Pascal](https://sampleprograms.io/projects/baklava/pascal)
 - [Capitalize in Pascal](https://sampleprograms.io/projects/capitalize/pascal)
@@ -113,3 +113,4 @@ There are 11 articles:
 - [Palindromic Number in Pascal](https://sampleprograms.io/projects/palindromic-number/pascal)
 - [Prime Number in Pascal](https://sampleprograms.io/projects/prime-number/pascal)
 - [Reverse String in Pascal](https://sampleprograms.io/projects/reverse-string/pascal)
+- [Transpose Matrix in Pascal](https://sampleprograms.io/projects/transpose-matrix/pascal)
