@@ -1,7 +1,7 @@
 ---
 date: 2018-08-07
 featured-image: quine-in-every-language.jpg
-last-modified: 2025-05-12
+last-modified: 2025-07-21
 layout: default
 tags:
 - quine
@@ -54,7 +54,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 25 articles:
+There are 26 articles:
 
 - [Quine in Algol68](https://sampleprograms.io/projects/quine/algol68)
 - [Quine in Awk](https://sampleprograms.io/projects/quine/awk)
@@ -74,6 +74,7 @@ There are 25 articles:
 - [Quine in Javascript](https://sampleprograms.io/projects/quine/javascript)
 - [Quine in Kotlin](https://sampleprograms.io/projects/quine/kotlin)
 - [Quine in Mathematica](https://sampleprograms.io/projects/quine/mathematica)
+- [Quine in Pascal](https://sampleprograms.io/projects/quine/pascal)
 - [Quine in Perl](https://sampleprograms.io/projects/quine/perl)
 - [Quine in Php](https://sampleprograms.io/projects/quine/php)
 - [Quine in Powershell](https://sampleprograms.io/projects/quine/powershell)
