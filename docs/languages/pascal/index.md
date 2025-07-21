@@ -100,7 +100,7 @@ At any rate, I think we've played around enough
 
 ## Articles
 
-There are 14 articles:
+There are 15 articles:
 
 - [Baklava in Pascal](https://sampleprograms.io/projects/baklava/pascal)
 - [Binary Search in Pascal](https://sampleprograms.io/projects/binary-search/pascal)
@@ -114,5 +114,6 @@ There are 14 articles:
 - [Palindromic Number in Pascal](https://sampleprograms.io/projects/palindromic-number/pascal)
 - [Prime Number in Pascal](https://sampleprograms.io/projects/prime-number/pascal)
 - [Reverse String in Pascal](https://sampleprograms.io/projects/reverse-string/pascal)
+- [Selection Sort in Pascal](https://sampleprograms.io/projects/selection-sort/pascal)
 - [Sleep Sort in Pascal](https://sampleprograms.io/projects/sleep-sort/pascal)
 - [Transpose Matrix in Pascal](https://sampleprograms.io/projects/transpose-matrix/pascal)
