@@ -1,7 +1,7 @@
 ---
 date: 2019-10-07
 featured-image: sleep-sort-in-every-language.jpg
-last-modified: 2025-07-05
+last-modified: 2025-07-21
 layout: default
 tags:
 - sleep-sort
@@ -87,7 +87,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-There are 15 articles:
+There are 16 articles:
 
 - [Sleep Sort in Algol68](https://sampleprograms.io/projects/sleep-sort/algol68)
 - [Sleep Sort in Awk](https://sampleprograms.io/projects/sleep-sort/awk)
@@ -99,6 +99,7 @@ There are 15 articles:
 - [Sleep Sort in Euphoria](https://sampleprograms.io/projects/sleep-sort/euphoria)
 - [Sleep Sort in Go](https://sampleprograms.io/projects/sleep-sort/go)
 - [Sleep Sort in Javascript](https://sampleprograms.io/projects/sleep-sort/javascript)
+- [Sleep Sort in Pascal](https://sampleprograms.io/projects/sleep-sort/pascal)
 - [Sleep Sort in Php](https://sampleprograms.io/projects/sleep-sort/php)
 - [Sleep Sort in Powershell](https://sampleprograms.io/projects/sleep-sort/powershell)
 - [Sleep Sort in Python](https://sampleprograms.io/projects/sleep-sort/python)
