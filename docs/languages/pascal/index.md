@@ -100,7 +100,7 @@ At any rate, I think we've played around enough
 
 ## Articles
 
-There are 17 articles:
+There are 18 articles:
 
 - [Baklava in Pascal](https://sampleprograms.io/projects/baklava/pascal)
 - [Binary Search in Pascal](https://sampleprograms.io/projects/binary-search/pascal)
@@ -113,6 +113,7 @@ There are 17 articles:
 - [Maximum Array Rotation in Pascal](https://sampleprograms.io/projects/maximum-array-rotation/pascal)
 - [Palindromic Number in Pascal](https://sampleprograms.io/projects/palindromic-number/pascal)
 - [Prime Number in Pascal](https://sampleprograms.io/projects/prime-number/pascal)
+- [Remove All Whitespace in Pascal](https://sampleprograms.io/projects/remove-all-whitespace/pascal)
 - [Reverse String in Pascal](https://sampleprograms.io/projects/reverse-string/pascal)
 - [Roman Numeral in Pascal](https://sampleprograms.io/projects/roman-numeral/pascal)
 - [Rot13 in Pascal](https://sampleprograms.io/projects/rot13/pascal)
