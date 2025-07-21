@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-10
 featured-image: programming-languages.jpg
-last-modified: 2023-10-23
+last-modified: 2025-07-21
 layout: default
 tags:
 - pascal
@@ -100,7 +100,7 @@ At any rate, I think we've played around enough
 
 ## Articles
 
-There are 10 articles:
+There are 11 articles:
 
 - [Baklava in Pascal](https://sampleprograms.io/projects/baklava/pascal)
 - [Capitalize in Pascal](https://sampleprograms.io/projects/capitalize/pascal)
@@ -109,6 +109,7 @@ There are 10 articles:
 - [Fibonacci in Pascal](https://sampleprograms.io/projects/fibonacci/pascal)
 - [Fizz Buzz in Pascal](https://sampleprograms.io/projects/fizz-buzz/pascal)
 - [Hello World in Pascal](https://sampleprograms.io/projects/hello-world/pascal)
+- [Maximum Array Rotation in Pascal](https://sampleprograms.io/projects/maximum-array-rotation/pascal)
 - [Palindromic Number in Pascal](https://sampleprograms.io/projects/palindromic-number/pascal)
 - [Prime Number in Pascal](https://sampleprograms.io/projects/prime-number/pascal)
 - [Reverse String in Pascal](https://sampleprograms.io/projects/reverse-string/pascal)
