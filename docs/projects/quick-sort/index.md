@@ -1,7 +1,7 @@
 ---
 date: 2018-12-04
 featured-image: quick-sort-in-every-language.jpg
-last-modified: 2025-07-15
+last-modified: 2025-07-22
 layout: default
 tags:
 - quick-sort
@@ -133,7 +133,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-There are 25 articles:
+There are 26 articles:
 
 - [Quick Sort in Algol68](https://sampleprograms.io/projects/quick-sort/algol68)
 - [Quick Sort in Awk](https://sampleprograms.io/projects/quick-sort/awk)
@@ -153,6 +153,7 @@ There are 25 articles:
 - [Quick Sort in Lisp](https://sampleprograms.io/projects/quick-sort/lisp)
 - [Quick Sort in Mathematica](https://sampleprograms.io/projects/quick-sort/mathematica)
 - [Quick Sort in Objective C](https://sampleprograms.io/projects/quick-sort/objective-c)
+- [Quick Sort in Pascal](https://sampleprograms.io/projects/quick-sort/pascal)
 - [Quick Sort in Perl](https://sampleprograms.io/projects/quick-sort/perl)
 - [Quick Sort in Php](https://sampleprograms.io/projects/quick-sort/php)
 - [Quick Sort in Powershell](https://sampleprograms.io/projects/quick-sort/powershell)

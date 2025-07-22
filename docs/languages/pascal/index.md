@@ -100,9 +100,10 @@ At any rate, I think we've played around enough
 
 ## Articles
 
-There are 22 articles:
+There are 24 articles:
 
 - [Baklava in Pascal](https://sampleprograms.io/projects/baklava/pascal)
+- [Base64 Encode Decode in Pascal](https://sampleprograms.io/projects/base64-encode-decode/pascal)
 - [Binary Search in Pascal](https://sampleprograms.io/projects/binary-search/pascal)
 - [Capitalize in Pascal](https://sampleprograms.io/projects/capitalize/pascal)
 - [Even Odd in Pascal](https://sampleprograms.io/projects/even-odd/pascal)
@@ -116,6 +117,7 @@ There are 22 articles:
 - [Minimum Spanning Tree in Pascal](https://sampleprograms.io/projects/minimum-spanning-tree/pascal)
 - [Palindromic Number in Pascal](https://sampleprograms.io/projects/palindromic-number/pascal)
 - [Prime Number in Pascal](https://sampleprograms.io/projects/prime-number/pascal)
+- [Quick Sort in Pascal](https://sampleprograms.io/projects/quick-sort/pascal)
 - [Quine in Pascal](https://sampleprograms.io/projects/quine/pascal)
 - [Remove All Whitespace in Pascal](https://sampleprograms.io/projects/remove-all-whitespace/pascal)
 - [Reverse String in Pascal](https://sampleprograms.io/projects/reverse-string/pascal)
