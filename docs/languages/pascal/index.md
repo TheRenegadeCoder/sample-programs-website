@@ -100,12 +100,13 @@ At any rate, I think we've played around enough
 
 ## Articles
 
-There are 33 articles:
+There are 34 articles:
 
 - [Baklava in Pascal](https://sampleprograms.io/projects/baklava/pascal)
 - [Base64 Encode Decode in Pascal](https://sampleprograms.io/projects/base64-encode-decode/pascal)
 - [Binary Search in Pascal](https://sampleprograms.io/projects/binary-search/pascal)
 - [Capitalize in Pascal](https://sampleprograms.io/projects/capitalize/pascal)
+- [Dijkstra in Pascal](https://sampleprograms.io/projects/dijkstra/pascal)
 - [Duplicate Character Counter in Pascal](https://sampleprograms.io/projects/duplicate-character-counter/pascal)
 - [Even Odd in Pascal](https://sampleprograms.io/projects/even-odd/pascal)
 - [Factorial in Pascal](https://sampleprograms.io/projects/factorial/pascal)
