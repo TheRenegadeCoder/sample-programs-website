@@ -100,7 +100,7 @@ At any rate, I think we've played around enough
 
 ## Articles
 
-There are 26 articles:
+There are 28 articles:
 
 - [Baklava in Pascal](https://sampleprograms.io/projects/baklava/pascal)
 - [Base64 Encode Decode in Pascal](https://sampleprograms.io/projects/base64-encode-decode/pascal)
@@ -112,6 +112,8 @@ There are 26 articles:
 - [Fizz Buzz in Pascal](https://sampleprograms.io/projects/fizz-buzz/pascal)
 - [Hello World in Pascal](https://sampleprograms.io/projects/hello-world/pascal)
 - [Linear Search in Pascal](https://sampleprograms.io/projects/linear-search/pascal)
+- [Longest Common Subsequence in Pascal](https://sampleprograms.io/projects/longest-common-subsequence/pascal)
+- [Longest Palindromic Substring in Pascal](https://sampleprograms.io/projects/longest-palindromic-substring/pascal)
 - [Longest Word in Pascal](https://sampleprograms.io/projects/longest-word/pascal)
 - [Maximum Array Rotation in Pascal](https://sampleprograms.io/projects/maximum-array-rotation/pascal)
 - [Maximum Subarray in Pascal](https://sampleprograms.io/projects/maximum-subarray/pascal)

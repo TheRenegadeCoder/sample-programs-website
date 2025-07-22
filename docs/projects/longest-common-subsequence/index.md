@@ -1,7 +1,7 @@
 ---
 date: 2018-10-16
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: 2025-07-18
+last-modified: 2025-07-22
 layout: default
 tags:
 - longest-common-subsequence
@@ -98,7 +98,7 @@ Usage: please provide two lists in the format "1, 2, 3, 4, 5"
 
 ## Articles
 
-There are 19 articles:
+There are 20 articles:
 
 - [Longest Common Subsequence in Algol68](https://sampleprograms.io/projects/longest-common-subsequence/algol68)
 - [Longest Common Subsequence in Awk](https://sampleprograms.io/projects/longest-common-subsequence/awk)
@@ -115,6 +115,7 @@ There are 19 articles:
 - [Longest Common Subsequence in Javascript](https://sampleprograms.io/projects/longest-common-subsequence/javascript)
 - [Longest Common Subsequence in Kotlin](https://sampleprograms.io/projects/longest-common-subsequence/kotlin)
 - [Longest Common Subsequence in Mathematica](https://sampleprograms.io/projects/longest-common-subsequence/mathematica)
+- [Longest Common Subsequence in Pascal](https://sampleprograms.io/projects/longest-common-subsequence/pascal)
 - [Longest Common Subsequence in Php](https://sampleprograms.io/projects/longest-common-subsequence/php)
 - [Longest Common Subsequence in Powershell](https://sampleprograms.io/projects/longest-common-subsequence/powershell)
 - [Longest Common Subsequence in Python](https://sampleprograms.io/projects/longest-common-subsequence/python)
