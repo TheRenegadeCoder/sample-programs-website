@@ -100,7 +100,7 @@ At any rate, I think we've played around enough
 
 ## Articles
 
-There are 20 articles:
+There are 22 articles:
 
 - [Baklava in Pascal](https://sampleprograms.io/projects/baklava/pascal)
 - [Binary Search in Pascal](https://sampleprograms.io/projects/binary-search/pascal)
@@ -112,6 +112,8 @@ There are 20 articles:
 - [Hello World in Pascal](https://sampleprograms.io/projects/hello-world/pascal)
 - [Maximum Array Rotation in Pascal](https://sampleprograms.io/projects/maximum-array-rotation/pascal)
 - [Maximum Subarray in Pascal](https://sampleprograms.io/projects/maximum-subarray/pascal)
+- [Merge Sort in Pascal](https://sampleprograms.io/projects/merge-sort/pascal)
+- [Minimum Spanning Tree in Pascal](https://sampleprograms.io/projects/minimum-spanning-tree/pascal)
 - [Palindromic Number in Pascal](https://sampleprograms.io/projects/palindromic-number/pascal)
 - [Prime Number in Pascal](https://sampleprograms.io/projects/prime-number/pascal)
 - [Quine in Pascal](https://sampleprograms.io/projects/quine/pascal)
