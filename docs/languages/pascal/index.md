@@ -100,7 +100,7 @@ At any rate, I think we've played around enough
 
 ## Articles
 
-There are 30 articles:
+There are 31 articles:
 
 - [Baklava in Pascal](https://sampleprograms.io/projects/baklava/pascal)
 - [Base64 Encode Decode in Pascal](https://sampleprograms.io/projects/base64-encode-decode/pascal)
@@ -110,6 +110,7 @@ There are 30 articles:
 - [Factorial in Pascal](https://sampleprograms.io/projects/factorial/pascal)
 - [Fibonacci in Pascal](https://sampleprograms.io/projects/fibonacci/pascal)
 - [Fizz Buzz in Pascal](https://sampleprograms.io/projects/fizz-buzz/pascal)
+- [Fraction Math in Pascal](https://sampleprograms.io/projects/fraction-math/pascal)
 - [Hello World in Pascal](https://sampleprograms.io/projects/hello-world/pascal)
 - [Insertion Sort in Pascal](https://sampleprograms.io/projects/insertion-sort/pascal)
 - [Josephus Problem in Pascal](https://sampleprograms.io/projects/josephus-problem/pascal)
