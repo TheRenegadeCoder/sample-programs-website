@@ -1,7 +1,7 @@
 ---
 date: 2018-09-10
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2025-05-10
+last-modified: 2025-07-22
 layout: default
 tags:
 - file-input-output
@@ -60,7 +60,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 33 articles:
+There are 34 articles:
 
 - [File Input Output in Algol68](https://sampleprograms.io/projects/file-input-output/algol68)
 - [File Input Output in Awk](https://sampleprograms.io/projects/file-input-output/awk)
@@ -85,6 +85,7 @@ There are 33 articles:
 - [File Input Output in Objective C](https://sampleprograms.io/projects/file-input-output/objective-c)
 - [File Input Output in Octave](https://sampleprograms.io/projects/file-input-output/octave)
 - [File Input Output in Odin](https://sampleprograms.io/projects/file-input-output/odin)
+- [File Input Output in Pascal](https://sampleprograms.io/projects/file-input-output/pascal)
 - [File Input Output in Perl](https://sampleprograms.io/projects/file-input-output/perl)
 - [File Input Output in Php](https://sampleprograms.io/projects/file-input-output/php)
 - [File Input Output in Powershell](https://sampleprograms.io/projects/file-input-output/powershell)
