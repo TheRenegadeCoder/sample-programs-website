@@ -129,7 +129,7 @@ Usage: please provide three inputs: a serialized matrix, a source node and a des
 
 ## Articles
 
-There are 13 articles:
+There are 14 articles:
 
 - [Dijkstra in Algol68](https://sampleprograms.io/projects/dijkstra/algol68)
 - [Dijkstra in Awk](https://sampleprograms.io/projects/dijkstra/awk)
@@ -142,6 +142,7 @@ There are 13 articles:
 - [Dijkstra in Mathematica](https://sampleprograms.io/projects/dijkstra/mathematica)
 - [Dijkstra in Pascal](https://sampleprograms.io/projects/dijkstra/pascal)
 - [Dijkstra in Php](https://sampleprograms.io/projects/dijkstra/php)
+- [Dijkstra in Powershell](https://sampleprograms.io/projects/dijkstra/powershell)
 - [Dijkstra in Python](https://sampleprograms.io/projects/dijkstra/python)
 - [Dijkstra in Rust](https://sampleprograms.io/projects/dijkstra/rust)
 
