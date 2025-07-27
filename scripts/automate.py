@@ -232,7 +232,7 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         program.language_pathlike_name(),
         PROGRAM_MD_FILENAMES,
     )
- 
+
     doc.add_paragraph(
         f"Welcome to the {program} page! Here, you'll find the source code for this program "
         f"as well as a description of how the program works."
@@ -691,6 +691,13 @@ def generate_languages_index(repo: subete.Repo):
     singular = pluralize(num_programs, "snippet")
     welcome_text += f", and {num_programs} code {singular}."
     language_index.add_paragraph(welcome_text)
+
+    language_index.add_heading("Language Breakdown", level=2)
+    language_index.add_paragraph("Here are the percentages for each language in the collection:")
+    language_index.add_raw("<details>\n<summary>Click here to expand or collapse...</summary>")
+    _generate_language_breakdown(repo, language_index)
+    language_index.add_raw("</details>")
+
     language_index.add_heading("Language Collections by Letter", level=2)
     language_index.add_paragraph(
         "To help you navigate the collection, the following languages are organized alphabetically and grouped by first letter. "
@@ -772,6 +779,36 @@ def _get_language_link_and_testability(
         testability = [snakemd.Inline(f" {phrase}, (untested)")]
     
     return snakemd.Paragraph([language_link] + testability)
+
+
+def _generate_language_breakdown(repo: subete.Repo, doc: snakemd.Document):
+    language_info = sorted(
+        ((language.name(), language.percentage(), language.color()) for language in repo),
+        key=lambda x: x[1],
+        reverse=True
+    )
+    max_language_percentage = language_info[0][1]
+
+    doc.add_raw("""\
+<table>
+    <tr>
+        <th>Language</th>
+        <th class>Percentage</th>
+        <th class="bar-graph">Graph</th>
+    </tr>"""
+    )
+    for language_name, percentage, color in language_info:
+        bar_graph_width = 100.0 * percentage / max_language_percentage
+        bar_graph_style = f"width: {bar_graph_width:.2f}%; background-color: {color} !important;"
+        doc.add_raw(f"""\
+    <tr>
+        <td>{language_name}</td>
+        <td class="right">{percentage:.2f}%</td>
+        <td class="bar-graph"><div style="{bar_graph_style}"></div></td> 
+    </tr>"""
+        )
+
+    doc.add_raw("</table>")
 
 
 def generate_projects_index(repo: subete.Repo):
@@ -1022,6 +1059,7 @@ if __name__ == "__main__":
     log.info("Loading repos (this may take several minutes)")
     website_repo_dir = "." if parsed_args.local else None
     repo = subete.load(sample_programs_website_repo_dir=website_repo_dir)
+    repo.set_additional_language_colors("additional-language-colors.yml")
 
     generate_main_page(repo)
     generate_language_paths(repo)

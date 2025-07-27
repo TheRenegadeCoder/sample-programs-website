@@ -133,6 +133,8 @@ img {
   text-align: right;
   padding-top: 0px;
   padding-bottom: 0px;
+  -webkit-print-color-adjust: exact !important;
+  print-color-adjust: exact !important;
 }
 
 .program-image {
@@ -166,6 +168,25 @@ img {
   color: #232323;
   content: "|\00a0";
   font-weight: normal;
+}
+
+th.bar-graph {
+  width: 50%;
+}
+
+td.bar-graph {
+  vertical-align: middle;
+}
+
+td.bar-graph div {
+  height: 12px;
+  border: 1px solid black;
+  -webkit-print-color-adjust: exact !important;
+  print-color-adjust: exact !important;
+}
+
+.right {
+  text-align: right;
 }
 
 @media print, screen and (max-width: 1200px) {
