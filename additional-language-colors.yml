@@ -1,5 +1,8 @@
+# This file contains colors for languages that are not in GitHub Linguist:
+# https://github.com/github-linguist/linguist/blob/main/lib/linguist/languages.yml
+#
 # Key is language name (e.g., "Commodore Basic")
-# Value is RGB color (e.g., "#FF0000")
+# Value is RGB color (e.g., "#4F44D8")
 Algol68: "#834052"
 Arkscript: "#00AAD4"
 Baik: "#4CAF50"
