@@ -63,13 +63,14 @@ Android apps, I haven't seen many fun commercial uses for Java.
 
 ## Articles
 
-There are 32 articles:
+There are 33 articles:
 
 - [Baklava in C#](https://sampleprograms.io/projects/baklava/c-sharp)
 - [Base64 Encode Decode in C#](https://sampleprograms.io/projects/base64-encode-decode/c-sharp)
 - [Binary Search in C#](https://sampleprograms.io/projects/binary-search/c-sharp)
 - [Bubble Sort in C#](https://sampleprograms.io/projects/bubble-sort/c-sharp)
 - [Capitalize in C#](https://sampleprograms.io/projects/capitalize/c-sharp)
+- [Dijkstra in C#](https://sampleprograms.io/projects/dijkstra/c-sharp)
 - [Duplicate Character Counter in C#](https://sampleprograms.io/projects/duplicate-character-counter/c-sharp)
 - [Even Odd in C#](https://sampleprograms.io/projects/even-odd/c-sharp)
 - [Factorial in C#](https://sampleprograms.io/projects/factorial/c-sharp)
