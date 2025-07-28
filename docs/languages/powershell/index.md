@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-05-28
 featured-image: programming-languages.jpg
-last-modified: 2025-07-22
+last-modified: 2025-07-28
 layout: default
 tags:
 - powershell
@@ -70,7 +70,7 @@ is it's now open-source and will now be called PowerShell Core as it runs on
 
 ## Articles
 
-There are 36 articles:
+There are 37 articles:
 
 - [Baklava in Powershell](https://sampleprograms.io/projects/baklava/powershell)
 - [Base64 Encode Decode in Powershell](https://sampleprograms.io/projects/base64-encode-decode/powershell)
@@ -97,6 +97,7 @@ There are 36 articles:
 - [Maximum Array Rotation in Powershell](https://sampleprograms.io/projects/maximum-array-rotation/powershell)
 - [Maximum Subarray in Powershell](https://sampleprograms.io/projects/maximum-subarray/powershell)
 - [Merge Sort in Powershell](https://sampleprograms.io/projects/merge-sort/powershell)
+- [Minimum Spanning Tree in Powershell](https://sampleprograms.io/projects/minimum-spanning-tree/powershell)
 - [Palindromic Number in Powershell](https://sampleprograms.io/projects/palindromic-number/powershell)
 - [Prime Number in Powershell](https://sampleprograms.io/projects/prime-number/powershell)
 - [Quick Sort in Powershell](https://sampleprograms.io/projects/quick-sort/powershell)
