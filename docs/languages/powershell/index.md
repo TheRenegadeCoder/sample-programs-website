@@ -70,13 +70,14 @@ is it's now open-source and will now be called PowerShell Core as it runs on
 
 ## Articles
 
-There are 37 articles:
+There are 38 articles:
 
 - [Baklava in Powershell](https://sampleprograms.io/projects/baklava/powershell)
 - [Base64 Encode Decode in Powershell](https://sampleprograms.io/projects/base64-encode-decode/powershell)
 - [Binary Search in Powershell](https://sampleprograms.io/projects/binary-search/powershell)
 - [Bubble Sort in Powershell](https://sampleprograms.io/projects/bubble-sort/powershell)
 - [Capitalize in Powershell](https://sampleprograms.io/projects/capitalize/powershell)
+- [Convex Hull in Powershell](https://sampleprograms.io/projects/convex-hull/powershell)
 - [Depth First Search in Powershell](https://sampleprograms.io/projects/depth-first-search/powershell)
 - [Dijkstra in Powershell](https://sampleprograms.io/projects/dijkstra/powershell)
 - [Duplicate Character Counter in Powershell](https://sampleprograms.io/projects/duplicate-character-counter/powershell)
