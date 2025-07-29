@@ -170,12 +170,21 @@ img {
   font-weight: normal;
 }
 
-th.bar-graph {
-  width: 50%;
+table.bar-graph {
+  border-collapse: collapse;
+}
+
+table.bar-graph td {
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: transparent;
+  vertical-align: middle;
 }
 
 td.bar-graph {
-  vertical-align: middle;
+  width: 100%;
 }
 
 td.bar-graph div {
@@ -187,6 +196,10 @@ td.bar-graph div {
 
 .right {
   text-align: right;
+}
+
+.nowrap {
+  white-space: nowrap;
 }
 
 @media print, screen and (max-width: 1200px) {
