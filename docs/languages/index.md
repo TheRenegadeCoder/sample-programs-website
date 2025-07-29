@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-07-22
+last-modified: 2025-07-29
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 155 languages, of which 154 are tested, 1 is untestable, and 1230 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 155 languages, of which 154 are tested, 1 is untestable, and 1241 code snippets.
 
 ## Language Collections by Letter
 
@@ -73,10 +73,10 @@ The 'B' collection contains 9 languages, of which 9 are tested, and 79 code snip
 
 ### C
 
-The 'C' collection contains 14 languages, of which 14 are tested, and 169 code snippets.
+The 'C' collection contains 14 languages, of which 14 are tested, and 178 code snippets.
 
-- [C](https://sampleprograms.io/languages/c) (37 code snippets)
-- [C#](https://sampleprograms.io/languages/c-sharp) (30 code snippets)
+- [C](https://sampleprograms.io/languages/c) (38 code snippets)
+- [C#](https://sampleprograms.io/languages/c-sharp) (38 code snippets)
 - [C++](https://sampleprograms.io/languages/c-plus-plus) (28 code snippets)
 - [C2](https://sampleprograms.io/languages/c2) (2 code snippets)
 - [C\*](https://sampleprograms.io/languages/c-star) (2 code snippets)
@@ -254,7 +254,7 @@ The 'O' collection contains 7 languages, of which 7 are tested, and 42 code snip
 
 ### P
 
-The 'P' collection contains 14 languages, of which 14 are tested, and 195 code snippets.
+The 'P' collection contains 14 languages, of which 14 are tested, and 197 code snippets.
 
 - [Pascal](https://sampleprograms.io/languages/pascal) (38 code snippets)
 - [Perl](https://sampleprograms.io/languages/perl) (20 code snippets)
@@ -265,7 +265,7 @@ The 'P' collection contains 14 languages, of which 14 are tested, and 195 code s
 - [Pineapple](https://sampleprograms.io/languages/pineapple) (3 code snippets)
 - [Pinecone](https://sampleprograms.io/languages/pinecone) (3 code snippets)
 - [Pony](https://sampleprograms.io/languages/pony) (3 code snippets)
-- [Powershell](https://sampleprograms.io/languages/powershell) (36 code snippets)
+- [Powershell](https://sampleprograms.io/languages/powershell) (38 code snippets)
 - [Prolog](https://sampleprograms.io/languages/prolog) (3 code snippets)
 - [Purescript](https://sampleprograms.io/languages/purescript) (2 code snippets)
 - [Pyret](https://sampleprograms.io/languages/pyret) (4 code snippets)

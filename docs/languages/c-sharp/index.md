@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-03-21
 featured-image: programming-languages.jpg
-last-modified: 2025-02-18
+last-modified: 2025-07-29
 layout: default
 tags:
 - c-sharp
@@ -63,12 +63,16 @@ Android apps, I haven't seen many fun commercial uses for Java.
 
 ## Articles
 
-There are 30 articles:
+There are 38 articles:
 
 - [Baklava in C#](https://sampleprograms.io/projects/baklava/c-sharp)
+- [Base64 Encode Decode in C#](https://sampleprograms.io/projects/base64-encode-decode/c-sharp)
 - [Binary Search in C#](https://sampleprograms.io/projects/binary-search/c-sharp)
 - [Bubble Sort in C#](https://sampleprograms.io/projects/bubble-sort/c-sharp)
 - [Capitalize in C#](https://sampleprograms.io/projects/capitalize/c-sharp)
+- [Convex Hull in C#](https://sampleprograms.io/projects/convex-hull/c-sharp)
+- [Depth First Search in C#](https://sampleprograms.io/projects/depth-first-search/c-sharp)
+- [Dijkstra in C#](https://sampleprograms.io/projects/dijkstra/c-sharp)
 - [Duplicate Character Counter in C#](https://sampleprograms.io/projects/duplicate-character-counter/c-sharp)
 - [Even Odd in C#](https://sampleprograms.io/projects/even-odd/c-sharp)
 - [Factorial in C#](https://sampleprograms.io/projects/factorial/c-sharp)
@@ -84,7 +88,10 @@ There are 30 articles:
 - [Longest Common Subsequence in C#](https://sampleprograms.io/projects/longest-common-subsequence/c-sharp)
 - [Longest Palindromic Substring in C#](https://sampleprograms.io/projects/longest-palindromic-substring/c-sharp)
 - [Longest Word in C#](https://sampleprograms.io/projects/longest-word/c-sharp)
+- [Maximum Array Rotation in C#](https://sampleprograms.io/projects/maximum-array-rotation/c-sharp)
+- [Maximum Subarray in C#](https://sampleprograms.io/projects/maximum-subarray/c-sharp)
 - [Merge Sort in C#](https://sampleprograms.io/projects/merge-sort/c-sharp)
+- [Minimum Spanning Tree in C#](https://sampleprograms.io/projects/minimum-spanning-tree/c-sharp)
 - [Palindromic Number in C#](https://sampleprograms.io/projects/palindromic-number/c-sharp)
 - [Prime Number in C#](https://sampleprograms.io/projects/prime-number/c-sharp)
 - [Quick Sort in C#](https://sampleprograms.io/projects/quick-sort/c-sharp)
@@ -95,3 +102,4 @@ There are 30 articles:
 - [Rot13 in C#](https://sampleprograms.io/projects/rot13/c-sharp)
 - [Selection Sort in C#](https://sampleprograms.io/projects/selection-sort/c-sharp)
 - [Sleep Sort in C#](https://sampleprograms.io/projects/sleep-sort/c-sharp)
+- [Transpose Matrix in C#](https://sampleprograms.io/projects/transpose-matrix/c-sharp)

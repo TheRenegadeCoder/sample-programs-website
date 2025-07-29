@@ -1,7 +1,7 @@
 ---
 date: 2020-10-14
 featured-image: maximum-subarray-in-every-language.jpg
-last-modified: 2025-07-22
+last-modified: 2025-07-29
 layout: default
 tags:
 - maximum-subarray
@@ -86,12 +86,13 @@ Usage: Please provide a list of integers in the format: "1, 2, 3, 4, 5"
 
 ## Articles
 
-There are 12 articles:
+There are 13 articles:
 
 - [Maximum Subarray in Algol68](https://sampleprograms.io/projects/maximum-subarray/algol68)
 - [Maximum Subarray in Awk](https://sampleprograms.io/projects/maximum-subarray/awk)
 - [Maximum Subarray in Beef](https://sampleprograms.io/projects/maximum-subarray/beef)
 - [Maximum Subarray in C](https://sampleprograms.io/projects/maximum-subarray/c)
+- [Maximum Subarray in C#](https://sampleprograms.io/projects/maximum-subarray/c-sharp)
 - [Maximum Subarray in Commodore Basic](https://sampleprograms.io/projects/maximum-subarray/commodore-basic)
 - [Maximum Subarray in Euphoria](https://sampleprograms.io/projects/maximum-subarray/euphoria)
 - [Maximum Subarray in Mathematica](https://sampleprograms.io/projects/maximum-subarray/mathematica)
