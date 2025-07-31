@@ -781,8 +781,7 @@ def _get_language_link_and_testability(
 def _generate_language_breakdown_percentage(repo: subete.Repo, doc: snakemd.Document):
     language_info = sorted(
         ((language.name().replace("\\", ""), language.percentage(), language.color()) for language in repo),
-        key=lambda x: (x[1], x[0]),
-        reverse=True
+        key=lambda x: (-x[1], x[0])
     )
     max_language_percentage = language_info[0][1]
 
