@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-03-27
 featured-image: maximum-array-rotation-in-every-language.jpg
-last-modified: 2023-03-27
+last-modified: 2025-08-02
 layout: default
 tags:
 - maximum-array-rotation
@@ -165,7 +165,7 @@ if ($values === FALSE)
 
 // Calculate maximum array rotation and display
 $max_value = maximum_array_rotation($values);
-echo "${max_value}\n";
+echo "$max_value\n";
 
 ```
 

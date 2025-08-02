@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-03-27
 featured-image: maximum-subarray-in-every-language.jpg
-last-modified: 2023-03-27
+last-modified: 2025-08-02
 layout: default
 tags:
 - maximum-subarray
@@ -115,7 +115,7 @@ if ($values === FALSE)
 
 // Calculate maximum subarray and display
 $max_value = maximum_subarray($values);
-echo "${max_value}\n";
+echo "$max_value\n";
 
 ```
 

@@ -1,7 +1,7 @@
 ---
 date: 2020-10-14
 featured-image: maximum-subarray-in-every-language.jpg
-last-modified: 2025-07-29
+last-modified: 2025-08-02
 layout: default
 tags:
 - maximum-subarray

@@ -1,7 +1,7 @@
 ---
 date: 2018-12-03
 featured-image: merge-sort-in-every-language.jpg
-last-modified: 2025-07-22
+last-modified: 2025-08-02
 layout: default
 tags:
 - merge-sort

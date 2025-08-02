@@ -1,7 +1,7 @@
 ---
 date: 2021-10-05
 featured-image: maximum-array-rotation-in-every-language.jpg
-last-modified: 2025-07-29
+last-modified: 2025-08-02
 layout: default
 tags:
 - maximum-array-rotation

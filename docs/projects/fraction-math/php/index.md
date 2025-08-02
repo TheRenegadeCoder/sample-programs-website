@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-03-27
 featured-image: fraction-math-in-every-language.jpg
-last-modified: 2023-03-27
+last-modified: 2025-08-02
 layout: default
 tags:
 - fraction-math
@@ -98,7 +98,7 @@ function parse_fraction($str_value)
 
 class Fraction
 {
-    public function __construct(int $num, int $den)
+    public function __construct(public int $num, public int $den)
     {
         $this->num = $num;
         $this->den = $den;
@@ -214,7 +214,7 @@ function fraction_math(Fraction $f1, Fraction $f2, string $op): Fraction|bool
         case "!=":
             return $f1->cmp($f2) != 0;
         default:
-            die("Invalid operator ${op}");
+            die("Invalid operator $op");
     }
 }
 
@@ -227,7 +227,7 @@ function show_fraction_result(Fraction|int $value)
     }
     else
     {
-        echo "${value}\n";
+        echo "$value\n";
     }
 }
 

@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-03-22
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2023-03-22
+last-modified: 2025-08-02
 layout: default
 tags:
 - duplicate-character-counter
@@ -63,7 +63,7 @@ function show_duplicate_character_counts($counts)
     {
         if ($count > 1)
         {
-            echo "${char}: ${count}\n";
+            echo "$char: $count\n";
             $has_dupes = TRUE;
         }
     }

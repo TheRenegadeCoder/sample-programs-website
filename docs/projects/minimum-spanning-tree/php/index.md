@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-03-27
 featured-image: minimum-spanning-tree-in-every-language.jpg
-last-modified: 2023-03-27
+last-modified: 2025-08-02
 layout: default
 tags:
 - minimum-spanning-tree
@@ -260,7 +260,7 @@ $mst = prim_mst($graph);
 
 // Calculate total weight of MST and display
 $total_weight = get_total_mst_weight($mst);
-echo "${total_weight}\n";
+echo "$total_weight\n";
 
 ```
 

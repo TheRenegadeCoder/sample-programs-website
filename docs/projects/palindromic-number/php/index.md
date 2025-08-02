@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-03-27
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2023-03-27
+last-modified: 2025-08-02
 layout: default
 tags:
 - palindromic-number
@@ -70,7 +70,7 @@ function parse_int($str_value)
 function is_palindromic_number($value)
 {
     // Convert number to string
-    $str = "${value}";
+    $str = (string)$value;
 
     // Check if palindrome
     $len = strlen($str);

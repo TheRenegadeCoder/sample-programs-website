@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-03-23
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2023-03-23
+last-modified: 2025-08-02
 layout: default
 tags:
 - php
@@ -48,7 +48,7 @@ if (count($argv) < 2 || empty($argv[1]))
 
 // Remove all whitespace and display string
 $str = remove_all_whitespace($argv[1]);
-echo "${str}\n";
+echo "$str\n";
 
 ```
 

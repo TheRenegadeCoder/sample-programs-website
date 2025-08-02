@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-03-27
 featured-image: longest-palindromic-substring-in-every-language.jpg
-last-modified: 2023-03-27
+last-modified: 2025-08-02
 layout: default
 tags:
 - longest-palindromic-substring
@@ -109,7 +109,7 @@ if (strlen($longest) < 2)
 }
 
 // Show longest palindromic substring
-echo "${longest}\n";
+echo "$longest\n";
 
 ```
 

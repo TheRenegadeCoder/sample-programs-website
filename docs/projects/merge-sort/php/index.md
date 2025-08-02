@@ -3,9 +3,10 @@ authors:
 - Ankit kumar
 - Jeremy Grifski
 - Parker Johansen
+- rzuckerm
 date: 2019-10-10
 featured-image: merge-sort-in-every-language.jpg
-last-modified: 2022-05-09
+last-modified: 2025-08-02
 layout: default
 tags:
 - merge-sort
@@ -38,7 +39,7 @@ function merge_sort($my_array)
         return $my_array;
     }
 
-    $mid = count($my_array) / 2;
+    $mid = intdiv(count($my_array), 2);
     $left = array_slice($my_array, 0, $mid);
     $right = array_slice($my_array, $mid);
     $left = merge_sort($left);
@@ -90,6 +91,7 @@ Merge Sort in [Php](https://sampleprograms.io/languages/php) was written by:
 - Ankit kumar
 - Jeremy Grifski
 - Parker Johansen
+- rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

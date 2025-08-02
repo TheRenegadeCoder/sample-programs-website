@@ -1,7 +1,7 @@
 ---
 date: 2018-03-31
 featured-image: programming-languages.jpg
-last-modified: 2025-03-30
+last-modified: 2025-08-02
 layout: default
 tags:
 - php

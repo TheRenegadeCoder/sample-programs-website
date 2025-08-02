@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-03-23
 featured-image: longest-word-in-every-language.jpg
-last-modified: 2023-03-27
+last-modified: 2025-08-02
 layout: default
 tags:
 - longest-word
@@ -50,7 +50,7 @@ if (count($argv) < 2 || empty($argv[1]))
 // Get longest word length and display
 $str = $argv[1];
 $longest_len = longest_word_length($str);
-echo "${longest_len}\n";
+echo "$longest_len\n";
 
 ```
 
