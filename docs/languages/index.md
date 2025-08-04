@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-08-02
+last-modified: 2025-08-04
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 155 languages, of which 154 are tested, 1 is untestable, and 1241 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1242 code snippets.
 
 ## Language Breakdown
 
@@ -946,6 +946,12 @@ Here are the percentages for each language in the collection:
         <td class="bar-graph"><div style="width: 0.10%; background-color: #C8F0F0;"></div></td> 
     </tr>
 
+    <tr>
+        <td class="right nowrap">M4</td>
+        <td class="right">0.00%</td>
+        <td class="bar-graph"><div style="width: 0.01%; background-color: #CCCCCC;"></div></td> 
+    </tr>
+
 </table>
 </details>
 
@@ -1158,8 +1164,9 @@ The 'L' collection contains 9 languages, of which 9 are tested, and 40 code snip
 
 ### M
 
-The 'M' collection contains 6 languages, of which 5 are tested, 1 is untestable, and 49 code snippets.
+The 'M' collection contains 7 languages, of which 6 are tested, 1 is untestable, and 50 code snippets.
 
+- [M4](https://sampleprograms.io/languages/m4) (1 code snippet)
 - [Malbolge](https://sampleprograms.io/languages/malbolge) (2 code snippets)
 - [Mathematica](https://sampleprograms.io/languages/mathematica) (36 code snippets, [untestabled](https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/m/mathematica/untestable.yml))
 - [Mirth](https://sampleprograms.io/languages/mirth) (2 code snippets)
