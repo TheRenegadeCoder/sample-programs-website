@@ -26,9 +26,10 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 4 articles:
+There are 5 articles:
 
 - [Baklava in M4](https://sampleprograms.io/projects/baklava/m4)
 - [Fizz Buzz in M4](https://sampleprograms.io/projects/fizz-buzz/m4)
 - [Hello World in M4](https://sampleprograms.io/projects/hello-world/m4)
 - [Quine in M4](https://sampleprograms.io/projects/quine/m4)
+- [Rot13 in M4](https://sampleprograms.io/projects/rot13/m4)
