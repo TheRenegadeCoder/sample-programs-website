@@ -1,7 +1,7 @@
 ---
 date: 2025-08-04
 featured-image: programming-languages.jpg
-last-modified: 2025-08-04
+last-modified: 2025-08-09
 layout: default
 tags:
 - m4
@@ -26,6 +26,9 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 4 articles:
 
+- [Baklava in M4](https://sampleprograms.io/projects/baklava/m4)
+- [Fizz Buzz in M4](https://sampleprograms.io/projects/fizz-buzz/m4)
 - [Hello World in M4](https://sampleprograms.io/projects/hello-world/m4)
+- [Quine in M4](https://sampleprograms.io/projects/quine/m4)
