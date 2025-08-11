@@ -26,12 +26,13 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 8 articles:
+There are 9 articles:
 
 - [Baklava in M4](https://sampleprograms.io/projects/baklava/m4)
 - [Capitalize in M4](https://sampleprograms.io/projects/capitalize/m4)
 - [Even Odd in M4](https://sampleprograms.io/projects/even-odd/m4)
 - [Factorial in M4](https://sampleprograms.io/projects/factorial/m4)
+- [Fibonacci in M4](https://sampleprograms.io/projects/fibonacci/m4)
 - [Fizz Buzz in M4](https://sampleprograms.io/projects/fizz-buzz/m4)
 - [Hello World in M4](https://sampleprograms.io/projects/hello-world/m4)
 - [Quine in M4](https://sampleprograms.io/projects/quine/m4)
