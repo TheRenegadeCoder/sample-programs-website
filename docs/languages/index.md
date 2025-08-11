@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1248 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1249 code snippets.
 
 ## Language Breakdown
 
@@ -18,7 +18,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Algol68</td>
-        <td class="right">7.70%</td>
+        <td class="right">7.69%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #AF425E;"></div></td> 
     </tr>
 
@@ -72,7 +72,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Awk</td>
-        <td class="right">3.88%</td>
+        <td class="right">3.87%</td>
         <td class="bar-graph"><div style="width: 50.35%; background-color: #C30E9B;"></div></td> 
     </tr>
 
@@ -317,15 +317,15 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Whitespace</td>
-        <td class="right">0.15%</td>
-        <td class="bar-graph"><div style="width: 1.97%; background-color: #FFFFFF;"></div></td> 
+        <td class="right nowrap">M4</td>
+        <td class="right">0.16%</td>
+        <td class="bar-graph"><div style="width: 2.10%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
     <tr>
-        <td class="right nowrap">M4</td>
-        <td class="right">0.13%</td>
-        <td class="bar-graph"><div style="width: 1.67%; background-color: #CCCCCC;"></div></td> 
+        <td class="right nowrap">Whitespace</td>
+        <td class="right">0.15%</td>
+        <td class="bar-graph"><div style="width: 1.97%; background-color: #FFFFFF;"></div></td> 
     </tr>
 
     <tr>
@@ -1164,9 +1164,9 @@ The 'L' collection contains 9 languages, of which 9 are tested, and 40 code snip
 
 ### M
 
-The 'M' collection contains 7 languages, of which 6 are tested, 1 is untestable, and 56 code snippets.
+The 'M' collection contains 7 languages, of which 6 are tested, 1 is untestable, and 57 code snippets.
 
-- [M4](https://sampleprograms.io/languages/m4) (7 code snippets)
+- [M4](https://sampleprograms.io/languages/m4) (8 code snippets)
 - [Malbolge](https://sampleprograms.io/languages/malbolge) (2 code snippets)
 - [Mathematica](https://sampleprograms.io/languages/mathematica) (36 code snippets, [untestabled](https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/m/mathematica/untestable.yml))
 - [Mirth](https://sampleprograms.io/languages/mirth) (2 code snippets)
