@@ -1,7 +1,7 @@
 ---
 date: 2018-10-21
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2025-05-20
+last-modified: 2025-08-11
 layout: default
 tags:
 - even-odd
@@ -78,7 +78,7 @@ Usage: please input a number
 
 ## Articles
 
-There are 45 articles:
+There are 46 articles:
 
 - [Even Odd in Algol68](https://sampleprograms.io/projects/even-odd/algol68)
 - [Even Odd in Awk](https://sampleprograms.io/projects/even-odd/awk)
@@ -104,6 +104,7 @@ There are 45 articles:
 - [Even Odd in Kotlin](https://sampleprograms.io/projects/even-odd/kotlin)
 - [Even Odd in Lisp](https://sampleprograms.io/projects/even-odd/lisp)
 - [Even Odd in Lua](https://sampleprograms.io/projects/even-odd/lua)
+- [Even Odd in M4](https://sampleprograms.io/projects/even-odd/m4)
 - [Even Odd in Mathematica](https://sampleprograms.io/projects/even-odd/mathematica)
 - [Even Odd in Objective C](https://sampleprograms.io/projects/even-odd/objective-c)
 - [Even Odd in Octave](https://sampleprograms.io/projects/even-odd/octave)

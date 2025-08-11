@@ -1,7 +1,7 @@
 ---
 date: 2019-03-31
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2025-05-16
+last-modified: 2025-08-11
 layout: default
 tags:
 - capitalize
@@ -89,7 +89,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 38 articles:
+There are 39 articles:
 
 - [Capitalize in Algol68](https://sampleprograms.io/projects/capitalize/algol68)
 - [Capitalize in Awk](https://sampleprograms.io/projects/capitalize/awk)
@@ -115,6 +115,7 @@ There are 38 articles:
 - [Capitalize in Kotlin](https://sampleprograms.io/projects/capitalize/kotlin)
 - [Capitalize in Lisp](https://sampleprograms.io/projects/capitalize/lisp)
 - [Capitalize in Lua](https://sampleprograms.io/projects/capitalize/lua)
+- [Capitalize in M4](https://sampleprograms.io/projects/capitalize/m4)
 - [Capitalize in Mathematica](https://sampleprograms.io/projects/capitalize/mathematica)
 - [Capitalize in Objective C](https://sampleprograms.io/projects/capitalize/objective-c)
 - [Capitalize in Octave](https://sampleprograms.io/projects/capitalize/octave)
