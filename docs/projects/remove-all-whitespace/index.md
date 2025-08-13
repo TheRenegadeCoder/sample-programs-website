@@ -1,7 +1,7 @@
 ---
 date: 2022-04-28
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2025-08-02
+last-modified: 2025-08-13
 layout: default
 tags:
 - remove-all-whitespace
@@ -95,7 +95,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 22 articles:
+There are 23 articles:
 
 - [Remove All Whitespace in Algol68](https://sampleprograms.io/projects/remove-all-whitespace/algol68)
 - [Remove All Whitespace in Awk](https://sampleprograms.io/projects/remove-all-whitespace/awk)
@@ -111,6 +111,7 @@ There are 22 articles:
 - [Remove All Whitespace in Go](https://sampleprograms.io/projects/remove-all-whitespace/go)
 - [Remove All Whitespace in Javascript](https://sampleprograms.io/projects/remove-all-whitespace/javascript)
 - [Remove All Whitespace in Julia](https://sampleprograms.io/projects/remove-all-whitespace/julia)
+- [Remove All Whitespace in M4](https://sampleprograms.io/projects/remove-all-whitespace/m4)
 - [Remove All Whitespace in Mathematica](https://sampleprograms.io/projects/remove-all-whitespace/mathematica)
 - [Remove All Whitespace in Pascal](https://sampleprograms.io/projects/remove-all-whitespace/pascal)
 - [Remove All Whitespace in Php](https://sampleprograms.io/projects/remove-all-whitespace/php)
