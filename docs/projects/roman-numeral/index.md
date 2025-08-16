@@ -1,7 +1,7 @@
 ---
 date: 2018-10-07
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: 2025-07-21
+last-modified: 2025-08-16
 layout: default
 tags:
 - roman-numeral
@@ -102,7 +102,7 @@ In order to keep things simple, we split up the testing as follows:
 
 ## Articles
 
-There are 21 articles:
+There are 22 articles:
 
 - [Roman Numeral in Algol68](https://sampleprograms.io/projects/roman-numeral/algol68)
 - [Roman Numeral in Awk](https://sampleprograms.io/projects/roman-numeral/awk)
@@ -117,6 +117,7 @@ There are 21 articles:
 - [Roman Numeral in Haskell](https://sampleprograms.io/projects/roman-numeral/haskell)
 - [Roman Numeral in Javascript](https://sampleprograms.io/projects/roman-numeral/javascript)
 - [Roman Numeral in Lua](https://sampleprograms.io/projects/roman-numeral/lua)
+- [Roman Numeral in M4](https://sampleprograms.io/projects/roman-numeral/m4)
 - [Roman Numeral in Mathematica](https://sampleprograms.io/projects/roman-numeral/mathematica)
 - [Roman Numeral in Pascal](https://sampleprograms.io/projects/roman-numeral/pascal)
 - [Roman Numeral in Php](https://sampleprograms.io/projects/roman-numeral/php)

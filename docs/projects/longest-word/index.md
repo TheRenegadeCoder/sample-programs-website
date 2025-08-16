@@ -1,7 +1,7 @@
 ---
 date: 2022-04-28
 featured-image: longest-word-in-every-language.jpg
-last-modified: 2025-08-02
+last-modified: 2025-08-16
 layout: default
 tags:
 - longest-word
@@ -98,7 +98,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 29 articles:
+There are 30 articles:
 
 - [Longest Word in Algol68](https://sampleprograms.io/projects/longest-word/algol68)
 - [Longest Word in Awk](https://sampleprograms.io/projects/longest-word/awk)
@@ -116,6 +116,7 @@ There are 29 articles:
 - [Longest Word in Julia](https://sampleprograms.io/projects/longest-word/julia)
 - [Longest Word in Kotlin](https://sampleprograms.io/projects/longest-word/kotlin)
 - [Longest Word in Lua](https://sampleprograms.io/projects/longest-word/lua)
+- [Longest Word in M4](https://sampleprograms.io/projects/longest-word/m4)
 - [Longest Word in Mathematica](https://sampleprograms.io/projects/longest-word/mathematica)
 - [Longest Word in Odin](https://sampleprograms.io/projects/longest-word/odin)
 - [Longest Word in Pascal](https://sampleprograms.io/projects/longest-word/pascal)
