@@ -1,7 +1,7 @@
 ---
 date: 2025-08-04
 featured-image: programming-languages.jpg
-last-modified: 2025-08-15
+last-modified: 2025-08-16
 layout: default
 tags:
 - m4
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 12 articles:
+There are 13 articles:
 
 - [Baklava in M4](https://sampleprograms.io/projects/baklava/m4)
 - [Capitalize in M4](https://sampleprograms.io/projects/capitalize/m4)
@@ -36,6 +36,7 @@ There are 12 articles:
 - [Fizz Buzz in M4](https://sampleprograms.io/projects/fizz-buzz/m4)
 - [Hello World in M4](https://sampleprograms.io/projects/hello-world/m4)
 - [Palindromic Number in M4](https://sampleprograms.io/projects/palindromic-number/m4)
+- [Prime Number in M4](https://sampleprograms.io/projects/prime-number/m4)
 - [Quine in M4](https://sampleprograms.io/projects/quine/m4)
 - [Remove All Whitespace in M4](https://sampleprograms.io/projects/remove-all-whitespace/m4)
 - [Reverse String in M4](https://sampleprograms.io/projects/reverse-string/m4)
