@@ -1,7 +1,7 @@
 ---
 date: 2025-08-04
 featured-image: programming-languages.jpg
-last-modified: 2025-08-16
+last-modified: 2025-08-18
 layout: default
 tags:
 - m4
@@ -26,10 +26,11 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 16 articles:
+There are 17 articles:
 
 - [Baklava in M4](https://sampleprograms.io/projects/baklava/m4)
 - [Capitalize in M4](https://sampleprograms.io/projects/capitalize/m4)
+- [Duplicate Character Counter in M4](https://sampleprograms.io/projects/duplicate-character-counter/m4)
 - [Even Odd in M4](https://sampleprograms.io/projects/even-odd/m4)
 - [Factorial in M4](https://sampleprograms.io/projects/factorial/m4)
 - [Fibonacci in M4](https://sampleprograms.io/projects/fibonacci/m4)
