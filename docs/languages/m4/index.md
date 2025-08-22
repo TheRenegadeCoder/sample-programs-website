@@ -1,7 +1,7 @@
 ---
 date: 2025-08-04
 featured-image: programming-languages.jpg
-last-modified: 2025-08-18
+last-modified: 2025-08-22
 layout: default
 tags:
 - m4
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 17 articles:
+There are 18 articles:
 
 - [Baklava in M4](https://sampleprograms.io/projects/baklava/m4)
 - [Capitalize in M4](https://sampleprograms.io/projects/capitalize/m4)
@@ -35,6 +35,7 @@ There are 17 articles:
 - [Factorial in M4](https://sampleprograms.io/projects/factorial/m4)
 - [Fibonacci in M4](https://sampleprograms.io/projects/fibonacci/m4)
 - [Fizz Buzz in M4](https://sampleprograms.io/projects/fizz-buzz/m4)
+- [Fraction Math in M4](https://sampleprograms.io/projects/fraction-math/m4)
 - [Hello World in M4](https://sampleprograms.io/projects/hello-world/m4)
 - [Josephus Problem in M4](https://sampleprograms.io/projects/josephus-problem/m4)
 - [Longest Word in M4](https://sampleprograms.io/projects/longest-word/m4)
