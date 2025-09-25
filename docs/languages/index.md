@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-09-13
+last-modified: 2025-09-25
 layout: default
 title: Programming Languages
 ---
@@ -120,7 +120,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">M4</td>
-        <td class="right">1.75%</td>
+        <td class="right">1.76%</td>
         <td class="bar-graph"><div style="width: 23.18%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
@@ -719,12 +719,6 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Elena</td>
-        <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.41%; background-color: #AD9274;"></div></td> 
-    </tr>
-
-    <tr>
         <td class="right nowrap">Shen</td>
         <td class="right">0.03%</td>
         <td class="bar-graph"><div style="width: 0.41%; background-color: #120F14;"></div></td> 
@@ -734,6 +728,12 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Owl Lisp</td>
         <td class="right">0.03%</td>
         <td class="bar-graph"><div style="width: 0.41%; background-color: #446655;"></div></td> 
+    </tr>
+
+    <tr>
+        <td class="right nowrap">Elena</td>
+        <td class="right">0.03%</td>
+        <td class="bar-graph"><div style="width: 0.41%; background-color: #AD9274;"></div></td> 
     </tr>
 
     <tr>
