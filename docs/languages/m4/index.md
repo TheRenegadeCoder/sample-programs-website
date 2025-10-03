@@ -1,7 +1,7 @@
 ---
 date: 2025-08-04
 featured-image: programming-languages.jpg
-last-modified: 2025-10-01
+last-modified: 2025-10-03
 layout: default
 tags:
 - m4
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 24 articles:
+There are 26 articles:
 
 - [Baklava in M4](https://sampleprograms.io/projects/baklava/m4)
 - [Binary Search in M4](https://sampleprograms.io/projects/binary-search/m4)
@@ -39,6 +39,7 @@ There are 24 articles:
 - [Fizz Buzz in M4](https://sampleprograms.io/projects/fizz-buzz/m4)
 - [Fraction Math in M4](https://sampleprograms.io/projects/fraction-math/m4)
 - [Hello World in M4](https://sampleprograms.io/projects/hello-world/m4)
+- [Insertion Sort in M4](https://sampleprograms.io/projects/insertion-sort/m4)
 - [Josephus Problem in M4](https://sampleprograms.io/projects/josephus-problem/m4)
 - [Linear Search in M4](https://sampleprograms.io/projects/linear-search/m4)
 - [Longest Palindromic Substring in M4](https://sampleprograms.io/projects/longest-palindromic-substring/m4)
@@ -52,3 +53,4 @@ There are 24 articles:
 - [Reverse String in M4](https://sampleprograms.io/projects/reverse-string/m4)
 - [Roman Numeral in M4](https://sampleprograms.io/projects/roman-numeral/m4)
 - [Rot13 in M4](https://sampleprograms.io/projects/rot13/m4)
+- [Selection Sort in M4](https://sampleprograms.io/projects/selection-sort/m4)
