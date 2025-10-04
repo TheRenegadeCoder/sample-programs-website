@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-10-03
+last-modified: 2025-10-04
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1267 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1268 code snippets.
 
 ## Language Breakdown
 
@@ -66,7 +66,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C#</td>
-        <td class="right">4.14%</td>
+        <td class="right">4.13%</td>
         <td class="bar-graph"><div style="width: 54.95%; background-color: #178600;"></div></td> 
     </tr>
 
@@ -90,7 +90,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C++</td>
-        <td class="right">3.01%</td>
+        <td class="right">3.00%</td>
         <td class="bar-graph"><div style="width: 39.92%; background-color: #F34B7D;"></div></td> 
     </tr>
 
@@ -222,8 +222,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Dart</td>
-        <td class="right">0.50%</td>
-        <td class="bar-graph"><div style="width: 6.63%; background-color: #00B4AB;"></div></td> 
+        <td class="right">0.54%</td>
+        <td class="bar-graph"><div style="width: 7.15%; background-color: #00B4AB;"></div></td> 
     </tr>
 
     <tr>
@@ -1041,11 +1041,11 @@ The 'C' collection contains 14 languages, of which 14 are tested, and 178 code s
 
 ### D
 
-The 'D' collection contains 6 languages, of which 6 are tested, and 28 code snippets.
+The 'D' collection contains 6 languages, of which 6 are tested, and 29 code snippets.
 
 - [D](https://sampleprograms.io/languages/d) (4 code snippets)
 - [Dale](https://sampleprograms.io/languages/dale) (2 code snippets)
-- [Dart](https://sampleprograms.io/languages/dart) (12 code snippets)
+- [Dart](https://sampleprograms.io/languages/dart) (13 code snippets)
 - [Dg](https://sampleprograms.io/languages/dg) (6 code snippets)
 - [Discus](https://sampleprograms.io/languages/discus) (2 code snippets)
 - [Dusk](https://sampleprograms.io/languages/dusk) (2 code snippets)
