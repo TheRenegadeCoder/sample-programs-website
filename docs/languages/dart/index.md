@@ -67,11 +67,12 @@ A programmer can just get started from the get-go!
 
 ## Articles
 
-There are 15 articles:
+There are 16 articles:
 
 - [Baklava in Dart](https://sampleprograms.io/projects/baklava/dart)
 - [Bubble Sort in Dart](https://sampleprograms.io/projects/bubble-sort/dart)
 - [Capitalize in Dart](https://sampleprograms.io/projects/capitalize/dart)
+- [Duplicate Character Counter in Dart](https://sampleprograms.io/projects/duplicate-character-counter/dart)
 - [Even Odd in Dart](https://sampleprograms.io/projects/even-odd/dart)
 - [Factorial in Dart](https://sampleprograms.io/projects/factorial/dart)
 - [Fibonacci in Dart](https://sampleprograms.io/projects/fibonacci/dart)

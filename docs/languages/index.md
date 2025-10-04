@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1270 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1271 code snippets.
 
 ## Language Breakdown
 
@@ -18,7 +18,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Algol68</td>
-        <td class="right">7.52%</td>
+        <td class="right">7.51%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #AF425E;"></div></td> 
     </tr>
 
@@ -48,13 +48,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Rust</td>
-        <td class="right">4.69%</td>
+        <td class="right">4.68%</td>
         <td class="bar-graph"><div style="width: 62.35%; background-color: #DEA584;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">C</td>
-        <td class="right">4.65%</td>
+        <td class="right">4.64%</td>
         <td class="bar-graph"><div style="width: 61.81%; background-color: #555555;"></div></td> 
     </tr>
 
@@ -72,7 +72,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Awk</td>
-        <td class="right">3.79%</td>
+        <td class="right">3.78%</td>
         <td class="bar-graph"><div style="width: 50.35%; background-color: #C30E9B;"></div></td> 
     </tr>
 
@@ -156,7 +156,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Perl</td>
-        <td class="right">0.89%</td>
+        <td class="right">0.88%</td>
         <td class="bar-graph"><div style="width: 11.77%; background-color: #0298C3;"></div></td> 
     </tr>
 
@@ -191,8 +191,14 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
+        <td class="right nowrap">Dart</td>
+        <td class="right">0.68%</td>
+        <td class="bar-graph"><div style="width: 9.03%; background-color: #00B4AB;"></div></td> 
+    </tr>
+
+    <tr>
         <td class="right nowrap">Scala</td>
-        <td class="right">0.66%</td>
+        <td class="right">0.65%</td>
         <td class="bar-graph"><div style="width: 8.71%; background-color: #C22D40;"></div></td> 
     </tr>
 
@@ -218,12 +224,6 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Lua</td>
         <td class="right">0.62%</td>
         <td class="bar-graph"><div style="width: 8.19%; background-color: #000080;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">Dart</td>
-        <td class="right">0.61%</td>
-        <td class="bar-graph"><div style="width: 8.18%; background-color: #00B4AB;"></div></td> 
     </tr>
 
     <tr>
@@ -306,7 +306,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Tex</td>
-        <td class="right">0.23%</td>
+        <td class="right">0.22%</td>
         <td class="bar-graph"><div style="width: 2.99%; background-color: #3D6117;"></div></td> 
     </tr>
 
@@ -1041,11 +1041,11 @@ The 'C' collection contains 14 languages, of which 14 are tested, and 178 code s
 
 ### D
 
-The 'D' collection contains 6 languages, of which 6 are tested, and 31 code snippets.
+The 'D' collection contains 6 languages, of which 6 are tested, and 32 code snippets.
 
 - [D](https://sampleprograms.io/languages/d) (4 code snippets)
 - [Dale](https://sampleprograms.io/languages/dale) (2 code snippets)
-- [Dart](https://sampleprograms.io/languages/dart) (15 code snippets)
+- [Dart](https://sampleprograms.io/languages/dart) (16 code snippets)
 - [Dg](https://sampleprograms.io/languages/dg) (6 code snippets)
 - [Discus](https://sampleprograms.io/languages/discus) (2 code snippets)
 - [Dusk](https://sampleprograms.io/languages/dusk) (2 code snippets)
