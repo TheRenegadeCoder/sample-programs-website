@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-06-21
 featured-image: programming-languages.jpg
-last-modified: 2025-10-04
+last-modified: 2025-10-05
 layout: default
 tags:
 - dart
@@ -67,7 +67,7 @@ A programmer can just get started from the get-go!
 
 ## Articles
 
-There are 16 articles:
+There are 17 articles:
 
 - [Baklava in Dart](https://sampleprograms.io/projects/baklava/dart)
 - [Bubble Sort in Dart](https://sampleprograms.io/projects/bubble-sort/dart)
@@ -81,6 +81,7 @@ There are 16 articles:
 - [Longest Word in Dart](https://sampleprograms.io/projects/longest-word/dart)
 - [Palindromic Number in Dart](https://sampleprograms.io/projects/palindromic-number/dart)
 - [Quick Sort in Dart](https://sampleprograms.io/projects/quick-sort/dart)
+- [Remove All Whitespace in Dart](https://sampleprograms.io/projects/remove-all-whitespace/dart)
 - [Reverse String in Dart](https://sampleprograms.io/projects/reverse-string/dart)
 - [Roman Numeral in Dart](https://sampleprograms.io/projects/roman-numeral/dart)
 - [Rot13 in Dart](https://sampleprograms.io/projects/rot13/dart)

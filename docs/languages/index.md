@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-10-04
+last-modified: 2025-10-05
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1271 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1272 code snippets.
 
 ## Language Breakdown
 
@@ -36,7 +36,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Beef</td>
-        <td class="right">6.33%</td>
+        <td class="right">6.32%</td>
         <td class="bar-graph"><div style="width: 84.19%; background-color: #A52F4E;"></div></td> 
     </tr>
 
@@ -179,6 +179,12 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
+        <td class="right nowrap">Dart</td>
+        <td class="right">0.71%</td>
+        <td class="bar-graph"><div style="width: 9.50%; background-color: #00B4AB;"></div></td> 
+    </tr>
+
+    <tr>
         <td class="right nowrap">Unicat</td>
         <td class="right">0.70%</td>
         <td class="bar-graph"><div style="width: 9.27%; background-color: #FFDE34;"></div></td> 
@@ -186,14 +192,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Octave</td>
-        <td class="right">0.70%</td>
+        <td class="right">0.69%</td>
         <td class="bar-graph"><div style="width: 9.25%; background-color: #E16737;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">Dart</td>
-        <td class="right">0.68%</td>
-        <td class="bar-graph"><div style="width: 9.03%; background-color: #00B4AB;"></div></td> 
     </tr>
 
     <tr>
@@ -1041,11 +1041,11 @@ The 'C' collection contains 14 languages, of which 14 are tested, and 178 code s
 
 ### D
 
-The 'D' collection contains 6 languages, of which 6 are tested, and 32 code snippets.
+The 'D' collection contains 6 languages, of which 6 are tested, and 33 code snippets.
 
 - [D](https://sampleprograms.io/languages/d) (4 code snippets)
 - [Dale](https://sampleprograms.io/languages/dale) (2 code snippets)
-- [Dart](https://sampleprograms.io/languages/dart) (16 code snippets)
+- [Dart](https://sampleprograms.io/languages/dart) (17 code snippets)
 - [Dg](https://sampleprograms.io/languages/dg) (6 code snippets)
 - [Discus](https://sampleprograms.io/languages/discus) (2 code snippets)
 - [Dusk](https://sampleprograms.io/languages/dusk) (2 code snippets)
