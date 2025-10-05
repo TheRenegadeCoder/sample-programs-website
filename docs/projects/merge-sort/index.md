@@ -1,7 +1,7 @@
 ---
 date: 2018-12-03
 featured-image: merge-sort-in-every-language.jpg
-last-modified: 2025-08-02
+last-modified: 2025-10-05
 layout: default
 tags:
 - merge-sort
@@ -124,7 +124,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-There are 24 articles:
+There are 25 articles:
 
 - [Merge Sort in Algol68](https://sampleprograms.io/projects/merge-sort/algol68)
 - [Merge Sort in Awk](https://sampleprograms.io/projects/merge-sort/awk)
@@ -140,6 +140,7 @@ There are 24 articles:
 - [Merge Sort in Java](https://sampleprograms.io/projects/merge-sort/java)
 - [Merge Sort in Javascript](https://sampleprograms.io/projects/merge-sort/javascript)
 - [Merge Sort in Kotlin](https://sampleprograms.io/projects/merge-sort/kotlin)
+- [Merge Sort in M4](https://sampleprograms.io/projects/merge-sort/m4)
 - [Merge Sort in Mathematica](https://sampleprograms.io/projects/merge-sort/mathematica)
 - [Merge Sort in Objective C](https://sampleprograms.io/projects/merge-sort/objective-c)
 - [Merge Sort in Octave](https://sampleprograms.io/projects/merge-sort/octave)
