@@ -1,7 +1,7 @@
 ---
 date: 2018-05-06
 featured-image: programming-languages.jpg
-last-modified: 2025-05-04
+last-modified: 2025-10-06
 layout: default
 tags:
 - javascript
@@ -26,9 +26,10 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 31 articles:
+There are 32 articles:
 
 - [Baklava in Javascript](https://sampleprograms.io/projects/baklava/javascript)
+- [Base64 Encode Decode in Javascript](https://sampleprograms.io/projects/base64-encode-decode/javascript)
 - [Binary Search in Javascript](https://sampleprograms.io/projects/binary-search/javascript)
 - [Bubble Sort in Javascript](https://sampleprograms.io/projects/bubble-sort/javascript)
 - [Capitalize in Javascript](https://sampleprograms.io/projects/capitalize/javascript)
