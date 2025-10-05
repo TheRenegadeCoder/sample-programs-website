@@ -67,7 +67,7 @@ A programmer can just get started from the get-go!
 
 ## Articles
 
-There are 17 articles:
+There are 18 articles:
 
 - [Baklava in Dart](https://sampleprograms.io/projects/baklava/dart)
 - [Bubble Sort in Dart](https://sampleprograms.io/projects/bubble-sort/dart)
@@ -80,6 +80,7 @@ There are 17 articles:
 - [Hello World in Dart](https://sampleprograms.io/projects/hello-world/dart)
 - [Longest Word in Dart](https://sampleprograms.io/projects/longest-word/dart)
 - [Palindromic Number in Dart](https://sampleprograms.io/projects/palindromic-number/dart)
+- [Prime Number in Dart](https://sampleprograms.io/projects/prime-number/dart)
 - [Quick Sort in Dart](https://sampleprograms.io/projects/quick-sort/dart)
 - [Remove All Whitespace in Dart](https://sampleprograms.io/projects/remove-all-whitespace/dart)
 - [Reverse String in Dart](https://sampleprograms.io/projects/reverse-string/dart)
