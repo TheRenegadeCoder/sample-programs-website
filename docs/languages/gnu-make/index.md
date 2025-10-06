@@ -109,12 +109,14 @@ Loops can be simulated using macros that invoke themselves recursively.
 
 ## Articles
 
-There are 7 articles:
+There are 9 articles:
 
 - [Baklava in Gnu Make](https://sampleprograms.io/projects/baklava/gnu-make)
+- [Capitalize in Gnu Make](https://sampleprograms.io/projects/capitalize/gnu-make)
 - [Even Odd in Gnu Make](https://sampleprograms.io/projects/even-odd/gnu-make)
 - [File Input Output in Gnu Make](https://sampleprograms.io/projects/file-input-output/gnu-make)
 - [Fizz Buzz in Gnu Make](https://sampleprograms.io/projects/fizz-buzz/gnu-make)
 - [Hello World in Gnu Make](https://sampleprograms.io/projects/hello-world/gnu-make)
 - [Prime Number in Gnu Make](https://sampleprograms.io/projects/prime-number/gnu-make)
 - [Quine in Gnu Make](https://sampleprograms.io/projects/quine/gnu-make)
+- [Remove All Whitespace in Gnu Make](https://sampleprograms.io/projects/remove-all-whitespace/gnu-make)

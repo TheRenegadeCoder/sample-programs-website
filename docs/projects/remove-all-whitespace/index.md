@@ -95,7 +95,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 24 articles:
+There are 25 articles:
 
 - [Remove All Whitespace in Algol68](https://sampleprograms.io/projects/remove-all-whitespace/algol68)
 - [Remove All Whitespace in Awk](https://sampleprograms.io/projects/remove-all-whitespace/awk)
@@ -109,6 +109,7 @@ There are 24 articles:
 - [Remove All Whitespace in Elvish](https://sampleprograms.io/projects/remove-all-whitespace/elvish)
 - [Remove All Whitespace in Euphoria](https://sampleprograms.io/projects/remove-all-whitespace/euphoria)
 - [Remove All Whitespace in F#](https://sampleprograms.io/projects/remove-all-whitespace/f-sharp)
+- [Remove All Whitespace in Gnu Make](https://sampleprograms.io/projects/remove-all-whitespace/gnu-make)
 - [Remove All Whitespace in Go](https://sampleprograms.io/projects/remove-all-whitespace/go)
 - [Remove All Whitespace in Javascript](https://sampleprograms.io/projects/remove-all-whitespace/javascript)
 - [Remove All Whitespace in Julia](https://sampleprograms.io/projects/remove-all-whitespace/julia)
