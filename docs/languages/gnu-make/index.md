@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-07-11
 featured-image: programming-languages.jpg
-last-modified: 2023-08-23
+last-modified: 2025-10-05
 layout: default
 tags:
 - gnu-make
@@ -109,9 +109,10 @@ Loops can be simulated using macros that invoke themselves recursively.
 
 ## Articles
 
-There are 6 articles:
+There are 7 articles:
 
 - [Baklava in Gnu Make](https://sampleprograms.io/projects/baklava/gnu-make)
+- [Even Odd in Gnu Make](https://sampleprograms.io/projects/even-odd/gnu-make)
 - [File Input Output in Gnu Make](https://sampleprograms.io/projects/file-input-output/gnu-make)
 - [Fizz Buzz in Gnu Make](https://sampleprograms.io/projects/fizz-buzz/gnu-make)
 - [Hello World in Gnu Make](https://sampleprograms.io/projects/hello-world/gnu-make)
