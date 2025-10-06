@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1280 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1282 code snippets.
 
 ## Language Breakdown
 
@@ -18,13 +18,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Algol68</td>
-        <td class="right">7.43%</td>
+        <td class="right">7.42%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #AF425E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Commodore Basic</td>
-        <td class="right">7.33%</td>
+        <td class="right">7.32%</td>
         <td class="bar-graph"><div style="width: 98.72%; background-color: #4F44D8;"></div></td> 
     </tr>
 
@@ -42,7 +42,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Pascal</td>
-        <td class="right">5.30%</td>
+        <td class="right">5.29%</td>
         <td class="bar-graph"><div style="width: 71.34%; background-color: #E3F171;"></div></td> 
     </tr>
 
@@ -90,13 +90,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C++</td>
-        <td class="right">2.97%</td>
+        <td class="right">2.96%</td>
         <td class="bar-graph"><div style="width: 39.92%; background-color: #F34B7D;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">M4</td>
-        <td class="right">2.85%</td>
+        <td class="right">2.84%</td>
         <td class="bar-graph"><div style="width: 38.31%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
@@ -120,8 +120,14 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Go</td>
-        <td class="right">2.16%</td>
+        <td class="right">2.15%</td>
         <td class="bar-graph"><div style="width: 29.02%; background-color: #00ADD8;"></div></td> 
+    </tr>
+
+    <tr>
+        <td class="right nowrap">Kotlin</td>
+        <td class="right">1.39%</td>
+        <td class="bar-graph"><div style="width: 18.79%; background-color: #A97BFF;"></div></td> 
     </tr>
 
     <tr>
@@ -131,20 +137,14 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Kotlin</td>
-        <td class="right">1.28%</td>
-        <td class="bar-graph"><div style="width: 17.17%; background-color: #A97BFF;"></div></td> 
-    </tr>
-
-    <tr>
         <td class="right nowrap">Objective C</td>
-        <td class="right">1.27%</td>
+        <td class="right">1.26%</td>
         <td class="bar-graph"><div style="width: 17.05%; background-color: #438EFF;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Haskell</td>
-        <td class="right">1.20%</td>
+        <td class="right">1.19%</td>
         <td class="bar-graph"><div style="width: 16.11%; background-color: #5E5086;"></div></td> 
     </tr>
 
@@ -240,7 +240,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Julia</td>
-        <td class="right">0.43%</td>
+        <td class="right">0.42%</td>
         <td class="bar-graph"><div style="width: 5.73%; background-color: #A270BA;"></div></td> 
     </tr>
 
@@ -264,7 +264,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Visual Basic</td>
-        <td class="right">0.32%</td>
+        <td class="right">0.31%</td>
         <td class="bar-graph"><div style="width: 4.24%; background-color: #945DB7;"></div></td> 
     </tr>
 
@@ -1138,11 +1138,11 @@ The 'J' collection contains 4 languages, of which 4 are tested, and 76 code snip
 
 ### K
 
-The 'K' collection contains 3 languages, of which 3 are tested, and 26 code snippets.
+The 'K' collection contains 3 languages, of which 3 are tested, and 28 code snippets.
 
 - [Kitten](https://sampleprograms.io/languages/kitten) (2 code snippets)
 - [Koka](https://sampleprograms.io/languages/koka) (2 code snippets)
-- [Kotlin](https://sampleprograms.io/languages/kotlin) (22 code snippets)
+- [Kotlin](https://sampleprograms.io/languages/kotlin) (24 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 

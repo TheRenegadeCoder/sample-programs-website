@@ -60,7 +60,7 @@ In this example, the lastChar method is added to the String class. How cool is t
 
 ## Articles
 
-There are 22 articles:
+There are 24 articles:
 
 - [Baklava in Kotlin](https://sampleprograms.io/projects/baklava/kotlin)
 - [Binary Search in Kotlin](https://sampleprograms.io/projects/binary-search/kotlin)
@@ -82,5 +82,7 @@ There are 22 articles:
 - [Prime Number in Kotlin](https://sampleprograms.io/projects/prime-number/kotlin)
 - [Quick Sort in Kotlin](https://sampleprograms.io/projects/quick-sort/kotlin)
 - [Quine in Kotlin](https://sampleprograms.io/projects/quine/kotlin)
+- [Remove All Whitespace in Kotlin](https://sampleprograms.io/projects/remove-all-whitespace/kotlin)
 - [Reverse String in Kotlin](https://sampleprograms.io/projects/reverse-string/kotlin)
 - [Rot13 in Kotlin](https://sampleprograms.io/projects/rot13/kotlin)
+- [Selection Sort in Kotlin](https://sampleprograms.io/projects/selection-sort/kotlin)
