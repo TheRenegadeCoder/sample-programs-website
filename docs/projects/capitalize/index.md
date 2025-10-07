@@ -1,7 +1,7 @@
 ---
 date: 2019-03-31
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2025-10-05
+last-modified: 2025-10-07
 layout: default
 tags:
 - capitalize
@@ -89,7 +89,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 40 articles:
+There are 41 articles:
 
 - [Capitalize in Algol68](https://sampleprograms.io/projects/capitalize/algol68)
 - [Capitalize in Awk](https://sampleprograms.io/projects/capitalize/awk)
@@ -129,6 +129,7 @@ There are 40 articles:
 - [Capitalize in Ruby](https://sampleprograms.io/projects/capitalize/ruby)
 - [Capitalize in Rust](https://sampleprograms.io/projects/capitalize/rust)
 - [Capitalize in Scala](https://sampleprograms.io/projects/capitalize/scala)
+- [Capitalize in Tcl](https://sampleprograms.io/projects/capitalize/tcl)
 - [Capitalize in Ti Basic](https://sampleprograms.io/projects/capitalize/ti-basic)
 - [Capitalize in Typescript](https://sampleprograms.io/projects/capitalize/typescript)
 

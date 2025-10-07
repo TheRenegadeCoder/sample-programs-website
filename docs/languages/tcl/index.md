@@ -26,8 +26,9 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 3 articles:
+There are 4 articles:
 
 - [Baklava in Tcl](https://sampleprograms.io/projects/baklava/tcl)
 - [Binary Search in Tcl](https://sampleprograms.io/projects/binary-search/tcl)
+- [Capitalize in Tcl](https://sampleprograms.io/projects/capitalize/tcl)
 - [Hello World in Tcl](https://sampleprograms.io/projects/hello-world/tcl)

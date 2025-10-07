@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1283 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1284 code snippets.
 
 ## Language Breakdown
 
@@ -42,7 +42,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Pascal</td>
-        <td class="right">5.29%</td>
+        <td class="right">5.28%</td>
         <td class="bar-graph"><div style="width: 71.34%; background-color: #E3F171;"></div></td> 
     </tr>
 
@@ -323,15 +323,15 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Whitespace</td>
-        <td class="right">0.15%</td>
-        <td class="bar-graph"><div style="width: 1.97%; background-color: #FFFFFF;"></div></td> 
+        <td class="right nowrap">Tcl</td>
+        <td class="right">0.16%</td>
+        <td class="bar-graph"><div style="width: 2.20%; background-color: #E4CC98;"></div></td> 
     </tr>
 
     <tr>
-        <td class="right nowrap">Tcl</td>
-        <td class="right">0.14%</td>
-        <td class="bar-graph"><div style="width: 1.93%; background-color: #E4CC98;"></div></td> 
+        <td class="right nowrap">Whitespace</td>
+        <td class="right">0.15%</td>
+        <td class="bar-graph"><div style="width: 1.97%; background-color: #FFFFFF;"></div></td> 
     </tr>
 
     <tr>
@@ -1263,9 +1263,9 @@ The 'S' collection contains 10 languages, of which 10 are tested, and 41 code sn
 
 ### T
 
-The 'T' collection contains 5 languages, of which 5 are tested, and 44 code snippets.
+The 'T' collection contains 5 languages, of which 5 are tested, and 45 code snippets.
 
-- [Tcl](https://sampleprograms.io/languages/tcl) (3 code snippets)
+- [Tcl](https://sampleprograms.io/languages/tcl) (4 code snippets)
 - [Terra](https://sampleprograms.io/languages/terra) (2 code snippets)
 - [Tex](https://sampleprograms.io/languages/tex) (3 code snippets)
 - [Ti Basic](https://sampleprograms.io/languages/ti-basic) (13 code snippets)
