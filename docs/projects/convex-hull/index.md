@@ -1,7 +1,7 @@
 ---
 date: 2019-10-22
 featured-image: convex-hull-in-every-language.jpg
-last-modified: 2025-07-29
+last-modified: 2025-10-08
 layout: default
 tags:
 - convex-hull
@@ -98,7 +98,7 @@ Usage: please provide at least 3 x and y coordinates as separate lists (e.g. "10
 
 ## Articles
 
-There are 15 articles:
+There are 16 articles:
 
 - [Convex Hull in Algol68](https://sampleprograms.io/projects/convex-hull/algol68)
 - [Convex Hull in Awk](https://sampleprograms.io/projects/convex-hull/awk)
@@ -115,6 +115,7 @@ There are 15 articles:
 - [Convex Hull in Powershell](https://sampleprograms.io/projects/convex-hull/powershell)
 - [Convex Hull in Python](https://sampleprograms.io/projects/convex-hull/python)
 - [Convex Hull in Rust](https://sampleprograms.io/projects/convex-hull/rust)
+- [Convex Hull in Tcl](https://sampleprograms.io/projects/convex-hull/tcl)
 
 ***
 

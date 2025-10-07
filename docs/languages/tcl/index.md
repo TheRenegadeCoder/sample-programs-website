@@ -1,7 +1,7 @@
 ---
 date: 2018-04-19
 featured-image: programming-languages.jpg
-last-modified: 2025-10-07
+last-modified: 2025-10-08
 layout: default
 tags:
 - tcl
@@ -26,9 +26,11 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 4 articles:
+There are 6 articles:
 
 - [Baklava in Tcl](https://sampleprograms.io/projects/baklava/tcl)
 - [Binary Search in Tcl](https://sampleprograms.io/projects/binary-search/tcl)
+- [Bubble Sort in Tcl](https://sampleprograms.io/projects/bubble-sort/tcl)
 - [Capitalize in Tcl](https://sampleprograms.io/projects/capitalize/tcl)
+- [Convex Hull in Tcl](https://sampleprograms.io/projects/convex-hull/tcl)
 - [Hello World in Tcl](https://sampleprograms.io/projects/hello-world/tcl)
