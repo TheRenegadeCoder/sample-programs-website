@@ -1,7 +1,7 @@
 ---
 date: 2018-04-19
 featured-image: programming-languages.jpg
-last-modified: 2024-10-02
+last-modified: 2025-10-07
 layout: default
 tags:
 - tcl
@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
 - [Baklava in Tcl](https://sampleprograms.io/projects/baklava/tcl)
+- [Binary Search in Tcl](https://sampleprograms.io/projects/binary-search/tcl)
 - [Hello World in Tcl](https://sampleprograms.io/projects/hello-world/tcl)
