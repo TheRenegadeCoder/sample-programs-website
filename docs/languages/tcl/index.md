@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 11 articles:
+There are 13 articles:
 
 - [Baklava in Tcl](https://sampleprograms.io/projects/baklava/tcl)
 - [Base64 Encode Decode in Tcl](https://sampleprograms.io/projects/base64-encode-decode/tcl)
@@ -37,5 +37,7 @@ There are 11 articles:
 - [Depth First Search in Tcl](https://sampleprograms.io/projects/depth-first-search/tcl)
 - [Dijkstra in Tcl](https://sampleprograms.io/projects/dijkstra/tcl)
 - [Duplicate Character Counter in Tcl](https://sampleprograms.io/projects/duplicate-character-counter/tcl)
+- [Even Odd in Tcl](https://sampleprograms.io/projects/even-odd/tcl)
+- [Factorial in Tcl](https://sampleprograms.io/projects/factorial/tcl)
 - [Fibonacci in Tcl](https://sampleprograms.io/projects/fibonacci/tcl)
 - [Hello World in Tcl](https://sampleprograms.io/projects/hello-world/tcl)
