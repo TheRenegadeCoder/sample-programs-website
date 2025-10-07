@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-10
 featured-image: programming-languages.jpg
-last-modified: 2025-10-06
+last-modified: 2025-10-07
 layout: default
 tags:
 - kotlin
@@ -60,12 +60,13 @@ In this example, the lastChar method is added to the String class. How cool is t
 
 ## Articles
 
-There are 24 articles:
+There are 25 articles:
 
 - [Baklava in Kotlin](https://sampleprograms.io/projects/baklava/kotlin)
 - [Binary Search in Kotlin](https://sampleprograms.io/projects/binary-search/kotlin)
 - [Bubble Sort in Kotlin](https://sampleprograms.io/projects/bubble-sort/kotlin)
 - [Capitalize in Kotlin](https://sampleprograms.io/projects/capitalize/kotlin)
+- [Duplicate Character Counter in Kotlin](https://sampleprograms.io/projects/duplicate-character-counter/kotlin)
 - [Even Odd in Kotlin](https://sampleprograms.io/projects/even-odd/kotlin)
 - [Factorial in Kotlin](https://sampleprograms.io/projects/factorial/kotlin)
 - [Fibonacci in Kotlin](https://sampleprograms.io/projects/fibonacci/kotlin)
