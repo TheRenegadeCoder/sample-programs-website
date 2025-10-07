@@ -26,12 +26,14 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 7 articles:
+There are 9 articles:
 
 - [Baklava in Tcl](https://sampleprograms.io/projects/baklava/tcl)
+- [Base64 Encode Decode in Tcl](https://sampleprograms.io/projects/base64-encode-decode/tcl)
 - [Binary Search in Tcl](https://sampleprograms.io/projects/binary-search/tcl)
 - [Bubble Sort in Tcl](https://sampleprograms.io/projects/bubble-sort/tcl)
 - [Capitalize in Tcl](https://sampleprograms.io/projects/capitalize/tcl)
 - [Convex Hull in Tcl](https://sampleprograms.io/projects/convex-hull/tcl)
 - [Depth First Search in Tcl](https://sampleprograms.io/projects/depth-first-search/tcl)
+- [Dijkstra in Tcl](https://sampleprograms.io/projects/dijkstra/tcl)
 - [Hello World in Tcl](https://sampleprograms.io/projects/hello-world/tcl)

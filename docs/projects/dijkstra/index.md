@@ -1,7 +1,7 @@
 ---
 date: 2021-10-25
 featured-image: dijkstra-in-every-language.jpg
-last-modified: 2025-07-29
+last-modified: 2025-10-08
 layout: default
 tags:
 - dijkstra
@@ -129,7 +129,7 @@ Usage: please provide three inputs: a serialized matrix, a source node and a des
 
 ## Articles
 
-There are 15 articles:
+There are 16 articles:
 
 - [Dijkstra in Algol68](https://sampleprograms.io/projects/dijkstra/algol68)
 - [Dijkstra in Awk](https://sampleprograms.io/projects/dijkstra/awk)
@@ -146,6 +146,7 @@ There are 15 articles:
 - [Dijkstra in Powershell](https://sampleprograms.io/projects/dijkstra/powershell)
 - [Dijkstra in Python](https://sampleprograms.io/projects/dijkstra/python)
 - [Dijkstra in Rust](https://sampleprograms.io/projects/dijkstra/rust)
+- [Dijkstra in Tcl](https://sampleprograms.io/projects/dijkstra/tcl)
 
 ***
 
