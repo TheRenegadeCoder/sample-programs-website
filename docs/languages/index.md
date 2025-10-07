@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-10-07
+last-modified: 2025-10-08
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1290 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1291 code snippets.
 
 ## Language Breakdown
 
@@ -120,7 +120,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Go</td>
-        <td class="right">2.14%</td>
+        <td class="right">2.13%</td>
         <td class="bar-graph"><div style="width: 29.02%; background-color: #00ADD8;"></div></td> 
     </tr>
 
@@ -173,15 +173,15 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Bash</td>
-        <td class="right">0.79%</td>
-        <td class="bar-graph"><div style="width: 10.74%; background-color: #89E051;"></div></td> 
+        <td class="right nowrap">Tcl</td>
+        <td class="right">0.80%</td>
+        <td class="bar-graph"><div style="width: 10.92%; background-color: #E4CC98;"></div></td> 
     </tr>
 
     <tr>
-        <td class="right nowrap">Tcl</td>
-        <td class="right">0.78%</td>
-        <td class="bar-graph"><div style="width: 10.58%; background-color: #E4CC98;"></div></td> 
+        <td class="right nowrap">Bash</td>
+        <td class="right">0.79%</td>
+        <td class="bar-graph"><div style="width: 10.74%; background-color: #89E051;"></div></td> 
     </tr>
 
     <tr>
@@ -1263,9 +1263,9 @@ The 'S' collection contains 10 languages, of which 10 are tested, and 41 code sn
 
 ### T
 
-The 'T' collection contains 5 languages, of which 5 are tested, and 50 code snippets.
+The 'T' collection contains 5 languages, of which 5 are tested, and 51 code snippets.
 
-- [Tcl](https://sampleprograms.io/languages/tcl) (9 code snippets)
+- [Tcl](https://sampleprograms.io/languages/tcl) (10 code snippets)
 - [Terra](https://sampleprograms.io/languages/terra) (2 code snippets)
 - [Tex](https://sampleprograms.io/languages/tex) (3 code snippets)
 - [Ti Basic](https://sampleprograms.io/languages/ti-basic) (13 code snippets)
