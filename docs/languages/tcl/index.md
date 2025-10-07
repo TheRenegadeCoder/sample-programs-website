@@ -26,11 +26,12 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 6 articles:
+There are 7 articles:
 
 - [Baklava in Tcl](https://sampleprograms.io/projects/baklava/tcl)
 - [Binary Search in Tcl](https://sampleprograms.io/projects/binary-search/tcl)
 - [Bubble Sort in Tcl](https://sampleprograms.io/projects/bubble-sort/tcl)
 - [Capitalize in Tcl](https://sampleprograms.io/projects/capitalize/tcl)
 - [Convex Hull in Tcl](https://sampleprograms.io/projects/convex-hull/tcl)
+- [Depth First Search in Tcl](https://sampleprograms.io/projects/depth-first-search/tcl)
 - [Hello World in Tcl](https://sampleprograms.io/projects/hello-world/tcl)

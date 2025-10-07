@@ -1,7 +1,7 @@
 ---
 date: 2021-11-12
 featured-image: depth-first-search-in-every-language.jpg
-last-modified: 2025-07-29
+last-modified: 2025-10-08
 layout: default
 tags:
 - depth-first-search
@@ -124,7 +124,7 @@ Usage: please provide a tree in an adjacency matrix form ("0, 1, 1, 0, 0, 1, 0, 
 
 ## Articles
 
-There are 15 articles:
+There are 16 articles:
 
 - [Depth First Search in Algol68](https://sampleprograms.io/projects/depth-first-search/algol68)
 - [Depth First Search in Awk](https://sampleprograms.io/projects/depth-first-search/awk)
@@ -141,6 +141,7 @@ There are 15 articles:
 - [Depth First Search in Powershell](https://sampleprograms.io/projects/depth-first-search/powershell)
 - [Depth First Search in Python](https://sampleprograms.io/projects/depth-first-search/python)
 - [Depth First Search in Rust](https://sampleprograms.io/projects/depth-first-search/rust)
+- [Depth First Search in Tcl](https://sampleprograms.io/projects/depth-first-search/tcl)
 
 ***
 
