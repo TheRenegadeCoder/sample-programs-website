@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 36 articles:
+There are 38 articles:
 
 - [Baklava in Tcl](https://sampleprograms.io/projects/baklava/tcl)
 - [Base64 Encode Decode in Tcl](https://sampleprograms.io/projects/base64-encode-decode/tcl)
@@ -57,10 +57,12 @@ There are 36 articles:
 - [Minimum Spanning Tree in Tcl](https://sampleprograms.io/projects/minimum-spanning-tree/tcl)
 - [Palindromic Number in Tcl](https://sampleprograms.io/projects/palindromic-number/tcl)
 - [Prime Number in Tcl](https://sampleprograms.io/projects/prime-number/tcl)
+- [Quick Sort in Tcl](https://sampleprograms.io/projects/quick-sort/tcl)
 - [Quine in Tcl](https://sampleprograms.io/projects/quine/tcl)
 - [Remove All Whitespace in Tcl](https://sampleprograms.io/projects/remove-all-whitespace/tcl)
 - [Reverse String in Tcl](https://sampleprograms.io/projects/reverse-string/tcl)
 - [Roman Numeral in Tcl](https://sampleprograms.io/projects/roman-numeral/tcl)
 - [Rot13 in Tcl](https://sampleprograms.io/projects/rot13/tcl)
 - [Selection Sort in Tcl](https://sampleprograms.io/projects/selection-sort/tcl)
+- [Sleep Sort in Tcl](https://sampleprograms.io/projects/sleep-sort/tcl)
 - [Transpose Matrix in Tcl](https://sampleprograms.io/projects/transpose-matrix/tcl)

@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1317 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1319 code snippets.
 
 ## Language Breakdown
 
@@ -18,98 +18,98 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Algol68</td>
-        <td class="right">7.23%</td>
+        <td class="right">7.21%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #AF425E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Commodore Basic</td>
-        <td class="right">7.14%</td>
+        <td class="right">7.12%</td>
         <td class="bar-graph"><div style="width: 98.72%; background-color: #4F44D8;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Euphoria</td>
-        <td class="right">6.32%</td>
+        <td class="right">6.31%</td>
         <td class="bar-graph"><div style="width: 87.42%; background-color: #FF790B;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Beef</td>
-        <td class="right">6.09%</td>
+        <td class="right">6.07%</td>
         <td class="bar-graph"><div style="width: 84.19%; background-color: #A52F4E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Pascal</td>
-        <td class="right">5.16%</td>
+        <td class="right">5.15%</td>
         <td class="bar-graph"><div style="width: 71.34%; background-color: #E3F171;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Rust</td>
-        <td class="right">4.51%</td>
+        <td class="right">4.50%</td>
         <td class="bar-graph"><div style="width: 62.35%; background-color: #DEA584;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">C</td>
-        <td class="right">4.47%</td>
+        <td class="right">4.46%</td>
         <td class="bar-graph"><div style="width: 61.81%; background-color: #555555;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Php</td>
-        <td class="right">4.14%</td>
+        <td class="right">4.13%</td>
         <td class="bar-graph"><div style="width: 57.25%; background-color: #4F5D95;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">C#</td>
-        <td class="right">3.97%</td>
+        <td class="right">3.96%</td>
         <td class="bar-graph"><div style="width: 54.95%; background-color: #178600;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Awk</td>
-        <td class="right">3.64%</td>
+        <td class="right">3.63%</td>
         <td class="bar-graph"><div style="width: 50.35%; background-color: #C30E9B;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Mathematica</td>
-        <td class="right">3.03%</td>
+        <td class="right">3.02%</td>
         <td class="bar-graph"><div style="width: 41.89%; background-color: #DD1100;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Powershell</td>
-        <td class="right">2.98%</td>
+        <td class="right">2.97%</td>
         <td class="bar-graph"><div style="width: 41.20%; background-color: #012456;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">C++</td>
-        <td class="right">2.89%</td>
+        <td class="right">2.88%</td>
         <td class="bar-graph"><div style="width: 39.92%; background-color: #F34B7D;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">M4</td>
-        <td class="right">2.77%</td>
+        <td class="right">2.76%</td>
         <td class="bar-graph"><div style="width: 38.31%; background-color: #CCCCCC;"></div></td> 
+    </tr>
+
+    <tr>
+        <td class="right nowrap">Tcl</td>
+        <td class="right">2.73%</td>
+        <td class="bar-graph"><div style="width: 37.84%; background-color: #E4CC98;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Java</td>
         <td class="right">2.53%</td>
         <td class="bar-graph"><div style="width: 35.04%; background-color: #B07219;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">Tcl</td>
-        <td class="right">2.47%</td>
-        <td class="bar-graph"><div style="width: 34.19%; background-color: #E4CC98;"></div></td> 
     </tr>
 
     <tr>
@@ -120,25 +120,25 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Python</td>
-        <td class="right">2.15%</td>
+        <td class="right">2.14%</td>
         <td class="bar-graph"><div style="width: 29.67%; background-color: #3572A5;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Go</td>
-        <td class="right">2.10%</td>
+        <td class="right">2.09%</td>
         <td class="bar-graph"><div style="width: 29.02%; background-color: #00ADD8;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Kotlin</td>
-        <td class="right">1.42%</td>
+        <td class="right">1.41%</td>
         <td class="bar-graph"><div style="width: 19.58%; background-color: #A97BFF;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Typescript</td>
-        <td class="right">1.26%</td>
+        <td class="right">1.25%</td>
         <td class="bar-graph"><div style="width: 17.39%; background-color: #3178C6;"></div></td> 
     </tr>
 
@@ -156,7 +156,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">X86 64</td>
-        <td class="right">0.94%</td>
+        <td class="right">0.93%</td>
         <td class="bar-graph"><div style="width: 12.95%; background-color: #6E4C13;"></div></td> 
     </tr>
 
@@ -180,7 +180,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Bash</td>
-        <td class="right">0.78%</td>
+        <td class="right">0.77%</td>
         <td class="bar-graph"><div style="width: 10.74%; background-color: #89E051;"></div></td> 
     </tr>
 
@@ -216,7 +216,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Swift</td>
-        <td class="right">0.62%</td>
+        <td class="right">0.61%</td>
         <td class="bar-graph"><div style="width: 8.51%; background-color: #F05138;"></div></td> 
     </tr>
 
@@ -324,7 +324,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Zig</td>
-        <td class="right">0.18%</td>
+        <td class="right">0.17%</td>
         <td class="bar-graph"><div style="width: 2.42%; background-color: #EC915C;"></div></td> 
     </tr>
 
@@ -390,7 +390,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Baik</td>
-        <td class="right">0.09%</td>
+        <td class="right">0.08%</td>
         <td class="bar-graph"><div style="width: 1.18%; background-color: #4CAF50;"></div></td> 
     </tr>
 
@@ -666,7 +666,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Red</td>
-        <td class="right">0.04%</td>
+        <td class="right">0.03%</td>
         <td class="bar-graph"><div style="width: 0.48%; background-color: #F50000;"></div></td> 
     </tr>
 
@@ -1263,9 +1263,9 @@ The 'S' collection contains 10 languages, of which 10 are tested, and 41 code sn
 
 ### T
 
-The 'T' collection contains 5 languages, of which 5 are tested, and 77 code snippets.
+The 'T' collection contains 5 languages, of which 5 are tested, and 79 code snippets.
 
-- [Tcl](https://sampleprograms.io/languages/tcl) (36 code snippets)
+- [Tcl](https://sampleprograms.io/languages/tcl) (38 code snippets)
 - [Terra](https://sampleprograms.io/languages/terra) (2 code snippets)
 - [Tex](https://sampleprograms.io/languages/tex) (3 code snippets)
 - [Ti Basic](https://sampleprograms.io/languages/ti-basic) (13 code snippets)
