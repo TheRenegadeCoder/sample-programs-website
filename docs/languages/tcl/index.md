@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 23 articles:
+There are 25 articles:
 
 - [Baklava in Tcl](https://sampleprograms.io/projects/baklava/tcl)
 - [Base64 Encode Decode in Tcl](https://sampleprograms.io/projects/base64-encode-decode/tcl)
@@ -48,6 +48,8 @@ There are 23 articles:
 - [Job Sequencing in Tcl](https://sampleprograms.io/projects/job-sequencing/tcl)
 - [Josephus Problem in Tcl](https://sampleprograms.io/projects/josephus-problem/tcl)
 - [Linear Search in Tcl](https://sampleprograms.io/projects/linear-search/tcl)
+- [Longest Palindromic Substring in Tcl](https://sampleprograms.io/projects/longest-palindromic-substring/tcl)
 - [Longest Word in Tcl](https://sampleprograms.io/projects/longest-word/tcl)
 - [Maximum Array Rotation in Tcl](https://sampleprograms.io/projects/maximum-array-rotation/tcl)
 - [Maximum Subarray in Tcl](https://sampleprograms.io/projects/maximum-subarray/tcl)
+- [Merge Sort in Tcl](https://sampleprograms.io/projects/merge-sort/tcl)
