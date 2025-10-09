@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 18 articles:
+There are 19 articles:
 
 - [Baklava in Tcl](https://sampleprograms.io/projects/baklava/tcl)
 - [Base64 Encode Decode in Tcl](https://sampleprograms.io/projects/base64-encode-decode/tcl)
@@ -43,6 +43,7 @@ There are 18 articles:
 - [File Input Output in Tcl](https://sampleprograms.io/projects/file-input-output/tcl)
 - [Fizz Buzz in Tcl](https://sampleprograms.io/projects/fizz-buzz/tcl)
 - [Hello World in Tcl](https://sampleprograms.io/projects/hello-world/tcl)
+- [Insertion Sort in Tcl](https://sampleprograms.io/projects/insertion-sort/tcl)
 - [Josephus Problem in Tcl](https://sampleprograms.io/projects/josephus-problem/tcl)
 - [Linear Search in Tcl](https://sampleprograms.io/projects/linear-search/tcl)
 - [Longest Word in Tcl](https://sampleprograms.io/projects/longest-word/tcl)
