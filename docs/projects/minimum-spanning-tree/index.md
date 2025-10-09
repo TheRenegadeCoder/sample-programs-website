@@ -1,7 +1,7 @@
 ---
 date: 2019-10-14
 featured-image: minimum-spanning-tree-in-every-language.jpg
-last-modified: 2025-08-02
+last-modified: 2025-10-09
 layout: default
 tags:
 - minimum-spanning-tree
@@ -117,7 +117,7 @@ Usage: please provide a comma-separated list of integers
 
 ## Articles
 
-There are 14 articles:
+There are 15 articles:
 
 - [Minimum Spanning Tree in Algol68](https://sampleprograms.io/projects/minimum-spanning-tree/algol68)
 - [Minimum Spanning Tree in Awk](https://sampleprograms.io/projects/minimum-spanning-tree/awk)
@@ -133,6 +133,7 @@ There are 14 articles:
 - [Minimum Spanning Tree in Powershell](https://sampleprograms.io/projects/minimum-spanning-tree/powershell)
 - [Minimum Spanning Tree in Python](https://sampleprograms.io/projects/minimum-spanning-tree/python)
 - [Minimum Spanning Tree in Rust](https://sampleprograms.io/projects/minimum-spanning-tree/rust)
+- [Minimum Spanning Tree in Tcl](https://sampleprograms.io/projects/minimum-spanning-tree/tcl)
 
 ***
 
