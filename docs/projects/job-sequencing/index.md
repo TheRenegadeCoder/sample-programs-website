@@ -1,7 +1,7 @@
 ---
 date: 2018-11-19
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: 2025-07-22
+last-modified: 2025-10-09
 layout: default
 tags:
 - job-sequencing
@@ -114,7 +114,7 @@ Usage: please provide a list of profits and a list of deadlines
 
 ## Articles
 
-There are 18 articles:
+There are 19 articles:
 
 - [Job Sequencing in Algol68](https://sampleprograms.io/projects/job-sequencing/algol68)
 - [Job Sequencing in Awk](https://sampleprograms.io/projects/job-sequencing/awk)
@@ -134,6 +134,7 @@ There are 18 articles:
 - [Job Sequencing in Powershell](https://sampleprograms.io/projects/job-sequencing/powershell)
 - [Job Sequencing in Python](https://sampleprograms.io/projects/job-sequencing/python)
 - [Job Sequencing in Rust](https://sampleprograms.io/projects/job-sequencing/rust)
+- [Job Sequencing in Tcl](https://sampleprograms.io/projects/job-sequencing/tcl)
 
 ***
 
