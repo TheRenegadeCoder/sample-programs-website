@@ -1,7 +1,7 @@
 ---
 date: 2022-04-28
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2025-10-06
+last-modified: 2025-10-09
 layout: default
 tags:
 - remove-all-whitespace
@@ -95,7 +95,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 26 articles:
+There are 27 articles:
 
 - [Remove All Whitespace in Algol68](https://sampleprograms.io/projects/remove-all-whitespace/algol68)
 - [Remove All Whitespace in Awk](https://sampleprograms.io/projects/remove-all-whitespace/awk)
@@ -122,6 +122,7 @@ There are 26 articles:
 - [Remove All Whitespace in Python](https://sampleprograms.io/projects/remove-all-whitespace/python)
 - [Remove All Whitespace in Ruby](https://sampleprograms.io/projects/remove-all-whitespace/ruby)
 - [Remove All Whitespace in Rust](https://sampleprograms.io/projects/remove-all-whitespace/rust)
+- [Remove All Whitespace in Tcl](https://sampleprograms.io/projects/remove-all-whitespace/tcl)
 - [Remove All Whitespace in Wren](https://sampleprograms.io/projects/remove-all-whitespace/wren)
 
 ***

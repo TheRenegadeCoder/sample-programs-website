@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 30 articles:
+There are 33 articles:
 
 - [Baklava in Tcl](https://sampleprograms.io/projects/baklava/tcl)
 - [Base64 Encode Decode in Tcl](https://sampleprograms.io/projects/base64-encode-decode/tcl)
@@ -58,3 +58,6 @@ There are 30 articles:
 - [Palindromic Number in Tcl](https://sampleprograms.io/projects/palindromic-number/tcl)
 - [Prime Number in Tcl](https://sampleprograms.io/projects/prime-number/tcl)
 - [Quine in Tcl](https://sampleprograms.io/projects/quine/tcl)
+- [Remove All Whitespace in Tcl](https://sampleprograms.io/projects/remove-all-whitespace/tcl)
+- [Roman Numeral in Tcl](https://sampleprograms.io/projects/roman-numeral/tcl)
+- [Rot13 in Tcl](https://sampleprograms.io/projects/rot13/tcl)
