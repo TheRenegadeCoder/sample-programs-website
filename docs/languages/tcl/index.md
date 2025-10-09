@@ -1,7 +1,7 @@
 ---
 date: 2018-04-19
 featured-image: programming-languages.jpg
-last-modified: 2025-10-08
+last-modified: 2025-10-09
 layout: default
 tags:
 - tcl
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 14 articles:
+There are 15 articles:
 
 - [Baklava in Tcl](https://sampleprograms.io/projects/baklava/tcl)
 - [Base64 Encode Decode in Tcl](https://sampleprograms.io/projects/base64-encode-decode/tcl)
@@ -41,4 +41,5 @@ There are 14 articles:
 - [Factorial in Tcl](https://sampleprograms.io/projects/factorial/tcl)
 - [Fibonacci in Tcl](https://sampleprograms.io/projects/fibonacci/tcl)
 - [File Input Output in Tcl](https://sampleprograms.io/projects/file-input-output/tcl)
+- [Fizz Buzz in Tcl](https://sampleprograms.io/projects/fizz-buzz/tcl)
 - [Hello World in Tcl](https://sampleprograms.io/projects/hello-world/tcl)
