@@ -1,7 +1,7 @@
 ---
 date: 2018-11-16
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2025-10-05
+last-modified: 2025-10-09
 layout: default
 tags:
 - prime-number
@@ -83,7 +83,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 38 articles:
+There are 39 articles:
 
 - [Prime Number in Algol68](https://sampleprograms.io/projects/prime-number/algol68)
 - [Prime Number in Awk](https://sampleprograms.io/projects/prime-number/awk)
@@ -120,6 +120,7 @@ There are 38 articles:
 - [Prime Number in Rexx](https://sampleprograms.io/projects/prime-number/rexx)
 - [Prime Number in Ruby](https://sampleprograms.io/projects/prime-number/ruby)
 - [Prime Number in Rust](https://sampleprograms.io/projects/prime-number/rust)
+- [Prime Number in Tcl](https://sampleprograms.io/projects/prime-number/tcl)
 - [Prime Number in Ti Basic](https://sampleprograms.io/projects/prime-number/ti-basic)
 - [Prime Number in Typescript](https://sampleprograms.io/projects/prime-number/typescript)
 - [Prime Number in Wren](https://sampleprograms.io/projects/prime-number/wren)
