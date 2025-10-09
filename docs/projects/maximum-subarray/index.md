@@ -1,7 +1,7 @@
 ---
 date: 2020-10-14
 featured-image: maximum-subarray-in-every-language.jpg
-last-modified: 2025-09-07
+last-modified: 2025-10-09
 layout: default
 tags:
 - maximum-subarray
@@ -86,7 +86,7 @@ Usage: Please provide a list of integers in the format: "1, 2, 3, 4, 5"
 
 ## Articles
 
-There are 14 articles:
+There are 15 articles:
 
 - [Maximum Subarray in Algol68](https://sampleprograms.io/projects/maximum-subarray/algol68)
 - [Maximum Subarray in Awk](https://sampleprograms.io/projects/maximum-subarray/awk)
@@ -102,6 +102,7 @@ There are 14 articles:
 - [Maximum Subarray in Powershell](https://sampleprograms.io/projects/maximum-subarray/powershell)
 - [Maximum Subarray in Python](https://sampleprograms.io/projects/maximum-subarray/python)
 - [Maximum Subarray in Rust](https://sampleprograms.io/projects/maximum-subarray/rust)
+- [Maximum Subarray in Tcl](https://sampleprograms.io/projects/maximum-subarray/tcl)
 
 ***
 
