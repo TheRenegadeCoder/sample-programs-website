@@ -1,7 +1,7 @@
 ---
 date: 2018-04-12
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2025-08-13
+last-modified: 2025-10-09
 layout: default
 tags:
 - reverse-string
@@ -70,7 +70,7 @@ In this section, we specify the set of tests specific to Reverse String.
 
 ## Articles
 
-There are 54 articles:
+There are 55 articles:
 
 - [Reverse String in Algol68](https://sampleprograms.io/projects/reverse-string/algol68)
 - [Reverse String in Awk](https://sampleprograms.io/projects/reverse-string/awk)
@@ -118,6 +118,7 @@ There are 54 articles:
 - [Reverse String in Scala](https://sampleprograms.io/projects/reverse-string/scala)
 - [Reverse String in Scheme](https://sampleprograms.io/projects/reverse-string/scheme)
 - [Reverse String in Swift](https://sampleprograms.io/projects/reverse-string/swift)
+- [Reverse String in Tcl](https://sampleprograms.io/projects/reverse-string/tcl)
 - [Reverse String in Ti Basic](https://sampleprograms.io/projects/reverse-string/ti-basic)
 - [Reverse String in Typescript](https://sampleprograms.io/projects/reverse-string/typescript)
 - [Reverse String in Unicat](https://sampleprograms.io/projects/reverse-string/unicat)
