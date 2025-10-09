@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1308 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1309 code snippets.
 
 ## Language Breakdown
 
@@ -18,7 +18,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Algol68</td>
-        <td class="right">7.26%</td>
+        <td class="right">7.25%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #AF425E;"></div></td> 
     </tr>
 
@@ -42,7 +42,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Pascal</td>
-        <td class="right">5.18%</td>
+        <td class="right">5.17%</td>
         <td class="bar-graph"><div style="width: 71.34%; background-color: #E3F171;"></div></td> 
     </tr>
 
@@ -54,7 +54,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C</td>
-        <td class="right">4.49%</td>
+        <td class="right">4.48%</td>
         <td class="bar-graph"><div style="width: 61.81%; background-color: #555555;"></div></td> 
     </tr>
 
@@ -107,6 +107,12 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
+        <td class="right nowrap">Tcl</td>
+        <td class="right">2.18%</td>
+        <td class="bar-graph"><div style="width: 30.05%; background-color: #E4CC98;"></div></td> 
+    </tr>
+
+    <tr>
         <td class="right nowrap">Javascript</td>
         <td class="right">2.16%</td>
         <td class="bar-graph"><div style="width: 29.79%; background-color: #F1E05A;"></div></td> 
@@ -116,12 +122,6 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Python</td>
         <td class="right">2.15%</td>
         <td class="bar-graph"><div style="width: 29.67%; background-color: #3572A5;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">Tcl</td>
-        <td class="right">2.14%</td>
-        <td class="bar-graph"><div style="width: 29.46%; background-color: #E4CC98;"></div></td> 
     </tr>
 
     <tr>
@@ -396,7 +396,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Nim</td>
-        <td class="right">0.09%</td>
+        <td class="right">0.08%</td>
         <td class="bar-graph"><div style="width: 1.17%; background-color: #FFC200;"></div></td> 
     </tr>
 
@@ -1263,9 +1263,9 @@ The 'S' collection contains 10 languages, of which 10 are tested, and 41 code sn
 
 ### T
 
-The 'T' collection contains 5 languages, of which 5 are tested, and 68 code snippets.
+The 'T' collection contains 5 languages, of which 5 are tested, and 69 code snippets.
 
-- [Tcl](https://sampleprograms.io/languages/tcl) (27 code snippets)
+- [Tcl](https://sampleprograms.io/languages/tcl) (28 code snippets)
 - [Terra](https://sampleprograms.io/languages/terra) (2 code snippets)
 - [Tex](https://sampleprograms.io/languages/tex) (3 code snippets)
 - [Ti Basic](https://sampleprograms.io/languages/ti-basic) (13 code snippets)
