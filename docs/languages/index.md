@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-10-09
+last-modified: 2025-10-11
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1319 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1320 code snippets.
 
 ## Language Breakdown
 
@@ -24,13 +24,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Commodore Basic</td>
-        <td class="right">7.12%</td>
+        <td class="right">7.11%</td>
         <td class="bar-graph"><div style="width: 98.72%; background-color: #4F44D8;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Euphoria</td>
-        <td class="right">6.31%</td>
+        <td class="right">6.30%</td>
         <td class="bar-graph"><div style="width: 87.42%; background-color: #FF790B;"></div></td> 
     </tr>
 
@@ -42,19 +42,19 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Pascal</td>
-        <td class="right">5.15%</td>
+        <td class="right">5.14%</td>
         <td class="bar-graph"><div style="width: 71.34%; background-color: #E3F171;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Rust</td>
-        <td class="right">4.50%</td>
+        <td class="right">4.49%</td>
         <td class="bar-graph"><div style="width: 62.35%; background-color: #DEA584;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">C</td>
-        <td class="right">4.46%</td>
+        <td class="right">4.45%</td>
         <td class="bar-graph"><div style="width: 61.81%; background-color: #555555;"></div></td> 
     </tr>
 
@@ -108,7 +108,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Java</td>
-        <td class="right">2.53%</td>
+        <td class="right">2.52%</td>
         <td class="bar-graph"><div style="width: 35.04%; background-color: #B07219;"></div></td> 
     </tr>
 
@@ -155,6 +155,12 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
+        <td class="right nowrap">Perl</td>
+        <td class="right">0.94%</td>
+        <td class="bar-graph"><div style="width: 13.09%; background-color: #0298C3;"></div></td> 
+    </tr>
+
+    <tr>
         <td class="right nowrap">X86 64</td>
         <td class="right">0.93%</td>
         <td class="bar-graph"><div style="width: 12.95%; background-color: #6E4C13;"></div></td> 
@@ -162,14 +168,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Gnu Make</td>
-        <td class="right">0.92%</td>
+        <td class="right">0.91%</td>
         <td class="bar-graph"><div style="width: 12.69%; background-color: #427819;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">Perl</td>
-        <td class="right">0.85%</td>
-        <td class="bar-graph"><div style="width: 11.77%; background-color: #0298C3;"></div></td> 
     </tr>
 
     <tr>
@@ -1202,10 +1202,10 @@ The 'O' collection contains 7 languages, of which 7 are tested, and 42 code snip
 
 ### P
 
-The 'P' collection contains 14 languages, of which 14 are tested, and 197 code snippets.
+The 'P' collection contains 14 languages, of which 14 are tested, and 198 code snippets.
 
 - [Pascal](https://sampleprograms.io/languages/pascal) (38 code snippets)
-- [Perl](https://sampleprograms.io/languages/perl) (20 code snippets)
+- [Perl](https://sampleprograms.io/languages/perl) (21 code snippets)
 - [Phix](https://sampleprograms.io/languages/phix) (2 code snippets)
 - [Php](https://sampleprograms.io/languages/php) (38 code snippets)
 - [Picolisp](https://sampleprograms.io/languages/picolisp) (3 code snippets)

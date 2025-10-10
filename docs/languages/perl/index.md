@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-08
 featured-image: programming-languages.jpg
-last-modified: 2025-02-17
+last-modified: 2025-10-11
 layout: default
 tags:
 - perl
@@ -61,9 +61,10 @@ and preferably only one, obvious way to do it"
 
 ## Articles
 
-There are 20 articles:
+There are 21 articles:
 
 - [Baklava in Perl](https://sampleprograms.io/projects/baklava/perl)
+- [Binary Search in Perl](https://sampleprograms.io/projects/binary-search/perl)
 - [Bubble Sort in Perl](https://sampleprograms.io/projects/bubble-sort/perl)
 - [Capitalize in Perl](https://sampleprograms.io/projects/capitalize/perl)
 - [Even Odd in Perl](https://sampleprograms.io/projects/even-odd/perl)
