@@ -41,7 +41,7 @@ However, with great power comes great responsibility. As a result, I personally 
 
 ## Articles
 
-There are 29 articles:
+There are 30 articles:
 
 - [Baklava in C++](https://sampleprograms.io/projects/baklava/c-plus-plus)
 - [Binary Search in C++](https://sampleprograms.io/projects/binary-search/c-plus-plus)
@@ -72,3 +72,4 @@ There are 29 articles:
 - [Roman Numeral in C++](https://sampleprograms.io/projects/roman-numeral/c-plus-plus)
 - [Rot13 in C++](https://sampleprograms.io/projects/rot13/c-plus-plus)
 - [Selection Sort in C++](https://sampleprograms.io/projects/selection-sort/c-plus-plus)
+- [Transpose Matrix in C++](https://sampleprograms.io/projects/transpose-matrix/c-plus-plus)
