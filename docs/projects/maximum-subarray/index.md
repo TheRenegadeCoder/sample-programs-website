@@ -86,13 +86,14 @@ Usage: Please provide a list of integers in the format: "1, 2, 3, 4, 5"
 
 ## Articles
 
-There are 16 articles:
+There are 17 articles:
 
 - [Maximum Subarray in Algol68](https://sampleprograms.io/projects/maximum-subarray/algol68)
 - [Maximum Subarray in Awk](https://sampleprograms.io/projects/maximum-subarray/awk)
 - [Maximum Subarray in Beef](https://sampleprograms.io/projects/maximum-subarray/beef)
 - [Maximum Subarray in C](https://sampleprograms.io/projects/maximum-subarray/c)
 - [Maximum Subarray in C#](https://sampleprograms.io/projects/maximum-subarray/c-sharp)
+- [Maximum Subarray in C++](https://sampleprograms.io/projects/maximum-subarray/c-plus-plus)
 - [Maximum Subarray in Commodore Basic](https://sampleprograms.io/projects/maximum-subarray/commodore-basic)
 - [Maximum Subarray in Euphoria](https://sampleprograms.io/projects/maximum-subarray/euphoria)
 - [Maximum Subarray in M4](https://sampleprograms.io/projects/maximum-subarray/m4)
