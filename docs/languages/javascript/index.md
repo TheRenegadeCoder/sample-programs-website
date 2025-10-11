@@ -1,7 +1,7 @@
 ---
 date: 2018-05-06
 featured-image: programming-languages.jpg
-last-modified: 2025-10-06
+last-modified: 2025-10-12
 layout: default
 tags:
 - javascript
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 32 articles:
+There are 33 articles:
 
 - [Baklava in Javascript](https://sampleprograms.io/projects/baklava/javascript)
 - [Base64 Encode Decode in Javascript](https://sampleprograms.io/projects/base64-encode-decode/javascript)
@@ -48,6 +48,7 @@ There are 32 articles:
 - [Longest Common Subsequence in Javascript](https://sampleprograms.io/projects/longest-common-subsequence/javascript)
 - [Longest Palindromic Substring in Javascript](https://sampleprograms.io/projects/longest-palindromic-substring/javascript)
 - [Longest Word in Javascript](https://sampleprograms.io/projects/longest-word/javascript)
+- [Maximum Subarray in Javascript](https://sampleprograms.io/projects/maximum-subarray/javascript)
 - [Merge Sort in Javascript](https://sampleprograms.io/projects/merge-sort/javascript)
 - [Palindromic Number in Javascript](https://sampleprograms.io/projects/palindromic-number/javascript)
 - [Prime Number in Javascript](https://sampleprograms.io/projects/prime-number/javascript)
