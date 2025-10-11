@@ -41,7 +41,7 @@ However, with great power comes great responsibility. As a result, I personally 
 
 ## Articles
 
-There are 30 articles:
+There are 31 articles:
 
 - [Baklava in C++](https://sampleprograms.io/projects/baklava/c-plus-plus)
 - [Binary Search in C++](https://sampleprograms.io/projects/binary-search/c-plus-plus)
@@ -60,6 +60,7 @@ There are 30 articles:
 - [Insertion Sort in C++](https://sampleprograms.io/projects/insertion-sort/c-plus-plus)
 - [Linear Search in C++](https://sampleprograms.io/projects/linear-search/c-plus-plus)
 - [Longest Common Subsequence in C++](https://sampleprograms.io/projects/longest-common-subsequence/c-plus-plus)
+- [Longest Palindromic Substring in C++](https://sampleprograms.io/projects/longest-palindromic-substring/c-plus-plus)
 - [Longest Word in C++](https://sampleprograms.io/projects/longest-word/c-plus-plus)
 - [Maximum Subarray in C++](https://sampleprograms.io/projects/maximum-subarray/c-plus-plus)
 - [Merge Sort in C++](https://sampleprograms.io/projects/merge-sort/c-plus-plus)
