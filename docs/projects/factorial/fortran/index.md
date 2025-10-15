@@ -1,9 +1,9 @@
 ---
 authors:
-- Mallikarjuna S J
-date: 2020-10-29
+- "\u0218tefan-Iulian Alecu"
+date: 2025-10-15
 featured-image: factorial-in-every-language.jpg
-last-modified: 2020-10-29
+last-modified: 2025-10-15
 layout: default
 tags:
 - factorial
@@ -29,57 +29,33 @@ Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [For
 {% raw %}
 
 ```fortran
-! In program name, - is not allowed
-!works till 77
-! 78 and above is out of the reasonable bounds for calculation
-program factorial_generate
-  character(len=10) :: argument
-  Character(26) :: low = 'abcdefghijklmnopqrstuvwxyz'
-  Character(26) :: cap = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-  integer :: number, check_capital_letters, check_small_letters, i
-  integer(kind = 16):: factorial
-  ! Anything not equal to single argument, Print Error
-  IF(COMMAND_ARGUMENT_COUNT().NE.1)THEN
-    write(*,'(g0.8)')"Usage: please input a non-negative integer"
-    STOP
-  ENDIF
-  
-  CALL GET_COMMAND_ARGUMENT(1,argument)
-  if (argument == "") then
-    write(*,'(g0.8)')"Usage: please input a non-negative integer"
-    STOP
-  endif
-  ! Scan for letters
-  check_capital_letters = scan(argument, cap)
-  check_small_letters = scan(argument, low)
-  ! If capital letters exist, print error
-  if (check_capital_letters > 0) then
-    write(*,'(g0.8)')"Usage: please input a non-negative integer"
-    STOP
-  endif
-  ! If small letters exist, print error
-  if (check_small_letters > 0) then
-    write(*,'(g0.8)')"Usage: please input a non-negative integer"
-    STOP
-  endif
-  ! read the cmd line arg into number
-  read (argument, '(I10)') number
+program factorial
+   use, intrinsic :: iso_fortran_env, only: int64
+   implicit none
 
-  if (number < 0) then
-    write(*,'(g0.8)')"Usage: please input a non-negative integer"
-    STOP
-  endif
-  if (number > 77) then
-    write(*,'(g0.8)')"Input is out of the reasonable bounds for calculation"
-    STOP
-  endif
+   character(len=64) :: arg
+   integer :: ios
+   integer(kind=int64) :: n, i
 
-  factorial = 1
-  do i = 1, number
-    factorial = factorial * i
-  end do
-  write(*,'(g0.8)') factorial
-end program
+   if (command_argument_count() /= 1) call usage()
+
+   call get_command_argument(1, arg)
+   arg = adjustl(trim(arg))
+   if (len_trim(arg) == 0) call usage()
+
+   read(arg, *, iostat=ios) n
+   if (ios /= 0 .or. n < 0_int64) call usage()
+
+   write(*,'(i0)') product((/(i, i = 1_int64, n)/))
+
+contains
+
+   subroutine usage()
+      write(*,'(a)') "Usage: please input a non-negative integer"
+      stop
+   end subroutine usage
+
+end program factorial
 
 ```
 
@@ -87,7 +63,7 @@ end program
 
 Factorial in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
 
-- Mallikarjuna S J
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

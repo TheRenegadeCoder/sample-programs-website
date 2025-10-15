@@ -1,7 +1,7 @@
 ---
 date: 2018-10-26
 featured-image: factorial-in-every-language.jpg
-last-modified: 2025-10-08
+last-modified: 2025-10-15
 layout: default
 tags:
 - factorial
