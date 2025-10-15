@@ -1,9 +1,9 @@
 ---
 authors:
-- Jeremy Grifski
-date: 2018-04-25
+- "\u0218tefan-Iulian Alecu"
+date: 2025-10-15
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2018-04-25
+last-modified: 2025-10-15
 layout: default
 tags:
 - fortran
@@ -29,9 +29,10 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```fortran
-PROGRAM HELLOWORLD
-  PRINT *, 'Hello, World!'
-END
+program helloworld
+   implicit none
+   print '(A)', 'Hello, World!'
+end program helloworld
 
 ```
 
@@ -39,7 +40,7 @@ END
 
 Hello World in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
 
-- Jeremy Grifski
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -60,7 +60,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Php</td>
-        <td class="right">4.09%</td>
+        <td class="right">4.10%</td>
         <td class="bar-graph"><div style="width: 57.25%; background-color: #4F5D95;"></div></td> 
     </tr>
 
@@ -78,7 +78,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C++</td>
-        <td class="right">3.16%</td>
+        <td class="right">3.17%</td>
         <td class="bar-graph"><div style="width: 44.26%; background-color: #F34B7D;"></div></td> 
     </tr>
 
@@ -90,7 +90,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Mathematica</td>
-        <td class="right">2.99%</td>
+        <td class="right">3.00%</td>
         <td class="bar-graph"><div style="width: 41.89%; background-color: #DD1100;"></div></td> 
     </tr>
 
@@ -228,8 +228,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Fortran</td>
-        <td class="right">0.55%</td>
-        <td class="bar-graph"><div style="width: 7.69%; background-color: #4D41B1;"></div></td> 
+        <td class="right">0.50%</td>
+        <td class="bar-graph"><div style="width: 6.97%; background-color: #4D41B1;"></div></td> 
     </tr>
 
     <tr>
