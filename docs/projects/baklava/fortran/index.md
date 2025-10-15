@@ -1,9 +1,9 @@
 ---
 authors:
-- Jeremy Grifski
-date: 2018-09-17
+- "\u0218tefan-Iulian Alecu"
+date: 2025-10-15
 featured-image: baklava-in-every-language.jpg
-last-modified: 2019-04-02
+last-modified: 2025-10-15
 layout: default
 tags:
 - baklava
@@ -29,14 +29,24 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Fortran
 {% raw %}
 
 ```fortran
-program Baklava
-    do i = 0, 10, 1
-        print '(10a)', repeat (" ", (10 - i)), repeat ("*", (i * 2 + 1))
-    end do
-    do i = 9, 0, -1
-        print '(10a)', repeat (" ", (10 - i)), repeat ("*", (i * 2 + 1))
-    end do
-end program Baklava
+program baklava
+   implicit none
+   integer :: i, size, spaces, stars
+
+   parameter (size = 10)
+
+   do i = 0, size
+      spaces = size - i
+      stars  = i * 2 + 1
+      print '(A)', repeat(' ', spaces)//repeat('*', stars)
+   end do
+
+   do i = size-1, 0, -1
+      spaces = size - i
+      stars  = i * 2 + 1
+      print '(A)', repeat(' ', spaces)//repeat('*', stars)
+   end do
+end program baklava
 
 ```
 
@@ -44,7 +54,7 @@ end program Baklava
 
 Baklava in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
 
-- Jeremy Grifski
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
