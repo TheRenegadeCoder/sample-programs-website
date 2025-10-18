@@ -1,7 +1,7 @@
 ---
 date: 2022-04-28
 featured-image: transpose-matrix-in-every-language.jpg
-last-modified: 2025-10-13
+last-modified: 2025-10-18
 layout: default
 tags:
 - transpose-matrix

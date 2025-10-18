@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-10-15
+last-modified: 2025-10-18
 layout: default
 title: Programming Languages
 ---
@@ -85,7 +85,7 @@ Here are the percentages for each language in the collection:
     <tr>
         <td class="right nowrap">M4</td>
         <td class="right">3.08%</td>
-        <td class="bar-graph"><div style="width: 42.97%; background-color: #CCCCCC;"></div></td> 
+        <td class="bar-graph"><div style="width: 42.98%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
     <tr>
