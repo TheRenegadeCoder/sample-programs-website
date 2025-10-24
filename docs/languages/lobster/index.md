@@ -1,7 +1,7 @@
 ---
 date: 2023-08-14
 featured-image: programming-languages.jpg
-last-modified: 2024-12-27
+last-modified: 2025-10-24
 layout: default
 tags:
 - lobster
@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
 - [Baklava in Lobster](https://sampleprograms.io/projects/baklava/lobster)
+- [Fizz Buzz in Lobster](https://sampleprograms.io/projects/fizz-buzz/lobster)
 - [Hello World in Lobster](https://sampleprograms.io/projects/hello-world/lobster)

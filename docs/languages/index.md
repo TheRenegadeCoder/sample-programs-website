@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-10-19
+last-modified: 2025-10-24
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1328 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 156 languages, of which 155 are tested, 1 is untestable, and 1329 code snippets.
 
 ## Language Breakdown
 
@@ -48,7 +48,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Rust</td>
-        <td class="right">4.45%</td>
+        <td class="right">4.44%</td>
         <td class="bar-graph"><div style="width: 62.35%; background-color: #DEA584;"></div></td> 
     </tr>
 
@@ -713,6 +713,12 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
+        <td class="right nowrap">Lobster</td>
+        <td class="right">0.03%</td>
+        <td class="bar-graph"><div style="width: 0.42%; background-color: #E54728;"></div></td> 
+    </tr>
+
+    <tr>
         <td class="right nowrap">Eta</td>
         <td class="right">0.03%</td>
         <td class="bar-graph"><div style="width: 0.42%; background-color: #2AC9CE;"></div></td> 
@@ -896,12 +902,6 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">C*</td>
         <td class="right">0.02%</td>
         <td class="bar-graph"><div style="width: 0.24%; background-color: #6725A3;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">Lobster</td>
-        <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.22%; background-color: #E54728;"></div></td> 
     </tr>
 
     <tr>
@@ -1148,14 +1148,14 @@ The 'K' collection contains 3 languages, of which 3 are tested, and 29 code snip
 
 ### L
 
-The 'L' collection contains 9 languages, of which 9 are tested, and 40 code snippets.
+The 'L' collection contains 9 languages, of which 9 are tested, and 41 code snippets.
 
 - [Latte](https://sampleprograms.io/languages/latte) (2 code snippets)
 - [Lily](https://sampleprograms.io/languages/lily) (2 code snippets)
 - [Lisp](https://sampleprograms.io/languages/lisp) (10 code snippets)
 - [Little](https://sampleprograms.io/languages/little) (2 code snippets)
 - [Livescript](https://sampleprograms.io/languages/livescript) (2 code snippets)
-- [Lobster](https://sampleprograms.io/languages/lobster) (2 code snippets)
+- [Lobster](https://sampleprograms.io/languages/lobster) (3 code snippets)
 - [Lolcode](https://sampleprograms.io/languages/lolcode) (3 code snippets)
 - [Lua](https://sampleprograms.io/languages/lua) (15 code snippets)
 - [Lucee](https://sampleprograms.io/languages/lucee) (2 code snippets)
