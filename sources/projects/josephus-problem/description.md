@@ -5,7 +5,7 @@ elimination proceeds around the circle (which is becoming smaller and smaller as
 executed people are removed), until only the last person remains, who is given freedom.
 Given the total number of persons `n` and a number `k` (the step count) which indicates
 that `k-1` persons are skipped and `k`th person is killed in circle. The task is to find
-out, given `n` and `k`, which person will survive.
+out which person will survive.
 
 ### Example
 
