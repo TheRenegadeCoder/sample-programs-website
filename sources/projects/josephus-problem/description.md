@@ -1,23 +1,62 @@
-There are n people standing in a circle waiting to be executed. The counting out begins at some point in the circle and proceeds around the circle in a fixed direction. In each step, a certain number of people are skipped and the next person is executed. The elimination proceeds around the circle (which is becoming smaller and smaller as the executed people are removed), until only the last person remains, who is given freedom. Given the total number of persons n and a number k which indicates that k-1 persons are skipped and kth person is killed in circle. The task is to choose the place in the initial circle so that you are the last one remaining and so survive.
+There are `n` people standing in a circle waiting to be executed. The counting out begins
+at some point in the circle and proceeds around the circle in a fixed direction. In each
+step, a certain number of people are skipped and the next person is executed. The
+elimination proceeds around the circle (which is becoming smaller and smaller as the
+executed people are removed), until only the last person remains, who is given freedom.
+Given the total number of persons `n` and a number `k` (the step count) which indicates
+that `k-1` persons are skipped and `k`th person is killed in circle. The task is to find
+out which person will survive.
 
 ### Example
 
-__Input:__
+In this example, 5 people are placed in a circle (`n = 5`), and the step count is 2 (`k = 2`).
 
-n = 5 (total number of people in circle)
+<pre>
+      [1]
+     /   \
+  [5]     [2]
+   |       |
+  [4]-----[3]
+</pre>
 
-k = 2 (number of people - 1 are skipped and kth person is killed)
+The count starts at person 1, and person 2 is executed:
 
-__Output__: (Number of people in the circle currently, number of people to skip, index of the person to be killed or removed)
+<pre>
+      [1]
+     /   \
+  [5]     <span style="color: red">[2] X</span>
+   |       |
+  [4]-----[3]
+</pre>
 
-[1, 2, 3, 4, 5] 1 0
+The count now starts at person 3, and person 4 is executed:
 
-[1, 3, 4, 5] 1 1
+<pre>
+      [1]
+     /   \
+  [5]     <span style="color: red;">[2] X</span>
+   |       |
+<span style="color: red;">X [4]</span>-----[3]
+</pre>
 
-[1, 3, 5] 1 2
+The count now starts a person 5, and person 1 is executed:
 
-[3, 5] 1 0
+<pre>
+      <span style="color: red;">[1] X</span>
+     /   \
+  [5]     <span style="color: red;">[2] X</span>
+   |       |
+<span style="color: red;">X [4]</span>-----[3]
+</pre>
 
-3
+The count now starts at person 3, and person 5 is executed:
 
-At the end, 3rd person stays alive.
+<pre>
+      <span style="color: red;">[1] X</span>
+     /   \
+<span style="color: red;">X [5]</span>     <span style="color: red;">[2] X</span>
+   |       |
+<span style="color: red;">X [4]</span>-----[3]
+</pre>
+
+At the end, person 3 is the survivor.
