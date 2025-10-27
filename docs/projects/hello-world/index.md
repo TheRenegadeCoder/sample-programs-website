@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2025-10-15
+last-modified: 2025-10-27
 layout: default
 tags:
 - hello-world
@@ -47,7 +47,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 156 articles:
+There are 157 articles:
 
 - [Hello World in Ada](https://sampleprograms.io/projects/hello-world/ada)
 - [Hello World in Agda](https://sampleprograms.io/projects/hello-world/agda)
@@ -77,6 +77,7 @@ There are 156 articles:
 - [Hello World in Commodore Basic](https://sampleprograms.io/projects/hello-world/commodore-basic)
 - [Hello World in Crystal](https://sampleprograms.io/projects/hello-world/crystal)
 - [Hello World in Cyclone](https://sampleprograms.io/projects/hello-world/cyclone)
+- [Hello World in Cython](https://sampleprograms.io/projects/hello-world/cython)
 - [Hello World in D](https://sampleprograms.io/projects/hello-world/d)
 - [Hello World in Dale](https://sampleprograms.io/projects/hello-world/dale)
 - [Hello World in Dart](https://sampleprograms.io/projects/hello-world/dart)
