@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1332 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1333 code snippets.
 
 ## Language Breakdown
 
@@ -60,7 +60,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Php</td>
-        <td class="right">4.08%</td>
+        <td class="right">4.07%</td>
         <td class="bar-graph"><div style="width: 57.25%; background-color: #4F5D95;"></div></td> 
     </tr>
 
@@ -689,6 +689,12 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
+        <td class="right nowrap">C*</td>
+        <td class="right">0.03%</td>
+        <td class="bar-graph"><div style="width: 0.47%; background-color: #6725A3;"></div></td> 
+    </tr>
+
+    <tr>
         <td class="right nowrap">Grain</td>
         <td class="right">0.03%</td>
         <td class="bar-graph"><div style="width: 0.46%; background-color: #FF850E;"></div></td> 
@@ -899,12 +905,6 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">C*</td>
-        <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.24%; background-color: #6725A3;"></div></td> 
-    </tr>
-
-    <tr>
         <td class="right nowrap">Livescript</td>
         <td class="right">0.01%</td>
         <td class="bar-graph"><div style="width: 0.16%; background-color: #499886;"></div></td> 
@@ -1026,13 +1026,13 @@ The 'B' collection contains 9 languages, of which 9 are tested, and 79 code snip
 
 ### C
 
-The 'C' collection contains 15 languages, of which 15 are tested, and 183 code snippets.
+The 'C' collection contains 15 languages, of which 15 are tested, and 184 code snippets.
 
 - [C](https://sampleprograms.io/languages/c) (38 code snippets)
 - [C#](https://sampleprograms.io/languages/c-sharp) (38 code snippets)
 - [C++](https://sampleprograms.io/languages/c-plus-plus) (32 code snippets)
 - [C2](https://sampleprograms.io/languages/c2) (2 code snippets)
-- [C\*](https://sampleprograms.io/languages/c-star) (2 code snippets)
+- [C\*](https://sampleprograms.io/languages/c-star) (3 code snippets)
 - [Carp](https://sampleprograms.io/languages/carp) (2 code snippets)
 - [Chaiscript](https://sampleprograms.io/languages/chaiscript) (2 code snippets)
 - [Chapel](https://sampleprograms.io/languages/chapel) (3 code snippets)
