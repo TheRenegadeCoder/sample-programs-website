@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-10-28
+last-modified: 2025-10-29
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1333 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1334 code snippets.
 
 ## Language Breakdown
 
@@ -18,13 +18,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Algol68</td>
-        <td class="right">7.12%</td>
+        <td class="right">7.11%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #AF425E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Commodore Basic</td>
-        <td class="right">7.03%</td>
+        <td class="right">7.02%</td>
         <td class="bar-graph"><div style="width: 98.72%; background-color: #4F44D8;"></div></td> 
     </tr>
 
@@ -42,13 +42,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Pascal</td>
-        <td class="right">5.08%</td>
+        <td class="right">5.07%</td>
         <td class="bar-graph"><div style="width: 71.34%; background-color: #E3F171;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Rust</td>
-        <td class="right">4.44%</td>
+        <td class="right">4.43%</td>
         <td class="bar-graph"><div style="width: 62.35%; background-color: #DEA584;"></div></td> 
     </tr>
 
@@ -108,8 +108,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Java</td>
-        <td class="right">2.49%</td>
-        <td class="bar-graph"><div style="width: 35.04%; background-color: #B07219;"></div></td> 
+        <td class="right">2.55%</td>
+        <td class="bar-graph"><div style="width: 35.91%; background-color: #B07219;"></div></td> 
     </tr>
 
     <tr>
@@ -126,7 +126,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Go</td>
-        <td class="right">2.07%</td>
+        <td class="right">2.06%</td>
         <td class="bar-graph"><div style="width: 29.02%; background-color: #00ADD8;"></div></td> 
     </tr>
 
@@ -174,7 +174,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Brainfuck</td>
-        <td class="right">0.84%</td>
+        <td class="right">0.83%</td>
         <td class="bar-graph"><div style="width: 11.73%; background-color: #2F2530;"></div></td> 
     </tr>
 
@@ -1134,10 +1134,10 @@ The 'I' collection contains 2 languages, of which 2 are tested, and 5 code snipp
 
 ### J
 
-The 'J' collection contains 4 languages, of which 4 are tested, and 77 code snippets.
+The 'J' collection contains 4 languages, of which 4 are tested, and 78 code snippets.
 
 - [Janet](https://sampleprograms.io/languages/janet) (3 code snippets)
-- [Java](https://sampleprograms.io/languages/java) (26 code snippets)
+- [Java](https://sampleprograms.io/languages/java) (27 code snippets)
 - [Javascript](https://sampleprograms.io/languages/javascript) (33 code snippets)
 - [Julia](https://sampleprograms.io/languages/julia) (15 code snippets)
 
