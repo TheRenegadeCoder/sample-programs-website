@@ -1,7 +1,7 @@
 ---
 date: 2020-10-01
 featured-image: programming-languages.jpg
-last-modified: 2025-10-15
+last-modified: 2025-10-28
 layout: default
 tags:
 - fortran
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 9 articles:
+There are 10 articles:
 
 - [Baklava in Fortran](https://sampleprograms.io/projects/baklava/fortran)
 - [Capitalize in Fortran](https://sampleprograms.io/projects/capitalize/fortran)
@@ -35,5 +35,6 @@ There are 9 articles:
 - [Fibonacci in Fortran](https://sampleprograms.io/projects/fibonacci/fortran)
 - [Fizz Buzz in Fortran](https://sampleprograms.io/projects/fizz-buzz/fortran)
 - [Hello World in Fortran](https://sampleprograms.io/projects/hello-world/fortran)
+- [Linear Search in Fortran](https://sampleprograms.io/projects/linear-search/fortran)
 - [Prime Number in Fortran](https://sampleprograms.io/projects/prime-number/fortran)
 - [Reverse String in Fortran](https://sampleprograms.io/projects/reverse-string/fortran)
