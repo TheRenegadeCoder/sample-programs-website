@@ -270,10 +270,10 @@ where `<url>` is the website to the image. For example:
 
 Prerequisites:
 
-* [Python 3.9 or better][12]
+* [Python 3.10 or better][12]
 * [pip python package][16]
 * [virtualenv python package][13]
-* [poetry 2.1.1 or better][15]
+* [poetry 2.2.1 or better][15]
 * [Docker][14]
 
 If you wish to build a local copy of the website install the necessary packages:
