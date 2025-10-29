@@ -5,7 +5,7 @@ authors:
 - Stuart Irwin
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-10-29
+last-modified: 2025-10-30
 layout: default
 tags:
 - java
@@ -60,7 +60,7 @@ great features like garbage collection which offset some of these complaints.
 
 ## Articles
 
-There are 27 articles:
+There are 28 articles:
 
 - [Baklava in Java](https://sampleprograms.io/projects/baklava/java)
 - [Binary Search in Java](https://sampleprograms.io/projects/binary-search/java)
@@ -80,6 +80,7 @@ There are 27 articles:
 - [Josephus Problem in Java](https://sampleprograms.io/projects/josephus-problem/java)
 - [Linear Search in Java](https://sampleprograms.io/projects/linear-search/java)
 - [Longest Common Subsequence in Java](https://sampleprograms.io/projects/longest-common-subsequence/java)
+- [Longest Palindromic Substring in Java](https://sampleprograms.io/projects/longest-palindromic-substring/java)
 - [Longest Word in Java](https://sampleprograms.io/projects/longest-word/java)
 - [Merge Sort in Java](https://sampleprograms.io/projects/merge-sort/java)
 - [Palindromic Number in Java](https://sampleprograms.io/projects/palindromic-number/java)
