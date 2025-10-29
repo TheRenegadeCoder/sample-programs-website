@@ -1,7 +1,7 @@
 ---
 date: 2022-04-28
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2025-10-09
+last-modified: 2025-10-29
 layout: default
 tags:
 - remove-all-whitespace
@@ -95,7 +95,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 27 articles:
+There are 28 articles:
 
 - [Remove All Whitespace in Algol68](https://sampleprograms.io/projects/remove-all-whitespace/algol68)
 - [Remove All Whitespace in Awk](https://sampleprograms.io/projects/remove-all-whitespace/awk)
@@ -104,6 +104,7 @@ There are 27 articles:
 - [Remove All Whitespace in C](https://sampleprograms.io/projects/remove-all-whitespace/c)
 - [Remove All Whitespace in C#](https://sampleprograms.io/projects/remove-all-whitespace/c-sharp)
 - [Remove All Whitespace in C++](https://sampleprograms.io/projects/remove-all-whitespace/c-plus-plus)
+- [Remove All Whitespace in Coffeescript](https://sampleprograms.io/projects/remove-all-whitespace/coffeescript)
 - [Remove All Whitespace in Commodore Basic](https://sampleprograms.io/projects/remove-all-whitespace/commodore-basic)
 - [Remove All Whitespace in Dart](https://sampleprograms.io/projects/remove-all-whitespace/dart)
 - [Remove All Whitespace in Elvish](https://sampleprograms.io/projects/remove-all-whitespace/elvish)
