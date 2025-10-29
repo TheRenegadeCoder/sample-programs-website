@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-19
 featured-image: programming-languages.jpg
-last-modified: 2025-03-26
+last-modified: 2025-10-29
 layout: default
 tags:
 - lua
@@ -55,7 +55,7 @@ gaming community. How have I never used it?
 
 ## Articles
 
-There are 15 articles:
+There are 16 articles:
 
 - [Baklava in Lua](https://sampleprograms.io/projects/baklava/lua)
 - [Bubble Sort in Lua](https://sampleprograms.io/projects/bubble-sort/lua)
@@ -67,6 +67,7 @@ There are 15 articles:
 - [File Input Output in Lua](https://sampleprograms.io/projects/file-input-output/lua)
 - [Fizz Buzz in Lua](https://sampleprograms.io/projects/fizz-buzz/lua)
 - [Hello World in Lua](https://sampleprograms.io/projects/hello-world/lua)
+- [Linear Search in Lua](https://sampleprograms.io/projects/linear-search/lua)
 - [Longest Word in Lua](https://sampleprograms.io/projects/longest-word/lua)
 - [Prime Number in Lua](https://sampleprograms.io/projects/prime-number/lua)
 - [Reverse String in Lua](https://sampleprograms.io/projects/reverse-string/lua)

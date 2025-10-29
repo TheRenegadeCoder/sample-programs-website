@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1336 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1337 code snippets.
 
 ## Language Breakdown
 
@@ -42,7 +42,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Pascal</td>
-        <td class="right">5.07%</td>
+        <td class="right">5.06%</td>
         <td class="bar-graph"><div style="width: 71.34%; background-color: #E3F171;"></div></td> 
     </tr>
 
@@ -60,7 +60,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Php</td>
-        <td class="right">4.07%</td>
+        <td class="right">4.06%</td>
         <td class="bar-graph"><div style="width: 57.25%; background-color: #4F5D95;"></div></td> 
     </tr>
 
@@ -72,7 +72,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Awk</td>
-        <td class="right">3.58%</td>
+        <td class="right">3.57%</td>
         <td class="bar-graph"><div style="width: 50.35%; background-color: #C30E9B;"></div></td> 
     </tr>
 
@@ -84,7 +84,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C++</td>
-        <td class="right">3.20%</td>
+        <td class="right">3.19%</td>
         <td class="bar-graph"><div style="width: 44.99%; background-color: #F34B7D;"></div></td> 
     </tr>
 
@@ -96,7 +96,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Powershell</td>
-        <td class="right">2.93%</td>
+        <td class="right">2.92%</td>
         <td class="bar-graph"><div style="width: 41.20%; background-color: #012456;"></div></td> 
     </tr>
 
@@ -114,7 +114,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Javascript</td>
-        <td class="right">2.18%</td>
+        <td class="right">2.17%</td>
         <td class="bar-graph"><div style="width: 30.64%; background-color: #F1E05A;"></div></td> 
     </tr>
 
@@ -209,6 +209,12 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
+        <td class="right nowrap">Lua</td>
+        <td class="right">0.64%</td>
+        <td class="bar-graph"><div style="width: 8.99%; background-color: #000080;"></div></td> 
+    </tr>
+
+    <tr>
         <td class="right nowrap">Scala</td>
         <td class="right">0.62%</td>
         <td class="bar-graph"><div style="width: 8.71%; background-color: #C22D40;"></div></td> 
@@ -218,12 +224,6 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Swift</td>
         <td class="right">0.60%</td>
         <td class="bar-graph"><div style="width: 8.51%; background-color: #F05138;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">Lua</td>
-        <td class="right">0.58%</td>
-        <td class="bar-graph"><div style="width: 8.19%; background-color: #000080;"></div></td> 
     </tr>
 
     <tr>
@@ -252,7 +252,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Erlang</td>
-        <td class="right">0.41%</td>
+        <td class="right">0.40%</td>
         <td class="bar-graph"><div style="width: 5.70%; background-color: #B83998;"></div></td> 
     </tr>
 
@@ -1155,7 +1155,7 @@ The 'K' collection contains 3 languages, of which 3 are tested, and 29 code snip
 
 ### L
 
-The 'L' collection contains 9 languages, of which 9 are tested, and 41 code snippets.
+The 'L' collection contains 9 languages, of which 9 are tested, and 42 code snippets.
 
 - [Latte](https://sampleprograms.io/languages/latte) (2 code snippets)
 - [Lily](https://sampleprograms.io/languages/lily) (2 code snippets)
@@ -1164,7 +1164,7 @@ The 'L' collection contains 9 languages, of which 9 are tested, and 41 code snip
 - [Livescript](https://sampleprograms.io/languages/livescript) (2 code snippets)
 - [Lobster](https://sampleprograms.io/languages/lobster) (3 code snippets)
 - [Lolcode](https://sampleprograms.io/languages/lolcode) (3 code snippets)
-- [Lua](https://sampleprograms.io/languages/lua) (15 code snippets)
+- [Lua](https://sampleprograms.io/languages/lua) (16 code snippets)
 - [Lucee](https://sampleprograms.io/languages/lucee) (2 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;

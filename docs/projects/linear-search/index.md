@@ -127,7 +127,7 @@ Usage: please provide a list of integers ("1, 4, 5, 11, 12") and the integer to 
 
 ## Articles
 
-There are 25 articles:
+There are 26 articles:
 
 - [Linear Search in Algol68](https://sampleprograms.io/projects/linear-search/algol68)
 - [Linear Search in Awk](https://sampleprograms.io/projects/linear-search/awk)
@@ -143,6 +143,7 @@ There are 25 articles:
 - [Linear Search in Java](https://sampleprograms.io/projects/linear-search/java)
 - [Linear Search in Javascript](https://sampleprograms.io/projects/linear-search/javascript)
 - [Linear Search in Kotlin](https://sampleprograms.io/projects/linear-search/kotlin)
+- [Linear Search in Lua](https://sampleprograms.io/projects/linear-search/lua)
 - [Linear Search in M4](https://sampleprograms.io/projects/linear-search/m4)
 - [Linear Search in Mathematica](https://sampleprograms.io/projects/linear-search/mathematica)
 - [Linear Search in Pascal](https://sampleprograms.io/projects/linear-search/pascal)
