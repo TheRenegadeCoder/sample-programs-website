@@ -1,7 +1,7 @@
 ---
 date: 2023-08-14
 featured-image: programming-languages.jpg
-last-modified: 2024-12-27
+last-modified: 2025-10-29
 layout: default
 tags:
 - livescript
@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
 - [Baklava in Livescript](https://sampleprograms.io/projects/baklava/livescript)
+- [Fizz Buzz in Livescript](https://sampleprograms.io/projects/fizz-buzz/livescript)
 - [Hello World in Livescript](https://sampleprograms.io/projects/hello-world/livescript)

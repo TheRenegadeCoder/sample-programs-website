@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1338 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1339 code snippets.
 
 ## Language Breakdown
 
@@ -887,6 +887,12 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
+        <td class="right nowrap">Livescript</td>
+        <td class="right">0.02%</td>
+        <td class="bar-graph"><div style="width: 0.29%; background-color: #499886;"></div></td> 
+    </tr>
+
+    <tr>
         <td class="right nowrap">Golo</td>
         <td class="right">0.02%</td>
         <td class="bar-graph"><div style="width: 0.28%; background-color: #88562A;"></div></td> 
@@ -902,12 +908,6 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Scilab</td>
         <td class="right">0.02%</td>
         <td class="bar-graph"><div style="width: 0.26%; background-color: #CA0F21;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">Livescript</td>
-        <td class="right">0.01%</td>
-        <td class="bar-graph"><div style="width: 0.16%; background-color: #499886;"></div></td> 
     </tr>
 
     <tr>
@@ -1155,13 +1155,13 @@ The 'K' collection contains 3 languages, of which 3 are tested, and 29 code snip
 
 ### L
 
-The 'L' collection contains 9 languages, of which 9 are tested, and 42 code snippets.
+The 'L' collection contains 9 languages, of which 9 are tested, and 43 code snippets.
 
 - [Latte](https://sampleprograms.io/languages/latte) (2 code snippets)
 - [Lily](https://sampleprograms.io/languages/lily) (2 code snippets)
 - [Lisp](https://sampleprograms.io/languages/lisp) (10 code snippets)
 - [Little](https://sampleprograms.io/languages/little) (2 code snippets)
-- [Livescript](https://sampleprograms.io/languages/livescript) (2 code snippets)
+- [Livescript](https://sampleprograms.io/languages/livescript) (3 code snippets)
 - [Lobster](https://sampleprograms.io/languages/lobster) (3 code snippets)
 - [Lolcode](https://sampleprograms.io/languages/lolcode) (3 code snippets)
 - [Lua](https://sampleprograms.io/languages/lua) (16 code snippets)
