@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-10-30
+last-modified: 2025-10-29
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1342 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1343 code snippets.
 
 ## Language Breakdown
 
@@ -42,7 +42,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Pascal</td>
-        <td class="right">5.05%</td>
+        <td class="right">5.04%</td>
         <td class="bar-graph"><div style="width: 71.34%; background-color: #E3F171;"></div></td> 
     </tr>
 
@@ -66,7 +66,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C#</td>
-        <td class="right">3.89%</td>
+        <td class="right">3.88%</td>
         <td class="bar-graph"><div style="width: 54.95%; background-color: #178600;"></div></td> 
     </tr>
 
@@ -78,7 +78,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">M4</td>
-        <td class="right">3.43%</td>
+        <td class="right">3.42%</td>
         <td class="bar-graph"><div style="width: 48.44%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
@@ -102,7 +102,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Tcl</td>
-        <td class="right">2.68%</td>
+        <td class="right">2.67%</td>
         <td class="bar-graph"><div style="width: 37.84%; background-color: #E4CC98;"></div></td> 
     </tr>
 
@@ -144,7 +144,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Objective C</td>
-        <td class="right">1.21%</td>
+        <td class="right">1.20%</td>
         <td class="bar-graph"><div style="width: 17.05%; background-color: #438EFF;"></div></td> 
     </tr>
 
@@ -335,6 +335,12 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
+        <td class="right nowrap">Nim</td>
+        <td class="right">0.14%</td>
+        <td class="bar-graph"><div style="width: 1.94%; background-color: #FFC200;"></div></td> 
+    </tr>
+
+    <tr>
         <td class="right nowrap">Coffeescript</td>
         <td class="right">0.13%</td>
         <td class="bar-graph"><div style="width: 1.81%; background-color: #244776;"></div></td> 
@@ -392,12 +398,6 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Baik</td>
         <td class="right">0.08%</td>
         <td class="bar-graph"><div style="width: 1.18%; background-color: #4CAF50;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">Nim</td>
-        <td class="right">0.08%</td>
-        <td class="bar-graph"><div style="width: 1.17%; background-color: #FFC200;"></div></td> 
     </tr>
 
     <tr>
@@ -1185,10 +1185,10 @@ The 'M' collection contains 7 languages, of which 6 are tested, 1 is untestable,
 
 ### N
 
-The 'N' collection contains 3 languages, of which 3 are tested, and 10 code snippets.
+The 'N' collection contains 3 languages, of which 3 are tested, and 11 code snippets.
 
 - [Never](https://sampleprograms.io/languages/never) (3 code snippets)
-- [Nim](https://sampleprograms.io/languages/nim) (5 code snippets)
+- [Nim](https://sampleprograms.io/languages/nim) (6 code snippets)
 - [Nit](https://sampleprograms.io/languages/nit) (2 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;

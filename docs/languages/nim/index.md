@@ -1,7 +1,7 @@
 ---
 date: 2019-10-16
 featured-image: programming-languages.jpg
-last-modified: 2025-01-19
+last-modified: 2025-10-29
 layout: default
 tags:
 - nim
@@ -26,9 +26,10 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 5 articles:
+There are 6 articles:
 
 - [Baklava in Nim](https://sampleprograms.io/projects/baklava/nim)
+- [Factorial in Nim](https://sampleprograms.io/projects/factorial/nim)
 - [Fibonacci in Nim](https://sampleprograms.io/projects/fibonacci/nim)
 - [Fizz Buzz in Nim](https://sampleprograms.io/projects/fizz-buzz/nim)
 - [Hello World in Nim](https://sampleprograms.io/projects/hello-world/nim)
