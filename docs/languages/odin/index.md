@@ -1,7 +1,7 @@
 ---
 date: 2018-06-15
 featured-image: programming-languages.jpg
-last-modified: 2025-01-19
+last-modified: 2025-10-30
 layout: default
 tags:
 - odin
@@ -26,10 +26,11 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 8 articles:
+There are 9 articles:
 
 - [Baklava in Odin](https://sampleprograms.io/projects/baklava/odin)
 - [Even Odd in Odin](https://sampleprograms.io/projects/even-odd/odin)
+- [Fibonacci in Odin](https://sampleprograms.io/projects/fibonacci/odin)
 - [File Input Output in Odin](https://sampleprograms.io/projects/file-input-output/odin)
 - [Fizz Buzz in Odin](https://sampleprograms.io/projects/fizz-buzz/odin)
 - [Hello World in Odin](https://sampleprograms.io/projects/hello-world/odin)
