@@ -5,7 +5,7 @@ authors:
 - Stuart Irwin
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-10-30
+last-modified: 2025-10-31
 layout: default
 tags:
 - java
@@ -60,7 +60,7 @@ great features like garbage collection which offset some of these complaints.
 
 ## Articles
 
-There are 28 articles:
+There are 29 articles:
 
 - [Baklava in Java](https://sampleprograms.io/projects/baklava/java)
 - [Binary Search in Java](https://sampleprograms.io/projects/binary-search/java)
@@ -90,3 +90,4 @@ There are 28 articles:
 - [Reverse String in Java](https://sampleprograms.io/projects/reverse-string/java)
 - [Rot13 in Java](https://sampleprograms.io/projects/rot13/java)
 - [Selection Sort in Java](https://sampleprograms.io/projects/selection-sort/java)
+- [Transpose Matrix in Java](https://sampleprograms.io/projects/transpose-matrix/java)

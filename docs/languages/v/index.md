@@ -1,7 +1,7 @@
 ---
 date: 2023-06-17
 featured-image: programming-languages.jpg
-last-modified: 2024-12-16
+last-modified: 2025-10-30
 layout: default
 tags:
 - v
@@ -26,9 +26,10 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 6 articles:
+There are 7 articles:
 
 - [Baklava in V](https://sampleprograms.io/projects/baklava/v)
+- [Duplicate Character Counter in V](https://sampleprograms.io/projects/duplicate-character-counter/v)
 - [Even Odd in V](https://sampleprograms.io/projects/even-odd/v)
 - [Factorial in V](https://sampleprograms.io/projects/factorial/v)
 - [Fizz Buzz in V](https://sampleprograms.io/projects/fizz-buzz/v)

@@ -1,7 +1,7 @@
 ---
 date: 2022-05-14
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2025-10-08
+last-modified: 2025-10-30
 layout: default
 tags:
 - duplicate-character-counter
@@ -76,7 +76,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 26 articles:
+There are 27 articles:
 
 - [Duplicate Character Counter in Algol68](https://sampleprograms.io/projects/duplicate-character-counter/algol68)
 - [Duplicate Character Counter in Awk](https://sampleprograms.io/projects/duplicate-character-counter/awk)
@@ -103,6 +103,7 @@ There are 26 articles:
 - [Duplicate Character Counter in Tcl](https://sampleprograms.io/projects/duplicate-character-counter/tcl)
 - [Duplicate Character Counter in Ti Basic](https://sampleprograms.io/projects/duplicate-character-counter/ti-basic)
 - [Duplicate Character Counter in Typescript](https://sampleprograms.io/projects/duplicate-character-counter/typescript)
+- [Duplicate Character Counter in V](https://sampleprograms.io/projects/duplicate-character-counter/v)
 - [Duplicate Character Counter in Wren](https://sampleprograms.io/projects/duplicate-character-counter/wren)
 
 ***
