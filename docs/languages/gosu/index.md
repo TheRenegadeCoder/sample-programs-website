@@ -1,7 +1,7 @@
 ---
 date: 2020-11-03
 featured-image: programming-languages.jpg
-last-modified: 2025-01-01
+last-modified: 2025-10-30
 layout: default
 tags:
 - gosu
@@ -26,7 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
 - [Baklava in Gosu](https://sampleprograms.io/projects/baklava/gosu)
+- [Fizz Buzz in Gosu](https://sampleprograms.io/projects/fizz-buzz/gosu)
 - [Hello World in Gosu](https://sampleprograms.io/projects/hello-world/gosu)

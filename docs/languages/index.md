@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1347 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1348 code snippets.
 
 ## Language Breakdown
 
@@ -791,6 +791,12 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
+        <td class="right nowrap">Gosu</td>
+        <td class="right">0.03%</td>
+        <td class="bar-graph"><div style="width: 0.38%; background-color: #82937F;"></div></td> 
+    </tr>
+
+    <tr>
         <td class="right nowrap">Koka</td>
         <td class="right">0.03%</td>
         <td class="bar-graph"><div style="width: 0.38%; background-color: #215166;"></div></td> 
@@ -926,12 +932,6 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Goby</td>
         <td class="right">0.01%</td>
         <td class="bar-graph"><div style="width: 0.16%; background-color: #EC573D;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">Gosu</td>
-        <td class="right">0.01%</td>
-        <td class="bar-graph"><div style="width: 0.16%; background-color: #82937F;"></div></td> 
     </tr>
 
     <tr>
@@ -1096,7 +1096,7 @@ The 'F' collection contains 12 languages, of which 12 are tested, and 36 code sn
 
 ### G
 
-The 'G' collection contains 11 languages, of which 11 are tested, and 68 code snippets.
+The 'G' collection contains 11 languages, of which 11 are tested, and 69 code snippets.
 
 - [Gerbil](https://sampleprograms.io/languages/gerbil) (2 code snippets)
 - [Gluon](https://sampleprograms.io/languages/gluon) (2 code snippets)
@@ -1104,7 +1104,7 @@ The 'G' collection contains 11 languages, of which 11 are tested, and 68 code sn
 - [Go](https://sampleprograms.io/languages/go) (33 code snippets)
 - [Goby](https://sampleprograms.io/languages/goby) (2 code snippets)
 - [Golo](https://sampleprograms.io/languages/golo) (2 code snippets)
-- [Gosu](https://sampleprograms.io/languages/gosu) (2 code snippets)
+- [Gosu](https://sampleprograms.io/languages/gosu) (3 code snippets)
 - [Grain](https://sampleprograms.io/languages/grain) (2 code snippets)
 - [Granule](https://sampleprograms.io/languages/granule) (2 code snippets)
 - [Gravity](https://sampleprograms.io/languages/gravity) (3 code snippets)
