@@ -1,7 +1,7 @@
 ---
 date: 2018-04-12
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2025-10-15
+last-modified: 2025-10-30
 layout: default
 tags:
 - reverse-string
@@ -70,7 +70,7 @@ In this section, we specify the set of tests specific to Reverse String.
 
 ## Articles
 
-There are 55 articles:
+There are 56 articles:
 
 - [Reverse String in Algol68](https://sampleprograms.io/projects/reverse-string/algol68)
 - [Reverse String in Awk](https://sampleprograms.io/projects/reverse-string/awk)
@@ -102,6 +102,7 @@ There are 55 articles:
 - [Reverse String in Moonscript](https://sampleprograms.io/projects/reverse-string/moonscript)
 - [Reverse String in Never](https://sampleprograms.io/projects/reverse-string/never)
 - [Reverse String in Nim](https://sampleprograms.io/projects/reverse-string/nim)
+- [Reverse String in Nit](https://sampleprograms.io/projects/reverse-string/nit)
 - [Reverse String in Objective C](https://sampleprograms.io/projects/reverse-string/objective-c)
 - [Reverse String in Octave](https://sampleprograms.io/projects/reverse-string/octave)
 - [Reverse String in Odin](https://sampleprograms.io/projects/reverse-string/odin)

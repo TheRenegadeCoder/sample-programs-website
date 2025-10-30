@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1345 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1346 code snippets.
 
 ## Language Breakdown
 
@@ -54,7 +54,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C</td>
-        <td class="right">4.37%</td>
+        <td class="right">4.36%</td>
         <td class="bar-graph"><div style="width: 61.81%; background-color: #555555;"></div></td> 
     </tr>
 
@@ -210,7 +210,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Lua</td>
-        <td class="right">0.64%</td>
+        <td class="right">0.63%</td>
         <td class="bar-graph"><div style="width: 8.99%; background-color: #000080;"></div></td> 
     </tr>
 
@@ -815,6 +815,12 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
+        <td class="right nowrap">Nit</td>
+        <td class="right">0.02%</td>
+        <td class="bar-graph"><div style="width: 0.35%; background-color: #009917;"></div></td> 
+    </tr>
+
+    <tr>
         <td class="right nowrap">Spry</td>
         <td class="right">0.02%</td>
         <td class="bar-graph"><div style="width: 0.35%; background-color: #4451B5;"></div></td> 
@@ -926,12 +932,6 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Gosu</td>
         <td class="right">0.01%</td>
         <td class="bar-graph"><div style="width: 0.16%; background-color: #82937F;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">Nit</td>
-        <td class="right">0.01%</td>
-        <td class="bar-graph"><div style="width: 0.15%; background-color: #009917;"></div></td> 
     </tr>
 
     <tr>
@@ -1185,11 +1185,11 @@ The 'M' collection contains 7 languages, of which 6 are tested, 1 is untestable,
 
 ### N
 
-The 'N' collection contains 3 languages, of which 3 are tested, and 11 code snippets.
+The 'N' collection contains 3 languages, of which 3 are tested, and 12 code snippets.
 
 - [Never](https://sampleprograms.io/languages/never) (3 code snippets)
 - [Nim](https://sampleprograms.io/languages/nim) (6 code snippets)
-- [Nit](https://sampleprograms.io/languages/nit) (2 code snippets)
+- [Nit](https://sampleprograms.io/languages/nit) (3 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 
