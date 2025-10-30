@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-10-31
+last-modified: 2025-10-30
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1349 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1350 code snippets.
 
 ## Language Breakdown
 
@@ -108,7 +108,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Java</td>
-        <td class="right">2.65%</td>
+        <td class="right">2.64%</td>
         <td class="bar-graph"><div style="width: 37.54%; background-color: #B07219;"></div></td> 
     </tr>
 
@@ -150,7 +150,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Haskell</td>
-        <td class="right">1.14%</td>
+        <td class="right">1.13%</td>
         <td class="bar-graph"><div style="width: 16.11%; background-color: #5E5086;"></div></td> 
     </tr>
 
@@ -749,6 +749,12 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
+        <td class="right nowrap">Goby</td>
+        <td class="right">0.03%</td>
+        <td class="bar-graph"><div style="width: 0.41%; background-color: #EC573D;"></div></td> 
+    </tr>
+
+    <tr>
         <td class="right nowrap">Elena</td>
         <td class="right">0.03%</td>
         <td class="bar-graph"><div style="width: 0.41%; background-color: #AD9274;"></div></td> 
@@ -929,12 +935,6 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Goby</td>
-        <td class="right">0.01%</td>
-        <td class="bar-graph"><div style="width: 0.16%; background-color: #EC573D;"></div></td> 
-    </tr>
-
-    <tr>
         <td class="right nowrap">Ring</td>
         <td class="right">0.01%</td>
         <td class="bar-graph"><div style="width: 0.13%; background-color: #2D54CB;"></div></td> 
@@ -1096,13 +1096,13 @@ The 'F' collection contains 12 languages, of which 12 are tested, and 36 code sn
 
 ### G
 
-The 'G' collection contains 11 languages, of which 11 are tested, and 69 code snippets.
+The 'G' collection contains 11 languages, of which 11 are tested, and 70 code snippets.
 
 - [Gerbil](https://sampleprograms.io/languages/gerbil) (2 code snippets)
 - [Gluon](https://sampleprograms.io/languages/gluon) (2 code snippets)
 - [Gnu Make](https://sampleprograms.io/languages/gnu-make) (9 code snippets)
 - [Go](https://sampleprograms.io/languages/go) (33 code snippets)
-- [Goby](https://sampleprograms.io/languages/goby) (2 code snippets)
+- [Goby](https://sampleprograms.io/languages/goby) (3 code snippets)
 - [Golo](https://sampleprograms.io/languages/golo) (2 code snippets)
 - [Gosu](https://sampleprograms.io/languages/gosu) (3 code snippets)
 - [Grain](https://sampleprograms.io/languages/grain) (2 code snippets)

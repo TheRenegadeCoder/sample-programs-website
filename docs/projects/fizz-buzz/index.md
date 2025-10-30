@@ -76,7 +76,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 92 articles:
+There are 93 articles:
 
 - [Fizz Buzz in Ada](https://sampleprograms.io/projects/fizz-buzz/ada)
 - [Fizz Buzz in Algol68](https://sampleprograms.io/projects/fizz-buzz/algol68)
@@ -113,6 +113,7 @@ There are 92 articles:
 - [Fizz Buzz in Fortran](https://sampleprograms.io/projects/fizz-buzz/fortran)
 - [Fizz Buzz in Gnu Make](https://sampleprograms.io/projects/fizz-buzz/gnu-make)
 - [Fizz Buzz in Go](https://sampleprograms.io/projects/fizz-buzz/go)
+- [Fizz Buzz in Goby](https://sampleprograms.io/projects/fizz-buzz/goby)
 - [Fizz Buzz in Gosu](https://sampleprograms.io/projects/fizz-buzz/gosu)
 - [Fizz Buzz in Gravity](https://sampleprograms.io/projects/fizz-buzz/gravity)
 - [Fizz Buzz in Groovy](https://sampleprograms.io/projects/fizz-buzz/groovy)
