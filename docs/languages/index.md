@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1344 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1345 code snippets.
 
 ## Language Breakdown
 
@@ -18,19 +18,19 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Algol68</td>
-        <td class="right">7.07%</td>
+        <td class="right">7.06%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #AF425E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Commodore Basic</td>
-        <td class="right">6.98%</td>
+        <td class="right">6.97%</td>
         <td class="bar-graph"><div style="width: 98.72%; background-color: #4F44D8;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Euphoria</td>
-        <td class="right">6.18%</td>
+        <td class="right">6.17%</td>
         <td class="bar-graph"><div style="width: 87.42%; background-color: #FF790B;"></div></td> 
     </tr>
 
@@ -48,7 +48,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Rust</td>
-        <td class="right">4.41%</td>
+        <td class="right">4.40%</td>
         <td class="bar-graph"><div style="width: 62.35%; background-color: #DEA584;"></div></td> 
     </tr>
 
@@ -60,7 +60,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Php</td>
-        <td class="right">4.05%</td>
+        <td class="right">4.04%</td>
         <td class="bar-graph"><div style="width: 57.25%; background-color: #4F5D95;"></div></td> 
     </tr>
 
@@ -114,7 +114,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Javascript</td>
-        <td class="right">2.17%</td>
+        <td class="right">2.16%</td>
         <td class="bar-graph"><div style="width: 30.64%; background-color: #F1E05A;"></div></td> 
     </tr>
 
@@ -132,7 +132,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Typescript</td>
-        <td class="right">1.44%</td>
+        <td class="right">1.43%</td>
         <td class="bar-graph"><div style="width: 20.32%; background-color: #3178C6;"></div></td> 
     </tr>
 
@@ -156,13 +156,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Perl</td>
-        <td class="right">0.93%</td>
+        <td class="right">0.92%</td>
         <td class="bar-graph"><div style="width: 13.09%; background-color: #0298C3;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">X86 64</td>
-        <td class="right">0.92%</td>
+        <td class="right">0.91%</td>
         <td class="bar-graph"><div style="width: 12.95%; background-color: #6E4C13;"></div></td> 
     </tr>
 
@@ -198,7 +198,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Unicat</td>
-        <td class="right">0.66%</td>
+        <td class="right">0.65%</td>
         <td class="bar-graph"><div style="width: 9.27%; background-color: #FFDE34;"></div></td> 
     </tr>
 
@@ -348,7 +348,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Lolcode</td>
-        <td class="right">0.11%</td>
+        <td class="right">0.10%</td>
         <td class="bar-graph"><div style="width: 1.49%; background-color: #CC9900;"></div></td> 
     </tr>
 
@@ -356,6 +356,12 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Mirth</td>
         <td class="right">0.10%</td>
         <td class="bar-graph"><div style="width: 1.43%; background-color: #2AAB35;"></div></td> 
+    </tr>
+
+    <tr>
+        <td class="right nowrap">Red</td>
+        <td class="right">0.10%</td>
+        <td class="bar-graph"><div style="width: 1.38%; background-color: #F50000;"></div></td> 
     </tr>
 
     <tr>
@@ -662,12 +668,6 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Kitten</td>
         <td class="right">0.03%</td>
         <td class="bar-graph"><div style="width: 0.49%; background-color: #8C4CA9;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">Red</td>
-        <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.48%; background-color: #F50000;"></div></td> 
     </tr>
 
     <tr>
@@ -1238,12 +1238,12 @@ The 'Q' collection contains 1 language, of which 1 is tested, and 2 code snippet
 
 ### R
 
-The 'R' collection contains 8 languages, of which 8 are tested, and 86 code snippets.
+The 'R' collection contains 8 languages, of which 8 are tested, and 87 code snippets.
 
 - [R](https://sampleprograms.io/languages/r) (10 code snippets)
 - [Racket](https://sampleprograms.io/languages/racket) (4 code snippets)
 - [Raku](https://sampleprograms.io/languages/raku) (3 code snippets)
-- [Red](https://sampleprograms.io/languages/red) (3 code snippets)
+- [Red](https://sampleprograms.io/languages/red) (4 code snippets)
 - [Rexx](https://sampleprograms.io/languages/rexx) (5 code snippets)
 - [Ring](https://sampleprograms.io/languages/ring) (2 code snippets)
 - [Ruby](https://sampleprograms.io/languages/ruby) (21 code snippets)

@@ -5,7 +5,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-20
 featured-image: programming-languages.jpg
-last-modified: 2024-10-17
+last-modified: 2025-10-30
 layout: default
 tags:
 - red
@@ -65,8 +65,9 @@ Now, that's awesome!
 
 ## Articles
 
-There are 3 articles:
+There are 4 articles:
 
 - [Baklava in Red](https://sampleprograms.io/projects/baklava/red)
 - [Fizz Buzz in Red](https://sampleprograms.io/projects/fizz-buzz/red)
 - [Hello World in Red](https://sampleprograms.io/projects/hello-world/red)
+- [Prime Number in Red](https://sampleprograms.io/projects/prime-number/red)
