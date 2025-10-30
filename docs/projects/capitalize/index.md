@@ -1,7 +1,7 @@
 ---
 date: 2019-03-31
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2025-10-15
+last-modified: 2025-10-30
 layout: default
 tags:
 - capitalize
@@ -89,7 +89,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 41 articles:
+There are 42 articles:
 
 - [Capitalize in Algol68](https://sampleprograms.io/projects/capitalize/algol68)
 - [Capitalize in Awk](https://sampleprograms.io/projects/capitalize/awk)
@@ -100,6 +100,7 @@ There are 41 articles:
 - [Capitalize in C#](https://sampleprograms.io/projects/capitalize/c-sharp)
 - [Capitalize in C++](https://sampleprograms.io/projects/capitalize/c-plus-plus)
 - [Capitalize in Clojure](https://sampleprograms.io/projects/capitalize/clojure)
+- [Capitalize in Coffeescript](https://sampleprograms.io/projects/capitalize/coffeescript)
 - [Capitalize in Commodore Basic](https://sampleprograms.io/projects/capitalize/commodore-basic)
 - [Capitalize in Dart](https://sampleprograms.io/projects/capitalize/dart)
 - [Capitalize in Elixir](https://sampleprograms.io/projects/capitalize/elixir)

@@ -1,7 +1,7 @@
 ---
 date: 2018-12-30
 featured-image: programming-languages.jpg
-last-modified: 2025-10-29
+last-modified: 2025-10-30
 layout: default
 tags:
 - coffeescript
@@ -26,9 +26,10 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 8 articles:
+There are 9 articles:
 
 - [Baklava in Coffeescript](https://sampleprograms.io/projects/baklava/coffeescript)
+- [Capitalize in Coffeescript](https://sampleprograms.io/projects/capitalize/coffeescript)
 - [Even Odd in Coffeescript](https://sampleprograms.io/projects/even-odd/coffeescript)
 - [Factorial in Coffeescript](https://sampleprograms.io/projects/factorial/coffeescript)
 - [Fizz Buzz in Coffeescript](https://sampleprograms.io/projects/fizz-buzz/coffeescript)
