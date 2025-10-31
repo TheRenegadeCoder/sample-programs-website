@@ -76,7 +76,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 94 articles:
+There are 95 articles:
 
 - [Fizz Buzz in Ada](https://sampleprograms.io/projects/fizz-buzz/ada)
 - [Fizz Buzz in Algol68](https://sampleprograms.io/projects/fizz-buzz/algol68)
@@ -170,6 +170,7 @@ There are 94 articles:
 - [Fizz Buzz in Visual Basic](https://sampleprograms.io/projects/fizz-buzz/visual-basic)
 - [Fizz Buzz in Whitespace](https://sampleprograms.io/projects/fizz-buzz/whitespace)
 - [Fizz Buzz in Wren](https://sampleprograms.io/projects/fizz-buzz/wren)
+- [Fizz Buzz in Wu](https://sampleprograms.io/projects/fizz-buzz/wu)
 - [Fizz Buzz in X86 64](https://sampleprograms.io/projects/fizz-buzz/x86-64)
 - [Fizz Buzz in Zig](https://sampleprograms.io/projects/fizz-buzz/zig)
 

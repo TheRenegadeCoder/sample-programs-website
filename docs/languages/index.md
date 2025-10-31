@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1358 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1359 code snippets.
 
 ## Language Breakdown
 
@@ -240,7 +240,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Elixir</td>
-        <td class="right">0.42%</td>
+        <td class="right">0.41%</td>
         <td class="bar-graph"><div style="width: 5.93%; background-color: #6E4A7E;"></div></td> 
     </tr>
 
@@ -629,6 +629,12 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
+        <td class="right nowrap">Wu</td>
+        <td class="right">0.04%</td>
+        <td class="bar-graph"><div style="width: 0.53%; background-color: #CE0BF6;"></div></td> 
+    </tr>
+
+    <tr>
         <td class="right nowrap">F*</td>
         <td class="right">0.04%</td>
         <td class="bar-graph"><div style="width: 0.53%; background-color: #572E30;"></div></td> 
@@ -878,12 +884,6 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Janet</td>
         <td class="right">0.02%</td>
         <td class="bar-graph"><div style="width: 0.32%; background-color: #0886A5;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">Wu</td>
-        <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.32%; background-color: #CE0BF6;"></div></td> 
     </tr>
 
     <tr>
@@ -1302,11 +1302,11 @@ The 'V' collection contains 5 languages, of which 5 are tested, and 22 code snip
 
 ### W
 
-The 'W' collection contains 4 languages, of which 4 are tested, and 19 code snippets.
+The 'W' collection contains 4 languages, of which 4 are tested, and 20 code snippets.
 
 - [Whitespace](https://sampleprograms.io/languages/whitespace) (4 code snippets)
 - [Wren](https://sampleprograms.io/languages/wren) (11 code snippets)
-- [Wu](https://sampleprograms.io/languages/wu) (2 code snippets)
+- [Wu](https://sampleprograms.io/languages/wu) (3 code snippets)
 - [Wyvern](https://sampleprograms.io/languages/wyvern) (2 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
