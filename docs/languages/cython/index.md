@@ -1,7 +1,7 @@
 ---
 date: 2025-10-27
 featured-image: programming-languages.jpg
-last-modified: 2025-10-27
+last-modified: 2025-10-31
 layout: default
 tags:
 - cython
@@ -26,6 +26,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 3 articles:
 
+- [Baklava in Cython](https://sampleprograms.io/projects/baklava/cython)
+- [Fizz Buzz in Cython](https://sampleprograms.io/projects/fizz-buzz/cython)
 - [Hello World in Cython](https://sampleprograms.io/projects/hello-world/cython)

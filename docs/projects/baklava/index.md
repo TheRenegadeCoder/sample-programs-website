@@ -1,7 +1,7 @@
 ---
 date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2025-10-15
+last-modified: 2025-10-31
 layout: default
 tags:
 - baklava
@@ -79,7 +79,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 156 articles:
+There are 157 articles:
 
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
 - [Baklava in Agda](https://sampleprograms.io/projects/baklava/agda)
@@ -109,6 +109,7 @@ There are 156 articles:
 - [Baklava in Commodore Basic](https://sampleprograms.io/projects/baklava/commodore-basic)
 - [Baklava in Crystal](https://sampleprograms.io/projects/baklava/crystal)
 - [Baklava in Cyclone](https://sampleprograms.io/projects/baklava/cyclone)
+- [Baklava in Cython](https://sampleprograms.io/projects/baklava/cython)
 - [Baklava in D](https://sampleprograms.io/projects/baklava/d)
 - [Baklava in Dale](https://sampleprograms.io/projects/baklava/dale)
 - [Baklava in Dart](https://sampleprograms.io/projects/baklava/dart)
