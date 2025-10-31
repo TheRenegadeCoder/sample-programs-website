@@ -26,8 +26,9 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 3 articles:
+There are 4 articles:
 
 - [Baklava in Cython](https://sampleprograms.io/projects/baklava/cython)
 - [Fizz Buzz in Cython](https://sampleprograms.io/projects/fizz-buzz/cython)
 - [Hello World in Cython](https://sampleprograms.io/projects/hello-world/cython)
+- [Quine in Cython](https://sampleprograms.io/projects/quine/cython)

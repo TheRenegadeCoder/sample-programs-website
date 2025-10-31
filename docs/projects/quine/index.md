@@ -1,7 +1,7 @@
 ---
 date: 2018-08-07
 featured-image: quine-in-every-language.jpg
-last-modified: 2025-10-09
+last-modified: 2025-10-31
 layout: default
 tags:
 - quine
@@ -54,7 +54,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 28 articles:
+There are 29 articles:
 
 - [Quine in Algol68](https://sampleprograms.io/projects/quine/algol68)
 - [Quine in Awk](https://sampleprograms.io/projects/quine/awk)
@@ -65,6 +65,7 @@ There are 28 articles:
 - [Quine in C#](https://sampleprograms.io/projects/quine/c-sharp)
 - [Quine in Coffeescript](https://sampleprograms.io/projects/quine/coffeescript)
 - [Quine in Commodore Basic](https://sampleprograms.io/projects/quine/commodore-basic)
+- [Quine in Cython](https://sampleprograms.io/projects/quine/cython)
 - [Quine in Dg](https://sampleprograms.io/projects/quine/dg)
 - [Quine in Euphoria](https://sampleprograms.io/projects/quine/euphoria)
 - [Quine in Gnu Make](https://sampleprograms.io/projects/quine/gnu-make)

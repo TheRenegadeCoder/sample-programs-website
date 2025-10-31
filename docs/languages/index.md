@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1359 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1360 code snippets.
 
 ## Language Breakdown
 
@@ -36,19 +36,19 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Beef</td>
-        <td class="right">5.90%</td>
+        <td class="right">5.89%</td>
         <td class="bar-graph"><div style="width: 84.19%; background-color: #A52F4E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Pascal</td>
-        <td class="right">5.00%</td>
+        <td class="right">4.99%</td>
         <td class="bar-graph"><div style="width: 71.34%; background-color: #E3F171;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Rust</td>
-        <td class="right">4.37%</td>
+        <td class="right">4.36%</td>
         <td class="bar-graph"><div style="width: 62.35%; background-color: #DEA584;"></div></td> 
     </tr>
 
@@ -72,7 +72,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Awk</td>
-        <td class="right">3.53%</td>
+        <td class="right">3.52%</td>
         <td class="bar-graph"><div style="width: 50.35%; background-color: #C30E9B;"></div></td> 
     </tr>
 
@@ -96,7 +96,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Powershell</td>
-        <td class="right">2.89%</td>
+        <td class="right">2.88%</td>
         <td class="bar-graph"><div style="width: 41.20%; background-color: #012456;"></div></td> 
     </tr>
 
@@ -114,7 +114,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Javascript</td>
-        <td class="right">2.15%</td>
+        <td class="right">2.14%</td>
         <td class="bar-graph"><div style="width: 30.64%; background-color: #F1E05A;"></div></td> 
     </tr>
 
@@ -425,6 +425,12 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
+        <td class="right nowrap">Cython</td>
+        <td class="right">0.08%</td>
+        <td class="bar-graph"><div style="width: 1.11%; background-color: #FEDF5B;"></div></td> 
+    </tr>
+
+    <tr>
         <td class="right nowrap">Dg</td>
         <td class="right">0.07%</td>
         <td class="bar-graph"><div style="width: 1.07%; background-color: #7F2B0A;"></div></td> 
@@ -494,12 +500,6 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Pony</td>
         <td class="right">0.06%</td>
         <td class="bar-graph"><div style="width: 0.82%; background-color: #CCCCCC;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">Cython</td>
-        <td class="right">0.06%</td>
-        <td class="bar-graph"><div style="width: 0.82%; background-color: #FEDF5B;"></div></td> 
     </tr>
 
     <tr>
@@ -1026,7 +1026,7 @@ The 'B' collection contains 9 languages, of which 9 are tested, and 79 code snip
 
 ### C
 
-The 'C' collection contains 15 languages, of which 15 are tested, and 191 code snippets.
+The 'C' collection contains 15 languages, of which 15 are tested, and 192 code snippets.
 
 - [C](https://sampleprograms.io/languages/c) (38 code snippets)
 - [C#](https://sampleprograms.io/languages/c-sharp) (38 code snippets)
@@ -1042,7 +1042,7 @@ The 'C' collection contains 15 languages, of which 15 are tested, and 191 code s
 - [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) (38 code snippets)
 - [Crystal](https://sampleprograms.io/languages/crystal) (4 code snippets)
 - [Cyclone](https://sampleprograms.io/languages/cyclone) (2 code snippets)
-- [Cython](https://sampleprograms.io/languages/cython) (3 code snippets)
+- [Cython](https://sampleprograms.io/languages/cython) (4 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 
