@@ -1,7 +1,7 @@
 ---
 date: 2018-12-30
 featured-image: programming-languages.jpg
-last-modified: 2025-10-30
+last-modified: 2025-11-02
 layout: default
 tags:
 - coffeescript
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 9 articles:
+There are 10 articles:
 
 - [Baklava in Coffeescript](https://sampleprograms.io/projects/baklava/coffeescript)
 - [Capitalize in Coffeescript](https://sampleprograms.io/projects/capitalize/coffeescript)
@@ -37,3 +37,4 @@ There are 9 articles:
 - [Longest Word in Coffeescript](https://sampleprograms.io/projects/longest-word/coffeescript)
 - [Quine in Coffeescript](https://sampleprograms.io/projects/quine/coffeescript)
 - [Remove All Whitespace in Coffeescript](https://sampleprograms.io/projects/remove-all-whitespace/coffeescript)
+- [Reverse String in Coffeescript](https://sampleprograms.io/projects/reverse-string/coffeescript)

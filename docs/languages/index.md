@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-10-31
+last-modified: 2025-11-02
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1360 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1361 code snippets.
 
 ## Language Breakdown
 
@@ -336,8 +336,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Coffeescript</td>
-        <td class="right">0.15%</td>
-        <td class="bar-graph"><div style="width: 2.17%; background-color: #244776;"></div></td> 
+        <td class="right">0.17%</td>
+        <td class="bar-graph"><div style="width: 2.41%; background-color: #244776;"></div></td> 
     </tr>
 
     <tr>
@@ -1026,7 +1026,7 @@ The 'B' collection contains 9 languages, of which 9 are tested, and 79 code snip
 
 ### C
 
-The 'C' collection contains 15 languages, of which 15 are tested, and 192 code snippets.
+The 'C' collection contains 15 languages, of which 15 are tested, and 193 code snippets.
 
 - [C](https://sampleprograms.io/languages/c) (38 code snippets)
 - [C#](https://sampleprograms.io/languages/c-sharp) (38 code snippets)
@@ -1038,7 +1038,7 @@ The 'C' collection contains 15 languages, of which 15 are tested, and 192 code s
 - [Chapel](https://sampleprograms.io/languages/chapel) (3 code snippets)
 - [Clojure](https://sampleprograms.io/languages/clojure) (6 code snippets)
 - [Cobol](https://sampleprograms.io/languages/cobol) (6 code snippets)
-- [Coffeescript](https://sampleprograms.io/languages/coffeescript) (9 code snippets)
+- [Coffeescript](https://sampleprograms.io/languages/coffeescript) (10 code snippets)
 - [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) (38 code snippets)
 - [Crystal](https://sampleprograms.io/languages/crystal) (4 code snippets)
 - [Cyclone](https://sampleprograms.io/languages/cyclone) (2 code snippets)
