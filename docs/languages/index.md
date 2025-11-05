@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-11-02
+last-modified: 2025-11-05
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1361 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1362 code snippets.
 
 ## Language Breakdown
 
@@ -18,25 +18,25 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Algol68</td>
-        <td class="right">7.00%</td>
+        <td class="right">6.99%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #AF425E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Commodore Basic</td>
-        <td class="right">6.91%</td>
+        <td class="right">6.90%</td>
         <td class="bar-graph"><div style="width: 98.72%; background-color: #4F44D8;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Euphoria</td>
-        <td class="right">6.12%</td>
+        <td class="right">6.11%</td>
         <td class="bar-graph"><div style="width: 87.42%; background-color: #FF790B;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Beef</td>
-        <td class="right">5.89%</td>
+        <td class="right">5.88%</td>
         <td class="bar-graph"><div style="width: 84.19%; background-color: #A52F4E;"></div></td> 
     </tr>
 
@@ -54,19 +54,19 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C</td>
-        <td class="right">4.33%</td>
+        <td class="right">4.32%</td>
         <td class="bar-graph"><div style="width: 61.81%; background-color: #555555;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Php</td>
-        <td class="right">4.01%</td>
+        <td class="right">4.00%</td>
         <td class="bar-graph"><div style="width: 57.25%; background-color: #4F5D95;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">C#</td>
-        <td class="right">3.85%</td>
+        <td class="right">3.84%</td>
         <td class="bar-graph"><div style="width: 54.95%; background-color: #178600;"></div></td> 
     </tr>
 
@@ -78,7 +78,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C++</td>
-        <td class="right">3.50%</td>
+        <td class="right">3.49%</td>
         <td class="bar-graph"><div style="width: 50.01%; background-color: #F34B7D;"></div></td> 
     </tr>
 
@@ -102,13 +102,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Java</td>
-        <td class="right">2.76%</td>
+        <td class="right">2.75%</td>
         <td class="bar-graph"><div style="width: 39.41%; background-color: #B07219;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Tcl</td>
-        <td class="right">2.65%</td>
+        <td class="right">2.64%</td>
         <td class="bar-graph"><div style="width: 37.84%; background-color: #E4CC98;"></div></td> 
     </tr>
 
@@ -126,7 +126,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Python</td>
-        <td class="right">2.08%</td>
+        <td class="right">2.07%</td>
         <td class="bar-graph"><div style="width: 29.67%; background-color: #3572A5;"></div></td> 
     </tr>
 
@@ -192,7 +192,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Dart</td>
-        <td class="right">0.73%</td>
+        <td class="right">0.72%</td>
         <td class="bar-graph"><div style="width: 10.36%; background-color: #00B4AB;"></div></td> 
     </tr>
 
@@ -200,6 +200,12 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Scala</td>
         <td class="right">0.68%</td>
         <td class="bar-graph"><div style="width: 9.66%; background-color: #C22D40;"></div></td> 
+    </tr>
+
+    <tr>
+        <td class="right nowrap">Fortran</td>
+        <td class="right">0.66%</td>
+        <td class="bar-graph"><div style="width: 9.39%; background-color: #4D41B1;"></div></td> 
     </tr>
 
     <tr>
@@ -222,14 +228,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Swift</td>
-        <td class="right">0.60%</td>
+        <td class="right">0.59%</td>
         <td class="bar-graph"><div style="width: 8.51%; background-color: #F05138;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">Fortran</td>
-        <td class="right">0.51%</td>
-        <td class="bar-graph"><div style="width: 7.22%; background-color: #4D41B1;"></div></td> 
     </tr>
 
     <tr>
@@ -1077,7 +1077,7 @@ The 'E' collection contains 9 languages, of which 9 are tested, and 77 code snip
 
 ### F
 
-The 'F' collection contains 12 languages, of which 12 are tested, and 36 code snippets.
+The 'F' collection contains 12 languages, of which 12 are tested, and 37 code snippets.
 
 - [F#](https://sampleprograms.io/languages/f-sharp) (3 code snippets)
 - [F\*](https://sampleprograms.io/languages/f-star) (2 code snippets)
@@ -1089,7 +1089,7 @@ The 'F' collection contains 12 languages, of which 12 are tested, and 36 code sn
 - [Flix](https://sampleprograms.io/languages/flix) (2 code snippets)
 - [Formality](https://sampleprograms.io/languages/formality) (2 code snippets)
 - [Forth](https://sampleprograms.io/languages/forth) (3 code snippets)
-- [Fortran](https://sampleprograms.io/languages/fortran) (10 code snippets)
+- [Fortran](https://sampleprograms.io/languages/fortran) (11 code snippets)
 - [Frege](https://sampleprograms.io/languages/frege) (2 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;

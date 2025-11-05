@@ -1,7 +1,7 @@
 ---
 date: 2020-10-01
 featured-image: programming-languages.jpg
-last-modified: 2025-10-28
+last-modified: 2025-11-05
 layout: default
 tags:
 - fortran
@@ -26,9 +26,10 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 10 articles:
+There are 11 articles:
 
 - [Baklava in Fortran](https://sampleprograms.io/projects/baklava/fortran)
+- [Binary Search in Fortran](https://sampleprograms.io/projects/binary-search/fortran)
 - [Capitalize in Fortran](https://sampleprograms.io/projects/capitalize/fortran)
 - [Even Odd in Fortran](https://sampleprograms.io/projects/even-odd/fortran)
 - [Factorial in Fortran](https://sampleprograms.io/projects/factorial/fortran)
