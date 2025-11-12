@@ -1,7 +1,7 @@
 ---
 date: 2018-12-18
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: 2025-10-09
+last-modified: 2025-11-12
 layout: default
 tags:
 - insertion-sort
@@ -138,7 +138,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-There are 24 articles:
+There are 25 articles:
 
 - [Insertion Sort in Algol68](https://sampleprograms.io/projects/insertion-sort/algol68)
 - [Insertion Sort in Awk](https://sampleprograms.io/projects/insertion-sort/awk)
@@ -148,6 +148,7 @@ There are 24 articles:
 - [Insertion Sort in C++](https://sampleprograms.io/projects/insertion-sort/c-plus-plus)
 - [Insertion Sort in Commodore Basic](https://sampleprograms.io/projects/insertion-sort/commodore-basic)
 - [Insertion Sort in Euphoria](https://sampleprograms.io/projects/insertion-sort/euphoria)
+- [Insertion Sort in Fortran](https://sampleprograms.io/projects/insertion-sort/fortran)
 - [Insertion Sort in Go](https://sampleprograms.io/projects/insertion-sort/go)
 - [Insertion Sort in Haskell](https://sampleprograms.io/projects/insertion-sort/haskell)
 - [Insertion Sort in Java](https://sampleprograms.io/projects/insertion-sort/java)
