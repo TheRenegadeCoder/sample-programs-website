@@ -26,13 +26,15 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 31 articles:
+There are 33 articles:
 
 - [Baklava in M4](https://sampleprograms.io/projects/baklava/m4)
 - [Binary Search in M4](https://sampleprograms.io/projects/binary-search/m4)
 - [Bubble Sort in M4](https://sampleprograms.io/projects/bubble-sort/m4)
 - [Capitalize in M4](https://sampleprograms.io/projects/capitalize/m4)
+- [Convex Hull in M4](https://sampleprograms.io/projects/convex-hull/m4)
 - [Depth First Search in M4](https://sampleprograms.io/projects/depth-first-search/m4)
+- [Dijkstra in M4](https://sampleprograms.io/projects/dijkstra/m4)
 - [Duplicate Character Counter in M4](https://sampleprograms.io/projects/duplicate-character-counter/m4)
 - [Even Odd in M4](https://sampleprograms.io/projects/even-odd/m4)
 - [Factorial in M4](https://sampleprograms.io/projects/factorial/m4)
