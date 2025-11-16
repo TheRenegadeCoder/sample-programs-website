@@ -1,7 +1,7 @@
 ---
 date: 2025-08-04
 featured-image: programming-languages.jpg
-last-modified: 2025-11-14
+last-modified: 2025-11-16
 layout: default
 tags:
 - m4
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 33 articles:
+There are 34 articles:
 
 - [Baklava in M4](https://sampleprograms.io/projects/baklava/m4)
 - [Binary Search in M4](https://sampleprograms.io/projects/binary-search/m4)
@@ -45,6 +45,7 @@ There are 33 articles:
 - [Insertion Sort in M4](https://sampleprograms.io/projects/insertion-sort/m4)
 - [Josephus Problem in M4](https://sampleprograms.io/projects/josephus-problem/m4)
 - [Linear Search in M4](https://sampleprograms.io/projects/linear-search/m4)
+- [Longest Common Subsequence in M4](https://sampleprograms.io/projects/longest-common-subsequence/m4)
 - [Longest Palindromic Substring in M4](https://sampleprograms.io/projects/longest-palindromic-substring/m4)
 - [Longest Word in M4](https://sampleprograms.io/projects/longest-word/m4)
 - [Maximum Array Rotation in M4](https://sampleprograms.io/projects/maximum-array-rotation/m4)
