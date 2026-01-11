@@ -1,7 +1,7 @@
 ---
 date: 2018-08-07
 featured-image: quine-in-every-language.jpg
-last-modified: 2026-01-06
+last-modified: 2026-01-11
 layout: default
 tags:
 - quine
@@ -25,6 +25,7 @@ This article was written by:
 
 - Jeremy Grifski
 - Ron Zuckerman
+- rzuckerm
 
 ## Description
 
@@ -43,7 +44,13 @@ Thanks, [Wikipedia][1]!
 
 For the purposes of this repo, the solution should be simple. We're not here
 to play code golf, but we're also not here to practice obfuscation. Just be
-reasonable with your solution.
+reasonable with your solution. Finally, the solution must **not** read its own
+source code file. For example, this is **not** a permissible solution:
+
+```python
+with open("quine.py") as f:
+    print(f.read())
+```
 
 
 ## Testing
