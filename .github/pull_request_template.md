@@ -25,7 +25,8 @@ The title of this pull request must be one of the following:
 - Sample Program Documentation: `Add {PROJECT} in {LANGUAGE} Article`. For example,
   `Add Hello World in Erlang Article`.
 - Language Documentation: `Add {LANGUAGE} Language Article. For example, `Add Erlang Language Article`.
-- Project Documentation: `Add {PROJECT} in Every Language Article`.
+- Project Documentation: `Add {PROJECT} in Every Language Article`. For example,
+  `Add Zeckendorf in Every Language Article`.
 
 If you are modify an existing article, please change "Add" to "Modify" in the title.
 
