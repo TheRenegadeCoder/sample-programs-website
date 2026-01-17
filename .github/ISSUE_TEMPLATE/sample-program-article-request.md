@@ -1,10 +1,10 @@
 ---
 name: Sample Program Article Request
-about: Suggest a sample program article (i.e. Hello World in Erlang)
-title: Add [Sample Program] in [Language] Article
+about: Suggest a sample program article (i.e., Hello World in Erlang)
+title: Add {PROJECT} in {LANGUAGE} Article
 labels: "sample program"
 assignees: ''
 
 ---
 
-Please link to the pull request that contains the related code snippet: #pull-request-number
+If you are modifying an existing sample program article, please change "Add" to "Modify" in the title.
