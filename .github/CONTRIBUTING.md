@@ -14,6 +14,9 @@
       - [how-to-run-the-solution.md (manditory)](#how-to-run-the-solutionmd-manditory)
     - [Language Article](#language-article)
       - [description.md (manditory)](#descriptionmd-manditory)
+    - [Project Article](#project-article)
+      - [description.md (manditory)](#descriptionmd-manditory-1)
+      - [requirements.md (manditory)](#requirementsmd-manditory)
   - [Images](#images)
     - [General Guidelines](#general-guidelines-1)
     - [Title Image](#title-image)
@@ -33,6 +36,7 @@ Before making a pull request, please create one of the following issues:
 
 - [Sample Program Article][1]
 - [Language Article][2]
+- [Project Article][17]
 
 ### Pull Requests
 
@@ -50,6 +54,7 @@ Please make sure that your pull request follows these guidelines:
   For example, https://sampleprograms.io/languages/ada/. You can tell that this is a stub because
   the "Description" section indicates that the section is not available. For more information on
   how to write a language article, see [this](#general-guidelines) and [this](#language-article).
+- For a project article, see [this](#general-guidelines) and [this](#project-article).
 - The [Website Automation][3] passes.
 
 ## Articles
@@ -64,7 +69,7 @@ Please make sure that your article follows these guidelines:
   [this guide][5].
 - If you use someone else's work, please cite your references.
 - If your article requires multiple files (such as a sample program article) and you use
-  numbered references, the numbers *must* be unique\. For example, you have this for your last
+  numbered references, the numbers *must* be unique. For example, you have this for your last
   numbered reference in the first file:
 
   ```markdown
@@ -179,6 +184,37 @@ asm
 ```
 </pre>
 
+### Project Article
+
+A project article describes a new or existing project. For a new project, please see the
+[Requirements for a New Project section of the Sample Programs Contributing Guide][19].
+
+Files for this article are placed in the `sources/project/<project>` folder, where:
+
+- `<project>` is the project name in lowercase, with spaces converted to dashes. For example,
+  `binary-search` for the "Binary Search" project.
+
+This folder must be created. The next sections describe the files that go into this folder.
+Images go into the same folder. These are optional. See [Images](#images) for details.
+
+#### description.md (manditory)
+
+This file describes a new or existing project. It gives some background information on the
+project and provides enough details that someone can implement a sample program in their chosen
+language. It should provide an example that demonstrates what the project does for some sample
+input (if applicable).
+
+#### requirements.md (manditory)
+
+This file describes the inputs, outputs, and constraints of this project in general terms. For example:
+
+<pre>
+Create a file called "Even Odd" using the naming convention appropriate for your language of choice.
+
+Write a sample program which accepts an integer on the command line and outputs if the integer is Even
+or Odd. For a missing input or an input that is not an integer, an error message is output.
+</pre>
+
 ## Images
 
 Images may be one of the following (unless otherwise noted):
@@ -227,6 +263,8 @@ same image as the project:
 
 For language articles, [this][11] is the default image.
 
+For project articles, [this][18] is the default image.
+
 ### Other Images
 
 Other images may be added to your articles to help clarify key points more clearly than words
@@ -243,8 +281,9 @@ Local images are referenced like this:
 where `<image-directory>` is one of the following directories, and `<image-filename>`
 is the filename of the image:
 
-* Sample program article: `/assets/images/projects/<language>/<project>`
+* Sample program article: `/assets/images/projects/<project>/<language>`
 * Language article: `/assets/images/languages/<language>`
+* Project article: `/assets/images/projects/<project>`
 
 For example:
 
@@ -289,8 +328,8 @@ Now, run `./generate.sh`. This will build the website, create a temporary web se
 up the home webpage in your default browser at `http://localhost:8000/index.html`. When you are done,
 just press Ctrl+C to exit the web server.
 
-[1]: https://github.com/TheRenegadeCoder/sample-programs-website/issues/new?assignees=&labels=sample+program&projects=&template=sample-program-article-request.md&title=Add+%5BSample+Program%5D+in+%5BLanguage%5D+Article
-[2]: https://github.com/TheRenegadeCoder/sample-programs-website/issues/new?assignees=&labels=language&projects=&template=language-article-request.md&title=Add+%5BLanguage%5D+Language+Article
+[1]: https://github.com/TheRenegadeCoder/sample-programs-website/issues/new?assignees=&labels=sample+program&projects=&template=sample-program-article-request.md&title=Add+{PROGRAM}+in+{LANGUAGE}+Article
+[2]: https://github.com/TheRenegadeCoder/sample-programs-website/issues/new?assignees=&labels=language&projects=&template=language-article-request.md&title=Add+{LANGUAGE}+Language+Article
 [3]: https://github.com/TheRenegadeCoder/sample-programs-website/actions/workflows/main.yml
 [4]: https://github.com/TheRenegadeCoder/sample-programs
 [5]: https://www.markdownguide.org/basic-syntax/
@@ -305,3 +344,6 @@ just press Ctrl+C to exit the web server.
 [14]: https://docs.docker.com/engine/install/
 [15]: https://pypi.org/project/poetry/
 [16]: https://pypi.org/project/pip/
+[17]: https://github.com/TheRenegadeCoder/sample-programs-website/issues/new?assignees=&labels=project&projects=&template=project-article-request.md&title=Add+{PROJECT}+in+Every+Language+Article
+[18]: https://github.com/TheRenegadeCoder/sample-programs-website/blob/main/sources/projects/featured-image.jpg
+[19]: https://github.com/TheRenegadeCoder/sample-programs-website/blob/main/.github/CONTRIBUTING.md#requirements-for-a-new-project
