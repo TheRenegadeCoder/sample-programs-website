@@ -245,7 +245,7 @@ There are 157 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Transpose Matrix)](https://sampleprograms.io/projects/transpose-matrix)
+[<-- Previous Project (Zeckendorf)](https://sampleprograms.io/projects/zeckendorf)
 
 </div>
 

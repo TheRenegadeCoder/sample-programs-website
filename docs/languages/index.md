@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2026-01-06
+last-modified: 2026-01-19
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1372 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1373 code snippets.
 
 ## Language Breakdown
 
@@ -18,7 +18,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Algol68</td>
-        <td class="right">6.61%</td>
+        <td class="right">6.60%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #AF425E;"></div></td> 
     </tr>
 
@@ -30,7 +30,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Euphoria</td>
-        <td class="right">5.78%</td>
+        <td class="right">5.77%</td>
         <td class="bar-graph"><div style="width: 87.42%; background-color: #FF790B;"></div></td> 
     </tr>
 
@@ -84,7 +84,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Awk</td>
-        <td class="right">3.33%</td>
+        <td class="right">3.32%</td>
         <td class="bar-graph"><div style="width: 50.35%; background-color: #C30E9B;"></div></td> 
     </tr>
 
@@ -125,15 +125,15 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Go</td>
-        <td class="right">1.96%</td>
-        <td class="bar-graph"><div style="width: 29.71%; background-color: #00ADD8;"></div></td> 
+        <td class="right nowrap">Python</td>
+        <td class="right">2.02%</td>
+        <td class="bar-graph"><div style="width: 30.53%; background-color: #3572A5;"></div></td> 
     </tr>
 
     <tr>
-        <td class="right nowrap">Python</td>
+        <td class="right nowrap">Go</td>
         <td class="right">1.96%</td>
-        <td class="bar-graph"><div style="width: 29.67%; background-color: #3572A5;"></div></td> 
+        <td class="bar-graph"><div style="width: 29.71%; background-color: #00ADD8;"></div></td> 
     </tr>
 
     <tr>
@@ -168,7 +168,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Perl</td>
-        <td class="right">0.87%</td>
+        <td class="right">0.86%</td>
         <td class="bar-graph"><div style="width: 13.09%; background-color: #0298C3;"></div></td> 
     </tr>
 
@@ -186,7 +186,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Brainfuck</td>
-        <td class="right">0.78%</td>
+        <td class="right">0.77%</td>
         <td class="bar-graph"><div style="width: 11.73%; background-color: #2F2530;"></div></td> 
     </tr>
 
@@ -576,7 +576,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C2</td>
-        <td class="right">0.05%</td>
+        <td class="right">0.04%</td>
         <td class="bar-graph"><div style="width: 0.68%; background-color: #2750BF;"></div></td> 
     </tr>
 
@@ -1209,7 +1209,7 @@ The 'O' collection contains 7 languages, of which 7 are tested, and 43 code snip
 
 ### P
 
-The 'P' collection contains 14 languages, of which 14 are tested, and 198 code snippets.
+The 'P' collection contains 14 languages, of which 14 are tested, and 199 code snippets.
 
 - [Pascal](https://sampleprograms.io/languages/pascal) (38 code snippets)
 - [Perl](https://sampleprograms.io/languages/perl) (21 code snippets)
@@ -1224,7 +1224,7 @@ The 'P' collection contains 14 languages, of which 14 are tested, and 198 code s
 - [Prolog](https://sampleprograms.io/languages/prolog) (3 code snippets)
 - [Purescript](https://sampleprograms.io/languages/purescript) (2 code snippets)
 - [Pyret](https://sampleprograms.io/languages/pyret) (4 code snippets)
-- [Python](https://sampleprograms.io/languages/python) (38 code snippets)
+- [Python](https://sampleprograms.io/languages/python) (39 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 

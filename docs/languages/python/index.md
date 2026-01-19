@@ -5,7 +5,7 @@ authors:
 - Ron Zuckerman
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-04-01
+last-modified: 2026-01-19
 layout: default
 tags:
 - python
@@ -46,7 +46,7 @@ But, Python 2 is slowly losing support.
 
 ## Articles
 
-There are 38 articles:
+There are 39 articles:
 
 - [Baklava in Python](https://sampleprograms.io/projects/baklava/python)
 - [Base64 Encode Decode in Python](https://sampleprograms.io/projects/base64-encode-decode/python)
@@ -86,3 +86,4 @@ There are 38 articles:
 - [Selection Sort in Python](https://sampleprograms.io/projects/selection-sort/python)
 - [Sleep Sort in Python](https://sampleprograms.io/projects/sleep-sort/python)
 - [Transpose Matrix in Python](https://sampleprograms.io/projects/transpose-matrix/python)
+- [Zeckendorf in Python](https://sampleprograms.io/projects/zeckendorf/python)

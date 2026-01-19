@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-projects-in-every-language.jpg
-last-modified: 2026-01-06
+last-modified: 2026-01-19
 layout: default
 title: Programming Projects in Every Language
 ---
 
-Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. At this time, the repo supports 38 projects, of which 38 are tested.
+Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. At this time, the repo supports 39 projects, of which 39 are tested.
 
 ## Projects List
 
@@ -50,3 +50,4 @@ To help you navigate the collection, the following projects are organized alphab
 - [Selection Sort](https://sampleprograms.io/projects/selection-sort)
 - [Sleep Sort](https://sampleprograms.io/projects/sleep-sort)
 - [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix)
+- [Zeckendorf](https://sampleprograms.io/projects/zeckendorf)
