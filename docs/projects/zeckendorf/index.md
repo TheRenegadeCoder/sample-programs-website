@@ -1,7 +1,7 @@
 ---
 date: 2026-01-19
 featured-image: zeckendorf-in-every-language.png
-last-modified: 2026-01-19
+last-modified: 2026-01-20
 layout: default
 tags:
 - zeckendorf
@@ -141,8 +141,9 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
+- [Zeckendorf in Algol68](https://sampleprograms.io/projects/zeckendorf/algol68)
 - [Zeckendorf in Python](https://sampleprograms.io/projects/zeckendorf/python)
 
 ***

@@ -3,7 +3,7 @@ authors:
 - Jeremy Grifski
 date: 2018-05-06
 featured-image: programming-languages.jpg
-last-modified: 2025-03-28
+last-modified: 2026-01-20
 layout: default
 tags:
 - algol68
@@ -50,7 +50,7 @@ for the full syntax and features list.
 
 ## Articles
 
-There are 38 articles:
+There are 39 articles:
 
 - [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
 - [Base64 Encode Decode in Algol68](https://sampleprograms.io/projects/base64-encode-decode/algol68)
@@ -90,3 +90,4 @@ There are 38 articles:
 - [Selection Sort in Algol68](https://sampleprograms.io/projects/selection-sort/algol68)
 - [Sleep Sort in Algol68](https://sampleprograms.io/projects/sleep-sort/algol68)
 - [Transpose Matrix in Algol68](https://sampleprograms.io/projects/transpose-matrix/algol68)
+- [Zeckendorf in Algol68](https://sampleprograms.io/projects/zeckendorf/algol68)
