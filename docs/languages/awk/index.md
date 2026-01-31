@@ -1,7 +1,7 @@
 ---
 date: 2025-04-06
 featured-image: programming-languages.jpg
-last-modified: 2025-04-30
+last-modified: 2026-01-31
 layout: default
 tags:
 - awk
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 38 articles:
+There are 39 articles:
 
 - [Baklava in Awk](https://sampleprograms.io/projects/baklava/awk)
 - [Base64 Encode Decode in Awk](https://sampleprograms.io/projects/base64-encode-decode/awk)
@@ -66,3 +66,4 @@ There are 38 articles:
 - [Selection Sort in Awk](https://sampleprograms.io/projects/selection-sort/awk)
 - [Sleep Sort in Awk](https://sampleprograms.io/projects/sleep-sort/awk)
 - [Transpose Matrix in Awk](https://sampleprograms.io/projects/transpose-matrix/awk)
+- [Zeckendorf in Awk](https://sampleprograms.io/projects/zeckendorf/awk)

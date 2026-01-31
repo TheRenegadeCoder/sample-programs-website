@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2023-09-13
 featured-image: programming-languages.jpg
-last-modified: 2025-03-30
+last-modified: 2026-01-31
 layout: default
 tags:
 - commodore-basic
@@ -245,7 +245,7 @@ cbmbasic hello-world.bas
 
 ## Articles
 
-There are 38 articles:
+There are 39 articles:
 
 - [Baklava in Commodore Basic](https://sampleprograms.io/projects/baklava/commodore-basic)
 - [Base64 Encode Decode in Commodore Basic](https://sampleprograms.io/projects/base64-encode-decode/commodore-basic)
@@ -285,3 +285,4 @@ There are 38 articles:
 - [Selection Sort in Commodore Basic](https://sampleprograms.io/projects/selection-sort/commodore-basic)
 - [Sleep Sort in Commodore Basic](https://sampleprograms.io/projects/sleep-sort/commodore-basic)
 - [Transpose Matrix in Commodore Basic](https://sampleprograms.io/projects/transpose-matrix/commodore-basic)
+- [Zeckendorf in Commodore Basic](https://sampleprograms.io/projects/zeckendorf/commodore-basic)

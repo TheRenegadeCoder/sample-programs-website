@@ -1,7 +1,7 @@
 ---
 date: 2024-01-11
 featured-image: programming-languages.jpg
-last-modified: 2025-03-30
+last-modified: 2026-01-31
 layout: default
 tags:
 - beef
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 38 articles:
+There are 39 articles:
 
 - [Baklava in Beef](https://sampleprograms.io/projects/baklava/beef)
 - [Base64 Encode Decode in Beef](https://sampleprograms.io/projects/base64-encode-decode/beef)
@@ -66,3 +66,4 @@ There are 38 articles:
 - [Selection Sort in Beef](https://sampleprograms.io/projects/selection-sort/beef)
 - [Sleep Sort in Beef](https://sampleprograms.io/projects/sleep-sort/beef)
 - [Transpose Matrix in Beef](https://sampleprograms.io/projects/transpose-matrix/beef)
+- [Zeckendorf in Beef](https://sampleprograms.io/projects/zeckendorf/beef)
