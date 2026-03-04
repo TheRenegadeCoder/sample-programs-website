@@ -155,7 +155,7 @@ def _generate_front_matter(
     :param Set[str] authors: optional list of authors
     :param Iterable[str] tags: optional list of tags
     """
-    front_matter = {"title": title.replace("\\", ""), "layout": "default"}
+    front_matter = {"title": title, "layout": "default"}
     filtered_times: List[datetime.datetime] = list(filter(None, times or []))
     created_at: Optional[datetime.datetime] = min(filtered_times, default=None)
     last_modified: Optional[datetime.datetime] = max(filtered_times, default=None)
@@ -458,9 +458,10 @@ def _generate_language_index(language: subete.LanguageCollection):
     times += [language.doc_created(), language.doc_modified()]
 
     doc_authors: Set[str] = language.doc_authors()
+    language_escaped = _markdown_escape(language.name())
     _generate_front_matter(
         doc,
-        f"The {language} Programming Language",
+        f"The {language_escaped} Programming Language",
         times=times,
         image=_get_language_image(language),
         authors=doc_authors,
@@ -468,7 +469,7 @@ def _generate_language_index(language: subete.LanguageCollection):
     )
     _generate_no_edit_note(doc, "languages", language.pathlike_name(), LANGUAGE_MD_FILENAMES)
     doc.add_paragraph(
-        f"Welcome to the {language} page! Here, you'll find a description "
+        f"Welcome to the {language_escaped} page! Here, you'll find a description "
         f"of the language as well as a list of sample programs "
         f"in that language."
     )
@@ -780,7 +781,7 @@ def _get_language_link_and_testability(
 
 def _generate_language_breakdown_percentage(repo: subete.Repo, doc: snakemd.Document):
     language_info = sorted(
-        ((language.name().replace("\\", ""), language.percentage(), language.color()) for language in repo),
+        ((language.name(), language.percentage(), language.color()) for language in repo),
         key=lambda x: (-x[1], x[0])
     )
     max_language_percentage = language_info[0][1]
@@ -1041,6 +1042,10 @@ def pluralize(count: int, singular: str, plural: Optional[str]=None):
         plural = f"{singular}s"
 
     return singular if count == 1 else plural
+
+
+def _markdown_escape(s: str):
+    return s.replace("*", r"\*")
 
 
 if __name__ == "__main__":
