@@ -1044,7 +1044,7 @@ def pluralize(count: int, singular: str, plural: Optional[str]=None):
     return singular if count == 1 else plural
 
 
-def _markdown_escape(s: str):
+def _markdown_escape(s: str) -> str:
     return s.replace("*", r"\*")
 
 
