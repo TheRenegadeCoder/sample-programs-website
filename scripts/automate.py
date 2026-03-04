@@ -93,8 +93,10 @@ def _add_project_article_section(doc: snakemd.Document, repo: subete.Repo, proje
             program: subete.SampleProgram = lang[project.name()]
         except KeyError:
             continue
+
+        program_escaped = _markdown_escape(str(program))
         link = snakemd.Inline(
-            str(program),
+            program_escaped,
             link=program.documentation_url()
         )
         articles.append(link)
@@ -128,8 +130,9 @@ def _add_language_article_section(doc: snakemd.Document, repo: subete.Repo, lang
 
     articles = []
     for program in repo[language]:
+        program_escaped = _markdown_escape(str(program))
         link = snakemd.Inline(
-            str(program),
+            program_escaped,
             link=program._sample_program_doc_url
         )
         articles.append(link)
@@ -233,11 +236,13 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         PROGRAM_MD_FILENAMES,
     )
 
+    program_escaped = _markdown_escape(str(program))
+    language_escaped = _markdown_escape(program.language_name())
     doc.add_paragraph(
-        f"Welcome to the {program} page! Here, you'll find the source code for this program "
+        f"Welcome to the {program_escaped} page! Here, you'll find the source code for this program "
         f"as well as a description of how the program works."
     ) \
-        .insert_link(program.language_name(), program.language_collection().lang_docs_url()) \
+        .insert_link(language_escaped, program.language_collection().lang_docs_url()) \
         .insert_link(program.project_name(), program.project().requirements_url())
     doc.add_heading("Current Solution", level=2)
 
@@ -245,19 +250,18 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         image_dest = path / pathlib.Path(program.project_path()).name
         shutil.copy(program.project_path(), image_dest)
         image_uri = "/" + "/".join(image_dest.parts[1:])
-        image_description = f"{program.project_name()} in {program.language_name()}"
         doc.add_block(
             snakemd.Raw(
-                f'''<img class="program-image" src="{image_uri}" alt="{image_description}">'''
+                f'''<img class="program-image" src="{image_uri}" alt="{program}">'''
             )
         )
     else:
         doc.add_paragraph("{% raw %}")
-        doc.add_code(program.code(), lang=program.language_name().lower().replace(" ", "_"))
+        doc.add_code(program.code(), lang=language_escaped.lower().replace(" ", "_"))
         doc.add_paragraph("{% endraw %}")
 
-    doc.add_paragraph(f"{program} was written by:").insert_link(
-        program.language_name(), program.language_collection().lang_docs_url()
+    doc.add_paragraph(f"{program_escaped} was written by:").insert_link(
+        language_escaped, program.language_collection().lang_docs_url()
     )
     _add_authors_to_doc(doc, authors)
 
@@ -461,7 +465,7 @@ def _generate_language_index(language: subete.LanguageCollection):
     language_escaped = _markdown_escape(language.name())
     _generate_front_matter(
         doc,
-        f"The {language_escaped} Programming Language",
+        f"The {language} Programming Language",
         times=times,
         image=_get_language_image(language),
         authors=doc_authors,
@@ -612,7 +616,7 @@ def generate_sample_programs(repo: subete.Repo):
     for language in repo:
         language: subete.LanguageCollection
         for program in language:
-            log.info("Generate sample programs for %s in %s", str(program), str(language))
+            log.info("Generate sample programs for %s", str(program))
             program: subete.SampleProgram
             path = pathlib.Path(
                 f"docs/projects/{program.project_pathlike_name()}/{language.pathlike_name()}"
@@ -733,11 +737,11 @@ def generate_languages_index(repo: subete.Repo):
 
         language_index.add_paragraph(f"{language_statement}, and {snippets} code snippets.")
         languages.sort(key=lambda x: x.name().casefold())
-        languages = [
+        languages_list = [
             _get_language_link_and_testability(x)
             for x in languages
         ]
-        language_index.add_block(snakemd.MDList(languages))
+        language_index.add_block(snakemd.MDList(languages_list))
         language_index.add_block(snakemd.Paragraph(return_to_top))
 
     language_index.dump("index", directory=str(language_index_path))
@@ -760,7 +764,8 @@ def _get_language_letter_links(repo: subete.Repo) -> str:
 def _get_language_link_and_testability(
     language: subete.LanguageCollection
 ) -> snakemd.Paragraph:
-    language_link = snakemd.Inline(language.name(), link=language.lang_docs_url())
+    language_escaped = _markdown_escape(language.name())
+    language_link = snakemd.Inline(language_escaped, link=language.lang_docs_url())
     num_programs = language.total_programs()
     singular = pluralize(num_programs, "code snippet")
     phrase = f"{num_programs} {singular}"
