@@ -19,13 +19,13 @@ Here are the percentages for each language in the collection:
     <tr>
         <td class="right nowrap">ALGOL 68</td>
         <td class="right">6.80%</td>
-        <td class="bar-graph"><div style="width: 100.00%; background-color: #EDEDED;"></div></td> 
+        <td class="bar-graph"><div style="width: 100.00%; background-color: #AF425E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Commodore BASIC</td>
         <td class="right">6.68%</td>
-        <td class="bar-graph"><div style="width: 98.22%; background-color: #EDEDED;"></div></td> 
+        <td class="bar-graph"><div style="width: 98.22%; background-color: #4F44D8;"></div></td> 
     </tr>
 
     <tr>
@@ -181,7 +181,7 @@ Here are the percentages for each language in the collection:
     <tr>
         <td class="right nowrap">GNU Make</td>
         <td class="right">0.83%</td>
-        <td class="bar-graph"><div style="width: 12.25%; background-color: #EDEDED;"></div></td> 
+        <td class="bar-graph"><div style="width: 12.25%; background-color: #427819;"></div></td> 
     </tr>
 
     <tr>
@@ -409,7 +409,7 @@ Here are the percentages for each language in the collection:
     <tr>
         <td class="right nowrap">BAIK</td>
         <td class="right">0.08%</td>
-        <td class="bar-graph"><div style="width: 1.14%; background-color: #EDEDED;"></div></td> 
+        <td class="bar-graph"><div style="width: 1.14%; background-color: #4CAF50;"></div></td> 
     </tr>
 
     <tr>
@@ -565,7 +565,7 @@ Here are the percentages for each language in the collection:
     <tr>
         <td class="right nowrap">ArkScript</td>
         <td class="right">0.05%</td>
-        <td class="bar-graph"><div style="width: 0.69%; background-color: #EDEDED;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.69%; background-color: #00AAD4;"></div></td> 
     </tr>
 
     <tr>
@@ -865,7 +865,7 @@ Here are the percentages for each language in the collection:
     <tr>
         <td class="right nowrap">ChaiScript</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.32%; background-color: #EDEDED;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.32%; background-color: #CE6B06;"></div></td> 
     </tr>
 
     <tr>
