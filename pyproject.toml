@@ -1,6 +1,6 @@
 [project]
 name = "sample-programs-website"
-version = "2026.1.19"
+version = "2026.3.3"
 description = "Sample Programs in Every Programming Language"
 readme = ".github/README.md"
 requires-python = ">=3.10,<4.0"
@@ -8,9 +8,9 @@ license = {file = "LICENSE" }
 
 dependencies = [
     "snakemd (>=2.4.0,<3.0.0)",
-    "subete (>=0.21.0,<0.22.0)",
+    "subete (>=0.22.1,<0.23.0)",
     "image-titler (>=2.4.0,<2.5.0)",
-    "glotter2 (>=0.14.0,<0.15.0)",
+    "glotter2 (>=0.15.0,<0.16.0)",
     "pyyaml (>=6.0,<7.0)"
 ]
 
@@ -23,5 +23,5 @@ authors = [
 package-mode = false
 
 [build-system]
-requires = ["poetry-core>=2.0.0,<3.0.0"]
+requires = ["poetry-core>=2.3.1,<3.0.0"]
 build-backend = "poetry.core.masonry.api"

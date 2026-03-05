@@ -93,8 +93,10 @@ def _add_project_article_section(doc: snakemd.Document, repo: subete.Repo, proje
             program: subete.SampleProgram = lang[project.name()]
         except KeyError:
             continue
+
+        program_escaped = _markdown_escape(str(program))
         link = snakemd.Inline(
-            str(program),
+            program_escaped,
             link=program.documentation_url()
         )
         articles.append(link)
@@ -128,8 +130,9 @@ def _add_language_article_section(doc: snakemd.Document, repo: subete.Repo, lang
 
     articles = []
     for program in repo[language]:
+        program_escaped = _markdown_escape(str(program))
         link = snakemd.Inline(
-            str(program),
+            program_escaped,
             link=program._sample_program_doc_url
         )
         articles.append(link)
@@ -155,7 +158,7 @@ def _generate_front_matter(
     :param Set[str] authors: optional list of authors
     :param Iterable[str] tags: optional list of tags
     """
-    front_matter = {"title": title.replace("\\", ""), "layout": "default"}
+    front_matter = {"title": title, "layout": "default"}
     filtered_times: List[datetime.datetime] = list(filter(None, times or []))
     created_at: Optional[datetime.datetime] = min(filtered_times, default=None)
     last_modified: Optional[datetime.datetime] = max(filtered_times, default=None)
@@ -233,11 +236,13 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         PROGRAM_MD_FILENAMES,
     )
 
+    program_escaped = _markdown_escape(str(program))
+    language_escaped = _markdown_escape(program.language_name())
     doc.add_paragraph(
-        f"Welcome to the {program} page! Here, you'll find the source code for this program "
+        f"Welcome to the {program_escaped} page! Here, you'll find the source code for this program "
         f"as well as a description of how the program works."
     ) \
-        .insert_link(program.language_name(), program.language_collection().lang_docs_url()) \
+        .insert_link(language_escaped, program.language_collection().lang_docs_url()) \
         .insert_link(program.project_name(), program.project().requirements_url())
     doc.add_heading("Current Solution", level=2)
 
@@ -245,19 +250,18 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         image_dest = path / pathlib.Path(program.project_path()).name
         shutil.copy(program.project_path(), image_dest)
         image_uri = "/" + "/".join(image_dest.parts[1:])
-        image_description = f"{program.project_name()} in {program.language_name()}"
         doc.add_block(
             snakemd.Raw(
-                f'''<img class="program-image" src="{image_uri}" alt="{image_description}">'''
+                f'''<img class="program-image" src="{image_uri}" alt="{program}">'''
             )
         )
     else:
         doc.add_paragraph("{% raw %}")
-        doc.add_code(program.code(), lang=program.language_name().lower().replace(" ", "_"))
+        doc.add_code(program.code(), lang=language_escaped.lower().replace(" ", "_"))
         doc.add_paragraph("{% endraw %}")
 
-    doc.add_paragraph(f"{program} was written by:").insert_link(
-        program.language_name(), program.language_collection().lang_docs_url()
+    doc.add_paragraph(f"{program_escaped} was written by:").insert_link(
+        language_escaped, program.language_collection().lang_docs_url()
     )
     _add_authors_to_doc(doc, authors)
 
@@ -458,6 +462,7 @@ def _generate_language_index(language: subete.LanguageCollection):
     times += [language.doc_created(), language.doc_modified()]
 
     doc_authors: Set[str] = language.doc_authors()
+    language_escaped = _markdown_escape(language.name())
     _generate_front_matter(
         doc,
         f"The {language} Programming Language",
@@ -468,7 +473,7 @@ def _generate_language_index(language: subete.LanguageCollection):
     )
     _generate_no_edit_note(doc, "languages", language.pathlike_name(), LANGUAGE_MD_FILENAMES)
     doc.add_paragraph(
-        f"Welcome to the {language} page! Here, you'll find a description "
+        f"Welcome to the {language_escaped} page! Here, you'll find a description "
         f"of the language as well as a list of sample programs "
         f"in that language."
     )
@@ -611,7 +616,7 @@ def generate_sample_programs(repo: subete.Repo):
     for language in repo:
         language: subete.LanguageCollection
         for program in language:
-            log.info("Generate sample programs for %s in %s", str(program), str(language))
+            log.info("Generate sample programs for %s", str(program))
             program: subete.SampleProgram
             path = pathlib.Path(
                 f"docs/projects/{program.project_pathlike_name()}/{language.pathlike_name()}"
@@ -732,11 +737,11 @@ def generate_languages_index(repo: subete.Repo):
 
         language_index.add_paragraph(f"{language_statement}, and {snippets} code snippets.")
         languages.sort(key=lambda x: x.name().casefold())
-        languages = [
+        languages_list = [
             _get_language_link_and_testability(x)
             for x in languages
         ]
-        language_index.add_block(snakemd.MDList(languages))
+        language_index.add_block(snakemd.MDList(languages_list))
         language_index.add_block(snakemd.Paragraph(return_to_top))
 
     language_index.dump("index", directory=str(language_index_path))
@@ -759,7 +764,8 @@ def _get_language_letter_links(repo: subete.Repo) -> str:
 def _get_language_link_and_testability(
     language: subete.LanguageCollection
 ) -> snakemd.Paragraph:
-    language_link = snakemd.Inline(language.name(), link=language.lang_docs_url())
+    language_escaped = _markdown_escape(language.name())
+    language_link = snakemd.Inline(language_escaped, link=language.lang_docs_url())
     num_programs = language.total_programs()
     singular = pluralize(num_programs, "code snippet")
     phrase = f"{num_programs} {singular}"
@@ -780,7 +786,7 @@ def _get_language_link_and_testability(
 
 def _generate_language_breakdown_percentage(repo: subete.Repo, doc: snakemd.Document):
     language_info = sorted(
-        ((language.name().replace("\\", ""), language.percentage(), language.color()) for language in repo),
+        ((language.name(), language.percentage(), language.color()) for language in repo),
         key=lambda x: (-x[1], x[0])
     )
     max_language_percentage = language_info[0][1]
@@ -1041,6 +1047,10 @@ def pluralize(count: int, singular: str, plural: Optional[str]=None):
         plural = f"{singular}s"
 
     return singular if count == 1 else plural
+
+
+def _markdown_escape(s: str) -> str:
+    return s.replace("*", r"\*")
 
 
 if __name__ == "__main__":
