@@ -8,7 +8,7 @@ layout: default
 tags:
 - m4
 - merge-sort
-title: Merge Sort in M4
+title: Merge Sort in m4
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [M4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [m4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -170,7 +170,7 @@ show_int_list(`arrA')
 
 {% endraw %}
 
-Merge Sort in [M4](https://sampleprograms.io/languages/m4) was written by:
+Merge Sort in [m4](https://sampleprograms.io/languages/m4) was written by:
 
 - rzuckerm
 

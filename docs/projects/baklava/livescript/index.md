@@ -8,7 +8,7 @@ layout: default
 tags:
 - baklava
 - livescript
-title: Baklava in Livescript
+title: Baklava in LiveScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Livescript](https://sampleprograms.io/languages/livescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [LiveScript](https://sampleprograms.io/languages/livescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -38,7 +38,7 @@ for n from -10 to 10
 
 {% endraw %}
 
-Baklava in [Livescript](https://sampleprograms.io/languages/livescript) was written by:
+Baklava in [LiveScript](https://sampleprograms.io/languages/livescript) was written by:
 
 - rzuckerm
 

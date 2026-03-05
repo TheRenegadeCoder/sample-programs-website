@@ -5,7 +5,7 @@ last-modified: 2025-01-20
 layout: default
 tags:
 - baik
-title: The Baik Programming Language
+title: The BAIK Programming Language
 ---
 
 <!--
@@ -18,7 +18,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the Baik page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+Welcome to the BAIK page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 ## Description
 
@@ -28,5 +28,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Baik](https://sampleprograms.io/projects/baklava/baik)
-- [Hello World in Baik](https://sampleprograms.io/projects/hello-world/baik)
+- [Baklava in BAIK](https://sampleprograms.io/projects/baklava/baik)
+- [Hello World in BAIK](https://sampleprograms.io/projects/hello-world/baik)

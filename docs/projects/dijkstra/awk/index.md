@@ -8,7 +8,7 @@ layout: default
 tags:
 - awk
 - dijkstra
-title: Dijkstra in Awk
+title: Dijkstra in AWK
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Awk](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [AWK](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -165,7 +165,7 @@ BEGIN {
 
 {% endraw %}
 
-Dijkstra in [Awk](https://sampleprograms.io/languages/awk) was written by:
+Dijkstra in [AWK](https://sampleprograms.io/languages/awk) was written by:
 
 - rzuckerm
 

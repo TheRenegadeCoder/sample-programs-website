@@ -9,7 +9,7 @@ layout: default
 tags:
 - cobol
 - prime-number
-title: Prime Number in Cobol
+title: Prime Number in COBOL
 ---
 
 <!--
@@ -23,7 +23,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Cobol](https://sampleprograms.io/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [COBOL](https://sampleprograms.io/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -89,7 +89,7 @@ Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) i
 
 {% endraw %}
 
-Prime Number in [Cobol](https://sampleprograms.io/languages/cobol) was written by:
+Prime Number in [COBOL](https://sampleprograms.io/languages/cobol) was written by:
 
 - Ron Zuckerman
 - Sudhanshu Dubey

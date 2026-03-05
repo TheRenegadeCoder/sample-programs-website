@@ -5,7 +5,7 @@ last-modified: 2025-01-30
 layout: default
 tags:
 - tex
-title: The Tex Programming Language
+title: The TeX Programming Language
 ---
 
 <!--
@@ -18,7 +18,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the Tex page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+Welcome to the TeX page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 ## Description
 
@@ -28,6 +28,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Tex](https://sampleprograms.io/projects/baklava/tex)
-- [Fizz Buzz in Tex](https://sampleprograms.io/projects/fizz-buzz/tex)
-- [Hello World in Tex](https://sampleprograms.io/projects/hello-world/tex)
+- [Baklava in TeX](https://sampleprograms.io/projects/baklava/tex)
+- [Fizz Buzz in TeX](https://sampleprograms.io/projects/fizz-buzz/tex)
+- [Hello World in TeX](https://sampleprograms.io/projects/hello-world/tex)

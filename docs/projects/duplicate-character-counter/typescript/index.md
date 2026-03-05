@@ -8,7 +8,7 @@ layout: default
 tags:
 - duplicate-character-counter
 - typescript
-title: Duplicate Character Counter in Typescript
+title: Duplicate Character Counter in TypeScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [TypeScript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -58,7 +58,7 @@ if (!has_duplicate) {
 
 {% endraw %}
 
-Duplicate Character Counter in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
+Duplicate Character Counter in [TypeScript](https://sampleprograms.io/languages/typescript) was written by:
 
 - Vipin Yadav
 

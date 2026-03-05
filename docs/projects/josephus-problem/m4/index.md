@@ -8,7 +8,7 @@ layout: default
 tags:
 - josephus-problem
 - m4
-title: Josephus Problem in M4
+title: Josephus Problem in m4
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [M4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [m4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -67,7 +67,7 @@ ifelse(eval(ARGC < 2 || !is_valid(ARGV1) || !is_valid(ARGV2)), 1,
 
 {% endraw %}
 
-Josephus Problem in [M4](https://sampleprograms.io/languages/m4) was written by:
+Josephus Problem in [m4](https://sampleprograms.io/languages/m4) was written by:
 
 - rzuckerm
 

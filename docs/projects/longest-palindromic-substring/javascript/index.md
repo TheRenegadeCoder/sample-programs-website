@@ -8,7 +8,7 @@ layout: default
 tags:
 - javascript
 - longest-palindromic-substring
-title: Longest Palindromic Substring in Javascript
+title: Longest Palindromic Substring in JavaScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -59,7 +59,7 @@ console.log(
 
 {% endraw %}
 
-Longest Palindromic Substring in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Longest Palindromic Substring in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
 
 - izexi
 

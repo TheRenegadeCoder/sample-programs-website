@@ -8,7 +8,7 @@ layout: default
 tags:
 - awk
 - prime-number
-title: Prime Number in Awk
+title: Prime Number in AWK
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Awk](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [AWK](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -65,7 +65,7 @@ BEGIN {
 
 {% endraw %}
 
-Prime Number in [Awk](https://sampleprograms.io/languages/awk) was written by:
+Prime Number in [AWK](https://sampleprograms.io/languages/awk) was written by:
 
 - rzuckerm
 

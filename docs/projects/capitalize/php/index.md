@@ -9,7 +9,7 @@ layout: default
 tags:
 - capitalize
 - php
-title: Capitalize in Php
+title: Capitalize in PHP
 ---
 
 <!--
@@ -23,7 +23,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [PHP](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -44,7 +44,7 @@ if (count($argv) == 2 && strlen($argv[1])) {
 
 {% endraw %}
 
-Capitalize in [Php](https://sampleprograms.io/languages/php) was written by:
+Capitalize in [PHP](https://sampleprograms.io/languages/php) was written by:
 
 - Dowayne Breedt
 - Jeremy Grifski

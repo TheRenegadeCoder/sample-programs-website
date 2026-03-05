@@ -8,7 +8,7 @@ layout: default
 tags:
 - awk
 - base64-encode-decode
-title: Base64 Encode Decode in Awk
+title: Base64 Encode Decode in AWK
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Base64 Encode Decode](https://sampleprograms.io/projects/base64-encode-decode) in [Awk](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Base64 Encode Decode](https://sampleprograms.io/projects/base64-encode-decode) in [AWK](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -150,7 +150,7 @@ BEGIN {
 
 {% endraw %}
 
-Base64 Encode Decode in [Awk](https://sampleprograms.io/languages/awk) was written by:
+Base64 Encode Decode in [AWK](https://sampleprograms.io/languages/awk) was written by:
 
 - rzuckerm
 

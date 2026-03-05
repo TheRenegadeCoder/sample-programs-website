@@ -8,7 +8,7 @@ layout: default
 tags:
 - algol68
 - depth-first-search
-title: Depth First Search in Algol68
+title: Depth First Search in ALGOL 68
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```algol68
+```algol_68
 MODE PARSEINT_RESULT = STRUCT(BOOL valid, INT value, STRING leftover);
 MODE PARSEINTLIST_RESULT = STRUCT(BOOL valid, REF []INT values);
 
@@ -272,7 +272,7 @@ printf(($gl$, (node ISNT REF NODE(NIL) | "true" | "false")))
 
 {% endraw %}
 
-Depth First Search in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Depth First Search in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

@@ -10,7 +10,7 @@ layout: default
 tags:
 - insertion-sort
 - javascript
-title: Insertion Sort in Javascript
+title: Insertion Sort in JavaScript
 ---
 
 <!--
@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -73,7 +73,7 @@ main(process.argv[2])
 
 {% endraw %}
 
-Insertion Sort in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Insertion Sort in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Eliver L
 - EliverLara

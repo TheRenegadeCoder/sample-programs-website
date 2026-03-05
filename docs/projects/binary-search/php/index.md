@@ -8,7 +8,7 @@ layout: default
 tags:
 - binary-search
 - php
-title: Binary Search in Php
+title: Binary Search in PHP
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [PHP](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -161,7 +161,7 @@ printf("%s\n", ($index >= 0) ? "true" : "false");
 
 {% endraw %}
 
-Binary Search in [Php](https://sampleprograms.io/languages/php) was written by:
+Binary Search in [PHP](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

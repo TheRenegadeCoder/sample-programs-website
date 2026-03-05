@@ -8,7 +8,7 @@ layout: default
 tags:
 - longest-palindromic-substring
 - php
-title: Longest Palindromic Substring in Php
+title: Longest Palindromic Substring in PHP
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [PHP](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -115,7 +115,7 @@ echo "$longest\n";
 
 {% endraw %}
 
-Longest Palindromic Substring in [Php](https://sampleprograms.io/languages/php) was written by:
+Longest Palindromic Substring in [PHP](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

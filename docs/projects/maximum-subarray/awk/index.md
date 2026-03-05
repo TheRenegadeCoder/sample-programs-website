@@ -8,7 +8,7 @@ layout: default
 tags:
 - awk
 - maximum-subarray
-title: Maximum Subarray in Awk
+title: Maximum Subarray in AWK
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Awk](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [AWK](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -89,7 +89,7 @@ BEGIN {
 
 {% endraw %}
 
-Maximum Subarray in [Awk](https://sampleprograms.io/languages/awk) was written by:
+Maximum Subarray in [AWK](https://sampleprograms.io/languages/awk) was written by:
 
 - rzuckerm
 

@@ -7,7 +7,7 @@ last-modified: 2025-01-20
 layout: default
 tags:
 - arkscript
-title: The Arkscript Programming Language
+title: The ArkScript Programming Language
 ---
 
 <!--
@@ -20,7 +20,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the Arkscript page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+Welcome to the ArkScript page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 This article was written by:
 
@@ -72,6 +72,6 @@ Then on line 6 we call `print` with the function call `(fibo 28)` as its argumen
 
 There are 3 articles:
 
-- [Baklava in Arkscript](https://sampleprograms.io/projects/baklava/arkscript)
-- [Fizz Buzz in Arkscript](https://sampleprograms.io/projects/fizz-buzz/arkscript)
-- [Hello World in Arkscript](https://sampleprograms.io/projects/hello-world/arkscript)
+- [Baklava in ArkScript](https://sampleprograms.io/projects/baklava/arkscript)
+- [Fizz Buzz in ArkScript](https://sampleprograms.io/projects/fizz-buzz/arkscript)
+- [Hello World in ArkScript](https://sampleprograms.io/projects/hello-world/arkscript)

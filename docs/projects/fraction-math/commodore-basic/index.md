@@ -8,7 +8,7 @@ layout: default
 tags:
 - commodore-basic
 - fraction-math
-title: Fraction Math in Commodore Basic
+title: Fraction Math in Commodore BASIC
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -228,7 +228,7 @@ Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math)
 
 {% endraw %}
 
-Fraction Math in [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) was written by:
+Fraction Math in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) was written by:
 
 - rzuckerm
 

@@ -8,7 +8,7 @@ layout: default
 tags:
 - baklava
 - powershell
-title: Baklava in Powershell
+title: Baklava in PowerShell
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -39,7 +39,7 @@ for ($X = -10; $X -le 10; $X++) {
 
 {% endraw %}
 
-Baklava in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
+Baklava in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
 
 - rzuckerm
 

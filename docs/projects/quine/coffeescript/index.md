@@ -8,7 +8,7 @@ layout: default
 tags:
 - coffeescript
 - quine
-title: Quine in Coffeescript
+title: Quine in CoffeeScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [CoffeeScript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -35,7 +35,7 @@ a="a=%j; console.log a,a"; console.log a,a
 
 {% endraw %}
 
-Quine in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
+Quine in [CoffeeScript](https://sampleprograms.io/languages/coffeescript) was written by:
 
 - Jeng
 

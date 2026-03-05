@@ -8,7 +8,7 @@ layout: default
 tags:
 - awk
 - duplicate-character-counter
-title: Duplicate Character Counter in Awk
+title: Duplicate Character Counter in AWK
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Awk](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [AWK](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -74,7 +74,7 @@ BEGIN {
 
 {% endraw %}
 
-Duplicate Character Counter in [Awk](https://sampleprograms.io/languages/awk) was written by:
+Duplicate Character Counter in [AWK](https://sampleprograms.io/languages/awk) was written by:
 
 - rzuckerm
 

@@ -8,7 +8,7 @@ layout: default
 tags:
 - fizz-buzz
 - gnu-make
-title: Fizz Buzz in Gnu Make
+title: Fizz Buzz in GNU Make
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Gnu Make](https://sampleprograms.io/languages/gnu-make) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [GNU Make](https://sampleprograms.io/languages/gnu-make) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -95,7 +95,7 @@ all: ;@:
 
 {% endraw %}
 
-Fizz Buzz in [Gnu Make](https://sampleprograms.io/languages/gnu-make) was written by:
+Fizz Buzz in [GNU Make](https://sampleprograms.io/languages/gnu-make) was written by:
 
 - rzuckerm
 

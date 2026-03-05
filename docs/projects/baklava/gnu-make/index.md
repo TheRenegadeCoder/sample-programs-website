@@ -8,7 +8,7 @@ layout: default
 tags:
 - baklava
 - gnu-make
-title: Baklava in Gnu Make
+title: Baklava in GNU Make
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Gnu Make](https://sampleprograms.io/languages/gnu-make) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [GNU Make](https://sampleprograms.io/languages/gnu-make) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -109,7 +109,7 @@ all: ;@:
 
 {% endraw %}
 
-Baklava in [Gnu Make](https://sampleprograms.io/languages/gnu-make) was written by:
+Baklava in [GNU Make](https://sampleprograms.io/languages/gnu-make) was written by:
 
 - rzuckerm
 

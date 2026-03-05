@@ -8,7 +8,7 @@ layout: default
 tags:
 - awk
 - josephus-problem
-title: Josephus Problem in Awk
+title: Josephus Problem in AWK
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Awk](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [AWK](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -73,7 +73,7 @@ BEGIN {
 
 {% endraw %}
 
-Josephus Problem in [Awk](https://sampleprograms.io/languages/awk) was written by:
+Josephus Problem in [AWK](https://sampleprograms.io/languages/awk) was written by:
 
 - rzuckerm
 

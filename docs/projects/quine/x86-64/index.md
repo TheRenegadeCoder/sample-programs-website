@@ -8,7 +8,7 @@ layout: default
 tags:
 - quine
 - x86-64
-title: Quine in X86 64
+title: Quine in x86-64
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [X86 64](https://sampleprograms.io/languages/x86-64) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [x86-64](https://sampleprograms.io/languages/x86-64) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```x86_64
+```x86-64
 ; SYSCALLS
 %DEFINE SYS_READ 0
 %DEFINE SYS_WRITE 1
@@ -121,7 +121,7 @@ SYSCALL
 
 {% endraw %}
 
-Quine in [X86 64](https://sampleprograms.io/languages/x86-64) was written by:
+Quine in [x86-64](https://sampleprograms.io/languages/x86-64) was written by:
 
 - Raymond Marx
 

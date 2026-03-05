@@ -9,7 +9,7 @@ layout: default
 tags:
 - even-odd
 - php
-title: Even Odd in Php
+title: Even Odd in PHP
 ---
 
 <!--
@@ -23,7 +23,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [PHP](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -48,7 +48,7 @@ if ($input % 2 == 0) {
 
 {% endraw %}
 
-Even Odd in [Php](https://sampleprograms.io/languages/php) was written by:
+Even Odd in [PHP](https://sampleprograms.io/languages/php) was written by:
 
 - Berry Semexan
 - Jeremy Grifski

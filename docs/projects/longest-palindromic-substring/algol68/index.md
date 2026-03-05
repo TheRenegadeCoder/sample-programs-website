@@ -8,7 +8,7 @@ layout: default
 tags:
 - algol68
 - longest-palindromic-substring
-title: Longest Palindromic Substring in Algol68
+title: Longest Palindromic Substring in ALGOL 68
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```algol68
+```algol_68
 COMMENT
 Find longest palindromic string using matching array
 Source: https://www.geeksforgeeks.org/longest-palindromic-substring-using-dynamic-programming/
@@ -125,7 +125,7 @@ printf(($gl$, longest))
 
 {% endraw %}
 
-Longest Palindromic Substring in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Longest Palindromic Substring in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

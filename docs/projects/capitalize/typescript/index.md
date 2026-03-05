@@ -9,7 +9,7 @@ layout: default
 tags:
 - capitalize
 - typescript
-title: Capitalize in Typescript
+title: Capitalize in TypeScript
 ---
 
 <!--
@@ -23,7 +23,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [TypeScript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -45,7 +45,7 @@ console.log(capitalize(myStr));
 
 {% endraw %}
 
-Capitalize in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
+Capitalize in [TypeScript](https://sampleprograms.io/languages/typescript) was written by:
 
 - Ray
 - rzuckerm

@@ -8,7 +8,7 @@ layout: default
 tags:
 - transpose-matrix
 - typescript
-title: Transpose Matrix in Typescript
+title: Transpose Matrix in TypeScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [TypeScript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -59,7 +59,7 @@ console.log(transpose.map(function (x: number[]) { return x.join(", "); }).join(
 
 {% endraw %}
 
-Transpose Matrix in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
+Transpose Matrix in [TypeScript](https://sampleprograms.io/languages/typescript) was written by:
 
 - Vipin Yadav
 

@@ -8,7 +8,7 @@ layout: default
 tags:
 - insertion-sort
 - powershell
-title: Insertion Sort in Powershell
+title: Insertion Sort in PowerShell
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -74,7 +74,7 @@ Write-Host ($values -join ', ')
 
 {% endraw %}
 
-Insertion Sort in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
+Insertion Sort in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
 
 - rzuckerm
 

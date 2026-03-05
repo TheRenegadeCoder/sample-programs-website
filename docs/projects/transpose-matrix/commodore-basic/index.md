@@ -8,7 +8,7 @@ layout: default
 tags:
 - commodore-basic
 - transpose-matrix
-title: Transpose Matrix in Commodore Basic
+title: Transpose Matrix in Commodore BASIC
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -181,7 +181,7 @@ Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-m
 
 {% endraw %}
 
-Transpose Matrix in [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) was written by:
+Transpose Matrix in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) was written by:
 
 - rzuckerm
 

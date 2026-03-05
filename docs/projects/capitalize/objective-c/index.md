@@ -9,7 +9,7 @@ layout: default
 tags:
 - capitalize
 - objective-c
-title: Capitalize in Objective C
+title: Capitalize in Objective-C
 ---
 
 <!--
@@ -23,13 +23,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Objective C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Objective-C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```objective_c
+```objective-c
 #import <Foundation/Foundation.h>
 
 int main(int argc, const char * argv[]) {
@@ -61,7 +61,7 @@ int main(int argc, const char * argv[]) {
 
 {% endraw %}
 
-Capitalize in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
+Capitalize in [Objective-C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - Cristiano Lopes
 - rzuckerm

@@ -10,7 +10,7 @@ layout: default
 tags:
 - factorial
 - javascript
-title: Factorial in Javascript
+title: Factorial in JavaScript
 ---
 
 <!--
@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -95,7 +95,7 @@ main(input);
 
 {% endraw %}
 
-Factorial in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Factorial in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Bharath
 - Matt Wiley

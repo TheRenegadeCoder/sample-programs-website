@@ -8,7 +8,7 @@ layout: default
 tags:
 - capitalize
 - ti-basic
-title: Capitalize in Ti Basic
+title: Capitalize in TI-BASIC
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Ti Basic](https://sampleprograms.io/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [TI-BASIC](https://sampleprograms.io/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```ti_basic
+```ti-basic
 Input "",Str1
 "abcdefghijklmnopqrstuvwxyz"->Str2
 "ABCDEFGHIJKLMNOPQRSTUVWXYZ"->Str3
@@ -44,7 +44,7 @@ End
 
 {% endraw %}
 
-Capitalize in [Ti Basic](https://sampleprograms.io/languages/ti-basic) was written by:
+Capitalize in [TI-BASIC](https://sampleprograms.io/languages/ti-basic) was written by:
 
 - rzuckerm
 

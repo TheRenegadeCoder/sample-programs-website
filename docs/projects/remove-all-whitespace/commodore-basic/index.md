@@ -8,7 +8,7 @@ layout: default
 tags:
 - commodore-basic
 - remove-all-whitespace
-title: Remove All Whitespace in Commodore Basic
+title: Remove All Whitespace in Commodore BASIC
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -59,7 +59,7 @@ Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove
 
 {% endraw %}
 
-Remove All Whitespace in [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) was written by:
+Remove All Whitespace in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) was written by:
 
 - rzuckerm
 

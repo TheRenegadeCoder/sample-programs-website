@@ -8,7 +8,7 @@ layout: default
 tags:
 - arkscript
 - fizz-buzz
-title: Fizz Buzz in Arkscript
+title: Fizz Buzz in ArkScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Arkscript](https://sampleprograms.io/languages/arkscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [ArkScript](https://sampleprograms.io/languages/arkscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -45,7 +45,7 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Ark
 
 {% endraw %}
 
-Fizz Buzz in [Arkscript](https://sampleprograms.io/languages/arkscript) was written by:
+Fizz Buzz in [ArkScript](https://sampleprograms.io/languages/arkscript) was written by:
 
 - Zia
 

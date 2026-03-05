@@ -8,7 +8,7 @@ layout: default
 tags:
 - factorial
 - typescript
-title: Factorial in Typescript
+title: Factorial in TypeScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [TypeScript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -46,7 +46,7 @@ console.log(factorial);
 
 {% endraw %}
 
-Factorial in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
+Factorial in [TypeScript](https://sampleprograms.io/languages/typescript) was written by:
 
 - Vipin Yadav
 

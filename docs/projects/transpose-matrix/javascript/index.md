@@ -8,7 +8,7 @@ layout: default
 tags:
 - javascript
 - transpose-matrix
-title: Transpose Matrix in Javascript
+title: Transpose Matrix in JavaScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -59,7 +59,7 @@ console.log(transpose.map(function (x) { return x.join(", "); }).join(", "));
 
 {% endraw %}
 
-Transpose Matrix in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Transpose Matrix in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Vipin Yadav
 

@@ -9,7 +9,7 @@ layout: default
 tags:
 - capitalize
 - javascript
-title: Capitalize in Javascript
+title: Capitalize in JavaScript
 ---
 
 <!--
@@ -23,7 +23,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -49,7 +49,7 @@ main();
 
 {% endraw %}
 
-Capitalize in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Capitalize in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Daniel Luna
 - Jeremy Grifski

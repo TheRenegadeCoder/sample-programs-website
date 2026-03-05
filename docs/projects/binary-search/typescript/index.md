@@ -8,7 +8,7 @@ layout: default
 tags:
 - binary-search
 - typescript
-title: Binary Search in Typescript
+title: Binary Search in TypeScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [TypeScript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -70,7 +70,7 @@ console.log(found ? "true" : "false");
 
 {% endraw %}
 
-Binary Search in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
+Binary Search in [TypeScript](https://sampleprograms.io/languages/typescript) was written by:
 
 - Vipin Yadav
 

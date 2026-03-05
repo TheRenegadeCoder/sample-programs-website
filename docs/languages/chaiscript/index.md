@@ -5,7 +5,7 @@ last-modified: 2025-01-15
 layout: default
 tags:
 - chaiscript
-title: The Chaiscript Programming Language
+title: The ChaiScript Programming Language
 ---
 
 <!--
@@ -18,7 +18,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the Chaiscript page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+Welcome to the ChaiScript page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 ## Description
 
@@ -28,5 +28,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Chaiscript](https://sampleprograms.io/projects/baklava/chaiscript)
-- [Hello World in Chaiscript](https://sampleprograms.io/projects/hello-world/chaiscript)
+- [Baklava in ChaiScript](https://sampleprograms.io/projects/baklava/chaiscript)
+- [Hello World in ChaiScript](https://sampleprograms.io/projects/hello-world/chaiscript)

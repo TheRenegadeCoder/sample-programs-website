@@ -8,7 +8,7 @@ layout: default
 tags:
 - commodore-basic
 - file-input-output
-title: File Input Output in Commodore Basic
+title: File Input Output in Commodore BASIC
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -45,7 +45,7 @@ Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input
 
 {% endraw %}
 
-File Input Output in [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) was written by:
+File Input Output in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) was written by:
 
 - rzuckerm
 

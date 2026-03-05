@@ -8,7 +8,7 @@ layout: default
 tags:
 - baklava
 - cobol
-title: Baklava in Cobol
+title: Baklava in COBOL
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Cobol](https://sampleprograms.io/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [COBOL](https://sampleprograms.io/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -56,7 +56,7 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Cobol](
 
 {% endraw %}
 
-Baklava in [Cobol](https://sampleprograms.io/languages/cobol) was written by:
+Baklava in [COBOL](https://sampleprograms.io/languages/cobol) was written by:
 
 - rzuckerm
 

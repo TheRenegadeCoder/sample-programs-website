@@ -8,7 +8,7 @@ layout: default
 tags:
 - hello-world
 - m4
-title: Hello World in M4
+title: Hello World in m4
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [M4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [m4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -35,7 +35,7 @@ Hello, World!
 
 {% endraw %}
 
-Hello World in [M4](https://sampleprograms.io/languages/m4) was written by:
+Hello World in [m4](https://sampleprograms.io/languages/m4) was written by:
 
 - rzuckerm
 

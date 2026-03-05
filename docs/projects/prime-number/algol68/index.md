@@ -8,7 +8,7 @@ layout: default
 tags:
 - algol68
 - prime-number
-title: Prime Number in Algol68
+title: Prime Number in ALGOL 68
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```algol68
+```algol_68
 MODE PARSEINT_RESULT = STRUCT(BOOL valid, INT value, STRING leftover);
 
 PROC parse int = (REF STRING s) PARSEINT_RESULT:
@@ -116,7 +116,7 @@ printf(($gl$, (is prime(n) | "Prime" | "Composite")))
 
 {% endraw %}
 
-Prime Number in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Prime Number in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

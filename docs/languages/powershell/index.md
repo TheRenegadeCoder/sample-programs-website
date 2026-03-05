@@ -8,7 +8,7 @@ last-modified: 2025-07-28
 layout: default
 tags:
 - powershell
-title: The Powershell Programming Language
+title: The PowerShell Programming Language
 ---
 
 <!--
@@ -21,7 +21,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the Powershell page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+Welcome to the PowerShell page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 This article was written by:
 
@@ -72,41 +72,41 @@ is it's now open-source and will now be called PowerShell Core as it runs on
 
 There are 38 articles:
 
-- [Baklava in Powershell](https://sampleprograms.io/projects/baklava/powershell)
-- [Base64 Encode Decode in Powershell](https://sampleprograms.io/projects/base64-encode-decode/powershell)
-- [Binary Search in Powershell](https://sampleprograms.io/projects/binary-search/powershell)
-- [Bubble Sort in Powershell](https://sampleprograms.io/projects/bubble-sort/powershell)
-- [Capitalize in Powershell](https://sampleprograms.io/projects/capitalize/powershell)
-- [Convex Hull in Powershell](https://sampleprograms.io/projects/convex-hull/powershell)
-- [Depth First Search in Powershell](https://sampleprograms.io/projects/depth-first-search/powershell)
-- [Dijkstra in Powershell](https://sampleprograms.io/projects/dijkstra/powershell)
-- [Duplicate Character Counter in Powershell](https://sampleprograms.io/projects/duplicate-character-counter/powershell)
-- [Even Odd in Powershell](https://sampleprograms.io/projects/even-odd/powershell)
-- [Factorial in Powershell](https://sampleprograms.io/projects/factorial/powershell)
-- [Fibonacci in Powershell](https://sampleprograms.io/projects/fibonacci/powershell)
-- [File Input Output in Powershell](https://sampleprograms.io/projects/file-input-output/powershell)
-- [Fizz Buzz in Powershell](https://sampleprograms.io/projects/fizz-buzz/powershell)
-- [Fraction Math in Powershell](https://sampleprograms.io/projects/fraction-math/powershell)
-- [Hello World in Powershell](https://sampleprograms.io/projects/hello-world/powershell)
-- [Insertion Sort in Powershell](https://sampleprograms.io/projects/insertion-sort/powershell)
-- [Job Sequencing in Powershell](https://sampleprograms.io/projects/job-sequencing/powershell)
-- [Josephus Problem in Powershell](https://sampleprograms.io/projects/josephus-problem/powershell)
-- [Linear Search in Powershell](https://sampleprograms.io/projects/linear-search/powershell)
-- [Longest Common Subsequence in Powershell](https://sampleprograms.io/projects/longest-common-subsequence/powershell)
-- [Longest Palindromic Substring in Powershell](https://sampleprograms.io/projects/longest-palindromic-substring/powershell)
-- [Longest Word in Powershell](https://sampleprograms.io/projects/longest-word/powershell)
-- [Maximum Array Rotation in Powershell](https://sampleprograms.io/projects/maximum-array-rotation/powershell)
-- [Maximum Subarray in Powershell](https://sampleprograms.io/projects/maximum-subarray/powershell)
-- [Merge Sort in Powershell](https://sampleprograms.io/projects/merge-sort/powershell)
-- [Minimum Spanning Tree in Powershell](https://sampleprograms.io/projects/minimum-spanning-tree/powershell)
-- [Palindromic Number in Powershell](https://sampleprograms.io/projects/palindromic-number/powershell)
-- [Prime Number in Powershell](https://sampleprograms.io/projects/prime-number/powershell)
-- [Quick Sort in Powershell](https://sampleprograms.io/projects/quick-sort/powershell)
-- [Quine in Powershell](https://sampleprograms.io/projects/quine/powershell)
-- [Remove All Whitespace in Powershell](https://sampleprograms.io/projects/remove-all-whitespace/powershell)
-- [Reverse String in Powershell](https://sampleprograms.io/projects/reverse-string/powershell)
-- [Roman Numeral in Powershell](https://sampleprograms.io/projects/roman-numeral/powershell)
-- [Rot13 in Powershell](https://sampleprograms.io/projects/rot13/powershell)
-- [Selection Sort in Powershell](https://sampleprograms.io/projects/selection-sort/powershell)
-- [Sleep Sort in Powershell](https://sampleprograms.io/projects/sleep-sort/powershell)
-- [Transpose Matrix in Powershell](https://sampleprograms.io/projects/transpose-matrix/powershell)
+- [Baklava in PowerShell](https://sampleprograms.io/projects/baklava/powershell)
+- [Base64 Encode Decode in PowerShell](https://sampleprograms.io/projects/base64-encode-decode/powershell)
+- [Binary Search in PowerShell](https://sampleprograms.io/projects/binary-search/powershell)
+- [Bubble Sort in PowerShell](https://sampleprograms.io/projects/bubble-sort/powershell)
+- [Capitalize in PowerShell](https://sampleprograms.io/projects/capitalize/powershell)
+- [Convex Hull in PowerShell](https://sampleprograms.io/projects/convex-hull/powershell)
+- [Depth First Search in PowerShell](https://sampleprograms.io/projects/depth-first-search/powershell)
+- [Dijkstra in PowerShell](https://sampleprograms.io/projects/dijkstra/powershell)
+- [Duplicate Character Counter in PowerShell](https://sampleprograms.io/projects/duplicate-character-counter/powershell)
+- [Even Odd in PowerShell](https://sampleprograms.io/projects/even-odd/powershell)
+- [Factorial in PowerShell](https://sampleprograms.io/projects/factorial/powershell)
+- [Fibonacci in PowerShell](https://sampleprograms.io/projects/fibonacci/powershell)
+- [File Input Output in PowerShell](https://sampleprograms.io/projects/file-input-output/powershell)
+- [Fizz Buzz in PowerShell](https://sampleprograms.io/projects/fizz-buzz/powershell)
+- [Fraction Math in PowerShell](https://sampleprograms.io/projects/fraction-math/powershell)
+- [Hello World in PowerShell](https://sampleprograms.io/projects/hello-world/powershell)
+- [Insertion Sort in PowerShell](https://sampleprograms.io/projects/insertion-sort/powershell)
+- [Job Sequencing in PowerShell](https://sampleprograms.io/projects/job-sequencing/powershell)
+- [Josephus Problem in PowerShell](https://sampleprograms.io/projects/josephus-problem/powershell)
+- [Linear Search in PowerShell](https://sampleprograms.io/projects/linear-search/powershell)
+- [Longest Common Subsequence in PowerShell](https://sampleprograms.io/projects/longest-common-subsequence/powershell)
+- [Longest Palindromic Substring in PowerShell](https://sampleprograms.io/projects/longest-palindromic-substring/powershell)
+- [Longest Word in PowerShell](https://sampleprograms.io/projects/longest-word/powershell)
+- [Maximum Array Rotation in PowerShell](https://sampleprograms.io/projects/maximum-array-rotation/powershell)
+- [Maximum Subarray in PowerShell](https://sampleprograms.io/projects/maximum-subarray/powershell)
+- [Merge Sort in PowerShell](https://sampleprograms.io/projects/merge-sort/powershell)
+- [Minimum Spanning Tree in PowerShell](https://sampleprograms.io/projects/minimum-spanning-tree/powershell)
+- [Palindromic Number in PowerShell](https://sampleprograms.io/projects/palindromic-number/powershell)
+- [Prime Number in PowerShell](https://sampleprograms.io/projects/prime-number/powershell)
+- [Quick Sort in PowerShell](https://sampleprograms.io/projects/quick-sort/powershell)
+- [Quine in PowerShell](https://sampleprograms.io/projects/quine/powershell)
+- [Remove All Whitespace in PowerShell](https://sampleprograms.io/projects/remove-all-whitespace/powershell)
+- [Reverse String in PowerShell](https://sampleprograms.io/projects/reverse-string/powershell)
+- [Roman Numeral in PowerShell](https://sampleprograms.io/projects/roman-numeral/powershell)
+- [Rot13 in PowerShell](https://sampleprograms.io/projects/rot13/powershell)
+- [Selection Sort in PowerShell](https://sampleprograms.io/projects/selection-sort/powershell)
+- [Sleep Sort in PowerShell](https://sampleprograms.io/projects/sleep-sort/powershell)
+- [Transpose Matrix in PowerShell](https://sampleprograms.io/projects/transpose-matrix/powershell)

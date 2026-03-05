@@ -8,7 +8,7 @@ layout: default
 tags:
 - fizz-buzz
 - m4
-title: Fizz Buzz in M4
+title: Fizz Buzz in m4
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [M4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [m4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -44,7 +44,7 @@ fizzbuzz(1, 100)dnl
 
 {% endraw %}
 
-Fizz Buzz in [M4](https://sampleprograms.io/languages/m4) was written by:
+Fizz Buzz in [m4](https://sampleprograms.io/languages/m4) was written by:
 
 - rzuckerm
 

@@ -5,7 +5,7 @@ last-modified: 2025-10-29
 layout: default
 tags:
 - livescript
-title: The Livescript Programming Language
+title: The LiveScript Programming Language
 ---
 
 <!--
@@ -18,7 +18,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the Livescript page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+Welcome to the LiveScript page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 ## Description
 
@@ -28,6 +28,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Livescript](https://sampleprograms.io/projects/baklava/livescript)
-- [Fizz Buzz in Livescript](https://sampleprograms.io/projects/fizz-buzz/livescript)
-- [Hello World in Livescript](https://sampleprograms.io/projects/hello-world/livescript)
+- [Baklava in LiveScript](https://sampleprograms.io/projects/baklava/livescript)
+- [Fizz Buzz in LiveScript](https://sampleprograms.io/projects/fizz-buzz/livescript)
+- [Hello World in LiveScript](https://sampleprograms.io/projects/hello-world/livescript)

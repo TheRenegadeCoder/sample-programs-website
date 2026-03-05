@@ -8,7 +8,7 @@ layout: default
 tags:
 - coffeescript
 - remove-all-whitespace
-title: Remove All Whitespace in Coffeescript
+title: Remove All Whitespace in CoffeeScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [CoffeeScript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -50,7 +50,7 @@ console.log main()
 
 {% endraw %}
 
-Remove All Whitespace in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
+Remove All Whitespace in [CoffeeScript](https://sampleprograms.io/languages/coffeescript) was written by:
 
 - Ryan Mills
 

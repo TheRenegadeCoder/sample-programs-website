@@ -100,23 +100,23 @@ Usage: please provide at least 3 x and y coordinates as separate lists (e.g. "10
 
 There are 17 articles:
 
-- [Convex Hull in Algol68](https://sampleprograms.io/projects/convex-hull/algol68)
-- [Convex Hull in Awk](https://sampleprograms.io/projects/convex-hull/awk)
+- [Convex Hull in ALGOL 68](https://sampleprograms.io/projects/convex-hull/algol68)
+- [Convex Hull in AWK](https://sampleprograms.io/projects/convex-hull/awk)
 - [Convex Hull in Beef](https://sampleprograms.io/projects/convex-hull/beef)
 - [Convex Hull in C](https://sampleprograms.io/projects/convex-hull/c)
 - [Convex Hull in C#](https://sampleprograms.io/projects/convex-hull/c-sharp)
-- [Convex Hull in Commodore Basic](https://sampleprograms.io/projects/convex-hull/commodore-basic)
+- [Convex Hull in Commodore BASIC](https://sampleprograms.io/projects/convex-hull/commodore-basic)
 - [Convex Hull in Euphoria](https://sampleprograms.io/projects/convex-hull/euphoria)
 - [Convex Hull in Java](https://sampleprograms.io/projects/convex-hull/java)
-- [Convex Hull in Javascript](https://sampleprograms.io/projects/convex-hull/javascript)
-- [Convex Hull in M4](https://sampleprograms.io/projects/convex-hull/m4)
+- [Convex Hull in JavaScript](https://sampleprograms.io/projects/convex-hull/javascript)
 - [Convex Hull in Mathematica](https://sampleprograms.io/projects/convex-hull/mathematica)
+- [Convex Hull in PHP](https://sampleprograms.io/projects/convex-hull/php)
 - [Convex Hull in Pascal](https://sampleprograms.io/projects/convex-hull/pascal)
-- [Convex Hull in Php](https://sampleprograms.io/projects/convex-hull/php)
-- [Convex Hull in Powershell](https://sampleprograms.io/projects/convex-hull/powershell)
+- [Convex Hull in PowerShell](https://sampleprograms.io/projects/convex-hull/powershell)
 - [Convex Hull in Python](https://sampleprograms.io/projects/convex-hull/python)
 - [Convex Hull in Rust](https://sampleprograms.io/projects/convex-hull/rust)
 - [Convex Hull in Tcl](https://sampleprograms.io/projects/convex-hull/tcl)
+- [Convex Hull in m4](https://sampleprograms.io/projects/convex-hull/m4)
 
 ***
 

@@ -106,23 +106,23 @@ Usage: please provide a list of integers (e.g. "8, 3, 1, 2")
 
 There are 17 articles:
 
-- [Maximum Array Rotation in Algol68](https://sampleprograms.io/projects/maximum-array-rotation/algol68)
-- [Maximum Array Rotation in Awk](https://sampleprograms.io/projects/maximum-array-rotation/awk)
+- [Maximum Array Rotation in ALGOL 68](https://sampleprograms.io/projects/maximum-array-rotation/algol68)
+- [Maximum Array Rotation in AWK](https://sampleprograms.io/projects/maximum-array-rotation/awk)
 - [Maximum Array Rotation in Beef](https://sampleprograms.io/projects/maximum-array-rotation/beef)
 - [Maximum Array Rotation in C](https://sampleprograms.io/projects/maximum-array-rotation/c)
 - [Maximum Array Rotation in C#](https://sampleprograms.io/projects/maximum-array-rotation/c-sharp)
 - [Maximum Array Rotation in C++](https://sampleprograms.io/projects/maximum-array-rotation/c-plus-plus)
-- [Maximum Array Rotation in Commodore Basic](https://sampleprograms.io/projects/maximum-array-rotation/commodore-basic)
+- [Maximum Array Rotation in Commodore BASIC](https://sampleprograms.io/projects/maximum-array-rotation/commodore-basic)
 - [Maximum Array Rotation in Euphoria](https://sampleprograms.io/projects/maximum-array-rotation/euphoria)
 - [Maximum Array Rotation in Go](https://sampleprograms.io/projects/maximum-array-rotation/go)
-- [Maximum Array Rotation in M4](https://sampleprograms.io/projects/maximum-array-rotation/m4)
 - [Maximum Array Rotation in Mathematica](https://sampleprograms.io/projects/maximum-array-rotation/mathematica)
+- [Maximum Array Rotation in PHP](https://sampleprograms.io/projects/maximum-array-rotation/php)
 - [Maximum Array Rotation in Pascal](https://sampleprograms.io/projects/maximum-array-rotation/pascal)
-- [Maximum Array Rotation in Php](https://sampleprograms.io/projects/maximum-array-rotation/php)
-- [Maximum Array Rotation in Powershell](https://sampleprograms.io/projects/maximum-array-rotation/powershell)
+- [Maximum Array Rotation in PowerShell](https://sampleprograms.io/projects/maximum-array-rotation/powershell)
 - [Maximum Array Rotation in Python](https://sampleprograms.io/projects/maximum-array-rotation/python)
 - [Maximum Array Rotation in Rust](https://sampleprograms.io/projects/maximum-array-rotation/rust)
 - [Maximum Array Rotation in Tcl](https://sampleprograms.io/projects/maximum-array-rotation/tcl)
+- [Maximum Array Rotation in m4](https://sampleprograms.io/projects/maximum-array-rotation/m4)
 
 ***
 

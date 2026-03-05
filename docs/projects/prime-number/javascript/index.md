@@ -10,7 +10,7 @@ layout: default
 tags:
 - javascript
 - prime-number
-title: Prime Number in Javascript
+title: Prime Number in JavaScript
 ---
 
 <!--
@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -56,7 +56,7 @@ const isPrime = (number) => {
 
 {% endraw %}
 
-Prime Number in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Prime Number in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Ganesh Naik
 - Jayden Thrasher

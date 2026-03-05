@@ -8,7 +8,7 @@ layout: default
 tags:
 - fraction-math
 - php
-title: Fraction Math in Php
+title: Fraction Math in PHP
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [PHP](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -254,7 +254,7 @@ show_fraction_result($result);
 
 {% endraw %}
 
-Fraction Math in [Php](https://sampleprograms.io/languages/php) was written by:
+Fraction Math in [PHP](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

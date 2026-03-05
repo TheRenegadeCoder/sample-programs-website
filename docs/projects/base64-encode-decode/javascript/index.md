@@ -8,7 +8,7 @@ layout: default
 tags:
 - base64-encode-decode
 - javascript
-title: Base64 Encode Decode in Javascript
+title: Base64 Encode Decode in JavaScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Base64 Encode Decode](https://sampleprograms.io/projects/base64-encode-decode) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Base64 Encode Decode](https://sampleprograms.io/projects/base64-encode-decode) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -94,7 +94,7 @@ if (require.main === module) {
 
 {% endraw %}
 
-Base64 Encode Decode in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Base64 Encode Decode in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Eshaan Walia
 

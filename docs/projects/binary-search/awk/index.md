@@ -8,7 +8,7 @@ layout: default
 tags:
 - awk
 - binary-search
-title: Binary Search in Awk
+title: Binary Search in AWK
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Awk](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [AWK](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -104,7 +104,7 @@ BEGIN {
 
 {% endraw %}
 
-Binary Search in [Awk](https://sampleprograms.io/languages/awk) was written by:
+Binary Search in [AWK](https://sampleprograms.io/languages/awk) was written by:
 
 - rzuckerm
 

@@ -9,7 +9,7 @@ layout: default
 tags:
 - prime-number
 - typescript
-title: Prime Number in Typescript
+title: Prime Number in TypeScript
 ---
 
 <!--
@@ -23,7 +23,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [TypeScript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -67,7 +67,7 @@ main();
 
 {% endraw %}
 
-Prime Number in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
+Prime Number in [TypeScript](https://sampleprograms.io/languages/typescript) was written by:
 
 - Meet Thakur
 - rzuckerm

@@ -8,7 +8,7 @@ layout: default
 tags:
 - even-odd
 - typescript
-title: Even Odd in Typescript
+title: Even Odd in TypeScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [TypeScript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -42,7 +42,7 @@ console.log(is_even ? "Even" : "Odd");
 
 {% endraw %}
 
-Even Odd in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
+Even Odd in [TypeScript](https://sampleprograms.io/languages/typescript) was written by:
 
 - Vipin Yadav
 

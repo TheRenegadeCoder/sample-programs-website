@@ -8,7 +8,7 @@ layout: default
 tags:
 - javascript
 - josephus-problem
-title: Josephus Problem in Javascript
+title: Josephus Problem in JavaScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -50,7 +50,7 @@ console.log(josephus(n, k));
 
 {% endraw %}
 
-Josephus Problem in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Josephus Problem in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Matteo Planchet
 

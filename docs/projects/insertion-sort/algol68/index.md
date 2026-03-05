@@ -8,7 +8,7 @@ layout: default
 tags:
 - algol68
 - insertion-sort
-title: Insertion Sort in Algol68
+title: Insertion Sort in ALGOL 68
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```algol68
+```algol_68
 MODE PARSEINT_RESULT = STRUCT(BOOL valid, INT value, STRING leftover);
 MODE PARSEINTLIST_RESULT = STRUCT(BOOL valid, REF []INT values);
 
@@ -184,7 +184,7 @@ show list values(values)
 
 {% endraw %}
 
-Insertion Sort in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Insertion Sort in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

@@ -8,7 +8,7 @@ layout: default
 tags:
 - hello-world
 - ti-basic
-title: Hello World in Ti Basic
+title: Hello World in TI-BASIC
 ---
 
 <!--
@@ -22,20 +22,20 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Ti Basic](https://sampleprograms.io/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [TI-BASIC](https://sampleprograms.io/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```ti_basic
+```ti-basic
 Disp "Hello, World!"
 
 ```
 
 {% endraw %}
 
-Hello World in [Ti Basic](https://sampleprograms.io/languages/ti-basic) was written by:
+Hello World in [TI-BASIC](https://sampleprograms.io/languages/ti-basic) was written by:
 
 - rzuckerm
 

@@ -8,7 +8,7 @@ layout: default
 tags:
 - binary-search
 - powershell
-title: Binary Search in Powershell
+title: Binary Search in PowerShell
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -74,7 +74,7 @@ Write-Output (($idx -ge 0) ? "true" : "false")
 
 {% endraw %}
 
-Binary Search in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
+Binary Search in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
 
 - rzuckerm
 

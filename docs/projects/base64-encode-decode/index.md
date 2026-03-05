@@ -324,23 +324,23 @@ Usage: please provide a mode and a string to encode/decode
 
 There are 18 articles:
 
-- [Base64 Encode Decode in Algol68](https://sampleprograms.io/projects/base64-encode-decode/algol68)
-- [Base64 Encode Decode in Awk](https://sampleprograms.io/projects/base64-encode-decode/awk)
+- [Base64 Encode Decode in ALGOL 68](https://sampleprograms.io/projects/base64-encode-decode/algol68)
+- [Base64 Encode Decode in AWK](https://sampleprograms.io/projects/base64-encode-decode/awk)
 - [Base64 Encode Decode in Bash](https://sampleprograms.io/projects/base64-encode-decode/bash)
 - [Base64 Encode Decode in Beef](https://sampleprograms.io/projects/base64-encode-decode/beef)
 - [Base64 Encode Decode in C](https://sampleprograms.io/projects/base64-encode-decode/c)
 - [Base64 Encode Decode in C#](https://sampleprograms.io/projects/base64-encode-decode/c-sharp)
-- [Base64 Encode Decode in Commodore Basic](https://sampleprograms.io/projects/base64-encode-decode/commodore-basic)
+- [Base64 Encode Decode in Commodore BASIC](https://sampleprograms.io/projects/base64-encode-decode/commodore-basic)
 - [Base64 Encode Decode in Euphoria](https://sampleprograms.io/projects/base64-encode-decode/euphoria)
 - [Base64 Encode Decode in Go](https://sampleprograms.io/projects/base64-encode-decode/go)
-- [Base64 Encode Decode in Javascript](https://sampleprograms.io/projects/base64-encode-decode/javascript)
+- [Base64 Encode Decode in JavaScript](https://sampleprograms.io/projects/base64-encode-decode/javascript)
+- [Base64 Encode Decode in PHP](https://sampleprograms.io/projects/base64-encode-decode/php)
 - [Base64 Encode Decode in Pascal](https://sampleprograms.io/projects/base64-encode-decode/pascal)
-- [Base64 Encode Decode in Php](https://sampleprograms.io/projects/base64-encode-decode/php)
-- [Base64 Encode Decode in Powershell](https://sampleprograms.io/projects/base64-encode-decode/powershell)
+- [Base64 Encode Decode in PowerShell](https://sampleprograms.io/projects/base64-encode-decode/powershell)
 - [Base64 Encode Decode in Python](https://sampleprograms.io/projects/base64-encode-decode/python)
 - [Base64 Encode Decode in Rust](https://sampleprograms.io/projects/base64-encode-decode/rust)
 - [Base64 Encode Decode in Tcl](https://sampleprograms.io/projects/base64-encode-decode/tcl)
-- [Base64 Encode Decode in Typescript](https://sampleprograms.io/projects/base64-encode-decode/typescript)
+- [Base64 Encode Decode in TypeScript](https://sampleprograms.io/projects/base64-encode-decode/typescript)
 - [Base64 Encode Decode in Zig](https://sampleprograms.io/projects/base64-encode-decode/zig)
 
 ***

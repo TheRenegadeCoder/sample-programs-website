@@ -153,26 +153,26 @@ Usage: please enter the dimension of the matrix and the serialized matrix
 
 There are 20 articles:
 
-- [Transpose Matrix in Algol68](https://sampleprograms.io/projects/transpose-matrix/algol68)
-- [Transpose Matrix in Awk](https://sampleprograms.io/projects/transpose-matrix/awk)
+- [Transpose Matrix in ALGOL 68](https://sampleprograms.io/projects/transpose-matrix/algol68)
+- [Transpose Matrix in AWK](https://sampleprograms.io/projects/transpose-matrix/awk)
 - [Transpose Matrix in Beef](https://sampleprograms.io/projects/transpose-matrix/beef)
 - [Transpose Matrix in C](https://sampleprograms.io/projects/transpose-matrix/c)
 - [Transpose Matrix in C#](https://sampleprograms.io/projects/transpose-matrix/c-sharp)
 - [Transpose Matrix in C++](https://sampleprograms.io/projects/transpose-matrix/c-plus-plus)
-- [Transpose Matrix in Commodore Basic](https://sampleprograms.io/projects/transpose-matrix/commodore-basic)
+- [Transpose Matrix in Commodore BASIC](https://sampleprograms.io/projects/transpose-matrix/commodore-basic)
 - [Transpose Matrix in Euphoria](https://sampleprograms.io/projects/transpose-matrix/euphoria)
 - [Transpose Matrix in Go](https://sampleprograms.io/projects/transpose-matrix/go)
 - [Transpose Matrix in Java](https://sampleprograms.io/projects/transpose-matrix/java)
-- [Transpose Matrix in Javascript](https://sampleprograms.io/projects/transpose-matrix/javascript)
-- [Transpose Matrix in M4](https://sampleprograms.io/projects/transpose-matrix/m4)
+- [Transpose Matrix in JavaScript](https://sampleprograms.io/projects/transpose-matrix/javascript)
 - [Transpose Matrix in Mathematica](https://sampleprograms.io/projects/transpose-matrix/mathematica)
+- [Transpose Matrix in PHP](https://sampleprograms.io/projects/transpose-matrix/php)
 - [Transpose Matrix in Pascal](https://sampleprograms.io/projects/transpose-matrix/pascal)
-- [Transpose Matrix in Php](https://sampleprograms.io/projects/transpose-matrix/php)
-- [Transpose Matrix in Powershell](https://sampleprograms.io/projects/transpose-matrix/powershell)
+- [Transpose Matrix in PowerShell](https://sampleprograms.io/projects/transpose-matrix/powershell)
 - [Transpose Matrix in Python](https://sampleprograms.io/projects/transpose-matrix/python)
 - [Transpose Matrix in Rust](https://sampleprograms.io/projects/transpose-matrix/rust)
 - [Transpose Matrix in Tcl](https://sampleprograms.io/projects/transpose-matrix/tcl)
-- [Transpose Matrix in Typescript](https://sampleprograms.io/projects/transpose-matrix/typescript)
+- [Transpose Matrix in TypeScript](https://sampleprograms.io/projects/transpose-matrix/typescript)
+- [Transpose Matrix in m4](https://sampleprograms.io/projects/transpose-matrix/m4)
 
 ***
 

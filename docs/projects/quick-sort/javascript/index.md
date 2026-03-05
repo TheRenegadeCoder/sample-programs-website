@@ -10,7 +10,7 @@ layout: default
 tags:
 - javascript
 - quick-sort
-title: Quick Sort in Javascript
+title: Quick Sort in JavaScript
 ---
 
 <!--
@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -117,7 +117,7 @@ else {
 
 {% endraw %}
 
-Quick Sort in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Quick Sort in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Gurmeet
 - Gurmeet Singh

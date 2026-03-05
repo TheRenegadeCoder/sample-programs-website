@@ -116,27 +116,27 @@ Usage: please provide a list of profits and a list of deadlines
 
 There are 21 articles:
 
-- [Job Sequencing in Algol68](https://sampleprograms.io/projects/job-sequencing/algol68)
-- [Job Sequencing in Awk](https://sampleprograms.io/projects/job-sequencing/awk)
+- [Job Sequencing in ALGOL 68](https://sampleprograms.io/projects/job-sequencing/algol68)
+- [Job Sequencing in AWK](https://sampleprograms.io/projects/job-sequencing/awk)
 - [Job Sequencing in Beef](https://sampleprograms.io/projects/job-sequencing/beef)
 - [Job Sequencing in C](https://sampleprograms.io/projects/job-sequencing/c)
 - [Job Sequencing in C#](https://sampleprograms.io/projects/job-sequencing/c-sharp)
 - [Job Sequencing in C++](https://sampleprograms.io/projects/job-sequencing/c-plus-plus)
-- [Job Sequencing in Commodore Basic](https://sampleprograms.io/projects/job-sequencing/commodore-basic)
+- [Job Sequencing in Commodore BASIC](https://sampleprograms.io/projects/job-sequencing/commodore-basic)
 - [Job Sequencing in Euphoria](https://sampleprograms.io/projects/job-sequencing/euphoria)
 - [Job Sequencing in Go](https://sampleprograms.io/projects/job-sequencing/go)
 - [Job Sequencing in Haskell](https://sampleprograms.io/projects/job-sequencing/haskell)
 - [Job Sequencing in Java](https://sampleprograms.io/projects/job-sequencing/java)
-- [Job Sequencing in Javascript](https://sampleprograms.io/projects/job-sequencing/javascript)
+- [Job Sequencing in JavaScript](https://sampleprograms.io/projects/job-sequencing/javascript)
 - [Job Sequencing in Kotlin](https://sampleprograms.io/projects/job-sequencing/kotlin)
-- [Job Sequencing in M4](https://sampleprograms.io/projects/job-sequencing/m4)
 - [Job Sequencing in Mathematica](https://sampleprograms.io/projects/job-sequencing/mathematica)
+- [Job Sequencing in PHP](https://sampleprograms.io/projects/job-sequencing/php)
 - [Job Sequencing in Pascal](https://sampleprograms.io/projects/job-sequencing/pascal)
-- [Job Sequencing in Php](https://sampleprograms.io/projects/job-sequencing/php)
-- [Job Sequencing in Powershell](https://sampleprograms.io/projects/job-sequencing/powershell)
+- [Job Sequencing in PowerShell](https://sampleprograms.io/projects/job-sequencing/powershell)
 - [Job Sequencing in Python](https://sampleprograms.io/projects/job-sequencing/python)
 - [Job Sequencing in Rust](https://sampleprograms.io/projects/job-sequencing/rust)
 - [Job Sequencing in Tcl](https://sampleprograms.io/projects/job-sequencing/tcl)
+- [Job Sequencing in m4](https://sampleprograms.io/projects/job-sequencing/m4)
 
 ***
 

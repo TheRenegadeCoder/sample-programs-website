@@ -8,7 +8,7 @@ layout: default
 tags:
 - josephus-problem
 - php
-title: Josephus Problem in Php
+title: Josephus Problem in PHP
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [PHP](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -108,7 +108,7 @@ echo "$g\n";
 
 {% endraw %}
 
-Josephus Problem in [Php](https://sampleprograms.io/languages/php) was written by:
+Josephus Problem in [PHP](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

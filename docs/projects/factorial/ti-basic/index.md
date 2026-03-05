@@ -8,7 +8,7 @@ layout: default
 tags:
 - factorial
 - ti-basic
-title: Factorial in Ti Basic
+title: Factorial in TI-BASIC
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Ti Basic](https://sampleprograms.io/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [TI-BASIC](https://sampleprograms.io/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```ti_basic
+```ti-basic
 Input "",Str1
 "0123456789"->Str2
 length(Str1)->L
@@ -61,7 +61,7 @@ End
 
 {% endraw %}
 
-Factorial in [Ti Basic](https://sampleprograms.io/languages/ti-basic) was written by:
+Factorial in [TI-BASIC](https://sampleprograms.io/languages/ti-basic) was written by:
 
 - rzuckerm
 

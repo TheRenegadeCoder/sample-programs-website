@@ -10,7 +10,7 @@ layout: default
 tags:
 - php
 - roman-numeral
-title: Roman Numeral in Php
+title: Roman Numeral in PHP
 ---
 
 <!--
@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [PHP](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -94,7 +94,7 @@ try {
 
 {% endraw %}
 
-Roman Numeral in [Php](https://sampleprograms.io/languages/php) was written by:
+Roman Numeral in [PHP](https://sampleprograms.io/languages/php) was written by:
 
 - Jeremy Grifski
 - Juan D Frias

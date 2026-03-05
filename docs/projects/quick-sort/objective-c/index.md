@@ -9,7 +9,7 @@ layout: default
 tags:
 - objective-c
 - quick-sort
-title: Quick Sort in Objective C
+title: Quick Sort in Objective-C
 ---
 
 <!--
@@ -23,13 +23,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Objective C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Objective-C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```objective_c
+```objective-c
 //
 //  main.m
 //
@@ -148,7 +148,7 @@ int main(int argc, char *argv[]) {
 
 {% endraw %}
 
-Quick Sort in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
+Quick Sort in [Objective-C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - niftycode
 - rzuckerm

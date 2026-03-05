@@ -8,7 +8,7 @@ layout: default
 tags:
 - m4
 - maximum-array-rotation
-title: Maximum Array Rotation in M4
+title: Maximum Array Rotation in m4
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [M4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [m4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -106,7 +106,7 @@ maximum_array_rotation(`arr')
 
 {% endraw %}
 
-Maximum Array Rotation in [M4](https://sampleprograms.io/languages/m4) was written by:
+Maximum Array Rotation in [m4](https://sampleprograms.io/languages/m4) was written by:
 
 - rzuckerm
 

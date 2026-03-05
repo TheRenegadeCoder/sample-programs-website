@@ -7,7 +7,7 @@ last-modified: 2025-10-05
 layout: default
 tags:
 - gnu-make
-title: The Gnu Make Programming Language
+title: The GNU Make Programming Language
 ---
 
 <!--
@@ -20,7 +20,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the Gnu Make page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+Welcome to the GNU Make page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 This article was written by:
 
@@ -111,12 +111,12 @@ Loops can be simulated using macros that invoke themselves recursively.
 
 There are 9 articles:
 
-- [Baklava in Gnu Make](https://sampleprograms.io/projects/baklava/gnu-make)
-- [Capitalize in Gnu Make](https://sampleprograms.io/projects/capitalize/gnu-make)
-- [Even Odd in Gnu Make](https://sampleprograms.io/projects/even-odd/gnu-make)
-- [File Input Output in Gnu Make](https://sampleprograms.io/projects/file-input-output/gnu-make)
-- [Fizz Buzz in Gnu Make](https://sampleprograms.io/projects/fizz-buzz/gnu-make)
-- [Hello World in Gnu Make](https://sampleprograms.io/projects/hello-world/gnu-make)
-- [Prime Number in Gnu Make](https://sampleprograms.io/projects/prime-number/gnu-make)
-- [Quine in Gnu Make](https://sampleprograms.io/projects/quine/gnu-make)
-- [Remove All Whitespace in Gnu Make](https://sampleprograms.io/projects/remove-all-whitespace/gnu-make)
+- [Baklava in GNU Make](https://sampleprograms.io/projects/baklava/gnu-make)
+- [Capitalize in GNU Make](https://sampleprograms.io/projects/capitalize/gnu-make)
+- [Even Odd in GNU Make](https://sampleprograms.io/projects/even-odd/gnu-make)
+- [File Input Output in GNU Make](https://sampleprograms.io/projects/file-input-output/gnu-make)
+- [Fizz Buzz in GNU Make](https://sampleprograms.io/projects/fizz-buzz/gnu-make)
+- [Hello World in GNU Make](https://sampleprograms.io/projects/hello-world/gnu-make)
+- [Prime Number in GNU Make](https://sampleprograms.io/projects/prime-number/gnu-make)
+- [Quine in GNU Make](https://sampleprograms.io/projects/quine/gnu-make)
+- [Remove All Whitespace in GNU Make](https://sampleprograms.io/projects/remove-all-whitespace/gnu-make)

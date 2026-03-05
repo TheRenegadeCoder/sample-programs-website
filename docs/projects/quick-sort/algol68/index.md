@@ -8,7 +8,7 @@ layout: default
 tags:
 - algol68
 - quick-sort
-title: Quick Sort in Algol68
+title: Quick Sort in ALGOL 68
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```algol68
+```algol_68
 MODE PARSEINT_RESULT = STRUCT(BOOL valid, INT value, STRING leftover);
 MODE PARSEINTLIST_RESULT = STRUCT(BOOL valid, REF []INT values);
 
@@ -218,7 +218,7 @@ show list values(values)
 
 {% endraw %}
 
-Quick Sort in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Quick Sort in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

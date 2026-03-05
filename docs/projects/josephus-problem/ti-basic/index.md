@@ -8,7 +8,7 @@ layout: default
 tags:
 - josephus-problem
 - ti-basic
-title: Josephus Problem in Ti Basic
+title: Josephus Problem in TI-BASIC
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Ti Basic](https://sampleprograms.io/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [TI-BASIC](https://sampleprograms.io/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```ti_basic
+```ti-basic
 "0123456789"->Str2
 2->dim(l1)
 1->M
@@ -77,7 +77,7 @@ End
 
 {% endraw %}
 
-Josephus Problem in [Ti Basic](https://sampleprograms.io/languages/ti-basic) was written by:
+Josephus Problem in [TI-BASIC](https://sampleprograms.io/languages/ti-basic) was written by:
 
 - rzuckerm
 

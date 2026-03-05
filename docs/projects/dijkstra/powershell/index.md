@@ -8,7 +8,7 @@ layout: default
 tags:
 - dijkstra
 - powershell
-title: Dijkstra in Powershell
+title: Dijkstra in PowerShell
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -177,7 +177,7 @@ Write-Output $results[$dest].Dist
 
 {% endraw %}
 
-Dijkstra in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
+Dijkstra in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
 
 - rzuckerm
 

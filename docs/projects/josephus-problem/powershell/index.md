@@ -8,7 +8,7 @@ layout: default
 tags:
 - josephus-problem
 - powershell
-title: Josephus Problem in Powershell
+title: Josephus Problem in PowerShell
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -70,7 +70,7 @@ Write-Host (Get-JosephusProblem $N $K)
 
 {% endraw %}
 
-Josephus Problem in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
+Josephus Problem in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
 
 - rzuckerm
 

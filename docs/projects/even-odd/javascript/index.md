@@ -8,7 +8,7 @@ layout: default
 tags:
 - even-odd
 - javascript
-title: Even Odd in Javascript
+title: Even Odd in JavaScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -40,7 +40,7 @@ if(!Number.isInteger(input)){ //if there is no input, input = undefined and the 
 
 {% endraw %}
 
-Even Odd in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Even Odd in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Manan Gill
 

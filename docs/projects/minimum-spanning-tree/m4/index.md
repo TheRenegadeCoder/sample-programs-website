@@ -8,7 +8,7 @@ layout: default
 tags:
 - m4
 - minimum-spanning-tree
-title: Minimum Spanning Tree in M4
+title: Minimum Spanning Tree in m4
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [M4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [m4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -300,7 +300,7 @@ get_total_mst_weight(`mst')
 
 {% endraw %}
 
-Minimum Spanning Tree in [M4](https://sampleprograms.io/languages/m4) was written by:
+Minimum Spanning Tree in [m4](https://sampleprograms.io/languages/m4) was written by:
 
 - rzuckerm
 

@@ -8,7 +8,7 @@ layout: default
 tags:
 - algol68
 - baklava
-title: Baklava in Algol68
+title: Baklava in ALGOL 68
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```algol68
+```algol_68
 FOR n FROM -10 TO 10
 DO
     INT num spaces := ABS n;
@@ -39,7 +39,7 @@ OD
 
 {% endraw %}
 
-Baklava in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Baklava in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

@@ -8,7 +8,7 @@ layout: default
 tags:
 - baklava
 - javascript
-title: Baklava in Javascript
+title: Baklava in JavaScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -43,7 +43,7 @@ for (var i = 10; -1 < i; i--)
 
 {% endraw %}
 
-Baklava in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Baklava in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Jeremy Grifski
 

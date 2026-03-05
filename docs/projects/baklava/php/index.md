@@ -8,7 +8,7 @@ layout: default
 tags:
 - baklava
 - php
-title: Baklava in Php
+title: Baklava in PHP
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [PHP](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -43,7 +43,7 @@ for ($i = 10;-1 < $i; $i--) {
 
 {% endraw %}
 
-Baklava in [Php](https://sampleprograms.io/languages/php) was written by:
+Baklava in [PHP](https://sampleprograms.io/languages/php) was written by:
 
 - Jeremy Grifski
 

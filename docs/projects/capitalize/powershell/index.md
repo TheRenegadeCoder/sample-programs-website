@@ -8,7 +8,7 @@ layout: default
 tags:
 - capitalize
 - powershell
-title: Capitalize in Powershell
+title: Capitalize in PowerShell
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -48,7 +48,7 @@ Write-Host (Get-Capitalize $args[0])
 
 {% endraw %}
 
-Capitalize in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
+Capitalize in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
 
 - rzuckerm
 

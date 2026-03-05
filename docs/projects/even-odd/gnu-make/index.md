@@ -8,7 +8,7 @@ layout: default
 tags:
 - even-odd
 - gnu-make
-title: Even Odd in Gnu Make
+title: Even Odd in GNU Make
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Gnu Make](https://sampleprograms.io/languages/gnu-make) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [GNU Make](https://sampleprograms.io/languages/gnu-make) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -89,7 +89,7 @@ all: ;@:
 
 {% endraw %}
 
-Even Odd in [Gnu Make](https://sampleprograms.io/languages/gnu-make) was written by:
+Even Odd in [GNU Make](https://sampleprograms.io/languages/gnu-make) was written by:
 
 - rzuckerm
 

@@ -8,7 +8,7 @@ layout: default
 tags:
 - duplicate-character-counter
 - m4
-title: Duplicate Character Counter in M4
+title: Duplicate Character Counter in m4
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [M4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [m4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -85,7 +85,7 @@ show_duplicate_char_counts(ARGV1, `counts')dnl
 
 {% endraw %}
 
-Duplicate Character Counter in [M4](https://sampleprograms.io/languages/m4) was written by:
+Duplicate Character Counter in [m4](https://sampleprograms.io/languages/m4) was written by:
 
 - rzuckerm
 

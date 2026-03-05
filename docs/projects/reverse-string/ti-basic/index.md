@@ -8,7 +8,7 @@ layout: default
 tags:
 - reverse-string
 - ti-basic
-title: Reverse String in Ti Basic
+title: Reverse String in TI-BASIC
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Ti Basic](https://sampleprograms.io/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [TI-BASIC](https://sampleprograms.io/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```ti_basic
+```ti-basic
 Input "",Str1
 ""->Str2
 For(N,length(Str1),1,-1)
@@ -40,7 +40,7 @@ Disp Str2
 
 {% endraw %}
 
-Reverse String in [Ti Basic](https://sampleprograms.io/languages/ti-basic) was written by:
+Reverse String in [TI-BASIC](https://sampleprograms.io/languages/ti-basic) was written by:
 
 - rzuckerm
 

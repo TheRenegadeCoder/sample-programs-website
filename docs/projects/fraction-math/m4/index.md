@@ -8,7 +8,7 @@ layout: default
 tags:
 - fraction-math
 - m4
-title: Fraction Math in M4
+title: Fraction Math in m4
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [M4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [m4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -140,7 +140,7 @@ fraction_to_string(`result')
 
 {% endraw %}
 
-Fraction Math in [M4](https://sampleprograms.io/languages/m4) was written by:
+Fraction Math in [m4](https://sampleprograms.io/languages/m4) was written by:
 
 - rzuckerm
 

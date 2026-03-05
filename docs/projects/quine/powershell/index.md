@@ -8,7 +8,7 @@ layout: default
 tags:
 - powershell
 - quine
-title: Quine in Powershell
+title: Quine in PowerShell
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -36,7 +36,7 @@ Write-Host ($S -f [string][char]39,$S,[string][char]10)
 
 {% endraw %}
 
-Quine in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
+Quine in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
 
 - rzuckerm
 

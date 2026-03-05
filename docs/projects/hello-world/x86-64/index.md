@@ -8,7 +8,7 @@ layout: default
 tags:
 - hello-world
 - x86-64
-title: Hello World in X86 64
+title: Hello World in x86-64
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [X86 64](https://sampleprograms.io/languages/x86-64) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [x86-64](https://sampleprograms.io/languages/x86-64) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```x86_64
+```x86-64
 section .rodata
     message db 'Hello, World!'
     message_len equ $-message
@@ -52,7 +52,7 @@ _start:
 
 {% endraw %}
 
-Hello World in [X86 64](https://sampleprograms.io/languages/x86-64) was written by:
+Hello World in [x86-64](https://sampleprograms.io/languages/x86-64) was written by:
 
 - alope107
 

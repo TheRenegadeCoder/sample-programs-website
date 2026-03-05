@@ -10,7 +10,7 @@ layout: default
 tags:
 - algol68
 - hello-world
-title: Hello World in Algol68
+title: Hello World in ALGOL 68
 ---
 
 <!--
@@ -24,20 +24,20 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```algol68
+```algol_68
 printf(($gl$, "Hello, World!"))
 
 ```
 
 {% endraw %}
 
-Hello World in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Hello World in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
 
 - Jeremy Grifski
 

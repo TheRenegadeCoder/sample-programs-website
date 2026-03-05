@@ -100,28 +100,28 @@ Usage: please provide two lists in the format "1, 2, 3, 4, 5"
 
 There are 22 articles:
 
-- [Longest Common Subsequence in Algol68](https://sampleprograms.io/projects/longest-common-subsequence/algol68)
-- [Longest Common Subsequence in Awk](https://sampleprograms.io/projects/longest-common-subsequence/awk)
+- [Longest Common Subsequence in ALGOL 68](https://sampleprograms.io/projects/longest-common-subsequence/algol68)
+- [Longest Common Subsequence in AWK](https://sampleprograms.io/projects/longest-common-subsequence/awk)
 - [Longest Common Subsequence in Beef](https://sampleprograms.io/projects/longest-common-subsequence/beef)
 - [Longest Common Subsequence in C](https://sampleprograms.io/projects/longest-common-subsequence/c)
 - [Longest Common Subsequence in C#](https://sampleprograms.io/projects/longest-common-subsequence/c-sharp)
 - [Longest Common Subsequence in C++](https://sampleprograms.io/projects/longest-common-subsequence/c-plus-plus)
-- [Longest Common Subsequence in Commodore Basic](https://sampleprograms.io/projects/longest-common-subsequence/commodore-basic)
+- [Longest Common Subsequence in Commodore BASIC](https://sampleprograms.io/projects/longest-common-subsequence/commodore-basic)
 - [Longest Common Subsequence in Elixir](https://sampleprograms.io/projects/longest-common-subsequence/elixir)
 - [Longest Common Subsequence in Euphoria](https://sampleprograms.io/projects/longest-common-subsequence/euphoria)
 - [Longest Common Subsequence in Go](https://sampleprograms.io/projects/longest-common-subsequence/go)
 - [Longest Common Subsequence in Haskell](https://sampleprograms.io/projects/longest-common-subsequence/haskell)
 - [Longest Common Subsequence in Java](https://sampleprograms.io/projects/longest-common-subsequence/java)
-- [Longest Common Subsequence in Javascript](https://sampleprograms.io/projects/longest-common-subsequence/javascript)
+- [Longest Common Subsequence in JavaScript](https://sampleprograms.io/projects/longest-common-subsequence/javascript)
 - [Longest Common Subsequence in Kotlin](https://sampleprograms.io/projects/longest-common-subsequence/kotlin)
-- [Longest Common Subsequence in M4](https://sampleprograms.io/projects/longest-common-subsequence/m4)
 - [Longest Common Subsequence in Mathematica](https://sampleprograms.io/projects/longest-common-subsequence/mathematica)
+- [Longest Common Subsequence in PHP](https://sampleprograms.io/projects/longest-common-subsequence/php)
 - [Longest Common Subsequence in Pascal](https://sampleprograms.io/projects/longest-common-subsequence/pascal)
-- [Longest Common Subsequence in Php](https://sampleprograms.io/projects/longest-common-subsequence/php)
-- [Longest Common Subsequence in Powershell](https://sampleprograms.io/projects/longest-common-subsequence/powershell)
+- [Longest Common Subsequence in PowerShell](https://sampleprograms.io/projects/longest-common-subsequence/powershell)
 - [Longest Common Subsequence in Python](https://sampleprograms.io/projects/longest-common-subsequence/python)
 - [Longest Common Subsequence in Rust](https://sampleprograms.io/projects/longest-common-subsequence/rust)
 - [Longest Common Subsequence in Tcl](https://sampleprograms.io/projects/longest-common-subsequence/tcl)
+- [Longest Common Subsequence in m4](https://sampleprograms.io/projects/longest-common-subsequence/m4)
 
 ***
 

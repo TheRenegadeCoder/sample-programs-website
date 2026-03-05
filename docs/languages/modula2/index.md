@@ -5,7 +5,7 @@ last-modified: 2024-12-23
 layout: default
 tags:
 - modula2
-title: The Modula2 Programming Language
+title: The Modula-2 Programming Language
 ---
 
 <!--
@@ -18,7 +18,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the Modula2 page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+Welcome to the Modula-2 page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 ## Description
 
@@ -28,5 +28,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Modula2](https://sampleprograms.io/projects/baklava/modula2)
-- [Hello World in Modula2](https://sampleprograms.io/projects/hello-world/modula2)
+- [Baklava in Modula-2](https://sampleprograms.io/projects/baklava/modula2)
+- [Hello World in Modula-2](https://sampleprograms.io/projects/hello-world/modula2)

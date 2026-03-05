@@ -8,7 +8,7 @@ layout: default
 tags:
 - algol68
 - even-odd
-title: Even Odd in Algol68
+title: Even Odd in ALGOL 68
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```algol68
+```algol_68
 MODE PARSEINT_RESULT = STRUCT(BOOL valid, INT value, STRING leftover);
 
 PROC parse int = (REF STRING s) PARSEINT_RESULT:
@@ -91,7 +91,7 @@ printf(($gl$, (n MOD 2 = 0 | "Even" | "Odd")))
 
 {% endraw %}
 
-Even Odd in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Even Odd in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

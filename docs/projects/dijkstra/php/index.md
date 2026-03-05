@@ -8,7 +8,7 @@ layout: default
 tags:
 - dijkstra
 - php
-title: Dijkstra in Php
+title: Dijkstra in PHP
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [PHP](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -282,7 +282,7 @@ printf("%d\n", $results[$dest]->dist);
 
 {% endraw %}
 
-Dijkstra in [Php](https://sampleprograms.io/languages/php) was written by:
+Dijkstra in [PHP](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

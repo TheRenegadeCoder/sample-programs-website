@@ -9,7 +9,7 @@ layout: default
 tags:
 - fibonacci
 - objective-c
-title: Fibonacci in Objective C
+title: Fibonacci in Objective-C
 ---
 
 <!--
@@ -23,13 +23,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Objective C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Objective-C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```objective_c
+```objective-c
 #import <Foundation/Foundation.h>
 
 // Function to convert and validate the input string
@@ -88,7 +88,7 @@ int main(int argc, const char * argv[]) {
 
 {% endraw %}
 
-Fibonacci in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
+Fibonacci in [Objective-C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - Renato
 - rzuckerm

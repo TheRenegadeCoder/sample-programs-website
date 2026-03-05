@@ -8,7 +8,7 @@ layout: default
 tags:
 - hello-world
 - php
-title: Hello World in Php
+title: Hello World in PHP
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [PHP](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -35,7 +35,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 {% endraw %}
 
-Hello World in [Php](https://sampleprograms.io/languages/php) was written by:
+Hello World in [PHP](https://sampleprograms.io/languages/php) was written by:
 
 - Jeremy Griffith
 

@@ -8,7 +8,7 @@ layout: default
 tags:
 - javascript
 - rot13
-title: Rot13 in Javascript
+title: Rot13 in JavaScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -69,7 +69,7 @@ main(process.argv[2]);
 
 {% endraw %}
 
-Rot13 in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Rot13 in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
 
 - mericleac
 

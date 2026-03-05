@@ -9,7 +9,7 @@ layout: default
 tags:
 - hello-world
 - purescript
-title: Hello World in Purescript
+title: Hello World in PureScript
 ---
 
 <!--
@@ -23,7 +23,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Purescript](https://sampleprograms.io/languages/purescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [PureScript](https://sampleprograms.io/languages/purescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -44,7 +44,7 @@ main = do
 
 {% endraw %}
 
-Hello World in [Purescript](https://sampleprograms.io/languages/purescript) was written by:
+Hello World in [PureScript](https://sampleprograms.io/languages/purescript) was written by:
 
 - Parker Johansen
 - rzuckerm

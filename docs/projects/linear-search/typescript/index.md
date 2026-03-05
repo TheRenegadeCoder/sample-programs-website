@@ -8,7 +8,7 @@ layout: default
 tags:
 - linear-search
 - typescript
-title: Linear Search in Typescript
+title: Linear Search in TypeScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search) in [TypeScript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -56,7 +56,7 @@ console.log(found ? "true" : "false");
 
 {% endraw %}
 
-Linear Search in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
+Linear Search in [TypeScript](https://sampleprograms.io/languages/typescript) was written by:
 
 - Vipin Yadav
 

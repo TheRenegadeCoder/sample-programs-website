@@ -8,7 +8,7 @@ layout: default
 tags:
 - cobol
 - factorial
-title: Factorial in Cobol
+title: Factorial in COBOL
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Cobol](https://sampleprograms.io/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [COBOL](https://sampleprograms.io/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -86,7 +86,7 @@ Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Cob
 
 {% endraw %}
 
-Factorial in [Cobol](https://sampleprograms.io/languages/cobol) was written by:
+Factorial in [COBOL](https://sampleprograms.io/languages/cobol) was written by:
 
 - Sudhanshu Dubey
 

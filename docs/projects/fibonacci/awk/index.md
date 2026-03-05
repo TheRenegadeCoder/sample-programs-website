@@ -8,7 +8,7 @@ layout: default
 tags:
 - awk
 - fibonacci
-title: Fibonacci in Awk
+title: Fibonacci in AWK
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Awk](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [AWK](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -66,7 +66,7 @@ BEGIN {
 
 {% endraw %}
 
-Fibonacci in [Awk](https://sampleprograms.io/languages/awk) was written by:
+Fibonacci in [AWK](https://sampleprograms.io/languages/awk) was written by:
 
 - rzuckerm
 

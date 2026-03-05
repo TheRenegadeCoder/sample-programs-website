@@ -7,7 +7,7 @@ last-modified: 2026-01-20
 layout: default
 tags:
 - algol68
-title: The Algol68 Programming Language
+title: The ALGOL 68 Programming Language
 ---
 
 <!--
@@ -20,7 +20,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the Algol68 page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+Welcome to the ALGOL 68 page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 This article was written by:
 
@@ -52,42 +52,42 @@ for the full syntax and features list.
 
 There are 39 articles:
 
-- [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
-- [Base64 Encode Decode in Algol68](https://sampleprograms.io/projects/base64-encode-decode/algol68)
-- [Binary Search in Algol68](https://sampleprograms.io/projects/binary-search/algol68)
-- [Bubble Sort in Algol68](https://sampleprograms.io/projects/bubble-sort/algol68)
-- [Capitalize in Algol68](https://sampleprograms.io/projects/capitalize/algol68)
-- [Convex Hull in Algol68](https://sampleprograms.io/projects/convex-hull/algol68)
-- [Depth First Search in Algol68](https://sampleprograms.io/projects/depth-first-search/algol68)
-- [Dijkstra in Algol68](https://sampleprograms.io/projects/dijkstra/algol68)
-- [Duplicate Character Counter in Algol68](https://sampleprograms.io/projects/duplicate-character-counter/algol68)
-- [Even Odd in Algol68](https://sampleprograms.io/projects/even-odd/algol68)
-- [Factorial in Algol68](https://sampleprograms.io/projects/factorial/algol68)
-- [Fibonacci in Algol68](https://sampleprograms.io/projects/fibonacci/algol68)
-- [File Input Output in Algol68](https://sampleprograms.io/projects/file-input-output/algol68)
-- [Fizz Buzz in Algol68](https://sampleprograms.io/projects/fizz-buzz/algol68)
-- [Fraction Math in Algol68](https://sampleprograms.io/projects/fraction-math/algol68)
-- [Hello World in Algol68](https://sampleprograms.io/projects/hello-world/algol68)
-- [Insertion Sort in Algol68](https://sampleprograms.io/projects/insertion-sort/algol68)
-- [Job Sequencing in Algol68](https://sampleprograms.io/projects/job-sequencing/algol68)
-- [Josephus Problem in Algol68](https://sampleprograms.io/projects/josephus-problem/algol68)
-- [Linear Search in Algol68](https://sampleprograms.io/projects/linear-search/algol68)
-- [Longest Common Subsequence in Algol68](https://sampleprograms.io/projects/longest-common-subsequence/algol68)
-- [Longest Palindromic Substring in Algol68](https://sampleprograms.io/projects/longest-palindromic-substring/algol68)
-- [Longest Word in Algol68](https://sampleprograms.io/projects/longest-word/algol68)
-- [Maximum Array Rotation in Algol68](https://sampleprograms.io/projects/maximum-array-rotation/algol68)
-- [Maximum Subarray in Algol68](https://sampleprograms.io/projects/maximum-subarray/algol68)
-- [Merge Sort in Algol68](https://sampleprograms.io/projects/merge-sort/algol68)
-- [Minimum Spanning Tree in Algol68](https://sampleprograms.io/projects/minimum-spanning-tree/algol68)
-- [Palindromic Number in Algol68](https://sampleprograms.io/projects/palindromic-number/algol68)
-- [Prime Number in Algol68](https://sampleprograms.io/projects/prime-number/algol68)
-- [Quick Sort in Algol68](https://sampleprograms.io/projects/quick-sort/algol68)
-- [Quine in Algol68](https://sampleprograms.io/projects/quine/algol68)
-- [Remove All Whitespace in Algol68](https://sampleprograms.io/projects/remove-all-whitespace/algol68)
-- [Reverse String in Algol68](https://sampleprograms.io/projects/reverse-string/algol68)
-- [Roman Numeral in Algol68](https://sampleprograms.io/projects/roman-numeral/algol68)
-- [Rot13 in Algol68](https://sampleprograms.io/projects/rot13/algol68)
-- [Selection Sort in Algol68](https://sampleprograms.io/projects/selection-sort/algol68)
-- [Sleep Sort in Algol68](https://sampleprograms.io/projects/sleep-sort/algol68)
-- [Transpose Matrix in Algol68](https://sampleprograms.io/projects/transpose-matrix/algol68)
-- [Zeckendorf in Algol68](https://sampleprograms.io/projects/zeckendorf/algol68)
+- [Baklava in ALGOL 68](https://sampleprograms.io/projects/baklava/algol68)
+- [Base64 Encode Decode in ALGOL 68](https://sampleprograms.io/projects/base64-encode-decode/algol68)
+- [Binary Search in ALGOL 68](https://sampleprograms.io/projects/binary-search/algol68)
+- [Bubble Sort in ALGOL 68](https://sampleprograms.io/projects/bubble-sort/algol68)
+- [Capitalize in ALGOL 68](https://sampleprograms.io/projects/capitalize/algol68)
+- [Convex Hull in ALGOL 68](https://sampleprograms.io/projects/convex-hull/algol68)
+- [Depth First Search in ALGOL 68](https://sampleprograms.io/projects/depth-first-search/algol68)
+- [Dijkstra in ALGOL 68](https://sampleprograms.io/projects/dijkstra/algol68)
+- [Duplicate Character Counter in ALGOL 68](https://sampleprograms.io/projects/duplicate-character-counter/algol68)
+- [Even Odd in ALGOL 68](https://sampleprograms.io/projects/even-odd/algol68)
+- [Factorial in ALGOL 68](https://sampleprograms.io/projects/factorial/algol68)
+- [Fibonacci in ALGOL 68](https://sampleprograms.io/projects/fibonacci/algol68)
+- [File Input Output in ALGOL 68](https://sampleprograms.io/projects/file-input-output/algol68)
+- [Fizz Buzz in ALGOL 68](https://sampleprograms.io/projects/fizz-buzz/algol68)
+- [Fraction Math in ALGOL 68](https://sampleprograms.io/projects/fraction-math/algol68)
+- [Hello World in ALGOL 68](https://sampleprograms.io/projects/hello-world/algol68)
+- [Insertion Sort in ALGOL 68](https://sampleprograms.io/projects/insertion-sort/algol68)
+- [Job Sequencing in ALGOL 68](https://sampleprograms.io/projects/job-sequencing/algol68)
+- [Josephus Problem in ALGOL 68](https://sampleprograms.io/projects/josephus-problem/algol68)
+- [Linear Search in ALGOL 68](https://sampleprograms.io/projects/linear-search/algol68)
+- [Longest Common Subsequence in ALGOL 68](https://sampleprograms.io/projects/longest-common-subsequence/algol68)
+- [Longest Palindromic Substring in ALGOL 68](https://sampleprograms.io/projects/longest-palindromic-substring/algol68)
+- [Longest Word in ALGOL 68](https://sampleprograms.io/projects/longest-word/algol68)
+- [Maximum Array Rotation in ALGOL 68](https://sampleprograms.io/projects/maximum-array-rotation/algol68)
+- [Maximum Subarray in ALGOL 68](https://sampleprograms.io/projects/maximum-subarray/algol68)
+- [Merge Sort in ALGOL 68](https://sampleprograms.io/projects/merge-sort/algol68)
+- [Minimum Spanning Tree in ALGOL 68](https://sampleprograms.io/projects/minimum-spanning-tree/algol68)
+- [Palindromic Number in ALGOL 68](https://sampleprograms.io/projects/palindromic-number/algol68)
+- [Prime Number in ALGOL 68](https://sampleprograms.io/projects/prime-number/algol68)
+- [Quick Sort in ALGOL 68](https://sampleprograms.io/projects/quick-sort/algol68)
+- [Quine in ALGOL 68](https://sampleprograms.io/projects/quine/algol68)
+- [Remove All Whitespace in ALGOL 68](https://sampleprograms.io/projects/remove-all-whitespace/algol68)
+- [Reverse String in ALGOL 68](https://sampleprograms.io/projects/reverse-string/algol68)
+- [Roman Numeral in ALGOL 68](https://sampleprograms.io/projects/roman-numeral/algol68)
+- [Rot13 in ALGOL 68](https://sampleprograms.io/projects/rot13/algol68)
+- [Selection Sort in ALGOL 68](https://sampleprograms.io/projects/selection-sort/algol68)
+- [Sleep Sort in ALGOL 68](https://sampleprograms.io/projects/sleep-sort/algol68)
+- [Transpose Matrix in ALGOL 68](https://sampleprograms.io/projects/transpose-matrix/algol68)
+- [Zeckendorf in ALGOL 68](https://sampleprograms.io/projects/zeckendorf/algol68)

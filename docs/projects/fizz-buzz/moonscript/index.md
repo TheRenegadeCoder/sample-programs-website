@@ -8,7 +8,7 @@ layout: default
 tags:
 - fizz-buzz
 - moonscript
-title: Fizz Buzz in Moonscript
+title: Fizz Buzz in MoonScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Moonscript](https://sampleprograms.io/languages/moonscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [MoonScript](https://sampleprograms.io/languages/moonscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -45,7 +45,7 @@ for i = 1, 100
 
 {% endraw %}
 
-Fizz Buzz in [Moonscript](https://sampleprograms.io/languages/moonscript) was written by:
+Fizz Buzz in [MoonScript](https://sampleprograms.io/languages/moonscript) was written by:
 
 - Kimberly Mageary
 

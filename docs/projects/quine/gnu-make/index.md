@@ -8,7 +8,7 @@ layout: default
 tags:
 - gnu-make
 - quine
-title: Quine in Gnu Make
+title: Quine in GNU Make
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Gnu Make](https://sampleprograms.io/languages/gnu-make) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [GNU Make](https://sampleprograms.io/languages/gnu-make) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -36,7 +36,7 @@ $(q)
 
 {% endraw %}
 
-Quine in [Gnu Make](https://sampleprograms.io/languages/gnu-make) was written by:
+Quine in [GNU Make](https://sampleprograms.io/languages/gnu-make) was written by:
 
 - rzuckerm
 

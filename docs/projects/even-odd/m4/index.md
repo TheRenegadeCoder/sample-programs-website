@@ -8,7 +8,7 @@ layout: default
 tags:
 - even-odd
 - m4
-title: Even Odd in M4
+title: Even Odd in m4
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [M4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [m4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -47,7 +47,7 @@ ifelse(eval(ARGC < 1 || len(ARGV1) < 1 || !is_valid(ARGV1)), 1, `show_usage()', 
 
 {% endraw %}
 
-Even Odd in [M4](https://sampleprograms.io/languages/m4) was written by:
+Even Odd in [m4](https://sampleprograms.io/languages/m4) was written by:
 
 - rzuckerm
 

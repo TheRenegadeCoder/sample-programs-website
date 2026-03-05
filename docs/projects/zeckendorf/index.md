@@ -143,10 +143,10 @@ Usage: please input a non-negative integer
 
 There are 5 articles:
 
-- [Zeckendorf in Algol68](https://sampleprograms.io/projects/zeckendorf/algol68)
-- [Zeckendorf in Awk](https://sampleprograms.io/projects/zeckendorf/awk)
+- [Zeckendorf in ALGOL 68](https://sampleprograms.io/projects/zeckendorf/algol68)
+- [Zeckendorf in AWK](https://sampleprograms.io/projects/zeckendorf/awk)
 - [Zeckendorf in Beef](https://sampleprograms.io/projects/zeckendorf/beef)
-- [Zeckendorf in Commodore Basic](https://sampleprograms.io/projects/zeckendorf/commodore-basic)
+- [Zeckendorf in Commodore BASIC](https://sampleprograms.io/projects/zeckendorf/commodore-basic)
 - [Zeckendorf in Python](https://sampleprograms.io/projects/zeckendorf/python)
 
 ***

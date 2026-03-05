@@ -8,7 +8,7 @@ layout: default
 tags:
 - awk
 - transpose-matrix
-title: Transpose Matrix in Awk
+title: Transpose Matrix in AWK
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Awk](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [AWK](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -115,7 +115,7 @@ BEGIN {
 
 {% endraw %}
 
-Transpose Matrix in [Awk](https://sampleprograms.io/languages/awk) was written by:
+Transpose Matrix in [AWK](https://sampleprograms.io/languages/awk) was written by:
 
 - rzuckerm
 

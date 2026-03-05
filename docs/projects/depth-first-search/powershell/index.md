@@ -8,7 +8,7 @@ layout: default
 tags:
 - depth-first-search
 - powershell
-title: Depth First Search in Powershell
+title: Depth First Search in PowerShell
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -135,7 +135,7 @@ Write-Output (($node) ? "true" : "false")
 
 {% endraw %}
 
-Depth First Search in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
+Depth First Search in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
 
 - rzuckerm
 

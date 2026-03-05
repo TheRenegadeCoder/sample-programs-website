@@ -8,7 +8,7 @@ layout: default
 tags:
 - awk
 - file-input-output
-title: File Input Output in Awk
+title: File Input Output in AWK
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Awk](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [AWK](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -56,7 +56,7 @@ BEGIN {
 
 {% endraw %}
 
-File Input Output in [Awk](https://sampleprograms.io/languages/awk) was written by:
+File Input Output in [AWK](https://sampleprograms.io/languages/awk) was written by:
 
 - rzuckerm
 

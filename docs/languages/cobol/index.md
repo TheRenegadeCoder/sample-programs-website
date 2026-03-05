@@ -5,7 +5,7 @@ last-modified: 2025-01-19
 layout: default
 tags:
 - cobol
-title: The Cobol Programming Language
+title: The COBOL Programming Language
 ---
 
 <!--
@@ -18,7 +18,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the Cobol page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+Welcome to the COBOL page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 ## Description
 
@@ -28,9 +28,9 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 6 articles:
 
-- [Baklava in Cobol](https://sampleprograms.io/projects/baklava/cobol)
-- [Even Odd in Cobol](https://sampleprograms.io/projects/even-odd/cobol)
-- [Factorial in Cobol](https://sampleprograms.io/projects/factorial/cobol)
-- [Fizz Buzz in Cobol](https://sampleprograms.io/projects/fizz-buzz/cobol)
-- [Hello World in Cobol](https://sampleprograms.io/projects/hello-world/cobol)
-- [Prime Number in Cobol](https://sampleprograms.io/projects/prime-number/cobol)
+- [Baklava in COBOL](https://sampleprograms.io/projects/baklava/cobol)
+- [Even Odd in COBOL](https://sampleprograms.io/projects/even-odd/cobol)
+- [Factorial in COBOL](https://sampleprograms.io/projects/factorial/cobol)
+- [Fizz Buzz in COBOL](https://sampleprograms.io/projects/fizz-buzz/cobol)
+- [Hello World in COBOL](https://sampleprograms.io/projects/hello-world/cobol)
+- [Prime Number in COBOL](https://sampleprograms.io/projects/prime-number/cobol)

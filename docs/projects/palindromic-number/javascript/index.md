@@ -9,7 +9,7 @@ layout: default
 tags:
 - javascript
 - palindromic-number
-title: Palindromic Number in Javascript
+title: Palindromic Number in JavaScript
 ---
 
 <!--
@@ -23,7 +23,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -62,7 +62,7 @@ if (input !== '' && Number.isInteger(number) && number >= 0) {
 
 {% endraw %}
 
-Palindromic Number in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Palindromic Number in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Jeremy Grifski
 - smjalageri

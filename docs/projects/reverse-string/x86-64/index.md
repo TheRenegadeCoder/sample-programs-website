@@ -8,7 +8,7 @@ layout: default
 tags:
 - reverse-string
 - x86-64
-title: Reverse String in X86 64
+title: Reverse String in x86-64
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [X86 64](https://sampleprograms.io/languages/x86-64) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [x86-64](https://sampleprograms.io/languages/x86-64) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```x86_64
+```x86-64
 ;I/0
 %DEFINE SYS_WRITE 1
 %DEFINE STDOUT 1
@@ -200,7 +200,7 @@ _start:
 
 {% endraw %}
 
-Reverse String in [X86 64](https://sampleprograms.io/languages/x86-64) was written by:
+Reverse String in [x86-64](https://sampleprograms.io/languages/x86-64) was written by:
 
 - RMarx1456
 

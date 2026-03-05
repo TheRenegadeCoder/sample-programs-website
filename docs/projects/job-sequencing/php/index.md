@@ -9,7 +9,7 @@ layout: default
 tags:
 - job-sequencing
 - php
-title: Job Sequencing in Php
+title: Job Sequencing in PHP
 ---
 
 <!--
@@ -23,7 +23,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [PHP](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -78,7 +78,7 @@ function return_error()
 
 {% endraw %}
 
-Job Sequencing in [Php](https://sampleprograms.io/languages/php) was written by:
+Job Sequencing in [PHP](https://sampleprograms.io/languages/php) was written by:
 
 - Jeremy Grifski
 - Kateryna Tokar

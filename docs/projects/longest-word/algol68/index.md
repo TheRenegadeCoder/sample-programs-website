@@ -8,7 +8,7 @@ layout: default
 tags:
 - algol68
 - longest-word
-title: Longest Word in Algol68
+title: Longest Word in ALGOL 68
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```algol68
+```algol_68
 PROC usage = VOID: printf(($gl$, "Usage: please provide a string"));
 
 PROC longest word length = (STRING s) INT:
@@ -69,7 +69,7 @@ print((whole(longest word len, 0), newline))
 
 {% endraw %}
 
-Longest Word in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Longest Word in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

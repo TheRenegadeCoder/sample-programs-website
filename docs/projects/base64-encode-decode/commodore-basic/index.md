@@ -8,7 +8,7 @@ layout: default
 tags:
 - base64-encode-decode
 - commodore-basic
-title: Base64 Encode Decode in Commodore Basic
+title: Base64 Encode Decode in Commodore BASIC
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Base64 Encode Decode](https://sampleprograms.io/projects/base64-encode-decode) in [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Base64 Encode Decode](https://sampleprograms.io/projects/base64-encode-decode) in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -190,7 +190,7 @@ Welcome to the [Base64 Encode Decode](https://sampleprograms.io/projects/base64-
 
 {% endraw %}
 
-Base64 Encode Decode in [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) was written by:
+Base64 Encode Decode in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) was written by:
 
 - rzuckerm
 

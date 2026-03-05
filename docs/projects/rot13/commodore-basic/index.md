@@ -8,7 +8,7 @@ layout: default
 tags:
 - commodore-basic
 - rot13
-title: Rot13 in Commodore Basic
+title: Rot13 in Commodore BASIC
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -61,7 +61,7 @@ Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Commodore B
 
 {% endraw %}
 
-Rot13 in [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) was written by:
+Rot13 in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) was written by:
 
 - rzuckerm
 

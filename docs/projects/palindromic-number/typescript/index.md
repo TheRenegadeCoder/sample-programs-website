@@ -8,7 +8,7 @@ layout: default
 tags:
 - palindromic-number
 - typescript
-title: Palindromic Number in Typescript
+title: Palindromic Number in TypeScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [TypeScript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -56,7 +56,7 @@ if (process.argv.length !== 3) {
 
 {% endraw %}
 
-Palindromic Number in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
+Palindromic Number in [TypeScript](https://sampleprograms.io/languages/typescript) was written by:
 
 - Meet Thakur
 

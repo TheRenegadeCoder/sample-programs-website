@@ -8,7 +8,7 @@ layout: default
 tags:
 - maximum-subarray
 - typescript
-title: Maximum Subarray in Typescript
+title: Maximum Subarray in TypeScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [TypeScript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -90,7 +90,7 @@ main();
 
 {% endraw %}
 
-Maximum Subarray in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
+Maximum Subarray in [TypeScript](https://sampleprograms.io/languages/typescript) was written by:
 
 - Meet Thakur
 

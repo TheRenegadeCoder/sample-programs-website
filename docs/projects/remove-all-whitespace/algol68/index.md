@@ -8,7 +8,7 @@ layout: default
 tags:
 - algol68
 - remove-all-whitespace
-title: Remove All Whitespace in Algol68
+title: Remove All Whitespace in ALGOL 68
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```algol68
+```algol_68
 PROC usage = VOID: printf(($gl$, "Usage: please provide a string"));
 
 PROC remove all whitespace := (STRING s) STRING:
@@ -61,7 +61,7 @@ printf(($gl$, s))
 
 {% endraw %}
 
-Remove All Whitespace in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Remove All Whitespace in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

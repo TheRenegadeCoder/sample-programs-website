@@ -8,7 +8,7 @@ layout: default
 tags:
 - awk
 - fizz-buzz
-title: Fizz Buzz in Awk
+title: Fizz Buzz in AWK
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Awk](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [AWK](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -52,7 +52,7 @@ BEGIN {
 
 {% endraw %}
 
-Fizz Buzz in [Awk](https://sampleprograms.io/languages/awk) was written by:
+Fizz Buzz in [AWK](https://sampleprograms.io/languages/awk) was written by:
 
 - rzuckerm
 

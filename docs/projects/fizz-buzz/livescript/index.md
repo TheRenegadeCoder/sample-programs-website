@@ -8,7 +8,7 @@ layout: default
 tags:
 - fizz-buzz
 - livescript
-title: Fizz Buzz in Livescript
+title: Fizz Buzz in LiveScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Livescript](https://sampleprograms.io/languages/livescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [LiveScript](https://sampleprograms.io/languages/livescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -38,7 +38,7 @@ for i from 1 to 100
 
 {% endraw %}
 
-Fizz Buzz in [Livescript](https://sampleprograms.io/languages/livescript) was written by:
+Fizz Buzz in [LiveScript](https://sampleprograms.io/languages/livescript) was written by:
 
 - JonusClapshaw
 

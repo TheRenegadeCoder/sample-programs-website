@@ -8,7 +8,7 @@ layout: default
 tags:
 - longest-palindromic-substring
 - powershell
-title: Longest Palindromic Substring in Powershell
+title: Longest Palindromic Substring in PowerShell
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -96,7 +96,7 @@ Write-Output $result
 
 {% endraw %}
 
-Longest Palindromic Substring in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
+Longest Palindromic Substring in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
 
 - rzuckerm
 

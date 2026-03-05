@@ -104,29 +104,29 @@ In order to keep things simple, we split up the testing as follows:
 
 There are 23 articles:
 
-- [Roman Numeral in Algol68](https://sampleprograms.io/projects/roman-numeral/algol68)
-- [Roman Numeral in Awk](https://sampleprograms.io/projects/roman-numeral/awk)
+- [Roman Numeral in ALGOL 68](https://sampleprograms.io/projects/roman-numeral/algol68)
+- [Roman Numeral in AWK](https://sampleprograms.io/projects/roman-numeral/awk)
 - [Roman Numeral in Beef](https://sampleprograms.io/projects/roman-numeral/beef)
 - [Roman Numeral in C](https://sampleprograms.io/projects/roman-numeral/c)
 - [Roman Numeral in C#](https://sampleprograms.io/projects/roman-numeral/c-sharp)
 - [Roman Numeral in C++](https://sampleprograms.io/projects/roman-numeral/c-plus-plus)
-- [Roman Numeral in Commodore Basic](https://sampleprograms.io/projects/roman-numeral/commodore-basic)
+- [Roman Numeral in Commodore BASIC](https://sampleprograms.io/projects/roman-numeral/commodore-basic)
 - [Roman Numeral in Dart](https://sampleprograms.io/projects/roman-numeral/dart)
 - [Roman Numeral in Euphoria](https://sampleprograms.io/projects/roman-numeral/euphoria)
 - [Roman Numeral in Go](https://sampleprograms.io/projects/roman-numeral/go)
 - [Roman Numeral in Haskell](https://sampleprograms.io/projects/roman-numeral/haskell)
-- [Roman Numeral in Javascript](https://sampleprograms.io/projects/roman-numeral/javascript)
+- [Roman Numeral in JavaScript](https://sampleprograms.io/projects/roman-numeral/javascript)
 - [Roman Numeral in Lua](https://sampleprograms.io/projects/roman-numeral/lua)
-- [Roman Numeral in M4](https://sampleprograms.io/projects/roman-numeral/m4)
 - [Roman Numeral in Mathematica](https://sampleprograms.io/projects/roman-numeral/mathematica)
+- [Roman Numeral in PHP](https://sampleprograms.io/projects/roman-numeral/php)
 - [Roman Numeral in Pascal](https://sampleprograms.io/projects/roman-numeral/pascal)
-- [Roman Numeral in Php](https://sampleprograms.io/projects/roman-numeral/php)
-- [Roman Numeral in Powershell](https://sampleprograms.io/projects/roman-numeral/powershell)
+- [Roman Numeral in PowerShell](https://sampleprograms.io/projects/roman-numeral/powershell)
 - [Roman Numeral in Python](https://sampleprograms.io/projects/roman-numeral/python)
 - [Roman Numeral in Ruby](https://sampleprograms.io/projects/roman-numeral/ruby)
 - [Roman Numeral in Rust](https://sampleprograms.io/projects/roman-numeral/rust)
 - [Roman Numeral in Tcl](https://sampleprograms.io/projects/roman-numeral/tcl)
-- [Roman Numeral in Typescript](https://sampleprograms.io/projects/roman-numeral/typescript)
+- [Roman Numeral in TypeScript](https://sampleprograms.io/projects/roman-numeral/typescript)
+- [Roman Numeral in m4](https://sampleprograms.io/projects/roman-numeral/m4)
 
 ***
 

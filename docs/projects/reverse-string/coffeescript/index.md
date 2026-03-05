@@ -8,7 +8,7 @@ layout: default
 tags:
 - coffeescript
 - reverse-string
-title: Reverse String in Coffeescript
+title: Reverse String in CoffeeScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [CoffeeScript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -46,7 +46,7 @@ console.log(main())
 
 {% endraw %}
 
-Reverse String in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
+Reverse String in [CoffeeScript](https://sampleprograms.io/languages/coffeescript) was written by:
 
 - Brendan Villaraza
 

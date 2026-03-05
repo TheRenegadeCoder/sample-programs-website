@@ -8,7 +8,7 @@ layout: default
 tags:
 - maximum-array-rotation
 - powershell
-title: Maximum Array Rotation in Powershell
+title: Maximum Array Rotation in PowerShell
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -76,7 +76,7 @@ Write-Host $maxValue
 
 {% endraw %}
 
-Maximum Array Rotation in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
+Maximum Array Rotation in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
 
 - rzuckerm
 

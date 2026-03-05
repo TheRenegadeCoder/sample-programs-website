@@ -131,24 +131,24 @@ Usage: please provide three inputs: a serialized matrix, a source node and a des
 
 There are 18 articles:
 
-- [Dijkstra in Algol68](https://sampleprograms.io/projects/dijkstra/algol68)
-- [Dijkstra in Awk](https://sampleprograms.io/projects/dijkstra/awk)
+- [Dijkstra in ALGOL 68](https://sampleprograms.io/projects/dijkstra/algol68)
+- [Dijkstra in AWK](https://sampleprograms.io/projects/dijkstra/awk)
 - [Dijkstra in Beef](https://sampleprograms.io/projects/dijkstra/beef)
 - [Dijkstra in C](https://sampleprograms.io/projects/dijkstra/c)
 - [Dijkstra in C#](https://sampleprograms.io/projects/dijkstra/c-sharp)
 - [Dijkstra in C++](https://sampleprograms.io/projects/dijkstra/c-plus-plus)
-- [Dijkstra in Commodore Basic](https://sampleprograms.io/projects/dijkstra/commodore-basic)
+- [Dijkstra in Commodore BASIC](https://sampleprograms.io/projects/dijkstra/commodore-basic)
 - [Dijkstra in Euphoria](https://sampleprograms.io/projects/dijkstra/euphoria)
-- [Dijkstra in Javascript](https://sampleprograms.io/projects/dijkstra/javascript)
-- [Dijkstra in M4](https://sampleprograms.io/projects/dijkstra/m4)
+- [Dijkstra in JavaScript](https://sampleprograms.io/projects/dijkstra/javascript)
 - [Dijkstra in Mathematica](https://sampleprograms.io/projects/dijkstra/mathematica)
+- [Dijkstra in PHP](https://sampleprograms.io/projects/dijkstra/php)
 - [Dijkstra in Pascal](https://sampleprograms.io/projects/dijkstra/pascal)
-- [Dijkstra in Php](https://sampleprograms.io/projects/dijkstra/php)
-- [Dijkstra in Powershell](https://sampleprograms.io/projects/dijkstra/powershell)
+- [Dijkstra in PowerShell](https://sampleprograms.io/projects/dijkstra/powershell)
 - [Dijkstra in Python](https://sampleprograms.io/projects/dijkstra/python)
 - [Dijkstra in Rust](https://sampleprograms.io/projects/dijkstra/rust)
 - [Dijkstra in Tcl](https://sampleprograms.io/projects/dijkstra/tcl)
-- [Dijkstra in X86 64](https://sampleprograms.io/projects/dijkstra/x86-64)
+- [Dijkstra in m4](https://sampleprograms.io/projects/dijkstra/m4)
+- [Dijkstra in x86-64](https://sampleprograms.io/projects/dijkstra/x86-64)
 
 ***
 

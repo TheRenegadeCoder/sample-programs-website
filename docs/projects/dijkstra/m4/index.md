@@ -8,7 +8,7 @@ layout: default
 tags:
 - dijkstra
 - m4
-title: Dijkstra in M4
+title: Dijkstra in m4
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [M4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [m4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -325,7 +325,7 @@ array_get(`dists', ARGV3)
 
 {% endraw %}
 
-Dijkstra in [M4](https://sampleprograms.io/languages/m4) was written by:
+Dijkstra in [m4](https://sampleprograms.io/languages/m4) was written by:
 
 - rzuckerm
 

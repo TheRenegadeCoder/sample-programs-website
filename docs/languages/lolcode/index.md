@@ -5,7 +5,7 @@ last-modified: 2024-12-27
 layout: default
 tags:
 - lolcode
-title: The Lolcode Programming Language
+title: The LOLCODE Programming Language
 ---
 
 <!--
@@ -18,7 +18,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the Lolcode page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+Welcome to the LOLCODE page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 ## Description
 
@@ -28,6 +28,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Lolcode](https://sampleprograms.io/projects/baklava/lolcode)
-- [Fizz Buzz in Lolcode](https://sampleprograms.io/projects/fizz-buzz/lolcode)
-- [Hello World in Lolcode](https://sampleprograms.io/projects/hello-world/lolcode)
+- [Baklava in LOLCODE](https://sampleprograms.io/projects/baklava/lolcode)
+- [Fizz Buzz in LOLCODE](https://sampleprograms.io/projects/fizz-buzz/lolcode)
+- [Hello World in LOLCODE](https://sampleprograms.io/projects/hello-world/lolcode)

@@ -8,7 +8,7 @@ layout: default
 tags:
 - powershell
 - roman-numeral
-title: Roman Numeral in Powershell
+title: Roman Numeral in PowerShell
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -86,7 +86,7 @@ Write-Output $result
 
 {% endraw %}
 
-Roman Numeral in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
+Roman Numeral in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
 
 - rzuckerm
 

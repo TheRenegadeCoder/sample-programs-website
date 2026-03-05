@@ -8,7 +8,7 @@ layout: default
 tags:
 - factorial
 - m4
-title: Factorial in M4
+title: Factorial in m4
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [M4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [m4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -47,7 +47,7 @@ ifelse(eval(ARGV1 < 0), 1, `show_usage()', `factorial(ARGV1)')
 
 {% endraw %}
 
-Factorial in [M4](https://sampleprograms.io/languages/m4) was written by:
+Factorial in [m4](https://sampleprograms.io/languages/m4) was written by:
 
 - rzuckerm
 

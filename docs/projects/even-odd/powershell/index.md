@@ -8,7 +8,7 @@ layout: default
 tags:
 - even-odd
 - powershell
-title: Even Odd in Powershell
+title: Even Odd in PowerShell
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -54,7 +54,7 @@ Write-Host ((Test-IsEven $Value) ? "Even" : "Odd")
 
 {% endraw %}
 
-Even Odd in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
+Even Odd in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
 
 - rzuckerm
 

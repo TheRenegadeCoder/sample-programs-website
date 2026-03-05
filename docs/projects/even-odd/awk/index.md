@@ -8,7 +8,7 @@ layout: default
 tags:
 - awk
 - even-odd
-title: Even Odd in Awk
+title: Even Odd in AWK
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Awk](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [AWK](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -59,7 +59,7 @@ BEGIN {
 
 {% endraw %}
 
-Even Odd in [Awk](https://sampleprograms.io/languages/awk) was written by:
+Even Odd in [AWK](https://sampleprograms.io/languages/awk) was written by:
 
 - rzuckerm
 

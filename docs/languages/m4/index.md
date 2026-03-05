@@ -5,7 +5,7 @@ last-modified: 2025-11-18
 layout: default
 tags:
 - m4
-title: The M4 Programming Language
+title: The m4 Programming Language
 ---
 
 <!--
@@ -18,7 +18,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the M4 page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+Welcome to the m4 page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 ## Description
 
@@ -28,38 +28,38 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 35 articles:
 
-- [Baklava in M4](https://sampleprograms.io/projects/baklava/m4)
-- [Binary Search in M4](https://sampleprograms.io/projects/binary-search/m4)
-- [Bubble Sort in M4](https://sampleprograms.io/projects/bubble-sort/m4)
-- [Capitalize in M4](https://sampleprograms.io/projects/capitalize/m4)
-- [Convex Hull in M4](https://sampleprograms.io/projects/convex-hull/m4)
-- [Depth First Search in M4](https://sampleprograms.io/projects/depth-first-search/m4)
-- [Dijkstra in M4](https://sampleprograms.io/projects/dijkstra/m4)
-- [Duplicate Character Counter in M4](https://sampleprograms.io/projects/duplicate-character-counter/m4)
-- [Even Odd in M4](https://sampleprograms.io/projects/even-odd/m4)
-- [Factorial in M4](https://sampleprograms.io/projects/factorial/m4)
-- [Fibonacci in M4](https://sampleprograms.io/projects/fibonacci/m4)
-- [Fizz Buzz in M4](https://sampleprograms.io/projects/fizz-buzz/m4)
-- [Fraction Math in M4](https://sampleprograms.io/projects/fraction-math/m4)
-- [Hello World in M4](https://sampleprograms.io/projects/hello-world/m4)
-- [Insertion Sort in M4](https://sampleprograms.io/projects/insertion-sort/m4)
-- [Job Sequencing in M4](https://sampleprograms.io/projects/job-sequencing/m4)
-- [Josephus Problem in M4](https://sampleprograms.io/projects/josephus-problem/m4)
-- [Linear Search in M4](https://sampleprograms.io/projects/linear-search/m4)
-- [Longest Common Subsequence in M4](https://sampleprograms.io/projects/longest-common-subsequence/m4)
-- [Longest Palindromic Substring in M4](https://sampleprograms.io/projects/longest-palindromic-substring/m4)
-- [Longest Word in M4](https://sampleprograms.io/projects/longest-word/m4)
-- [Maximum Array Rotation in M4](https://sampleprograms.io/projects/maximum-array-rotation/m4)
-- [Maximum Subarray in M4](https://sampleprograms.io/projects/maximum-subarray/m4)
-- [Merge Sort in M4](https://sampleprograms.io/projects/merge-sort/m4)
-- [Minimum Spanning Tree in M4](https://sampleprograms.io/projects/minimum-spanning-tree/m4)
-- [Palindromic Number in M4](https://sampleprograms.io/projects/palindromic-number/m4)
-- [Prime Number in M4](https://sampleprograms.io/projects/prime-number/m4)
-- [Quick Sort in M4](https://sampleprograms.io/projects/quick-sort/m4)
-- [Quine in M4](https://sampleprograms.io/projects/quine/m4)
-- [Remove All Whitespace in M4](https://sampleprograms.io/projects/remove-all-whitespace/m4)
-- [Reverse String in M4](https://sampleprograms.io/projects/reverse-string/m4)
-- [Roman Numeral in M4](https://sampleprograms.io/projects/roman-numeral/m4)
-- [Rot13 in M4](https://sampleprograms.io/projects/rot13/m4)
-- [Selection Sort in M4](https://sampleprograms.io/projects/selection-sort/m4)
-- [Transpose Matrix in M4](https://sampleprograms.io/projects/transpose-matrix/m4)
+- [Baklava in m4](https://sampleprograms.io/projects/baklava/m4)
+- [Binary Search in m4](https://sampleprograms.io/projects/binary-search/m4)
+- [Bubble Sort in m4](https://sampleprograms.io/projects/bubble-sort/m4)
+- [Capitalize in m4](https://sampleprograms.io/projects/capitalize/m4)
+- [Convex Hull in m4](https://sampleprograms.io/projects/convex-hull/m4)
+- [Depth First Search in m4](https://sampleprograms.io/projects/depth-first-search/m4)
+- [Dijkstra in m4](https://sampleprograms.io/projects/dijkstra/m4)
+- [Duplicate Character Counter in m4](https://sampleprograms.io/projects/duplicate-character-counter/m4)
+- [Even Odd in m4](https://sampleprograms.io/projects/even-odd/m4)
+- [Factorial in m4](https://sampleprograms.io/projects/factorial/m4)
+- [Fibonacci in m4](https://sampleprograms.io/projects/fibonacci/m4)
+- [Fizz Buzz in m4](https://sampleprograms.io/projects/fizz-buzz/m4)
+- [Fraction Math in m4](https://sampleprograms.io/projects/fraction-math/m4)
+- [Hello World in m4](https://sampleprograms.io/projects/hello-world/m4)
+- [Insertion Sort in m4](https://sampleprograms.io/projects/insertion-sort/m4)
+- [Job Sequencing in m4](https://sampleprograms.io/projects/job-sequencing/m4)
+- [Josephus Problem in m4](https://sampleprograms.io/projects/josephus-problem/m4)
+- [Linear Search in m4](https://sampleprograms.io/projects/linear-search/m4)
+- [Longest Common Subsequence in m4](https://sampleprograms.io/projects/longest-common-subsequence/m4)
+- [Longest Palindromic Substring in m4](https://sampleprograms.io/projects/longest-palindromic-substring/m4)
+- [Longest Word in m4](https://sampleprograms.io/projects/longest-word/m4)
+- [Maximum Array Rotation in m4](https://sampleprograms.io/projects/maximum-array-rotation/m4)
+- [Maximum Subarray in m4](https://sampleprograms.io/projects/maximum-subarray/m4)
+- [Merge Sort in m4](https://sampleprograms.io/projects/merge-sort/m4)
+- [Minimum Spanning Tree in m4](https://sampleprograms.io/projects/minimum-spanning-tree/m4)
+- [Palindromic Number in m4](https://sampleprograms.io/projects/palindromic-number/m4)
+- [Prime Number in m4](https://sampleprograms.io/projects/prime-number/m4)
+- [Quick Sort in m4](https://sampleprograms.io/projects/quick-sort/m4)
+- [Quine in m4](https://sampleprograms.io/projects/quine/m4)
+- [Remove All Whitespace in m4](https://sampleprograms.io/projects/remove-all-whitespace/m4)
+- [Reverse String in m4](https://sampleprograms.io/projects/reverse-string/m4)
+- [Roman Numeral in m4](https://sampleprograms.io/projects/roman-numeral/m4)
+- [Rot13 in m4](https://sampleprograms.io/projects/rot13/m4)
+- [Selection Sort in m4](https://sampleprograms.io/projects/selection-sort/m4)
+- [Transpose Matrix in m4](https://sampleprograms.io/projects/transpose-matrix/m4)

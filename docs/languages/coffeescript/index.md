@@ -5,7 +5,7 @@ last-modified: 2025-11-02
 layout: default
 tags:
 - coffeescript
-title: The Coffeescript Programming Language
+title: The CoffeeScript Programming Language
 ---
 
 <!--
@@ -18,7 +18,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the Coffeescript page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+Welcome to the CoffeeScript page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 ## Description
 
@@ -28,13 +28,13 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 10 articles:
 
-- [Baklava in Coffeescript](https://sampleprograms.io/projects/baklava/coffeescript)
-- [Capitalize in Coffeescript](https://sampleprograms.io/projects/capitalize/coffeescript)
-- [Even Odd in Coffeescript](https://sampleprograms.io/projects/even-odd/coffeescript)
-- [Factorial in Coffeescript](https://sampleprograms.io/projects/factorial/coffeescript)
-- [Fizz Buzz in Coffeescript](https://sampleprograms.io/projects/fizz-buzz/coffeescript)
-- [Hello World in Coffeescript](https://sampleprograms.io/projects/hello-world/coffeescript)
-- [Longest Word in Coffeescript](https://sampleprograms.io/projects/longest-word/coffeescript)
-- [Quine in Coffeescript](https://sampleprograms.io/projects/quine/coffeescript)
-- [Remove All Whitespace in Coffeescript](https://sampleprograms.io/projects/remove-all-whitespace/coffeescript)
-- [Reverse String in Coffeescript](https://sampleprograms.io/projects/reverse-string/coffeescript)
+- [Baklava in CoffeeScript](https://sampleprograms.io/projects/baklava/coffeescript)
+- [Capitalize in CoffeeScript](https://sampleprograms.io/projects/capitalize/coffeescript)
+- [Even Odd in CoffeeScript](https://sampleprograms.io/projects/even-odd/coffeescript)
+- [Factorial in CoffeeScript](https://sampleprograms.io/projects/factorial/coffeescript)
+- [Fizz Buzz in CoffeeScript](https://sampleprograms.io/projects/fizz-buzz/coffeescript)
+- [Hello World in CoffeeScript](https://sampleprograms.io/projects/hello-world/coffeescript)
+- [Longest Word in CoffeeScript](https://sampleprograms.io/projects/longest-word/coffeescript)
+- [Quine in CoffeeScript](https://sampleprograms.io/projects/quine/coffeescript)
+- [Remove All Whitespace in CoffeeScript](https://sampleprograms.io/projects/remove-all-whitespace/coffeescript)
+- [Reverse String in CoffeeScript](https://sampleprograms.io/projects/reverse-string/coffeescript)

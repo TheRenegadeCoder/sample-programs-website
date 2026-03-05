@@ -7,7 +7,7 @@ last-modified: 2026-01-31
 layout: default
 tags:
 - commodore-basic
-title: The Commodore Basic Programming Language
+title: The Commodore BASIC Programming Language
 ---
 
 <!--
@@ -20,7 +20,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the Commodore Basic page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+Welcome to the Commodore BASIC page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 This article was written by:
 
@@ -247,42 +247,42 @@ cbmbasic hello-world.bas
 
 There are 39 articles:
 
-- [Baklava in Commodore Basic](https://sampleprograms.io/projects/baklava/commodore-basic)
-- [Base64 Encode Decode in Commodore Basic](https://sampleprograms.io/projects/base64-encode-decode/commodore-basic)
-- [Binary Search in Commodore Basic](https://sampleprograms.io/projects/binary-search/commodore-basic)
-- [Bubble Sort in Commodore Basic](https://sampleprograms.io/projects/bubble-sort/commodore-basic)
-- [Capitalize in Commodore Basic](https://sampleprograms.io/projects/capitalize/commodore-basic)
-- [Convex Hull in Commodore Basic](https://sampleprograms.io/projects/convex-hull/commodore-basic)
-- [Depth First Search in Commodore Basic](https://sampleprograms.io/projects/depth-first-search/commodore-basic)
-- [Dijkstra in Commodore Basic](https://sampleprograms.io/projects/dijkstra/commodore-basic)
-- [Duplicate Character Counter in Commodore Basic](https://sampleprograms.io/projects/duplicate-character-counter/commodore-basic)
-- [Even Odd in Commodore Basic](https://sampleprograms.io/projects/even-odd/commodore-basic)
-- [Factorial in Commodore Basic](https://sampleprograms.io/projects/factorial/commodore-basic)
-- [Fibonacci in Commodore Basic](https://sampleprograms.io/projects/fibonacci/commodore-basic)
-- [File Input Output in Commodore Basic](https://sampleprograms.io/projects/file-input-output/commodore-basic)
-- [Fizz Buzz in Commodore Basic](https://sampleprograms.io/projects/fizz-buzz/commodore-basic)
-- [Fraction Math in Commodore Basic](https://sampleprograms.io/projects/fraction-math/commodore-basic)
-- [Hello World in Commodore Basic](https://sampleprograms.io/projects/hello-world/commodore-basic)
-- [Insertion Sort in Commodore Basic](https://sampleprograms.io/projects/insertion-sort/commodore-basic)
-- [Job Sequencing in Commodore Basic](https://sampleprograms.io/projects/job-sequencing/commodore-basic)
-- [Josephus Problem in Commodore Basic](https://sampleprograms.io/projects/josephus-problem/commodore-basic)
-- [Linear Search in Commodore Basic](https://sampleprograms.io/projects/linear-search/commodore-basic)
-- [Longest Common Subsequence in Commodore Basic](https://sampleprograms.io/projects/longest-common-subsequence/commodore-basic)
-- [Longest Palindromic Substring in Commodore Basic](https://sampleprograms.io/projects/longest-palindromic-substring/commodore-basic)
-- [Longest Word in Commodore Basic](https://sampleprograms.io/projects/longest-word/commodore-basic)
-- [Maximum Array Rotation in Commodore Basic](https://sampleprograms.io/projects/maximum-array-rotation/commodore-basic)
-- [Maximum Subarray in Commodore Basic](https://sampleprograms.io/projects/maximum-subarray/commodore-basic)
-- [Merge Sort in Commodore Basic](https://sampleprograms.io/projects/merge-sort/commodore-basic)
-- [Minimum Spanning Tree in Commodore Basic](https://sampleprograms.io/projects/minimum-spanning-tree/commodore-basic)
-- [Palindromic Number in Commodore Basic](https://sampleprograms.io/projects/palindromic-number/commodore-basic)
-- [Prime Number in Commodore Basic](https://sampleprograms.io/projects/prime-number/commodore-basic)
-- [Quick Sort in Commodore Basic](https://sampleprograms.io/projects/quick-sort/commodore-basic)
-- [Quine in Commodore Basic](https://sampleprograms.io/projects/quine/commodore-basic)
-- [Remove All Whitespace in Commodore Basic](https://sampleprograms.io/projects/remove-all-whitespace/commodore-basic)
-- [Reverse String in Commodore Basic](https://sampleprograms.io/projects/reverse-string/commodore-basic)
-- [Roman Numeral in Commodore Basic](https://sampleprograms.io/projects/roman-numeral/commodore-basic)
-- [Rot13 in Commodore Basic](https://sampleprograms.io/projects/rot13/commodore-basic)
-- [Selection Sort in Commodore Basic](https://sampleprograms.io/projects/selection-sort/commodore-basic)
-- [Sleep Sort in Commodore Basic](https://sampleprograms.io/projects/sleep-sort/commodore-basic)
-- [Transpose Matrix in Commodore Basic](https://sampleprograms.io/projects/transpose-matrix/commodore-basic)
-- [Zeckendorf in Commodore Basic](https://sampleprograms.io/projects/zeckendorf/commodore-basic)
+- [Baklava in Commodore BASIC](https://sampleprograms.io/projects/baklava/commodore-basic)
+- [Base64 Encode Decode in Commodore BASIC](https://sampleprograms.io/projects/base64-encode-decode/commodore-basic)
+- [Binary Search in Commodore BASIC](https://sampleprograms.io/projects/binary-search/commodore-basic)
+- [Bubble Sort in Commodore BASIC](https://sampleprograms.io/projects/bubble-sort/commodore-basic)
+- [Capitalize in Commodore BASIC](https://sampleprograms.io/projects/capitalize/commodore-basic)
+- [Convex Hull in Commodore BASIC](https://sampleprograms.io/projects/convex-hull/commodore-basic)
+- [Depth First Search in Commodore BASIC](https://sampleprograms.io/projects/depth-first-search/commodore-basic)
+- [Dijkstra in Commodore BASIC](https://sampleprograms.io/projects/dijkstra/commodore-basic)
+- [Duplicate Character Counter in Commodore BASIC](https://sampleprograms.io/projects/duplicate-character-counter/commodore-basic)
+- [Even Odd in Commodore BASIC](https://sampleprograms.io/projects/even-odd/commodore-basic)
+- [Factorial in Commodore BASIC](https://sampleprograms.io/projects/factorial/commodore-basic)
+- [Fibonacci in Commodore BASIC](https://sampleprograms.io/projects/fibonacci/commodore-basic)
+- [File Input Output in Commodore BASIC](https://sampleprograms.io/projects/file-input-output/commodore-basic)
+- [Fizz Buzz in Commodore BASIC](https://sampleprograms.io/projects/fizz-buzz/commodore-basic)
+- [Fraction Math in Commodore BASIC](https://sampleprograms.io/projects/fraction-math/commodore-basic)
+- [Hello World in Commodore BASIC](https://sampleprograms.io/projects/hello-world/commodore-basic)
+- [Insertion Sort in Commodore BASIC](https://sampleprograms.io/projects/insertion-sort/commodore-basic)
+- [Job Sequencing in Commodore BASIC](https://sampleprograms.io/projects/job-sequencing/commodore-basic)
+- [Josephus Problem in Commodore BASIC](https://sampleprograms.io/projects/josephus-problem/commodore-basic)
+- [Linear Search in Commodore BASIC](https://sampleprograms.io/projects/linear-search/commodore-basic)
+- [Longest Common Subsequence in Commodore BASIC](https://sampleprograms.io/projects/longest-common-subsequence/commodore-basic)
+- [Longest Palindromic Substring in Commodore BASIC](https://sampleprograms.io/projects/longest-palindromic-substring/commodore-basic)
+- [Longest Word in Commodore BASIC](https://sampleprograms.io/projects/longest-word/commodore-basic)
+- [Maximum Array Rotation in Commodore BASIC](https://sampleprograms.io/projects/maximum-array-rotation/commodore-basic)
+- [Maximum Subarray in Commodore BASIC](https://sampleprograms.io/projects/maximum-subarray/commodore-basic)
+- [Merge Sort in Commodore BASIC](https://sampleprograms.io/projects/merge-sort/commodore-basic)
+- [Minimum Spanning Tree in Commodore BASIC](https://sampleprograms.io/projects/minimum-spanning-tree/commodore-basic)
+- [Palindromic Number in Commodore BASIC](https://sampleprograms.io/projects/palindromic-number/commodore-basic)
+- [Prime Number in Commodore BASIC](https://sampleprograms.io/projects/prime-number/commodore-basic)
+- [Quick Sort in Commodore BASIC](https://sampleprograms.io/projects/quick-sort/commodore-basic)
+- [Quine in Commodore BASIC](https://sampleprograms.io/projects/quine/commodore-basic)
+- [Remove All Whitespace in Commodore BASIC](https://sampleprograms.io/projects/remove-all-whitespace/commodore-basic)
+- [Reverse String in Commodore BASIC](https://sampleprograms.io/projects/reverse-string/commodore-basic)
+- [Roman Numeral in Commodore BASIC](https://sampleprograms.io/projects/roman-numeral/commodore-basic)
+- [Rot13 in Commodore BASIC](https://sampleprograms.io/projects/rot13/commodore-basic)
+- [Selection Sort in Commodore BASIC](https://sampleprograms.io/projects/selection-sort/commodore-basic)
+- [Sleep Sort in Commodore BASIC](https://sampleprograms.io/projects/sleep-sort/commodore-basic)
+- [Transpose Matrix in Commodore BASIC](https://sampleprograms.io/projects/transpose-matrix/commodore-basic)
+- [Zeckendorf in Commodore BASIC](https://sampleprograms.io/projects/zeckendorf/commodore-basic)

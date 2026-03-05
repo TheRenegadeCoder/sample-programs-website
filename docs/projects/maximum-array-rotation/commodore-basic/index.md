@@ -8,7 +8,7 @@ layout: default
 tags:
 - commodore-basic
 - maximum-array-rotation
-title: Maximum Array Rotation in Commodore Basic
+title: Maximum Array Rotation in Commodore BASIC
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -131,7 +131,7 @@ Welcome to the [Maximum Array Rotation](https://sampleprograms.io/projects/maxim
 
 {% endraw %}
 
-Maximum Array Rotation in [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) was written by:
+Maximum Array Rotation in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) was written by:
 
 - rzuckerm
 

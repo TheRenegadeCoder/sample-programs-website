@@ -8,7 +8,7 @@ layout: default
 tags:
 - palindromic-number
 - ti-basic
-title: Palindromic Number in Ti Basic
+title: Palindromic Number in TI-BASIC
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Ti Basic](https://sampleprograms.io/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [TI-BASIC](https://sampleprograms.io/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```ti_basic
+```ti-basic
 Input "",Str1
 "0123456789"->Str2
 length(Str1)->L
@@ -70,7 +70,7 @@ End
 
 {% endraw %}
 
-Palindromic Number in [Ti Basic](https://sampleprograms.io/languages/ti-basic) was written by:
+Palindromic Number in [TI-BASIC](https://sampleprograms.io/languages/ti-basic) was written by:
 
 - rzuckerm
 

@@ -9,7 +9,7 @@ layout: default
 tags:
 - hello-world
 - picolisp
-title: Hello World in Picolisp
+title: Hello World in PicoLisp
 ---
 
 <!--
@@ -23,7 +23,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Picolisp](https://sampleprograms.io/languages/picolisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [PicoLisp](https://sampleprograms.io/languages/picolisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 {% endraw %}
 
-Hello World in [Picolisp](https://sampleprograms.io/languages/picolisp) was written by:
+Hello World in [PicoLisp](https://sampleprograms.io/languages/picolisp) was written by:
 
 - Jeremy Grifski
 - rzuckerm

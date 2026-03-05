@@ -8,7 +8,7 @@ layout: default
 tags:
 - baklava
 - lolcode
-title: Baklava in Lolcode
+title: Baklava in LOLCODE
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Lolcode](https://sampleprograms.io/languages/lolcode) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [LOLCODE](https://sampleprograms.io/languages/lolcode) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -67,7 +67,7 @@ KTHXBYE
 
 {% endraw %}
 
-Baklava in [Lolcode](https://sampleprograms.io/languages/lolcode) was written by:
+Baklava in [LOLCODE](https://sampleprograms.io/languages/lolcode) was written by:
 
 - rzuckerm
 

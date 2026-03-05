@@ -5,7 +5,7 @@ last-modified: 2024-12-30
 layout: default
 tags:
 - mojiscript
-title: The Mojiscript Programming Language
+title: The MojiScript Programming Language
 ---
 
 <!--
@@ -18,7 +18,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the Mojiscript page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+Welcome to the MojiScript page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 ## Description
 
@@ -28,5 +28,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Mojiscript](https://sampleprograms.io/projects/baklava/mojiscript)
-- [Hello World in Mojiscript](https://sampleprograms.io/projects/hello-world/mojiscript)
+- [Baklava in MojiScript](https://sampleprograms.io/projects/baklava/mojiscript)
+- [Hello World in MojiScript](https://sampleprograms.io/projects/hello-world/mojiscript)

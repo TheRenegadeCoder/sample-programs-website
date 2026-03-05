@@ -8,7 +8,7 @@ last-modified: 2025-02-17
 layout: default
 tags:
 - moonscript
-title: The Moonscript Programming Language
+title: The MoonScript Programming Language
 ---
 
 <!--
@@ -21,7 +21,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the Moonscript page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+Welcome to the MoonScript page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 This article was written by:
 
@@ -55,8 +55,8 @@ MoonScript and Lua APIs called Lapis.
 
 There are 5 articles:
 
-- [Baklava in Moonscript](https://sampleprograms.io/projects/baklava/moonscript)
-- [Fibonacci in Moonscript](https://sampleprograms.io/projects/fibonacci/moonscript)
-- [Fizz Buzz in Moonscript](https://sampleprograms.io/projects/fizz-buzz/moonscript)
-- [Hello World in Moonscript](https://sampleprograms.io/projects/hello-world/moonscript)
-- [Reverse String in Moonscript](https://sampleprograms.io/projects/reverse-string/moonscript)
+- [Baklava in MoonScript](https://sampleprograms.io/projects/baklava/moonscript)
+- [Fibonacci in MoonScript](https://sampleprograms.io/projects/fibonacci/moonscript)
+- [Fizz Buzz in MoonScript](https://sampleprograms.io/projects/fizz-buzz/moonscript)
+- [Hello World in MoonScript](https://sampleprograms.io/projects/hello-world/moonscript)
+- [Reverse String in MoonScript](https://sampleprograms.io/projects/reverse-string/moonscript)

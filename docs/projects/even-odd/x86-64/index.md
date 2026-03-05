@@ -8,7 +8,7 @@ layout: default
 tags:
 - even-odd
 - x86-64
-title: Even Odd in X86 64
+title: Even Odd in x86-64
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [X86 64](https://sampleprograms.io/languages/x86-64) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [x86-64](https://sampleprograms.io/languages/x86-64) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```x86_64
+```x86-64
 section .data
     error_msg db "Usage: please input a number"
     error_len equ $-error_msg
@@ -138,7 +138,7 @@ _start:
 
 {% endraw %}
 
-Even Odd in [X86 64](https://sampleprograms.io/languages/x86-64) was written by:
+Even Odd in [x86-64](https://sampleprograms.io/languages/x86-64) was written by:
 
 - alope107
 

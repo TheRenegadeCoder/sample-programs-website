@@ -8,7 +8,7 @@ layout: default
 tags:
 - awk
 - longest-palindromic-substring
-title: Longest Palindromic Substring in Awk
+title: Longest Palindromic Substring in AWK
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Awk](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [AWK](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -98,7 +98,7 @@ BEGIN {
 
 {% endraw %}
 
-Longest Palindromic Substring in [Awk](https://sampleprograms.io/languages/awk) was written by:
+Longest Palindromic Substring in [AWK](https://sampleprograms.io/languages/awk) was written by:
 
 - rzuckerm
 

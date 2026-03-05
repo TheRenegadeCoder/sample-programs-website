@@ -8,7 +8,7 @@ layout: default
 tags:
 - awk
 - convex-hull
-title: Convex Hull in Awk
+title: Convex Hull in AWK
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Awk](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Convex Hull](https://sampleprograms.io/projects/convex-hull) in [AWK](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -142,7 +142,7 @@ BEGIN {
 
 {% endraw %}
 
-Convex Hull in [Awk](https://sampleprograms.io/languages/awk) was written by:
+Convex Hull in [AWK](https://sampleprograms.io/languages/awk) was written by:
 
 - rzuckerm
 

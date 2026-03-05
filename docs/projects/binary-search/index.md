@@ -100,30 +100,30 @@ Usage: please provide a list of sorted integers ("1, 4, 5, 11, 12") and the inte
 
 There are 24 articles:
 
-- [Binary Search in Algol68](https://sampleprograms.io/projects/binary-search/algol68)
-- [Binary Search in Awk](https://sampleprograms.io/projects/binary-search/awk)
+- [Binary Search in ALGOL 68](https://sampleprograms.io/projects/binary-search/algol68)
+- [Binary Search in AWK](https://sampleprograms.io/projects/binary-search/awk)
 - [Binary Search in Beef](https://sampleprograms.io/projects/binary-search/beef)
 - [Binary Search in C](https://sampleprograms.io/projects/binary-search/c)
 - [Binary Search in C#](https://sampleprograms.io/projects/binary-search/c-sharp)
 - [Binary Search in C++](https://sampleprograms.io/projects/binary-search/c-plus-plus)
-- [Binary Search in Commodore Basic](https://sampleprograms.io/projects/binary-search/commodore-basic)
+- [Binary Search in Commodore BASIC](https://sampleprograms.io/projects/binary-search/commodore-basic)
 - [Binary Search in Euphoria](https://sampleprograms.io/projects/binary-search/euphoria)
 - [Binary Search in Fortran](https://sampleprograms.io/projects/binary-search/fortran)
 - [Binary Search in Go](https://sampleprograms.io/projects/binary-search/go)
 - [Binary Search in Java](https://sampleprograms.io/projects/binary-search/java)
-- [Binary Search in Javascript](https://sampleprograms.io/projects/binary-search/javascript)
+- [Binary Search in JavaScript](https://sampleprograms.io/projects/binary-search/javascript)
 - [Binary Search in Kotlin](https://sampleprograms.io/projects/binary-search/kotlin)
-- [Binary Search in M4](https://sampleprograms.io/projects/binary-search/m4)
 - [Binary Search in Mathematica](https://sampleprograms.io/projects/binary-search/mathematica)
+- [Binary Search in PHP](https://sampleprograms.io/projects/binary-search/php)
 - [Binary Search in Pascal](https://sampleprograms.io/projects/binary-search/pascal)
 - [Binary Search in Perl](https://sampleprograms.io/projects/binary-search/perl)
-- [Binary Search in Php](https://sampleprograms.io/projects/binary-search/php)
-- [Binary Search in Powershell](https://sampleprograms.io/projects/binary-search/powershell)
+- [Binary Search in PowerShell](https://sampleprograms.io/projects/binary-search/powershell)
 - [Binary Search in Python](https://sampleprograms.io/projects/binary-search/python)
 - [Binary Search in Ruby](https://sampleprograms.io/projects/binary-search/ruby)
 - [Binary Search in Rust](https://sampleprograms.io/projects/binary-search/rust)
 - [Binary Search in Tcl](https://sampleprograms.io/projects/binary-search/tcl)
-- [Binary Search in Typescript](https://sampleprograms.io/projects/binary-search/typescript)
+- [Binary Search in TypeScript](https://sampleprograms.io/projects/binary-search/typescript)
+- [Binary Search in m4](https://sampleprograms.io/projects/binary-search/m4)
 
 ***
 

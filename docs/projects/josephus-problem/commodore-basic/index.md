@@ -8,7 +8,7 @@ layout: default
 tags:
 - commodore-basic
 - josephus-problem
-title: Josephus Problem in Commodore Basic
+title: Josephus Problem in Commodore BASIC
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -99,7 +99,7 @@ Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-pr
 
 {% endraw %}
 
-Josephus Problem in [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) was written by:
+Josephus Problem in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) was written by:
 
 - rzuckerm
 

@@ -8,7 +8,7 @@ layout: default
 tags:
 - algol68
 - duplicate-character-counter
-title: Duplicate Character Counter in Algol68
+title: Duplicate Character Counter in ALGOL 68
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```algol68
+```algol_68
 PROC usage = VOID: printf(($gl$, "Usage: please provide a string"));
 
 PROC duplicate character counter = (STRING s) REF []INT:
@@ -88,7 +88,7 @@ show duplicate character counts(s, char counter)
 
 {% endraw %}
 
-Duplicate Character Counter in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Duplicate Character Counter in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

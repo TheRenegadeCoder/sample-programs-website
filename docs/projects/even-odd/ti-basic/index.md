@@ -8,7 +8,7 @@ layout: default
 tags:
 - even-odd
 - ti-basic
-title: Even Odd in Ti Basic
+title: Even Odd in TI-BASIC
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Ti Basic](https://sampleprograms.io/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [TI-BASIC](https://sampleprograms.io/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```ti_basic
+```ti-basic
 Input "",Str1
 "0123456789"->Str2
 length(Str1)->L
@@ -58,7 +58,7 @@ End
 
 {% endraw %}
 
-Even Odd in [Ti Basic](https://sampleprograms.io/languages/ti-basic) was written by:
+Even Odd in [TI-BASIC](https://sampleprograms.io/languages/ti-basic) was written by:
 
 - rzuckerm
 

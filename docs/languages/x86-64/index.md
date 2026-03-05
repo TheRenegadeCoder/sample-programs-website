@@ -5,7 +5,7 @@ last-modified: 2026-01-06
 layout: default
 tags:
 - x86-64
-title: The X86 64 Programming Language
+title: The x86-64 Programming Language
 ---
 
 <!--
@@ -18,7 +18,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the X86 64 page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+Welcome to the x86-64 page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 ## Description
 
@@ -28,10 +28,10 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 7 articles:
 
-- [Baklava in X86 64](https://sampleprograms.io/projects/baklava/x86-64)
-- [Dijkstra in X86 64](https://sampleprograms.io/projects/dijkstra/x86-64)
-- [Even Odd in X86 64](https://sampleprograms.io/projects/even-odd/x86-64)
-- [Fizz Buzz in X86 64](https://sampleprograms.io/projects/fizz-buzz/x86-64)
-- [Hello World in X86 64](https://sampleprograms.io/projects/hello-world/x86-64)
-- [Quine in X86 64](https://sampleprograms.io/projects/quine/x86-64)
-- [Reverse String in X86 64](https://sampleprograms.io/projects/reverse-string/x86-64)
+- [Baklava in x86-64](https://sampleprograms.io/projects/baklava/x86-64)
+- [Dijkstra in x86-64](https://sampleprograms.io/projects/dijkstra/x86-64)
+- [Even Odd in x86-64](https://sampleprograms.io/projects/even-odd/x86-64)
+- [Fizz Buzz in x86-64](https://sampleprograms.io/projects/fizz-buzz/x86-64)
+- [Hello World in x86-64](https://sampleprograms.io/projects/hello-world/x86-64)
+- [Quine in x86-64](https://sampleprograms.io/projects/quine/x86-64)
+- [Reverse String in x86-64](https://sampleprograms.io/projects/reverse-string/x86-64)

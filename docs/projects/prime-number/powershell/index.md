@@ -8,7 +8,7 @@ layout: default
 tags:
 - powershell
 - prime-number
-title: Prime Number in Powershell
+title: Prime Number in PowerShell
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -69,7 +69,7 @@ Write-Host ((Test-IsPrime $Value) ? "prime" : "composite")
 
 {% endraw %}
 
-Prime Number in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
+Prime Number in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
 
 - rzuckerm
 

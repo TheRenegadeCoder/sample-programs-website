@@ -9,7 +9,7 @@ layout: default
 tags:
 - php
 - selection-sort
-title: Selection Sort in Php
+title: Selection Sort in PHP
 ---
 
 <!--
@@ -23,7 +23,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [PHP](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -71,7 +71,7 @@ echo implode(', ', selection_sort($numbers));
 
 {% endraw %}
 
-Selection Sort in [Php](https://sampleprograms.io/languages/php) was written by:
+Selection Sort in [PHP](https://sampleprograms.io/languages/php) was written by:
 
 - Gurmeet
 - Jeremy Grifski

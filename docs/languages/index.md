@@ -17,15 +17,15 @@ Here are the percentages for each language in the collection:
 <table class="bar-graph">
 
     <tr>
-        <td class="right nowrap">Algol68</td>
+        <td class="right nowrap">ALGOL 68</td>
         <td class="right">6.80%</td>
-        <td class="bar-graph"><div style="width: 100.00%; background-color: #AF425E;"></div></td> 
+        <td class="bar-graph"><div style="width: 100.00%; background-color: #EDEDED;"></div></td> 
     </tr>
 
     <tr>
-        <td class="right nowrap">Commodore Basic</td>
+        <td class="right nowrap">Commodore BASIC</td>
         <td class="right">6.68%</td>
-        <td class="bar-graph"><div style="width: 98.22%; background-color: #4F44D8;"></div></td> 
+        <td class="bar-graph"><div style="width: 98.22%; background-color: #EDEDED;"></div></td> 
     </tr>
 
     <tr>
@@ -41,7 +41,7 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">M4</td>
+        <td class="right nowrap">m4</td>
         <td class="right">5.61%</td>
         <td class="bar-graph"><div style="width: 82.57%; background-color: #CCCCCC;"></div></td> 
     </tr>
@@ -65,7 +65,7 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Php</td>
+        <td class="right nowrap">PHP</td>
         <td class="right">3.76%</td>
         <td class="bar-graph"><div style="width: 55.25%; background-color: #4F5D95;"></div></td> 
     </tr>
@@ -77,13 +77,13 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">X86 64</td>
+        <td class="right nowrap">x86-64</td>
         <td class="right">3.56%</td>
-        <td class="bar-graph"><div style="width: 52.30%; background-color: #6E4C13;"></div></td> 
+        <td class="bar-graph"><div style="width: 52.30%; background-color: #EDEDED;"></div></td> 
     </tr>
 
     <tr>
-        <td class="right nowrap">Awk</td>
+        <td class="right nowrap">AWK</td>
         <td class="right">3.37%</td>
         <td class="bar-graph"><div style="width: 49.52%; background-color: #C30E9B;"></div></td> 
     </tr>
@@ -101,7 +101,7 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Powershell</td>
+        <td class="right nowrap">PowerShell</td>
         <td class="right">2.70%</td>
         <td class="bar-graph"><div style="width: 39.77%; background-color: #012456;"></div></td> 
     </tr>
@@ -119,7 +119,7 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Javascript</td>
+        <td class="right nowrap">JavaScript</td>
         <td class="right">2.01%</td>
         <td class="bar-graph"><div style="width: 29.57%; background-color: #F1E05A;"></div></td> 
     </tr>
@@ -137,7 +137,7 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Typescript</td>
+        <td class="right nowrap">TypeScript</td>
         <td class="right">1.33%</td>
         <td class="bar-graph"><div style="width: 19.61%; background-color: #3178C6;"></div></td> 
     </tr>
@@ -149,9 +149,9 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Objective C</td>
+        <td class="right nowrap">Objective-C</td>
         <td class="right">1.12%</td>
-        <td class="bar-graph"><div style="width: 16.45%; background-color: #438EFF;"></div></td> 
+        <td class="bar-graph"><div style="width: 16.45%; background-color: #EDEDED;"></div></td> 
     </tr>
 
     <tr>
@@ -179,9 +179,9 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Gnu Make</td>
+        <td class="right nowrap">GNU Make</td>
         <td class="right">0.83%</td>
-        <td class="bar-graph"><div style="width: 12.25%; background-color: #427819;"></div></td> 
+        <td class="bar-graph"><div style="width: 12.25%; background-color: #EDEDED;"></div></td> 
     </tr>
 
     <tr>
@@ -233,7 +233,7 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Cobol</td>
+        <td class="right nowrap">COBOL</td>
         <td class="right">0.42%</td>
         <td class="bar-graph"><div style="width: 6.13%; background-color: #CCCCCC;"></div></td> 
     </tr>
@@ -263,9 +263,9 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Ti Basic</td>
+        <td class="right nowrap">TI-BASIC</td>
         <td class="right">0.32%</td>
-        <td class="bar-graph"><div style="width: 4.69%; background-color: #A0AA87;"></div></td> 
+        <td class="bar-graph"><div style="width: 4.69%; background-color: #EDEDED;"></div></td> 
     </tr>
 
     <tr>
@@ -311,7 +311,7 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Tex</td>
+        <td class="right nowrap">TeX</td>
         <td class="right">0.20%</td>
         <td class="bar-graph"><div style="width: 2.89%; background-color: #3D6117;"></div></td> 
     </tr>
@@ -335,7 +335,7 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Coffeescript</td>
+        <td class="right nowrap">CoffeeScript</td>
         <td class="right">0.16%</td>
         <td class="bar-graph"><div style="width: 2.33%; background-color: #244776;"></div></td> 
     </tr>
@@ -359,7 +359,7 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Lolcode</td>
+        <td class="right nowrap">LOLCODE</td>
         <td class="right">0.10%</td>
         <td class="bar-graph"><div style="width: 1.43%; background-color: #CC9900;"></div></td> 
     </tr>
@@ -389,7 +389,7 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Moonscript</td>
+        <td class="right nowrap">MoonScript</td>
         <td class="right">0.08%</td>
         <td class="bar-graph"><div style="width: 1.22%; background-color: #FF4585;"></div></td> 
     </tr>
@@ -407,9 +407,9 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Baik</td>
+        <td class="right nowrap">BAIK</td>
         <td class="right">0.08%</td>
-        <td class="bar-graph"><div style="width: 1.14%; background-color: #4CAF50;"></div></td> 
+        <td class="bar-graph"><div style="width: 1.14%; background-color: #EDEDED;"></div></td> 
     </tr>
 
     <tr>
@@ -521,7 +521,7 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Purescript</td>
+        <td class="right nowrap">PureScript</td>
         <td class="right">0.05%</td>
         <td class="bar-graph"><div style="width: 0.73%; background-color: #1D222D;"></div></td> 
     </tr>
@@ -563,9 +563,9 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Arkscript</td>
+        <td class="right nowrap">ArkScript</td>
         <td class="right">0.05%</td>
-        <td class="bar-graph"><div style="width: 0.69%; background-color: #00AAD4;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.69%; background-color: #EDEDED;"></div></td> 
     </tr>
 
     <tr>
@@ -581,15 +581,15 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Mojiscript</td>
+        <td class="right nowrap">MojiScript</td>
         <td class="right">0.04%</td>
-        <td class="bar-graph"><div style="width: 0.61%; background-color: #F0DB4F;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.61%; background-color: #EDEDED;"></div></td> 
     </tr>
 
     <tr>
-        <td class="right nowrap">Modula2</td>
+        <td class="right nowrap">Modula-2</td>
         <td class="right">0.04%</td>
-        <td class="bar-graph"><div style="width: 0.60%; background-color: #10253F;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.60%; background-color: #EDEDED;"></div></td> 
     </tr>
 
     <tr>
@@ -617,7 +617,7 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Ocaml</td>
+        <td class="right nowrap">OCaml</td>
         <td class="right">0.04%</td>
         <td class="bar-graph"><div style="width: 0.53%; background-color: #EF7A08;"></div></td> 
     </tr>
@@ -857,15 +857,15 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Picolisp</td>
+        <td class="right nowrap">PicoLisp</td>
         <td class="right">0.02%</td>
         <td class="bar-graph"><div style="width: 0.33%; background-color: #6067AF;"></div></td> 
     </tr>
 
     <tr>
-        <td class="right nowrap">Chaiscript</td>
+        <td class="right nowrap">ChaiScript</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.32%; background-color: #CE6B06;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.32%; background-color: #EDEDED;"></div></td> 
     </tr>
 
     <tr>
@@ -911,7 +911,7 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Livescript</td>
+        <td class="right nowrap">LiveScript</td>
         <td class="right">0.02%</td>
         <td class="bar-graph"><div style="width: 0.28%; background-color: #499886;"></div></td> 
     </tr>
@@ -1002,9 +1002,9 @@ The 'A' collection contains 5 languages, of which 5 are tested, and 86 code snip
 
 - [Ada](https://sampleprograms.io/languages/ada) (3 code snippets)
 - [Agda](https://sampleprograms.io/languages/agda) (2 code snippets)
-- [Algol68](https://sampleprograms.io/languages/algol68) (39 code snippets)
-- [Arkscript](https://sampleprograms.io/languages/arkscript) (3 code snippets)
-- [Awk](https://sampleprograms.io/languages/awk) (39 code snippets)
+- [ALGOL 68](https://sampleprograms.io/languages/algol68) (39 code snippets)
+- [ArkScript](https://sampleprograms.io/languages/arkscript) (3 code snippets)
+- [AWK](https://sampleprograms.io/languages/awk) (39 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 
@@ -1012,7 +1012,7 @@ The 'A' collection contains 5 languages, of which 5 are tested, and 86 code snip
 
 The 'B' collection contains 9 languages, of which 9 are tested, and 80 code snippets.
 
-- [Baik](https://sampleprograms.io/languages/baik) (2 code snippets)
+- [BAIK](https://sampleprograms.io/languages/baik) (2 code snippets)
 - [Ballerina](https://sampleprograms.io/languages/ballerina) (3 code snippets)
 - [Bash](https://sampleprograms.io/languages/bash) (15 code snippets)
 - [Batch](https://sampleprograms.io/languages/batch) (3 code snippets)
@@ -1030,16 +1030,16 @@ The 'C' collection contains 15 languages, of which 15 are tested, and 194 code s
 
 - [C](https://sampleprograms.io/languages/c) (38 code snippets)
 - [C#](https://sampleprograms.io/languages/c-sharp) (38 code snippets)
+- [C\*](https://sampleprograms.io/languages/c-star) (3 code snippets)
 - [C++](https://sampleprograms.io/languages/c-plus-plus) (35 code snippets)
 - [C2](https://sampleprograms.io/languages/c2) (2 code snippets)
-- [C\*](https://sampleprograms.io/languages/c-star) (3 code snippets)
 - [Carp](https://sampleprograms.io/languages/carp) (2 code snippets)
-- [Chaiscript](https://sampleprograms.io/languages/chaiscript) (2 code snippets)
+- [ChaiScript](https://sampleprograms.io/languages/chaiscript) (2 code snippets)
 - [Chapel](https://sampleprograms.io/languages/chapel) (3 code snippets)
 - [Clojure](https://sampleprograms.io/languages/clojure) (6 code snippets)
-- [Cobol](https://sampleprograms.io/languages/cobol) (6 code snippets)
-- [Coffeescript](https://sampleprograms.io/languages/coffeescript) (10 code snippets)
-- [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) (39 code snippets)
+- [COBOL](https://sampleprograms.io/languages/cobol) (6 code snippets)
+- [CoffeeScript](https://sampleprograms.io/languages/coffeescript) (10 code snippets)
+- [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) (39 code snippets)
 - [Crystal](https://sampleprograms.io/languages/crystal) (4 code snippets)
 - [Cyclone](https://sampleprograms.io/languages/cyclone) (2 code snippets)
 - [Cython](https://sampleprograms.io/languages/cython) (4 code snippets)
@@ -1100,7 +1100,7 @@ The 'G' collection contains 11 languages, of which 11 are tested, and 71 code sn
 
 - [Gerbil](https://sampleprograms.io/languages/gerbil) (2 code snippets)
 - [Gluon](https://sampleprograms.io/languages/gluon) (2 code snippets)
-- [Gnu Make](https://sampleprograms.io/languages/gnu-make) (9 code snippets)
+- [GNU Make](https://sampleprograms.io/languages/gnu-make) (9 code snippets)
 - [Go](https://sampleprograms.io/languages/go) (34 code snippets)
 - [Goby](https://sampleprograms.io/languages/goby) (3 code snippets)
 - [Golo](https://sampleprograms.io/languages/golo) (2 code snippets)
@@ -1138,7 +1138,7 @@ The 'J' collection contains 4 languages, of which 4 are tested, and 80 code snip
 
 - [Janet](https://sampleprograms.io/languages/janet) (3 code snippets)
 - [Java](https://sampleprograms.io/languages/java) (29 code snippets)
-- [Javascript](https://sampleprograms.io/languages/javascript) (33 code snippets)
+- [JavaScript](https://sampleprograms.io/languages/javascript) (33 code snippets)
 - [Julia](https://sampleprograms.io/languages/julia) (15 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
@@ -1161,9 +1161,9 @@ The 'L' collection contains 9 languages, of which 9 are tested, and 43 code snip
 - [Lily](https://sampleprograms.io/languages/lily) (2 code snippets)
 - [Lisp](https://sampleprograms.io/languages/lisp) (10 code snippets)
 - [Little](https://sampleprograms.io/languages/little) (2 code snippets)
-- [Livescript](https://sampleprograms.io/languages/livescript) (3 code snippets)
+- [LiveScript](https://sampleprograms.io/languages/livescript) (3 code snippets)
 - [Lobster](https://sampleprograms.io/languages/lobster) (3 code snippets)
-- [Lolcode](https://sampleprograms.io/languages/lolcode) (3 code snippets)
+- [LOLCODE](https://sampleprograms.io/languages/lolcode) (3 code snippets)
 - [Lua](https://sampleprograms.io/languages/lua) (16 code snippets)
 - [Lucee](https://sampleprograms.io/languages/lucee) (2 code snippets)
 
@@ -1173,13 +1173,13 @@ The 'L' collection contains 9 languages, of which 9 are tested, and 43 code snip
 
 The 'M' collection contains 7 languages, of which 6 are tested, 1 is untestable, and 84 code snippets.
 
-- [M4](https://sampleprograms.io/languages/m4) (35 code snippets)
+- [m4](https://sampleprograms.io/languages/m4) (35 code snippets)
 - [Malbolge](https://sampleprograms.io/languages/malbolge) (2 code snippets)
 - [Mathematica](https://sampleprograms.io/languages/mathematica) (36 code snippets, [untestabled](https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/m/mathematica/untestable.yml))
 - [Mirth](https://sampleprograms.io/languages/mirth) (2 code snippets)
-- [Modula2](https://sampleprograms.io/languages/modula2) (2 code snippets)
-- [Mojiscript](https://sampleprograms.io/languages/mojiscript) (2 code snippets)
-- [Moonscript](https://sampleprograms.io/languages/moonscript) (5 code snippets)
+- [Modula-2](https://sampleprograms.io/languages/modula2) (2 code snippets)
+- [MojiScript](https://sampleprograms.io/languages/mojiscript) (2 code snippets)
+- [MoonScript](https://sampleprograms.io/languages/moonscript) (5 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 
@@ -1197,8 +1197,8 @@ The 'N' collection contains 3 languages, of which 3 are tested, and 12 code snip
 
 The 'O' collection contains 7 languages, of which 7 are tested, and 43 code snippets.
 
-- [Objective C](https://sampleprograms.io/languages/objective-c) (11 code snippets)
-- [Ocaml](https://sampleprograms.io/languages/ocaml) (3 code snippets)
+- [Objective-C](https://sampleprograms.io/languages/objective-c) (11 code snippets)
+- [OCaml](https://sampleprograms.io/languages/ocaml) (3 code snippets)
 - [Octave](https://sampleprograms.io/languages/octave) (14 code snippets)
 - [Odin](https://sampleprograms.io/languages/odin) (9 code snippets)
 - [Opa](https://sampleprograms.io/languages/opa) (2 code snippets)
@@ -1214,15 +1214,15 @@ The 'P' collection contains 14 languages, of which 14 are tested, and 199 code s
 - [Pascal](https://sampleprograms.io/languages/pascal) (38 code snippets)
 - [Perl](https://sampleprograms.io/languages/perl) (21 code snippets)
 - [Phix](https://sampleprograms.io/languages/phix) (2 code snippets)
-- [Php](https://sampleprograms.io/languages/php) (38 code snippets)
-- [Picolisp](https://sampleprograms.io/languages/picolisp) (3 code snippets)
+- [PHP](https://sampleprograms.io/languages/php) (38 code snippets)
+- [PicoLisp](https://sampleprograms.io/languages/picolisp) (3 code snippets)
 - [Piet](https://sampleprograms.io/languages/piet) (2 code snippets)
 - [Pineapple](https://sampleprograms.io/languages/pineapple) (3 code snippets)
 - [Pinecone](https://sampleprograms.io/languages/pinecone) (3 code snippets)
 - [Pony](https://sampleprograms.io/languages/pony) (3 code snippets)
-- [Powershell](https://sampleprograms.io/languages/powershell) (38 code snippets)
+- [PowerShell](https://sampleprograms.io/languages/powershell) (38 code snippets)
 - [Prolog](https://sampleprograms.io/languages/prolog) (3 code snippets)
-- [Purescript](https://sampleprograms.io/languages/purescript) (2 code snippets)
+- [PureScript](https://sampleprograms.io/languages/purescript) (2 code snippets)
 - [Pyret](https://sampleprograms.io/languages/pyret) (4 code snippets)
 - [Python](https://sampleprograms.io/languages/python) (39 code snippets)
 
@@ -1274,9 +1274,9 @@ The 'T' collection contains 5 languages, of which 5 are tested, and 81 code snip
 
 - [Tcl](https://sampleprograms.io/languages/tcl) (38 code snippets)
 - [Terra](https://sampleprograms.io/languages/terra) (2 code snippets)
-- [Tex](https://sampleprograms.io/languages/tex) (3 code snippets)
-- [Ti Basic](https://sampleprograms.io/languages/ti-basic) (13 code snippets)
-- [Typescript](https://sampleprograms.io/languages/typescript) (25 code snippets)
+- [TeX](https://sampleprograms.io/languages/tex) (3 code snippets)
+- [TI-BASIC](https://sampleprograms.io/languages/ti-basic) (13 code snippets)
+- [TypeScript](https://sampleprograms.io/languages/typescript) (25 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 
@@ -1315,7 +1315,7 @@ The 'W' collection contains 4 languages, of which 4 are tested, and 20 code snip
 
 The 'X' collection contains 1 language, of which 1 is tested, and 7 code snippets.
 
-- [X86 64](https://sampleprograms.io/languages/x86-64) (7 code snippets)
+- [x86-64](https://sampleprograms.io/languages/x86-64) (7 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 

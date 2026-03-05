@@ -11,7 +11,7 @@ layout: default
 tags:
 - fizz-buzz
 - javascript
-title: Fizz Buzz in Javascript
+title: Fizz Buzz in JavaScript
 ---
 
 <!--
@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -53,7 +53,7 @@ fizzbuzz(100);
 
 {% endraw %}
 
-Fizz Buzz in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Fizz Buzz in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Jeremy Grifski
 - Juan F Gonzalez

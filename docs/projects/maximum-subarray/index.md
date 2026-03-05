@@ -88,25 +88,25 @@ Usage: Please provide a list of integers in the format: "1, 2, 3, 4, 5"
 
 There are 19 articles:
 
-- [Maximum Subarray in Algol68](https://sampleprograms.io/projects/maximum-subarray/algol68)
-- [Maximum Subarray in Awk](https://sampleprograms.io/projects/maximum-subarray/awk)
+- [Maximum Subarray in ALGOL 68](https://sampleprograms.io/projects/maximum-subarray/algol68)
+- [Maximum Subarray in AWK](https://sampleprograms.io/projects/maximum-subarray/awk)
 - [Maximum Subarray in Beef](https://sampleprograms.io/projects/maximum-subarray/beef)
 - [Maximum Subarray in C](https://sampleprograms.io/projects/maximum-subarray/c)
 - [Maximum Subarray in C#](https://sampleprograms.io/projects/maximum-subarray/c-sharp)
 - [Maximum Subarray in C++](https://sampleprograms.io/projects/maximum-subarray/c-plus-plus)
-- [Maximum Subarray in Commodore Basic](https://sampleprograms.io/projects/maximum-subarray/commodore-basic)
+- [Maximum Subarray in Commodore BASIC](https://sampleprograms.io/projects/maximum-subarray/commodore-basic)
 - [Maximum Subarray in Euphoria](https://sampleprograms.io/projects/maximum-subarray/euphoria)
 - [Maximum Subarray in Go](https://sampleprograms.io/projects/maximum-subarray/go)
-- [Maximum Subarray in Javascript](https://sampleprograms.io/projects/maximum-subarray/javascript)
-- [Maximum Subarray in M4](https://sampleprograms.io/projects/maximum-subarray/m4)
+- [Maximum Subarray in JavaScript](https://sampleprograms.io/projects/maximum-subarray/javascript)
 - [Maximum Subarray in Mathematica](https://sampleprograms.io/projects/maximum-subarray/mathematica)
+- [Maximum Subarray in PHP](https://sampleprograms.io/projects/maximum-subarray/php)
 - [Maximum Subarray in Pascal](https://sampleprograms.io/projects/maximum-subarray/pascal)
-- [Maximum Subarray in Php](https://sampleprograms.io/projects/maximum-subarray/php)
-- [Maximum Subarray in Powershell](https://sampleprograms.io/projects/maximum-subarray/powershell)
+- [Maximum Subarray in PowerShell](https://sampleprograms.io/projects/maximum-subarray/powershell)
 - [Maximum Subarray in Python](https://sampleprograms.io/projects/maximum-subarray/python)
 - [Maximum Subarray in Rust](https://sampleprograms.io/projects/maximum-subarray/rust)
 - [Maximum Subarray in Tcl](https://sampleprograms.io/projects/maximum-subarray/tcl)
-- [Maximum Subarray in Typescript](https://sampleprograms.io/projects/maximum-subarray/typescript)
+- [Maximum Subarray in TypeScript](https://sampleprograms.io/projects/maximum-subarray/typescript)
+- [Maximum Subarray in m4](https://sampleprograms.io/projects/maximum-subarray/m4)
 
 ***
 

@@ -8,7 +8,7 @@ layout: default
 tags:
 - coffeescript
 - hello-world
-title: Hello World in Coffeescript
+title: Hello World in CoffeeScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [CoffeeScript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -35,7 +35,7 @@ console.log("Hello, World!")
 
 {% endraw %}
 
-Hello World in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
+Hello World in [CoffeeScript](https://sampleprograms.io/languages/coffeescript) was written by:
 
 - Parker Johansen
 

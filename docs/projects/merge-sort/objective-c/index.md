@@ -9,7 +9,7 @@ layout: default
 tags:
 - merge-sort
 - objective-c
-title: Merge Sort in Objective C
+title: Merge Sort in Objective-C
 ---
 
 <!--
@@ -23,13 +23,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Objective C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Objective-C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```objective_c
+```objective-c
 #import <Foundation/Foundation.h>
 
 // Function to convert and validate the input string
@@ -147,7 +147,7 @@ int main(int argc, char *argv[]) {
 
 {% endraw %}
 
-Merge Sort in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
+Merge Sort in [Objective-C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - Harshal Singh Raushan
 - rzuckerm

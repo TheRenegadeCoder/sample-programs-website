@@ -11,7 +11,7 @@ layout: default
 tags:
 - javascript
 - reverse-string
-title: Reverse String in Javascript
+title: Reverse String in JavaScript
 ---
 
 <!--
@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -42,7 +42,7 @@ if (process.argv.length > 2) {
 
 {% endraw %}
 
-Reverse String in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Reverse String in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
 
 - rzuckerm
 - Trever Shick

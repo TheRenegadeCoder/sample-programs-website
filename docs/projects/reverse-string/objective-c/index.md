@@ -9,7 +9,7 @@ layout: default
 tags:
 - objective-c
 - reverse-string
-title: Reverse String in Objective C
+title: Reverse String in Objective-C
 ---
 
 <!--
@@ -23,13 +23,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Objective C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Objective-C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```objective_c
+```objective-c
 #import <Foundation/Foundation.h>
 
 @interface StringHelper:NSObject
@@ -67,7 +67,7 @@ int main (int argc, const char *argv[]){
 
 {% endraw %}
 
-Reverse String in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
+Reverse String in [Objective-C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - rzuckerm
 - Tim Lange

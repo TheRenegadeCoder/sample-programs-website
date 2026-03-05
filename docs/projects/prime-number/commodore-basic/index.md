@@ -8,7 +8,7 @@ layout: default
 tags:
 - commodore-basic
 - prime-number
-title: Prime Number in Commodore Basic
+title: Prime Number in Commodore BASIC
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -99,7 +99,7 @@ Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) i
 
 {% endraw %}
 
-Prime Number in [Commodore Basic](https://sampleprograms.io/languages/commodore-basic) was written by:
+Prime Number in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) was written by:
 
 - rzuckerm
 

@@ -9,7 +9,7 @@ layout: default
 tags:
 - coffeescript
 - factorial
-title: Factorial in Coffeescript
+title: Factorial in CoffeeScript
 ---
 
 <!--
@@ -23,7 +23,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [CoffeeScript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -49,7 +49,7 @@ console.log main()
 
 {% endraw %}
 
-Factorial in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
+Factorial in [CoffeeScript](https://sampleprograms.io/languages/coffeescript) was written by:
 
 - Hanyuan Li
 - Jeremy Grifski

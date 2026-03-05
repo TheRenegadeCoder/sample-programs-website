@@ -8,7 +8,7 @@ layout: default
 tags:
 - longest-word
 - php
-title: Longest Word in Php
+title: Longest Word in PHP
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [PHP](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -56,7 +56,7 @@ echo "$longest_len\n";
 
 {% endraw %}
 
-Longest Word in [Php](https://sampleprograms.io/languages/php) was written by:
+Longest Word in [PHP](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

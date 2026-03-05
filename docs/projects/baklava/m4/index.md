@@ -8,7 +8,7 @@ layout: default
 tags:
 - baklava
 - m4
-title: Baklava in M4
+title: Baklava in m4
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [M4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [m4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -50,7 +50,7 @@ baklava(-10, 10)dnl
 
 {% endraw %}
 
-Baklava in [M4](https://sampleprograms.io/languages/m4) was written by:
+Baklava in [m4](https://sampleprograms.io/languages/m4) was written by:
 
 - rzuckerm
 

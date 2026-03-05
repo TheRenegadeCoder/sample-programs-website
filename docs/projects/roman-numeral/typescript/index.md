@@ -8,7 +8,7 @@ layout: default
 tags:
 - roman-numeral
 - typescript
-title: Roman Numeral in Typescript
+title: Roman Numeral in TypeScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [TypeScript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -107,7 +107,7 @@ if (args.length < 1) {
 
 {% endraw %}
 
-Roman Numeral in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
+Roman Numeral in [TypeScript](https://sampleprograms.io/languages/typescript) was written by:
 
 - Antonino Bertulla
 

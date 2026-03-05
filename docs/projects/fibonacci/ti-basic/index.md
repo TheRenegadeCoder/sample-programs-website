@@ -8,7 +8,7 @@ layout: default
 tags:
 - fibonacci
 - ti-basic
-title: Fibonacci in Ti Basic
+title: Fibonacci in TI-BASIC
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Ti Basic](https://sampleprograms.io/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [TI-BASIC](https://sampleprograms.io/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```ti_basic
+```ti-basic
 Input "",Str1
 "0123456789"->Str2
 length(Str1)->L
@@ -69,7 +69,7 @@ End
 
 {% endraw %}
 
-Fibonacci in [Ti Basic](https://sampleprograms.io/languages/ti-basic) was written by:
+Fibonacci in [TI-BASIC](https://sampleprograms.io/languages/ti-basic) was written by:
 
 - rzuckerm
 

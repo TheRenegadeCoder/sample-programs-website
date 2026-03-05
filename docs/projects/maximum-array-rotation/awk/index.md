@@ -8,7 +8,7 @@ layout: default
 tags:
 - awk
 - maximum-array-rotation
-title: Maximum Array Rotation in Awk
+title: Maximum Array Rotation in AWK
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [Awk](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [AWK](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -91,7 +91,7 @@ BEGIN {
 
 {% endraw %}
 
-Maximum Array Rotation in [Awk](https://sampleprograms.io/languages/awk) was written by:
+Maximum Array Rotation in [AWK](https://sampleprograms.io/languages/awk) was written by:
 
 - rzuckerm
 

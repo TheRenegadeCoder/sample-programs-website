@@ -8,7 +8,7 @@ layout: default
 tags:
 - convex-hull
 - powershell
-title: Convex Hull in Powershell
+title: Convex Hull in PowerShell
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Convex Hull](https://sampleprograms.io/projects/convex-hull) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -132,7 +132,7 @@ Write-Output ($hullPoints -join "`n")
 
 {% endraw %}
 
-Convex Hull in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
+Convex Hull in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
 
 - rzuckerm
 

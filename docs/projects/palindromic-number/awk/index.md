@@ -8,7 +8,7 @@ layout: default
 tags:
 - awk
 - palindromic-number
-title: Palindromic Number in Awk
+title: Palindromic Number in AWK
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Awk](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [AWK](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -67,7 +67,7 @@ BEGIN {
 
 {% endraw %}
 
-Palindromic Number in [Awk](https://sampleprograms.io/languages/awk) was written by:
+Palindromic Number in [AWK](https://sampleprograms.io/languages/awk) was written by:
 
 - rzuckerm
 

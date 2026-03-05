@@ -8,7 +8,7 @@ last-modified: 2024-12-21
 layout: default
 tags:
 - picolisp
-title: The Picolisp Programming Language
+title: The PicoLisp Programming Language
 ---
 
 <!--
@@ -21,7 +21,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the Picolisp page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+Welcome to the PicoLisp page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 This article was written by:
 
@@ -53,6 +53,6 @@ information, check out the [PicoLisp Official Website][5].
 
 There are 3 articles:
 
-- [Baklava in Picolisp](https://sampleprograms.io/projects/baklava/picolisp)
-- [Hello World in Picolisp](https://sampleprograms.io/projects/hello-world/picolisp)
-- [Reverse String in Picolisp](https://sampleprograms.io/projects/reverse-string/picolisp)
+- [Baklava in PicoLisp](https://sampleprograms.io/projects/baklava/picolisp)
+- [Hello World in PicoLisp](https://sampleprograms.io/projects/hello-world/picolisp)
+- [Reverse String in PicoLisp](https://sampleprograms.io/projects/reverse-string/picolisp)

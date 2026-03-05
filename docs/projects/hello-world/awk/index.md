@@ -8,7 +8,7 @@ layout: default
 tags:
 - awk
 - hello-world
-title: Hello World in Awk
+title: Hello World in AWK
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Awk](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [AWK](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ BEGIN {
 
 {% endraw %}
 
-Hello World in [Awk](https://sampleprograms.io/languages/awk) was written by:
+Hello World in [AWK](https://sampleprograms.io/languages/awk) was written by:
 
 - rzuckerm
 

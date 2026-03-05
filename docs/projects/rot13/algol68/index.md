@@ -8,7 +8,7 @@ layout: default
 tags:
 - algol68
 - rot13
-title: Rot13 in Algol68
+title: Rot13 in ALGOL 68
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```algol68
+```algol_68
 PROC usage = VOID: printf(($gl$, "Usage: please provide a string to encrypt"));
 
 PROC rot13 = (STRING s) STRING:
@@ -67,7 +67,7 @@ printf(($gl$, s))
 
 {% endraw %}
 
-Rot13 in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Rot13 in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

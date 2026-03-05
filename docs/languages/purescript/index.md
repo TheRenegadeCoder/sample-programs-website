@@ -5,7 +5,7 @@ last-modified: 2024-12-23
 layout: default
 tags:
 - purescript
-title: The Purescript Programming Language
+title: The PureScript Programming Language
 ---
 
 <!--
@@ -18,7 +18,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the Purescript page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+Welcome to the PureScript page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 ## Description
 
@@ -28,5 +28,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Purescript](https://sampleprograms.io/projects/baklava/purescript)
-- [Hello World in Purescript](https://sampleprograms.io/projects/hello-world/purescript)
+- [Baklava in PureScript](https://sampleprograms.io/projects/baklava/purescript)
+- [Hello World in PureScript](https://sampleprograms.io/projects/hello-world/purescript)

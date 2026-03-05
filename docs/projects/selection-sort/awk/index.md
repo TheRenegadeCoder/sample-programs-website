@@ -8,7 +8,7 @@ layout: default
 tags:
 - awk
 - selection-sort
-title: Selection Sort in Awk
+title: Selection Sort in AWK
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Awk](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [AWK](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -101,7 +101,7 @@ BEGIN {
 
 {% endraw %}
 
-Selection Sort in [Awk](https://sampleprograms.io/languages/awk) was written by:
+Selection Sort in [AWK](https://sampleprograms.io/languages/awk) was written by:
 
 - rzuckerm
 

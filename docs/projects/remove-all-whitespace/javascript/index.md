@@ -8,7 +8,7 @@ layout: default
 tags:
 - javascript
 - remove-all-whitespace
-title: Remove All Whitespace in Javascript
+title: Remove All Whitespace in JavaScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -46,7 +46,7 @@ process.argv[2].length > 0
 
 {% endraw %}
 
-Remove All Whitespace in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Remove All Whitespace in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Zia
 

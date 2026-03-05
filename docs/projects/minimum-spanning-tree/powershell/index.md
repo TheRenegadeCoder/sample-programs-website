@@ -8,7 +8,7 @@ layout: default
 tags:
 - minimum-spanning-tree
 - powershell
-title: Minimum Spanning Tree in Powershell
+title: Minimum Spanning Tree in PowerShell
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -178,7 +178,7 @@ Write-Output $totalWeight
 
 {% endraw %}
 
-Minimum Spanning Tree in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
+Minimum Spanning Tree in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
 
 - rzuckerm
 

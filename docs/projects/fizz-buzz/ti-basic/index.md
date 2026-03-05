@@ -8,7 +8,7 @@ layout: default
 tags:
 - fizz-buzz
 - ti-basic
-title: Fizz Buzz in Ti Basic
+title: Fizz Buzz in TI-BASIC
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Ti Basic](https://sampleprograms.io/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [TI-BASIC](https://sampleprograms.io/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```ti_basic
+```ti-basic
 For(N,1,100)
     If remainder(N,15)=0 Then Disp("FizzBuzz")
     Else
@@ -45,7 +45,7 @@ End
 
 {% endraw %}
 
-Fizz Buzz in [Ti Basic](https://sampleprograms.io/languages/ti-basic) was written by:
+Fizz Buzz in [TI-BASIC](https://sampleprograms.io/languages/ti-basic) was written by:
 
 - rzuckerm
 

@@ -9,7 +9,7 @@ layout: default
 tags:
 - fibonacci
 - php
-title: Fibonacci in Php
+title: Fibonacci in PHP
 ---
 
 <!--
@@ -23,7 +23,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [PHP](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -52,7 +52,7 @@ for ($index = 1; $index <= $input; $index++) {
 
 {% endraw %}
 
-Fibonacci in [Php](https://sampleprograms.io/languages/php) was written by:
+Fibonacci in [PHP](https://sampleprograms.io/languages/php) was written by:
 
 - Carles Capell
 - Parker Johansen

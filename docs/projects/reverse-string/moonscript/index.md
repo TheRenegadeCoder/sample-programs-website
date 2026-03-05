@@ -8,7 +8,7 @@ layout: default
 tags:
 - moonscript
 - reverse-string
-title: Reverse String in Moonscript
+title: Reverse String in MoonScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Moonscript](https://sampleprograms.io/languages/moonscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [MoonScript](https://sampleprograms.io/languages/moonscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -54,7 +54,7 @@ else
 
 {% endraw %}
 
-Reverse String in [Moonscript](https://sampleprograms.io/languages/moonscript) was written by:
+Reverse String in [MoonScript](https://sampleprograms.io/languages/moonscript) was written by:
 
 - dannymccarragher
 

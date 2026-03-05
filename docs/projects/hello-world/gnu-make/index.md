@@ -9,7 +9,7 @@ layout: default
 tags:
 - gnu-make
 - hello-world
-title: Hello World in Gnu Make
+title: Hello World in GNU Make
 ---
 
 <!--
@@ -23,7 +23,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Gnu Make](https://sampleprograms.io/languages/gnu-make) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [GNU Make](https://sampleprograms.io/languages/gnu-make) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -39,7 +39,7 @@ all: ;@:
 
 {% endraw %}
 
-Hello World in [Gnu Make](https://sampleprograms.io/languages/gnu-make) was written by:
+Hello World in [GNU Make](https://sampleprograms.io/languages/gnu-make) was written by:
 
 - rzuckerm
 

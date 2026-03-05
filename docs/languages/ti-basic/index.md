@@ -5,7 +5,7 @@ last-modified: 2025-02-03
 layout: default
 tags:
 - ti-basic
-title: The Ti Basic Programming Language
+title: The TI-BASIC Programming Language
 ---
 
 <!--
@@ -18,7 +18,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the Ti Basic page! Here, you'll find a description of the language as well as a list of sample programs in that language.
+Welcome to the TI-BASIC page! Here, you'll find a description of the language as well as a list of sample programs in that language.
 
 ## Description
 
@@ -28,16 +28,16 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 13 articles:
 
-- [Baklava in Ti Basic](https://sampleprograms.io/projects/baklava/ti-basic)
-- [Capitalize in Ti Basic](https://sampleprograms.io/projects/capitalize/ti-basic)
-- [Duplicate Character Counter in Ti Basic](https://sampleprograms.io/projects/duplicate-character-counter/ti-basic)
-- [Even Odd in Ti Basic](https://sampleprograms.io/projects/even-odd/ti-basic)
-- [Factorial in Ti Basic](https://sampleprograms.io/projects/factorial/ti-basic)
-- [Fibonacci in Ti Basic](https://sampleprograms.io/projects/fibonacci/ti-basic)
-- [Fizz Buzz in Ti Basic](https://sampleprograms.io/projects/fizz-buzz/ti-basic)
-- [Hello World in Ti Basic](https://sampleprograms.io/projects/hello-world/ti-basic)
-- [Josephus Problem in Ti Basic](https://sampleprograms.io/projects/josephus-problem/ti-basic)
-- [Palindromic Number in Ti Basic](https://sampleprograms.io/projects/palindromic-number/ti-basic)
-- [Prime Number in Ti Basic](https://sampleprograms.io/projects/prime-number/ti-basic)
-- [Reverse String in Ti Basic](https://sampleprograms.io/projects/reverse-string/ti-basic)
-- [Rot13 in Ti Basic](https://sampleprograms.io/projects/rot13/ti-basic)
+- [Baklava in TI-BASIC](https://sampleprograms.io/projects/baklava/ti-basic)
+- [Capitalize in TI-BASIC](https://sampleprograms.io/projects/capitalize/ti-basic)
+- [Duplicate Character Counter in TI-BASIC](https://sampleprograms.io/projects/duplicate-character-counter/ti-basic)
+- [Even Odd in TI-BASIC](https://sampleprograms.io/projects/even-odd/ti-basic)
+- [Factorial in TI-BASIC](https://sampleprograms.io/projects/factorial/ti-basic)
+- [Fibonacci in TI-BASIC](https://sampleprograms.io/projects/fibonacci/ti-basic)
+- [Fizz Buzz in TI-BASIC](https://sampleprograms.io/projects/fizz-buzz/ti-basic)
+- [Hello World in TI-BASIC](https://sampleprograms.io/projects/hello-world/ti-basic)
+- [Josephus Problem in TI-BASIC](https://sampleprograms.io/projects/josephus-problem/ti-basic)
+- [Palindromic Number in TI-BASIC](https://sampleprograms.io/projects/palindromic-number/ti-basic)
+- [Prime Number in TI-BASIC](https://sampleprograms.io/projects/prime-number/ti-basic)
+- [Reverse String in TI-BASIC](https://sampleprograms.io/projects/reverse-string/ti-basic)
+- [Rot13 in TI-BASIC](https://sampleprograms.io/projects/rot13/ti-basic)

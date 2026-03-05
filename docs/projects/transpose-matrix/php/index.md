@@ -8,7 +8,7 @@ layout: default
 tags:
 - php
 - transpose-matrix
-title: Transpose Matrix in Php
+title: Transpose Matrix in PHP
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [PHP](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -154,7 +154,7 @@ show_matrix_as_list($matrix_t);
 
 {% endraw %}
 
-Transpose Matrix in [Php](https://sampleprograms.io/languages/php) was written by:
+Transpose Matrix in [PHP](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

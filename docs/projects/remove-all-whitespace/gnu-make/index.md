@@ -8,7 +8,7 @@ layout: default
 tags:
 - gnu-make
 - remove-all-whitespace
-title: Remove All Whitespace in Gnu Make
+title: Remove All Whitespace in GNU Make
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Gnu Make](https://sampleprograms.io/languages/gnu-make) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [GNU Make](https://sampleprograms.io/languages/gnu-make) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -65,7 +65,7 @@ all: ;@:
 
 {% endraw %}
 
-Remove All Whitespace in [Gnu Make](https://sampleprograms.io/languages/gnu-make) was written by:
+Remove All Whitespace in [GNU Make](https://sampleprograms.io/languages/gnu-make) was written by:
 
 - rzuckerm
 

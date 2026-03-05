@@ -8,7 +8,7 @@ layout: default
 tags:
 - baklava
 - objective-c
-title: Baklava in Objective C
+title: Baklava in Objective-C
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Objective C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Objective-C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```objective_c
+```objective-c
 #import <Foundation/Foundation.h>
 
 // Source:
@@ -69,7 +69,7 @@ int main(int argc, const char * argv[]) {
 
 {% endraw %}
 
-Baklava in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
+Baklava in [Objective-C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - rzuckerm
 

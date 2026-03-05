@@ -8,7 +8,7 @@ layout: default
 tags:
 - base64-encode-decode
 - powershell
-title: Base64 Encode Decode in Powershell
+title: Base64 Encode Decode in PowerShell
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Base64 Encode Decode](https://sampleprograms.io/projects/base64-encode-decode) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Base64 Encode Decode](https://sampleprograms.io/projects/base64-encode-decode) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -72,7 +72,7 @@ Write-Host $Result
 
 {% endraw %}
 
-Base64 Encode Decode in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
+Base64 Encode Decode in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
 
 - rzuckerm
 

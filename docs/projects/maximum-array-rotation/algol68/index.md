@@ -8,7 +8,7 @@ layout: default
 tags:
 - algol68
 - maximum-array-rotation
-title: Maximum Array Rotation in Algol68
+title: Maximum Array Rotation in ALGOL 68
 ---
 
 <!--
@@ -22,13 +22,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 {% raw %}
 
-```algol68
+```algol_68
 MODE PARSEINT_RESULT = STRUCT(BOOL valid, INT value, STRING leftover);
 MODE PARSEINTLIST_RESULT = STRUCT(BOOL valid, REF []INT values);
 
@@ -214,7 +214,7 @@ printf(($gl$, whole(value, 0)))
 
 {% endraw %}
 
-Maximum Array Rotation in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+Maximum Array Rotation in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

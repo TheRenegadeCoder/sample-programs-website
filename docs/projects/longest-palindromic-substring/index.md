@@ -121,25 +121,25 @@ Usage: please provide a string that contains at least one palindrome
 
 There are 19 articles:
 
-- [Longest Palindromic Substring in Algol68](https://sampleprograms.io/projects/longest-palindromic-substring/algol68)
-- [Longest Palindromic Substring in Awk](https://sampleprograms.io/projects/longest-palindromic-substring/awk)
+- [Longest Palindromic Substring in ALGOL 68](https://sampleprograms.io/projects/longest-palindromic-substring/algol68)
+- [Longest Palindromic Substring in AWK](https://sampleprograms.io/projects/longest-palindromic-substring/awk)
 - [Longest Palindromic Substring in Beef](https://sampleprograms.io/projects/longest-palindromic-substring/beef)
 - [Longest Palindromic Substring in C](https://sampleprograms.io/projects/longest-palindromic-substring/c)
 - [Longest Palindromic Substring in C#](https://sampleprograms.io/projects/longest-palindromic-substring/c-sharp)
 - [Longest Palindromic Substring in C++](https://sampleprograms.io/projects/longest-palindromic-substring/c-plus-plus)
-- [Longest Palindromic Substring in Commodore Basic](https://sampleprograms.io/projects/longest-palindromic-substring/commodore-basic)
+- [Longest Palindromic Substring in Commodore BASIC](https://sampleprograms.io/projects/longest-palindromic-substring/commodore-basic)
 - [Longest Palindromic Substring in Euphoria](https://sampleprograms.io/projects/longest-palindromic-substring/euphoria)
 - [Longest Palindromic Substring in Go](https://sampleprograms.io/projects/longest-palindromic-substring/go)
 - [Longest Palindromic Substring in Java](https://sampleprograms.io/projects/longest-palindromic-substring/java)
-- [Longest Palindromic Substring in Javascript](https://sampleprograms.io/projects/longest-palindromic-substring/javascript)
-- [Longest Palindromic Substring in M4](https://sampleprograms.io/projects/longest-palindromic-substring/m4)
+- [Longest Palindromic Substring in JavaScript](https://sampleprograms.io/projects/longest-palindromic-substring/javascript)
 - [Longest Palindromic Substring in Mathematica](https://sampleprograms.io/projects/longest-palindromic-substring/mathematica)
+- [Longest Palindromic Substring in PHP](https://sampleprograms.io/projects/longest-palindromic-substring/php)
 - [Longest Palindromic Substring in Pascal](https://sampleprograms.io/projects/longest-palindromic-substring/pascal)
-- [Longest Palindromic Substring in Php](https://sampleprograms.io/projects/longest-palindromic-substring/php)
-- [Longest Palindromic Substring in Powershell](https://sampleprograms.io/projects/longest-palindromic-substring/powershell)
+- [Longest Palindromic Substring in PowerShell](https://sampleprograms.io/projects/longest-palindromic-substring/powershell)
 - [Longest Palindromic Substring in Python](https://sampleprograms.io/projects/longest-palindromic-substring/python)
 - [Longest Palindromic Substring in Rust](https://sampleprograms.io/projects/longest-palindromic-substring/rust)
 - [Longest Palindromic Substring in Tcl](https://sampleprograms.io/projects/longest-palindromic-substring/tcl)
+- [Longest Palindromic Substring in m4](https://sampleprograms.io/projects/longest-palindromic-substring/m4)
 
 ***
 

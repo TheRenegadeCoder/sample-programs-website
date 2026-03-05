@@ -10,7 +10,7 @@ layout: default
 tags:
 - powershell
 - reverse-string
-title: Reverse String in Powershell
+title: Reverse String in PowerShell
 ---
 
 <!--
@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -73,7 +73,7 @@ Write-Host $StringBuilder.ToString()
 
 {% endraw %}
 
-Reverse String in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
+Reverse String in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
 
 - Devin Leaman
 - Jeremy Grifski

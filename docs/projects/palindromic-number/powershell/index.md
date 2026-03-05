@@ -8,7 +8,7 @@ layout: default
 tags:
 - palindromic-number
 - powershell
-title: Palindromic Number in Powershell
+title: Palindromic Number in PowerShell
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -59,7 +59,7 @@ Write-Host ((Test-IsPalindromicNumber $Value) ? "true" : "false")
 
 {% endraw %}
 
-Palindromic Number in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
+Palindromic Number in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
 
 - rzuckerm
 

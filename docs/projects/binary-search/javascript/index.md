@@ -8,7 +8,7 @@ layout: default
 tags:
 - binary-search
 - javascript
-title: Binary Search in Javascript
+title: Binary Search in JavaScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -55,7 +55,7 @@ console.log(array && target ? binarySearch(array.split(', '), target) : error);
 
 {% endraw %}
 
-Binary Search in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Binary Search in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
 
 - izexi
 

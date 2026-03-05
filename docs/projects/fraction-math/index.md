@@ -92,25 +92,25 @@ Usage: ./fraction-math operand1 operator operand2
 
 There are 19 articles:
 
-- [Fraction Math in Algol68](https://sampleprograms.io/projects/fraction-math/algol68)
-- [Fraction Math in Awk](https://sampleprograms.io/projects/fraction-math/awk)
+- [Fraction Math in ALGOL 68](https://sampleprograms.io/projects/fraction-math/algol68)
+- [Fraction Math in AWK](https://sampleprograms.io/projects/fraction-math/awk)
 - [Fraction Math in Beef](https://sampleprograms.io/projects/fraction-math/beef)
 - [Fraction Math in C](https://sampleprograms.io/projects/fraction-math/c)
 - [Fraction Math in C#](https://sampleprograms.io/projects/fraction-math/c-sharp)
 - [Fraction Math in C++](https://sampleprograms.io/projects/fraction-math/c-plus-plus)
-- [Fraction Math in Commodore Basic](https://sampleprograms.io/projects/fraction-math/commodore-basic)
+- [Fraction Math in Commodore BASIC](https://sampleprograms.io/projects/fraction-math/commodore-basic)
 - [Fraction Math in Euphoria](https://sampleprograms.io/projects/fraction-math/euphoria)
 - [Fraction Math in Go](https://sampleprograms.io/projects/fraction-math/go)
-- [Fraction Math in M4](https://sampleprograms.io/projects/fraction-math/m4)
 - [Fraction Math in Mathematica](https://sampleprograms.io/projects/fraction-math/mathematica)
+- [Fraction Math in PHP](https://sampleprograms.io/projects/fraction-math/php)
 - [Fraction Math in Pascal](https://sampleprograms.io/projects/fraction-math/pascal)
-- [Fraction Math in Php](https://sampleprograms.io/projects/fraction-math/php)
-- [Fraction Math in Powershell](https://sampleprograms.io/projects/fraction-math/powershell)
+- [Fraction Math in PowerShell](https://sampleprograms.io/projects/fraction-math/powershell)
 - [Fraction Math in Python](https://sampleprograms.io/projects/fraction-math/python)
 - [Fraction Math in Ruby](https://sampleprograms.io/projects/fraction-math/ruby)
 - [Fraction Math in Rust](https://sampleprograms.io/projects/fraction-math/rust)
 - [Fraction Math in Swift](https://sampleprograms.io/projects/fraction-math/swift)
 - [Fraction Math in Tcl](https://sampleprograms.io/projects/fraction-math/tcl)
+- [Fraction Math in m4](https://sampleprograms.io/projects/fraction-math/m4)
 
 ***
 

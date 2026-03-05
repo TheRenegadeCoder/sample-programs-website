@@ -9,7 +9,7 @@ layout: default
 tags:
 - javascript
 - merge-sort
-title: Merge Sort in Javascript
+title: Merge Sort in JavaScript
 ---
 
 <!--
@@ -23,7 +23,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -90,7 +90,7 @@ else {
 
 {% endraw %}
 
-Merge Sort in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+Merge Sort in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
 
 - rzuckerm
 - Sumathi Varadharajan

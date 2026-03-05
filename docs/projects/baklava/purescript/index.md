@@ -8,7 +8,7 @@ layout: default
 tags:
 - baklava
 - purescript
-title: Baklava in Purescript
+title: Baklava in PureScript
 ---
 
 <!--
@@ -22,7 +22,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Purescript](https://sampleprograms.io/languages/purescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [PureScript](https://sampleprograms.io/languages/purescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -66,7 +66,7 @@ repeatString n s
 
 {% endraw %}
 
-Baklava in [Purescript](https://sampleprograms.io/languages/purescript) was written by:
+Baklava in [PureScript](https://sampleprograms.io/languages/purescript) was written by:
 
 - rzuckerm
 
