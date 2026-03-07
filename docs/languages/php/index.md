@@ -1,7 +1,7 @@
 ---
 date: 2018-03-31
 featured-image: programming-languages.jpg
-last-modified: 2025-08-02
+last-modified: 2026-03-07
 layout: default
 tags:
 - php
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 38 articles:
+There are 39 articles:
 
 - [Baklava in PHP](https://sampleprograms.io/projects/baklava/php)
 - [Base64 Encode Decode in PHP](https://sampleprograms.io/projects/base64-encode-decode/php)
@@ -66,3 +66,4 @@ There are 38 articles:
 - [Selection Sort in PHP](https://sampleprograms.io/projects/selection-sort/php)
 - [Sleep Sort in PHP](https://sampleprograms.io/projects/sleep-sort/php)
 - [Transpose Matrix in PHP](https://sampleprograms.io/projects/transpose-matrix/php)
+- [Zeckendorf in PHP](https://sampleprograms.io/projects/zeckendorf/php)

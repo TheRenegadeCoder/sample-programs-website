@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1381 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1382 code snippets.
 
 ## Language Breakdown
 
@@ -18,19 +18,19 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 68</td>
-        <td class="right">6.77%</td>
+        <td class="right">6.76%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #AF425E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Commodore BASIC</td>
-        <td class="right">6.65%</td>
+        <td class="right">6.64%</td>
         <td class="bar-graph"><div style="width: 98.22%; background-color: #4F44D8;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">m4</td>
-        <td class="right">5.76%</td>
+        <td class="right">5.75%</td>
         <td class="bar-graph"><div style="width: 85.08%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
@@ -66,8 +66,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">PHP</td>
-        <td class="right">3.74%</td>
-        <td class="bar-graph"><div style="width: 55.25%; background-color: #4F5D95;"></div></td> 
+        <td class="right">3.87%</td>
+        <td class="bar-graph"><div style="width: 57.24%; background-color: #4F5D95;"></div></td> 
     </tr>
 
     <tr>
@@ -90,7 +90,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C++</td>
-        <td class="right">3.27%</td>
+        <td class="right">3.26%</td>
         <td class="bar-graph"><div style="width: 48.26%; background-color: #F34B7D;"></div></td> 
     </tr>
 
@@ -102,13 +102,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Mathematica</td>
-        <td class="right">2.74%</td>
+        <td class="right">2.73%</td>
         <td class="bar-graph"><div style="width: 40.43%; background-color: #DD1100;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Java</td>
-        <td class="right">2.58%</td>
+        <td class="right">2.57%</td>
         <td class="bar-graph"><div style="width: 38.04%; background-color: #B07219;"></div></td> 
     </tr>
 
@@ -126,7 +126,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Python</td>
-        <td class="right">2.00%</td>
+        <td class="right">1.99%</td>
         <td class="bar-graph"><div style="width: 29.47%; background-color: #3572A5;"></div></td> 
     </tr>
 
@@ -168,7 +168,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Perl</td>
-        <td class="right">0.86%</td>
+        <td class="right">0.85%</td>
         <td class="bar-graph"><div style="width: 12.64%; background-color: #0298C3;"></div></td> 
     </tr>
 
@@ -234,7 +234,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">COBOL</td>
-        <td class="right">0.42%</td>
+        <td class="right">0.41%</td>
         <td class="bar-graph"><div style="width: 6.13%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
@@ -288,7 +288,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Fetlang</td>
-        <td class="right">0.26%</td>
+        <td class="right">0.25%</td>
         <td class="bar-graph"><div style="width: 3.77%; background-color: #FF4997;"></div></td> 
     </tr>
 
@@ -1209,12 +1209,12 @@ The 'O' collection contains 7 languages, of which 7 are tested, and 43 code snip
 
 ### P
 
-The 'P' collection contains 14 languages, of which 14 are tested, and 200 code snippets.
+The 'P' collection contains 14 languages, of which 14 are tested, and 201 code snippets.
 
 - [Pascal](https://sampleprograms.io/languages/pascal) (38 code snippets)
 - [Perl](https://sampleprograms.io/languages/perl) (21 code snippets)
 - [Phix](https://sampleprograms.io/languages/phix) (2 code snippets)
-- [PHP](https://sampleprograms.io/languages/php) (38 code snippets)
+- [PHP](https://sampleprograms.io/languages/php) (39 code snippets)
 - [PicoLisp](https://sampleprograms.io/languages/picolisp) (3 code snippets)
 - [Piet](https://sampleprograms.io/languages/piet) (2 code snippets)
 - [Pineapple](https://sampleprograms.io/languages/pineapple) (3 code snippets)
