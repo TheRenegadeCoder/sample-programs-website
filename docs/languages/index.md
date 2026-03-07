@@ -265,7 +265,7 @@ Here are the percentages for each language in the collection:
     <tr>
         <td class="right nowrap">TI-BASIC</td>
         <td class="right">0.32%</td>
-        <td class="bar-graph"><div style="width: 4.69%; background-color: #EDEDED;"></div></td> 
+        <td class="bar-graph"><div style="width: 4.69%; background-color: #A0AA87;"></div></td> 
     </tr>
 
     <tr>
