@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1378 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1379 code snippets.
 
 ## Language Breakdown
 
@@ -42,13 +42,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">m4</td>
-        <td class="right">5.61%</td>
+        <td class="right">5.60%</td>
         <td class="bar-graph"><div style="width: 82.57%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Pascal</td>
-        <td class="right">4.68%</td>
+        <td class="right">4.67%</td>
         <td class="bar-graph"><div style="width: 68.85%; background-color: #E3F171;"></div></td> 
     </tr>
 
@@ -95,15 +95,15 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Mathematica</td>
+        <td class="right nowrap">PowerShell</td>
         <td class="right">2.75%</td>
-        <td class="bar-graph"><div style="width: 40.43%; background-color: #DD1100;"></div></td> 
+        <td class="bar-graph"><div style="width: 40.50%; background-color: #012456;"></div></td> 
     </tr>
 
     <tr>
-        <td class="right nowrap">PowerShell</td>
-        <td class="right">2.70%</td>
-        <td class="bar-graph"><div style="width: 39.77%; background-color: #012456;"></div></td> 
+        <td class="right nowrap">Mathematica</td>
+        <td class="right">2.74%</td>
+        <td class="bar-graph"><div style="width: 40.43%; background-color: #DD1100;"></div></td> 
     </tr>
 
     <tr>
@@ -1209,7 +1209,7 @@ The 'O' collection contains 7 languages, of which 7 are tested, and 43 code snip
 
 ### P
 
-The 'P' collection contains 14 languages, of which 14 are tested, and 199 code snippets.
+The 'P' collection contains 14 languages, of which 14 are tested, and 200 code snippets.
 
 - [Pascal](https://sampleprograms.io/languages/pascal) (38 code snippets)
 - [Perl](https://sampleprograms.io/languages/perl) (21 code snippets)
@@ -1220,7 +1220,7 @@ The 'P' collection contains 14 languages, of which 14 are tested, and 199 code s
 - [Pineapple](https://sampleprograms.io/languages/pineapple) (3 code snippets)
 - [Pinecone](https://sampleprograms.io/languages/pinecone) (3 code snippets)
 - [Pony](https://sampleprograms.io/languages/pony) (3 code snippets)
-- [PowerShell](https://sampleprograms.io/languages/powershell) (38 code snippets)
+- [PowerShell](https://sampleprograms.io/languages/powershell) (39 code snippets)
 - [Prolog](https://sampleprograms.io/languages/prolog) (3 code snippets)
 - [PureScript](https://sampleprograms.io/languages/purescript) (2 code snippets)
 - [Pyret](https://sampleprograms.io/languages/pyret) (4 code snippets)

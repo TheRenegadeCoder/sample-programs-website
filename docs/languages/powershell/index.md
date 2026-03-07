@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-05-28
 featured-image: programming-languages.jpg
-last-modified: 2025-07-28
+last-modified: 2026-03-07
 layout: default
 tags:
 - powershell
@@ -70,7 +70,7 @@ is it's now open-source and will now be called PowerShell Core as it runs on
 
 ## Articles
 
-There are 38 articles:
+There are 39 articles:
 
 - [Baklava in PowerShell](https://sampleprograms.io/projects/baklava/powershell)
 - [Base64 Encode Decode in PowerShell](https://sampleprograms.io/projects/base64-encode-decode/powershell)
@@ -110,3 +110,4 @@ There are 38 articles:
 - [Selection Sort in PowerShell](https://sampleprograms.io/projects/selection-sort/powershell)
 - [Sleep Sort in PowerShell](https://sampleprograms.io/projects/sleep-sort/powershell)
 - [Transpose Matrix in PowerShell](https://sampleprograms.io/projects/transpose-matrix/powershell)
+- [Zeckendorf in PowerShell](https://sampleprograms.io/projects/zeckendorf/powershell)
