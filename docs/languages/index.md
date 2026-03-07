@@ -79,7 +79,7 @@ Here are the percentages for each language in the collection:
     <tr>
         <td class="right nowrap">x86-64</td>
         <td class="right">3.56%</td>
-        <td class="bar-graph"><div style="width: 52.30%; background-color: #EDEDED;"></div></td> 
+        <td class="bar-graph"><div style="width: 52.30%; background-color: #6E4C13;"></div></td> 
     </tr>
 
     <tr>
