@@ -5,7 +5,7 @@ authors:
 - Ron Zuckerman
 date: 2018-03-31
 featured-image: programming-languages.jpg
-last-modified: 2025-03-31
+last-modified: 2026-03-07
 layout: default
 tags:
 - rust
@@ -51,7 +51,7 @@ In terms of syntax, Rust resembles languages like [C][3] and [C++][4], but it bo
 
 ## Articles
 
-There are 38 articles:
+There are 39 articles:
 
 - [Baklava in Rust](https://sampleprograms.io/projects/baklava/rust)
 - [Base64 Encode Decode in Rust](https://sampleprograms.io/projects/base64-encode-decode/rust)
@@ -91,3 +91,4 @@ There are 38 articles:
 - [Selection Sort in Rust](https://sampleprograms.io/projects/selection-sort/rust)
 - [Sleep Sort in Rust](https://sampleprograms.io/projects/sleep-sort/rust)
 - [Transpose Matrix in Rust](https://sampleprograms.io/projects/transpose-matrix/rust)
+- [Zeckendorf in Rust](https://sampleprograms.io/projects/zeckendorf/rust)
