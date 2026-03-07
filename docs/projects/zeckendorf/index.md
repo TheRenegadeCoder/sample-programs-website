@@ -141,12 +141,13 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 10 articles:
+There are 11 articles:
 
 - [Zeckendorf in ALGOL 68](https://sampleprograms.io/projects/zeckendorf/algol68)
 - [Zeckendorf in AWK](https://sampleprograms.io/projects/zeckendorf/awk)
 - [Zeckendorf in Beef](https://sampleprograms.io/projects/zeckendorf/beef)
 - [Zeckendorf in Commodore BASIC](https://sampleprograms.io/projects/zeckendorf/commodore-basic)
+- [Zeckendorf in Euphoria](https://sampleprograms.io/projects/zeckendorf/euphoria)
 - [Zeckendorf in PHP](https://sampleprograms.io/projects/zeckendorf/php)
 - [Zeckendorf in PowerShell](https://sampleprograms.io/projects/zeckendorf/powershell)
 - [Zeckendorf in Python](https://sampleprograms.io/projects/zeckendorf/python)
