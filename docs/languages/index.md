@@ -583,7 +583,7 @@ Here are the percentages for each language in the collection:
     <tr>
         <td class="right nowrap">MojiScript</td>
         <td class="right">0.04%</td>
-        <td class="bar-graph"><div style="width: 0.61%; background-color: #EDEDED;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.61%; background-color: #F0DB4F;"></div></td> 
     </tr>
 
     <tr>
