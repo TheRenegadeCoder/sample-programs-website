@@ -1,7 +1,7 @@
 ---
 date: 2023-12-16
 featured-image: programming-languages.jpg
-last-modified: 2025-02-03
+last-modified: 2026-03-07
 layout: default
 tags:
 - ti-basic
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 13 articles:
+There are 14 articles:
 
 - [Baklava in TI-BASIC](https://sampleprograms.io/projects/baklava/ti-basic)
 - [Capitalize in TI-BASIC](https://sampleprograms.io/projects/capitalize/ti-basic)
@@ -41,3 +41,4 @@ There are 13 articles:
 - [Prime Number in TI-BASIC](https://sampleprograms.io/projects/prime-number/ti-basic)
 - [Reverse String in TI-BASIC](https://sampleprograms.io/projects/reverse-string/ti-basic)
 - [Rot13 in TI-BASIC](https://sampleprograms.io/projects/rot13/ti-basic)
+- [Zeckendorf in TI-BASIC](https://sampleprograms.io/projects/zeckendorf/ti-basic)

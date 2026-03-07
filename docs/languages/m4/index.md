@@ -1,7 +1,7 @@
 ---
 date: 2025-08-04
 featured-image: programming-languages.jpg
-last-modified: 2025-11-18
+last-modified: 2026-03-07
 layout: default
 tags:
 - m4
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 35 articles:
+There are 36 articles:
 
 - [Baklava in m4](https://sampleprograms.io/projects/baklava/m4)
 - [Binary Search in m4](https://sampleprograms.io/projects/binary-search/m4)
@@ -63,3 +63,4 @@ There are 35 articles:
 - [Rot13 in m4](https://sampleprograms.io/projects/rot13/m4)
 - [Selection Sort in m4](https://sampleprograms.io/projects/selection-sort/m4)
 - [Transpose Matrix in m4](https://sampleprograms.io/projects/transpose-matrix/m4)
+- [Zeckendorf in m4](https://sampleprograms.io/projects/zeckendorf/m4)
