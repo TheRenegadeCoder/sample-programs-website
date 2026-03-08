@@ -1488,14 +1488,14 @@ files = [
 
 [[package]]
 name = "subete"
-version = "0.22.1"
+version = "0.22.2"
 description = "The Sample Programs API in Python"
 optional = false
 python-versions = "<4.0,>=3.9"
 groups = ["main"]
 files = [
-    {file = "subete-0.22.1-py3-none-any.whl", hash = "sha256:5b03aa79cea9880e5f4e1b4abbf7aa1937b73aca6c552ff0c92809cc4a885bc4"},
-    {file = "subete-0.22.1.tar.gz", hash = "sha256:e18fe87c9a301b1186c3288567c5f657c6efbb4557108c72a8d29a389f283dd1"},
+    {file = "subete-0.22.2-py3-none-any.whl", hash = "sha256:e18c4f34ba9de9138c51b63cb6680ebb0bbfd9b471e2acd3915bd101c59c2f06"},
+    {file = "subete-0.22.2.tar.gz", hash = "sha256:e88eafe9abfab56ae6aa23a4c6ed2aeff5355d3f5051f98c60c42314a9136208"},
 ]
 
 [package.dependencies]
@@ -1624,4 +1624,4 @@ zstd = ["backports-zstd (>=1.0.0) ; python_version < \"3.14\""]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.10,<4.0"
-content-hash = "18b5c4d63d689492ee4fae75a0d1a571fd4860f22e72c74130456ff58339e8ac"
+content-hash = "b227ce367d199695518238046ef6b4ca37f771bff17344c540d96688339ca739"
