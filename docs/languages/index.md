@@ -151,7 +151,7 @@ Here are the percentages for each language in the collection:
     <tr>
         <td class="right nowrap">Objective-C</td>
         <td class="right">1.11%</td>
-        <td class="bar-graph"><div style="width: 16.45%; background-color: #EDEDED;"></div></td> 
+        <td class="bar-graph"><div style="width: 16.45%; background-color: #438EFF;"></div></td> 
     </tr>
 
     <tr>
@@ -589,7 +589,7 @@ Here are the percentages for each language in the collection:
     <tr>
         <td class="right nowrap">Modula-2</td>
         <td class="right">0.04%</td>
-        <td class="bar-graph"><div style="width: 0.60%; background-color: #EDEDED;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.60%; background-color: #10253F;"></div></td> 
     </tr>
 
     <tr>
