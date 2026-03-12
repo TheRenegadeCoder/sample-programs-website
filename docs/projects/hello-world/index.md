@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2025-10-27
+last-modified: 2026-03-12
 layout: default
 tags:
 - hello-world
@@ -47,8 +47,9 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 157 articles:
+There are 158 articles:
 
+- [Hello World in ALGOL 60](https://sampleprograms.io/projects/hello-world/algol60)
 - [Hello World in ALGOL 68](https://sampleprograms.io/projects/hello-world/algol68)
 - [Hello World in AWK](https://sampleprograms.io/projects/hello-world/awk)
 - [Hello World in Ada](https://sampleprograms.io/projects/hello-world/ada)

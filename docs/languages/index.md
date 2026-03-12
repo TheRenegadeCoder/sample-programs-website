@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2026-03-10
+last-modified: 2026-03-12
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 157 languages, of which 156 are tested, 1 is untestable, and 1384 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1385 code snippets.
 
 ## Language Breakdown
 
@@ -958,6 +958,12 @@ Here are the percentages for each language in the collection:
         <td class="bar-graph"><div style="width: 0.10%; background-color: #C8F0F0;"></div></td> 
     </tr>
 
+    <tr>
+        <td class="right nowrap">ALGOL 60</td>
+        <td class="right">0.00%</td>
+        <td class="bar-graph"><div style="width: 0.04%; background-color: #EDEDED;"></div></td> 
+    </tr>
+
 </table>
 </details>
 
@@ -998,10 +1004,11 @@ To return here, just click the &laquo; [Return to Top](#language-collections-by-
 
 ### A
 
-The 'A' collection contains 5 languages, of which 5 are tested, and 86 code snippets.
+The 'A' collection contains 6 languages, of which 6 are tested, and 87 code snippets.
 
 - [Ada](https://sampleprograms.io/languages/ada) (3 code snippets)
 - [Agda](https://sampleprograms.io/languages/agda) (2 code snippets)
+- [ALGOL 60](https://sampleprograms.io/languages/algol60) (1 code snippet)
 - [ALGOL 68](https://sampleprograms.io/languages/algol68) (39 code snippets)
 - [ArkScript](https://sampleprograms.io/languages/arkscript) (3 code snippets)
 - [AWK](https://sampleprograms.io/languages/awk) (39 code snippets)
