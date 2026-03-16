@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2026-03-12
 featured-image: hello-world-in-every-language.jpg
-last-modified: 2026-03-12
+last-modified: 2026-03-16
 layout: default
 tags:
 - algol60
@@ -30,7 +30,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```algol_60
 begin
-    outstring(1, "Hello, World!\n");
+    outstring(1, "Hello, World!\n")
 end
 
 ```
