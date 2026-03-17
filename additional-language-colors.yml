@@ -3,6 +3,7 @@
 #
 # Key is language name (e.g., "Commodore Basic")
 # Value is RGB color (e.g., "#4F44D8")
+ALGOL 60: "#D1E0DB"
 ALGOL 68: "#AF425E"
 ArkScript: "#00AAD4"
 BAIK: "#4CAF50"
