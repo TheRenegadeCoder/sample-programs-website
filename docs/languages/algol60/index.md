@@ -1,7 +1,7 @@
 ---
 date: 2026-03-12
 featured-image: programming-languages.jpg
-last-modified: 2026-03-16
+last-modified: 2026-03-17
 layout: default
 tags:
 - algol60
@@ -26,6 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There is 1 article:
+There are 2 articles:
 
 - [Hello World in ALGOL 60](https://sampleprograms.io/projects/hello-world/algol60)
+- [Prime Number in ALGOL 60](https://sampleprograms.io/projects/prime-number/algol60)

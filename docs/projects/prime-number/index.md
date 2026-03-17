@@ -1,7 +1,7 @@
 ---
 date: 2018-11-16
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2026-03-10
+last-modified: 2026-03-17
 layout: default
 tags:
 - prime-number
@@ -83,8 +83,9 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 41 articles:
+There are 42 articles:
 
+- [Prime Number in ALGOL 60](https://sampleprograms.io/projects/prime-number/algol60)
 - [Prime Number in ALGOL 68](https://sampleprograms.io/projects/prime-number/algol68)
 - [Prime Number in AWK](https://sampleprograms.io/projects/prime-number/awk)
 - [Prime Number in Bash](https://sampleprograms.io/projects/prime-number/bash)
