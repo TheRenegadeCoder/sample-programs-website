@@ -1,7 +1,7 @@
 ---
 date: 2018-07-27
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2025-11-22
+last-modified: 2026-03-17
 layout: default
 tags:
 - fizz-buzz
@@ -76,8 +76,9 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 96 articles:
+There are 97 articles:
 
+- [Fizz Buzz in ALGOL 60](https://sampleprograms.io/projects/fizz-buzz/algol60)
 - [Fizz Buzz in ALGOL 68](https://sampleprograms.io/projects/fizz-buzz/algol68)
 - [Fizz Buzz in AWK](https://sampleprograms.io/projects/fizz-buzz/awk)
 - [Fizz Buzz in Ada](https://sampleprograms.io/projects/fizz-buzz/ada)
