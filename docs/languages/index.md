@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2026-03-17
+last-modified: 2026-03-18
 layout: default
 title: Programming Languages
 ---
@@ -235,7 +235,7 @@ Here are the percentages for each language in the collection:
     <tr>
         <td class="right nowrap">ALGOL 60</td>
         <td class="right">0.45%</td>
-        <td class="bar-graph"><div style="width: 6.70%; background-color: #D1E0DB;"></div></td> 
+        <td class="bar-graph"><div style="width: 6.69%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
     <tr>
