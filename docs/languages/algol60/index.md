@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 7 articles:
+There are 8 articles:
 
 - [Baklava in ALGOL 60](https://sampleprograms.io/projects/baklava/algol60)
 - [Even Odd in ALGOL 60](https://sampleprograms.io/projects/even-odd/algol60)
@@ -34,4 +34,5 @@ There are 7 articles:
 - [Fibonacci in ALGOL 60](https://sampleprograms.io/projects/fibonacci/algol60)
 - [Fizz Buzz in ALGOL 60](https://sampleprograms.io/projects/fizz-buzz/algol60)
 - [Hello World in ALGOL 60](https://sampleprograms.io/projects/hello-world/algol60)
+- [Palindromic Number in ALGOL 60](https://sampleprograms.io/projects/palindromic-number/algol60)
 - [Prime Number in ALGOL 60](https://sampleprograms.io/projects/prime-number/algol60)
