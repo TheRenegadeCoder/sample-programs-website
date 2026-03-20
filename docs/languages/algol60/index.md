@@ -1,7 +1,7 @@
 ---
 date: 2026-03-12
 featured-image: programming-languages.jpg
-last-modified: 2026-03-18
+last-modified: 2026-03-20
 layout: default
 tags:
 - algol60
@@ -26,10 +26,12 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 5 articles:
+There are 7 articles:
 
 - [Baklava in ALGOL 60](https://sampleprograms.io/projects/baklava/algol60)
 - [Even Odd in ALGOL 60](https://sampleprograms.io/projects/even-odd/algol60)
+- [Factorial in ALGOL 60](https://sampleprograms.io/projects/factorial/algol60)
+- [Fibonacci in ALGOL 60](https://sampleprograms.io/projects/fibonacci/algol60)
 - [Fizz Buzz in ALGOL 60](https://sampleprograms.io/projects/fizz-buzz/algol60)
 - [Hello World in ALGOL 60](https://sampleprograms.io/projects/hello-world/algol60)
 - [Prime Number in ALGOL 60](https://sampleprograms.io/projects/prime-number/algol60)
