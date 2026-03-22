@@ -1,7 +1,7 @@
 ---
 date: 2020-10-07
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2026-03-20
+last-modified: 2026-03-22
 layout: default
 tags:
 - palindromic-number

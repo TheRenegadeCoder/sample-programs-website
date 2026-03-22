@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2026-03-20
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2026-03-20
+last-modified: 2026-03-22
 layout: default
 tags:
 - algol60
@@ -80,7 +80,8 @@ begin
         s := 1;
 
         comment Ignore whitespace;
-        for ch := indigit while ch = 12 do;
+        ch := indigit;
+        for ch := ch while ch = 12 do ch := indigit;
 
         comment Process signs: ignore "+" and invert sign if "-";
     signloop:
@@ -129,10 +130,10 @@ begin
             d := x % 10;
             x := x - 10 * d;
             if d != 0 then digits(d);
-            outchar(1, "0123456789", x + 1);
+            outchar(1, "0123456789", x + 1)
         end digits;
         if x < 0 then outstring(1, "-");
-        digits(abs(x));
+        digits(abs(x))
     end outIntegerNoSpace;
 
     procedure fibonacci(n);
@@ -151,7 +152,7 @@ begin
             outIntegerNoSpace(i);
             outstring(1, ": ");
             outIntegerNoSpace(a);
-            outstring(1, "\n");
+            outstring(1, "\n")
         end
     end fibonacci;
 
@@ -166,7 +167,7 @@ begin
     if !inValidInteger(result, ch) | ch != -1 | result < 0 then usage;
 
     comment Output Fibonacci values;
-    fibonacci(result);
+    fibonacci(result)
 end
 
 ```

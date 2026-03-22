@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2026-03-20
 featured-image: factorial-in-every-language.jpg
-last-modified: 2026-03-20
+last-modified: 2026-03-22
 layout: default
 tags:
 - algol60
@@ -80,7 +80,8 @@ begin
         s := 1;
 
         comment Ignore whitespace;
-        for ch := indigit while ch = 12 do;
+        ch := indigit;
+        for ch := ch while ch = 12 do ch := indigit;
 
         comment Process signs: ignore "+" and invert sign if "-";
     signloop:

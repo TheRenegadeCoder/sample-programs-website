@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2026-03-17
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2026-03-18
+last-modified: 2026-03-22
 layout: default
 tags:
 - algol60
@@ -80,7 +80,8 @@ begin
         s := 1;
 
         comment Ignore whitespace;
-        for ch := indigit while ch = 12 do;
+        ch := indigit;
+        for ch := ch while ch = 12 do ch := indigit;
 
         comment Process signs: ignore "+" and invert sign if "-";
     signloop:
@@ -133,7 +134,7 @@ begin
             q := entier(sqrt(x));
             for i := 3, i + 2 while result & i <= q do
             begin
-                result := mod(x, i) != 0;
+                result := mod(x, i) != 0
             end
         end;
 

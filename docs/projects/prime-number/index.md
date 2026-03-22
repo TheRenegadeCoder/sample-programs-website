@@ -1,7 +1,7 @@
 ---
 date: 2018-11-16
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2026-03-18
+last-modified: 2026-03-22
 layout: default
 tags:
 - prime-number
