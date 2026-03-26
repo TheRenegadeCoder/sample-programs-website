@@ -75,7 +75,7 @@ yet to implement Hello World in Scala.
 
 ## Articles
 
-There are 13 articles:
+There are 12 articles:
 
 - [Baklava in Scala](https://sampleprograms.io/projects/baklava/scala)
 - [Bubble Sort in Scala](https://sampleprograms.io/projects/bubble-sort/scala)
@@ -89,4 +89,3 @@ There are 13 articles:
 - [Linear Search in Scala](https://sampleprograms.io/projects/linear-search/scala)
 - [Quick Sort in Scala](https://sampleprograms.io/projects/quick-sort/scala)
 - [Reverse String in Scala](https://sampleprograms.io/projects/reverse-string/scala)
-- [Sleep Sort in Scala](https://sampleprograms.io/projects/sleep-sort/scala)

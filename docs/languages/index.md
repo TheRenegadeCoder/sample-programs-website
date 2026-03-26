@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1392 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1391 code snippets.
 
 ## Language Breakdown
 
@@ -36,13 +36,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">m4</td>
-        <td class="right">5.68%</td>
+        <td class="right">5.69%</td>
         <td class="bar-graph"><div style="width: 85.08%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Beef</td>
-        <td class="right">5.57%</td>
+        <td class="right">5.58%</td>
         <td class="bar-graph"><div style="width: 83.48%; background-color: #A52F4E;"></div></td> 
     </tr>
 
@@ -54,19 +54,19 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Rust</td>
-        <td class="right">4.11%</td>
+        <td class="right">4.12%</td>
         <td class="bar-graph"><div style="width: 61.59%; background-color: #DEA584;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">C</td>
-        <td class="right">3.98%</td>
+        <td class="right">3.99%</td>
         <td class="bar-graph"><div style="width: 59.65%; background-color: #555555;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">PHP</td>
-        <td class="right">3.82%</td>
+        <td class="right">3.83%</td>
         <td class="bar-graph"><div style="width: 57.24%; background-color: #4F5D95;"></div></td> 
     </tr>
 
@@ -78,7 +78,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">x86-64</td>
-        <td class="right">3.49%</td>
+        <td class="right">3.50%</td>
         <td class="bar-graph"><div style="width: 52.30%; background-color: #6E4C13;"></div></td> 
     </tr>
 
@@ -90,13 +90,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C++</td>
-        <td class="right">3.22%</td>
+        <td class="right">3.23%</td>
         <td class="bar-graph"><div style="width: 48.26%; background-color: #F34B7D;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">PowerShell</td>
-        <td class="right">2.70%</td>
+        <td class="right">2.71%</td>
         <td class="bar-graph"><div style="width: 40.50%; background-color: #012456;"></div></td> 
     </tr>
 
@@ -120,7 +120,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">JavaScript</td>
-        <td class="right">1.97%</td>
+        <td class="right">1.98%</td>
         <td class="bar-graph"><div style="width: 29.57%; background-color: #F1E05A;"></div></td> 
     </tr>
 
@@ -132,7 +132,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Go</td>
-        <td class="right">1.91%</td>
+        <td class="right">1.92%</td>
         <td class="bar-graph"><div style="width: 28.67%; background-color: #00ADD8;"></div></td> 
     </tr>
 
@@ -209,12 +209,6 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Scala</td>
-        <td class="right">0.62%</td>
-        <td class="bar-graph"><div style="width: 9.33%; background-color: #C22D40;"></div></td> 
-    </tr>
-
-    <tr>
         <td class="right nowrap">Unicat</td>
         <td class="right">0.60%</td>
         <td class="bar-graph"><div style="width: 8.95%; background-color: #FFDE34;"></div></td> 
@@ -236,6 +230,12 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Lua</td>
         <td class="right">0.58%</td>
         <td class="bar-graph"><div style="width: 8.68%; background-color: #000080;"></div></td> 
+    </tr>
+
+    <tr>
+        <td class="right nowrap">Scala</td>
+        <td class="right">0.52%</td>
+        <td class="bar-graph"><div style="width: 7.75%; background-color: #C22D40;"></div></td> 
     </tr>
 
     <tr>
@@ -264,7 +264,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">TI-BASIC</td>
-        <td class="right">0.35%</td>
+        <td class="right">0.36%</td>
         <td class="bar-graph"><div style="width: 5.31%; background-color: #A0AA87;"></div></td> 
     </tr>
 
@@ -306,7 +306,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Elvish</td>
-        <td class="right">0.22%</td>
+        <td class="right">0.23%</td>
         <td class="bar-graph"><div style="width: 3.37%; background-color: #55BB55;"></div></td> 
     </tr>
 
@@ -354,7 +354,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Nim</td>
-        <td class="right">0.12%</td>
+        <td class="right">0.13%</td>
         <td class="bar-graph"><div style="width: 1.87%; background-color: #FFC200;"></div></td> 
     </tr>
 
@@ -1260,10 +1260,10 @@ The 'R' collection contains 8 languages, of which 8 are tested, and 90 code snip
 
 ### S
 
-The 'S' collection contains 10 languages, of which 10 are tested, and 43 code snippets.
+The 'S' collection contains 10 languages, of which 10 are tested, and 42 code snippets.
 
 - [Sather](https://sampleprograms.io/languages/sather) (2 code snippets)
-- [Scala](https://sampleprograms.io/languages/scala) (13 code snippets)
+- [Scala](https://sampleprograms.io/languages/scala) (12 code snippets)
 - [Scheme](https://sampleprograms.io/languages/scheme) (3 code snippets)
 - [Scilab](https://sampleprograms.io/languages/scilab) (2 code snippets)
 - [Shen](https://sampleprograms.io/languages/shen) (2 code snippets)
