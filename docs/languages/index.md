@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2026-03-22
+last-modified: 2026-03-28
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1391 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1392 code snippets.
 
 ## Language Breakdown
 
@@ -36,7 +36,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">m4</td>
-        <td class="right">5.69%</td>
+        <td class="right">5.68%</td>
         <td class="bar-graph"><div style="width: 85.08%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
@@ -66,7 +66,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">PHP</td>
-        <td class="right">3.83%</td>
+        <td class="right">3.82%</td>
         <td class="bar-graph"><div style="width: 57.24%; background-color: #4F5D95;"></div></td> 
     </tr>
 
@@ -78,7 +78,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">x86-64</td>
-        <td class="right">3.50%</td>
+        <td class="right">3.49%</td>
         <td class="bar-graph"><div style="width: 52.30%; background-color: #6E4C13;"></div></td> 
     </tr>
 
@@ -90,7 +90,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C++</td>
-        <td class="right">3.23%</td>
+        <td class="right">3.22%</td>
         <td class="bar-graph"><div style="width: 48.26%; background-color: #F34B7D;"></div></td> 
     </tr>
 
@@ -149,15 +149,15 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Objective-C</td>
-        <td class="right">1.10%</td>
-        <td class="bar-graph"><div style="width: 16.45%; background-color: #438EFF;"></div></td> 
+        <td class="right nowrap">ALGOL 60</td>
+        <td class="right">1.12%</td>
+        <td class="bar-graph"><div style="width: 16.74%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
     <tr>
-        <td class="right nowrap">ALGOL 60</td>
-        <td class="right">1.08%</td>
-        <td class="bar-graph"><div style="width: 16.21%; background-color: #D1E0DB;"></div></td> 
+        <td class="right nowrap">Objective-C</td>
+        <td class="right">1.10%</td>
+        <td class="bar-graph"><div style="width: 16.45%; background-color: #438EFF;"></div></td> 
     </tr>
 
     <tr>
@@ -1004,11 +1004,11 @@ To return here, just click the &laquo; [Return to Top](#language-collections-by-
 
 ### A
 
-The 'A' collection contains 6 languages, of which 6 are tested, and 94 code snippets.
+The 'A' collection contains 6 languages, of which 6 are tested, and 95 code snippets.
 
 - [Ada](https://sampleprograms.io/languages/ada) (3 code snippets)
 - [Agda](https://sampleprograms.io/languages/agda) (2 code snippets)
-- [ALGOL 60](https://sampleprograms.io/languages/algol60) (8 code snippets)
+- [ALGOL 60](https://sampleprograms.io/languages/algol60) (9 code snippets)
 - [ALGOL 68](https://sampleprograms.io/languages/algol68) (39 code snippets)
 - [ArkScript](https://sampleprograms.io/languages/arkscript) (3 code snippets)
 - [AWK](https://sampleprograms.io/languages/awk) (39 code snippets)

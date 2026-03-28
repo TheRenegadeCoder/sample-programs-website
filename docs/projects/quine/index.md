@@ -1,7 +1,7 @@
 ---
 date: 2018-08-07
 featured-image: quine-in-every-language.jpg
-last-modified: 2026-01-11
+last-modified: 2026-03-28
 layout: default
 tags:
 - quine
@@ -61,8 +61,9 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 30 articles:
+There are 31 articles:
 
+- [Quine in ALGOL 60](https://sampleprograms.io/projects/quine/algol60)
 - [Quine in ALGOL 68](https://sampleprograms.io/projects/quine/algol68)
 - [Quine in AWK](https://sampleprograms.io/projects/quine/awk)
 - [Quine in Bash](https://sampleprograms.io/projects/quine/bash)
