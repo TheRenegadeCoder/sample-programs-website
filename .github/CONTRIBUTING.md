@@ -312,7 +312,7 @@ Prerequisites:
 * [Python 3.10 or better][12]
 * [pip python package][16]
 * [virtualenv python package][13]
-* [poetry 2.2.1 or better][15]
+* [poetry 2.3.3 or better][15]
 * [Docker][14]
 
 If you wish to build a local copy of the website install the necessary packages:
