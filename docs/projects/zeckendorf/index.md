@@ -1,7 +1,7 @@
 ---
 date: 2026-01-19
 featured-image: zeckendorf-in-every-language.png
-last-modified: 2026-03-07
+last-modified: 2026-03-30
 layout: default
 tags:
 - zeckendorf
@@ -141,8 +141,9 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 11 articles:
+There are 12 articles:
 
+- [Zeckendorf in ALGOL 60](https://sampleprograms.io/projects/zeckendorf/algol60)
 - [Zeckendorf in ALGOL 68](https://sampleprograms.io/projects/zeckendorf/algol68)
 - [Zeckendorf in AWK](https://sampleprograms.io/projects/zeckendorf/awk)
 - [Zeckendorf in Beef](https://sampleprograms.io/projects/zeckendorf/beef)

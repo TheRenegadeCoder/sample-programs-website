@@ -1,7 +1,7 @@
 ---
 date: 2026-03-12
 featured-image: programming-languages.jpg
-last-modified: 2026-03-28
+last-modified: 2026-03-30
 layout: default
 tags:
 - algol60
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 9 articles:
+There are 10 articles:
 
 - [Baklava in ALGOL 60](https://sampleprograms.io/projects/baklava/algol60)
 - [Even Odd in ALGOL 60](https://sampleprograms.io/projects/even-odd/algol60)
@@ -37,3 +37,4 @@ There are 9 articles:
 - [Palindromic Number in ALGOL 60](https://sampleprograms.io/projects/palindromic-number/algol60)
 - [Prime Number in ALGOL 60](https://sampleprograms.io/projects/prime-number/algol60)
 - [Quine in ALGOL 60](https://sampleprograms.io/projects/quine/algol60)
+- [Zeckendorf in ALGOL 60](https://sampleprograms.io/projects/zeckendorf/algol60)
