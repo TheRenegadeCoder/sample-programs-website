@@ -1,7 +1,7 @@
 ---
 date: 2019-03-31
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2025-10-30
+last-modified: 2026-03-30
 layout: default
 tags:
 - capitalize
@@ -89,8 +89,9 @@ Usage: please provide a string
 
 ## Articles
 
-There are 42 articles:
+There are 43 articles:
 
+- [Capitalize in ALGOL 60](https://sampleprograms.io/projects/capitalize/algol60)
 - [Capitalize in ALGOL 68](https://sampleprograms.io/projects/capitalize/algol68)
 - [Capitalize in AWK](https://sampleprograms.io/projects/capitalize/awk)
 - [Capitalize in Bash](https://sampleprograms.io/projects/capitalize/bash)
