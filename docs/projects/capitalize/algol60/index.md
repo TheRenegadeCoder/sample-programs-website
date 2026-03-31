@@ -123,7 +123,7 @@ begin
     comment Capitialize first character and output string as integer array;
     capitialize(s, len);
     outCharArray(s, len);
-    outstring(1, "\n");
+    outstring(1, "\n")
 end
 
 ```
