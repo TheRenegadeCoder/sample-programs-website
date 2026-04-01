@@ -1,7 +1,7 @@
 ---
 date: 2026-03-12
 featured-image: programming-languages.jpg
-last-modified: 2026-03-30
+last-modified: 2026-04-01
 layout: default
 tags:
 - algol60
@@ -26,10 +26,11 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 12 articles:
+There are 14 articles:
 
 - [Baklava in ALGOL 60](https://sampleprograms.io/projects/baklava/algol60)
 - [Capitalize in ALGOL 60](https://sampleprograms.io/projects/capitalize/algol60)
+- [Duplicate Character Counter in ALGOL 60](https://sampleprograms.io/projects/duplicate-character-counter/algol60)
 - [Even Odd in ALGOL 60](https://sampleprograms.io/projects/even-odd/algol60)
 - [Factorial in ALGOL 60](https://sampleprograms.io/projects/factorial/algol60)
 - [Fibonacci in ALGOL 60](https://sampleprograms.io/projects/fibonacci/algol60)
@@ -39,4 +40,5 @@ There are 12 articles:
 - [Palindromic Number in ALGOL 60](https://sampleprograms.io/projects/palindromic-number/algol60)
 - [Prime Number in ALGOL 60](https://sampleprograms.io/projects/prime-number/algol60)
 - [Quine in ALGOL 60](https://sampleprograms.io/projects/quine/algol60)
+- [Reverse String in ALGOL 60](https://sampleprograms.io/projects/reverse-string/algol60)
 - [Zeckendorf in ALGOL 60](https://sampleprograms.io/projects/zeckendorf/algol60)

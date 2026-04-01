@@ -1,7 +1,7 @@
 ---
 date: 2022-05-14
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2025-10-30
+last-modified: 2026-04-01
 layout: default
 tags:
 - duplicate-character-counter
@@ -76,8 +76,9 @@ Usage: please provide a string
 
 ## Articles
 
-There are 27 articles:
+There are 28 articles:
 
+- [Duplicate Character Counter in ALGOL 60](https://sampleprograms.io/projects/duplicate-character-counter/algol60)
 - [Duplicate Character Counter in ALGOL 68](https://sampleprograms.io/projects/duplicate-character-counter/algol68)
 - [Duplicate Character Counter in AWK](https://sampleprograms.io/projects/duplicate-character-counter/awk)
 - [Duplicate Character Counter in Beef](https://sampleprograms.io/projects/duplicate-character-counter/beef)
