@@ -18,7 +18,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 68</td>
-        <td class="right">6.60%</td>
+        <td class="right">6.61%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #AF425E;"></div></td> 
     </tr>
 
@@ -96,7 +96,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">PowerShell</td>
-        <td class="right">2.67%</td>
+        <td class="right">2.68%</td>
         <td class="bar-graph"><div style="width: 40.50%; background-color: #012456;"></div></td> 
     </tr>
 
@@ -120,8 +120,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 60</td>
-        <td class="right">2.26%</td>
-        <td class="bar-graph"><div style="width: 34.27%; background-color: #D1E0DB;"></div></td> 
+        <td class="right">2.25%</td>
+        <td class="bar-graph"><div style="width: 34.09%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
     <tr>
@@ -252,7 +252,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Julia</td>
-        <td class="right">0.36%</td>
+        <td class="right">0.37%</td>
         <td class="bar-graph"><div style="width: 5.53%; background-color: #A270BA;"></div></td> 
     </tr>
 
