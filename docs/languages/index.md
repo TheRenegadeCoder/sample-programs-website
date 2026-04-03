@@ -18,7 +18,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 68</td>
-        <td class="right">6.56%</td>
+        <td class="right">6.55%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #AF425E;"></div></td> 
     </tr>
 
@@ -48,7 +48,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Pascal</td>
-        <td class="right">4.52%</td>
+        <td class="right">4.51%</td>
         <td class="bar-graph"><div style="width: 68.85%; background-color: #E3F171;"></div></td> 
     </tr>
 
@@ -96,13 +96,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 60</td>
-        <td class="right">2.96%</td>
-        <td class="bar-graph"><div style="width: 45.14%; background-color: #D1E0DB;"></div></td> 
+        <td class="right">3.02%</td>
+        <td class="bar-graph"><div style="width: 46.09%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">PowerShell</td>
-        <td class="right">2.66%</td>
+        <td class="right">2.65%</td>
         <td class="bar-graph"><div style="width: 40.50%; background-color: #012456;"></div></td> 
     </tr>
 
@@ -246,7 +246,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Elixir</td>
-        <td class="right">0.38%</td>
+        <td class="right">0.37%</td>
         <td class="bar-graph"><div style="width: 5.72%; background-color: #6E4A7E;"></div></td> 
     </tr>
 

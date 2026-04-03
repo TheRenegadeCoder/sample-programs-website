@@ -1,7 +1,7 @@
 ---
 date: 2022-05-14
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2026-04-01
+last-modified: 2026-04-03
 layout: default
 tags:
 - duplicate-character-counter
