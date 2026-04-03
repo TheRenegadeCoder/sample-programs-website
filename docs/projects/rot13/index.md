@@ -1,7 +1,7 @@
 ---
 date: 2018-11-20
 featured-image: rot13-in-every-language.jpg
-last-modified: 2025-10-09
+last-modified: 2026-04-03
 layout: default
 tags:
 - rot13
@@ -99,8 +99,9 @@ Usage: please provide a string to encrypt
 
 ## Articles
 
-There are 28 articles:
+There are 29 articles:
 
+- [Rot13 in ALGOL 60](https://sampleprograms.io/projects/rot13/algol60)
 - [Rot13 in ALGOL 68](https://sampleprograms.io/projects/rot13/algol68)
 - [Rot13 in AWK](https://sampleprograms.io/projects/rot13/awk)
 - [Rot13 in Beef](https://sampleprograms.io/projects/rot13/beef)
