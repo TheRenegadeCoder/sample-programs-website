@@ -24,13 +24,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Commodore BASIC</td>
-        <td class="right">6.43%</td>
+        <td class="right">6.44%</td>
         <td class="bar-graph"><div style="width: 98.22%; background-color: #4F44D8;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Euphoria</td>
-        <td class="right">5.69%</td>
+        <td class="right">5.70%</td>
         <td class="bar-graph"><div style="width: 86.96%; background-color: #FF790B;"></div></td> 
     </tr>
 
@@ -54,7 +54,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Rust</td>
-        <td class="right">4.03%</td>
+        <td class="right">4.04%</td>
         <td class="bar-graph"><div style="width: 61.59%; background-color: #DEA584;"></div></td> 
     </tr>
 
@@ -78,7 +78,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">x86-64</td>
-        <td class="right">3.42%</td>
+        <td class="right">3.43%</td>
         <td class="bar-graph"><div style="width: 52.30%; background-color: #6E4C13;"></div></td> 
     </tr>
 
@@ -96,8 +96,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 60</td>
-        <td class="right">3.11%</td>
-        <td class="bar-graph"><div style="width: 47.42%; background-color: #D1E0DB;"></div></td> 
+        <td class="right">3.04%</td>
+        <td class="bar-graph"><div style="width: 46.38%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
     <tr>
@@ -180,7 +180,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Ruby</td>
-        <td class="right">0.80%</td>
+        <td class="right">0.81%</td>
         <td class="bar-graph"><div style="width: 12.29%; background-color: #701516;"></div></td> 
     </tr>
 
@@ -204,7 +204,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Dart</td>
-        <td class="right">0.65%</td>
+        <td class="right">0.66%</td>
         <td class="bar-graph"><div style="width: 10.00%; background-color: #00B4AB;"></div></td> 
     </tr>
 
@@ -270,7 +270,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Lisp</td>
-        <td class="right">0.33%</td>
+        <td class="right">0.34%</td>
         <td class="bar-graph"><div style="width: 5.11%; background-color: #3FB68B;"></div></td> 
     </tr>
 
