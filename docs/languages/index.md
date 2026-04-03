@@ -36,7 +36,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">m4</td>
-        <td class="right">5.57%</td>
+        <td class="right">5.58%</td>
         <td class="bar-graph"><div style="width: 85.08%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
@@ -72,7 +72,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C#</td>
-        <td class="right">3.47%</td>
+        <td class="right">3.48%</td>
         <td class="bar-graph"><div style="width: 53.03%; background-color: #178600;"></div></td> 
     </tr>
 
@@ -84,7 +84,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">AWK</td>
-        <td class="right">3.24%</td>
+        <td class="right">3.25%</td>
         <td class="bar-graph"><div style="width: 49.52%; background-color: #C30E9B;"></div></td> 
     </tr>
 
@@ -96,8 +96,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 60</td>
-        <td class="right">3.04%</td>
-        <td class="bar-graph"><div style="width: 46.38%; background-color: #D1E0DB;"></div></td> 
+        <td class="right">3.01%</td>
+        <td class="bar-graph"><div style="width: 45.97%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
     <tr>
@@ -144,7 +144,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">TypeScript</td>
-        <td class="right">1.28%</td>
+        <td class="right">1.29%</td>
         <td class="bar-graph"><div style="width: 19.61%; background-color: #3178C6;"></div></td> 
     </tr>
 
@@ -216,7 +216,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Octave</td>
-        <td class="right">0.58%</td>
+        <td class="right">0.59%</td>
         <td class="bar-graph"><div style="width: 8.93%; background-color: #E16737;"></div></td> 
     </tr>
 
