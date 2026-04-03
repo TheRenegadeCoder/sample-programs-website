@@ -96,8 +96,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 60</td>
-        <td class="right">3.10%</td>
-        <td class="bar-graph"><div style="width: 47.32%; background-color: #D1E0DB;"></div></td> 
+        <td class="right">3.12%</td>
+        <td class="bar-graph"><div style="width: 47.63%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
     <tr>
@@ -180,7 +180,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Ruby</td>
-        <td class="right">0.81%</td>
+        <td class="right">0.80%</td>
         <td class="bar-graph"><div style="width: 12.29%; background-color: #701516;"></div></td> 
     </tr>
 
