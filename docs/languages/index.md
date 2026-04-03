@@ -36,7 +36,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">m4</td>
-        <td class="right">5.58%</td>
+        <td class="right">5.57%</td>
         <td class="bar-graph"><div style="width: 85.08%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
@@ -72,7 +72,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C#</td>
-        <td class="right">3.48%</td>
+        <td class="right">3.47%</td>
         <td class="bar-graph"><div style="width: 53.03%; background-color: #178600;"></div></td> 
     </tr>
 
@@ -96,8 +96,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 60</td>
-        <td class="right">3.02%</td>
-        <td class="bar-graph"><div style="width: 46.09%; background-color: #D1E0DB;"></div></td> 
+        <td class="right">3.03%</td>
+        <td class="bar-graph"><div style="width: 46.19%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
     <tr>
