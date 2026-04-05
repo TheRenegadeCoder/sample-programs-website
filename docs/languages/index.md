@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2026-04-03
+last-modified: 2026-04-05
 layout: default
 title: Programming Languages
 ---
@@ -443,12 +443,6 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">F#</td>
-        <td class="right">0.06%</td>
-        <td class="bar-graph"><div style="width: 0.94%; background-color: #B845FC;"></div></td> 
-    </tr>
-
-    <tr>
         <td class="right nowrap">Pyret</td>
         <td class="right">0.06%</td>
         <td class="bar-graph"><div style="width: 0.92%; background-color: #EE1E10;"></div></td> 
@@ -470,6 +464,12 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Emojicode</td>
         <td class="right">0.06%</td>
         <td class="bar-graph"><div style="width: 0.86%; background-color: #8D74E7;"></div></td> 
+    </tr>
+
+    <tr>
+        <td class="right nowrap">F#</td>
+        <td class="right">0.06%</td>
+        <td class="bar-graph"><div style="width: 0.86%; background-color: #B845FC;"></div></td> 
     </tr>
 
     <tr>

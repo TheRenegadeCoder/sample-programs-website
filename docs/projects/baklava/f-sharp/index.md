@@ -1,9 +1,10 @@
 ---
 authors:
 - Parker Johansen
+- "\u0218tefan-Iulian Alecu"
 date: 2019-09-12
 featured-image: baklava-in-every-language.jpg
-last-modified: 2019-09-12
+last-modified: 2026-04-05
 layout: default
 tags:
 - baklava
@@ -29,23 +30,21 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [F#](htt
 {% raw %}
 
 ```f#
-let line space asterisk =
-    String.replicate space " "  + String.replicate asterisk "*" + "\n"
+open System
 
-let rec baklavaShrink =
-    List.fold (fun accum n -> accum + (line n (21 - n * 2))) "" [ 1 .. 10 ]
+let inline repeat count (char: char) = String(char, count)
 
-let rec baklavaGrow =
-    List.fold (fun accum n -> accum + (line n (21 - n * 2))) "" [ 10 .. -1 .. 0 ]
-
-let baklava =
-    baklavaGrow + baklavaShrink
+let baklava size =
+    { -size .. size }
+    |> Seq.map (fun y ->
+        let padding = abs y
+        repeat padding ' ' + repeat (2 * (size - padding) + 1) '*')
+    |> String.concat Environment.NewLine
 
 [<EntryPoint>]
 let main argv =
-    printfn "%s" <| baklava.TrimEnd()
+    baklava 10 |> printfn "%s"
     0
-
 
 ```
 
@@ -54,6 +53,7 @@ let main argv =
 Baklava in [F#](https://sampleprograms.io/languages/f-sharp) was written by:
 
 - Parker Johansen
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
