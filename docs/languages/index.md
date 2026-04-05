@@ -18,7 +18,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 68</td>
-        <td class="right">6.55%</td>
+        <td class="right">6.56%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #AF425E;"></div></td> 
     </tr>
 
@@ -467,12 +467,6 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">F#</td>
-        <td class="right">0.06%</td>
-        <td class="bar-graph"><div style="width: 0.86%; background-color: #B845FC;"></div></td> 
-    </tr>
-
-    <tr>
         <td class="right nowrap">Crystal</td>
         <td class="right">0.06%</td>
         <td class="bar-graph"><div style="width: 0.85%; background-color: #000100;"></div></td> 
@@ -584,6 +578,12 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">C2</td>
         <td class="right">0.04%</td>
         <td class="bar-graph"><div style="width: 0.66%; background-color: #2750BF;"></div></td> 
+    </tr>
+
+    <tr>
+        <td class="right nowrap">F#</td>
+        <td class="right">0.04%</td>
+        <td class="bar-graph"><div style="width: 0.64%; background-color: #B845FC;"></div></td> 
     </tr>
 
     <tr>

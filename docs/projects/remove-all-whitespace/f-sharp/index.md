@@ -1,9 +1,10 @@
 ---
 authors:
 - JesseChum
+- "\u0218tefan-Iulian Alecu"
 date: 2024-11-14
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2024-11-14
+last-modified: 2026-04-05
 layout: default
 tags:
 - f-sharp
@@ -31,28 +32,18 @@ Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove
 ```f#
 open System
 
-let removeAllWhitespace (input: string) : string =
-    input |> Seq.filter (fun c -> not (Char.IsWhiteSpace(c))) |> String.Concat
+let removeAllWhitespace = String.filter (Char.IsWhiteSpace >> not)
 
 [<EntryPoint>]
-let main argv : int = 
-    let ret = ref 0  
-
-    if argv.Length = 0 then
-
+let main argv =
+    match argv with
+    | [| input |] when not (String.IsNullOrEmpty input) ->
+        input |> removeAllWhitespace |> printfn "%s"
+        0
+    | _ ->
         printfn "Usage: please provide a string"
-        ret := 1
-    else
-        let input = argv.[0]
-        if input = "" then
-           
-            printfn "Usage: please provide a string"
-            ret := 1
-        else
-            let result = removeAllWhitespace input
-            printfn "%s" result  
+        1
 
-    !ret  
 ```
 
 {% endraw %}
@@ -60,6 +51,7 @@ let main argv : int =
 Remove All Whitespace in [F#](https://sampleprograms.io/languages/f-sharp) was written by:
 
 - JesseChum
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
