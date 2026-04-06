@@ -24,7 +24,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Commodore BASIC</td>
-        <td class="right">6.40%</td>
+        <td class="right">6.39%</td>
         <td class="bar-graph"><div style="width: 98.22%; background-color: #4F44D8;"></div></td> 
     </tr>
 
@@ -42,7 +42,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Beef</td>
-        <td class="right">5.44%</td>
+        <td class="right">5.43%</td>
         <td class="bar-graph"><div style="width: 83.48%; background-color: #A52F4E;"></div></td> 
     </tr>
 
@@ -78,7 +78,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">x86-64</td>
-        <td class="right">3.41%</td>
+        <td class="right">3.40%</td>
         <td class="bar-graph"><div style="width: 52.30%; background-color: #6E4C13;"></div></td> 
     </tr>
 
@@ -96,8 +96,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 60</td>
-        <td class="right">3.05%</td>
-        <td class="bar-graph"><div style="width: 46.83%; background-color: #D1E0DB;"></div></td> 
+        <td class="right">3.08%</td>
+        <td class="bar-graph"><div style="width: 47.27%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
     <tr>
@@ -126,7 +126,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">JavaScript</td>
-        <td class="right">1.93%</td>
+        <td class="right">1.92%</td>
         <td class="bar-graph"><div style="width: 29.57%; background-color: #F1E05A;"></div></td> 
     </tr>
 
@@ -234,7 +234,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Lua</td>
-        <td class="right">0.57%</td>
+        <td class="right">0.56%</td>
         <td class="bar-graph"><div style="width: 8.68%; background-color: #000080;"></div></td> 
     </tr>
 

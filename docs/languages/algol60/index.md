@@ -1,7 +1,7 @@
 ---
 date: 2026-03-12
 featured-image: programming-languages.jpg
-last-modified: 2026-04-05
+last-modified: 2026-04-06
 layout: default
 tags:
 - algol60
