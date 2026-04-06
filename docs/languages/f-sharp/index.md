@@ -1,7 +1,7 @@
 ---
 date: 2018-04-27
 featured-image: programming-languages.jpg
-last-modified: 2026-04-05
+last-modified: 2026-04-06
 layout: default
 tags:
 - f-sharp
@@ -26,8 +26,9 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 3 articles:
+There are 4 articles:
 
 - [Baklava in F#](https://sampleprograms.io/projects/baklava/f-sharp)
+- [Capitalize in F#](https://sampleprograms.io/projects/capitalize/f-sharp)
 - [Hello World in F#](https://sampleprograms.io/projects/hello-world/f-sharp)
 - [Remove All Whitespace in F#](https://sampleprograms.io/projects/remove-all-whitespace/f-sharp)
