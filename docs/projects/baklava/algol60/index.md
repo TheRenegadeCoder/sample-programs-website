@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2026-03-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2026-03-17
+last-modified: 2026-04-06
 layout: default
 tags:
 - algol60
@@ -42,7 +42,7 @@ begin
     integer i, numspaces, numstars;
     for i := -10 step 1 until 10 do
     begin
-        numspaces := abs(i);
+        numspaces := iabs(i);
         numstars := 21 - 2 * numspaces;
         outRepeatString(numspaces, " ");
         outRepeatString(numstars, "*");
