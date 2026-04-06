@@ -1,7 +1,7 @@
 ---
 date: 2018-12-02
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2025-11-05
+last-modified: 2026-04-06
 layout: default
 tags:
 - bubble-sort
@@ -147,7 +147,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-There are 35 articles:
+There are 36 articles:
 
 - [Bubble Sort in ALGOL 68](https://sampleprograms.io/projects/bubble-sort/algol68)
 - [Bubble Sort in AWK](https://sampleprograms.io/projects/bubble-sort/awk)
@@ -162,6 +162,7 @@ There are 35 articles:
 - [Bubble Sort in Elixir](https://sampleprograms.io/projects/bubble-sort/elixir)
 - [Bubble Sort in Erlang](https://sampleprograms.io/projects/bubble-sort/erlang)
 - [Bubble Sort in Euphoria](https://sampleprograms.io/projects/bubble-sort/euphoria)
+- [Bubble Sort in F#](https://sampleprograms.io/projects/bubble-sort/f-sharp)
 - [Bubble Sort in Fortran](https://sampleprograms.io/projects/bubble-sort/fortran)
 - [Bubble Sort in Go](https://sampleprograms.io/projects/bubble-sort/go)
 - [Bubble Sort in Haskell](https://sampleprograms.io/projects/bubble-sort/haskell)
