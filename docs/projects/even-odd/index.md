@@ -1,7 +1,7 @@
 ---
 date: 2018-10-21
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2026-04-06
+last-modified: 2026-04-08
 layout: default
 tags:
 - even-odd
@@ -78,7 +78,7 @@ Usage: please input a number
 
 ## Articles
 
-There are 49 articles:
+There are 50 articles:
 
 - [Even Odd in ALGOL 60](https://sampleprograms.io/projects/even-odd/algol60)
 - [Even Odd in ALGOL 68](https://sampleprograms.io/projects/even-odd/algol68)
@@ -95,6 +95,7 @@ There are 49 articles:
 - [Even Odd in Elixir](https://sampleprograms.io/projects/even-odd/elixir)
 - [Even Odd in Elvish](https://sampleprograms.io/projects/even-odd/elvish)
 - [Even Odd in Euphoria](https://sampleprograms.io/projects/even-odd/euphoria)
+- [Even Odd in F#](https://sampleprograms.io/projects/even-odd/f-sharp)
 - [Even Odd in Fortran](https://sampleprograms.io/projects/even-odd/fortran)
 - [Even Odd in GNU Make](https://sampleprograms.io/projects/even-odd/gnu-make)
 - [Even Odd in Go](https://sampleprograms.io/projects/even-odd/go)

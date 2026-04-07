@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2026-04-06
+last-modified: 2026-04-08
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1406 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1407 code snippets.
 
 ## Language Breakdown
 
@@ -66,7 +66,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">PHP</td>
-        <td class="right">3.73%</td>
+        <td class="right">3.72%</td>
         <td class="bar-graph"><div style="width: 57.24%; background-color: #4F5D95;"></div></td> 
     </tr>
 
@@ -197,6 +197,12 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
+        <td class="right nowrap">F#</td>
+        <td class="right">0.68%</td>
+        <td class="bar-graph"><div style="width: 10.52%; background-color: #B845FC;"></div></td> 
+    </tr>
+
+    <tr>
         <td class="right nowrap">Bash</td>
         <td class="right">0.67%</td>
         <td class="bar-graph"><div style="width: 10.36%; background-color: #89E051;"></div></td> 
@@ -206,12 +212,6 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Dart</td>
         <td class="right">0.65%</td>
         <td class="bar-graph"><div style="width: 10.00%; background-color: #00B4AB;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">F#</td>
-        <td class="right">0.64%</td>
-        <td class="bar-graph"><div style="width: 9.88%; background-color: #B845FC;"></div></td> 
     </tr>
 
     <tr>
@@ -1084,9 +1084,9 @@ The 'E' collection contains 9 languages, of which 9 are tested, and 78 code snip
 
 ### F
 
-The 'F' collection contains 12 languages, of which 12 are tested, and 44 code snippets.
+The 'F' collection contains 12 languages, of which 12 are tested, and 45 code snippets.
 
-- [F#](https://sampleprograms.io/languages/f-sharp) (8 code snippets)
+- [F#](https://sampleprograms.io/languages/f-sharp) (9 code snippets)
 - [F\*](https://sampleprograms.io/languages/f-star) (2 code snippets)
 - [Factor](https://sampleprograms.io/languages/factor) (2 code snippets)
 - [Felix](https://sampleprograms.io/languages/felix) (2 code snippets)

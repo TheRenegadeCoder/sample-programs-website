@@ -1,7 +1,7 @@
 ---
 date: 2018-04-27
 featured-image: programming-languages.jpg
-last-modified: 2026-04-06
+last-modified: 2026-04-08
 layout: default
 tags:
 - f-sharp
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 8 articles:
+There are 9 articles:
 
 - [Baklava in F#](https://sampleprograms.io/projects/baklava/f-sharp)
 - [Base64 Encode Decode in F#](https://sampleprograms.io/projects/base64-encode-decode/f-sharp)
@@ -34,5 +34,6 @@ There are 8 articles:
 - [Bubble Sort in F#](https://sampleprograms.io/projects/bubble-sort/f-sharp)
 - [Capitalize in F#](https://sampleprograms.io/projects/capitalize/f-sharp)
 - [Depth First Search in F#](https://sampleprograms.io/projects/depth-first-search/f-sharp)
+- [Even Odd in F#](https://sampleprograms.io/projects/even-odd/f-sharp)
 - [Hello World in F#](https://sampleprograms.io/projects/hello-world/f-sharp)
 - [Remove All Whitespace in F#](https://sampleprograms.io/projects/remove-all-whitespace/f-sharp)
