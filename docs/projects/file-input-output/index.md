@@ -1,7 +1,7 @@
 ---
 date: 2018-09-10
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2025-10-08
+last-modified: 2026-04-08
 layout: default
 tags:
 - file-input-output
@@ -60,7 +60,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 35 articles:
+There are 36 articles:
 
 - [File Input Output in ALGOL 68](https://sampleprograms.io/projects/file-input-output/algol68)
 - [File Input Output in AWK](https://sampleprograms.io/projects/file-input-output/awk)
@@ -73,6 +73,7 @@ There are 35 articles:
 - [File Input Output in Dg](https://sampleprograms.io/projects/file-input-output/dg)
 - [File Input Output in Elvish](https://sampleprograms.io/projects/file-input-output/elvish)
 - [File Input Output in Euphoria](https://sampleprograms.io/projects/file-input-output/euphoria)
+- [File Input Output in F#](https://sampleprograms.io/projects/file-input-output/f-sharp)
 - [File Input Output in GNU Make](https://sampleprograms.io/projects/file-input-output/gnu-make)
 - [File Input Output in Go](https://sampleprograms.io/projects/file-input-output/go)
 - [File Input Output in Haskell](https://sampleprograms.io/projects/file-input-output/haskell)

@@ -1,7 +1,7 @@
 ---
 date: 2018-10-26
 featured-image: factorial-in-every-language.jpg
-last-modified: 2026-04-06
+last-modified: 2026-04-08
 layout: default
 tags:
 - factorial
@@ -83,7 +83,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 47 articles:
+There are 48 articles:
 
 - [Factorial in ALGOL 60](https://sampleprograms.io/projects/factorial/algol60)
 - [Factorial in ALGOL 68](https://sampleprograms.io/projects/factorial/algol68)
@@ -103,6 +103,7 @@ There are 47 articles:
 - [Factorial in Elvish](https://sampleprograms.io/projects/factorial/elvish)
 - [Factorial in Erlang](https://sampleprograms.io/projects/factorial/erlang)
 - [Factorial in Euphoria](https://sampleprograms.io/projects/factorial/euphoria)
+- [Factorial in F#](https://sampleprograms.io/projects/factorial/f-sharp)
 - [Factorial in Fortran](https://sampleprograms.io/projects/factorial/fortran)
 - [Factorial in Go](https://sampleprograms.io/projects/factorial/go)
 - [Factorial in Groovy](https://sampleprograms.io/projects/factorial/groovy)
