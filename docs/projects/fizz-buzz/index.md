@@ -1,7 +1,7 @@
 ---
 date: 2018-07-27
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2026-03-17
+last-modified: 2026-04-08
 layout: default
 tags:
 - fizz-buzz
@@ -76,7 +76,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 97 articles:
+There are 98 articles:
 
 - [Fizz Buzz in ALGOL 60](https://sampleprograms.io/projects/fizz-buzz/algol60)
 - [Fizz Buzz in ALGOL 68](https://sampleprograms.io/projects/fizz-buzz/algol68)
@@ -109,6 +109,7 @@ There are 97 articles:
 - [Fizz Buzz in Elvish](https://sampleprograms.io/projects/fizz-buzz/elvish)
 - [Fizz Buzz in Erlang](https://sampleprograms.io/projects/fizz-buzz/erlang)
 - [Fizz Buzz in Euphoria](https://sampleprograms.io/projects/fizz-buzz/euphoria)
+- [Fizz Buzz in F#](https://sampleprograms.io/projects/fizz-buzz/f-sharp)
 - [Fizz Buzz in Fennel](https://sampleprograms.io/projects/fizz-buzz/fennel)
 - [Fizz Buzz in Fetlang](https://sampleprograms.io/projects/fizz-buzz/fetlang)
 - [Fizz Buzz in Forth](https://sampleprograms.io/projects/fizz-buzz/forth)

@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 9 articles:
+There are 11 articles:
 
 - [Baklava in F#](https://sampleprograms.io/projects/baklava/f-sharp)
 - [Base64 Encode Decode in F#](https://sampleprograms.io/projects/base64-encode-decode/f-sharp)
@@ -34,6 +34,8 @@ There are 9 articles:
 - [Bubble Sort in F#](https://sampleprograms.io/projects/bubble-sort/f-sharp)
 - [Capitalize in F#](https://sampleprograms.io/projects/capitalize/f-sharp)
 - [Depth First Search in F#](https://sampleprograms.io/projects/depth-first-search/f-sharp)
+- [Duplicate Character Counter in F#](https://sampleprograms.io/projects/duplicate-character-counter/f-sharp)
 - [Even Odd in F#](https://sampleprograms.io/projects/even-odd/f-sharp)
+- [Fizz Buzz in F#](https://sampleprograms.io/projects/fizz-buzz/f-sharp)
 - [Hello World in F#](https://sampleprograms.io/projects/hello-world/f-sharp)
 - [Remove All Whitespace in F#](https://sampleprograms.io/projects/remove-all-whitespace/f-sharp)
