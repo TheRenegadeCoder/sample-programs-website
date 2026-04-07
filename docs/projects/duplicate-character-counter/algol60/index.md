@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2026-04-01
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2026-04-03
+last-modified: 2026-04-06
 layout: default
 tags:
 - algol60
@@ -133,10 +133,10 @@ begin
             d := x % 10;
             x := x - 10 * d;
             if d != 0 then digits(d);
-            outchar(1, "0123456789", x + 1)
+            outchar(1, "0123456789", iabs(x) + 1)
         end digits;
         if x < 0 then outstring(1, "-");
-        digits(abs(x))
+        digits(x)
     end outIntegerNoSpace;
 
     procedure outDuplicateCharacterCounts(charCounts, foundChars, numFoundChars);

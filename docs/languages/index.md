@@ -798,7 +798,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Orc</td>
-        <td class="right">0.03%</td>
+        <td class="right">0.02%</td>
         <td class="bar-graph"><div style="width: 0.38%; background-color: #4E9C3C;"></div></td> 
     </tr>
 
