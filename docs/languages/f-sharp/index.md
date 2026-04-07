@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 16 articles:
+There are 18 articles:
 
 - [Baklava in F#](https://sampleprograms.io/projects/baklava/f-sharp)
 - [Base64 Encode Decode in F#](https://sampleprograms.io/projects/base64-encode-decode/f-sharp)
@@ -35,6 +35,7 @@ There are 16 articles:
 - [Capitalize in F#](https://sampleprograms.io/projects/capitalize/f-sharp)
 - [Convex Hull in F#](https://sampleprograms.io/projects/convex-hull/f-sharp)
 - [Depth First Search in F#](https://sampleprograms.io/projects/depth-first-search/f-sharp)
+- [Dijkstra in F#](https://sampleprograms.io/projects/dijkstra/f-sharp)
 - [Duplicate Character Counter in F#](https://sampleprograms.io/projects/duplicate-character-counter/f-sharp)
 - [Even Odd in F#](https://sampleprograms.io/projects/even-odd/f-sharp)
 - [Factorial in F#](https://sampleprograms.io/projects/factorial/f-sharp)
@@ -43,4 +44,5 @@ There are 16 articles:
 - [Fizz Buzz in F#](https://sampleprograms.io/projects/fizz-buzz/f-sharp)
 - [Fraction Math in F#](https://sampleprograms.io/projects/fraction-math/f-sharp)
 - [Hello World in F#](https://sampleprograms.io/projects/hello-world/f-sharp)
+- [Insertion Sort in F#](https://sampleprograms.io/projects/insertion-sort/f-sharp)
 - [Remove All Whitespace in F#](https://sampleprograms.io/projects/remove-all-whitespace/f-sharp)
