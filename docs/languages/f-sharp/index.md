@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 24 articles:
+There are 25 articles:
 
 - [Baklava in F#](https://sampleprograms.io/projects/baklava/f-sharp)
 - [Base64 Encode Decode in F#](https://sampleprograms.io/projects/base64-encode-decode/f-sharp)
@@ -51,4 +51,5 @@ There are 24 articles:
 - [Longest Palindromic Substring in F#](https://sampleprograms.io/projects/longest-palindromic-substring/f-sharp)
 - [Longest Word in F#](https://sampleprograms.io/projects/longest-word/f-sharp)
 - [Maximum Array Rotation in F#](https://sampleprograms.io/projects/maximum-array-rotation/f-sharp)
+- [Maximum Subarray in F#](https://sampleprograms.io/projects/maximum-subarray/f-sharp)
 - [Remove All Whitespace in F#](https://sampleprograms.io/projects/remove-all-whitespace/f-sharp)
