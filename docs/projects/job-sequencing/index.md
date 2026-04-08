@@ -1,7 +1,7 @@
 ---
 date: 2018-11-19
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: 2025-11-18
+last-modified: 2026-04-08
 layout: default
 tags:
 - job-sequencing
@@ -114,7 +114,7 @@ Usage: please provide a list of profits and a list of deadlines
 
 ## Articles
 
-There are 21 articles:
+There are 22 articles:
 
 - [Job Sequencing in ALGOL 68](https://sampleprograms.io/projects/job-sequencing/algol68)
 - [Job Sequencing in AWK](https://sampleprograms.io/projects/job-sequencing/awk)
@@ -124,6 +124,7 @@ There are 21 articles:
 - [Job Sequencing in C++](https://sampleprograms.io/projects/job-sequencing/c-plus-plus)
 - [Job Sequencing in Commodore BASIC](https://sampleprograms.io/projects/job-sequencing/commodore-basic)
 - [Job Sequencing in Euphoria](https://sampleprograms.io/projects/job-sequencing/euphoria)
+- [Job Sequencing in F#](https://sampleprograms.io/projects/job-sequencing/f-sharp)
 - [Job Sequencing in Go](https://sampleprograms.io/projects/job-sequencing/go)
 - [Job Sequencing in Haskell](https://sampleprograms.io/projects/job-sequencing/haskell)
 - [Job Sequencing in Java](https://sampleprograms.io/projects/job-sequencing/java)
