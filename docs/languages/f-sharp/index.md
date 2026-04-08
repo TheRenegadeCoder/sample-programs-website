@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 19 articles:
+There are 20 articles:
 
 - [Baklava in F#](https://sampleprograms.io/projects/baklava/f-sharp)
 - [Base64 Encode Decode in F#](https://sampleprograms.io/projects/base64-encode-decode/f-sharp)
@@ -46,4 +46,5 @@ There are 19 articles:
 - [Hello World in F#](https://sampleprograms.io/projects/hello-world/f-sharp)
 - [Insertion Sort in F#](https://sampleprograms.io/projects/insertion-sort/f-sharp)
 - [Job Sequencing in F#](https://sampleprograms.io/projects/job-sequencing/f-sharp)
+- [Josephus Problem in F#](https://sampleprograms.io/projects/josephus-problem/f-sharp)
 - [Remove All Whitespace in F#](https://sampleprograms.io/projects/remove-all-whitespace/f-sharp)
