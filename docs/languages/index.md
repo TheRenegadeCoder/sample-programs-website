@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1419 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1420 code snippets.
 
 ## Language Breakdown
 
@@ -24,7 +24,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Commodore BASIC</td>
-        <td class="right">6.32%</td>
+        <td class="right">6.31%</td>
         <td class="bar-graph"><div style="width: 98.22%; background-color: #4F44D8;"></div></td> 
     </tr>
 
@@ -60,7 +60,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C</td>
-        <td class="right">3.84%</td>
+        <td class="right">3.83%</td>
         <td class="bar-graph"><div style="width: 59.65%; background-color: #555555;"></div></td> 
     </tr>
 
@@ -131,15 +131,15 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Python</td>
+        <td class="right nowrap">F#</td>
         <td class="right">1.90%</td>
-        <td class="bar-graph"><div style="width: 29.47%; background-color: #3572A5;"></div></td> 
+        <td class="bar-graph"><div style="width: 29.49%; background-color: #B845FC;"></div></td> 
     </tr>
 
     <tr>
-        <td class="right nowrap">F#</td>
-        <td class="right">1.85%</td>
-        <td class="bar-graph"><div style="width: 28.69%; background-color: #B845FC;"></div></td> 
+        <td class="right nowrap">Python</td>
+        <td class="right">1.89%</td>
+        <td class="bar-graph"><div style="width: 29.47%; background-color: #3572A5;"></div></td> 
     </tr>
 
     <tr>
@@ -156,7 +156,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Kotlin</td>
-        <td class="right">1.22%</td>
+        <td class="right">1.21%</td>
         <td class="bar-graph"><div style="width: 18.90%; background-color: #A97BFF;"></div></td> 
     </tr>
 
@@ -1084,9 +1084,9 @@ The 'E' collection contains 9 languages, of which 9 are tested, and 78 code snip
 
 ### F
 
-The 'F' collection contains 12 languages, of which 12 are tested, and 57 code snippets.
+The 'F' collection contains 12 languages, of which 12 are tested, and 58 code snippets.
 
-- [F#](https://sampleprograms.io/languages/f-sharp) (21 code snippets)
+- [F#](https://sampleprograms.io/languages/f-sharp) (22 code snippets)
 - [F\*](https://sampleprograms.io/languages/f-star) (2 code snippets)
 - [Factor](https://sampleprograms.io/languages/factor) (2 code snippets)
 - [Felix](https://sampleprograms.io/languages/felix) (2 code snippets)
