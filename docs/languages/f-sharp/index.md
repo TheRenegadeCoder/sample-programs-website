@@ -1,7 +1,7 @@
 ---
 date: 2018-04-27
 featured-image: programming-languages.jpg
-last-modified: 2026-04-08
+last-modified: 2026-04-09
 layout: default
 tags:
 - f-sharp
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 23 articles:
+There are 24 articles:
 
 - [Baklava in F#](https://sampleprograms.io/projects/baklava/f-sharp)
 - [Base64 Encode Decode in F#](https://sampleprograms.io/projects/base64-encode-decode/f-sharp)
@@ -50,4 +50,5 @@ There are 23 articles:
 - [Linear Search in F#](https://sampleprograms.io/projects/linear-search/f-sharp)
 - [Longest Palindromic Substring in F#](https://sampleprograms.io/projects/longest-palindromic-substring/f-sharp)
 - [Longest Word in F#](https://sampleprograms.io/projects/longest-word/f-sharp)
+- [Maximum Array Rotation in F#](https://sampleprograms.io/projects/maximum-array-rotation/f-sharp)
 - [Remove All Whitespace in F#](https://sampleprograms.io/projects/remove-all-whitespace/f-sharp)
