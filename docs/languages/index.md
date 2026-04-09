@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2026-04-10
+last-modified: 2026-04-09
 layout: default
 title: Programming Languages
 ---
@@ -18,7 +18,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 68</td>
-        <td class="right">6.36%</td>
+        <td class="right">6.37%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #AF425E;"></div></td> 
     </tr>
 
@@ -30,13 +30,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Euphoria</td>
-        <td class="right">5.53%</td>
+        <td class="right">5.54%</td>
         <td class="bar-graph"><div style="width: 86.96%; background-color: #FF790B;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">m4</td>
-        <td class="right">5.41%</td>
+        <td class="right">5.42%</td>
         <td class="bar-graph"><div style="width: 85.08%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
@@ -96,13 +96,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 60</td>
-        <td class="right">3.01%</td>
-        <td class="bar-graph"><div style="width: 47.27%; background-color: #D1E0DB;"></div></td> 
+        <td class="right">2.98%</td>
+        <td class="bar-graph"><div style="width: 46.86%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">F#</td>
-        <td class="right">2.86%</td>
+        <td class="right">2.87%</td>
         <td class="bar-graph"><div style="width: 45.01%; background-color: #B845FC;"></div></td> 
     </tr>
 
@@ -144,7 +144,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Go</td>
-        <td class="right">1.82%</td>
+        <td class="right">1.83%</td>
         <td class="bar-graph"><div style="width: 28.67%; background-color: #00ADD8;"></div></td> 
     </tr>
 
