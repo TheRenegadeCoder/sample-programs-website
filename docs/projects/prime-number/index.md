@@ -1,7 +1,7 @@
 ---
 date: 2018-11-16
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2026-04-06
+last-modified: 2026-04-10
 layout: default
 tags:
 - prime-number
@@ -83,7 +83,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 42 articles:
+There are 43 articles:
 
 - [Prime Number in ALGOL 60](https://sampleprograms.io/projects/prime-number/algol60)
 - [Prime Number in ALGOL 68](https://sampleprograms.io/projects/prime-number/algol68)
@@ -98,6 +98,7 @@ There are 42 articles:
 - [Prime Number in Dart](https://sampleprograms.io/projects/prime-number/dart)
 - [Prime Number in Elvish](https://sampleprograms.io/projects/prime-number/elvish)
 - [Prime Number in Euphoria](https://sampleprograms.io/projects/prime-number/euphoria)
+- [Prime Number in F#](https://sampleprograms.io/projects/prime-number/f-sharp)
 - [Prime Number in Fortran](https://sampleprograms.io/projects/prime-number/fortran)
 - [Prime Number in GNU Make](https://sampleprograms.io/projects/prime-number/gnu-make)
 - [Prime Number in Go](https://sampleprograms.io/projects/prime-number/go)

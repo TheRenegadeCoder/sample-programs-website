@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2026-04-09
+last-modified: 2026-04-10
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1425 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1426 code snippets.
 
 ## Language Breakdown
 
@@ -84,13 +84,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">AWK</td>
-        <td class="right">3.17%</td>
+        <td class="right">3.16%</td>
         <td class="bar-graph"><div style="width: 49.52%; background-color: #C30E9B;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">C++</td>
-        <td class="right">3.09%</td>
+        <td class="right">3.08%</td>
         <td class="bar-graph"><div style="width: 48.26%; background-color: #F34B7D;"></div></td> 
     </tr>
 
@@ -108,8 +108,14 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Mathematica</td>
-        <td class="right">2.59%</td>
+        <td class="right">2.58%</td>
         <td class="bar-graph"><div style="width: 40.43%; background-color: #DD1100;"></div></td> 
+    </tr>
+
+    <tr>
+        <td class="right nowrap">F#</td>
+        <td class="right">2.46%</td>
+        <td class="bar-graph"><div style="width: 38.52%; background-color: #B845FC;"></div></td> 
     </tr>
 
     <tr>
@@ -119,14 +125,8 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">F#</td>
-        <td class="right">2.41%</td>
-        <td class="bar-graph"><div style="width: 37.67%; background-color: #B845FC;"></div></td> 
-    </tr>
-
-    <tr>
         <td class="right nowrap">Tcl</td>
-        <td class="right">2.34%</td>
+        <td class="right">2.33%</td>
         <td class="bar-graph"><div style="width: 36.52%; background-color: #E4CC98;"></div></td> 
     </tr>
 
@@ -1084,9 +1084,9 @@ The 'E' collection contains 9 languages, of which 9 are tested, and 78 code snip
 
 ### F
 
-The 'F' collection contains 12 languages, of which 12 are tested, and 63 code snippets.
+The 'F' collection contains 12 languages, of which 12 are tested, and 64 code snippets.
 
-- [F#](https://sampleprograms.io/languages/f-sharp) (27 code snippets)
+- [F#](https://sampleprograms.io/languages/f-sharp) (28 code snippets)
 - [F\*](https://sampleprograms.io/languages/f-star) (2 code snippets)
 - [Factor](https://sampleprograms.io/languages/factor) (2 code snippets)
 - [Felix](https://sampleprograms.io/languages/felix) (2 code snippets)
