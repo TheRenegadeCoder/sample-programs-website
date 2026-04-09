@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 31 articles:
+There are 33 articles:
 
 - [Baklava in F#](https://sampleprograms.io/projects/baklava/f-sharp)
 - [Base64 Encode Decode in F#](https://sampleprograms.io/projects/base64-encode-decode/f-sharp)
@@ -59,3 +59,5 @@ There are 31 articles:
 - [Quine in F#](https://sampleprograms.io/projects/quine/f-sharp)
 - [Remove All Whitespace in F#](https://sampleprograms.io/projects/remove-all-whitespace/f-sharp)
 - [Reverse String in F#](https://sampleprograms.io/projects/reverse-string/f-sharp)
+- [Roman Numeral in F#](https://sampleprograms.io/projects/roman-numeral/f-sharp)
+- [Rot13 in F#](https://sampleprograms.io/projects/rot13/f-sharp)

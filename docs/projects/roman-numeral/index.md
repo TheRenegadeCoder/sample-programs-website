@@ -1,7 +1,7 @@
 ---
 date: 2018-10-07
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: 2026-04-03
+last-modified: 2026-04-10
 layout: default
 tags:
 - roman-numeral
@@ -102,7 +102,7 @@ In order to keep things simple, we split up the testing as follows:
 
 ## Articles
 
-There are 24 articles:
+There are 25 articles:
 
 - [Roman Numeral in ALGOL 60](https://sampleprograms.io/projects/roman-numeral/algol60)
 - [Roman Numeral in ALGOL 68](https://sampleprograms.io/projects/roman-numeral/algol68)
@@ -114,6 +114,7 @@ There are 24 articles:
 - [Roman Numeral in Commodore BASIC](https://sampleprograms.io/projects/roman-numeral/commodore-basic)
 - [Roman Numeral in Dart](https://sampleprograms.io/projects/roman-numeral/dart)
 - [Roman Numeral in Euphoria](https://sampleprograms.io/projects/roman-numeral/euphoria)
+- [Roman Numeral in F#](https://sampleprograms.io/projects/roman-numeral/f-sharp)
 - [Roman Numeral in Go](https://sampleprograms.io/projects/roman-numeral/go)
 - [Roman Numeral in Haskell](https://sampleprograms.io/projects/roman-numeral/haskell)
 - [Roman Numeral in JavaScript](https://sampleprograms.io/projects/roman-numeral/javascript)
