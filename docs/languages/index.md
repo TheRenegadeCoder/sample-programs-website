@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1426 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1429 code snippets.
 
 ## Language Breakdown
 
@@ -18,31 +18,31 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 68</td>
-        <td class="right">6.39%</td>
+        <td class="right">6.38%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #AF425E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Commodore BASIC</td>
-        <td class="right">6.28%</td>
+        <td class="right">6.27%</td>
         <td class="bar-graph"><div style="width: 98.22%; background-color: #4F44D8;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Euphoria</td>
-        <td class="right">5.56%</td>
+        <td class="right">5.55%</td>
         <td class="bar-graph"><div style="width: 86.96%; background-color: #FF790B;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">m4</td>
-        <td class="right">5.44%</td>
+        <td class="right">5.43%</td>
         <td class="bar-graph"><div style="width: 85.08%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Beef</td>
-        <td class="right">5.34%</td>
+        <td class="right">5.33%</td>
         <td class="bar-graph"><div style="width: 83.48%; background-color: #A52F4E;"></div></td> 
     </tr>
 
@@ -54,7 +54,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Rust</td>
-        <td class="right">3.94%</td>
+        <td class="right">3.93%</td>
         <td class="bar-graph"><div style="width: 61.59%; background-color: #DEA584;"></div></td> 
     </tr>
 
@@ -66,7 +66,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">PHP</td>
-        <td class="right">3.66%</td>
+        <td class="right">3.65%</td>
         <td class="bar-graph"><div style="width: 57.24%; background-color: #4F5D95;"></div></td> 
     </tr>
 
@@ -114,8 +114,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">F#</td>
-        <td class="right">2.46%</td>
-        <td class="bar-graph"><div style="width: 38.52%; background-color: #B845FC;"></div></td> 
+        <td class="right">2.55%</td>
+        <td class="bar-graph"><div style="width: 39.99%; background-color: #B845FC;"></div></td> 
     </tr>
 
     <tr>
@@ -186,7 +186,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Ruby</td>
-        <td class="right">0.79%</td>
+        <td class="right">0.78%</td>
         <td class="bar-graph"><div style="width: 12.29%; background-color: #701516;"></div></td> 
     </tr>
 
@@ -282,7 +282,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Odin</td>
-        <td class="right">0.28%</td>
+        <td class="right">0.27%</td>
         <td class="bar-graph"><div style="width: 4.31%; background-color: #60AFFE;"></div></td> 
     </tr>
 
@@ -1084,9 +1084,9 @@ The 'E' collection contains 9 languages, of which 9 are tested, and 78 code snip
 
 ### F
 
-The 'F' collection contains 12 languages, of which 12 are tested, and 64 code snippets.
+The 'F' collection contains 12 languages, of which 12 are tested, and 67 code snippets.
 
-- [F#](https://sampleprograms.io/languages/f-sharp) (28 code snippets)
+- [F#](https://sampleprograms.io/languages/f-sharp) (31 code snippets)
 - [F\*](https://sampleprograms.io/languages/f-star) (2 code snippets)
 - [Factor](https://sampleprograms.io/languages/factor) (2 code snippets)
 - [Felix](https://sampleprograms.io/languages/felix) (2 code snippets)

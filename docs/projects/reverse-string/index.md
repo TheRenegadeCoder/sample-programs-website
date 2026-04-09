@@ -1,7 +1,7 @@
 ---
 date: 2018-04-12
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2026-04-03
+last-modified: 2026-04-10
 layout: default
 tags:
 - reverse-string
@@ -70,7 +70,7 @@ In this section, we specify the set of tests specific to Reverse String.
 
 ## Articles
 
-There are 58 articles:
+There are 59 articles:
 
 - [Reverse String in ALGOL 60](https://sampleprograms.io/projects/reverse-string/algol60)
 - [Reverse String in ALGOL 68](https://sampleprograms.io/projects/reverse-string/algol68)
@@ -89,6 +89,7 @@ There are 58 articles:
 - [Reverse String in Elvish](https://sampleprograms.io/projects/reverse-string/elvish)
 - [Reverse String in Erlang](https://sampleprograms.io/projects/reverse-string/erlang)
 - [Reverse String in Euphoria](https://sampleprograms.io/projects/reverse-string/euphoria)
+- [Reverse String in F#](https://sampleprograms.io/projects/reverse-string/f-sharp)
 - [Reverse String in Fortran](https://sampleprograms.io/projects/reverse-string/fortran)
 - [Reverse String in Go](https://sampleprograms.io/projects/reverse-string/go)
 - [Reverse String in Groovy](https://sampleprograms.io/projects/reverse-string/groovy)

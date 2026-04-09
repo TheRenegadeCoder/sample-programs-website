@@ -1,7 +1,7 @@
 ---
 date: 2018-08-07
 featured-image: quine-in-every-language.jpg
-last-modified: 2026-03-28
+last-modified: 2026-04-10
 layout: default
 tags:
 - quine
@@ -61,7 +61,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 31 articles:
+There are 32 articles:
 
 - [Quine in ALGOL 60](https://sampleprograms.io/projects/quine/algol60)
 - [Quine in ALGOL 68](https://sampleprograms.io/projects/quine/algol68)
@@ -76,6 +76,7 @@ There are 31 articles:
 - [Quine in Cython](https://sampleprograms.io/projects/quine/cython)
 - [Quine in Dg](https://sampleprograms.io/projects/quine/dg)
 - [Quine in Euphoria](https://sampleprograms.io/projects/quine/euphoria)
+- [Quine in F#](https://sampleprograms.io/projects/quine/f-sharp)
 - [Quine in GNU Make](https://sampleprograms.io/projects/quine/gnu-make)
 - [Quine in Go](https://sampleprograms.io/projects/quine/go)
 - [Quine in Haskell](https://sampleprograms.io/projects/quine/haskell)
