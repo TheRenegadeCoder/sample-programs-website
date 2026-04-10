@@ -1,7 +1,7 @@
 ---
 date: 2020-10-17
 featured-image: longest-palindromic-substring-in-every-language.jpg
-last-modified: 2026-04-08
+last-modified: 2026-04-10
 layout: default
 tags:
 - longest-palindromic-substring
@@ -119,8 +119,9 @@ Usage: please provide a string that contains at least one palindrome
 
 ## Articles
 
-There are 20 articles:
+There are 21 articles:
 
+- [Longest Palindromic Substring in ALGOL 60](https://sampleprograms.io/projects/longest-palindromic-substring/algol60)
 - [Longest Palindromic Substring in ALGOL 68](https://sampleprograms.io/projects/longest-palindromic-substring/algol68)
 - [Longest Palindromic Substring in AWK](https://sampleprograms.io/projects/longest-palindromic-substring/awk)
 - [Longest Palindromic Substring in Beef](https://sampleprograms.io/projects/longest-palindromic-substring/beef)

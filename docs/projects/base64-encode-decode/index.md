@@ -322,8 +322,9 @@ Usage: please provide a mode and a string to encode/decode
 
 ## Articles
 
-There are 20 articles:
+There are 21 articles:
 
+- [Base64 Encode Decode in ALGOL 60](https://sampleprograms.io/projects/base64-encode-decode/algol60)
 - [Base64 Encode Decode in ALGOL 68](https://sampleprograms.io/projects/base64-encode-decode/algol68)
 - [Base64 Encode Decode in AWK](https://sampleprograms.io/projects/base64-encode-decode/awk)
 - [Base64 Encode Decode in Bash](https://sampleprograms.io/projects/base64-encode-decode/bash)
