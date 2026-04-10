@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2026-03-17
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2026-04-09
+last-modified: 2026-04-10
 layout: default
 tags:
 - algol60
@@ -158,8 +158,8 @@ begin
     if !inValidInteger(result, ch) | result < 0 then usage;
 
     comment Output "prime" if number is prime, "composite" otherwise;
-    if isprime(result) then outstring(1, "prime")
-    else outstring(1, "composite")
+    if isprime(result) then outstring(1, "prime\n")
+    else outstring(1, "composite\n")
 end
 
 ```

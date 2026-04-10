@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2026-03-20
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2026-04-09
+last-modified: 2026-04-10
 layout: default
 tags:
 - algol60
@@ -152,8 +152,8 @@ begin
     if !inValidInteger(result, ch) | result < 0 then usage;
 
     comment Output "true" if number is palindromic number, "false" otherwise;
-    if isPalindromicNumber(result) then outstring(1, "true")
-    else outstring(1, "false")
+    if isPalindromicNumber(result) then outstring(1, "true\n")
+    else outstring(1, "false\n")
 end
 
 ```

@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2026-03-17
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2026-04-09
+last-modified: 2026-04-10
 layout: default
 tags:
 - algol60
@@ -137,8 +137,8 @@ begin
     if !inValidInteger(result, ch) then usage;
 
     comment Output "Even" if number is even, "Odd" otherwise;
-    if iseven(result) then outstring(1, "Even")
-    else outstring(1, "Odd")
+    if iseven(result) then outstring(1, "Even\n")
+    else outstring(1, "Odd\n")
 end
 
 ```
