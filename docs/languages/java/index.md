@@ -60,7 +60,7 @@ great features like garbage collection which offset some of these complaints.
 
 ## Articles
 
-There are 37 articles:
+There are 38 articles:
 
 - [Baklava in Java](https://sampleprograms.io/projects/baklava/java)
 - [Base64 Encode Decode in Java](https://sampleprograms.io/projects/base64-encode-decode/java)
@@ -69,6 +69,7 @@ There are 37 articles:
 - [Capitalize in Java](https://sampleprograms.io/projects/capitalize/java)
 - [Convex Hull in Java](https://sampleprograms.io/projects/convex-hull/java)
 - [Depth First Search in Java](https://sampleprograms.io/projects/depth-first-search/java)
+- [Dijkstra in Java](https://sampleprograms.io/projects/dijkstra/java)
 - [Duplicate Character Counter in Java](https://sampleprograms.io/projects/duplicate-character-counter/java)
 - [Even Odd in Java](https://sampleprograms.io/projects/even-odd/java)
 - [Factorial in Java](https://sampleprograms.io/projects/factorial/java)

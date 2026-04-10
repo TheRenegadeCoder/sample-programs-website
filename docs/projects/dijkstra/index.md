@@ -1,7 +1,7 @@
 ---
 date: 2021-10-25
 featured-image: dijkstra-in-every-language.jpg
-last-modified: 2026-04-08
+last-modified: 2026-04-10
 layout: default
 tags:
 - dijkstra
@@ -129,7 +129,7 @@ Usage: please provide three inputs: a serialized matrix, a source node and a des
 
 ## Articles
 
-There are 19 articles:
+There are 20 articles:
 
 - [Dijkstra in ALGOL 68](https://sampleprograms.io/projects/dijkstra/algol68)
 - [Dijkstra in AWK](https://sampleprograms.io/projects/dijkstra/awk)
@@ -140,6 +140,7 @@ There are 19 articles:
 - [Dijkstra in Commodore BASIC](https://sampleprograms.io/projects/dijkstra/commodore-basic)
 - [Dijkstra in Euphoria](https://sampleprograms.io/projects/dijkstra/euphoria)
 - [Dijkstra in F#](https://sampleprograms.io/projects/dijkstra/f-sharp)
+- [Dijkstra in Java](https://sampleprograms.io/projects/dijkstra/java)
 - [Dijkstra in JavaScript](https://sampleprograms.io/projects/dijkstra/javascript)
 - [Dijkstra in Mathematica](https://sampleprograms.io/projects/dijkstra/mathematica)
 - [Dijkstra in PHP](https://sampleprograms.io/projects/dijkstra/php)
