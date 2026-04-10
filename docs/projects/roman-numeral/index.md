@@ -102,7 +102,7 @@ In order to keep things simple, we split up the testing as follows:
 
 ## Articles
 
-There are 25 articles:
+There are 26 articles:
 
 - [Roman Numeral in ALGOL 60](https://sampleprograms.io/projects/roman-numeral/algol60)
 - [Roman Numeral in ALGOL 68](https://sampleprograms.io/projects/roman-numeral/algol68)
@@ -117,6 +117,7 @@ There are 25 articles:
 - [Roman Numeral in F#](https://sampleprograms.io/projects/roman-numeral/f-sharp)
 - [Roman Numeral in Go](https://sampleprograms.io/projects/roman-numeral/go)
 - [Roman Numeral in Haskell](https://sampleprograms.io/projects/roman-numeral/haskell)
+- [Roman Numeral in Java](https://sampleprograms.io/projects/roman-numeral/java)
 - [Roman Numeral in JavaScript](https://sampleprograms.io/projects/roman-numeral/javascript)
 - [Roman Numeral in Lua](https://sampleprograms.io/projects/roman-numeral/lua)
 - [Roman Numeral in Mathematica](https://sampleprograms.io/projects/roman-numeral/mathematica)
