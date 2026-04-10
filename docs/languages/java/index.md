@@ -5,7 +5,7 @@ authors:
 - Stuart Irwin
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-10-31
+last-modified: 2026-04-10
 layout: default
 tags:
 - java
@@ -60,9 +60,10 @@ great features like garbage collection which offset some of these complaints.
 
 ## Articles
 
-There are 29 articles:
+There are 31 articles:
 
 - [Baklava in Java](https://sampleprograms.io/projects/baklava/java)
+- [Base64 Encode Decode in Java](https://sampleprograms.io/projects/base64-encode-decode/java)
 - [Binary Search in Java](https://sampleprograms.io/projects/binary-search/java)
 - [Bubble Sort in Java](https://sampleprograms.io/projects/bubble-sort/java)
 - [Capitalize in Java](https://sampleprograms.io/projects/capitalize/java)
@@ -87,6 +88,7 @@ There are 29 articles:
 - [Prime Number in Java](https://sampleprograms.io/projects/prime-number/java)
 - [Quick Sort in Java](https://sampleprograms.io/projects/quick-sort/java)
 - [Quine in Java](https://sampleprograms.io/projects/quine/java)
+- [Remove All Whitespace in Java](https://sampleprograms.io/projects/remove-all-whitespace/java)
 - [Reverse String in Java](https://sampleprograms.io/projects/reverse-string/java)
 - [Rot13 in Java](https://sampleprograms.io/projects/rot13/java)
 - [Selection Sort in Java](https://sampleprograms.io/projects/selection-sort/java)
