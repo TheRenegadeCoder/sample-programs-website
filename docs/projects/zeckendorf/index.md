@@ -1,7 +1,7 @@
 ---
 date: 2026-01-19
 featured-image: zeckendorf-in-every-language.png
-last-modified: 2026-04-09
+last-modified: 2026-04-10
 layout: default
 tags:
 - zeckendorf
@@ -141,7 +141,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 12 articles:
+There are 13 articles:
 
 - [Zeckendorf in ALGOL 60](https://sampleprograms.io/projects/zeckendorf/algol60)
 - [Zeckendorf in ALGOL 68](https://sampleprograms.io/projects/zeckendorf/algol68)
@@ -149,6 +149,7 @@ There are 12 articles:
 - [Zeckendorf in Beef](https://sampleprograms.io/projects/zeckendorf/beef)
 - [Zeckendorf in Commodore BASIC](https://sampleprograms.io/projects/zeckendorf/commodore-basic)
 - [Zeckendorf in Euphoria](https://sampleprograms.io/projects/zeckendorf/euphoria)
+- [Zeckendorf in F#](https://sampleprograms.io/projects/zeckendorf/f-sharp)
 - [Zeckendorf in PHP](https://sampleprograms.io/projects/zeckendorf/php)
 - [Zeckendorf in PowerShell](https://sampleprograms.io/projects/zeckendorf/powershell)
 - [Zeckendorf in Python](https://sampleprograms.io/projects/zeckendorf/python)

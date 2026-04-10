@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 37 articles:
+There are 39 articles:
 
 - [Baklava in F#](https://sampleprograms.io/projects/baklava/f-sharp)
 - [Base64 Encode Decode in F#](https://sampleprograms.io/projects/base64-encode-decode/f-sharp)
@@ -54,6 +54,7 @@ There are 37 articles:
 - [Maximum Array Rotation in F#](https://sampleprograms.io/projects/maximum-array-rotation/f-sharp)
 - [Maximum Subarray in F#](https://sampleprograms.io/projects/maximum-subarray/f-sharp)
 - [Merge Sort in F#](https://sampleprograms.io/projects/merge-sort/f-sharp)
+- [Minimum Spanning Tree in F#](https://sampleprograms.io/projects/minimum-spanning-tree/f-sharp)
 - [Palindromic Number in F#](https://sampleprograms.io/projects/palindromic-number/f-sharp)
 - [Prime Number in F#](https://sampleprograms.io/projects/prime-number/f-sharp)
 - [Quick Sort in F#](https://sampleprograms.io/projects/quick-sort/f-sharp)
@@ -65,3 +66,4 @@ There are 37 articles:
 - [Selection Sort in F#](https://sampleprograms.io/projects/selection-sort/f-sharp)
 - [Sleep Sort in F#](https://sampleprograms.io/projects/sleep-sort/f-sharp)
 - [Transpose Matrix in F#](https://sampleprograms.io/projects/transpose-matrix/f-sharp)
+- [Zeckendorf in F#](https://sampleprograms.io/projects/zeckendorf/f-sharp)
