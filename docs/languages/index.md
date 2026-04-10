@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1445 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1446 code snippets.
 
 ## Language Breakdown
 
@@ -24,7 +24,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Commodore BASIC</td>
-        <td class="right">6.18%</td>
+        <td class="right">6.17%</td>
         <td class="bar-graph"><div style="width: 98.22%; background-color: #4F44D8;"></div></td> 
     </tr>
 
@@ -54,7 +54,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Rust</td>
-        <td class="right">3.88%</td>
+        <td class="right">3.87%</td>
         <td class="bar-graph"><div style="width: 61.59%; background-color: #DEA584;"></div></td> 
     </tr>
 
@@ -72,7 +72,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C#</td>
-        <td class="right">3.34%</td>
+        <td class="right">3.33%</td>
         <td class="bar-graph"><div style="width: 53.03%; background-color: #178600;"></div></td> 
     </tr>
 
@@ -84,25 +84,25 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">F#</td>
-        <td class="right">3.26%</td>
+        <td class="right">3.25%</td>
         <td class="bar-graph"><div style="width: 51.75%; background-color: #B845FC;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Java</td>
-        <td class="right">3.12%</td>
-        <td class="bar-graph"><div style="width: 49.59%; background-color: #B07219;"></div></td> 
+        <td class="right">3.21%</td>
+        <td class="bar-graph"><div style="width: 50.99%; background-color: #B07219;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">AWK</td>
-        <td class="right">3.12%</td>
+        <td class="right">3.11%</td>
         <td class="bar-graph"><div style="width: 49.52%; background-color: #C30E9B;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">C++</td>
-        <td class="right">3.05%</td>
+        <td class="right">3.04%</td>
         <td class="bar-graph"><div style="width: 48.40%; background-color: #F34B7D;"></div></td> 
     </tr>
 
@@ -162,7 +162,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Objective-C</td>
-        <td class="right">1.04%</td>
+        <td class="right">1.03%</td>
         <td class="bar-graph"><div style="width: 16.45%; background-color: #438EFF;"></div></td> 
     </tr>
 
@@ -180,7 +180,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Perl</td>
-        <td class="right">0.80%</td>
+        <td class="right">0.79%</td>
         <td class="bar-graph"><div style="width: 12.64%; background-color: #0298C3;"></div></td> 
     </tr>
 
@@ -294,7 +294,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Groovy</td>
-        <td class="right">0.25%</td>
+        <td class="right">0.24%</td>
         <td class="bar-graph"><div style="width: 3.90%; background-color: #4298B8;"></div></td> 
     </tr>
 
@@ -1141,10 +1141,10 @@ The 'I' collection contains 2 languages, of which 2 are tested, and 5 code snipp
 
 ### J
 
-The 'J' collection contains 4 languages, of which 4 are tested, and 87 code snippets.
+The 'J' collection contains 4 languages, of which 4 are tested, and 88 code snippets.
 
 - [Janet](https://sampleprograms.io/languages/janet) (3 code snippets)
-- [Java](https://sampleprograms.io/languages/java) (36 code snippets)
+- [Java](https://sampleprograms.io/languages/java) (37 code snippets)
 - [JavaScript](https://sampleprograms.io/languages/javascript) (33 code snippets)
 - [Julia](https://sampleprograms.io/languages/julia) (15 code snippets)
 
