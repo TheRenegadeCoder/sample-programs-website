@@ -117,7 +117,7 @@ Usage: please provide a comma-separated list of integers
 
 ## Articles
 
-There are 17 articles:
+There are 18 articles:
 
 - [Minimum Spanning Tree in ALGOL 68](https://sampleprograms.io/projects/minimum-spanning-tree/algol68)
 - [Minimum Spanning Tree in AWK](https://sampleprograms.io/projects/minimum-spanning-tree/awk)
@@ -128,6 +128,7 @@ There are 17 articles:
 - [Minimum Spanning Tree in Commodore BASIC](https://sampleprograms.io/projects/minimum-spanning-tree/commodore-basic)
 - [Minimum Spanning Tree in Euphoria](https://sampleprograms.io/projects/minimum-spanning-tree/euphoria)
 - [Minimum Spanning Tree in F#](https://sampleprograms.io/projects/minimum-spanning-tree/f-sharp)
+- [Minimum Spanning Tree in Java](https://sampleprograms.io/projects/minimum-spanning-tree/java)
 - [Minimum Spanning Tree in Mathematica](https://sampleprograms.io/projects/minimum-spanning-tree/mathematica)
 - [Minimum Spanning Tree in PHP](https://sampleprograms.io/projects/minimum-spanning-tree/php)
 - [Minimum Spanning Tree in Pascal](https://sampleprograms.io/projects/minimum-spanning-tree/pascal)
