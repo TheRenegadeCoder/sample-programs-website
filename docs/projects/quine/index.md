@@ -61,7 +61,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 32 articles:
+There are 33 articles:
 
 - [Quine in ALGOL 60](https://sampleprograms.io/projects/quine/algol60)
 - [Quine in ALGOL 68](https://sampleprograms.io/projects/quine/algol68)
@@ -71,6 +71,7 @@ There are 32 articles:
 - [Quine in Befunge](https://sampleprograms.io/projects/quine/befunge)
 - [Quine in C](https://sampleprograms.io/projects/quine/c)
 - [Quine in C#](https://sampleprograms.io/projects/quine/c-sharp)
+- [Quine in C++](https://sampleprograms.io/projects/quine/c-plus-plus)
 - [Quine in CoffeeScript](https://sampleprograms.io/projects/quine/coffeescript)
 - [Quine in Commodore BASIC](https://sampleprograms.io/projects/quine/commodore-basic)
 - [Quine in Cython](https://sampleprograms.io/projects/quine/cython)

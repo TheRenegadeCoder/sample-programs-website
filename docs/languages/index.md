@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1437 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1438 code snippets.
 
 ## Language Breakdown
 
@@ -78,7 +78,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">x86-64</td>
-        <td class="right">3.32%</td>
+        <td class="right">3.31%</td>
         <td class="bar-graph"><div style="width: 52.30%; background-color: #6E4C13;"></div></td> 
     </tr>
 
@@ -96,8 +96,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C++</td>
-        <td class="right">3.06%</td>
-        <td class="bar-graph"><div style="width: 48.26%; background-color: #F34B7D;"></div></td> 
+        <td class="right">3.07%</td>
+        <td class="bar-graph"><div style="width: 48.40%; background-color: #F34B7D;"></div></td> 
     </tr>
 
     <tr>
@@ -1033,12 +1033,12 @@ The 'B' collection contains 9 languages, of which 9 are tested, and 80 code snip
 
 ### C
 
-The 'C' collection contains 15 languages, of which 15 are tested, and 194 code snippets.
+The 'C' collection contains 15 languages, of which 15 are tested, and 195 code snippets.
 
 - [C](https://sampleprograms.io/languages/c) (38 code snippets)
 - [C#](https://sampleprograms.io/languages/c-sharp) (38 code snippets)
 - [C\*](https://sampleprograms.io/languages/c-star) (3 code snippets)
-- [C++](https://sampleprograms.io/languages/c-plus-plus) (35 code snippets)
+- [C++](https://sampleprograms.io/languages/c-plus-plus) (36 code snippets)
 - [C2](https://sampleprograms.io/languages/c2) (2 code snippets)
 - [Carp](https://sampleprograms.io/languages/carp) (2 code snippets)
 - [ChaiScript](https://sampleprograms.io/languages/chaiscript) (2 code snippets)
