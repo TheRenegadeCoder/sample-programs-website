@@ -87,7 +87,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-There are 18 articles:
+There are 19 articles:
 
 - [Sleep Sort in ALGOL 68](https://sampleprograms.io/projects/sleep-sort/algol68)
 - [Sleep Sort in AWK](https://sampleprograms.io/projects/sleep-sort/awk)
@@ -100,6 +100,7 @@ There are 18 articles:
 - [Sleep Sort in Euphoria](https://sampleprograms.io/projects/sleep-sort/euphoria)
 - [Sleep Sort in F#](https://sampleprograms.io/projects/sleep-sort/f-sharp)
 - [Sleep Sort in Go](https://sampleprograms.io/projects/sleep-sort/go)
+- [Sleep Sort in Java](https://sampleprograms.io/projects/sleep-sort/java)
 - [Sleep Sort in JavaScript](https://sampleprograms.io/projects/sleep-sort/javascript)
 - [Sleep Sort in PHP](https://sampleprograms.io/projects/sleep-sort/php)
 - [Sleep Sort in Pascal](https://sampleprograms.io/projects/sleep-sort/pascal)
