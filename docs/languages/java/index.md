@@ -60,7 +60,7 @@ great features like garbage collection which offset some of these complaints.
 
 ## Articles
 
-There are 33 articles:
+There are 35 articles:
 
 - [Baklava in Java](https://sampleprograms.io/projects/baklava/java)
 - [Base64 Encode Decode in Java](https://sampleprograms.io/projects/base64-encode-decode/java)
@@ -84,6 +84,8 @@ There are 33 articles:
 - [Longest Common Subsequence in Java](https://sampleprograms.io/projects/longest-common-subsequence/java)
 - [Longest Palindromic Substring in Java](https://sampleprograms.io/projects/longest-palindromic-substring/java)
 - [Longest Word in Java](https://sampleprograms.io/projects/longest-word/java)
+- [Maximum Array Rotation in Java](https://sampleprograms.io/projects/maximum-array-rotation/java)
+- [Maximum Subarray in Java](https://sampleprograms.io/projects/maximum-subarray/java)
 - [Merge Sort in Java](https://sampleprograms.io/projects/merge-sort/java)
 - [Palindromic Number in Java](https://sampleprograms.io/projects/palindromic-number/java)
 - [Prime Number in Java](https://sampleprograms.io/projects/prime-number/java)
