@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2026-04-10
+last-modified: 2026-04-11
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1451 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1452 code snippets.
 
 ## Language Breakdown
 
@@ -30,7 +30,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Euphoria</td>
-        <td class="right">5.37%</td>
+        <td class="right">5.36%</td>
         <td class="bar-graph"><div style="width: 86.96%; background-color: #FF790B;"></div></td> 
     </tr>
 
@@ -102,13 +102,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">AWK</td>
-        <td class="right">3.06%</td>
+        <td class="right">3.05%</td>
         <td class="bar-graph"><div style="width: 49.52%; background-color: #C30E9B;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">C++</td>
-        <td class="right">2.99%</td>
+        <td class="right">2.98%</td>
         <td class="bar-graph"><div style="width: 48.40%; background-color: #F34B7D;"></div></td> 
     </tr>
 
@@ -120,7 +120,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Mathematica</td>
-        <td class="right">2.50%</td>
+        <td class="right">2.49%</td>
         <td class="bar-graph"><div style="width: 40.43%; background-color: #DD1100;"></div></td> 
     </tr>
 
@@ -132,7 +132,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">JavaScript</td>
-        <td class="right">1.83%</td>
+        <td class="right">1.82%</td>
         <td class="bar-graph"><div style="width: 29.57%; background-color: #F1E05A;"></div></td> 
     </tr>
 
@@ -162,7 +162,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Objective-C</td>
-        <td class="right">1.02%</td>
+        <td class="right">1.01%</td>
         <td class="bar-graph"><div style="width: 16.45%; background-color: #438EFF;"></div></td> 
     </tr>
 
@@ -215,6 +215,12 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
+        <td class="right nowrap">Scala</td>
+        <td class="right">0.57%</td>
+        <td class="bar-graph"><div style="width: 9.27%; background-color: #C22D40;"></div></td> 
+    </tr>
+
+    <tr>
         <td class="right nowrap">Unicat</td>
         <td class="right">0.55%</td>
         <td class="bar-graph"><div style="width: 8.95%; background-color: #FFDE34;"></div></td> 
@@ -236,12 +242,6 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Lua</td>
         <td class="right">0.54%</td>
         <td class="bar-graph"><div style="width: 8.68%; background-color: #000080;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">Scala</td>
-        <td class="right">0.48%</td>
-        <td class="bar-graph"><div style="width: 7.75%; background-color: #C22D40;"></div></td> 
     </tr>
 
     <tr>
@@ -402,7 +402,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">MoonScript</td>
-        <td class="right">0.08%</td>
+        <td class="right">0.07%</td>
         <td class="bar-graph"><div style="width: 1.22%; background-color: #FF4585;"></div></td> 
     </tr>
 
@@ -1260,10 +1260,10 @@ The 'R' collection contains 8 languages, of which 8 are tested, and 90 code snip
 
 ### S
 
-The 'S' collection contains 10 languages, of which 10 are tested, and 42 code snippets.
+The 'S' collection contains 10 languages, of which 10 are tested, and 43 code snippets.
 
 - [Sather](https://sampleprograms.io/languages/sather) (2 code snippets)
-- [Scala](https://sampleprograms.io/languages/scala) (12 code snippets)
+- [Scala](https://sampleprograms.io/languages/scala) (13 code snippets)
 - [Scheme](https://sampleprograms.io/languages/scheme) (3 code snippets)
 - [Scilab](https://sampleprograms.io/languages/scilab) (2 code snippets)
 - [Shen](https://sampleprograms.io/languages/shen) (2 code snippets)
