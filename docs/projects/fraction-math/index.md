@@ -90,8 +90,9 @@ Usage: ./fraction-math operand1 operator operand2
 
 ## Articles
 
-There are 21 articles:
+There are 22 articles:
 
+- [Fraction Math in ALGOL 60](https://sampleprograms.io/projects/fraction-math/algol60)
 - [Fraction Math in ALGOL 68](https://sampleprograms.io/projects/fraction-math/algol68)
 - [Fraction Math in AWK](https://sampleprograms.io/projects/fraction-math/awk)
 - [Fraction Math in Beef](https://sampleprograms.io/projects/fraction-math/beef)
