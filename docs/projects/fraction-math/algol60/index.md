@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2026-04-10
 featured-image: fraction-math-in-every-language.jpg
-last-modified: 2026-04-10
+last-modified: 2026-04-11
 layout: default
 tags:
 - algol60
@@ -64,7 +64,7 @@ begin
             - " " maps to 16
             - "/" maps to 17
             - null byte maps to 18
-            - invalid byte maps 0;
+            - invalid byte maps to 0;
         integer ch;
         inchar(0, "0123456789+-\t\r\n /", ch);
         if ch < 1 then ch := -2

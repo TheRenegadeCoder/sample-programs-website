@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2026-03-30
 featured-image: zeckendorf-in-every-language.png
-last-modified: 2026-04-09
+last-modified: 2026-04-11
 layout: default
 tags:
 - algol60
@@ -54,7 +54,7 @@ begin
             - "\n" maps to 15
             - " " maps to 16
             - null byte maps to 17
-            - invalid byte maps 0;
+            - invalid byte maps to 0;
         integer ch;
         inchar(0, "0123456789+-\t\r\n ", ch);
         if ch < 1 then ch := -2
