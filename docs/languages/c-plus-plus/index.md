@@ -3,7 +3,7 @@ authors:
 - Ron Zuckerman
 date: 2018-03-21
 featured-image: programming-languages.jpg
-last-modified: 2026-04-10
+last-modified: 2026-04-11
 layout: default
 tags:
 - c-plus-plus
@@ -41,7 +41,7 @@ However, with great power comes great responsibility. As a result, I personally 
 
 ## Articles
 
-There are 36 articles:
+There are 37 articles:
 
 - [Baklava in C++](https://sampleprograms.io/projects/baklava/c-plus-plus)
 - [Binary Search in C++](https://sampleprograms.io/projects/binary-search/c-plus-plus)
@@ -79,3 +79,4 @@ There are 36 articles:
 - [Selection Sort in C++](https://sampleprograms.io/projects/selection-sort/c-plus-plus)
 - [Sleep Sort in C++](https://sampleprograms.io/projects/sleep-sort/c-plus-plus)
 - [Transpose Matrix in C++](https://sampleprograms.io/projects/transpose-matrix/c-plus-plus)
+- [Zeckendorf in C++](https://sampleprograms.io/projects/zeckendorf/c-plus-plus)
