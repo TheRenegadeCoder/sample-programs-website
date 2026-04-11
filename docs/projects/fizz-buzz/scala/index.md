@@ -1,9 +1,9 @@
 ---
 authors:
-- Chris Thomas
-date: 2018-10-12
+- "\u0218tefan-Iulian Alecu"
+date: 2026-04-11
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2018-10-12
+last-modified: 2026-04-11
 layout: default
 tags:
 - fizz-buzz
@@ -29,32 +29,22 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Sca
 {% raw %}
 
 ```scala
-object FizzBuzz {
-
-  def main(args: Array[String]): Unit = {
-    for (i <- 1.until(101)) {
-      var output: String = ""
-      if (i % 3 == 0) {
-        output += "Fizz"
-      }
-      if (i % 5 == 0) {
-        output += "Buzz"
-      }
-      if (output.isEmpty) {
-        output += i
-      }
-      println(output)
-    }
-  }
-
-}
+object FizzBuzz:
+  def main(args: Array[String]): Unit =
+    (1 to 100).map { i =>
+      (i % 3, i % 5) match
+        case (0, 0) => "FizzBuzz"
+        case (0, _) => "Fizz"
+        case (_, 0) => "Buzz"
+        case _ => i.toString
+    } foreach println
 ```
 
 {% endraw %}
 
 Fizz Buzz in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
-- Chris Thomas
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

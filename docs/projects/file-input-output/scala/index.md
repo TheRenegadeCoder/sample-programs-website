@@ -3,9 +3,10 @@ authors:
 - Jeremy Grifski
 - rzuckerm
 - Vee Ng
+- "\u0218tefan-Iulian Alecu"
 date: 2019-04-05
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2026-04-11
 layout: default
 tags:
 - file-input-output
@@ -31,48 +32,36 @@ Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input
 {% raw %}
 
 ```scala
-import scala.io.Source
-import java.io.{FileNotFoundException, IOException, File, FileOutputStream, PrintWriter}
+import java.nio.charset.StandardCharsets
+import java.nio.file.{Files, Path, Paths}
+import scala.jdk.CollectionConverters.*
+import scala.util.Try
 
-object FileInputOutput {
-  // reading file then write to stdout
-  // write exception when fail
-  def readFromFile(filename: String) {
-    try {
-      val buffer = Source.fromFile(filename)
-      val lines = buffer.getLines
+extension (p: Path)
+  def readLines: Try[List[String]] =
+    Try(Files.readAllLines(p, StandardCharsets.UTF_8).asScala.toList)
 
-      lines.foreach(println)
-      buffer.close
-    } catch {
-      case e: FileNotFoundException => println(s"File ${filename} does not exist.")
-      case e: IOException => println(s"I/O Exception when reading from ${filename}.")
-      case e: Throwable => println(s"Error ${e.getMessage} when reading from ${filename}.")
-    }
-  }
+  def writeString(content: String): Try[Unit] =
+    Try(Files.writeString(p, content, StandardCharsets.UTF_8)).map(_ => ())
 
-  // write to file
-  // stdout exception when fail
-  def writeToFile(filename: String, contents: String) {
-    try {
-      val writer = new PrintWriter(new File(filename))
-      writer.write(contents)
-      writer.close
-    } catch {
-      case e: FileNotFoundException => println(s"Cannot write into file ${filename}.")
-      case e: Throwable => println(s"Error ${e.getMessage} when writing to file ${filename}.")
-    }
-  }
+object FileInputOutput:
+  private val path = Paths.get("output.txt")
+  private val content =
+    """I am a string.
+      |I am also a string.
+      |Scala is fun!""".stripMargin
 
-  def main(args: Array[String]) {
-    // write succesfully
-    writeToFile("output.txt", "I am a string.\nI am also a string.\nScala is fun!\n")
+  def main(args: Array[String]): Unit =
+    val program =
+      for
+        _ <- path.writeString(content)
+        lines <- path.readLines
+      yield lines
 
-    // read successfully
-    readFromFile("output.txt")
-  }
-}
-
+    program.fold(
+      err => System.err.println(s"File operation failed: ${err.getMessage}"),
+      res => res.foreach(println)
+    )
 ```
 
 {% endraw %}
@@ -80,6 +69,7 @@ object FileInputOutput {
 File Input Output in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
 - rzuckerm
+- Ștefan-Iulian Alecu
 
 This article was written by:
 
@@ -88,6 +78,8 @@ This article was written by:
 - Vee Ng
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 11 2026 13:25:12. The solution was first committed on May 15 2023 16:11:44. The documentation was last updated on May 15 2023 15:51:23. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

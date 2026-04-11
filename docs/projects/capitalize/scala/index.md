@@ -1,9 +1,9 @@
 ---
 authors:
-- rzuckerm
-date: 2023-05-15
+- "\u0218tefan-Iulian Alecu"
+date: 2026-04-11
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2026-04-11
 layout: default
 tags:
 - capitalize
@@ -29,28 +29,18 @@ Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [S
 {% raw %}
 
 ```scala
-object Capitalize {
-  def main(args: Array[String]) {
-    val inputStr: Option[String] = args.length match {
-      case 0 => Some("")
-      case _ => Some(args(0))
-    }
-    if (inputStr.get.length < 1) {
-      println("Usage: please provide a string")
-    }
-    else {
-      inputStr.map(_.capitalize).map(println)
-    }
-  }
-}
-
+object Capitalize:
+  def main(args: Array[String]): Unit =
+    args.headOption.filter(_.nonEmpty) match
+      case Some(str) => println(str.capitalize)
+      case None      => println("Usage: please provide a string")
 ```
 
 {% endraw %}
 
 Capitalize in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
-- rzuckerm
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

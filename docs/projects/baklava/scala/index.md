@@ -1,9 +1,10 @@
 ---
 authors:
 - rzuckerm
+- "\u0218tefan-Iulian Alecu"
 date: 2024-10-02
 featured-image: baklava-in-every-language.jpg
-last-modified: 2024-10-02
+last-modified: 2026-04-11
 layout: default
 tags:
 - baklava
@@ -29,17 +30,19 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Scala](
 {% raw %}
 
 ```scala
-import scala.math.abs
+object Baklava:
+  def generate(size: Int): Seq[String] =
+    for i <- -size to size yield
+      val spaces = i.abs
+      val stars = (size * 2 + 1) - 2 * spaces
+      " " * spaces + "*" * stars
 
-object Baklava {
-  def main(args: Array[String]): Unit = {
-    for (i <- -10.until(11)) {
-        var numSpaces = abs(i)
-        println(" " * numSpaces + "*" * (21 - 2 * numSpaces))
-    }
-  }
-}
+  def main(args: Array[String]): Unit =
+    val size =
+      if args.nonEmpty then args(0).toInt
+      else 10
 
+    generate(size).foreach(println)
 ```
 
 {% endraw %}
@@ -47,6 +50,7 @@ object Baklava {
 Baklava in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
 - rzuckerm
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -1,11 +1,11 @@
 ---
 authors:
-- Jeremy Griffith
 - Jeremy Grifski
 - rzuckerm
-date: 2018-04-10
+- "\u0218tefan-Iulian Alecu"
+date: 2019-05-08
 featured-image: hello-world-in-scala.jpg
-last-modified: 2023-05-15
+last-modified: 2026-04-11
 layout: default
 tags:
 - hello-world
@@ -31,17 +31,16 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```scala
-object HelloWorld extends App {
-  println("Hello, World!")
-}
-
+object HelloWorld:
+  def main(args: Array[String]): Unit =
+    println("Hello, World!")
 ```
 
 {% endraw %}
 
 Hello World in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
-- Jeremy Griffith
+- Ștefan-Iulian Alecu
 
 This article was written by:
 

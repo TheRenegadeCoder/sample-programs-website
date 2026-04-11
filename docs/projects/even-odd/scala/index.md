@@ -1,9 +1,10 @@
 ---
 authors:
 - rzuckerm
+- "\u0218tefan-Iulian Alecu"
 date: 2023-05-15
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2026-04-11
 layout: default
 tags:
 - even-odd
@@ -29,27 +30,19 @@ Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Scala
 {% raw %}
 
 ```scala
-// Scala Program to check if input number is Odd or Even
+import scala.util.Try
 
-import scala.util.{Try, Success, Failure}
+object EvenOdd:
+  private val usage = "Usage: please input a number"
 
-object EvenOdd 
-{
-    def check_even_odd(num: Int): String = { 
-        val result = if (num%2==0) "Even" else "Odd"
-        return result
-    }
+  def main(args: Array[String]): Unit =
+    val result =
+      args.headOption
+        .flatMap(a => Try(a.toInt).toOption)
+        .map(n => if n % 2 == 0 then "Even" else "Odd")
+        .getOrElse(usage)
 
-    // Driver Code 
-    def main(args: Array[String]) 
-    {
-        Try(args(0).toInt) match {
-            case Failure(_) => println("Usage: please input a number")
-            case Success(m) => println(check_even_odd(m))
-        }
-    }
-} 
-
+    println(result)
 ```
 
 {% endraw %}
@@ -57,6 +50,7 @@ object EvenOdd
 Even Odd in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
 - rzuckerm
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

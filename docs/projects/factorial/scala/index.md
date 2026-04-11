@@ -1,9 +1,10 @@
 ---
 authors:
 - rzuckerm
+- "\u0218tefan-Iulian Alecu"
 date: 2023-05-15
 featured-image: factorial-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2026-04-11
 layout: default
 tags:
 - factorial
@@ -29,39 +30,24 @@ Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Sca
 {% raw %}
 
 ```scala
-// Scala Program to calculate 
-// Factorial of a number 
-
 import scala.util.Try
 
-// Creating object 
-object Factorial 
-{ 
-  // Iterative way to calculate
-  // factorial
-  def factorial(n: Int): Int = { 
-    var f = 1
-    for(i <- 1 to n) 
-    { 
-        f = f * i; 
-    } 
+object Factorial:
+  private val usage = "Usage: please input a non-negative integer"
 
-    return f 
-  } 
+  def main(args: Array[String]): Unit =
+    val result =
+      args.headOption
+        .flatMap(a => Try(a.toInt).toOption)
+        .filter(_ >= 0)
+        .map(factorial)
 
-  // Driver Code 
-  def main(args: Array[String]) 
-  {
-    val m = Try(args(0).toInt).getOrElse(-1)
-    if (m < 0) {
-      println("Usage: please input a non-negative integer")
-    }
-    else {
-      println(factorial(m))
-    }
-  } 
-} 
+    result match
+      case Some(value) => println(value)
+      case None => println(usage)
 
+  private def factorial(n: Int): Int =
+    (1 to n).product
 ```
 
 {% endraw %}
@@ -69,6 +55,7 @@ object Factorial
 Factorial in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
 - rzuckerm
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

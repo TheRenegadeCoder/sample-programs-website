@@ -1,9 +1,10 @@
 ---
 authors:
 - rzuckerm
+- "\u0218tefan-Iulian Alecu"
 date: 2023-05-15
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2026-04-11
 layout: default
 tags:
 - fibonacci
@@ -29,30 +30,29 @@ Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Sca
 {% raw %}
 
 ```scala
-import scala.util.{Try, Success, Failure}
+object Fibonacci:
 
-object Fibonacci {
+  private val fibs: LazyList[BigInt] =
+    BigInt(1) #:: BigInt(1) #:: fibs.zip(fibs.tail).map(_ + _)
+    
+  private val usage =
+    "Usage: please input the count of fibonacci numbers to output"
 
-  def fibonacci(n: Int) = {
-    var a = 0
-    var b = 1
-    for (i <- 1 to n) {
-      println(s"$i: $b")
-      val c = a + b
-      a = b
-      b = c
-    }
-  }
+  def main(args: Array[String]): Unit =
+    val output =
+      for
+        arg <- args.headOption
+        n <- arg.toIntOption if n >= 0
+      yield
+        if n == 0 then ""
+        else
+          fibs
+            .take(n)
+            .zipWithIndex
+            .map((f, i) => s"${i + 1}: $f")
+            .mkString("\n")
 
-
-  def main(args: Array[String]) = {
-    Try(args(0).toInt) match {
-      case Failure(_) => println("Usage: please input the count of fibonacci numbers to output")
-      case Success(n) => fibonacci(n)
-    }
-  }
-}
-
+    println(output.getOrElse(usage))
 ```
 
 {% endraw %}
@@ -60,6 +60,7 @@ object Fibonacci {
 Fibonacci in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
 - rzuckerm
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

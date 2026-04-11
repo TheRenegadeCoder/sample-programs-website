@@ -1,11 +1,9 @@
 ---
 authors:
-- rzuckerm
-- Vee Ng
-- Viet Thang Nguyen
-date: 2019-03-22
+- "\u0218tefan-Iulian Alecu"
+date: 2026-04-11
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2026-04-11
 layout: default
 tags:
 - reverse-string
@@ -31,43 +29,18 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 {% raw %}
 
 ```scala
-object ReverseString {
-  // revese using recursive & pattern matching
-  def reverseString(str: String): String = str.length match {
-    case 0 => ""
-    case 1 => str
-    case _ => reverseString(tail(str)) ++ head(str)
-  }
-
-  def head(str: String): String = str.length match {
-    case 0 => ""
-    case _ => str.slice(0, 1)
-  }
-
-  def tail(str: String): String = str.length match {
-    case 0 => ""
-    case 1 => ""
-    case _ => str.slice(1, str.length)
-  }
-
-  def main(args: Array[String]) {
-    val inputStr: Option[String] = args.length match {
-      case 0 => None
-      case _ => Some(args(0))
-    }
-    inputStr.map(reverseString).map(println)
-  }
-}
-
+object ReverseString:
+  def main(args: Array[String]): Unit =
+    args.headOption match
+      case Some(str) => println(str.reverse)
+      case None      => println("")
 ```
 
 {% endraw %}
 
 Reverse String in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
-- rzuckerm
-- Vee Ng
-- Viet Thang Nguyen
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
