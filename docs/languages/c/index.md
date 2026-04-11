@@ -5,7 +5,7 @@ authors:
 - Ron Zuckerman
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2025-07-28
+last-modified: 2026-04-11
 layout: default
 tags:
 - c
@@ -47,7 +47,7 @@ implicitly.
 
 ## Articles
 
-There are 38 articles:
+There are 39 articles:
 
 - [Baklava in C](https://sampleprograms.io/projects/baklava/c)
 - [Base64 Encode Decode in C](https://sampleprograms.io/projects/base64-encode-decode/c)
@@ -87,3 +87,4 @@ There are 38 articles:
 - [Selection Sort in C](https://sampleprograms.io/projects/selection-sort/c)
 - [Sleep Sort in C](https://sampleprograms.io/projects/sleep-sort/c)
 - [Transpose Matrix in C](https://sampleprograms.io/projects/transpose-matrix/c)
+- [Zeckendorf in C](https://sampleprograms.io/projects/zeckendorf/c)
