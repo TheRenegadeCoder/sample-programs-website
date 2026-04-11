@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-10
 featured-image: programming-languages.jpg
-last-modified: 2025-07-22
+last-modified: 2026-04-11
 layout: default
 tags:
 - pascal
@@ -100,7 +100,7 @@ At any rate, I think we've played around enough
 
 ## Articles
 
-There are 38 articles:
+There are 39 articles:
 
 - [Baklava in Pascal](https://sampleprograms.io/projects/baklava/pascal)
 - [Base64 Encode Decode in Pascal](https://sampleprograms.io/projects/base64-encode-decode/pascal)
@@ -140,3 +140,4 @@ There are 38 articles:
 - [Selection Sort in Pascal](https://sampleprograms.io/projects/selection-sort/pascal)
 - [Sleep Sort in Pascal](https://sampleprograms.io/projects/sleep-sort/pascal)
 - [Transpose Matrix in Pascal](https://sampleprograms.io/projects/transpose-matrix/pascal)
+- [Zeckendorf in Pascal](https://sampleprograms.io/projects/zeckendorf/pascal)
