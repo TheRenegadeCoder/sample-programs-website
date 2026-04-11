@@ -41,12 +41,13 @@ However, with great power comes great responsibility. As a result, I personally 
 
 ## Articles
 
-There are 37 articles:
+There are 38 articles:
 
 - [Baklava in C++](https://sampleprograms.io/projects/baklava/c-plus-plus)
 - [Binary Search in C++](https://sampleprograms.io/projects/binary-search/c-plus-plus)
 - [Bubble Sort in C++](https://sampleprograms.io/projects/bubble-sort/c-plus-plus)
 - [Capitalize in C++](https://sampleprograms.io/projects/capitalize/c-plus-plus)
+- [Convex Hull in C++](https://sampleprograms.io/projects/convex-hull/c-plus-plus)
 - [Depth First Search in C++](https://sampleprograms.io/projects/depth-first-search/c-plus-plus)
 - [Dijkstra in C++](https://sampleprograms.io/projects/dijkstra/c-plus-plus)
 - [Duplicate Character Counter in C++](https://sampleprograms.io/projects/duplicate-character-counter/c-plus-plus)
