@@ -35,7 +35,6 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [C++
 int main()
 {
     for (int i = 1; i <= 100; i++)
-    {
         if (i % 15 == 0)
             std::cout << "FizzBuzz\n";
         else if (i % 5 == 0)
@@ -44,7 +43,6 @@ int main()
             std::cout << "Fizz\n";
         else
             std::cout << i << "\n";
-    }
     return 0;
 }
 

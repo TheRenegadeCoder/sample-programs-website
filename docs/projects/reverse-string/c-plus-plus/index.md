@@ -2,9 +2,10 @@
 authors:
 - Jeremy Grifski
 - Noah
+- "\u0218tefan-Iulian Alecu"
 date: 2018-09-14
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2022-10-10
+last-modified: 2026-04-15
 layout: default
 tags:
 - c-plus-plus
@@ -30,9 +31,9 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 {% raw %}
 
 ```c++
+#include <algorithm>
 #include <iostream>
 #include <string>
-#include <algorithm>
 
 int main(int argc, char *argv[])
 {
@@ -52,6 +53,7 @@ Reverse String in [C++](https://sampleprograms.io/languages/c-plus-plus) was wri
 
 - Jeremy Grifski
 - Noah
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -1,9 +1,10 @@
 ---
 authors:
 - Himanshu Raheja
+- "\u0218tefan-Iulian Alecu"
 date: 2023-10-19
 featured-image: rot13-in-every-language.jpg
-last-modified: 2023-10-19
+last-modified: 2026-04-15
 layout: default
 tags:
 - c-plus-plus
@@ -34,24 +35,30 @@ Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [C++](https:
 
 using namespace std;
 
-void rot13(string& str) {
-    for (char& c : str) {
-        if (('a' <= c && c <= 'z') || ('A' <= c && c <= 'Z')) {
-            if (('a' <= c && c <= 'm') || ('A' <= c && c <= 'M')) {
+void rot13(string &str)
+{
+    for (char &c : str)
+    {
+        if (('a' <= c && c <= 'z') || ('A' <= c && c <= 'Z'))
+        {
+            if (('a' <= c && c <= 'm') || ('A' <= c && c <= 'M'))
                 c += 13;
-            } else {
+            else
                 c -= 13;
-            }
         }
     }
 }
 
-int main(int argc, char* argv[]) {
-    if (argc == 2 && string(argv[1]).size() != 0) {
+int main(int argc, char *argv[])
+{
+    if (argc == 2 && string(argv[1]).size() != 0)
+    {
         string inputString(argv[1]);
         rot13(inputString);
         cout << inputString << endl;
-    } else {
+    }
+    else
+    {
         cout << "Usage: please provide a string to encrypt" << endl;
     }
 
@@ -65,6 +72,7 @@ int main(int argc, char* argv[]) {
 Rot13 in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Himanshu Raheja
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

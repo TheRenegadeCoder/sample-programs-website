@@ -1,7 +1,7 @@
 ---
 date: 2019-10-22
 featured-image: convex-hull-in-every-language.jpg
-last-modified: 2026-04-11
+last-modified: 2026-04-15
 layout: default
 tags:
 - convex-hull

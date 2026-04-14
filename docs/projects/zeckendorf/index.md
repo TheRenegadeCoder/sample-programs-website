@@ -1,7 +1,7 @@
 ---
 date: 2026-01-19
 featured-image: zeckendorf-in-every-language.png
-last-modified: 2026-04-11
+last-modified: 2026-04-15
 layout: default
 tags:
 - zeckendorf

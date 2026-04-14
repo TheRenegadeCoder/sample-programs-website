@@ -3,9 +3,10 @@ authors:
 - Jeremy Grifski
 - rzuckerm
 - smjalageri
+- "\u0218tefan-Iulian Alecu"
 date: 2021-11-01
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2023-03-30
+last-modified: 2026-04-15
 layout: default
 tags:
 - c
@@ -31,10 +32,10 @@ Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindrom
 {% raw %}
 
 ```c
+#include <ctype.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <ctype.h>
 
 void palindromic_number(int number)
 {
@@ -54,13 +55,9 @@ void palindromic_number(int number)
     else
     {
         if (reversed_number == number)
-        {
             printf("true");
-        }
         else
-        {
             printf("false");
-        }
     }
 }
 
@@ -71,13 +68,9 @@ int is_int(char **argv)
         ++j;
 
     if (strlen(argv[1]) != j || j == 0)
-    {
         return 1;
-    }
     else
-    {
         return 0;
-    }
 }
 
 int main(int argc, char **argv)
@@ -101,6 +94,7 @@ Palindromic Number in [C](https://sampleprograms.io/languages/c) was written by:
 - Jeremy Grifski
 - rzuckerm
 - smjalageri
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

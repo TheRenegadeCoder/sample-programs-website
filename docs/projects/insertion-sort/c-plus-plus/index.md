@@ -5,9 +5,10 @@ authors:
 - rzuckerm
 - sun-fox
 - SUNNY KUMAR SINGH
+- "\u0218tefan-Iulian Alecu"
 date: 2019-10-09
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2026-04-15
 layout: default
 tags:
 - c-plus-plus
@@ -34,26 +35,26 @@ Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sor
 
 ```c++
 #include <iostream>
-#include <vector>
-#include <string>
 #include <sstream>
+#include <string>
+#include <vector>
 
 void insertSort(std::vector<int> &v)
 {
     int n = v.size();
     int i = 0, j = 0, temp = 0;
-    for (i = 1; i < n; i++)
+    for (int i = 1; i < n; i++)
     {
         int store = v[i];
-        j = i - 1;
-        while (store < v[j] && j >= 0)
+        int j = i - 1;
+        
+        while (j >= 0 && v[j] > store)
         {
             v[j + 1] = v[j];
             j--;
         }
         v[j + 1] = store;
     }
-    return;
 }
 
 int main(int argc, char *argv[])
@@ -62,9 +63,10 @@ int main(int argc, char *argv[])
 
     if (argc != 2)
     {
-        std::cout << "Usage: please provide a list of at least two "
-                     "integers to sort in the format \"1, 2, 3, 4, 5\""
-                  << std::endl;
+        std::cout
+            << "Usage: please provide a list of at least two "
+               "integers to sort in the format \"1, 2, 3, 4, 5\""
+            << std::endl;
         return 1;
     }
 
@@ -72,9 +74,10 @@ int main(int argc, char *argv[])
     int i = 0, num = 0;
     if (str.size() < 2)
     {
-        std::cout << "Usage: please provide a list of at least two "
-                     "integers to sort in the format \"1, 2, 3, 4, 5\""
-                  << std::endl;
+        std::cout
+            << "Usage: please provide a list of at least two "
+               "integers to sort in the format \"1, 2, 3, 4, 5\""
+            << std::endl;
         return 1;
     }
 
@@ -91,9 +94,10 @@ int main(int argc, char *argv[])
 
         else if (ss.tellg() != -1)
         {
-            std::cout << "Usage: please provide a list of at least two "
-                         "integers to sort in the format \"1, 2, 3, 4, 5\""
-                      << std::endl;
+            std::cout
+                << "Usage: please provide a list of at least two "
+                   "integers to sort in the format \"1, 2, 3, 4, 5\""
+                << std::endl;
             return 1;
         }
     }
@@ -101,9 +105,7 @@ int main(int argc, char *argv[])
     insertSort(numbers);
 
     for (i = 0; i < numbers.size() - 1; i++)
-    {
         std::cout << numbers[i] << ", ";
-    }
     std::cout << numbers[i] << std::endl;
     return 0;
 }
@@ -116,6 +118,7 @@ Insertion Sort in [C++](https://sampleprograms.io/languages/c-plus-plus) was wri
 
 - Jeremy Grifski
 - Prasun Kumar
+- Ștefan-Iulian Alecu
 
 This article was written by:
 
@@ -125,6 +128,8 @@ This article was written by:
 - SUNNY KUMAR SINGH
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 15 2026 00:50:56. The solution was first committed on Oct 09 2019 21:10:56. The documentation was last updated on May 15 2023 15:51:23. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

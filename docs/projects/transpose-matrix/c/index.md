@@ -1,9 +1,10 @@
 ---
 authors:
 - Maximillian Naza
+- "\u0218tefan-Iulian Alecu"
 date: 2025-01-21
 featured-image: transpose-matrix-in-every-language.jpg
-last-modified: 2025-01-21
+last-modified: 2026-04-15
 layout: default
 tags:
 - c
@@ -35,17 +36,19 @@ Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-m
 
 #define MAX_MATRIX_SIZE 100
 
-void transpose_matrix(int *matrix, int rows, int cols, int *transposed) {
-    for (int i = 0; i < rows; i++) {
-        for (int j = 0; j < cols; j++) {
+void transpose_matrix(int *matrix, int rows, int cols, int *transposed)
+{
+    for (int i = 0; i < rows; i++)
+        for (int j = 0; j < cols; j++)
             transposed[j * rows + i] = matrix[i * cols + j];
-        }
-    }
 }
 
-int main(int argc, char *argv[]) {
-    if (argc != 4) {
-        printf("Usage: please enter the dimension of the matrix and the serialized matrix\n");
+int main(int argc, char *argv[])
+{
+    if (argc != 4)
+    {
+        printf("Usage: please enter the dimension of the matrix and the "
+               "serialized matrix\n");
         return 1;
     }
 
@@ -53,8 +56,10 @@ int main(int argc, char *argv[]) {
     int rows = atoi(argv[2]);
     char *input = argv[3];
 
-    if (cols <= 0 || rows <= 0 || strlen(input) == 0) {
-        printf("Usage: please enter the dimension of the matrix and the serialized matrix\n");
+    if (cols <= 0 || rows <= 0 || strlen(input) == 0)
+    {
+        printf("Usage: please enter the dimension of the matrix and the "
+               "serialized matrix\n");
         return 1;
     }
 
@@ -63,23 +68,26 @@ int main(int argc, char *argv[]) {
     int count = 0;
     char *token = strtok(input, ", ");
 
-    while (token != NULL && count < rows * cols) {
+    while (token != NULL && count < rows * cols)
+    {
         matrix[count++] = atoi(token);
         token = strtok(NULL, ", ");
     }
 
-    if (count != rows * cols) {
-        printf("Usage: please enter the dimension of the matrix and the serialized matrix\n");
+    if (count != rows * cols)
+    {
+        printf("Usage: please enter the dimension of the matrix and the "
+               "serialized matrix\n");
         return 1;
     }
 
     transpose_matrix(matrix, rows, cols, transposed);
 
-    for (int i = 0; i < cols * rows; i++) {
+    for (int i = 0; i < cols * rows; i++)
+    {
         printf("%d", transposed[i]);
-        if (i < cols * rows - 1) {
+        if (i < cols * rows - 1)
             printf(", ");
-        }
     }
     printf("\n");
 
@@ -93,6 +101,7 @@ int main(int argc, char *argv[]) {
 Transpose Matrix in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Maximillian Naza
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

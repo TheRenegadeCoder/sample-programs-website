@@ -2,9 +2,10 @@
 authors:
 - Ford Smith
 - Jeremy Grifski
+- "\u0218tefan-Iulian Alecu"
 date: 2019-10-09
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2022-10-10
+last-modified: 2026-04-15
 layout: default
 tags:
 - c-plus-plus
@@ -30,8 +31,8 @@ Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [C
 {% raw %}
 
 ```c++
-#include <iostream>
 #include <cstring>
+#include <iostream>
 
 int main(int argc, const char *argv[])
 {
@@ -42,12 +43,10 @@ int main(int argc, const char *argv[])
     }
 
     for (int j = 0; j < (int)std::strlen(argv[1]); j++)
-    {
         if (j == 0)
             std::cout << (char)toupper(argv[1][j]);
         else
             std::cout << *(argv[1] + sizeof(char) * j);
-    }
 }
 
 ```
@@ -58,6 +57,7 @@ Capitalize in [C++](https://sampleprograms.io/languages/c-plus-plus) was written
 
 - Ford Smith
 - Jeremy Grifski
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

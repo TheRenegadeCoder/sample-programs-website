@@ -1,7 +1,7 @@
 ---
 date: 2020-10-17
 featured-image: longest-palindromic-substring-in-every-language.jpg
-last-modified: 2026-04-10
+last-modified: 2026-04-15
 layout: default
 tags:
 - longest-palindromic-substring

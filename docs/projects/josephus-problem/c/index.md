@@ -1,9 +1,10 @@
 ---
 authors:
 - Maximillian Naza
+- "\u0218tefan-Iulian Alecu"
 date: 2025-01-19
 featured-image: josephus-problem-in-every-language.jpg
-last-modified: 2025-01-19
+last-modified: 2026-04-15
 layout: default
 tags:
 - c
@@ -32,29 +33,37 @@ Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-pr
 #include <stdio.h>
 #include <stdlib.h>
 
-int josephus(int n, int k) {
+int josephus(int n, int k)
+{
     if (n == 1)
         return 1;
     else
         return (josephus(n - 1, k) + k - 1) % n + 1;
 }
 
-int main(int argc, char *argv[]) {
-    if (argc != 3) {
-        printf("Usage: please input the total number of people and number of people to skip.\n");
+int main(int argc, char *argv[])
+{
+    if (argc != 3)
+    {
+        printf("Usage: please input the total number of people and number of "
+               "people to skip.\n");
         return 1;
     }
 
     char *endptr;
     int n = strtol(argv[1], &endptr, 10);
-    if (*endptr != '\0' || n <= 0) {
-        printf("Usage: please input the total number of people and number of people to skip.\n");
+    if (*endptr != '\0' || n <= 0)
+    {
+        printf("Usage: please input the total number of people and number of "
+               "people to skip.\n");
         return 1;
     }
 
     int k = strtol(argv[2], &endptr, 10);
-    if (*endptr != '\0' || k <= 0) {
-        printf("Usage: please input the total number of people and number of people to skip.\n");
+    if (*endptr != '\0' || k <= 0)
+    {
+        printf("Usage: please input the total number of people and number of "
+               "people to skip.\n");
         return 1;
     }
 
@@ -71,6 +80,7 @@ int main(int argc, char *argv[]) {
 Josephus Problem in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Maximillian Naza
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

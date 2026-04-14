@@ -3,9 +3,10 @@ authors:
 - Ajay Maheshwari
 - Jeremy Grifski
 - rzuckerm
+- "\u0218tefan-Iulian Alecu"
 date: 2022-10-06
 featured-image: dijkstra-in-every-language.jpg
-last-modified: 2024-11-11
+last-modified: 2026-04-15
 layout: default
 tags:
 - c-plus-plus
@@ -42,7 +43,8 @@ vector<int> dis(N, INT_MAX);
 
 void handle_error()
 {
-    cout << "Usage: please provide three inputs: a serialized matrix, a source node and a destination node";
+    cout << "Usage: please provide three inputs: a serialized matrix, a source "
+            "node and a destination node";
     exit(0);
 }
 
@@ -69,12 +71,8 @@ int check(string s)
     }
 
     for (int i = x1; i <= x2; i++)
-    {
         if (s[i] == ' ')
-        {
             handle_error();
-        }
-    }
 
     return stoi(s);
 }
@@ -83,9 +81,7 @@ vector<int> convert(string s)
 {
 
     if (s.size() == 0)
-    {
         handle_error();
-    }
     vector<int> v;
     string num = "";
     for (int i = 0; i < s.size(); i++)
@@ -146,7 +142,8 @@ int main(int argc, char *argv[])
 
     if (argc <= 1)
         handle_error();
-    vector<int> bin = convert(argv[1]), nodes = convert(argv[2]), t = convert(argv[3]);
+    vector<int> bin = convert(argv[1]), nodes = convert(argv[2]),
+                t = convert(argv[3]);
     if (bin.size() == 0 || nodes.size() == 0 || t.size() == 0)
         handle_error();
     int des = t[0];
@@ -189,6 +186,7 @@ Dijkstra in [C++](https://sampleprograms.io/languages/c-plus-plus) was written b
 - Ajay Maheshwari
 - Jeremy Grifski
 - rzuckerm
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

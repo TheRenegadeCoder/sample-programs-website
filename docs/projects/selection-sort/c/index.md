@@ -1,9 +1,10 @@
 ---
 authors:
 - vidit624
+- "\u0218tefan-Iulian Alecu"
 date: 2020-10-02
 featured-image: selection-sort-in-every-language.jpg
-last-modified: 2020-10-02
+last-modified: 2026-04-15
 layout: default
 tags:
 - c
@@ -31,15 +32,16 @@ Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sor
 ```c
 // Selection Sort In C Language
 
-#include <stdio.h>
 #include <errno.h>
+#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
-void selectionSort(long arr[], size_t n);   // Function for Selection Sort
-void swap(long *xp, long *yp); 		   // Swap two numbers
+void selectionSort(long arr[], size_t n); // Function for Selection Sort
+void swap(long *xp, long *yp);            // Swap two numbers
 
-size_t parse_list(const char *orig_list, long **arr)          // used for parsing the input in array arr
+size_t parse_list(const char *orig_list,
+                  long **arr) // used for parsing the input in array arr
 {
     char *list;
     char *token;
@@ -49,14 +51,13 @@ size_t parse_list(const char *orig_list, long **arr)          // used for parsin
     long temp_num;
 
     /* figure out the length of the list first */
-    for (i = 0; orig_list[i]; i++) {
-        if (orig_list[i] == ',') {
+    for (i = 0; orig_list[i]; i++)
+        if (orig_list[i] == ',')
             num_elements++;
-        }
-    }
 
     /* if there are no commas, it's an invalid list */
-    if (num_elements == 0) {
+    if (num_elements == 0)
+    {
         *arr = NULL;
         return 0;
     }
@@ -70,10 +71,12 @@ size_t parse_list(const char *orig_list, long **arr)          // used for parsin
     /* find the numbers */
     list = strdup(orig_list);
     token = strtok(list, ",");
-    while (token != NULL) {
+    while (token != NULL)
+    {
         errno = 0;
         temp_num = strtol(token, NULL, 10);
-        if (errno != 0) {
+        if (errno != 0)
+        {
             *arr = NULL;
             return 0;
         }
@@ -89,13 +92,12 @@ size_t parse_list(const char *orig_list, long **arr)          // used for parsin
 }
 
 /* printing array in desired form */
-void printArray(long *arr, size_t num_elems)               
+void printArray(long *arr, size_t num_elems)
 {
     int i;
 
-    for (i = 0; i < num_elems - 1; i++) {
+    for (i = 0; i < num_elems - 1; i++)
         printf("%ld, ", arr[i]);
-    }
 
     printf("%ld\n", arr[num_elems - 1]);
 }
@@ -103,56 +105,59 @@ void printArray(long *arr, size_t num_elems)
 /* Error message if input is not in desired format */
 void errorMsg()
 {
-    fputs("Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\"\n", stderr);
+    fputs("Usage: please provide a list of at least two integers to sort in "
+          "the format \"1, 2, 3, 4, 5\"\n",
+          stderr);
 }
-
 
 int main(int argc, char **argv)
 {
     long *arr;
     long num_elements;
 
-    if (argc < 2) {
+    if (argc < 2)
+    {
         errorMsg();
         return 1;
     }
 
     num_elements = parse_list(argv[1], &arr);
-    if (num_elements == 0) {
+    if (num_elements == 0)
+    {
         errorMsg();
         return 1;
     }
 
-    selectionSort(arr,num_elements);                     // call for complete array [0....n-1]
+    selectionSort(arr, num_elements); // call for complete array [0....n-1]
     printArray(arr, num_elements);
 
     free(arr);
 }
 
-void swap(long *xp, long *yp) 
-{ 
-    int temp = *xp; 
-    *xp = *yp; 
-    *yp = temp; 
-} 
-  
-void selectionSort(long arr[], size_t n) 
-{ 
-    int i, j, min_idx; 
-  
-    // One by one move boundary of unsorted subarray 
-    for (i = 0; i < n-1; i++) 
-    { 
-        // Find the minimum element in unsorted array 
-        min_idx = i; 
-        for (j = i+1; j < n; j++) 
-          if (arr[j] < arr[min_idx]) 
-            min_idx = j; 
-  
-        // Swap the found minimum element with the first element 
-        swap(&arr[min_idx], &arr[i]); 
-    } 
-} 
+void swap(long *xp, long *yp)
+{
+    int temp = *xp;
+    *xp = *yp;
+    *yp = temp;
+}
+
+void selectionSort(long arr[], size_t n)
+{
+    int i, j, min_idx;
+
+    // One by one move boundary of unsorted subarray
+    for (i = 0; i < n - 1; i++)
+    {
+        // Find the minimum element in unsorted array
+        min_idx = i;
+        for (j = i + 1; j < n; j++)
+            if (arr[j] < arr[min_idx])
+                min_idx = j;
+
+        // Swap the found minimum element with the first element
+        swap(&arr[min_idx], &arr[i]);
+    }
+}
 ```
 
 {% endraw %}
@@ -160,6 +165,7 @@ void selectionSort(long arr[], size_t n)
 Selection Sort in [C](https://sampleprograms.io/languages/c) was written by:
 
 - vidit624
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

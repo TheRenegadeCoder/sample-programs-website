@@ -1,7 +1,7 @@
 ---
 date: 2025-03-25
 featured-image: base64-encode-decode-in-every-language.png
-last-modified: 2026-04-10
+last-modified: 2026-04-15
 layout: default
 tags:
 - base64-encode-decode

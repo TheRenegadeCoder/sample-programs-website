@@ -1,9 +1,10 @@
 ---
 authors:
 - Jake-G123
+- "\u0218tefan-Iulian Alecu"
 date: 2025-10-29
 featured-image: maximum-array-rotation-in-every-language.jpg
-last-modified: 2025-10-29
+last-modified: 2026-04-15
 layout: default
 tags:
 - c-plus-plus
@@ -30,14 +31,17 @@ Welcome to the [Maximum Array Rotation](https://sampleprograms.io/projects/maxim
 
 ```c++
 #include <iostream>
-#include <vector>
 #include <sstream>
+#include <vector>
 
 using namespace std;
-int main(int argc, char *argv[]) {
+int main(int argc, char *argv[])
+{
     // Check if input exists and isn't empty
-    if (argc < 2 || string(argv[1]).empty()) {
-        cout << "Usage: please provide a list of integers (e.g. \"8, 3, 1, 2\")";
+    if (argc < 2 || string(argv[1]).empty())
+    {
+        cout
+            << "Usage: please provide a list of integers (e.g. \"8, 3, 1, 2\")";
         return 1;
     }
     // Parse input string
@@ -46,29 +50,30 @@ int main(int argc, char *argv[]) {
     stringstream ss(input);
     string token;
 
-    while (getline(ss, token, ',')) {
+    while (getline(ss, token, ','))
         arr.push_back(stoi(token));
-    }
 
     int n = arr.size();
     int arr_sum = 0;
     int current_sum = 0;
     // Get sum of array and first rotation sum
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < n; i++)
+    {
         arr_sum += arr[i];
-        current_sum+= i * arr[i];
+        current_sum += i * arr[i];
     }
-    
+
     int max_sum = current_sum;
     // check all other possible rotations
-    for (int j = 1; j < n; j++) {
-        int rotating_value = arr[n-j];
-        // next sum = current sum + gains of shifting values one index higher - loss of moving highest index to 0
+    for (int j = 1; j < n; j++)
+    {
+        int rotating_value = arr[n - j];
+        // next sum = current sum + gains of shifting values one index higher -
+        // loss of moving highest index to 0
         current_sum = current_sum + arr_sum - n * rotating_value;
 
-        if (current_sum > max_sum) {
+        if (current_sum > max_sum)
             max_sum = current_sum;
-        }
     }
     cout << max_sum << endl;
     return 0;
@@ -80,6 +85,7 @@ int main(int argc, char *argv[]) {
 Maximum Array Rotation in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Jake-G123
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

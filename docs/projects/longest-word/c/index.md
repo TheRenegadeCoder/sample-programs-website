@@ -1,9 +1,10 @@
 ---
 authors:
 - sachchu007
+- "\u0218tefan-Iulian Alecu"
 date: 2022-10-08
 featured-image: longest-word-in-every-language.jpg
-last-modified: 2022-10-08
+last-modified: 2026-04-15
 layout: default
 tags:
 - c
@@ -29,35 +30,33 @@ Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) i
 {% raw %}
 
 ```c
-#include<stdio.h>
-#include<stdlib.h>
-#include<string.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
-void error(){
+void error()
+{
     printf("Usage: please provide a string\n");
     exit(0);
 }
+
 int main(int argc, char *argv[])
 {
-    if(argc<2){
+    if (argc < 2 || strlen(argv[1]) <= 0)
         error();
-    }
-    if(strlen(argv[1])<=0){
-        error();
-    }
+    
     int max = -1;
-    char* word = strtok(argv[1], " ,\n\t");
-    while (word != NULL) {
+    char *word = strtok(argv[1], " ,\n\t");
+    while (word != NULL)
+    {
         int len = strlen(word);
-        if(len>max){
+        if (len > max)
             max = len;
-        }
         word = strtok(NULL, " ,\n\t");
     }
 
-    printf("%d",max);
-      
-    
+    printf("%d", max);
+
     return 0;
 }
 
@@ -68,6 +67,7 @@ int main(int argc, char *argv[])
 Longest Word in [C](https://sampleprograms.io/languages/c) was written by:
 
 - sachchu007
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

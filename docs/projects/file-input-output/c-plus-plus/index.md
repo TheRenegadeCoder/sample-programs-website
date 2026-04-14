@@ -3,9 +3,10 @@ authors:
 - Jeremy Grifski
 - Noah Nichols
 - rzuckerm
+- "\u0218tefan-Iulian Alecu"
 date: 2018-09-10
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2026-04-15
 layout: default
 tags:
 - c-plus-plus
@@ -31,8 +32,8 @@ Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input
 {% raw %}
 
 ```c++
-#include <iostream>
 #include <fstream>
+#include <iostream>
 #include <string>
 
 void write_file()
@@ -67,9 +68,7 @@ void read_file()
 
     std::string line;
     while (std::getline(in, line))
-    {
         std::cout << line << "\n";
-    }
 
     in.close();
 }
@@ -87,6 +86,7 @@ File Input Output in [C++](https://sampleprograms.io/languages/c-plus-plus) was 
 
 - Jeremy Grifski
 - Noah Nichols
+- Ștefan-Iulian Alecu
 
 This article was written by:
 
@@ -94,6 +94,8 @@ This article was written by:
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 15 2026 00:50:56. The solution was first committed on Sep 10 2018 22:37:35. The documentation was last updated on May 15 2023 15:51:23. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -2,9 +2,10 @@
 authors:
 - Jayden Thrasher
 - Jeremy Grifski
+- "\u0218tefan-Iulian Alecu"
 date: 2019-10-02
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2022-10-10
+last-modified: 2026-04-15
 layout: default
 tags:
 - bubble-sort
@@ -60,9 +61,7 @@ void bubbleSort(std::vector<int> &v, int n)
         }
 
         if (swapped == false)
-        {
             break;
-        }
     }
 }
 
@@ -70,13 +69,9 @@ void print(std::vector<int> v, int size)
 {
     for (int i = 0; i < size; i++)
         if (i == size - 1)
-        {
             std::cout << v[i] << std::endl;
-        }
         else
-        {
             std::cout << v[i] << ", ";
-        }
 }
 
 int main(int argc, char *argv[])
@@ -107,22 +102,19 @@ int main(int argc, char *argv[])
         if (commaSeparated == true)
         {
             for (int i = 0; i < strlen(characters); i++)
-            {
 
                 if (characters[i] != ',' && characters[i] != ' ')
-                {
                     numbers.push_back(atoi(&characters[i]));
-                }
-            }
         }
     }
 
     int size = numbers.size();
     if (size < 2)
     {
-        std::cout << "Usage: please provide a list of at least two integers to "
-                     "sort in the format \"1, 2, 3, 4, 5\""
-                  << std::endl;
+        std::cout
+            << "Usage: please provide a list of at least two integers to "
+               "sort in the format \"1, 2, 3, 4, 5\""
+            << std::endl;
     }
     else
     {
@@ -140,6 +132,7 @@ Bubble Sort in [C++](https://sampleprograms.io/languages/c-plus-plus) was writte
 
 - Jayden Thrasher
 - Jeremy Grifski
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -4,9 +4,10 @@ authors:
 - rzuckerm
 - shubhragupta-code
 - Softizo
+- "\u0218tefan-Iulian Alecu"
 date: 2019-10-09
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2026-04-15
 layout: default
 tags:
 - c
@@ -32,29 +33,28 @@ Welcome to the [C](https://sampleprograms.io/languages/c)apitalize in [C](https:
 {% raw %}
 
 ```c
+#include <ctype.h>
 #include <stdio.h>
 #include <string.h>
-#include <ctype.h>
 
-char *captialize(char str[]) {
-    for(int i = 0; i < strlen(str); i++) {
-        if(i == 0) {
+char *captialize(char str[])
+{
+    for (int i = 0; i < strlen(str); i++)
+        if (i == 0)
             str[i] = toupper(str[i]);
-        } else {
+        else
             continue;
-        }
-    }
     return str;
 }
 
-int main(int argc, char *argv[]) {
-    if(argc == 2 && strlen(argv[1]) != 0) {
+int main(int argc, char *argv[])
+{
+    if (argc == 2 && strlen(argv[1]) != 0)
         printf("%s\n", captialize(argv[1]));
-    } else if(argc > 2) {
+    else if (argc > 2)
         printf("Use quotes around multiple strings.\n");
-    } else {
+    else
         printf("Usage: please provide a string\n");
-    }
 
     return 0;
 }
@@ -67,6 +67,7 @@ int main(int argc, char *argv[]) {
 
 - Jeremy Grifski
 - Softizo
+- Ștefan-Iulian Alecu
 
 This article was written by:
 
@@ -75,6 +76,8 @@ This article was written by:
 - shubhragupta-code
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 15 2026 00:50:56. The solution was first committed on Oct 09 2019 17:27:39. The documentation was last updated on May 15 2023 15:51:23. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

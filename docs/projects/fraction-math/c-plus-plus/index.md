@@ -4,9 +4,10 @@ authors:
 - Niraj Kamdar
 - Niraj-Kamdar
 - rzuckerm
+- "\u0218tefan-Iulian Alecu"
 date: 2019-10-10
 featured-image: fraction-math-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2026-04-15
 layout: default
 tags:
 - c-plus-plus
@@ -39,9 +40,7 @@ using namespace std;
 int gcd(int a, int b)
 {
     if (a < 0)
-    {
         a = -a;
-    }
     while (a % b != 0)
     {
         int i = a;
@@ -54,21 +53,17 @@ int gcd(int a, int b)
 
 class Fraction
 {
-private:
+  private:
     int numerator;
     int denomenator;
 
-public:
+  public:
     Fraction(int top = 0, int bottom = 1)
     {
         if (bottom < 0)
-        {
             top = -top;
-        }
         else if (bottom == 0)
-        {
             throw "Error: Denomenator can't be zero.";
-        }
         int hcf = gcd(top, bottom);
         numerator = top / hcf;
         denomenator = bottom / hcf;
@@ -230,39 +225,27 @@ bool operator==(const Fraction f1, const Fraction f2)
 {
     int result = f1.numerator * f2.denomenator - f2.numerator * f1.denomenator;
     if (result == 0)
-    {
         return true;
-    }
     else
-    {
         return false;
-    }
 }
 
 bool operator>(const Fraction f1, const Fraction f2)
 {
     int result = f1.numerator * f2.denomenator - f2.numerator * f1.denomenator;
     if (result > 0)
-    {
         return true;
-    }
     else
-    {
         return false;
-    }
 }
 
 bool operator<(const Fraction f1, const Fraction f2)
 {
     int result = f1.numerator * f2.denomenator - f2.numerator * f1.denomenator;
     if (result < 0)
-    {
         return true;
-    }
     else
-    {
         return false;
-    }
 }
 
 bool operator>=(const Fraction f1, const Fraction f2)
@@ -365,6 +348,7 @@ Fraction Math in [C++](https://sampleprograms.io/languages/c-plus-plus) was writ
 
 - Jeremy Grifski
 - Niraj Kamdar
+- Ștefan-Iulian Alecu
 
 This article was written by:
 
@@ -374,6 +358,8 @@ This article was written by:
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 15 2026 00:50:56. The solution was first committed on Oct 10 2019 21:55:40. The documentation was last updated on May 15 2023 15:51:23. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

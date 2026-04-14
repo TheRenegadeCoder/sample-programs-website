@@ -2,10 +2,10 @@
 authors:
 - "Christoph B\xF6hmwalder"
 - Jeremy Grifski
-- Parker Johansen
+- "\u0218tefan-Iulian Alecu"
 date: 2018-10-04
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2019-04-18
+last-modified: 2026-04-15
 layout: default
 tags:
 - c
@@ -31,9 +31,9 @@ Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [C](
 {% raw %}
 
 ```c
-#include <stdio.h>
 #include <errno.h>
 #include <inttypes.h>
+#include <stdio.h>
 #include <string.h>
 
 /*
@@ -48,7 +48,8 @@ void fibonacci(int n)
     unsigned long long second = 1;
     unsigned long long result = 0;
 
-    for (int i = 1; i <= n; i++) {
+    for (int i = 1; i <= n; i++)
+    {
         result = first + second;
         first = second;
         second = result;
@@ -60,19 +61,27 @@ int main(int argc, char **argv)
 {
     uintmax_t n;
 
-    if (argc < 2 || strcmp(argv[1], "") == 0) {
-        fprintf(stderr, "Usage: please input the count of fibonacci numbers to output\n");
+    if (argc < 2 || strcmp(argv[1], "") == 0)
+    {
+        fprintf(
+            stderr,
+            "Usage: please input the count of fibonacci numbers to output\n");
         return 1;
     }
 
     errno = 0;
     n = strtoumax(argv[1], NULL, 10);
-    if (n == 0 && strcmp(argv[1], "0") != 0 || (n == UINTMAX_MAX && errno == ERANGE)) {
-        fprintf(stderr, "Usage: please input the count of fibonacci numbers to output\n");
+    if (n == 0 && strcmp(argv[1], "0") != 0
+        || (n == UINTMAX_MAX && errno == ERANGE))
+    {
+        fprintf(
+            stderr,
+            "Usage: please input the count of fibonacci numbers to output\n");
         return 1;
     }
 
-    if (n > LIMIT) {
+    if (n > LIMIT)
+    {
         fprintf(stderr, "n cannot be larger than %d\n", LIMIT);
         return 1;
     }
@@ -89,7 +98,7 @@ Fibonacci in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Christoph Böhmwalder
 - Jeremy Grifski
-- Parker Johansen
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

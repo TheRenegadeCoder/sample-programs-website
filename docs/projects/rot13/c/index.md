@@ -1,9 +1,10 @@
 ---
 authors:
 - Softizo
+- "\u0218tefan-Iulian Alecu"
 date: 2019-10-09
 featured-image: rot13-in-every-language.jpg
-last-modified: 2019-10-09
+last-modified: 2026-04-15
 layout: default
 tags:
 - c
@@ -29,29 +30,34 @@ Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [C](https://
 {% raw %}
 
 ```c
+#include <ctype.h>
 #include <stdio.h>
 #include <string.h>
-#include <ctype.h>
 
-void rot13(char *str) {
-    for(int i = 0; str[i] != '\0'; i++) {
+void rot13(char *str)
+{
+    for (int i = 0; str[i] != '\0'; i++)
+    {
         char c = *(str + i);
-        if(('a' <= c && 'n' > c) || ('A' <= c && 'N' > c)) {
+        if (('a' <= c && 'n' > c) || ('A' <= c && 'N' > c))
             *(str + i) += 13;
-        } else if(('n' <= c && 'z' >= c) || ('N' <= c && 'Z' >= c)) {
+        else if (('n' <= c && 'z' >= c) || ('N' <= c && 'Z' >= c))
             *(str + i) -= 13;
-        }
     }
 }
 
-int main(int argc, char *argv[]) {
-    if(argc == 2 && strlen(argv[1]) != 0 && !isdigit(*argv[1])) {
+int main(int argc, char *argv[])
+{
+    if (argc == 2 && strlen(argv[1]) != 0 && !isdigit(*argv[1]))
+    {
         rot13(argv[1]);
         printf("%s\n", argv[1]);
-    } else {
+    }
+    else
+    {
         printf("Usage: please provide a string to encrypt\n");
     }
-    
+
     return 0;
 }
 
@@ -62,6 +68,7 @@ int main(int argc, char *argv[]) {
 Rot13 in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Softizo
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

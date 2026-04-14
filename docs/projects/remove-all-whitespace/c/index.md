@@ -1,9 +1,10 @@
 ---
 authors:
 - qopci
+- "\u0218tefan-Iulian Alecu"
 date: 2024-11-06
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2024-11-06
+last-modified: 2026-04-15
 layout: default
 tags:
 - c
@@ -29,26 +30,27 @@ Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove
 {% raw %}
 
 ```c
-#include <stdio.h>
-#include <string.h>
 #include <ctype.h>
+#include <stdio.h>
 
-int main(int argc, char *argv[]) {
+int main(int argc, char *argv[])
+{
     // check whether the passed argument is a string or empty
-    if (argc < 2 || argv[1][0] == '\0') {
+    if (argc < 2 || argv[1][0] == '\0')
+    {
         printf("Usage: please provide a string\n");
-        return 1; 
+        return 1;
     }
 
-    char *input = argv[1]; 
-    char output[1000];  
-    int j = 0; 
+    char *input = argv[1];
+    char output[1000];
+    int j = 0;
 
-    for (int i = 0; input[i] != '\0'; i++) {
+    for (int i = 0; input[i] != '\0'; i++)
+    {
         // check if current character is not a whitespace character
-        if (!isspace(input[i])) {
+        if (!isspace(input[i]))
             output[j++] = input[i];
-        }
     }
 
     // null terminator to mark the end of a string
@@ -67,6 +69,7 @@ int main(int argc, char *argv[]) {
 Remove All Whitespace in [C](https://sampleprograms.io/languages/c) was written by:
 
 - qopci
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

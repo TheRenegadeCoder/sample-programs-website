@@ -4,9 +4,10 @@ authors:
 - LezendarySandwich
 - rzuckerm
 - shubhragupta-code
+- "\u0218tefan-Iulian Alecu"
 date: 2019-10-20
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2026-04-15
 layout: default
 tags:
 - c
@@ -32,46 +33,52 @@ Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral)
 {% raw %}
 
 ```c
-#include  <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
 int val[150];
 
-int main(int argc,char **argv)
+int main(int argc, char **argv)
 {
-    if(argv[1]==NULL){
+    if (argv[1] == NULL)
+    {
         printf("Usage: please provide a string of roman numerals");
         return 0;
     }
-    if(strlen(argv[1])==0){
+    if (strlen(argv[1]) == 0)
+    {
         printf("0");
         return 0;
     }
-    
-    int len=strlen(argv[1]);
-    val['I']=1;
-    val['V']=5;
-    val['X']=10;
-    val['L']=50;
-    val['C']=100;
-    val['D']=500;
-    val['M']=1000;
-    long long ans=0;
-    
-    for(int i=1;i<len;++i){
-        if(!val[argv[1][i]]){
+
+    int len = strlen(argv[1]);
+    val['I'] = 1;
+    val['V'] = 5;
+    val['X'] = 10;
+    val['L'] = 50;
+    val['C'] = 100;
+    val['D'] = 500;
+    val['M'] = 1000;
+    long long ans = 0;
+
+    for (int i = 1; i < len; ++i)
+    {
+        if (!val[argv[1][i]])
+        {
             printf("Error: invalid string of roman numerals");
             return 0;
         }
-        if(val[argv[1][i]]>val[argv[1][i-1]])ans-=2*val[argv[1][i-1]];
-        ans+=val[argv[1][i]];
+        if (val[argv[1][i]] > val[argv[1][i - 1]])
+            ans -= 2 * val[argv[1][i - 1]];
+        ans += val[argv[1][i]];
     }
-    if(!val[argv[1][0]]){
+    if (!val[argv[1][0]])
+    {
         printf("Error: invalid string of roman numerals");
         return 0;
     }
-    printf("%lld",ans+val[argv[1][0]]);
+    printf("%lld", ans + val[argv[1][0]]);
 }
 ```
 
@@ -80,6 +87,7 @@ int main(int argc,char **argv)
 Roman Numeral in [C](https://sampleprograms.io/languages/c) was written by:
 
 - LezendarySandwich
+- Ștefan-Iulian Alecu
 
 This article was written by:
 
@@ -88,6 +96,8 @@ This article was written by:
 - shubhragupta-code
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 15 2026 00:50:56. The solution was first committed on Oct 20 2019 11:59:04. The documentation was last updated on May 15 2023 15:51:23. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

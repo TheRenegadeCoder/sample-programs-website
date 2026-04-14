@@ -2,9 +2,10 @@
 authors:
 - Jeremy Grifski
 - Sailok Chinta
+- "\u0218tefan-Iulian Alecu"
 date: 2019-10-27
 featured-image: binary-search-in-every-language.jpg
-last-modified: 2022-10-10
+last-modified: 2026-04-15
 layout: default
 tags:
 - binary-search
@@ -30,14 +31,17 @@ Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search)
 {% raw %}
 
 ```c++
-#include <iostream>
 #include <bits/stdc++.h>
+#include <iostream>
 
 using namespace std;
 
 void handle_error()
 {
-    cout << "Usage: please provide a list of sorted integers (\"1, 4, 5, 11, 12\") and the integer to find (\"11\")" << endl;
+    cout
+        << "Usage: please provide a list of sorted integers (\"1, 4, 5, 11, "
+           "12\") and the integer to find (\"11\")"
+        << endl;
     exit(0);
 }
 
@@ -64,12 +68,8 @@ int check(string s)
     }
 
     for (int i = x1; i <= x2; i++)
-    {
         if (s[i] == ' ')
-        {
             handle_error();
-        }
-    }
 
     return stoi(s);
 }
@@ -77,9 +77,7 @@ int check(string s)
 vector<int> convert(string s)
 {
     if (s.size() == 0)
-    {
         handle_error();
-    }
     vector<int> v;
     string num = "";
     for (int i = 0; i < s.size(); i++)
@@ -100,9 +98,7 @@ vector<int> convert(string s)
     }
 
     if (num.size() > 0)
-    {
         v.push_back(check(num));
-    }
 
     return v;
 }
@@ -110,20 +106,14 @@ vector<int> convert(string s)
 int main(int argc, char *argv[])
 {
     if (argc < 3)
-    {
         handle_error();
-    }
 
     vector<int> v = convert(argv[1]);
     int num = check(argv[2]);
 
     for (int i = 0; i < v.size() - 1; i++)
-    {
         if (v[i] > v[i + 1])
-        {
             handle_error();
-        }
-    }
 
     int start = 0, end = v.size();
     string ans = "false";
@@ -147,9 +137,7 @@ int main(int argc, char *argv[])
     }
 
     if (start > end)
-    {
         ans = "false";
-    }
 
     cout << ans << endl;
 }
@@ -162,6 +150,7 @@ Binary Search in [C++](https://sampleprograms.io/languages/c-plus-plus) was writ
 
 - Jeremy Grifski
 - Sailok Chinta
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

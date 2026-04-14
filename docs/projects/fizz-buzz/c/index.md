@@ -3,9 +3,10 @@ authors:
 - Jeremy Grifski
 - rzuckerm
 - shubhragupta-code
+- "\u0218tefan-Iulian Alecu"
 date: 2018-08-16
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2023-05-15
+last-modified: 2026-04-15
 layout: default
 tags:
 - c
@@ -35,17 +36,15 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [C](
 
 int main(void)
 {
-    for (unsigned int i = 1; i <= 100; i++) {
-        if (i % 15 == 0) {
+    for (unsigned int i = 1; i <= 100; i++)
+        if (i % 15 == 0)
             puts("FizzBuzz");
-        } else if (i % 3 == 0) {
+        else if (i % 3 == 0)
             puts("Fizz");
-        } else if (i % 5 == 0) {
+        else if (i % 5 == 0)
             puts("Buzz");
-        } else {
+        else
             printf("%u\n", i);
-        }
-    }
     return 0;
 }
 
@@ -56,6 +55,7 @@ int main(void)
 Fizz Buzz in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Jeremy Grifski
+- Ștefan-Iulian Alecu
 
 This article was written by:
 
@@ -64,6 +64,8 @@ This article was written by:
 - shubhragupta-code
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 15 2026 00:50:56. The solution was first committed on Aug 16 2018 16:34:06. The documentation was last updated on May 15 2023 15:51:23. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

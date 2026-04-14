@@ -3,9 +3,10 @@ authors:
 - Jeremy Grifski
 - Marius
 - Parker Johansen
+- "\u0218tefan-Iulian Alecu"
 date: 2018-10-06
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2022-10-10
+last-modified: 2026-04-15
 layout: default
 tags:
 - c-plus-plus
@@ -31,22 +32,26 @@ Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [C++
 {% raw %}
 
 ```c++
-#include <iostream>
 #include <cstdlib>
+#include <iostream>
 using namespace std;
 
 int main(int argc, char *argv[])
 {
     if (argc < 2 || std::string(argv[1]) == "")
     {
-        cout << "Usage: please input the count of fibonacci numbers to output" << endl;
+        cout
+            << "Usage: please input the count of fibonacci numbers to output"
+            << endl;
         return 1;
     }
 
     int n = atoi(argv[1]);
     if (n == 0 && std::string(argv[1]) != "0")
     {
-        cout << "Usage: please input the count of fibonacci numbers to output" << endl;
+        cout
+            << "Usage: please input the count of fibonacci numbers to output"
+            << endl;
         return 1;
     }
     int first = 0;
@@ -72,6 +77,7 @@ Fibonacci in [C++](https://sampleprograms.io/languages/c-plus-plus) was written 
 - Jeremy Grifski
 - Marius
 - Parker Johansen
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

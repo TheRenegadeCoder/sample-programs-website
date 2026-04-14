@@ -1,9 +1,10 @@
 ---
 authors:
 - LezendarySandwich
+- "\u0218tefan-Iulian Alecu"
 date: 2019-10-20
 featured-image: quick-sort-in-every-language.jpg
-last-modified: 2019-10-20
+last-modified: 2026-04-15
 layout: default
 tags:
 - c
@@ -29,101 +30,110 @@ Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [C
 {% raw %}
 
 ```c
-#include  <stdio.h>
-#include <string.h>
+#include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
-long long get_val(int tmp[],int len){
-    long long value=0,mult=1;
-    for(int i=len-1;i>-1;--i){
-        if(tmp[i]==' '-'0'){
-            printf("Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\"\n");
+long long get_val(int tmp[], int len)
+{
+    long long value = 0, mult = 1;
+    for (int i = len - 1; i > -1; --i)
+    {
+        if (tmp[i] == ' ' - '0')
+        {
+            printf("Usage: please provide a list of at least two integers to "
+                   "sort in the format \"1, 2, 3, 4, 5\"\n");
             exit(0);
         }
-        value+=tmp[i]*mult;
-        mult*=10;
+        value += tmp[i] * mult;
+        mult *= 10;
     }
     return value;
 }
 
-
-void swap(long long* a, long long* b) 
-{ 
-    int t = *a; 
-    *a = *b; 
-    *b = t; 
-} 
-
-int partition (long long arr[], int low, int high) 
-{ 
-    long long pivot = arr[high];    
-    int i = low-1;
-
-    for (int j = low; j <= high- 1; j++) 
-    { 
-        if (arr[j] < pivot) 
-        { 
-            i++;
-            swap(&arr[i], &arr[j]); 
-        } 
-    } 
-    swap(&arr[i + 1], &arr[high]); 
-    return i+1; 
-} 
-
-void quickSort(long long arr[], int low, int high) 
-{ 
-    if (low < high) 
-    { 
-        int pi = partition(arr, low, high); 
-        quickSort(arr, low, pi - 1); 
-        quickSort(arr, pi + 1, high); 
-    } 
-} 
-
-void print(long long arr[], int size) 
-{ 
-    for (int i=0; i < size; i++) 
-    {
-        printf("%lld", arr[i]); 
-        if(i!=size-1)printf(", ");
-    }
-        
-    printf("\n"); 
-} 
-
-int main(int argc,char **argv)
+void swap(long long *a, long long *b)
 {
-    while(argv[1]==NULL||strlen(argv[1])==0){
-        printf("Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\"\n");
+    int t = *a;
+    *a = *b;
+    *b = t;
+}
+
+int partition(long long arr[], int low, int high)
+{
+    long long pivot = arr[high];
+    int i = low - 1;
+
+    for (int j = low; j <= high - 1; j++)
+    {
+        if (arr[j] < pivot)
+        {
+            i++;
+            swap(&arr[i], &arr[j]);
+        }
+    }
+    swap(&arr[i + 1], &arr[high]);
+    return i + 1;
+}
+
+void quickSort(long long arr[], int low, int high)
+{
+    if (low < high)
+    {
+        int pi = partition(arr, low, high);
+        quickSort(arr, low, pi - 1);
+        quickSort(arr, pi + 1, high);
+    }
+}
+
+void print(long long arr[], int size)
+{
+    for (int i = 0; i < size; i++)
+    {
+        printf("%lld", arr[i]);
+        if (i != size - 1)
+            printf(", ");
+    }
+
+    printf("\n");
+}
+
+int main(int argc, char **argv)
+{
+    while (argv[1] == NULL || strlen(argv[1]) == 0)
+    {
+        printf("Usage: please provide a list of at least two integers to sort "
+               "in the format \"1, 2, 3, 4, 5\"\n");
         return 0;
     }
     int len = strlen(argv[1]);
     int tmp[10];
-    int ind=0;
-    int pos=0;
+    int ind = 0;
+    int pos = 0;
     long long arr[100000];
 
-    for(int i=0;i<len;++i){
-        if(argv[1][i]==','){
-            long long val = get_val(tmp,ind);
-            ind=0;
+    for (int i = 0; i < len; ++i)
+    {
+        if (argv[1][i] == ',')
+        {
+            long long val = get_val(tmp, ind);
+            ind = 0;
             i++;
-            arr[pos++]=val;
+            arr[pos++] = val;
             continue;
         }
-        tmp[ind++]=argv[1][i]-'0';
+        tmp[ind++] = argv[1][i] - '0';
     }
-    arr[pos++]=get_val(tmp,ind);
-    if(pos==1){
-        printf("Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\"\n");
+    arr[pos++] = get_val(tmp, ind);
+    if (pos == 1)
+    {
+        printf("Usage: please provide a list of at least two integers to sort "
+               "in the format \"1, 2, 3, 4, 5\"\n");
         return 0;
     }
 
-
-    quickSort(arr,0,pos-1);
-    print(arr,pos);
-} 
+    quickSort(arr, 0, pos - 1);
+    print(arr, pos);
+}
 ```
 
 {% endraw %}
@@ -131,6 +141,7 @@ int main(int argc,char **argv)
 Quick Sort in [C](https://sampleprograms.io/languages/c) was written by:
 
 - LezendarySandwich
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

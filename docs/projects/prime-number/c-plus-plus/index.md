@@ -2,9 +2,10 @@
 authors:
 - Daffa Daraz
 - Jeremy Grifski
+- "\u0218tefan-Iulian Alecu"
 date: 2019-10-14
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2022-10-10
+last-modified: 2026-04-15
 layout: default
 tags:
 - c-plus-plus
@@ -44,7 +45,11 @@ int main(int argc, char **argv)
         return 1;
     }
     string tmp = argv[1];
-    if (argc == 1 || argv[1][0] == '\0' || (atoi(argv[1]) == 0 && strcmp(argv[1], "0") != 0) || atoi(argv[1]) < 0 || tmp.find(".") != string::npos)
+    if (argc == 1
+        || argv[1][0] == '\0'
+        || (atoi(argv[1]) == 0 && strcmp(argv[1], "0") != 0)
+        || atoi(argv[1]) < 0
+        || tmp.find(".") != string::npos)
     {
         cout << "Usage: please input a non-negative integer\n";
     }
@@ -78,6 +83,7 @@ Prime Number in [C++](https://sampleprograms.io/languages/c-plus-plus) was writt
 
 - Daffa Daraz
 - Jeremy Grifski
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

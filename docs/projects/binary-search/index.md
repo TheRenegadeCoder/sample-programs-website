@@ -1,7 +1,7 @@
 ---
 date: 2019-10-24
 featured-image: binary-search-in-every-language.jpg
-last-modified: 2026-04-06
+last-modified: 2026-04-15
 layout: default
 tags:
 - binary-search

@@ -4,9 +4,10 @@ authors:
 - Matias
 - rzuckerm
 - shubhragupta-code
+- "\u0218tefan-Iulian Alecu"
 date: 2019-10-15
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2026-04-15
 layout: default
 tags:
 - c
@@ -37,16 +38,21 @@ Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) i
 
 void prime_number(int number)
 {
-    if (number < 0) {
+    if (number < 0)
+    {
         printf("Usage: please input a non-negative integer\n");
         return;
-    } else if (number == 0 || number == 1) {
+    }
+    else if (number == 0 || number == 1)
+    {
         printf("Composite\n");
         return;
     }
 
-    for (int i = 2; i < number; i++) {
-        if (number % i == 0) {
+    for (int i = 2; i < number; i++)
+    {
+        if (number % i == 0)
+        {
             printf("Composite\n");
             return;
         }
@@ -57,22 +63,22 @@ void prime_number(int number)
 int is_int(char *str)
 {
     if (str[0] > '9' || str[0] < '0')
-            return (1);
-    for (int i = 0; str[i]; i++) {
+        return 1;
+    for (int i = 0; str[i]; i++)
         if (str[i] > '9' || str[i] < '0')
-            return (1);
-    }
-    return (0);
+            return 1;
+    return 0;
 }
 
 int main(int ac, char **av)
 {
-    if (ac != 2 || is_int(av[1]) != 0) {
+    if (ac != 2 || is_int(av[1]) != 0)
+    {
         printf("Usage: please input a non-negative integer\n");
-        return (1);
+        return 1;
     }
-	prime_number(atoi(av[1]));
-	return (0);
+    prime_number(atoi(av[1]));
+    return 0;
 }
 
 ```
@@ -82,6 +88,7 @@ int main(int ac, char **av)
 Prime Number in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Matias
+- Ștefan-Iulian Alecu
 
 This article was written by:
 
@@ -90,6 +97,8 @@ This article was written by:
 - shubhragupta-code
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 15 2026 00:50:56. The solution was first committed on Oct 15 2019 22:25:24. The documentation was last updated on May 15 2023 15:51:23. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

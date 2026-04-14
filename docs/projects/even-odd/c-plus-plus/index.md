@@ -2,9 +2,10 @@
 authors:
 - Jeremy Grifski
 - killbotxd
+- "\u0218tefan-Iulian Alecu"
 date: 2019-10-09
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2022-10-10
+last-modified: 2026-04-15
 layout: default
 tags:
 - c-plus-plus
@@ -38,7 +39,9 @@ using namespace std;
 
 int main(int argc, char **argv)
 {
-    if (argc == 1 || argv[1][0] == '\0' || (atoi(argv[1]) == 0 && strcmp(argv[1], "0") != 0))
+    if (argc == 1
+        || argv[1][0] == '\0'
+        || (atoi(argv[1]) == 0 && strcmp(argv[1], "0") != 0))
     {
         cout << "Usage: please input a number\n";
     }
@@ -46,13 +49,9 @@ int main(int argc, char **argv)
     {
         int input = atoi(argv[1]);
         if (input % 2 == 0)
-        {
             cout << "Even\n";
-        }
         else
-        {
             cout << "Odd\n";
-        }
     }
 
     return 0;
@@ -66,6 +65,7 @@ Even Odd in [C++](https://sampleprograms.io/languages/c-plus-plus) was written b
 
 - Jeremy Grifski
 - killbotxd
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

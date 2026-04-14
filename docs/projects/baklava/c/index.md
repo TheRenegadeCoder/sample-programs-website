@@ -3,9 +3,10 @@ authors:
 - Jeremy Grifski
 - rzuckerm
 - Stuart Irwin
+- "\u0218tefan-Iulian Alecu"
 date: 2018-09-17
 featured-image: baklava-in-c.jpg
-last-modified: 2023-05-15
+last-modified: 2026-04-15
 layout: default
 tags:
 - baklava
@@ -33,25 +34,24 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [C](http
 ```c
 #include "stdio.h"
 
-int main (void)
+int main(void)
 {
 
-  for (int i = 0; i < 10; i++)
-  {
-    printf ("%.*s", (10 - i), "                                 ");
-    printf ("%.*s", (i * 2 + 1), "******************************");
-    printf ("\n");
-  }
+    for (int i = 0; i < 10; i++)
+    {
+        printf("%.*s", (10 - i), "                                 ");
+        printf("%.*s", (i * 2 + 1), "******************************");
+        printf("\n");
+    }
 
-  for (int i = 10; -1 < i; i--)
-  {
-    printf ("%.*s", (10 - i), "                                 ");
-    printf ("%.*s", (i * 2 + 1), "******************************");
-    printf ("\n");
-  }
+    for (int i = 10; -1 < i; i--)
+    {
+        printf("%.*s", (10 - i), "                                 ");
+        printf("%.*s", (i * 2 + 1), "******************************");
+        printf("\n");
+    }
 
-  return 0;
-
+    return 0;
 }
 
 ```
@@ -61,6 +61,7 @@ int main (void)
 Baklava in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Jeremy Grifski
+- Ștefan-Iulian Alecu
 
 This article was written by:
 
@@ -69,6 +70,8 @@ This article was written by:
 - Stuart Irwin
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 15 2026 00:50:56. The solution was first committed on Sep 17 2018 16:48:59. The documentation was last updated on May 15 2023 15:51:23. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -1,9 +1,10 @@
 ---
 authors:
 - Apurva Vats
+- "\u0218tefan-Iulian Alecu"
 date: 2025-10-26
 featured-image: josephus-problem-in-every-language.jpg
-last-modified: 2025-10-26
+last-modified: 2026-04-15
 layout: default
 tags:
 - c-plus-plus
@@ -30,30 +31,36 @@ Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-pr
 
 ```c++
 #include <iostream>
-#include <string>
 #include <stdexcept>
+#include <string>
 using namespace std;
 
-int josephus(int n, int k) {
+int josephus(int n, int k)
+{
     if (n == 1)
         return 1;
     else
         return (josephus(n - 1, k) + k - 1) % n + 1;
 }
 
-int main(int argc, char* argv[]) {
-    const string usage_msg = "Usage: please input the total number of people and number of people to skip.\n";
+int main(int argc, char *argv[])
+{
+    const string usage_msg = "Usage: please input the total number of people "
+                             "and number of people to skip.\n";
 
-    if (argc != 3) {
+    if (argc != 3)
+    {
         cerr << usage_msg;
         return 1;
     }
 
-    try {
+    try
+    {
         int n = stoi(argv[1]);
         int k = stoi(argv[2]);
 
-        if (n <= 0 || k <= 0) {
+        if (n <= 0 || k <= 0)
+        {
             cerr << usage_msg;
             return 1;
         }
@@ -61,8 +68,9 @@ int main(int argc, char* argv[]) {
         int result = josephus(n, k);
         cout << result << endl;
         return 0;
-
-    } catch (...) {
+    }
+    catch (...)
+    {
         cerr << usage_msg;
         return 1;
     }
@@ -75,6 +83,7 @@ int main(int argc, char* argv[]) {
 Josephus Problem in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Apurva Vats
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

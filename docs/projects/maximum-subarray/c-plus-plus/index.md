@@ -1,9 +1,10 @@
 ---
 authors:
 - Meet Thakur
+- "\u0218tefan-Iulian Alecu"
 date: 2025-10-11
 featured-image: maximum-subarray-in-every-language.jpg
-last-modified: 2025-10-11
+last-modified: 2026-04-15
 layout: default
 tags:
 - c-plus-plus
@@ -30,14 +31,15 @@ Welcome to the [Maximum Subarray](https://sampleprograms.io/projects/maximum-sub
 
 ```c++
 #include <iostream>
-#include <sstream>
-#include <vector>
 #include <limits>
+#include <sstream>
 #include <string>
+#include <vector>
 
 void print_usage()
 {
-    std::cout << "Usage: Please provide a list of integers in the format: \"1, 2, 3, 4, 5\"\n";
+    std::cout << "Usage: Please provide a list of integers in the format: \"1, "
+                 "2, 3, 4, 5\"\n";
 }
 
 int max_subarray_sum(const std::vector<int> &arr)
@@ -50,14 +52,10 @@ int max_subarray_sum(const std::vector<int> &arr)
         max_ending_here += num;
 
         if (max_so_far < max_ending_here)
-        {
             max_so_far = max_ending_here;
-        }
 
         if (max_ending_here < 0)
-        {
             max_ending_here = 0;
-        }
     }
 
     return max_so_far;
@@ -78,9 +76,7 @@ int main(int argc, char *argv[])
     std::string token;
 
     while (std::getline(ss, token, ','))
-    {
         arr.push_back(std::stoi(token));
-    }
 
     // If less than two integers were provided
     if (arr.size() == 1)
@@ -109,6 +105,7 @@ int main(int argc, char *argv[])
 Maximum Subarray in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Meet Thakur
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

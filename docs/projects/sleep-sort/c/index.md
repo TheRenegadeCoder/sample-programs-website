@@ -1,9 +1,10 @@
 ---
 authors:
 - Maximillian Naza
+- "\u0218tefan-Iulian Alecu"
 date: 2025-01-20
 featured-image: sleep-sort-in-every-language.jpg
-last-modified: 2025-01-20
+last-modified: 2026-04-15
 layout: default
 tags:
 - c
@@ -29,10 +30,10 @@ Welcome to the [Sleep Sort](https://sampleprograms.io/projects/sleep-sort) in [C
 {% raw %}
 
 ```c
+#include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <pthread.h>
 #include <unistd.h>
 
 pthread_mutex_t print_mutex = PTHREAD_MUTEX_INITIALIZER;
@@ -40,12 +41,14 @@ int *global_sorted;
 int global_index = 0;
 int global_total;
 
-typedef struct {
+typedef struct
+{
     int number;
 } ThreadPayload;
 
-void* sortNumber(void* args) {
-    ThreadPayload* payload = (ThreadPayload*) args;
+void *sortNumber(void *args)
+{
+    ThreadPayload *payload = (ThreadPayload *)args;
     const int number = payload->number;
 
     sleep(number); // Sleep for number seconds
@@ -58,12 +61,14 @@ void* sortNumber(void* args) {
     return NULL;
 }
 
-void parseInput(const char *input, int **arr, int *n) {
+void parseInput(const char *input, int **arr, int *n)
+{
     char *token;
     char *inputCopy = strdup(input);
     token = strtok(inputCopy, ",");
 
-    while (token != NULL) {
+    while (token != NULL)
+    {
         (*arr)[(*n)++] = atoi(token);
         token = strtok(NULL, ",");
     }
@@ -71,15 +76,20 @@ void parseInput(const char *input, int **arr, int *n) {
     free(inputCopy);
 }
 
-int main(int argc, char *argv[]) {
-    if (argc != 2) {
-        printf("Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\"\n");
+int main(int argc, char *argv[])
+{
+    if (argc != 2)
+    {
+        printf("Usage: please provide a list of at least two integers to sort "
+               "in the format \"1, 2, 3, 4, 5\"\n");
         return 1;
     }
 
     const char *input = argv[1];
-    if (strlen(input) == 0 || input[0] == ' ') {
-        printf("Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\"\n");
+    if (strlen(input) == 0 || input[0] == ' ')
+    {
+        printf("Usage: please provide a list of at least two integers to sort "
+               "in the format \"1, 2, 3, 4, 5\"\n");
         return 1;
     }
 
@@ -88,8 +98,10 @@ int main(int argc, char *argv[]) {
 
     parseInput(input, &arr, &n);
 
-    if (n < 2) {
-        printf("Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\"\n");
+    if (n < 2)
+    {
+        printf("Usage: please provide a list of at least two integers to sort "
+               "in the format \"1, 2, 3, 4, 5\"\n");
         free(arr);
         return 1;
     }
@@ -99,19 +111,18 @@ int main(int argc, char *argv[]) {
 
     pthread_t *threads = malloc(n * sizeof(pthread_t));
 
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < n; i++)
+    {
         ThreadPayload *payload = malloc(sizeof(ThreadPayload));
         payload->number = arr[i];
-        pthread_create(&threads[i], NULL, sortNumber, (void *) payload);
+        pthread_create(&threads[i], NULL, sortNumber, (void *)payload);
     }
 
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < n; i++)
         pthread_join(threads[i], NULL);
-    }
 
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < n; i++)
         printf("%d%s", global_sorted[i], (i < n - 1) ? ", " : "");
-    }
     printf("\n");
 
     free(arr);
@@ -128,6 +139,7 @@ int main(int argc, char *argv[]) {
 Sleep Sort in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Maximillian Naza
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

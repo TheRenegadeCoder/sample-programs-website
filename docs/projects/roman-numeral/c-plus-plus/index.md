@@ -2,9 +2,10 @@
 authors:
 - Jeremy Grifski
 - Sailok Chinta
+- "\u0218tefan-Iulian Alecu"
 date: 2019-10-21
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: 2022-10-10
+last-modified: 2026-04-15
 layout: default
 tags:
 - c-plus-plus
@@ -30,14 +31,20 @@ Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral)
 {% raw %}
 
 ```c++
-#include <iostream>
 #include <bits/stdc++.h>
+#include <iostream>
 
 using namespace std;
 
-bool is_roman(char x)
+bool is_invalid_roman(char x)
 {
-    return !(x == 'I' || x == 'V' || x == 'X' || x == 'L' || x == 'C' || x == 'D' || x == 'M');
+    return !(x == 'I'
+             || x == 'V'
+             || x == 'X'
+             || x == 'L'
+             || x == 'C'
+             || x == 'D'
+             || x == 'M');
 }
 
 int main(int argc, char *argv[])
@@ -53,7 +60,7 @@ int main(int argc, char *argv[])
 
     for (char c : s)
     {
-        if (is_roman(c))
+        if (is_invalid_roman(c))
         {
             cerr << "Error: invalid string of roman numerals" << endl;
             exit(0);
@@ -73,7 +80,7 @@ int main(int argc, char *argv[])
 
     for (int i = s.size() - 1; i >= 0; i--)
     {
-        if (value[s[i]] > value[s[i - 1]] && i > 0)
+        if (i > 0 && value[s[i]] > value[s[i - 1]])
         {
             num += value[s[i]] - value[s[i - 1]];
             i--;
@@ -95,6 +102,7 @@ Roman Numeral in [C++](https://sampleprograms.io/languages/c-plus-plus) was writ
 
 - Jeremy Grifski
 - Sailok Chinta
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

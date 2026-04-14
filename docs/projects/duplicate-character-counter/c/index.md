@@ -1,9 +1,10 @@
 ---
 authors:
 - Vipin Yadav
+- "\u0218tefan-Iulian Alecu"
 date: 2022-10-03
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2022-10-03
+last-modified: 2026-04-15
 layout: default
 tags:
 - c
@@ -30,8 +31,8 @@ Welcome to the Duplicate [C](https://sampleprograms.io/languages/c)haracter [C](
 
 ```c
 #include <stdio.h>
+#include <stdlib.h>
 #include <string.h>
-#include<stdlib.h>
 
 // Function to handle errors
 int handle_error()
@@ -45,33 +46,34 @@ int main(int argc, char *argv[])
     /*
         Condition to check for No String as Input
     */
-    if (argc !=2 )
-    {
+    if (argc != 2)
         handle_error();
-    }
     /*
         Condition to check for No String as Input
     */
-    if(strlen(argv[1]) == 0){
+    if (strlen(argv[1]) == 0)
         handle_error();
-    }
-    int counter[256]={0};
+
+    int counter[256] = {0};
     int len = strlen(argv[1]);
-    for(int i=0;i<len;i++){
-        counter[argv[1][i]-1]++;
-    }
+    for (int i = 0; i < len; i++)
+        counter[argv[1][i] - 1]++;
+
     int flag = 1;
-    for(int i=0;i<len;i++){
+    for (int i = 0; i < len; i++)
+    {
         char c = argv[1][i];
-        if(counter[c-1]>1){
+        if (counter[c - 1] > 1)
+        {
             flag = 0;
-            printf("%c: %d\n",c,counter[c-1]);
-            counter[c-1]=0;
+            printf("%c: %d\n", c, counter[c - 1]);
+            counter[c - 1] = 0;
         }
     }
-    if(flag == 1){
+
+    if (flag == 1)
         printf("No duplicate characters\n");
-    }
+    
     return 0;
 }
 ```
@@ -81,6 +83,7 @@ int main(int argc, char *argv[])
 Duplicate [C](https://sampleprograms.io/languages/c)haracter [C](https://sampleprograms.io/languages/c)ounter in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Vipin Yadav
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

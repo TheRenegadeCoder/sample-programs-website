@@ -3,9 +3,10 @@ authors:
 - Jeremy Grifski
 - rzuckerm
 - smjalageri
+- "\u0218tefan-Iulian Alecu"
 date: 2021-11-01
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2023-03-30
+last-modified: 2026-04-15
 layout: default
 tags:
 - c-plus-plus
@@ -31,10 +32,10 @@ Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindrom
 {% raw %}
 
 ```c++
-#include <iostream>
-#include <string.h>
-#include <stdlib.h>
 #include <ctype.h>
+#include <iostream>
+#include <stdlib.h>
+#include <string.h>
 
 using namespace std;
 
@@ -55,13 +56,9 @@ void palindromic_number(int number)
     else
     {
         if (reversed_number == number)
-        {
             cout << "true";
-        }
         else
-        {
             cout << "false";
-        }
     }
 }
 
@@ -72,13 +69,9 @@ int is_int(char **argv)
         ++j;
 
     if (strlen(argv[1]) != j || j == 0)
-    {
         return 1;
-    }
     else
-    {
         return 0;
-    }
 }
 
 int main(int argc, char **argv)
@@ -101,6 +94,7 @@ Palindromic Number in [C++](https://sampleprograms.io/languages/c-plus-plus) was
 - Jeremy Grifski
 - rzuckerm
 - smjalageri
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
