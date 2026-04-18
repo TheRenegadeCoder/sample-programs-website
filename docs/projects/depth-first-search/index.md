@@ -1,7 +1,7 @@
 ---
 date: 2021-11-12
 featured-image: depth-first-search-in-every-language.jpg
-last-modified: 2026-04-15
+last-modified: 2026-04-17
 layout: default
 tags:
 - depth-first-search
@@ -124,8 +124,9 @@ Usage: please provide a tree in an adjacency matrix form ("0, 1, 1, 0, 0, 1, 0, 
 
 ## Articles
 
-There are 18 articles:
+There are 19 articles:
 
+- [Depth First Search in ALGOL 60](https://sampleprograms.io/projects/depth-first-search/algol60)
 - [Depth First Search in ALGOL 68](https://sampleprograms.io/projects/depth-first-search/algol68)
 - [Depth First Search in AWK](https://sampleprograms.io/projects/depth-first-search/awk)
 - [Depth First Search in Beef](https://sampleprograms.io/projects/depth-first-search/beef)
