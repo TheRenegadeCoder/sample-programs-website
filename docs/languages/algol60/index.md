@@ -26,10 +26,11 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 22 articles:
+There are 23 articles:
 
 - [Baklava in ALGOL 60](https://sampleprograms.io/projects/baklava/algol60)
 - [Base64 Encode Decode in ALGOL 60](https://sampleprograms.io/projects/base64-encode-decode/algol60)
+- [Binary Search in ALGOL 60](https://sampleprograms.io/projects/binary-search/algol60)
 - [Capitalize in ALGOL 60](https://sampleprograms.io/projects/capitalize/algol60)
 - [Duplicate Character Counter in ALGOL 60](https://sampleprograms.io/projects/duplicate-character-counter/algol60)
 - [Even Odd in ALGOL 60](https://sampleprograms.io/projects/even-odd/algol60)
