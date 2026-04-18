@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2026-04-17
 featured-image: selection-sort-in-every-language.jpg
-last-modified: 2026-04-17
+last-modified: 2026-04-18
 layout: default
 tags:
 - algol60
@@ -229,7 +229,7 @@ begin
                 arr[i] := temp
             end
         end
-    end procedure selectionSort;
+    end selectionSort;
 
     integer argc, arrLen;
     integer array arr[1:100];

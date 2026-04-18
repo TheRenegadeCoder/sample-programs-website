@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2026-04-17
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: 2026-04-17
+last-modified: 2026-04-18
 layout: default
 tags:
 - algol60
@@ -231,7 +231,7 @@ begin
 
             arr[j + 1] := temp
         end
-    end procedure insertionSort;
+    end insertionSort;
 
     integer argc, arrLen;
     integer array arr[1:100];

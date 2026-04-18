@@ -1,7 +1,7 @@
 ---
 date: 2018-12-02
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2026-04-17
+last-modified: 2026-04-18
 layout: default
 tags:
 - bubble-sort

@@ -3,7 +3,7 @@ authors:
 - rzuckerm
 date: 2026-04-17
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2026-04-17
+last-modified: 2026-04-18
 layout: default
 tags:
 - algol60
@@ -230,7 +230,7 @@ begin
 
         n := newN;
         if n > 2 then goto sortloop
-    end procedure bubbleSort;
+    end bubbleSort;
 
     integer argc, arrLen;
     integer array arr[1:100];
