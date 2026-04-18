@@ -55,6 +55,8 @@ jobs:
 
       - name: Build Webpages with Jekyll
         if: ${{ github.ref != 'refs/heads/main' }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           cd docs
           bundle exec jekyll build --config _config.yml --destination _site
