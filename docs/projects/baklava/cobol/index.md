@@ -1,9 +1,9 @@
 ---
 authors:
-- rzuckerm
-date: 2025-01-17
+- "\u0218tefan-Iulian Alecu"
+date: 2026-04-18
 featured-image: baklava-in-every-language.jpg
-last-modified: 2025-01-17
+last-modified: 2026-04-18
 layout: default
 tags:
 - baklava
@@ -29,28 +29,40 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [COBOL](
 {% raw %}
 
 ```cobol
-        IDENTIFICATION DIVISION.
-        PROGRAM-ID. BAKLAVA.
-        DATA DIVISION.
-        WORKING-STORAGE SECTION.
-            01  NUM             PIC 9(2).
-            01  NUM-SPACES      PIC 9(2).
-            01  NUM-STARS       PIC 9(2).
-            01  BAKLAVA-SPACES  PIC X(10) VALUE SPACES.
-            01  BAKLAVA-STARS   PIC X(21) VALUE ALL "*".
+identification division.
+program-id. baklava.
 
-        PROCEDURE DIVISION.
-            PERFORM VARYING NUM FROM 0 BY 1 UNTIL NUM > 20
-                COMPUTE NUM-SPACES = FUNCTION ABS(NUM - 10)
-                COMPUTE NUM-STARS = 21 - 2 * NUM-SPACES
+data division.
+working-storage section.
 
-      * Display NUM-SPACES " " without newline
-                DISPLAY BAKLAVA-SPACES(1:NUM-SPACES) NO ADVANCING
+01 max-width        pic 9(2) value 21.
+01 half-width       pic 9(2).
 
-      * Display NUM-STARS "*" with newline
-                DISPLAY BAKLAVA-STARS(1:NUM-STARS)
-            END-PERFORM
-            STOP RUN.
+01 row              pic 9(2).
+01 num-spaces       pic 9(2).
+01 num-stars        pic 9(2).
+
+01 space-line       pic x(21) value all spaces.
+01 star-line        pic x(21) value all "*".
+
+procedure division.
+main.
+    compute half-width = (max-width - 1) / 2
+
+    perform varying row from 0 by 1 until row = max-width
+        perform compute-line
+        perform render-line
+    end-perform
+
+    stop run.
+
+compute-line.
+    compute num-spaces = function abs(row - half-width)
+    compute num-stars  = max-width - (2 * num-spaces).
+
+render-line.
+    display space-line(1:num-spaces) with no advancing
+    display star-line(1:num-stars).
 
 ```
 
@@ -58,7 +70,7 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [COBOL](
 
 Baklava in [COBOL](https://sampleprograms.io/languages/cobol) was written by:
 
-- rzuckerm
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -1,12 +1,12 @@
 ---
 authors:
 - Jeremy Grifski
-- Ron Zuckerman
 - rzuckerm
 - Sudhanshu Dubey
+- "\u0218tefan-Iulian Alecu"
 date: 2021-10-08
 featured-image: hello-world-in-cobol.jpg
-last-modified: 2023-05-15
+last-modified: 2026-04-18
 layout: default
 tags:
 - cobol
@@ -32,19 +32,21 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```cobol
-        IDENTIFICATION DIVISION.
-        PROGRAM-ID. HELLO-WORLD.
-        PROCEDURE DIVISION.
-            DISPLAY "Hello, World!"
-        STOP RUN.
+identification division.
+program-id. hello-world.
 
+procedure division.
+
+main.
+    display "Hello, World!"
+    stop run.
 ```
 
 {% endraw %}
 
 Hello World in [COBOL](https://sampleprograms.io/languages/cobol) was written by:
 
-- Ron Zuckerman
+- Ștefan-Iulian Alecu
 
 This article was written by:
 

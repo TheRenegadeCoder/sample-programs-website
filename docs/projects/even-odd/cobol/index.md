@@ -1,13 +1,12 @@
 ---
 authors:
 - Jeremy Grifski
-- Ron Zuckerman
 - rzuckerm
 - ShivaniThevar
-- Sudhanshu Dubey
-date: 2021-10-09
+- "\u0218tefan-Iulian Alecu"
+date: 2021-10-17
 featured-image: even-odd-in-cobol.jpg
-last-modified: 2023-05-15
+last-modified: 2026-04-18
 layout: default
 tags:
 - cobol
@@ -33,26 +32,34 @@ Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [COBOL
 {% raw %}
 
 ```cobol
-        IDENTIFICATION DIVISION.
-        PROGRAM-ID. EVEN-ODD.
-        DATA DIVISION.
-        WORKING-STORAGE SECTION.
-          01 CMDARGS PIC X(38).
-          01 NUM     PIC S9(30).
-        PROCEDURE DIVISION.
-           ACCEPT CMDARGS FROM COMMAND-LINE.
-           IF CMDARGS IS ALPHABETIC THEN
-              DISPLAY "Usage: please input a number"
-              STOP RUN.
-           COMPUTE NUM = FUNCTION NUMVAL(CMDARGS).
-           IF NUM IS NUMERIC THEN
-              IF FUNCTION MOD (NUM, 2) = 0 THEN
-                 DISPLAY "Even"
-              ELSE
-                 DISPLAY "Odd"
-           ELSE 
-              DISPLAY "Usage: please input a number"
-           STOP RUN.
+identification division.
+program-id. even-odd.
+
+data division.
+working-storage section.
+
+01 cmdargs pic x(38).
+01 num     pic s9(30).
+
+procedure division.
+
+main.
+    accept cmdargs from command-line
+
+    if function test-numval(cmdargs) not = 0
+        display "Usage: please input a number"
+        stop run
+    end-if
+
+    compute num = function numval(cmdargs)
+
+    if function mod(num 2) = 0
+        display "Even"
+    else
+        display "Odd"
+    end-if
+
+    stop run.
 
 ```
 
@@ -60,8 +67,7 @@ Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [COBOL
 
 Even Odd in [COBOL](https://sampleprograms.io/languages/cobol) was written by:
 
-- Ron Zuckerman
-- Sudhanshu Dubey
+- Ștefan-Iulian Alecu
 
 This article was written by:
 

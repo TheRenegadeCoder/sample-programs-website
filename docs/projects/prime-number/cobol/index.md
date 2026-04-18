@@ -1,10 +1,9 @@
 ---
 authors:
-- Ron Zuckerman
-- Sudhanshu Dubey
-date: 2021-10-12
+- "\u0218tefan-Iulian Alecu"
+date: 2026-04-18
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2023-05-08
+last-modified: 2026-04-18
 layout: default
 tags:
 - cobol
@@ -30,60 +29,90 @@ Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) i
 {% raw %}
 
 ```cobol
-        IDENTIFICATION DIVISION.
-        PROGRAM-ID. PRIME-NUMBER.
-        DATA DIVISION.
-        WORKING-STORAGE SECTION.
-          01 CMDARGS     PIC X(38).
-          01 DECINUM     PIC S9999v99.
-          01 NUM         PIC S9(7).
-          01 SQRT        PIC 9(7).
-          01 CNT         PIC 9(7) VALUE 3.
-          01 PRIME       PIC 9(1) VALUE 0.
-        PROCEDURE DIVISION.
-           ACCEPT CMDARGS FROM COMMAND-LINE.
+identification division.
+program-id. prime-number.
 
-           IF CMDARGS IS ALPHABETIC THEN
-              PERFORM ERROR-PARA.
-           
-      * Convert CMDARGS to it's cumeric value
-           COMPUTE DECINUM = FUNCTION NUMVAL(CMDARGS).
-           
-           IF DECINUM < 0 THEN
-              PERFORM ERROR-PARA.
+data division.
+working-storage section.
 
-      * Move the Decimal number to Non decimal number
-           MOVE DECINUM TO NUM
-      
-      * If both are equal, then it was an integer
-           IF NUM IS EQUAL TO DECINUM THEN
-              IF FUNCTION MOD (NUM, 2) = 0 AND NUM IS NOT EQUAL TO 2
-                 PERFORM DISPLAY-COMPOSITE
-              ELSE IF NUM IS EQUAL TO 1
-                 PERFORM DISPLAY-COMPOSITE
-              ELSE
-                 COMPUTE SQRT = NUM ** 0.5
-                 PERFORM ISPRIME UNTIL CNT > SQRT
-                 DISPLAY "Prime"
-                 STOP RUN
-           ELSE 
-              PERFORM ERROR-PARA.
-           
-           
-          ISPRIME.
-            IF FUNCTION MOD (NUM, CNT) = 0 THEN
-               PERFORM DISPLAY-COMPOSITE
-            ELSE
-               COMPUTE CNT = CNT + 1
-            END-IF.
-           
-          DISPLAY-COMPOSITE.
-            DISPLAY "Composite"
-            STOP RUN.
+01 cmdargs     pic x(38).
+01 num         pic s9(15) comp.
+01 dot-count   pic 9 value 0.
+01 cnt         pic s9(15).
+01 upper-limit pic s9(15).
+01 step        pic 9 value 2.
 
-          ERROR-PARA.
-           DISPLAY "Usage: please input a non-negative integer".
-           STOP RUN.
+procedure division.
+
+main.
+    accept cmdargs from command-line
+
+    if function test-numval(cmdargs) not = 0
+        perform show-usage
+        stop run
+    end-if
+
+    inspect cmdargs tallying dot-count for all "."
+    if dot-count > 0
+        perform show-usage
+        stop run
+    end-if
+
+    compute num = function numval(cmdargs)
+
+    if num < 0
+        perform show-usage
+        stop run
+    end-if
+
+    evaluate num
+        when 0
+        when 1
+            perform print-composite
+            stop run
+        when 2
+        when 3
+            perform print-prime
+            stop run
+    end-evaluate
+
+    if function mod(num 2) = 0 or function mod(num 3) = 0
+        perform print-composite
+        stop run
+    end-if
+
+    compute upper-limit = function integer-part(function sqrt(num))
+
+    move 5 to cnt
+    move 2 to step
+
+    perform until cnt > upper-limit
+        if function mod(num cnt) = 0
+            perform print-composite
+            stop run
+        end-if
+
+        add step to cnt
+
+        if step = 2
+            move 4 to step
+        else
+            move 2 to step
+        end-if
+    end-perform
+
+    perform print-prime
+    stop run.
+
+print-prime.
+    display "prime".
+
+print-composite.
+    display "composite".
+
+show-usage.
+    display "Usage: please input a non-negative integer"
+    stop run.
 
 ```
 
@@ -91,8 +120,7 @@ Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) i
 
 Prime Number in [COBOL](https://sampleprograms.io/languages/cobol) was written by:
 
-- Ron Zuckerman
-- Sudhanshu Dubey
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
