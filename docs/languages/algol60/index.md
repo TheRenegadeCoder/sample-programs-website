@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 32 articles:
+There are 33 articles:
 
 - [Baklava in ALGOL 60](https://sampleprograms.io/projects/baklava/algol60)
 - [Base64 Encode Decode in ALGOL 60](https://sampleprograms.io/projects/base64-encode-decode/algol60)
@@ -59,4 +59,5 @@ There are 32 articles:
 - [Roman Numeral in ALGOL 60](https://sampleprograms.io/projects/roman-numeral/algol60)
 - [Rot13 in ALGOL 60](https://sampleprograms.io/projects/rot13/algol60)
 - [Selection Sort in ALGOL 60](https://sampleprograms.io/projects/selection-sort/algol60)
+- [Transpose Matrix in ALGOL 60](https://sampleprograms.io/projects/transpose-matrix/algol60)
 - [Zeckendorf in ALGOL 60](https://sampleprograms.io/projects/zeckendorf/algol60)

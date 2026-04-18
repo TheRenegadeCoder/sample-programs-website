@@ -1,7 +1,7 @@
 ---
 date: 2022-04-28
 featured-image: transpose-matrix-in-every-language.jpg
-last-modified: 2026-04-15
+last-modified: 2026-04-18
 layout: default
 tags:
 - transpose-matrix
@@ -151,8 +151,9 @@ Usage: please enter the dimension of the matrix and the serialized matrix
 
 ## Articles
 
-There are 21 articles:
+There are 22 articles:
 
+- [Transpose Matrix in ALGOL 60](https://sampleprograms.io/projects/transpose-matrix/algol60)
 - [Transpose Matrix in ALGOL 68](https://sampleprograms.io/projects/transpose-matrix/algol68)
 - [Transpose Matrix in AWK](https://sampleprograms.io/projects/transpose-matrix/awk)
 - [Transpose Matrix in Beef](https://sampleprograms.io/projects/transpose-matrix/beef)
