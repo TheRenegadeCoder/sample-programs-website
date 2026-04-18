@@ -32,15 +32,32 @@ jobs:
       - name: Generate Webpages and Images
         run: poetry run python scripts/automate.py
 
-      - name: Build Webpages with Jekyll
-        uses: actions/jekyll-build-pages@v1
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          source: docs/
-          destination: docs/_site
-          token: ${{ secrets.GITHUB_TOKEN }}
+          ruby-version: '3.2'
+          bundler-cache: false
 
-        # Only build webpage if not on main branch
+      - name: Cache Jekyll gems
+        uses: actions/cache@v4
+        with:
+          path: docs/vendor/bundle
+          key: ${{ runner.os }}-jekyll-bundle-${{ hashFiles('docs/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-jekyll-bundle-
+
+      - name: Install Jekyll dependencies
         if: ${{ github.ref != 'refs/heads/main' }}
+        run: |
+          cd docs
+          bundle config set path vendor/bundle
+          bundle install --jobs 4 --retry 3
+
+      - name: Build Webpages with Jekyll
+        if: ${{ github.ref != 'refs/heads/main' }}
+        run: |
+          cd docs
+          bundle exec jekyll build --config _config.yml --destination _site
 
       - name: Commit Changes
         uses: EndBug/add-and-commit@v9 

@@ -15,9 +15,9 @@ docker run --rm \
     -e JEKYLL_ENV=development \
     --entrypoint="" \
     -it $GITHUB_PAGES_IMAGE:$GITHUB_PAGES_VERSION \
-    bash -c "rm -f Gemfile.lock && \
-        bundle install && \
-        chown $(id -u):$(id -g) Gemfile.lock && \
+    bash -c "bundle config set path vendor/bundle && \
+        bundle install --jobs 4 --retry 3 && \
+        chown -R $(id -u):$(id -g) vendor/bundle && \
         jekyll clean --config _config.yml && \
         jekyll build -V --config _config.yml && \
         chown -R  $(id -u):$(id -g) _site"

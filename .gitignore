@@ -1,5 +1,4 @@
 /venv
 /docs/_site
-/docs/Gemfile.lock
 generated/
 /requirements-dev.txt
