@@ -1,4 +1,5 @@
 /venv
+/vendor/bundle
 /docs/_site
 generated/
 /requirements-dev.txt

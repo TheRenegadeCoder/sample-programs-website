@@ -41,7 +41,7 @@ jobs:
       - name: Cache Jekyll gems
         uses: actions/cache@v4
         with:
-          path: docs/vendor/bundle
+          path: vendor/bundle
           key: ${{ runner.os }}-jekyll-bundle-${{ hashFiles('docs/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-jekyll-bundle-
@@ -50,7 +50,7 @@ jobs:
         if: ${{ github.ref != 'refs/heads/main' }}
         run: |
           cd docs
-          bundle config set path vendor/bundle
+          bundle config set path ../vendor/bundle
           bundle install --jobs 4 --retry 3
 
       - name: Build Webpages with Jekyll

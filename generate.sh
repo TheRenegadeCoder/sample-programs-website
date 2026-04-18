@@ -11,13 +11,14 @@ export GITHUB_PAGES_IMAGE=ghcr.io/actions/jekyll-build-pages
 export GITHUB_PAGES_VERSION=v1.0.13
 docker run --rm \
     -v "$PWD/docs:/srv/jekyll:Z" \
+    -v "$PWD/vendor/bundle:/srv/vendor/bundle:Z" \
     -w "/srv/jekyll" \
     -e JEKYLL_ENV=development \
     --entrypoint="" \
     -it $GITHUB_PAGES_IMAGE:$GITHUB_PAGES_VERSION \
-    bash -c "bundle config set path vendor/bundle && \
+    bash -c "bundle config set path /srv/vendor/bundle && \
         bundle install --jobs 4 --retry 3 && \
-        chown -R $(id -u):$(id -g) vendor/bundle && \
+        chown -R $(id -u):$(id -g) /srv/vendor/bundle && \
         jekyll clean --config _config.yml && \
         jekyll build -V --config _config.yml && \
         chown -R  $(id -u):$(id -g) _site"

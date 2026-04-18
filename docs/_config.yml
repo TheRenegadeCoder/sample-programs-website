@@ -12,7 +12,7 @@ title_image: sample-programs-in-every-language-featured-image.JPEG
 repository: TheRenegadeCoder/sample-programs-website
 
 # File exclusion settings
-exclude: ["CNAME", "Gemfile", "templates"]
+exclude: ["CNAME", "Gemfile", "templates", "vendor/bundle"]
 
 # Posts permalink
 permalink: /:categories/:title/
