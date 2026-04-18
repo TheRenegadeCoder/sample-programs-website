@@ -1,7 +1,7 @@
 ---
 date: 2018-12-04
 featured-image: quick-sort-in-every-language.jpg
-last-modified: 2026-04-15
+last-modified: 2026-04-18
 layout: default
 tags:
 - quick-sort
@@ -133,8 +133,9 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-There are 29 articles:
+There are 30 articles:
 
+- [Quick Sort in ALGOL 60](https://sampleprograms.io/projects/quick-sort/algol60)
 - [Quick Sort in ALGOL 68](https://sampleprograms.io/projects/quick-sort/algol68)
 - [Quick Sort in AWK](https://sampleprograms.io/projects/quick-sort/awk)
 - [Quick Sort in Bash](https://sampleprograms.io/projects/quick-sort/bash)

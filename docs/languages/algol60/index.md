@@ -1,7 +1,7 @@
 ---
 date: 2026-03-12
 featured-image: programming-languages.jpg
-last-modified: 2026-04-17
+last-modified: 2026-04-18
 layout: default
 tags:
 - algol60
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 27 articles:
+There are 28 articles:
 
 - [Baklava in ALGOL 60](https://sampleprograms.io/projects/baklava/algol60)
 - [Base64 Encode Decode in ALGOL 60](https://sampleprograms.io/projects/base64-encode-decode/algol60)
@@ -48,6 +48,7 @@ There are 27 articles:
 - [Longest Word in ALGOL 60](https://sampleprograms.io/projects/longest-word/algol60)
 - [Palindromic Number in ALGOL 60](https://sampleprograms.io/projects/palindromic-number/algol60)
 - [Prime Number in ALGOL 60](https://sampleprograms.io/projects/prime-number/algol60)
+- [Quick Sort in ALGOL 60](https://sampleprograms.io/projects/quick-sort/algol60)
 - [Quine in ALGOL 60](https://sampleprograms.io/projects/quine/algol60)
 - [Remove All Whitespace in ALGOL 60](https://sampleprograms.io/projects/remove-all-whitespace/algol60)
 - [Reverse String in ALGOL 60](https://sampleprograms.io/projects/reverse-string/algol60)
