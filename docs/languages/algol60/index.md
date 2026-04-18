@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 25 articles:
+There are 27 articles:
 
 - [Baklava in ALGOL 60](https://sampleprograms.io/projects/baklava/algol60)
 - [Base64 Encode Decode in ALGOL 60](https://sampleprograms.io/projects/base64-encode-decode/algol60)
@@ -41,6 +41,7 @@ There are 25 articles:
 - [Fizz Buzz in ALGOL 60](https://sampleprograms.io/projects/fizz-buzz/algol60)
 - [Fraction Math in ALGOL 60](https://sampleprograms.io/projects/fraction-math/algol60)
 - [Hello World in ALGOL 60](https://sampleprograms.io/projects/hello-world/algol60)
+- [Insertion Sort in ALGOL 60](https://sampleprograms.io/projects/insertion-sort/algol60)
 - [Josephus Problem in ALGOL 60](https://sampleprograms.io/projects/josephus-problem/algol60)
 - [Linear Search in ALGOL 60](https://sampleprograms.io/projects/linear-search/algol60)
 - [Longest Palindromic Substring in ALGOL 60](https://sampleprograms.io/projects/longest-palindromic-substring/algol60)
@@ -52,4 +53,5 @@ There are 25 articles:
 - [Reverse String in ALGOL 60](https://sampleprograms.io/projects/reverse-string/algol60)
 - [Roman Numeral in ALGOL 60](https://sampleprograms.io/projects/roman-numeral/algol60)
 - [Rot13 in ALGOL 60](https://sampleprograms.io/projects/rot13/algol60)
+- [Selection Sort in ALGOL 60](https://sampleprograms.io/projects/selection-sort/algol60)
 - [Zeckendorf in ALGOL 60](https://sampleprograms.io/projects/zeckendorf/algol60)
