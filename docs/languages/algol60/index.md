@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 30 articles:
+There are 31 articles:
 
 - [Baklava in ALGOL 60](https://sampleprograms.io/projects/baklava/algol60)
 - [Base64 Encode Decode in ALGOL 60](https://sampleprograms.io/projects/base64-encode-decode/algol60)
@@ -47,6 +47,7 @@ There are 30 articles:
 - [Longest Palindromic Substring in ALGOL 60](https://sampleprograms.io/projects/longest-palindromic-substring/algol60)
 - [Longest Word in ALGOL 60](https://sampleprograms.io/projects/longest-word/algol60)
 - [Maximum Array Rotation in ALGOL 60](https://sampleprograms.io/projects/maximum-array-rotation/algol60)
+- [Maximum Subarray in ALGOL 60](https://sampleprograms.io/projects/maximum-subarray/algol60)
 - [Merge Sort in ALGOL 60](https://sampleprograms.io/projects/merge-sort/algol60)
 - [Palindromic Number in ALGOL 60](https://sampleprograms.io/projects/palindromic-number/algol60)
 - [Prime Number in ALGOL 60](https://sampleprograms.io/projects/prime-number/algol60)

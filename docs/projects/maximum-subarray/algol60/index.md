@@ -2,13 +2,13 @@
 authors:
 - rzuckerm
 date: 2026-04-18
-featured-image: maximum-array-rotation-in-every-language.jpg
+featured-image: maximum-subarray-in-every-language.jpg
 last-modified: 2026-04-18
 layout: default
 tags:
 - algol60
-- maximum-array-rotation
-title: Maximum Array Rotation in ALGOL 60
+- maximum-subarray
+title: Maximum Subarray in ALGOL 60
 ---
 
 <!--
@@ -16,13 +16,13 @@ AUTO-GENERATED -- PLEASE DO NOT EDIT!
 
 Instead, please edit the following:
 
-- sources/programs/maximum-array-rotation/algol60/how-to-implement-the-solution.md
-- sources/programs/maximum-array-rotation/algol60/how-to-run-the-solution.md
+- sources/programs/maximum-subarray/algol60/how-to-implement-the-solution.md
+- sources/programs/maximum-subarray/algol60/how-to-run-the-solution.md
 
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [ALGOL 60](https://sampleprograms.io/languages/algol60) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [ALGOL 60](https://sampleprograms.io/languages/algol60) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -34,7 +34,8 @@ begin
     begin
         outstring(
             1,
-            "Usage: please provide a list of integers (e.g. \"8, 3, 1, 2\")\n"
+            "Usage: Please provide a list of integers in the format: "
+            "\"1, 2, 3, 4, 5\"\n"
         );
         stop
     end usage;
@@ -167,34 +168,32 @@ begin
         inIntegerArray := arrLen
     end inIntegerArray;
 
-    integer procedure maximumArrayRotation(arr, n);
+    integer procedure max(a, b);
+    value a, b;
+    integer a, b;
+    begin
+        max := if a > b then a else b
+    end max;
+
+    comment Source:
+        https://en.wikipedia.org/wiki/Maximum_subarray_problem#No_empty_subarrays_admitted;
+    integer procedure maximumSubarray(arr, n);
     value n;
     integer array arr;
     integer n;
     begin
-        integer i, s, w, wmax;
+        integer bestSum, currentSum, i;
 
-        comment Calculate sum and initial array rotation;
-        s := 0;
-        w := 0;
+        bestSum := -maxint  - 1;
+        currentSum := 0;
         for i := 1 step 1 until n do
         begin
-            s := s + arr[i];
-            w := w + (i - 1) * arr[i]
+            currentSum := arr[i] + max(0, currentSum);
+            bestSum := max(bestSum, currentSum)
         end;
 
-        comment Initialize maximum array rotation;
-        wmax := w;
-
-        comment Adjust array rotation and update maximum;
-        for i := 1 step 1 until n - 1 do
-        begin
-            w := w + n * arr[i] - s;
-            if w > wmax then wmax := w
-        end;
-
-        maximumArrayRotation := wmax
-    end maximumArrayRotation;
+        maximumSubarray := bestSum
+    end maximumSubarray;
 
     integer argc, arrLen, result;
     integer array arr[1:100];
@@ -207,8 +206,8 @@ begin
     arrLen := inIntegerArray(arr, 100);
     if arrLen < 1 then usage;
 
-    comment Find maximum array rotation and display result;
-    result := maximumArrayRotation(arr, arrLen);
+    comment Find maximum subarray and display result;
+    result := maximumSubarray(arr, arrLen);
     outinteger(1, result);
     outstring(1, "\n")
 end
@@ -217,7 +216,7 @@ end
 
 {% endraw %}
 
-Maximum Array Rotation in [ALGOL 60](https://sampleprograms.io/languages/algol60) was written by:
+Maximum Subarray in [ALGOL 60](https://sampleprograms.io/languages/algol60) was written by:
 
 - rzuckerm
 

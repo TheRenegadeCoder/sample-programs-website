@@ -1,7 +1,7 @@
 ---
 date: 2020-10-14
 featured-image: maximum-subarray-in-every-language.jpg
-last-modified: 2026-04-15
+last-modified: 2026-04-18
 layout: default
 tags:
 - maximum-subarray
@@ -86,8 +86,9 @@ Usage: Please provide a list of integers in the format: "1, 2, 3, 4, 5"
 
 ## Articles
 
-There are 21 articles:
+There are 22 articles:
 
+- [Maximum Subarray in ALGOL 60](https://sampleprograms.io/projects/maximum-subarray/algol60)
 - [Maximum Subarray in ALGOL 68](https://sampleprograms.io/projects/maximum-subarray/algol68)
 - [Maximum Subarray in AWK](https://sampleprograms.io/projects/maximum-subarray/awk)
 - [Maximum Subarray in Beef](https://sampleprograms.io/projects/maximum-subarray/beef)
