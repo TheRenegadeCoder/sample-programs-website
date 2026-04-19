@@ -1,6 +1,6 @@
 ---
 date: 2018-03-15
-last-modified: 2026-04-18
+last-modified: 2026-04-19
 layout: default
 title: Sample Programs in Every Language
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2026-04-18
+last-modified: 2026-04-19
 layout: default
 title: Programming Languages
 ---
@@ -60,7 +60,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C</td>
-        <td class="right">3.69%</td>
+        <td class="right">3.70%</td>
         <td class="bar-graph"><div style="width: 43.51%; background-color: #555555;"></div></td> 
     </tr>
 
@@ -144,7 +144,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Go</td>
-        <td class="right">1.68%</td>
+        <td class="right">1.69%</td>
         <td class="bar-graph"><div style="width: 19.84%; background-color: #00ADD8;"></div></td> 
     </tr>
 
@@ -275,12 +275,6 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">COBOL</td>
-        <td class="right">0.27%</td>
-        <td class="bar-graph"><div style="width: 3.22%; background-color: #CCCCCC;"></div></td> 
-    </tr>
-
-    <tr>
         <td class="right nowrap">Odin</td>
         <td class="right">0.25%</td>
         <td class="bar-graph"><div style="width: 2.98%; background-color: #60AFFE;"></div></td> 
@@ -290,6 +284,12 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Visual Basic</td>
         <td class="right">0.24%</td>
         <td class="bar-graph"><div style="width: 2.83%; background-color: #945DB7;"></div></td> 
+    </tr>
+
+    <tr>
+        <td class="right nowrap">COBOL</td>
+        <td class="right">0.23%</td>
+        <td class="bar-graph"><div style="width: 2.72%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
     <tr>

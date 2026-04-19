@@ -1,9 +1,9 @@
 ---
 authors:
-- Zia
-date: 2025-01-19
+- "\u0218tefan-Iulian Alecu"
+date: 2026-04-19
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2025-01-19
+last-modified: 2026-04-19
 layout: default
 tags:
 - cobol
@@ -29,45 +29,38 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [COB
 {% raw %}
 
 ```cobol
-       IDENTIFICATION DIVISION.
-           PROGRAM-ID. FIZZ-BUZZ.
-       	   AUTHOR. KAAMKIYA.
-       
-       DATA DIVISION.
-       WORKING-STORAGE SECTION.
-           01 COUNTER       PIC 999 VALUE 1.
-           01 FIZZ          PIC 999 VALUE 1.
-           01 BUZZ          PIC 999 VALUE 1.
-           01 RESULT-STRING PIC xxx.
-           01 SPACE-COUNT   PIC 99 VALUE ZERO.
-       PROCEDURE DIVISION.
-           PERFORM 100 TIMES
-                IF FIZZ = 3
-                    THEN IF BUZZ = 5
-                        THEN DISPLAY "FizzBuzz"
-                        COMPUTE BUZZ = 0
-                        ELSE DISPLAY "Fizz"
-                        END-IF
-                        COMPUTE FIZZ = 0
-                    ELSE IF BUZZ = 5
-                        THEN DISPLAY "Buzz"
-                        COMPUTE BUZZ = 0
-                    ELSE
-                        MOVE 0 TO SPACE-COUNT
-                        INSPECT COUNTER TALLYING SPACE-COUNT
-                            FOR LEADING ZEROS
-                        MOVE COUNTER
-                            (SPACE-COUNT + 1 : 
-                                LENGTH OF COUNTER - SPACE-COUNT)
-                                    TO RESULT-STRING
-                        DISPLAY RESULT-STRING
-                    END-IF
-                END-IF
-                ADD 1 TO COUNTER
-                ADD 1 TO FIZZ
-                ADD 1 TO BUZZ
-           END-PERFORM
-       STOP RUN.
+identification division.
+program-id. fizz-buzz.
+
+data division.
+working-storage section.
+
+01 counter     pic 9(3).
+01 counter-out pic z(3).
+
+procedure division.
+
+main.
+    perform varying counter from 1 by 1 until counter > 100
+
+        evaluate true
+            when function mod(counter, 15) = 0
+                display "FizzBuzz"
+
+            when function mod(counter, 3) = 0
+                display "Fizz"
+
+            when function mod(counter, 5) = 0
+                display "Buzz"
+
+            when other
+                move counter to counter-out
+                display function trim(counter-out)
+        end-evaluate
+
+    end-perform
+
+    stop run.
 
 ```
 
@@ -75,7 +68,7 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [COB
 
 Fizz Buzz in [COBOL](https://sampleprograms.io/languages/cobol) was written by:
 
-- Zia
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
