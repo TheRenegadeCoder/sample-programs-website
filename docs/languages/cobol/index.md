@@ -26,11 +26,12 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 6 articles:
+There are 7 articles:
 
 - [Baklava in COBOL](https://sampleprograms.io/projects/baklava/cobol)
 - [Even Odd in COBOL](https://sampleprograms.io/projects/even-odd/cobol)
 - [Factorial in COBOL](https://sampleprograms.io/projects/factorial/cobol)
 - [Fizz Buzz in COBOL](https://sampleprograms.io/projects/fizz-buzz/cobol)
 - [Hello World in COBOL](https://sampleprograms.io/projects/hello-world/cobol)
+- [Linear Search in COBOL](https://sampleprograms.io/projects/linear-search/cobol)
 - [Prime Number in COBOL](https://sampleprograms.io/projects/prime-number/cobol)

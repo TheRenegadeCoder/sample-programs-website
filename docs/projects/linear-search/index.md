@@ -1,7 +1,7 @@
 ---
 date: 2019-10-17
 featured-image: linear-search-in-every-language.jpg
-last-modified: 2026-04-17
+last-modified: 2026-04-19
 layout: default
 tags:
 - linear-search
@@ -127,7 +127,7 @@ Usage: please provide a list of integers ("1, 4, 5, 11, 12") and the integer to 
 
 ## Articles
 
-There are 29 articles:
+There are 30 articles:
 
 - [Linear Search in ALGOL 60](https://sampleprograms.io/projects/linear-search/algol60)
 - [Linear Search in ALGOL 68](https://sampleprograms.io/projects/linear-search/algol68)
@@ -136,6 +136,7 @@ There are 29 articles:
 - [Linear Search in C](https://sampleprograms.io/projects/linear-search/c)
 - [Linear Search in C#](https://sampleprograms.io/projects/linear-search/c-sharp)
 - [Linear Search in C++](https://sampleprograms.io/projects/linear-search/c-plus-plus)
+- [Linear Search in COBOL](https://sampleprograms.io/projects/linear-search/cobol)
 - [Linear Search in Commodore BASIC](https://sampleprograms.io/projects/linear-search/commodore-basic)
 - [Linear Search in Elvish](https://sampleprograms.io/projects/linear-search/elvish)
 - [Linear Search in Euphoria](https://sampleprograms.io/projects/linear-search/euphoria)
