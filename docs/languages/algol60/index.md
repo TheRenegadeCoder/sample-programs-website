@@ -1,7 +1,7 @@
 ---
 date: 2026-03-12
 featured-image: programming-languages.jpg
-last-modified: 2026-04-18
+last-modified: 2026-04-19
 layout: default
 tags:
 - algol60
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 33 articles:
+There are 34 articles:
 
 - [Baklava in ALGOL 60](https://sampleprograms.io/projects/baklava/algol60)
 - [Base64 Encode Decode in ALGOL 60](https://sampleprograms.io/projects/base64-encode-decode/algol60)
@@ -34,6 +34,7 @@ There are 33 articles:
 - [Bubble Sort in ALGOL 60](https://sampleprograms.io/projects/bubble-sort/algol60)
 - [Capitalize in ALGOL 60](https://sampleprograms.io/projects/capitalize/algol60)
 - [Depth First Search in ALGOL 60](https://sampleprograms.io/projects/depth-first-search/algol60)
+- [Dijkstra in ALGOL 60](https://sampleprograms.io/projects/dijkstra/algol60)
 - [Duplicate Character Counter in ALGOL 60](https://sampleprograms.io/projects/duplicate-character-counter/algol60)
 - [Even Odd in ALGOL 60](https://sampleprograms.io/projects/even-odd/algol60)
 - [Factorial in ALGOL 60](https://sampleprograms.io/projects/factorial/algol60)

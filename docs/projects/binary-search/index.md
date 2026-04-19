@@ -1,7 +1,7 @@
 ---
 date: 2019-10-24
 featured-image: binary-search-in-every-language.jpg
-last-modified: 2026-04-17
+last-modified: 2026-04-19
 layout: default
 tags:
 - binary-search
@@ -98,7 +98,7 @@ Usage: please provide a list of sorted integers ("1, 4, 5, 11, 12") and the inte
 
 ## Articles
 
-There are 26 articles:
+There are 27 articles:
 
 - [Binary Search in ALGOL 60](https://sampleprograms.io/projects/binary-search/algol60)
 - [Binary Search in ALGOL 68](https://sampleprograms.io/projects/binary-search/algol68)
@@ -107,6 +107,7 @@ There are 26 articles:
 - [Binary Search in C](https://sampleprograms.io/projects/binary-search/c)
 - [Binary Search in C#](https://sampleprograms.io/projects/binary-search/c-sharp)
 - [Binary Search in C++](https://sampleprograms.io/projects/binary-search/c-plus-plus)
+- [Binary Search in COBOL](https://sampleprograms.io/projects/binary-search/cobol)
 - [Binary Search in Commodore BASIC](https://sampleprograms.io/projects/binary-search/commodore-basic)
 - [Binary Search in Euphoria](https://sampleprograms.io/projects/binary-search/euphoria)
 - [Binary Search in F#](https://sampleprograms.io/projects/binary-search/f-sharp)
