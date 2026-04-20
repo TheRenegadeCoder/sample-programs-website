@@ -1,7 +1,7 @@
 ---
 date: 2018-12-03
 featured-image: merge-sort-in-every-language.jpg
-last-modified: 2026-04-18
+last-modified: 2026-04-21
 layout: default
 tags:
 - merge-sort
@@ -124,7 +124,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-There are 29 articles:
+There are 30 articles:
 
 - [Merge Sort in ALGOL 60](https://sampleprograms.io/projects/merge-sort/algol60)
 - [Merge Sort in ALGOL 68](https://sampleprograms.io/projects/merge-sort/algol68)
@@ -133,6 +133,7 @@ There are 29 articles:
 - [Merge Sort in C](https://sampleprograms.io/projects/merge-sort/c)
 - [Merge Sort in C#](https://sampleprograms.io/projects/merge-sort/c-sharp)
 - [Merge Sort in C++](https://sampleprograms.io/projects/merge-sort/c-plus-plus)
+- [Merge Sort in COBOL](https://sampleprograms.io/projects/merge-sort/cobol)
 - [Merge Sort in Commodore BASIC](https://sampleprograms.io/projects/merge-sort/commodore-basic)
 - [Merge Sort in Euphoria](https://sampleprograms.io/projects/merge-sort/euphoria)
 - [Merge Sort in F#](https://sampleprograms.io/projects/merge-sort/f-sharp)
