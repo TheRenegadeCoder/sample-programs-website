@@ -1,7 +1,7 @@
 ---
 date: 2026-03-12
 featured-image: programming-languages.jpg
-last-modified: 2026-04-19
+last-modified: 2026-04-21
 layout: default
 tags:
 - algol60
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 34 articles:
+There are 35 articles:
 
 - [Baklava in ALGOL 60](https://sampleprograms.io/projects/baklava/algol60)
 - [Base64 Encode Decode in ALGOL 60](https://sampleprograms.io/projects/base64-encode-decode/algol60)
@@ -46,6 +46,7 @@ There are 34 articles:
 - [Job Sequencing in ALGOL 60](https://sampleprograms.io/projects/job-sequencing/algol60)
 - [Josephus Problem in ALGOL 60](https://sampleprograms.io/projects/josephus-problem/algol60)
 - [Linear Search in ALGOL 60](https://sampleprograms.io/projects/linear-search/algol60)
+- [Longest Common Subsequence in ALGOL 60](https://sampleprograms.io/projects/longest-common-subsequence/algol60)
 - [Longest Palindromic Substring in ALGOL 60](https://sampleprograms.io/projects/longest-palindromic-substring/algol60)
 - [Longest Word in ALGOL 60](https://sampleprograms.io/projects/longest-word/algol60)
 - [Maximum Array Rotation in ALGOL 60](https://sampleprograms.io/projects/maximum-array-rotation/algol60)

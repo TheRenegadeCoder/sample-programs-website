@@ -1,7 +1,7 @@
 ---
 date: 2018-10-16
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: 2026-04-15
+last-modified: 2026-04-21
 layout: default
 tags:
 - longest-common-subsequence
@@ -98,8 +98,9 @@ Usage: please provide two lists in the format "1, 2, 3, 4, 5"
 
 ## Articles
 
-There are 23 articles:
+There are 24 articles:
 
+- [Longest Common Subsequence in ALGOL 60](https://sampleprograms.io/projects/longest-common-subsequence/algol60)
 - [Longest Common Subsequence in ALGOL 68](https://sampleprograms.io/projects/longest-common-subsequence/algol68)
 - [Longest Common Subsequence in AWK](https://sampleprograms.io/projects/longest-common-subsequence/awk)
 - [Longest Common Subsequence in Beef](https://sampleprograms.io/projects/longest-common-subsequence/beef)
