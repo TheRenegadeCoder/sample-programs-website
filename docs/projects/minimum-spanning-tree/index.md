@@ -1,7 +1,7 @@
 ---
 date: 2019-10-14
 featured-image: minimum-spanning-tree-in-every-language.jpg
-last-modified: 2026-04-15
+last-modified: 2026-04-22
 layout: default
 tags:
 - minimum-spanning-tree
@@ -117,8 +117,9 @@ Usage: please provide a comma-separated list of integers
 
 ## Articles
 
-There are 18 articles:
+There are 19 articles:
 
+- [Minimum Spanning Tree in ALGOL 60](https://sampleprograms.io/projects/minimum-spanning-tree/algol60)
 - [Minimum Spanning Tree in ALGOL 68](https://sampleprograms.io/projects/minimum-spanning-tree/algol68)
 - [Minimum Spanning Tree in AWK](https://sampleprograms.io/projects/minimum-spanning-tree/awk)
 - [Minimum Spanning Tree in Beef](https://sampleprograms.io/projects/minimum-spanning-tree/beef)
