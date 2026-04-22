@@ -231,7 +231,7 @@ begin
                 if x[i] = y[j] then
                 begin
                     result[c[i, j]] := x[i];
-                    backtrack(c, i - 1, j - 1);
+                    backtrack(c, i - 1, j - 1)
                 end
                 else if c[i, j - 1] > c[i - 1, j] then backtrack(c, i, j - 1)
                 else backtrack(c, i - 1, j)
