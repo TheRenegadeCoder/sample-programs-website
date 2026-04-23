@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1490 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1491 code snippets.
 
 ## Language Breakdown
 
@@ -24,7 +24,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 68</td>
-        <td class="right">5.68%</td>
+        <td class="right">5.67%</td>
         <td class="bar-graph"><div style="width: 58.94%; background-color: #AF425E;"></div></td> 
     </tr>
 
@@ -78,7 +78,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Java</td>
-        <td class="right">3.17%</td>
+        <td class="right">3.16%</td>
         <td class="bar-graph"><div style="width: 32.87%; background-color: #B07219;"></div></td> 
     </tr>
 
@@ -132,8 +132,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">COBOL</td>
-        <td class="right">2.02%</td>
-        <td class="bar-graph"><div style="width: 20.98%; background-color: #CCCCCC;"></div></td> 
+        <td class="right">2.03%</td>
+        <td class="bar-graph"><div style="width: 21.13%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
     <tr>
@@ -198,7 +198,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">GNU Make</td>
-        <td class="right">0.70%</td>
+        <td class="right">0.69%</td>
         <td class="bar-graph"><div style="width: 7.22%; background-color: #427819;"></div></td> 
     </tr>
 
@@ -1033,7 +1033,7 @@ The 'B' collection contains 9 languages, of which 9 are tested, and 80 code snip
 
 ### C
 
-The 'C' collection contains 15 languages, of which 15 are tested, and 211 code snippets.
+The 'C' collection contains 15 languages, of which 15 are tested, and 212 code snippets.
 
 - [C](https://sampleprograms.io/languages/c) (39 code snippets)
 - [C#](https://sampleprograms.io/languages/c-sharp) (39 code snippets)
@@ -1044,7 +1044,7 @@ The 'C' collection contains 15 languages, of which 15 are tested, and 211 code s
 - [ChaiScript](https://sampleprograms.io/languages/chaiscript) (2 code snippets)
 - [Chapel](https://sampleprograms.io/languages/chapel) (3 code snippets)
 - [Clojure](https://sampleprograms.io/languages/clojure) (6 code snippets)
-- [COBOL](https://sampleprograms.io/languages/cobol) (18 code snippets)
+- [COBOL](https://sampleprograms.io/languages/cobol) (19 code snippets)
 - [CoffeeScript](https://sampleprograms.io/languages/coffeescript) (10 code snippets)
 - [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) (39 code snippets)
 - [Crystal](https://sampleprograms.io/languages/crystal) (4 code snippets)
