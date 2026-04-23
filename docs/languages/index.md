@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1488 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1489 code snippets.
 
 ## Language Breakdown
 
@@ -18,7 +18,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 60</td>
-        <td class="right">9.64%</td>
+        <td class="right">9.63%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
@@ -150,8 +150,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Go</td>
-        <td class="right">1.63%</td>
-        <td class="bar-graph"><div style="width: 16.90%; background-color: #00ADD8;"></div></td> 
+        <td class="right">1.66%</td>
+        <td class="bar-graph"><div style="width: 17.21%; background-color: #00ADD8;"></div></td> 
     </tr>
 
     <tr>
@@ -258,7 +258,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Visual Basic</td>
-        <td class="right">0.32%</td>
+        <td class="right">0.31%</td>
         <td class="bar-graph"><div style="width: 3.27%; background-color: #945DB7;"></div></td> 
     </tr>
 
@@ -336,7 +336,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Haxe</td>
-        <td class="right">0.14%</td>
+        <td class="right">0.13%</td>
         <td class="bar-graph"><div style="width: 1.40%; background-color: #DF7900;"></div></td> 
     </tr>
 
@@ -1103,12 +1103,12 @@ The 'F' collection contains 12 languages, of which 12 are tested, and 75 code sn
 
 ### G
 
-The 'G' collection contains 11 languages, of which 11 are tested, and 71 code snippets.
+The 'G' collection contains 11 languages, of which 11 are tested, and 72 code snippets.
 
 - [Gerbil](https://sampleprograms.io/languages/gerbil) (2 code snippets)
 - [Gluon](https://sampleprograms.io/languages/gluon) (2 code snippets)
 - [GNU Make](https://sampleprograms.io/languages/gnu-make) (9 code snippets)
-- [Go](https://sampleprograms.io/languages/go) (34 code snippets)
+- [Go](https://sampleprograms.io/languages/go) (35 code snippets)
 - [Goby](https://sampleprograms.io/languages/goby) (3 code snippets)
 - [Golo](https://sampleprograms.io/languages/golo) (2 code snippets)
 - [Gosu](https://sampleprograms.io/languages/gosu) (3 code snippets)

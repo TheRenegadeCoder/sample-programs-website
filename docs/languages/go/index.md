@@ -1,7 +1,7 @@
 ---
 date: 2018-03-25
 featured-image: programming-languages.jpg
-last-modified: 2025-10-31
+last-modified: 2026-04-24
 layout: default
 tags:
 - go
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 34 articles:
+There are 35 articles:
 
 - [Baklava in Go](https://sampleprograms.io/projects/baklava/go)
 - [Base64 Encode Decode in Go](https://sampleprograms.io/projects/base64-encode-decode/go)
@@ -62,3 +62,4 @@ There are 34 articles:
 - [Selection Sort in Go](https://sampleprograms.io/projects/selection-sort/go)
 - [Sleep Sort in Go](https://sampleprograms.io/projects/sleep-sort/go)
 - [Transpose Matrix in Go](https://sampleprograms.io/projects/transpose-matrix/go)
+- [Zeckendorf in Go](https://sampleprograms.io/projects/zeckendorf/go)
