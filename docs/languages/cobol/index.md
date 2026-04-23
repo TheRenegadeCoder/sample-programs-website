@@ -1,7 +1,7 @@
 ---
 date: 2021-10-08
 featured-image: programming-languages.jpg
-last-modified: 2026-04-21
+last-modified: 2026-04-24
 layout: default
 tags:
 - cobol
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 14 articles:
+There are 15 articles:
 
 - [Baklava in COBOL](https://sampleprograms.io/projects/baklava/cobol)
 - [Binary Search in COBOL](https://sampleprograms.io/projects/binary-search/cobol)
@@ -42,3 +42,4 @@ There are 14 articles:
 - [Quick Sort in COBOL](https://sampleprograms.io/projects/quick-sort/cobol)
 - [Selection Sort in COBOL](https://sampleprograms.io/projects/selection-sort/cobol)
 - [Sleep Sort in COBOL](https://sampleprograms.io/projects/sleep-sort/cobol)
+- [Zeckendorf in COBOL](https://sampleprograms.io/projects/zeckendorf/cobol)
