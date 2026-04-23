@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 15 articles:
+There are 16 articles:
 
 - [Baklava in COBOL](https://sampleprograms.io/projects/baklava/cobol)
 - [Binary Search in COBOL](https://sampleprograms.io/projects/binary-search/cobol)
@@ -40,6 +40,7 @@ There are 15 articles:
 - [Merge Sort in COBOL](https://sampleprograms.io/projects/merge-sort/cobol)
 - [Prime Number in COBOL](https://sampleprograms.io/projects/prime-number/cobol)
 - [Quick Sort in COBOL](https://sampleprograms.io/projects/quick-sort/cobol)
+- [Rot13 in COBOL](https://sampleprograms.io/projects/rot13/cobol)
 - [Selection Sort in COBOL](https://sampleprograms.io/projects/selection-sort/cobol)
 - [Sleep Sort in COBOL](https://sampleprograms.io/projects/sleep-sort/cobol)
 - [Zeckendorf in COBOL](https://sampleprograms.io/projects/zeckendorf/cobol)

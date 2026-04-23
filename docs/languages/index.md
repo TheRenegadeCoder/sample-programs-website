@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1482 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1483 code snippets.
 
 ## Language Breakdown
 
@@ -18,7 +18,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 60</td>
-        <td class="right">9.68%</td>
+        <td class="right">9.67%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
@@ -60,7 +60,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C</td>
-        <td class="right">3.59%</td>
+        <td class="right">3.58%</td>
         <td class="bar-graph"><div style="width: 37.06%; background-color: #555555;"></div></td> 
     </tr>
 
@@ -72,7 +72,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">PHP</td>
-        <td class="right">3.27%</td>
+        <td class="right">3.26%</td>
         <td class="bar-graph"><div style="width: 33.74%; background-color: #4F5D95;"></div></td> 
     </tr>
 
@@ -84,7 +84,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C#</td>
-        <td class="right">3.10%</td>
+        <td class="right">3.09%</td>
         <td class="bar-graph"><div style="width: 31.98%; background-color: #178600;"></div></td> 
     </tr>
 
@@ -108,7 +108,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">AWK</td>
-        <td class="right">2.83%</td>
+        <td class="right">2.82%</td>
         <td class="bar-graph"><div style="width: 29.19%; background-color: #C30E9B;"></div></td> 
     </tr>
 
@@ -120,7 +120,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Mathematica</td>
-        <td class="right">2.31%</td>
+        <td class="right">2.30%</td>
         <td class="bar-graph"><div style="width: 23.83%; background-color: #DD1100;"></div></td> 
     </tr>
 
@@ -132,8 +132,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">COBOL</td>
-        <td class="right">1.75%</td>
-        <td class="bar-graph"><div style="width: 18.06%; background-color: #CCCCCC;"></div></td> 
+        <td class="right">1.80%</td>
+        <td class="bar-graph"><div style="width: 18.62%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
     <tr>
@@ -150,7 +150,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Go</td>
-        <td class="right">1.64%</td>
+        <td class="right">1.63%</td>
         <td class="bar-graph"><div style="width: 16.90%; background-color: #00ADD8;"></div></td> 
     </tr>
 
@@ -240,7 +240,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Lua</td>
-        <td class="right">0.50%</td>
+        <td class="right">0.49%</td>
         <td class="bar-graph"><div style="width: 5.11%; background-color: #000080;"></div></td> 
     </tr>
 
@@ -1033,7 +1033,7 @@ The 'B' collection contains 9 languages, of which 9 are tested, and 80 code snip
 
 ### C
 
-The 'C' collection contains 15 languages, of which 15 are tested, and 208 code snippets.
+The 'C' collection contains 15 languages, of which 15 are tested, and 209 code snippets.
 
 - [C](https://sampleprograms.io/languages/c) (39 code snippets)
 - [C#](https://sampleprograms.io/languages/c-sharp) (39 code snippets)
@@ -1044,7 +1044,7 @@ The 'C' collection contains 15 languages, of which 15 are tested, and 208 code s
 - [ChaiScript](https://sampleprograms.io/languages/chaiscript) (2 code snippets)
 - [Chapel](https://sampleprograms.io/languages/chapel) (3 code snippets)
 - [Clojure](https://sampleprograms.io/languages/clojure) (6 code snippets)
-- [COBOL](https://sampleprograms.io/languages/cobol) (15 code snippets)
+- [COBOL](https://sampleprograms.io/languages/cobol) (16 code snippets)
 - [CoffeeScript](https://sampleprograms.io/languages/coffeescript) (10 code snippets)
 - [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) (39 code snippets)
 - [Crystal](https://sampleprograms.io/languages/crystal) (4 code snippets)
