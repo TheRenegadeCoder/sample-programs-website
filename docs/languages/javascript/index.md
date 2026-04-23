@@ -1,7 +1,7 @@
 ---
 date: 2018-05-06
 featured-image: programming-languages.jpg
-last-modified: 2025-10-12
+last-modified: 2026-04-24
 layout: default
 tags:
 - javascript
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 33 articles:
+There are 34 articles:
 
 - [Baklava in JavaScript](https://sampleprograms.io/projects/baklava/javascript)
 - [Base64 Encode Decode in JavaScript](https://sampleprograms.io/projects/base64-encode-decode/javascript)
@@ -61,3 +61,4 @@ There are 33 articles:
 - [Selection Sort in JavaScript](https://sampleprograms.io/projects/selection-sort/javascript)
 - [Sleep Sort in JavaScript](https://sampleprograms.io/projects/sleep-sort/javascript)
 - [Transpose Matrix in JavaScript](https://sampleprograms.io/projects/transpose-matrix/javascript)
+- [Zeckendorf in JavaScript](https://sampleprograms.io/projects/zeckendorf/javascript)

@@ -141,7 +141,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 21 articles:
+There are 22 articles:
 
 - [Zeckendorf in ALGOL 60](https://sampleprograms.io/projects/zeckendorf/algol60)
 - [Zeckendorf in ALGOL 68](https://sampleprograms.io/projects/zeckendorf/algol68)
@@ -155,6 +155,7 @@ There are 21 articles:
 - [Zeckendorf in Euphoria](https://sampleprograms.io/projects/zeckendorf/euphoria)
 - [Zeckendorf in F#](https://sampleprograms.io/projects/zeckendorf/f-sharp)
 - [Zeckendorf in Java](https://sampleprograms.io/projects/zeckendorf/java)
+- [Zeckendorf in JavaScript](https://sampleprograms.io/projects/zeckendorf/javascript)
 - [Zeckendorf in PHP](https://sampleprograms.io/projects/zeckendorf/php)
 - [Zeckendorf in Pascal](https://sampleprograms.io/projects/zeckendorf/pascal)
 - [Zeckendorf in PowerShell](https://sampleprograms.io/projects/zeckendorf/powershell)
