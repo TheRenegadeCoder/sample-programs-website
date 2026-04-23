@@ -1,7 +1,7 @@
 ---
 date: 2018-06-22
 featured-image: programming-languages.jpg
-last-modified: 2025-10-14
+last-modified: 2026-04-24
 layout: default
 tags:
 - typescript
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 25 articles:
+There are 26 articles:
 
 - [Baklava in TypeScript](https://sampleprograms.io/projects/baklava/typescript)
 - [Base64 Encode Decode in TypeScript](https://sampleprograms.io/projects/base64-encode-decode/typescript)
@@ -53,3 +53,4 @@ There are 25 articles:
 - [Rot13 in TypeScript](https://sampleprograms.io/projects/rot13/typescript)
 - [Selection Sort in TypeScript](https://sampleprograms.io/projects/selection-sort/typescript)
 - [Transpose Matrix in TypeScript](https://sampleprograms.io/projects/transpose-matrix/typescript)
+- [Zeckendorf in TypeScript](https://sampleprograms.io/projects/zeckendorf/typescript)
