@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1484 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1486 code snippets.
 
 ## Language Breakdown
 
@@ -18,25 +18,25 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 60</td>
-        <td class="right">9.66%</td>
+        <td class="right">9.64%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">ALGOL 68</td>
-        <td class="right">5.69%</td>
+        <td class="right">5.68%</td>
         <td class="bar-graph"><div style="width: 58.94%; background-color: #AF425E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Commodore BASIC</td>
-        <td class="right">5.59%</td>
+        <td class="right">5.58%</td>
         <td class="bar-graph"><div style="width: 57.89%; background-color: #4F44D8;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Euphoria</td>
-        <td class="right">4.95%</td>
+        <td class="right">4.94%</td>
         <td class="bar-graph"><div style="width: 51.26%; background-color: #FF790B;"></div></td> 
     </tr>
 
@@ -60,19 +60,19 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C</td>
-        <td class="right">3.58%</td>
+        <td class="right">3.57%</td>
         <td class="bar-graph"><div style="width: 37.06%; background-color: #555555;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Rust</td>
-        <td class="right">3.51%</td>
+        <td class="right">3.50%</td>
         <td class="bar-graph"><div style="width: 36.30%; background-color: #DEA584;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">PHP</td>
-        <td class="right">3.26%</td>
+        <td class="right">3.25%</td>
         <td class="bar-graph"><div style="width: 33.74%; background-color: #4F5D95;"></div></td> 
     </tr>
 
@@ -84,25 +84,25 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C#</td>
-        <td class="right">3.09%</td>
+        <td class="right">3.08%</td>
         <td class="bar-graph"><div style="width: 31.98%; background-color: #178600;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">C++</td>
-        <td class="right">3.02%</td>
+        <td class="right">3.01%</td>
         <td class="bar-graph"><div style="width: 31.23%; background-color: #F34B7D;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">x86-64</td>
-        <td class="right">2.98%</td>
+        <td class="right">2.97%</td>
         <td class="bar-graph"><div style="width: 30.83%; background-color: #6E4C13;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">F#</td>
-        <td class="right">2.95%</td>
+        <td class="right">2.94%</td>
         <td class="bar-graph"><div style="width: 30.50%; background-color: #B845FC;"></div></td> 
     </tr>
 
@@ -114,7 +114,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">PowerShell</td>
-        <td class="right">2.31%</td>
+        <td class="right">2.30%</td>
         <td class="bar-graph"><div style="width: 23.87%; background-color: #012456;"></div></td> 
     </tr>
 
@@ -156,13 +156,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">TypeScript</td>
-        <td class="right">1.12%</td>
+        <td class="right">1.11%</td>
         <td class="bar-graph"><div style="width: 11.56%; background-color: #3178C6;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Kotlin</td>
-        <td class="right">1.08%</td>
+        <td class="right">1.07%</td>
         <td class="bar-graph"><div style="width: 11.14%; background-color: #A97BFF;"></div></td> 
     </tr>
 
@@ -221,6 +221,12 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
+        <td class="right nowrap">Swift</td>
+        <td class="right">0.54%</td>
+        <td class="bar-graph"><div style="width: 5.61%; background-color: #F05138;"></div></td> 
+    </tr>
+
+    <tr>
         <td class="right nowrap">Unicat</td>
         <td class="right">0.51%</td>
         <td class="bar-graph"><div style="width: 5.27%; background-color: #FFDE34;"></div></td> 
@@ -230,12 +236,6 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Octave</td>
         <td class="right">0.51%</td>
         <td class="bar-graph"><div style="width: 5.26%; background-color: #E16737;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">Swift</td>
-        <td class="right">0.50%</td>
-        <td class="bar-graph"><div style="width: 5.14%; background-color: #F05138;"></div></td> 
     </tr>
 
     <tr>
@@ -254,6 +254,12 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Elixir</td>
         <td class="right">0.33%</td>
         <td class="bar-graph"><div style="width: 3.37%; background-color: #6E4A7E;"></div></td> 
+    </tr>
+
+    <tr>
+        <td class="right nowrap">Visual Basic</td>
+        <td class="right">0.32%</td>
+        <td class="bar-graph"><div style="width: 3.27%; background-color: #945DB7;"></div></td> 
     </tr>
 
     <tr>
@@ -282,14 +288,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Odin</td>
-        <td class="right">0.25%</td>
+        <td class="right">0.24%</td>
         <td class="bar-graph"><div style="width: 2.54%; background-color: #60AFFE;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">Visual Basic</td>
-        <td class="right">0.23%</td>
-        <td class="bar-graph"><div style="width: 2.41%; background-color: #945DB7;"></div></td> 
     </tr>
 
     <tr>
@@ -1260,7 +1260,7 @@ The 'R' collection contains 8 languages, of which 8 are tested, and 90 code snip
 
 ### S
 
-The 'S' collection contains 10 languages, of which 10 are tested, and 43 code snippets.
+The 'S' collection contains 10 languages, of which 10 are tested, and 44 code snippets.
 
 - [Sather](https://sampleprograms.io/languages/sather) (2 code snippets)
 - [Scala](https://sampleprograms.io/languages/scala) (13 code snippets)
@@ -1271,7 +1271,7 @@ The 'S' collection contains 10 languages, of which 10 are tested, and 43 code sn
 - [Solidity](https://sampleprograms.io/languages/solidity) (2 code snippets)
 - [Solisp](https://sampleprograms.io/languages/solisp) (3 code snippets)
 - [Spry](https://sampleprograms.io/languages/spry) (2 code snippets)
-- [Swift](https://sampleprograms.io/languages/swift) (11 code snippets)
+- [Swift](https://sampleprograms.io/languages/swift) (12 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 
@@ -1297,13 +1297,13 @@ The 'U' collection contains 1 language, of which 1 is tested, and 4 code snippet
 
 ### V
 
-The 'V' collection contains 5 languages, of which 5 are tested, and 22 code snippets.
+The 'V' collection contains 5 languages, of which 5 are tested, and 23 code snippets.
 
 - [V](https://sampleprograms.io/languages/v) (7 code snippets)
 - [Verilog](https://sampleprograms.io/languages/verilog) (2 code snippets)
 - [Verve](https://sampleprograms.io/languages/verve) (3 code snippets)
 - [Vimscript](https://sampleprograms.io/languages/vimscript) (4 code snippets)
-- [Visual Basic](https://sampleprograms.io/languages/visual-basic) (6 code snippets)
+- [Visual Basic](https://sampleprograms.io/languages/visual-basic) (7 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 

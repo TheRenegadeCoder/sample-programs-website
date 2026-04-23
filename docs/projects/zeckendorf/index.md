@@ -141,7 +141,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 20 articles:
+There are 21 articles:
 
 - [Zeckendorf in ALGOL 60](https://sampleprograms.io/projects/zeckendorf/algol60)
 - [Zeckendorf in ALGOL 68](https://sampleprograms.io/projects/zeckendorf/algol68)
@@ -160,6 +160,7 @@ There are 20 articles:
 - [Zeckendorf in PowerShell](https://sampleprograms.io/projects/zeckendorf/powershell)
 - [Zeckendorf in Python](https://sampleprograms.io/projects/zeckendorf/python)
 - [Zeckendorf in Rust](https://sampleprograms.io/projects/zeckendorf/rust)
+- [Zeckendorf in Swift](https://sampleprograms.io/projects/zeckendorf/swift)
 - [Zeckendorf in TI-BASIC](https://sampleprograms.io/projects/zeckendorf/ti-basic)
 - [Zeckendorf in Tcl](https://sampleprograms.io/projects/zeckendorf/tcl)
 - [Zeckendorf in m4](https://sampleprograms.io/projects/zeckendorf/m4)

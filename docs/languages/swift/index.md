@@ -1,7 +1,7 @@
 ---
 date: 2018-03-25
 featured-image: programming-languages.jpg
-last-modified: 2026-03-10
+last-modified: 2026-04-24
 layout: default
 tags:
 - swift
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 11 articles:
+There are 12 articles:
 
 - [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
 - [Duplicate Character Counter in Swift](https://sampleprograms.io/projects/duplicate-character-counter/swift)
@@ -39,3 +39,4 @@ There are 11 articles:
 - [Palindromic Number in Swift](https://sampleprograms.io/projects/palindromic-number/swift)
 - [Prime Number in Swift](https://sampleprograms.io/projects/prime-number/swift)
 - [Reverse String in Swift](https://sampleprograms.io/projects/reverse-string/swift)
+- [Zeckendorf in Swift](https://sampleprograms.io/projects/zeckendorf/swift)
