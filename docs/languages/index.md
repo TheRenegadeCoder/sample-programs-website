@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1495 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1496 code snippets.
 
 ## Language Breakdown
 
@@ -30,7 +30,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Commodore BASIC</td>
-        <td class="right">5.56%</td>
+        <td class="right">5.55%</td>
         <td class="bar-graph"><div style="width: 57.89%; background-color: #4F44D8;"></div></td> 
     </tr>
 
@@ -156,8 +156,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">TypeScript</td>
-        <td class="right">1.14%</td>
-        <td class="bar-graph"><div style="width: 11.91%; background-color: #3178C6;"></div></td> 
+        <td class="right">1.15%</td>
+        <td class="bar-graph"><div style="width: 11.97%; background-color: #3178C6;"></div></td> 
     </tr>
 
     <tr>
@@ -1277,13 +1277,13 @@ The 'S' collection contains 10 languages, of which 10 are tested, and 44 code sn
 
 ### T
 
-The 'T' collection contains 5 languages, of which 5 are tested, and 84 code snippets.
+The 'T' collection contains 5 languages, of which 5 are tested, and 85 code snippets.
 
 - [Tcl](https://sampleprograms.io/languages/tcl) (39 code snippets)
 - [Terra](https://sampleprograms.io/languages/terra) (2 code snippets)
 - [TeX](https://sampleprograms.io/languages/tex) (3 code snippets)
 - [TI-BASIC](https://sampleprograms.io/languages/ti-basic) (14 code snippets)
-- [TypeScript](https://sampleprograms.io/languages/typescript) (26 code snippets)
+- [TypeScript](https://sampleprograms.io/languages/typescript) (27 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 
