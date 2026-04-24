@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-03-21
 featured-image: programming-languages.jpg
-last-modified: 2025-10-31
+last-modified: 2026-04-24
 layout: default
 tags:
 - ruby
@@ -51,7 +51,7 @@ framework which helps developers build web applications quickly and easily.
 
 ## Articles
 
-There are 22 articles:
+There are 23 articles:
 
 - [Baklava in Ruby](https://sampleprograms.io/projects/baklava/ruby)
 - [Binary Search in Ruby](https://sampleprograms.io/projects/binary-search/ruby)
@@ -67,6 +67,7 @@ There are 22 articles:
 - [Hello World in Ruby](https://sampleprograms.io/projects/hello-world/ruby)
 - [Josephus Problem in Ruby](https://sampleprograms.io/projects/josephus-problem/ruby)
 - [Linear Search in Ruby](https://sampleprograms.io/projects/linear-search/ruby)
+- [Longest Palindromic Substring in Ruby](https://sampleprograms.io/projects/longest-palindromic-substring/ruby)
 - [Longest Word in Ruby](https://sampleprograms.io/projects/longest-word/ruby)
 - [Palindromic Number in Ruby](https://sampleprograms.io/projects/palindromic-number/ruby)
 - [Prime Number in Ruby](https://sampleprograms.io/projects/prime-number/ruby)
