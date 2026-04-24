@@ -26,9 +26,10 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 13 articles:
+There are 14 articles:
 
 - [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
+- [Base64 Encode Decode in Swift](https://sampleprograms.io/projects/base64-encode-decode/swift)
 - [Capitalize in Swift](https://sampleprograms.io/projects/capitalize/swift)
 - [Duplicate Character Counter in Swift](https://sampleprograms.io/projects/duplicate-character-counter/swift)
 - [Even Odd in Swift](https://sampleprograms.io/projects/even-odd/swift)
