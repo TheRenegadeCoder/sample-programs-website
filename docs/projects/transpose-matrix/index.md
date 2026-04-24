@@ -1,7 +1,7 @@
 ---
 date: 2022-04-28
 featured-image: transpose-matrix-in-every-language.jpg
-last-modified: 2026-04-18
+last-modified: 2026-04-24
 layout: default
 tags:
 - transpose-matrix
@@ -151,7 +151,7 @@ Usage: please enter the dimension of the matrix and the serialized matrix
 
 ## Articles
 
-There are 22 articles:
+There are 23 articles:
 
 - [Transpose Matrix in ALGOL 60](https://sampleprograms.io/projects/transpose-matrix/algol60)
 - [Transpose Matrix in ALGOL 68](https://sampleprograms.io/projects/transpose-matrix/algol68)
@@ -160,6 +160,7 @@ There are 22 articles:
 - [Transpose Matrix in C](https://sampleprograms.io/projects/transpose-matrix/c)
 - [Transpose Matrix in C#](https://sampleprograms.io/projects/transpose-matrix/c-sharp)
 - [Transpose Matrix in C++](https://sampleprograms.io/projects/transpose-matrix/c-plus-plus)
+- [Transpose Matrix in COBOL](https://sampleprograms.io/projects/transpose-matrix/cobol)
 - [Transpose Matrix in Commodore BASIC](https://sampleprograms.io/projects/transpose-matrix/commodore-basic)
 - [Transpose Matrix in Euphoria](https://sampleprograms.io/projects/transpose-matrix/euphoria)
 - [Transpose Matrix in F#](https://sampleprograms.io/projects/transpose-matrix/f-sharp)

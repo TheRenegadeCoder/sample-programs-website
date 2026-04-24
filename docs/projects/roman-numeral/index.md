@@ -102,7 +102,7 @@ In order to keep things simple, we split up the testing as follows:
 
 ## Articles
 
-There are 27 articles:
+There are 28 articles:
 
 - [Roman Numeral in ALGOL 60](https://sampleprograms.io/projects/roman-numeral/algol60)
 - [Roman Numeral in ALGOL 68](https://sampleprograms.io/projects/roman-numeral/algol68)
@@ -111,6 +111,7 @@ There are 27 articles:
 - [Roman Numeral in C](https://sampleprograms.io/projects/roman-numeral/c)
 - [Roman Numeral in C#](https://sampleprograms.io/projects/roman-numeral/c-sharp)
 - [Roman Numeral in C++](https://sampleprograms.io/projects/roman-numeral/c-plus-plus)
+- [Roman Numeral in COBOL](https://sampleprograms.io/projects/roman-numeral/cobol)
 - [Roman Numeral in Commodore BASIC](https://sampleprograms.io/projects/roman-numeral/commodore-basic)
 - [Roman Numeral in Dart](https://sampleprograms.io/projects/roman-numeral/dart)
 - [Roman Numeral in Euphoria](https://sampleprograms.io/projects/roman-numeral/euphoria)
