@@ -1,7 +1,7 @@
 ---
 date: 2026-03-12
 featured-image: programming-languages.jpg
-last-modified: 2026-04-22
+last-modified: 2026-04-24
 layout: default
 tags:
 - algol60
@@ -26,13 +26,14 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 36 articles:
+There are 37 articles:
 
 - [Baklava in ALGOL 60](https://sampleprograms.io/projects/baklava/algol60)
 - [Base64 Encode Decode in ALGOL 60](https://sampleprograms.io/projects/base64-encode-decode/algol60)
 - [Binary Search in ALGOL 60](https://sampleprograms.io/projects/binary-search/algol60)
 - [Bubble Sort in ALGOL 60](https://sampleprograms.io/projects/bubble-sort/algol60)
 - [Capitalize in ALGOL 60](https://sampleprograms.io/projects/capitalize/algol60)
+- [Convex Hull in ALGOL 60](https://sampleprograms.io/projects/convex-hull/algol60)
 - [Depth First Search in ALGOL 60](https://sampleprograms.io/projects/depth-first-search/algol60)
 - [Dijkstra in ALGOL 60](https://sampleprograms.io/projects/dijkstra/algol60)
 - [Duplicate Character Counter in ALGOL 60](https://sampleprograms.io/projects/duplicate-character-counter/algol60)

@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1499 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1500 code snippets.
 
 ## Language Breakdown
 
@@ -18,800 +18,800 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 60</td>
-        <td class="right">9.58%</td>
+        <td class="right">9.97%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">ALGOL 68</td>
-        <td class="right">5.65%</td>
-        <td class="bar-graph"><div style="width: 58.94%; background-color: #AF425E;"></div></td> 
+        <td class="right">5.62%</td>
+        <td class="bar-graph"><div style="width: 56.42%; background-color: #AF425E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Commodore BASIC</td>
-        <td class="right">5.55%</td>
-        <td class="bar-graph"><div style="width: 57.89%; background-color: #4F44D8;"></div></td> 
+        <td class="right">5.52%</td>
+        <td class="bar-graph"><div style="width: 55.41%; background-color: #4F44D8;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Euphoria</td>
-        <td class="right">4.91%</td>
-        <td class="bar-graph"><div style="width: 51.26%; background-color: #FF790B;"></div></td> 
+        <td class="right">4.89%</td>
+        <td class="bar-graph"><div style="width: 49.06%; background-color: #FF790B;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">m4</td>
-        <td class="right">4.81%</td>
-        <td class="bar-graph"><div style="width: 50.15%; background-color: #CCCCCC;"></div></td> 
+        <td class="right">4.79%</td>
+        <td class="bar-graph"><div style="width: 48.00%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Beef</td>
-        <td class="right">4.72%</td>
-        <td class="bar-graph"><div style="width: 49.21%; background-color: #A52F4E;"></div></td> 
+        <td class="right">4.70%</td>
+        <td class="bar-graph"><div style="width: 47.10%; background-color: #A52F4E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Pascal</td>
-        <td class="right">3.98%</td>
-        <td class="bar-graph"><div style="width: 41.55%; background-color: #E3F171;"></div></td> 
+        <td class="right">3.96%</td>
+        <td class="bar-graph"><div style="width: 39.77%; background-color: #E3F171;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">C</td>
-        <td class="right">3.55%</td>
-        <td class="bar-graph"><div style="width: 37.06%; background-color: #555555;"></div></td> 
+        <td class="right">3.54%</td>
+        <td class="bar-graph"><div style="width: 35.47%; background-color: #555555;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Rust</td>
-        <td class="right">3.48%</td>
-        <td class="bar-graph"><div style="width: 36.30%; background-color: #DEA584;"></div></td> 
+        <td class="right">3.46%</td>
+        <td class="bar-graph"><div style="width: 34.75%; background-color: #DEA584;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">PHP</td>
-        <td class="right">3.23%</td>
-        <td class="bar-graph"><div style="width: 33.74%; background-color: #4F5D95;"></div></td> 
+        <td class="right">3.22%</td>
+        <td class="bar-graph"><div style="width: 32.29%; background-color: #4F5D95;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Java</td>
-        <td class="right">3.15%</td>
-        <td class="bar-graph"><div style="width: 32.87%; background-color: #B07219;"></div></td> 
+        <td class="right">3.14%</td>
+        <td class="bar-graph"><div style="width: 31.47%; background-color: #B07219;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">C#</td>
-        <td class="right">3.07%</td>
-        <td class="bar-graph"><div style="width: 31.98%; background-color: #178600;"></div></td> 
+        <td class="right">3.05%</td>
+        <td class="bar-graph"><div style="width: 30.61%; background-color: #178600;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">C++</td>
-        <td class="right">2.99%</td>
-        <td class="bar-graph"><div style="width: 31.23%; background-color: #F34B7D;"></div></td> 
+        <td class="right">2.98%</td>
+        <td class="bar-graph"><div style="width: 29.89%; background-color: #F34B7D;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">x86-64</td>
-        <td class="right">2.95%</td>
-        <td class="bar-graph"><div style="width: 30.83%; background-color: #6E4C13;"></div></td> 
+        <td class="right">2.94%</td>
+        <td class="bar-graph"><div style="width: 29.51%; background-color: #6E4C13;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">F#</td>
-        <td class="right">2.92%</td>
-        <td class="bar-graph"><div style="width: 30.50%; background-color: #B845FC;"></div></td> 
+        <td class="right">2.91%</td>
+        <td class="bar-graph"><div style="width: 29.20%; background-color: #B845FC;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">AWK</td>
-        <td class="right">2.80%</td>
-        <td class="bar-graph"><div style="width: 29.19%; background-color: #C30E9B;"></div></td> 
+        <td class="right">2.79%</td>
+        <td class="bar-graph"><div style="width: 27.94%; background-color: #C30E9B;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">COBOL</td>
-        <td class="right">2.36%</td>
-        <td class="bar-graph"><div style="width: 24.60%; background-color: #CCCCCC;"></div></td> 
+        <td class="right">2.35%</td>
+        <td class="bar-graph"><div style="width: 23.55%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">PowerShell</td>
-        <td class="right">2.29%</td>
-        <td class="bar-graph"><div style="width: 23.87%; background-color: #012456;"></div></td> 
+        <td class="right">2.28%</td>
+        <td class="bar-graph"><div style="width: 22.85%; background-color: #012456;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Mathematica</td>
-        <td class="right">2.28%</td>
-        <td class="bar-graph"><div style="width: 23.83%; background-color: #DD1100;"></div></td> 
+        <td class="right">2.27%</td>
+        <td class="bar-graph"><div style="width: 22.81%; background-color: #DD1100;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Tcl</td>
-        <td class="right">2.09%</td>
-        <td class="bar-graph"><div style="width: 21.83%; background-color: #E4CC98;"></div></td> 
+        <td class="right">2.08%</td>
+        <td class="bar-graph"><div style="width: 20.90%; background-color: #E4CC98;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">JavaScript</td>
-        <td class="right">1.70%</td>
-        <td class="bar-graph"><div style="width: 17.76%; background-color: #F1E05A;"></div></td> 
+        <td class="right">1.69%</td>
+        <td class="bar-graph"><div style="width: 17.00%; background-color: #F1E05A;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Python</td>
         <td class="right">1.66%</td>
-        <td class="bar-graph"><div style="width: 17.37%; background-color: #3572A5;"></div></td> 
+        <td class="bar-graph"><div style="width: 16.62%; background-color: #3572A5;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Go</td>
-        <td class="right">1.65%</td>
-        <td class="bar-graph"><div style="width: 17.21%; background-color: #00ADD8;"></div></td> 
+        <td class="right">1.64%</td>
+        <td class="bar-graph"><div style="width: 16.47%; background-color: #00ADD8;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">TypeScript</td>
-        <td class="right">1.15%</td>
-        <td class="bar-graph"><div style="width: 11.97%; background-color: #3178C6;"></div></td> 
+        <td class="right">1.14%</td>
+        <td class="bar-graph"><div style="width: 11.45%; background-color: #3178C6;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Kotlin</td>
-        <td class="right">1.07%</td>
-        <td class="bar-graph"><div style="width: 11.14%; background-color: #A97BFF;"></div></td> 
+        <td class="right">1.06%</td>
+        <td class="bar-graph"><div style="width: 10.66%; background-color: #A97BFF;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Objective-C</td>
         <td class="right">0.93%</td>
-        <td class="bar-graph"><div style="width: 9.70%; background-color: #438EFF;"></div></td> 
+        <td class="bar-graph"><div style="width: 9.28%; background-color: #438EFF;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Haskell</td>
-        <td class="right">0.88%</td>
-        <td class="bar-graph"><div style="width: 9.16%; background-color: #5E5086;"></div></td> 
+        <td class="right">0.87%</td>
+        <td class="bar-graph"><div style="width: 8.77%; background-color: #5E5086;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Fortran</td>
         <td class="right">0.73%</td>
-        <td class="bar-graph"><div style="width: 7.66%; background-color: #4D41B1;"></div></td> 
+        <td class="bar-graph"><div style="width: 7.33%; background-color: #4D41B1;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Ruby</td>
         <td class="right">0.73%</td>
-        <td class="bar-graph"><div style="width: 7.63%; background-color: #701516;"></div></td> 
+        <td class="bar-graph"><div style="width: 7.31%; background-color: #701516;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Perl</td>
         <td class="right">0.71%</td>
-        <td class="bar-graph"><div style="width: 7.45%; background-color: #0298C3;"></div></td> 
+        <td class="bar-graph"><div style="width: 7.13%; background-color: #0298C3;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">GNU Make</td>
         <td class="right">0.69%</td>
-        <td class="bar-graph"><div style="width: 7.22%; background-color: #427819;"></div></td> 
+        <td class="bar-graph"><div style="width: 6.91%; background-color: #427819;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Brainfuck</td>
         <td class="right">0.64%</td>
-        <td class="bar-graph"><div style="width: 6.67%; background-color: #2F2530;"></div></td> 
+        <td class="bar-graph"><div style="width: 6.39%; background-color: #2F2530;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Swift</td>
         <td class="right">0.62%</td>
-        <td class="bar-graph"><div style="width: 6.50%; background-color: #F05138;"></div></td> 
+        <td class="bar-graph"><div style="width: 6.22%; background-color: #F05138;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Bash</td>
-        <td class="right">0.59%</td>
-        <td class="bar-graph"><div style="width: 6.11%; background-color: #89E051;"></div></td> 
+        <td class="right">0.58%</td>
+        <td class="bar-graph"><div style="width: 5.85%; background-color: #89E051;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Dart</td>
         <td class="right">0.56%</td>
-        <td class="bar-graph"><div style="width: 5.89%; background-color: #00B4AB;"></div></td> 
+        <td class="bar-graph"><div style="width: 5.64%; background-color: #00B4AB;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Unicat</td>
-        <td class="right">0.51%</td>
-        <td class="bar-graph"><div style="width: 5.27%; background-color: #FFDE34;"></div></td> 
+        <td class="right">0.50%</td>
+        <td class="bar-graph"><div style="width: 5.05%; background-color: #FFDE34;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Octave</td>
         <td class="right">0.50%</td>
-        <td class="bar-graph"><div style="width: 5.26%; background-color: #E16737;"></div></td> 
+        <td class="bar-graph"><div style="width: 5.04%; background-color: #E16737;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Lua</td>
         <td class="right">0.49%</td>
-        <td class="bar-graph"><div style="width: 5.11%; background-color: #000080;"></div></td> 
+        <td class="bar-graph"><div style="width: 4.90%; background-color: #000080;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Scala</td>
-        <td class="right">0.39%</td>
-        <td class="bar-graph"><div style="width: 4.03%; background-color: #C22D40;"></div></td> 
+        <td class="right">0.38%</td>
+        <td class="bar-graph"><div style="width: 3.86%; background-color: #C22D40;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Elixir</td>
         <td class="right">0.32%</td>
-        <td class="bar-graph"><div style="width: 3.37%; background-color: #6E4A7E;"></div></td> 
+        <td class="bar-graph"><div style="width: 3.23%; background-color: #6E4A7E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Visual Basic</td>
         <td class="right">0.31%</td>
-        <td class="bar-graph"><div style="width: 3.27%; background-color: #945DB7;"></div></td> 
+        <td class="bar-graph"><div style="width: 3.13%; background-color: #945DB7;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Julia</td>
         <td class="right">0.31%</td>
-        <td class="bar-graph"><div style="width: 3.26%; background-color: #A270BA;"></div></td> 
+        <td class="bar-graph"><div style="width: 3.12%; background-color: #A270BA;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Erlang</td>
         <td class="right">0.31%</td>
-        <td class="bar-graph"><div style="width: 3.24%; background-color: #B83998;"></div></td> 
+        <td class="bar-graph"><div style="width: 3.11%; background-color: #B83998;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">TI-BASIC</td>
         <td class="right">0.30%</td>
-        <td class="bar-graph"><div style="width: 3.13%; background-color: #A0AA87;"></div></td> 
+        <td class="bar-graph"><div style="width: 3.00%; background-color: #A0AA87;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Lisp</td>
         <td class="right">0.29%</td>
-        <td class="bar-graph"><div style="width: 3.01%; background-color: #3FB68B;"></div></td> 
+        <td class="bar-graph"><div style="width: 2.88%; background-color: #3FB68B;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Odin</td>
         <td class="right">0.24%</td>
-        <td class="bar-graph"><div style="width: 2.54%; background-color: #60AFFE;"></div></td> 
+        <td class="bar-graph"><div style="width: 2.43%; background-color: #60AFFE;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Groovy</td>
         <td class="right">0.22%</td>
-        <td class="bar-graph"><div style="width: 2.30%; background-color: #4298B8;"></div></td> 
+        <td class="bar-graph"><div style="width: 2.20%; background-color: #4298B8;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Fetlang</td>
         <td class="right">0.21%</td>
-        <td class="bar-graph"><div style="width: 2.22%; background-color: #FF4997;"></div></td> 
+        <td class="bar-graph"><div style="width: 2.13%; background-color: #FF4997;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">R</td>
         <td class="right">0.20%</td>
-        <td class="bar-graph"><div style="width: 2.14%; background-color: #198CE7;"></div></td> 
+        <td class="bar-graph"><div style="width: 2.05%; background-color: #198CE7;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Elvish</td>
         <td class="right">0.19%</td>
-        <td class="bar-graph"><div style="width: 1.99%; background-color: #55BB55;"></div></td> 
+        <td class="bar-graph"><div style="width: 1.90%; background-color: #55BB55;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Wren</td>
         <td class="right">0.19%</td>
-        <td class="bar-graph"><div style="width: 1.96%; background-color: #383838;"></div></td> 
+        <td class="bar-graph"><div style="width: 1.88%; background-color: #383838;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">TeX</td>
         <td class="right">0.16%</td>
-        <td class="bar-graph"><div style="width: 1.70%; background-color: #3D6117;"></div></td> 
+        <td class="bar-graph"><div style="width: 1.63%; background-color: #3D6117;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Clojure</td>
         <td class="right">0.14%</td>
-        <td class="bar-graph"><div style="width: 1.46%; background-color: #DB5855;"></div></td> 
+        <td class="bar-graph"><div style="width: 1.40%; background-color: #DB5855;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Haxe</td>
         <td class="right">0.13%</td>
-        <td class="bar-graph"><div style="width: 1.40%; background-color: #DF7900;"></div></td> 
+        <td class="bar-graph"><div style="width: 1.34%; background-color: #DF7900;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Zig</td>
         <td class="right">0.13%</td>
-        <td class="bar-graph"><div style="width: 1.38%; background-color: #EC915C;"></div></td> 
+        <td class="bar-graph"><div style="width: 1.32%; background-color: #EC915C;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">CoffeeScript</td>
         <td class="right">0.13%</td>
-        <td class="bar-graph"><div style="width: 1.37%; background-color: #244776;"></div></td> 
+        <td class="bar-graph"><div style="width: 1.31%; background-color: #244776;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Whitespace</td>
         <td class="right">0.11%</td>
-        <td class="bar-graph"><div style="width: 1.12%; background-color: #FFFFFF;"></div></td> 
+        <td class="bar-graph"><div style="width: 1.07%; background-color: #FFFFFF;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Nim</td>
         <td class="right">0.11%</td>
-        <td class="bar-graph"><div style="width: 1.10%; background-color: #FFC200;"></div></td> 
+        <td class="bar-graph"><div style="width: 1.06%; background-color: #FFC200;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">V</td>
         <td class="right">0.10%</td>
-        <td class="bar-graph"><div style="width: 1.05%; background-color: #4F87C4;"></div></td> 
+        <td class="bar-graph"><div style="width: 1.01%; background-color: #4F87C4;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">LOLCODE</td>
         <td class="right">0.08%</td>
-        <td class="bar-graph"><div style="width: 0.85%; background-color: #CC9900;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.81%; background-color: #CC9900;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Rexx</td>
         <td class="right">0.08%</td>
-        <td class="bar-graph"><div style="width: 0.84%; background-color: #D90E09;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.81%; background-color: #D90E09;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Mirth</td>
         <td class="right">0.08%</td>
-        <td class="bar-graph"><div style="width: 0.81%; background-color: #2AAB35;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.78%; background-color: #2AAB35;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Red</td>
         <td class="right">0.08%</td>
-        <td class="bar-graph"><div style="width: 0.79%; background-color: #F50000;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.75%; background-color: #F50000;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Agda</td>
         <td class="right">0.07%</td>
-        <td class="bar-graph"><div style="width: 0.75%; background-color: #315665;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.72%; background-color: #315665;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">MoonScript</td>
         <td class="right">0.07%</td>
-        <td class="bar-graph"><div style="width: 0.72%; background-color: #FF4585;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.69%; background-color: #FF4585;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">D</td>
         <td class="right">0.07%</td>
-        <td class="bar-graph"><div style="width: 0.69%; background-color: #BA595E;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.66%; background-color: #BA595E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Eiffel</td>
         <td class="right">0.07%</td>
-        <td class="bar-graph"><div style="width: 0.68%; background-color: #4D6977;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.65%; background-color: #4D6977;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">BAIK</td>
         <td class="right">0.06%</td>
-        <td class="bar-graph"><div style="width: 0.67%; background-color: #4CAF50;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.64%; background-color: #4CAF50;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Racket</td>
         <td class="right">0.06%</td>
-        <td class="bar-graph"><div style="width: 0.66%; background-color: #3C5CAA;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.63%; background-color: #3C5CAA;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Ada</td>
         <td class="right">0.06%</td>
-        <td class="bar-graph"><div style="width: 0.63%; background-color: #02F88C;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.61%; background-color: #02F88C;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Cython</td>
         <td class="right">0.06%</td>
-        <td class="bar-graph"><div style="width: 0.63%; background-color: #FEDF5B;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.61%; background-color: #FEDF5B;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Dg</td>
         <td class="right">0.06%</td>
-        <td class="bar-graph"><div style="width: 0.61%; background-color: #7F2B0A;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.58%; background-color: #7F2B0A;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Pyret</td>
         <td class="right">0.05%</td>
-        <td class="bar-graph"><div style="width: 0.54%; background-color: #EE1E10;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.52%; background-color: #EE1E10;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Batch</td>
         <td class="right">0.05%</td>
-        <td class="bar-graph"><div style="width: 0.53%; background-color: #C1F12E;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.51%; background-color: #C1F12E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Solidity</td>
         <td class="right">0.05%</td>
-        <td class="bar-graph"><div style="width: 0.51%; background-color: #AA6746;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.49%; background-color: #AA6746;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Emojicode</td>
         <td class="right">0.05%</td>
-        <td class="bar-graph"><div style="width: 0.51%; background-color: #8D74E7;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.49%; background-color: #8D74E7;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Crystal</td>
         <td class="right">0.05%</td>
-        <td class="bar-graph"><div style="width: 0.50%; background-color: #000100;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.48%; background-color: #000100;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Malbolge</td>
         <td class="right">0.05%</td>
-        <td class="bar-graph"><div style="width: 0.49%; background-color: #DB0000;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.47%; background-color: #DB0000;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Factor</td>
         <td class="right">0.05%</td>
-        <td class="bar-graph"><div style="width: 0.49%; background-color: #636746;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.47%; background-color: #636746;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Piet</td>
         <td class="right">0.05%</td>
-        <td class="bar-graph"><div style="width: 0.49%; background-color: #FF00FF;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.47%; background-color: #FF00FF;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Prolog</td>
         <td class="right">0.05%</td>
-        <td class="bar-graph"><div style="width: 0.48%; background-color: #74283C;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.46%; background-color: #74283C;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Pony</td>
         <td class="right">0.04%</td>
-        <td class="bar-graph"><div style="width: 0.47%; background-color: #CCCCCC;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.45%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Boo</td>
         <td class="right">0.04%</td>
-        <td class="bar-graph"><div style="width: 0.46%; background-color: #D4BEC1;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.44%; background-color: #D4BEC1;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Forth</td>
         <td class="right">0.04%</td>
-        <td class="bar-graph"><div style="width: 0.46%; background-color: #341708;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.44%; background-color: #341708;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Verve</td>
         <td class="right">0.04%</td>
-        <td class="bar-graph"><div style="width: 0.45%; background-color: #6454AD;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.43%; background-color: #6454AD;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">PureScript</td>
         <td class="right">0.04%</td>
-        <td class="bar-graph"><div style="width: 0.43%; background-color: #1D222D;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.41%; background-color: #1D222D;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Granule</td>
         <td class="right">0.04%</td>
-        <td class="bar-graph"><div style="width: 0.43%; background-color: #3F6EE1;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.41%; background-color: #3F6EE1;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Smalltalk</td>
         <td class="right">0.04%</td>
-        <td class="bar-graph"><div style="width: 0.43%; background-color: #596706;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.41%; background-color: #596706;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Dale</td>
         <td class="right">0.04%</td>
-        <td class="bar-graph"><div style="width: 0.42%; background-color: #8A9A5B;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.40%; background-color: #8A9A5B;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Vimscript</td>
         <td class="right">0.04%</td>
-        <td class="bar-graph"><div style="width: 0.42%; background-color: #199F4B;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.40%; background-color: #199F4B;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Pineapple</td>
         <td class="right">0.04%</td>
-        <td class="bar-graph"><div style="width: 0.41%; background-color: #FF7043;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.39%; background-color: #FF7043;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Never</td>
         <td class="right">0.04%</td>
-        <td class="bar-graph"><div style="width: 0.41%; background-color: #00173B;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.39%; background-color: #00173B;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">ArkScript</td>
         <td class="right">0.04%</td>
-        <td class="bar-graph"><div style="width: 0.41%; background-color: #00AAD4;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.39%; background-color: #00AAD4;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Cyclone</td>
         <td class="right">0.04%</td>
-        <td class="bar-graph"><div style="width: 0.40%; background-color: #00ACFF;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.39%; background-color: #00ACFF;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">C2</td>
         <td class="right">0.04%</td>
-        <td class="bar-graph"><div style="width: 0.39%; background-color: #2750BF;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.37%; background-color: #2750BF;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">MojiScript</td>
         <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.36%; background-color: #F0DB4F;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.34%; background-color: #F0DB4F;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Modula-2</td>
         <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.35%; background-color: #10253F;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.34%; background-color: #10253F;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Ballerina</td>
         <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.35%; background-color: #FF5000;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.33%; background-color: #FF5000;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Gluon</td>
         <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.33%; background-color: #007BFF;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.32%; background-color: #007BFF;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Opa</td>
         <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.32%; background-color: #CCCCCC;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.31%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Wyvern</td>
         <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.31%; background-color: #932216;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.30%; background-color: #932216;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">OCaml</td>
         <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.31%; background-color: #EF7A08;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.30%; background-color: #EF7A08;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Verilog</td>
         <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.31%; background-color: #B2B7F8;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.29%; background-color: #B2B7F8;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Wu</td>
         <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.30%; background-color: #CE0BF6;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.29%; background-color: #CE0BF6;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">F*</td>
         <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.30%; background-color: #572E30;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.29%; background-color: #572E30;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Gravity</td>
         <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.30%; background-color: #1291EB;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.29%; background-color: #1291EB;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Ferret</td>
         <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.30%; background-color: #F37B21;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.29%; background-color: #F37B21;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Scheme</td>
         <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.29%; background-color: #1E4AEC;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.28%; background-color: #1E4AEC;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Pinecone</td>
         <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.29%; background-color: #01DBAC;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.28%; background-color: #01DBAC;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Befunge</td>
         <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.29%; background-color: #CCCCCC;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.28%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Hobbes</td>
         <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.28%; background-color: #002B51;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.27%; background-color: #002B51;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Kitten</td>
         <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.28%; background-color: #8C4CA9;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.27%; background-color: #8C4CA9;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Lucee</td>
         <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.27%; background-color: #234F7F;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.26%; background-color: #234F7F;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Formality</td>
         <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.27%; background-color: #003F63;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.26%; background-color: #003F63;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Sather</td>
         <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.27%; background-color: #EEEEEE;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.26%; background-color: #EEEEEE;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">C*</td>
         <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.27%; background-color: #6725A3;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.25%; background-color: #6725A3;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Grain</td>
         <td class="right">0.03%</td>
-        <td class="bar-graph"><div style="width: 0.26%; background-color: #FF850E;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.25%; background-color: #FF850E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Frege</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.26%; background-color: #00CAFE;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.24%; background-color: #00CAFE;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Discus</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.25%; background-color: #62C1C5;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.24%; background-color: #62C1C5;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Bracmat</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.25%; background-color: #A22A2A;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.24%; background-color: #A22A2A;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Lobster</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.24%; background-color: #E54728;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.23%; background-color: #E54728;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Eta</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.24%; background-color: #2AC9CE;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.23%; background-color: #2AC9CE;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Egison</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.24%; background-color: #0F2350;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.23%; background-color: #0F2350;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Shen</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.24%; background-color: #120F14;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.23%; background-color: #120F14;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Owl Lisp</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.24%; background-color: #446655;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.23%; background-color: #446655;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Goby</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.23%; background-color: #EC573D;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.22%; background-color: #EC573D;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Elena</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.23%; background-color: #AD9274;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.22%; background-color: #AD9274;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Idris</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.23%; background-color: #B30000;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.22%; background-color: #B30000;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Lily</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.23%; background-color: #DCA6C8;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.22%; background-color: #DCA6C8;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Io</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.23%; background-color: #A9188D;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.22%; background-color: #A9188D;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Orc</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.23%; background-color: #4E9C3C;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.22%; background-color: #4E9C3C;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Yoix</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.22%; background-color: #32A4DD;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.21%; background-color: #32A4DD;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Gerbil</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.22%; background-color: #E9C6AF;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.21%; background-color: #E9C6AF;"></div></td> 
     </tr>
 
     <tr>
@@ -823,67 +823,67 @@ Here are the percentages for each language in the collection:
     <tr>
         <td class="right nowrap">Koka</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.21%; background-color: #215166;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.20%; background-color: #215166;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Little</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.21%; background-color: #337AB7;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.20%; background-color: #337AB7;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Terra</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.21%; background-color: #00004C;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.20%; background-color: #00004C;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Fennel</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.20%; background-color: #FFF3D7;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.19%; background-color: #FFF3D7;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Nit</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.20%; background-color: #009917;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.19%; background-color: #009917;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Spry</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.20%; background-color: #4451B5;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.19%; background-color: #4451B5;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Chapel</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.20%; background-color: #8DC63F;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.19%; background-color: #8DC63F;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">PicoLisp</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.20%; background-color: #6067AF;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.19%; background-color: #6067AF;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">ChaiScript</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.19%; background-color: #CE6B06;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.18%; background-color: #CE6B06;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Raku</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.19%; background-color: #0000FB;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.18%; background-color: #0000FB;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Solisp</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.19%; background-color: #027806;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.18%; background-color: #027806;"></div></td> 
     </tr>
 
     <tr>
@@ -895,13 +895,13 @@ Here are the percentages for each language in the collection:
     <tr>
         <td class="right nowrap">Hack</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.18%; background-color: #878787;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.17%; background-color: #878787;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Flix</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.18%; background-color: #CF4647;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.17%; background-color: #CF4647;"></div></td> 
     </tr>
 
     <tr>
@@ -913,7 +913,7 @@ Here are the percentages for each language in the collection:
     <tr>
         <td class="right nowrap">Dusk</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.17%; background-color: #1A2E4F;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.16%; background-color: #1A2E4F;"></div></td> 
     </tr>
 
     <tr>
@@ -925,19 +925,19 @@ Here are the percentages for each language in the collection:
     <tr>
         <td class="right nowrap">Golo</td>
         <td class="right">0.02%</td>
-        <td class="bar-graph"><div style="width: 0.16%; background-color: #88562A;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.15%; background-color: #88562A;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Carp</td>
         <td class="right">0.01%</td>
-        <td class="bar-graph"><div style="width: 0.15%; background-color: #E2371B;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.14%; background-color: #E2371B;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Scilab</td>
         <td class="right">0.01%</td>
-        <td class="bar-graph"><div style="width: 0.15%; background-color: #CA0F21;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.14%; background-color: #CA0F21;"></div></td> 
     </tr>
 
     <tr>
@@ -955,7 +955,7 @@ Here are the percentages for each language in the collection:
     <tr>
         <td class="right nowrap">Phix</td>
         <td class="right">0.01%</td>
-        <td class="bar-graph"><div style="width: 0.07%; background-color: #A2B1C8;"></div></td> 
+        <td class="bar-graph"><div style="width: 0.06%; background-color: #A2B1C8;"></div></td> 
     </tr>
 
     <tr>
@@ -1004,11 +1004,11 @@ To return here, just click the &laquo; [Return to Top](#language-collections-by-
 
 ### A
 
-The 'A' collection contains 6 languages, of which 6 are tested, and 122 code snippets.
+The 'A' collection contains 6 languages, of which 6 are tested, and 123 code snippets.
 
 - [Ada](https://sampleprograms.io/languages/ada) (3 code snippets)
 - [Agda](https://sampleprograms.io/languages/agda) (2 code snippets)
-- [ALGOL 60](https://sampleprograms.io/languages/algol60) (36 code snippets)
+- [ALGOL 60](https://sampleprograms.io/languages/algol60) (37 code snippets)
 - [ALGOL 68](https://sampleprograms.io/languages/algol68) (39 code snippets)
 - [ArkScript](https://sampleprograms.io/languages/arkscript) (3 code snippets)
 - [AWK](https://sampleprograms.io/languages/awk) (39 code snippets)
