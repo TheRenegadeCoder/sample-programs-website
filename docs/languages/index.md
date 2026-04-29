@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2026-04-24
+last-modified: 2026-04-29
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1500 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1501 code snippets.
 
 ## Language Breakdown
 
@@ -42,13 +42,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">m4</td>
-        <td class="right">4.79%</td>
+        <td class="right">4.78%</td>
         <td class="bar-graph"><div style="width: 48.00%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Beef</td>
-        <td class="right">4.70%</td>
+        <td class="right">4.69%</td>
         <td class="bar-graph"><div style="width: 47.10%; background-color: #A52F4E;"></div></td> 
     </tr>
 
@@ -108,7 +108,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">AWK</td>
-        <td class="right">2.79%</td>
+        <td class="right">2.78%</td>
         <td class="bar-graph"><div style="width: 27.94%; background-color: #C30E9B;"></div></td> 
     </tr>
 
@@ -174,8 +174,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Haskell</td>
-        <td class="right">0.87%</td>
-        <td class="bar-graph"><div style="width: 8.77%; background-color: #5E5086;"></div></td> 
+        <td class="right">0.90%</td>
+        <td class="bar-graph"><div style="width: 9.03%; background-color: #5E5086;"></div></td> 
     </tr>
 
     <tr>
@@ -1121,10 +1121,10 @@ The 'G' collection contains 11 languages, of which 11 are tested, and 72 code sn
 
 ### H
 
-The 'H' collection contains 4 languages, of which 4 are tested, and 28 code snippets.
+The 'H' collection contains 4 languages, of which 4 are tested, and 29 code snippets.
 
 - [Hack](https://sampleprograms.io/languages/hack) (2 code snippets)
-- [Haskell](https://sampleprograms.io/languages/haskell) (20 code snippets)
+- [Haskell](https://sampleprograms.io/languages/haskell) (21 code snippets)
 - [Haxe](https://sampleprograms.io/languages/haxe) (4 code snippets)
 - [Hobbes](https://sampleprograms.io/languages/hobbes) (2 code snippets)
 

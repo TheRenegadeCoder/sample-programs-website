@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-08
 featured-image: programming-languages.jpg
-last-modified: 2023-05-15
+last-modified: 2026-04-29
 layout: default
 tags:
 - haskell
@@ -55,7 +55,7 @@ At any rate, I think that's plenty of background for now.
 
 ## Articles
 
-There are 20 articles:
+There are 21 articles:
 
 - [Baklava in Haskell](https://sampleprograms.io/projects/baklava/haskell)
 - [Bubble Sort in Haskell](https://sampleprograms.io/projects/bubble-sort/haskell)
@@ -73,6 +73,7 @@ There are 20 articles:
 - [Prime Number in Haskell](https://sampleprograms.io/projects/prime-number/haskell)
 - [Quick Sort in Haskell](https://sampleprograms.io/projects/quick-sort/haskell)
 - [Quine in Haskell](https://sampleprograms.io/projects/quine/haskell)
+- [Remove All Whitespace in Haskell](https://sampleprograms.io/projects/remove-all-whitespace/haskell)
 - [Reverse String in Haskell](https://sampleprograms.io/projects/reverse-string/haskell)
 - [Roman Numeral in Haskell](https://sampleprograms.io/projects/roman-numeral/haskell)
 - [Rot13 in Haskell](https://sampleprograms.io/projects/rot13/haskell)
