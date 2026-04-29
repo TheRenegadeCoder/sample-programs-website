@@ -1,7 +1,7 @@
 ---
 date: 2019-10-17
 featured-image: linear-search-in-every-language.jpg
-last-modified: 2026-04-19
+last-modified: 2026-04-29
 layout: default
 tags:
 - linear-search
@@ -127,7 +127,7 @@ Usage: please provide a list of integers ("1, 4, 5, 11, 12") and the integer to 
 
 ## Articles
 
-There are 30 articles:
+There are 31 articles:
 
 - [Linear Search in ALGOL 60](https://sampleprograms.io/projects/linear-search/algol60)
 - [Linear Search in ALGOL 68](https://sampleprograms.io/projects/linear-search/algol68)
@@ -143,6 +143,7 @@ There are 30 articles:
 - [Linear Search in F#](https://sampleprograms.io/projects/linear-search/f-sharp)
 - [Linear Search in Fortran](https://sampleprograms.io/projects/linear-search/fortran)
 - [Linear Search in Go](https://sampleprograms.io/projects/linear-search/go)
+- [Linear Search in Haskell](https://sampleprograms.io/projects/linear-search/haskell)
 - [Linear Search in Java](https://sampleprograms.io/projects/linear-search/java)
 - [Linear Search in JavaScript](https://sampleprograms.io/projects/linear-search/javascript)
 - [Linear Search in Kotlin](https://sampleprograms.io/projects/linear-search/kotlin)

@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1502 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1503 code snippets.
 
 ## Language Breakdown
 
@@ -78,7 +78,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Java</td>
-        <td class="right">3.14%</td>
+        <td class="right">3.13%</td>
         <td class="bar-graph"><div style="width: 31.47%; background-color: #B07219;"></div></td> 
     </tr>
 
@@ -168,8 +168,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Haskell</td>
-        <td class="right">0.93%</td>
-        <td class="bar-graph"><div style="width: 9.33%; background-color: #5E5086;"></div></td> 
+        <td class="right">0.97%</td>
+        <td class="bar-graph"><div style="width: 9.76%; background-color: #5E5086;"></div></td> 
     </tr>
 
     <tr>
@@ -390,7 +390,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Red</td>
-        <td class="right">0.08%</td>
+        <td class="right">0.07%</td>
         <td class="bar-graph"><div style="width: 0.75%; background-color: #F50000;"></div></td> 
     </tr>
 
@@ -1121,10 +1121,10 @@ The 'G' collection contains 11 languages, of which 11 are tested, and 72 code sn
 
 ### H
 
-The 'H' collection contains 4 languages, of which 4 are tested, and 30 code snippets.
+The 'H' collection contains 4 languages, of which 4 are tested, and 31 code snippets.
 
 - [Hack](https://sampleprograms.io/languages/hack) (2 code snippets)
-- [Haskell](https://sampleprograms.io/languages/haskell) (22 code snippets)
+- [Haskell](https://sampleprograms.io/languages/haskell) (23 code snippets)
 - [Haxe](https://sampleprograms.io/languages/haxe) (4 code snippets)
 - [Hobbes](https://sampleprograms.io/languages/hobbes) (2 code snippets)
 
