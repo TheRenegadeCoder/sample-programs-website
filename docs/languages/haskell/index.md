@@ -55,7 +55,7 @@ At any rate, I think that's plenty of background for now.
 
 ## Articles
 
-There are 24 articles:
+There are 25 articles:
 
 - [Baklava in Haskell](https://sampleprograms.io/projects/baklava/haskell)
 - [Bubble Sort in Haskell](https://sampleprograms.io/projects/bubble-sort/haskell)
@@ -72,6 +72,7 @@ There are 24 articles:
 - [Longest Common Subsequence in Haskell](https://sampleprograms.io/projects/longest-common-subsequence/haskell)
 - [Longest Word in Haskell](https://sampleprograms.io/projects/longest-word/haskell)
 - [Maximum Array Rotation in Haskell](https://sampleprograms.io/projects/maximum-array-rotation/haskell)
+- [Maximum Subarray in Haskell](https://sampleprograms.io/projects/maximum-subarray/haskell)
 - [Merge Sort in Haskell](https://sampleprograms.io/projects/merge-sort/haskell)
 - [Prime Number in Haskell](https://sampleprograms.io/projects/prime-number/haskell)
 - [Quick Sort in Haskell](https://sampleprograms.io/projects/quick-sort/haskell)

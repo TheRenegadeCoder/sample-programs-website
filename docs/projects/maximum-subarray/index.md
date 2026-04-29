@@ -1,7 +1,7 @@
 ---
 date: 2020-10-14
 featured-image: maximum-subarray-in-every-language.jpg
-last-modified: 2026-04-18
+last-modified: 2026-04-29
 layout: default
 tags:
 - maximum-subarray
@@ -86,7 +86,7 @@ Usage: Please provide a list of integers in the format: "1, 2, 3, 4, 5"
 
 ## Articles
 
-There are 22 articles:
+There are 23 articles:
 
 - [Maximum Subarray in ALGOL 60](https://sampleprograms.io/projects/maximum-subarray/algol60)
 - [Maximum Subarray in ALGOL 68](https://sampleprograms.io/projects/maximum-subarray/algol68)
@@ -99,6 +99,7 @@ There are 22 articles:
 - [Maximum Subarray in Euphoria](https://sampleprograms.io/projects/maximum-subarray/euphoria)
 - [Maximum Subarray in F#](https://sampleprograms.io/projects/maximum-subarray/f-sharp)
 - [Maximum Subarray in Go](https://sampleprograms.io/projects/maximum-subarray/go)
+- [Maximum Subarray in Haskell](https://sampleprograms.io/projects/maximum-subarray/haskell)
 - [Maximum Subarray in Java](https://sampleprograms.io/projects/maximum-subarray/java)
 - [Maximum Subarray in JavaScript](https://sampleprograms.io/projects/maximum-subarray/javascript)
 - [Maximum Subarray in Mathematica](https://sampleprograms.io/projects/maximum-subarray/mathematica)
