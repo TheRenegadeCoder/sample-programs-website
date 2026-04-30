@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1508 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1510 code snippets.
 
 ## Language Breakdown
 
@@ -18,25 +18,25 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 60</td>
-        <td class="right">9.94%</td>
+        <td class="right">9.93%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">ALGOL 68</td>
-        <td class="right">5.61%</td>
+        <td class="right">5.60%</td>
         <td class="bar-graph"><div style="width: 56.42%; background-color: #AF425E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Commodore BASIC</td>
-        <td class="right">5.51%</td>
+        <td class="right">5.50%</td>
         <td class="bar-graph"><div style="width: 55.41%; background-color: #4F44D8;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Euphoria</td>
-        <td class="right">4.88%</td>
+        <td class="right">4.87%</td>
         <td class="bar-graph"><div style="width: 49.06%; background-color: #FF790B;"></div></td> 
     </tr>
 
@@ -60,7 +60,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C</td>
-        <td class="right">3.53%</td>
+        <td class="right">3.52%</td>
         <td class="bar-graph"><div style="width: 35.47%; background-color: #555555;"></div></td> 
     </tr>
 
@@ -120,8 +120,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Mathematica</td>
-        <td class="right">2.34%</td>
-        <td class="bar-graph"><div style="width: 23.54%; background-color: #DD1100;"></div></td> 
+        <td class="right">2.41%</td>
+        <td class="bar-graph"><div style="width: 24.26%; background-color: #DD1100;"></div></td> 
     </tr>
 
     <tr>
@@ -204,7 +204,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Brainfuck</td>
-        <td class="right">0.64%</td>
+        <td class="right">0.63%</td>
         <td class="bar-graph"><div style="width: 6.39%; background-color: #2F2530;"></div></td> 
     </tr>
 
@@ -414,7 +414,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Eiffel</td>
-        <td class="right">0.07%</td>
+        <td class="right">0.06%</td>
         <td class="bar-graph"><div style="width: 0.65%; background-color: #4D6977;"></div></td> 
     </tr>
 
@@ -1178,11 +1178,11 @@ The 'L' collection contains 9 languages, of which 9 are tested, and 43 code snip
 
 ### M
 
-The 'M' collection contains 7 languages, of which 6 are tested, 1 is untestable, and 86 code snippets.
+The 'M' collection contains 7 languages, of which 6 are tested, 1 is untestable, and 88 code snippets.
 
 - [m4](https://sampleprograms.io/languages/m4) (36 code snippets)
 - [Malbolge](https://sampleprograms.io/languages/malbolge) (2 code snippets)
-- [Mathematica](https://sampleprograms.io/languages/mathematica) (37 code snippets, [untestabled](https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/m/mathematica/untestable.yml))
+- [Mathematica](https://sampleprograms.io/languages/mathematica) (39 code snippets, [untestabled](https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/m/mathematica/untestable.yml))
 - [Mirth](https://sampleprograms.io/languages/mirth) (2 code snippets)
 - [Modula-2](https://sampleprograms.io/languages/modula2) (2 code snippets)
 - [MojiScript](https://sampleprograms.io/languages/mojiscript) (2 code snippets)

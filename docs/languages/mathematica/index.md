@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 37 articles:
+There are 39 articles:
 
 - [Baklava in Mathematica](https://sampleprograms.io/projects/baklava/mathematica)
 - [Base64 Encode Decode in Mathematica](https://sampleprograms.io/projects/base64-encode-decode/mathematica)
@@ -64,4 +64,6 @@ There are 37 articles:
 - [Roman Numeral in Mathematica](https://sampleprograms.io/projects/roman-numeral/mathematica)
 - [Rot13 in Mathematica](https://sampleprograms.io/projects/rot13/mathematica)
 - [Selection Sort in Mathematica](https://sampleprograms.io/projects/selection-sort/mathematica)
+- [Sleep Sort in Mathematica](https://sampleprograms.io/projects/sleep-sort/mathematica)
 - [Transpose Matrix in Mathematica](https://sampleprograms.io/projects/transpose-matrix/mathematica)
+- [Zeckendorf in Mathematica](https://sampleprograms.io/projects/zeckendorf/mathematica)
