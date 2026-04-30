@@ -1,7 +1,7 @@
 ---
 date: 2021-10-08
 featured-image: programming-languages.jpg
-last-modified: 2026-04-30
+last-modified: 2026-05-01
 layout: default
 tags:
 - cobol
@@ -26,12 +26,13 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 25 articles:
+There are 26 articles:
 
 - [Baklava in COBOL](https://sampleprograms.io/projects/baklava/cobol)
 - [Binary Search in COBOL](https://sampleprograms.io/projects/binary-search/cobol)
 - [Bubble Sort in COBOL](https://sampleprograms.io/projects/bubble-sort/cobol)
 - [Capitalize in COBOL](https://sampleprograms.io/projects/capitalize/cobol)
+- [Depth First Search in COBOL](https://sampleprograms.io/projects/depth-first-search/cobol)
 - [Duplicate Character Counter in COBOL](https://sampleprograms.io/projects/duplicate-character-counter/cobol)
 - [Even Odd in COBOL](https://sampleprograms.io/projects/even-odd/cobol)
 - [Factorial in COBOL](https://sampleprograms.io/projects/factorial/cobol)
