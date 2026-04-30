@@ -2,9 +2,10 @@
 authors:
 - rzuckerm
 - Siddhant
+- "\u0218tefan-Iulian Alecu"
 date: 2020-10-01
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2023-12-16
+last-modified: 2026-04-30
 layout: default
 tags:
 - even-odd
@@ -32,49 +33,55 @@ Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Objec
 ```objective-c
 #import <Foundation/Foundation.h>
 
-// Function to convert and validate the input string
-// Source: ChatGPT
-NSInteger convertAndValidateInput(NSString *inputString) {
-    NSScanner *scanner = [NSScanner scannerWithString:inputString];
-    NSInteger integerValue = 0;
+@interface NSString (Parsing)
+@property(nonatomic, readonly, nullable) NSNumber* strictIntegerNumber;
+@end
 
-    // Check if the scanner successfully scanned an integer
-    if ([scanner scanInteger:&integerValue] && [scanner isAtEnd]) {
-        return integerValue;
-    } else {
-        // Raise an exception for invalid input
-        @throw [NSException exceptionWithName:@"InvalidInputException"
-            reason:@"Input is not a valid integer"
-            userInfo:nil];
+@implementation NSString (Parsing)
+
+- (NSNumber*)strictIntegerNumber {
+    NSString* trimmed = [self
+        stringByTrimmingCharactersInSet:NSCharacterSet
+                                            .whitespaceAndNewlineCharacterSet];
+    if (trimmed.length == 0) return nil;
+
+    NSInteger offset = 0;
+    if ([trimmed hasPrefix:@"-"] || [trimmed hasPrefix:@"+"]) {
+        offset = 1;
     }
+
+    if (trimmed.length <= offset) return nil;
+
+    NSString* core = [trimmed substringFromIndex:offset];
+    NSRange invalidRange =
+        [core rangeOfCharacterFromSet:NSCharacterSet.decimalDigitCharacterSet
+                                          .invertedSet];
+
+    if (invalidRange.location != NSNotFound) {
+        return nil;
+    }
+
+    return @(trimmed.longLongValue);
 }
 
-int main (int argc, char *argv[])
-{
-    NSAutoreleasePool * pool = [[NSAutoreleasePool alloc] init];
-    NSString *usage = @"Usage: please input a number";
+@end
 
-    if (argc < 2) {
-        printf("%s\n", [usage UTF8String]);
-    }
-    else {
-        NSString* inputStr = [NSString stringWithUTF8String:argv[1]];
-        @try {
-            int input = (int)convertAndValidateInput(inputStr);
-            int remainder = input % 2;
-            if (remainder == 0) {
-                printf("Even\n");
-            }
-            else {
-                printf("Odd\n");
-            }
+int main(int argc, const char* argv[]) {
+    @autoreleasepool {
+        if (argc < 2) {
+            puts("Usage: please input a number");
+            return 1;
         }
-        @catch (NSException *) {
-            printf("%s\n", [usage UTF8String]);
-        }
-    }
 
-    [pool drain];
+        NSNumber* number = @(argv[1]).strictIntegerNumber;
+
+        if (!number) {
+            puts("Usage: please input a number");
+            return 1;
+        }
+
+        puts(number.longLongValue % 2 == 0 ? "Even" : "Odd");
+    }
     return 0;
 }
 ```
@@ -85,6 +92,7 @@ Even Odd in [Objective-C](https://sampleprograms.io/languages/objective-c) was w
 
 - rzuckerm
 - Siddhant
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

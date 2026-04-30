@@ -1,7 +1,7 @@
 ---
 date: 2019-03-31
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2026-04-24
+last-modified: 2026-04-30
 layout: default
 tags:
 - capitalize

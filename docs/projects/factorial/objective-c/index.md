@@ -2,9 +2,10 @@
 authors:
 - niftycode
 - rzuckerm
+- "\u0218tefan-Iulian Alecu"
 date: 2020-10-01
 featured-image: factorial-in-every-language.jpg
-last-modified: 2023-12-16
+last-modified: 2026-04-30
 layout: default
 tags:
 - factorial
@@ -30,66 +31,71 @@ Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Obj
 {% raw %}
 
 ```objective-c
-//
-//  factorial.m
-//  Factorial in ObjC
-//
-
-
 #import <Foundation/Foundation.h>
 
-int fac(int n) {
-    if (n > 1) {
-        return fac(n -1) * n;
+@interface NSString (Parsing)
+@property(nonatomic, readonly, nullable) NSNumber* strictIntegerNumber;
+@end
+
+@implementation NSString (Parsing)
+
+- (NSNumber*)strictIntegerNumber {
+    NSString* trimmed = [self
+        stringByTrimmingCharactersInSet:NSCharacterSet
+                                            .whitespaceAndNewlineCharacterSet];
+    if (trimmed.length == 0) return nil;
+
+    NSInteger offset = 0;
+    if ([trimmed hasPrefix:@"-"] || [trimmed hasPrefix:@"+"]) {
+        offset = 1;
     }
-    else {
-        return 1;
+
+    if (trimmed.length <= offset) return nil;
+
+    NSString* core = [trimmed substringFromIndex:offset];
+    NSRange invalidRange =
+        [core rangeOfCharacterFromSet:NSCharacterSet.decimalDigitCharacterSet
+                                          .invertedSet];
+
+    if (invalidRange.location != NSNotFound) {
+        return nil;
     }
+
+    return @(trimmed.longLongValue);
 }
 
-// Function to convert and validate the input string
-// Source: ChatGPT
-NSInteger convertAndValidateInput(NSString *inputString) {
-    NSScanner *scanner = [NSScanner scannerWithString:inputString];
-    NSInteger integerValue = 0;
+@end
 
-    // Check if the scanner successfully scanned an integer
-    if ([scanner scanInteger:&integerValue] && [scanner isAtEnd]) {
-        return integerValue;
-    } else {
-        // Raise an exception for invalid input
-        @throw [NSException exceptionWithName:@"InvalidInputException"
-            reason:@"Input is not a valid integer"
-            userInfo:nil];
+static unsigned long long Factorial(NSUInteger n) {
+    if (n == 0 || n == 1) return 1;
+
+    unsigned long long result = 1;
+    for (NSUInteger i = 2; i <= n; i++) {
+        result *= i;
     }
+
+    return result;
 }
 
-int main(int argc, const char * argv[]) {
-    NSAutoreleasePool *pool =[[NSAutoreleasePool alloc] init];
-    NSString *usage = @"Usage: please input a non-negative integer";
-    if (argc < 2) {
-        printf("%s\n", [usage UTF8String]);
-    }
-    else {
-        NSString* inputStr = [NSString stringWithUTF8String:argv[1]];
-        @try {
-            int input = (int)convertAndValidateInput(inputStr);
-            if (input < 0) {
-                printf("%s\n", [usage UTF8String]);
-            }
-            else {
-                int result = fac(input);
-                printf("%d\n", result);
-            }
+int main(int argc, const char* argv[]) {
+    @autoreleasepool {
+        const char* usage = "Usage: please input a non-negative integer";
+        if (argc < 2) {
+            puts(usage);
+            return 1;
         }
-        @catch (NSException *) {
-            printf("%s\n", [usage UTF8String]);
+
+        NSNumber* number = @(argv[1]).strictIntegerNumber;
+
+        if (!number || number.integerValue < 0) {
+            puts(usage);
+            return 1;
         }
+
+        printf("%llu\n", Factorial(number.unsignedIntegerValue));
     }
-    [pool drain];
     return 0;
 }
-
 ```
 
 {% endraw %}
@@ -98,6 +104,7 @@ Factorial in [Objective-C](https://sampleprograms.io/languages/objective-c) was 
 
 - niftycode
 - rzuckerm
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

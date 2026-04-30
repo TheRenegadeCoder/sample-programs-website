@@ -1,10 +1,10 @@
 ---
 authors:
 - Juan D Frias
-- rzuckerm
+- "\u0218tefan-Iulian Alecu"
 date: 2019-10-16
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2023-12-16
+last-modified: 2026-04-30
 layout: default
 tags:
 - fizz-buzz
@@ -32,32 +32,23 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Obj
 ```objective-c
 #import <Foundation/Foundation.h>
 
-int main (int argc, const char *argv[]){
-    NSAutoreleasePool *pool =[[NSAutoreleasePool alloc] init];
-    NSMutableString* fizzbuzz = [[NSMutableString alloc] init];
+int main(int argc, const char* argv[]) {
+    @autoreleasepool {
+        NSMutableString* output = [NSMutableString stringWithCapacity:8];
 
-    int i;
-    for (i = 1; i <= 100; ++i) {
-        [fizzbuzz setString: @""];
+        for (NSInteger i = 1; i <= 100; i++) {
+            [output setString:@""];
 
-        if (i % 3 == 0) {
-            [fizzbuzz appendString: @"Fizz"];
-        }
+            if (i % 3 == 0) [output appendString:@"Fizz"];
+            if (i % 5 == 0) [output appendString:@"Buzz"];
 
-        if (i % 5 == 0) {
-            [fizzbuzz appendString: @"Buzz"];
-        }
-
-        if ([fizzbuzz length] != 0) {
-            printf("%s\n", [fizzbuzz UTF8String]);
-
-        } else {
-            printf("%d\n", i);
+            if (output.length > 0) {
+                printf("%s\n", output.UTF8String);
+            } else {
+                printf("%ld\n", (long)i);
+            }
         }
     }
-
-    [fizzbuzz release];
-    [pool drain];
     return 0;
 }
 
@@ -68,7 +59,7 @@ int main (int argc, const char *argv[]){
 Fizz Buzz in [Objective-C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - Juan D Frias
-- rzuckerm
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

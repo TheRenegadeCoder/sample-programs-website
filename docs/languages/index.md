@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2026-04-29
+last-modified: 2026-04-30
 layout: default
 title: Programming Languages
 ---
@@ -18,25 +18,25 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 60</td>
-        <td class="right">9.95%</td>
+        <td class="right">9.96%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">ALGOL 68</td>
-        <td class="right">5.61%</td>
+        <td class="right">5.62%</td>
         <td class="bar-graph"><div style="width: 56.42%; background-color: #AF425E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Commodore BASIC</td>
-        <td class="right">5.51%</td>
+        <td class="right">5.52%</td>
         <td class="bar-graph"><div style="width: 55.41%; background-color: #4F44D8;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Euphoria</td>
-        <td class="right">4.88%</td>
+        <td class="right">4.89%</td>
         <td class="bar-graph"><div style="width: 49.06%; background-color: #FF790B;"></div></td> 
     </tr>
 
@@ -72,7 +72,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">PHP</td>
-        <td class="right">3.21%</td>
+        <td class="right">3.22%</td>
         <td class="bar-graph"><div style="width: 32.29%; background-color: #4F5D95;"></div></td> 
     </tr>
 
@@ -90,7 +90,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C++</td>
-        <td class="right">2.97%</td>
+        <td class="right">2.98%</td>
         <td class="bar-graph"><div style="width: 29.89%; background-color: #F34B7D;"></div></td> 
     </tr>
 
@@ -114,13 +114,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">COBOL</td>
-        <td class="right">2.34%</td>
+        <td class="right">2.35%</td>
         <td class="bar-graph"><div style="width: 23.55%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">PowerShell</td>
-        <td class="right">2.27%</td>
+        <td class="right">2.28%</td>
         <td class="bar-graph"><div style="width: 22.85%; background-color: #012456;"></div></td> 
     </tr>
 
@@ -144,7 +144,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Python</td>
-        <td class="right">1.65%</td>
+        <td class="right">1.66%</td>
         <td class="bar-graph"><div style="width: 16.62%; background-color: #3572A5;"></div></td> 
     </tr>
 
@@ -174,8 +174,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Objective-C</td>
-        <td class="right">0.92%</td>
-        <td class="bar-graph"><div style="width: 9.28%; background-color: #438EFF;"></div></td> 
+        <td class="right">0.84%</td>
+        <td class="bar-graph"><div style="width: 8.39%; background-color: #438EFF;"></div></td> 
     </tr>
 
     <tr>
