@@ -1,7 +1,7 @@
 ---
 date: 2021-05-25
 featured-image: programming-languages.jpg
-last-modified: 2023-02-06
+last-modified: 2026-04-30
 layout: default
 tags:
 - mathematica
@@ -26,9 +26,10 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 36 articles:
+There are 37 articles:
 
 - [Baklava in Mathematica](https://sampleprograms.io/projects/baklava/mathematica)
+- [Base64 Encode Decode in Mathematica](https://sampleprograms.io/projects/base64-encode-decode/mathematica)
 - [Binary Search in Mathematica](https://sampleprograms.io/projects/binary-search/mathematica)
 - [Bubble Sort in Mathematica](https://sampleprograms.io/projects/bubble-sort/mathematica)
 - [Capitalize in Mathematica](https://sampleprograms.io/projects/capitalize/mathematica)
