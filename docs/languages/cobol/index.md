@@ -26,12 +26,13 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 24 articles:
+There are 25 articles:
 
 - [Baklava in COBOL](https://sampleprograms.io/projects/baklava/cobol)
 - [Binary Search in COBOL](https://sampleprograms.io/projects/binary-search/cobol)
 - [Bubble Sort in COBOL](https://sampleprograms.io/projects/bubble-sort/cobol)
 - [Capitalize in COBOL](https://sampleprograms.io/projects/capitalize/cobol)
+- [Duplicate Character Counter in COBOL](https://sampleprograms.io/projects/duplicate-character-counter/cobol)
 - [Even Odd in COBOL](https://sampleprograms.io/projects/even-odd/cobol)
 - [Factorial in COBOL](https://sampleprograms.io/projects/factorial/cobol)
 - [Fizz Buzz in COBOL](https://sampleprograms.io/projects/fizz-buzz/cobol)
