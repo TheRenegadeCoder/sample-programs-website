@@ -78,15 +78,17 @@
         text: this.img.alt || "",
       });
 
-      this.containers.forEach((container, i) => {
+      for (let i = 0; i < this.containers.length; i++) {
+        const container = this.containers[i];
         const block = layout[i];
-        if (!block) return;
+        if (!block) continue;
 
         const title = container.querySelector(".image-title");
-        if (!title) return;
+        if (!title) continue;
 
         container.style.top = `${block.top}px`;
 
+        // Batch these text/font updates
         title.style.fontSize = `${block.fontSize}px`;
         title.style.lineHeight = `${block.lineHeight}px`;
         title.style.paddingLeft = `${block.paddingX}px`;
@@ -95,12 +97,13 @@
         if (title.textContent !== block.text) {
           title.textContent = block.text;
         }
-      });
+      }
 
-      // Fade in once the first valid layout is calculated
       if (!this.initialized) {
         this.initialized = true;
-        this.containers.forEach((c) => (c.style.opacity = "1"));
+        for (let i = 0; i < this.containers.length; i++) {
+          this.containers[i].style.opacity = "1";
+        }
       }
     }
   }
@@ -127,5 +130,11 @@
     // Initial check
     if (img.complete) schedule();
     img.addEventListener("load", schedule);
+
+    if (document.fonts) {
+      document.fonts.ready.then(() => {
+        schedule();
+      });
+    }
   });
 })();
