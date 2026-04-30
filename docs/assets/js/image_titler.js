@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  const CONFIG = {
+  const CONFIG = Object.freeze({
     ORIGINAL_WIDTH: 1200,
     ORIGINAL_HEIGHT: 628,
     TOP_Y_OFFSET: 20,
@@ -9,99 +9,123 @@
     BAR_HEIGHT_RATIO: 7,
     MIN_FONT: 12,
     MAX_FONT: 99,
-  };
+    TITLES: 2,
+  });
 
-  let previousSize = { w: 0, h: 0 };
+  function splitText(text) {
+    if (!text) return [""];
+    const mid = (text.length / 2) | 0;
+    const left = text.lastIndexOf(" ", mid);
+    const right = text.indexOf(" ", mid);
 
-  // Cache title containers once
-  const titleContainers = Array.from({ length: 2 }, (_, i) =>
-    document.getElementById(`title${i + 1}`),
-  );
+    if (left === -1 && right === -1) return [text];
+    const split =
+      left === -1 ? right
+      : right === -1 ? left
+      : mid - left <= right - mid ? left
+      : right;
+    return [text.slice(0, split).trim(), text.slice(split + 1).trim()];
+  }
 
-  /**
-   * Split text around center
-   */
-  const splitAtMiddle = (text) => {
-    if (!text || !text.includes(" ")) return [text];
-
-    const mid = Math.floor(text.length / 2);
-
-    // Look for nearest space on the left and on the right of the middle
-    // and remove invalid results (-1 meaning no space found).
-    const candidates = [
-      text.lastIndexOf(" ", mid),
-      text.indexOf(" ", mid),
-    ].filter((i) => i !== -1);
-
-    // Pick the closest candidate to the center
-    const splitIndex = candidates.reduce((best, i) =>
-      Math.abs(i - mid) < Math.abs(best - mid) ? i : best,
+  function computeLayout({ width, height, text }) {
+    const lines = splitText(text);
+    const barHeight = Math.floor(height / CONFIG.BAR_HEIGHT_RATIO);
+    const fontSizeRaw = (11 * barHeight) / 12 - 1.25;
+    const fontSize = Math.max(
+      CONFIG.MIN_FONT,
+      Math.min(CONFIG.MAX_FONT, fontSizeRaw | 0),
     );
+    const xPadding = (CONFIG.X_SIDE_OFFSET * width) / CONFIG.ORIGINAL_WIDTH;
+    const yBase = (CONFIG.TOP_Y_OFFSET * height) / CONFIG.ORIGINAL_HEIGHT;
 
-    return [text.slice(0, splitIndex), text.slice(splitIndex + 1)];
-  };
+    return lines.map((line, i) => ({
+      text: line || "",
+      top: (barHeight + yBase) * i + yBase,
+      fontSize,
+      lineHeight: barHeight,
+      paddingX: xPadding,
+    }));
+  }
 
-  /**
-   * Font size directly from bar height
-   */
-  const calculateFontSize = (barH) => {
-    const size = Math.floor((11 * barH) / 12 - 1.25);
-    return Math.max(CONFIG.MIN_FONT, Math.min(CONFIG.MAX_FONT, size));
-  };
+  class TitleRenderer {
+    constructor(img) {
+      this.img = img;
+      this.containers = Array.from({ length: CONFIG.TITLES }, (_, i) =>
+        document.getElementById(`title${i + 1}`),
+      ).filter(Boolean);
 
-  /**
-   * Main render
-   */
-  const render = () => {
-    const img = document.querySelector(".featured-image img");
-    if (!img) return;
-
-    const w = img.clientWidth;
-    const h = img.clientHeight;
-
-    if (Math.abs(w - previousSize.w) < 1 && Math.abs(h - previousSize.h) < 1)
-      return;
-
-    previousSize = { w, h };
-
-    const altText = img.alt || "";
-    const lines = splitAtMiddle(altText);
-
-    const barHeight = Math.floor(h / CONFIG.BAR_HEIGHT_RATIO);
-    const fontSize = calculateFontSize(barHeight);
-
-    const xPaddding = (CONFIG.X_SIDE_OFFSET * w) / CONFIG.ORIGINAL_WIDTH;
-    const yStart = (CONFIG.TOP_Y_OFFSET * h) / CONFIG.ORIGINAL_HEIGHT;
-
-    let y = yStart;
-
-    for (let i = 0; i < lines.length; i++) {
-      const container = titleContainers[i];
-      if (!container) continue;
-
-      const title = container.querySelector(".image-title");
-
-      container.style.top = `${y}px`;
-
-      title.style.padding = `0 ${xPaddding}px`;
-      title.style.fontSize = `${fontSize}px`;
-      title.style.lineHeight = `${barHeight}px`;
-      title.textContent = lines[i];
-
-      y += barHeight + yStart;
+      this.lastW = 0;
+      this.lastH = 0;
+      this.initialized = false;
     }
-  };
+
+    render() {
+      const w = this.img.clientWidth;
+      const h = this.img.clientHeight;
+
+      if (
+        w === 0 ||
+        (Math.abs(w - this.lastW) < 1 && Math.abs(h - this.lastH) < 1)
+      )
+        return;
+
+      this.lastW = w;
+      this.lastH = h;
+
+      const layout = computeLayout({
+        width: w,
+        height: h,
+        text: this.img.alt || "",
+      });
+
+      this.containers.forEach((container, i) => {
+        const block = layout[i];
+        if (!block) return;
+
+        const title = container.querySelector(".image-title");
+        if (!title) return;
+
+        container.style.top = `${block.top}px`;
+
+        title.style.fontSize = `${block.fontSize}px`;
+        title.style.lineHeight = `${block.lineHeight}px`;
+        title.style.paddingLeft = `${block.paddingX}px`;
+        title.style.paddingRight = `${block.paddingX}px`;
+
+        if (title.textContent !== block.text) {
+          title.textContent = block.text;
+        }
+      });
+
+      // Fade in once the first valid layout is calculated
+      if (!this.initialized) {
+        this.initialized = true;
+        this.containers.forEach((c) => (c.style.opacity = "1"));
+      }
+    }
+  }
 
   document.addEventListener("DOMContentLoaded", () => {
     const img = document.querySelector(".featured-image img");
     if (!img) return;
 
-    render();
+    const renderer = new TitleRenderer(img);
+    let rafPending = false;
 
-    const observer = new ResizeObserver(() => requestAnimationFrame(render));
+    const schedule = () => {
+      if (rafPending) return;
+      rafPending = true;
+      requestAnimationFrame(() => {
+        renderer.render();
+        rafPending = false;
+      });
+    };
 
+    const observer = new ResizeObserver(schedule);
     observer.observe(img);
 
-    img.addEventListener("load", render);
+    // Initial check
+    if (img.complete) schedule();
+    img.addEventListener("load", schedule);
   });
 })();
