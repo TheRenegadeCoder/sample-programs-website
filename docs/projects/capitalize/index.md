@@ -89,7 +89,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 45 articles:
+There are 46 articles:
 
 - [Capitalize in ALGOL 60](https://sampleprograms.io/projects/capitalize/algol60)
 - [Capitalize in ALGOL 68](https://sampleprograms.io/projects/capitalize/algol68)
@@ -100,6 +100,7 @@ There are 45 articles:
 - [Capitalize in C](https://sampleprograms.io/projects/capitalize/c)
 - [Capitalize in C#](https://sampleprograms.io/projects/capitalize/c-sharp)
 - [Capitalize in C++](https://sampleprograms.io/projects/capitalize/c-plus-plus)
+- [Capitalize in COBOL](https://sampleprograms.io/projects/capitalize/cobol)
 - [Capitalize in Clojure](https://sampleprograms.io/projects/capitalize/clojure)
 - [Capitalize in CoffeeScript](https://sampleprograms.io/projects/capitalize/coffeescript)
 - [Capitalize in Commodore BASIC](https://sampleprograms.io/projects/capitalize/commodore-basic)
