@@ -26,13 +26,14 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 28 articles:
+There are 29 articles:
 
 - [Baklava in COBOL](https://sampleprograms.io/projects/baklava/cobol)
 - [Base64 Encode Decode in COBOL](https://sampleprograms.io/projects/base64-encode-decode/cobol)
 - [Binary Search in COBOL](https://sampleprograms.io/projects/binary-search/cobol)
 - [Bubble Sort in COBOL](https://sampleprograms.io/projects/bubble-sort/cobol)
 - [Capitalize in COBOL](https://sampleprograms.io/projects/capitalize/cobol)
+- [Convex Hull in COBOL](https://sampleprograms.io/projects/convex-hull/cobol)
 - [Depth First Search in COBOL](https://sampleprograms.io/projects/depth-first-search/cobol)
 - [Dijkstra in COBOL](https://sampleprograms.io/projects/dijkstra/cobol)
 - [Duplicate Character Counter in COBOL](https://sampleprograms.io/projects/duplicate-character-counter/cobol)
