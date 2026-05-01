@@ -13,65 +13,63 @@
   });
 
   /**
-   * Splits a string into two visually balanced lines.
-   * Strategy:
-   * - Find midpoint
-   * - Try nearest space to split at word boundary
-   * - Fallback to midpoint if needed
+   * Splits text into two balanced lines.
+   * Tries to split near the midpoint at a space character.
    */
   function splitText(text) {
     if (!text) return [""];
 
     const midpoint = (text.length / 2) | 0;
 
-    const leftSpace = text.lastIndexOf(" ", midpoint);
-    const rightSpace = text.indexOf(" ", midpoint);
+    const leftSpaceIndex = text.lastIndexOf(" ", midpoint);
+    const rightSpaceIndex = text.indexOf(" ", midpoint);
 
-    // If no spaces exist, don't split
-    if (leftSpace === -1 && rightSpace === -1) {
+    // If no spaces exist, we cannot split safely
+    if (leftSpaceIndex === -1 && rightSpaceIndex === -1) {
       return [text];
     }
 
+    // Choose best split position near midpoint
     let splitIndex;
-    if (leftSpace === -1) {
-      splitIndex = rightSpace;
-    } else if (rightSpace === -1) {
-      splitIndex = leftSpace;
-    }
-    // Check whether the midpoint is closer to the left side than the right side
-    else if (midpoint - leftSpace <= rightSpace - midpoint) {
-      splitIndex = leftSpace;
+
+    if (leftSpaceIndex === -1) {
+      splitIndex = rightSpaceIndex;
+    } else if (rightSpaceIndex === -1) {
+      splitIndex = leftSpaceIndex;
     } else {
-      splitIndex = rightSpace;
+      const leftDistance = midpoint - leftSpaceIndex;
+      const rightDistance = rightSpaceIndex - midpoint;
+
+      splitIndex =
+        leftDistance <= rightDistance ? leftSpaceIndex : rightSpaceIndex;
     }
 
-    return [
-      text.slice(0, splitIndex).trim(),
-      text.slice(splitIndex + 1).trim(),
-    ];
+    const firstLine = text.slice(0, splitIndex).trim();
+    const secondLine = text.slice(splitIndex + 1).trim();
+
+    return [firstLine, secondLine];
   }
 
   /**
-   * Computes layout metrics for each text line based on image size.
-   * Everything scales proportionally from original design dimensions.
+   * Converts image dimensions into scalable title layout.
    */
   function computeLayout({ width, height, text }) {
     const lines = splitText(text);
 
-    // Height of each title bar section
+    // Each title "band" height
     const barHeight = Math.floor(height / CONFIG.BAR_HEIGHT_RATIO);
 
-    // Derived font size with clamping
-    const fontSizeRaw = (11 * barHeight) / 12 - 1.25;
+    // Font scaling based on bar height
+    const rawFontSize = (11 * barHeight) / 12 - 1.25;
     const fontSize = Math.max(
       CONFIG.MIN_FONT,
-      Math.min(CONFIG.MAX_FONT, fontSizeRaw | 0),
+      Math.min(CONFIG.MAX_FONT, rawFontSize | 0),
     );
 
-    // Horizontal padding scales with image width
+    // Horizontal padding scales with width
     const paddingX = (CONFIG.X_SIDE_OFFSET * width) / CONFIG.ORIGINAL_WIDTH;
 
-    // // Vertical offset scales with image height
+    // Vertical offset scales with height
     const baseYOffset = (CONFIG.TOP_Y_OFFSET * height) / CONFIG.ORIGINAL_HEIGHT;
 
     return lines.map((line, i) => ({
@@ -94,10 +92,32 @@
     constructor(img) {
       this.img = img;
 
-      // Grab title containers (title1, title2, ...)
-      this.containers = Array.from({ length: CONFIG.TITLES }, (_, i) =>
-        document.getElementById(`title${i + 1}`),
-      ).filter(Boolean);
+      /**
+       * Cache DOM references once.
+       * Each item holds:
+       * - container element
+       * - title element
+       * - last applied state (to avoid redundant DOM writes)
+       */
+      this.items = Array.from({ length: CONFIG.TITLES }, (_, i) => {
+        const container = document.getElementById(`title${i + 1}`);
+        if (!container) return null;
+
+        const title = container.querySelector(".image-title");
+        if (!title) return null;
+
+        return {
+          container,
+          title,
+          last: {
+            top: null,
+            fontSize: null,
+            lineHeight: null,
+            paddingX: null,
+            text: null,
+          },
+        };
+      }).filter(Boolean);
 
       this.lastWidth = 0;
       this.lastHeight = 0;
@@ -105,72 +125,83 @@
     }
 
     /**
-     * Recalculate layout only when image size changes.
-     * Updates DOM efficiently.
+     * Main render loop:
+     * - runs only when image size changes
+     * - updates DOM minimally
      */
     render() {
-      const width = this.img.clientWidth;
-      const height = this.img.clientHeight;
+      const img = this.img;
 
-      // Skip invalid or unchanged frames
-      if (width === 0) return;
-      if (
+      const width = img.clientWidth;
+      const height = img.clientHeight;
+
+      // Ignore invalid layouts
+      if (width === 0 || height === 0) return;
+
+      // Skip if size didn't meaningfully change
+      const isSameSize =
         Math.abs(width - this.lastWidth) < 1 &&
-        Math.abs(height - this.lastHeight) < 1
-      ) {
-        return;
-      }
+        Math.abs(height - this.lastHeight) < 1;
+
+      if (isSameSize) return;
 
       this.lastWidth = width;
       this.lastHeight = height;
 
-      const layout = computeLayout({
-        width: width,
-        height: height,
-        text: this.img.alt || "",
-      });
+      const layout = computeLayout(width, height, img.alt || "");
 
-      // Apply computed layout to each title container
-      for (let i = 0; i < this.containers.length; i++) {
-        const container = this.containers[i];
+      const items = this.items;
+
+      for (let i = 0; i < items.length; i++) {
+        const item = items[i];
         const block = layout[i];
+        if (!block) continue;
 
-        if (!container || !block) continue;
+        const container = item.container;
+        const title = item.title;
+        const last = item.last;
 
-        const titleEl = container.querySelector(".image-title");
-        if (!titleEl) continue;
+        // Update only if value changed (prevents layout thrashing)
 
-        // Position container vertically
-        container.style.top = `${block.top}px`;
+        if (last.top !== block.top) {
+          container.style.top = `${block.top}px`;
+          last.top = block.top;
+        }
 
-        // Batch these text/font updates
-        titleEl.style.fontSize = `${block.fontSize}px`;
-        titleEl.style.lineHeight = `${block.lineHeight}px`;
-        titleEl.style.paddingLeft = `${block.paddingX}px`;
-        titleEl.style.paddingRight = `${block.paddingX}px`;
+        if (last.fontSize !== block.fontSize) {
+          title.style.fontSize = `${block.fontSize}px`;
+          last.fontSize = block.fontSize;
+        }
 
-        // Update text only if changed (avoids layout thrash)
-        if (titleEl.textContent !== block.text) {
-          titleEl.textContent = block.text;
+        if (last.lineHeight !== block.lineHeight) {
+          title.style.lineHeight = `${block.lineHeight}px`;
+          last.lineHeight = block.lineHeight;
+        }
+
+        if (last.paddingX !== block.paddingX) {
+          const px = `${block.paddingX}px`;
+          title.style.paddingLeft = px;
+          title.style.paddingRight = px;
+          last.paddingX = block.paddingX;
+        }
+
+        if (last.text !== block.text) {
+          title.textContent = block.text;
+          last.text = block.text;
         }
       }
 
       // First-time reveal
       if (!this.initialized) {
         this.initialized = true;
-        for (let i = 0; i < this.containers.length; i++) {
-          this.containers[i].style.opacity = "1";
+
+        for (let i = 0; i < items.length; i++) {
+          items[i].container.style.opacity = "1";
         }
       }
     }
   }
 
-  /**
-   * Entry point:
-   * - Wait for DOM
-   * - Attach ResizeObserver
-   * - Sync with font loading and image load events
-   */
   document.addEventListener("DOMContentLoaded", () => {
     const img = document.querySelector(".featured-image img");
     if (!img) return;
@@ -179,11 +210,14 @@
 
     let rafPending = false;
 
-    // Throttle rendering via requestAnimationFrame
+    /**
+     * Throttled render scheduling via requestAnimationFrame
+     */
     const scheduleRender = () => {
       if (rafPending) return;
 
       rafPending = true;
+
       requestAnimationFrame(() => {
         renderer.render();
         rafPending = false;
@@ -191,15 +225,15 @@
     };
 
     // React to size changes
-    const observer = new ResizeObserver(scheduleRender);
-    observer.observe(img);
+    const resizeObserver = new ResizeObserver(scheduleRender);
+    resizeObserver.observe(img);
 
     // Initial render triggers
     if (img.complete) scheduleRender();
     img.addEventListener("load", scheduleRender);
 
-    // Ensure correct layout after fonts are ready
-    if (document.fonts) {
+    // Ensure correct layout after fonts load
+    if (document.fonts?.ready) {
       document.fonts.ready.then(scheduleRender);
     }
   });
