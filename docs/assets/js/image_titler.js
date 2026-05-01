@@ -13,49 +13,9 @@
   });
 
   /**
-   * Splits text into two balanced lines.
-   * Tries to split near the midpoint at a space character.
-   */
-  function splitText(text) {
-    if (!text) return [""];
-
-    const midpoint = (text.length / 2) | 0;
-
-    const leftSpaceIndex = text.lastIndexOf(" ", midpoint);
-    const rightSpaceIndex = text.indexOf(" ", midpoint);
-
-    // If no spaces exist, we cannot split safely
-    if (leftSpaceIndex === -1 && rightSpaceIndex === -1) {
-      return [text];
-    }
-
-    // Choose best split position near midpoint
-    let splitIndex;
-
-    if (leftSpaceIndex === -1) {
-      splitIndex = rightSpaceIndex;
-    } else if (rightSpaceIndex === -1) {
-      splitIndex = leftSpaceIndex;
-    } else {
-      const leftDistance = midpoint - leftSpaceIndex;
-      const rightDistance = rightSpaceIndex - midpoint;
-
-      splitIndex =
-        leftDistance <= rightDistance ? leftSpaceIndex : rightSpaceIndex;
-    }
-
-    const firstLine = text.slice(0, splitIndex).trim();
-    const secondLine = text.slice(splitIndex + 1).trim();
-
-    return [firstLine, secondLine];
-  }
-
-  /**
    * Converts image dimensions into scalable title layout.
    */
-  function computeLayout({ width, height, text }) {
-    const lines = splitText(text);
-
+  function computeLayout({ width, height, lines }) {
     // Each title "band" height
     const barHeight = Math.floor(height / CONFIG.BAR_HEIGHT_RATIO);
 
@@ -109,13 +69,8 @@
         return {
           container,
           title,
-          last: {
-            top: null,
-            fontSize: null,
-            lineHeight: null,
-            paddingX: null,
-            text: null,
-          },
+          text: title.textContent.trim(),
+          last: { top: null, fontSize: null, lineHeight: null, paddingX: null },
         };
       }).filter(Boolean);
 
@@ -148,21 +103,19 @@
       this.lastWidth = width;
       this.lastHeight = height;
 
-      const layout = computeLayout(width, height, img.alt || "");
+      const layout = computeLayout({
+        width,
+        height,
+        lines: this.items.map((item) => item.text),
+      });
 
-      const items = this.items;
-
-      for (let i = 0; i < items.length; i++) {
-        const item = items[i];
+      this.items.forEach((item, i) => {
         const block = layout[i];
-        if (!block) continue;
+        if (!block) return;
 
-        const container = item.container;
-        const title = item.title;
-        const last = item.last;
+        const { container, title, last } = item;
 
         // Update only if value changed (prevents layout thrashing)
-
         if (last.top !== block.top) {
           container.style.top = `${block.top}px`;
           last.top = block.top;
@@ -184,20 +137,13 @@
           title.style.paddingRight = px;
           last.paddingX = block.paddingX;
         }
-
-        if (last.text !== block.text) {
-          title.textContent = block.text;
-          last.text = block.text;
-        }
-      }
+      });
 
       // First-time reveal
       if (!this.initialized) {
         this.initialized = true;
 
-        for (let i = 0; i < items.length; i++) {
-          items[i].container.style.opacity = "1";
-        }
+        this.items.forEach((item) => (item.container.style.opacity = "1"));
       }
     }
   }

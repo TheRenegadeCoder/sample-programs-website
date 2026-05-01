@@ -139,6 +139,50 @@ def _add_language_article_section(doc: snakemd.Document, repo: subete.Repo, lang
     doc.add_block(snakemd.MDList(articles))
 
 
+GLUE_WORDS = {"the", "a", "an", "of", "to", "in", "for", "on", "with", "and", "or"}
+
+def _split_text_balanced(text: str) -> tuple[str, str]:
+    """
+    Splits text into two lines, balancing character count, word count, 
+    and linguistic glue words.
+    """
+    if not text:
+        return "", ""
+
+    words = text.strip().split()
+    num_words = len(words)
+
+    if num_words <= 1:
+        return " ".join(words), ""
+    
+    total_len = len(" ".join(words))
+    best_split_idx = 1
+    min_penalty = float("inf")
+    current_len = 0
+    
+    for i in range(1, num_words):
+        word_just_added = words[i-1].lower()
+        current_len += len(word_just_added)
+        
+        # Lengths including spaces between words
+        left_len = current_len + (i - 1)
+        right_len = total_len - left_len - 1
+        
+        # Penalty weights:
+        char_diff = abs(left_len - right_len)         # Visual balance
+        word_diff = abs(i - (num_words - i))          # Density balance
+        mid_bias = abs(left_len - (total_len / 2))    # Geometric center
+        linguistic = 10 if word_just_added in GLUE_WORDS else 0
+        top_heavy = -2 if left_len > right_len else 0 # Aesthetics
+        
+        penalty = char_diff + (word_diff * 4) + mid_bias + linguistic + top_heavy
+
+        if penalty < min_penalty:
+            min_penalty = penalty
+            best_split_idx = i
+
+    return " ".join(words[:best_split_idx]), " ".join(words[best_split_idx:])
+
 def _generate_front_matter(
     doc: snakemd.Document,
     title: str,
@@ -158,27 +202,32 @@ def _generate_front_matter(
     :param Set[str] authors: optional list of authors
     :param Iterable[str] tags: optional list of tags
     """
-    front_matter = {"title": title, "layout": "default"}
-    filtered_times: List[datetime.datetime] = list(filter(None, times or []))
-    created_at: Optional[datetime.datetime] = min(filtered_times, default=None)
-    last_modified: Optional[datetime.datetime] = max(filtered_times, default=None)
-    if created_at:
-        front_matter["date"] = created_at.date()
+    
+    top_title, bottom_title = _split_text_balanced(title)
+    
+    front_matter = {
+        "title": title,
+        "title1": top_title,
+        "title2": bottom_title,
+        "layout": "default"
+    }
 
-    if last_modified:
-        front_matter["last-modified"] = last_modified.date()
+    filtered_times = list(filter(None, times or []))
+    if filtered_times:
+        front_matter["date"] = min(filtered_times).date()
+        front_matter["last-modified"] = max(filtered_times).date()
 
     if image:
         front_matter["featured-image"] = image
 
     if authors:
-        front_matter["authors"] = sorted(authors, key=lambda x: x.casefold())
+        front_matter["authors"] = sorted(authors, key=str.casefold)
 
     if tags:
-        front_matter["tags"] = sorted(tags, key=lambda x: x.casefold())
+        front_matter["tags"] = sorted(tags, key=str.casefold)
 
-    raw = "---\n" + yaml.safe_dump(front_matter) + "---"
-    doc.add_raw(raw)
+    yaml_block = yaml.safe_dump(front_matter, sort_keys=True, allow_unicode=True)
+    doc.add_raw(f"---\n{yaml_block}---")
 
 
 def _generate_no_edit_note(
