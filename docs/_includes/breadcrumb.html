@@ -1,35 +1,26 @@
-<nav class="site-navigation">
+<nav aria-label="Breadcrumb" class="site-navigation">
   <ol class="breadcrumb">
-    <li><a href="{{ site.baseurl }}/">Home</a></li>
+    <li><a href="{{ '/' | relative_url }}">Home</a></li>
 
-    {% assign parts = page.url | remove: "/index.html" | split: "/" %}
-    {% assign path = "" %}
+    {% assign parts = page.url | split: "/" %}
+    {% assign current_path = "" %}
 
-    {% for part in parts offset:1 %}
-      {% if part != "" %}
+    {% for part in parts %}
+      {% if part == "" %}{% continue %}{% endif %}
 
-        {% assign path = path | append: "/" | append: part %}
+      {% assign current_path = current_path | append: "/" | append: part %}
+      {% assign target_url = current_path | append: "/" %}
 
-        {% assign match_url_1 = path | append: "/" %}
-        {% assign match_url_2 = path | append: "/index.html" %}
+      {% assign match = site.pages | where: "url", target_url | first %}
 
-        {% assign match = nil %}
-
-        {% for p in site.pages %}
-          {% if p.url == match_url_1 or p.url == match_url_2 %}
-            {% assign match = p %}
-            {% break %}
+      {% if match %}
+        <li class="{% if forloop.last %}active{% endif %}">
+          {% if forloop.last %}
+            {{ match.title }}
+          {% else %}
+            <a href="{{ match.url | relative_url }}">{{ match.title }}</a>
           {% endif %}
-        {% endfor %}
-
-        {% if match %}
-          <li {% if forloop.last %}class="active"{% endif %}>
-            <a href="{{ site.baseurl }}{{ match.url | remove: 'index.html' }}">
-              {{ match.title }}
-            </a>
-          </li>
-        {% endif %}
-
+        </li>
       {% endif %}
     {% endfor %}
   </ol>
