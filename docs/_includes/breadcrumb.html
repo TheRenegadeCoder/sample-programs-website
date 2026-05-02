@@ -2,27 +2,34 @@
   <ol class="breadcrumb">
     <li><a href="{{ site.baseurl }}/">Home</a></li>
 
-    {% assign parts = page.url | remove: "/index.html" | split: "/" | compact %}
+    {% assign parts = page.url | remove: "/index.html" | split: "/" %}
     {% assign path = "" %}
 
-    {% for part in parts %}
-      {% assign path = path | append: "/" | append: part %}
+    {% for part in parts offset:1 %}
+      {% if part != "" %}
 
-      {% assign match = site.pages | where: "url", path | first %}
-      {% if match == nil %}
-        {% assign match = site.pages | where: "url", path | append: "/" | first %}
-      {% endif %}
+        {% assign path = path | append: "/" | append: part %}
 
-      {% if match %}
-        <li class="{% if forloop.last %}active{% endif %}">
-          {% if forloop.last %}
-            {{ match.title }}
-          {% else %}
-            <a href="{{ match.url | relative_url }}">
+        {% assign match_url_1 = path | append: "/" %}
+        {% assign match_url_2 = path | append: "/index.html" %}
+
+        {% assign match = nil %}
+
+        {% for p in site.pages %}
+          {% if p.url == match_url_1 or p.url == match_url_2 %}
+            {% assign match = p %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+
+        {% if match %}
+          <li {% if forloop.last %}class="active"{% endif %}>
+            <a href="{{ site.baseurl }}{{ match.url | remove: 'index.html' }}">
               {{ match.title }}
             </a>
-          {% endif %}
-        </li>
+          </li>
+        {% endif %}
+
       {% endif %}
     {% endfor %}
   </ol>
