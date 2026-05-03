@@ -139,6 +139,26 @@ def _add_language_article_section(doc: snakemd.Document, repo: subete.Repo, lang
     doc.add_block(snakemd.MDList(articles))
 
 
+def _split_text(text: str) -> tuple[str, str]:
+    mid = len(text) // 2
+    best_index = -1
+    min_dist = float('inf')
+
+    for i, char in enumerate(text):
+        if char.isspace():
+            dist = abs(i - mid)
+            if dist <= min_dist:
+                min_dist = dist
+                best_index = i
+            elif i > mid: 
+                # Optimization: if we are past mid and distance is increasing, stop
+                break
+
+    if best_index == -1:
+        return text, ""
+
+    return text[:best_index], text[best_index + 1:]
+
 def _generate_front_matter(
     doc: snakemd.Document,
     title: str,
@@ -158,27 +178,32 @@ def _generate_front_matter(
     :param Set[str] authors: optional list of authors
     :param Iterable[str] tags: optional list of tags
     """
-    front_matter = {"title": title, "layout": "default"}
-    filtered_times: List[datetime.datetime] = list(filter(None, times or []))
-    created_at: Optional[datetime.datetime] = min(filtered_times, default=None)
-    last_modified: Optional[datetime.datetime] = max(filtered_times, default=None)
-    if created_at:
-        front_matter["date"] = created_at.date()
+    
+    top_title, bottom_title = _split_text(title)
+    
+    front_matter = {
+        "title": title,
+        "title1": top_title,
+        "title2": bottom_title,
+        "layout": "default"
+    }
 
-    if last_modified:
-        front_matter["last-modified"] = last_modified.date()
+    filtered_times = list(filter(None, times or []))
+    if filtered_times:
+        front_matter["date"] = min(filtered_times).date()
+        front_matter["last-modified"] = max(filtered_times).date()
 
     if image:
         front_matter["featured-image"] = image
 
     if authors:
-        front_matter["authors"] = sorted(authors, key=lambda x: x.casefold())
+        front_matter["authors"] = sorted(authors, key=str.casefold)
 
     if tags:
-        front_matter["tags"] = sorted(tags, key=lambda x: x.casefold())
+        front_matter["tags"] = sorted(tags, key=str.casefold)
 
-    raw = "---\n" + yaml.safe_dump(front_matter) + "---"
-    doc.add_raw(raw)
+    yaml_block = yaml.safe_dump(front_matter, sort_keys=True, allow_unicode=True)
+    doc.add_raw(f"---\n{yaml_block}---")
 
 
 def _generate_no_edit_note(

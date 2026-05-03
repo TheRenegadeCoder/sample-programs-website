@@ -1,12 +1,10 @@
+{% assign image_file = page.featured-image | default: site.title_image %}
+{% assign twitter_card_type = page.featured-image | default: false | if: "summary_large_image", "summary" %}
+
 <!-- Twitter cards -->
-<meta name="twitter:title"   content="{{ page.title }}">
+<meta name="twitter:title" content="{{ page.title }}">
 <meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
 
-{% if page.featured-image %}
-<meta name="twitter:card"  content="summary_large_image">
-<meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ site.image_path }}{{ page.featured-image }}">
-{% else %}
-<meta name="twitter:card"  content="summary">
-<meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ site.image_path }}{{ site.title_image }}">
-{% endif %}
+<meta name="twitter:card" content="{% if page.featured-image %}summary_large_image{% else %}summary{% endif %}">
+<meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ site.image_path }}{{ image_file }}">
 <!-- end of Twitter cards -->
