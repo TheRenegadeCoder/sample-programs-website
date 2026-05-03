@@ -26,13 +26,14 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 25 articles:
+There are 28 articles:
 
 - [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
 - [Base64 Encode Decode in Swift](https://sampleprograms.io/projects/base64-encode-decode/swift)
 - [Binary Search in Swift](https://sampleprograms.io/projects/binary-search/swift)
 - [Bubble Sort in Swift](https://sampleprograms.io/projects/bubble-sort/swift)
 - [Capitalize in Swift](https://sampleprograms.io/projects/capitalize/swift)
+- [Depth First Search in Swift](https://sampleprograms.io/projects/depth-first-search/swift)
 - [Duplicate Character Counter in Swift](https://sampleprograms.io/projects/duplicate-character-counter/swift)
 - [Even Odd in Swift](https://sampleprograms.io/projects/even-odd/swift)
 - [Factorial in Swift](https://sampleprograms.io/projects/factorial/swift)
@@ -41,6 +42,8 @@ There are 25 articles:
 - [Fizz Buzz in Swift](https://sampleprograms.io/projects/fizz-buzz/swift)
 - [Fraction Math in Swift](https://sampleprograms.io/projects/fraction-math/swift)
 - [Hello World in Swift](https://sampleprograms.io/projects/hello-world/swift)
+- [Insertion Sort in Swift](https://sampleprograms.io/projects/insertion-sort/swift)
+- [Job Sequencing in Swift](https://sampleprograms.io/projects/job-sequencing/swift)
 - [Linear Search in Swift](https://sampleprograms.io/projects/linear-search/swift)
 - [Longest Word in Swift](https://sampleprograms.io/projects/longest-word/swift)
 - [Maximum Subarray in Swift](https://sampleprograms.io/projects/maximum-subarray/swift)
