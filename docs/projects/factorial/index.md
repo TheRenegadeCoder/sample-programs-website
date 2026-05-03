@@ -1,7 +1,7 @@
 ---
 date: 2018-10-26
 featured-image: factorial-in-every-language.jpg
-last-modified: 2026-04-30
+last-modified: 2026-05-03
 layout: default
 tags:
 - factorial
@@ -83,7 +83,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 48 articles:
+There are 49 articles:
 
 - [Factorial in ALGOL 60](https://sampleprograms.io/projects/factorial/algol60)
 - [Factorial in ALGOL 68](https://sampleprograms.io/projects/factorial/algol68)
@@ -127,6 +127,7 @@ There are 48 articles:
 - [Factorial in Ruby](https://sampleprograms.io/projects/factorial/ruby)
 - [Factorial in Rust](https://sampleprograms.io/projects/factorial/rust)
 - [Factorial in Scala](https://sampleprograms.io/projects/factorial/scala)
+- [Factorial in Swift](https://sampleprograms.io/projects/factorial/swift)
 - [Factorial in TI-BASIC](https://sampleprograms.io/projects/factorial/ti-basic)
 - [Factorial in Tcl](https://sampleprograms.io/projects/factorial/tcl)
 - [Factorial in TypeScript](https://sampleprograms.io/projects/factorial/typescript)

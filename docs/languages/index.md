@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1515 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1516 code snippets.
 
 ## Language Breakdown
 
@@ -84,7 +84,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Java</td>
-        <td class="right">3.10%</td>
+        <td class="right">3.09%</td>
         <td class="bar-graph"><div style="width: 31.47%; background-color: #B07219;"></div></td> 
     </tr>
 
@@ -203,15 +203,15 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Brainfuck</td>
-        <td class="right">0.63%</td>
-        <td class="bar-graph"><div style="width: 6.39%; background-color: #2F2530;"></div></td> 
+        <td class="right nowrap">Swift</td>
+        <td class="right">0.66%</td>
+        <td class="bar-graph"><div style="width: 6.74%; background-color: #F05138;"></div></td> 
     </tr>
 
     <tr>
-        <td class="right nowrap">Swift</td>
-        <td class="right">0.62%</td>
-        <td class="bar-graph"><div style="width: 6.34%; background-color: #F05138;"></div></td> 
+        <td class="right nowrap">Brainfuck</td>
+        <td class="right">0.63%</td>
+        <td class="bar-graph"><div style="width: 6.39%; background-color: #2F2530;"></div></td> 
     </tr>
 
     <tr>
@@ -222,7 +222,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Dart</td>
-        <td class="right">0.56%</td>
+        <td class="right">0.55%</td>
         <td class="bar-graph"><div style="width: 5.64%; background-color: #00B4AB;"></div></td> 
     </tr>
 
@@ -1260,7 +1260,7 @@ The 'R' collection contains 8 languages, of which 8 are tested, and 91 code snip
 
 ### S
 
-The 'S' collection contains 10 languages, of which 10 are tested, and 47 code snippets.
+The 'S' collection contains 10 languages, of which 10 are tested, and 48 code snippets.
 
 - [Sather](https://sampleprograms.io/languages/sather) (2 code snippets)
 - [Scala](https://sampleprograms.io/languages/scala) (13 code snippets)
@@ -1271,7 +1271,7 @@ The 'S' collection contains 10 languages, of which 10 are tested, and 47 code sn
 - [Solidity](https://sampleprograms.io/languages/solidity) (2 code snippets)
 - [Solisp](https://sampleprograms.io/languages/solisp) (3 code snippets)
 - [Spry](https://sampleprograms.io/languages/spry) (2 code snippets)
-- [Swift](https://sampleprograms.io/languages/swift) (15 code snippets)
+- [Swift](https://sampleprograms.io/languages/swift) (16 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 
