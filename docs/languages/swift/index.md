@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 30 articles:
+There are 32 articles:
 
 - [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
 - [Base64 Encode Decode in Swift](https://sampleprograms.io/projects/base64-encode-decode/swift)
@@ -57,4 +57,6 @@ There are 30 articles:
 - [Roman Numeral in Swift](https://sampleprograms.io/projects/roman-numeral/swift)
 - [Rot13 in Swift](https://sampleprograms.io/projects/rot13/swift)
 - [Selection Sort in Swift](https://sampleprograms.io/projects/selection-sort/swift)
+- [Sleep Sort in Swift](https://sampleprograms.io/projects/sleep-sort/swift)
+- [Transpose Matrix in Swift](https://sampleprograms.io/projects/transpose-matrix/swift)
 - [Zeckendorf in Swift](https://sampleprograms.io/projects/zeckendorf/swift)
