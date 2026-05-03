@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 19 articles:
+There are 21 articles:
 
 - [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
 - [Base64 Encode Decode in Swift](https://sampleprograms.io/projects/base64-encode-decode/swift)
@@ -35,9 +35,11 @@ There are 19 articles:
 - [Even Odd in Swift](https://sampleprograms.io/projects/even-odd/swift)
 - [Factorial in Swift](https://sampleprograms.io/projects/factorial/swift)
 - [Fibonacci in Swift](https://sampleprograms.io/projects/fibonacci/swift)
+- [File Input Output in Swift](https://sampleprograms.io/projects/file-input-output/swift)
 - [Fizz Buzz in Swift](https://sampleprograms.io/projects/fizz-buzz/swift)
 - [Fraction Math in Swift](https://sampleprograms.io/projects/fraction-math/swift)
 - [Hello World in Swift](https://sampleprograms.io/projects/hello-world/swift)
+- [Linear Search in Swift](https://sampleprograms.io/projects/linear-search/swift)
 - [Longest Word in Swift](https://sampleprograms.io/projects/longest-word/swift)
 - [Palindromic Number in Swift](https://sampleprograms.io/projects/palindromic-number/swift)
 - [Prime Number in Swift](https://sampleprograms.io/projects/prime-number/swift)

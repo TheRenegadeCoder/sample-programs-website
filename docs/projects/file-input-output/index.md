@@ -1,7 +1,7 @@
 ---
 date: 2018-09-10
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2026-04-30
+last-modified: 2026-05-03
 layout: default
 tags:
 - file-input-output
@@ -60,7 +60,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 36 articles:
+There are 37 articles:
 
 - [File Input Output in ALGOL 68](https://sampleprograms.io/projects/file-input-output/algol68)
 - [File Input Output in AWK](https://sampleprograms.io/projects/file-input-output/awk)
@@ -95,6 +95,7 @@ There are 36 articles:
 - [File Input Output in Ruby](https://sampleprograms.io/projects/file-input-output/ruby)
 - [File Input Output in Rust](https://sampleprograms.io/projects/file-input-output/rust)
 - [File Input Output in Scala](https://sampleprograms.io/projects/file-input-output/scala)
+- [File Input Output in Swift](https://sampleprograms.io/projects/file-input-output/swift)
 - [File Input Output in Tcl](https://sampleprograms.io/projects/file-input-output/tcl)
 - [File Input Output in TypeScript](https://sampleprograms.io/projects/file-input-output/typescript)
 - [File Input Output in Wren](https://sampleprograms.io/projects/file-input-output/wren)
