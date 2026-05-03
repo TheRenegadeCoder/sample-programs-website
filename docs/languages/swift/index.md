@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 34 articles:
+There are 37 articles:
 
 - [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
 - [Base64 Encode Decode in Swift](https://sampleprograms.io/projects/base64-encode-decode/swift)
@@ -34,6 +34,7 @@ There are 34 articles:
 - [Bubble Sort in Swift](https://sampleprograms.io/projects/bubble-sort/swift)
 - [Capitalize in Swift](https://sampleprograms.io/projects/capitalize/swift)
 - [Depth First Search in Swift](https://sampleprograms.io/projects/depth-first-search/swift)
+- [Dijkstra in Swift](https://sampleprograms.io/projects/dijkstra/swift)
 - [Duplicate Character Counter in Swift](https://sampleprograms.io/projects/duplicate-character-counter/swift)
 - [Even Odd in Swift](https://sampleprograms.io/projects/even-odd/swift)
 - [Factorial in Swift](https://sampleprograms.io/projects/factorial/swift)
@@ -45,11 +46,13 @@ There are 34 articles:
 - [Insertion Sort in Swift](https://sampleprograms.io/projects/insertion-sort/swift)
 - [Job Sequencing in Swift](https://sampleprograms.io/projects/job-sequencing/swift)
 - [Linear Search in Swift](https://sampleprograms.io/projects/linear-search/swift)
+- [Longest Common Subsequence in Swift](https://sampleprograms.io/projects/longest-common-subsequence/swift)
 - [Longest Palindromic Substring in Swift](https://sampleprograms.io/projects/longest-palindromic-substring/swift)
 - [Longest Word in Swift](https://sampleprograms.io/projects/longest-word/swift)
 - [Maximum Array Rotation in Swift](https://sampleprograms.io/projects/maximum-array-rotation/swift)
 - [Maximum Subarray in Swift](https://sampleprograms.io/projects/maximum-subarray/swift)
 - [Merge Sort in Swift](https://sampleprograms.io/projects/merge-sort/swift)
+- [Minimum Spanning Tree in Swift](https://sampleprograms.io/projects/minimum-spanning-tree/swift)
 - [Palindromic Number in Swift](https://sampleprograms.io/projects/palindromic-number/swift)
 - [Prime Number in Swift](https://sampleprograms.io/projects/prime-number/swift)
 - [Quick Sort in Swift](https://sampleprograms.io/projects/quick-sort/swift)
