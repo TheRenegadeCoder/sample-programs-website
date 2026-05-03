@@ -1,7 +1,7 @@
 ---
 date: 2019-10-24
 featured-image: binary-search-in-every-language.jpg
-last-modified: 2026-04-19
+last-modified: 2026-05-03
 layout: default
 tags:
 - binary-search
@@ -98,7 +98,7 @@ Usage: please provide a list of sorted integers ("1, 4, 5, 11, 12") and the inte
 
 ## Articles
 
-There are 27 articles:
+There are 28 articles:
 
 - [Binary Search in ALGOL 60](https://sampleprograms.io/projects/binary-search/algol60)
 - [Binary Search in ALGOL 68](https://sampleprograms.io/projects/binary-search/algol68)
@@ -124,6 +124,7 @@ There are 27 articles:
 - [Binary Search in Python](https://sampleprograms.io/projects/binary-search/python)
 - [Binary Search in Ruby](https://sampleprograms.io/projects/binary-search/ruby)
 - [Binary Search in Rust](https://sampleprograms.io/projects/binary-search/rust)
+- [Binary Search in Swift](https://sampleprograms.io/projects/binary-search/swift)
 - [Binary Search in Tcl](https://sampleprograms.io/projects/binary-search/tcl)
 - [Binary Search in TypeScript](https://sampleprograms.io/projects/binary-search/typescript)
 - [Binary Search in m4](https://sampleprograms.io/projects/binary-search/m4)
