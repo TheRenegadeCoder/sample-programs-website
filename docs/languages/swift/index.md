@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 38 articles:
+There are 39 articles:
 
 - [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
 - [Base64 Encode Decode in Swift](https://sampleprograms.io/projects/base64-encode-decode/swift)
@@ -46,6 +46,7 @@ There are 38 articles:
 - [Hello World in Swift](https://sampleprograms.io/projects/hello-world/swift)
 - [Insertion Sort in Swift](https://sampleprograms.io/projects/insertion-sort/swift)
 - [Job Sequencing in Swift](https://sampleprograms.io/projects/job-sequencing/swift)
+- [Josephus Problem in Swift](https://sampleprograms.io/projects/josephus-problem/swift)
 - [Linear Search in Swift](https://sampleprograms.io/projects/linear-search/swift)
 - [Longest Common Subsequence in Swift](https://sampleprograms.io/projects/longest-common-subsequence/swift)
 - [Longest Palindromic Substring in Swift](https://sampleprograms.io/projects/longest-palindromic-substring/swift)

@@ -6,7 +6,7 @@ layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1538 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1539 code snippets.
 
 ## Language Breakdown
 
@@ -18,7 +18,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 60</td>
-        <td class="right">9.68%</td>
+        <td class="right">9.67%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
@@ -42,7 +42,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">m4</td>
-        <td class="right">4.65%</td>
+        <td class="right">4.64%</td>
         <td class="bar-graph"><div style="width: 48.00%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
@@ -78,7 +78,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">PHP</td>
-        <td class="right">3.13%</td>
+        <td class="right">3.12%</td>
         <td class="bar-graph"><div style="width: 32.29%; background-color: #4F5D95;"></div></td> 
     </tr>
 
@@ -102,13 +102,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">x86-64</td>
-        <td class="right">2.86%</td>
+        <td class="right">2.85%</td>
         <td class="bar-graph"><div style="width: 29.51%; background-color: #6E4C13;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">F#</td>
-        <td class="right">2.83%</td>
+        <td class="right">2.82%</td>
         <td class="bar-graph"><div style="width: 29.20%; background-color: #B845FC;"></div></td> 
     </tr>
 
@@ -126,8 +126,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Swift</td>
-        <td class="right">2.26%</td>
-        <td class="bar-graph"><div style="width: 23.39%; background-color: #F05138;"></div></td> 
+        <td class="right">2.32%</td>
+        <td class="bar-graph"><div style="width: 23.95%; background-color: #F05138;"></div></td> 
     </tr>
 
     <tr>
@@ -144,7 +144,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">JavaScript</td>
-        <td class="right">1.65%</td>
+        <td class="right">1.64%</td>
         <td class="bar-graph"><div style="width: 17.00%; background-color: #F1E05A;"></div></td> 
     </tr>
 
@@ -288,7 +288,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Odin</td>
-        <td class="right">0.24%</td>
+        <td class="right">0.23%</td>
         <td class="bar-graph"><div style="width: 2.43%; background-color: #60AFFE;"></div></td> 
     </tr>
 
@@ -1260,7 +1260,7 @@ The 'R' collection contains 8 languages, of which 8 are tested, and 91 code snip
 
 ### S
 
-The 'S' collection contains 10 languages, of which 10 are tested, and 70 code snippets.
+The 'S' collection contains 10 languages, of which 10 are tested, and 71 code snippets.
 
 - [Sather](https://sampleprograms.io/languages/sather) (2 code snippets)
 - [Scala](https://sampleprograms.io/languages/scala) (13 code snippets)
@@ -1271,7 +1271,7 @@ The 'S' collection contains 10 languages, of which 10 are tested, and 70 code sn
 - [Solidity](https://sampleprograms.io/languages/solidity) (2 code snippets)
 - [Solisp](https://sampleprograms.io/languages/solisp) (3 code snippets)
 - [Spry](https://sampleprograms.io/languages/spry) (2 code snippets)
-- [Swift](https://sampleprograms.io/languages/swift) (38 code snippets)
+- [Swift](https://sampleprograms.io/languages/swift) (39 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 

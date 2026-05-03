@@ -1,7 +1,7 @@
 ---
 date: 2021-10-08
 featured-image: josephus-problem-in-every-language.jpg
-last-modified: 2026-04-15
+last-modified: 2026-05-03
 layout: default
 tags:
 - josephus-problem
@@ -134,7 +134,7 @@ Usage: please input the total number of people and number of people to skip.
 
 ## Articles
 
-There are 23 articles:
+There are 24 articles:
 
 - [Josephus Problem in ALGOL 60](https://sampleprograms.io/projects/josephus-problem/algol60)
 - [Josephus Problem in ALGOL 68](https://sampleprograms.io/projects/josephus-problem/algol68)
@@ -156,6 +156,7 @@ There are 23 articles:
 - [Josephus Problem in Python](https://sampleprograms.io/projects/josephus-problem/python)
 - [Josephus Problem in Ruby](https://sampleprograms.io/projects/josephus-problem/ruby)
 - [Josephus Problem in Rust](https://sampleprograms.io/projects/josephus-problem/rust)
+- [Josephus Problem in Swift](https://sampleprograms.io/projects/josephus-problem/swift)
 - [Josephus Problem in TI-BASIC](https://sampleprograms.io/projects/josephus-problem/ti-basic)
 - [Josephus Problem in Tcl](https://sampleprograms.io/projects/josephus-problem/tcl)
 - [Josephus Problem in m4](https://sampleprograms.io/projects/josephus-problem/m4)
