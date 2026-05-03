@@ -9,6 +9,8 @@ tags:
 - awk
 - josephus-problem
 title: Josephus Problem in AWK
+title1: Josephus
+title2: Problem in AWK
 ---
 
 <!--

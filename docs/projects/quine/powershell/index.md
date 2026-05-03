@@ -9,6 +9,8 @@ tags:
 - powershell
 - quine
 title: Quine in PowerShell
+title1: Quine in
+title2: PowerShell
 ---
 
 <!--

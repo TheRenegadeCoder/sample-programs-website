@@ -9,6 +9,8 @@ tags:
 - insertion-sort
 - mathematica
 title: Insertion Sort in Mathematica
+title1: Insertion Sort
+title2: in Mathematica
 ---
 
 <!--

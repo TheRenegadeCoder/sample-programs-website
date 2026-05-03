@@ -10,6 +10,8 @@ tags:
 - bubble-sort
 - lua
 title: Bubble Sort in Lua
+title1: Bubble Sort
+title2: in Lua
 ---
 
 <!--

@@ -4,6 +4,8 @@ featured-image: programming-languages.jpg
 last-modified: 2026-05-03
 layout: default
 title: Programming Languages
+title1: Programming
+title2: Languages
 ---
 
 Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1539 code snippets.

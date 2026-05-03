@@ -10,6 +10,8 @@ tags:
 - bubble-sort
 - elixir
 title: Bubble Sort in Elixir
+title1: Bubble Sort
+title2: in Elixir
 ---
 
 <!--

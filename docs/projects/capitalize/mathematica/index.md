@@ -9,6 +9,8 @@ tags:
 - capitalize
 - mathematica
 title: Capitalize in Mathematica
+title1: Capitalize in
+title2: Mathematica
 ---
 
 <!--

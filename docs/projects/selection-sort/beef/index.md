@@ -9,6 +9,8 @@ tags:
 - beef
 - selection-sort
 title: Selection Sort in Beef
+title1: Selection
+title2: Sort in Beef
 ---
 
 <!--

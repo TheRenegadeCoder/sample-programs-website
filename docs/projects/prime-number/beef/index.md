@@ -9,6 +9,8 @@ tags:
 - beef
 - prime-number
 title: Prime Number in Beef
+title1: Prime Number
+title2: in Beef
 ---
 
 <!--

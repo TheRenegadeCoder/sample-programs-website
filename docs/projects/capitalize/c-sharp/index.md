@@ -10,6 +10,8 @@ tags:
 - c-sharp
 - capitalize
 title: Capitalize in C#
+title1: Capitalize
+title2: in C#
 ---
 
 <!--

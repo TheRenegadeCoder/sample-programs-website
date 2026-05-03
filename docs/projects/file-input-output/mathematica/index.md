@@ -9,6 +9,8 @@ tags:
 - file-input-output
 - mathematica
 title: File Input Output in Mathematica
+title1: File Input Output
+title2: in Mathematica
 ---
 
 <!--

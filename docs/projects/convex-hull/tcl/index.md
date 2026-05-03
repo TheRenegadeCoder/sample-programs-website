@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-08
 featured-image: convex-hull-in-every-language.jpg
 last-modified: 2025-10-08
@@ -9,6 +9,8 @@ tags:
 - convex-hull
 - tcl
 title: Convex Hull in Tcl
+title1: Convex Hull
+title2: in Tcl
 ---
 
 <!--

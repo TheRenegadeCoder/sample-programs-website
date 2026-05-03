@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-29
 featured-image: maximum-subarray-in-every-language.jpg
 last-modified: 2025-07-29
@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - maximum-subarray
 title: Maximum Subarray in C#
+title1: Maximum
+title2: Subarray in C#
 ---
 
 <!--

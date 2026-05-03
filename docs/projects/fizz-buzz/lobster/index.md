@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - lobster
 title: Fizz Buzz in Lobster
+title1: Fizz Buzz
+title2: in Lobster
 ---
 
 <!--

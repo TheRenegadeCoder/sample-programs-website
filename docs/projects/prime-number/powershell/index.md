@@ -9,6 +9,8 @@ tags:
 - powershell
 - prime-number
 title: Prime Number in PowerShell
+title1: Prime Number
+title2: in PowerShell
 ---
 
 <!--

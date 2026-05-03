@@ -9,6 +9,8 @@ tags:
 - algol60
 - josephus-problem
 title: Josephus Problem in ALGOL 60
+title1: Josephus Problem
+title2: in ALGOL 60
 ---
 
 <!--

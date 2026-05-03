@@ -9,6 +9,8 @@ tags:
 - capitalize
 - elvish
 title: Capitalize in Elvish
+title1: Capitalize
+title2: in Elvish
 ---
 
 <!--

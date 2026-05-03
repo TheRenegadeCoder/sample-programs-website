@@ -10,6 +10,8 @@ tags:
 - gnu-make
 - hello-world
 title: Hello World in GNU Make
+title1: Hello World
+title2: in GNU Make
 ---
 
 <!--

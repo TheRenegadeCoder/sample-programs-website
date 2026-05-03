@@ -9,6 +9,8 @@ tags:
 - baklava
 - python
 title: Baklava in Python
+title1: Baklava
+title2: in Python
 ---
 
 <!--

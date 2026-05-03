@@ -3,7 +3,7 @@ authors:
 - Jeremy Grifski
 - Marius
 - Parker Johansen
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2018-10-06
 featured-image: fibonacci-in-every-language.jpg
 last-modified: 2026-04-15
@@ -12,6 +12,8 @@ tags:
 - c-plus-plus
 - fibonacci
 title: Fibonacci in C++
+title1: Fibonacci
+title2: in C++
 ---
 
 <!--

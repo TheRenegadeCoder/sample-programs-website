@@ -11,6 +11,8 @@ tags:
 - maximum-subarray
 - python
 title: Maximum Subarray in Python
+title1: Maximum Subarray
+title2: in Python
 ---
 
 <!--

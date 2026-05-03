@@ -1,7 +1,7 @@
 ---
 authors:
 - Maximillian Naza
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2024-10-28
 featured-image: binary-search-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - binary-search
 - c
 title: Binary Search in C
+title1: Binary
+title2: Search in C
 ---
 
 <!--

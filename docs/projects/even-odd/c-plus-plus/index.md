@@ -2,7 +2,7 @@
 authors:
 - Jeremy Grifski
 - killbotxd
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2019-10-09
 featured-image: even-odd-in-every-language.jpg
 last-modified: 2026-04-15
@@ -11,6 +11,8 @@ tags:
 - c-plus-plus
 - even-odd
 title: Even Odd in C++
+title1: Even Odd
+title2: in C++
 ---
 
 <!--

@@ -10,6 +10,8 @@ tags:
 - haskell
 - reverse-string
 title: Reverse String in Haskell
+title1: Reverse String
+title2: in Haskell
 ---
 
 <!--

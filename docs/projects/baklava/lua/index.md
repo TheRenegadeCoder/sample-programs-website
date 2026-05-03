@@ -10,6 +10,8 @@ tags:
 - baklava
 - lua
 title: Baklava in Lua
+title1: Baklava
+title2: in Lua
 ---
 
 <!--

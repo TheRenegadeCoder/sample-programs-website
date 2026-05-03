@@ -9,6 +9,8 @@ tags:
 - longest-palindromic-substring
 - rust
 title: Longest Palindromic Substring in Rust
+title1: Longest Palindromic
+title2: Substring in Rust
 ---
 
 <!--

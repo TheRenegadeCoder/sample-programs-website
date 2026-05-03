@@ -9,6 +9,8 @@ tags:
 - baklava
 - odin
 title: Baklava in Odin
+title1: Baklava
+title2: in Odin
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - palindromic-number
 - php
 title: Palindromic Number in PHP
+title1: Palindromic
+title2: Number in PHP
 ---
 
 <!--

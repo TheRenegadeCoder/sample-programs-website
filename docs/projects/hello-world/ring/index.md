@@ -9,6 +9,8 @@ tags:
 - hello-world
 - ring
 title: Hello World in Ring
+title1: Hello World
+title2: in Ring
 ---
 
 <!--

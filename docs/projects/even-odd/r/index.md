@@ -9,6 +9,8 @@ tags:
 - even-odd
 - r
 title: Even Odd in R
+title1: Even Odd
+title2: in R
 ---
 
 <!--

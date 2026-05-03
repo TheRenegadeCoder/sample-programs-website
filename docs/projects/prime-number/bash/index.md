@@ -10,6 +10,8 @@ tags:
 - bash
 - prime-number
 title: Prime Number in Bash
+title1: Prime Number
+title2: in Bash
 ---
 
 <!--

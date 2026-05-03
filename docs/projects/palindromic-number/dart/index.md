@@ -9,6 +9,8 @@ tags:
 - dart
 - palindromic-number
 title: Palindromic Number in Dart
+title1: Palindromic
+title2: Number in Dart
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - mathematica
 - prime-number
 title: Prime Number in Mathematica
+title1: Prime Number
+title2: in Mathematica
 ---
 
 <!--

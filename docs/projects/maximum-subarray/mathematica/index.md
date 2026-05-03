@@ -10,6 +10,8 @@ tags:
 - mathematica
 - maximum-subarray
 title: Maximum Subarray in Mathematica
+title1: Maximum Subarray
+title2: in Mathematica
 ---
 
 <!--

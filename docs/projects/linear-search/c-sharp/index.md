@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - linear-search
 title: Linear Search in C#
+title1: Linear
+title2: Search in C#
 ---
 
 <!--

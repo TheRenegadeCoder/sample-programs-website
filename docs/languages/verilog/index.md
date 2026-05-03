@@ -6,6 +6,8 @@ layout: default
 tags:
 - verilog
 title: The Verilog Programming Language
+title1: The Verilog
+title2: Programming Language
 ---
 
 <!--

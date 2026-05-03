@@ -9,6 +9,8 @@ tags:
 - baklava
 - modula2
 title: Baklava in Modula-2
+title1: Baklava in
+title2: Modula-2
 ---
 
 <!--

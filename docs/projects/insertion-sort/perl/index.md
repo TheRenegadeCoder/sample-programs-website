@@ -9,6 +9,8 @@ tags:
 - insertion-sort
 - perl
 title: Insertion Sort in Perl
+title1: Insertion
+title2: Sort in Perl
 ---
 
 <!--

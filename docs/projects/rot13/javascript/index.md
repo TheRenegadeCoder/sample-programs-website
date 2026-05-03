@@ -9,6 +9,8 @@ tags:
 - javascript
 - rot13
 title: Rot13 in JavaScript
+title1: Rot13 in
+title2: JavaScript
 ---
 
 <!--

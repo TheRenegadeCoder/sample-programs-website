@@ -13,6 +13,8 @@ tags:
 - fizz-buzz
 - lisp
 title: Fizz Buzz in Lisp
+title1: Fizz Buzz
+title2: in Lisp
 ---
 
 <!--

@@ -6,6 +6,8 @@ layout: default
 tags:
 - batch
 title: The Batch Programming Language
+title1: The Batch Programming
+title2: Language
 ---
 
 <!--

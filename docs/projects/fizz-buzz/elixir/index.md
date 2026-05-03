@@ -9,6 +9,8 @@ tags:
 - elixir
 - fizz-buzz
 title: Fizz Buzz in Elixir
+title1: Fizz Buzz
+title2: in Elixir
 ---
 
 <!--

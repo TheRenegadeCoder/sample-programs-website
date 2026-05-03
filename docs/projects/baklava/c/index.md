@@ -3,7 +3,7 @@ authors:
 - Jeremy Grifski
 - rzuckerm
 - Stuart Irwin
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2018-09-17
 featured-image: baklava-in-c.jpg
 last-modified: 2026-04-15
@@ -12,6 +12,8 @@ tags:
 - baklava
 - c
 title: Baklava in C
+title1: Baklava
+title2: in C
 ---
 
 <!--

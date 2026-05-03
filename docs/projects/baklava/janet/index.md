@@ -9,6 +9,8 @@ tags:
 - baklava
 - janet
 title: Baklava in Janet
+title1: Baklava
+title2: in Janet
 ---
 
 <!--

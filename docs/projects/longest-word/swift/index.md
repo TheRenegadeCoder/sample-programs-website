@@ -9,6 +9,8 @@ tags:
 - longest-word
 - swift
 title: Longest Word in Swift
+title1: Longest Word
+title2: in Swift
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - janet
 title: Fizz Buzz in Janet
+title1: Fizz Buzz
+title2: in Janet
 ---
 
 <!--

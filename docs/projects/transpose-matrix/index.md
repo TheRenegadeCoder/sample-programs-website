@@ -6,6 +6,8 @@ layout: default
 tags:
 - transpose-matrix
 title: Transpose Matrix
+title1: Transpose
+title2: Matrix
 ---
 
 <!--

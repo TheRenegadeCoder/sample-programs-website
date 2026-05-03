@@ -9,6 +9,8 @@ tags:
 - cython
 - quine
 title: Quine in Cython
+title1: Quine in
+title2: Cython
 ---
 
 <!--

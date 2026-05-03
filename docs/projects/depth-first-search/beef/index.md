@@ -9,6 +9,8 @@ tags:
 - beef
 - depth-first-search
 title: Depth First Search in Beef
+title1: Depth First
+title2: Search in Beef
 ---
 
 <!--

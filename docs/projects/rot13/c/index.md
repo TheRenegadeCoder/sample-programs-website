@@ -1,7 +1,7 @@
 ---
 authors:
 - Softizo
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2019-10-09
 featured-image: rot13-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - c
 - rot13
 title: Rot13 in C
+title1: Rot13
+title2: in C
 ---
 
 <!--

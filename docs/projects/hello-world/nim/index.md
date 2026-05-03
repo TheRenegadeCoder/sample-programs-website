@@ -9,6 +9,8 @@ tags:
 - hello-world
 - nim
 title: Hello World in Nim
+title1: Hello World
+title2: in Nim
 ---
 
 <!--

@@ -8,6 +8,8 @@ layout: default
 tags:
 - commodore-basic
 title: The Commodore BASIC Programming Language
+title1: The Commodore BASIC
+title2: Programming Language
 ---
 
 <!--

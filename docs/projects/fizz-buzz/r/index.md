@@ -10,6 +10,8 @@ tags:
 - fizz-buzz
 - r
 title: Fizz Buzz in R
+title1: Fizz Buzz
+title2: in R
 ---
 
 <!--

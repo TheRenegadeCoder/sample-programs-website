@@ -10,6 +10,8 @@ tags:
 - capitalize
 - haskell
 title: Capitalize in Haskell
+title1: Capitalize
+title2: in Haskell
 ---
 
 <!--

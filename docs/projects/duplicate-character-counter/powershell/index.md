@@ -9,6 +9,8 @@ tags:
 - duplicate-character-counter
 - powershell
 title: Duplicate Character Counter in PowerShell
+title1: Duplicate Character
+title2: Counter in PowerShell
 ---
 
 <!--

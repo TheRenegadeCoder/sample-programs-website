@@ -9,6 +9,8 @@ tags:
 - hello-world
 - idris
 title: Hello World in Idris
+title1: Hello World
+title2: in Idris
 ---
 
 <!--

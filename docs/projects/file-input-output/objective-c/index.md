@@ -1,7 +1,7 @@
 ---
 authors:
 - Cristiano Lopes
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2020-10-04
 featured-image: file-input-output-in-every-language.jpg
 last-modified: 2026-04-30
@@ -10,6 +10,8 @@ tags:
 - file-input-output
 - objective-c
 title: File Input Output in Objective-C
+title1: File Input Output
+title2: in Objective-C
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - rot13
 - ti-basic
 title: Rot13 in TI-BASIC
+title1: Rot13 in
+title2: TI-BASIC
 ---
 
 <!--

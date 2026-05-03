@@ -9,6 +9,8 @@ tags:
 - javascript
 - sleep-sort
 title: Sleep Sort in JavaScript
+title1: Sleep Sort in
+title2: JavaScript
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - m4
 - palindromic-number
 title: Palindromic Number in m4
+title1: Palindromic
+title2: Number in m4
 ---
 
 <!--

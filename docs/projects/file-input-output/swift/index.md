@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-05-03
 featured-image: file-input-output-in-every-language.jpg
 last-modified: 2026-05-03
@@ -9,6 +9,8 @@ tags:
 - file-input-output
 - swift
 title: File Input Output in Swift
+title1: File Input
+title2: Output in Swift
 ---
 
 <!--

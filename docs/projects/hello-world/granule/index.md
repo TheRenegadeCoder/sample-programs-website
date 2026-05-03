@@ -10,6 +10,8 @@ tags:
 - granule
 - hello-world
 title: Hello World in Granule
+title1: Hello World
+title2: in Granule
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - longest-word
 - ruby
 title: Longest Word in Ruby
+title1: Longest Word
+title2: in Ruby
 ---
 
 <!--

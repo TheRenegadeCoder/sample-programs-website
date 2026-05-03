@@ -9,6 +9,8 @@ tags:
 - hello-world
 - phix
 title: Hello World in Phix
+title1: Hello World
+title2: in Phix
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - odin
 - prime-number
 title: Prime Number in Odin
+title1: Prime Number
+title2: in Odin
 ---
 
 <!--

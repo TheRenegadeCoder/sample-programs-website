@@ -11,6 +11,8 @@ tags:
 - fibonacci
 - java
 title: Fibonacci in Java
+title1: Fibonacci
+title2: in Java
 ---
 
 <!--

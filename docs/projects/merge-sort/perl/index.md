@@ -9,6 +9,8 @@ tags:
 - merge-sort
 - perl
 title: Merge Sort in Perl
+title1: Merge Sort
+title2: in Perl
 ---
 
 <!--

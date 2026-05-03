@@ -9,6 +9,8 @@ tags:
 - mathematica
 - selection-sort
 title: Selection Sort in Mathematica
+title1: Selection Sort
+title2: in Mathematica
 ---
 
 <!--

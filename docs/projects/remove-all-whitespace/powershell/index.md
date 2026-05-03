@@ -9,6 +9,8 @@ tags:
 - powershell
 - remove-all-whitespace
 title: Remove All Whitespace in PowerShell
+title1: Remove All Whitespace
+title2: in PowerShell
 ---
 
 <!--

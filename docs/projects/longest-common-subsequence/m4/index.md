@@ -9,6 +9,8 @@ tags:
 - longest-common-subsequence
 - m4
 title: Longest Common Subsequence in m4
+title1: Longest Common
+title2: Subsequence in m4
 ---
 
 <!--

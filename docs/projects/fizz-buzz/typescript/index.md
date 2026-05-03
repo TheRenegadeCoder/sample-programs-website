@@ -10,6 +10,8 @@ tags:
 - fizz-buzz
 - typescript
 title: Fizz Buzz in TypeScript
+title1: Fizz Buzz in
+title2: TypeScript
 ---
 
 <!--

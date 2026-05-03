@@ -9,6 +9,8 @@ tags:
 - factorial
 - typescript
 title: Factorial in TypeScript
+title1: Factorial in
+title2: TypeScript
 ---
 
 <!--

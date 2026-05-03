@@ -10,6 +10,8 @@ tags:
 - bash
 - even-odd
 title: Even Odd in Bash
+title1: Even Odd
+title2: in Bash
 ---
 
 <!--

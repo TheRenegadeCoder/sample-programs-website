@@ -9,6 +9,8 @@ layout: default
 tags:
 - visual-basic
 title: The Visual Basic Programming Language
+title1: The Visual Basic
+title2: Programming Language
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - algol60
 - baklava
 title: Baklava in ALGOL 60
+title1: Baklava in
+title2: ALGOL 60
 ---
 
 <!--

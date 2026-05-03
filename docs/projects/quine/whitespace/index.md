@@ -9,6 +9,8 @@ tags:
 - quine
 - whitespace
 title: Quine in Whitespace
+title1: Quine in
+title2: Whitespace
 ---
 
 <!--

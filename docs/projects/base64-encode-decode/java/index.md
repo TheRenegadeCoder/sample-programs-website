@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-10
 featured-image: base64-encode-decode-in-every-language.png
 last-modified: 2026-04-10
@@ -9,6 +9,8 @@ tags:
 - base64-encode-decode
 - java
 title: Base64 Encode Decode in Java
+title1: Base64 Encode
+title2: Decode in Java
 ---
 
 <!--

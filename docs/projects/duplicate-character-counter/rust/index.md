@@ -9,6 +9,8 @@ tags:
 - duplicate-character-counter
 - rust
 title: Duplicate Character Counter in Rust
+title1: Duplicate Character
+title2: Counter in Rust
 ---
 
 <!--

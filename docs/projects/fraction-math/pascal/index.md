@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-22
 featured-image: fraction-math-in-every-language.jpg
 last-modified: 2025-07-22
@@ -9,6 +9,8 @@ tags:
 - fraction-math
 - pascal
 title: Fraction Math in Pascal
+title1: Fraction Math
+title2: in Pascal
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - even-odd
 - odin
 title: Even Odd in Odin
+title1: Even Odd
+title2: in Odin
 ---
 
 <!--

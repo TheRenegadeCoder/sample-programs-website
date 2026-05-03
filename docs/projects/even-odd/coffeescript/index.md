@@ -9,6 +9,8 @@ tags:
 - coffeescript
 - even-odd
 title: Even Odd in CoffeeScript
+title1: Even Odd in
+title2: CoffeeScript
 ---
 
 <!--

@@ -1,7 +1,7 @@
 ---
 authors:
 - panda311
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2019-10-15
 featured-image: merge-sort-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - c
 - merge-sort
 title: Merge Sort in C
+title1: Merge
+title2: Sort in C
 ---
 
 <!--

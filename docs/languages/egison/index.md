@@ -6,6 +6,8 @@ layout: default
 tags:
 - egison
 title: The Egison Programming Language
+title1: The Egison
+title2: Programming Language
 ---
 
 <!--

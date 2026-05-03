@@ -9,6 +9,8 @@ tags:
 - bash
 - quine
 title: Quine in Bash
+title1: Quine
+title2: in Bash
 ---
 
 <!--

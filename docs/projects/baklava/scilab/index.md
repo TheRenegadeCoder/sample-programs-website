@@ -9,6 +9,8 @@ tags:
 - baklava
 - scilab
 title: Baklava in Scilab
+title1: Baklava
+title2: in Scilab
 ---
 
 <!--

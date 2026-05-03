@@ -9,6 +9,8 @@ tags:
 - dijkstra
 - mathematica
 title: Dijkstra in Mathematica
+title1: Dijkstra in
+title2: Mathematica
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - euphoria
 - file-input-output
 title: File Input Output in Euphoria
+title1: File Input Output
+title2: in Euphoria
 ---
 
 <!--

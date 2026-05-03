@@ -9,6 +9,8 @@ tags:
 - fennel
 - fizz-buzz
 title: Fizz Buzz in Fennel
+title1: Fizz Buzz
+title2: in Fennel
 ---
 
 <!--

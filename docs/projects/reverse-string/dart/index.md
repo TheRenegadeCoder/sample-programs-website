@@ -13,6 +13,8 @@ tags:
 - dart
 - reverse-string
 title: Reverse String in Dart
+title1: Reverse String
+title2: in Dart
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - dart
 - remove-all-whitespace
 title: Remove All Whitespace in Dart
+title1: Remove All
+title2: Whitespace in Dart
 ---
 
 <!--

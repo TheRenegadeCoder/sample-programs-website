@@ -9,6 +9,8 @@ tags:
 - duplicate-character-counter
 - kotlin
 title: Duplicate Character Counter in Kotlin
+title1: Duplicate Character
+title2: Counter in Kotlin
 ---
 
 <!--

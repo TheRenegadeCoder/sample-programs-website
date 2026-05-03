@@ -10,6 +10,8 @@ tags:
 - erlang
 - reverse-string
 title: Reverse String in Erlang
+title1: Reverse String
+title2: in Erlang
 ---
 
 <!--

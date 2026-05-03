@@ -8,6 +8,8 @@ layout: default
 tags:
 - phix
 title: The Phix Programming Language
+title1: The Phix Programming
+title2: Language
 ---
 
 <!--

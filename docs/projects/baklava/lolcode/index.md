@@ -9,6 +9,8 @@ tags:
 - baklava
 - lolcode
 title: Baklava in LOLCODE
+title1: Baklava in
+title2: LOLCODE
 ---
 
 <!--

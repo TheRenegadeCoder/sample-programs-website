@@ -9,6 +9,8 @@ tags:
 - beef
 - duplicate-character-counter
 title: Duplicate Character Counter in Beef
+title1: Duplicate Character
+title2: Counter in Beef
 ---
 
 <!--

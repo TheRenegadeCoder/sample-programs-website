@@ -9,6 +9,8 @@ tags:
 - euphoria
 - even-odd
 title: Even Odd in Euphoria
+title1: Even Odd in
+title2: Euphoria
 ---
 
 <!--

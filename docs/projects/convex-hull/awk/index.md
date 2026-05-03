@@ -9,6 +9,8 @@ tags:
 - awk
 - convex-hull
 title: Convex Hull in AWK
+title1: Convex Hull
+title2: in AWK
 ---
 
 <!--

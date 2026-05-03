@@ -9,6 +9,8 @@ tags:
 - euphoria
 - palindromic-number
 title: Palindromic Number in Euphoria
+title1: Palindromic Number
+title2: in Euphoria
 ---
 
 <!--

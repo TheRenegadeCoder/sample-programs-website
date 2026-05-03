@@ -11,6 +11,8 @@ tags:
 - baklava
 - c-plus-plus
 title: Baklava in C++
+title1: Baklava
+title2: in C++
 ---
 
 <!--

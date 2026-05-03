@@ -1,7 +1,7 @@
 ---
 authors:
-- "Christoph B\xF6hmwalder"
-- "\u0218tefan-Iulian Alecu"
+- Christoph Böhmwalder
+- Ștefan-Iulian Alecu
 date: 2019-01-04
 featured-image: bubble-sort-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - bubble-sort
 - c
 title: Bubble Sort in C
+title1: Bubble
+title2: Sort in C
 ---
 
 <!--

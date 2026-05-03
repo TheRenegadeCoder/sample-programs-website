@@ -6,6 +6,8 @@ layout: default
 tags:
 - coffeescript
 title: The CoffeeScript Programming Language
+title1: The CoffeeScript
+title2: Programming Language
 ---
 
 <!--

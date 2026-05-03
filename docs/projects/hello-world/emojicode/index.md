@@ -11,6 +11,8 @@ tags:
 - emojicode
 - hello-world
 title: Hello World in Emojicode
+title1: Hello World
+title2: in Emojicode
 ---
 
 <!--

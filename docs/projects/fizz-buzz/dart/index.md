@@ -9,6 +9,8 @@ tags:
 - dart
 - fizz-buzz
 title: Fizz Buzz in Dart
+title1: Fizz Buzz
+title2: in Dart
 ---
 
 <!--

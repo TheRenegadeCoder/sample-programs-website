@@ -1,7 +1,7 @@
 ---
 authors:
 - Vipin Yadav
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2022-10-03
 featured-image: duplicate-character-counter-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - c
 - duplicate-character-counter
 title: Duplicate Character Counter in C
+title1: Duplicate Character
+title2: Counter in C
 ---
 
 <!--

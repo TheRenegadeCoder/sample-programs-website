@@ -9,6 +9,8 @@ tags:
 - algol68
 - fizz-buzz
 title: Fizz Buzz in ALGOL 68
+title1: Fizz Buzz
+title2: in ALGOL 68
 ---
 
 <!--

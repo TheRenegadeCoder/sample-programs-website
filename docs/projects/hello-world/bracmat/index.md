@@ -9,6 +9,8 @@ tags:
 - bracmat
 - hello-world
 title: Hello World in Bracmat
+title1: Hello World
+title2: in Bracmat
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - gnu-make
 - prime-number
 title: Prime Number in GNU Make
+title1: Prime Number
+title2: in GNU Make
 ---
 
 <!--

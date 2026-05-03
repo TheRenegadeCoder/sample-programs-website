@@ -9,6 +9,8 @@ tags:
 - dijkstra
 - x86-64
 title: Dijkstra in x86-64
+title1: Dijkstra
+title2: in x86-64
 ---
 
 <!--

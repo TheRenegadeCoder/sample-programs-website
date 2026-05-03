@@ -3,7 +3,7 @@ authors:
 - Jeremy Grifski
 - rzuckerm
 - smjalageri
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2021-11-01
 featured-image: palindromic-number-in-every-language.jpg
 last-modified: 2026-04-15
@@ -12,6 +12,8 @@ tags:
 - c
 - palindromic-number
 title: Palindromic Number in C
+title1: Palindromic
+title2: Number in C
 ---
 
 <!--

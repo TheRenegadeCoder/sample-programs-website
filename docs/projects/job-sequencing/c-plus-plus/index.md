@@ -1,7 +1,7 @@
 ---
 authors:
 - Apurva Vats
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-31
 featured-image: job-sequencing-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - c-plus-plus
 - job-sequencing
 title: Job Sequencing in C++
+title1: Job Sequencing
+title2: in C++
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - awk
 - rot13
 title: Rot13 in AWK
+title1: Rot13
+title2: in AWK
 ---
 
 <!--

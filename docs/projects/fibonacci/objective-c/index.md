@@ -2,7 +2,7 @@
 authors:
 - Renato
 - rzuckerm
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2020-10-01
 featured-image: fibonacci-in-every-language.jpg
 last-modified: 2026-04-30
@@ -11,6 +11,8 @@ tags:
 - fibonacci
 - objective-c
 title: Fibonacci in Objective-C
+title1: Fibonacci in
+title2: Objective-C
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - dart
 - factorial
 title: Factorial in Dart
+title1: Factorial
+title2: in Dart
 ---
 
 <!--

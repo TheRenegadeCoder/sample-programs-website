@@ -9,6 +9,8 @@ tags:
 - bubble-sort
 - commodore-basic
 title: Bubble Sort in Commodore BASIC
+title1: Bubble Sort in
+title2: Commodore BASIC
 ---
 
 <!--

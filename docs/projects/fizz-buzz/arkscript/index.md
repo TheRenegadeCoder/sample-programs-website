@@ -9,6 +9,8 @@ tags:
 - arkscript
 - fizz-buzz
 title: Fizz Buzz in ArkScript
+title1: Fizz Buzz in
+title2: ArkScript
 ---
 
 <!--

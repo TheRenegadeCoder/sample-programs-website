@@ -9,6 +9,8 @@ layout: default
 tags:
 - racket
 title: The Racket Programming Language
+title1: The Racket
+title2: Programming Language
 ---
 
 <!--

@@ -13,6 +13,8 @@ tags:
 - hello-world
 - red
 title: Hello World in Red
+title1: Hello World
+title2: in Red
 ---
 
 <!--

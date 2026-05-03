@@ -9,6 +9,8 @@ tags:
 - julia
 - palindromic-number
 title: Palindromic Number in Julia
+title1: Palindromic
+title2: Number in Julia
 ---
 
 <!--

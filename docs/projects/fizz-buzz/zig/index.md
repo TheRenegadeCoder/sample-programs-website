@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - zig
 title: Fizz Buzz in Zig
+title1: Fizz Buzz
+title2: in Zig
 ---
 
 <!--

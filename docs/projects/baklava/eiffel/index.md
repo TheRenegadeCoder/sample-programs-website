@@ -9,6 +9,8 @@ tags:
 - baklava
 - eiffel
 title: Baklava in Eiffel
+title1: Baklava
+title2: in Eiffel
 ---
 
 <!--

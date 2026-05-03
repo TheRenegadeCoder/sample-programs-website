@@ -9,6 +9,8 @@ tags:
 - hello-world
 - whitespace
 title: Hello World in Whitespace
+title1: Hello World
+title2: in Whitespace
 ---
 
 <!--

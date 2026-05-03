@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - moonscript
 title: Fizz Buzz in MoonScript
+title1: Fizz Buzz in
+title2: MoonScript
 ---
 
 <!--

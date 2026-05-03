@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - palindromic-number
 title: Palindromic Number in Commodore BASIC
+title1: Palindromic Number
+title2: in Commodore BASIC
 ---
 
 <!--

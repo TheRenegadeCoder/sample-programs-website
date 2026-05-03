@@ -6,6 +6,8 @@ layout: default
 tags:
 - fetlang
 title: The Fetlang Programming Language
+title1: The Fetlang
+title2: Programming Language
 ---
 
 <!--

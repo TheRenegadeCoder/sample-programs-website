@@ -13,6 +13,8 @@ tags:
 - fibonacci
 - javascript
 title: Fibonacci in JavaScript
+title1: Fibonacci in
+title2: JavaScript
 ---
 
 <!--

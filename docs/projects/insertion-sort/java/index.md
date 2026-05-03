@@ -11,6 +11,8 @@ tags:
 - insertion-sort
 - java
 title: Insertion Sort in Java
+title1: Insertion
+title2: Sort in Java
 ---
 
 <!--

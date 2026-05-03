@@ -9,6 +9,8 @@ tags:
 - longest-word
 - perl
 title: Longest Word in Perl
+title1: Longest Word
+title2: in Perl
 ---
 
 <!--

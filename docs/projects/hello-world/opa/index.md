@@ -11,6 +11,8 @@ tags:
 - hello-world
 - opa
 title: Hello World in Opa
+title1: Hello World
+title2: in Opa
 ---
 
 <!--

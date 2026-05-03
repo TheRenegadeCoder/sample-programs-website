@@ -6,6 +6,8 @@ layout: default
 tags:
 - pineapple
 title: The Pineapple Programming Language
+title1: The Pineapple
+title2: Programming Language
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - fibonacci
 - ti-basic
 title: Fibonacci in TI-BASIC
+title1: Fibonacci
+title2: in TI-BASIC
 ---
 
 <!--

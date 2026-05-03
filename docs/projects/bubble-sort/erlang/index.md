@@ -10,6 +10,8 @@ tags:
 - bubble-sort
 - erlang
 title: Bubble Sort in Erlang
+title1: Bubble Sort
+title2: in Erlang
 ---
 
 <!--

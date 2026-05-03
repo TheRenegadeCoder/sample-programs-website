@@ -1,7 +1,7 @@
 ---
 authors:
 - rzuckerm
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2024-12-23
 featured-image: baklava-in-every-language.jpg
 last-modified: 2026-04-30
@@ -10,6 +10,8 @@ tags:
 - baklava
 - objective-c
 title: Baklava in Objective-C
+title1: Baklava in
+title2: Objective-C
 ---
 
 <!--

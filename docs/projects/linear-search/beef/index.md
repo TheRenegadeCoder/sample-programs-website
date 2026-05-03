@@ -9,6 +9,8 @@ tags:
 - beef
 - linear-search
 title: Linear Search in Beef
+title1: Linear Search
+title2: in Beef
 ---
 
 <!--

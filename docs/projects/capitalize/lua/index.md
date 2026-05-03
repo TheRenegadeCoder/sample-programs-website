@@ -10,6 +10,8 @@ tags:
 - capitalize
 - lua
 title: Capitalize in Lua
+title1: Capitalize
+title2: in Lua
 ---
 
 <!--

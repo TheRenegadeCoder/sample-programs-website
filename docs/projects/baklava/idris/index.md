@@ -9,6 +9,8 @@ tags:
 - baklava
 - idris
 title: Baklava in Idris
+title1: Baklava
+title2: in Idris
 ---
 
 <!--

@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-10
 featured-image: sleep-sort-in-every-language.jpg
 last-modified: 2026-04-10
@@ -9,6 +9,8 @@ tags:
 - java
 - sleep-sort
 title: Sleep Sort in Java
+title1: Sleep Sort
+title2: in Java
 ---
 
 <!--

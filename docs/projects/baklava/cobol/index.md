@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-18
 featured-image: baklava-in-every-language.jpg
 last-modified: 2026-04-18
@@ -9,6 +9,8 @@ tags:
 - baklava
 - cobol
 title: Baklava in COBOL
+title1: Baklava
+title2: in COBOL
 ---
 
 <!--

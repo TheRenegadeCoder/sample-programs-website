@@ -10,6 +10,8 @@ layout: default
 tags:
 - befunge
 title: The Befunge Programming Language
+title1: The Befunge
+title2: Programming Language
 ---
 
 <!--

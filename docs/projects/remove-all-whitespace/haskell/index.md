@@ -9,6 +9,8 @@ tags:
 - haskell
 - remove-all-whitespace
 title: Remove All Whitespace in Haskell
+title1: Remove All Whitespace
+title2: in Haskell
 ---
 
 <!--

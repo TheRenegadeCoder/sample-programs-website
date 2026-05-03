@@ -9,6 +9,8 @@ tags:
 - baklava
 - typescript
 title: Baklava in TypeScript
+title1: Baklava in
+title2: TypeScript
 ---
 
 <!--

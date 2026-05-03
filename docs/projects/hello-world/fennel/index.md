@@ -9,6 +9,8 @@ tags:
 - fennel
 - hello-world
 title: Hello World in Fennel
+title1: Hello World
+title2: in Fennel
 ---
 
 <!--

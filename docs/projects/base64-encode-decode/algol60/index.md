@@ -9,6 +9,8 @@ tags:
 - algol60
 - base64-encode-decode
 title: Base64 Encode Decode in ALGOL 60
+title1: Base64 Encode
+title2: Decode in ALGOL 60
 ---
 
 <!--

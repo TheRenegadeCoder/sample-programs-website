@@ -8,6 +8,8 @@ layout: default
 tags:
 - algol68
 title: The ALGOL 68 Programming Language
+title1: The ALGOL 68
+title2: Programming Language
 ---
 
 <!--

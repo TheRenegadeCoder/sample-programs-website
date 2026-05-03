@@ -9,6 +9,8 @@ tags:
 - go
 - longest-palindromic-substring
 title: Longest Palindromic Substring in Go
+title1: Longest Palindromic
+title2: Substring in Go
 ---
 
 <!--

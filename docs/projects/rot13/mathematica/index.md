@@ -9,6 +9,8 @@ tags:
 - mathematica
 - rot13
 title: Rot13 in Mathematica
+title1: Rot13 in
+title2: Mathematica
 ---
 
 <!--

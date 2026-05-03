@@ -9,6 +9,8 @@ tags:
 - nit
 - reverse-string
 title: Reverse String in Nit
+title1: Reverse
+title2: String in Nit
 ---
 
 <!--

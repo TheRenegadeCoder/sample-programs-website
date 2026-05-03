@@ -10,6 +10,8 @@ tags:
 - nim
 - reverse-string
 title: Reverse String in Nim
+title1: Reverse
+title2: String in Nim
 ---
 
 <!--

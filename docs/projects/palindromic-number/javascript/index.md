@@ -10,6 +10,8 @@ tags:
 - javascript
 - palindromic-number
 title: Palindromic Number in JavaScript
+title1: Palindromic Number
+title2: in JavaScript
 ---
 
 <!--

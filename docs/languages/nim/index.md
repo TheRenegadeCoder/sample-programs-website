@@ -6,6 +6,8 @@ layout: default
 tags:
 - nim
 title: The Nim Programming Language
+title1: The Nim Programming
+title2: Language
 ---
 
 <!--

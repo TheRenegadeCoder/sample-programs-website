@@ -6,6 +6,8 @@ layout: default
 tags:
 - little
 title: The Little Programming Language
+title1: The Little
+title2: Programming Language
 ---
 
 <!--

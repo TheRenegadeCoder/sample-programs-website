@@ -9,6 +9,8 @@ tags:
 - go
 - sleep-sort
 title: Sleep Sort in Go
+title1: Sleep Sort
+title2: in Go
 ---
 
 <!--

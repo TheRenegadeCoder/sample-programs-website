@@ -9,6 +9,8 @@ tags:
 - linear-search
 - typescript
 title: Linear Search in TypeScript
+title1: Linear Search
+title2: in TypeScript
 ---
 
 <!--

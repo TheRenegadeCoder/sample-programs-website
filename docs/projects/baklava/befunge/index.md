@@ -9,6 +9,8 @@ tags:
 - baklava
 - befunge
 title: Baklava in Befunge
+title1: Baklava in
+title2: Befunge
 ---
 
 <!--

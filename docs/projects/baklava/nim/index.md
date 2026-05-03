@@ -9,6 +9,8 @@ tags:
 - baklava
 - nim
 title: Baklava in Nim
+title1: Baklava
+title2: in Nim
 ---
 
 <!--

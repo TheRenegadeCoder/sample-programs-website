@@ -9,6 +9,8 @@ layout: default
 tags:
 - koka
 title: The Koka Programming Language
+title1: The Koka Programming
+title2: Language
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - maximum-subarray
 - typescript
 title: Maximum Subarray in TypeScript
+title1: Maximum Subarray
+title2: in TypeScript
 ---
 
 <!--

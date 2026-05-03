@@ -6,6 +6,8 @@ layout: default
 tags:
 - gerbil
 title: The Gerbil Programming Language
+title1: The Gerbil
+title2: Programming Language
 ---
 
 <!--

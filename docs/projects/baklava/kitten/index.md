@@ -9,6 +9,8 @@ tags:
 - baklava
 - kitten
 title: Baklava in Kitten
+title1: Baklava
+title2: in Kitten
 ---
 
 <!--

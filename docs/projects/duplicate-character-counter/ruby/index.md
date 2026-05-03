@@ -9,6 +9,8 @@ tags:
 - duplicate-character-counter
 - ruby
 title: Duplicate Character Counter in Ruby
+title1: Duplicate Character
+title2: Counter in Ruby
 ---
 
 <!--

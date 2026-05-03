@@ -10,6 +10,8 @@ tags:
 - lisp
 - reverse-string
 title: Reverse String in Lisp
+title1: Reverse String
+title2: in Lisp
 ---
 
 <!--

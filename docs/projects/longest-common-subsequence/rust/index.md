@@ -9,6 +9,8 @@ tags:
 - longest-common-subsequence
 - rust
 title: Longest Common Subsequence in Rust
+title1: Longest Common
+title2: Subsequence in Rust
 ---
 
 <!--

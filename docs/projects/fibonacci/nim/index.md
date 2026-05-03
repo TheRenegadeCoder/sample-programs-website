@@ -9,6 +9,8 @@ tags:
 - fibonacci
 - nim
 title: Fibonacci in Nim
+title1: Fibonacci
+title2: in Nim
 ---
 
 <!--

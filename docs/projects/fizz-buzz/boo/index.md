@@ -9,6 +9,8 @@ tags:
 - boo
 - fizz-buzz
 title: Fizz Buzz in Boo
+title1: Fizz Buzz
+title2: in Boo
 ---
 
 <!--

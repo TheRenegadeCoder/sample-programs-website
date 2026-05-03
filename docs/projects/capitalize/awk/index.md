@@ -9,6 +9,8 @@ tags:
 - awk
 - capitalize
 title: Capitalize in AWK
+title1: Capitalize
+title2: in AWK
 ---
 
 <!--

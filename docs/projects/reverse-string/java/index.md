@@ -11,6 +11,8 @@ tags:
 - java
 - reverse-string
 title: Reverse String in Java
+title1: Reverse String
+title2: in Java
 ---
 
 <!--

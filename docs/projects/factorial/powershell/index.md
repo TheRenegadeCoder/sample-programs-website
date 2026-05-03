@@ -9,6 +9,8 @@ tags:
 - factorial
 - powershell
 title: Factorial in PowerShell
+title1: Factorial in
+title2: PowerShell
 ---
 
 <!--

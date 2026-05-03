@@ -1,6 +1,6 @@
 ---
 authors:
-- "Bodo Sch\xF6nfeld"
+- Bodo Schönfeld
 - Jeremy Grifski
 - Noah Nichols
 - Vincent Caron
@@ -12,6 +12,8 @@ tags:
 - fizz-buzz
 - rust
 title: Fizz Buzz in Rust
+title1: Fizz Buzz
+title2: in Rust
 ---
 
 <!--

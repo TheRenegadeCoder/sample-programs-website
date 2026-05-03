@@ -9,6 +9,8 @@ tags:
 - duplicate-character-counter
 - swift
 title: Duplicate Character Counter in Swift
+title1: Duplicate Character
+title2: Counter in Swift
 ---
 
 <!--

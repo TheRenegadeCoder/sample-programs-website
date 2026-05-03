@@ -9,6 +9,8 @@ tags:
 - capitalize
 - euphoria
 title: Capitalize in Euphoria
+title1: Capitalize
+title2: in Euphoria
 ---
 
 <!--

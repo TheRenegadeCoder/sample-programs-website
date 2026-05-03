@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-08
 featured-image: convex-hull-in-every-language.jpg
 last-modified: 2026-04-08
@@ -9,6 +9,8 @@ tags:
 - convex-hull
 - f-sharp
 title: Convex Hull in F#
+title1: Convex
+title2: Hull in F#
 ---
 
 <!--

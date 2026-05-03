@@ -9,6 +9,8 @@ tags:
 - prime-number
 - wren
 title: Prime Number in Wren
+title1: Prime Number
+title2: in Wren
 ---
 
 <!--

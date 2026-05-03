@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-21
 featured-image: maximum-array-rotation-in-every-language.jpg
 last-modified: 2025-07-21
@@ -9,6 +9,8 @@ tags:
 - maximum-array-rotation
 - pascal
 title: Maximum Array Rotation in Pascal
+title1: Maximum Array
+title2: Rotation in Pascal
 ---
 
 <!--

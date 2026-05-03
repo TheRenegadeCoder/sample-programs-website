@@ -9,6 +9,8 @@ tags:
 - capitalize
 - pascal
 title: Capitalize in Pascal
+title1: Capitalize
+title2: in Pascal
 ---
 
 <!--

@@ -10,6 +10,8 @@ tags:
 - prime-number
 - typescript
 title: Prime Number in TypeScript
+title1: Prime Number
+title2: in TypeScript
 ---
 
 <!--

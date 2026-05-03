@@ -9,6 +9,8 @@ tags:
 - factorial
 - ruby
 title: Factorial in Ruby
+title1: Factorial
+title2: in Ruby
 ---
 
 <!--

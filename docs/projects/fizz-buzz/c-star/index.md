@@ -9,6 +9,8 @@ tags:
 - c-star
 - fizz-buzz
 title: Fizz Buzz in C*
+title1: Fizz Buzz
+title2: in C*
 ---
 
 <!--

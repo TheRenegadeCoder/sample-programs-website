@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - rot13
 title: Rot13 in Commodore BASIC
+title1: Rot13 in
+title2: Commodore BASIC
 ---
 
 <!--

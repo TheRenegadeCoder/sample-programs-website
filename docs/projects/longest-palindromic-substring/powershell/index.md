@@ -9,6 +9,8 @@ tags:
 - longest-palindromic-substring
 - powershell
 title: Longest Palindromic Substring in PowerShell
+title1: Longest Palindromic
+title2: Substring in PowerShell
 ---
 
 <!--

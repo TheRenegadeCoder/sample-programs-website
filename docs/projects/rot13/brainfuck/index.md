@@ -9,6 +9,8 @@ tags:
 - brainfuck
 - rot13
 title: Rot13 in Brainfuck
+title1: Rot13 in
+title2: Brainfuck
 ---
 
 <!--

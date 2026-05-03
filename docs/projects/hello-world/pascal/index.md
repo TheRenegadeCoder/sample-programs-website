@@ -11,6 +11,8 @@ tags:
 - hello-world
 - pascal
 title: Hello World in Pascal
+title1: Hello World
+title2: in Pascal
 ---
 
 <!--

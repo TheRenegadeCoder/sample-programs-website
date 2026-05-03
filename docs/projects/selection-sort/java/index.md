@@ -10,6 +10,8 @@ tags:
 - java
 - selection-sort
 title: Selection Sort in Java
+title1: Selection
+title2: Sort in Java
 ---
 
 <!--

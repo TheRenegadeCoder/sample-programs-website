@@ -9,6 +9,8 @@ tags:
 - base64-encode-decode
 - javascript
 title: Base64 Encode Decode in JavaScript
+title1: Base64 Encode Decode
+title2: in JavaScript
 ---
 
 <!--

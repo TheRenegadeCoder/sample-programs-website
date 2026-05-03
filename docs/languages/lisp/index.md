@@ -9,6 +9,8 @@ layout: default
 tags:
 - lisp
 title: The Lisp Programming Language
+title1: The Lisp Programming
+title2: Language
 ---
 
 <!--

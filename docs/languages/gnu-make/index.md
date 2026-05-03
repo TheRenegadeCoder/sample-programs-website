@@ -8,6 +8,8 @@ layout: default
 tags:
 - gnu-make
 title: The GNU Make Programming Language
+title1: The GNU Make
+title2: Programming Language
 ---
 
 <!--

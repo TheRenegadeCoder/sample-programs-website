@@ -9,6 +9,8 @@ tags:
 - gnu-make
 - quine
 title: Quine in GNU Make
+title1: Quine in
+title2: GNU Make
 ---
 
 <!--

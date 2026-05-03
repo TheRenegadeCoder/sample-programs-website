@@ -12,6 +12,8 @@ tags:
 - python
 - quick-sort
 title: Quick Sort in Python
+title1: Quick Sort
+title2: in Python
 ---
 
 <!--

@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-19
 featured-image: linear-search-in-every-language.jpg
 last-modified: 2026-04-19
@@ -9,6 +9,8 @@ tags:
 - cobol
 - linear-search
 title: Linear Search in COBOL
+title1: Linear Search
+title2: in COBOL
 ---
 
 <!--

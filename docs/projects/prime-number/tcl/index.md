@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-09
 featured-image: prime-number-in-every-language.jpg
 last-modified: 2025-10-09
@@ -9,6 +9,8 @@ tags:
 - prime-number
 - tcl
 title: Prime Number in Tcl
+title1: Prime Number
+title2: in Tcl
 ---
 
 <!--

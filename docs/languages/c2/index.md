@@ -6,6 +6,8 @@ layout: default
 tags:
 - c2
 title: The C2 Programming Language
+title1: The C2 Programming
+title2: Language
 ---
 
 <!--

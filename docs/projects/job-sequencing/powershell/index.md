@@ -9,6 +9,8 @@ tags:
 - job-sequencing
 - powershell
 title: Job Sequencing in PowerShell
+title1: Job Sequencing
+title2: in PowerShell
 ---
 
 <!--

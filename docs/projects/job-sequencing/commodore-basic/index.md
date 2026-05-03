@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - job-sequencing
 title: Job Sequencing in Commodore BASIC
+title1: Job Sequencing in
+title2: Commodore BASIC
 ---
 
 <!--

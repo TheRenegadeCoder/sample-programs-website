@@ -1,7 +1,7 @@
 ---
 authors:
 - Maximillian Naza
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-01-18
 featured-image: fraction-math-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - c
 - fraction-math
 title: Fraction Math in C
+title1: Fraction
+title2: Math in C
 ---
 
 <!--

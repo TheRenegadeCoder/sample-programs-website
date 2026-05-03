@@ -9,6 +9,8 @@ tags:
 - kotlin
 - remove-all-whitespace
 title: Remove All Whitespace in Kotlin
+title1: Remove All
+title2: Whitespace in Kotlin
 ---
 
 <!--

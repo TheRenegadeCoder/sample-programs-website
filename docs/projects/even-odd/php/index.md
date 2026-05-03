@@ -10,6 +10,8 @@ tags:
 - even-odd
 - php
 title: Even Odd in PHP
+title1: Even Odd
+title2: in PHP
 ---
 
 <!--

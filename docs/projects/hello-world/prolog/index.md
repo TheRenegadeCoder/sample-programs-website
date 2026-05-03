@@ -9,6 +9,8 @@ tags:
 - hello-world
 - prolog
 title: Hello World in Prolog
+title1: Hello World
+title2: in Prolog
 ---
 
 <!--

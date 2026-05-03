@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-15
 featured-image: hello-world-in-every-language.jpg
 last-modified: 2025-10-15
@@ -9,6 +9,8 @@ tags:
 - fortran
 - hello-world
 title: Hello World in Fortran
+title1: Hello World
+title2: in Fortran
 ---
 
 <!--

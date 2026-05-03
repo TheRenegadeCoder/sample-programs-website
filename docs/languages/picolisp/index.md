@@ -9,6 +9,8 @@ layout: default
 tags:
 - picolisp
 title: The PicoLisp Programming Language
+title1: The PicoLisp
+title2: Programming Language
 ---
 
 <!--

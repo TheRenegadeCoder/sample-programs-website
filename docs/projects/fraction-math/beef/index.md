@@ -9,6 +9,8 @@ tags:
 - beef
 - fraction-math
 title: Fraction Math in Beef
+title1: Fraction
+title2: Math in Beef
 ---
 
 <!--

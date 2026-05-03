@@ -6,6 +6,8 @@ layout: default
 tags:
 - agda
 title: The Agda Programming Language
+title1: The Agda Programming
+title2: Language
 ---
 
 <!--

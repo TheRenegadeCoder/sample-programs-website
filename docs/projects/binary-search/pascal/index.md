@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-21
 featured-image: binary-search-in-every-language.jpg
 last-modified: 2025-07-21
@@ -9,6 +9,8 @@ tags:
 - binary-search
 - pascal
 title: Binary Search in Pascal
+title1: Binary Search
+title2: in Pascal
 ---
 
 <!--

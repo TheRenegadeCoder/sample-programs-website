@@ -9,6 +9,8 @@ tags:
 - even-odd
 - x86-64
 title: Even Odd in x86-64
+title1: Even Odd
+title2: in x86-64
 ---
 
 <!--

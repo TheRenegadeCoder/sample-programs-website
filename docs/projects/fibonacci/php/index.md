@@ -10,6 +10,8 @@ tags:
 - fibonacci
 - php
 title: Fibonacci in PHP
+title1: Fibonacci
+title2: in PHP
 ---
 
 <!--

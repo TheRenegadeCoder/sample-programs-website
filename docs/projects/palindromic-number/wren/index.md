@@ -9,6 +9,8 @@ tags:
 - palindromic-number
 - wren
 title: Palindromic Number in Wren
+title1: Palindromic
+title2: Number in Wren
 ---
 
 <!--

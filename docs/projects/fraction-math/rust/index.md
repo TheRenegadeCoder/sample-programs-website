@@ -9,6 +9,8 @@ tags:
 - fraction-math
 - rust
 title: Fraction Math in Rust
+title1: Fraction
+title2: Math in Rust
 ---
 
 <!--

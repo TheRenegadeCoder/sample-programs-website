@@ -9,6 +9,8 @@ tags:
 - beef
 - remove-all-whitespace
 title: Remove All Whitespace in Beef
+title1: Remove All
+title2: Whitespace in Beef
 ---
 
 <!--

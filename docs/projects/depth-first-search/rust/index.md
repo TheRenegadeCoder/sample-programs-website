@@ -9,6 +9,8 @@ tags:
 - depth-first-search
 - rust
 title: Depth First Search in Rust
+title1: Depth First
+title2: Search in Rust
 ---
 
 <!--

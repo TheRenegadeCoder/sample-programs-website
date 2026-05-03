@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - mathematica
 title: Fizz Buzz in Mathematica
+title1: Fizz Buzz in
+title2: Mathematica
 ---
 
 <!--

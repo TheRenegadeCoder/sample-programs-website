@@ -9,6 +9,8 @@ tags:
 - beef
 - maximum-subarray
 title: Maximum Subarray in Beef
+title1: Maximum Subarray
+title2: in Beef
 ---
 
 <!--

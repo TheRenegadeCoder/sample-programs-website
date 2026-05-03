@@ -10,6 +10,8 @@ tags:
 - javascript
 - merge-sort
 title: Merge Sort in JavaScript
+title1: Merge Sort in
+title2: JavaScript
 ---
 
 <!--

@@ -10,6 +10,8 @@ tags:
 - file-input-output
 - lua
 title: File Input Output in Lua
+title1: File Input
+title2: Output in Lua
 ---
 
 <!--

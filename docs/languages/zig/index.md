@@ -6,6 +6,8 @@ layout: default
 tags:
 - zig
 title: The Zig Programming Language
+title1: The Zig Programming
+title2: Language
 ---
 
 <!--

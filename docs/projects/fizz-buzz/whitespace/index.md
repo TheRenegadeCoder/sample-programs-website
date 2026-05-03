@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - whitespace
 title: Fizz Buzz in Whitespace
+title1: Fizz Buzz in
+title2: Whitespace
 ---
 
 <!--

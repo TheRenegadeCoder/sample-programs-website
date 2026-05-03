@@ -9,6 +9,8 @@ tags:
 - palindromic-number
 - ruby
 title: Palindromic Number in Ruby
+title1: Palindromic
+title2: Number in Ruby
 ---
 
 <!--

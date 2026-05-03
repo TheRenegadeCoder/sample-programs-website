@@ -6,6 +6,8 @@ layout: default
 tags:
 - insertion-sort
 title: Insertion Sort
+title1: Insertion
+title2: Sort
 ---
 
 <!--

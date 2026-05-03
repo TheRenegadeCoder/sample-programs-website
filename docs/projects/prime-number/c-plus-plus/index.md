@@ -2,7 +2,7 @@
 authors:
 - Daffa Daraz
 - Jeremy Grifski
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2019-10-14
 featured-image: prime-number-in-every-language.jpg
 last-modified: 2026-04-15
@@ -11,6 +11,8 @@ tags:
 - c-plus-plus
 - prime-number
 title: Prime Number in C++
+title1: Prime Number
+title2: in C++
 ---
 
 <!--

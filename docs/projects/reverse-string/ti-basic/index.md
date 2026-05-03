@@ -9,6 +9,8 @@ tags:
 - reverse-string
 - ti-basic
 title: Reverse String in TI-BASIC
+title1: Reverse String
+title2: in TI-BASIC
 ---
 
 <!--

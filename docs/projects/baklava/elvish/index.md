@@ -9,6 +9,8 @@ tags:
 - baklava
 - elvish
 title: Baklava in Elvish
+title1: Baklava
+title2: in Elvish
 ---
 
 <!--

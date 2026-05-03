@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-19
 featured-image: binary-search-in-every-language.jpg
 last-modified: 2026-04-19
@@ -9,6 +9,8 @@ tags:
 - binary-search
 - cobol
 title: Binary Search in COBOL
+title1: Binary Search
+title2: in COBOL
 ---
 
 <!--

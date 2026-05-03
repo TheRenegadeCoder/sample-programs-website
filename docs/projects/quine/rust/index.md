@@ -10,6 +10,8 @@ tags:
 - quine
 - rust
 title: Quine in Rust
+title1: Quine
+title2: in Rust
 ---
 
 <!--

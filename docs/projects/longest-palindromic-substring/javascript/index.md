@@ -9,6 +9,8 @@ tags:
 - javascript
 - longest-palindromic-substring
 title: Longest Palindromic Substring in JavaScript
+title1: Longest Palindromic
+title2: Substring in JavaScript
 ---
 
 <!--

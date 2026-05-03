@@ -6,6 +6,8 @@ layout: default
 tags:
 - groovy
 title: The Groovy Programming Language
+title1: The Groovy
+title2: Programming Language
 ---
 
 <!--

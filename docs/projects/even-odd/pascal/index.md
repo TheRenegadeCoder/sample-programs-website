@@ -9,6 +9,8 @@ tags:
 - even-odd
 - pascal
 title: Even Odd in Pascal
+title1: Even Odd
+title2: in Pascal
 ---
 
 <!--

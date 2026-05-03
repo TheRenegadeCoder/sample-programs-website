@@ -6,6 +6,8 @@ layout: default
 tags:
 - nit
 title: The Nit Programming Language
+title1: The Nit Programming
+title2: Language
 ---
 
 <!--

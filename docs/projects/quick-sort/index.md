@@ -6,6 +6,8 @@ layout: default
 tags:
 - quick-sort
 title: Quick Sort
+title1: Quick
+title2: Sort
 ---
 
 <!--

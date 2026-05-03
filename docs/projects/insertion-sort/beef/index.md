@@ -9,6 +9,8 @@ tags:
 - beef
 - insertion-sort
 title: Insertion Sort in Beef
+title1: Insertion
+title2: Sort in Beef
 ---
 
 <!--

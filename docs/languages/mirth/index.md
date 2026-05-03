@@ -6,6 +6,8 @@ layout: default
 tags:
 - mirth
 title: The Mirth Programming Language
+title1: The Mirth Programming
+title2: Language
 ---
 
 <!--

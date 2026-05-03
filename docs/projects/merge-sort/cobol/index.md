@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-21
 featured-image: merge-sort-in-every-language.jpg
 last-modified: 2026-04-21
@@ -9,6 +9,8 @@ tags:
 - cobol
 - merge-sort
 title: Merge Sort in COBOL
+title1: Merge Sort
+title2: in COBOL
 ---
 
 <!--

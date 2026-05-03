@@ -9,6 +9,8 @@ tags:
 - dart
 - fibonacci
 title: Fibonacci in Dart
+title1: Fibonacci
+title2: in Dart
 ---
 
 <!--

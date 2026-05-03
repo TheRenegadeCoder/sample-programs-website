@@ -9,6 +9,8 @@ layout: default
 tags:
 - brainfuck
 title: The Brainfuck Programming Language
+title1: The Brainfuck
+title2: Programming Language
 ---
 
 <!--

@@ -6,6 +6,8 @@ layout: default
 tags:
 - lolcode
 title: The LOLCODE Programming Language
+title1: The LOLCODE
+title2: Programming Language
 ---
 
 <!--

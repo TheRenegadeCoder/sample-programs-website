@@ -1,7 +1,7 @@
 ---
 authors:
 - Juan D Frias
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2019-10-16
 featured-image: fizz-buzz-in-every-language.png
 last-modified: 2026-04-30
@@ -10,6 +10,8 @@ tags:
 - fizz-buzz
 - objective-c
 title: Fizz Buzz in Objective-C
+title1: Fizz Buzz in
+title2: Objective-C
 ---
 
 <!--

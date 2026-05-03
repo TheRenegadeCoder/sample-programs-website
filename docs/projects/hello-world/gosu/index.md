@@ -9,6 +9,8 @@ tags:
 - gosu
 - hello-world
 title: Hello World in Gosu
+title1: Hello World
+title2: in Gosu
 ---
 
 <!--

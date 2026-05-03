@@ -9,6 +9,8 @@ tags:
 - dg
 - hello-world
 title: Hello World in Dg
+title1: Hello World
+title2: in Dg
 ---
 
 <!--

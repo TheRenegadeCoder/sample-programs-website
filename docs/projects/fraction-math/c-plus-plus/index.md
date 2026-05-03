@@ -4,7 +4,7 @@ authors:
 - Niraj Kamdar
 - Niraj-Kamdar
 - rzuckerm
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2019-10-10
 featured-image: fraction-math-in-every-language.jpg
 last-modified: 2026-04-15
@@ -13,6 +13,8 @@ tags:
 - c-plus-plus
 - fraction-math
 title: Fraction Math in C++
+title1: Fraction
+title2: Math in C++
 ---
 
 <!--

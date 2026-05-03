@@ -9,6 +9,8 @@ tags:
 - baklava
 - swift
 title: Baklava in Swift
+title1: Baklava
+title2: in Swift
 ---
 
 <!--

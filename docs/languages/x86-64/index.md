@@ -6,6 +6,8 @@ layout: default
 tags:
 - x86-64
 title: The x86-64 Programming Language
+title1: The x86-64
+title2: Programming Language
 ---
 
 <!--

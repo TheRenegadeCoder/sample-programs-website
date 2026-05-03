@@ -9,6 +9,8 @@ tags:
 - octave
 - reverse-string
 title: Reverse String in Octave
+title1: Reverse String
+title2: in Octave
 ---
 
 <!--

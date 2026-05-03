@@ -9,6 +9,8 @@ tags:
 - longest-palindromic-substring
 - mathematica
 title: Longest Palindromic Substring in Mathematica
+title1: Longest Palindromic
+title2: Substring in Mathematica
 ---
 
 <!--

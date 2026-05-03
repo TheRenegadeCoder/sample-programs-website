@@ -9,6 +9,8 @@ tags:
 - factorial
 - r
 title: Factorial in R
+title1: Factorial
+title2: in R
 ---
 
 <!--

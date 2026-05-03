@@ -9,6 +9,8 @@ tags:
 - chaiscript
 - hello-world
 title: Hello World in ChaiScript
+title1: Hello World
+title2: in ChaiScript
 ---
 
 <!--

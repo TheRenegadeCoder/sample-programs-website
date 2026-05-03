@@ -6,6 +6,8 @@ layout: default
 tags:
 - fibonacci
 title: Fibonacci
+title1: Fibonacci
+title2: ''
 ---
 
 <!--

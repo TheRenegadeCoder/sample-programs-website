@@ -3,7 +3,7 @@ authors:
 - Jeremy Grifski
 - rzuckerm
 - shubhragupta-code
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2018-08-16
 featured-image: fizz-buzz-in-every-language.png
 last-modified: 2026-04-15
@@ -12,6 +12,8 @@ tags:
 - c
 - fizz-buzz
 title: Fizz Buzz in C
+title1: Fizz Buzz
+title2: in C
 ---
 
 <!--

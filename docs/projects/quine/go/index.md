@@ -9,6 +9,8 @@ tags:
 - go
 - quine
 title: Quine in Go
+title1: Quine
+title2: in Go
 ---
 
 <!--

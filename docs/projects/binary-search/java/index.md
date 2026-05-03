@@ -12,6 +12,8 @@ tags:
 - binary-search
 - java
 title: Binary Search in Java
+title1: Binary Search
+title2: in Java
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - algol68
 - palindromic-number
 title: Palindromic Number in ALGOL 68
+title1: Palindromic Number
+title2: in ALGOL 68
 ---
 
 <!--

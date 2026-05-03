@@ -9,6 +9,8 @@ tags:
 - beef
 - transpose-matrix
 title: Transpose Matrix in Beef
+title1: Transpose
+title2: Matrix in Beef
 ---
 
 <!--

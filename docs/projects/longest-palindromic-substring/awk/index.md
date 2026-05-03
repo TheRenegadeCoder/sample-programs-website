@@ -9,6 +9,8 @@ tags:
 - awk
 - longest-palindromic-substring
 title: Longest Palindromic Substring in AWK
+title1: Longest Palindromic
+title2: Substring in AWK
 ---
 
 <!--

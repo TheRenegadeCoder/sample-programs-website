@@ -10,6 +10,8 @@ tags:
 - factorial
 - lisp
 title: Factorial in Lisp
+title1: Factorial
+title2: in Lisp
 ---
 
 <!--

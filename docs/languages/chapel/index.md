@@ -6,6 +6,8 @@ layout: default
 tags:
 - chapel
 title: The Chapel Programming Language
+title1: The Chapel
+title2: Programming Language
 ---
 
 <!--

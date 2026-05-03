@@ -9,6 +9,8 @@ tags:
 - hello-world
 - nit
 title: Hello World in Nit
+title1: Hello World
+title2: in Nit
 ---
 
 <!--

@@ -10,6 +10,8 @@ tags:
 - clojure
 - reverse-string
 title: Reverse String in Clojure
+title1: Reverse String
+title2: in Clojure
 ---
 
 <!--

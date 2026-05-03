@@ -9,6 +9,8 @@ tags:
 - longest-word
 - typescript
 title: Longest Word in TypeScript
+title1: Longest Word
+title2: in TypeScript
 ---
 
 <!--

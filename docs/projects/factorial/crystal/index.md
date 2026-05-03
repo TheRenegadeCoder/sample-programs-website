@@ -9,6 +9,8 @@ tags:
 - crystal
 - factorial
 title: Factorial in Crystal
+title1: Factorial
+title2: in Crystal
 ---
 
 <!--

@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-08
 featured-image: josephus-problem-in-every-language.jpg
 last-modified: 2026-04-08
@@ -9,6 +9,8 @@ tags:
 - f-sharp
 - josephus-problem
 title: Josephus Problem in F#
+title1: Josephus
+title2: Problem in F#
 ---
 
 <!--

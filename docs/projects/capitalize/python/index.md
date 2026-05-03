@@ -12,6 +12,8 @@ tags:
 - capitalize
 - python
 title: Capitalize in Python
+title1: Capitalize
+title2: in Python
 ---
 
 <!--

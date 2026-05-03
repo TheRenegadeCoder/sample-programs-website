@@ -6,6 +6,8 @@ layout: default
 tags:
 - pyret
 title: The Pyret Programming Language
+title1: The Pyret Programming
+title2: Language
 ---
 
 <!--

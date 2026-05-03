@@ -11,6 +11,8 @@ tags:
 - erlang
 - hello-world
 title: Hello World in Erlang
+title1: Hello World
+title2: in Erlang
 ---
 
 <!--

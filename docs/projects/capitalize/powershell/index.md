@@ -9,6 +9,8 @@ tags:
 - capitalize
 - powershell
 title: Capitalize in PowerShell
+title1: Capitalize in
+title2: PowerShell
 ---
 
 <!--

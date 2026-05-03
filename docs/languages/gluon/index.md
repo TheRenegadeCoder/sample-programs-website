@@ -6,6 +6,8 @@ layout: default
 tags:
 - gluon
 title: The Gluon Programming Language
+title1: The Gluon Programming
+title2: Language
 ---
 
 <!--

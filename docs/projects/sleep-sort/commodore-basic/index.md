@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - sleep-sort
 title: Sleep Sort in Commodore BASIC
+title1: Sleep Sort in
+title2: Commodore BASIC
 ---
 
 <!--

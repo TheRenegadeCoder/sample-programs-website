@@ -9,6 +9,8 @@ tags:
 - m4
 - quine
 title: Quine in m4
+title1: Quine
+title2: in m4
 ---
 
 <!--

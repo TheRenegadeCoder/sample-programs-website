@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-19
 featured-image: fizz-buzz-in-every-language.png
 last-modified: 2026-04-19
@@ -9,6 +9,8 @@ tags:
 - cobol
 - fizz-buzz
 title: Fizz Buzz in COBOL
+title1: Fizz Buzz
+title2: in COBOL
 ---
 
 <!--

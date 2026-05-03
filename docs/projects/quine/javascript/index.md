@@ -9,6 +9,8 @@ tags:
 - javascript
 - quine
 title: Quine in JavaScript
+title1: Quine in
+title2: JavaScript
 ---
 
 <!--

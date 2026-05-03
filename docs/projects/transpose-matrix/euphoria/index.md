@@ -9,6 +9,8 @@ tags:
 - euphoria
 - transpose-matrix
 title: Transpose Matrix in Euphoria
+title1: Transpose Matrix
+title2: in Euphoria
 ---
 
 <!--

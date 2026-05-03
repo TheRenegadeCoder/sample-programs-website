@@ -1,6 +1,6 @@
 ---
 authors:
-- "Christoph B\xF6hmwalder"
+- Christoph Böhmwalder
 - rzuckerm
 date: 2018-08-28
 featured-image: fizz-buzz-in-every-language.png
@@ -10,6 +10,8 @@ tags:
 - fizz-buzz
 - vimscript
 title: Fizz Buzz in Vimscript
+title1: Fizz Buzz in
+title2: Vimscript
 ---
 
 <!--

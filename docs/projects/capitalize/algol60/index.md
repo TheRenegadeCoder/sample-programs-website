@@ -9,6 +9,8 @@ tags:
 - algol60
 - capitalize
 title: Capitalize in ALGOL 60
+title1: Capitalize
+title2: in ALGOL 60
 ---
 
 <!--

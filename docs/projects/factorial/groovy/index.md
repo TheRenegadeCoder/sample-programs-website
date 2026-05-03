@@ -9,6 +9,8 @@ tags:
 - factorial
 - groovy
 title: Factorial in Groovy
+title1: Factorial
+title2: in Groovy
 ---
 
 <!--

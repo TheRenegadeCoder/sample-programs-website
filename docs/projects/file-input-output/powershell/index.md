@@ -9,6 +9,8 @@ tags:
 - file-input-output
 - powershell
 title: File Input Output in PowerShell
+title1: File Input Output
+title2: in PowerShell
 ---
 
 <!--

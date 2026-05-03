@@ -9,6 +9,8 @@ tags:
 - euphoria
 - prime-number
 title: Prime Number in Euphoria
+title1: Prime Number
+title2: in Euphoria
 ---
 
 <!--

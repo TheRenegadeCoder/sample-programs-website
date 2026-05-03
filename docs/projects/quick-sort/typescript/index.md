@@ -9,6 +9,8 @@ tags:
 - quick-sort
 - typescript
 title: Quick Sort in TypeScript
+title1: Quick Sort in
+title2: TypeScript
 ---
 
 <!--

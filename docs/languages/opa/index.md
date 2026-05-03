@@ -9,6 +9,8 @@ layout: default
 tags:
 - opa
 title: The Opa Programming Language
+title1: The Opa Programming
+title2: Language
 ---
 
 <!--

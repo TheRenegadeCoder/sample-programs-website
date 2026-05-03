@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - ocaml
 title: Fizz Buzz in OCaml
+title1: Fizz Buzz
+title2: in OCaml
 ---
 
 <!--

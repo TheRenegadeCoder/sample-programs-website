@@ -9,6 +9,8 @@ tags:
 - powershell
 - transpose-matrix
 title: Transpose Matrix in PowerShell
+title1: Transpose Matrix
+title2: in PowerShell
 ---
 
 <!--

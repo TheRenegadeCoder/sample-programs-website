@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-22
 featured-image: base64-encode-decode-in-every-language.png
 last-modified: 2025-07-22
@@ -9,6 +9,8 @@ tags:
 - base64-encode-decode
 - pascal
 title: Base64 Encode Decode in Pascal
+title1: Base64 Encode
+title2: Decode in Pascal
 ---
 
 <!--

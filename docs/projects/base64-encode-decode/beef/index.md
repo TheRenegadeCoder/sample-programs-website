@@ -9,6 +9,8 @@ tags:
 - base64-encode-decode
 - beef
 title: Base64 Encode Decode in Beef
+title1: Base64 Encode
+title2: Decode in Beef
 ---
 
 <!--

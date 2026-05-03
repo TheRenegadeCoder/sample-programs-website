@@ -6,6 +6,8 @@ layout: default
 tags:
 - algol60
 title: The ALGOL 60 Programming Language
+title1: The ALGOL 60
+title2: Programming Language
 ---
 
 <!--

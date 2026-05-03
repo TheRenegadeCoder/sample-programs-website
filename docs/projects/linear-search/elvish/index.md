@@ -9,6 +9,8 @@ tags:
 - elvish
 - linear-search
 title: Linear Search in Elvish
+title1: Linear Search
+title2: in Elvish
 ---
 
 <!--

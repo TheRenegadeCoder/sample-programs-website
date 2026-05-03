@@ -9,6 +9,8 @@ tags:
 - beef
 - rot13
 title: Rot13 in Beef
+title1: Rot13
+title2: in Beef
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - mathematica
 - palindromic-number
 title: Palindromic Number in Mathematica
+title1: Palindromic Number
+title2: in Mathematica
 ---
 
 <!--

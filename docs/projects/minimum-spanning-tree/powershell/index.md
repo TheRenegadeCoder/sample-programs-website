@@ -9,6 +9,8 @@ tags:
 - minimum-spanning-tree
 - powershell
 title: Minimum Spanning Tree in PowerShell
+title1: Minimum Spanning
+title2: Tree in PowerShell
 ---
 
 <!--

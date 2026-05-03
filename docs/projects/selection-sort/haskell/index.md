@@ -9,6 +9,8 @@ tags:
 - haskell
 - selection-sort
 title: Selection Sort in Haskell
+title1: Selection Sort
+title2: in Haskell
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - minimum-spanning-tree
 - rust
 title: Minimum Spanning Tree in Rust
+title1: Minimum Spanning
+title2: Tree in Rust
 ---
 
 <!--

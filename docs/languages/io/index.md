@@ -6,6 +6,8 @@ layout: default
 tags:
 - io
 title: The Io Programming Language
+title1: The Io Programming
+title2: Language
 ---
 
 <!--

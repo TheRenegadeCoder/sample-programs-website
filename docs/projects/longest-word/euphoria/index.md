@@ -9,6 +9,8 @@ tags:
 - euphoria
 - longest-word
 title: Longest Word in Euphoria
+title1: Longest Word
+title2: in Euphoria
 ---
 
 <!--

@@ -12,6 +12,8 @@ tags:
 - capitalize
 - dart
 title: Capitalize in Dart
+title1: Capitalize
+title2: in Dart
 ---
 
 <!--

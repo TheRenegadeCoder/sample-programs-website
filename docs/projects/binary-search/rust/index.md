@@ -10,6 +10,8 @@ tags:
 - binary-search
 - rust
 title: Binary Search in Rust
+title1: Binary Search
+title2: in Rust
 ---
 
 <!--

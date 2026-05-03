@@ -9,6 +9,8 @@ tags:
 - hello-world
 - janet
 title: Hello World in Janet
+title1: Hello World
+title2: in Janet
 ---
 
 <!--

@@ -9,6 +9,8 @@ layout: default
 tags:
 - scala
 title: The Scala Programming Language
+title1: The Scala Programming
+title2: Language
 ---
 
 <!--

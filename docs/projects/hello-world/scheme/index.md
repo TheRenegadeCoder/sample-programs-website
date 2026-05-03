@@ -11,6 +11,8 @@ tags:
 - hello-world
 - scheme
 title: Hello World in Scheme
+title1: Hello World
+title2: in Scheme
 ---
 
 <!--

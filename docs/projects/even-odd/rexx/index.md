@@ -9,6 +9,8 @@ tags:
 - even-odd
 - rexx
 title: Even Odd in Rexx
+title1: Even Odd
+title2: in Rexx
 ---
 
 <!--

@@ -6,6 +6,8 @@ layout: default
 tags:
 - felix
 title: The Felix Programming Language
+title1: The Felix Programming
+title2: Language
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - algol68
 - maximum-array-rotation
 title: Maximum Array Rotation in ALGOL 68
+title1: Maximum Array
+title2: Rotation in ALGOL 68
 ---
 
 <!--

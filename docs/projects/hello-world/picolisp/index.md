@@ -10,6 +10,8 @@ tags:
 - hello-world
 - picolisp
 title: Hello World in PicoLisp
+title1: Hello World
+title2: in PicoLisp
 ---
 
 <!--

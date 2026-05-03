@@ -9,6 +9,8 @@ tags:
 - baklava
 - frege
 title: Baklava in Frege
+title1: Baklava
+title2: in Frege
 ---
 
 <!--

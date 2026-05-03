@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - josephus-problem
 title: Josephus Problem in Commodore BASIC
+title1: Josephus Problem
+title2: in Commodore BASIC
 ---
 
 <!--

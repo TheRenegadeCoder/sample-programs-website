@@ -9,6 +9,8 @@ tags:
 - selection-sort
 - typescript
 title: Selection Sort in TypeScript
+title1: Selection Sort
+title2: in TypeScript
 ---
 
 <!--

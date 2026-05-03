@@ -9,6 +9,8 @@ tags:
 - awk
 - selection-sort
 title: Selection Sort in AWK
+title1: Selection
+title2: Sort in AWK
 ---
 
 <!--

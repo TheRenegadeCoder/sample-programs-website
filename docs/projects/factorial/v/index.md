@@ -9,6 +9,8 @@ tags:
 - factorial
 - v
 title: Factorial in V
+title1: Factorial
+title2: in V
 ---
 
 <!--

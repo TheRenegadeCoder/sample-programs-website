@@ -9,6 +9,8 @@ tags:
 - brainfuck
 - capitalize
 title: Capitalize in Brainfuck
+title1: Capitalize
+title2: in Brainfuck
 ---
 
 <!--

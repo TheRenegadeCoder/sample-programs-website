@@ -9,6 +9,8 @@ tags:
 - awk
 - fibonacci
 title: Fibonacci in AWK
+title1: Fibonacci
+title2: in AWK
 ---
 
 <!--

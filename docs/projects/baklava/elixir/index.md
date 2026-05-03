@@ -9,6 +9,8 @@ tags:
 - baklava
 - elixir
 title: Baklava in Elixir
+title1: Baklava
+title2: in Elixir
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - baklava
 - red
 title: Baklava in Red
+title1: Baklava
+title2: in Red
 ---
 
 <!--

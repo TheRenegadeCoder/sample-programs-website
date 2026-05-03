@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-09
 featured-image: quine-in-every-language.jpg
 last-modified: 2025-10-09
@@ -9,6 +9,8 @@ tags:
 - quine
 - tcl
 title: Quine in Tcl
+title1: Quine
+title2: in Tcl
 ---
 
 <!--

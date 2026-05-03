@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - remove-all-whitespace
 title: Remove All Whitespace in Commodore BASIC
+title1: Remove All Whitespace
+title2: in Commodore BASIC
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - josephus-problem
 - rust
 title: Josephus Problem in Rust
+title1: Josephus Problem
+title2: in Rust
 ---
 
 <!--

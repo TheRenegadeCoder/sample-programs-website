@@ -9,6 +9,8 @@ tags:
 - pascal
 - prime-number
 title: Prime Number in Pascal
+title1: Prime Number
+title2: in Pascal
 ---
 
 <!--

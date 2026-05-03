@@ -12,6 +12,8 @@ tags:
 - linear-search
 - python
 title: Linear Search in Python
+title1: Linear Search
+title2: in Python
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - maximum-subarray
 - php
 title: Maximum Subarray in PHP
+title1: Maximum
+title2: Subarray in PHP
 ---
 
 <!--

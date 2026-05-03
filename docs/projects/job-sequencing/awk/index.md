@@ -9,6 +9,8 @@ tags:
 - awk
 - job-sequencing
 title: Job Sequencing in AWK
+title1: Job Sequencing
+title2: in AWK
 ---
 
 <!--

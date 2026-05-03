@@ -1,7 +1,7 @@
 ---
 authors:
 - sniklas142
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2020-10-01
 featured-image: fizz-buzz-in-every-language.png
 last-modified: 2025-10-15
@@ -10,6 +10,8 @@ tags:
 - fizz-buzz
 - fortran
 title: Fizz Buzz in Fortran
+title1: Fizz Buzz
+title2: in Fortran
 ---
 
 <!--

@@ -6,6 +6,8 @@ layout: default
 tags:
 - lobster
 title: The Lobster Programming Language
+title1: The Lobster
+title2: Programming Language
 ---
 
 <!--

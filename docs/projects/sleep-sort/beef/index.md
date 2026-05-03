@@ -9,6 +9,8 @@ tags:
 - beef
 - sleep-sort
 title: Sleep Sort in Beef
+title1: Sleep Sort
+title2: in Beef
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - fraction-math
 - mathematica
 title: Fraction Math in Mathematica
+title1: Fraction Math
+title2: in Mathematica
 ---
 
 <!--

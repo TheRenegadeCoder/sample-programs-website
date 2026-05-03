@@ -9,6 +9,8 @@ tags:
 - prime-number
 - ti-basic
 title: Prime Number in TI-BASIC
+title1: Prime Number
+title2: in TI-BASIC
 ---
 
 <!--

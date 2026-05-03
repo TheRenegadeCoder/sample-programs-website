@@ -6,6 +6,8 @@ layout: default
 tags:
 - mojiscript
 title: The MojiScript Programming Language
+title1: The MojiScript
+title2: Programming Language
 ---
 
 <!--

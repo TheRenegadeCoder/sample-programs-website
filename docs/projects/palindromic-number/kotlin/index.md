@@ -12,6 +12,8 @@ tags:
 - kotlin
 - palindromic-number
 title: Palindromic Number in Kotlin
+title1: Palindromic
+title2: Number in Kotlin
 ---
 
 <!--

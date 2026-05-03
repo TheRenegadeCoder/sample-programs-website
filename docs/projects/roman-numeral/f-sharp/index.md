@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-10
 featured-image: roman-numeral-in-every-language.jpg
 last-modified: 2026-04-10
@@ -9,6 +9,8 @@ tags:
 - f-sharp
 - roman-numeral
 title: Roman Numeral in F#
+title1: Roman Numeral
+title2: in F#
 ---
 
 <!--

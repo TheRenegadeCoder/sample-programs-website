@@ -10,6 +10,8 @@ tags:
 - go
 - reverse-string
 title: Reverse String in Go
+title1: Reverse
+title2: String in Go
 ---
 
 <!--

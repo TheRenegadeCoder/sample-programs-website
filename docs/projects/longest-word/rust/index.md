@@ -9,6 +9,8 @@ tags:
 - longest-word
 - rust
 title: Longest Word in Rust
+title1: Longest Word
+title2: in Rust
 ---
 
 <!--

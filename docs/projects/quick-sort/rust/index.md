@@ -9,6 +9,8 @@ tags:
 - quick-sort
 - rust
 title: Quick Sort in Rust
+title1: Quick Sort
+title2: in Rust
 ---
 
 <!--

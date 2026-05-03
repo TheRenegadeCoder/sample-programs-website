@@ -9,6 +9,8 @@ tags:
 - baklava
 - javascript
 title: Baklava in JavaScript
+title1: Baklava in
+title2: JavaScript
 ---
 
 <!--

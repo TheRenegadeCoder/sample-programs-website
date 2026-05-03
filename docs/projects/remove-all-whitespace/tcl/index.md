@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-09
 featured-image: remove-all-whitespace-in-every-language.jpg
 last-modified: 2025-10-09
@@ -9,6 +9,8 @@ tags:
 - remove-all-whitespace
 - tcl
 title: Remove All Whitespace in Tcl
+title1: Remove All
+title2: Whitespace in Tcl
 ---
 
 <!--

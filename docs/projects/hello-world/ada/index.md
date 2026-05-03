@@ -9,6 +9,8 @@ tags:
 - ada
 - hello-world
 title: Hello World in Ada
+title1: Hello World
+title2: in Ada
 ---
 
 <!--

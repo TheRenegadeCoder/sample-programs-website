@@ -6,6 +6,8 @@ layout: default
 tags:
 - longest-word
 title: Longest Word
+title1: Longest
+title2: Word
 ---
 
 <!--

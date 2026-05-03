@@ -9,6 +9,8 @@ tags:
 - euphoria
 - factorial
 title: Factorial in Euphoria
+title1: Factorial
+title2: in Euphoria
 ---
 
 <!--

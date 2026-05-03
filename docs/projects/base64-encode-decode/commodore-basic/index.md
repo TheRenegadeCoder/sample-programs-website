@@ -9,6 +9,8 @@ tags:
 - base64-encode-decode
 - commodore-basic
 title: Base64 Encode Decode in Commodore BASIC
+title1: Base64 Encode Decode
+title2: in Commodore BASIC
 ---
 
 <!--

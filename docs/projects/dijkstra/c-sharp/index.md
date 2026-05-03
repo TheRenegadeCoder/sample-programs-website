@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-29
 featured-image: dijkstra-in-every-language.jpg
 last-modified: 2025-07-29
@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - dijkstra
 title: Dijkstra in C#
+title1: Dijkstra
+title2: in C#
 ---
 
 <!--

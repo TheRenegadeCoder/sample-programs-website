@@ -9,6 +9,8 @@ tags:
 - depth-first-search
 - java
 title: Depth First Search in Java
+title1: Depth First
+title2: Search in Java
 ---
 
 <!--

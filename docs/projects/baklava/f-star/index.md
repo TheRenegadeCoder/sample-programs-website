@@ -9,6 +9,8 @@ tags:
 - baklava
 - f-star
 title: Baklava in F*
+title1: Baklava
+title2: in F*
 ---
 
 <!--

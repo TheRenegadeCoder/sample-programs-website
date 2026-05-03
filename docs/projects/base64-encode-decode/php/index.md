@@ -9,6 +9,8 @@ tags:
 - base64-encode-decode
 - php
 title: Base64 Encode Decode in PHP
+title1: Base64 Encode
+title2: Decode in PHP
 ---
 
 <!--

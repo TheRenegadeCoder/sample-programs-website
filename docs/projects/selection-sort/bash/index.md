@@ -9,6 +9,8 @@ tags:
 - bash
 - selection-sort
 title: Selection Sort in Bash
+title1: Selection
+title2: Sort in Bash
 ---
 
 <!--

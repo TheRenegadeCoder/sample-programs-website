@@ -9,6 +9,8 @@ tags:
 - longest-word
 - php
 title: Longest Word in PHP
+title1: Longest
+title2: Word in PHP
 ---
 
 <!--

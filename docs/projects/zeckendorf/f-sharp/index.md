@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-10
 featured-image: zeckendorf-in-every-language.png
 last-modified: 2026-04-10
@@ -9,6 +9,8 @@ tags:
 - f-sharp
 - zeckendorf
 title: Zeckendorf in F#
+title1: Zeckendorf
+title2: in F#
 ---
 
 <!--

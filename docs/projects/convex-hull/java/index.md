@@ -10,6 +10,8 @@ tags:
 - convex-hull
 - java
 title: Convex Hull in Java
+title1: Convex Hull
+title2: in Java
 ---
 
 <!--

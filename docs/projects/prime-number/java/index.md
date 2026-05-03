@@ -12,6 +12,8 @@ tags:
 - java
 - prime-number
 title: Prime Number in Java
+title1: Prime Number
+title2: in Java
 ---
 
 <!--

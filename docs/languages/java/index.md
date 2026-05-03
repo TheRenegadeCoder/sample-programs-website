@@ -10,6 +10,8 @@ layout: default
 tags:
 - java
 title: The Java Programming Language
+title1: The Java Programming
+title2: Language
 ---
 
 <!--

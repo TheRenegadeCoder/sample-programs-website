@@ -9,6 +9,8 @@ tags:
 - baklava
 - coffeescript
 title: Baklava in CoffeeScript
+title1: Baklava in
+title2: CoffeeScript
 ---
 
 <!--

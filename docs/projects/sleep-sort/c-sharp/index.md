@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - sleep-sort
 title: Sleep Sort in C#
+title1: Sleep Sort
+title2: in C#
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - fibonacci
 - odin
 title: Fibonacci in Odin
+title1: Fibonacci
+title2: in Odin
 ---
 
 <!--

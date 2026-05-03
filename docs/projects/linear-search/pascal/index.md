@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-22
 featured-image: linear-search-in-every-language.jpg
 last-modified: 2025-07-22
@@ -9,6 +9,8 @@ tags:
 - linear-search
 - pascal
 title: Linear Search in Pascal
+title1: Linear Search
+title2: in Pascal
 ---
 
 <!--

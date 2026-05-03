@@ -1,7 +1,7 @@
 ---
 authors:
 - Kateryna Tokar
-- "Tobias Schr\xF6der"
+- Tobias Schröder
 date: 2019-10-02
 featured-image: bubble-sort-in-every-language.jpg
 last-modified: 2019-10-19
@@ -10,6 +10,8 @@ tags:
 - bubble-sort
 - clojure
 title: Bubble Sort in Clojure
+title1: Bubble Sort
+title2: in Clojure
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - capitalize
 - octave
 title: Capitalize in Octave
+title1: Capitalize
+title2: in Octave
 ---
 
 <!--

@@ -6,6 +6,8 @@ layout: default
 tags:
 - haxe
 title: The Haxe Programming Language
+title1: The Haxe Programming
+title2: Language
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - mathematica
 - quick-sort
 title: Quick Sort in Mathematica
+title1: Quick Sort in
+title2: Mathematica
 ---
 
 <!--

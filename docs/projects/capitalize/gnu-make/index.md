@@ -9,6 +9,8 @@ tags:
 - capitalize
 - gnu-make
 title: Capitalize in GNU Make
+title1: Capitalize
+title2: in GNU Make
 ---
 
 <!--

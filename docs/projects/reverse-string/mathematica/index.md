@@ -9,6 +9,8 @@ tags:
 - mathematica
 - reverse-string
 title: Reverse String in Mathematica
+title1: Reverse String
+title2: in Mathematica
 ---
 
 <!--

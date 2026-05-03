@@ -9,6 +9,8 @@ tags:
 - josephus-problem
 - powershell
 title: Josephus Problem in PowerShell
+title1: Josephus Problem
+title2: in PowerShell
 ---
 
 <!--

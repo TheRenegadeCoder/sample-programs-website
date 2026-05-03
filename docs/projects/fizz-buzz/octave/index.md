@@ -10,6 +10,8 @@ tags:
 - fizz-buzz
 - octave
 title: Fizz Buzz in Octave
+title1: Fizz Buzz
+title2: in Octave
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - file-input-output
 - perl
 title: File Input Output in Perl
+title1: File Input
+title2: Output in Perl
 ---
 
 <!--

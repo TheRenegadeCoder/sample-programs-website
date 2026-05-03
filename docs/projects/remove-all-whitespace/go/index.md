@@ -9,6 +9,8 @@ tags:
 - go
 - remove-all-whitespace
 title: Remove All Whitespace in Go
+title1: Remove All
+title2: Whitespace in Go
 ---
 
 <!--

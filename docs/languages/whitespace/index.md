@@ -8,6 +8,8 @@ layout: default
 tags:
 - whitespace
 title: The Whitespace Programming Language
+title1: The Whitespace
+title2: Programming Language
 ---
 
 <!--

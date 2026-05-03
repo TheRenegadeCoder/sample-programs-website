@@ -9,6 +9,8 @@ tags:
 - coffeescript
 - hello-world
 title: Hello World in CoffeeScript
+title1: Hello World in
+title2: CoffeeScript
 ---
 
 <!--

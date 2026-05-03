@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-21
 featured-image: roman-numeral-in-every-language.jpg
 last-modified: 2025-07-21
@@ -9,6 +9,8 @@ tags:
 - pascal
 - roman-numeral
 title: Roman Numeral in Pascal
+title1: Roman Numeral
+title2: in Pascal
 ---
 
 <!--

@@ -10,6 +10,8 @@ tags:
 - factorial
 - lua
 title: Factorial in Lua
+title1: Factorial
+title2: in Lua
 ---
 
 <!--

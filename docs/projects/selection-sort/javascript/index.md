@@ -10,6 +10,8 @@ tags:
 - javascript
 - selection-sort
 title: Selection Sort in JavaScript
+title1: Selection Sort
+title2: in JavaScript
 ---
 
 <!--

@@ -10,6 +10,8 @@ tags:
 - palindromic-number
 - python
 title: Palindromic Number in Python
+title1: Palindromic
+title2: Number in Python
 ---
 
 <!--

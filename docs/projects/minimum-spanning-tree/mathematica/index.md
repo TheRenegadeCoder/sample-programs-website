@@ -9,6 +9,8 @@ tags:
 - mathematica
 - minimum-spanning-tree
 title: Minimum Spanning Tree in Mathematica
+title1: Minimum Spanning
+title2: Tree in Mathematica
 ---
 
 <!--

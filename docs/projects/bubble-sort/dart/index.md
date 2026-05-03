@@ -9,6 +9,8 @@ tags:
 - bubble-sort
 - dart
 title: Bubble Sort in Dart
+title1: Bubble Sort
+title2: in Dart
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - flix
 - hello-world
 title: Hello World in Flix
+title1: Hello World
+title2: in Flix
 ---
 
 <!--

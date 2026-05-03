@@ -9,6 +9,8 @@ tags:
 - baklava
 - ring
 title: Baklava in Ring
+title1: Baklava
+title2: in Ring
 ---
 
 <!--

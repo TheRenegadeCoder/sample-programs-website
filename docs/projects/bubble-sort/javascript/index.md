@@ -9,6 +9,8 @@ tags:
 - bubble-sort
 - javascript
 title: Bubble Sort in JavaScript
+title1: Bubble Sort
+title2: in JavaScript
 ---
 
 <!--

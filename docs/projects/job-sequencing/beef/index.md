@@ -9,6 +9,8 @@ tags:
 - beef
 - job-sequencing
 title: Job Sequencing in Beef
+title1: Job Sequencing
+title2: in Beef
 ---
 
 <!--

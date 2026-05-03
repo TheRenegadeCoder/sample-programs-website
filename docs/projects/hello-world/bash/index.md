@@ -11,6 +11,8 @@ tags:
 - bash
 - hello-world
 title: Hello World in Bash
+title1: Hello World
+title2: in Bash
 ---
 
 <!--

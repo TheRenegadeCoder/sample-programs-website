@@ -10,6 +10,8 @@ tags:
 - dg
 - file-input-output
 title: File Input Output in Dg
+title1: File Input
+title2: Output in Dg
 ---
 
 <!--

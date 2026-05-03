@@ -9,6 +9,8 @@ tags:
 - file-input-output
 - kotlin
 title: File Input Output in Kotlin
+title1: File Input
+title2: Output in Kotlin
 ---
 
 <!--

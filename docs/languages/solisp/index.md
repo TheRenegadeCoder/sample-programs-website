@@ -6,6 +6,8 @@ layout: default
 tags:
 - solisp
 title: The Solisp Programming Language
+title1: The Solisp
+title2: Programming Language
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - hello-world
 - modula2
 title: Hello World in Modula-2
+title1: Hello World
+title2: in Modula-2
 ---
 
 <!--

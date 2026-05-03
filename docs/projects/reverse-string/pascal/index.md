@@ -10,6 +10,8 @@ tags:
 - pascal
 - reverse-string
 title: Reverse String in Pascal
+title1: Reverse String
+title2: in Pascal
 ---
 
 <!--

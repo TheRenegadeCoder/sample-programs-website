@@ -9,6 +9,8 @@ tags:
 - duplicate-character-counter
 - python
 title: Duplicate Character Counter in Python
+title1: Duplicate Character
+title2: Counter in Python
 ---
 
 <!--

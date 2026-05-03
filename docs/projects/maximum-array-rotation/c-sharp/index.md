@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-29
 featured-image: maximum-array-rotation-in-every-language.jpg
 last-modified: 2025-07-29
@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - maximum-array-rotation
 title: Maximum Array Rotation in C#
+title1: Maximum Array
+title2: Rotation in C#
 ---
 
 <!--

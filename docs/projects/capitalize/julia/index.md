@@ -9,6 +9,8 @@ tags:
 - capitalize
 - julia
 title: Capitalize in Julia
+title1: Capitalize
+title2: in Julia
 ---
 
 <!--

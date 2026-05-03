@@ -9,6 +9,8 @@ tags:
 - algol60
 - fibonacci
 title: Fibonacci in ALGOL 60
+title1: Fibonacci
+title2: in ALGOL 60
 ---
 
 <!--

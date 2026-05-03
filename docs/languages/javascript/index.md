@@ -6,6 +6,8 @@ layout: default
 tags:
 - javascript
 title: The JavaScript Programming Language
+title1: The JavaScript
+title2: Programming Language
 ---
 
 <!--

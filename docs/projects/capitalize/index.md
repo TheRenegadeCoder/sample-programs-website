@@ -6,6 +6,8 @@ layout: default
 tags:
 - capitalize
 title: Capitalize
+title1: Capitalize
+title2: ''
 ---
 
 <!--

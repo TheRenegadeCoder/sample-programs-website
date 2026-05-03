@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - pinecone
 title: Fizz Buzz in Pinecone
+title1: Fizz Buzz
+title2: in Pinecone
 ---
 
 <!--

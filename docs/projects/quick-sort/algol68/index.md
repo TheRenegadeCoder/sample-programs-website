@@ -9,6 +9,8 @@ tags:
 - algol68
 - quick-sort
 title: Quick Sort in ALGOL 68
+title1: Quick Sort
+title2: in ALGOL 68
 ---
 
 <!--

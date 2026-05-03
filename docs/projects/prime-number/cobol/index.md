@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-18
 featured-image: prime-number-in-every-language.jpg
 last-modified: 2026-04-18
@@ -9,6 +9,8 @@ tags:
 - cobol
 - prime-number
 title: Prime Number in COBOL
+title1: Prime Number
+title2: in COBOL
 ---
 
 <!--

@@ -10,6 +10,8 @@ tags:
 - insertion-sort
 - rust
 title: Insertion Sort in Rust
+title1: Insertion
+title2: Sort in Rust
 ---
 
 <!--

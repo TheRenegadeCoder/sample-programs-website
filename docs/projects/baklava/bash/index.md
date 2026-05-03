@@ -10,6 +10,8 @@ tags:
 - baklava
 - bash
 title: Baklava in Bash
+title1: Baklava
+title2: in Bash
 ---
 
 <!--

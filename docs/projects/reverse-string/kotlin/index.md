@@ -10,6 +10,8 @@ tags:
 - kotlin
 - reverse-string
 title: Reverse String in Kotlin
+title1: Reverse String
+title2: in Kotlin
 ---
 
 <!--

@@ -6,6 +6,8 @@ layout: default
 tags:
 - pony
 title: The Pony Programming Language
+title1: The Pony Programming
+title2: Language
 ---
 
 <!--

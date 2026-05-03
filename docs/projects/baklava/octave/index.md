@@ -9,6 +9,8 @@ tags:
 - baklava
 - octave
 title: Baklava in Octave
+title1: Baklava
+title2: in Octave
 ---
 
 <!--

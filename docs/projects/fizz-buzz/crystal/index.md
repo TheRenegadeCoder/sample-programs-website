@@ -9,6 +9,8 @@ tags:
 - crystal
 - fizz-buzz
 title: Fizz Buzz in Crystal
+title1: Fizz Buzz
+title2: in Crystal
 ---
 
 <!--

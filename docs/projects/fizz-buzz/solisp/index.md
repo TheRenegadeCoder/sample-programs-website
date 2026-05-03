@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - solisp
 title: Fizz Buzz in Solisp
+title1: Fizz Buzz
+title2: in Solisp
 ---
 
 <!--

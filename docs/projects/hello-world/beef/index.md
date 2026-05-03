@@ -9,6 +9,8 @@ tags:
 - beef
 - hello-world
 title: Hello World in Beef
+title1: Hello World
+title2: in Beef
 ---
 
 <!--

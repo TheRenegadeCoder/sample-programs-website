@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-09
 featured-image: minimum-spanning-tree-in-every-language.jpg
 last-modified: 2025-10-09
@@ -9,6 +9,8 @@ tags:
 - minimum-spanning-tree
 - tcl
 title: Minimum Spanning Tree in Tcl
+title1: Minimum Spanning
+title2: Tree in Tcl
 ---
 
 <!--

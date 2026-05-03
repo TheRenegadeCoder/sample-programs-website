@@ -9,6 +9,8 @@ layout: default
 tags:
 - crystal
 title: The Crystal Programming Language
+title1: The Crystal
+title2: Programming Language
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - baklava
 - brainfuck
 title: Baklava in Brainfuck
+title1: Baklava in
+title2: Brainfuck
 ---
 
 <!--

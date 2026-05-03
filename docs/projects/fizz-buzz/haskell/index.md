@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - haskell
 title: Fizz Buzz in Haskell
+title1: Fizz Buzz
+title2: in Haskell
 ---
 
 <!--

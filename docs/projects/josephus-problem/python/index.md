@@ -9,6 +9,8 @@ tags:
 - josephus-problem
 - python
 title: Josephus Problem in Python
+title1: Josephus Problem
+title2: in Python
 ---
 
 <!--

@@ -6,6 +6,8 @@ layout: default
 tags:
 - fortran
 title: The Fortran Programming Language
+title1: The Fortran
+title2: Programming Language
 ---
 
 <!--

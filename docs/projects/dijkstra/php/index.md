@@ -9,6 +9,8 @@ tags:
 - dijkstra
 - php
 title: Dijkstra in PHP
+title1: Dijkstra
+title2: in PHP
 ---
 
 <!--

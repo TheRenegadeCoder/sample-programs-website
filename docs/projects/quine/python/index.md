@@ -9,6 +9,8 @@ tags:
 - python
 - quine
 title: Quine in Python
+title1: Quine in
+title2: Python
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - euphoria
 - selection-sort
 title: Selection Sort in Euphoria
+title1: Selection Sort
+title2: in Euphoria
 ---
 
 <!--

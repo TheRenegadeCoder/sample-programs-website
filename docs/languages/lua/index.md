@@ -9,6 +9,8 @@ layout: default
 tags:
 - lua
 title: The Lua Programming Language
+title1: The Lua Programming
+title2: Language
 ---
 
 <!--

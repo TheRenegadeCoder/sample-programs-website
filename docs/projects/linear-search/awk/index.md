@@ -9,6 +9,8 @@ tags:
 - awk
 - linear-search
 title: Linear Search in AWK
+title1: Linear Search
+title2: in AWK
 ---
 
 <!--

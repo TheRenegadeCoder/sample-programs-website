@@ -9,6 +9,8 @@ tags:
 - m4
 - minimum-spanning-tree
 title: Minimum Spanning Tree in m4
+title1: Minimum Spanning
+title2: Tree in m4
 ---
 
 <!--

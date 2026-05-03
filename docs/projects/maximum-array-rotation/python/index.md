@@ -10,6 +10,8 @@ tags:
 - maximum-array-rotation
 - python
 title: Maximum Array Rotation in Python
+title1: Maximum Array
+title2: Rotation in Python
 ---
 
 <!--

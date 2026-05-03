@@ -10,6 +10,8 @@ tags:
 - hello-world
 - odin
 title: Hello World in Odin
+title1: Hello World
+title2: in Odin
 ---
 
 <!--

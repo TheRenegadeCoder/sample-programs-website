@@ -9,6 +9,8 @@ tags:
 - go
 - insertion-sort
 title: Insertion Sort in Go
+title1: Insertion
+title2: Sort in Go
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - baklava
 - c-sharp
 title: Baklava in C#
+title1: Baklava
+title2: in C#
 ---
 
 <!--

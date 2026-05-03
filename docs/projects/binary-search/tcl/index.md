@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-07
 featured-image: binary-search-in-every-language.jpg
 last-modified: 2025-10-07
@@ -9,6 +9,8 @@ tags:
 - binary-search
 - tcl
 title: Binary Search in Tcl
+title1: Binary Search
+title2: in Tcl
 ---
 
 <!--

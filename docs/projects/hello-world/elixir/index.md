@@ -10,6 +10,8 @@ tags:
 - elixir
 - hello-world
 title: Hello World in Elixir
+title1: Hello World
+title2: in Elixir
 ---
 
 <!--

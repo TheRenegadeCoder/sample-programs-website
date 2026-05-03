@@ -9,6 +9,8 @@ tags:
 - josephus-problem
 - mathematica
 title: Josephus Problem in Mathematica
+title1: Josephus Problem
+title2: in Mathematica
 ---
 
 <!--

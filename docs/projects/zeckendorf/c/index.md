@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-11
 featured-image: zeckendorf-in-every-language.png
 last-modified: 2026-04-15
@@ -9,6 +9,8 @@ tags:
 - c
 - zeckendorf
 title: Zeckendorf in C
+title1: Zeckendorf
+title2: in C
 ---
 
 <!--

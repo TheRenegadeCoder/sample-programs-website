@@ -11,6 +11,8 @@ tags:
 - hello-world
 - octave
 title: Hello World in Octave
+title1: Hello World
+title2: in Octave
 ---
 
 <!--

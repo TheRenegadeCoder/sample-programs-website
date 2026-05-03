@@ -9,6 +9,8 @@ tags:
 - go
 - linear-search
 title: Linear Search in Go
+title1: Linear
+title2: Search in Go
 ---
 
 <!--

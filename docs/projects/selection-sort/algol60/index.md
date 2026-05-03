@@ -9,6 +9,8 @@ tags:
 - algol60
 - selection-sort
 title: Selection Sort in ALGOL 60
+title1: Selection Sort
+title2: in ALGOL 60
 ---
 
 <!--

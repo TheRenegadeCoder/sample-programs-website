@@ -9,6 +9,8 @@ tags:
 - hello-world
 - kitten
 title: Hello World in Kitten
+title1: Hello World
+title2: in Kitten
 ---
 
 <!--

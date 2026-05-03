@@ -11,6 +11,8 @@ tags:
 - powershell
 - reverse-string
 title: Reverse String in PowerShell
+title1: Reverse String
+title2: in PowerShell
 ---
 
 <!--

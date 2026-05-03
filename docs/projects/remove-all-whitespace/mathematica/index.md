@@ -9,6 +9,8 @@ tags:
 - mathematica
 - remove-all-whitespace
 title: Remove All Whitespace in Mathematica
+title1: Remove All Whitespace
+title2: in Mathematica
 ---
 
 <!--

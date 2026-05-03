@@ -9,6 +9,8 @@ tags:
 - awk
 - sleep-sort
 title: Sleep Sort in AWK
+title1: Sleep Sort
+title2: in AWK
 ---
 
 <!--

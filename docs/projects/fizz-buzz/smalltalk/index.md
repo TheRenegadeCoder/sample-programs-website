@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - smalltalk
 title: Fizz Buzz in Smalltalk
+title1: Fizz Buzz in
+title2: Smalltalk
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - baklava
 - mojiscript
 title: Baklava in MojiScript
+title1: Baklava in
+title2: MojiScript
 ---
 
 <!--

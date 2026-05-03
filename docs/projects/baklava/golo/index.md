@@ -9,6 +9,8 @@ tags:
 - baklava
 - golo
 title: Baklava in Golo
+title1: Baklava
+title2: in Golo
 ---
 
 <!--

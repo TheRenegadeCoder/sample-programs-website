@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - file-input-output
 title: File Input Output in Commodore BASIC
+title1: File Input Output
+title2: in Commodore BASIC
 ---
 
 <!--

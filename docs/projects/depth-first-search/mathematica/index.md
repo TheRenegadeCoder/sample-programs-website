@@ -9,6 +9,8 @@ tags:
 - depth-first-search
 - mathematica
 title: Depth First Search in Mathematica
+title1: Depth First Search
+title2: in Mathematica
 ---
 
 <!--

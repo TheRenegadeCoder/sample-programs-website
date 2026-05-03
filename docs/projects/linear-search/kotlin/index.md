@@ -9,6 +9,8 @@ tags:
 - kotlin
 - linear-search
 title: Linear Search in Kotlin
+title1: Linear Search
+title2: in Kotlin
 ---
 
 <!--

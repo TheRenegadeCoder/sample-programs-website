@@ -9,6 +9,8 @@ tags:
 - awk
 - quick-sort
 title: Quick Sort in AWK
+title1: Quick Sort
+title2: in AWK
 ---
 
 <!--

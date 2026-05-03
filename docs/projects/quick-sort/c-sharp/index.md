@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - quick-sort
 title: Quick Sort in C#
+title1: Quick Sort
+title2: in C#
 ---
 
 <!--

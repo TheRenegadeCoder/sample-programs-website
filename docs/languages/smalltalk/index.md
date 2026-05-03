@@ -6,6 +6,8 @@ layout: default
 tags:
 - smalltalk
 title: The Smalltalk Programming Language
+title1: The Smalltalk
+title2: Programming Language
 ---
 
 <!--

@@ -10,6 +10,8 @@ tags:
 - hello-world
 - lolcode
 title: Hello World in LOLCODE
+title1: Hello World
+title2: in LOLCODE
 ---
 
 <!--

@@ -6,6 +6,8 @@ layout: default
 tags:
 - odin
 title: The Odin Programming Language
+title1: The Odin Programming
+title2: Language
 ---
 
 <!--

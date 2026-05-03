@@ -6,6 +6,8 @@ layout: default
 tags:
 - hobbes
 title: The Hobbes Programming Language
+title1: The Hobbes
+title2: Programming Language
 ---
 
 <!--

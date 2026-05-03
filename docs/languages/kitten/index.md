@@ -6,6 +6,8 @@ layout: default
 tags:
 - kitten
 title: The Kitten Programming Language
+title1: The Kitten
+title2: Programming Language
 ---
 
 <!--

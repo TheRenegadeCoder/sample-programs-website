@@ -9,6 +9,8 @@ layout: default
 tags:
 - elixir
 title: The Elixir Programming Language
+title1: The Elixir
+title2: Programming Language
 ---
 
 <!--

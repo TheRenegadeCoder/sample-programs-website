@@ -10,6 +10,8 @@ tags:
 - gluon
 - hello-world
 title: Hello World in Gluon
+title1: Hello World
+title2: in Gluon
 ---
 
 <!--

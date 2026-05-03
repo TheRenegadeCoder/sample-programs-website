@@ -10,6 +10,8 @@ tags:
 - file-input-output
 - gnu-make
 title: File Input Output in GNU Make
+title1: File Input Output
+title2: in GNU Make
 ---
 
 <!--

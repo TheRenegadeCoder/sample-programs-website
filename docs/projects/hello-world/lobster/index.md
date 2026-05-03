@@ -9,6 +9,8 @@ tags:
 - hello-world
 - lobster
 title: Hello World in Lobster
+title1: Hello World
+title2: in Lobster
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - rot13
 - typescript
 title: Rot13 in TypeScript
+title1: Rot13 in
+title2: TypeScript
 ---
 
 <!--

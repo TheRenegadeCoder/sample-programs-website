@@ -9,6 +9,8 @@ layout: default
 tags:
 - solidity
 title: The Solidity Programming Language
+title1: The Solidity
+title2: Programming Language
 ---
 
 <!--

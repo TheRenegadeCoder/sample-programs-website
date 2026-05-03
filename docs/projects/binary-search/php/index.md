@@ -9,6 +9,8 @@ tags:
 - binary-search
 - php
 title: Binary Search in PHP
+title1: Binary Search
+title2: in PHP
 ---
 
 <!--

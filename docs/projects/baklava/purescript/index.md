@@ -9,6 +9,8 @@ tags:
 - baklava
 - purescript
 title: Baklava in PureScript
+title1: Baklava in
+title2: PureScript
 ---
 
 <!--

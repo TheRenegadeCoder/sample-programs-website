@@ -11,6 +11,8 @@ tags:
 - file-input-output
 - ruby
 title: File Input Output in Ruby
+title1: File Input
+title2: Output in Ruby
 ---
 
 <!--

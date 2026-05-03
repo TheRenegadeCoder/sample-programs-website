@@ -9,6 +9,8 @@ tags:
 - baklava
 - wren
 title: Baklava in Wren
+title1: Baklava
+title2: in Wren
 ---
 
 <!--

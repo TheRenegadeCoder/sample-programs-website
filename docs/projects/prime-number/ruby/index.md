@@ -9,6 +9,8 @@ tags:
 - prime-number
 - ruby
 title: Prime Number in Ruby
+title1: Prime Number
+title2: in Ruby
 ---
 
 <!--

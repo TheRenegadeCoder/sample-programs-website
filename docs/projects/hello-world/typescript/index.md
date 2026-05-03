@@ -10,6 +10,8 @@ tags:
 - hello-world
 - typescript
 title: Hello World in TypeScript
+title1: Hello World
+title2: in TypeScript
 ---
 
 <!--

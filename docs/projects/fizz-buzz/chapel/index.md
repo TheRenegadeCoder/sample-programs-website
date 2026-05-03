@@ -9,6 +9,8 @@ tags:
 - chapel
 - fizz-buzz
 title: Fizz Buzz in Chapel
+title1: Fizz Buzz
+title2: in Chapel
 ---
 
 <!--

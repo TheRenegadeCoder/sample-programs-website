@@ -9,6 +9,8 @@ tags:
 - haskell
 - maximum-array-rotation
 title: Maximum Array Rotation in Haskell
+title1: Maximum Array
+title2: Rotation in Haskell
 ---
 
 <!--

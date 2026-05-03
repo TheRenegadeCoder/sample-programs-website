@@ -9,6 +9,8 @@ tags:
 - algol60
 - transpose-matrix
 title: Transpose Matrix in ALGOL 60
+title1: Transpose Matrix
+title2: in ALGOL 60
 ---
 
 <!--

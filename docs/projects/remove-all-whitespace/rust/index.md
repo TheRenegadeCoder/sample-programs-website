@@ -9,6 +9,8 @@ tags:
 - remove-all-whitespace
 - rust
 title: Remove All Whitespace in Rust
+title1: Remove All
+title2: Whitespace in Rust
 ---
 
 <!--

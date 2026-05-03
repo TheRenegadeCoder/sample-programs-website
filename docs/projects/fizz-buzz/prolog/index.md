@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - prolog
 title: Fizz Buzz in Prolog
+title1: Fizz Buzz
+title2: in Prolog
 ---
 
 <!--

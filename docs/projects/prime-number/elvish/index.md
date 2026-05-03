@@ -9,6 +9,8 @@ tags:
 - elvish
 - prime-number
 title: Prime Number in Elvish
+title1: Prime Number
+title2: in Elvish
 ---
 
 <!--

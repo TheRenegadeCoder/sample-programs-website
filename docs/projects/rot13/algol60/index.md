@@ -9,6 +9,8 @@ tags:
 - algol60
 - rot13
 title: Rot13 in ALGOL 60
+title1: Rot13 in
+title2: ALGOL 60
 ---
 
 <!--

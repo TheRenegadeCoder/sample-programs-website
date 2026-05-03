@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-07
 featured-image: bubble-sort-in-every-language.jpg
 last-modified: 2025-10-07
@@ -9,6 +9,8 @@ tags:
 - bubble-sort
 - tcl
 title: Bubble Sort in Tcl
+title1: Bubble Sort
+title2: in Tcl
 ---
 
 <!--

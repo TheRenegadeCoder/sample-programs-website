@@ -9,6 +9,8 @@ tags:
 - algol60
 - duplicate-character-counter
 title: Duplicate Character Counter in ALGOL 60
+title1: Duplicate Character
+title2: Counter in ALGOL 60
 ---
 
 <!--

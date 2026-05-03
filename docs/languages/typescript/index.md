@@ -6,6 +6,8 @@ layout: default
 tags:
 - typescript
 title: The TypeScript Programming Language
+title1: The TypeScript
+title2: Programming Language
 ---
 
 <!--

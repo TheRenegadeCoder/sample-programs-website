@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-09
 featured-image: transpose-matrix-in-every-language.jpg
 last-modified: 2025-10-09
@@ -9,6 +9,8 @@ tags:
 - tcl
 - transpose-matrix
 title: Transpose Matrix in Tcl
+title1: Transpose
+title2: Matrix in Tcl
 ---
 
 <!--

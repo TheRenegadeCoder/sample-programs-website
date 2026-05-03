@@ -9,6 +9,8 @@ tags:
 - julia
 - selection-sort
 title: Selection Sort in Julia
+title1: Selection
+title2: Sort in Julia
 ---
 
 <!--

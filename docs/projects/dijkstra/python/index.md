@@ -9,6 +9,8 @@ tags:
 - dijkstra
 - python
 title: Dijkstra in Python
+title1: Dijkstra
+title2: in Python
 ---
 
 <!--

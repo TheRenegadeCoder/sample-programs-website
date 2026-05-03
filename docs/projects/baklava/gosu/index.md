@@ -9,6 +9,8 @@ tags:
 - baklava
 - gosu
 title: Baklava in Gosu
+title1: Baklava
+title2: in Gosu
 ---
 
 <!--

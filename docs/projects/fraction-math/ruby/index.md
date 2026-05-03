@@ -9,6 +9,8 @@ tags:
 - fraction-math
 - ruby
 title: Fraction Math in Ruby
+title1: Fraction
+title2: Math in Ruby
 ---
 
 <!--

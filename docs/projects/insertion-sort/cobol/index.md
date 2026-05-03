@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-21
 featured-image: insertion-sort-in-every-language.jpg
 last-modified: 2026-04-21
@@ -9,6 +9,8 @@ tags:
 - cobol
 - insertion-sort
 title: Insertion Sort in COBOL
+title1: Insertion
+title2: Sort in COBOL
 ---
 
 <!--

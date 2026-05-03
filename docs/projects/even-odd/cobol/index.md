@@ -3,7 +3,7 @@ authors:
 - Jeremy Grifski
 - rzuckerm
 - ShivaniThevar
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2021-10-17
 featured-image: even-odd-in-cobol.jpg
 last-modified: 2026-04-18
@@ -12,6 +12,8 @@ tags:
 - cobol
 - even-odd
 title: Even Odd in COBOL
+title1: Even Odd
+title2: in COBOL
 ---
 
 <!--

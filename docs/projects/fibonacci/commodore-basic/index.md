@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - fibonacci
 title: Fibonacci in Commodore BASIC
+title1: Fibonacci in
+title2: Commodore BASIC
 ---
 
 <!--

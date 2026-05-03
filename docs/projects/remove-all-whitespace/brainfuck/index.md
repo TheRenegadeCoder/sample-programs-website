@@ -9,6 +9,8 @@ tags:
 - brainfuck
 - remove-all-whitespace
 title: Remove All Whitespace in Brainfuck
+title1: Remove All Whitespace
+title2: in Brainfuck
 ---
 
 <!--

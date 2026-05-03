@@ -9,6 +9,8 @@ tags:
 - euphoria
 - maximum-subarray
 title: Maximum Subarray in Euphoria
+title1: Maximum Subarray
+title2: in Euphoria
 ---
 
 <!--

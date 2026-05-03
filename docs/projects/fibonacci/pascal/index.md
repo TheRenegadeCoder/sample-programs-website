@@ -9,6 +9,8 @@ tags:
 - fibonacci
 - pascal
 title: Fibonacci in Pascal
+title1: Fibonacci
+title2: in Pascal
 ---
 
 <!--

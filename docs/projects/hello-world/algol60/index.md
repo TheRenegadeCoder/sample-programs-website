@@ -9,6 +9,8 @@ tags:
 - algol60
 - hello-world
 title: Hello World in ALGOL 60
+title1: Hello World
+title2: in ALGOL 60
 ---
 
 <!--

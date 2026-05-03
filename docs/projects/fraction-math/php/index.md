@@ -9,6 +9,8 @@ tags:
 - fraction-math
 - php
 title: Fraction Math in PHP
+title1: Fraction
+title2: Math in PHP
 ---
 
 <!--

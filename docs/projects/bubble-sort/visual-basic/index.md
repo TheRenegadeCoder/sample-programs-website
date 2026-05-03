@@ -10,6 +10,8 @@ tags:
 - bubble-sort
 - visual-basic
 title: Bubble Sort in Visual Basic
+title1: Bubble Sort in
+title2: Visual Basic
 ---
 
 <!--

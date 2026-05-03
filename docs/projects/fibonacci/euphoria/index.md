@@ -9,6 +9,8 @@ tags:
 - euphoria
 - fibonacci
 title: Fibonacci in Euphoria
+title1: Fibonacci
+title2: in Euphoria
 ---
 
 <!--

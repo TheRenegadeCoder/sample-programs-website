@@ -12,6 +12,8 @@ tags:
 - insertion-sort
 - python
 title: Insertion Sort in Python
+title1: Insertion Sort
+title2: in Python
 ---
 
 <!--

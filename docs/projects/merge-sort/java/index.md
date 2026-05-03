@@ -10,6 +10,8 @@ tags:
 - java
 - merge-sort
 title: Merge Sort in Java
+title1: Merge Sort
+title2: in Java
 ---
 
 <!--

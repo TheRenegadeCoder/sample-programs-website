@@ -9,6 +9,8 @@ tags:
 - binary-search
 - perl
 title: Binary Search in Perl
+title1: Binary Search
+title2: in Perl
 ---
 
 <!--

@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-10
 featured-image: maximum-subarray-in-every-language.jpg
 last-modified: 2026-04-10
@@ -9,6 +9,8 @@ tags:
 - java
 - maximum-subarray
 title: Maximum Subarray in Java
+title1: Maximum Subarray
+title2: in Java
 ---
 
 <!--

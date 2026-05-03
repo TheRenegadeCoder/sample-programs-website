@@ -9,6 +9,8 @@ tags:
 - baklava
 - pyret
 title: Baklava in Pyret
+title1: Baklava
+title2: in Pyret
 ---
 
 <!--

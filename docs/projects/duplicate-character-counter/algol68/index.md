@@ -9,6 +9,8 @@ tags:
 - algol68
 - duplicate-character-counter
 title: Duplicate Character Counter in ALGOL 68
+title1: Duplicate Character
+title2: Counter in ALGOL 68
 ---
 
 <!--

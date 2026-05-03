@@ -10,6 +10,8 @@ tags:
 - fibonacci
 - typescript
 title: Fibonacci in TypeScript
+title1: Fibonacci in
+title2: TypeScript
 ---
 
 <!--

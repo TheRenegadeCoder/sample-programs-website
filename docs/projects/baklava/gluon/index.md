@@ -9,6 +9,8 @@ tags:
 - baklava
 - gluon
 title: Baklava in Gluon
+title1: Baklava
+title2: in Gluon
 ---
 
 <!--

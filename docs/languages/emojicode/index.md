@@ -6,6 +6,8 @@ layout: default
 tags:
 - emojicode
 title: The Emojicode Programming Language
+title1: The Emojicode
+title2: Programming Language
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - prime-number
 - swift
 title: Prime Number in Swift
+title1: Prime Number
+title2: in Swift
 ---
 
 <!--

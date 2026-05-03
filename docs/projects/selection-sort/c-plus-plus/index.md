@@ -3,7 +3,7 @@ authors:
 - Jeremy Grifski
 - Parker Johansen
 - Sailok Chinta
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2019-10-23
 featured-image: selection-sort-in-every-language.jpg
 last-modified: 2026-04-15
@@ -12,6 +12,8 @@ tags:
 - c-plus-plus
 - selection-sort
 title: Selection Sort in C++
+title1: Selection
+title2: Sort in C++
 ---
 
 <!--

@@ -11,6 +11,8 @@ tags:
 - reverse-string
 - swift
 title: Reverse String in Swift
+title1: Reverse String
+title2: in Swift
 ---
 
 <!--

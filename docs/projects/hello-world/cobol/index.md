@@ -3,7 +3,7 @@ authors:
 - Jeremy Grifski
 - rzuckerm
 - Sudhanshu Dubey
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2021-10-08
 featured-image: hello-world-in-cobol.jpg
 last-modified: 2026-04-18
@@ -12,6 +12,8 @@ tags:
 - cobol
 - hello-world
 title: Hello World in COBOL
+title1: Hello World
+title2: in COBOL
 ---
 
 <!--

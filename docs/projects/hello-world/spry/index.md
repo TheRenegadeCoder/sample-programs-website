@@ -9,6 +9,8 @@ tags:
 - hello-world
 - spry
 title: Hello World in Spry
+title1: Hello World
+title2: in Spry
 ---
 
 <!--

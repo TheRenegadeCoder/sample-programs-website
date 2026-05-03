@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-09
 featured-image: quick-sort-in-every-language.jpg
 last-modified: 2025-10-09
@@ -9,6 +9,8 @@ tags:
 - quick-sort
 - tcl
 title: Quick Sort in Tcl
+title1: Quick Sort
+title2: in Tcl
 ---
 
 <!--

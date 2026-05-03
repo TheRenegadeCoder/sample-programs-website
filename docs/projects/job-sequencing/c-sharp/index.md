@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - job-sequencing
 title: Job Sequencing in C#
+title1: Job Sequencing
+title2: in C#
 ---
 
 <!--

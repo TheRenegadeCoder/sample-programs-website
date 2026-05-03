@@ -10,6 +10,8 @@ tags:
 - lua
 - prime-number
 title: Prime Number in Lua
+title1: Prime Number
+title2: in Lua
 ---
 
 <!--

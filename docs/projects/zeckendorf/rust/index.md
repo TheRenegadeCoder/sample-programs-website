@@ -9,6 +9,8 @@ tags:
 - rust
 - zeckendorf
 title: Zeckendorf in Rust
+title1: Zeckendorf
+title2: in Rust
 ---
 
 <!--

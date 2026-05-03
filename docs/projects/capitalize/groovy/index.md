@@ -10,6 +10,8 @@ tags:
 - capitalize
 - groovy
 title: Capitalize in Groovy
+title1: Capitalize
+title2: in Groovy
 ---
 
 <!--

@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-05-03
 featured-image: minimum-spanning-tree-in-every-language.jpg
 last-modified: 2026-05-03
@@ -9,6 +9,8 @@ tags:
 - minimum-spanning-tree
 - swift
 title: Minimum Spanning Tree in Swift
+title1: Minimum Spanning
+title2: Tree in Swift
 ---
 
 <!--

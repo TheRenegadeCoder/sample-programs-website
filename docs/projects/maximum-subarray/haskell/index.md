@@ -9,6 +9,8 @@ tags:
 - haskell
 - maximum-subarray
 title: Maximum Subarray in Haskell
+title1: Maximum Subarray
+title2: in Haskell
 ---
 
 <!--

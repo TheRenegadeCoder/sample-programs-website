@@ -2,7 +2,7 @@
 authors:
 - Ajay Maheshwari
 - Jeremy Grifski
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2022-10-03
 featured-image: depth-first-search-in-every-language.jpg
 last-modified: 2026-04-15
@@ -11,6 +11,8 @@ tags:
 - c-plus-plus
 - depth-first-search
 title: Depth First Search in C++
+title1: Depth First
+title2: Search in C++
 ---
 
 <!--

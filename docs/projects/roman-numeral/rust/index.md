@@ -10,6 +10,8 @@ tags:
 - roman-numeral
 - rust
 title: Roman Numeral in Rust
+title1: Roman Numeral
+title2: in Rust
 ---
 
 <!--

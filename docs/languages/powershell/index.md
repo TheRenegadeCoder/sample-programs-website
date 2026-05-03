@@ -9,6 +9,8 @@ layout: default
 tags:
 - powershell
 title: The PowerShell Programming Language
+title1: The PowerShell
+title2: Programming Language
 ---
 
 <!--

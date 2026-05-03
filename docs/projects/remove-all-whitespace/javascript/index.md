@@ -9,6 +9,8 @@ tags:
 - javascript
 - remove-all-whitespace
 title: Remove All Whitespace in JavaScript
+title1: Remove All Whitespace
+title2: in JavaScript
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - factorial
 - ti-basic
 title: Factorial in TI-BASIC
+title1: Factorial
+title2: in TI-BASIC
 ---
 
 <!--

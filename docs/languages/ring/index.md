@@ -6,6 +6,8 @@ layout: default
 tags:
 - ring
 title: The Ring Programming Language
+title1: The Ring Programming
+title2: Language
 ---
 
 <!--

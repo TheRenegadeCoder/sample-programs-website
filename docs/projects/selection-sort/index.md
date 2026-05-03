@@ -6,6 +6,8 @@ layout: default
 tags:
 - selection-sort
 title: Selection Sort
+title1: Selection
+title2: Sort
 ---
 
 <!--

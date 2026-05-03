@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-21
 featured-image: sleep-sort-in-every-language.jpg
 last-modified: 2025-07-21
@@ -9,6 +9,8 @@ tags:
 - pascal
 - sleep-sort
 title: Sleep Sort in Pascal
+title1: Sleep Sort
+title2: in Pascal
 ---
 
 <!--

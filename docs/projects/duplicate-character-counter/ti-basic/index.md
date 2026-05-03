@@ -9,6 +9,8 @@ tags:
 - duplicate-character-counter
 - ti-basic
 title: Duplicate Character Counter in TI-BASIC
+title1: Duplicate Character
+title2: Counter in TI-BASIC
 ---
 
 <!--

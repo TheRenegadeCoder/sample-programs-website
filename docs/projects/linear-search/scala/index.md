@@ -1,7 +1,7 @@
 ---
 authors:
 - konradkelly
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-31
 featured-image: linear-search-in-every-language.jpg
 last-modified: 2026-04-11
@@ -10,6 +10,8 @@ tags:
 - linear-search
 - scala
 title: Linear Search in Scala
+title1: Linear Search
+title2: in Scala
 ---
 
 <!--

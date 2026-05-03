@@ -1,6 +1,6 @@
 ---
 authors:
-- "Christoph B\xF6hmwalder"
+- Christoph Böhmwalder
 date: 2018-08-31
 featured-image: fizz-buzz-in-every-language.png
 last-modified: 2018-08-31
@@ -9,6 +9,8 @@ tags:
 - bash
 - fizz-buzz
 title: Fizz Buzz in Bash
+title1: Fizz Buzz
+title2: in Bash
 ---
 
 <!--

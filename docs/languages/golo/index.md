@@ -6,6 +6,8 @@ layout: default
 tags:
 - golo
 title: The Golo Programming Language
+title1: The Golo Programming
+title2: Language
 ---
 
 <!--

@@ -11,6 +11,8 @@ tags:
 - hello-world
 - julia
 title: Hello World in Julia
+title1: Hello World
+title2: in Julia
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - capitalize
 - ti-basic
 title: Capitalize in TI-BASIC
+title1: Capitalize
+title2: in TI-BASIC
 ---
 
 <!--

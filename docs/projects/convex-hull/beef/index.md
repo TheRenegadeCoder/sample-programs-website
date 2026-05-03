@@ -9,6 +9,8 @@ tags:
 - beef
 - convex-hull
 title: Convex Hull in Beef
+title1: Convex Hull
+title2: in Beef
 ---
 
 <!--

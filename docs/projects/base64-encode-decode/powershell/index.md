@@ -9,6 +9,8 @@ tags:
 - base64-encode-decode
 - powershell
 title: Base64 Encode Decode in PowerShell
+title1: Base64 Encode Decode
+title2: in PowerShell
 ---
 
 <!--

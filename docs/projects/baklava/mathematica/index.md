@@ -9,6 +9,8 @@ tags:
 - baklava
 - mathematica
 title: Baklava in Mathematica
+title1: Baklava in
+title2: Mathematica
 ---
 
 <!--

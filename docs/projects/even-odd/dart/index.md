@@ -9,6 +9,8 @@ tags:
 - dart
 - even-odd
 title: Even Odd in Dart
+title1: Even Odd
+title2: in Dart
 ---
 
 <!--

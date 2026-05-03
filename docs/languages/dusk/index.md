@@ -6,6 +6,8 @@ layout: default
 tags:
 - dusk
 title: The Dusk Programming Language
+title1: The Dusk Programming
+title2: Language
 ---
 
 <!--

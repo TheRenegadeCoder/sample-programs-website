@@ -9,6 +9,8 @@ tags:
 - beef
 - merge-sort
 title: Merge Sort in Beef
+title1: Merge Sort
+title2: in Beef
 ---
 
 <!--

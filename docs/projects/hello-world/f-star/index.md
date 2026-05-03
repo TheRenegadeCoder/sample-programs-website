@@ -10,6 +10,8 @@ tags:
 - f-star
 - hello-world
 title: Hello World in F*
+title1: Hello World
+title2: in F*
 ---
 
 <!--

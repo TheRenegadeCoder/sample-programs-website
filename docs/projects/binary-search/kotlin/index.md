@@ -9,6 +9,8 @@ tags:
 - binary-search
 - kotlin
 title: Binary Search in Kotlin
+title1: Binary Search
+title2: in Kotlin
 ---
 
 <!--

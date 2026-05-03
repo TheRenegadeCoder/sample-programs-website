@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - remove-all-whitespace
 title: Remove All Whitespace in C#
+title1: Remove All
+title2: Whitespace in C#
 ---
 
 <!--

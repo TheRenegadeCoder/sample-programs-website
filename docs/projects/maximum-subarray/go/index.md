@@ -9,6 +9,8 @@ tags:
 - go
 - maximum-subarray
 title: Maximum Subarray in Go
+title1: Maximum
+title2: Subarray in Go
 ---
 
 <!--

@@ -10,6 +10,8 @@ tags:
 - hello-world
 - r
 title: Hello World in R
+title1: Hello World
+title2: in R
 ---
 
 <!--

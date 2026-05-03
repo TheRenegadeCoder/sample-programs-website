@@ -9,6 +9,8 @@ tags:
 - capitalize
 - commodore-basic
 title: Capitalize in Commodore BASIC
+title1: Capitalize in
+title2: Commodore BASIC
 ---
 
 <!--

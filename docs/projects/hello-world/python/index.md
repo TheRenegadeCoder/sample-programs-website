@@ -11,6 +11,8 @@ tags:
 - hello-world
 - python
 title: Hello World in Python
+title1: Hello World
+title2: in Python
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - josephus-problem
 title: Josephus Problem in C#
+title1: Josephus
+title2: Problem in C#
 ---
 
 <!--

@@ -10,6 +10,8 @@ layout: default
 tags:
 - python
 title: The Python Programming Language
+title1: The Python
+title2: Programming Language
 ---
 
 <!--

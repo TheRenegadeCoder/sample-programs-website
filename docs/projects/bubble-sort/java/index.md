@@ -10,6 +10,8 @@ tags:
 - bubble-sort
 - java
 title: Bubble Sort in Java
+title1: Bubble Sort
+title2: in Java
 ---
 
 <!--

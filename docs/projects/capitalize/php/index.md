@@ -10,6 +10,8 @@ tags:
 - capitalize
 - php
 title: Capitalize in PHP
+title1: Capitalize
+title2: in PHP
 ---
 
 <!--

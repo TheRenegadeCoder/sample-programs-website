@@ -1,7 +1,7 @@
 ---
 authors:
 - Maximillian Naza
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2024-11-16
 featured-image: convex-hull-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - c
 - convex-hull
 title: Convex Hull in C
+title1: Convex
+title2: Hull in C
 ---
 
 <!--

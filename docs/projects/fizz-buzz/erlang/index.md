@@ -10,6 +10,8 @@ tags:
 - erlang
 - fizz-buzz
 title: Fizz Buzz in Erlang
+title1: Fizz Buzz
+title2: in Erlang
 ---
 
 <!--

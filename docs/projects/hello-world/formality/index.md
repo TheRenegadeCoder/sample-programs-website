@@ -9,6 +9,8 @@ tags:
 - formality
 - hello-world
 title: Hello World in Formality
+title1: Hello World
+title2: in Formality
 ---
 
 <!--

@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-21
 featured-image: quick-sort-in-every-language.jpg
 last-modified: 2026-04-21
@@ -9,6 +9,8 @@ tags:
 - cobol
 - quick-sort
 title: Quick Sort in COBOL
+title1: Quick Sort
+title2: in COBOL
 ---
 
 <!--

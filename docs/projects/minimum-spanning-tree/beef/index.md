@@ -9,6 +9,8 @@ tags:
 - beef
 - minimum-spanning-tree
 title: Minimum Spanning Tree in Beef
+title1: Minimum Spanning
+title2: Tree in Beef
 ---
 
 <!--

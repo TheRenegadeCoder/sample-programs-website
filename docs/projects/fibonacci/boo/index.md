@@ -10,6 +10,8 @@ tags:
 - boo
 - fibonacci
 title: Fibonacci in Boo
+title1: Fibonacci
+title2: in Boo
 ---
 
 <!--

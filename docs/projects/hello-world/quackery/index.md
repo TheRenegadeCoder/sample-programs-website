@@ -9,6 +9,8 @@ tags:
 - hello-world
 - quackery
 title: Hello World in Quackery
+title1: Hello World
+title2: in Quackery
 ---
 
 <!--

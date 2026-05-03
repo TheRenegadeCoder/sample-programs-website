@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - pyret
 title: Fizz Buzz in Pyret
+title1: Fizz Buzz
+title2: in Pyret
 ---
 
 <!--

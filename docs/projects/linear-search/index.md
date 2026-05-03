@@ -6,6 +6,8 @@ layout: default
 tags:
 - linear-search
 title: Linear Search
+title1: Linear
+title2: Search
 ---
 
 <!--

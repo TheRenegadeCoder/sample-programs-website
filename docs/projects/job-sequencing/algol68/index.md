@@ -9,6 +9,8 @@ tags:
 - algol68
 - job-sequencing
 title: Job Sequencing in ALGOL 68
+title1: Job Sequencing
+title2: in ALGOL 68
 ---
 
 <!--

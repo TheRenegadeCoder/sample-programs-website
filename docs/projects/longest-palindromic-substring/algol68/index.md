@@ -9,6 +9,8 @@ tags:
 - algol68
 - longest-palindromic-substring
 title: Longest Palindromic Substring in ALGOL 68
+title1: Longest Palindromic
+title2: Substring in ALGOL 68
 ---
 
 <!--

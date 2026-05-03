@@ -6,6 +6,8 @@ layout: default
 tags:
 - never
 title: The Never Programming Language
+title1: The Never Programming
+title2: Language
 ---
 
 <!--

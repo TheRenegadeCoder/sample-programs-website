@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - x86-64
 title: Fizz Buzz in x86-64
+title1: Fizz Buzz
+title2: in x86-64
 ---
 
 <!--

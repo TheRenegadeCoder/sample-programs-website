@@ -12,6 +12,8 @@ tags:
 - fizz-buzz
 - kotlin
 title: Fizz Buzz in Kotlin
+title1: Fizz Buzz
+title2: in Kotlin
 ---
 
 <!--

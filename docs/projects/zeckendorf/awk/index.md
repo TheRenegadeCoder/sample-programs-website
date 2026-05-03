@@ -9,6 +9,8 @@ tags:
 - awk
 - zeckendorf
 title: Zeckendorf in AWK
+title1: Zeckendorf
+title2: in AWK
 ---
 
 <!--

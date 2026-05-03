@@ -9,6 +9,8 @@ tags:
 - baik
 - hello-world
 title: Hello World in BAIK
+title1: Hello World
+title2: in BAIK
 ---
 
 <!--

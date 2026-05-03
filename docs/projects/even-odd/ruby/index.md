@@ -9,6 +9,8 @@ tags:
 - even-odd
 - ruby
 title: Even Odd in Ruby
+title1: Even Odd
+title2: in Ruby
 ---
 
 <!--

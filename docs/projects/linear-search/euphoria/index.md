@@ -9,6 +9,8 @@ tags:
 - euphoria
 - linear-search
 title: Linear Search in Euphoria
+title1: Linear Search
+title2: in Euphoria
 ---
 
 <!--

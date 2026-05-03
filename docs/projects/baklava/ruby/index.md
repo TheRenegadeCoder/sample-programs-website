@@ -9,6 +9,8 @@ tags:
 - baklava
 - ruby
 title: Baklava in Ruby
+title1: Baklava
+title2: in Ruby
 ---
 
 <!--

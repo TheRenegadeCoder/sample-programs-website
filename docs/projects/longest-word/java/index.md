@@ -10,6 +10,8 @@ tags:
 - java
 - longest-word
 title: Longest Word in Java
+title1: Longest Word
+title2: in Java
 ---
 
 <!--

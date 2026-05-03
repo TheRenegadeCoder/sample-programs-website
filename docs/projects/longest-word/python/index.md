@@ -9,6 +9,8 @@ tags:
 - longest-word
 - python
 title: Longest Word in Python
+title1: Longest Word
+title2: in Python
 ---
 
 <!--

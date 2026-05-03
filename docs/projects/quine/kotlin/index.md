@@ -9,6 +9,8 @@ tags:
 - kotlin
 - quine
 title: Quine in Kotlin
+title1: Quine in
+title2: Kotlin
 ---
 
 <!--

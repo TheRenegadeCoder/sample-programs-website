@@ -10,6 +10,8 @@ tags:
 - lua
 - roman-numeral
 title: Roman Numeral in Lua
+title1: Roman Numeral
+title2: in Lua
 ---
 
 <!--

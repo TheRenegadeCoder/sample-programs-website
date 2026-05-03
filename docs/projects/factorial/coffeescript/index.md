@@ -10,6 +10,8 @@ tags:
 - coffeescript
 - factorial
 title: Factorial in CoffeeScript
+title1: Factorial in
+title2: CoffeeScript
 ---
 
 <!--

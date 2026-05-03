@@ -6,6 +6,8 @@ layout: default
 tags:
 - terra
 title: The Terra Programming Language
+title1: The Terra Programming
+title2: Language
 ---
 
 <!--

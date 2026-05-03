@@ -8,6 +8,8 @@ layout: default
 tags:
 - euphoria
 title: The Euphoria Programming Language
+title1: The Euphoria
+title2: Programming Language
 ---
 
 <!--

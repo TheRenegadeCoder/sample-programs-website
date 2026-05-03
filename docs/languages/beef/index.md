@@ -6,6 +6,8 @@ layout: default
 tags:
 - beef
 title: The Beef Programming Language
+title1: The Beef Programming
+title2: Language
 ---
 
 <!--

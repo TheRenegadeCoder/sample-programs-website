@@ -11,6 +11,8 @@ tags:
 - insertion-sort
 - php
 title: Insertion Sort in PHP
+title1: Insertion
+title2: Sort in PHP
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - m4
 title: Fizz Buzz in m4
+title1: Fizz Buzz
+title2: in m4
 ---
 
 <!--

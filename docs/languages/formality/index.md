@@ -6,6 +6,8 @@ layout: default
 tags:
 - formality
 title: The Formality Programming Language
+title1: The Formality
+title2: Programming Language
 ---
 
 <!--

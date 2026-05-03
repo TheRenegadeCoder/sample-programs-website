@@ -9,6 +9,8 @@ tags:
 - dart
 - quick-sort
 title: Quick Sort in Dart
+title1: Quick Sort
+title2: in Dart
 ---
 
 <!--

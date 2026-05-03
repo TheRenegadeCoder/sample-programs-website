@@ -10,6 +10,8 @@ tags:
 - base64-encode-decode
 - python
 title: Base64 Encode Decode in Python
+title1: Base64 Encode
+title2: Decode in Python
 ---
 
 <!--

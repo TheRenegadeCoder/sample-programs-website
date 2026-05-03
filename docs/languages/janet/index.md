@@ -6,6 +6,8 @@ layout: default
 tags:
 - janet
 title: The Janet Programming Language
+title1: The Janet Programming
+title2: Language
 ---
 
 <!--

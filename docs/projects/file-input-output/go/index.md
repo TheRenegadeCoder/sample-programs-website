@@ -9,6 +9,8 @@ tags:
 - file-input-output
 - go
 title: File Input Output in Go
+title1: File Input
+title2: Output in Go
 ---
 
 <!--

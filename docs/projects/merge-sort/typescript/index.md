@@ -9,6 +9,8 @@ tags:
 - merge-sort
 - typescript
 title: Merge Sort in TypeScript
+title1: Merge Sort in
+title2: TypeScript
 ---
 
 <!--

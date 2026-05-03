@@ -9,6 +9,8 @@ tags:
 - baklava
 - livescript
 title: Baklava in LiveScript
+title1: Baklava in
+title2: LiveScript
 ---
 
 <!--

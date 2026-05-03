@@ -9,6 +9,8 @@ tags:
 - haskell
 - merge-sort
 title: Merge Sort in Haskell
+title1: Merge Sort
+title2: in Haskell
 ---
 
 <!--

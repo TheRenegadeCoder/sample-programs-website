@@ -9,6 +9,8 @@ tags:
 - algol60
 - binary-search
 title: Binary Search in ALGOL 60
+title1: Binary Search
+title2: in ALGOL 60
 ---
 
 <!--

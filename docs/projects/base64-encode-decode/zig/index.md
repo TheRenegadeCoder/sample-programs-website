@@ -9,6 +9,8 @@ tags:
 - base64-encode-decode
 - zig
 title: Base64 Encode Decode in Zig
+title1: Base64 Encode
+title2: Decode in Zig
 ---
 
 <!--

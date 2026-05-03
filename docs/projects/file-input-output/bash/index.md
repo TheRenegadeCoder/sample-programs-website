@@ -9,6 +9,8 @@ tags:
 - bash
 - file-input-output
 title: File Input Output in Bash
+title1: File Input
+title2: Output in Bash
 ---
 
 <!--

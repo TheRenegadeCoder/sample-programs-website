@@ -9,6 +9,8 @@ tags:
 - baklava
 - smalltalk
 title: Baklava in Smalltalk
+title1: Baklava in
+title2: Smalltalk
 ---
 
 <!--

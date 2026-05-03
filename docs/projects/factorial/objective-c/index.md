@@ -2,7 +2,7 @@
 authors:
 - niftycode
 - rzuckerm
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2020-10-01
 featured-image: factorial-in-every-language.jpg
 last-modified: 2026-04-30
@@ -11,6 +11,8 @@ tags:
 - factorial
 - objective-c
 title: Factorial in Objective-C
+title1: Factorial in
+title2: Objective-C
 ---
 
 <!--

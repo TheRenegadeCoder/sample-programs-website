@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-08
 featured-image: dijkstra-in-every-language.jpg
 last-modified: 2025-10-08
@@ -9,6 +9,8 @@ tags:
 - dijkstra
 - tcl
 title: Dijkstra in Tcl
+title1: Dijkstra
+title2: in Tcl
 ---
 
 <!--

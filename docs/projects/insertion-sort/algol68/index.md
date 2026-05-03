@@ -9,6 +9,8 @@ tags:
 - algol68
 - insertion-sort
 title: Insertion Sort in ALGOL 68
+title1: Insertion Sort
+title2: in ALGOL 68
 ---
 
 <!--

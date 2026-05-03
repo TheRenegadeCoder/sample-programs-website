@@ -6,6 +6,8 @@ layout: default
 tags:
 - factor
 title: The Factor Programming Language
+title1: The Factor
+title2: Programming Language
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - factorial
 - mathematica
 title: Factorial in Mathematica
+title1: Factorial in
+title2: Mathematica
 ---
 
 <!--

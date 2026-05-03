@@ -12,6 +12,8 @@ tags:
 - reverse-string
 - scheme
 title: Reverse String in Scheme
+title1: Reverse String
+title2: in Scheme
 ---
 
 <!--

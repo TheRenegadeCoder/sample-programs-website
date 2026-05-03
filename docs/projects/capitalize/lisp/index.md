@@ -9,6 +9,8 @@ tags:
 - capitalize
 - lisp
 title: Capitalize in Lisp
+title1: Capitalize
+title2: in Lisp
 ---
 
 <!--

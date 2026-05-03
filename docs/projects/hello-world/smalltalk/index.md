@@ -9,6 +9,8 @@ tags:
 - hello-world
 - smalltalk
 title: Hello World in Smalltalk
+title1: Hello World
+title2: in Smalltalk
 ---
 
 <!--

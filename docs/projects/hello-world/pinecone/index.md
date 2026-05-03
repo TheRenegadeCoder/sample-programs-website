@@ -9,6 +9,8 @@ tags:
 - hello-world
 - pinecone
 title: Hello World in Pinecone
+title1: Hello World
+title2: in Pinecone
 ---
 
 <!--

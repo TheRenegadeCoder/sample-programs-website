@@ -9,6 +9,8 @@ tags:
 - longest-word
 - r
 title: Longest Word in R
+title1: Longest
+title2: Word in R
 ---
 
 <!--

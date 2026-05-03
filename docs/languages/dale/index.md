@@ -6,6 +6,8 @@ layout: default
 tags:
 - dale
 title: The Dale Programming Language
+title1: The Dale Programming
+title2: Language
 ---
 
 <!--

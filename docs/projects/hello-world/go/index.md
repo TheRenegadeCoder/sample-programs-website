@@ -10,6 +10,8 @@ tags:
 - go
 - hello-world
 title: Hello World in Go
+title1: Hello World
+title2: in Go
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - dijkstra
 - m4
 title: Dijkstra in m4
+title1: Dijkstra
+title2: in m4
 ---
 
 <!--

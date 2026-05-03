@@ -2,7 +2,7 @@
 authors:
 - Cristiano Lopes
 - rzuckerm
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2020-10-03
 featured-image: capitalize-in-every-language.jpg
 last-modified: 2026-04-30
@@ -11,6 +11,8 @@ tags:
 - capitalize
 - objective-c
 title: Capitalize in Objective-C
+title1: Capitalize in
+title2: Objective-C
 ---
 
 <!--

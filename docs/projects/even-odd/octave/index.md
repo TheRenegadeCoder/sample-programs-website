@@ -9,6 +9,8 @@ tags:
 - even-odd
 - octave
 title: Even Odd in Octave
+title1: Even Odd
+title2: in Octave
 ---
 
 <!--

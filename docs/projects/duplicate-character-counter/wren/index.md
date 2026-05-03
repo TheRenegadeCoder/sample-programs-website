@@ -9,6 +9,8 @@ tags:
 - duplicate-character-counter
 - wren
 title: Duplicate Character Counter in Wren
+title1: Duplicate Character
+title2: Counter in Wren
 ---
 
 <!--

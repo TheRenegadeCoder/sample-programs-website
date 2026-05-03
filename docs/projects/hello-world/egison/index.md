@@ -9,6 +9,8 @@ tags:
 - egison
 - hello-world
 title: Hello World in Egison
+title1: Hello World
+title2: in Egison
 ---
 
 <!--

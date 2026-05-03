@@ -9,6 +9,8 @@ tags:
 - factorial
 - nim
 title: Factorial in Nim
+title1: Factorial
+title2: in Nim
 ---
 
 <!--

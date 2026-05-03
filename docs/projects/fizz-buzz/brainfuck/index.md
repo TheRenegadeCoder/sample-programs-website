@@ -1,6 +1,6 @@
 ---
 authors:
-- "Christoph B\xF6hmwalder"
+- Christoph Böhmwalder
 date: 2018-08-24
 featured-image: fizz-buzz-in-every-language.png
 last-modified: 2018-08-24
@@ -9,6 +9,8 @@ tags:
 - brainfuck
 - fizz-buzz
 title: Fizz Buzz in Brainfuck
+title1: Fizz Buzz in
+title2: Brainfuck
 ---
 
 <!--

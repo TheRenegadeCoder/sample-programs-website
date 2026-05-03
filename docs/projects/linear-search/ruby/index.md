@@ -9,6 +9,8 @@ tags:
 - linear-search
 - ruby
 title: Linear Search in Ruby
+title1: Linear Search
+title2: in Ruby
 ---
 
 <!--

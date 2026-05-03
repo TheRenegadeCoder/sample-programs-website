@@ -9,6 +9,8 @@ tags:
 - duplicate-character-counter
 - go
 title: Duplicate Character Counter in Go
+title1: Duplicate Character
+title2: Counter in Go
 ---
 
 <!--

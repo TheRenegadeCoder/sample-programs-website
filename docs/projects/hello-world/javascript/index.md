@@ -9,6 +9,8 @@ tags:
 - hello-world
 - javascript
 title: Hello World in JavaScript
+title1: Hello World
+title2: in JavaScript
 ---
 
 <!--

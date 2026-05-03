@@ -6,6 +6,8 @@ layout: default
 tags:
 - idris
 title: The Idris Programming Language
+title1: The Idris Programming
+title2: Language
 ---
 
 <!--

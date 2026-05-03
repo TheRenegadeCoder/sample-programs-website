@@ -9,6 +9,8 @@ tags:
 - mathematica
 - merge-sort
 title: Merge Sort in Mathematica
+title1: Merge Sort in
+title2: Mathematica
 ---
 
 <!--

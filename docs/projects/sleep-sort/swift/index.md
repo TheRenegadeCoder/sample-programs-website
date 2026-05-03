@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-05-03
 featured-image: sleep-sort-in-every-language.jpg
 last-modified: 2026-05-03
@@ -9,6 +9,8 @@ tags:
 - sleep-sort
 - swift
 title: Sleep Sort in Swift
+title1: Sleep Sort
+title2: in Swift
 ---
 
 <!--

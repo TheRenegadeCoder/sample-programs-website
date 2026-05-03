@@ -9,6 +9,8 @@ tags:
 - baklava
 - ocaml
 title: Baklava in OCaml
+title1: Baklava
+title2: in OCaml
 ---
 
 <!--

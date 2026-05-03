@@ -13,6 +13,8 @@ tags:
 - factorial
 - python
 title: Factorial in Python
+title1: Factorial
+title2: in Python
 ---
 
 <!--

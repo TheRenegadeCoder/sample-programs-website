@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - longest-word
 title: Longest Word in Commodore BASIC
+title1: Longest Word in
+title2: Commodore BASIC
 ---
 
 <!--

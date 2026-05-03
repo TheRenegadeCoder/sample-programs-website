@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - v
 title: Fizz Buzz in V
+title1: Fizz Buzz
+title2: in V
 ---
 
 <!--

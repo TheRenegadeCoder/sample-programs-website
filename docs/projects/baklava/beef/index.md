@@ -9,6 +9,8 @@ tags:
 - baklava
 - beef
 title: Baklava in Beef
+title1: Baklava
+title2: in Beef
 ---
 
 <!--

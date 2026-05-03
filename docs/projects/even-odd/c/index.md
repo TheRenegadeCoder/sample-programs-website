@@ -4,7 +4,7 @@ authors:
 - Jeremy Grifski
 - rzuckerm
 - shubhragupta-code
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2018-10-21
 featured-image: even-odd-in-every-language.jpg
 last-modified: 2026-04-15
@@ -13,6 +13,8 @@ tags:
 - c
 - even-odd
 title: Even Odd in C
+title1: Even Odd
+title2: in C
 ---
 
 <!--

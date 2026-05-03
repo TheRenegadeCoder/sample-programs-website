@@ -9,6 +9,8 @@ tags:
 - go
 - josephus-problem
 title: Josephus Problem in Go
+title1: Josephus
+title2: Problem in Go
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - linear-search
 title: Linear Search in Commodore BASIC
+title1: Linear Search in
+title2: Commodore BASIC
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - fraction-math
 - swift
 title: Fraction Math in Swift
+title1: Fraction Math
+title2: in Swift
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - elvish
 - fibonacci
 title: Fibonacci in Elvish
+title1: Fibonacci
+title2: in Elvish
 ---
 
 <!--

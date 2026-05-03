@@ -8,6 +8,8 @@ layout: default
 tags:
 - unicat
 title: The Unicat Programming Language
+title1: The Unicat
+title2: Programming Language
 ---
 
 <!--

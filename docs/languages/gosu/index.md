@@ -6,6 +6,8 @@ layout: default
 tags:
 - gosu
 title: The Gosu Programming Language
+title1: The Gosu Programming
+title2: Language
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - beef
 - maximum-array-rotation
 title: Maximum Array Rotation in Beef
+title1: Maximum Array
+title2: Rotation in Beef
 ---
 
 <!--

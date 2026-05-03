@@ -6,6 +6,8 @@ layout: default
 tags:
 - lucee
 title: The Lucee Programming Language
+title1: The Lucee Programming
+title2: Language
 ---
 
 <!--

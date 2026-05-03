@@ -12,6 +12,8 @@ tags:
 - befunge
 - hello-world
 title: Hello World in Befunge
+title1: Hello World
+title2: in Befunge
 ---
 
 <!--

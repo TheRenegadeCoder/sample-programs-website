@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-22
 featured-image: maximum-subarray-in-every-language.jpg
 last-modified: 2025-07-22
@@ -9,6 +9,8 @@ tags:
 - maximum-subarray
 - pascal
 title: Maximum Subarray in Pascal
+title1: Maximum Subarray
+title2: in Pascal
 ---
 
 <!--

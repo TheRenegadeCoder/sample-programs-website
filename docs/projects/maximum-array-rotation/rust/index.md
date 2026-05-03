@@ -9,6 +9,8 @@ tags:
 - maximum-array-rotation
 - rust
 title: Maximum Array Rotation in Rust
+title1: Maximum Array
+title2: Rotation in Rust
 ---
 
 <!--

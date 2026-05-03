@@ -9,6 +9,8 @@ tags:
 - euphoria
 - rot13
 title: Rot13 in Euphoria
+title1: Rot13 in
+title2: Euphoria
 ---
 
 <!--

@@ -9,6 +9,8 @@ layout: default
 tags:
 - ruby
 title: The Ruby Programming Language
+title1: The Ruby Programming
+title2: Language
 ---
 
 <!--

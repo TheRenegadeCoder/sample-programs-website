@@ -9,6 +9,8 @@ tags:
 - beef
 - fizz-buzz
 title: Fizz Buzz in Beef
+title1: Fizz Buzz
+title2: in Beef
 ---
 
 <!--

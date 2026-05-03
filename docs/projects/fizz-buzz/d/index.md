@@ -9,6 +9,8 @@ tags:
 - d
 - fizz-buzz
 title: Fizz Buzz in D
+title1: Fizz Buzz
+title2: in D
 ---
 
 <!--

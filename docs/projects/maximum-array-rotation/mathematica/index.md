@@ -9,6 +9,8 @@ tags:
 - mathematica
 - maximum-array-rotation
 title: Maximum Array Rotation in Mathematica
+title1: Maximum Array Rotation
+title2: in Mathematica
 ---
 
 <!--

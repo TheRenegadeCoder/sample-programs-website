@@ -9,6 +9,8 @@ tags:
 - bash
 - bubble-sort
 title: Bubble Sort in Bash
+title1: Bubble Sort
+title2: in Bash
 ---
 
 <!--

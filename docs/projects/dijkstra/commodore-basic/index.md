@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - dijkstra
 title: Dijkstra in Commodore BASIC
+title1: Dijkstra in
+title2: Commodore BASIC
 ---
 
 <!--

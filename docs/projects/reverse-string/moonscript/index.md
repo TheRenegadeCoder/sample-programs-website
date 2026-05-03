@@ -9,6 +9,8 @@ tags:
 - moonscript
 - reverse-string
 title: Reverse String in MoonScript
+title1: Reverse String
+title2: in MoonScript
 ---
 
 <!--

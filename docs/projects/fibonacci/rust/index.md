@@ -10,6 +10,8 @@ tags:
 - fibonacci
 - rust
 title: Fibonacci in Rust
+title1: Fibonacci
+title2: in Rust
 ---
 
 <!--

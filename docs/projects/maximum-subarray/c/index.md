@@ -1,7 +1,7 @@
 ---
 authors:
 - Maximillian Naza
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-01-19
 featured-image: maximum-subarray-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - c
 - maximum-subarray
 title: Maximum Subarray in C
+title1: Maximum
+title2: Subarray in C
 ---
 
 <!--

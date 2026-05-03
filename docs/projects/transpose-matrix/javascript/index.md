@@ -9,6 +9,8 @@ tags:
 - javascript
 - transpose-matrix
 title: Transpose Matrix in JavaScript
+title1: Transpose Matrix
+title2: in JavaScript
 ---
 
 <!--

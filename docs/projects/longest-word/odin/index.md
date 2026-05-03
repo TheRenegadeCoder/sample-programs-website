@@ -9,6 +9,8 @@ tags:
 - longest-word
 - odin
 title: Longest Word in Odin
+title1: Longest Word
+title2: in Odin
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - javascript
 - josephus-problem
 title: Josephus Problem in JavaScript
+title1: Josephus Problem
+title2: in JavaScript
 ---
 
 <!--

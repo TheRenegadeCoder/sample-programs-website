@@ -9,6 +9,8 @@ tags:
 - perl
 - selection-sort
 title: Selection Sort in Perl
+title1: Selection
+title2: Sort in Perl
 ---
 
 <!--

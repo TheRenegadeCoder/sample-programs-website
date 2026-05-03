@@ -9,6 +9,8 @@ tags:
 - awk
 - baklava
 title: Baklava in AWK
+title1: Baklava
+title2: in AWK
 ---
 
 <!--

@@ -6,6 +6,8 @@ layout: default
 tags:
 - frege
 title: The Frege Programming Language
+title1: The Frege Programming
+title2: Language
 ---
 
 <!--

@@ -12,6 +12,8 @@ tags:
 - reverse-string
 - visual-basic
 title: Reverse String in Visual Basic
+title1: Reverse String
+title2: in Visual Basic
 ---
 
 <!--

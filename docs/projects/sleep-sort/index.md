@@ -6,6 +6,8 @@ layout: default
 tags:
 - sleep-sort
 title: Sleep Sort
+title1: Sleep
+title2: Sort
 ---
 
 <!--

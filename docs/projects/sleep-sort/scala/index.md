@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-11
 featured-image: sleep-sort-in-every-language.jpg
 last-modified: 2026-04-11
@@ -9,6 +9,8 @@ tags:
 - scala
 - sleep-sort
 title: Sleep Sort in Scala
+title1: Sleep Sort
+title2: in Scala
 ---
 
 <!--

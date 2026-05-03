@@ -10,6 +10,8 @@ tags:
 - even-odd
 - go
 title: Even Odd in Go
+title1: Even Odd
+title2: in Go
 ---
 
 <!--

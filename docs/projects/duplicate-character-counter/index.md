@@ -6,6 +6,8 @@ layout: default
 tags:
 - duplicate-character-counter
 title: Duplicate Character Counter
+title1: Duplicate
+title2: Character Counter
 ---
 
 <!--

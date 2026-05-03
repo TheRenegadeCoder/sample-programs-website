@@ -2,7 +2,7 @@
 authors:
 - Jeremy Grifski
 - Sailok Chinta
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2019-10-21
 featured-image: roman-numeral-in-every-language.jpg
 last-modified: 2026-04-15
@@ -11,6 +11,8 @@ tags:
 - c-plus-plus
 - roman-numeral
 title: Roman Numeral in C++
+title1: Roman Numeral
+title2: in C++
 ---
 
 <!--

@@ -10,6 +10,8 @@ tags:
 - file-input-output
 - java
 title: File Input Output in Java
+title1: File Input
+title2: Output in Java
 ---
 
 <!--

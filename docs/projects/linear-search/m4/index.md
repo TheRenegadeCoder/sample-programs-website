@@ -9,6 +9,8 @@ tags:
 - linear-search
 - m4
 title: Linear Search in m4
+title1: Linear
+title2: Search in m4
 ---
 
 <!--

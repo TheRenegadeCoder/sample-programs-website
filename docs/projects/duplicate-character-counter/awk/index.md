@@ -9,6 +9,8 @@ tags:
 - awk
 - duplicate-character-counter
 title: Duplicate Character Counter in AWK
+title1: Duplicate Character
+title2: Counter in AWK
 ---
 
 <!--

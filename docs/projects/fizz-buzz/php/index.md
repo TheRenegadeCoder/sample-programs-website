@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - php
 title: Fizz Buzz in PHP
+title1: Fizz Buzz
+title2: in PHP
 ---
 
 <!--

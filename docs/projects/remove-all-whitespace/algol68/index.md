@@ -9,6 +9,8 @@ tags:
 - algol68
 - remove-all-whitespace
 title: Remove All Whitespace in ALGOL 68
+title1: Remove All Whitespace
+title2: in ALGOL 68
 ---
 
 <!--

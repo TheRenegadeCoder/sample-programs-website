@@ -10,6 +10,8 @@ tags:
 - even-odd
 - kotlin
 title: Even Odd in Kotlin
+title1: Even Odd
+title2: in Kotlin
 ---
 
 <!--

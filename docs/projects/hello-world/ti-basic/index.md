@@ -9,6 +9,8 @@ tags:
 - hello-world
 - ti-basic
 title: Hello World in TI-BASIC
+title1: Hello World
+title2: in TI-BASIC
 ---
 
 <!--

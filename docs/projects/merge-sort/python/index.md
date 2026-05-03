@@ -12,6 +12,8 @@ tags:
 - merge-sort
 - python
 title: Merge Sort in Python
+title1: Merge Sort
+title2: in Python
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - elvish
 - factorial
 title: Factorial in Elvish
+title1: Factorial
+title2: in Elvish
 ---
 
 <!--

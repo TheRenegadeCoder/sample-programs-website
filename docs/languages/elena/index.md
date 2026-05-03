@@ -6,6 +6,8 @@ layout: default
 tags:
 - elena
 title: The Elena Programming Language
+title1: The Elena Programming
+title2: Language
 ---
 
 <!--

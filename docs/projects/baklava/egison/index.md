@@ -9,6 +9,8 @@ tags:
 - baklava
 - egison
 title: Baklava in Egison
+title1: Baklava
+title2: in Egison
 ---
 
 <!--

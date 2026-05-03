@@ -9,6 +9,8 @@ tags:
 - awk
 - fraction-math
 title: Fraction Math in AWK
+title1: Fraction
+title2: Math in AWK
 ---
 
 <!--

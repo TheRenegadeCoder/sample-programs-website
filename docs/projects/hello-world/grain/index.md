@@ -9,6 +9,8 @@ tags:
 - grain
 - hello-world
 title: Hello World in Grain
+title1: Hello World
+title2: in Grain
 ---
 
 <!--

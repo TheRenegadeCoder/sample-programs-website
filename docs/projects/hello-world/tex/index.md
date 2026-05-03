@@ -1,6 +1,6 @@
 ---
 authors:
-- "Christoph B\xF6hmwalder"
+- Christoph Böhmwalder
 - Jeremy Grifski
 - rzuckerm
 date: 2018-08-28
@@ -11,6 +11,8 @@ tags:
 - hello-world
 - tex
 title: Hello World in TeX
+title1: Hello World
+title2: in TeX
 ---
 
 <!--

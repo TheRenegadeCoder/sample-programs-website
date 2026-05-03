@@ -9,6 +9,8 @@ tags:
 - coffeescript
 - remove-all-whitespace
 title: Remove All Whitespace in CoffeeScript
+title1: Remove All Whitespace
+title2: in CoffeeScript
 ---
 
 <!--

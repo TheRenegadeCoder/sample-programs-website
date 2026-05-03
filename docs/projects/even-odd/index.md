@@ -6,6 +6,8 @@ layout: default
 tags:
 - even-odd
 title: Even Odd
+title1: Even
+title2: Odd
 ---
 
 <!--

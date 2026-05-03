@@ -9,6 +9,8 @@ tags:
 - reverse-string
 - wren
 title: Reverse String in Wren
+title1: Reverse String
+title2: in Wren
 ---
 
 <!--

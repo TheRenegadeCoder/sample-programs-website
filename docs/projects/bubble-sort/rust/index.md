@@ -10,6 +10,8 @@ tags:
 - bubble-sort
 - rust
 title: Bubble Sort in Rust
+title1: Bubble Sort
+title2: in Rust
 ---
 
 <!--

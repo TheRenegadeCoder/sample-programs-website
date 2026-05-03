@@ -9,6 +9,8 @@ tags:
 - duplicate-character-counter
 - m4
 title: Duplicate Character Counter in m4
+title1: Duplicate Character
+title2: Counter in m4
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - php
 - transpose-matrix
 title: Transpose Matrix in PHP
+title1: Transpose
+title2: Matrix in PHP
 ---
 
 <!--

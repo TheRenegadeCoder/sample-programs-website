@@ -10,6 +10,8 @@ tags:
 - javascript
 - job-sequencing
 title: Job Sequencing in JavaScript
+title1: Job Sequencing
+title2: in JavaScript
 ---
 
 <!--

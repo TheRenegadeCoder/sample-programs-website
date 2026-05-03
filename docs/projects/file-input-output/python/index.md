@@ -12,6 +12,8 @@ tags:
 - file-input-output
 - python
 title: File Input Output in Python
+title1: File Input
+title2: Output in Python
 ---
 
 <!--

@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-21
 featured-image: remove-all-whitespace-in-every-language.jpg
 last-modified: 2025-07-21
@@ -9,6 +9,8 @@ tags:
 - pascal
 - remove-all-whitespace
 title: Remove All Whitespace in Pascal
+title1: Remove All
+title2: Whitespace in Pascal
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - josephus-problem
 - php
 title: Josephus Problem in PHP
+title1: Josephus
+title2: Problem in PHP
 ---
 
 <!--

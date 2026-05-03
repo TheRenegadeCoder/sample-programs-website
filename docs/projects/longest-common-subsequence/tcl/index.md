@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-09
 featured-image: longest-common-subsequence-in-every-language.jpg
 last-modified: 2025-10-09
@@ -9,6 +9,8 @@ tags:
 - longest-common-subsequence
 - tcl
 title: Longest Common Subsequence in Tcl
+title1: Longest Common
+title2: Subsequence in Tcl
 ---
 
 <!--

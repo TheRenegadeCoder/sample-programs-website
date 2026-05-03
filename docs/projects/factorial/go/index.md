@@ -9,6 +9,8 @@ tags:
 - factorial
 - go
 title: Factorial in Go
+title1: Factorial
+title2: in Go
 ---
 
 <!--

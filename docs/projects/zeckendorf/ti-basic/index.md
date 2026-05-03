@@ -9,6 +9,8 @@ tags:
 - ti-basic
 - zeckendorf
 title: Zeckendorf in TI-BASIC
+title1: Zeckendorf
+title2: in TI-BASIC
 ---
 
 <!--

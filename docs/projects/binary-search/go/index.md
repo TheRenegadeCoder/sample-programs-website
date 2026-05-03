@@ -9,6 +9,8 @@ tags:
 - binary-search
 - go
 title: Binary Search in Go
+title1: Binary
+title2: Search in Go
 ---
 
 <!--

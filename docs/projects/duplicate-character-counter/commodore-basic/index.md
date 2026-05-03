@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - duplicate-character-counter
 title: Duplicate Character Counter in Commodore BASIC
+title1: Duplicate Character Counter
+title2: in Commodore BASIC
 ---
 
 <!--

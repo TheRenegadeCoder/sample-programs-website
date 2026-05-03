@@ -9,6 +9,8 @@ layout: default
 tags:
 - moonscript
 title: The MoonScript Programming Language
+title1: The MoonScript
+title2: Programming Language
 ---
 
 <!--

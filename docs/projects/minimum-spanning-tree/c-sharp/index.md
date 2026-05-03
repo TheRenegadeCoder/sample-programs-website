@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-29
 featured-image: minimum-spanning-tree-in-every-language.jpg
 last-modified: 2025-07-29
@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - minimum-spanning-tree
 title: Minimum Spanning Tree in C#
+title1: Minimum Spanning
+title2: Tree in C#
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - clojure
 - fizz-buzz
 title: Fizz Buzz in Clojure
+title1: Fizz Buzz
+title2: in Clojure
 ---
 
 <!--

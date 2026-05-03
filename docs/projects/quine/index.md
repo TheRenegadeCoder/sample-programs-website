@@ -6,6 +6,8 @@ layout: default
 tags:
 - quine
 title: Quine
+title1: Quine
+title2: ''
 ---
 
 <!--

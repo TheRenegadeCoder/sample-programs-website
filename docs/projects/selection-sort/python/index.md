@@ -12,6 +12,8 @@ tags:
 - python
 - selection-sort
 title: Selection Sort in Python
+title1: Selection Sort
+title2: in Python
 ---
 
 <!--

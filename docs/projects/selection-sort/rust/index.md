@@ -9,6 +9,8 @@ tags:
 - rust
 - selection-sort
 title: Selection Sort in Rust
+title1: Selection
+title2: Sort in Rust
 ---
 
 <!--

@@ -2,7 +2,7 @@
 authors:
 - Jeremy Grifski
 - Vipin Yadav
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2022-10-03
 featured-image: linear-search-in-every-language.jpg
 last-modified: 2026-04-15
@@ -11,6 +11,8 @@ tags:
 - c-plus-plus
 - linear-search
 title: Linear Search in C++
+title1: Linear Search
+title2: in C++
 ---
 
 <!--

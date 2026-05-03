@@ -9,6 +9,8 @@ tags:
 - beef
 - quick-sort
 title: Quick Sort in Beef
+title1: Quick Sort
+title2: in Beef
 ---
 
 <!--

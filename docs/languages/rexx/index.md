@@ -6,6 +6,8 @@ layout: default
 tags:
 - rexx
 title: The Rexx Programming Language
+title1: The Rexx Programming
+title2: Language
 ---
 
 <!--

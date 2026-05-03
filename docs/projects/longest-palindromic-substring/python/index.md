@@ -9,6 +9,8 @@ tags:
 - longest-palindromic-substring
 - python
 title: Longest Palindromic Substring in Python
+title1: Longest Palindromic
+title2: Substring in Python
 ---
 
 <!--

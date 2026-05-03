@@ -9,6 +9,8 @@ tags:
 - algol60
 - bubble-sort
 title: Bubble Sort in ALGOL 60
+title1: Bubble Sort
+title2: in ALGOL 60
 ---
 
 <!--

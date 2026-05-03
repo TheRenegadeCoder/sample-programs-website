@@ -10,6 +10,8 @@ tags:
 - python
 - sleep-sort
 title: Sleep Sort in Python
+title1: Sleep Sort
+title2: in Python
 ---
 
 <!--

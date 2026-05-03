@@ -10,6 +10,8 @@ tags:
 - c-sharp
 - reverse-string
 title: Reverse String in C#
+title1: Reverse
+title2: String in C#
 ---
 
 <!--

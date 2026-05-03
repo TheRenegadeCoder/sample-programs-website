@@ -9,6 +9,8 @@ tags:
 - insertion-sort
 - kotlin
 title: Insertion Sort in Kotlin
+title1: Insertion Sort
+title2: in Kotlin
 ---
 
 <!--

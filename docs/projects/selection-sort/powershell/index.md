@@ -9,6 +9,8 @@ tags:
 - powershell
 - selection-sort
 title: Selection Sort in PowerShell
+title1: Selection Sort
+title2: in PowerShell
 ---
 
 <!--

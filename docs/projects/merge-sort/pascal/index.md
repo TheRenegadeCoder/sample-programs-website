@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-22
 featured-image: merge-sort-in-every-language.jpg
 last-modified: 2025-07-22
@@ -9,6 +9,8 @@ tags:
 - merge-sort
 - pascal
 title: Merge Sort in Pascal
+title1: Merge Sort
+title2: in Pascal
 ---
 
 <!--

@@ -6,6 +6,8 @@ layout: default
 tags:
 - depth-first-search
 title: Depth First Search
+title1: Depth First
+title2: Search
 ---
 
 <!--

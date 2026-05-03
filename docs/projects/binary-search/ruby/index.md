@@ -9,6 +9,8 @@ tags:
 - binary-search
 - ruby
 title: Binary Search in Ruby
+title1: Binary Search
+title2: in Ruby
 ---
 
 <!--

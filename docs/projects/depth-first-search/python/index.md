@@ -9,6 +9,8 @@ tags:
 - depth-first-search
 - python
 title: Depth First Search in Python
+title1: Depth First
+title2: Search in Python
 ---
 
 <!--

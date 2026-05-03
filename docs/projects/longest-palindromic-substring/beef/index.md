@@ -9,6 +9,8 @@ tags:
 - beef
 - longest-palindromic-substring
 title: Longest Palindromic Substring in Beef
+title1: Longest Palindromic
+title2: Substring in Beef
 ---
 
 <!--

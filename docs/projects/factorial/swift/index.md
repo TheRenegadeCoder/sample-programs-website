@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-05-03
 featured-image: factorial-in-every-language.jpg
 last-modified: 2026-05-03
@@ -9,6 +9,8 @@ tags:
 - factorial
 - swift
 title: Factorial in Swift
+title1: Factorial
+title2: in Swift
 ---
 
 <!--

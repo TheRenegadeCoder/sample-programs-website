@@ -1,7 +1,7 @@
 ---
 authors:
 - rzuckerm
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2023-05-15
 featured-image: factorial-in-every-language.jpg
 last-modified: 2026-04-11
@@ -10,6 +10,8 @@ tags:
 - factorial
 - scala
 title: Factorial in Scala
+title1: Factorial
+title2: in Scala
 ---
 
 <!--

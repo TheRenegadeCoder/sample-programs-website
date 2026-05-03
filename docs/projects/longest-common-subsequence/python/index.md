@@ -10,6 +10,8 @@ tags:
 - longest-common-subsequence
 - python
 title: Longest Common Subsequence in Python
+title1: Longest Common
+title2: Subsequence in Python
 ---
 
 <!--

@@ -10,6 +10,8 @@ tags:
 - rot13
 - rust
 title: Rot13 in Rust
+title1: Rot13
+title2: in Rust
 ---
 
 <!--

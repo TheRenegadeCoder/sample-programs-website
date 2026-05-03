@@ -9,6 +9,8 @@ tags:
 - file-input-output
 - haskell
 title: File Input Output in Haskell
+title1: File Input Output
+title2: in Haskell
 ---
 
 <!--

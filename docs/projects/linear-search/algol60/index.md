@@ -9,6 +9,8 @@ tags:
 - algol60
 - linear-search
 title: Linear Search in ALGOL 60
+title1: Linear Search
+title2: in ALGOL 60
 ---
 
 <!--

@@ -10,6 +10,8 @@ tags:
 - hello-world
 - zig
 title: Hello World in Zig
+title1: Hello World
+title2: in Zig
 ---
 
 <!--

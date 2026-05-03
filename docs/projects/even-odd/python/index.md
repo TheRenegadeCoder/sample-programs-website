@@ -11,6 +11,8 @@ tags:
 - even-odd
 - python
 title: Even Odd in Python
+title1: Even Odd
+title2: in Python
 ---
 
 <!--

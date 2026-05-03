@@ -6,6 +6,8 @@ layout: default
 tags:
 - ada
 title: The Ada Programming Language
+title1: The Ada Programming
+title2: Language
 ---
 
 <!--

@@ -9,6 +9,8 @@ layout: default
 tags:
 - perl
 title: The Perl Programming Language
+title1: The Perl Programming
+title2: Language
 ---
 
 <!--

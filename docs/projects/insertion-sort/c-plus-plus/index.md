@@ -5,7 +5,7 @@ authors:
 - rzuckerm
 - sun-fox
 - SUNNY KUMAR SINGH
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2019-10-09
 featured-image: insertion-sort-in-every-language.jpg
 last-modified: 2026-04-15
@@ -14,6 +14,8 @@ tags:
 - c-plus-plus
 - insertion-sort
 title: Insertion Sort in C++
+title1: Insertion
+title2: Sort in C++
 ---
 
 <!--

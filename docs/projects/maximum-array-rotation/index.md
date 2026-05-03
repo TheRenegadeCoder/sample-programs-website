@@ -6,6 +6,8 @@ layout: default
 tags:
 - maximum-array-rotation
 title: Maximum Array Rotation
+title1: Maximum Array
+title2: Rotation
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - algol68
 - sleep-sort
 title: Sleep Sort in ALGOL 68
+title1: Sleep Sort
+title2: in ALGOL 68
 ---
 
 <!--

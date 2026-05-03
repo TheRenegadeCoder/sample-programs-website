@@ -9,6 +9,8 @@ tags:
 - minimum-spanning-tree
 - php
 title: Minimum Spanning Tree in PHP
+title1: Minimum Spanning
+title2: Tree in PHP
 ---
 
 <!--

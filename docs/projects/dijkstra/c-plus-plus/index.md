@@ -3,7 +3,7 @@ authors:
 - Ajay Maheshwari
 - Jeremy Grifski
 - rzuckerm
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2022-10-06
 featured-image: dijkstra-in-every-language.jpg
 last-modified: 2026-04-15
@@ -12,6 +12,8 @@ tags:
 - c-plus-plus
 - dijkstra
 title: Dijkstra in C++
+title1: Dijkstra
+title2: in C++
 ---
 
 <!--

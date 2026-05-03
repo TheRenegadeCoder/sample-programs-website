@@ -9,6 +9,8 @@ tags:
 - euphoria
 - longest-palindromic-substring
 title: Longest Palindromic Substring in Euphoria
+title1: Longest Palindromic
+title2: Substring in Euphoria
 ---
 
 <!--

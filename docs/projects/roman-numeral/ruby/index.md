@@ -9,6 +9,8 @@ tags:
 - roman-numeral
 - ruby
 title: Roman Numeral in Ruby
+title1: Roman Numeral
+title2: in Ruby
 ---
 
 <!--

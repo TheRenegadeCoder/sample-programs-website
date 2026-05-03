@@ -10,6 +10,8 @@ tags:
 - php
 - reverse-string
 title: Reverse String in PHP
+title1: Reverse
+title2: String in PHP
 ---
 
 <!--

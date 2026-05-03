@@ -9,6 +9,8 @@ tags:
 - linear-search
 - powershell
 title: Linear Search in PowerShell
+title1: Linear Search
+title2: in PowerShell
 ---
 
 <!--

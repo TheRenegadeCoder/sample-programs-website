@@ -9,6 +9,8 @@ tags:
 - hello-world
 - mathematica
 title: Hello World in Mathematica
+title1: Hello World in
+title2: Mathematica
 ---
 
 <!--

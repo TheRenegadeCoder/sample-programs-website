@@ -9,6 +9,8 @@ tags:
 - longest-word
 - mathematica
 title: Longest Word in Mathematica
+title1: Longest Word
+title2: in Mathematica
 ---
 
 <!--

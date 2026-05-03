@@ -6,6 +6,8 @@ layout: default
 tags:
 - clojure
 title: The Clojure Programming Language
+title1: The Clojure
+title2: Programming Language
 ---
 
 <!--

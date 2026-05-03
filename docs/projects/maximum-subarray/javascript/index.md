@@ -9,6 +9,8 @@ tags:
 - javascript
 - maximum-subarray
 title: Maximum Subarray in JavaScript
+title1: Maximum Subarray
+title2: in JavaScript
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - file-input-output
 - r
 title: File Input Output in R
+title1: File Input
+title2: Output in R
 ---
 
 <!--

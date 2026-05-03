@@ -10,6 +10,8 @@ tags:
 - fibonacci
 - haskell
 title: Fibonacci in Haskell
+title1: Fibonacci
+title2: in Haskell
 ---
 
 <!--

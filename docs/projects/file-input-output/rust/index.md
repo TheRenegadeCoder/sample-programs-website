@@ -9,6 +9,8 @@ tags:
 - file-input-output
 - rust
 title: File Input Output in Rust
+title1: File Input
+title2: Output in Rust
 ---
 
 <!--

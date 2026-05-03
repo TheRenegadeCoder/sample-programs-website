@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-29
 featured-image: base64-encode-decode-in-every-language.png
 last-modified: 2025-07-29
@@ -9,6 +9,8 @@ tags:
 - base64-encode-decode
 - c-sharp
 title: Base64 Encode Decode in C#
+title1: Base64 Encode
+title2: Decode in C#
 ---
 
 <!--

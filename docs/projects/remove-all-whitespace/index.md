@@ -6,6 +6,8 @@ layout: default
 tags:
 - remove-all-whitespace
 title: Remove All Whitespace
+title1: Remove All
+title2: Whitespace
 ---
 
 <!--

@@ -10,6 +10,8 @@ tags:
 - php
 - rot13
 title: Rot13 in PHP
+title1: Rot13
+title2: in PHP
 ---
 
 <!--

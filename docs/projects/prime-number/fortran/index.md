@@ -1,7 +1,7 @@
 ---
 authors:
 - Mallikarjuna S J
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2020-10-30
 featured-image: prime-number-in-every-language.jpg
 last-modified: 2025-10-15
@@ -10,6 +10,8 @@ tags:
 - fortran
 - prime-number
 title: Prime Number in Fortran
+title1: Prime Number
+title2: in Fortran
 ---
 
 <!--

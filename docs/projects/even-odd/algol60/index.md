@@ -9,6 +9,8 @@ tags:
 - algol60
 - even-odd
 title: Even Odd in ALGOL 60
+title1: Even Odd in
+title2: ALGOL 60
 ---
 
 <!--

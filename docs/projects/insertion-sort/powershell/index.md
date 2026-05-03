@@ -9,6 +9,8 @@ tags:
 - insertion-sort
 - powershell
 title: Insertion Sort in PowerShell
+title1: Insertion Sort
+title2: in PowerShell
 ---
 
 <!--

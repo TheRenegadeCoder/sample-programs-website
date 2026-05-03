@@ -9,6 +9,8 @@ tags:
 - baklava
 - solidity
 title: Baklava in Solidity
+title1: Baklava in
+title2: Solidity
 ---
 
 <!--

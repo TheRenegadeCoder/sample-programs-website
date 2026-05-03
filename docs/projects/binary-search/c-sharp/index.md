@@ -9,6 +9,8 @@ tags:
 - binary-search
 - c-sharp
 title: Binary Search in C#
+title1: Binary
+title2: Search in C#
 ---
 
 <!--

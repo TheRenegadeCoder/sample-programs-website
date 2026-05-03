@@ -11,6 +11,8 @@ tags:
 - reverse-string
 - ruby
 title: Reverse String in Ruby
+title1: Reverse String
+title2: in Ruby
 ---
 
 <!--

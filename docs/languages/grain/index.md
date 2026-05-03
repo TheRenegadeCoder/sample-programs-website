@@ -6,6 +6,8 @@ layout: default
 tags:
 - grain
 title: The Grain Programming Language
+title1: The Grain Programming
+title2: Language
 ---
 
 <!--

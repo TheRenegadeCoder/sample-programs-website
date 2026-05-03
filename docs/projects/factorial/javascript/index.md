@@ -11,6 +11,8 @@ tags:
 - factorial
 - javascript
 title: Factorial in JavaScript
+title1: Factorial in
+title2: JavaScript
 ---
 
 <!--

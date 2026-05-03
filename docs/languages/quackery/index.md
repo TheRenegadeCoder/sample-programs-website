@@ -6,6 +6,8 @@ layout: default
 tags:
 - quackery
 title: The Quackery Programming Language
+title1: The Quackery
+title2: Programming Language
 ---
 
 <!--

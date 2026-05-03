@@ -9,6 +9,8 @@ tags:
 - hello-world
 - pineapple
 title: Hello World in Pineapple
+title1: Hello World
+title2: in Pineapple
 ---
 
 <!--

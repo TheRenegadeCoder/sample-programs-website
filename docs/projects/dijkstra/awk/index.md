@@ -9,6 +9,8 @@ tags:
 - awk
 - dijkstra
 title: Dijkstra in AWK
+title1: Dijkstra
+title2: in AWK
 ---
 
 <!--

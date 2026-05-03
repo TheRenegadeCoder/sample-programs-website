@@ -1,6 +1,6 @@
 ---
 authors:
-- "Christoph B\xF6hmwalder"
+- Christoph Böhmwalder
 - rzuckerm
 date: 2018-09-04
 featured-image: fizz-buzz-in-every-language.png
@@ -10,6 +10,8 @@ tags:
 - fizz-buzz
 - tex
 title: Fizz Buzz in TeX
+title1: Fizz Buzz
+title2: in TeX
 ---
 
 <!--

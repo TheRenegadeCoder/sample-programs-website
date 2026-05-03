@@ -2,7 +2,7 @@
 authors:
 - rzuckerm
 - Siddhant
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2020-10-01
 featured-image: even-odd-in-every-language.jpg
 last-modified: 2026-04-30
@@ -11,6 +11,8 @@ tags:
 - even-odd
 - objective-c
 title: Even Odd in Objective-C
+title1: Even Odd in
+title2: Objective-C
 ---
 
 <!--

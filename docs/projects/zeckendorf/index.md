@@ -6,6 +6,8 @@ layout: default
 tags:
 - zeckendorf
 title: Zeckendorf
+title1: Zeckendorf
+title2: ''
 ---
 
 <!--

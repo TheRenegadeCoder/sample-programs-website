@@ -3,7 +3,7 @@ authors:
 - Jeremy Grifski
 - Noah Nichols
 - rzuckerm
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2018-09-10
 featured-image: file-input-output-in-every-language.jpg
 last-modified: 2026-04-15
@@ -12,6 +12,8 @@ tags:
 - c-plus-plus
 - file-input-output
 title: File Input Output in C++
+title1: File Input
+title2: Output in C++
 ---
 
 <!--

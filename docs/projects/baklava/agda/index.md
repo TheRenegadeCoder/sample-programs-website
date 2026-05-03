@@ -9,6 +9,8 @@ tags:
 - agda
 - baklava
 title: Baklava in Agda
+title1: Baklava
+title2: in Agda
 ---
 
 <!--

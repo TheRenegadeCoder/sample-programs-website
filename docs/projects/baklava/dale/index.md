@@ -9,6 +9,8 @@ tags:
 - baklava
 - dale
 title: Baklava in Dale
+title1: Baklava
+title2: in Dale
 ---
 
 <!--

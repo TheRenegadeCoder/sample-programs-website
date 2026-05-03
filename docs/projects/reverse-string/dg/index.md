@@ -9,6 +9,8 @@ tags:
 - dg
 - reverse-string
 title: Reverse String in Dg
+title1: Reverse
+title2: String in Dg
 ---
 
 <!--

@@ -10,6 +10,8 @@ tags:
 - file-input-output
 - octave
 title: File Input Output in Octave
+title1: File Input
+title2: Output in Octave
 ---
 
 <!--

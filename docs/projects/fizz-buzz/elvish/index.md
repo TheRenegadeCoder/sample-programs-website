@@ -9,6 +9,8 @@ tags:
 - elvish
 - fizz-buzz
 title: Fizz Buzz in Elvish
+title1: Fizz Buzz
+title2: in Elvish
 ---
 
 <!--

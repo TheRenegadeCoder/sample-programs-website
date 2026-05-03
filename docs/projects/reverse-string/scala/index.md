@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-11
 featured-image: reverse-string-in-every-language.jpg
 last-modified: 2026-04-11
@@ -9,6 +9,8 @@ tags:
 - reverse-string
 - scala
 title: Reverse String in Scala
+title1: Reverse String
+title2: in Scala
 ---
 
 <!--

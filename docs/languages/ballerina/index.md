@@ -6,6 +6,8 @@ layout: default
 tags:
 - ballerina
 title: The Ballerina Programming Language
+title1: The Ballerina
+title2: Programming Language
 ---
 
 <!--

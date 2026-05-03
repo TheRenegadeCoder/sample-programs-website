@@ -9,6 +9,8 @@ tags:
 - fraction-math
 - powershell
 title: Fraction Math in PowerShell
+title1: Fraction Math
+title2: in PowerShell
 ---
 
 <!--

@@ -10,6 +10,8 @@ tags:
 - lisp
 - quick-sort
 title: Quick Sort in Lisp
+title1: Quick Sort
+title2: in Lisp
 ---
 
 <!--

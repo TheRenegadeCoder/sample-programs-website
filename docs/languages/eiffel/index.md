@@ -6,6 +6,8 @@ layout: default
 tags:
 - eiffel
 title: The Eiffel Programming Language
+title1: The Eiffel
+title2: Programming Language
 ---
 
 <!--

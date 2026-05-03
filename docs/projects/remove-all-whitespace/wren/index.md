@@ -9,6 +9,8 @@ tags:
 - remove-all-whitespace
 - wren
 title: Remove All Whitespace in Wren
+title1: Remove All
+title2: Whitespace in Wren
 ---
 
 <!--

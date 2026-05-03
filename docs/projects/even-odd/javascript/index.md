@@ -9,6 +9,8 @@ tags:
 - even-odd
 - javascript
 title: Even Odd in JavaScript
+title1: Even Odd in
+title2: JavaScript
 ---
 
 <!--

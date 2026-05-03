@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-10
 featured-image: fraction-math-in-every-language.jpg
 last-modified: 2026-04-10
@@ -9,6 +9,8 @@ tags:
 - fraction-math
 - java
 title: Fraction Math in Java
+title1: Fraction
+title2: Math in Java
 ---
 
 <!--

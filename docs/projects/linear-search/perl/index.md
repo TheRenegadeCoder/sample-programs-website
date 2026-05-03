@@ -9,6 +9,8 @@ tags:
 - linear-search
 - perl
 title: Linear Search in Perl
+title1: Linear Search
+title2: in Perl
 ---
 
 <!--

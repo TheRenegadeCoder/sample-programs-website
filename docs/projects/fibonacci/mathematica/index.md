@@ -9,6 +9,8 @@ tags:
 - fibonacci
 - mathematica
 title: Fibonacci in Mathematica
+title1: Fibonacci in
+title2: Mathematica
 ---
 
 <!--

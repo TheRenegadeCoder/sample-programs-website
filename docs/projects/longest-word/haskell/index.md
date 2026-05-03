@@ -9,6 +9,8 @@ tags:
 - haskell
 - longest-word
 title: Longest Word in Haskell
+title1: Longest Word
+title2: in Haskell
 ---
 
 <!--

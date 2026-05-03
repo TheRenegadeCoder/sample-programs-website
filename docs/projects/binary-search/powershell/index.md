@@ -9,6 +9,8 @@ tags:
 - binary-search
 - powershell
 title: Binary Search in PowerShell
+title1: Binary Search
+title2: in PowerShell
 ---
 
 <!--

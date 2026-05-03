@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - maximum-array-rotation
 title: Maximum Array Rotation in Commodore BASIC
+title1: Maximum Array Rotation
+title2: in Commodore BASIC
 ---
 
 <!--

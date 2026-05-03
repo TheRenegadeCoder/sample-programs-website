@@ -9,6 +9,8 @@ tags:
 - euphoria
 - zeckendorf
 title: Zeckendorf in Euphoria
+title1: Zeckendorf
+title2: in Euphoria
 ---
 
 <!--

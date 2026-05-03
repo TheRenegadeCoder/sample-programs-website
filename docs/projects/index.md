@@ -4,6 +4,8 @@ featured-image: programming-projects-in-every-language.jpg
 last-modified: 2026-05-03
 layout: default
 title: Programming Projects in Every Language
+title1: Programming Projects
+title2: in Every Language
 ---
 
 Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. At this time, the repo supports 39 projects, of which 39 are tested.

@@ -6,6 +6,8 @@ layout: default
 tags:
 - vimscript
 title: The Vimscript Programming Language
+title1: The Vimscript
+title2: Programming Language
 ---
 
 <!--

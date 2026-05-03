@@ -9,6 +9,8 @@ tags:
 - capitalize
 - elixir
 title: Capitalize in Elixir
+title1: Capitalize
+title2: in Elixir
 ---
 
 <!--

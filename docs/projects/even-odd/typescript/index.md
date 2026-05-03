@@ -9,6 +9,8 @@ tags:
 - even-odd
 - typescript
 title: Even Odd in TypeScript
+title1: Even Odd in
+title2: TypeScript
 ---
 
 <!--

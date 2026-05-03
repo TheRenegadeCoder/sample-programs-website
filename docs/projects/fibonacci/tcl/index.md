@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-08
 featured-image: fibonacci-in-every-language.jpg
 last-modified: 2025-10-08
@@ -9,6 +9,8 @@ tags:
 - fibonacci
 - tcl
 title: Fibonacci in Tcl
+title1: Fibonacci
+title2: in Tcl
 ---
 
 <!--

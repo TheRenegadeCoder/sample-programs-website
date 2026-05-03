@@ -9,6 +9,8 @@ tags:
 - kotlin
 - selection-sort
 title: Selection Sort in Kotlin
+title1: Selection Sort
+title2: in Kotlin
 ---
 
 <!--

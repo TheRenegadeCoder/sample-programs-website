@@ -9,6 +9,8 @@ tags:
 - m4
 - prime-number
 title: Prime Number in m4
+title1: Prime Number
+title2: in m4
 ---
 
 <!--

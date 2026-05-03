@@ -6,6 +6,8 @@ layout: default
 tags:
 - sather
 title: The Sather Programming Language
+title1: The Sather
+title2: Programming Language
 ---
 
 <!--

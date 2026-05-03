@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-05-03
 featured-image: binary-search-in-every-language.jpg
 last-modified: 2026-05-03
@@ -9,6 +9,8 @@ tags:
 - binary-search
 - swift
 title: Binary Search in Swift
+title1: Binary Search
+title2: in Swift
 ---
 
 <!--

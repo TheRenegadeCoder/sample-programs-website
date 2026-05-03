@@ -10,6 +10,8 @@ tags:
 - erlang
 - factorial
 title: Factorial in Erlang
+title1: Factorial
+title2: in Erlang
 ---
 
 <!--

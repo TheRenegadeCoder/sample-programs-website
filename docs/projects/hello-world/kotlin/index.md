@@ -11,6 +11,8 @@ tags:
 - hello-world
 - kotlin
 title: Hello World in Kotlin
+title1: Hello World
+title2: in Kotlin
 ---
 
 <!--

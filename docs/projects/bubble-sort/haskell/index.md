@@ -9,6 +9,8 @@ tags:
 - bubble-sort
 - haskell
 title: Bubble Sort in Haskell
+title1: Bubble Sort
+title2: in Haskell
 ---
 
 <!--

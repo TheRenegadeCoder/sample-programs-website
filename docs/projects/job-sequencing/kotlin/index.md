@@ -10,6 +10,8 @@ tags:
 - job-sequencing
 - kotlin
 title: Job Sequencing in Kotlin
+title1: Job Sequencing
+title2: in Kotlin
 ---
 
 <!--

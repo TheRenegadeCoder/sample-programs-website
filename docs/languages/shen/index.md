@@ -6,6 +6,8 @@ layout: default
 tags:
 - shen
 title: The Shen Programming Language
+title1: The Shen Programming
+title2: Language
 ---
 
 <!--

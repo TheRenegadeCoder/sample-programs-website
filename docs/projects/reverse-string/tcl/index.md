@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-09
 featured-image: reverse-string-in-every-language.jpg
 last-modified: 2025-10-09
@@ -9,6 +9,8 @@ tags:
 - reverse-string
 - tcl
 title: Reverse String in Tcl
+title1: Reverse
+title2: String in Tcl
 ---
 
 <!--

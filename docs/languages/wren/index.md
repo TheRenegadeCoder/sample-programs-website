@@ -9,6 +9,8 @@ layout: default
 tags:
 - wren
 title: The Wren Programming Language
+title1: The Wren Programming
+title2: Language
 ---
 
 <!--

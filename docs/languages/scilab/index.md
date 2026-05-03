@@ -6,6 +6,8 @@ layout: default
 tags:
 - scilab
 title: The Scilab Programming Language
+title1: The Scilab
+title2: Programming Language
 ---
 
 <!--

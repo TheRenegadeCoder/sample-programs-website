@@ -9,6 +9,8 @@ tags:
 - factorial
 - m4
 title: Factorial in m4
+title1: Factorial
+title2: in m4
 ---
 
 <!--

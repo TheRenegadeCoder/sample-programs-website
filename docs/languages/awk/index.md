@@ -6,6 +6,8 @@ layout: default
 tags:
 - awk
 title: The AWK Programming Language
+title1: The AWK Programming
+title2: Language
 ---
 
 <!--

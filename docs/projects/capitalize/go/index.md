@@ -10,6 +10,8 @@ tags:
 - capitalize
 - go
 title: Capitalize in Go
+title1: Capitalize
+title2: in Go
 ---
 
 <!--

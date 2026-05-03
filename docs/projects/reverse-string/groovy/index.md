@@ -10,6 +10,8 @@ tags:
 - groovy
 - reverse-string
 title: Reverse String in Groovy
+title1: Reverse String
+title2: in Groovy
 ---
 
 <!--

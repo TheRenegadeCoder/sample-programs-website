@@ -10,6 +10,8 @@ tags:
 - duplicate-character-counter
 - java
 title: Duplicate Character Counter in Java
+title1: Duplicate Character
+title2: Counter in Java
 ---
 
 <!--

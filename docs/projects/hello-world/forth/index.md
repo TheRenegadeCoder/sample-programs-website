@@ -9,6 +9,8 @@ tags:
 - forth
 - hello-world
 title: Hello World in Forth
+title1: Hello World
+title2: in Forth
 ---
 
 <!--

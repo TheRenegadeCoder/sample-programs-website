@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - ti-basic
 title: Fizz Buzz in TI-BASIC
+title1: Fizz Buzz
+title2: in TI-BASIC
 ---
 
 <!--

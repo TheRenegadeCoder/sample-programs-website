@@ -9,6 +9,8 @@ tags:
 - baklava
 - c2
 title: Baklava in C2
+title1: Baklava
+title2: in C2
 ---
 
 <!--

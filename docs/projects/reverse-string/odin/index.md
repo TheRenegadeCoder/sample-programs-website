@@ -9,6 +9,8 @@ tags:
 - odin
 - reverse-string
 title: Reverse String in Odin
+title1: Reverse String
+title2: in Odin
 ---
 
 <!--

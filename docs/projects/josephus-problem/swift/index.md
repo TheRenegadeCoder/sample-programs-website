@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-05-03
 featured-image: josephus-problem-in-every-language.jpg
 last-modified: 2026-05-03
@@ -9,6 +9,8 @@ tags:
 - josephus-problem
 - swift
 title: Josephus Problem in Swift
+title1: Josephus Problem
+title2: in Swift
 ---
 
 <!--

@@ -6,6 +6,8 @@ layout: default
 tags:
 - cython
 title: The Cython Programming Language
+title1: The Cython
+title2: Programming Language
 ---
 
 <!--

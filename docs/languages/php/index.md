@@ -6,6 +6,8 @@ layout: default
 tags:
 - php
 title: The PHP Programming Language
+title1: The PHP Programming
+title2: Language
 ---
 
 <!--

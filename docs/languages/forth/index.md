@@ -6,6 +6,8 @@ layout: default
 tags:
 - forth
 title: The Forth Programming Language
+title1: The Forth Programming
+title2: Language
 ---
 
 <!--

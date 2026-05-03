@@ -10,6 +10,8 @@ tags:
 - dart
 - sleep-sort
 title: Sleep Sort in Dart
+title1: Sleep Sort
+title2: in Dart
 ---
 
 <!--

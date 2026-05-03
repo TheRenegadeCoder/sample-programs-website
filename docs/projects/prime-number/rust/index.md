@@ -10,6 +10,8 @@ tags:
 - prime-number
 - rust
 title: Prime Number in Rust
+title1: Prime Number
+title2: in Rust
 ---
 
 <!--

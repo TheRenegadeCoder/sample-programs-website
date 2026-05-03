@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - haxe
 title: Fizz Buzz in Haxe
+title1: Fizz Buzz
+title2: in Haxe
 ---
 
 <!--

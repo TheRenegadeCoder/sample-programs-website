@@ -11,6 +11,8 @@ tags:
 - elixir
 - factorial
 title: Factorial in Elixir
+title1: Factorial
+title2: in Elixir
 ---
 
 <!--

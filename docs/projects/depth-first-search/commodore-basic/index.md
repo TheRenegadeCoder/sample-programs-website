@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - depth-first-search
 title: Depth First Search in Commodore BASIC
+title1: Depth First Search
+title2: in Commodore BASIC
 ---
 
 <!--

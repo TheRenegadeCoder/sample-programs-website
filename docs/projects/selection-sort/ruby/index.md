@@ -9,6 +9,8 @@ tags:
 - ruby
 - selection-sort
 title: Selection Sort in Ruby
+title1: Selection
+title2: Sort in Ruby
 ---
 
 <!--

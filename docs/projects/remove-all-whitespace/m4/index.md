@@ -9,6 +9,8 @@ tags:
 - m4
 - remove-all-whitespace
 title: Remove All Whitespace in m4
+title1: Remove All
+title2: Whitespace in m4
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - binary-search
 - m4
 title: Binary Search in m4
+title1: Binary
+title2: Search in m4
 ---
 
 <!--

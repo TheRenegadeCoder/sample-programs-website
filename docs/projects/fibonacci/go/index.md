@@ -9,6 +9,8 @@ tags:
 - fibonacci
 - go
 title: Fibonacci in Go
+title1: Fibonacci
+title2: in Go
 ---
 
 <!--

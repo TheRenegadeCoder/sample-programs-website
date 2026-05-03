@@ -1,7 +1,7 @@
 ---
 authors:
 - Parker Johansen
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2019-09-12
 featured-image: baklava-in-every-language.jpg
 last-modified: 2026-04-05
@@ -10,6 +10,8 @@ tags:
 - baklava
 - f-sharp
 title: Baklava in F#
+title1: Baklava
+title2: in F#
 ---
 
 <!--

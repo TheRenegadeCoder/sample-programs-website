@@ -9,6 +9,8 @@ tags:
 - agda
 - hello-world
 title: Hello World in Agda
+title1: Hello World
+title2: in Agda
 ---
 
 <!--

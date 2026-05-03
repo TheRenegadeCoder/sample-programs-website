@@ -9,6 +9,8 @@ tags:
 - fibonacci
 - perl
 title: Fibonacci in Perl
+title1: Fibonacci
+title2: in Perl
 ---
 
 <!--

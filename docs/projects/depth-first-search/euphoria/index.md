@@ -9,6 +9,8 @@ tags:
 - depth-first-search
 - euphoria
 title: Depth First Search in Euphoria
+title1: Depth First Search
+title2: in Euphoria
 ---
 
 <!--

@@ -2,7 +2,7 @@
 authors:
 - Jeremy Grifski
 - Sumathi Varadharajan
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2019-11-01
 featured-image: quick-sort-in-every-language.jpg
 last-modified: 2026-04-15
@@ -11,6 +11,8 @@ tags:
 - c-plus-plus
 - quick-sort
 title: Quick Sort in C++
+title1: Quick Sort
+title2: in C++
 ---
 
 <!--

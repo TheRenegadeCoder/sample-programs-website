@@ -9,6 +9,8 @@ tags:
 - fortran
 - linear-search
 title: Linear Search in Fortran
+title1: Linear Search
+title2: in Fortran
 ---
 
 <!--

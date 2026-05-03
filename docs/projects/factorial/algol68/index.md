@@ -9,6 +9,8 @@ tags:
 - algol68
 - factorial
 title: Factorial in ALGOL 68
+title1: Factorial
+title2: in ALGOL 68
 ---
 
 <!--

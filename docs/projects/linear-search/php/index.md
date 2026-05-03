@@ -9,6 +9,8 @@ tags:
 - linear-search
 - php
 title: Linear Search in PHP
+title1: Linear Search
+title2: in PHP
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - m4
 - quick-sort
 title: Quick Sort in m4
+title1: Quick Sort
+title2: in m4
 ---
 
 <!--

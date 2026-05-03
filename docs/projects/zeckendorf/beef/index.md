@@ -9,6 +9,8 @@ tags:
 - beef
 - zeckendorf
 title: Zeckendorf in Beef
+title1: Zeckendorf
+title2: in Beef
 ---
 
 <!--

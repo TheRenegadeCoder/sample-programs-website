@@ -6,6 +6,8 @@ layout: default
 tags:
 - eta
 title: The Eta Programming Language
+title1: The Eta Programming
+title2: Language
 ---
 
 <!--

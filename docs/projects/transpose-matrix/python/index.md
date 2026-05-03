@@ -9,6 +9,8 @@ tags:
 - python
 - transpose-matrix
 title: Transpose Matrix in Python
+title1: Transpose Matrix
+title2: in Python
 ---
 
 <!--

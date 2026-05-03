@@ -11,6 +11,8 @@ tags:
 - hello-world
 - visual-basic
 title: Hello World in Visual Basic
+title1: Hello World in
+title2: Visual Basic
 ---
 
 <!--

@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-09
 featured-image: fizz-buzz-in-every-language.png
 last-modified: 2025-10-09
@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - tcl
 title: Fizz Buzz in Tcl
+title1: Fizz Buzz
+title2: in Tcl
 ---
 
 <!--

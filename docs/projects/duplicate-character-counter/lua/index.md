@@ -9,6 +9,8 @@ tags:
 - duplicate-character-counter
 - lua
 title: Duplicate Character Counter in Lua
+title1: Duplicate Character
+title2: Counter in Lua
 ---
 
 <!--

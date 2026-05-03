@@ -6,6 +6,8 @@ layout: default
 tags:
 - fizz-buzz
 title: Fizz Buzz
+title1: Fizz
+title2: Buzz
 ---
 
 <!--

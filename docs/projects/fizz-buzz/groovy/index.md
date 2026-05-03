@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - groovy
 title: Fizz Buzz in Groovy
+title1: Fizz Buzz
+title2: in Groovy
 ---
 
 <!--

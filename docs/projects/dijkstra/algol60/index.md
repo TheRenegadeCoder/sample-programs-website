@@ -9,6 +9,8 @@ tags:
 - algol60
 - dijkstra
 title: Dijkstra in ALGOL 60
+title1: Dijkstra in
+title2: ALGOL 60
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - euphoria
 - remove-all-whitespace
 title: Remove All Whitespace in Euphoria
+title1: Remove All Whitespace
+title2: in Euphoria
 ---
 
 <!--

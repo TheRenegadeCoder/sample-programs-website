@@ -9,6 +9,8 @@ tags:
 - base64-encode-decode
 - rust
 title: Base64 Encode Decode in Rust
+title1: Base64 Encode
+title2: Decode in Rust
 ---
 
 <!--

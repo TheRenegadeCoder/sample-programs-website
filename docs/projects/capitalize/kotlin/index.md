@@ -10,6 +10,8 @@ tags:
 - capitalize
 - kotlin
 title: Capitalize in Kotlin
+title1: Capitalize
+title2: in Kotlin
 ---
 
 <!--

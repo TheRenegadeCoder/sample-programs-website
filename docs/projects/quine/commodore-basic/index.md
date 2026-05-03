@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - quine
 title: Quine in Commodore BASIC
+title1: Quine in
+title2: Commodore BASIC
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - php
 - sleep-sort
 title: Sleep Sort in PHP
+title1: Sleep Sort
+title2: in PHP
 ---
 
 <!--

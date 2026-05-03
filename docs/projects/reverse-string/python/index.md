@@ -11,6 +11,8 @@ tags:
 - python
 - reverse-string
 title: Reverse String in Python
+title1: Reverse String
+title2: in Python
 ---
 
 <!--

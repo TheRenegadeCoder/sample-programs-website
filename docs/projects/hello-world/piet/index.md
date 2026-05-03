@@ -9,6 +9,8 @@ tags:
 - hello-world
 - piet
 title: Hello World in Piet
+title1: Hello World
+title2: in Piet
 ---
 
 <!--

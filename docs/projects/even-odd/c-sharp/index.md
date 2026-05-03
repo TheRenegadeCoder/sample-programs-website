@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - even-odd
 title: Even Odd in C#
+title1: Even Odd
+title2: in C#
 ---
 
 <!--

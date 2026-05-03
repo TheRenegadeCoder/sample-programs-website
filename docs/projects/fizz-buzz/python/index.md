@@ -11,6 +11,8 @@ tags:
 - fizz-buzz
 - python
 title: Fizz Buzz in Python
+title1: Fizz Buzz
+title2: in Python
 ---
 
 <!--

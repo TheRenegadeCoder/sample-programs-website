@@ -9,6 +9,8 @@ tags:
 - hello-world
 - latte
 title: Hello World in Latte
+title1: Hello World
+title2: in Latte
 ---
 
 <!--

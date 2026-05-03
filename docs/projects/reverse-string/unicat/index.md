@@ -9,6 +9,8 @@ tags:
 - reverse-string
 - unicat
 title: Reverse String in Unicat
+title1: Reverse String
+title2: in Unicat
 ---
 
 <!--

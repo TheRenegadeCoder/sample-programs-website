@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-10
 featured-image: palindromic-number-in-every-language.jpg
 last-modified: 2026-04-10
@@ -9,6 +9,8 @@ tags:
 - f-sharp
 - palindromic-number
 title: Palindromic Number in F#
+title1: Palindromic
+title2: Number in F#
 ---
 
 <!--

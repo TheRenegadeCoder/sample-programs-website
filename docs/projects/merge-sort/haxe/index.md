@@ -9,6 +9,8 @@ tags:
 - haxe
 - merge-sort
 title: Merge Sort in Haxe
+title1: Merge Sort
+title2: in Haxe
 ---
 
 <!--

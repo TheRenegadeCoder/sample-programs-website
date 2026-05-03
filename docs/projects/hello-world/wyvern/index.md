@@ -9,6 +9,8 @@ tags:
 - hello-world
 - wyvern
 title: Hello World in Wyvern
+title1: Hello World
+title2: in Wyvern
 ---
 
 <!--

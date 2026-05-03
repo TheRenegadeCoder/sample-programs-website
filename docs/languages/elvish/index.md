@@ -6,6 +6,8 @@ layout: default
 tags:
 - elvish
 title: The Elvish Programming Language
+title1: The Elvish
+title2: Programming Language
 ---
 
 <!--

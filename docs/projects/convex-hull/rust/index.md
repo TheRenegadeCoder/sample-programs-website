@@ -9,6 +9,8 @@ tags:
 - convex-hull
 - rust
 title: Convex Hull in Rust
+title1: Convex Hull
+title2: in Rust
 ---
 
 <!--

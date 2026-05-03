@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-08
 featured-image: depth-first-search-in-every-language.jpg
 last-modified: 2025-10-08
@@ -9,6 +9,8 @@ tags:
 - depth-first-search
 - tcl
 title: Depth First Search in Tcl
+title1: Depth First
+title2: Search in Tcl
 ---
 
 <!--

@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-05-03
 featured-image: rot13-in-every-language.jpg
 last-modified: 2026-05-03
@@ -9,6 +9,8 @@ tags:
 - rot13
 - swift
 title: Rot13 in Swift
+title1: Rot13 in
+title2: Swift
 ---
 
 <!--

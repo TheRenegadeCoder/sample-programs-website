@@ -9,6 +9,8 @@ layout: default
 tags:
 - julia
 title: The Julia Programming Language
+title1: The Julia Programming
+title2: Language
 ---
 
 <!--

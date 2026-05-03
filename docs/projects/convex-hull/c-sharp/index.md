@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-29
 featured-image: convex-hull-in-every-language.jpg
 last-modified: 2025-07-29
@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - convex-hull
 title: Convex Hull in C#
+title1: Convex
+title2: Hull in C#
 ---
 
 <!--

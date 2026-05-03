@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - goby
 title: Fizz Buzz in Goby
+title1: Fizz Buzz
+title2: in Goby
 ---
 
 <!--

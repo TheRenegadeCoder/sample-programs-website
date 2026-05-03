@@ -9,6 +9,8 @@ tags:
 - javascript
 - longest-word
 title: Longest Word in JavaScript
+title1: Longest Word
+title2: in JavaScript
 ---
 
 <!--

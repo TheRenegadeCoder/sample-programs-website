@@ -9,6 +9,8 @@ tags:
 - gerbil
 - hello-world
 title: Hello World in Gerbil
+title1: Hello World
+title2: in Gerbil
 ---
 
 <!--

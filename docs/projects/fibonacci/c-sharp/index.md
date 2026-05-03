@@ -10,6 +10,8 @@ tags:
 - c-sharp
 - fibonacci
 title: Fibonacci in C#
+title1: Fibonacci
+title2: in C#
 ---
 
 <!--

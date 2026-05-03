@@ -9,6 +9,8 @@ tags:
 - fibonacci
 - octave
 title: Fibonacci in Octave
+title1: Fibonacci
+title2: in Octave
 ---
 
 <!--

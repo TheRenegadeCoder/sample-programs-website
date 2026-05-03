@@ -10,6 +10,8 @@ tags:
 - even-odd
 - java
 title: Even Odd in Java
+title1: Even Odd
+title2: in Java
 ---
 
 <!--

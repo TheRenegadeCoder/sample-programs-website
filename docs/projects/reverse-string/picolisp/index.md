@@ -9,6 +9,8 @@ tags:
 - picolisp
 - reverse-string
 title: Reverse String in PicoLisp
+title1: Reverse String
+title2: in PicoLisp
 ---
 
 <!--

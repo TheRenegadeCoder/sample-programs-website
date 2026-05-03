@@ -6,6 +6,8 @@ layout: default
 tags:
 - latte
 title: The Latte Programming Language
+title1: The Latte Programming
+title2: Language
 ---
 
 <!--

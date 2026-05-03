@@ -9,6 +9,8 @@ tags:
 - bubble-sort
 - mathematica
 title: Bubble Sort in Mathematica
+title1: Bubble Sort in
+title2: Mathematica
 ---
 
 <!--

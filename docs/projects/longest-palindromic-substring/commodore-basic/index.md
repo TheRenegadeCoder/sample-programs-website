@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - longest-palindromic-substring
 title: Longest Palindromic Substring in Commodore BASIC
+title1: Longest Palindromic Substring
+title2: in Commodore BASIC
 ---
 
 <!--

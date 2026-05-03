@@ -9,6 +9,8 @@ tags:
 - go
 - quick-sort
 title: Quick Sort in Go
+title1: Quick Sort
+title2: in Go
 ---
 
 <!--

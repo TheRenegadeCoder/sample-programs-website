@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - forth
 title: Fizz Buzz in Forth
+title1: Fizz Buzz
+title2: in Forth
 ---
 
 <!--

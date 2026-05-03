@@ -6,6 +6,8 @@ layout: default
 tags:
 - livescript
 title: The LiveScript Programming Language
+title1: The LiveScript
+title2: Programming Language
 ---
 
 <!--

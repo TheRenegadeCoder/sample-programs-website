@@ -9,6 +9,8 @@ tags:
 - awk
 - base64-encode-decode
 title: Base64 Encode Decode in AWK
+title1: Base64 Encode
+title2: Decode in AWK
 ---
 
 <!--

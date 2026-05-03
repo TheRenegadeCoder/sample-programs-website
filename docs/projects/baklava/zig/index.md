@@ -9,6 +9,8 @@ tags:
 - baklava
 - zig
 title: Baklava in Zig
+title1: Baklava
+title2: in Zig
 ---
 
 <!--

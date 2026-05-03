@@ -10,6 +10,8 @@ tags:
 - haskell
 - job-sequencing
 title: Job Sequencing in Haskell
+title1: Job Sequencing
+title2: in Haskell
 ---
 
 <!--

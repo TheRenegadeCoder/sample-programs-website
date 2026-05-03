@@ -9,6 +9,8 @@ tags:
 - even-odd
 - lua
 title: Even Odd in Lua
+title1: Even Odd
+title2: in Lua
 ---
 
 <!--

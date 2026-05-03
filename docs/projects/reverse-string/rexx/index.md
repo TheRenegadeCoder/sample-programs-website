@@ -9,6 +9,8 @@ tags:
 - reverse-string
 - rexx
 title: Reverse String in Rexx
+title1: Reverse String
+title2: in Rexx
 ---
 
 <!--

@@ -11,6 +11,8 @@ tags:
 - hello-world
 - perl
 title: Hello World in Perl
+title1: Hello World
+title2: in Perl
 ---
 
 <!--

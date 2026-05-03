@@ -1,7 +1,7 @@
 ---
 authors:
 - qopci
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2024-11-06
 featured-image: remove-all-whitespace-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - c
 - remove-all-whitespace
 title: Remove All Whitespace in C
+title1: Remove All
+title2: Whitespace in C
 ---
 
 <!--

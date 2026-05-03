@@ -9,6 +9,8 @@ tags:
 - haskell
 - quine
 title: Quine in Haskell
+title1: Quine in
+title2: Haskell
 ---
 
 <!--

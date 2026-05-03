@@ -9,6 +9,8 @@ tags:
 - algol68
 - file-input-output
 title: File Input Output in ALGOL 68
+title1: File Input Output
+title2: in ALGOL 68
 ---
 
 <!--

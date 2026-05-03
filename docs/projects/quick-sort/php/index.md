@@ -10,6 +10,8 @@ tags:
 - php
 - quick-sort
 title: Quick Sort in PHP
+title1: Quick Sort
+title2: in PHP
 ---
 
 <!--

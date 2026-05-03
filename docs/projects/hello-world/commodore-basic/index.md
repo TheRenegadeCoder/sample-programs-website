@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - hello-world
 title: Hello World in Commodore BASIC
+title1: Hello World in
+title2: Commodore BASIC
 ---
 
 <!--

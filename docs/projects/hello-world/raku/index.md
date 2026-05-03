@@ -9,6 +9,8 @@ tags:
 - hello-world
 - raku
 title: Hello World in Raku
+title1: Hello World
+title2: in Raku
 ---
 
 <!--

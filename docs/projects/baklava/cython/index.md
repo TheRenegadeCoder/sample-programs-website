@@ -9,6 +9,8 @@ tags:
 - baklava
 - cython
 title: Baklava in Cython
+title1: Baklava
+title2: in Cython
 ---
 
 <!--

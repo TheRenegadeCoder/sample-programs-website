@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - nim
 title: Fizz Buzz in Nim
+title1: Fizz Buzz
+title2: in Nim
 ---
 
 <!--

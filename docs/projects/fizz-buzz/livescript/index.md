@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - livescript
 title: Fizz Buzz in LiveScript
+title1: Fizz Buzz in
+title2: LiveScript
 ---
 
 <!--

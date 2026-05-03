@@ -9,6 +9,8 @@ tags:
 - convex-hull
 - mathematica
 title: Convex Hull in Mathematica
+title1: Convex Hull in
+title2: Mathematica
 ---
 
 <!--

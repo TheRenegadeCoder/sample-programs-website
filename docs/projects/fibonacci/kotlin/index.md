@@ -10,6 +10,8 @@ tags:
 - fibonacci
 - kotlin
 title: Fibonacci in Kotlin
+title1: Fibonacci
+title2: in Kotlin
 ---
 
 <!--

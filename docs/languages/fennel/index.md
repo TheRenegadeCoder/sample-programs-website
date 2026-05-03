@@ -6,6 +6,8 @@ layout: default
 tags:
 - fennel
 title: The Fennel Programming Language
+title1: The Fennel
+title2: Programming Language
 ---
 
 <!--

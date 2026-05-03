@@ -9,6 +9,8 @@ tags:
 - haskell
 - longest-common-subsequence
 title: Longest Common Subsequence in Haskell
+title1: Longest Common
+title2: Subsequence in Haskell
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - capitalize
 - coffeescript
 title: Capitalize in CoffeeScript
+title1: Capitalize in
+title2: CoffeeScript
 ---
 
 <!--

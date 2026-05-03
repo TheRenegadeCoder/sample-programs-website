@@ -9,6 +9,8 @@ tags:
 - algol60
 - maximum-subarray
 title: Maximum Subarray in ALGOL 60
+title1: Maximum Subarray
+title2: in ALGOL 60
 ---
 
 <!--

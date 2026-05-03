@@ -9,6 +9,8 @@ tags:
 - fetlang
 - fizz-buzz
 title: Fizz Buzz in Fetlang
+title1: Fizz Buzz
+title2: in Fetlang
 ---
 
 <!--

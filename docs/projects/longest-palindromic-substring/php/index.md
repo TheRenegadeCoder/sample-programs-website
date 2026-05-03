@@ -9,6 +9,8 @@ tags:
 - longest-palindromic-substring
 - php
 title: Longest Palindromic Substring in PHP
+title1: Longest Palindromic
+title2: Substring in PHP
 ---
 
 <!--

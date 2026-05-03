@@ -6,6 +6,8 @@ layout: default
 tags:
 - prime-number
 title: Prime Number
+title1: Prime
+title2: Number
 ---
 
 <!--

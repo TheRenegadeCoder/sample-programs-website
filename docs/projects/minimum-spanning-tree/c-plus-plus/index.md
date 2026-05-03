@@ -1,7 +1,7 @@
 ---
 authors:
 - SketchRudy
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-02-17
 featured-image: minimum-spanning-tree-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - c-plus-plus
 - minimum-spanning-tree
 title: Minimum Spanning Tree in C++
+title1: Minimum Spanning
+title2: Tree in C++
 ---
 
 <!--

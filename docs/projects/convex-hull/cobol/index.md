@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-05-01
 featured-image: convex-hull-in-every-language.jpg
 last-modified: 2026-05-01
@@ -9,6 +9,8 @@ tags:
 - cobol
 - convex-hull
 title: Convex Hull in COBOL
+title1: Convex Hull
+title2: in COBOL
 ---
 
 <!--

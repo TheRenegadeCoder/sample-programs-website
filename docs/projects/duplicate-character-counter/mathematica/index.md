@@ -9,6 +9,8 @@ tags:
 - duplicate-character-counter
 - mathematica
 title: Duplicate Character Counter in Mathematica
+title1: Duplicate Character
+title2: Counter in Mathematica
 ---
 
 <!--

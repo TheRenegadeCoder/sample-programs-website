@@ -4,7 +4,7 @@ authors:
 - rzuckerm
 - shubhragupta-code
 - Softizo
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2019-10-09
 featured-image: capitalize-in-every-language.jpg
 last-modified: 2026-04-15
@@ -13,6 +13,8 @@ tags:
 - c
 - capitalize
 title: Capitalize in C
+title1: Capitalize
+title2: in C
 ---
 
 <!--

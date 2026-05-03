@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - io
 title: Fizz Buzz in Io
+title1: Fizz Buzz
+title2: in Io
 ---
 
 <!--

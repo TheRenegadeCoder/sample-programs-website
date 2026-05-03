@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - rexx
 title: Fizz Buzz in Rexx
+title1: Fizz Buzz
+title2: in Rexx
 ---
 
 <!--

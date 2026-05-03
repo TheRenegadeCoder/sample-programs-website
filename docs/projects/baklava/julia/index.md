@@ -10,6 +10,8 @@ tags:
 - baklava
 - julia
 title: Baklava in Julia
+title1: Baklava
+title2: in Julia
 ---
 
 <!--

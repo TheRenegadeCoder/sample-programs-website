@@ -9,6 +9,8 @@ tags:
 - hello-world
 - swift
 title: Hello World in Swift
+title1: Hello World
+title2: in Swift
 ---
 
 <!--

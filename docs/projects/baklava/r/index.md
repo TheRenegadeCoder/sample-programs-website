@@ -9,6 +9,8 @@ tags:
 - baklava
 - r
 title: Baklava in R
+title1: Baklava
+title2: in R
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - go
 - rot13
 title: Rot13 in Go
+title1: Rot13
+title2: in Go
 ---
 
 <!--

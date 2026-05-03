@@ -9,6 +9,8 @@ tags:
 - algol68
 - longest-common-subsequence
 title: Longest Common Subsequence in ALGOL 68
+title1: Longest Common
+title2: Subsequence in ALGOL 68
 ---
 
 <!--

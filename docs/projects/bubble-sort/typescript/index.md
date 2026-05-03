@@ -9,6 +9,8 @@ tags:
 - bubble-sort
 - typescript
 title: Bubble Sort in TypeScript
+title1: Bubble Sort
+title2: in TypeScript
 ---
 
 <!--

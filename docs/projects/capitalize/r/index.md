@@ -9,6 +9,8 @@ tags:
 - capitalize
 - r
 title: Capitalize in R
+title1: Capitalize
+title2: in R
 ---
 
 <!--

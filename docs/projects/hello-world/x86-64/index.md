@@ -9,6 +9,8 @@ tags:
 - hello-world
 - x86-64
 title: Hello World in x86-64
+title1: Hello World
+title2: in x86-64
 ---
 
 <!--

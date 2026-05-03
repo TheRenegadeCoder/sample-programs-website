@@ -9,6 +9,8 @@ tags:
 - factorial
 - haskell
 title: Factorial in Haskell
+title1: Factorial
+title2: in Haskell
 ---
 
 <!--

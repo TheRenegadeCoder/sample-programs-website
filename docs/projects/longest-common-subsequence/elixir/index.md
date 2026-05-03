@@ -10,6 +10,8 @@ tags:
 - elixir
 - longest-common-subsequence
 title: Longest Common Subsequence in Elixir
+title1: Longest Common
+title2: Subsequence in Elixir
 ---
 
 <!--

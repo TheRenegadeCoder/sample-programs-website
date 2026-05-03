@@ -1,7 +1,7 @@
 ---
 authors:
 - Maximillian Naza
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-01-19
 featured-image: dijkstra-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - c
 - dijkstra
 title: Dijkstra in C
+title1: Dijkstra
+title2: in C
 ---
 
 <!--

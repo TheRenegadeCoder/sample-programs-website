@@ -10,6 +10,8 @@ tags:
 - java
 - job-sequencing
 title: Job Sequencing in Java
+title1: Job Sequencing
+title2: in Java
 ---
 
 <!--

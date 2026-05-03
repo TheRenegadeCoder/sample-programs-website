@@ -9,6 +9,8 @@ tags:
 - factorial
 - pascal
 title: Factorial in Pascal
+title1: Factorial
+title2: in Pascal
 ---
 
 <!--

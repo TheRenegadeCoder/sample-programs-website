@@ -9,6 +9,8 @@ tags:
 - even-odd
 - julia
 title: Even Odd in Julia
+title1: Even Odd
+title2: in Julia
 ---
 
 <!--

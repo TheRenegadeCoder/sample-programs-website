@@ -9,6 +9,8 @@ tags:
 - awk
 - palindromic-number
 title: Palindromic Number in AWK
+title1: Palindromic
+title2: Number in AWK
 ---
 
 <!--

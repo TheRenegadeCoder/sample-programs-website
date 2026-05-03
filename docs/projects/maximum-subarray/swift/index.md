@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-05-03
 featured-image: maximum-subarray-in-every-language.jpg
 last-modified: 2026-05-03
@@ -9,6 +9,8 @@ tags:
 - maximum-subarray
 - swift
 title: Maximum Subarray in Swift
+title1: Maximum Subarray
+title2: in Swift
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - beef
 - longest-common-subsequence
 title: Longest Common Subsequence in Beef
+title1: Longest Common
+title2: Subsequence in Beef
 ---
 
 <!--

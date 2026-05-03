@@ -9,6 +9,8 @@ tags:
 - fibonacci
 - lua
 title: Fibonacci in Lua
+title1: Fibonacci
+title2: in Lua
 ---
 
 <!--

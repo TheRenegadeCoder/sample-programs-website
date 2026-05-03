@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-22
 featured-image: insertion-sort-in-every-language.jpg
 last-modified: 2025-07-22
@@ -9,6 +9,8 @@ tags:
 - insertion-sort
 - pascal
 title: Insertion Sort in Pascal
+title1: Insertion Sort
+title2: in Pascal
 ---
 
 <!--

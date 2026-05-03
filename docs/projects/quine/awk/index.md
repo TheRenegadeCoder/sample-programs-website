@@ -9,6 +9,8 @@ tags:
 - awk
 - quine
 title: Quine in AWK
+title1: Quine
+title2: in AWK
 ---
 
 <!--

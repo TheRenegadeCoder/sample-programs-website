@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-09
 featured-image: maximum-array-rotation-in-every-language.jpg
 last-modified: 2026-04-09
@@ -9,6 +9,8 @@ tags:
 - f-sharp
 - maximum-array-rotation
 title: Maximum Array Rotation in F#
+title1: Maximum Array
+title2: Rotation in F#
 ---
 
 <!--

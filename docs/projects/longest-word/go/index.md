@@ -9,6 +9,8 @@ tags:
 - go
 - longest-word
 title: Longest Word in Go
+title1: Longest
+title2: Word in Go
 ---
 
 <!--

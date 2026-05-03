@@ -10,6 +10,8 @@ tags:
 - bubble-sort
 - ruby
 title: Bubble Sort in Ruby
+title1: Bubble Sort
+title2: in Ruby
 ---
 
 <!--

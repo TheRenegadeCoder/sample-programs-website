@@ -1,10 +1,10 @@
 ---
 authors:
 - Abhishek Dinkar Raut
-- "Christoph B\xF6hmwalder"
+- Christoph Böhmwalder
 - Jeremy Grifski
 - rzuckerm
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2018-07-24
 featured-image: reverse-string-in-c.jpg
 last-modified: 2026-04-15
@@ -13,6 +13,8 @@ tags:
 - c
 - reverse-string
 title: Reverse String in C
+title1: Reverse
+title2: String in C
 ---
 
 <!--

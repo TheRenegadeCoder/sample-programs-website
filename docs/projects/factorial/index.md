@@ -6,6 +6,8 @@ layout: default
 tags:
 - factorial
 title: Factorial
+title1: Factorial
+title2: ''
 ---
 
 <!--

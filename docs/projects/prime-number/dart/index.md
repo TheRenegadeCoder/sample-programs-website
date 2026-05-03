@@ -9,6 +9,8 @@ tags:
 - dart
 - prime-number
 title: Prime Number in Dart
+title1: Prime Number
+title2: in Dart
 ---
 
 <!--

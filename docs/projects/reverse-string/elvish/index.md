@@ -9,6 +9,8 @@ tags:
 - elvish
 - reverse-string
 title: Reverse String in Elvish
+title1: Reverse String
+title2: in Elvish
 ---
 
 <!--

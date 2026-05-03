@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-22
 featured-image: longest-common-subsequence-in-every-language.jpg
 last-modified: 2025-07-22
@@ -9,6 +9,8 @@ tags:
 - longest-common-subsequence
 - pascal
 title: Longest Common Subsequence in Pascal
+title1: Longest Common
+title2: Subsequence in Pascal
 ---
 
 <!--

@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-09
 featured-image: merge-sort-in-every-language.jpg
 last-modified: 2026-04-09
@@ -9,6 +9,8 @@ tags:
 - f-sharp
 - merge-sort
 title: Merge Sort in F#
+title1: Merge Sort
+title2: in F#
 ---
 
 <!--

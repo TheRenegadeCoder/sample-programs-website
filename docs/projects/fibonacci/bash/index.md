@@ -9,6 +9,8 @@ tags:
 - bash
 - fibonacci
 title: Fibonacci in Bash
+title1: Fibonacci
+title2: in Bash
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - josephus-problem
 - ruby
 title: Josephus Problem in Ruby
+title1: Josephus Problem
+title2: in Ruby
 ---
 
 <!--

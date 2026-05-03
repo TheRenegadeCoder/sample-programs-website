@@ -9,6 +9,8 @@ tags:
 - python
 - remove-all-whitespace
 title: Remove All Whitespace in Python
+title1: Remove All
+title2: Whitespace in Python
 ---
 
 <!--

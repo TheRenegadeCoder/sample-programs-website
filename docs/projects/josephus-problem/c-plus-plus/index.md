@@ -1,7 +1,7 @@
 ---
 authors:
 - Apurva Vats
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-26
 featured-image: josephus-problem-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - c-plus-plus
 - josephus-problem
 title: Josephus Problem in C++
+title1: Josephus
+title2: Problem in C++
 ---
 
 <!--

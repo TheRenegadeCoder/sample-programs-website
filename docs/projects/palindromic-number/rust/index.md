@@ -9,6 +9,8 @@ tags:
 - palindromic-number
 - rust
 title: Palindromic Number in Rust
+title1: Palindromic
+title2: Number in Rust
 ---
 
 <!--

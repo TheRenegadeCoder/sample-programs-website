@@ -11,6 +11,8 @@ tags:
 - dijkstra
 - javascript
 title: Dijkstra in JavaScript
+title1: Dijkstra in
+title2: JavaScript
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - php
 - quine
 title: Quine in PHP
+title1: Quine
+title2: in PHP
 ---
 
 <!--

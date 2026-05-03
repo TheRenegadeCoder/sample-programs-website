@@ -9,6 +9,8 @@ tags:
 - reverse-string
 - rust
 title: Reverse String in Rust
+title1: Reverse String
+title2: in Rust
 ---
 
 <!--

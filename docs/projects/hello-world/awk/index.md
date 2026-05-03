@@ -9,6 +9,8 @@ tags:
 - awk
 - hello-world
 title: Hello World in AWK
+title1: Hello World
+title2: in AWK
 ---
 
 <!--

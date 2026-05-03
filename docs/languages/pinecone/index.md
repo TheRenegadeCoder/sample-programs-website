@@ -6,6 +6,8 @@ layout: default
 tags:
 - pinecone
 title: The Pinecone Programming Language
+title1: The Pinecone
+title2: Programming Language
 ---
 
 <!--

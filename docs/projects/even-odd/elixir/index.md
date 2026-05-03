@@ -9,6 +9,8 @@ tags:
 - elixir
 - even-odd
 title: Even Odd in Elixir
+title1: Even Odd
+title2: in Elixir
 ---
 
 <!--

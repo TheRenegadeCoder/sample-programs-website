@@ -9,6 +9,8 @@ tags:
 - baklava
 - discus
 title: Baklava in Discus
+title1: Baklava
+title2: in Discus
 ---
 
 <!--

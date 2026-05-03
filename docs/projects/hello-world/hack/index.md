@@ -10,6 +10,8 @@ tags:
 - hack
 - hello-world
 title: Hello World in Hack
+title1: Hello World
+title2: in Hack
 ---
 
 <!--

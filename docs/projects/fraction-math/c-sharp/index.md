@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - fraction-math
 title: Fraction Math in C#
+title1: Fraction
+title2: Math in C#
 ---
 
 <!--

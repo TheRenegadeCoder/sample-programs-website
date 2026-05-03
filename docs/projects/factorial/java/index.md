@@ -11,6 +11,8 @@ tags:
 - factorial
 - java
 title: Factorial in Java
+title1: Factorial
+title2: in Java
 ---
 
 <!--

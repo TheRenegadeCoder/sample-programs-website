@@ -10,6 +10,8 @@ tags:
 - hello-world
 - verilog
 title: Hello World in Verilog
+title1: Hello World
+title2: in Verilog
 ---
 
 <!--

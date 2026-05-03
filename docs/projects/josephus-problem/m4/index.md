@@ -9,6 +9,8 @@ tags:
 - josephus-problem
 - m4
 title: Josephus Problem in m4
+title1: Josephus
+title2: Problem in m4
 ---
 
 <!--

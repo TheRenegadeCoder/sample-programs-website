@@ -10,6 +10,8 @@ tags:
 - bash
 - quick-sort
 title: Quick Sort in Bash
+title1: Quick Sort
+title2: in Bash
 ---
 
 <!--

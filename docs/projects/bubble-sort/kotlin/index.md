@@ -11,6 +11,8 @@ tags:
 - bubble-sort
 - kotlin
 title: Bubble Sort in Kotlin
+title1: Bubble Sort
+title2: in Kotlin
 ---
 
 <!--

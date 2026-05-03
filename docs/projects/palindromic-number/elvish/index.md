@@ -9,6 +9,8 @@ tags:
 - elvish
 - palindromic-number
 title: Palindromic Number in Elvish
+title1: Palindromic
+title2: Number in Elvish
 ---
 
 <!--

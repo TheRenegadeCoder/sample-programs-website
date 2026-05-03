@@ -6,6 +6,8 @@ layout: default
 tags:
 - purescript
 title: The PureScript Programming Language
+title1: The PureScript
+title2: Programming Language
 ---
 
 <!--

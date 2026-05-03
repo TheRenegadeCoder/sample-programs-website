@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - gnu-make
 title: Fizz Buzz in GNU Make
+title1: Fizz Buzz
+title2: in GNU Make
 ---
 
 <!--

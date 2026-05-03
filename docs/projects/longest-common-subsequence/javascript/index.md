@@ -9,6 +9,8 @@ tags:
 - javascript
 - longest-common-subsequence
 title: Longest Common Subsequence in JavaScript
+title1: Longest Common Subsequence
+title2: in JavaScript
 ---
 
 <!--

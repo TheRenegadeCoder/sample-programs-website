@@ -11,6 +11,8 @@ tags:
 - fizz-buzz
 - powershell
 title: Fizz Buzz in PowerShell
+title1: Fizz Buzz in
+title2: PowerShell
 ---
 
 <!--

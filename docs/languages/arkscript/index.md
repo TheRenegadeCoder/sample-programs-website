@@ -8,6 +8,8 @@ layout: default
 tags:
 - arkscript
 title: The ArkScript Programming Language
+title1: The ArkScript
+title2: Programming Language
 ---
 
 <!--

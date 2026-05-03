@@ -9,6 +9,8 @@ tags:
 - awk
 - reverse-string
 title: Reverse String in AWK
+title1: Reverse
+title2: String in AWK
 ---
 
 <!--

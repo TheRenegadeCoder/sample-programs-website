@@ -10,6 +10,8 @@ tags:
 - hello-world
 - purescript
 title: Hello World in PureScript
+title1: Hello World
+title2: in PureScript
 ---
 
 <!--

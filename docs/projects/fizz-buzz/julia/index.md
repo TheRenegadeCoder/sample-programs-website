@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - julia
 title: Fizz Buzz in Julia
+title1: Fizz Buzz
+title2: in Julia
 ---
 
 <!--

@@ -6,6 +6,8 @@ layout: default
 tags:
 - lily
 title: The Lily Programming Language
+title1: The Lily Programming
+title2: Language
 ---
 
 <!--

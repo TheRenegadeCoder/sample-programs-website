@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - maximum-subarray
 title: Maximum Subarray in Commodore BASIC
+title1: Maximum Subarray
+title2: in Commodore BASIC
 ---
 
 <!--

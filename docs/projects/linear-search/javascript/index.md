@@ -11,6 +11,8 @@ tags:
 - javascript
 - linear-search
 title: Linear Search in JavaScript
+title1: Linear Search
+title2: in JavaScript
 ---
 
 <!--

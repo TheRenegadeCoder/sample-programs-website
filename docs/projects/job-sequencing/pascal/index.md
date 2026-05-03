@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-22
 featured-image: job-sequencing-in-every-language.jpg
 last-modified: 2025-07-22
@@ -9,6 +9,8 @@ tags:
 - job-sequencing
 - pascal
 title: Job Sequencing in Pascal
+title1: Job Sequencing
+title2: in Pascal
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - ballerina
 - fizz-buzz
 title: Fizz Buzz in Ballerina
+title1: Fizz Buzz in
+title2: Ballerina
 ---
 
 <!--

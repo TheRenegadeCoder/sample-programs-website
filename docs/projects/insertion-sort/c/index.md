@@ -1,7 +1,7 @@
 ---
 authors:
 - sourabbr
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2019-10-18
 featured-image: insertion-sort-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - c
 - insertion-sort
 title: Insertion Sort in C
+title1: Insertion
+title2: Sort in C
 ---
 
 <!--

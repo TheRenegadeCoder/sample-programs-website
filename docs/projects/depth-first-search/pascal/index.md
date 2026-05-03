@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-22
 featured-image: depth-first-search-in-every-language.jpg
 last-modified: 2025-07-22
@@ -9,6 +9,8 @@ tags:
 - depth-first-search
 - pascal
 title: Depth First Search in Pascal
+title1: Depth First
+title2: Search in Pascal
 ---
 
 <!--

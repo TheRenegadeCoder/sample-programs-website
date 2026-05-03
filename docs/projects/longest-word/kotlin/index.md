@@ -9,6 +9,8 @@ tags:
 - kotlin
 - longest-word
 title: Longest Word in Kotlin
+title1: Longest Word
+title2: in Kotlin
 ---
 
 <!--

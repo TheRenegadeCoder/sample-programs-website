@@ -11,6 +11,8 @@ tags:
 - fraction-math
 - python
 title: Fraction Math in Python
+title1: Fraction Math
+title2: in Python
 ---
 
 <!--

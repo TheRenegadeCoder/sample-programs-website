@@ -9,6 +9,8 @@ tags:
 - algol60
 - longest-word
 title: Longest Word in ALGOL 60
+title1: Longest Word
+title2: in ALGOL 60
 ---
 
 <!--

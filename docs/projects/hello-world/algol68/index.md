@@ -11,6 +11,8 @@ tags:
 - algol68
 - hello-world
 title: Hello World in ALGOL 68
+title1: Hello World
+title2: in ALGOL 68
 ---
 
 <!--

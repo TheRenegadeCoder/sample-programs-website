@@ -1,7 +1,7 @@
 ---
 authors:
 - Viet Thang Nguyen
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2019-03-22
 featured-image: quick-sort-in-every-language.jpg
 last-modified: 2026-04-11
@@ -10,6 +10,8 @@ tags:
 - quick-sort
 - scala
 title: Quick Sort in Scala
+title1: Quick Sort
+title2: in Scala
 ---
 
 <!--

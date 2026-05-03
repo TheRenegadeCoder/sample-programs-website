@@ -9,6 +9,8 @@ tags:
 - go
 - transpose-matrix
 title: Transpose Matrix in Go
+title1: Transpose
+title2: Matrix in Go
 ---
 
 <!--

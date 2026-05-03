@@ -9,6 +9,8 @@ tags:
 - insertion-sort
 - octave
 title: Insertion Sort in Octave
+title1: Insertion Sort
+title2: in Octave
 ---
 
 <!--

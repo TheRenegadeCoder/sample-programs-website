@@ -9,6 +9,8 @@ tags:
 - awk
 - maximum-array-rotation
 title: Maximum Array Rotation in AWK
+title1: Maximum Array
+title2: Rotation in AWK
 ---
 
 <!--

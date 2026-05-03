@@ -9,6 +9,8 @@ tags:
 - prime-number
 - rexx
 title: Prime Number in Rexx
+title1: Prime Number
+title2: in Rexx
 ---
 
 <!--

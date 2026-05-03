@@ -13,6 +13,8 @@ tags:
 - hello-world
 - rust
 title: Hello World in Rust
+title1: Hello World
+title2: in Rust
 ---
 
 <!--

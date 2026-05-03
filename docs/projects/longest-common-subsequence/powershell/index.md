@@ -9,6 +9,8 @@ tags:
 - longest-common-subsequence
 - powershell
 title: Longest Common Subsequence in PowerShell
+title1: Longest Common Subsequence
+title2: in PowerShell
 ---
 
 <!--

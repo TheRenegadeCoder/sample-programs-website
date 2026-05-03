@@ -9,6 +9,8 @@ tags:
 - m4
 - maximum-subarray
 title: Maximum Subarray in m4
+title1: Maximum
+title2: Subarray in m4
 ---
 
 <!--

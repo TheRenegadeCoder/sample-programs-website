@@ -6,6 +6,8 @@ layout: default
 tags:
 - bubble-sort
 title: Bubble Sort
+title1: Bubble
+title2: Sort
 ---
 
 <!--

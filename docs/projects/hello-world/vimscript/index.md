@@ -1,6 +1,6 @@
 ---
 authors:
-- "Christoph B\xF6hmwalder"
+- Christoph Böhmwalder
 - rzuckerm
 date: 2018-08-27
 featured-image: hello-world-in-every-language.jpg
@@ -10,6 +10,8 @@ tags:
 - hello-world
 - vimscript
 title: Hello World in Vimscript
+title1: Hello World
+title2: in Vimscript
 ---
 
 <!--

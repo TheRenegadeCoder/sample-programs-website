@@ -10,6 +10,8 @@ tags:
 - factorial
 - php
 title: Factorial in PHP
+title1: Factorial
+title2: in PHP
 ---
 
 <!--

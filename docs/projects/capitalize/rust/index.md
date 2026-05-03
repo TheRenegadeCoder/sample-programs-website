@@ -10,6 +10,8 @@ tags:
 - capitalize
 - rust
 title: Capitalize in Rust
+title1: Capitalize
+title2: in Rust
 ---
 
 <!--

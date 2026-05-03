@@ -9,6 +9,8 @@ tags:
 - bubble-sort
 - euphoria
 title: Bubble Sort in Euphoria
+title1: Bubble Sort
+title2: in Euphoria
 ---
 
 <!--

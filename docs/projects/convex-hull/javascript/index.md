@@ -10,6 +10,8 @@ tags:
 - convex-hull
 - javascript
 title: Convex Hull in JavaScript
+title1: Convex Hull
+title2: in JavaScript
 ---
 
 <!--

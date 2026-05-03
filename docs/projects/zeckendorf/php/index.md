@@ -9,6 +9,8 @@ tags:
 - php
 - zeckendorf
 title: Zeckendorf in PHP
+title1: Zeckendorf
+title2: in PHP
 ---
 
 <!--

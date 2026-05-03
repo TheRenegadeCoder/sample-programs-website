@@ -10,6 +10,8 @@ tags:
 - groovy
 - merge-sort
 title: Merge Sort in Groovy
+title1: Merge Sort
+title2: in Groovy
 ---
 
 <!--

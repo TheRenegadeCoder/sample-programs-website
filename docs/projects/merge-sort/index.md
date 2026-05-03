@@ -6,6 +6,8 @@ layout: default
 tags:
 - merge-sort
 title: Merge Sort
+title1: Merge
+title2: Sort
 ---
 
 <!--

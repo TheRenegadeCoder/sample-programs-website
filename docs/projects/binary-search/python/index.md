@@ -12,6 +12,8 @@ tags:
 - binary-search
 - python
 title: Binary Search in Python
+title1: Binary Search
+title2: in Python
 ---
 
 <!--

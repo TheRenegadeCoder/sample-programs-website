@@ -6,6 +6,8 @@ layout: default
 tags:
 - go
 title: The Go Programming Language
+title1: The Go Programming
+title2: Language
 ---
 
 <!--

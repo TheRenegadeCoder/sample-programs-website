@@ -9,6 +9,8 @@ tags:
 - awk
 - remove-all-whitespace
 title: Remove All Whitespace in AWK
+title1: Remove All
+title2: Whitespace in AWK
 ---
 
 <!--

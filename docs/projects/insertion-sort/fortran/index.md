@@ -9,6 +9,8 @@ tags:
 - fortran
 - insertion-sort
 title: Insertion Sort in Fortran
+title1: Insertion Sort
+title2: in Fortran
 ---
 
 <!--

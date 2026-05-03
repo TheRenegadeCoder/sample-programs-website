@@ -6,6 +6,8 @@ layout: default
 tags:
 - erlang
 title: The Erlang Programming Language
+title1: The Erlang
+title2: Programming Language
 ---
 
 <!--

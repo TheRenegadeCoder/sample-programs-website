@@ -6,6 +6,8 @@ layout: default
 tags:
 - longest-common-subsequence
 title: Longest Common Subsequence
+title1: Longest Common
+title2: Subsequence
 ---
 
 <!--

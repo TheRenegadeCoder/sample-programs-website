@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - verve
 title: Fizz Buzz in Verve
+title1: Fizz Buzz
+title2: in Verve
 ---
 
 <!--

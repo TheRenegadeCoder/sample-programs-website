@@ -9,6 +9,8 @@ tags:
 - batch
 - fizz-buzz
 title: Fizz Buzz in Batch
+title1: Fizz Buzz
+title2: in Batch
 ---
 
 <!--

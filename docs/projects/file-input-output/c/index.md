@@ -1,7 +1,7 @@
 ---
 authors:
-- "Christoph B\xF6hmwalder"
-- "\u0218tefan-Iulian Alecu"
+- Christoph Böhmwalder
+- Ștefan-Iulian Alecu
 date: 2018-09-12
 featured-image: file-input-output-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - c
 - file-input-output
 title: File Input Output in C
+title1: File Input
+title2: Output in C
 ---
 
 <!--

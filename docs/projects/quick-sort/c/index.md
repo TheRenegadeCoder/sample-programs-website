@@ -1,7 +1,7 @@
 ---
 authors:
 - LezendarySandwich
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2019-10-20
 featured-image: quick-sort-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - c
 - quick-sort
 title: Quick Sort in C
+title1: Quick
+title2: Sort in C
 ---
 
 <!--

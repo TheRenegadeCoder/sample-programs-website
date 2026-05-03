@@ -6,6 +6,8 @@ layout: default
 tags:
 - swift
 title: The Swift Programming Language
+title1: The Swift Programming
+title2: Language
 ---
 
 <!--

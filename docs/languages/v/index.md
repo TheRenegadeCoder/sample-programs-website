@@ -6,6 +6,8 @@ layout: default
 tags:
 - v
 title: The V Programming Language
+title1: The V Programming
+title2: Language
 ---
 
 <!--

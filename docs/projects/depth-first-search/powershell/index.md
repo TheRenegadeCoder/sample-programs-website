@@ -9,6 +9,8 @@ tags:
 - depth-first-search
 - powershell
 title: Depth First Search in PowerShell
+title1: Depth First Search
+title2: in PowerShell
 ---
 
 <!--

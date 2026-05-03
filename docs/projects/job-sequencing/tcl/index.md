@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-09
 featured-image: job-sequencing-in-every-language.jpg
 last-modified: 2025-10-09
@@ -9,6 +9,8 @@ tags:
 - job-sequencing
 - tcl
 title: Job Sequencing in Tcl
+title1: Job Sequencing
+title2: in Tcl
 ---
 
 <!--

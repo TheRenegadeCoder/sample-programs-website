@@ -6,6 +6,8 @@ layout: default
 tags:
 - dijkstra
 title: Dijkstra
+title1: Dijkstra
+title2: ''
 ---
 
 <!--

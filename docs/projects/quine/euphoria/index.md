@@ -9,6 +9,8 @@ tags:
 - euphoria
 - quine
 title: Quine in Euphoria
+title1: Quine in
+title2: Euphoria
 ---
 
 <!--

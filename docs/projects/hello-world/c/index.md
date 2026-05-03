@@ -4,7 +4,7 @@ authors:
 - Jeremy Grifski
 - Johnny Fang
 - rzuckerm
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2018-03-15
 featured-image: hello-world-in-c.jpg
 last-modified: 2026-04-15
@@ -13,6 +13,8 @@ tags:
 - c
 - hello-world
 title: Hello World in C
+title1: Hello World
+title2: in C
 ---
 
 <!--

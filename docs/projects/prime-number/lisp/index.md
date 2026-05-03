@@ -10,6 +10,8 @@ tags:
 - lisp
 - prime-number
 title: Prime Number in Lisp
+title1: Prime Number
+title2: in Lisp
 ---
 
 <!--

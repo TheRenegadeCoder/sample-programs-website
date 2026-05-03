@@ -9,6 +9,8 @@ tags:
 - cython
 - fizz-buzz
 title: Fizz Buzz in Cython
+title1: Fizz Buzz
+title2: in Cython
 ---
 
 <!--

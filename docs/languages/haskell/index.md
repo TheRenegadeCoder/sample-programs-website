@@ -9,6 +9,8 @@ layout: default
 tags:
 - haskell
 title: The Haskell Programming Language
+title1: The Haskell
+title2: Programming Language
 ---
 
 <!--

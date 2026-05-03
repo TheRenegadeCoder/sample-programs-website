@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - longest-palindromic-substring
 title: Longest Palindromic Substring in C#
+title1: Longest Palindromic
+title2: Substring in C#
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - euphoria
 - fraction-math
 title: Fraction Math in Euphoria
+title1: Fraction Math
+title2: in Euphoria
 ---
 
 <!--

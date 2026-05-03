@@ -9,6 +9,8 @@ tags:
 - awk
 - minimum-spanning-tree
 title: Minimum Spanning Tree in AWK
+title1: Minimum Spanning
+title2: Tree in AWK
 ---
 
 <!--

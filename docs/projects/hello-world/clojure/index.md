@@ -9,6 +9,8 @@ tags:
 - clojure
 - hello-world
 title: Hello World in Clojure
+title1: Hello World
+title2: in Clojure
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - even-odd
 - mathematica
 title: Even Odd in Mathematica
+title1: Even Odd in
+title2: Mathematica
 ---
 
 <!--

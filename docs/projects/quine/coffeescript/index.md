@@ -9,6 +9,8 @@ tags:
 - coffeescript
 - quine
 title: Quine in CoffeeScript
+title1: Quine in
+title2: CoffeeScript
 ---
 
 <!--

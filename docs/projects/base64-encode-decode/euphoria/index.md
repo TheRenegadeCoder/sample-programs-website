@@ -9,6 +9,8 @@ tags:
 - base64-encode-decode
 - euphoria
 title: Base64 Encode Decode in Euphoria
+title1: Base64 Encode
+title2: Decode in Euphoria
 ---
 
 <!--

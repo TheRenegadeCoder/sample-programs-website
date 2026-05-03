@@ -9,6 +9,8 @@ tags:
 - baklava
 - php
 title: Baklava in PHP
+title1: Baklava
+title2: in PHP
 ---
 
 <!--

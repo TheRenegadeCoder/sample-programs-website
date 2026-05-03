@@ -9,6 +9,8 @@ tags:
 - awk
 - fizz-buzz
 title: Fizz Buzz in AWK
+title1: Fizz Buzz
+title2: in AWK
 ---
 
 <!--

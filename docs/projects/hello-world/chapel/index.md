@@ -9,6 +9,8 @@ tags:
 - chapel
 - hello-world
 title: Hello World in Chapel
+title1: Hello World
+title2: in Chapel
 ---
 
 <!--

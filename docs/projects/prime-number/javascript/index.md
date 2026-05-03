@@ -11,6 +11,8 @@ tags:
 - javascript
 - prime-number
 title: Prime Number in JavaScript
+title1: Prime Number
+title2: in JavaScript
 ---
 
 <!--

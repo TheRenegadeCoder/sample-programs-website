@@ -9,6 +9,8 @@ tags:
 - awk
 - longest-word
 title: Longest Word in AWK
+title1: Longest
+title2: Word in AWK
 ---
 
 <!--

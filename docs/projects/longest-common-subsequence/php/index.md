@@ -9,6 +9,8 @@ tags:
 - longest-common-subsequence
 - php
 title: Longest Common Subsequence in PHP
+title1: Longest Common
+title2: Subsequence in PHP
 ---
 
 <!--

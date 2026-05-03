@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - reverse-string
 title: Reverse String in Commodore BASIC
+title1: Reverse String in
+title2: Commodore BASIC
 ---
 
 <!--

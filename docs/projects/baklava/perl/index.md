@@ -9,6 +9,8 @@ tags:
 - baklava
 - perl
 title: Baklava in Perl
+title1: Baklava
+title2: in Perl
 ---
 
 <!--

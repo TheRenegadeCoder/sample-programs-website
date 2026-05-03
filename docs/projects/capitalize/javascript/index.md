@@ -10,6 +10,8 @@ tags:
 - capitalize
 - javascript
 title: Capitalize in JavaScript
+title1: Capitalize in
+title2: JavaScript
 ---
 
 <!--

@@ -1,7 +1,7 @@
 ---
 authors:
 - Jeremy Griffith
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2018-03-21
 featured-image: hello-world-in-objective-c.jpg
 last-modified: 2026-04-30
@@ -10,6 +10,8 @@ tags:
 - hello-world
 - objective-c
 title: Hello World in Objective-C
+title1: Hello World in
+title2: Objective-C
 ---
 
 <!--

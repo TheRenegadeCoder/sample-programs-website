@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - prime-number
 title: Prime Number in Commodore BASIC
+title1: Prime Number in
+title2: Commodore BASIC
 ---
 
 <!--

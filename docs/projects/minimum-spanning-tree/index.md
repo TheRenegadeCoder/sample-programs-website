@@ -6,6 +6,8 @@ layout: default
 tags:
 - minimum-spanning-tree
 title: Minimum Spanning Tree
+title1: Minimum
+title2: Spanning Tree
 ---
 
 <!--

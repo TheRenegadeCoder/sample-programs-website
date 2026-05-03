@@ -6,6 +6,8 @@ layout: default
 tags:
 - ti-basic
 title: The TI-BASIC Programming Language
+title1: The TI-BASIC
+title2: Programming Language
 ---
 
 <!--

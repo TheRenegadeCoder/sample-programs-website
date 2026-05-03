@@ -9,6 +9,8 @@ tags:
 - euphoria
 - roman-numeral
 title: Roman Numeral in Euphoria
+title1: Roman Numeral
+title2: in Euphoria
 ---
 
 <!--

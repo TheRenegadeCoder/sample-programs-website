@@ -10,6 +10,8 @@ tags:
 - go
 - roman-numeral
 title: Roman Numeral in Go
+title1: Roman Numeral
+title2: in Go
 ---
 
 <!--

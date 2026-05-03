@@ -10,6 +10,8 @@ tags:
 - palindromic-number
 - perl
 title: Palindromic Number in Perl
+title1: Palindromic
+title2: Number in Perl
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - java
 - josephus-problem
 title: Josephus Problem in Java
+title1: Josephus Problem
+title2: in Java
 ---
 
 <!--

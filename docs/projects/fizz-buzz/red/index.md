@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - red
 title: Fizz Buzz in Red
+title1: Fizz Buzz
+title2: in Red
 ---
 
 <!--

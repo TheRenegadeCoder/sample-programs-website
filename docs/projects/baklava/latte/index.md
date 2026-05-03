@@ -9,6 +9,8 @@ tags:
 - baklava
 - latte
 title: Baklava in Latte
+title1: Baklava
+title2: in Latte
 ---
 
 <!--

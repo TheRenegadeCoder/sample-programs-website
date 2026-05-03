@@ -1,6 +1,6 @@
 ---
 authors:
-- "Christoph B\xF6hmwalder"
+- Christoph Böhmwalder
 date: 2018-08-23
 featured-image: reverse-string-in-every-language.jpg
 last-modified: 2018-08-23
@@ -9,6 +9,8 @@ tags:
 - brainfuck
 - reverse-string
 title: Reverse String in Brainfuck
+title1: Reverse String
+title2: in Brainfuck
 ---
 
 <!--

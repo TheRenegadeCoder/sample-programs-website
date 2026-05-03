@@ -10,6 +10,8 @@ tags:
 - factorial
 - kotlin
 title: Factorial in Kotlin
+title1: Factorial
+title2: in Kotlin
 ---
 
 <!--

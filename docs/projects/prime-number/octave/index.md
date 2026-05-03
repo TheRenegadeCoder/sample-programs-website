@@ -9,6 +9,8 @@ tags:
 - octave
 - prime-number
 title: Prime Number in Octave
+title1: Prime Number
+title2: in Octave
 ---
 
 <!--

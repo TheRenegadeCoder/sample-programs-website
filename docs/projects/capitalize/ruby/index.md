@@ -9,6 +9,8 @@ tags:
 - capitalize
 - ruby
 title: Capitalize in Ruby
+title1: Capitalize
+title2: in Ruby
 ---
 
 <!--

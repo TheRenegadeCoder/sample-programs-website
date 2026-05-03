@@ -9,6 +9,8 @@ tags:
 - haskell
 - prime-number
 title: Prime Number in Haskell
+title1: Prime Number
+title2: in Haskell
 ---
 
 <!--

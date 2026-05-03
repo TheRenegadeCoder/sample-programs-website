@@ -2,7 +2,7 @@
 authors:
 - Jeremy Grifski
 - Sailok Chinta
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2019-10-27
 featured-image: binary-search-in-every-language.jpg
 last-modified: 2026-04-15
@@ -11,6 +11,8 @@ tags:
 - binary-search
 - c-plus-plus
 title: Binary Search in C++
+title1: Binary Search
+title2: in C++
 ---
 
 <!--

@@ -10,6 +10,8 @@ tags:
 - hello-world
 - koka
 title: Hello World in Koka
+title1: Hello World
+title2: in Koka
 ---
 
 <!--

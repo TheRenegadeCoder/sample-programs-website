@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-22
 featured-image: duplicate-character-counter-in-every-language.jpg
 last-modified: 2025-07-22
@@ -9,6 +9,8 @@ tags:
 - duplicate-character-counter
 - pascal
 title: Duplicate Character Counter in Pascal
+title1: Duplicate Character
+title2: Counter in Pascal
 ---
 
 <!--

@@ -6,6 +6,8 @@ layout: default
 tags:
 - malbolge
 title: The Malbolge Programming Language
+title1: The Malbolge
+title2: Programming Language
 ---
 
 <!--

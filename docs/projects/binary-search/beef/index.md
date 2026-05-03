@@ -9,6 +9,8 @@ tags:
 - beef
 - binary-search
 title: Binary Search in Beef
+title1: Binary Search
+title2: in Beef
 ---
 
 <!--

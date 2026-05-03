@@ -9,6 +9,8 @@ tags:
 - euphoria
 - job-sequencing
 title: Job Sequencing in Euphoria
+title1: Job Sequencing
+title2: in Euphoria
 ---
 
 <!--

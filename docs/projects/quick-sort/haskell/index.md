@@ -9,6 +9,8 @@ tags:
 - haskell
 - quick-sort
 title: Quick Sort in Haskell
+title1: Quick Sort
+title2: in Haskell
 ---
 
 <!--

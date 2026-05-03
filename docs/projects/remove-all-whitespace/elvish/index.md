@@ -9,6 +9,8 @@ tags:
 - elvish
 - remove-all-whitespace
 title: Remove All Whitespace in Elvish
+title1: Remove All
+title2: Whitespace in Elvish
 ---
 
 <!--

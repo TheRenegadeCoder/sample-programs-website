@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - longest-common-subsequence
 title: Longest Common Subsequence in C#
+title1: Longest Common
+title2: Subsequence in C#
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - euphoria
 - josephus-problem
 title: Josephus Problem in Euphoria
+title1: Josephus Problem
+title2: in Euphoria
 ---
 
 <!--

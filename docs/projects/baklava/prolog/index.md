@@ -9,6 +9,8 @@ tags:
 - baklava
 - prolog
 title: Baklava in Prolog
+title1: Baklava
+title2: in Prolog
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - bash
 - factorial
 title: Factorial in Bash
+title1: Factorial
+title2: in Bash
 ---
 
 <!--

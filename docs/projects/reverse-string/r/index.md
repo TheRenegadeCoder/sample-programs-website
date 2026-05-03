@@ -9,6 +9,8 @@ tags:
 - r
 - reverse-string
 title: Reverse String in R
+title1: Reverse
+title2: String in R
 ---
 
 <!--

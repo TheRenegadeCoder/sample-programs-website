@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - duplicate-character-counter
 title: Duplicate Character Counter in C#
+title1: Duplicate Character
+title2: Counter in C#
 ---
 
 <!--

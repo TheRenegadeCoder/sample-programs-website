@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - wu
 title: Fizz Buzz in Wu
+title1: Fizz Buzz
+title2: in Wu
 ---
 
 <!--

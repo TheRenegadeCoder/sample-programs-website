@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - gosu
 title: Fizz Buzz in Gosu
+title1: Fizz Buzz
+title2: in Gosu
 ---
 
 <!--

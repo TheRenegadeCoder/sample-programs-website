@@ -6,6 +6,8 @@ layout: default
 tags:
 - prolog
 title: The Prolog Programming Language
+title1: The Prolog
+title2: Programming Language
 ---
 
 <!--

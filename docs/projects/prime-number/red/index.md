@@ -9,6 +9,8 @@ tags:
 - prime-number
 - red
 title: Prime Number in Red
+title1: Prime Number
+title2: in Red
 ---
 
 <!--

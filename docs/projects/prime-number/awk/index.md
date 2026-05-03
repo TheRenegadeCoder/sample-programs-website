@@ -9,6 +9,8 @@ tags:
 - awk
 - prime-number
 title: Prime Number in AWK
+title1: Prime Number
+title2: in AWK
 ---
 
 <!--

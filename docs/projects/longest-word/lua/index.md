@@ -9,6 +9,8 @@ tags:
 - longest-word
 - lua
 title: Longest Word in Lua
+title1: Longest
+title2: Word in Lua
 ---
 
 <!--

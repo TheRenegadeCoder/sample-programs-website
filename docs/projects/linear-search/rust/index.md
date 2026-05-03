@@ -9,6 +9,8 @@ tags:
 - linear-search
 - rust
 title: Linear Search in Rust
+title1: Linear Search
+title2: in Rust
 ---
 
 <!--

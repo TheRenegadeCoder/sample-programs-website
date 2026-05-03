@@ -9,6 +9,8 @@ tags:
 - beef
 - factorial
 title: Factorial in Beef
+title1: Factorial
+title2: in Beef
 ---
 
 <!--

@@ -10,6 +10,8 @@ tags:
 - job-sequencing
 - python
 title: Job Sequencing in Python
+title1: Job Sequencing
+title2: in Python
 ---
 
 <!--

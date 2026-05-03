@@ -9,6 +9,8 @@ tags:
 - hello-world
 - ruby
 title: Hello World in Ruby
+title1: Hello World
+title2: in Ruby
 ---
 
 <!--

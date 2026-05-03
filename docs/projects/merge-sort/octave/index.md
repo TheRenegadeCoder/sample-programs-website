@@ -9,6 +9,8 @@ tags:
 - merge-sort
 - octave
 title: Merge Sort in Octave
+title1: Merge Sort
+title2: in Octave
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - groovy
 - hello-world
 title: Hello World in Groovy
+title1: Hello World
+title2: in Groovy
 ---
 
 <!--

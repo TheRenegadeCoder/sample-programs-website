@@ -9,6 +9,8 @@ tags:
 - job-sequencing
 - mathematica
 title: Job Sequencing in Mathematica
+title1: Job Sequencing
+title2: in Mathematica
 ---
 
 <!--

@@ -6,6 +6,8 @@ layout: default
 tags:
 - file-input-output
 title: File Input Output
+title1: File Input
+title2: Output
 ---
 
 <!--

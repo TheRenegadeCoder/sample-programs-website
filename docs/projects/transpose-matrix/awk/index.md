@@ -9,6 +9,8 @@ tags:
 - awk
 - transpose-matrix
 title: Transpose Matrix in AWK
+title1: Transpose
+title2: Matrix in AWK
 ---
 
 <!--

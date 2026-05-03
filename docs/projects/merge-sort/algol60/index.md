@@ -9,6 +9,8 @@ tags:
 - algol60
 - merge-sort
 title: Merge Sort in ALGOL 60
+title1: Merge Sort
+title2: in ALGOL 60
 ---
 
 <!--

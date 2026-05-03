@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - ruby
 title: Fizz Buzz in Ruby
+title1: Fizz Buzz
+title2: in Ruby
 ---
 
 <!--

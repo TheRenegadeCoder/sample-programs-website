@@ -12,6 +12,8 @@ tags:
 - fizz-buzz
 - javascript
 title: Fizz Buzz in JavaScript
+title1: Fizz Buzz in
+title2: JavaScript
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - baklava
 - rust
 title: Baklava in Rust
+title1: Baklava
+title2: in Rust
 ---
 
 <!--

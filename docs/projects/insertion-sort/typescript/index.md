@@ -9,6 +9,8 @@ tags:
 - insertion-sort
 - typescript
 title: Insertion Sort in TypeScript
+title1: Insertion Sort
+title2: in TypeScript
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - awk
 - depth-first-search
 title: Depth First Search in AWK
+title1: Depth First
+title2: Search in AWK
 ---
 
 <!--

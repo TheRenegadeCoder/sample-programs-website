@@ -6,6 +6,8 @@ layout: default
 tags:
 - raku
 title: The Raku Programming Language
+title1: The Raku Programming
+title2: Language
 ---
 
 <!--

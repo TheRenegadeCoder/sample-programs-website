@@ -10,6 +10,8 @@ tags:
 - kotlin
 - longest-common-subsequence
 title: Longest Common Subsequence in Kotlin
+title1: Longest Common
+title2: Subsequence in Kotlin
 ---
 
 <!--

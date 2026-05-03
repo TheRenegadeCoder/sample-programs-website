@@ -9,6 +9,8 @@ tags:
 - convex-hull
 - php
 title: Convex Hull in PHP
+title1: Convex Hull
+title2: in PHP
 ---
 
 <!--

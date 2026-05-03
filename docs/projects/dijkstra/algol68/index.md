@@ -9,6 +9,8 @@ tags:
 - algol68
 - dijkstra
 title: Dijkstra in ALGOL 68
+title1: Dijkstra in
+title2: ALGOL 68
 ---
 
 <!--

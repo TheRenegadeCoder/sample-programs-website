@@ -9,6 +9,8 @@ tags:
 - awk
 - longest-common-subsequence
 title: Longest Common Subsequence in AWK
+title1: Longest Common
+title2: Subsequence in AWK
 ---
 
 <!--

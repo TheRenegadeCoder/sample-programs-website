@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - longest-common-subsequence
 title: Longest Common Subsequence in Commodore BASIC
+title1: Longest Common Subsequence
+title2: in Commodore BASIC
 ---
 
 <!--

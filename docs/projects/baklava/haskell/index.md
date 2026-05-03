@@ -9,6 +9,8 @@ tags:
 - baklava
 - haskell
 title: Baklava in Haskell
+title1: Baklava in
+title2: Haskell
 ---
 
 <!--

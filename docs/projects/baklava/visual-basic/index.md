@@ -9,6 +9,8 @@ tags:
 - baklava
 - visual-basic
 title: Baklava in Visual Basic
+title1: Baklava in
+title2: Visual Basic
 ---
 
 <!--

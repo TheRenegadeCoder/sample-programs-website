@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - quine
 title: Quine in C#
+title1: Quine
+title2: in C#
 ---
 
 <!--

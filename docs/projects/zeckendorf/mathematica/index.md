@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-30
 featured-image: zeckendorf-in-every-language.png
 last-modified: 2026-04-30
@@ -9,6 +9,8 @@ tags:
 - mathematica
 - zeckendorf
 title: Zeckendorf in Mathematica
+title1: Zeckendorf in
+title2: Mathematica
 ---
 
 <!--

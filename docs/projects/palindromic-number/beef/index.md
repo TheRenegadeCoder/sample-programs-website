@@ -9,6 +9,8 @@ tags:
 - beef
 - palindromic-number
 title: Palindromic Number in Beef
+title1: Palindromic
+title2: Number in Beef
 ---
 
 <!--

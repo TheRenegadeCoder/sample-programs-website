@@ -9,6 +9,8 @@ tags:
 - dijkstra
 - powershell
 title: Dijkstra in PowerShell
+title1: Dijkstra in
+title2: PowerShell
 ---
 
 <!--

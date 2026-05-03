@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - odin
 title: Fizz Buzz in Odin
+title1: Fizz Buzz
+title2: in Odin
 ---
 
 <!--

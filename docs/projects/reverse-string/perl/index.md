@@ -1,6 +1,6 @@
 ---
 authors:
-- "Christoph B\xF6hmwalder"
+- Christoph Böhmwalder
 - rzuckerm
 date: 2018-08-22
 featured-image: reverse-string-in-every-language.jpg
@@ -10,6 +10,8 @@ tags:
 - perl
 - reverse-string
 title: Reverse String in Perl
+title1: Reverse String
+title2: in Perl
 ---
 
 <!--

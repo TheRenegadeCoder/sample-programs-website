@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-24
 featured-image: quine-in-every-language.jpg
 last-modified: 2026-04-24
@@ -9,6 +9,8 @@ tags:
 - quine
 - typescript
 title: Quine in TypeScript
+title1: Quine in
+title2: TypeScript
 ---
 
 <!--

@@ -12,6 +12,8 @@ tags:
 - c-sharp
 - hello-world
 title: Hello World in C#
+title1: Hello World
+title2: in C#
 ---
 
 <!--

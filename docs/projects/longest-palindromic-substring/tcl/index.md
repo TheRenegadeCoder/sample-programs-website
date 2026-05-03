@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-09
 featured-image: longest-palindromic-substring-in-every-language.jpg
 last-modified: 2025-10-09
@@ -9,6 +9,8 @@ tags:
 - longest-palindromic-substring
 - tcl
 title: Longest Palindromic Substring in Tcl
+title1: Longest Palindromic
+title2: Substring in Tcl
 ---
 
 <!--

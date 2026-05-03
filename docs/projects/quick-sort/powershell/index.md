@@ -9,6 +9,8 @@ tags:
 - powershell
 - quick-sort
 title: Quick Sort in PowerShell
+title1: Quick Sort in
+title2: PowerShell
 ---
 
 <!--

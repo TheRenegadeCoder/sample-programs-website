@@ -9,6 +9,8 @@ tags:
 - file-input-output
 - odin
 title: File Input Output in Odin
+title1: File Input
+title2: Output in Odin
 ---
 
 <!--

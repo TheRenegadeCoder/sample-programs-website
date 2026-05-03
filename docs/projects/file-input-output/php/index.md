@@ -11,6 +11,8 @@ tags:
 - file-input-output
 - php
 title: File Input Output in PHP
+title1: File Input
+title2: Output in PHP
 ---
 
 <!--

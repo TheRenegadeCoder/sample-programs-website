@@ -9,6 +9,8 @@ tags:
 - rust
 - transpose-matrix
 title: Transpose Matrix in Rust
+title1: Transpose
+title2: Matrix in Rust
 ---
 
 <!--

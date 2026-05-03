@@ -10,6 +10,8 @@ tags:
 - baklava
 - go
 title: Baklava in Go
+title1: Baklava
+title2: in Go
 ---
 
 <!--

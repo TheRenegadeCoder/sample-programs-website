@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - gravity
 title: Fizz Buzz in Gravity
+title1: Fizz Buzz
+title2: in Gravity
 ---
 
 <!--

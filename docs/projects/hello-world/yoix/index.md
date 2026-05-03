@@ -9,6 +9,8 @@ tags:
 - hello-world
 - yoix
 title: Hello World in Yoix
+title1: Hello World
+title2: in Yoix
 ---
 
 <!--

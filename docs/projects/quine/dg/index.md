@@ -9,6 +9,8 @@ tags:
 - dg
 - quine
 title: Quine in Dg
+title1: Quine
+title2: in Dg
 ---
 
 <!--

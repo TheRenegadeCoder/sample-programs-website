@@ -9,6 +9,8 @@ tags:
 - longest-palindromic-substring
 - m4
 title: Longest Palindromic Substring in m4
+title1: Longest Palindromic
+title2: Substring in m4
 ---
 
 <!--

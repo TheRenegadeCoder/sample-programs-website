@@ -11,6 +11,8 @@ tags:
 - goby
 - hello-world
 title: Hello World in Goby
+title1: Hello World
+title2: in Goby
 ---
 
 <!--

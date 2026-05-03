@@ -9,6 +9,8 @@ layout: default
 tags:
 - bash
 title: The Bash Programming Language
+title1: The Bash Programming
+title2: Language
 ---
 
 <!--

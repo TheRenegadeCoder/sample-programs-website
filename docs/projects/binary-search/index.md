@@ -6,6 +6,8 @@ layout: default
 tags:
 - binary-search
 title: Binary Search
+title1: Binary
+title2: Search
 ---
 
 <!--

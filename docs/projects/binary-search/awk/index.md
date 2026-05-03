@@ -9,6 +9,8 @@ tags:
 - awk
 - binary-search
 title: Binary Search in AWK
+title1: Binary Search
+title2: in AWK
 ---
 
 <!--

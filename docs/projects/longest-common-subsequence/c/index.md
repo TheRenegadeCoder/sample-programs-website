@@ -1,7 +1,7 @@
 ---
 authors:
 - LezendarySandwich
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2019-10-20
 featured-image: longest-common-subsequence-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - c
 - longest-common-subsequence
 title: Longest Common Subsequence in C
+title1: Longest Common
+title2: Subsequence in C
 ---
 
 <!--

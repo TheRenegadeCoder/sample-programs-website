@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-22
 featured-image: file-input-output-in-every-language.jpg
 last-modified: 2025-07-22
@@ -9,6 +9,8 @@ tags:
 - file-input-output
 - pascal
 title: File Input Output in Pascal
+title1: File Input
+title2: Output in Pascal
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - longest-word
 title: Longest Word in C#
+title1: Longest
+title2: Word in C#
 ---
 
 <!--

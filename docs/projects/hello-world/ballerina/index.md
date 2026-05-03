@@ -10,6 +10,8 @@ tags:
 - ballerina
 - hello-world
 title: Hello World in Ballerina
+title1: Hello World
+title2: in Ballerina
 ---
 
 <!--

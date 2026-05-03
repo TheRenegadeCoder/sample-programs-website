@@ -6,6 +6,8 @@ layout: default
 tags:
 - flix
 title: The Flix Programming Language
+title1: The Flix Programming
+title2: Language
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - linear-search
 - lua
 title: Linear Search in Lua
+title1: Linear Search
+title2: in Lua
 ---
 
 <!--

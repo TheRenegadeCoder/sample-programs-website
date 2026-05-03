@@ -9,6 +9,8 @@ tags:
 - golo
 - hello-world
 title: Hello World in Golo
+title1: Hello World
+title2: in Golo
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - fizz-buzz
 title: Fizz Buzz in Commodore BASIC
+title1: Fizz Buzz in
+title2: Commodore BASIC
 ---
 
 <!--

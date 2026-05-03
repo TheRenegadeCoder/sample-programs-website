@@ -9,6 +9,8 @@ tags:
 - beef
 - capitalize
 title: Capitalize in Beef
+title1: Capitalize
+title2: in Beef
 ---
 
 <!--

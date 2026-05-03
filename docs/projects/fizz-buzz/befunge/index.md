@@ -12,6 +12,8 @@ tags:
 - befunge
 - fizz-buzz
 title: Fizz Buzz in Befunge
+title1: Fizz Buzz
+title2: in Befunge
 ---
 
 <!--

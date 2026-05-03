@@ -6,6 +6,8 @@ layout: default
 tags:
 - ocaml
 title: The OCaml Programming Language
+title1: The OCaml Programming
+title2: Language
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - perl
 - quick-sort
 title: Quick Sort in Perl
+title1: Quick Sort
+title2: in Perl
 ---
 
 <!--

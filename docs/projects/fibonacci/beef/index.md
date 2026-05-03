@@ -9,6 +9,8 @@ tags:
 - beef
 - fibonacci
 title: Fibonacci in Beef
+title1: Fibonacci
+title2: in Beef
 ---
 
 <!--

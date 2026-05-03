@@ -9,6 +9,8 @@ tags:
 - julia
 - remove-all-whitespace
 title: Remove All Whitespace in Julia
+title1: Remove All
+title2: Whitespace in Julia
 ---
 
 <!--

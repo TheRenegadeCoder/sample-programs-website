@@ -2,7 +2,7 @@
 authors:
 - niftycode
 - rzuckerm
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2020-10-04
 featured-image: quick-sort-in-every-language.jpg
 last-modified: 2026-04-30
@@ -11,6 +11,8 @@ tags:
 - objective-c
 - quick-sort
 title: Quick Sort in Objective-C
+title1: Quick Sort in
+title2: Objective-C
 ---
 
 <!--

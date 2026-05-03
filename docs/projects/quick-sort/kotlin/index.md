@@ -11,6 +11,8 @@ tags:
 - kotlin
 - quick-sort
 title: Quick Sort in Kotlin
+title1: Quick Sort
+title2: in Kotlin
 ---
 
 <!--

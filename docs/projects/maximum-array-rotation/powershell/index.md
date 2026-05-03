@@ -9,6 +9,8 @@ tags:
 - maximum-array-rotation
 - powershell
 title: Maximum Array Rotation in PowerShell
+title1: Maximum Array Rotation
+title2: in PowerShell
 ---
 
 <!--

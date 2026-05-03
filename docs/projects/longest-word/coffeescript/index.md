@@ -9,6 +9,8 @@ tags:
 - coffeescript
 - longest-word
 title: Longest Word in CoffeeScript
+title1: Longest Word in
+title2: CoffeeScript
 ---
 
 <!--

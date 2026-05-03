@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-09
 featured-image: selection-sort-in-every-language.jpg
 last-modified: 2025-10-09
@@ -9,6 +9,8 @@ tags:
 - selection-sort
 - tcl
 title: Selection Sort in Tcl
+title1: Selection
+title2: Sort in Tcl
 ---
 
 <!--

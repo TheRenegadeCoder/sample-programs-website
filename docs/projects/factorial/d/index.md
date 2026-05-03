@@ -10,6 +10,8 @@ tags:
 - d
 - factorial
 title: Factorial in D
+title1: Factorial
+title2: in D
 ---
 
 <!--

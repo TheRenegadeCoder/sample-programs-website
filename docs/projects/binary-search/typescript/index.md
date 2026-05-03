@@ -9,6 +9,8 @@ tags:
 - binary-search
 - typescript
 title: Binary Search in TypeScript
+title1: Binary Search
+title2: in TypeScript
 ---
 
 <!--

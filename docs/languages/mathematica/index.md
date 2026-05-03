@@ -6,6 +6,8 @@ layout: default
 tags:
 - mathematica
 title: The Mathematica Programming Language
+title1: The Mathematica
+title2: Programming Language
 ---
 
 <!--

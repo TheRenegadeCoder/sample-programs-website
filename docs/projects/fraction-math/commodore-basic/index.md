@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - fraction-math
 title: Fraction Math in Commodore BASIC
+title1: Fraction Math in
+title2: Commodore BASIC
 ---
 
 <!--

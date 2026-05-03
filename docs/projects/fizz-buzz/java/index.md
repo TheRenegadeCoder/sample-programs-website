@@ -12,6 +12,8 @@ tags:
 - fizz-buzz
 - java
 title: Fizz Buzz in Java
+title1: Fizz Buzz
+title2: in Java
 ---
 
 <!--

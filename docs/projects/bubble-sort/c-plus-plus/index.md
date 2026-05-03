@@ -2,7 +2,7 @@
 authors:
 - Jayden Thrasher
 - Jeremy Grifski
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2019-10-02
 featured-image: bubble-sort-in-every-language.jpg
 last-modified: 2026-04-15
@@ -11,6 +11,8 @@ tags:
 - bubble-sort
 - c-plus-plus
 title: Bubble Sort in C++
+title1: Bubble Sort
+title2: in C++
 ---
 
 <!--

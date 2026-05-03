@@ -10,6 +10,8 @@ layout: default
 tags:
 - scheme
 title: The Scheme Programming Language
+title1: The Scheme
+title2: Programming Language
 ---
 
 <!--

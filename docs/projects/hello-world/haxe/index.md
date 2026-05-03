@@ -9,6 +9,8 @@ tags:
 - haxe
 - hello-world
 title: Hello World in Haxe
+title1: Hello World
+title2: in Haxe
 ---
 
 <!--

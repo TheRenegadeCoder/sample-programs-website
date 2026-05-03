@@ -9,6 +9,8 @@ tags:
 - awk
 - factorial
 title: Factorial in AWK
+title1: Factorial
+title2: in AWK
 ---
 
 <!--

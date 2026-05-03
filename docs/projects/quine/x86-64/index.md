@@ -9,6 +9,8 @@ tags:
 - quine
 - x86-64
 title: Quine in x86-64
+title1: Quine in
+title2: x86-64
 ---
 
 <!--

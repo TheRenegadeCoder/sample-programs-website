@@ -9,6 +9,8 @@ tags:
 - hello-world
 - ocaml
 title: Hello World in OCaml
+title1: Hello World
+title2: in OCaml
 ---
 
 <!--

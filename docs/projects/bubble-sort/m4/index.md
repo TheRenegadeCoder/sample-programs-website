@@ -9,6 +9,8 @@ tags:
 - bubble-sort
 - m4
 title: Bubble Sort in m4
+title1: Bubble
+title2: Sort in m4
 ---
 
 <!--

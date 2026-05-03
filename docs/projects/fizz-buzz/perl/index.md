@@ -10,6 +10,8 @@ tags:
 - fizz-buzz
 - perl
 title: Fizz Buzz in Perl
+title1: Fizz Buzz
+title2: in Perl
 ---
 
 <!--

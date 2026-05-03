@@ -9,6 +9,8 @@ tags:
 - go
 - selection-sort
 title: Selection Sort in Go
+title1: Selection
+title2: Sort in Go
 ---
 
 <!--

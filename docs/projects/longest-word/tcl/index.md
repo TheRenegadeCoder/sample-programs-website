@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-09
 featured-image: longest-word-in-every-language.jpg
 last-modified: 2025-10-09
@@ -9,6 +9,8 @@ tags:
 - longest-word
 - tcl
 title: Longest Word in Tcl
+title1: Longest
+title2: Word in Tcl
 ---
 
 <!--

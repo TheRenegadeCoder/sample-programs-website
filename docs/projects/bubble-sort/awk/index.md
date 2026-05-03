@@ -9,6 +9,8 @@ tags:
 - awk
 - bubble-sort
 title: Bubble Sort in AWK
+title1: Bubble Sort
+title2: in AWK
 ---
 
 <!--

@@ -10,6 +10,8 @@ tags:
 - even-odd
 - rust
 title: Even Odd in Rust
+title1: Even Odd
+title2: in Rust
 ---
 
 <!--

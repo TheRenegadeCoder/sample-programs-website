@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-24
 featured-image: zeckendorf-in-every-language.png
 last-modified: 2026-04-24
@@ -9,6 +9,8 @@ tags:
 - javascript
 - zeckendorf
 title: Zeckendorf in JavaScript
+title1: Zeckendorf in
+title2: JavaScript
 ---
 
 <!--

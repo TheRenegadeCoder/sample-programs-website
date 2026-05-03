@@ -6,6 +6,8 @@ layout: default
 tags:
 - f-sharp
 title: The F# Programming Language
+title1: The F# Programming
+title2: Language
 ---
 
 <!--

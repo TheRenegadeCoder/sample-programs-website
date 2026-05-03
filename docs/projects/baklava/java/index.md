@@ -10,6 +10,8 @@ tags:
 - baklava
 - java
 title: Baklava in Java
+title1: Baklava
+title2: in Java
 ---
 
 <!--

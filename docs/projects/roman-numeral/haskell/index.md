@@ -9,6 +9,8 @@ tags:
 - haskell
 - roman-numeral
 title: Roman Numeral in Haskell
+title1: Roman Numeral
+title2: in Haskell
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - hello-world
 - livescript
 title: Hello World in LiveScript
+title1: Hello World
+title2: in LiveScript
 ---
 
 <!--

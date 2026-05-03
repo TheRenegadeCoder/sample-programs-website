@@ -9,6 +9,8 @@ tags:
 - elvish
 - file-input-output
 title: File Input Output in Elvish
+title1: File Input
+title2: Output in Elvish
 ---
 
 <!--

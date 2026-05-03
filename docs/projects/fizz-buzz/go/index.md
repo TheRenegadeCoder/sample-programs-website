@@ -10,6 +10,8 @@ tags:
 - fizz-buzz
 - go
 title: Fizz Buzz in Go
+title1: Fizz Buzz
+title2: in Go
 ---
 
 <!--

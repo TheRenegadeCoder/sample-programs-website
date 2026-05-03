@@ -10,6 +10,8 @@ tags:
 - java
 - quick-sort
 title: Quick Sort in Java
+title1: Quick Sort
+title2: in Java
 ---
 
 <!--

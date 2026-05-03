@@ -9,6 +9,8 @@ tags:
 - perl
 - quine
 title: Quine in Perl
+title1: Quine
+title2: in Perl
 ---
 
 <!--

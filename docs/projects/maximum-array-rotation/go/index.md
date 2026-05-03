@@ -9,6 +9,8 @@ tags:
 - go
 - maximum-array-rotation
 title: Maximum Array Rotation in Go
+title1: Maximum Array
+title2: Rotation in Go
 ---
 
 <!--

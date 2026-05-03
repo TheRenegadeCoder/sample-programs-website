@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-09
 featured-image: rot13-in-every-language.jpg
 last-modified: 2025-10-09
@@ -9,6 +9,8 @@ tags:
 - rot13
 - tcl
 title: Rot13 in Tcl
+title1: Rot13
+title2: in Tcl
 ---
 
 <!--

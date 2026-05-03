@@ -6,6 +6,8 @@ layout: default
 tags:
 - convex-hull
 title: Convex Hull
+title1: Convex
+title2: Hull
 ---
 
 <!--

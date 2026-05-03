@@ -6,6 +6,8 @@ layout: default
 tags:
 - carp
 title: The Carp Programming Language
+title1: The Carp Programming
+title2: Language
 ---
 
 <!--

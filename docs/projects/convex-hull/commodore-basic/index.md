@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - convex-hull
 title: Convex Hull in Commodore BASIC
+title1: Convex Hull in
+title2: Commodore BASIC
 ---
 
 <!--

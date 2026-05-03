@@ -6,6 +6,8 @@ layout: default
 tags:
 - cyclone
 title: The Cyclone Programming Language
+title1: The Cyclone
+title2: Programming Language
 ---
 
 <!--

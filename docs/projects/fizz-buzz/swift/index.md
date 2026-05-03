@@ -11,6 +11,8 @@ tags:
 - fizz-buzz
 - swift
 title: Fizz Buzz in Swift
+title1: Fizz Buzz
+title2: in Swift
 ---
 
 <!--

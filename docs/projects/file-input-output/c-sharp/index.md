@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - file-input-output
 title: File Input Output in C#
+title1: File Input
+title2: Output in C#
 ---
 
 <!--

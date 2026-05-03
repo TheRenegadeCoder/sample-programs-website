@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-07
 featured-image: capitalize-in-every-language.jpg
 last-modified: 2025-10-07
@@ -9,6 +9,8 @@ tags:
 - capitalize
 - tcl
 title: Capitalize in Tcl
+title1: Capitalize
+title2: in Tcl
 ---
 
 <!--

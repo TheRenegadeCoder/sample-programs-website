@@ -6,6 +6,8 @@ layout: default
 tags:
 - dg
 title: The Dg Programming Language
+title1: The Dg Programming
+title2: Language
 ---
 
 <!--

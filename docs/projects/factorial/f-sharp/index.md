@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-08
 featured-image: factorial-in-every-language.jpg
 last-modified: 2026-04-08
@@ -9,6 +9,8 @@ tags:
 - f-sharp
 - factorial
 title: Factorial in F#
+title1: Factorial
+title2: in F#
 ---
 
 <!--

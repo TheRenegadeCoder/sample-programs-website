@@ -12,6 +12,8 @@ tags:
 - merge-sort
 - php
 title: Merge Sort in PHP
+title1: Merge Sort
+title2: in PHP
 ---
 
 <!--

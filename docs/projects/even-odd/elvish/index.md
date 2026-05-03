@@ -9,6 +9,8 @@ tags:
 - elvish
 - even-odd
 title: Even Odd in Elvish
+title1: Even Odd
+title2: in Elvish
 ---
 
 <!--

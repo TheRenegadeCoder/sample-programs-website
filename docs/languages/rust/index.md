@@ -10,6 +10,8 @@ layout: default
 tags:
 - rust
 title: The Rust Programming Language
+title1: The Rust Programming
+title2: Language
 ---
 
 <!--

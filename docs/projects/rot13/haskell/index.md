@@ -9,6 +9,8 @@ tags:
 - haskell
 - rot13
 title: Rot13 in Haskell
+title1: Rot13 in
+title2: Haskell
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - algol60
 - fizz-buzz
 title: Fizz Buzz in ALGOL 60
+title1: Fizz Buzz
+title2: in ALGOL 60
 ---
 
 <!--

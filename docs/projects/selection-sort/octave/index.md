@@ -9,6 +9,8 @@ tags:
 - octave
 - selection-sort
 title: Selection Sort in Octave
+title1: Selection Sort
+title2: in Octave
 ---
 
 <!--

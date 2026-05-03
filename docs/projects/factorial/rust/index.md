@@ -10,6 +10,8 @@ tags:
 - factorial
 - rust
 title: Factorial in Rust
+title1: Factorial
+title2: in Rust
 ---
 
 <!--

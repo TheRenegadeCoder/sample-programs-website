@@ -9,6 +9,8 @@ tags:
 - brainfuck
 - longest-word
 title: Longest Word in Brainfuck
+title1: Longest Word
+title2: in Brainfuck
 ---
 
 <!--

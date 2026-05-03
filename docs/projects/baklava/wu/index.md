@@ -9,6 +9,8 @@ tags:
 - baklava
 - wu
 title: Baklava in Wu
+title1: Baklava
+title2: in Wu
 ---
 
 <!--

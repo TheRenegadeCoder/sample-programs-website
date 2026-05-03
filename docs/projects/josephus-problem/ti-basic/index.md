@@ -9,6 +9,8 @@ tags:
 - josephus-problem
 - ti-basic
 title: Josephus Problem in TI-BASIC
+title1: Josephus Problem
+title2: in TI-BASIC
 ---
 
 <!--

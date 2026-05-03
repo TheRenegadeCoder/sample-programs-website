@@ -12,6 +12,8 @@ tags:
 - bubble-sort
 - python
 title: Bubble Sort in Python
+title1: Bubble Sort
+title2: in Python
 ---
 
 <!--

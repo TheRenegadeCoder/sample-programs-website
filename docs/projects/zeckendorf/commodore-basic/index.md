@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - zeckendorf
 title: Zeckendorf in Commodore BASIC
+title1: Zeckendorf in
+title2: Commodore BASIC
 ---
 
 <!--

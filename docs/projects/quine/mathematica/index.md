@@ -9,6 +9,8 @@ tags:
 - mathematica
 - quine
 title: Quine in Mathematica
+title1: Quine in
+title2: Mathematica
 ---
 
 <!--

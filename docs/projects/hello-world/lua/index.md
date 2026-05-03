@@ -11,6 +11,8 @@ tags:
 - hello-world
 - lua
 title: Hello World in Lua
+title1: Hello World
+title2: in Lua
 ---
 
 <!--

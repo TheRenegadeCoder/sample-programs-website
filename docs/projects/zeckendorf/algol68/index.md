@@ -9,6 +9,8 @@ tags:
 - algol68
 - zeckendorf
 title: Zeckendorf in ALGOL 68
+title1: Zeckendorf
+title2: in ALGOL 68
 ---
 
 <!--

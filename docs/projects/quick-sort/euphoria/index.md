@@ -9,6 +9,8 @@ tags:
 - euphoria
 - quick-sort
 title: Quick Sort in Euphoria
+title1: Quick Sort
+title2: in Euphoria
 ---
 
 <!--

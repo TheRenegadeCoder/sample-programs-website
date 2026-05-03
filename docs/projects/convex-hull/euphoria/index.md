@@ -9,6 +9,8 @@ tags:
 - convex-hull
 - euphoria
 title: Convex Hull in Euphoria
+title1: Convex Hull
+title2: in Euphoria
 ---
 
 <!--

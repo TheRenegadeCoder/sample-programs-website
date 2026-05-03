@@ -11,6 +11,8 @@ tags:
 - hello-world
 - wren
 title: Hello World in Wren
+title1: Hello World
+title2: in Wren
 ---
 
 <!--

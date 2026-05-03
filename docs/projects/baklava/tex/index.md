@@ -9,6 +9,8 @@ tags:
 - baklava
 - tex
 title: Baklava in TeX
+title1: Baklava
+title2: in TeX
 ---
 
 <!--

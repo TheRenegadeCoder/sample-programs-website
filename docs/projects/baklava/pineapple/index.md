@@ -9,6 +9,8 @@ tags:
 - baklava
 - pineapple
 title: Baklava in Pineapple
+title1: Baklava in
+title2: Pineapple
 ---
 
 <!--

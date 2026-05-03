@@ -9,6 +9,8 @@ tags:
 - algol60
 - reverse-string
 title: Reverse String in ALGOL 60
+title1: Reverse String
+title2: in ALGOL 60
 ---
 
 <!--

@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-24
 featured-image: rot13-in-every-language.jpg
 last-modified: 2026-04-24
@@ -9,6 +9,8 @@ tags:
 - cobol
 - rot13
 title: Rot13 in COBOL
+title1: Rot13 in
+title2: COBOL
 ---
 
 <!--

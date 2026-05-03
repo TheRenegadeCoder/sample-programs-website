@@ -9,6 +9,8 @@ tags:
 - beef
 - quine
 title: Quine in Beef
+title1: Quine
+title2: in Beef
 ---
 
 <!--

@@ -6,6 +6,8 @@ layout: default
 tags:
 - owl-lisp
 title: The Owl Lisp Programming Language
+title1: The Owl Lisp
+title2: Programming Language
 ---
 
 <!--

@@ -9,6 +9,8 @@ layout: default
 tags:
 - hack
 title: The Hack Programming Language
+title1: The Hack Programming
+title2: Language
 ---
 
 <!--

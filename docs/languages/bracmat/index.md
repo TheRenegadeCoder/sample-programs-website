@@ -6,6 +6,8 @@ layout: default
 tags:
 - bracmat
 title: The Bracmat Programming Language
+title1: The Bracmat
+title2: Programming Language
 ---
 
 <!--

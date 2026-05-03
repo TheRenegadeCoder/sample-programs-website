@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - insertion-sort
 title: Insertion Sort in C#
+title1: Insertion
+title2: Sort in C#
 ---
 
 <!--

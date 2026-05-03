@@ -4,7 +4,7 @@ authors:
 - Matias
 - rzuckerm
 - shubhragupta-code
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2019-10-15
 featured-image: prime-number-in-every-language.jpg
 last-modified: 2026-04-15
@@ -13,6 +13,8 @@ tags:
 - c
 - prime-number
 title: Prime Number in C
+title1: Prime
+title2: Number in C
 ---
 
 <!--

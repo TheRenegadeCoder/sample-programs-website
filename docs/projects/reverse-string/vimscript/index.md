@@ -1,6 +1,6 @@
 ---
 authors:
-- "Christoph B\xF6hmwalder"
+- Christoph Böhmwalder
 - rzuckerm
 date: 2018-08-27
 featured-image: reverse-string-in-every-language.jpg
@@ -10,6 +10,8 @@ tags:
 - reverse-string
 - vimscript
 title: Reverse String in Vimscript
+title1: Reverse String
+title2: in Vimscript
 ---
 
 <!--

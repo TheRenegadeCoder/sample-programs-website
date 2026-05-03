@@ -11,6 +11,8 @@ tags:
 - bubble-sort
 - php
 title: Bubble Sort in PHP
+title1: Bubble Sort
+title2: in PHP
 ---
 
 <!--

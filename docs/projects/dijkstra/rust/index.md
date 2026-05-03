@@ -9,6 +9,8 @@ tags:
 - dijkstra
 - rust
 title: Dijkstra in Rust
+title1: Dijkstra
+title2: in Rust
 ---
 
 <!--

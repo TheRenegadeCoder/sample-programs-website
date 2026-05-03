@@ -6,6 +6,8 @@ layout: default
 tags:
 - orc
 title: The Orc Programming Language
+title1: The Orc Programming
+title2: Language
 ---
 
 <!--

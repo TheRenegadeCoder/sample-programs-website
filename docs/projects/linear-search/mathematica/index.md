@@ -9,6 +9,8 @@ tags:
 - linear-search
 - mathematica
 title: Linear Search in Mathematica
+title1: Linear Search
+title2: in Mathematica
 ---
 
 <!--

@@ -1,7 +1,7 @@
 ---
 authors:
 - Bharath
-- "Gabriela Kandov\xE1"
+- Gabriela Kandová
 date: 2019-10-14
 featured-image: factorial-in-every-language.jpg
 last-modified: 2019-10-16
@@ -10,6 +10,8 @@ tags:
 - factorial
 - perl
 title: Factorial in Perl
+title1: Factorial
+title2: in Perl
 ---
 
 <!--

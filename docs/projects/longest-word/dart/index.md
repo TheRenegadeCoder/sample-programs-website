@@ -9,6 +9,8 @@ tags:
 - dart
 - longest-word
 title: Longest Word in Dart
+title1: Longest Word
+title2: in Dart
 ---
 
 <!--

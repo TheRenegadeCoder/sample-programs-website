@@ -10,6 +10,8 @@ tags:
 - palindromic-number
 - pascal
 title: Palindromic Number in Pascal
+title1: Palindromic
+title2: Number in Pascal
 ---
 
 <!--

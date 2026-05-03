@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - insertion-sort
 title: Insertion Sort in Commodore BASIC
+title1: Insertion Sort in
+title2: Commodore BASIC
 ---
 
 <!--

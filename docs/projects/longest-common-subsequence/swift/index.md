@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-05-03
 featured-image: longest-common-subsequence-in-every-language.jpg
 last-modified: 2026-05-03
@@ -9,6 +9,8 @@ tags:
 - longest-common-subsequence
 - swift
 title: Longest Common Subsequence in Swift
+title1: Longest Common
+title2: Subsequence in Swift
 ---
 
 <!--

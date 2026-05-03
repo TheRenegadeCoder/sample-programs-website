@@ -9,6 +9,8 @@ tags:
 - factorial
 - julia
 title: Factorial in Julia
+title1: Factorial
+title2: in Julia
 ---
 
 <!--

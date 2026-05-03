@@ -11,6 +11,8 @@ tags:
 - d
 - hello-world
 title: Hello World in D
+title1: Hello World
+title2: in D
 ---
 
 <!--

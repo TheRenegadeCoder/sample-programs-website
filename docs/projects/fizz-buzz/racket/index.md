@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - racket
 title: Fizz Buzz in Racket
+title1: Fizz Buzz
+title2: in Racket
 ---
 
 <!--

@@ -6,6 +6,8 @@ layout: default
 tags:
 - yoix
 title: The Yoix Programming Language
+title1: The Yoix Programming
+title2: Language
 ---
 
 <!--

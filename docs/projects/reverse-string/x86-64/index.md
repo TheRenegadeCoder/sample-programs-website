@@ -9,6 +9,8 @@ tags:
 - reverse-string
 - x86-64
 title: Reverse String in x86-64
+title1: Reverse String
+title2: in x86-64
 ---
 
 <!--

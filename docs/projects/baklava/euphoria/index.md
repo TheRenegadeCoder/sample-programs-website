@@ -9,6 +9,8 @@ tags:
 - baklava
 - euphoria
 title: Baklava in Euphoria
+title1: Baklava in
+title2: Euphoria
 ---
 
 <!--

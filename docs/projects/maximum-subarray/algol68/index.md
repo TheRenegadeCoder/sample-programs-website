@@ -9,6 +9,8 @@ tags:
 - algol68
 - maximum-subarray
 title: Maximum Subarray in ALGOL 68
+title1: Maximum Subarray
+title2: in ALGOL 68
 ---
 
 <!--

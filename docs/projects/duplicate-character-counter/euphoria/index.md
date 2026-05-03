@@ -9,6 +9,8 @@ tags:
 - duplicate-character-counter
 - euphoria
 title: Duplicate Character Counter in Euphoria
+title1: Duplicate Character
+title2: Counter in Euphoria
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - euphoria
 - merge-sort
 title: Merge Sort in Euphoria
+title1: Merge Sort
+title2: in Euphoria
 ---
 
 <!--

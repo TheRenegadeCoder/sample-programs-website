@@ -1,6 +1,6 @@
 ---
 authors:
-- "Gabriela Kandov\xE1"
+- Gabriela Kandová
 - Jeremy Grifski
 date: 2019-10-17
 featured-image: capitalize-in-every-language.jpg
@@ -10,6 +10,8 @@ tags:
 - capitalize
 - perl
 title: Capitalize in Perl
+title1: Capitalize
+title2: in Perl
 ---
 
 <!--

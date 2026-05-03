@@ -9,6 +9,8 @@ tags:
 - go
 - merge-sort
 title: Merge Sort in Go
+title1: Merge Sort
+title2: in Go
 ---
 
 <!--

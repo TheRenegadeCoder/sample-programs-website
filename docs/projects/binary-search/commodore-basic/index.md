@@ -9,6 +9,8 @@ tags:
 - binary-search
 - commodore-basic
 title: Binary Search in Commodore BASIC
+title1: Binary Search in
+title2: Commodore BASIC
 ---
 
 <!--

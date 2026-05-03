@@ -11,6 +11,8 @@ tags:
 - kotlin
 - merge-sort
 title: Merge Sort in Kotlin
+title1: Merge Sort
+title2: in Kotlin
 ---
 
 <!--

@@ -6,6 +6,8 @@ layout: default
 tags:
 - palindromic-number
 title: Palindromic Number
+title1: Palindromic
+title2: Number
 ---
 
 <!--

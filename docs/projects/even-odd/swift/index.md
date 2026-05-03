@@ -9,6 +9,8 @@ tags:
 - even-odd
 - swift
 title: Even Odd in Swift
+title1: Even Odd
+title2: in Swift
 ---
 
 <!--

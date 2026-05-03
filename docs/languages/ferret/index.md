@@ -6,6 +6,8 @@ layout: default
 tags:
 - ferret
 title: The Ferret Programming Language
+title1: The Ferret
+title2: Programming Language
 ---
 
 <!--

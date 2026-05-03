@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-08
 featured-image: even-odd-in-every-language.jpg
 last-modified: 2025-10-08
@@ -9,6 +9,8 @@ tags:
 - even-odd
 - tcl
 title: Even Odd in Tcl
+title1: Even Odd
+title2: in Tcl
 ---
 
 <!--

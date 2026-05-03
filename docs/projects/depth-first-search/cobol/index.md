@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-05-01
 featured-image: depth-first-search-in-every-language.jpg
 last-modified: 2026-05-01
@@ -9,6 +9,8 @@ tags:
 - cobol
 - depth-first-search
 title: Depth First Search in COBOL
+title1: Depth First
+title2: Search in COBOL
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - lolcode
 title: Fizz Buzz in LOLCODE
+title1: Fizz Buzz
+title2: in LOLCODE
 ---
 
 <!--

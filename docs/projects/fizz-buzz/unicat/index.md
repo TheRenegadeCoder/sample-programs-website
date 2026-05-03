@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - unicat
 title: Fizz Buzz in Unicat
+title1: Fizz Buzz
+title2: in Unicat
 ---
 
 <!--

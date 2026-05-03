@@ -9,6 +9,8 @@ tags:
 - euphoria
 - fizz-buzz
 title: Fizz Buzz in Euphoria
+title1: Fizz Buzz
+title2: in Euphoria
 ---
 
 <!--

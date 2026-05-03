@@ -9,6 +9,8 @@ layout: default
 tags:
 - pascal
 title: The Pascal Programming Language
+title1: The Pascal
+title2: Programming Language
 ---
 
 <!--

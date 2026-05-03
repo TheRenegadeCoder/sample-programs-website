@@ -6,6 +6,8 @@ layout: default
 tags:
 - base64-encode-decode
 title: Base64 Encode Decode
+title1: Base64 Encode
+title2: Decode
 ---
 
 <!--

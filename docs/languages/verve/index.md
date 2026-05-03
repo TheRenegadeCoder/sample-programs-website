@@ -6,6 +6,8 @@ layout: default
 tags:
 - verve
 title: The Verve Programming Language
+title1: The Verve Programming
+title2: Language
 ---
 
 <!--

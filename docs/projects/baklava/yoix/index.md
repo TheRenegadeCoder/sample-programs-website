@@ -9,6 +9,8 @@ tags:
 - baklava
 - yoix
 title: Baklava in Yoix
+title1: Baklava
+title2: in Yoix
 ---
 
 <!--

@@ -6,6 +6,8 @@ layout: default
 tags:
 - josephus-problem
 title: Josephus Problem
+title1: Josephus
+title2: Problem
 ---
 
 <!--

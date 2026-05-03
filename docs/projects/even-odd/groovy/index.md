@@ -9,6 +9,8 @@ tags:
 - even-odd
 - groovy
 title: Even Odd in Groovy
+title1: Even Odd
+title2: in Groovy
 ---
 
 <!--

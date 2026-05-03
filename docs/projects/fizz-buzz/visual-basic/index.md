@@ -10,6 +10,8 @@ tags:
 - fizz-buzz
 - visual-basic
 title: Fizz Buzz in Visual Basic
+title1: Fizz Buzz in
+title2: Visual Basic
 ---
 
 <!--

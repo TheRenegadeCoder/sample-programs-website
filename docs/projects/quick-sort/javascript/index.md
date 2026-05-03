@@ -11,6 +11,8 @@ tags:
 - javascript
 - quick-sort
 title: Quick Sort in JavaScript
+title1: Quick Sort in
+title2: JavaScript
 ---
 
 <!--

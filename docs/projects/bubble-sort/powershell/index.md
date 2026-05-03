@@ -9,6 +9,8 @@ tags:
 - bubble-sort
 - powershell
 title: Bubble Sort in PowerShell
+title1: Bubble Sort
+title2: in PowerShell
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - euphoria
 - insertion-sort
 title: Insertion Sort in Euphoria
+title1: Insertion Sort
+title2: in Euphoria
 ---
 
 <!--

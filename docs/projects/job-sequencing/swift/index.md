@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-05-03
 featured-image: job-sequencing-in-every-language.jpg
 last-modified: 2026-05-03
@@ -9,6 +9,8 @@ tags:
 - job-sequencing
 - swift
 title: Job Sequencing in Swift
+title1: Job Sequencing
+title2: in Swift
 ---
 
 <!--

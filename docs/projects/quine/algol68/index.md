@@ -9,6 +9,8 @@ tags:
 - algol68
 - quine
 title: Quine in ALGOL 68
+title1: Quine in
+title2: ALGOL 68
 ---
 
 <!--

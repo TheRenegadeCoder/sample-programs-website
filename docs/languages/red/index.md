@@ -10,6 +10,8 @@ layout: default
 tags:
 - red
 title: The Red Programming Language
+title1: The Red Programming
+title2: Language
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - even-odd
 - haskell
 title: Even Odd in Haskell
+title1: Even Odd
+title2: in Haskell
 ---
 
 <!--

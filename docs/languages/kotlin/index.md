@@ -9,6 +9,8 @@ layout: default
 tags:
 - kotlin
 title: The Kotlin Programming Language
+title1: The Kotlin
+title2: Programming Language
 ---
 
 <!--

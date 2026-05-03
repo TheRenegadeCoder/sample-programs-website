@@ -9,6 +9,8 @@ tags:
 - euphoria
 - minimum-spanning-tree
 title: Minimum Spanning Tree in Euphoria
+title1: Minimum Spanning
+title2: Tree in Euphoria
 ---
 
 <!--

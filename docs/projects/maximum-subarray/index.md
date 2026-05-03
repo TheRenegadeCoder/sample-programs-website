@@ -6,6 +6,8 @@ layout: default
 tags:
 - maximum-subarray
 title: Maximum Subarray
+title1: Maximum
+title2: Subarray
 ---
 
 <!--

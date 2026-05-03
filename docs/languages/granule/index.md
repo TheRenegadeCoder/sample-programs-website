@@ -6,6 +6,8 @@ layout: default
 tags:
 - granule
 title: The Granule Programming Language
+title1: The Granule
+title2: Programming Language
 ---
 
 <!--

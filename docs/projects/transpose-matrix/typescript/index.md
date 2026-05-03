@@ -9,6 +9,8 @@ tags:
 - transpose-matrix
 - typescript
 title: Transpose Matrix in TypeScript
+title1: Transpose Matrix
+title2: in TypeScript
 ---
 
 <!--

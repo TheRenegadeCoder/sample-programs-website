@@ -13,6 +13,8 @@ tags:
 - fibonacci
 - python
 title: Fibonacci in Python
+title1: Fibonacci
+title2: in Python
 ---
 
 <!--

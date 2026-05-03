@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-06
 featured-image: capitalize-in-every-language.jpg
 last-modified: 2026-04-06
@@ -9,6 +9,8 @@ tags:
 - capitalize
 - f-sharp
 title: Capitalize in F#
+title1: Capitalize
+title2: in F#
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - depth-first-search
 - php
 title: Depth First Search in PHP
+title1: Depth First
+title2: Search in PHP
 ---
 
 <!--

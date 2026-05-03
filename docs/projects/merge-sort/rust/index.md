@@ -10,6 +10,8 @@ tags:
 - merge-sort
 - rust
 title: Merge Sort in Rust
+title1: Merge Sort
+title2: in Rust
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - transpose-matrix
 title: Transpose Matrix in Commodore BASIC
+title1: Transpose Matrix
+title2: in Commodore BASIC
 ---
 
 <!--

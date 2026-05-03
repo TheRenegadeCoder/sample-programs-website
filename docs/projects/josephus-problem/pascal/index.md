@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-22
 featured-image: josephus-problem-in-every-language.jpg
 last-modified: 2025-07-22
@@ -9,6 +9,8 @@ tags:
 - josephus-problem
 - pascal
 title: Josephus Problem in Pascal
+title1: Josephus Problem
+title2: in Pascal
 ---
 
 <!--

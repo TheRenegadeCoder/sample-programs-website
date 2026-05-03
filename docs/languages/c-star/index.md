@@ -9,6 +9,8 @@ layout: default
 tags:
 - c-star
 title: The C* Programming Language
+title1: The C* Programming
+title2: Language
 ---
 
 <!--

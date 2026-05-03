@@ -9,6 +9,8 @@ tags:
 - baklava
 - boo
 title: Baklava in Boo
+title1: Baklava
+title2: in Boo
 ---
 
 <!--

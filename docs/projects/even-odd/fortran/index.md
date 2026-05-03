@@ -1,7 +1,7 @@
 ---
 authors:
 - Mallikarjuna S J
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2020-10-29
 featured-image: even-odd-in-every-language.jpg
 last-modified: 2025-10-15
@@ -10,6 +10,8 @@ tags:
 - even-odd
 - fortran
 title: Even Odd in Fortran
+title1: Even Odd
+title2: in Fortran
 ---
 
 <!--

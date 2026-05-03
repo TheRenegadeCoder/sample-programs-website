@@ -9,6 +9,8 @@ tags:
 - bubble-sort
 - perl
 title: Bubble Sort in Perl
+title1: Bubble Sort
+title2: in Perl
 ---
 
 <!--

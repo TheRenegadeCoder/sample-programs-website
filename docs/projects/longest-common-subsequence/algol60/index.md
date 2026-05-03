@@ -9,6 +9,8 @@ tags:
 - algol60
 - longest-common-subsequence
 title: Longest Common Subsequence in ALGOL 60
+title1: Longest Common
+title2: Subsequence in ALGOL 60
 ---
 
 <!--

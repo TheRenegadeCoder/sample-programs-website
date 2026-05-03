@@ -9,6 +9,8 @@ tags:
 - binary-search
 - javascript
 title: Binary Search in JavaScript
+title1: Binary Search
+title2: in JavaScript
 ---
 
 <!--

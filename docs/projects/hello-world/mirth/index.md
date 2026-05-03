@@ -9,6 +9,8 @@ tags:
 - hello-world
 - mirth
 title: Hello World in Mirth
+title1: Hello World
+title2: in Mirth
 ---
 
 <!--

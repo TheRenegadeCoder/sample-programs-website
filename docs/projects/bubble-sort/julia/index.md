@@ -9,6 +9,8 @@ tags:
 - bubble-sort
 - julia
 title: Bubble Sort in Julia
+title1: Bubble Sort
+title2: in Julia
 ---
 
 <!--

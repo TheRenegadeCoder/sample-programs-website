@@ -9,6 +9,8 @@ layout: default
 tags:
 - d
 title: The D Programming Language
+title1: The D Programming
+title2: Language
 ---
 
 <!--

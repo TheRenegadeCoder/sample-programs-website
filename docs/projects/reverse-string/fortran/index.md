@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-15
 featured-image: reverse-string-in-every-language.jpg
 last-modified: 2025-10-15
@@ -9,6 +9,8 @@ tags:
 - fortran
 - reverse-string
 title: Reverse String in Fortran
+title1: Reverse String
+title2: in Fortran
 ---
 
 <!--

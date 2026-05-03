@@ -9,6 +9,8 @@ tags:
 - algol60
 - roman-numeral
 title: Roman Numeral in ALGOL 60
+title1: Roman Numeral
+title2: in ALGOL 60
 ---
 
 <!--

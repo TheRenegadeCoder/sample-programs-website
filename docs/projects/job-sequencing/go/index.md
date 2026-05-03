@@ -9,6 +9,8 @@ tags:
 - go
 - job-sequencing
 title: Job Sequencing in Go
+title1: Job Sequencing
+title2: in Go
 ---
 
 <!--

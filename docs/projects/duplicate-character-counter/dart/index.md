@@ -9,6 +9,8 @@ tags:
 - dart
 - duplicate-character-counter
 title: Duplicate Character Counter in Dart
+title1: Duplicate Character
+title2: Counter in Dart
 ---
 
 <!--

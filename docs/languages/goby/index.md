@@ -8,6 +8,8 @@ layout: default
 tags:
 - goby
 title: The Goby Programming Language
+title1: The Goby Programming
+title2: Language
 ---
 
 <!--

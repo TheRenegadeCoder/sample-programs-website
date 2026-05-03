@@ -10,6 +10,8 @@ tags:
 - julia
 - reverse-string
 title: Reverse String in Julia
+title1: Reverse String
+title2: in Julia
 ---
 
 <!--

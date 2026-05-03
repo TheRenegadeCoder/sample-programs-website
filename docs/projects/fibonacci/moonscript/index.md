@@ -9,6 +9,8 @@ tags:
 - fibonacci
 - moonscript
 title: Fibonacci in MoonScript
+title1: Fibonacci in
+title2: MoonScript
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - awk
 - file-input-output
 title: File Input Output in AWK
+title1: File Input
+title2: Output in AWK
 ---
 
 <!--

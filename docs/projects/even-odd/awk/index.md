@@ -9,6 +9,8 @@ tags:
 - awk
 - even-odd
 title: Even Odd in AWK
+title1: Even Odd
+title2: in AWK
 ---
 
 <!--

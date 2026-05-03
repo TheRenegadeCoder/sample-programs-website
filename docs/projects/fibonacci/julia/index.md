@@ -10,6 +10,8 @@ tags:
 - fibonacci
 - julia
 title: Fibonacci in Julia
+title1: Fibonacci
+title2: in Julia
 ---
 
 <!--

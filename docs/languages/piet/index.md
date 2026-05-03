@@ -6,6 +6,8 @@ layout: default
 tags:
 - piet
 title: The Piet Programming Language
+title1: The Piet Programming
+title2: Language
 ---
 
 <!--

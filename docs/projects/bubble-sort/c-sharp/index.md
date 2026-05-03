@@ -9,6 +9,8 @@ tags:
 - bubble-sort
 - c-sharp
 title: Bubble Sort in C#
+title1: Bubble
+title2: Sort in C#
 ---
 
 <!--

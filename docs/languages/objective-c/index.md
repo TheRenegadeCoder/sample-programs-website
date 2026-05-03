@@ -6,6 +6,8 @@ layout: default
 tags:
 - objective-c
 title: The Objective-C Programming Language
+title1: The Objective-C
+title2: Programming Language
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - coffeescript
 - reverse-string
 title: Reverse String in CoffeeScript
+title1: Reverse String
+title2: in CoffeeScript
 ---
 
 <!--

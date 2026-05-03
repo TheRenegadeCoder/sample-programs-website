@@ -10,6 +10,8 @@ tags:
 - convex-hull
 - python
 title: Convex Hull in Python
+title1: Convex Hull
+title2: in Python
 ---
 
 <!--

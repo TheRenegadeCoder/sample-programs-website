@@ -6,6 +6,8 @@ layout: default
 tags:
 - chaiscript
 title: The ChaiScript Programming Language
+title1: The ChaiScript
+title2: Programming Language
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - duplicate-character-counter
 - typescript
 title: Duplicate Character Counter in TypeScript
+title1: Duplicate Character
+title2: Counter in TypeScript
 ---
 
 <!--

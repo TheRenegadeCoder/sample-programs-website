@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - factorial
 title: Factorial in Commodore BASIC
+title1: Factorial in
+title2: Commodore BASIC
 ---
 
 <!--

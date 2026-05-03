@@ -9,6 +9,8 @@ tags:
 - remove-all-whitespace
 - ruby
 title: Remove All Whitespace in Ruby
+title1: Remove All
+title2: Whitespace in Ruby
 ---
 
 <!--

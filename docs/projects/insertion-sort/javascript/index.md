@@ -11,6 +11,8 @@ tags:
 - insertion-sort
 - javascript
 title: Insertion Sort in JavaScript
+title1: Insertion Sort
+title2: in JavaScript
 ---
 
 <!--

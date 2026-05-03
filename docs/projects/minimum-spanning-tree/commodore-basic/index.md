@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - minimum-spanning-tree
 title: Minimum Spanning Tree in Commodore BASIC
+title1: Minimum Spanning Tree
+title2: in Commodore BASIC
 ---
 
 <!--

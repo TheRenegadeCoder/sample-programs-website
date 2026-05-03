@@ -6,6 +6,8 @@ layout: default
 tags:
 - tex
 title: The TeX Programming Language
+title1: The TeX Programming
+title2: Language
 ---
 
 <!--

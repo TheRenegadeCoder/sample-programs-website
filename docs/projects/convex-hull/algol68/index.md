@@ -9,6 +9,8 @@ tags:
 - algol68
 - convex-hull
 title: Convex Hull in ALGOL 68
+title1: Convex Hull
+title2: in ALGOL 68
 ---
 
 <!--

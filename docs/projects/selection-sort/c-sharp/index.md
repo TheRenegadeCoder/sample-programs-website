@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - selection-sort
 title: Selection Sort in C#
+title1: Selection
+title2: Sort in C#
 ---
 
 <!--

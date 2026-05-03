@@ -9,6 +9,8 @@ tags:
 - haskell
 - linear-search
 title: Linear Search in Haskell
+title1: Linear Search
+title2: in Haskell
 ---
 
 <!--

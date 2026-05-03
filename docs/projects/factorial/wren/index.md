@@ -9,6 +9,8 @@ tags:
 - factorial
 - wren
 title: Factorial in Wren
+title1: Factorial
+title2: in Wren
 ---
 
 <!--

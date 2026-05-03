@@ -9,6 +9,8 @@ tags:
 - baklava
 - pascal
 title: Baklava in Pascal
+title1: Baklava
+title2: in Pascal
 ---
 
 <!--

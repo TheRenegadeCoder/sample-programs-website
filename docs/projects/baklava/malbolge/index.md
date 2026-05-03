@@ -1,6 +1,6 @@
 ---
 authors:
-- "Auberon L\xF3pez"
+- Auberon López
 date: 2024-10-23
 featured-image: baklava-in-every-language.jpg
 last-modified: 2024-10-23
@@ -9,6 +9,8 @@ tags:
 - baklava
 - malbolge
 title: Baklava in Malbolge
+title1: Baklava in
+title2: Malbolge
 ---
 
 <!--

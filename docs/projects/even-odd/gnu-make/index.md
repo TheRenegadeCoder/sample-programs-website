@@ -9,6 +9,8 @@ tags:
 - even-odd
 - gnu-make
 title: Even Odd in GNU Make
+title1: Even Odd in
+title2: GNU Make
 ---
 
 <!--

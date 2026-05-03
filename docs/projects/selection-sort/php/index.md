@@ -10,6 +10,8 @@ tags:
 - php
 - selection-sort
 title: Selection Sort in PHP
+title1: Selection
+title2: Sort in PHP
 ---
 
 <!--

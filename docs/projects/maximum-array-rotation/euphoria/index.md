@@ -9,6 +9,8 @@ tags:
 - euphoria
 - maximum-array-rotation
 title: Maximum Array Rotation in Euphoria
+title1: Maximum Array
+title2: Rotation in Euphoria
 ---
 
 <!--

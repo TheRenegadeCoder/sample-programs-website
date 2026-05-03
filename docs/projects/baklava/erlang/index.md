@@ -10,6 +10,8 @@ tags:
 - baklava
 - erlang
 title: Baklava in Erlang
+title1: Baklava
+title2: in Erlang
 ---
 
 <!--

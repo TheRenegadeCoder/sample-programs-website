@@ -9,6 +9,8 @@ tags:
 - fibonacci
 - swift
 title: Fibonacci in Swift
+title1: Fibonacci
+title2: in Swift
 ---
 
 <!--

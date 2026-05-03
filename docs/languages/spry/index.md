@@ -6,6 +6,8 @@ layout: default
 tags:
 - spry
 title: The Spry Programming Language
+title1: The Spry Programming
+title2: Language
 ---
 
 <!--

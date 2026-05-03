@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-09
 featured-image: josephus-problem-in-every-language.jpg
 last-modified: 2025-10-09
@@ -9,6 +9,8 @@ tags:
 - josephus-problem
 - tcl
 title: Josephus Problem in Tcl
+title1: Josephus
+title2: Problem in Tcl
 ---
 
 <!--

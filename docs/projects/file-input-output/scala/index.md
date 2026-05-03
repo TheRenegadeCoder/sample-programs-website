@@ -3,7 +3,7 @@ authors:
 - Jeremy Grifski
 - rzuckerm
 - Vee Ng
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2019-04-05
 featured-image: file-input-output-in-every-language.jpg
 last-modified: 2026-04-11
@@ -12,6 +12,8 @@ tags:
 - file-input-output
 - scala
 title: File Input Output in Scala
+title1: File Input
+title2: Output in Scala
 ---
 
 <!--

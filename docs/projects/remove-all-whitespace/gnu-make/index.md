@@ -9,6 +9,8 @@ tags:
 - gnu-make
 - remove-all-whitespace
 title: Remove All Whitespace in GNU Make
+title1: Remove All Whitespace
+title2: in GNU Make
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - python
 - zeckendorf
 title: Zeckendorf in Python
+title1: Zeckendorf
+title2: in Python
 ---
 
 <!--

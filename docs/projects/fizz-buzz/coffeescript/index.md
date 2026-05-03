@@ -9,6 +9,8 @@ tags:
 - coffeescript
 - fizz-buzz
 title: Fizz Buzz in CoffeeScript
+title1: Fizz Buzz in
+title2: CoffeeScript
 ---
 
 <!--

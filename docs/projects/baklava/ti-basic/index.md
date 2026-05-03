@@ -9,6 +9,8 @@ tags:
 - baklava
 - ti-basic
 title: Baklava in TI-BASIC
+title1: Baklava in
+title2: TI-BASIC
 ---
 
 <!--

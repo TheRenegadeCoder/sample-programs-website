@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-09
 featured-image: maximum-subarray-in-every-language.jpg
 last-modified: 2026-04-09
@@ -9,6 +9,8 @@ tags:
 - f-sharp
 - maximum-subarray
 title: Maximum Subarray in F#
+title1: Maximum
+title2: Subarray in F#
 ---
 
 <!--

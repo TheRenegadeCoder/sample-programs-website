@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - selection-sort
 title: Selection Sort in Commodore BASIC
+title1: Selection Sort in
+title2: Commodore BASIC
 ---
 
 <!--

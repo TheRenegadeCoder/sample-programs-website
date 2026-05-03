@@ -9,6 +9,8 @@ tags:
 - palindromic-number
 - swift
 title: Palindromic Number in Swift
+title1: Palindromic
+title2: Number in Swift
 ---
 
 <!--

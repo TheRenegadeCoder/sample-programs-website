@@ -9,6 +9,8 @@ tags:
 - befunge
 - quine
 title: Quine in Befunge
+title1: Quine in
+title2: Befunge
 ---
 
 <!--

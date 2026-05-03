@@ -9,6 +9,8 @@ tags:
 - beef
 - bubble-sort
 title: Bubble Sort in Beef
+title1: Bubble Sort
+title2: in Beef
 ---
 
 <!--

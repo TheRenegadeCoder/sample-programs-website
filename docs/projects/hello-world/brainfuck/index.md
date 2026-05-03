@@ -1,6 +1,6 @@
 ---
 authors:
-- "Christoph B\xF6hmwalder"
+- Christoph Böhmwalder
 - Jeremy Grifski
 - rzuckerm
 date: 2018-08-24
@@ -11,6 +11,8 @@ tags:
 - brainfuck
 - hello-world
 title: Hello World in Brainfuck
+title1: Hello World
+title2: in Brainfuck
 ---
 
 <!--

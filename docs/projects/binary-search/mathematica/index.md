@@ -9,6 +9,8 @@ tags:
 - binary-search
 - mathematica
 title: Binary Search in Mathematica
+title1: Binary Search
+title2: in Mathematica
 ---
 
 <!--

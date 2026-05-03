@@ -9,6 +9,8 @@ tags:
 - eiffel
 - fizz-buzz
 title: Fizz Buzz in Eiffel
+title1: Fizz Buzz
+title2: in Eiffel
 ---
 
 <!--

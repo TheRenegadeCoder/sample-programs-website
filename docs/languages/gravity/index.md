@@ -6,6 +6,8 @@ layout: default
 tags:
 - gravity
 title: The Gravity Programming Language
+title1: The Gravity
+title2: Programming Language
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - wren
 title: Fizz Buzz in Wren
+title1: Fizz Buzz
+title2: in Wren
 ---
 
 <!--

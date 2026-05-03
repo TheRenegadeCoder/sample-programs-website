@@ -10,6 +10,8 @@ tags:
 - minimum-spanning-tree
 - python
 title: Minimum Spanning Tree in Python
+title1: Minimum Spanning
+title2: Tree in Python
 ---
 
 <!--

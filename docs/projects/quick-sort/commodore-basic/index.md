@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - quick-sort
 title: Quick Sort in Commodore BASIC
+title1: Quick Sort in
+title2: Commodore BASIC
 ---
 
 <!--

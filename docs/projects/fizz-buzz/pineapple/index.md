@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - pineapple
 title: Fizz Buzz in Pineapple
+title1: Fizz Buzz in
+title2: Pineapple
 ---
 
 <!--

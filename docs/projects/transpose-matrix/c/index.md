@@ -1,7 +1,7 @@
 ---
 authors:
 - Maximillian Naza
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-01-21
 featured-image: transpose-matrix-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - c
 - transpose-matrix
 title: Transpose Matrix in C
+title1: Transpose
+title2: Matrix in C
 ---
 
 <!--

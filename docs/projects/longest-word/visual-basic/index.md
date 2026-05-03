@@ -9,6 +9,8 @@ tags:
 - longest-word
 - visual-basic
 title: Longest Word in Visual Basic
+title1: Longest Word in
+title2: Visual Basic
 ---
 
 <!--

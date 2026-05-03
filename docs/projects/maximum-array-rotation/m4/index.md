@@ -9,6 +9,8 @@ tags:
 - m4
 - maximum-array-rotation
 title: Maximum Array Rotation in m4
+title1: Maximum Array
+title2: Rotation in m4
 ---
 
 <!--

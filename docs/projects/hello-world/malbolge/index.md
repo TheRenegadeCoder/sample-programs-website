@@ -1,6 +1,6 @@
 ---
 authors:
-- "Auberon L\xF3pez"
+- Auberon López
 date: 2024-10-23
 featured-image: hello-world-in-every-language.jpg
 last-modified: 2024-10-23
@@ -9,6 +9,8 @@ tags:
 - hello-world
 - malbolge
 title: Hello World in Malbolge
+title1: Hello World
+title2: in Malbolge
 ---
 
 <!--

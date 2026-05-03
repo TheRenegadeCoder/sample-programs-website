@@ -11,6 +11,8 @@ tags:
 - java
 - linear-search
 title: Linear Search in Java
+title1: Linear Search
+title2: in Java
 ---
 
 <!--

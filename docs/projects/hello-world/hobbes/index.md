@@ -9,6 +9,8 @@ tags:
 - hello-world
 - hobbes
 title: Hello World in Hobbes
+title1: Hello World
+title2: in Hobbes
 ---
 
 <!--

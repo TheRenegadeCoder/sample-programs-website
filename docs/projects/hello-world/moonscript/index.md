@@ -11,6 +11,8 @@ tags:
 - hello-world
 - moonscript
 title: Hello World in MoonScript
+title1: Hello World
+title2: in MoonScript
 ---
 
 <!--

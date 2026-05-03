@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-30
 featured-image: base64-encode-decode-in-every-language.png
 last-modified: 2026-04-30
@@ -9,6 +9,8 @@ tags:
 - base64-encode-decode
 - mathematica
 title: Base64 Encode Decode in Mathematica
+title1: Base64 Encode Decode
+title2: in Mathematica
 ---
 
 <!--

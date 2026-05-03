@@ -1,7 +1,7 @@
 ---
 authors:
 - Butenkite
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-02-16
 featured-image: fibonacci-in-every-language.jpg
 last-modified: 2025-10-15
@@ -10,6 +10,8 @@ tags:
 - fibonacci
 - fortran
 title: Fibonacci in Fortran
+title1: Fibonacci
+title2: in Fortran
 ---
 
 <!--

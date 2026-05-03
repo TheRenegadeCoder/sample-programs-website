@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-11
 featured-image: convex-hull-in-every-language.jpg
 last-modified: 2026-04-15
@@ -9,6 +9,8 @@ tags:
 - c-plus-plus
 - convex-hull
 title: Convex Hull in C++
+title1: Convex Hull
+title2: in C++
 ---
 
 <!--

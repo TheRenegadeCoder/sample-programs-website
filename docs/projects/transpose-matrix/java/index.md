@@ -9,6 +9,8 @@ tags:
 - java
 - transpose-matrix
 title: Transpose Matrix in Java
+title1: Transpose
+title2: Matrix in Java
 ---
 
 <!--

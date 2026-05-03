@@ -9,6 +9,8 @@ tags:
 - ada
 - fizz-buzz
 title: Fizz Buzz in Ada
+title1: Fizz Buzz
+title2: in Ada
 ---
 
 <!--

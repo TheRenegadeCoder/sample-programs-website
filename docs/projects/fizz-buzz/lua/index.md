@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - lua
 title: Fizz Buzz in Lua
+title1: Fizz Buzz
+title2: in Lua
 ---
 
 <!--

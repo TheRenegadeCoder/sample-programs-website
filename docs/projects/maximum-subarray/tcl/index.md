@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-09
 featured-image: maximum-subarray-in-every-language.jpg
 last-modified: 2025-10-09
@@ -9,6 +9,8 @@ tags:
 - maximum-subarray
 - tcl
 title: Maximum Subarray in Tcl
+title1: Maximum
+title2: Subarray in Tcl
 ---
 
 <!--

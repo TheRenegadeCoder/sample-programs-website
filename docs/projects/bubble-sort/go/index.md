@@ -12,6 +12,8 @@ tags:
 - bubble-sort
 - go
 title: Bubble Sort in Go
+title1: Bubble
+title2: Sort in Go
 ---
 
 <!--

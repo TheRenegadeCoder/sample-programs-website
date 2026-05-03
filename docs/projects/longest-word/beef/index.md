@@ -9,6 +9,8 @@ tags:
 - beef
 - longest-word
 title: Longest Word in Beef
+title1: Longest Word
+title2: in Beef
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - roman-numeral
 - typescript
 title: Roman Numeral in TypeScript
+title1: Roman Numeral
+title2: in TypeScript
 ---
 
 <!--

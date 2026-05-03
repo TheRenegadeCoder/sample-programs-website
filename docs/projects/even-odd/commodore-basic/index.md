@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - even-odd
 title: Even Odd in Commodore BASIC
+title1: Even Odd in
+title2: Commodore BASIC
 ---
 
 <!--

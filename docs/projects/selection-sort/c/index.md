@@ -1,7 +1,7 @@
 ---
 authors:
 - vidit624
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2020-10-02
 featured-image: selection-sort-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - c
 - selection-sort
 title: Selection Sort in C
+title1: Selection
+title2: Sort in C
 ---
 
 <!--

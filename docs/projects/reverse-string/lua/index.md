@@ -11,6 +11,8 @@ tags:
 - lua
 - reverse-string
 title: Reverse String in Lua
+title1: Reverse
+title2: String in Lua
 ---
 
 <!--

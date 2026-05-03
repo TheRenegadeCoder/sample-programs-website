@@ -11,6 +11,8 @@ tags:
 - hello-world
 - powershell
 title: Hello World in PowerShell
+title1: Hello World
+title2: in PowerShell
 ---
 
 <!--

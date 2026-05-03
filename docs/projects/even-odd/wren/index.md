@@ -9,6 +9,8 @@ tags:
 - even-odd
 - wren
 title: Even Odd in Wren
+title1: Even Odd
+title2: in Wren
 ---
 
 <!--

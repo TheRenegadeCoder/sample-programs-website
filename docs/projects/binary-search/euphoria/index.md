@@ -9,6 +9,8 @@ tags:
 - binary-search
 - euphoria
 title: Binary Search in Euphoria
+title1: Binary Search
+title2: in Euphoria
 ---
 
 <!--

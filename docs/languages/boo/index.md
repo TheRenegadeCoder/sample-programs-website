@@ -6,6 +6,8 @@ layout: default
 tags:
 - boo
 title: The Boo Programming Language
+title1: The Boo Programming
+title2: Language
 ---
 
 <!--

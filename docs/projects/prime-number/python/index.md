@@ -13,6 +13,8 @@ tags:
 - prime-number
 - python
 title: Prime Number in Python
+title1: Prime Number
+title2: in Python
 ---
 
 <!--

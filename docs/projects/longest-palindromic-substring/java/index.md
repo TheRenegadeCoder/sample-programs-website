@@ -9,6 +9,8 @@ tags:
 - java
 - longest-palindromic-substring
 title: Longest Palindromic Substring in Java
+title1: Longest Palindromic
+title2: Substring in Java
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - awk
 - maximum-subarray
 title: Maximum Subarray in AWK
+title1: Maximum
+title2: Subarray in AWK
 ---
 
 <!--

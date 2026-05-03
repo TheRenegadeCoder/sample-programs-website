@@ -10,6 +10,8 @@ tags:
 - c-sharp
 - factorial
 title: Factorial in C#
+title1: Factorial
+title2: in C#
 ---
 
 <!--

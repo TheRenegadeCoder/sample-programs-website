@@ -10,6 +10,8 @@ tags:
 - capitalize
 - clojure
 title: Capitalize in Clojure
+title1: Capitalize
+title2: in Clojure
 ---
 
 <!--

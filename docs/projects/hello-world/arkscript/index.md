@@ -10,6 +10,8 @@ tags:
 - arkscript
 - hello-world
 title: Hello World in ArkScript
+title1: Hello World
+title2: in ArkScript
 ---
 
 <!--

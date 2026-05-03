@@ -10,6 +10,8 @@ tags:
 - batch
 - hello-world
 title: Hello World in Batch
+title1: Hello World
+title2: in Batch
 ---
 
 <!--

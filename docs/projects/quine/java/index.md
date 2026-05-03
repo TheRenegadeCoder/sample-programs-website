@@ -9,6 +9,8 @@ tags:
 - java
 - quine
 title: Quine in Java
+title1: Quine
+title2: in Java
 ---
 
 <!--

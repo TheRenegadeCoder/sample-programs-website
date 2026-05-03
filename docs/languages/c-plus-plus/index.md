@@ -8,6 +8,8 @@ layout: default
 tags:
 - c-plus-plus
 title: The C++ Programming Language
+title1: The C++ Programming
+title2: Language
 ---
 
 <!--

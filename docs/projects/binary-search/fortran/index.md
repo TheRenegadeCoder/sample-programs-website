@@ -9,6 +9,8 @@ tags:
 - binary-search
 - fortran
 title: Binary Search in Fortran
+title1: Binary Search
+title2: in Fortran
 ---
 
 <!--

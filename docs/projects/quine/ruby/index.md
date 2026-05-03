@@ -9,6 +9,8 @@ tags:
 - quine
 - ruby
 title: Quine in Ruby
+title1: Quine
+title2: in Ruby
 ---
 
 <!--

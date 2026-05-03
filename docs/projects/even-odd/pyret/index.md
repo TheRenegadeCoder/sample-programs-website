@@ -9,6 +9,8 @@ tags:
 - even-odd
 - pyret
 title: Even Odd in Pyret
+title1: Even Odd
+title2: in Pyret
 ---
 
 <!--

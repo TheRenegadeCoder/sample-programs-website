@@ -1,7 +1,7 @@
 ---
 authors:
 - Meet Thakur
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-11
 featured-image: longest-palindromic-substring-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - c-plus-plus
 - longest-palindromic-substring
 title: Longest Palindromic Substring in C++
+title1: Longest Palindromic
+title2: Substring in C++
 ---
 
 <!--

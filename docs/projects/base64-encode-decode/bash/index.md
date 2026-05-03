@@ -9,6 +9,8 @@ tags:
 - base64-encode-decode
 - bash
 title: Base64 Encode Decode in Bash
+title1: Base64 Encode
+title2: Decode in Bash
 ---
 
 <!--

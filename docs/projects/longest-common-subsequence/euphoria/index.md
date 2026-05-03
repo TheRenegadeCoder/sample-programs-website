@@ -9,6 +9,8 @@ tags:
 - euphoria
 - longest-common-subsequence
 title: Longest Common Subsequence in Euphoria
+title1: Longest Common
+title2: Subsequence in Euphoria
 ---
 
 <!--

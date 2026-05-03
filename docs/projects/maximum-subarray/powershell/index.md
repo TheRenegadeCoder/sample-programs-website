@@ -9,6 +9,8 @@ tags:
 - maximum-subarray
 - powershell
 title: Maximum Subarray in PowerShell
+title1: Maximum Subarray
+title2: in PowerShell
 ---
 
 <!--

@@ -6,6 +6,8 @@ layout: default
 tags:
 - baik
 title: The BAIK Programming Language
+title1: The BAIK Programming
+title2: Language
 ---
 
 <!--

@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-21
 featured-image: selection-sort-in-every-language.jpg
 last-modified: 2026-04-21
@@ -9,6 +9,8 @@ tags:
 - cobol
 - selection-sort
 title: Selection Sort in COBOL
+title1: Selection
+title2: Sort in COBOL
 ---
 
 <!--

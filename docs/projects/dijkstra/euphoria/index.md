@@ -9,6 +9,8 @@ tags:
 - dijkstra
 - euphoria
 title: Dijkstra in Euphoria
+title1: Dijkstra in
+title2: Euphoria
 ---
 
 <!--

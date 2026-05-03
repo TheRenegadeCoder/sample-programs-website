@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - prime-number
 title: Prime Number in C#
+title1: Prime Number
+title2: in C#
 ---
 
 <!--

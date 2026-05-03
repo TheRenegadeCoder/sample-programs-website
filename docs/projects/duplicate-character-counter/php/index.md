@@ -9,6 +9,8 @@ tags:
 - duplicate-character-counter
 - php
 title: Duplicate Character Counter in PHP
+title1: Duplicate Character
+title2: Counter in PHP
 ---
 
 <!--

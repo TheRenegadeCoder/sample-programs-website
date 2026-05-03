@@ -6,6 +6,8 @@ layout: default
 tags:
 - wyvern
 title: The Wyvern Programming Language
+title1: The Wyvern
+title2: Programming Language
 ---
 
 <!--

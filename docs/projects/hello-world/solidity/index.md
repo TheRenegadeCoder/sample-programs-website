@@ -10,6 +10,8 @@ tags:
 - hello-world
 - solidity
 title: Hello World in Solidity
+title1: Hello World
+title2: in Solidity
 ---
 
 <!--

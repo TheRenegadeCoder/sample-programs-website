@@ -6,6 +6,8 @@ layout: default
 tags:
 - reverse-string
 title: Reverse String
+title1: Reverse
+title2: String
 ---
 
 <!--

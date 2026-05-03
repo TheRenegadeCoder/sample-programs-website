@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-10
 featured-image: reverse-string-in-every-language.jpg
 last-modified: 2026-04-10
@@ -9,6 +9,8 @@ tags:
 - f-sharp
 - reverse-string
 title: Reverse String in F#
+title1: Reverse
+title2: String in F#
 ---
 
 <!--

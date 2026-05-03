@@ -10,6 +10,8 @@ tags:
 - job-sequencing
 - php
 title: Job Sequencing in PHP
+title1: Job Sequencing
+title2: in PHP
 ---
 
 <!--

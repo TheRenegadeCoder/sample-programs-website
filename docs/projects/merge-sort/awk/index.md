@@ -9,6 +9,8 @@ tags:
 - awk
 - merge-sort
 title: Merge Sort in AWK
+title1: Merge Sort
+title2: in AWK
 ---
 
 <!--

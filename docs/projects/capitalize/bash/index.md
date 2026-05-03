@@ -10,6 +10,8 @@ tags:
 - bash
 - capitalize
 title: Capitalize in Bash
+title1: Capitalize
+title2: in Bash
 ---
 
 <!--

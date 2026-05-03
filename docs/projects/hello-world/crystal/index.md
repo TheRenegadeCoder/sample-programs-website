@@ -11,6 +11,8 @@ tags:
 - crystal
 - hello-world
 title: Hello World in Crystal
+title1: Hello World
+title2: in Crystal
 ---
 
 <!--

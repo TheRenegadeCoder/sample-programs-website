@@ -1,7 +1,7 @@
 ---
 authors:
 - Apurva Vats
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-30
 featured-image: sleep-sort-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - c-plus-plus
 - sleep-sort
 title: Sleep Sort in C++
+title1: Sleep Sort
+title2: in C++
 ---
 
 <!--

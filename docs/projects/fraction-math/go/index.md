@@ -9,6 +9,8 @@ tags:
 - fraction-math
 - go
 title: Fraction Math in Go
+title1: Fraction
+title2: Math in Go
 ---
 
 <!--

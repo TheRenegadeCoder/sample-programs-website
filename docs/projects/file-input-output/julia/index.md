@@ -9,6 +9,8 @@ tags:
 - file-input-output
 - julia
 title: File Input Output in Julia
+title1: File Input
+title2: Output in Julia
 ---
 
 <!--

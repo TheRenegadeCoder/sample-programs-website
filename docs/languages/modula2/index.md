@@ -6,6 +6,8 @@ layout: default
 tags:
 - modula2
 title: The Modula-2 Programming Language
+title1: The Modula-2
+title2: Programming Language
 ---
 
 <!--

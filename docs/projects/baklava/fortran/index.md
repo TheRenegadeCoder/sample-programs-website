@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-10-15
 featured-image: baklava-in-every-language.jpg
 last-modified: 2025-10-15
@@ -9,6 +9,8 @@ tags:
 - baklava
 - fortran
 title: Baklava in Fortran
+title1: Baklava in
+title2: Fortran
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - palindromic-number
 title: Palindromic Number in C#
+title1: Palindromic
+title2: Number in C#
 ---
 
 <!--

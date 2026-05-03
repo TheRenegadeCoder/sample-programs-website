@@ -9,6 +9,8 @@ tags:
 - algol60
 - fraction-math
 title: Fraction Math in ALGOL 60
+title1: Fraction Math
+title2: in ALGOL 60
 ---
 
 <!--

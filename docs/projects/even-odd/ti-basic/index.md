@@ -9,6 +9,8 @@ tags:
 - even-odd
 - ti-basic
 title: Even Odd in TI-BASIC
+title1: Even Odd in
+title2: TI-BASIC
 ---
 
 <!--

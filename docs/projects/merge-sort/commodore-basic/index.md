@@ -9,6 +9,8 @@ tags:
 - commodore-basic
 - merge-sort
 title: Merge Sort in Commodore BASIC
+title1: Merge Sort in
+title2: Commodore BASIC
 ---
 
 <!--

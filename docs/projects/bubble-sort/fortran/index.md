@@ -9,6 +9,8 @@ tags:
 - bubble-sort
 - fortran
 title: Bubble Sort in Fortran
+title1: Bubble Sort
+title2: in Fortran
 ---
 
 <!--

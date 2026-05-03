@@ -11,6 +11,8 @@ tags:
 - hello-world
 - rexx
 title: Hello World in Rexx
+title1: Hello World
+title2: in Rexx
 ---
 
 <!--

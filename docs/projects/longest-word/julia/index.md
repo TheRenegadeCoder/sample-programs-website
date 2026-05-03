@@ -9,6 +9,8 @@ tags:
 - julia
 - longest-word
 title: Longest Word in Julia
+title1: Longest Word
+title2: in Julia
 ---
 
 <!--

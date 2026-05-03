@@ -9,6 +9,8 @@ tags:
 - maximum-array-rotation
 - php
 title: Maximum Array Rotation in PHP
+title1: Maximum Array
+title2: Rotation in PHP
 ---
 
 <!--

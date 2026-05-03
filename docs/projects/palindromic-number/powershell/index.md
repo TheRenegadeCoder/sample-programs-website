@@ -9,6 +9,8 @@ tags:
 - palindromic-number
 - powershell
 title: Palindromic Number in PowerShell
+title1: Palindromic Number
+title2: in PowerShell
 ---
 
 <!--

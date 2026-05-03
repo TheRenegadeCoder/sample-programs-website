@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - pony
 title: Fizz Buzz in Pony
+title1: Fizz Buzz
+title2: in Pony
 ---
 
 <!--

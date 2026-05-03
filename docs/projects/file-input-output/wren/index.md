@@ -9,6 +9,8 @@ tags:
 - file-input-output
 - wren
 title: File Input Output in Wren
+title1: File Input
+title2: Output in Wren
 ---
 
 <!--

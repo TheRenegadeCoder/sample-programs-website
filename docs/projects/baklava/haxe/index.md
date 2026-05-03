@@ -9,6 +9,8 @@ tags:
 - baklava
 - haxe
 title: Baklava in Haxe
+title1: Baklava
+title2: in Haxe
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - powershell
 - zeckendorf
 title: Zeckendorf in PowerShell
+title1: Zeckendorf in
+title2: PowerShell
 ---
 
 <!--

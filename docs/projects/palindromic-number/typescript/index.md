@@ -9,6 +9,8 @@ tags:
 - palindromic-number
 - typescript
 title: Palindromic Number in TypeScript
+title1: Palindromic Number
+title2: in TypeScript
 ---
 
 <!--

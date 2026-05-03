@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - rot13
 title: Rot13 in C#
+title1: Rot13
+title2: in C#
 ---
 
 <!--

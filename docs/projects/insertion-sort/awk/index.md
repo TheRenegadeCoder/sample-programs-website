@@ -9,6 +9,8 @@ tags:
 - awk
 - insertion-sort
 title: Insertion Sort in AWK
+title1: Insertion
+title2: Sort in AWK
 ---
 
 <!--

@@ -2,7 +2,7 @@
 authors:
 - Jeremy Grifski
 - sachchu007
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2022-10-02
 featured-image: longest-word-in-every-language.jpg
 last-modified: 2026-04-15
@@ -11,6 +11,8 @@ tags:
 - c-plus-plus
 - longest-word
 title: Longest Word in C++
+title1: Longest
+title2: Word in C++
 ---
 
 <!--

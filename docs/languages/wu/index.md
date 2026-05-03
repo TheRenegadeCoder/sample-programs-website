@@ -6,6 +6,8 @@ layout: default
 tags:
 - wu
 title: The Wu Programming Language
+title1: The Wu Programming
+title2: Language
 ---
 
 <!--

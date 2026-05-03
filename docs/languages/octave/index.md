@@ -8,6 +8,8 @@ layout: default
 tags:
 - octave
 title: The Octave Programming Language
+title1: The Octave
+title2: Programming Language
 ---
 
 <!--

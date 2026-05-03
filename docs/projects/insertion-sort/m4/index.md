@@ -9,6 +9,8 @@ tags:
 - insertion-sort
 - m4
 title: Insertion Sort in m4
+title1: Insertion
+title2: Sort in m4
 ---
 
 <!--

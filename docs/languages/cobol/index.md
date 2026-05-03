@@ -6,6 +6,8 @@ layout: default
 tags:
 - cobol
 title: The COBOL Programming Language
+title1: The COBOL Programming
+title2: Language
 ---
 
 <!--

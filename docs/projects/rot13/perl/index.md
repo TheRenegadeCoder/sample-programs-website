@@ -9,6 +9,8 @@ tags:
 - perl
 - rot13
 title: Rot13 in Perl
+title1: Rot13
+title2: in Perl
 ---
 
 <!--

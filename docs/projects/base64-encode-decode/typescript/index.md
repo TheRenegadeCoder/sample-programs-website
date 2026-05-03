@@ -9,6 +9,8 @@ tags:
 - base64-encode-decode
 - typescript
 title: Base64 Encode Decode in TypeScript
+title1: Base64 Encode Decode
+title2: in TypeScript
 ---
 
 <!--

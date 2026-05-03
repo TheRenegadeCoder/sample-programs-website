@@ -9,6 +9,8 @@ tags:
 - haskell
 - insertion-sort
 title: Insertion Sort in Haskell
+title1: Insertion Sort
+title2: in Haskell
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - algol60
 - factorial
 title: Factorial in ALGOL 60
+title1: Factorial
+title2: in ALGOL 60
 ---
 
 <!--

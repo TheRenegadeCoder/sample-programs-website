@@ -10,6 +10,8 @@ tags:
 - fibonacci
 - ruby
 title: Fibonacci in Ruby
+title1: Fibonacci
+title2: in Ruby
 ---
 
 <!--

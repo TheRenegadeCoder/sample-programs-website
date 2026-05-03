@@ -10,6 +10,8 @@ tags:
 - capitalize
 - java
 title: Capitalize in Java
+title1: Capitalize
+title2: in Java
 ---
 
 <!--

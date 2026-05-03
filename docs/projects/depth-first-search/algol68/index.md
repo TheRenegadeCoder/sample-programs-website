@@ -9,6 +9,8 @@ tags:
 - algol68
 - depth-first-search
 title: Depth First Search in ALGOL 68
+title1: Depth First Search
+title2: in ALGOL 68
 ---
 
 <!--

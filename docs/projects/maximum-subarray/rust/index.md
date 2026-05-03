@@ -9,6 +9,8 @@ tags:
 - maximum-subarray
 - rust
 title: Maximum Subarray in Rust
+title1: Maximum Subarray
+title2: in Rust
 ---
 
 <!--

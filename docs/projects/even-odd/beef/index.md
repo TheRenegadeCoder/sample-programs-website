@@ -9,6 +9,8 @@ tags:
 - beef
 - even-odd
 title: Even Odd in Beef
+title1: Even Odd
+title2: in Beef
 ---
 
 <!--

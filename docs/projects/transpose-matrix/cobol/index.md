@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-24
 featured-image: transpose-matrix-in-every-language.jpg
 last-modified: 2026-04-24
@@ -9,6 +9,8 @@ tags:
 - cobol
 - transpose-matrix
 title: Transpose Matrix in COBOL
+title1: Transpose
+title2: Matrix in COBOL
 ---
 
 <!--

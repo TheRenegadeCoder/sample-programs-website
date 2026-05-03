@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-29
 featured-image: transpose-matrix-in-every-language.jpg
 last-modified: 2025-07-29
@@ -9,6 +9,8 @@ tags:
 - c-sharp
 - transpose-matrix
 title: Transpose Matrix in C#
+title1: Transpose
+title2: Matrix in C#
 ---
 
 <!--

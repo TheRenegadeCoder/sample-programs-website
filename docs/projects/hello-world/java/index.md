@@ -11,6 +11,8 @@ tags:
 - hello-world
 - java
 title: Hello World in Java
+title1: Hello World
+title2: in Java
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - file-input-output
 - typescript
 title: File Input Output in TypeScript
+title1: File Input Output
+title2: in TypeScript
 ---
 
 <!--

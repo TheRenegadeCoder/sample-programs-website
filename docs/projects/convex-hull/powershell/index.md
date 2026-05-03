@@ -9,6 +9,8 @@ tags:
 - convex-hull
 - powershell
 title: Convex Hull in PowerShell
+title1: Convex Hull
+title2: in PowerShell
 ---
 
 <!--

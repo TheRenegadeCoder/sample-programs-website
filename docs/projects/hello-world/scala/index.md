@@ -2,7 +2,7 @@
 authors:
 - Jeremy Grifski
 - rzuckerm
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2019-05-08
 featured-image: hello-world-in-scala.jpg
 last-modified: 2026-04-11
@@ -11,6 +11,8 @@ tags:
 - hello-world
 - scala
 title: Hello World in Scala
+title1: Hello World
+title2: in Scala
 ---
 
 <!--

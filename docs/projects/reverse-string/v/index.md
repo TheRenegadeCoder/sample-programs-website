@@ -9,6 +9,8 @@ tags:
 - reverse-string
 - v
 title: Reverse String in V
+title1: Reverse
+title2: String in V
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - job-sequencing
 - rust
 title: Job Sequencing in Rust
+title1: Job Sequencing
+title2: in Rust
 ---
 
 <!--

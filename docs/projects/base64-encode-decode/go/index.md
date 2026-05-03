@@ -9,6 +9,8 @@ tags:
 - base64-encode-decode
 - go
 title: Base64 Encode Decode in Go
+title1: Base64 Encode
+title2: Decode in Go
 ---
 
 <!--

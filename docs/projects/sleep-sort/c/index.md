@@ -1,7 +1,7 @@
 ---
 authors:
 - Maximillian Naza
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-01-20
 featured-image: sleep-sort-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - c
 - sleep-sort
 title: Sleep Sort in C
+title1: Sleep
+title2: Sort in C
 ---
 
 <!--

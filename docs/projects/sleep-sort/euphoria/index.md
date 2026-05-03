@@ -9,6 +9,8 @@ tags:
 - euphoria
 - sleep-sort
 title: Sleep Sort in Euphoria
+title1: Sleep Sort
+title2: in Euphoria
 ---
 
 <!--

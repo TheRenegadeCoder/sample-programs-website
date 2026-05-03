@@ -9,6 +9,8 @@ tags:
 - beef
 - josephus-problem
 title: Josephus Problem in Beef
+title1: Josephus Problem
+title2: in Beef
 ---
 
 <!--

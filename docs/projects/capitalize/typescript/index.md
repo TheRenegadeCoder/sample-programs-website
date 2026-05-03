@@ -10,6 +10,8 @@ tags:
 - capitalize
 - typescript
 title: Capitalize in TypeScript
+title1: Capitalize in
+title2: TypeScript
 ---
 
 <!--

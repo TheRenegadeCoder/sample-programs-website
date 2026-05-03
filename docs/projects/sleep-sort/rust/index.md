@@ -10,6 +10,8 @@ tags:
 - rust
 - sleep-sort
 title: Sleep Sort in Rust
+title1: Sleep Sort
+title2: in Rust
 ---
 
 <!--

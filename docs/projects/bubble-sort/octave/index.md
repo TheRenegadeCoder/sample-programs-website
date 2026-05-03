@@ -9,6 +9,8 @@ tags:
 - bubble-sort
 - octave
 title: Bubble Sort in Octave
+title1: Bubble Sort
+title2: in Octave
 ---
 
 <!--

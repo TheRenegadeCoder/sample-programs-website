@@ -9,6 +9,8 @@ tags:
 - palindromic-number
 - ti-basic
 title: Palindromic Number in TI-BASIC
+title1: Palindromic Number
+title2: in TI-BASIC
 ---
 
 <!--

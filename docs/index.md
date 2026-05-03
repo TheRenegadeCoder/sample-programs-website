@@ -3,6 +3,8 @@ date: 2018-03-15
 last-modified: 2026-05-03
 layout: default
 title: Sample Programs in Every Language
+title1: Sample Programs
+title2: in Every Language
 ---
 
 Welcome to Sample Programs in Every Language, a collection of code snippets in as many languages as possible. Thanks for taking an interest in our collection which currently contains 1736 articles written by 308 authors.

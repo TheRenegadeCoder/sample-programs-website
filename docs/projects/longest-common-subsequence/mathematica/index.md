@@ -9,6 +9,8 @@ tags:
 - longest-common-subsequence
 - mathematica
 title: Longest Common Subsequence in Mathematica
+title1: Longest Common Subsequence
+title2: in Mathematica
 ---
 
 <!--

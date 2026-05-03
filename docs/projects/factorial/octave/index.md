@@ -9,6 +9,8 @@ tags:
 - factorial
 - octave
 title: Factorial in Octave
+title1: Factorial
+title2: in Octave
 ---
 
 <!--

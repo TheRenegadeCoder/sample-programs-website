@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-10
 featured-image: selection-sort-in-every-language.jpg
 last-modified: 2026-04-10
@@ -9,6 +9,8 @@ tags:
 - f-sharp
 - selection-sort
 title: Selection Sort in F#
+title1: Selection
+title2: Sort in F#
 ---
 
 <!--

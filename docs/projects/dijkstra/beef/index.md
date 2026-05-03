@@ -9,6 +9,8 @@ tags:
 - beef
 - dijkstra
 title: Dijkstra in Beef
+title1: Dijkstra
+title2: in Beef
 ---
 
 <!--

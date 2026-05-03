@@ -9,6 +9,8 @@ tags:
 - algol60
 - prime-number
 title: Prime Number in ALGOL 60
+title1: Prime Number
+title2: in ALGOL 60
 ---
 
 <!--

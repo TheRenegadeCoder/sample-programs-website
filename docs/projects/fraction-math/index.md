@@ -6,6 +6,8 @@ layout: default
 tags:
 - fraction-math
 title: Fraction Math
+title1: Fraction
+title2: Math
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - fizz-buzz
 - raku
 title: Fizz Buzz in Raku
+title1: Fizz Buzz
+title2: in Raku
 ---
 
 <!--

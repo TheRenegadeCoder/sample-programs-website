@@ -10,6 +10,8 @@ tags:
 - file-input-output
 - javascript
 title: File Input Output in JavaScript
+title1: File Input Output
+title2: in JavaScript
 ---
 
 <!--

@@ -6,6 +6,8 @@ layout: default
 tags:
 - discus
 title: The Discus Programming Language
+title1: The Discus
+title2: Programming Language
 ---
 
 <!--

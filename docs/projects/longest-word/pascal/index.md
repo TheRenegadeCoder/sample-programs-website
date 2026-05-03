@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2025-07-22
 featured-image: longest-word-in-every-language.jpg
 last-modified: 2025-07-22
@@ -9,6 +9,8 @@ tags:
 - longest-word
 - pascal
 title: Longest Word in Pascal
+title1: Longest Word
+title2: in Pascal
 ---
 
 <!--

@@ -9,6 +9,8 @@ tags:
 - mathematica
 - transpose-matrix
 title: Transpose Matrix in Mathematica
+title1: Transpose Matrix
+title2: in Mathematica
 ---
 
 <!--

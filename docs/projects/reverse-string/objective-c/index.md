@@ -1,7 +1,7 @@
 ---
 authors:
 - Tim Lange
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2019-10-14
 featured-image: reverse-string-in-every-language.jpg
 last-modified: 2026-04-30
@@ -10,6 +10,8 @@ tags:
 - objective-c
 - reverse-string
 title: Reverse String in Objective-C
+title1: Reverse String
+title2: in Objective-C
 ---
 
 <!--

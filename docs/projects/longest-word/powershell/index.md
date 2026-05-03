@@ -9,6 +9,8 @@ tags:
 - longest-word
 - powershell
 title: Longest Word in PowerShell
+title1: Longest Word
+title2: in PowerShell
 ---
 
 <!--

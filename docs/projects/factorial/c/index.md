@@ -1,7 +1,7 @@
 ---
 authors:
 - clarkimusmax
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2018-10-26
 featured-image: factorial-in-every-language.jpg
 last-modified: 2026-04-15
@@ -10,6 +10,8 @@ tags:
 - c
 - factorial
 title: Factorial in C
+title1: Factorial
+title2: in C
 ---
 
 <!--

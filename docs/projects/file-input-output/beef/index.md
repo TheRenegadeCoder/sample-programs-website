@@ -9,6 +9,8 @@ tags:
 - beef
 - file-input-output
 title: File Input Output in Beef
+title1: File Input
+title2: Output in Beef
 ---
 
 <!--

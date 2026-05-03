@@ -10,6 +10,8 @@ tags:
 - reverse-string
 - typescript
 title: Reverse String in TypeScript
+title1: Reverse String
+title2: in TypeScript
 ---
 
 <!--

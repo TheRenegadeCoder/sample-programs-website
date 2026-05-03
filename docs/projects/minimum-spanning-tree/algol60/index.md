@@ -9,6 +9,8 @@ tags:
 - algol60
 - minimum-spanning-tree
 title: Minimum Spanning Tree in ALGOL 60
+title1: Minimum Spanning
+title2: Tree in ALGOL 60
 ---
 
 <!--

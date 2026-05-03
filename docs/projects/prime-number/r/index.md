@@ -9,6 +9,8 @@ tags:
 - prime-number
 - r
 title: Prime Number in R
+title1: Prime
+title2: Number in R
 ---
 
 <!--

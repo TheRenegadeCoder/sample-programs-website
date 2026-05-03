@@ -1,6 +1,6 @@
 ---
 authors:
-- "\u0218tefan-Iulian Alecu"
+- Ștefan-Iulian Alecu
 date: 2026-04-30
 featured-image: capitalize-in-every-language.jpg
 last-modified: 2026-04-30
@@ -9,6 +9,8 @@ tags:
 - capitalize
 - cobol
 title: Capitalize in COBOL
+title1: Capitalize
+title2: in COBOL
 ---
 
 <!--

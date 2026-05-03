@@ -9,6 +9,8 @@ layout: default
 tags:
 - r
 title: The R Programming Language
+title1: The R Programming
+title2: Language
 ---
 
 <!--
