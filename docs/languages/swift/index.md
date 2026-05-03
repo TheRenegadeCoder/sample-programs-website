@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 23 articles:
+There are 25 articles:
 
 - [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
 - [Base64 Encode Decode in Swift](https://sampleprograms.io/projects/base64-encode-decode/swift)
@@ -43,6 +43,7 @@ There are 23 articles:
 - [Hello World in Swift](https://sampleprograms.io/projects/hello-world/swift)
 - [Linear Search in Swift](https://sampleprograms.io/projects/linear-search/swift)
 - [Longest Word in Swift](https://sampleprograms.io/projects/longest-word/swift)
+- [Maximum Subarray in Swift](https://sampleprograms.io/projects/maximum-subarray/swift)
 - [Palindromic Number in Swift](https://sampleprograms.io/projects/palindromic-number/swift)
 - [Prime Number in Swift](https://sampleprograms.io/projects/prime-number/swift)
 - [Quine in Swift](https://sampleprograms.io/projects/quine/swift)
@@ -50,4 +51,5 @@ There are 23 articles:
 - [Reverse String in Swift](https://sampleprograms.io/projects/reverse-string/swift)
 - [Roman Numeral in Swift](https://sampleprograms.io/projects/roman-numeral/swift)
 - [Rot13 in Swift](https://sampleprograms.io/projects/rot13/swift)
+- [Selection Sort in Swift](https://sampleprograms.io/projects/selection-sort/swift)
 - [Zeckendorf in Swift](https://sampleprograms.io/projects/zeckendorf/swift)
