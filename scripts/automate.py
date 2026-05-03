@@ -139,49 +139,25 @@ def _add_language_article_section(doc: snakemd.Document, repo: subete.Repo, lang
     doc.add_block(snakemd.MDList(articles))
 
 
-GLUE_WORDS = {"the", "a", "an", "of", "to", "in", "for", "on", "with", "and", "or"}
+def _split_text(text: str) -> tuple[str, str]:
+    mid = len(text) // 2
+    best_index = -1
+    min_dist = float('inf')
 
-def _split_text_balanced(text: str) -> tuple[str, str]:
-    """
-    Splits text into two lines, balancing character count, word count, 
-    and linguistic glue words.
-    """
-    if not text:
-        return "", ""
+    for i, char in enumerate(text):
+        if char.isspace():
+            dist = abs(i - mid)
+            if dist <= min_dist:
+                min_dist = dist
+                best_index = i
+            elif i > mid: 
+                # Optimization: if we are past mid and distance is increasing, stop
+                break
 
-    words = text.strip().split()
-    num_words = len(words)
+    if best_index == -1:
+        return text, ""
 
-    if num_words <= 1:
-        return " ".join(words), ""
-    
-    total_len = len(" ".join(words))
-    best_split_idx = 1
-    min_penalty = float("inf")
-    current_len = 0
-    
-    for i in range(1, num_words):
-        word_just_added = words[i-1].lower()
-        current_len += len(word_just_added)
-        
-        # Lengths including spaces between words
-        left_len = current_len + (i - 1)
-        right_len = total_len - left_len - 1
-        
-        # Penalty weights:
-        char_diff = abs(left_len - right_len)         # Visual balance
-        word_diff = abs(i - (num_words - i))          # Density balance
-        mid_bias = abs(left_len - (total_len / 2))    # Geometric center
-        linguistic = 10 if word_just_added in GLUE_WORDS else 0
-        top_heavy = -2 if left_len > right_len else 0 # Aesthetics
-        
-        penalty = char_diff + (word_diff * 4) + mid_bias + linguistic + top_heavy
-
-        if penalty < min_penalty:
-            min_penalty = penalty
-            best_split_idx = i
-
-    return " ".join(words[:best_split_idx]), " ".join(words[best_split_idx:])
+    return text[:best_index], text[best_index + 1:]
 
 def _generate_front_matter(
     doc: snakemd.Document,
@@ -203,7 +179,7 @@ def _generate_front_matter(
     :param Iterable[str] tags: optional list of tags
     """
     
-    top_title, bottom_title = _split_text_balanced(title)
+    top_title, bottom_title = _split_text(title)
     
     front_matter = {
         "title": title,
