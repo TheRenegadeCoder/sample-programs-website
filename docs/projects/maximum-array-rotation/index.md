@@ -1,7 +1,7 @@
 ---
 date: 2021-10-05
 featured-image: maximum-array-rotation-in-every-language.jpg
-last-modified: 2026-04-29
+last-modified: 2026-05-03
 layout: default
 tags:
 - maximum-array-rotation
@@ -104,7 +104,7 @@ Usage: please provide a list of integers (e.g. "8, 3, 1, 2")
 
 ## Articles
 
-There are 21 articles:
+There are 22 articles:
 
 - [Maximum Array Rotation in ALGOL 60](https://sampleprograms.io/projects/maximum-array-rotation/algol60)
 - [Maximum Array Rotation in ALGOL 68](https://sampleprograms.io/projects/maximum-array-rotation/algol68)
@@ -125,6 +125,7 @@ There are 21 articles:
 - [Maximum Array Rotation in PowerShell](https://sampleprograms.io/projects/maximum-array-rotation/powershell)
 - [Maximum Array Rotation in Python](https://sampleprograms.io/projects/maximum-array-rotation/python)
 - [Maximum Array Rotation in Rust](https://sampleprograms.io/projects/maximum-array-rotation/rust)
+- [Maximum Array Rotation in Swift](https://sampleprograms.io/projects/maximum-array-rotation/swift)
 - [Maximum Array Rotation in Tcl](https://sampleprograms.io/projects/maximum-array-rotation/tcl)
 - [Maximum Array Rotation in m4](https://sampleprograms.io/projects/maximum-array-rotation/m4)
 
