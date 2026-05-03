@@ -1,7 +1,7 @@
 ---
 date: 2018-10-07
 featured-image: roman-numeral-in-every-language.jpg
-last-modified: 2026-04-24
+last-modified: 2026-05-03
 layout: default
 tags:
 - roman-numeral
@@ -102,7 +102,7 @@ In order to keep things simple, we split up the testing as follows:
 
 ## Articles
 
-There are 28 articles:
+There are 29 articles:
 
 - [Roman Numeral in ALGOL 60](https://sampleprograms.io/projects/roman-numeral/algol60)
 - [Roman Numeral in ALGOL 68](https://sampleprograms.io/projects/roman-numeral/algol68)
@@ -128,6 +128,7 @@ There are 28 articles:
 - [Roman Numeral in Python](https://sampleprograms.io/projects/roman-numeral/python)
 - [Roman Numeral in Ruby](https://sampleprograms.io/projects/roman-numeral/ruby)
 - [Roman Numeral in Rust](https://sampleprograms.io/projects/roman-numeral/rust)
+- [Roman Numeral in Swift](https://sampleprograms.io/projects/roman-numeral/swift)
 - [Roman Numeral in Tcl](https://sampleprograms.io/projects/roman-numeral/tcl)
 - [Roman Numeral in TypeScript](https://sampleprograms.io/projects/roman-numeral/typescript)
 - [Roman Numeral in Visual Basic](https://sampleprograms.io/projects/roman-numeral/visual-basic)
