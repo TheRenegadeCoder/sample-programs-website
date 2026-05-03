@@ -1,12 +1,12 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2026-05-01
+last-modified: 2026-05-03
 layout: default
 title: Programming Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1514 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1515 code snippets.
 
 ## Language Breakdown
 
@@ -48,7 +48,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Beef</td>
-        <td class="right">4.64%</td>
+        <td class="right">4.63%</td>
         <td class="bar-graph"><div style="width: 47.10%; background-color: #A52F4E;"></div></td> 
     </tr>
 
@@ -72,7 +72,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">COBOL</td>
-        <td class="right">3.38%</td>
+        <td class="right">3.37%</td>
         <td class="bar-graph"><div style="width: 34.30%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
@@ -210,8 +210,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Swift</td>
-        <td class="right">0.61%</td>
-        <td class="bar-graph"><div style="width: 6.22%; background-color: #F05138;"></div></td> 
+        <td class="right">0.62%</td>
+        <td class="bar-graph"><div style="width: 6.34%; background-color: #F05138;"></div></td> 
     </tr>
 
     <tr>
@@ -1260,7 +1260,7 @@ The 'R' collection contains 8 languages, of which 8 are tested, and 91 code snip
 
 ### S
 
-The 'S' collection contains 10 languages, of which 10 are tested, and 46 code snippets.
+The 'S' collection contains 10 languages, of which 10 are tested, and 47 code snippets.
 
 - [Sather](https://sampleprograms.io/languages/sather) (2 code snippets)
 - [Scala](https://sampleprograms.io/languages/scala) (13 code snippets)
@@ -1271,7 +1271,7 @@ The 'S' collection contains 10 languages, of which 10 are tested, and 46 code sn
 - [Solidity](https://sampleprograms.io/languages/solidity) (2 code snippets)
 - [Solisp](https://sampleprograms.io/languages/solisp) (3 code snippets)
 - [Spry](https://sampleprograms.io/languages/spry) (2 code snippets)
-- [Swift](https://sampleprograms.io/languages/swift) (14 code snippets)
+- [Swift](https://sampleprograms.io/languages/swift) (15 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 

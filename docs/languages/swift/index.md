@@ -1,7 +1,7 @@
 ---
 date: 2018-03-25
 featured-image: programming-languages.jpg
-last-modified: 2026-04-24
+last-modified: 2026-05-03
 layout: default
 tags:
 - swift
@@ -26,7 +26,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 14 articles:
+There are 15 articles:
 
 - [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
 - [Base64 Encode Decode in Swift](https://sampleprograms.io/projects/base64-encode-decode/swift)
@@ -40,5 +40,6 @@ There are 14 articles:
 - [Longest Word in Swift](https://sampleprograms.io/projects/longest-word/swift)
 - [Palindromic Number in Swift](https://sampleprograms.io/projects/palindromic-number/swift)
 - [Prime Number in Swift](https://sampleprograms.io/projects/prime-number/swift)
+- [Remove All Whitespace in Swift](https://sampleprograms.io/projects/remove-all-whitespace/swift)
 - [Reverse String in Swift](https://sampleprograms.io/projects/reverse-string/swift)
 - [Zeckendorf in Swift](https://sampleprograms.io/projects/zeckendorf/swift)
