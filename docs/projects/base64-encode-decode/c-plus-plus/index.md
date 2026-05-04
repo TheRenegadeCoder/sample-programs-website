@@ -1,0 +1,203 @@
+---
+authors:
+- Ștefan-Iulian Alecu
+date: 2026-05-04
+featured-image: base64-encode-decode-in-every-language.png
+last-modified: 2026-05-04
+layout: default
+tags:
+- base64-encode-decode
+- c-plus-plus
+title: Base64 Encode Decode in C++
+title1: Base64 Encode
+title2: Decode in C++
+---
+
+<!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/base64-encode-decode/c-plus-plus/how-to-implement-the-solution.md
+- sources/programs/base64-encode-decode/c-plus-plus/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
+Welcome to the [Base64 Encode Decode](https://sampleprograms.io/projects/base64-encode-decode) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
+
+## Current Solution
+
+{% raw %}
+
+```c++
+#include <algorithm>
+#include <array>
+#include <cstdint>
+#include <string_view>
+#include <string>
+#include <vector>
+#include <iostream>
+
+enum class Mode { encode, decode };
+
+namespace base64 {
+
+constexpr std::string_view chars =
+    "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    "abcdefghijklmnopqrstuvwxyz"
+    "0123456789+/";
+
+constexpr auto make_table() {
+    std::array<std::int8_t, 256> t{};
+    t.fill(-1);
+
+    std::size_t i = 0;
+    for (unsigned char c : chars)
+        t[c] = static_cast<std::int8_t>(i++);
+
+    return t;
+}
+
+constexpr auto table = make_table();
+
+constexpr bool is_b64(unsigned char c) {
+    return table[c] != -1;
+}
+
+constexpr bool is_pad(char c) {
+    return c == '=';
+}
+
+bool valid(std::string_view s) {
+    using std::all_of;
+
+    if (s.empty() || s.size() % 4 != 0)
+        return false;
+
+    const auto pad_start = s.find('=');
+
+    if (pad_start == std::string_view::npos) {
+        return all_of(s.begin(), s.end(), is_b64);
+    }
+
+    const auto pad_len = s.size() - pad_start;
+    if (pad_len > 2)
+        return false;
+
+    const auto prefix = s.substr(0, pad_start);
+    const auto suffix = s.substr(pad_start);
+
+    return all_of(prefix.begin(), prefix.end(), is_b64) &&
+           all_of(suffix.begin(), suffix.end(), is_pad);
+}
+
+} // namespace base64
+
+std::string encode(std::string_view input) {
+    std::string out;
+    out.reserve(((input.size() + 2) / 3) * 4);
+
+    std::uint32_t buf = 0;
+    int bits = 0;
+
+    for (unsigned char c : input) {
+        buf = (buf << 8) | c;
+        bits += 8;
+
+        while (bits >= 6) {
+            bits -= 6;
+            out.push_back(base64::chars[(buf >> bits) & 0x3F]);
+        }
+    }
+
+    if (bits > 0)
+        out.push_back(base64::chars[(buf << (6 - bits)) & 0x3F]);
+
+    while (out.size() % 4)
+        out.push_back('=');
+
+    return out;
+}
+
+struct DecodeResult {
+    bool ok;
+    std::string value;
+    std::string_view error;
+};
+
+DecodeResult decode(std::string_view input) {
+    if (!base64::valid(input))
+        return {false, {}, "invalid base64"};
+
+    std::string out;
+    out.reserve((input.size() / 4) * 3);
+
+    std::uint32_t buf = 0;
+    int bits = 0;
+
+    for (char c : input) {
+        if (c == '=')
+            break;
+
+        const int v = base64::table[static_cast<unsigned char>(c)];
+        if (v < 0)
+            return {false, {}, "invalid character"};
+
+        buf = (buf << 6) | static_cast<std::uint32_t>(v);
+        bits += 6;
+
+        while (bits >= 8) {
+            bits -= 8;
+            out.push_back(static_cast<char>((buf >> bits) & 0xFF));
+        }
+    }
+
+    return {true, std::move(out), {}};
+}
+
+void usage() {
+    std::cerr << "Usage: please provide a mode and a string to encode/decode\n";
+    std::exit(1);
+}
+
+int main(int argc, char** argv) {
+    if (argc != 3)
+        usage();
+
+    std::string_view mode = argv[1];
+    std::string_view text = argv[2];
+
+    if (text.empty())
+        usage();
+
+    if (mode == "encode") {
+        std::cout << encode(text) << '\n';
+    }
+    else if (mode == "decode") {
+        auto res = decode(text);
+        if (!res.ok)
+            usage();
+        std::cout << res.value << '\n';
+    }
+    else {
+        usage();
+    }
+}
+```
+
+{% endraw %}
+
+Base64 Encode Decode in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+
+- Ștefan-Iulian Alecu
+
+If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+## How to Implement the Solution
+
+No 'How to Implement the Solution' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).
+
+## How to Run the Solution
+
+No 'How to Run the Solution' section available. [Please consider contributing](https://github.com/TheRenegadeCoder/sample-programs-website).

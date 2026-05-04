@@ -3,7 +3,7 @@ authors:
 - Ron Zuckerman
 date: 2018-03-21
 featured-image: programming-languages.jpg
-last-modified: 2026-04-15
+last-modified: 2026-05-04
 layout: default
 tags:
 - c-plus-plus
@@ -43,9 +43,10 @@ However, with great power comes great responsibility. As a result, I personally 
 
 ## Articles
 
-There are 38 articles:
+There are 39 articles:
 
 - [Baklava in C++](https://sampleprograms.io/projects/baklava/c-plus-plus)
+- [Base64 Encode Decode in C++](https://sampleprograms.io/projects/base64-encode-decode/c-plus-plus)
 - [Binary Search in C++](https://sampleprograms.io/projects/binary-search/c-plus-plus)
 - [Bubble Sort in C++](https://sampleprograms.io/projects/bubble-sort/c-plus-plus)
 - [Capitalize in C++](https://sampleprograms.io/projects/capitalize/c-plus-plus)
