@@ -1,7 +1,7 @@
 ---
 date: 2021-10-08
 featured-image: programming-languages.jpg
-last-modified: 2026-05-01
+last-modified: 2026-05-05
 layout: default
 tags:
 - cobol
@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 29 articles:
+There are 31 articles:
 
 - [Baklava in COBOL](https://sampleprograms.io/projects/baklava/cobol)
 - [Base64 Encode Decode in COBOL](https://sampleprograms.io/projects/base64-encode-decode/cobol)
@@ -41,6 +41,8 @@ There are 29 articles:
 - [Duplicate Character Counter in COBOL](https://sampleprograms.io/projects/duplicate-character-counter/cobol)
 - [Even Odd in COBOL](https://sampleprograms.io/projects/even-odd/cobol)
 - [Factorial in COBOL](https://sampleprograms.io/projects/factorial/cobol)
+- [Fibonacci in COBOL](https://sampleprograms.io/projects/fibonacci/cobol)
+- [File Input Output in COBOL](https://sampleprograms.io/projects/file-input-output/cobol)
 - [Fizz Buzz in COBOL](https://sampleprograms.io/projects/fizz-buzz/cobol)
 - [Hello World in COBOL](https://sampleprograms.io/projects/hello-world/cobol)
 - [Insertion Sort in COBOL](https://sampleprograms.io/projects/insertion-sort/cobol)

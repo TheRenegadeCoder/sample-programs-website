@@ -62,7 +62,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 37 articles:
+There are 38 articles:
 
 - [File Input Output in ALGOL 68](https://sampleprograms.io/projects/file-input-output/algol68)
 - [File Input Output in AWK](https://sampleprograms.io/projects/file-input-output/awk)
@@ -71,6 +71,7 @@ There are 37 articles:
 - [File Input Output in C](https://sampleprograms.io/projects/file-input-output/c)
 - [File Input Output in C#](https://sampleprograms.io/projects/file-input-output/c-sharp)
 - [File Input Output in C++](https://sampleprograms.io/projects/file-input-output/c-plus-plus)
+- [File Input Output in COBOL](https://sampleprograms.io/projects/file-input-output/cobol)
 - [File Input Output in Commodore BASIC](https://sampleprograms.io/projects/file-input-output/commodore-basic)
 - [File Input Output in Dg](https://sampleprograms.io/projects/file-input-output/dg)
 - [File Input Output in Elvish](https://sampleprograms.io/projects/file-input-output/elvish)

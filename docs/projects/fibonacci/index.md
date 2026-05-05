@@ -90,7 +90,7 @@ Usage: please input the count of fibonacci numbers to output
 
 ## Articles
 
-There are 44 articles:
+There are 45 articles:
 
 - [Fibonacci in ALGOL 60](https://sampleprograms.io/projects/fibonacci/algol60)
 - [Fibonacci in ALGOL 68](https://sampleprograms.io/projects/fibonacci/algol68)
@@ -101,6 +101,7 @@ There are 44 articles:
 - [Fibonacci in C](https://sampleprograms.io/projects/fibonacci/c)
 - [Fibonacci in C#](https://sampleprograms.io/projects/fibonacci/c-sharp)
 - [Fibonacci in C++](https://sampleprograms.io/projects/fibonacci/c-plus-plus)
+- [Fibonacci in COBOL](https://sampleprograms.io/projects/fibonacci/cobol)
 - [Fibonacci in Commodore BASIC](https://sampleprograms.io/projects/fibonacci/commodore-basic)
 - [Fibonacci in Dart](https://sampleprograms.io/projects/fibonacci/dart)
 - [Fibonacci in Elvish](https://sampleprograms.io/projects/fibonacci/elvish)
