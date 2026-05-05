@@ -1,7 +1,7 @@
 ---
 date: 2018-04-12
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2026-04-30
+last-modified: 2026-05-05
 layout: default
 tags:
 - reverse-string

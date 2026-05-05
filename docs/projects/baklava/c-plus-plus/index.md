@@ -1,11 +1,10 @@
 ---
 authors:
 - Behnam Ahmad khan beigi
-- Jeremy Grifski
-- yottanami
+- Ștefan-Iulian Alecu
 date: 2019-10-09
 featured-image: baklava-in-every-language.jpg
-last-modified: 2022-10-10
+last-modified: 2026-05-05
 layout: default
 tags:
 - baklava
@@ -33,37 +32,23 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [C++](ht
 {% raw %}
 
 ```c++
+#include <cmath>
 #include <iostream>
+#include <ranges>
+#include <string>
 
-using namespace std;
+int main() {
+    constexpr int n = 21;
+    constexpr int mid = n / 2;
 
-int main(int argc, char *argv[])
-{
-    int i, j, k, n;
-    n = 21;
-    for (i = 1; i <= (n + 1) / 2;)
-    {
-        for (k = 1; (n + 1) / 2 - i >= k; k++)
-            cout << " ";
-        for (j = 1; j < 2 * i; j++)
-            cout << "*";
-        cout << "\n";
-        i++;
+    for (int i : std::views::iota(-mid, mid + 1)) {
+        int stars = n - 2 * std::abs(i);
+        int spaces = std::abs(i);
+
+        std::cout << std::string(spaces, ' ') << std::string(stars, '*')
+                  << '\n';
     }
-    if (2 * i - 1 >= n)
-    {
-        for (i = (n + 1) / 2 - 1; i >= 1; i--)
-        {
-            for (k = 1; (n + 1) / 2 - i >= k; k++)
-                cout << " ";
-            for (j = 1; j < 2 * i; j++)
-                cout << "*";
-            cout << "\n";
-        }
-    }
-    return (0);
 }
-
 ```
 
 {% endraw %}
@@ -71,8 +56,7 @@ int main(int argc, char *argv[])
 Baklava in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Behnam Ahmad khan beigi
-- Jeremy Grifski
-- yottanami
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

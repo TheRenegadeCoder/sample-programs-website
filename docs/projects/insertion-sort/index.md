@@ -1,7 +1,7 @@
 ---
 date: 2018-12-18
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: 2026-05-03
+last-modified: 2026-05-05
 layout: default
 tags:
 - insertion-sort

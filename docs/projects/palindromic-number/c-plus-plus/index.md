@@ -1,12 +1,11 @@
 ---
 authors:
 - Jeremy Grifski
-- rzuckerm
 - smjalageri
 - Ștefan-Iulian Alecu
 date: 2021-11-01
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2026-04-15
+last-modified: 2026-05-05
 layout: default
 tags:
 - c-plus-plus
@@ -34,59 +33,67 @@ Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindrom
 {% raw %}
 
 ```c++
-#include <ctype.h>
+#include <charconv>
+#include <cstdlib>
+#include <format>
 #include <iostream>
-#include <stdlib.h>
-#include <string.h>
+#include <optional>
+#include <string_view>
 
-using namespace std;
-
-void palindromic_number(int number)
-{
-    int temp = number, reversed_number = 0;
-
-    while (temp > 0)
-    {
-        reversed_number = (reversed_number * 10) + (temp % 10);
-        temp = (int)(temp / 10);
-    }
-    if (number < 0)
-    {
-        cout << "Usage: please input a non-negative integer";
-        exit(1);
-    }
-    else
-    {
-        if (reversed_number == number)
-            cout << "true";
-        else
-            cout << "false";
-    }
+[[noreturn]] void usage() {
+    std::cerr << "Usage: please input a non-negative integer\n";
+    std::exit(1);
 }
 
-int is_int(char **argv)
-{
-    int j = 0;
-    while (isdigit(argv[1][j]))
-        ++j;
+static constexpr std::string_view ws = " \t\n\r\f\v";
+constexpr std::string_view trim(std::string_view s) {
+    const auto start = s.find_first_not_of(ws);
+    if (start == std::string_view::npos) return "";
+    s.remove_prefix(start);
 
-    if (strlen(argv[1]) != j || j == 0)
-        return 1;
-    else
-        return 0;
+    const auto end = s.find_last_not_of(ws);
+    s.remove_suffix(s.size() - 1 - end);
+    return s;
 }
 
-int main(int argc, char **argv)
-{
-    if (argc != 2 || is_int(argv))
-    {
-        cout << "Usage: please input a non-negative integer";
-        return (1);
+std::optional<int> to_nonnegative_int(std::string_view s) {
+    s = trim(s);
+    int value{};
+    auto [ptr, ec] = std::from_chars(s.data(), s.data() + s.size(), value);
+    return (ec == std::errc{} && ptr == s.data() + s.size() && value >= 0)
+               ? std::make_optional(value)
+               : std::nullopt;
+}
+
+constexpr bool is_palindrome(int n) {
+    int original = n;
+    int reversed = 0;
+
+    while (n > 0) {
+        reversed = reversed * 10 + (n % 10);
+        n /= 10;
     }
-    palindromic_number(atoi(argv[1]));
-    return (0);
+
+    return reversed == original;
 }
 
+int main(int argc, char* argv[]) {
+    if (argc != 2) usage();
+
+    if (auto n = to_nonnegative_int(argv[1]); n) {
+        int original = *n;
+        int reversed = 0;
+
+        while (original > 0) {
+            reversed = reversed * 10 + (original % 10);
+            original /= 10;
+        }
+
+        std::cout << std::format("{}\n", reversed == *n);
+    } else {
+        usage();
+    }
+}
 ```
 
 {% endraw %}
@@ -94,7 +101,6 @@ int main(int argc, char **argv)
 Palindromic Number in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Jeremy Grifski
-- rzuckerm
 - smjalageri
 - Ștefan-Iulian Alecu
 

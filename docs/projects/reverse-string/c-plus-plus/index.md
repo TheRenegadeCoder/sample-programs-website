@@ -5,7 +5,7 @@ authors:
 - Ștefan-Iulian Alecu
 date: 2018-09-14
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2026-04-15
+last-modified: 2026-05-05
 layout: default
 tags:
 - c-plus-plus
@@ -36,16 +36,17 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 #include <algorithm>
 #include <iostream>
 #include <string>
+#include <string_view>
 
-int main(int argc, char *argv[])
-{
-    if (argc < 2)
+int main(int argc, char* argv[]) {
+    if (argc < 2 || std::string_view(argv[1]).empty()) {
         return 0;
+    }
 
     std::string s = argv[1];
-    std::reverse(s.begin(), s.end());
+    std::ranges::reverse(s);
 
-    std::cout << s << "\n";
+    std::cout << s << '\n';
 }
 ```
 

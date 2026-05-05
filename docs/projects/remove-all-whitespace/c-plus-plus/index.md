@@ -4,7 +4,7 @@ authors:
 - Ștefan-Iulian Alecu
 date: 2024-11-07
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2026-04-15
+last-modified: 2026-05-05
 layout: default
 tags:
 - c-plus-plus
@@ -32,43 +32,32 @@ Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove
 {% raw %}
 
 ```c++
-#include <cctype> // for std::isspace
+#include <algorithm>
+#include <cctype>
 #include <iostream>
+#include <ranges>
 #include <string>
+#include <string_view>
 
-int main(int argc, char *argv[])
-{
-
-    // Check if given string passed
-    if (argc < 2)
-    {
-        std::cout << "Usage: please provide a string" << std::endl;
-        return 1; // Return error code if no string is given
-    }
-
-    // Get the string passed
-    std::string input = argv[1];
-    std::string result;
-
-    // Check if input string is empty
-    if (input.empty())
-    {
-        std::cout << "Usage: please provide a string" << std::endl;
-        return 1; // Exit error code if the string is empty
-    }
-
-    for (char c : input)
-    {
-        // If the character is not a whitespace character, add it to result
-        if (!std::isspace(static_cast<unsigned char>(c)))
-            result += c;
-    }
-    // print out the result (string should have no spaces)
-    std::cout << result << std::endl;
-
-    return 0;
+[[noreturn]] void usage() {
+    std::cerr << "Usage: please provide a string\n";
+    std::exit(1);
 }
 
+int main(int argc, char* argv[]) {
+    if (argc < 2) usage();
+
+    std::string_view input = argv[1];
+    if (input.empty()) usage();
+
+    auto is_not_space = [](unsigned char c) { return !std::isspace(c); };
+    auto filtered = input | std::views::filter(is_not_space);
+
+    std::string result;
+    std::ranges::copy(filtered, std::back_inserter(result));
+
+    std::cout << result << '\n';
+}
 ```
 
 {% endraw %}

@@ -6,7 +6,7 @@ authors:
 - Ștefan-Iulian Alecu
 date: 2018-09-10
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2026-04-15
+last-modified: 2026-05-05
 layout: default
 tags:
 - c-plus-plus
@@ -34,51 +34,48 @@ Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input
 {% raw %}
 
 ```c++
+#include <cstdlib>
+#include <filesystem>
+#include <format>
 #include <fstream>
 #include <iostream>
 #include <string>
 
-void write_file()
-{
-    std::fstream out("output.txt", std::ios::out);
+namespace fs = std::filesystem;
 
-    if (!out.is_open())
-    {
-        std::cout << "Could not open file!\n";
-        return;
+bool write_file(const fs::path& path, std::string_view content) {
+    std::ofstream out(path, std::ios::binary | std::ios::trunc);
+
+    if (!out) {
+        std::cerr << "Error: Could not open '" << path << "' for writing!\n";
+        return false;
     }
 
-    out << "A line of text\n";
-    out << "Another line of text\n";
-
-    out.flush();
-
-    out.close();
+    out.write(content.data(), static_cast<std::streamsize>(content.size()));
+    return static_cast<bool>(out);
 }
 
-void read_file()
-{
-    std::fstream in;
+bool read_file(const fs::path& path) {
+    std::ifstream in(path, std::ios::binary);
 
-    in.open("output.txt", std::ios::in);
-
-    if (!in.is_open())
-    {
-        std::cout << "Could not open file!\n";
-        return;
+    if (!in) {
+        std::cerr << "Error: Could not open '" << path << "' for reading!\n";
+        return false;
     }
 
-    std::string line;
-    while (std::getline(in, line))
-        std::cout << line << "\n";
-
-    in.close();
+    std::cout << in.rdbuf();
+    return true;
 }
 
-int main()
-{
-    write_file();
-    read_file();
+int main() {
+    const fs::path target = "output.txt";
+
+    constexpr std::string_view data =
+        "A line of text\n"
+        "Another line of text\n";
+
+    if (!write_file(target, data)) return 1;
+    if (!read_file(target)) return 1;
 }
 ```
 
@@ -86,7 +83,6 @@ int main()
 
 File Input Output in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
-- Jeremy Grifski
 - Noah Nichols
 - Ștefan-Iulian Alecu
 
@@ -97,7 +93,7 @@ This article was written by:
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
-**Note**: The solution shown above is the current solution in the Sample Programs repository as of Apr 15 2026 00:50:56. The solution was first committed on Sep 10 2018 22:37:35. The documentation was last updated on May 15 2023 15:51:23. As a result, documentation below may be outdated.
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 05 2026 15:57:54. The solution was first committed on Sep 10 2018 22:37:35. The documentation was last updated on May 15 2023 15:51:23. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

@@ -3,9 +3,10 @@ authors:
 - Jeremy Griffith
 - Jeremy Grifski
 - rzuckerm
+- Ștefan-Iulian Alecu
 date: 2018-03-21
 featured-image: hello-world-in-c-plus-plus.jpg
-last-modified: 2023-05-15
+last-modified: 2026-05-05
 layout: default
 tags:
 - c-plus-plus
@@ -34,11 +35,9 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 ```c++
 #include <iostream>
-using namespace std;
 
-int main()
-{
-    cout << "Hello, World!";
+int main() {
+    std::cout << "Hello, World!\n";
     return 0;
 }
 
@@ -50,6 +49,7 @@ Hello World in [C++](https://sampleprograms.io/languages/c-plus-plus) was writte
 
 - Jeremy Griffith
 - Jeremy Grifski
+- Ștefan-Iulian Alecu
 
 This article was written by:
 
@@ -57,6 +57,8 @@ This article was written by:
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 05 2026 15:57:54. The solution was first committed on Mar 21 2018 00:11:57. The documentation was last updated on May 15 2023 15:51:23. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

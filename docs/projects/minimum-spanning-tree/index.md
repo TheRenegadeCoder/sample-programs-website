@@ -1,7 +1,7 @@
 ---
 date: 2019-10-14
 featured-image: minimum-spanning-tree-in-every-language.jpg
-last-modified: 2026-05-03
+last-modified: 2026-05-05
 layout: default
 tags:
 - minimum-spanning-tree

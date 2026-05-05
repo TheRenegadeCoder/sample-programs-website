@@ -4,7 +4,7 @@ authors:
 - Ștefan-Iulian Alecu
 date: 2023-10-19
 featured-image: rot13-in-every-language.jpg
-last-modified: 2026-04-15
+last-modified: 2026-05-05
 layout: default
 tags:
 - c-plus-plus
@@ -32,41 +32,33 @@ Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [C++](https:
 {% raw %}
 
 ```c++
+#include <algorithm>
+#include <cctype>
 #include <iostream>
-#include <string>
+#include <string_view>
 
-using namespace std;
-
-void rot13(string &str)
-{
-    for (char &c : str)
-    {
-        if (('a' <= c && c <= 'z') || ('A' <= c && c <= 'Z'))
-        {
-            if (('a' <= c && c <= 'm') || ('A' <= c && c <= 'M'))
-                c += 13;
-            else
-                c -= 13;
-        }
-    }
+[[noreturn]] void usage() {
+    std::cerr << "Usage: please provide a string to encrypt\n";
+    std::exit(1);
 }
 
-int main(int argc, char *argv[])
-{
-    if (argc == 2 && string(argv[1]).size() != 0)
-    {
-        string inputString(argv[1]);
-        rot13(inputString);
-        cout << inputString << endl;
+constexpr char rot13_char(char c) {
+    if (c >= 'a' && c <= 'z') {
+        return static_cast<char>('a' + (c - 'a' + 13) % 26);
     }
-    else
-    {
-        cout << "Usage: please provide a string to encrypt" << endl;
+    if (c >= 'A' && c <= 'Z') {
+        return static_cast<char>('A' + (c - 'A' + 13) % 26);
     }
-
-    return 0;
+    return c;
 }
 
+int main(int argc, char* argv[]) {
+    if (argc != 2 || std::string_view(argv[1]).empty()) usage();
+
+    std::string s = argv[1];
+    std::ranges::transform(s, s.begin(), rot13_char);
+    std::cout << s << '\n';
+}
 ```
 
 {% endraw %}

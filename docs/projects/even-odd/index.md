@@ -1,7 +1,7 @@
 ---
 date: 2018-10-21
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2026-04-30
+last-modified: 2026-05-05
 layout: default
 tags:
 - even-odd

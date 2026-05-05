@@ -1,10 +1,10 @@
 ---
 authors:
 - Ford Smith
-- Jeremy Grifski
+- Ștefan-Iulian Alecu
 date: 2019-10-09
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2022-10-10
+last-modified: 2026-05-05
 layout: default
 tags:
 - c-plus-plus
@@ -34,17 +34,22 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [C++
 ```c++
 #include <iostream>
 
-int main()
-{
-    for (int i = 1; i <= 100; i++)
-        if (i % 15 == 0)
+int main() {
+    for (int i = 1; i <= 100; ++i) {
+        const bool fizz = (i % 3 == 0);
+        const bool buzz = (i % 5 == 0);
+
+        if (fizz && buzz) {
             std::cout << "FizzBuzz\n";
-        else if (i % 5 == 0)
-            std::cout << "Buzz\n";
-        else if (i % 3 == 0)
+        } else if (fizz) {
             std::cout << "Fizz\n";
-        else
-            std::cout << i << "\n";
+        } else if (buzz) {
+            std::cout << "Buzz\n";
+        } else {
+            std::cout << i << '\n';
+        }
+    }
+    
     return 0;
 }
 
@@ -55,7 +60,7 @@ int main()
 Fizz Buzz in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Ford Smith
-- Jeremy Grifski
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

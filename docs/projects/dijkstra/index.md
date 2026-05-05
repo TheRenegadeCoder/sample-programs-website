@@ -1,7 +1,7 @@
 ---
 date: 2021-10-25
 featured-image: dijkstra-in-every-language.jpg
-last-modified: 2026-05-03
+last-modified: 2026-05-05
 layout: default
 tags:
 - dijkstra
