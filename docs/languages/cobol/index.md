@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 36 articles:
+There are 39 articles:
 
 - [Baklava in COBOL](https://sampleprograms.io/projects/baklava/cobol)
 - [Base64 Encode Decode in COBOL](https://sampleprograms.io/projects/base64-encode-decode/cobol)
@@ -47,8 +47,11 @@ There are 36 articles:
 - [Fraction Math in COBOL](https://sampleprograms.io/projects/fraction-math/cobol)
 - [Hello World in COBOL](https://sampleprograms.io/projects/hello-world/cobol)
 - [Insertion Sort in COBOL](https://sampleprograms.io/projects/insertion-sort/cobol)
+- [Job Sequencing in COBOL](https://sampleprograms.io/projects/job-sequencing/cobol)
 - [Josephus Problem in COBOL](https://sampleprograms.io/projects/josephus-problem/cobol)
 - [Linear Search in COBOL](https://sampleprograms.io/projects/linear-search/cobol)
+- [Longest Common Subsequence in COBOL](https://sampleprograms.io/projects/longest-common-subsequence/cobol)
+- [Longest Palindromic Substring in COBOL](https://sampleprograms.io/projects/longest-palindromic-substring/cobol)
 - [Longest Word in COBOL](https://sampleprograms.io/projects/longest-word/cobol)
 - [Maximum Array Rotation in COBOL](https://sampleprograms.io/projects/maximum-array-rotation/cobol)
 - [Maximum Subarray in COBOL](https://sampleprograms.io/projects/maximum-subarray/cobol)

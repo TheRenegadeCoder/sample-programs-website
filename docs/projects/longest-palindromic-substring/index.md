@@ -121,7 +121,7 @@ Usage: please provide a string that contains at least one palindrome
 
 ## Articles
 
-There are 23 articles:
+There are 24 articles:
 
 - [Longest Palindromic Substring in ALGOL 60](https://sampleprograms.io/projects/longest-palindromic-substring/algol60)
 - [Longest Palindromic Substring in ALGOL 68](https://sampleprograms.io/projects/longest-palindromic-substring/algol68)
@@ -130,6 +130,7 @@ There are 23 articles:
 - [Longest Palindromic Substring in C](https://sampleprograms.io/projects/longest-palindromic-substring/c)
 - [Longest Palindromic Substring in C#](https://sampleprograms.io/projects/longest-palindromic-substring/c-sharp)
 - [Longest Palindromic Substring in C++](https://sampleprograms.io/projects/longest-palindromic-substring/c-plus-plus)
+- [Longest Palindromic Substring in COBOL](https://sampleprograms.io/projects/longest-palindromic-substring/cobol)
 - [Longest Palindromic Substring in Commodore BASIC](https://sampleprograms.io/projects/longest-palindromic-substring/commodore-basic)
 - [Longest Palindromic Substring in Euphoria](https://sampleprograms.io/projects/longest-palindromic-substring/euphoria)
 - [Longest Palindromic Substring in F#](https://sampleprograms.io/projects/longest-palindromic-substring/f-sharp)

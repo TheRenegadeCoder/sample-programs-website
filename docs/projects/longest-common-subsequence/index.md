@@ -100,7 +100,7 @@ Usage: please provide two lists in the format "1, 2, 3, 4, 5"
 
 ## Articles
 
-There are 25 articles:
+There are 26 articles:
 
 - [Longest Common Subsequence in ALGOL 60](https://sampleprograms.io/projects/longest-common-subsequence/algol60)
 - [Longest Common Subsequence in ALGOL 68](https://sampleprograms.io/projects/longest-common-subsequence/algol68)
@@ -109,6 +109,7 @@ There are 25 articles:
 - [Longest Common Subsequence in C](https://sampleprograms.io/projects/longest-common-subsequence/c)
 - [Longest Common Subsequence in C#](https://sampleprograms.io/projects/longest-common-subsequence/c-sharp)
 - [Longest Common Subsequence in C++](https://sampleprograms.io/projects/longest-common-subsequence/c-plus-plus)
+- [Longest Common Subsequence in COBOL](https://sampleprograms.io/projects/longest-common-subsequence/cobol)
 - [Longest Common Subsequence in Commodore BASIC](https://sampleprograms.io/projects/longest-common-subsequence/commodore-basic)
 - [Longest Common Subsequence in Elixir](https://sampleprograms.io/projects/longest-common-subsequence/elixir)
 - [Longest Common Subsequence in Euphoria](https://sampleprograms.io/projects/longest-common-subsequence/euphoria)

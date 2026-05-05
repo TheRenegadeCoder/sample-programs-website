@@ -116,7 +116,7 @@ Usage: please provide a list of profits and a list of deadlines
 
 ## Articles
 
-There are 24 articles:
+There are 25 articles:
 
 - [Job Sequencing in ALGOL 60](https://sampleprograms.io/projects/job-sequencing/algol60)
 - [Job Sequencing in ALGOL 68](https://sampleprograms.io/projects/job-sequencing/algol68)
@@ -125,6 +125,7 @@ There are 24 articles:
 - [Job Sequencing in C](https://sampleprograms.io/projects/job-sequencing/c)
 - [Job Sequencing in C#](https://sampleprograms.io/projects/job-sequencing/c-sharp)
 - [Job Sequencing in C++](https://sampleprograms.io/projects/job-sequencing/c-plus-plus)
+- [Job Sequencing in COBOL](https://sampleprograms.io/projects/job-sequencing/cobol)
 - [Job Sequencing in Commodore BASIC](https://sampleprograms.io/projects/job-sequencing/commodore-basic)
 - [Job Sequencing in Euphoria](https://sampleprograms.io/projects/job-sequencing/euphoria)
 - [Job Sequencing in F#](https://sampleprograms.io/projects/job-sequencing/f-sharp)
