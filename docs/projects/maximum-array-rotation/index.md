@@ -106,7 +106,7 @@ Usage: please provide a list of integers (e.g. "8, 3, 1, 2")
 
 ## Articles
 
-There are 22 articles:
+There are 23 articles:
 
 - [Maximum Array Rotation in ALGOL 60](https://sampleprograms.io/projects/maximum-array-rotation/algol60)
 - [Maximum Array Rotation in ALGOL 68](https://sampleprograms.io/projects/maximum-array-rotation/algol68)
@@ -115,6 +115,7 @@ There are 22 articles:
 - [Maximum Array Rotation in C](https://sampleprograms.io/projects/maximum-array-rotation/c)
 - [Maximum Array Rotation in C#](https://sampleprograms.io/projects/maximum-array-rotation/c-sharp)
 - [Maximum Array Rotation in C++](https://sampleprograms.io/projects/maximum-array-rotation/c-plus-plus)
+- [Maximum Array Rotation in COBOL](https://sampleprograms.io/projects/maximum-array-rotation/cobol)
 - [Maximum Array Rotation in Commodore BASIC](https://sampleprograms.io/projects/maximum-array-rotation/commodore-basic)
 - [Maximum Array Rotation in Euphoria](https://sampleprograms.io/projects/maximum-array-rotation/euphoria)
 - [Maximum Array Rotation in F#](https://sampleprograms.io/projects/maximum-array-rotation/f-sharp)

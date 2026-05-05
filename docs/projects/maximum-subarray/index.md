@@ -88,7 +88,7 @@ Usage: Please provide a list of integers in the format: "1, 2, 3, 4, 5"
 
 ## Articles
 
-There are 24 articles:
+There are 25 articles:
 
 - [Maximum Subarray in ALGOL 60](https://sampleprograms.io/projects/maximum-subarray/algol60)
 - [Maximum Subarray in ALGOL 68](https://sampleprograms.io/projects/maximum-subarray/algol68)
@@ -97,6 +97,7 @@ There are 24 articles:
 - [Maximum Subarray in C](https://sampleprograms.io/projects/maximum-subarray/c)
 - [Maximum Subarray in C#](https://sampleprograms.io/projects/maximum-subarray/c-sharp)
 - [Maximum Subarray in C++](https://sampleprograms.io/projects/maximum-subarray/c-plus-plus)
+- [Maximum Subarray in COBOL](https://sampleprograms.io/projects/maximum-subarray/cobol)
 - [Maximum Subarray in Commodore BASIC](https://sampleprograms.io/projects/maximum-subarray/commodore-basic)
 - [Maximum Subarray in Euphoria](https://sampleprograms.io/projects/maximum-subarray/euphoria)
 - [Maximum Subarray in F#](https://sampleprograms.io/projects/maximum-subarray/f-sharp)
