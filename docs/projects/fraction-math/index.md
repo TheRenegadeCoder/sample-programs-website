@@ -92,7 +92,7 @@ Usage: ./fraction-math operand1 operator operand2
 
 ## Articles
 
-There are 22 articles:
+There are 23 articles:
 
 - [Fraction Math in ALGOL 60](https://sampleprograms.io/projects/fraction-math/algol60)
 - [Fraction Math in ALGOL 68](https://sampleprograms.io/projects/fraction-math/algol68)
@@ -101,6 +101,7 @@ There are 22 articles:
 - [Fraction Math in C](https://sampleprograms.io/projects/fraction-math/c)
 - [Fraction Math in C#](https://sampleprograms.io/projects/fraction-math/c-sharp)
 - [Fraction Math in C++](https://sampleprograms.io/projects/fraction-math/c-plus-plus)
+- [Fraction Math in COBOL](https://sampleprograms.io/projects/fraction-math/cobol)
 - [Fraction Math in Commodore BASIC](https://sampleprograms.io/projects/fraction-math/commodore-basic)
 - [Fraction Math in Euphoria](https://sampleprograms.io/projects/fraction-math/euphoria)
 - [Fraction Math in F#](https://sampleprograms.io/projects/fraction-math/f-sharp)

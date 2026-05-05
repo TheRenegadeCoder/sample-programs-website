@@ -100,7 +100,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 35 articles:
+There are 36 articles:
 
 - [Longest Word in ALGOL 60](https://sampleprograms.io/projects/longest-word/algol60)
 - [Longest Word in ALGOL 68](https://sampleprograms.io/projects/longest-word/algol68)
@@ -110,6 +110,7 @@ There are 35 articles:
 - [Longest Word in C](https://sampleprograms.io/projects/longest-word/c)
 - [Longest Word in C#](https://sampleprograms.io/projects/longest-word/c-sharp)
 - [Longest Word in C++](https://sampleprograms.io/projects/longest-word/c-plus-plus)
+- [Longest Word in COBOL](https://sampleprograms.io/projects/longest-word/cobol)
 - [Longest Word in CoffeeScript](https://sampleprograms.io/projects/longest-word/coffeescript)
 - [Longest Word in Commodore BASIC](https://sampleprograms.io/projects/longest-word/commodore-basic)
 - [Longest Word in Dart](https://sampleprograms.io/projects/longest-word/dart)

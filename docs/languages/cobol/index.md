@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 31 articles:
+There are 33 articles:
 
 - [Baklava in COBOL](https://sampleprograms.io/projects/baklava/cobol)
 - [Base64 Encode Decode in COBOL](https://sampleprograms.io/projects/base64-encode-decode/cobol)
@@ -44,9 +44,11 @@ There are 31 articles:
 - [Fibonacci in COBOL](https://sampleprograms.io/projects/fibonacci/cobol)
 - [File Input Output in COBOL](https://sampleprograms.io/projects/file-input-output/cobol)
 - [Fizz Buzz in COBOL](https://sampleprograms.io/projects/fizz-buzz/cobol)
+- [Fraction Math in COBOL](https://sampleprograms.io/projects/fraction-math/cobol)
 - [Hello World in COBOL](https://sampleprograms.io/projects/hello-world/cobol)
 - [Insertion Sort in COBOL](https://sampleprograms.io/projects/insertion-sort/cobol)
 - [Linear Search in COBOL](https://sampleprograms.io/projects/linear-search/cobol)
+- [Longest Word in COBOL](https://sampleprograms.io/projects/longest-word/cobol)
 - [Merge Sort in COBOL](https://sampleprograms.io/projects/merge-sort/cobol)
 - [Minimum Spanning Tree in COBOL](https://sampleprograms.io/projects/minimum-spanning-tree/cobol)
 - [Palindromic Number in COBOL](https://sampleprograms.io/projects/palindromic-number/cobol)
