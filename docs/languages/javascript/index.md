@@ -1,7 +1,7 @@
 ---
 date: 2018-05-06
 featured-image: programming-languages.jpg
-last-modified: 2026-04-24
+last-modified: 2026-05-06
 layout: default
 tags:
 - javascript
@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 34 articles:
+There are 35 articles:
 
 - [Baklava in JavaScript](https://sampleprograms.io/projects/baklava/javascript)
 - [Base64 Encode Decode in JavaScript](https://sampleprograms.io/projects/base64-encode-decode/javascript)
@@ -42,6 +42,7 @@ There are 34 articles:
 - [Fibonacci in JavaScript](https://sampleprograms.io/projects/fibonacci/javascript)
 - [File Input Output in JavaScript](https://sampleprograms.io/projects/file-input-output/javascript)
 - [Fizz Buzz in JavaScript](https://sampleprograms.io/projects/fizz-buzz/javascript)
+- [Fraction Math in JavaScript](https://sampleprograms.io/projects/fraction-math/javascript)
 - [Hello World in JavaScript](https://sampleprograms.io/projects/hello-world/javascript)
 - [Insertion Sort in JavaScript](https://sampleprograms.io/projects/insertion-sort/javascript)
 - [Job Sequencing in JavaScript](https://sampleprograms.io/projects/job-sequencing/javascript)
