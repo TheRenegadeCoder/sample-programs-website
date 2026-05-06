@@ -1,7 +1,7 @@
 ---
 date: 2021-10-25
 featured-image: dijkstra-in-every-language.jpg
-last-modified: 2026-05-05
+last-modified: 2026-05-07
 layout: default
 tags:
 - dijkstra
@@ -131,7 +131,7 @@ Usage: please provide three inputs: a serialized matrix, a source node and a des
 
 ## Articles
 
-There are 23 articles:
+There are 24 articles:
 
 - [Dijkstra in ALGOL 60](https://sampleprograms.io/projects/dijkstra/algol60)
 - [Dijkstra in ALGOL 68](https://sampleprograms.io/projects/dijkstra/algol68)
@@ -154,6 +154,7 @@ There are 23 articles:
 - [Dijkstra in Rust](https://sampleprograms.io/projects/dijkstra/rust)
 - [Dijkstra in Swift](https://sampleprograms.io/projects/dijkstra/swift)
 - [Dijkstra in Tcl](https://sampleprograms.io/projects/dijkstra/tcl)
+- [Dijkstra in TypeScript](https://sampleprograms.io/projects/dijkstra/typescript)
 - [Dijkstra in m4](https://sampleprograms.io/projects/dijkstra/m4)
 - [Dijkstra in x86-64](https://sampleprograms.io/projects/dijkstra/x86-64)
 

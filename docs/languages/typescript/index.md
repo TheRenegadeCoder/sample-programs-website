@@ -28,14 +28,16 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 32 articles:
+There are 34 articles:
 
 - [Baklava in TypeScript](https://sampleprograms.io/projects/baklava/typescript)
 - [Base64 Encode Decode in TypeScript](https://sampleprograms.io/projects/base64-encode-decode/typescript)
 - [Binary Search in TypeScript](https://sampleprograms.io/projects/binary-search/typescript)
 - [Bubble Sort in TypeScript](https://sampleprograms.io/projects/bubble-sort/typescript)
 - [Capitalize in TypeScript](https://sampleprograms.io/projects/capitalize/typescript)
+- [Convex Hull in TypeScript](https://sampleprograms.io/projects/convex-hull/typescript)
 - [Depth First Search in TypeScript](https://sampleprograms.io/projects/depth-first-search/typescript)
+- [Dijkstra in TypeScript](https://sampleprograms.io/projects/dijkstra/typescript)
 - [Duplicate Character Counter in TypeScript](https://sampleprograms.io/projects/duplicate-character-counter/typescript)
 - [Even Odd in TypeScript](https://sampleprograms.io/projects/even-odd/typescript)
 - [Factorial in TypeScript](https://sampleprograms.io/projects/factorial/typescript)

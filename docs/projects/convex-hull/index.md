@@ -1,7 +1,7 @@
 ---
 date: 2019-10-22
 featured-image: convex-hull-in-every-language.jpg
-last-modified: 2026-05-05
+last-modified: 2026-05-07
 layout: default
 tags:
 - convex-hull
@@ -100,7 +100,7 @@ Usage: please provide at least 3 x and y coordinates as separate lists (e.g. "10
 
 ## Articles
 
-There are 22 articles:
+There are 23 articles:
 
 - [Convex Hull in ALGOL 60](https://sampleprograms.io/projects/convex-hull/algol60)
 - [Convex Hull in ALGOL 68](https://sampleprograms.io/projects/convex-hull/algol68)
@@ -123,6 +123,7 @@ There are 22 articles:
 - [Convex Hull in Rust](https://sampleprograms.io/projects/convex-hull/rust)
 - [Convex Hull in Swift](https://sampleprograms.io/projects/convex-hull/swift)
 - [Convex Hull in Tcl](https://sampleprograms.io/projects/convex-hull/tcl)
+- [Convex Hull in TypeScript](https://sampleprograms.io/projects/convex-hull/typescript)
 - [Convex Hull in m4](https://sampleprograms.io/projects/convex-hull/m4)
 
 ***
