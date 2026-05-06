@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 38 articles:
+There are 39 articles:
 
 - [Baklava in JavaScript](https://sampleprograms.io/projects/baklava/javascript)
 - [Base64 Encode Decode in JavaScript](https://sampleprograms.io/projects/base64-encode-decode/javascript)
@@ -56,6 +56,7 @@ There are 38 articles:
 - [Maximum Array Rotation in JavaScript](https://sampleprograms.io/projects/maximum-array-rotation/javascript)
 - [Maximum Subarray in JavaScript](https://sampleprograms.io/projects/maximum-subarray/javascript)
 - [Merge Sort in JavaScript](https://sampleprograms.io/projects/merge-sort/javascript)
+- [Minimum Spanning Tree in JavaScript](https://sampleprograms.io/projects/minimum-spanning-tree/javascript)
 - [Palindromic Number in JavaScript](https://sampleprograms.io/projects/palindromic-number/javascript)
 - [Prime Number in JavaScript](https://sampleprograms.io/projects/prime-number/javascript)
 - [Quick Sort in JavaScript](https://sampleprograms.io/projects/quick-sort/javascript)

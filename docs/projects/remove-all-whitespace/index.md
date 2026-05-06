@@ -1,7 +1,7 @@
 ---
 date: 2022-04-28
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2026-05-05
+last-modified: 2026-05-06
 layout: default
 tags:
 - remove-all-whitespace
@@ -97,7 +97,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 33 articles:
+There are 34 articles:
 
 - [Remove All Whitespace in ALGOL 60](https://sampleprograms.io/projects/remove-all-whitespace/algol60)
 - [Remove All Whitespace in ALGOL 68](https://sampleprograms.io/projects/remove-all-whitespace/algol68)
@@ -126,6 +126,7 @@ There are 33 articles:
 - [Remove All Whitespace in Pascal](https://sampleprograms.io/projects/remove-all-whitespace/pascal)
 - [Remove All Whitespace in PowerShell](https://sampleprograms.io/projects/remove-all-whitespace/powershell)
 - [Remove All Whitespace in Python](https://sampleprograms.io/projects/remove-all-whitespace/python)
+- [Remove All Whitespace in R](https://sampleprograms.io/projects/remove-all-whitespace/r)
 - [Remove All Whitespace in Ruby](https://sampleprograms.io/projects/remove-all-whitespace/ruby)
 - [Remove All Whitespace in Rust](https://sampleprograms.io/projects/remove-all-whitespace/rust)
 - [Remove All Whitespace in Swift](https://sampleprograms.io/projects/remove-all-whitespace/swift)

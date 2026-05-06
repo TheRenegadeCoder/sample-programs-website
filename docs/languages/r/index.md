@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-27
 featured-image: programming-languages.jpg
-last-modified: 2024-11-21
+last-modified: 2026-05-06
 layout: default
 tags:
 - r
@@ -52,7 +52,7 @@ originates.
 
 ## Articles
 
-There are 10 articles:
+There are 11 articles:
 
 - [Baklava in R](https://sampleprograms.io/projects/baklava/r)
 - [Capitalize in R](https://sampleprograms.io/projects/capitalize/r)
@@ -63,4 +63,5 @@ There are 10 articles:
 - [Hello World in R](https://sampleprograms.io/projects/hello-world/r)
 - [Longest Word in R](https://sampleprograms.io/projects/longest-word/r)
 - [Prime Number in R](https://sampleprograms.io/projects/prime-number/r)
+- [Remove All Whitespace in R](https://sampleprograms.io/projects/remove-all-whitespace/r)
 - [Reverse String in R](https://sampleprograms.io/projects/reverse-string/r)

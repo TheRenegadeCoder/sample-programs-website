@@ -1,7 +1,7 @@
 ---
 date: 2019-10-14
 featured-image: minimum-spanning-tree-in-every-language.jpg
-last-modified: 2026-05-05
+last-modified: 2026-05-06
 layout: default
 tags:
 - minimum-spanning-tree
@@ -119,7 +119,7 @@ Usage: please provide a comma-separated list of integers
 
 ## Articles
 
-There are 21 articles:
+There are 22 articles:
 
 - [Minimum Spanning Tree in ALGOL 60](https://sampleprograms.io/projects/minimum-spanning-tree/algol60)
 - [Minimum Spanning Tree in ALGOL 68](https://sampleprograms.io/projects/minimum-spanning-tree/algol68)
@@ -133,6 +133,7 @@ There are 21 articles:
 - [Minimum Spanning Tree in Euphoria](https://sampleprograms.io/projects/minimum-spanning-tree/euphoria)
 - [Minimum Spanning Tree in F#](https://sampleprograms.io/projects/minimum-spanning-tree/f-sharp)
 - [Minimum Spanning Tree in Java](https://sampleprograms.io/projects/minimum-spanning-tree/java)
+- [Minimum Spanning Tree in JavaScript](https://sampleprograms.io/projects/minimum-spanning-tree/javascript)
 - [Minimum Spanning Tree in Mathematica](https://sampleprograms.io/projects/minimum-spanning-tree/mathematica)
 - [Minimum Spanning Tree in PHP](https://sampleprograms.io/projects/minimum-spanning-tree/php)
 - [Minimum Spanning Tree in Pascal](https://sampleprograms.io/projects/minimum-spanning-tree/pascal)
