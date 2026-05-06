@@ -92,7 +92,7 @@ Usage: ./fraction-math operand1 operator operand2
 
 ## Articles
 
-There are 24 articles:
+There are 25 articles:
 
 - [Fraction Math in ALGOL 60](https://sampleprograms.io/projects/fraction-math/algol60)
 - [Fraction Math in ALGOL 68](https://sampleprograms.io/projects/fraction-math/algol68)
@@ -117,6 +117,7 @@ There are 24 articles:
 - [Fraction Math in Rust](https://sampleprograms.io/projects/fraction-math/rust)
 - [Fraction Math in Swift](https://sampleprograms.io/projects/fraction-math/swift)
 - [Fraction Math in Tcl](https://sampleprograms.io/projects/fraction-math/tcl)
+- [Fraction Math in TypeScript](https://sampleprograms.io/projects/fraction-math/typescript)
 - [Fraction Math in m4](https://sampleprograms.io/projects/fraction-math/m4)
 
 ***

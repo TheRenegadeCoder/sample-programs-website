@@ -1,7 +1,7 @@
 ---
 date: 2018-06-22
 featured-image: programming-languages.jpg
-last-modified: 2026-04-24
+last-modified: 2026-05-06
 layout: default
 tags:
 - typescript
@@ -28,19 +28,21 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 27 articles:
+There are 29 articles:
 
 - [Baklava in TypeScript](https://sampleprograms.io/projects/baklava/typescript)
 - [Base64 Encode Decode in TypeScript](https://sampleprograms.io/projects/base64-encode-decode/typescript)
 - [Binary Search in TypeScript](https://sampleprograms.io/projects/binary-search/typescript)
 - [Bubble Sort in TypeScript](https://sampleprograms.io/projects/bubble-sort/typescript)
 - [Capitalize in TypeScript](https://sampleprograms.io/projects/capitalize/typescript)
+- [Depth First Search in TypeScript](https://sampleprograms.io/projects/depth-first-search/typescript)
 - [Duplicate Character Counter in TypeScript](https://sampleprograms.io/projects/duplicate-character-counter/typescript)
 - [Even Odd in TypeScript](https://sampleprograms.io/projects/even-odd/typescript)
 - [Factorial in TypeScript](https://sampleprograms.io/projects/factorial/typescript)
 - [Fibonacci in TypeScript](https://sampleprograms.io/projects/fibonacci/typescript)
 - [File Input Output in TypeScript](https://sampleprograms.io/projects/file-input-output/typescript)
 - [Fizz Buzz in TypeScript](https://sampleprograms.io/projects/fizz-buzz/typescript)
+- [Fraction Math in TypeScript](https://sampleprograms.io/projects/fraction-math/typescript)
 - [Hello World in TypeScript](https://sampleprograms.io/projects/hello-world/typescript)
 - [Insertion Sort in TypeScript](https://sampleprograms.io/projects/insertion-sort/typescript)
 - [Linear Search in TypeScript](https://sampleprograms.io/projects/linear-search/typescript)
