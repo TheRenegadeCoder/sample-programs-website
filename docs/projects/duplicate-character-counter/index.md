@@ -1,7 +1,7 @@
 ---
 date: 2022-05-14
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2026-05-05
+last-modified: 2026-05-06
 layout: default
 tags:
 - duplicate-character-counter
@@ -78,7 +78,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 30 articles:
+There are 31 articles:
 
 - [Duplicate Character Counter in ALGOL 60](https://sampleprograms.io/projects/duplicate-character-counter/algol60)
 - [Duplicate Character Counter in ALGOL 68](https://sampleprograms.io/projects/duplicate-character-counter/algol68)
@@ -94,6 +94,7 @@ There are 30 articles:
 - [Duplicate Character Counter in F#](https://sampleprograms.io/projects/duplicate-character-counter/f-sharp)
 - [Duplicate Character Counter in Go](https://sampleprograms.io/projects/duplicate-character-counter/go)
 - [Duplicate Character Counter in Java](https://sampleprograms.io/projects/duplicate-character-counter/java)
+- [Duplicate Character Counter in JavaScript](https://sampleprograms.io/projects/duplicate-character-counter/javascript)
 - [Duplicate Character Counter in Kotlin](https://sampleprograms.io/projects/duplicate-character-counter/kotlin)
 - [Duplicate Character Counter in Lua](https://sampleprograms.io/projects/duplicate-character-counter/lua)
 - [Duplicate Character Counter in Mathematica](https://sampleprograms.io/projects/duplicate-character-counter/mathematica)

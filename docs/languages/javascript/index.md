@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 35 articles:
+There are 37 articles:
 
 - [Baklava in JavaScript](https://sampleprograms.io/projects/baklava/javascript)
 - [Base64 Encode Decode in JavaScript](https://sampleprograms.io/projects/base64-encode-decode/javascript)
@@ -36,7 +36,9 @@ There are 35 articles:
 - [Bubble Sort in JavaScript](https://sampleprograms.io/projects/bubble-sort/javascript)
 - [Capitalize in JavaScript](https://sampleprograms.io/projects/capitalize/javascript)
 - [Convex Hull in JavaScript](https://sampleprograms.io/projects/convex-hull/javascript)
+- [Depth First Search in JavaScript](https://sampleprograms.io/projects/depth-first-search/javascript)
 - [Dijkstra in JavaScript](https://sampleprograms.io/projects/dijkstra/javascript)
+- [Duplicate Character Counter in JavaScript](https://sampleprograms.io/projects/duplicate-character-counter/javascript)
 - [Even Odd in JavaScript](https://sampleprograms.io/projects/even-odd/javascript)
 - [Factorial in JavaScript](https://sampleprograms.io/projects/factorial/javascript)
 - [Fibonacci in JavaScript](https://sampleprograms.io/projects/fibonacci/javascript)
