@@ -100,7 +100,7 @@ Usage: please provide at least 3 x and y coordinates as separate lists (e.g. "10
 
 ## Articles
 
-There are 23 articles:
+There are 24 articles:
 
 - [Convex Hull in ALGOL 60](https://sampleprograms.io/projects/convex-hull/algol60)
 - [Convex Hull in ALGOL 68](https://sampleprograms.io/projects/convex-hull/algol68)
@@ -113,6 +113,7 @@ There are 23 articles:
 - [Convex Hull in Commodore BASIC](https://sampleprograms.io/projects/convex-hull/commodore-basic)
 - [Convex Hull in Euphoria](https://sampleprograms.io/projects/convex-hull/euphoria)
 - [Convex Hull in F#](https://sampleprograms.io/projects/convex-hull/f-sharp)
+- [Convex Hull in Go](https://sampleprograms.io/projects/convex-hull/go)
 - [Convex Hull in Java](https://sampleprograms.io/projects/convex-hull/java)
 - [Convex Hull in JavaScript](https://sampleprograms.io/projects/convex-hull/javascript)
 - [Convex Hull in Mathematica](https://sampleprograms.io/projects/convex-hull/mathematica)
