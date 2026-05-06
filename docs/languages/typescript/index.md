@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 30 articles:
+There are 32 articles:
 
 - [Baklava in TypeScript](https://sampleprograms.io/projects/baklava/typescript)
 - [Base64 Encode Decode in TypeScript](https://sampleprograms.io/projects/base64-encode-decode/typescript)
@@ -45,7 +45,9 @@ There are 30 articles:
 - [Fraction Math in TypeScript](https://sampleprograms.io/projects/fraction-math/typescript)
 - [Hello World in TypeScript](https://sampleprograms.io/projects/hello-world/typescript)
 - [Insertion Sort in TypeScript](https://sampleprograms.io/projects/insertion-sort/typescript)
+- [Josephus Problem in TypeScript](https://sampleprograms.io/projects/josephus-problem/typescript)
 - [Linear Search in TypeScript](https://sampleprograms.io/projects/linear-search/typescript)
+- [Longest Palindromic Substring in TypeScript](https://sampleprograms.io/projects/longest-palindromic-substring/typescript)
 - [Longest Word in TypeScript](https://sampleprograms.io/projects/longest-word/typescript)
 - [Maximum Subarray in TypeScript](https://sampleprograms.io/projects/maximum-subarray/typescript)
 - [Merge Sort in TypeScript](https://sampleprograms.io/projects/merge-sort/typescript)
