@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 36 articles:
+There are 37 articles:
 
 - [Baklava in Go](https://sampleprograms.io/projects/baklava/go)
 - [Base64 Encode Decode in Go](https://sampleprograms.io/projects/base64-encode-decode/go)
@@ -36,6 +36,7 @@ There are 36 articles:
 - [Bubble Sort in Go](https://sampleprograms.io/projects/bubble-sort/go)
 - [Capitalize in Go](https://sampleprograms.io/projects/capitalize/go)
 - [Convex Hull in Go](https://sampleprograms.io/projects/convex-hull/go)
+- [Depth First Search in Go](https://sampleprograms.io/projects/depth-first-search/go)
 - [Duplicate Character Counter in Go](https://sampleprograms.io/projects/duplicate-character-counter/go)
 - [Even Odd in Go](https://sampleprograms.io/projects/even-odd/go)
 - [Factorial in Go](https://sampleprograms.io/projects/factorial/go)
