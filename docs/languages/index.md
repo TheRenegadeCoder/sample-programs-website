@@ -8,7 +8,7 @@ title1: Programming
 title2: Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1560 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1561 code snippets.
 
 ## Language Breakdown
 
@@ -26,7 +26,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 68</td>
-        <td class="right">5.33%</td>
+        <td class="right">5.32%</td>
         <td class="bar-graph"><div style="width: 56.42%; background-color: #AF425E;"></div></td> 
     </tr>
 
@@ -104,7 +104,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">x86-64</td>
-        <td class="right">2.79%</td>
+        <td class="right">2.78%</td>
         <td class="bar-graph"><div style="width: 29.51%; background-color: #6E4C13;"></div></td> 
     </tr>
 
@@ -158,13 +158,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Go</td>
-        <td class="right">1.56%</td>
+        <td class="right">1.55%</td>
         <td class="bar-graph"><div style="width: 16.47%; background-color: #00ADD8;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">TypeScript</td>
-        <td class="right">1.32%</td>
+        <td class="right">1.31%</td>
         <td class="bar-graph"><div style="width: 13.93%; background-color: #3178C6;"></div></td> 
     </tr>
 
@@ -283,15 +283,15 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Lisp</td>
-        <td class="right">0.27%</td>
-        <td class="bar-graph"><div style="width: 2.88%; background-color: #3FB68B;"></div></td> 
+        <td class="right nowrap">R</td>
+        <td class="right">0.28%</td>
+        <td class="bar-graph"><div style="width: 2.93%; background-color: #198CE7;"></div></td> 
     </tr>
 
     <tr>
-        <td class="right nowrap">R</td>
-        <td class="right">0.25%</td>
-        <td class="bar-graph"><div style="width: 2.63%; background-color: #198CE7;"></div></td> 
+        <td class="right nowrap">Lisp</td>
+        <td class="right">0.27%</td>
+        <td class="bar-graph"><div style="width: 2.88%; background-color: #3FB68B;"></div></td> 
     </tr>
 
     <tr>
@@ -1247,9 +1247,9 @@ The 'Q' collection contains 1 language, of which 1 is tested, and 2 code snippet
 
 ### R
 
-The 'R' collection contains 8 languages, of which 8 are tested, and 94 code snippets.
+The 'R' collection contains 8 languages, of which 8 are tested, and 95 code snippets.
 
-- [R](https://sampleprograms.io/languages/r) (13 code snippets)
+- [R](https://sampleprograms.io/languages/r) (14 code snippets)
 - [Racket](https://sampleprograms.io/languages/racket) (4 code snippets)
 - [Raku](https://sampleprograms.io/languages/raku) (3 code snippets)
 - [Red](https://sampleprograms.io/languages/red) (4 code snippets)

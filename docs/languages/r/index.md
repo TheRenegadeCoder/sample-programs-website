@@ -52,13 +52,14 @@ originates.
 
 ## Articles
 
-There are 13 articles:
+There are 14 articles:
 
 - [Baklava in R](https://sampleprograms.io/projects/baklava/r)
 - [Capitalize in R](https://sampleprograms.io/projects/capitalize/r)
 - [Duplicate Character Counter in R](https://sampleprograms.io/projects/duplicate-character-counter/r)
 - [Even Odd in R](https://sampleprograms.io/projects/even-odd/r)
 - [Factorial in R](https://sampleprograms.io/projects/factorial/r)
+- [Fibonacci in R](https://sampleprograms.io/projects/fibonacci/r)
 - [File Input Output in R](https://sampleprograms.io/projects/file-input-output/r)
 - [Fizz Buzz in R](https://sampleprograms.io/projects/fizz-buzz/r)
 - [Hello World in R](https://sampleprograms.io/projects/hello-world/r)
