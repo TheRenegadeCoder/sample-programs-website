@@ -8,7 +8,7 @@ title1: Programming
 title2: Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1558 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1560 code snippets.
 
 ## Language Breakdown
 
@@ -62,7 +62,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Pascal</td>
-        <td class="right">3.76%</td>
+        <td class="right">3.75%</td>
         <td class="bar-graph"><div style="width: 39.77%; background-color: #E3F171;"></div></td> 
     </tr>
 
@@ -289,6 +289,12 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
+        <td class="right nowrap">R</td>
+        <td class="right">0.25%</td>
+        <td class="bar-graph"><div style="width: 2.63%; background-color: #198CE7;"></div></td> 
+    </tr>
+
+    <tr>
         <td class="right nowrap">Odin</td>
         <td class="right">0.23%</td>
         <td class="bar-graph"><div style="width: 2.43%; background-color: #60AFFE;"></div></td> 
@@ -298,12 +304,6 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Groovy</td>
         <td class="right">0.21%</td>
         <td class="bar-graph"><div style="width: 2.20%; background-color: #4298B8;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">R</td>
-        <td class="right">0.20%</td>
-        <td class="bar-graph"><div style="width: 2.15%; background-color: #198CE7;"></div></td> 
     </tr>
 
     <tr>
@@ -1247,9 +1247,9 @@ The 'Q' collection contains 1 language, of which 1 is tested, and 2 code snippet
 
 ### R
 
-The 'R' collection contains 8 languages, of which 8 are tested, and 92 code snippets.
+The 'R' collection contains 8 languages, of which 8 are tested, and 94 code snippets.
 
-- [R](https://sampleprograms.io/languages/r) (11 code snippets)
+- [R](https://sampleprograms.io/languages/r) (13 code snippets)
 - [Racket](https://sampleprograms.io/languages/racket) (4 code snippets)
 - [Raku](https://sampleprograms.io/languages/raku) (3 code snippets)
 - [Red](https://sampleprograms.io/languages/red) (4 code snippets)

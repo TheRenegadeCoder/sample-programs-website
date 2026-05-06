@@ -78,7 +78,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 31 articles:
+There are 32 articles:
 
 - [Duplicate Character Counter in ALGOL 60](https://sampleprograms.io/projects/duplicate-character-counter/algol60)
 - [Duplicate Character Counter in ALGOL 68](https://sampleprograms.io/projects/duplicate-character-counter/algol68)
@@ -102,6 +102,7 @@ There are 31 articles:
 - [Duplicate Character Counter in Pascal](https://sampleprograms.io/projects/duplicate-character-counter/pascal)
 - [Duplicate Character Counter in PowerShell](https://sampleprograms.io/projects/duplicate-character-counter/powershell)
 - [Duplicate Character Counter in Python](https://sampleprograms.io/projects/duplicate-character-counter/python)
+- [Duplicate Character Counter in R](https://sampleprograms.io/projects/duplicate-character-counter/r)
 - [Duplicate Character Counter in Ruby](https://sampleprograms.io/projects/duplicate-character-counter/ruby)
 - [Duplicate Character Counter in Rust](https://sampleprograms.io/projects/duplicate-character-counter/rust)
 - [Duplicate Character Counter in Swift](https://sampleprograms.io/projects/duplicate-character-counter/swift)

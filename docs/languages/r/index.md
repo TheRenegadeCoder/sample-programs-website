@@ -52,16 +52,18 @@ originates.
 
 ## Articles
 
-There are 11 articles:
+There are 13 articles:
 
 - [Baklava in R](https://sampleprograms.io/projects/baklava/r)
 - [Capitalize in R](https://sampleprograms.io/projects/capitalize/r)
+- [Duplicate Character Counter in R](https://sampleprograms.io/projects/duplicate-character-counter/r)
 - [Even Odd in R](https://sampleprograms.io/projects/even-odd/r)
 - [Factorial in R](https://sampleprograms.io/projects/factorial/r)
 - [File Input Output in R](https://sampleprograms.io/projects/file-input-output/r)
 - [Fizz Buzz in R](https://sampleprograms.io/projects/fizz-buzz/r)
 - [Hello World in R](https://sampleprograms.io/projects/hello-world/r)
 - [Longest Word in R](https://sampleprograms.io/projects/longest-word/r)
+- [Palindromic Number in R](https://sampleprograms.io/projects/palindromic-number/r)
 - [Prime Number in R](https://sampleprograms.io/projects/prime-number/r)
 - [Remove All Whitespace in R](https://sampleprograms.io/projects/remove-all-whitespace/r)
 - [Reverse String in R](https://sampleprograms.io/projects/reverse-string/r)
