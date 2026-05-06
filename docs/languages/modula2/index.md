@@ -1,7 +1,7 @@
 ---
 date: 2023-08-14
 featured-image: programming-languages.jpg
-last-modified: 2024-12-23
+last-modified: 2026-05-07
 layout: default
 tags:
 - modula2
@@ -28,7 +28,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 2 articles:
+There are 3 articles:
 
 - [Baklava in Modula-2](https://sampleprograms.io/projects/baklava/modula2)
+- [Fraction Math in Modula-2](https://sampleprograms.io/projects/fraction-math/modula2)
 - [Hello World in Modula-2](https://sampleprograms.io/projects/hello-world/modula2)

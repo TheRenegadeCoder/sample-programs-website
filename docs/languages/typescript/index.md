@@ -1,7 +1,7 @@
 ---
 date: 2018-06-22
 featured-image: programming-languages.jpg
-last-modified: 2026-05-06
+last-modified: 2026-05-07
 layout: default
 tags:
 - typescript
@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 29 articles:
+There are 30 articles:
 
 - [Baklava in TypeScript](https://sampleprograms.io/projects/baklava/typescript)
 - [Base64 Encode Decode in TypeScript](https://sampleprograms.io/projects/base64-encode-decode/typescript)
@@ -53,6 +53,7 @@ There are 29 articles:
 - [Prime Number in TypeScript](https://sampleprograms.io/projects/prime-number/typescript)
 - [Quick Sort in TypeScript](https://sampleprograms.io/projects/quick-sort/typescript)
 - [Quine in TypeScript](https://sampleprograms.io/projects/quine/typescript)
+- [Remove All Whitespace in TypeScript](https://sampleprograms.io/projects/remove-all-whitespace/typescript)
 - [Reverse String in TypeScript](https://sampleprograms.io/projects/reverse-string/typescript)
 - [Roman Numeral in TypeScript](https://sampleprograms.io/projects/roman-numeral/typescript)
 - [Rot13 in TypeScript](https://sampleprograms.io/projects/rot13/typescript)
