@@ -1,7 +1,7 @@
 ---
 date: 2019-10-14
 featured-image: minimum-spanning-tree-in-every-language.jpg
-last-modified: 2026-05-06
+last-modified: 2026-05-07
 layout: default
 tags:
 - minimum-spanning-tree
@@ -119,7 +119,7 @@ Usage: please provide a comma-separated list of integers
 
 ## Articles
 
-There are 22 articles:
+There are 23 articles:
 
 - [Minimum Spanning Tree in ALGOL 60](https://sampleprograms.io/projects/minimum-spanning-tree/algol60)
 - [Minimum Spanning Tree in ALGOL 68](https://sampleprograms.io/projects/minimum-spanning-tree/algol68)
@@ -142,6 +142,7 @@ There are 22 articles:
 - [Minimum Spanning Tree in Rust](https://sampleprograms.io/projects/minimum-spanning-tree/rust)
 - [Minimum Spanning Tree in Swift](https://sampleprograms.io/projects/minimum-spanning-tree/swift)
 - [Minimum Spanning Tree in Tcl](https://sampleprograms.io/projects/minimum-spanning-tree/tcl)
+- [Minimum Spanning Tree in TypeScript](https://sampleprograms.io/projects/minimum-spanning-tree/typescript)
 - [Minimum Spanning Tree in m4](https://sampleprograms.io/projects/minimum-spanning-tree/m4)
 
 ***
