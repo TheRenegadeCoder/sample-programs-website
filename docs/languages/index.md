@@ -8,7 +8,7 @@ title1: Programming
 title2: Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1555 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1556 code snippets.
 
 ## Language Breakdown
 
@@ -20,13 +20,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 60</td>
-        <td class="right">9.46%</td>
+        <td class="right">9.45%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">ALGOL 68</td>
-        <td class="right">5.34%</td>
+        <td class="right">5.33%</td>
         <td class="bar-graph"><div style="width: 56.42%; background-color: #AF425E;"></div></td> 
     </tr>
 
@@ -56,7 +56,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">COBOL</td>
-        <td class="right">4.41%</td>
+        <td class="right">4.40%</td>
         <td class="bar-graph"><div style="width: 46.58%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
@@ -80,7 +80,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Rust</td>
-        <td class="right">3.29%</td>
+        <td class="right">3.28%</td>
         <td class="bar-graph"><div style="width: 34.75%; background-color: #DEA584;"></div></td> 
     </tr>
 
@@ -92,7 +92,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Java</td>
-        <td class="right">2.98%</td>
+        <td class="right">2.97%</td>
         <td class="bar-graph"><div style="width: 31.47%; background-color: #B07219;"></div></td> 
     </tr>
 
@@ -146,8 +146,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">JavaScript</td>
-        <td class="right">1.85%</td>
-        <td class="bar-graph"><div style="width: 19.53%; background-color: #F1E05A;"></div></td> 
+        <td class="right">1.89%</td>
+        <td class="bar-graph"><div style="width: 20.04%; background-color: #F1E05A;"></div></td> 
     </tr>
 
     <tr>
@@ -254,7 +254,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Elixir</td>
-        <td class="right">0.31%</td>
+        <td class="right">0.30%</td>
         <td class="bar-graph"><div style="width: 3.23%; background-color: #6E4A7E;"></div></td> 
     </tr>
 
@@ -1143,11 +1143,11 @@ The 'I' collection contains 2 languages, of which 2 are tested, and 5 code snipp
 
 ### J
 
-The 'J' collection contains 4 languages, of which 4 are tested, and 94 code snippets.
+The 'J' collection contains 4 languages, of which 4 are tested, and 95 code snippets.
 
 - [Janet](https://sampleprograms.io/languages/janet) (3 code snippets)
 - [Java](https://sampleprograms.io/languages/java) (39 code snippets)
-- [JavaScript](https://sampleprograms.io/languages/javascript) (37 code snippets)
+- [JavaScript](https://sampleprograms.io/languages/javascript) (38 code snippets)
 - [Julia](https://sampleprograms.io/languages/julia) (15 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;

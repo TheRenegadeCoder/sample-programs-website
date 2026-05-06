@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 37 articles:
+There are 38 articles:
 
 - [Baklava in JavaScript](https://sampleprograms.io/projects/baklava/javascript)
 - [Base64 Encode Decode in JavaScript](https://sampleprograms.io/projects/base64-encode-decode/javascript)
@@ -53,6 +53,7 @@ There are 37 articles:
 - [Longest Common Subsequence in JavaScript](https://sampleprograms.io/projects/longest-common-subsequence/javascript)
 - [Longest Palindromic Substring in JavaScript](https://sampleprograms.io/projects/longest-palindromic-substring/javascript)
 - [Longest Word in JavaScript](https://sampleprograms.io/projects/longest-word/javascript)
+- [Maximum Array Rotation in JavaScript](https://sampleprograms.io/projects/maximum-array-rotation/javascript)
 - [Maximum Subarray in JavaScript](https://sampleprograms.io/projects/maximum-subarray/javascript)
 - [Merge Sort in JavaScript](https://sampleprograms.io/projects/merge-sort/javascript)
 - [Palindromic Number in JavaScript](https://sampleprograms.io/projects/palindromic-number/javascript)
