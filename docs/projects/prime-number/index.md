@@ -85,7 +85,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 43 articles:
+There are 44 articles:
 
 - [Prime Number in ALGOL 60](https://sampleprograms.io/projects/prime-number/algol60)
 - [Prime Number in ALGOL 68](https://sampleprograms.io/projects/prime-number/algol68)
@@ -128,6 +128,7 @@ There are 43 articles:
 - [Prime Number in TI-BASIC](https://sampleprograms.io/projects/prime-number/ti-basic)
 - [Prime Number in Tcl](https://sampleprograms.io/projects/prime-number/tcl)
 - [Prime Number in TypeScript](https://sampleprograms.io/projects/prime-number/typescript)
+- [Prime Number in Visual Basic](https://sampleprograms.io/projects/prime-number/visual-basic)
 - [Prime Number in Wren](https://sampleprograms.io/projects/prime-number/wren)
 - [Prime Number in m4](https://sampleprograms.io/projects/prime-number/m4)
 

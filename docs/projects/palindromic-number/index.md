@@ -84,7 +84,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 33 articles:
+There are 34 articles:
 
 - [Palindromic Number in ALGOL 60](https://sampleprograms.io/projects/palindromic-number/algol60)
 - [Palindromic Number in ALGOL 68](https://sampleprograms.io/projects/palindromic-number/algol68)
@@ -117,6 +117,7 @@ There are 33 articles:
 - [Palindromic Number in TI-BASIC](https://sampleprograms.io/projects/palindromic-number/ti-basic)
 - [Palindromic Number in Tcl](https://sampleprograms.io/projects/palindromic-number/tcl)
 - [Palindromic Number in TypeScript](https://sampleprograms.io/projects/palindromic-number/typescript)
+- [Palindromic Number in Visual Basic](https://sampleprograms.io/projects/palindromic-number/visual-basic)
 - [Palindromic Number in Wren](https://sampleprograms.io/projects/palindromic-number/wren)
 - [Palindromic Number in m4](https://sampleprograms.io/projects/palindromic-number/m4)
 

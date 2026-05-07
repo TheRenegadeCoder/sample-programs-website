@@ -129,7 +129,7 @@ Usage: please provide a list of integers ("1, 4, 5, 11, 12") and the integer to 
 
 ## Articles
 
-There are 32 articles:
+There are 33 articles:
 
 - [Linear Search in ALGOL 60](https://sampleprograms.io/projects/linear-search/algol60)
 - [Linear Search in ALGOL 68](https://sampleprograms.io/projects/linear-search/algol68)
@@ -162,6 +162,7 @@ There are 32 articles:
 - [Linear Search in Swift](https://sampleprograms.io/projects/linear-search/swift)
 - [Linear Search in Tcl](https://sampleprograms.io/projects/linear-search/tcl)
 - [Linear Search in TypeScript](https://sampleprograms.io/projects/linear-search/typescript)
+- [Linear Search in Visual Basic](https://sampleprograms.io/projects/linear-search/visual-basic)
 - [Linear Search in m4](https://sampleprograms.io/projects/linear-search/m4)
 
 ***

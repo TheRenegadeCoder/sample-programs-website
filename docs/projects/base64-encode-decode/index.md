@@ -1,7 +1,7 @@
 ---
 date: 2025-03-25
 featured-image: base64-encode-decode-in-every-language.png
-last-modified: 2026-05-05
+last-modified: 2026-05-07
 layout: default
 tags:
 - base64-encode-decode
@@ -324,7 +324,7 @@ Usage: please provide a mode and a string to encode/decode
 
 ## Articles
 
-There are 25 articles:
+There are 26 articles:
 
 - [Base64 Encode Decode in ALGOL 60](https://sampleprograms.io/projects/base64-encode-decode/algol60)
 - [Base64 Encode Decode in ALGOL 68](https://sampleprograms.io/projects/base64-encode-decode/algol68)
@@ -350,6 +350,7 @@ There are 25 articles:
 - [Base64 Encode Decode in Swift](https://sampleprograms.io/projects/base64-encode-decode/swift)
 - [Base64 Encode Decode in Tcl](https://sampleprograms.io/projects/base64-encode-decode/tcl)
 - [Base64 Encode Decode in TypeScript](https://sampleprograms.io/projects/base64-encode-decode/typescript)
+- [Base64 Encode Decode in Visual Basic](https://sampleprograms.io/projects/base64-encode-decode/visual-basic)
 - [Base64 Encode Decode in Zig](https://sampleprograms.io/projects/base64-encode-decode/zig)
 
 ***
