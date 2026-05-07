@@ -56,13 +56,14 @@ Python as one language instead of two.
 
 ## Articles
 
-There are 34 articles:
+There are 36 articles:
 
 - [Baklava in Visual Basic](https://sampleprograms.io/projects/baklava/visual-basic)
 - [Base64 Encode Decode in Visual Basic](https://sampleprograms.io/projects/base64-encode-decode/visual-basic)
 - [Binary Search in Visual Basic](https://sampleprograms.io/projects/binary-search/visual-basic)
 - [Bubble Sort in Visual Basic](https://sampleprograms.io/projects/bubble-sort/visual-basic)
 - [Capitalize in Visual Basic](https://sampleprograms.io/projects/capitalize/visual-basic)
+- [Convex Hull in Visual Basic](https://sampleprograms.io/projects/convex-hull/visual-basic)
 - [Depth First Search in Visual Basic](https://sampleprograms.io/projects/depth-first-search/visual-basic)
 - [Duplicate Character Counter in Visual Basic](https://sampleprograms.io/projects/duplicate-character-counter/visual-basic)
 - [Even Odd in Visual Basic](https://sampleprograms.io/projects/even-odd/visual-basic)
@@ -76,6 +77,7 @@ There are 34 articles:
 - [Job Sequencing in Visual Basic](https://sampleprograms.io/projects/job-sequencing/visual-basic)
 - [Josephus Problem in Visual Basic](https://sampleprograms.io/projects/josephus-problem/visual-basic)
 - [Linear Search in Visual Basic](https://sampleprograms.io/projects/linear-search/visual-basic)
+- [Longest Common Subsequence in Visual Basic](https://sampleprograms.io/projects/longest-common-subsequence/visual-basic)
 - [Longest Palindromic Substring in Visual Basic](https://sampleprograms.io/projects/longest-palindromic-substring/visual-basic)
 - [Longest Word in Visual Basic](https://sampleprograms.io/projects/longest-word/visual-basic)
 - [Maximum Array Rotation in Visual Basic](https://sampleprograms.io/projects/maximum-array-rotation/visual-basic)

@@ -100,7 +100,7 @@ Usage: please provide at least 3 x and y coordinates as separate lists (e.g. "10
 
 ## Articles
 
-There are 24 articles:
+There are 25 articles:
 
 - [Convex Hull in ALGOL 60](https://sampleprograms.io/projects/convex-hull/algol60)
 - [Convex Hull in ALGOL 68](https://sampleprograms.io/projects/convex-hull/algol68)
@@ -125,6 +125,7 @@ There are 24 articles:
 - [Convex Hull in Swift](https://sampleprograms.io/projects/convex-hull/swift)
 - [Convex Hull in Tcl](https://sampleprograms.io/projects/convex-hull/tcl)
 - [Convex Hull in TypeScript](https://sampleprograms.io/projects/convex-hull/typescript)
+- [Convex Hull in Visual Basic](https://sampleprograms.io/projects/convex-hull/visual-basic)
 - [Convex Hull in m4](https://sampleprograms.io/projects/convex-hull/m4)
 
 ***
