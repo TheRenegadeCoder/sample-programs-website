@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-05-04
 featured-image: programming-languages.jpg
-last-modified: 2026-05-07
+last-modified: 2026-05-08
 layout: default
 tags:
 - visual-basic
@@ -56,7 +56,7 @@ Python as one language instead of two.
 
 ## Articles
 
-There are 37 articles:
+There are 38 articles:
 
 - [Baklava in Visual Basic](https://sampleprograms.io/projects/baklava/visual-basic)
 - [Base64 Encode Decode in Visual Basic](https://sampleprograms.io/projects/base64-encode-decode/visual-basic)
@@ -93,5 +93,6 @@ There are 37 articles:
 - [Roman Numeral in Visual Basic](https://sampleprograms.io/projects/roman-numeral/visual-basic)
 - [Rot13 in Visual Basic](https://sampleprograms.io/projects/rot13/visual-basic)
 - [Selection Sort in Visual Basic](https://sampleprograms.io/projects/selection-sort/visual-basic)
+- [Sleep Sort in Visual Basic](https://sampleprograms.io/projects/sleep-sort/visual-basic)
 - [Transpose Matrix in Visual Basic](https://sampleprograms.io/projects/transpose-matrix/visual-basic)
 - [Zeckendorf in Visual Basic](https://sampleprograms.io/projects/zeckendorf/visual-basic)
