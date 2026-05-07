@@ -56,7 +56,7 @@ Python as one language instead of two.
 
 ## Articles
 
-There are 31 articles:
+There are 34 articles:
 
 - [Baklava in Visual Basic](https://sampleprograms.io/projects/baklava/visual-basic)
 - [Base64 Encode Decode in Visual Basic](https://sampleprograms.io/projects/base64-encode-decode/visual-basic)
@@ -80,6 +80,7 @@ There are 31 articles:
 - [Longest Word in Visual Basic](https://sampleprograms.io/projects/longest-word/visual-basic)
 - [Maximum Array Rotation in Visual Basic](https://sampleprograms.io/projects/maximum-array-rotation/visual-basic)
 - [Maximum Subarray in Visual Basic](https://sampleprograms.io/projects/maximum-subarray/visual-basic)
+- [Merge Sort in Visual Basic](https://sampleprograms.io/projects/merge-sort/visual-basic)
 - [Palindromic Number in Visual Basic](https://sampleprograms.io/projects/palindromic-number/visual-basic)
 - [Prime Number in Visual Basic](https://sampleprograms.io/projects/prime-number/visual-basic)
 - [Quick Sort in Visual Basic](https://sampleprograms.io/projects/quick-sort/visual-basic)
@@ -89,3 +90,5 @@ There are 31 articles:
 - [Roman Numeral in Visual Basic](https://sampleprograms.io/projects/roman-numeral/visual-basic)
 - [Rot13 in Visual Basic](https://sampleprograms.io/projects/rot13/visual-basic)
 - [Selection Sort in Visual Basic](https://sampleprograms.io/projects/selection-sort/visual-basic)
+- [Transpose Matrix in Visual Basic](https://sampleprograms.io/projects/transpose-matrix/visual-basic)
+- [Zeckendorf in Visual Basic](https://sampleprograms.io/projects/zeckendorf/visual-basic)
