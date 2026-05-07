@@ -56,13 +56,14 @@ Python as one language instead of two.
 
 ## Articles
 
-There are 22 articles:
+There are 23 articles:
 
 - [Baklava in Visual Basic](https://sampleprograms.io/projects/baklava/visual-basic)
 - [Base64 Encode Decode in Visual Basic](https://sampleprograms.io/projects/base64-encode-decode/visual-basic)
 - [Binary Search in Visual Basic](https://sampleprograms.io/projects/binary-search/visual-basic)
 - [Bubble Sort in Visual Basic](https://sampleprograms.io/projects/bubble-sort/visual-basic)
 - [Capitalize in Visual Basic](https://sampleprograms.io/projects/capitalize/visual-basic)
+- [Depth First Search in Visual Basic](https://sampleprograms.io/projects/depth-first-search/visual-basic)
 - [Duplicate Character Counter in Visual Basic](https://sampleprograms.io/projects/duplicate-character-counter/visual-basic)
 - [Even Odd in Visual Basic](https://sampleprograms.io/projects/even-odd/visual-basic)
 - [Factorial in Visual Basic](https://sampleprograms.io/projects/factorial/visual-basic)

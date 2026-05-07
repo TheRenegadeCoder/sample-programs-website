@@ -126,7 +126,7 @@ Usage: please provide a tree in an adjacency matrix form ("0, 1, 1, 0, 0, 1, 0, 
 
 ## Articles
 
-There are 24 articles:
+There are 25 articles:
 
 - [Depth First Search in ALGOL 60](https://sampleprograms.io/projects/depth-first-search/algol60)
 - [Depth First Search in ALGOL 68](https://sampleprograms.io/projects/depth-first-search/algol68)
@@ -151,6 +151,7 @@ There are 24 articles:
 - [Depth First Search in Swift](https://sampleprograms.io/projects/depth-first-search/swift)
 - [Depth First Search in Tcl](https://sampleprograms.io/projects/depth-first-search/tcl)
 - [Depth First Search in TypeScript](https://sampleprograms.io/projects/depth-first-search/typescript)
+- [Depth First Search in Visual Basic](https://sampleprograms.io/projects/depth-first-search/visual-basic)
 - [Depth First Search in m4](https://sampleprograms.io/projects/depth-first-search/m4)
 
 ***
