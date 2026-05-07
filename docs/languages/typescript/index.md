@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 38 articles:
+There are 39 articles:
 
 - [Baklava in TypeScript](https://sampleprograms.io/projects/baklava/typescript)
 - [Base64 Encode Decode in TypeScript](https://sampleprograms.io/projects/base64-encode-decode/typescript)
@@ -66,5 +66,6 @@ There are 38 articles:
 - [Roman Numeral in TypeScript](https://sampleprograms.io/projects/roman-numeral/typescript)
 - [Rot13 in TypeScript](https://sampleprograms.io/projects/rot13/typescript)
 - [Selection Sort in TypeScript](https://sampleprograms.io/projects/selection-sort/typescript)
+- [Sleep Sort in TypeScript](https://sampleprograms.io/projects/sleep-sort/typescript)
 - [Transpose Matrix in TypeScript](https://sampleprograms.io/projects/transpose-matrix/typescript)
 - [Zeckendorf in TypeScript](https://sampleprograms.io/projects/zeckendorf/typescript)
