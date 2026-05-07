@@ -168,7 +168,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-There are 31 articles:
+There are 32 articles:
 
 - [Selection Sort in ALGOL 60](https://sampleprograms.io/projects/selection-sort/algol60)
 - [Selection Sort in ALGOL 68](https://sampleprograms.io/projects/selection-sort/algol68)
@@ -200,6 +200,7 @@ There are 31 articles:
 - [Selection Sort in Swift](https://sampleprograms.io/projects/selection-sort/swift)
 - [Selection Sort in Tcl](https://sampleprograms.io/projects/selection-sort/tcl)
 - [Selection Sort in TypeScript](https://sampleprograms.io/projects/selection-sort/typescript)
+- [Selection Sort in Visual Basic](https://sampleprograms.io/projects/selection-sort/visual-basic)
 - [Selection Sort in m4](https://sampleprograms.io/projects/selection-sort/m4)
 
 ***

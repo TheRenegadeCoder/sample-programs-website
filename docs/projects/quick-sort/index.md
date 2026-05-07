@@ -1,7 +1,7 @@
 ---
 date: 2018-12-04
 featured-image: quick-sort-in-every-language.jpg
-last-modified: 2026-05-05
+last-modified: 2026-05-07
 layout: default
 tags:
 - quick-sort
@@ -135,7 +135,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-There are 32 articles:
+There are 33 articles:
 
 - [Quick Sort in ALGOL 60](https://sampleprograms.io/projects/quick-sort/algol60)
 - [Quick Sort in ALGOL 68](https://sampleprograms.io/projects/quick-sort/algol68)
@@ -168,6 +168,7 @@ There are 32 articles:
 - [Quick Sort in Swift](https://sampleprograms.io/projects/quick-sort/swift)
 - [Quick Sort in Tcl](https://sampleprograms.io/projects/quick-sort/tcl)
 - [Quick Sort in TypeScript](https://sampleprograms.io/projects/quick-sort/typescript)
+- [Quick Sort in Visual Basic](https://sampleprograms.io/projects/quick-sort/visual-basic)
 - [Quick Sort in m4](https://sampleprograms.io/projects/quick-sort/m4)
 
 ***

@@ -56,7 +56,7 @@ Python as one language instead of two.
 
 ## Articles
 
-There are 28 articles:
+There are 31 articles:
 
 - [Baklava in Visual Basic](https://sampleprograms.io/projects/baklava/visual-basic)
 - [Base64 Encode Decode in Visual Basic](https://sampleprograms.io/projects/base64-encode-decode/visual-basic)
@@ -72,6 +72,7 @@ There are 28 articles:
 - [Fizz Buzz in Visual Basic](https://sampleprograms.io/projects/fizz-buzz/visual-basic)
 - [Fraction Math in Visual Basic](https://sampleprograms.io/projects/fraction-math/visual-basic)
 - [Hello World in Visual Basic](https://sampleprograms.io/projects/hello-world/visual-basic)
+- [Insertion Sort in Visual Basic](https://sampleprograms.io/projects/insertion-sort/visual-basic)
 - [Job Sequencing in Visual Basic](https://sampleprograms.io/projects/job-sequencing/visual-basic)
 - [Josephus Problem in Visual Basic](https://sampleprograms.io/projects/josephus-problem/visual-basic)
 - [Linear Search in Visual Basic](https://sampleprograms.io/projects/linear-search/visual-basic)
@@ -81,8 +82,10 @@ There are 28 articles:
 - [Maximum Subarray in Visual Basic](https://sampleprograms.io/projects/maximum-subarray/visual-basic)
 - [Palindromic Number in Visual Basic](https://sampleprograms.io/projects/palindromic-number/visual-basic)
 - [Prime Number in Visual Basic](https://sampleprograms.io/projects/prime-number/visual-basic)
+- [Quick Sort in Visual Basic](https://sampleprograms.io/projects/quick-sort/visual-basic)
 - [Quine in Visual Basic](https://sampleprograms.io/projects/quine/visual-basic)
 - [Remove All Whitespace in Visual Basic](https://sampleprograms.io/projects/remove-all-whitespace/visual-basic)
 - [Reverse String in Visual Basic](https://sampleprograms.io/projects/reverse-string/visual-basic)
 - [Roman Numeral in Visual Basic](https://sampleprograms.io/projects/roman-numeral/visual-basic)
 - [Rot13 in Visual Basic](https://sampleprograms.io/projects/rot13/visual-basic)
+- [Selection Sort in Visual Basic](https://sampleprograms.io/projects/selection-sort/visual-basic)
