@@ -119,7 +119,7 @@ Usage: please provide a comma-separated list of integers
 
 ## Articles
 
-There are 24 articles:
+There are 25 articles:
 
 - [Minimum Spanning Tree in ALGOL 60](https://sampleprograms.io/projects/minimum-spanning-tree/algol60)
 - [Minimum Spanning Tree in ALGOL 68](https://sampleprograms.io/projects/minimum-spanning-tree/algol68)
@@ -144,6 +144,7 @@ There are 24 articles:
 - [Minimum Spanning Tree in Swift](https://sampleprograms.io/projects/minimum-spanning-tree/swift)
 - [Minimum Spanning Tree in Tcl](https://sampleprograms.io/projects/minimum-spanning-tree/tcl)
 - [Minimum Spanning Tree in TypeScript](https://sampleprograms.io/projects/minimum-spanning-tree/typescript)
+- [Minimum Spanning Tree in Visual Basic](https://sampleprograms.io/projects/minimum-spanning-tree/visual-basic)
 - [Minimum Spanning Tree in m4](https://sampleprograms.io/projects/minimum-spanning-tree/m4)
 
 ***

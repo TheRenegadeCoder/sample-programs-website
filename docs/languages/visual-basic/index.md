@@ -56,7 +56,7 @@ Python as one language instead of two.
 
 ## Articles
 
-There are 36 articles:
+There are 37 articles:
 
 - [Baklava in Visual Basic](https://sampleprograms.io/projects/baklava/visual-basic)
 - [Base64 Encode Decode in Visual Basic](https://sampleprograms.io/projects/base64-encode-decode/visual-basic)
@@ -83,6 +83,7 @@ There are 36 articles:
 - [Maximum Array Rotation in Visual Basic](https://sampleprograms.io/projects/maximum-array-rotation/visual-basic)
 - [Maximum Subarray in Visual Basic](https://sampleprograms.io/projects/maximum-subarray/visual-basic)
 - [Merge Sort in Visual Basic](https://sampleprograms.io/projects/merge-sort/visual-basic)
+- [Minimum Spanning Tree in Visual Basic](https://sampleprograms.io/projects/minimum-spanning-tree/visual-basic)
 - [Palindromic Number in Visual Basic](https://sampleprograms.io/projects/palindromic-number/visual-basic)
 - [Prime Number in Visual Basic](https://sampleprograms.io/projects/prime-number/visual-basic)
 - [Quick Sort in Visual Basic](https://sampleprograms.io/projects/quick-sort/visual-basic)
