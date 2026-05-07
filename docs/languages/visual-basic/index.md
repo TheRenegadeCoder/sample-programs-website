@@ -56,14 +56,18 @@ Python as one language instead of two.
 
 ## Articles
 
-There are 9 articles:
+There are 13 articles:
 
 - [Baklava in Visual Basic](https://sampleprograms.io/projects/baklava/visual-basic)
 - [Bubble Sort in Visual Basic](https://sampleprograms.io/projects/bubble-sort/visual-basic)
 - [Capitalize in Visual Basic](https://sampleprograms.io/projects/capitalize/visual-basic)
+- [Duplicate Character Counter in Visual Basic](https://sampleprograms.io/projects/duplicate-character-counter/visual-basic)
 - [Even Odd in Visual Basic](https://sampleprograms.io/projects/even-odd/visual-basic)
+- [Factorial in Visual Basic](https://sampleprograms.io/projects/factorial/visual-basic)
+- [Fibonacci in Visual Basic](https://sampleprograms.io/projects/fibonacci/visual-basic)
 - [Fizz Buzz in Visual Basic](https://sampleprograms.io/projects/fizz-buzz/visual-basic)
 - [Hello World in Visual Basic](https://sampleprograms.io/projects/hello-world/visual-basic)
 - [Longest Word in Visual Basic](https://sampleprograms.io/projects/longest-word/visual-basic)
 - [Reverse String in Visual Basic](https://sampleprograms.io/projects/reverse-string/visual-basic)
 - [Roman Numeral in Visual Basic](https://sampleprograms.io/projects/roman-numeral/visual-basic)
+- [Rot13 in Visual Basic](https://sampleprograms.io/projects/rot13/visual-basic)

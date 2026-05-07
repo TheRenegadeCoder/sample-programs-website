@@ -85,7 +85,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 49 articles:
+There are 50 articles:
 
 - [Factorial in ALGOL 60](https://sampleprograms.io/projects/factorial/algol60)
 - [Factorial in ALGOL 68](https://sampleprograms.io/projects/factorial/algol68)
@@ -134,6 +134,7 @@ There are 49 articles:
 - [Factorial in Tcl](https://sampleprograms.io/projects/factorial/tcl)
 - [Factorial in TypeScript](https://sampleprograms.io/projects/factorial/typescript)
 - [Factorial in V](https://sampleprograms.io/projects/factorial/v)
+- [Factorial in Visual Basic](https://sampleprograms.io/projects/factorial/visual-basic)
 - [Factorial in Wren](https://sampleprograms.io/projects/factorial/wren)
 - [Factorial in m4](https://sampleprograms.io/projects/factorial/m4)
 

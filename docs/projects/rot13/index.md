@@ -1,7 +1,7 @@
 ---
 date: 2018-11-20
 featured-image: rot13-in-every-language.jpg
-last-modified: 2026-05-05
+last-modified: 2026-05-07
 layout: default
 tags:
 - rot13
@@ -101,7 +101,7 @@ Usage: please provide a string to encrypt
 
 ## Articles
 
-There are 32 articles:
+There are 33 articles:
 
 - [Rot13 in ALGOL 60](https://sampleprograms.io/projects/rot13/algol60)
 - [Rot13 in ALGOL 68](https://sampleprograms.io/projects/rot13/algol68)
@@ -134,6 +134,7 @@ There are 32 articles:
 - [Rot13 in TI-BASIC](https://sampleprograms.io/projects/rot13/ti-basic)
 - [Rot13 in Tcl](https://sampleprograms.io/projects/rot13/tcl)
 - [Rot13 in TypeScript](https://sampleprograms.io/projects/rot13/typescript)
+- [Rot13 in Visual Basic](https://sampleprograms.io/projects/rot13/visual-basic)
 - [Rot13 in m4](https://sampleprograms.io/projects/rot13/m4)
 
 ***
