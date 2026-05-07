@@ -56,10 +56,11 @@ Python as one language instead of two.
 
 ## Articles
 
-There are 20 articles:
+There are 22 articles:
 
 - [Baklava in Visual Basic](https://sampleprograms.io/projects/baklava/visual-basic)
 - [Base64 Encode Decode in Visual Basic](https://sampleprograms.io/projects/base64-encode-decode/visual-basic)
+- [Binary Search in Visual Basic](https://sampleprograms.io/projects/binary-search/visual-basic)
 - [Bubble Sort in Visual Basic](https://sampleprograms.io/projects/bubble-sort/visual-basic)
 - [Capitalize in Visual Basic](https://sampleprograms.io/projects/capitalize/visual-basic)
 - [Duplicate Character Counter in Visual Basic](https://sampleprograms.io/projects/duplicate-character-counter/visual-basic)
@@ -69,6 +70,7 @@ There are 20 articles:
 - [File Input Output in Visual Basic](https://sampleprograms.io/projects/file-input-output/visual-basic)
 - [Fizz Buzz in Visual Basic](https://sampleprograms.io/projects/fizz-buzz/visual-basic)
 - [Hello World in Visual Basic](https://sampleprograms.io/projects/hello-world/visual-basic)
+- [Josephus Problem in Visual Basic](https://sampleprograms.io/projects/josephus-problem/visual-basic)
 - [Linear Search in Visual Basic](https://sampleprograms.io/projects/linear-search/visual-basic)
 - [Longest Word in Visual Basic](https://sampleprograms.io/projects/longest-word/visual-basic)
 - [Palindromic Number in Visual Basic](https://sampleprograms.io/projects/palindromic-number/visual-basic)

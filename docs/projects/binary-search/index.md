@@ -100,7 +100,7 @@ Usage: please provide a list of sorted integers ("1, 4, 5, 11, 12") and the inte
 
 ## Articles
 
-There are 28 articles:
+There are 29 articles:
 
 - [Binary Search in ALGOL 60](https://sampleprograms.io/projects/binary-search/algol60)
 - [Binary Search in ALGOL 68](https://sampleprograms.io/projects/binary-search/algol68)
@@ -129,6 +129,7 @@ There are 28 articles:
 - [Binary Search in Swift](https://sampleprograms.io/projects/binary-search/swift)
 - [Binary Search in Tcl](https://sampleprograms.io/projects/binary-search/tcl)
 - [Binary Search in TypeScript](https://sampleprograms.io/projects/binary-search/typescript)
+- [Binary Search in Visual Basic](https://sampleprograms.io/projects/binary-search/visual-basic)
 - [Binary Search in m4](https://sampleprograms.io/projects/binary-search/m4)
 
 ***
