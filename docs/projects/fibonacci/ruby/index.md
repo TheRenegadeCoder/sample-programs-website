@@ -1,10 +1,10 @@
 ---
 authors:
 - Noah Nichols
-- Parker Johansen
+- Ștefan-Iulian Alecu
 date: 2018-10-14
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2019-04-07
+last-modified: 2026-05-07
 layout: default
 tags:
 - fibonacci
@@ -32,28 +32,32 @@ Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Rub
 {% raw %}
 
 ```ruby
-def fibonacci(number)
-    a = 0
-    b = 1
-    c = 0
-
-    i = 0
-    while i < number
-        c = a + b
-        b = a
-        a = c
-
-        print("#{i+1}: #{c}\n")
-        i += 1
-    end
+def usage!
+  abort("Usage: please input the count of fibonacci numbers to output")
 end
 
-num = Integer(ARGV[0]) rescue -1
-if num >= 0
-    fibonacci(num)
-else
-    print("Usage: please input the count of fibonacci numbers to output")
+def fibonacci(n)
+  a, b = 1, 1
+
+  n.times do |i|
+    puts "#{i + 1}: #{a}"
+    a, b = b, a + b
+  end
 end
+
+input = ARGV.first
+usage! if input.nil? || input.strip.empty?
+
+begin
+  num = Integer(input)
+rescue ArgumentError
+  usage!
+end
+
+usage! if num.negative?
+
+fibonacci(num)
+
 ```
 
 {% endraw %}
@@ -61,7 +65,7 @@ end
 Fibonacci in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Noah Nichols
-- Parker Johansen
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

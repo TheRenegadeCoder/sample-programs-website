@@ -1,9 +1,9 @@
 ---
 authors:
-- MSJ
-date: 2024-10-31
+- Ștefan-Iulian Alecu
+date: 2026-05-07
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2024-10-31
+last-modified: 2026-05-07
 layout: default
 tags:
 - remove-all-whitespace
@@ -31,12 +31,11 @@ Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove
 {% raw %}
 
 ```ruby
-if ARGV.length == 0 || ARGV[0] == ''
-  puts 'Usage: please provide a string'
-else
-  a = ARGV[0].gsub(/ /, '').gsub(/\t/, '').gsub(/\r/, '').gsub(/\n/, '')
-  puts a
-end
+input = ARGV.first.to_s
+
+abort("Usage: please provide a string") if input.empty?
+
+puts input.delete(" \t\r\n")
 
 ```
 
@@ -44,7 +43,7 @@ end
 
 Remove All Whitespace in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
-- MSJ
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -1,10 +1,10 @@
 ---
 authors:
 - Jeremy Grifski
-- Parker Johansen
+- Ștefan-Iulian Alecu
 date: 2019-03-20
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2019-03-20
+last-modified: 2026-05-07
 layout: default
 tags:
 - bubble-sort
@@ -32,32 +32,47 @@ Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in 
 {% raw %}
 
 ```ruby
-def bubble_sort(numbers)
-  n = numbers.length
-  for i in 0...n-1
-    for j in 0...n-i-1
-      if numbers[j] > numbers[j + 1]
-        numbers[j], numbers[j + 1] = numbers[j + 1], numbers[j]
+class Array
+  def bubble_sort
+    arr = dup
+    n = arr.length
+
+    (n - 1).times do |i|
+      swapped = false
+
+      (n - i - 1).times do |j|
+        next unless arr[j] > arr[j + 1]
+
+        arr[j], arr[j + 1] = arr[j + 1], arr[j]
+        swapped = true
       end
+
+      break unless swapped
     end
+
+    arr
   end
-  return numbers
 end
 
-def err()
-  puts('Usage: please provide a list of at least two integers to sort in the format "1, 2, 3, 4, 5"')
+def parse_input
+  raw = ARGV.first
+  raise ArgumentError unless raw
+
+  numbers = raw.split(",").map { Integer(it.strip, exception: false) }
+  raise ArgumentError if numbers.any?(nil) || numbers.length < 2
+
+  numbers
+end
+
+def usage!
+  abort %(Usage: please provide a list of at least two integers to sort in the format "1, 2, 3, 4, 5")
 end
 
 begin
-  unsorted = ARGV[0].split(", ").map{|i| Integer(i)}
-  if unsorted.length > 1
-    sorted = bubble_sort(unsorted)
-    print(sorted)
-  else
-    err()
-  end
-rescue
-  err()
+  numbers = parse_input
+  puts numbers.bubble_sort.join(", ")
+rescue ArgumentError
+  usage!
 end
 
 ```
@@ -67,7 +82,7 @@ end
 Bubble Sort in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Jeremy Grifski
-- Parker Johansen
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

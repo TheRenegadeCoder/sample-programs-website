@@ -1,9 +1,10 @@
 ---
 authors:
 - Mallikarjuna S J
+- Ștefan-Iulian Alecu
 date: 2019-10-31
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2019-11-04
+last-modified: 2026-05-07
 layout: default
 tags:
 - even-odd
@@ -31,30 +32,15 @@ Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Ruby]
 {% raw %}
 
 ```ruby
-# Requirement https://sample-programs.therenegadecoder.com/projects/even-odd/
-# Issue 1839
+input = ARGV.first
 
-if ARGV.empty?
-# if ARGV.length < 1
-    puts "Usage: please input a number"
-    exit
-else
-    # if ARGV.empty?
-    #     puts "Usage: please input a number"
-    # end
-    begin
-    string1 = ARGV[0]
-    num = Integer(string1)
-    rescue ArgumentError
-    puts "Usage: please input a number"
-    exit
-    end
+abort("Usage: please input a number") if input.nil? || input.strip.empty?
 
-    if num % 2 == 0
-    	puts "Even"
-    else
-    	puts "Odd"
-    end
+begin
+  num = Integer(input)
+  puts num.even? ? "Even" : "Odd"
+rescue ArgumentError
+  warn "Usage: please input a number"
 end
 
 ```
@@ -64,6 +50,7 @@ end
 Even Odd in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Mallikarjuna S J
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -3,9 +3,10 @@ authors:
 - Jeremy Grifski
 - Noah
 - rzuckerm
+- Ștefan-Iulian Alecu
 date: 2018-09-13
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2026-05-07
 layout: default
 tags:
 - file-input-output
@@ -33,29 +34,17 @@ Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input
 {% raw %}
 
 ```ruby
-def write_file
-  out = File.new("output.txt", "w")
+content = <<~TEXT
+  This is a line written by a Ruby program
+  This line also
+TEXT
 
-  out << "This is a line written by a Ruby program\n"
-  out << "This line also"
+File.write("output.txt", content)
 
-  out.flush()
-  out.close()
+File.foreach("output.txt") do |line|
+  puts line
 end
 
-
-def read_file
-  in_file = File.open("output.txt", "r")
-
-  in_file.each_line do |line|
-    puts line
-  end
-
-  in_file.close()
-end
-
-write_file()
-read_file()
 ```
 
 {% endraw %}
@@ -63,6 +52,7 @@ read_file()
 File Input Output in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Noah
+- Ștefan-Iulian Alecu
 
 This article was written by:
 
@@ -70,6 +60,8 @@ This article was written by:
 - rzuckerm
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
+
+**Note**: The solution shown above is the current solution in the Sample Programs repository as of May 07 2026 19:26:56. The solution was first committed on Sep 13 2018 20:31:06. The documentation was last updated on May 15 2023 15:51:23. As a result, documentation below may be outdated.
 
 ## How to Implement the Solution
 

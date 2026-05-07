@@ -1,9 +1,9 @@
 ---
 authors:
-- MSJ
-date: 2024-10-02
+- Ștefan-Iulian Alecu
+date: 2026-05-07
 featured-image: factorial-in-every-language.jpg
-last-modified: 2024-10-02
+last-modified: 2026-05-07
 layout: default
 tags:
 - factorial
@@ -31,30 +31,23 @@ Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Rub
 {% raw %}
 
 ```ruby
-# return factorial of a non-negative number
-if ARGV.empty?
-  puts "Usage: please input a non-negative integer"
-  exit
-else
-  begin
-    string1 = ARGV[0]
-    num = Integer(string1)
-    rescue ArgumentError
-    puts "Usage: please input a non-negative integer"
-    exit
-  end
-  if num < 0
-    puts "Usage: please input a non-negative integer"
-    exit    
-  end
-  i = 1
-  factorial = 1
-  while i <= num
-    factorial = factorial * i
-    i += 1
-  end
-  print(factorial)
-end  
+def usage!
+  abort("Usage: please input a non-negative integer")
+end
+
+input = ARGV.first
+
+usage! if input.nil? || input.strip.empty?
+
+begin
+  num = Integer(input)
+rescue ArgumentError
+  usage!
+end
+
+usage! if num.negative?
+
+puts (1..num).reduce(1, :*)
 
 ```
 
@@ -62,7 +55,7 @@ end
 
 Factorial in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
-- MSJ
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

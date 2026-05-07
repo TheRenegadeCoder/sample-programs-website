@@ -1,9 +1,10 @@
 ---
 authors:
 - Elvin Hrytsyuk
+- Ștefan-Iulian Alecu
 date: 2025-10-29
 featured-image: linear-search-in-every-language.jpg
-last-modified: 2025-10-29
+last-modified: 2026-05-07
 layout: default
 tags:
 - linear-search
@@ -31,59 +32,18 @@ Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search)
 {% raw %}
 
 ```ruby
-USAGE = 'Usage: please provide a list of integers ("1, 4, 5, 11, 12") and the integer to find ("11")'
+def usage!
+  abort('Usage: please provide a list of integers ("1, 4, 5, 11, 12") and the integer to find ("11")')
+end
 
+list_str, target_str = ARGV
 
-    if ARGV.length < 2
-        puts USAGE
-        return
-    end
-    
-    # the first input (list of numbers)
-    list_input = ARGV[0]
-    #second input (number to find)
-    target_input = ARGV[1]
+usage! if [list_str, target_str].any? { it.to_s.strip.empty? }
 
-    #check if the input is empty
-    if list_input.strip.empty? || target_input.strip.empty?
-        puts USAGE
-        return
-    end
+numbers = list_str.split(",").map { Integer(it.strip) }
+target = Integer(target_str)
 
-    begin
-        #split list by the commas, trim the spaces, then turn into intgers
-        numbers = list_input.split(',').map { |s| s.strip.to_i }
-
-        #convert second number to integer
-        target = Integer(target_input)
-    rescue ArgumentError
-        # if conversion fails we show the usage message
-        puts USAGE
-        return
-    end
-
-    #track if we find the number
-    found = false
-
-    # go through each number in the list
-    numbers.each do |n|
-        if n == target
-            found = true
-            # stop searching once we find it
-            break
-        end
-    end
-
-    # print result as true or false
-    if found
-        puts "true"
-    else
-        puts "false"
-    end
-
-
-
-
+puts numbers.include?(target)
 
 ```
 
@@ -92,6 +52,7 @@ USAGE = 'Usage: please provide a list of integers ("1, 4, 5, 11, 12") and the in
 Linear Search in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Elvin Hrytsyuk
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

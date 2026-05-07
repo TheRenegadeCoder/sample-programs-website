@@ -1,9 +1,10 @@
 ---
 authors:
 - MSJ
+- Ștefan-Iulian Alecu
 date: 2024-10-31
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2024-10-31
+last-modified: 2026-05-07
 layout: default
 tags:
 - duplicate-character-counter
@@ -31,23 +32,18 @@ Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/
 {% raw %}
 
 ```ruby
-# Duplicate Character Counter
-if ARGV.length == 0 || ARGV[0] == ''
-  puts 'Usage: please provide a string'
-else
-   hash_count_duplicate_letters = ARGV[0].each_char.with_object(Hash.new(0)) {|a, b| b[a]+=1}
-   counter_duplicate_letters = 0
-   hash_count_duplicate_letters.each do |key, value|
-    if value>1
-        puts "#{key}: #{value}"
-        counter_duplicate_letters += 1
-    end
+input = ARGV.first.to_s
+
+abort("Usage: please provide a string") if input.empty?
+
+duplicates = input.each_char.tally.select { _2 > 1 }
+
+if duplicates.empty?
+  puts "No duplicate characters"
+  return
 end
-    if counter_duplicate_letters == 0 
-        puts "No duplicate characters"
-    end 
-end
-# end
+
+duplicates.each { |char, count| puts "#{char}: #{count}" }
 
 ```
 
@@ -56,6 +52,7 @@ end
 Duplicate Character Counter in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - MSJ
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

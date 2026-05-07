@@ -1,9 +1,10 @@
 ---
 authors:
 - Couraxe
+- Ștefan-Iulian Alecu
 date: 2020-10-08
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2020-10-08
+last-modified: 2026-05-07
 layout: default
 tags:
 - capitalize
@@ -32,15 +33,17 @@ Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [R
 
 ```ruby
 def capitalize_str(str)
-    s = str.split(' ')
-    s[0][0] = s[0][0].upcase
-    s.join(' ')
+  return str if str.empty?
+
+  str[0].upcase + str[1..]
 end
 
-if ARGV.length == 0 || ARGV[0] == ''
-    puts 'Usage: please provide a string'
+input = ARGV.first.to_s
+
+if input.strip.empty?
+  warn "Usage: please provide a string"
 else
-    puts capitalize_str(ARGV[0])
+  puts capitalize_str(input)
 end
 
 ```
@@ -50,6 +53,7 @@ end
 Capitalize in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Couraxe
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -1,9 +1,10 @@
 ---
 authors:
 - reetansingh
+- Ștefan-Iulian Alecu
 date: 2025-03-26
 featured-image: longest-word-in-every-language.jpg
-last-modified: 2025-03-26
+last-modified: 2026-05-07
 layout: default
 tags:
 - longest-word
@@ -31,23 +32,11 @@ Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) i
 {% raw %}
 
 ```ruby
-input_str = ARGV.join(" ").strip 
+input = ARGV.join(" ").strip
 
-if input_str.empty?
-   puts "Usage: please provide a string"
-    exit
-  end
+abort("Usage: please provide a string") if input.empty?
 
-  words = input_str.split
-        max_length = 0
-
-        words.each do |word|
-            if word.length > max_length
-              max_length = word.length
-            end
-          end
-          
-          puts max_length
+puts input.split.map(&:length).max
 
 ```
 
@@ -56,6 +45,7 @@ if input_str.empty?
 Longest Word in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - reetansingh
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

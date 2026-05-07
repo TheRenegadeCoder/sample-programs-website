@@ -1,11 +1,11 @@
 ---
 authors:
 - Jeremy Grifski
-- Noah Nichols
 - rzuckerm
-date: 2018-09-24
+- Ștefan-Iulian Alecu
+date: 2018-12-24
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2023-05-15
+last-modified: 2026-05-07
 layout: default
 tags:
 - reverse-string
@@ -33,19 +33,15 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 {% raw %}
 
 ```ruby
-if ARGV.length >= 1
-    string = ARGV[0]
+puts ARGV.first.reverse if ARGV.first
 
-    puts string.reverse
-end
 ```
 
 {% endraw %}
 
 Reverse String in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
-- Noah Nichols
-- rzuckerm
+- Ștefan-Iulian Alecu
 
 This article was written by:
 

@@ -1,9 +1,10 @@
 ---
 authors:
 - Jeremy Grifski
+- Ștefan-Iulian Alecu
 date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2018-09-17
+last-modified: 2026-05-07
 layout: default
 tags:
 - baklava
@@ -31,13 +32,14 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Ruby](h
 {% raw %}
 
 ```ruby
-10.times {|n|
-    print " " * (10 - n)
-    puts "*" * (2 * n + 1)
-}
+HEIGHT = 10
 
-for i in 10.downto(0) do
-  puts ((" " * (10 - i)) + ("*" * (i * 2 + 1)))
+(0..HEIGHT).each do |i|
+  puts "#{" " * (HEIGHT - i)}#{"*" * (2 * i + 1)}"
+end
+
+(HEIGHT - 1).downto(0) do |i|
+  puts "#{" " * (HEIGHT - i)}#{"*" * (2 * i + 1)}"
 end
 
 ```
@@ -47,6 +49,7 @@ end
 Baklava in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Jeremy Grifski
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
