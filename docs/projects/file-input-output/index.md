@@ -62,7 +62,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 38 articles:
+There are 39 articles:
 
 - [File Input Output in ALGOL 68](https://sampleprograms.io/projects/file-input-output/algol68)
 - [File Input Output in AWK](https://sampleprograms.io/projects/file-input-output/awk)
@@ -101,6 +101,7 @@ There are 38 articles:
 - [File Input Output in Swift](https://sampleprograms.io/projects/file-input-output/swift)
 - [File Input Output in Tcl](https://sampleprograms.io/projects/file-input-output/tcl)
 - [File Input Output in TypeScript](https://sampleprograms.io/projects/file-input-output/typescript)
+- [File Input Output in Visual Basic](https://sampleprograms.io/projects/file-input-output/visual-basic)
 - [File Input Output in Wren](https://sampleprograms.io/projects/file-input-output/wren)
 
 ***
