@@ -106,7 +106,7 @@ Usage: please provide a list of integers (e.g. "8, 3, 1, 2")
 
 ## Articles
 
-There are 25 articles:
+There are 26 articles:
 
 - [Maximum Array Rotation in ALGOL 60](https://sampleprograms.io/projects/maximum-array-rotation/algol60)
 - [Maximum Array Rotation in ALGOL 68](https://sampleprograms.io/projects/maximum-array-rotation/algol68)
@@ -132,6 +132,7 @@ There are 25 articles:
 - [Maximum Array Rotation in Swift](https://sampleprograms.io/projects/maximum-array-rotation/swift)
 - [Maximum Array Rotation in Tcl](https://sampleprograms.io/projects/maximum-array-rotation/tcl)
 - [Maximum Array Rotation in TypeScript](https://sampleprograms.io/projects/maximum-array-rotation/typescript)
+- [Maximum Array Rotation in Visual Basic](https://sampleprograms.io/projects/maximum-array-rotation/visual-basic)
 - [Maximum Array Rotation in m4](https://sampleprograms.io/projects/maximum-array-rotation/m4)
 
 ***
