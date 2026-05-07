@@ -56,7 +56,7 @@ Python as one language instead of two.
 
 ## Articles
 
-There are 27 articles:
+There are 28 articles:
 
 - [Baklava in Visual Basic](https://sampleprograms.io/projects/baklava/visual-basic)
 - [Base64 Encode Decode in Visual Basic](https://sampleprograms.io/projects/base64-encode-decode/visual-basic)
@@ -72,6 +72,7 @@ There are 27 articles:
 - [Fizz Buzz in Visual Basic](https://sampleprograms.io/projects/fizz-buzz/visual-basic)
 - [Fraction Math in Visual Basic](https://sampleprograms.io/projects/fraction-math/visual-basic)
 - [Hello World in Visual Basic](https://sampleprograms.io/projects/hello-world/visual-basic)
+- [Job Sequencing in Visual Basic](https://sampleprograms.io/projects/job-sequencing/visual-basic)
 - [Josephus Problem in Visual Basic](https://sampleprograms.io/projects/josephus-problem/visual-basic)
 - [Linear Search in Visual Basic](https://sampleprograms.io/projects/linear-search/visual-basic)
 - [Longest Palindromic Substring in Visual Basic](https://sampleprograms.io/projects/longest-palindromic-substring/visual-basic)
