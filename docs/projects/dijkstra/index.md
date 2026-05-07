@@ -131,7 +131,7 @@ Usage: please provide three inputs: a serialized matrix, a source node and a des
 
 ## Articles
 
-There are 24 articles:
+There are 25 articles:
 
 - [Dijkstra in ALGOL 60](https://sampleprograms.io/projects/dijkstra/algol60)
 - [Dijkstra in ALGOL 68](https://sampleprograms.io/projects/dijkstra/algol68)
@@ -144,6 +144,7 @@ There are 24 articles:
 - [Dijkstra in Commodore BASIC](https://sampleprograms.io/projects/dijkstra/commodore-basic)
 - [Dijkstra in Euphoria](https://sampleprograms.io/projects/dijkstra/euphoria)
 - [Dijkstra in F#](https://sampleprograms.io/projects/dijkstra/f-sharp)
+- [Dijkstra in Go](https://sampleprograms.io/projects/dijkstra/go)
 - [Dijkstra in Java](https://sampleprograms.io/projects/dijkstra/java)
 - [Dijkstra in JavaScript](https://sampleprograms.io/projects/dijkstra/javascript)
 - [Dijkstra in Mathematica](https://sampleprograms.io/projects/dijkstra/mathematica)

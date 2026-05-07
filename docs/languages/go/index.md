@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 37 articles:
+There are 39 articles:
 
 - [Baklava in Go](https://sampleprograms.io/projects/baklava/go)
 - [Base64 Encode Decode in Go](https://sampleprograms.io/projects/base64-encode-decode/go)
@@ -37,6 +37,7 @@ There are 37 articles:
 - [Capitalize in Go](https://sampleprograms.io/projects/capitalize/go)
 - [Convex Hull in Go](https://sampleprograms.io/projects/convex-hull/go)
 - [Depth First Search in Go](https://sampleprograms.io/projects/depth-first-search/go)
+- [Dijkstra in Go](https://sampleprograms.io/projects/dijkstra/go)
 - [Duplicate Character Counter in Go](https://sampleprograms.io/projects/duplicate-character-counter/go)
 - [Even Odd in Go](https://sampleprograms.io/projects/even-odd/go)
 - [Factorial in Go](https://sampleprograms.io/projects/factorial/go)
@@ -55,6 +56,7 @@ There are 37 articles:
 - [Maximum Array Rotation in Go](https://sampleprograms.io/projects/maximum-array-rotation/go)
 - [Maximum Subarray in Go](https://sampleprograms.io/projects/maximum-subarray/go)
 - [Merge Sort in Go](https://sampleprograms.io/projects/merge-sort/go)
+- [Minimum Spanning Tree in Go](https://sampleprograms.io/projects/minimum-spanning-tree/go)
 - [Palindromic Number in Go](https://sampleprograms.io/projects/palindromic-number/go)
 - [Prime Number in Go](https://sampleprograms.io/projects/prime-number/go)
 - [Quick Sort in Go](https://sampleprograms.io/projects/quick-sort/go)
