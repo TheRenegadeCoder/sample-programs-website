@@ -8,7 +8,7 @@ title1: Programming
 title2: Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1576 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1578 code snippets.
 
 ## Language Breakdown
 
@@ -44,7 +44,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">m4</td>
-        <td class="right">4.49%</td>
+        <td class="right">4.48%</td>
         <td class="bar-graph"><div style="width: 48.00%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
@@ -62,7 +62,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Pascal</td>
-        <td class="right">3.72%</td>
+        <td class="right">3.71%</td>
         <td class="bar-graph"><div style="width: 39.77%; background-color: #E3F171;"></div></td> 
     </tr>
 
@@ -134,7 +134,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">PowerShell</td>
-        <td class="right">2.14%</td>
+        <td class="right">2.13%</td>
         <td class="bar-graph"><div style="width: 22.85%; background-color: #012456;"></div></td> 
     </tr>
 
@@ -242,7 +242,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Ruby</td>
-        <td class="right">0.39%</td>
+        <td class="right">0.38%</td>
         <td class="bar-graph"><div style="width: 4.12%; background-color: #701516;"></div></td> 
     </tr>
 
@@ -253,15 +253,15 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Elixir</td>
-        <td class="right">0.30%</td>
-        <td class="bar-graph"><div style="width: 3.23%; background-color: #6E4A7E;"></div></td> 
+        <td class="right nowrap">Visual Basic</td>
+        <td class="right">0.34%</td>
+        <td class="bar-graph"><div style="width: 3.63%; background-color: #945DB7;"></div></td> 
     </tr>
 
     <tr>
-        <td class="right nowrap">Visual Basic</td>
-        <td class="right">0.29%</td>
-        <td class="bar-graph"><div style="width: 3.13%; background-color: #945DB7;"></div></td> 
+        <td class="right nowrap">Elixir</td>
+        <td class="right">0.30%</td>
+        <td class="bar-graph"><div style="width: 3.23%; background-color: #6E4A7E;"></div></td> 
     </tr>
 
     <tr>
@@ -1299,13 +1299,13 @@ The 'U' collection contains 1 language, of which 1 is tested, and 4 code snippet
 
 ### V
 
-The 'V' collection contains 5 languages, of which 5 are tested, and 23 code snippets.
+The 'V' collection contains 5 languages, of which 5 are tested, and 25 code snippets.
 
 - [V](https://sampleprograms.io/languages/v) (7 code snippets)
 - [Verilog](https://sampleprograms.io/languages/verilog) (2 code snippets)
 - [Verve](https://sampleprograms.io/languages/verve) (3 code snippets)
 - [Vimscript](https://sampleprograms.io/languages/vimscript) (4 code snippets)
-- [Visual Basic](https://sampleprograms.io/languages/visual-basic) (7 code snippets)
+- [Visual Basic](https://sampleprograms.io/languages/visual-basic) (9 code snippets)
 
 &laquo; [Return to Top](#language-collections-by-letter) &raquo;
 

@@ -80,7 +80,7 @@ Usage: please input a number
 
 ## Articles
 
-There are 50 articles:
+There are 51 articles:
 
 - [Even Odd in ALGOL 60](https://sampleprograms.io/projects/even-odd/algol60)
 - [Even Odd in ALGOL 68](https://sampleprograms.io/projects/even-odd/algol68)
@@ -129,6 +129,7 @@ There are 50 articles:
 - [Even Odd in Tcl](https://sampleprograms.io/projects/even-odd/tcl)
 - [Even Odd in TypeScript](https://sampleprograms.io/projects/even-odd/typescript)
 - [Even Odd in V](https://sampleprograms.io/projects/even-odd/v)
+- [Even Odd in Visual Basic](https://sampleprograms.io/projects/even-odd/visual-basic)
 - [Even Odd in Wren](https://sampleprograms.io/projects/even-odd/wren)
 - [Even Odd in m4](https://sampleprograms.io/projects/even-odd/m4)
 - [Even Odd in x86-64](https://sampleprograms.io/projects/even-odd/x86-64)

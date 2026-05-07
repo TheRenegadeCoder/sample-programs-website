@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-05-04
 featured-image: programming-languages.jpg
-last-modified: 2026-04-24
+last-modified: 2026-05-07
 layout: default
 tags:
 - visual-basic
@@ -56,10 +56,12 @@ Python as one language instead of two.
 
 ## Articles
 
-There are 7 articles:
+There are 9 articles:
 
 - [Baklava in Visual Basic](https://sampleprograms.io/projects/baklava/visual-basic)
 - [Bubble Sort in Visual Basic](https://sampleprograms.io/projects/bubble-sort/visual-basic)
+- [Capitalize in Visual Basic](https://sampleprograms.io/projects/capitalize/visual-basic)
+- [Even Odd in Visual Basic](https://sampleprograms.io/projects/even-odd/visual-basic)
 - [Fizz Buzz in Visual Basic](https://sampleprograms.io/projects/fizz-buzz/visual-basic)
 - [Hello World in Visual Basic](https://sampleprograms.io/projects/hello-world/visual-basic)
 - [Longest Word in Visual Basic](https://sampleprograms.io/projects/longest-word/visual-basic)

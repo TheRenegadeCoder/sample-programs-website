@@ -91,7 +91,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 46 articles:
+There are 47 articles:
 
 - [Capitalize in ALGOL 60](https://sampleprograms.io/projects/capitalize/algol60)
 - [Capitalize in ALGOL 68](https://sampleprograms.io/projects/capitalize/algol68)
@@ -138,6 +138,7 @@ There are 46 articles:
 - [Capitalize in TI-BASIC](https://sampleprograms.io/projects/capitalize/ti-basic)
 - [Capitalize in Tcl](https://sampleprograms.io/projects/capitalize/tcl)
 - [Capitalize in TypeScript](https://sampleprograms.io/projects/capitalize/typescript)
+- [Capitalize in Visual Basic](https://sampleprograms.io/projects/capitalize/visual-basic)
 - [Capitalize in m4](https://sampleprograms.io/projects/capitalize/m4)
 
 ***
