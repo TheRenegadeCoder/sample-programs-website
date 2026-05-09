@@ -1,7 +1,7 @@
 ---
 date: 2018-04-24
 featured-image: programming-languages.jpg
-last-modified: 2024-11-08
+last-modified: 2026-05-09
 layout: default
 tags:
 - ada
@@ -28,8 +28,9 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 3 articles:
+There are 4 articles:
 
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
+- [Base64 Encode Decode in Ada](https://sampleprograms.io/projects/base64-encode-decode/ada)
 - [Fizz Buzz in Ada](https://sampleprograms.io/projects/fizz-buzz/ada)
 - [Hello World in Ada](https://sampleprograms.io/projects/hello-world/ada)
