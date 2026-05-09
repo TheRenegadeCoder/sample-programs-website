@@ -28,12 +28,13 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 7 articles:
+There are 8 articles:
 
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
 - [Base64 Encode Decode in Ada](https://sampleprograms.io/projects/base64-encode-decode/ada)
 - [Binary Search in Ada](https://sampleprograms.io/projects/binary-search/ada)
 - [Bubble Sort in Ada](https://sampleprograms.io/projects/bubble-sort/ada)
 - [Capitalize in Ada](https://sampleprograms.io/projects/capitalize/ada)
+- [Convex Hull in Ada](https://sampleprograms.io/projects/convex-hull/ada)
 - [Fizz Buzz in Ada](https://sampleprograms.io/projects/fizz-buzz/ada)
 - [Hello World in Ada](https://sampleprograms.io/projects/hello-world/ada)
