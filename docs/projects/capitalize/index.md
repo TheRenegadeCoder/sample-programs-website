@@ -1,7 +1,7 @@
 ---
 date: 2019-03-31
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2026-05-07
+last-modified: 2026-05-09
 layout: default
 tags:
 - capitalize
@@ -91,11 +91,12 @@ Usage: please provide a string
 
 ## Articles
 
-There are 47 articles:
+There are 48 articles:
 
 - [Capitalize in ALGOL 60](https://sampleprograms.io/projects/capitalize/algol60)
 - [Capitalize in ALGOL 68](https://sampleprograms.io/projects/capitalize/algol68)
 - [Capitalize in AWK](https://sampleprograms.io/projects/capitalize/awk)
+- [Capitalize in Ada](https://sampleprograms.io/projects/capitalize/ada)
 - [Capitalize in Bash](https://sampleprograms.io/projects/capitalize/bash)
 - [Capitalize in Beef](https://sampleprograms.io/projects/capitalize/beef)
 - [Capitalize in Brainfuck](https://sampleprograms.io/projects/capitalize/brainfuck)
