@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 19 articles:
+There are 20 articles:
 
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
 - [Base64 Encode Decode in Ada](https://sampleprograms.io/projects/base64-encode-decode/ada)
@@ -49,3 +49,4 @@ There are 19 articles:
 - [Insertion Sort in Ada](https://sampleprograms.io/projects/insertion-sort/ada)
 - [Job Sequencing in Ada](https://sampleprograms.io/projects/job-sequencing/ada)
 - [Josephus Problem in Ada](https://sampleprograms.io/projects/josephus-problem/ada)
+- [Longest Word in Ada](https://sampleprograms.io/projects/longest-word/ada)
