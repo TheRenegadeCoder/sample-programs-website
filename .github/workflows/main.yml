@@ -29,7 +29,7 @@ jobs:
 
       - uses: abatilo/actions-poetry@v4
         with:
-          poetry-version: '2.3.3'
+          poetry-version: '2.4.1'
     
       - name: Install Dependencies
         run: poetry install
