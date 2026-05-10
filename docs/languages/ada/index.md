@@ -1,7 +1,7 @@
 ---
 date: 2018-04-24
 featured-image: programming-languages.jpg
-last-modified: 2026-05-10
+last-modified: 2026-05-11
 layout: default
 tags:
 - ada
@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 18 articles:
+There are 19 articles:
 
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
 - [Base64 Encode Decode in Ada](https://sampleprograms.io/projects/base64-encode-decode/ada)
@@ -48,3 +48,4 @@ There are 18 articles:
 - [Hello World in Ada](https://sampleprograms.io/projects/hello-world/ada)
 - [Insertion Sort in Ada](https://sampleprograms.io/projects/insertion-sort/ada)
 - [Job Sequencing in Ada](https://sampleprograms.io/projects/job-sequencing/ada)
+- [Josephus Problem in Ada](https://sampleprograms.io/projects/josephus-problem/ada)

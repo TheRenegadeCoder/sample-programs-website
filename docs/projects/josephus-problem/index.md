@@ -1,7 +1,7 @@
 ---
 date: 2021-10-08
 featured-image: josephus-problem-in-every-language.jpg
-last-modified: 2026-05-07
+last-modified: 2026-05-11
 layout: default
 tags:
 - josephus-problem
@@ -136,11 +136,12 @@ Usage: please input the total number of people and number of people to skip.
 
 ## Articles
 
-There are 27 articles:
+There are 28 articles:
 
 - [Josephus Problem in ALGOL 60](https://sampleprograms.io/projects/josephus-problem/algol60)
 - [Josephus Problem in ALGOL 68](https://sampleprograms.io/projects/josephus-problem/algol68)
 - [Josephus Problem in AWK](https://sampleprograms.io/projects/josephus-problem/awk)
+- [Josephus Problem in Ada](https://sampleprograms.io/projects/josephus-problem/ada)
 - [Josephus Problem in Beef](https://sampleprograms.io/projects/josephus-problem/beef)
 - [Josephus Problem in C](https://sampleprograms.io/projects/josephus-problem/c)
 - [Josephus Problem in C#](https://sampleprograms.io/projects/josephus-problem/c-sharp)
