@@ -1,7 +1,7 @@
 ---
 date: 2018-04-24
 featured-image: programming-languages.jpg
-last-modified: 2026-05-09
+last-modified: 2026-05-10
 layout: default
 tags:
 - ada
@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 10 articles:
+There are 12 articles:
 
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
 - [Base64 Encode Decode in Ada](https://sampleprograms.io/projects/base64-encode-decode/ada)
@@ -38,5 +38,7 @@ There are 10 articles:
 - [Convex Hull in Ada](https://sampleprograms.io/projects/convex-hull/ada)
 - [Depth First Search in Ada](https://sampleprograms.io/projects/depth-first-search/ada)
 - [Dijkstra in Ada](https://sampleprograms.io/projects/dijkstra/ada)
+- [Even Odd in Ada](https://sampleprograms.io/projects/even-odd/ada)
+- [Factorial in Ada](https://sampleprograms.io/projects/factorial/ada)
 - [Fizz Buzz in Ada](https://sampleprograms.io/projects/fizz-buzz/ada)
 - [Hello World in Ada](https://sampleprograms.io/projects/hello-world/ada)

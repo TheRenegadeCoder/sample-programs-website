@@ -1,7 +1,7 @@
 ---
 date: 2018-10-21
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2026-05-07
+last-modified: 2026-05-10
 layout: default
 tags:
 - even-odd
@@ -80,11 +80,12 @@ Usage: please input a number
 
 ## Articles
 
-There are 51 articles:
+There are 52 articles:
 
 - [Even Odd in ALGOL 60](https://sampleprograms.io/projects/even-odd/algol60)
 - [Even Odd in ALGOL 68](https://sampleprograms.io/projects/even-odd/algol68)
 - [Even Odd in AWK](https://sampleprograms.io/projects/even-odd/awk)
+- [Even Odd in Ada](https://sampleprograms.io/projects/even-odd/ada)
 - [Even Odd in Bash](https://sampleprograms.io/projects/even-odd/bash)
 - [Even Odd in Beef](https://sampleprograms.io/projects/even-odd/beef)
 - [Even Odd in C](https://sampleprograms.io/projects/even-odd/c)

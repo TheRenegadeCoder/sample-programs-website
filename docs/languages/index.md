@@ -1,14 +1,14 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2026-05-09
+last-modified: 2026-05-10
 layout: default
 title: Programming Languages
 title1: Programming
 title2: Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1615 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1617 code snippets.
 
 ## Language Breakdown
 
@@ -20,7 +20,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 60</td>
-        <td class="right">8.97%</td>
+        <td class="right">8.96%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
@@ -44,7 +44,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">m4</td>
-        <td class="right">4.31%</td>
+        <td class="right">4.30%</td>
         <td class="bar-graph"><div style="width: 48.00%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
@@ -62,7 +62,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Pascal</td>
-        <td class="right">3.57%</td>
+        <td class="right">3.56%</td>
         <td class="bar-graph"><div style="width: 39.77%; background-color: #E3F171;"></div></td> 
     </tr>
 
@@ -80,7 +80,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Rust</td>
-        <td class="right">3.12%</td>
+        <td class="right">3.11%</td>
         <td class="bar-graph"><div style="width: 34.75%; background-color: #DEA584;"></div></td> 
     </tr>
 
@@ -92,7 +92,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">PHP</td>
-        <td class="right">2.90%</td>
+        <td class="right">2.89%</td>
         <td class="bar-graph"><div style="width: 32.29%; background-color: #4F5D95;"></div></td> 
     </tr>
 
@@ -104,13 +104,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C#</td>
-        <td class="right">2.75%</td>
+        <td class="right">2.74%</td>
         <td class="bar-graph"><div style="width: 30.61%; background-color: #178600;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">x86-64</td>
-        <td class="right">2.65%</td>
+        <td class="right">2.64%</td>
         <td class="bar-graph"><div style="width: 29.51%; background-color: #6E4C13;"></div></td> 
     </tr>
 
@@ -122,13 +122,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">AWK</td>
-        <td class="right">2.51%</td>
+        <td class="right">2.50%</td>
         <td class="bar-graph"><div style="width: 27.94%; background-color: #C30E9B;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Mathematica</td>
-        <td class="right">2.18%</td>
+        <td class="right">2.17%</td>
         <td class="bar-graph"><div style="width: 24.26%; background-color: #DD1100;"></div></td> 
     </tr>
 
@@ -169,15 +169,15 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Python</td>
-        <td class="right">1.49%</td>
-        <td class="bar-graph"><div style="width: 16.62%; background-color: #3572A5;"></div></td> 
+        <td class="right nowrap">Ada</td>
+        <td class="right">1.50%</td>
+        <td class="bar-graph"><div style="width: 16.69%; background-color: #02F88C;"></div></td> 
     </tr>
 
     <tr>
-        <td class="right nowrap">Ada</td>
-        <td class="right">1.43%</td>
-        <td class="bar-graph"><div style="width: 15.92%; background-color: #02F88C;"></div></td> 
+        <td class="right nowrap">Python</td>
+        <td class="right">1.49%</td>
+        <td class="bar-graph"><div style="width: 16.62%; background-color: #3572A5;"></div></td> 
     </tr>
 
     <tr>
@@ -1006,9 +1006,9 @@ To return here, just click the &laquo; [Return to Top](#language-collections-by-
 
 ### A
 
-The 'A' collection contains 6 languages, of which 6 are tested, and 130 code snippets.
+The 'A' collection contains 6 languages, of which 6 are tested, and 132 code snippets.
 
-- [Ada](https://sampleprograms.io/languages/ada) (10 code snippets)
+- [Ada](https://sampleprograms.io/languages/ada) (12 code snippets)
 - [Agda](https://sampleprograms.io/languages/agda) (2 code snippets)
 - [ALGOL 60](https://sampleprograms.io/languages/algol60) (37 code snippets)
 - [ALGOL 68](https://sampleprograms.io/languages/algol68) (39 code snippets)
