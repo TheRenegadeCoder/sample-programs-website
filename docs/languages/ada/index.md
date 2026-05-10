@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 16 articles:
+There are 17 articles:
 
 - [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
 - [Base64 Encode Decode in Ada](https://sampleprograms.io/projects/base64-encode-decode/ada)
@@ -44,5 +44,6 @@ There are 16 articles:
 - [Fibonacci in Ada](https://sampleprograms.io/projects/fibonacci/ada)
 - [File Input Output in Ada](https://sampleprograms.io/projects/file-input-output/ada)
 - [Fizz Buzz in Ada](https://sampleprograms.io/projects/fizz-buzz/ada)
+- [Fraction Math in Ada](https://sampleprograms.io/projects/fraction-math/ada)
 - [Hello World in Ada](https://sampleprograms.io/projects/hello-world/ada)
 - [Insertion Sort in Ada](https://sampleprograms.io/projects/insertion-sort/ada)
