@@ -1,7 +1,7 @@
 ---
 date: 2018-10-02
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2026-05-07
+last-modified: 2026-05-10
 layout: default
 tags:
 - fibonacci
@@ -90,11 +90,12 @@ Usage: please input the count of fibonacci numbers to output
 
 ## Articles
 
-There are 47 articles:
+There are 48 articles:
 
 - [Fibonacci in ALGOL 60](https://sampleprograms.io/projects/fibonacci/algol60)
 - [Fibonacci in ALGOL 68](https://sampleprograms.io/projects/fibonacci/algol68)
 - [Fibonacci in AWK](https://sampleprograms.io/projects/fibonacci/awk)
+- [Fibonacci in Ada](https://sampleprograms.io/projects/fibonacci/ada)
 - [Fibonacci in Bash](https://sampleprograms.io/projects/fibonacci/bash)
 - [Fibonacci in Beef](https://sampleprograms.io/projects/fibonacci/beef)
 - [Fibonacci in Boo](https://sampleprograms.io/projects/fibonacci/boo)
