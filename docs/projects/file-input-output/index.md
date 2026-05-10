@@ -1,7 +1,7 @@
 ---
 date: 2018-09-10
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2026-05-07
+last-modified: 2026-05-10
 layout: default
 tags:
 - file-input-output
@@ -62,10 +62,11 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 39 articles:
+There are 40 articles:
 
 - [File Input Output in ALGOL 68](https://sampleprograms.io/projects/file-input-output/algol68)
 - [File Input Output in AWK](https://sampleprograms.io/projects/file-input-output/awk)
+- [File Input Output in Ada](https://sampleprograms.io/projects/file-input-output/ada)
 - [File Input Output in Bash](https://sampleprograms.io/projects/file-input-output/bash)
 - [File Input Output in Beef](https://sampleprograms.io/projects/file-input-output/beef)
 - [File Input Output in C](https://sampleprograms.io/projects/file-input-output/c)

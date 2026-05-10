@@ -1,7 +1,7 @@
 ---
 date: 2018-12-18
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: 2026-05-07
+last-modified: 2026-05-10
 layout: default
 tags:
 - insertion-sort
@@ -140,11 +140,12 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-There are 30 articles:
+There are 31 articles:
 
 - [Insertion Sort in ALGOL 60](https://sampleprograms.io/projects/insertion-sort/algol60)
 - [Insertion Sort in ALGOL 68](https://sampleprograms.io/projects/insertion-sort/algol68)
 - [Insertion Sort in AWK](https://sampleprograms.io/projects/insertion-sort/awk)
+- [Insertion Sort in Ada](https://sampleprograms.io/projects/insertion-sort/ada)
 - [Insertion Sort in Beef](https://sampleprograms.io/projects/insertion-sort/beef)
 - [Insertion Sort in C](https://sampleprograms.io/projects/insertion-sort/c)
 - [Insertion Sort in C#](https://sampleprograms.io/projects/insertion-sort/c-sharp)
