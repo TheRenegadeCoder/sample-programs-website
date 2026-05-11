@@ -8,7 +8,7 @@ title1: Programming
 title2: Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1629 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1630 code snippets.
 
 ## Language Breakdown
 
@@ -20,19 +20,19 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 60</td>
-        <td class="right">8.86%</td>
+        <td class="right">8.84%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">ALGOL 68</td>
-        <td class="right">5.00%</td>
+        <td class="right">4.99%</td>
         <td class="bar-graph"><div style="width: 56.42%; background-color: #AF425E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Commodore BASIC</td>
-        <td class="right">4.91%</td>
+        <td class="right">4.90%</td>
         <td class="bar-graph"><div style="width: 55.41%; background-color: #4F44D8;"></div></td> 
     </tr>
 
@@ -44,7 +44,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">m4</td>
-        <td class="right">4.25%</td>
+        <td class="right">4.24%</td>
         <td class="bar-graph"><div style="width: 48.00%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
@@ -80,7 +80,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Rust</td>
-        <td class="right">3.08%</td>
+        <td class="right">3.07%</td>
         <td class="bar-graph"><div style="width: 34.75%; background-color: #DEA584;"></div></td> 
     </tr>
 
@@ -98,8 +98,14 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Java</td>
-        <td class="right">2.79%</td>
+        <td class="right">2.78%</td>
         <td class="bar-graph"><div style="width: 31.47%; background-color: #B07219;"></div></td> 
+    </tr>
+
+    <tr>
+        <td class="right nowrap">Ada</td>
+        <td class="right">2.74%</td>
+        <td class="bar-graph"><div style="width: 30.99%; background-color: #02F88C;"></div></td> 
     </tr>
 
     <tr>
@@ -115,14 +121,8 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Ada</td>
-        <td class="right">2.61%</td>
-        <td class="bar-graph"><div style="width: 29.50%; background-color: #02F88C;"></div></td> 
-    </tr>
-
-    <tr>
         <td class="right nowrap">F#</td>
-        <td class="right">2.59%</td>
+        <td class="right">2.58%</td>
         <td class="bar-graph"><div style="width: 29.20%; background-color: #B845FC;"></div></td> 
     </tr>
 
@@ -152,7 +152,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">TypeScript</td>
-        <td class="right">1.89%</td>
+        <td class="right">1.88%</td>
         <td class="bar-graph"><div style="width: 21.30%; background-color: #3178C6;"></div></td> 
     </tr>
 
@@ -278,7 +278,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Erlang</td>
-        <td class="right">0.28%</td>
+        <td class="right">0.27%</td>
         <td class="bar-graph"><div style="width: 3.11%; background-color: #B83998;"></div></td> 
     </tr>
 
@@ -308,7 +308,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Odin</td>
-        <td class="right">0.22%</td>
+        <td class="right">0.21%</td>
         <td class="bar-graph"><div style="width: 2.43%; background-color: #60AFFE;"></div></td> 
     </tr>
 
@@ -1006,9 +1006,9 @@ To return here, just click the &laquo; [Return to Top](#language-collections-by-
 
 ### A
 
-The 'A' collection contains 6 languages, of which 6 are tested, and 142 code snippets.
+The 'A' collection contains 6 languages, of which 6 are tested, and 143 code snippets.
 
-- [Ada](https://sampleprograms.io/languages/ada) (22 code snippets)
+- [Ada](https://sampleprograms.io/languages/ada) (23 code snippets)
 - [Agda](https://sampleprograms.io/languages/agda) (2 code snippets)
 - [ALGOL 60](https://sampleprograms.io/languages/algol60) (37 code snippets)
 - [ALGOL 68](https://sampleprograms.io/languages/algol68) (39 code snippets)
