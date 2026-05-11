@@ -57,9 +57,10 @@ At any rate, I think that's plenty of background for now.
 
 ## Articles
 
-There are 27 articles:
+There are 29 articles:
 
 - [Baklava in Haskell](https://sampleprograms.io/projects/baklava/haskell)
+- [Binary Search in Haskell](https://sampleprograms.io/projects/binary-search/haskell)
 - [Bubble Sort in Haskell](https://sampleprograms.io/projects/bubble-sort/haskell)
 - [Capitalize in Haskell](https://sampleprograms.io/projects/capitalize/haskell)
 - [Even Odd in Haskell](https://sampleprograms.io/projects/even-odd/haskell)
@@ -77,6 +78,7 @@ There are 27 articles:
 - [Maximum Array Rotation in Haskell](https://sampleprograms.io/projects/maximum-array-rotation/haskell)
 - [Maximum Subarray in Haskell](https://sampleprograms.io/projects/maximum-subarray/haskell)
 - [Merge Sort in Haskell](https://sampleprograms.io/projects/merge-sort/haskell)
+- [Palindromic Number in Haskell](https://sampleprograms.io/projects/palindromic-number/haskell)
 - [Prime Number in Haskell](https://sampleprograms.io/projects/prime-number/haskell)
 - [Quick Sort in Haskell](https://sampleprograms.io/projects/quick-sort/haskell)
 - [Quine in Haskell](https://sampleprograms.io/projects/quine/haskell)
