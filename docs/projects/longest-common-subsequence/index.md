@@ -1,7 +1,7 @@
 ---
 date: 2018-10-16
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: 2026-05-07
+last-modified: 2026-05-11
 layout: default
 tags:
 - longest-common-subsequence
@@ -100,11 +100,12 @@ Usage: please provide two lists in the format "1, 2, 3, 4, 5"
 
 ## Articles
 
-There are 28 articles:
+There are 29 articles:
 
 - [Longest Common Subsequence in ALGOL 60](https://sampleprograms.io/projects/longest-common-subsequence/algol60)
 - [Longest Common Subsequence in ALGOL 68](https://sampleprograms.io/projects/longest-common-subsequence/algol68)
 - [Longest Common Subsequence in AWK](https://sampleprograms.io/projects/longest-common-subsequence/awk)
+- [Longest Common Subsequence in Ada](https://sampleprograms.io/projects/longest-common-subsequence/ada)
 - [Longest Common Subsequence in Beef](https://sampleprograms.io/projects/longest-common-subsequence/beef)
 - [Longest Common Subsequence in C](https://sampleprograms.io/projects/longest-common-subsequence/c)
 - [Longest Common Subsequence in C#](https://sampleprograms.io/projects/longest-common-subsequence/c-sharp)
