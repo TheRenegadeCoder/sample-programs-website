@@ -71,6 +71,8 @@ In order to keep things simple, we split up the testing as follows:
 | Sample Input: Already Sorted | "1, 2, 3, 4, 5" | "1, 2, 3, 4, 5" |
 | Sample Input: Reverse Sorted | "9, 8, 7, 6, 5, 4, 3, 2, 1" | "1, 2, 3, 4, 5, 6, 7, 8, 9" |
 
+This test suite is repeated 10 times to ensure that the results are consistent.
+
 ### Sleep Sort Invalid Tests
 
 | Description | Input |
