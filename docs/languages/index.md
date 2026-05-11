@@ -8,7 +8,7 @@ title1: Programming
 title2: Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1626 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1627 code snippets.
 
 ## Language Breakdown
 
@@ -26,7 +26,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 68</td>
-        <td class="right">5.01%</td>
+        <td class="right">5.00%</td>
         <td class="bar-graph"><div style="width: 56.42%; background-color: #AF425E;"></div></td> 
     </tr>
 
@@ -92,7 +92,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">PHP</td>
-        <td class="right">2.87%</td>
+        <td class="right">2.86%</td>
         <td class="bar-graph"><div style="width: 32.29%; background-color: #4F5D95;"></div></td> 
     </tr>
 
@@ -176,20 +176,20 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Python</td>
-        <td class="right">1.48%</td>
+        <td class="right">1.47%</td>
         <td class="bar-graph"><div style="width: 16.62%; background-color: #3572A5;"></div></td> 
+    </tr>
+
+    <tr>
+        <td class="right nowrap">Haskell</td>
+        <td class="right">0.96%</td>
+        <td class="bar-graph"><div style="width: 10.86%; background-color: #5E5086;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Kotlin</td>
         <td class="right">0.95%</td>
         <td class="bar-graph"><div style="width: 10.66%; background-color: #A97BFF;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">Haskell</td>
-        <td class="right">0.94%</td>
-        <td class="bar-graph"><div style="width: 10.59%; background-color: #5E5086;"></div></td> 
     </tr>
 
     <tr>
@@ -314,7 +314,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Groovy</td>
-        <td class="right">0.20%</td>
+        <td class="right">0.19%</td>
         <td class="bar-graph"><div style="width: 2.20%; background-color: #4298B8;"></div></td> 
     </tr>
 
@@ -566,7 +566,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Pineapple</td>
-        <td class="right">0.04%</td>
+        <td class="right">0.03%</td>
         <td class="bar-graph"><div style="width: 0.39%; background-color: #FF7043;"></div></td> 
     </tr>
 
@@ -1123,10 +1123,10 @@ The 'G' collection contains 11 languages, of which 11 are tested, and 76 code sn
 
 ### H
 
-The 'H' collection contains 4 languages, of which 4 are tested, and 33 code snippets.
+The 'H' collection contains 4 languages, of which 4 are tested, and 34 code snippets.
 
 - [Hack](https://sampleprograms.io/languages/hack) (2 code snippets)
-- [Haskell](https://sampleprograms.io/languages/haskell) (25 code snippets)
+- [Haskell](https://sampleprograms.io/languages/haskell) (26 code snippets)
 - [Haxe](https://sampleprograms.io/languages/haxe) (4 code snippets)
 - [Hobbes](https://sampleprograms.io/languages/hobbes) (2 code snippets)
 

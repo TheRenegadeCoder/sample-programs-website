@@ -136,7 +136,7 @@ Usage: please input the total number of people and number of people to skip.
 
 ## Articles
 
-There are 28 articles:
+There are 29 articles:
 
 - [Josephus Problem in ALGOL 60](https://sampleprograms.io/projects/josephus-problem/algol60)
 - [Josephus Problem in ALGOL 68](https://sampleprograms.io/projects/josephus-problem/algol68)
@@ -151,6 +151,7 @@ There are 28 articles:
 - [Josephus Problem in Euphoria](https://sampleprograms.io/projects/josephus-problem/euphoria)
 - [Josephus Problem in F#](https://sampleprograms.io/projects/josephus-problem/f-sharp)
 - [Josephus Problem in Go](https://sampleprograms.io/projects/josephus-problem/go)
+- [Josephus Problem in Haskell](https://sampleprograms.io/projects/josephus-problem/haskell)
 - [Josephus Problem in Java](https://sampleprograms.io/projects/josephus-problem/java)
 - [Josephus Problem in JavaScript](https://sampleprograms.io/projects/josephus-problem/javascript)
 - [Josephus Problem in Mathematica](https://sampleprograms.io/projects/josephus-problem/mathematica)

@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-08
 featured-image: programming-languages.jpg
-last-modified: 2026-04-29
+last-modified: 2026-05-11
 layout: default
 tags:
 - haskell
@@ -57,7 +57,7 @@ At any rate, I think that's plenty of background for now.
 
 ## Articles
 
-There are 25 articles:
+There are 26 articles:
 
 - [Baklava in Haskell](https://sampleprograms.io/projects/baklava/haskell)
 - [Bubble Sort in Haskell](https://sampleprograms.io/projects/bubble-sort/haskell)
@@ -70,6 +70,7 @@ There are 25 articles:
 - [Hello World in Haskell](https://sampleprograms.io/projects/hello-world/haskell)
 - [Insertion Sort in Haskell](https://sampleprograms.io/projects/insertion-sort/haskell)
 - [Job Sequencing in Haskell](https://sampleprograms.io/projects/job-sequencing/haskell)
+- [Josephus Problem in Haskell](https://sampleprograms.io/projects/josephus-problem/haskell)
 - [Linear Search in Haskell](https://sampleprograms.io/projects/linear-search/haskell)
 - [Longest Common Subsequence in Haskell](https://sampleprograms.io/projects/longest-common-subsequence/haskell)
 - [Longest Word in Haskell](https://sampleprograms.io/projects/longest-word/haskell)
