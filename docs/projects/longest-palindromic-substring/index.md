@@ -1,7 +1,7 @@
 ---
 date: 2020-10-17
 featured-image: longest-palindromic-substring-in-every-language.jpg
-last-modified: 2026-05-07
+last-modified: 2026-05-12
 layout: default
 tags:
 - longest-palindromic-substring
@@ -121,11 +121,12 @@ Usage: please provide a string that contains at least one palindrome
 
 ## Articles
 
-There are 26 articles:
+There are 28 articles:
 
 - [Longest Palindromic Substring in ALGOL 60](https://sampleprograms.io/projects/longest-palindromic-substring/algol60)
 - [Longest Palindromic Substring in ALGOL 68](https://sampleprograms.io/projects/longest-palindromic-substring/algol68)
 - [Longest Palindromic Substring in AWK](https://sampleprograms.io/projects/longest-palindromic-substring/awk)
+- [Longest Palindromic Substring in Ada](https://sampleprograms.io/projects/longest-palindromic-substring/ada)
 - [Longest Palindromic Substring in Beef](https://sampleprograms.io/projects/longest-palindromic-substring/beef)
 - [Longest Palindromic Substring in C](https://sampleprograms.io/projects/longest-palindromic-substring/c)
 - [Longest Palindromic Substring in C#](https://sampleprograms.io/projects/longest-palindromic-substring/c-sharp)
@@ -135,6 +136,7 @@ There are 26 articles:
 - [Longest Palindromic Substring in Euphoria](https://sampleprograms.io/projects/longest-palindromic-substring/euphoria)
 - [Longest Palindromic Substring in F#](https://sampleprograms.io/projects/longest-palindromic-substring/f-sharp)
 - [Longest Palindromic Substring in Go](https://sampleprograms.io/projects/longest-palindromic-substring/go)
+- [Longest Palindromic Substring in Haskell](https://sampleprograms.io/projects/longest-palindromic-substring/haskell)
 - [Longest Palindromic Substring in Java](https://sampleprograms.io/projects/longest-palindromic-substring/java)
 - [Longest Palindromic Substring in JavaScript](https://sampleprograms.io/projects/longest-palindromic-substring/javascript)
 - [Longest Palindromic Substring in Mathematica](https://sampleprograms.io/projects/longest-palindromic-substring/mathematica)

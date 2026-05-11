@@ -1,14 +1,14 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2026-05-11
+last-modified: 2026-05-12
 layout: default
 title: Programming Languages
 title1: Programming
 title2: Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1633 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1635 code snippets.
 
 ## Language Breakdown
 
@@ -20,25 +20,25 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 60</td>
-        <td class="right">8.82%</td>
+        <td class="right">8.81%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">ALGOL 68</td>
-        <td class="right">4.98%</td>
+        <td class="right">4.97%</td>
         <td class="bar-graph"><div style="width: 56.42%; background-color: #AF425E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Commodore BASIC</td>
-        <td class="right">4.89%</td>
+        <td class="right">4.88%</td>
         <td class="bar-graph"><div style="width: 55.41%; background-color: #4F44D8;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Euphoria</td>
-        <td class="right">4.33%</td>
+        <td class="right">4.32%</td>
         <td class="bar-graph"><div style="width: 49.06%; background-color: #FF790B;"></div></td> 
     </tr>
 
@@ -56,25 +56,25 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">COBOL</td>
-        <td class="right">4.11%</td>
+        <td class="right">4.10%</td>
         <td class="bar-graph"><div style="width: 46.58%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Pascal</td>
-        <td class="right">3.51%</td>
+        <td class="right">3.50%</td>
         <td class="bar-graph"><div style="width: 39.77%; background-color: #E3F171;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">C++</td>
-        <td class="right">3.19%</td>
+        <td class="right">3.18%</td>
         <td class="bar-graph"><div style="width: 36.15%; background-color: #F34B7D;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">C</td>
-        <td class="right">3.13%</td>
+        <td class="right">3.12%</td>
         <td class="bar-graph"><div style="width: 35.47%; background-color: #555555;"></div></td> 
     </tr>
 
@@ -86,8 +86,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Ada</td>
-        <td class="right">2.92%</td>
-        <td class="bar-graph"><div style="width: 33.08%; background-color: #02F88C;"></div></td> 
+        <td class="right">3.02%</td>
+        <td class="bar-graph"><div style="width: 34.25%; background-color: #02F88C;"></div></td> 
     </tr>
 
     <tr>
@@ -98,7 +98,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">PHP</td>
-        <td class="right">2.85%</td>
+        <td class="right">2.84%</td>
         <td class="bar-graph"><div style="width: 32.29%; background-color: #4F5D95;"></div></td> 
     </tr>
 
@@ -146,7 +146,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">PowerShell</td>
-        <td class="right">2.02%</td>
+        <td class="right">2.01%</td>
         <td class="bar-graph"><div style="width: 22.85%; background-color: #012456;"></div></td> 
     </tr>
 
@@ -170,20 +170,20 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Go</td>
-        <td class="right">1.81%</td>
+        <td class="right">1.80%</td>
         <td class="bar-graph"><div style="width: 20.47%; background-color: #00ADD8;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Python</td>
-        <td class="right">1.47%</td>
+        <td class="right">1.46%</td>
         <td class="bar-graph"><div style="width: 16.62%; background-color: #3572A5;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Haskell</td>
-        <td class="right">1.10%</td>
-        <td class="bar-graph"><div style="width: 12.48%; background-color: #5E5086;"></div></td> 
+        <td class="right">1.13%</td>
+        <td class="bar-graph"><div style="width: 12.87%; background-color: #5E5086;"></div></td> 
     </tr>
 
     <tr>
@@ -236,7 +236,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Unicat</td>
-        <td class="right">0.45%</td>
+        <td class="right">0.44%</td>
         <td class="bar-graph"><div style="width: 5.05%; background-color: #FFDE34;"></div></td> 
     </tr>
 
@@ -1006,9 +1006,9 @@ To return here, just click the &laquo; [Return to Top](#language-collections-by-
 
 ### A
 
-The 'A' collection contains 6 languages, of which 6 are tested, and 144 code snippets.
+The 'A' collection contains 6 languages, of which 6 are tested, and 145 code snippets.
 
-- [Ada](https://sampleprograms.io/languages/ada) (24 code snippets)
+- [Ada](https://sampleprograms.io/languages/ada) (25 code snippets)
 - [Agda](https://sampleprograms.io/languages/agda) (2 code snippets)
 - [ALGOL 60](https://sampleprograms.io/languages/algol60) (37 code snippets)
 - [ALGOL 68](https://sampleprograms.io/languages/algol68) (39 code snippets)
@@ -1123,10 +1123,10 @@ The 'G' collection contains 11 languages, of which 11 are tested, and 76 code sn
 
 ### H
 
-The 'H' collection contains 4 languages, of which 4 are tested, and 37 code snippets.
+The 'H' collection contains 4 languages, of which 4 are tested, and 38 code snippets.
 
 - [Hack](https://sampleprograms.io/languages/hack) (2 code snippets)
-- [Haskell](https://sampleprograms.io/languages/haskell) (29 code snippets)
+- [Haskell](https://sampleprograms.io/languages/haskell) (30 code snippets)
 - [Haxe](https://sampleprograms.io/languages/haxe) (4 code snippets)
 - [Hobbes](https://sampleprograms.io/languages/hobbes) (2 code snippets)
 

@@ -57,7 +57,7 @@ At any rate, I think that's plenty of background for now.
 
 ## Articles
 
-There are 29 articles:
+There are 30 articles:
 
 - [Baklava in Haskell](https://sampleprograms.io/projects/baklava/haskell)
 - [Binary Search in Haskell](https://sampleprograms.io/projects/binary-search/haskell)
@@ -74,6 +74,7 @@ There are 29 articles:
 - [Josephus Problem in Haskell](https://sampleprograms.io/projects/josephus-problem/haskell)
 - [Linear Search in Haskell](https://sampleprograms.io/projects/linear-search/haskell)
 - [Longest Common Subsequence in Haskell](https://sampleprograms.io/projects/longest-common-subsequence/haskell)
+- [Longest Palindromic Substring in Haskell](https://sampleprograms.io/projects/longest-palindromic-substring/haskell)
 - [Longest Word in Haskell](https://sampleprograms.io/projects/longest-word/haskell)
 - [Maximum Array Rotation in Haskell](https://sampleprograms.io/projects/maximum-array-rotation/haskell)
 - [Maximum Subarray in Haskell](https://sampleprograms.io/projects/maximum-subarray/haskell)
