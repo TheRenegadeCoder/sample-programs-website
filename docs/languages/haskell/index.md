@@ -57,7 +57,7 @@ At any rate, I think that's plenty of background for now.
 
 ## Articles
 
-There are 26 articles:
+There are 27 articles:
 
 - [Baklava in Haskell](https://sampleprograms.io/projects/baklava/haskell)
 - [Bubble Sort in Haskell](https://sampleprograms.io/projects/bubble-sort/haskell)
@@ -85,3 +85,4 @@ There are 26 articles:
 - [Roman Numeral in Haskell](https://sampleprograms.io/projects/roman-numeral/haskell)
 - [Rot13 in Haskell](https://sampleprograms.io/projects/rot13/haskell)
 - [Selection Sort in Haskell](https://sampleprograms.io/projects/selection-sort/haskell)
+- [Transpose Matrix in Haskell](https://sampleprograms.io/projects/transpose-matrix/haskell)
