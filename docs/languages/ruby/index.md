@@ -53,7 +53,7 @@ framework which helps developers build web applications quickly and easily.
 
 ## Articles
 
-There are 27 articles:
+There are 28 articles:
 
 - [Baklava in Ruby](https://sampleprograms.io/projects/baklava/ruby)
 - [Binary Search in Ruby](https://sampleprograms.io/projects/binary-search/ruby)
@@ -82,3 +82,4 @@ There are 27 articles:
 - [Roman Numeral in Ruby](https://sampleprograms.io/projects/roman-numeral/ruby)
 - [Rot13 in Ruby](https://sampleprograms.io/projects/rot13/ruby)
 - [Selection Sort in Ruby](https://sampleprograms.io/projects/selection-sort/ruby)
+- [Zeckendorf in Ruby](https://sampleprograms.io/projects/zeckendorf/ruby)

@@ -1,7 +1,7 @@
 ---
 date: 2026-01-19
 featured-image: zeckendorf-in-every-language.png
-last-modified: 2026-05-13
+last-modified: 2026-05-14
 layout: default
 tags:
 - zeckendorf
@@ -143,7 +143,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 26 articles:
+There are 27 articles:
 
 - [Zeckendorf in ALGOL 60](https://sampleprograms.io/projects/zeckendorf/algol60)
 - [Zeckendorf in ALGOL 68](https://sampleprograms.io/projects/zeckendorf/algol68)
@@ -164,6 +164,7 @@ There are 26 articles:
 - [Zeckendorf in Pascal](https://sampleprograms.io/projects/zeckendorf/pascal)
 - [Zeckendorf in PowerShell](https://sampleprograms.io/projects/zeckendorf/powershell)
 - [Zeckendorf in Python](https://sampleprograms.io/projects/zeckendorf/python)
+- [Zeckendorf in Ruby](https://sampleprograms.io/projects/zeckendorf/ruby)
 - [Zeckendorf in Rust](https://sampleprograms.io/projects/zeckendorf/rust)
 - [Zeckendorf in Swift](https://sampleprograms.io/projects/zeckendorf/swift)
 - [Zeckendorf in TI-BASIC](https://sampleprograms.io/projects/zeckendorf/ti-basic)
