@@ -247,7 +247,7 @@ cbmbasic hello-world.bas
 
 ## Articles
 
-There are 39 articles:
+There are 38 articles:
 
 - [Baklava in Commodore BASIC](https://sampleprograms.io/projects/baklava/commodore-basic)
 - [Base64 Encode Decode in Commodore BASIC](https://sampleprograms.io/projects/base64-encode-decode/commodore-basic)
@@ -285,6 +285,5 @@ There are 39 articles:
 - [Roman Numeral in Commodore BASIC](https://sampleprograms.io/projects/roman-numeral/commodore-basic)
 - [Rot13 in Commodore BASIC](https://sampleprograms.io/projects/rot13/commodore-basic)
 - [Selection Sort in Commodore BASIC](https://sampleprograms.io/projects/selection-sort/commodore-basic)
-- [Sleep Sort in Commodore BASIC](https://sampleprograms.io/projects/sleep-sort/commodore-basic)
 - [Transpose Matrix in Commodore BASIC](https://sampleprograms.io/projects/transpose-matrix/commodore-basic)
 - [Zeckendorf in Commodore BASIC](https://sampleprograms.io/projects/zeckendorf/commodore-basic)

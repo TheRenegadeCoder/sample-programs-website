@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 39 articles:
+There are 38 articles:
 
 - [Baklava in JavaScript](https://sampleprograms.io/projects/baklava/javascript)
 - [Base64 Encode Decode in JavaScript](https://sampleprograms.io/projects/base64-encode-decode/javascript)
@@ -66,6 +66,5 @@ There are 39 articles:
 - [Roman Numeral in JavaScript](https://sampleprograms.io/projects/roman-numeral/javascript)
 - [Rot13 in JavaScript](https://sampleprograms.io/projects/rot13/javascript)
 - [Selection Sort in JavaScript](https://sampleprograms.io/projects/selection-sort/javascript)
-- [Sleep Sort in JavaScript](https://sampleprograms.io/projects/sleep-sort/javascript)
 - [Transpose Matrix in JavaScript](https://sampleprograms.io/projects/transpose-matrix/javascript)
 - [Zeckendorf in JavaScript](https://sampleprograms.io/projects/zeckendorf/javascript)

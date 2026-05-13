@@ -49,7 +49,7 @@ implicitly.
 
 ## Articles
 
-There are 39 articles:
+There are 38 articles:
 
 - [Baklava in C](https://sampleprograms.io/projects/baklava/c)
 - [Base64 Encode Decode in C](https://sampleprograms.io/projects/base64-encode-decode/c)
@@ -87,6 +87,5 @@ There are 39 articles:
 - [Roman Numeral in C](https://sampleprograms.io/projects/roman-numeral/c)
 - [Rot13 in C](https://sampleprograms.io/projects/rot13/c)
 - [Selection Sort in C](https://sampleprograms.io/projects/selection-sort/c)
-- [Sleep Sort in C](https://sampleprograms.io/projects/sleep-sort/c)
 - [Transpose Matrix in C](https://sampleprograms.io/projects/transpose-matrix/c)
 - [Zeckendorf in C](https://sampleprograms.io/projects/zeckendorf/c)

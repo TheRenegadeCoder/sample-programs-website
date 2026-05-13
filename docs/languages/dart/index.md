@@ -69,7 +69,7 @@ A programmer can just get started from the get-go!
 
 ## Articles
 
-There are 18 articles:
+There are 17 articles:
 
 - [Baklava in Dart](https://sampleprograms.io/projects/baklava/dart)
 - [Bubble Sort in Dart](https://sampleprograms.io/projects/bubble-sort/dart)
@@ -88,4 +88,3 @@ There are 18 articles:
 - [Reverse String in Dart](https://sampleprograms.io/projects/reverse-string/dart)
 - [Roman Numeral in Dart](https://sampleprograms.io/projects/roman-numeral/dart)
 - [Rot13 in Dart](https://sampleprograms.io/projects/rot13/dart)
-- [Sleep Sort in Dart](https://sampleprograms.io/projects/sleep-sort/dart)

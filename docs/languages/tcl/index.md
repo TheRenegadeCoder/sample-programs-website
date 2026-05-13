@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 39 articles:
+There are 38 articles:
 
 - [Baklava in Tcl](https://sampleprograms.io/projects/baklava/tcl)
 - [Base64 Encode Decode in Tcl](https://sampleprograms.io/projects/base64-encode-decode/tcl)
@@ -66,6 +66,5 @@ There are 39 articles:
 - [Roman Numeral in Tcl](https://sampleprograms.io/projects/roman-numeral/tcl)
 - [Rot13 in Tcl](https://sampleprograms.io/projects/rot13/tcl)
 - [Selection Sort in Tcl](https://sampleprograms.io/projects/selection-sort/tcl)
-- [Sleep Sort in Tcl](https://sampleprograms.io/projects/sleep-sort/tcl)
 - [Transpose Matrix in Tcl](https://sampleprograms.io/projects/transpose-matrix/tcl)
 - [Zeckendorf in Tcl](https://sampleprograms.io/projects/zeckendorf/tcl)

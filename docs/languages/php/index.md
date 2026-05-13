@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 39 articles:
+There are 38 articles:
 
 - [Baklava in PHP](https://sampleprograms.io/projects/baklava/php)
 - [Base64 Encode Decode in PHP](https://sampleprograms.io/projects/base64-encode-decode/php)
@@ -66,6 +66,5 @@ There are 39 articles:
 - [Roman Numeral in PHP](https://sampleprograms.io/projects/roman-numeral/php)
 - [Rot13 in PHP](https://sampleprograms.io/projects/rot13/php)
 - [Selection Sort in PHP](https://sampleprograms.io/projects/selection-sort/php)
-- [Sleep Sort in PHP](https://sampleprograms.io/projects/sleep-sort/php)
 - [Transpose Matrix in PHP](https://sampleprograms.io/projects/transpose-matrix/php)
 - [Zeckendorf in PHP](https://sampleprograms.io/projects/zeckendorf/php)

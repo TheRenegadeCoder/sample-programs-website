@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 39 articles:
+There are 38 articles:
 
 - [Baklava in Go](https://sampleprograms.io/projects/baklava/go)
 - [Base64 Encode Decode in Go](https://sampleprograms.io/projects/base64-encode-decode/go)
@@ -66,6 +66,5 @@ There are 39 articles:
 - [Roman Numeral in Go](https://sampleprograms.io/projects/roman-numeral/go)
 - [Rot13 in Go](https://sampleprograms.io/projects/rot13/go)
 - [Selection Sort in Go](https://sampleprograms.io/projects/selection-sort/go)
-- [Sleep Sort in Go](https://sampleprograms.io/projects/sleep-sort/go)
 - [Transpose Matrix in Go](https://sampleprograms.io/projects/transpose-matrix/go)
 - [Zeckendorf in Go](https://sampleprograms.io/projects/zeckendorf/go)

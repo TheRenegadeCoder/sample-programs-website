@@ -65,7 +65,7 @@ Android apps, I haven't seen many fun commercial uses for Java.
 
 ## Articles
 
-There are 39 articles:
+There are 38 articles:
 
 - [Baklava in C#](https://sampleprograms.io/projects/baklava/c-sharp)
 - [Base64 Encode Decode in C#](https://sampleprograms.io/projects/base64-encode-decode/c-sharp)
@@ -103,6 +103,5 @@ There are 39 articles:
 - [Roman Numeral in C#](https://sampleprograms.io/projects/roman-numeral/c-sharp)
 - [Rot13 in C#](https://sampleprograms.io/projects/rot13/c-sharp)
 - [Selection Sort in C#](https://sampleprograms.io/projects/selection-sort/c-sharp)
-- [Sleep Sort in C#](https://sampleprograms.io/projects/sleep-sort/c-sharp)
 - [Transpose Matrix in C#](https://sampleprograms.io/projects/transpose-matrix/c-sharp)
 - [Zeckendorf in C#](https://sampleprograms.io/projects/zeckendorf/c-sharp)

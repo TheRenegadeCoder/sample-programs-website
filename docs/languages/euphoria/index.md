@@ -129,7 +129,7 @@ If you'd like more information about this language, please see the
 
 ## Articles
 
-There are 39 articles:
+There are 38 articles:
 
 - [Baklava in Euphoria](https://sampleprograms.io/projects/baklava/euphoria)
 - [Base64 Encode Decode in Euphoria](https://sampleprograms.io/projects/base64-encode-decode/euphoria)
@@ -167,6 +167,5 @@ There are 39 articles:
 - [Roman Numeral in Euphoria](https://sampleprograms.io/projects/roman-numeral/euphoria)
 - [Rot13 in Euphoria](https://sampleprograms.io/projects/rot13/euphoria)
 - [Selection Sort in Euphoria](https://sampleprograms.io/projects/selection-sort/euphoria)
-- [Sleep Sort in Euphoria](https://sampleprograms.io/projects/sleep-sort/euphoria)
 - [Transpose Matrix in Euphoria](https://sampleprograms.io/projects/transpose-matrix/euphoria)
 - [Zeckendorf in Euphoria](https://sampleprograms.io/projects/zeckendorf/euphoria)

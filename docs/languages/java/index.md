@@ -62,7 +62,7 @@ great features like garbage collection which offset some of these complaints.
 
 ## Articles
 
-There are 39 articles:
+There are 38 articles:
 
 - [Baklava in Java](https://sampleprograms.io/projects/baklava/java)
 - [Base64 Encode Decode in Java](https://sampleprograms.io/projects/base64-encode-decode/java)
@@ -100,6 +100,5 @@ There are 39 articles:
 - [Roman Numeral in Java](https://sampleprograms.io/projects/roman-numeral/java)
 - [Rot13 in Java](https://sampleprograms.io/projects/rot13/java)
 - [Selection Sort in Java](https://sampleprograms.io/projects/selection-sort/java)
-- [Sleep Sort in Java](https://sampleprograms.io/projects/sleep-sort/java)
 - [Transpose Matrix in Java](https://sampleprograms.io/projects/transpose-matrix/java)
 - [Zeckendorf in Java](https://sampleprograms.io/projects/zeckendorf/java)

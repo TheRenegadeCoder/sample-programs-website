@@ -8,7 +8,7 @@ title1: Programming Projects
 title2: in Every Language
 ---
 
-Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. At this time, the repo supports 39 projects, of which 39 are tested.
+Welcome to the Projects page! Here, you'll find a list of all of the projects represented in the collection. At this time, the repo supports 38 projects, of which 38 are tested.
 
 ## Projects List
 
@@ -50,6 +50,5 @@ To help you navigate the collection, the following projects are organized alphab
 - [Roman Numeral](https://sampleprograms.io/projects/roman-numeral)
 - [Rot13](https://sampleprograms.io/projects/rot13)
 - [Selection Sort](https://sampleprograms.io/projects/selection-sort)
-- [Sleep Sort](https://sampleprograms.io/projects/sleep-sort)
 - [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix)
 - [Zeckendorf](https://sampleprograms.io/projects/zeckendorf)

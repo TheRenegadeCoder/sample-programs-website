@@ -52,7 +52,7 @@ for the full syntax and features list.
 
 ## Articles
 
-There are 39 articles:
+There are 38 articles:
 
 - [Baklava in ALGOL 68](https://sampleprograms.io/projects/baklava/algol68)
 - [Base64 Encode Decode in ALGOL 68](https://sampleprograms.io/projects/base64-encode-decode/algol68)
@@ -90,6 +90,5 @@ There are 39 articles:
 - [Roman Numeral in ALGOL 68](https://sampleprograms.io/projects/roman-numeral/algol68)
 - [Rot13 in ALGOL 68](https://sampleprograms.io/projects/rot13/algol68)
 - [Selection Sort in ALGOL 68](https://sampleprograms.io/projects/selection-sort/algol68)
-- [Sleep Sort in ALGOL 68](https://sampleprograms.io/projects/sleep-sort/algol68)
 - [Transpose Matrix in ALGOL 68](https://sampleprograms.io/projects/transpose-matrix/algol68)
 - [Zeckendorf in ALGOL 68](https://sampleprograms.io/projects/zeckendorf/algol68)

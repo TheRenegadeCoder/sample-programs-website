@@ -48,7 +48,7 @@ But, Python 2 is slowly losing support.
 
 ## Articles
 
-There are 39 articles:
+There are 38 articles:
 
 - [Baklava in Python](https://sampleprograms.io/projects/baklava/python)
 - [Base64 Encode Decode in Python](https://sampleprograms.io/projects/base64-encode-decode/python)
@@ -86,6 +86,5 @@ There are 39 articles:
 - [Roman Numeral in Python](https://sampleprograms.io/projects/roman-numeral/python)
 - [Rot13 in Python](https://sampleprograms.io/projects/rot13/python)
 - [Selection Sort in Python](https://sampleprograms.io/projects/selection-sort/python)
-- [Sleep Sort in Python](https://sampleprograms.io/projects/sleep-sort/python)
 - [Transpose Matrix in Python](https://sampleprograms.io/projects/transpose-matrix/python)
 - [Zeckendorf in Python](https://sampleprograms.io/projects/zeckendorf/python)

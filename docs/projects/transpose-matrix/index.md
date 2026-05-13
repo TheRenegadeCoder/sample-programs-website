@@ -188,7 +188,7 @@ There are 26 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Sleep Sort)](https://sampleprograms.io/projects/sleep-sort)
+[<-- Previous Project (Selection Sort)](https://sampleprograms.io/projects/selection-sort)
 
 </div>
 

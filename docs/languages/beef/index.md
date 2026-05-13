@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 39 articles:
+There are 38 articles:
 
 - [Baklava in Beef](https://sampleprograms.io/projects/baklava/beef)
 - [Base64 Encode Decode in Beef](https://sampleprograms.io/projects/base64-encode-decode/beef)
@@ -66,6 +66,5 @@ There are 39 articles:
 - [Roman Numeral in Beef](https://sampleprograms.io/projects/roman-numeral/beef)
 - [Rot13 in Beef](https://sampleprograms.io/projects/rot13/beef)
 - [Selection Sort in Beef](https://sampleprograms.io/projects/selection-sort/beef)
-- [Sleep Sort in Beef](https://sampleprograms.io/projects/sleep-sort/beef)
 - [Transpose Matrix in Beef](https://sampleprograms.io/projects/transpose-matrix/beef)
 - [Zeckendorf in Beef](https://sampleprograms.io/projects/zeckendorf/beef)

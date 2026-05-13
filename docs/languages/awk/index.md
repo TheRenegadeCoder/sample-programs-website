@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 39 articles:
+There are 38 articles:
 
 - [Baklava in AWK](https://sampleprograms.io/projects/baklava/awk)
 - [Base64 Encode Decode in AWK](https://sampleprograms.io/projects/base64-encode-decode/awk)
@@ -66,6 +66,5 @@ There are 39 articles:
 - [Roman Numeral in AWK](https://sampleprograms.io/projects/roman-numeral/awk)
 - [Rot13 in AWK](https://sampleprograms.io/projects/rot13/awk)
 - [Selection Sort in AWK](https://sampleprograms.io/projects/selection-sort/awk)
-- [Sleep Sort in AWK](https://sampleprograms.io/projects/sleep-sort/awk)
 - [Transpose Matrix in AWK](https://sampleprograms.io/projects/transpose-matrix/awk)
 - [Zeckendorf in AWK](https://sampleprograms.io/projects/zeckendorf/awk)

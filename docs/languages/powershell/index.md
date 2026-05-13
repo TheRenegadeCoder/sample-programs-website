@@ -72,7 +72,7 @@ is it's now open-source and will now be called PowerShell Core as it runs on
 
 ## Articles
 
-There are 39 articles:
+There are 38 articles:
 
 - [Baklava in PowerShell](https://sampleprograms.io/projects/baklava/powershell)
 - [Base64 Encode Decode in PowerShell](https://sampleprograms.io/projects/base64-encode-decode/powershell)
@@ -110,6 +110,5 @@ There are 39 articles:
 - [Roman Numeral in PowerShell](https://sampleprograms.io/projects/roman-numeral/powershell)
 - [Rot13 in PowerShell](https://sampleprograms.io/projects/rot13/powershell)
 - [Selection Sort in PowerShell](https://sampleprograms.io/projects/selection-sort/powershell)
-- [Sleep Sort in PowerShell](https://sampleprograms.io/projects/sleep-sort/powershell)
 - [Transpose Matrix in PowerShell](https://sampleprograms.io/projects/transpose-matrix/powershell)
 - [Zeckendorf in PowerShell](https://sampleprograms.io/projects/zeckendorf/powershell)

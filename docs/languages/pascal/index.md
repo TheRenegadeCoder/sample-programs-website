@@ -102,7 +102,7 @@ At any rate, I think we've played around enough
 
 ## Articles
 
-There are 39 articles:
+There are 38 articles:
 
 - [Baklava in Pascal](https://sampleprograms.io/projects/baklava/pascal)
 - [Base64 Encode Decode in Pascal](https://sampleprograms.io/projects/base64-encode-decode/pascal)
@@ -140,6 +140,5 @@ There are 39 articles:
 - [Roman Numeral in Pascal](https://sampleprograms.io/projects/roman-numeral/pascal)
 - [Rot13 in Pascal](https://sampleprograms.io/projects/rot13/pascal)
 - [Selection Sort in Pascal](https://sampleprograms.io/projects/selection-sort/pascal)
-- [Sleep Sort in Pascal](https://sampleprograms.io/projects/sleep-sort/pascal)
 - [Transpose Matrix in Pascal](https://sampleprograms.io/projects/transpose-matrix/pascal)
 - [Zeckendorf in Pascal](https://sampleprograms.io/projects/zeckendorf/pascal)

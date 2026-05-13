@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 39 articles:
+There are 38 articles:
 
 - [Baklava in COBOL](https://sampleprograms.io/projects/baklava/cobol)
 - [Base64 Encode Decode in COBOL](https://sampleprograms.io/projects/base64-encode-decode/cobol)
@@ -66,6 +66,5 @@ There are 39 articles:
 - [Roman Numeral in COBOL](https://sampleprograms.io/projects/roman-numeral/cobol)
 - [Rot13 in COBOL](https://sampleprograms.io/projects/rot13/cobol)
 - [Selection Sort in COBOL](https://sampleprograms.io/projects/selection-sort/cobol)
-- [Sleep Sort in COBOL](https://sampleprograms.io/projects/sleep-sort/cobol)
 - [Transpose Matrix in COBOL](https://sampleprograms.io/projects/transpose-matrix/cobol)
 - [Zeckendorf in COBOL](https://sampleprograms.io/projects/zeckendorf/cobol)
