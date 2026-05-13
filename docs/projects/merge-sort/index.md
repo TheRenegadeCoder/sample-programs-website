@@ -1,7 +1,7 @@
 ---
 date: 2018-12-03
 featured-image: merge-sort-in-every-language.jpg
-last-modified: 2026-05-13
+last-modified: 2026-05-14
 layout: default
 tags:
 - merge-sort
@@ -126,7 +126,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-There are 32 articles:
+There are 33 articles:
 
 - [Merge Sort in ALGOL 60](https://sampleprograms.io/projects/merge-sort/algol60)
 - [Merge Sort in ALGOL 68](https://sampleprograms.io/projects/merge-sort/algol68)
@@ -154,6 +154,7 @@ There are 32 articles:
 - [Merge Sort in Perl](https://sampleprograms.io/projects/merge-sort/perl)
 - [Merge Sort in PowerShell](https://sampleprograms.io/projects/merge-sort/powershell)
 - [Merge Sort in Python](https://sampleprograms.io/projects/merge-sort/python)
+- [Merge Sort in Ruby](https://sampleprograms.io/projects/merge-sort/ruby)
 - [Merge Sort in Rust](https://sampleprograms.io/projects/merge-sort/rust)
 - [Merge Sort in Swift](https://sampleprograms.io/projects/merge-sort/swift)
 - [Merge Sort in Tcl](https://sampleprograms.io/projects/merge-sort/tcl)

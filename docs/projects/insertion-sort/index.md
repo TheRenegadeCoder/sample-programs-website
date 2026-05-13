@@ -1,7 +1,7 @@
 ---
 date: 2018-12-18
 featured-image: insertion-sort-in-every-language.jpg
-last-modified: 2026-05-13
+last-modified: 2026-05-14
 layout: default
 tags:
 - insertion-sort
@@ -140,7 +140,7 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-There are 31 articles:
+There are 32 articles:
 
 - [Insertion Sort in ALGOL 60](https://sampleprograms.io/projects/insertion-sort/algol60)
 - [Insertion Sort in ALGOL 68](https://sampleprograms.io/projects/insertion-sort/algol68)
@@ -167,6 +167,7 @@ There are 31 articles:
 - [Insertion Sort in Perl](https://sampleprograms.io/projects/insertion-sort/perl)
 - [Insertion Sort in PowerShell](https://sampleprograms.io/projects/insertion-sort/powershell)
 - [Insertion Sort in Python](https://sampleprograms.io/projects/insertion-sort/python)
+- [Insertion Sort in Ruby](https://sampleprograms.io/projects/insertion-sort/ruby)
 - [Insertion Sort in Rust](https://sampleprograms.io/projects/insertion-sort/rust)
 - [Insertion Sort in Swift](https://sampleprograms.io/projects/insertion-sort/swift)
 - [Insertion Sort in Tcl](https://sampleprograms.io/projects/insertion-sort/tcl)

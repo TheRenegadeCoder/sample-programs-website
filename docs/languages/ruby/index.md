@@ -53,7 +53,7 @@ framework which helps developers build web applications quickly and easily.
 
 ## Articles
 
-There are 24 articles:
+There are 27 articles:
 
 - [Baklava in Ruby](https://sampleprograms.io/projects/baklava/ruby)
 - [Binary Search in Ruby](https://sampleprograms.io/projects/binary-search/ruby)
@@ -68,14 +68,17 @@ There are 24 articles:
 - [Fizz Buzz in Ruby](https://sampleprograms.io/projects/fizz-buzz/ruby)
 - [Fraction Math in Ruby](https://sampleprograms.io/projects/fraction-math/ruby)
 - [Hello World in Ruby](https://sampleprograms.io/projects/hello-world/ruby)
+- [Insertion Sort in Ruby](https://sampleprograms.io/projects/insertion-sort/ruby)
 - [Josephus Problem in Ruby](https://sampleprograms.io/projects/josephus-problem/ruby)
 - [Linear Search in Ruby](https://sampleprograms.io/projects/linear-search/ruby)
 - [Longest Palindromic Substring in Ruby](https://sampleprograms.io/projects/longest-palindromic-substring/ruby)
 - [Longest Word in Ruby](https://sampleprograms.io/projects/longest-word/ruby)
+- [Merge Sort in Ruby](https://sampleprograms.io/projects/merge-sort/ruby)
 - [Palindromic Number in Ruby](https://sampleprograms.io/projects/palindromic-number/ruby)
 - [Prime Number in Ruby](https://sampleprograms.io/projects/prime-number/ruby)
 - [Quine in Ruby](https://sampleprograms.io/projects/quine/ruby)
 - [Remove All Whitespace in Ruby](https://sampleprograms.io/projects/remove-all-whitespace/ruby)
 - [Reverse String in Ruby](https://sampleprograms.io/projects/reverse-string/ruby)
 - [Roman Numeral in Ruby](https://sampleprograms.io/projects/roman-numeral/ruby)
+- [Rot13 in Ruby](https://sampleprograms.io/projects/rot13/ruby)
 - [Selection Sort in Ruby](https://sampleprograms.io/projects/selection-sort/ruby)
