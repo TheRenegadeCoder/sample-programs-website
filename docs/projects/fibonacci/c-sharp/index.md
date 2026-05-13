@@ -1,10 +1,10 @@
 ---
 authors:
 - Marius
-- Parker Johansen
+- Ștefan-Iulian Alecu
 date: 2018-10-02
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2019-04-07
+last-modified: 2026-05-13
 layout: default
 tags:
 - c-sharp
@@ -32,37 +32,19 @@ Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [C#]
 {% raw %}
 
 ```c#
-using System;
-
-namespace SamplePrograms
+if (args is not [var input] || !int.TryParse(input, out int n) || n < 0)
 {
-    public class Fibonacci
-    {
-        public static void Main(string[] args)
-        {
-            try
-            {
-                int n = int.Parse(args[0]);
-                int first = 0;
-                int second = 1;
-                int result = 0;
-                for(int i = 1; i <= n; i++)
-                {
-                    result = first + second;
-                    first = second;
-                    second = result;
-                    Console.WriteLine(i + ": " + first);
-                }
-            }
-            catch(Exception)
-            {
-                Console.WriteLine("Usage: please input the count of fibonacci numbers to output");
-                Environment.Exit(0);
-            }
-        }
-    }
+    Console.Error.WriteLine("Usage: please input the count of fibonacci numbers to output");
+    return;
 }
 
+int a = 1, b = 1;
+
+for (int i = 1; i <= n; i++)
+{
+    Console.WriteLine($"{i}: {a}");
+    (a, b) = (b, a + b);
+}
 ```
 
 {% endraw %}
@@ -70,7 +52,7 @@ namespace SamplePrograms
 Fibonacci in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Marius
-- Parker Johansen
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

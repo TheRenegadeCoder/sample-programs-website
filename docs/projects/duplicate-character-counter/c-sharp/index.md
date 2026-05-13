@@ -1,9 +1,10 @@
 ---
 authors:
 - Huma Homidov
+- Ștefan-Iulian Alecu
 date: 2024-11-12
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2024-11-12
+last-modified: 2026-05-13
 layout: default
 tags:
 - c-sharp
@@ -31,45 +32,32 @@ Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/
 {% raw %}
 
 ```c#
-using System;
-using System.Collections.Generic;
-
-public class DuplicateCharacterCounter
+if (args is not [var input] || string.IsNullOrWhiteSpace(input))
 {
-    public static void Main(string[] args)
-    {
-        if (args.Length == 0 || string.IsNullOrEmpty(args[0]))
-        {
-            Console.WriteLine("Usage: please provide a string");
-            return;
-        }
-
-        string input = args[0];
-
-        Dictionary<char, int> countMap = new Dictionary<char, int>();
-
-        foreach (char c in input)
-        {
-            if (countMap.ContainsKey(c))
-                countMap[c]++;
-            else
-                countMap[c] = 1;
-        }
-
-        string result = "";
-
-        foreach (char c in input)
-        {
-            if (countMap[c] > 1)
-            {
-                result += $"{c}: {countMap[c]}\n";
-                countMap[c] = 0;
-            }
-        }
-
-        Console.WriteLine(string.IsNullOrEmpty(result) ? "No duplicate characters" : result.Trim());
-    }
+    Console.Error.WriteLine("Usage: please provide a string");
+    return;
 }
+
+Span<int> freq = stackalloc int[128];
+
+foreach (char c in input)
+    if (c < 128)
+        freq[c]++;
+
+bool found = false;
+
+foreach (char c in input)
+{
+    if (c >= 128 || freq[c] < 2)
+        continue;
+
+    Console.WriteLine($"{c}: {freq[c]}");
+    freq[c] = 0;
+    found = true;
+}
+
+if (!found)
+    Console.WriteLine("No duplicate characters");
 ```
 
 {% endraw %}
@@ -77,6 +65,7 @@ public class DuplicateCharacterCounter
 Duplicate Character Counter in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Huma Homidov
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

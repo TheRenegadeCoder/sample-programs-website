@@ -1,9 +1,10 @@
 ---
 authors:
 - Parker Johansen
+- Ștefan-Iulian Alecu
 date: 2018-12-28
 featured-image: bubble-sort-in-every-language.jpg
-last-modified: 2019-03-26
+last-modified: 2026-05-13
 layout: default
 tags:
 - bubble-sort
@@ -31,66 +32,67 @@ Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in 
 {% raw %}
 
 ```c#
-using System;
-using System.Linq;
-using System.Collections.Generic;
+using System.Runtime.InteropServices;
 
-class CSharp
+if (args is not [var input] || !TryParseList(input.AsSpan(), out var numbers))
+    return Usage();
+
+BubbleSort(numbers);
+
+Console.WriteLine(string.Join(", ", numbers));
+return 0;
+
+static bool TryParseList(ReadOnlySpan<char> span, out List<int> numbers)
 {
-    public static List<int> BubbleSort(List<int> xs)
+    numbers = new(span.Count(',') + 1);
+
+    while (!span.IsEmpty)
     {
-        var acc = xs.ToList();
-        var last = acc.ToList();
-        do
-        {
-            last = acc.ToList();
-            acc = PassList(last.ToList());
-        }
-        while(!acc.SequenceEqual(last));
-        return acc;
+        int comma = span.IndexOf(',');
+        var token = comma >= 0 ? span[..comma] : span;
+
+        span = comma >= 0 ? span[(comma + 1)..] : [];
+
+        if (!int.TryParse(token, out int n))
+            return false;
+
+        numbers.Add(n);
     }
 
-    public static List<int> PassList(List<int> xs)
+    return numbers.Count > 1;
+}
+
+static void BubbleSort(List<int> list)
+{
+    Span<int> span = CollectionsMarshal.AsSpan(list);
+    int n = span.Length;
+
+    for (int i = 0; i < n - 1; i++)
     {
-        if (xs.Count() <= 1)
-            return xs;
-        var x0 = xs[0];
-        var x1 = xs[1];
-        if (x1 < x0)
+        bool swapped = false;
+
+        for (int j = 0; j < n - i - 1; j++)
         {
-            xs.RemoveAt(1);
-            return new List<int>() {x1}.Concat(PassList(xs)).ToList();
+            if (span[j] <= span[j + 1])
+                continue;
+
+            (span[j], span[j + 1]) = (span[j + 1], span[j]);
+            swapped = true;
         }
-        else
-        {
-            xs.RemoveAt(0);
-            return new List<int>() {x0}.Concat(PassList(xs)).ToList();
-        }
+
+        if (!swapped)
+            return;
     }
-    
-    public static void ErrorAndExit()
-    {
-        Console.WriteLine("Usage: please provide a list of at least two integers to sort in the format \"1, 2, 3, 4, 5\"");
-        Environment.Exit(1);   
-    }
-    
-    public static void Main(string[] args)
-    {
-        if (args.Length != 1)
-            ErrorAndExit();
-        try
-        {
-            var xs = args[0].Split(',').Select(i => Int32.Parse(i.Trim())).ToList();
-            if (xs.Count() <= 1)
-                ErrorAndExit();
-            var sortedXs = BubbleSort(xs);
-            Console.WriteLine(string.Join(", ", sortedXs));
-        }
-        catch
-        {
-            ErrorAndExit();
-        }
-    }
+}
+
+
+static int Usage()
+{
+    Console.Error.WriteLine("""
+Usage: please provide a list of at least two integers to sort in the format "1, 2, 3, 4, 5"
+"""
+    );
+    return 1;
 }
 ```
 
@@ -99,6 +101,7 @@ class CSharp
 Bubble Sort in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Parker Johansen
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

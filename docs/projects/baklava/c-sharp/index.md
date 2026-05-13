@@ -1,9 +1,10 @@
 ---
 authors:
 - Jeremy Grifski
+- Ștefan-Iulian Alecu
 date: 2018-09-17
 featured-image: baklava-in-every-language.jpg
-last-modified: 2023-04-06
+last-modified: 2026-05-13
 layout: default
 tags:
 - baklava
@@ -31,27 +32,23 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [C#](htt
 {% raw %}
 
 ```c#
-using System;
+const int Height = 10;
+const char Symbol = '*';
 
-class CSharp
+Span<char> stars = stackalloc char[Height * 2 + 1];
+stars.Fill(Symbol);
+
+static void PrintRow(int level, int height, ReadOnlySpan<char> stars)
 {
-
-    static void Main (string[] args)
-    {
-
-        for (SByte i = 0; i < 10; i++)
-            Console.WriteLine (
-                new string (' ', (10 - i)) + new string ('*', (i * 2 + 1))
-            );
-
-        for (SByte i = 10; -1 < i; i--)
-            Console.WriteLine (
-                new string (' ', (10 - i)) + new string ('*', (i * 2 + 1))
-            );
-
-    }
-
+    Console.Write(new string(' ', height - level));
+    Console.WriteLine(stars[..(level * 2 + 1)]);
 }
+
+for (int i = 0; i < Height; i++)
+    PrintRow(i, Height, stars);
+
+for (int i = Height; i >= 0; i--)
+    PrintRow(i, Height, stars);
 
 ```
 
@@ -60,6 +57,7 @@ class CSharp
 Baklava in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Jeremy Grifski
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

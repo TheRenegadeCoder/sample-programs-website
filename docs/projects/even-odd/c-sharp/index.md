@@ -1,9 +1,10 @@
 ---
 authors:
 - Parker Johansen
+- Ștefan-Iulian Alecu
 date: 2018-12-28
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2018-12-28
+last-modified: 2026-05-13
 layout: default
 tags:
 - c-sharp
@@ -31,29 +32,13 @@ Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [C#](h
 {% raw %}
 
 ```c#
-using System;
-
-namespace SamplePrograms
+if (args is not [var input] || !int.TryParse(input, out int n))
 {
-    public class EvenOdd
-    {
-        public static void Main(string[] args)
-        {
-            try
-            {
-                int n = int.Parse(args[0]);
-                var result = n % 2 == 0 ? "Even" : "Odd";
-                Console.WriteLine(result);
-            }
-            catch
-            {
-                Console.WriteLine("Usage: please input a number");
-                Environment.Exit(1);
-            }
-        }
-    }
+    Console.Error.WriteLine("Usage: please input a number");
+    return;
 }
 
+Console.WriteLine(n % 2 == 0 ? "Even" : "Odd");
 ```
 
 {% endraw %}
@@ -61,6 +46,7 @@ namespace SamplePrograms
 Even Odd in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Parker Johansen
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

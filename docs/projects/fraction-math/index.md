@@ -1,7 +1,7 @@
 ---
 date: 2019-10-10
 featured-image: fraction-math-in-every-language.jpg
-last-modified: 2026-05-10
+last-modified: 2026-05-13
 layout: default
 tags:
 - fraction-math

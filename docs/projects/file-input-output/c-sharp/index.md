@@ -1,9 +1,10 @@
 ---
 authors:
 - Parker Johansen
+- Ștefan-Iulian Alecu
 date: 2018-12-28
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2018-12-28
+last-modified: 2026-05-13
 layout: default
 tags:
 - c-sharp
@@ -31,25 +32,23 @@ Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input
 {% raw %}
 
 ```c#
-using System;
 using System.IO;
 
-namespace SamplePrograms
+const string Path = "output.txt";
+const string Content = """
+line 1
+line 2
+line 3
+""";
+
+try
 {
-    public class FileIO
-    {
-        public static void Write() =>
-            File.WriteAllText("output.txt", "file contents");
-
-        public static string Read() =>
-            File.ReadAllText("output.txt");
-
-        public static void Main(string[] args)
-        {
-            Write();
-            Console.WriteLine(Read());
-        }
-    }
+    File.WriteAllText(Path, Content);
+    Console.WriteLine(File.ReadAllText(Path));
+}
+catch (IOException ex)
+{
+    Console.WriteLine($"IO error: {ex.Message}");
 }
 ```
 
@@ -58,6 +57,7 @@ namespace SamplePrograms
 File Input Output in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Parker Johansen
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

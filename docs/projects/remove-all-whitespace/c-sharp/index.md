@@ -1,9 +1,10 @@
 ---
 authors:
 - Jeremy Grifski
+- Ștefan-Iulian Alecu
 date: 2024-11-11
 featured-image: remove-all-whitespace-in-every-language.jpg
-last-modified: 2024-11-11
+last-modified: 2026-05-13
 layout: default
 tags:
 - c-sharp
@@ -31,38 +32,31 @@ Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove
 {% raw %}
 
 ```c#
-using System;
-using System.Linq;
+if (args is not [var input] || string.IsNullOrEmpty(input))
+    return ExitWithError();
 
-class CSharp
+RemoveWhitespace(input.AsSpan());
+return 0;
+
+static void RemoveWhitespace(ReadOnlySpan<char> input)
 {
+    char[] buffer = new char[input.Length];
+    int j = 0;
 
-    public static void ExitWithError()
+    foreach (char c in input)
     {
-        Console.WriteLine("Usage: please provide a string");
-        Environment.Exit(1);
+        if (!char.IsWhiteSpace(c))
+            buffer[j++] = c;
     }
 
-    public static void RemoveAllWhitespace(string str) {
-        Console.WriteLine(
-            new string(
-                str
-                .Where(c => !Char.IsWhiteSpace(c))
-                .ToArray()
-            )
-        );
-    }
-
-    static void Main (string[] args)
-    {
-        if (!args.Any() || args[0] == "") {
-            ExitWithError();
-        }
-        RemoveAllWhitespace(args[0]);
-    }
-
+    Console.WriteLine(new string(buffer, 0, j));
 }
 
+static int ExitWithError()
+{
+    Console.WriteLine("Usage: please provide a string");
+    return 1;
+}
 ```
 
 {% endraw %}
@@ -70,6 +64,7 @@ class CSharp
 Remove All Whitespace in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Jeremy Grifski
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

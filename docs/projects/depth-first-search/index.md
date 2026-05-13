@@ -1,7 +1,7 @@
 ---
 date: 2021-11-12
 featured-image: depth-first-search-in-every-language.jpg
-last-modified: 2026-05-09
+last-modified: 2026-05-13
 layout: default
 tags:
 - depth-first-search

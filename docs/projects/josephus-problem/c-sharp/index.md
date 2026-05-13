@@ -1,9 +1,10 @@
 ---
 authors:
 - Ben Mojo
+- Ștefan-Iulian Alecu
 date: 2024-11-06
 featured-image: josephus-problem-in-every-language.jpg
-last-modified: 2024-11-06
+last-modified: 2026-05-13
 layout: default
 tags:
 - c-sharp
@@ -31,46 +32,25 @@ Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-pr
 {% raw %}
 
 ```c#
-using System;
-
-namespace JosephusProblem
+if (
+    args is not [var nText, var kText]
+    || !int.TryParse(nText, out int n)
+    || !int.TryParse(kText, out int k)
+    || n <= 0
+    || k <= 0
+)
 {
-    class Program
-    {
-        const string Usage = "Usage: please input the total number of people and number of people to skip.";
-
-        static void Main(string[] args)
-        {
-            if (args.Length < 2)
-            {
-                Console.WriteLine(Usage);
-                return;
-            }
-
-            if (!int.TryParse(args[0], out int n) || !int.TryParse(args[1], out int k) || n <= 0 || k <= 0)
-            {
-                Console.WriteLine(Usage);
-                return;
-            }
-
-            int survivor = FindJosephusPosition(n, k);
-
-            Console.WriteLine(survivor);
-        }
-
-        static int FindJosephusPosition(int n, int k)
-        {
-            int result = 0;
-
-            for (int m = 2; m <= n; m++)
-            {
-                result = (result + k) % m;
-            }
-
-            return result + 1;
-        }
-    }
+    Console.Error.WriteLine(
+        "Usage: please input the total number of people and number of people to skip."
+    );
+    return;
 }
+
+int survivor = 0;
+for (int i = 2; i <= n; i++)
+    survivor = (survivor + k) % i;
+
+Console.WriteLine(survivor + 1);
 
 ```
 
@@ -79,6 +59,7 @@ namespace JosephusProblem
 Josephus Problem in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Ben Mojo
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

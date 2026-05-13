@@ -1,10 +1,10 @@
 ---
 authors:
-- ildoc
 - Jeremy Grifski
+- Ștefan-Iulian Alecu
 date: 2018-04-25
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2018-07-03
+last-modified: 2026-05-13
 layout: default
 tags:
 - c-sharp
@@ -32,37 +32,27 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 {% raw %}
 
 ```c#
-using System;
+if (args is [var input] && !string.IsNullOrEmpty(input))
+    Console.WriteLine(Reverse(input.AsSpan()));
 
-namespace SamplePrograms
+static string Reverse(ReadOnlySpan<char> s)
 {
-    public class ReverseString
-    {
-        public static string Reverse(string input)
-        {
-            var charArray = input.ToCharArray();
-            Array.Reverse(charArray);
-            return new string(charArray);
-        }
+    int n = s.Length;
+    char[] result = new char[n];
 
-        public static void Main(string[] args)
-        {
-            if (args.Length > 0)
-            {
-                System.Console.WriteLine(Reverse(args[0]));
-            }
-        }
-    }
+    for (int i = 0; i < n; i++)
+        result[i] = s[n - 1 - i];
+
+    return new string(result);
 }
-
 ```
 
 {% endraw %}
 
 Reverse String in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
-- ildoc
 - Jeremy Grifski
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

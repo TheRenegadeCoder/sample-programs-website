@@ -1,12 +1,11 @@
 ---
 authors:
-- ildoc
-- Jeremy Griffith
 - Jeremy Grifski
 - rzuckerm
-date: 2018-03-21
+- Ștefan-Iulian Alecu
+date: 2022-04-28
 featured-image: hello-world-in-c-sharp.jpg
-last-modified: 2023-05-15
+last-modified: 2026-05-13
 layout: default
 tags:
 - c-sharp
@@ -34,26 +33,14 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 {% raw %}
 
 ```c#
-namespace SamplePrograms
-{
-    public class HelloWorld
-    {
-        static void Main()
-        {
-            System.Console.WriteLine("Hello, World!");
-        }
-    }
-}
-
+Console.WriteLine("Hello, World!");
 ```
 
 {% endraw %}
 
 Hello World in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
-- ildoc
-- Jeremy Griffith
-- Jeremy Grifski
+- Ștefan-Iulian Alecu
 
 This article was written by:
 

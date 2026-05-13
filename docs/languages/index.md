@@ -1,7 +1,7 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2026-05-12
+last-modified: 2026-05-13
 layout: default
 title: Programming Languages
 title1: Programming
@@ -20,175 +20,175 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 60</td>
-        <td class="right">9.01%</td>
+        <td class="right">9.09%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">ALGOL 68</td>
-        <td class="right">4.89%</td>
+        <td class="right">4.94%</td>
         <td class="bar-graph"><div style="width: 54.33%; background-color: #AF425E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Commodore BASIC</td>
-        <td class="right">4.83%</td>
+        <td class="right">4.87%</td>
         <td class="bar-graph"><div style="width: 53.58%; background-color: #4F44D8;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">m4</td>
-        <td class="right">4.32%</td>
+        <td class="right">4.36%</td>
         <td class="bar-graph"><div style="width: 48.00%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Euphoria</td>
-        <td class="right">4.26%</td>
+        <td class="right">4.30%</td>
         <td class="bar-graph"><div style="width: 47.30%; background-color: #FF790B;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Beef</td>
-        <td class="right">4.11%</td>
+        <td class="right">4.14%</td>
         <td class="bar-graph"><div style="width: 45.60%; background-color: #A52F4E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">COBOL</td>
-        <td class="right">3.99%</td>
+        <td class="right">4.02%</td>
         <td class="bar-graph"><div style="width: 44.26%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Pascal</td>
-        <td class="right">3.48%</td>
+        <td class="right">3.51%</td>
         <td class="bar-graph"><div style="width: 38.64%; background-color: #E3F171;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">C++</td>
-        <td class="right">3.14%</td>
+        <td class="right">3.17%</td>
         <td class="bar-graph"><div style="width: 34.83%; background-color: #F34B7D;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">C</td>
-        <td class="right">3.09%</td>
+        <td class="right">3.12%</td>
         <td class="bar-graph"><div style="width: 34.29%; background-color: #555555;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Ada</td>
-        <td class="right">3.09%</td>
+        <td class="right">3.11%</td>
         <td class="bar-graph"><div style="width: 34.25%; background-color: #02F88C;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Rust</td>
-        <td class="right">3.05%</td>
+        <td class="right">3.08%</td>
         <td class="bar-graph"><div style="width: 33.87%; background-color: #DEA584;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Visual Basic</td>
-        <td class="right">2.87%</td>
+        <td class="right">2.90%</td>
         <td class="bar-graph"><div style="width: 31.90%; background-color: #945DB7;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">PHP</td>
-        <td class="right">2.79%</td>
+        <td class="right">2.81%</td>
         <td class="bar-graph"><div style="width: 30.95%; background-color: #4F5D95;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Java</td>
-        <td class="right">2.74%</td>
+        <td class="right">2.76%</td>
         <td class="bar-graph"><div style="width: 30.42%; background-color: #B07219;"></div></td> 
     </tr>
 
     <tr>
-        <td class="right nowrap">C#</td>
-        <td class="right">2.71%</td>
-        <td class="bar-graph"><div style="width: 30.12%; background-color: #178600;"></div></td> 
-    </tr>
-
-    <tr>
         <td class="right nowrap">x86-64</td>
-        <td class="right">2.66%</td>
+        <td class="right">2.68%</td>
         <td class="bar-graph"><div style="width: 29.51%; background-color: #6E4C13;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">F#</td>
-        <td class="right">2.56%</td>
+        <td class="right">2.58%</td>
         <td class="bar-graph"><div style="width: 28.39%; background-color: #B845FC;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">AWK</td>
-        <td class="right">2.43%</td>
+        <td class="right">2.45%</td>
         <td class="bar-graph"><div style="width: 26.95%; background-color: #C30E9B;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Mathematica</td>
-        <td class="right">2.15%</td>
+        <td class="right">2.17%</td>
         <td class="bar-graph"><div style="width: 23.90%; background-color: #DD1100;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Swift</td>
-        <td class="right">2.09%</td>
+        <td class="right">2.11%</td>
         <td class="bar-graph"><div style="width: 23.22%; background-color: #F05138;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">PowerShell</td>
-        <td class="right">2.03%</td>
+        <td class="right">2.05%</td>
         <td class="bar-graph"><div style="width: 22.50%; background-color: #012456;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">TypeScript</td>
-        <td class="right">1.87%</td>
+        <td class="right">1.89%</td>
         <td class="bar-graph"><div style="width: 20.75%; background-color: #3178C6;"></div></td> 
     </tr>
 
     <tr>
+        <td class="right nowrap">C#</td>
+        <td class="right">1.85%</td>
+        <td class="bar-graph"><div style="width: 20.39%; background-color: #178600;"></div></td> 
+    </tr>
+
+    <tr>
         <td class="right nowrap">Tcl</td>
-        <td class="right">1.83%</td>
+        <td class="right">1.85%</td>
         <td class="bar-graph"><div style="width: 20.33%; background-color: #E4CC98;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">JavaScript</td>
-        <td class="right">1.83%</td>
+        <td class="right">1.85%</td>
         <td class="bar-graph"><div style="width: 20.30%; background-color: #F1E05A;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Go</td>
-        <td class="right">1.71%</td>
+        <td class="right">1.73%</td>
         <td class="bar-graph"><div style="width: 18.99%; background-color: #00ADD8;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Python</td>
-        <td class="right">1.46%</td>
+        <td class="right">1.47%</td>
         <td class="bar-graph"><div style="width: 16.21%; background-color: #3572A5;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Haskell</td>
-        <td class="right">1.16%</td>
+        <td class="right">1.17%</td>
         <td class="bar-graph"><div style="width: 12.87%; background-color: #5E5086;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Kotlin</td>
-        <td class="right">0.96%</td>
+        <td class="right">0.97%</td>
         <td class="bar-graph"><div style="width: 10.66%; background-color: #A97BFF;"></div></td> 
     </tr>
 
@@ -200,19 +200,19 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Fortran</td>
-        <td class="right">0.66%</td>
+        <td class="right">0.67%</td>
         <td class="bar-graph"><div style="width: 7.33%; background-color: #4D41B1;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Perl</td>
-        <td class="right">0.64%</td>
+        <td class="right">0.65%</td>
         <td class="bar-graph"><div style="width: 7.13%; background-color: #0298C3;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">GNU Make</td>
-        <td class="right">0.62%</td>
+        <td class="right">0.63%</td>
         <td class="bar-graph"><div style="width: 6.91%; background-color: #427819;"></div></td> 
     </tr>
 
@@ -236,13 +236,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Unicat</td>
-        <td class="right">0.45%</td>
+        <td class="right">0.46%</td>
         <td class="bar-graph"><div style="width: 5.05%; background-color: #FFDE34;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Octave</td>
-        <td class="right">0.45%</td>
+        <td class="right">0.46%</td>
         <td class="bar-graph"><div style="width: 5.04%; background-color: #E16737;"></div></td> 
     </tr>
 
@@ -290,7 +290,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">R</td>
-        <td class="right">0.26%</td>
+        <td class="right">0.27%</td>
         <td class="bar-graph"><div style="width: 2.93%; background-color: #198CE7;"></div></td> 
     </tr>
 
@@ -410,7 +410,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Agda</td>
-        <td class="right">0.06%</td>
+        <td class="right">0.07%</td>
         <td class="bar-graph"><div style="width: 0.72%; background-color: #315665;"></div></td> 
     </tr>
 
@@ -446,7 +446,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Cython</td>
-        <td class="right">0.05%</td>
+        <td class="right">0.06%</td>
         <td class="bar-graph"><div style="width: 0.61%; background-color: #FEDF5B;"></div></td> 
     </tr>
 
@@ -584,7 +584,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Cyclone</td>
-        <td class="right">0.03%</td>
+        <td class="right">0.04%</td>
         <td class="bar-graph"><div style="width: 0.39%; background-color: #00ACFF;"></div></td> 
     </tr>
 
@@ -674,7 +674,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Befunge</td>
-        <td class="right">0.02%</td>
+        <td class="right">0.03%</td>
         <td class="bar-graph"><div style="width: 0.28%; background-color: #CCCCCC;"></div></td> 
     </tr>
 

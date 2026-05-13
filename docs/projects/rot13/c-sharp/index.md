@@ -1,9 +1,10 @@
 ---
 authors:
 - Parker Johansen
+- Ștefan-Iulian Alecu
 date: 2018-12-30
 featured-image: rot13-in-every-language.jpg
-last-modified: 2019-04-06
+last-modified: 2026-05-13
 layout: default
 tags:
 - c-sharp
@@ -31,57 +32,34 @@ Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [C#](https:/
 {% raw %}
 
 ```c#
-using System;
-using System.Collections.Generic;
-using System.Linq;
+if (args is not [var input] || string.IsNullOrEmpty(input))
+    return ExitWithUsage();
 
-namespace SamplePrograms
+Console.WriteLine(Rot13(input.AsSpan()));
+return 0;
+
+static string Rot13(ReadOnlySpan<char> input)
 {
-    public class Rot13
+    char[] result = new char[input.Length];
+
+    for (int i = 0; i < input.Length; i++)
     {
-        static List<char> Lowers = "abcdefghijklmnopqrstuvwxyz".ToCharArray().ToList();
-        static List<char> Uppers = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".ToCharArray().ToList();
-
-        public static string Encrypt(string str) =>
-            string.Join("", str.ToCharArray().Select(c => Encrypt(c)));
-
-        public static Char Encrypt(char c)
+        char c = input[i];
+        result[i] = c switch
         {
-            List<char> ltrs;
-            if (char.IsUpper(c))
-                ltrs = Uppers;
-            else if (char.IsLower(c))
-                ltrs = Lowers;
-            else
-                return c;
-
-            var newIndex = (ltrs.IndexOf(c) + 13) % 26;
-            return ltrs[newIndex];
-
-        }
-
-        public static void ExitWithError()
-        {
-            Console.WriteLine("Usage: please provide a string to encrypt");
-            Environment.Exit(1);
-        }
-
-        public static void Main(string[] args)
-        {
-            try
-            {
-                var str = args[0];
-                if (String.IsNullOrEmpty(str))
-                    ExitWithError();
-                var result = Encrypt(str);
-                Console.WriteLine(result);
-            }
-            catch
-            {
-                ExitWithError();
-            }
-        }
+            >= 'a' and <= 'z' => (char)('a' + (c - 'a' + 13) % 26),
+            >= 'A' and <= 'Z' => (char)('A' + (c - 'A' + 13) % 26),
+            _ => c,
+        };
     }
+
+    return new string(result);
+}
+
+static int ExitWithUsage()
+{
+    Console.WriteLine("Usage: please provide a string to encrypt");
+    return 1;
 }
 
 ```
@@ -91,6 +69,7 @@ namespace SamplePrograms
 Rot13 in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Parker Johansen
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

@@ -1,7 +1,7 @@
 ---
 date: 2022-04-28
 featured-image: longest-word-in-every-language.jpg
-last-modified: 2026-05-11
+last-modified: 2026-05-13
 layout: default
 tags:
 - longest-word

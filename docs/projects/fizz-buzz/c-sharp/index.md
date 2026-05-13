@@ -1,10 +1,10 @@
 ---
 authors:
 - Jeremy Grifski
-- Parker Johansen
+- Ștefan-Iulian Alecu
 date: 2018-08-14
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2019-03-26
+last-modified: 2026-05-13
 layout: default
 tags:
 - c-sharp
@@ -32,39 +32,15 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [C#]
 {% raw %}
 
 ```c#
-namespace FizzBuzz
+for (int i = 1; i <= 100; i++)
 {
-    public class Program
-    {
-        public static string FizzBuzz(int number)
-        {
-            string temp = "";
-            if (number % 3 == 0)
-            {
-                temp += "Fizz";
-            }
-            if (number % 5 == 0)
-            {
-                temp += "Buzz";
-            }
-            if (string.IsNullOrEmpty(temp))
-            {
-                temp += number;
-            }
-            return temp;
-        }
+    string s = "";
 
-        private static void Main(string[] args)
-        {
-            for (int i = 1; i <= 100; i++)
-            {
-                string line = FizzBuzz(i);
-                System.Console.WriteLine(line);
-            }
-        }
-    }
+    if (i % 3 == 0) s += "Fizz";
+    if (i % 5 == 0) s += "Buzz";
+
+    Console.WriteLine(s.Length > 0 ? s : i);
 }
-
 ```
 
 {% endraw %}
@@ -72,7 +48,7 @@ namespace FizzBuzz
 Fizz Buzz in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Jeremy Grifski
-- Parker Johansen
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

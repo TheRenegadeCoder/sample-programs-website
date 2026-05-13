@@ -1,9 +1,10 @@
 ---
 authors:
 - maple-johnson
+- Ștefan-Iulian Alecu
 date: 2025-02-18
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2025-02-18
+last-modified: 2026-05-13
 layout: default
 tags:
 - c-sharp
@@ -31,56 +32,36 @@ Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindrom
 {% raw %}
 
 ```c#
-using System;
-public class PalindromicNumber
+if (args is not [var raw] || !ulong.TryParse(raw.AsSpan(), out ulong number))
+    return ExitWithUsage();
+
+Console.WriteLine(IsPalindrome(number) ? "true" : "false");
+return 0;
+
+static bool IsPalindrome(ulong value)
 {
-    public static void Main(string[] args)
+    if (value < 10)
+        return true;
+
+    if (value % 10 == 0)
+        return false;
+
+    ulong reversedHalf = 0;
+
+    while (value > reversedHalf)
     {
-
-        try
-        {
-            long verifyInput = long.Parse(args[0]);
-
-            if (verifyInput >= 0)
-            {
-                Console.WriteLine(palindrome(args[0]));
-            }
-            else
-            {
-                Console.WriteLine("Usage: please input a non-negative integer");
-            }
-
-        }
-        catch
-        {
-            Console.WriteLine("Usage: please input a non-negative integer");
-        }
-
+        reversedHalf = reversedHalf * 10 + value % 10;
+        value /= 10;
     }
 
-    public static string palindrome(string numString)
-    {
-        char[] digits = numString.ToCharArray();
+    return value == reversedHalf ||
+           value == reversedHalf / 10;
+}
 
-        int backCount = digits.Length - 1;
-
-        for (int i = 0; i < digits.Length; i++)
-        {
-            if (digits[i] != digits[backCount])
-            {
-                return "false";
-            }
-            else
-            {
-                backCount--;
-            }
-
-        }
-
-        return "true";
-
-    }
-
+static int ExitWithUsage()
+{
+    Console.WriteLine("Usage: please input a non-negative integer");
+    return 1;
 }
 ```
 
@@ -89,6 +70,7 @@ public class PalindromicNumber
 Palindromic Number in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - maple-johnson
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

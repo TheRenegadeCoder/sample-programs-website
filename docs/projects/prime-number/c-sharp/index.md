@@ -1,9 +1,10 @@
 ---
 authors:
 - Parker Johansen
+- Ștefan-Iulian Alecu
 date: 2018-12-30
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2019-05-02
+last-modified: 2026-05-13
 layout: default
 tags:
 - c-sharp
@@ -31,49 +32,36 @@ Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) i
 {% raw %}
 
 ```c#
-using System;
-using Math = System.Math;
+if (args is not [var raw] || !ulong.TryParse(raw, out ulong number))
+    return ExitWithUsage();
 
-namespace SamplePrograms
+Console.WriteLine(IsPrime(number) ? "Prime" : "Composite");
+return 0;
+
+static bool IsPrime(ulong value)
 {
-    public class PrimeNumber
+    if (value < 2)
+        return false;
+
+    if (value == 2)
+        return true;
+
+    if (value % 2 == 0)
+        return false;
+
+    for (ulong divisor = 3; divisor * divisor <= value; divisor += 2)
     {
-        public static bool IsPrime(ulong x)
-        {
-            if (x <= 1)
-                return false;
-            if (x != 2 && x % 2 == 0)
-                return false;
-
-            for (ulong i = 3; i <= Convert.ToUInt64(Math.Sqrt(x)); i += 2)
-            {
-                if (x % i == 0)
-                    return false;
-            }
-
-            return true;
-        }
-
-        public static void Main(string[] args)
-        {
-            try
-            {
-                var n = ulong.Parse(args[0]);
-                if (n > 18446744073709551615) // Max of a ulong in C#
-                {
-                    Console.WriteLine(string.Format("{0} is out of the reasonable bounds for calculation.", n));
-                    Environment.Exit(1);
-                }
-                var result = IsPrime(n) ? "Prime" : "Composite";
-                Console.WriteLine(result);
-            }
-            catch
-            {
-                Console.WriteLine("Usage: please input a non-negative integer");
-                Environment.Exit(1);
-            }
-        }
+        if (value % divisor == 0)
+            return false;
     }
+
+    return true;
+}
+
+static int ExitWithUsage()
+{
+    Console.WriteLine("Usage: please input a non-negative integer");
+    return 1;
 }
 
 ```
@@ -83,6 +71,7 @@ namespace SamplePrograms
 Prime Number in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Parker Johansen
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

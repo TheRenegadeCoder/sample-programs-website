@@ -2,9 +2,10 @@
 authors:
 - Jeremy Grifski
 - Renato Ramos Nascimento
+- Ștefan-Iulian Alecu
 date: 2019-10-11
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2019-10-26
+last-modified: 2026-05-13
 layout: default
 tags:
 - c-sharp
@@ -32,27 +33,18 @@ Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [C
 {% raw %}
 
 ```c#
-using System;
-using System.Linq;
-
-namespace SamplePrograms
+if (args is not [string input, ..] || string.IsNullOrWhiteSpace(input))
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            if (!args.Any() || args[0] == "")
-            {
-                Console.WriteLine("Usage: please provide a string");
-                return;
-            }
-            string input = args[0];
-            string output = input.First().ToString().ToUpper() + input.Substring(1);
-            Console.WriteLine(output);
-        }
-    }
+    Console.Error.WriteLine("Usage: please provide a string");
+    return;
 }
 
+char c = input[0];
+
+if (char.IsLower(c))
+    input = char.ToUpperInvariant(c) + input[1..];
+
+Console.WriteLine(input);
 ```
 
 {% endraw %}
@@ -61,6 +53,7 @@ Capitalize in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Jeremy Grifski
 - Renato Ramos Nascimento
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

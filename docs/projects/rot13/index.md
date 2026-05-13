@@ -1,7 +1,7 @@
 ---
 date: 2018-11-20
 featured-image: rot13-in-every-language.jpg
-last-modified: 2026-05-07
+last-modified: 2026-05-13
 layout: default
 tags:
 - rot13
