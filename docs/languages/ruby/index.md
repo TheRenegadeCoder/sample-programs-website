@@ -53,7 +53,7 @@ framework which helps developers build web applications quickly and easily.
 
 ## Articles
 
-There are 28 articles:
+There are 31 articles:
 
 - [Baklava in Ruby](https://sampleprograms.io/projects/baklava/ruby)
 - [Binary Search in Ruby](https://sampleprograms.io/projects/binary-search/ruby)
@@ -73,6 +73,8 @@ There are 28 articles:
 - [Linear Search in Ruby](https://sampleprograms.io/projects/linear-search/ruby)
 - [Longest Palindromic Substring in Ruby](https://sampleprograms.io/projects/longest-palindromic-substring/ruby)
 - [Longest Word in Ruby](https://sampleprograms.io/projects/longest-word/ruby)
+- [Maximum Array Rotation in Ruby](https://sampleprograms.io/projects/maximum-array-rotation/ruby)
+- [Maximum Subarray in Ruby](https://sampleprograms.io/projects/maximum-subarray/ruby)
 - [Merge Sort in Ruby](https://sampleprograms.io/projects/merge-sort/ruby)
 - [Palindromic Number in Ruby](https://sampleprograms.io/projects/palindromic-number/ruby)
 - [Prime Number in Ruby](https://sampleprograms.io/projects/prime-number/ruby)
@@ -82,4 +84,5 @@ There are 28 articles:
 - [Roman Numeral in Ruby](https://sampleprograms.io/projects/roman-numeral/ruby)
 - [Rot13 in Ruby](https://sampleprograms.io/projects/rot13/ruby)
 - [Selection Sort in Ruby](https://sampleprograms.io/projects/selection-sort/ruby)
+- [Transpose Matrix in Ruby](https://sampleprograms.io/projects/transpose-matrix/ruby)
 - [Zeckendorf in Ruby](https://sampleprograms.io/projects/zeckendorf/ruby)

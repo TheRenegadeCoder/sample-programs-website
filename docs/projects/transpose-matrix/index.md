@@ -1,7 +1,7 @@
 ---
 date: 2022-04-28
 featured-image: transpose-matrix-in-every-language.jpg
-last-modified: 2026-05-13
+last-modified: 2026-05-14
 layout: default
 tags:
 - transpose-matrix
@@ -153,7 +153,7 @@ Usage: please enter the dimension of the matrix and the serialized matrix
 
 ## Articles
 
-There are 26 articles:
+There are 27 articles:
 
 - [Transpose Matrix in ALGOL 60](https://sampleprograms.io/projects/transpose-matrix/algol60)
 - [Transpose Matrix in ALGOL 68](https://sampleprograms.io/projects/transpose-matrix/algol68)
@@ -175,6 +175,7 @@ There are 26 articles:
 - [Transpose Matrix in Pascal](https://sampleprograms.io/projects/transpose-matrix/pascal)
 - [Transpose Matrix in PowerShell](https://sampleprograms.io/projects/transpose-matrix/powershell)
 - [Transpose Matrix in Python](https://sampleprograms.io/projects/transpose-matrix/python)
+- [Transpose Matrix in Ruby](https://sampleprograms.io/projects/transpose-matrix/ruby)
 - [Transpose Matrix in Rust](https://sampleprograms.io/projects/transpose-matrix/rust)
 - [Transpose Matrix in Swift](https://sampleprograms.io/projects/transpose-matrix/swift)
 - [Transpose Matrix in Tcl](https://sampleprograms.io/projects/transpose-matrix/tcl)
