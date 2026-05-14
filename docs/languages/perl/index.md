@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-08
 featured-image: programming-languages.jpg
-last-modified: 2025-10-11
+last-modified: 2026-05-14
 layout: default
 tags:
 - perl

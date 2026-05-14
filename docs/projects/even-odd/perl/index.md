@@ -1,9 +1,10 @@
 ---
 authors:
 - Gabriela Kandová
+- Ștefan-Iulian Alecu
 date: 2019-10-16
 featured-image: even-odd-in-every-language.jpg
-last-modified: 2019-10-16
+last-modified: 2026-05-14
 layout: default
 tags:
 - even-odd
@@ -32,22 +33,18 @@ Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Perl]
 
 ```perl
 #!/usr/bin/env perl
-use strict;
-use warnings;
+use v5.42;
 
-# accept input as argument
+sub usage {
+    say "Usage: please input a number";
+    exit;
+}
+
 my ($number) = @ARGV;
 
-if (!defined $number || $number !~ /^\-?\d+$/) {
-	print "Usage: please input a number\n";
-	exit;
-}
+usage() unless defined $number && $number =~ /\A-?\d+\z/;
 
-if ($number % 2 == 0) {
-	print "Even\n";
-} else {
-	print "Odd\n";
-}
+say $number % 2 == 0 ? "Even" : "Odd";
 
 ```
 
@@ -56,6 +53,7 @@ if ($number % 2 == 0) {
 Even Odd in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
 - Gabriela Kandová
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

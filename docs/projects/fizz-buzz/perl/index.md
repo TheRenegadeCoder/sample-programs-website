@@ -1,10 +1,10 @@
 ---
 authors:
-- Chris Thomas
 - Jeremy Grifski
-date: 2018-10-12
+- Ștefan-Iulian Alecu
+date: 2019-03-25
 featured-image: fizz-buzz-in-every-language.png
-last-modified: 2019-03-25
+last-modified: 2026-05-14
 layout: default
 tags:
 - fizz-buzz
@@ -32,21 +32,19 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Per
 {% raw %}
 
 ```perl
-#!/usr/bin/perl
-#
-# FizzBuzz in Perl
+#!/usr/bin/env perl
+use v5.42;
 
-use strict;
-use warnings;
-use diagnostics;
-use 5.10.0;
+sub fizzbuzz ($n) {
+    my $s = '';
 
-for my $n (1..100) {
-    !($n % 15) ?    say "FizzBuzz"    :
-    !($n % 3)  ?    say "Fizz"        :
-    !($n % 5)  ?    say "Buzz"        :
-                    say "$n";
+    $s .= "Fizz" if $n % 3 == 0;
+    $s .= "Buzz" if $n % 5 == 0;
+
+    return $s || $n;
 }
+
+say fizzbuzz($_) for 1 .. 100;
 
 ```
 
@@ -54,8 +52,8 @@ for my $n (1..100) {
 
 Fizz Buzz in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
-- Chris Thomas
 - Jeremy Grifski
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

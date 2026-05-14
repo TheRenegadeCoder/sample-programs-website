@@ -1,9 +1,10 @@
 ---
 authors:
 - Gijs Hendriksen
+- Ștefan-Iulian Alecu
 date: 2019-10-30
 featured-image: rot13-in-every-language.jpg
-last-modified: 2019-10-30
+last-modified: 2026-05-14
 layout: default
 tags:
 - perl
@@ -31,15 +32,19 @@ Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Perl](https
 {% raw %}
 
 ```perl
-my ($str) = @ARGV;
+#!/usr/bin/env perl
+use v5.42;
 
-
-if (not defined $str or not length $str) {
-    die "Usage: please provide a string to encrypt\n";
+sub usage {
+    say "Usage: please provide a string to encrypt";
+    exit;
 }
 
-$str =~ tr/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz/NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm/;
-print $str . "\n";
+my ($str) = @ARGV;
+usage() unless defined $str && length $str;
+
+$str =~ tr/A-Za-z/N-ZA-Mn-za-m/;
+say $str;
 
 ```
 
@@ -48,6 +53,7 @@ print $str . "\n";
 Rot13 in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
 - Gijs Hendriksen
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

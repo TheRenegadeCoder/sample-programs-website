@@ -1,9 +1,10 @@
 ---
 authors:
 - Kateryna Tokar
+- Ștefan-Iulian Alecu
 date: 2019-10-23
 featured-image: baklava-in-every-language.jpg
-last-modified: 2019-10-23
+last-modified: 2026-05-14
 layout: default
 tags:
 - baklava
@@ -32,18 +33,17 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Perl](h
 
 ```perl
 #!/usr/bin/env perl
-use strict;
-use warnings;
+use v5.42;
 
 my $size = 10;
 
-for my $i (1..$size){
-    print " "x($size + 1 - $i), "*"x($i*2 - 1), "\n";
+for my $i ( -$size .. $size ) {
+    my $spaces = abs($i);
+    my $stars  = 2 * ( $size - $spaces ) + 1;
+
+    say ' ' x $spaces, '*' x $stars;
 }
 
-for my $j (0..$size){
-    print " "x($j), "*"x($size*2 - $j*2 + 1), "\n";
-}
 ```
 
 {% endraw %}
@@ -51,6 +51,7 @@ for my $j (0..$size){
 Baklava in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
 - Kateryna Tokar
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

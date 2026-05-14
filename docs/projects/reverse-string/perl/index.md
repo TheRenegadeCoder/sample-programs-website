@@ -1,10 +1,10 @@
 ---
 authors:
 - Christoph Böhmwalder
-- rzuckerm
+- Ștefan-Iulian Alecu
 date: 2018-08-22
 featured-image: reverse-string-in-every-language.jpg
-last-modified: 2023-03-19
+last-modified: 2026-05-14
 layout: default
 tags:
 - perl
@@ -32,12 +32,11 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 {% raw %}
 
 ```perl
+#!/usr/bin/env perl
+use v5.42;
 
 my ($str) = @ARGV;
-
-if (defined $str) {
-    print scalar reverse $str;
-}
+say scalar reverse $str if defined $str;
 
 ```
 
@@ -46,7 +45,7 @@ if (defined $str) {
 Reverse String in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
 - Christoph Böhmwalder
-- rzuckerm
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 

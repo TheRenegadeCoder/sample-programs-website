@@ -1,10 +1,10 @@
 ---
 authors:
-- Bharath
 - Gabriela Kandová
+- Ștefan-Iulian Alecu
 date: 2019-10-14
 featured-image: factorial-in-every-language.jpg
-last-modified: 2019-10-16
+last-modified: 2026-05-14
 layout: default
 tags:
 - factorial
@@ -33,45 +33,29 @@ Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Per
 
 ```perl
 #!/usr/bin/env perl
-use strict;
-use warnings;
-
-# no input
-usage() unless @ARGV == 1;
-
-# accept input as argument
-my ($number) = @ARGV;
-
-# if not provided, read from standard input
-if (!defined $number) {
-	$number = <STDIN>;
-	chomp $number;
-}
-
-if (!defined $number || $number !~ /^\d+$/ || $number < 0) {
-	usage();
-}
-
-my $factorial = 1;
-
-for (my $i = 1; $i <= $number; $i++) {
-	$factorial = $factorial * $i;
-}
-
-print "$factorial\n";
+use v5.42;
 
 sub usage {
-	print "Usage: please input a non-negative integer\n";
-	exit;
+    say "Usage: please input a non-negative integer";
+    exit;
 }
+
+my ($number) = @ARGV;
+usage() unless defined $number && $number =~ /\A\d+\z/;
+
+my $factorial = 1;
+$factorial *= $_ for 2 .. $number;
+
+say $factorial;
+
 ```
 
 {% endraw %}
 
 Factorial in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
-- Bharath
 - Gabriela Kandová
+- Ștefan-Iulian Alecu
 
 If you see anything you'd like to change or update, [please consider contributing](https://github.com/TheRenegadeCoder/sample-programs).
 
