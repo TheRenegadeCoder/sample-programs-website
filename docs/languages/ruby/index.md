@@ -53,9 +53,10 @@ framework which helps developers build web applications quickly and easily.
 
 ## Articles
 
-There are 32 articles:
+There are 33 articles:
 
 - [Baklava in Ruby](https://sampleprograms.io/projects/baklava/ruby)
+- [Base64 Encode Decode in Ruby](https://sampleprograms.io/projects/base64-encode-decode/ruby)
 - [Binary Search in Ruby](https://sampleprograms.io/projects/binary-search/ruby)
 - [Bubble Sort in Ruby](https://sampleprograms.io/projects/bubble-sort/ruby)
 - [Capitalize in Ruby](https://sampleprograms.io/projects/capitalize/ruby)
