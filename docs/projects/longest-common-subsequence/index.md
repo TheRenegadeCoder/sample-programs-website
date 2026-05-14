@@ -1,7 +1,7 @@
 ---
 date: 2018-10-16
 featured-image: longest-common-subsequence-in-every-language.jpg
-last-modified: 2026-05-13
+last-modified: 2026-05-14
 layout: default
 tags:
 - longest-common-subsequence
@@ -100,7 +100,7 @@ Usage: please provide two lists in the format "1, 2, 3, 4, 5"
 
 ## Articles
 
-There are 29 articles:
+There are 30 articles:
 
 - [Longest Common Subsequence in ALGOL 60](https://sampleprograms.io/projects/longest-common-subsequence/algol60)
 - [Longest Common Subsequence in ALGOL 68](https://sampleprograms.io/projects/longest-common-subsequence/algol68)
@@ -125,6 +125,7 @@ There are 29 articles:
 - [Longest Common Subsequence in Pascal](https://sampleprograms.io/projects/longest-common-subsequence/pascal)
 - [Longest Common Subsequence in PowerShell](https://sampleprograms.io/projects/longest-common-subsequence/powershell)
 - [Longest Common Subsequence in Python](https://sampleprograms.io/projects/longest-common-subsequence/python)
+- [Longest Common Subsequence in Ruby](https://sampleprograms.io/projects/longest-common-subsequence/ruby)
 - [Longest Common Subsequence in Rust](https://sampleprograms.io/projects/longest-common-subsequence/rust)
 - [Longest Common Subsequence in Swift](https://sampleprograms.io/projects/longest-common-subsequence/swift)
 - [Longest Common Subsequence in Tcl](https://sampleprograms.io/projects/longest-common-subsequence/tcl)
