@@ -53,13 +53,14 @@ framework which helps developers build web applications quickly and easily.
 
 ## Articles
 
-There are 35 articles:
+There are 37 articles:
 
 - [Baklava in Ruby](https://sampleprograms.io/projects/baklava/ruby)
 - [Base64 Encode Decode in Ruby](https://sampleprograms.io/projects/base64-encode-decode/ruby)
 - [Binary Search in Ruby](https://sampleprograms.io/projects/binary-search/ruby)
 - [Bubble Sort in Ruby](https://sampleprograms.io/projects/bubble-sort/ruby)
 - [Capitalize in Ruby](https://sampleprograms.io/projects/capitalize/ruby)
+- [Convex Hull in Ruby](https://sampleprograms.io/projects/convex-hull/ruby)
 - [Depth First Search in Ruby](https://sampleprograms.io/projects/depth-first-search/ruby)
 - [Dijkstra in Ruby](https://sampleprograms.io/projects/dijkstra/ruby)
 - [Duplicate Character Counter in Ruby](https://sampleprograms.io/projects/duplicate-character-counter/ruby)
@@ -71,6 +72,7 @@ There are 35 articles:
 - [Fraction Math in Ruby](https://sampleprograms.io/projects/fraction-math/ruby)
 - [Hello World in Ruby](https://sampleprograms.io/projects/hello-world/ruby)
 - [Insertion Sort in Ruby](https://sampleprograms.io/projects/insertion-sort/ruby)
+- [Job Sequencing in Ruby](https://sampleprograms.io/projects/job-sequencing/ruby)
 - [Josephus Problem in Ruby](https://sampleprograms.io/projects/josephus-problem/ruby)
 - [Linear Search in Ruby](https://sampleprograms.io/projects/linear-search/ruby)
 - [Longest Common Subsequence in Ruby](https://sampleprograms.io/projects/longest-common-subsequence/ruby)

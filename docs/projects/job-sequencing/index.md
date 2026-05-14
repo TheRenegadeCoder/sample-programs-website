@@ -1,7 +1,7 @@
 ---
 date: 2018-11-19
 featured-image: job-sequencing-in-every-language.jpg
-last-modified: 2026-05-13
+last-modified: 2026-05-14
 layout: default
 tags:
 - job-sequencing
@@ -116,7 +116,7 @@ Usage: please provide a list of profits and a list of deadlines
 
 ## Articles
 
-There are 28 articles:
+There are 29 articles:
 
 - [Job Sequencing in ALGOL 60](https://sampleprograms.io/projects/job-sequencing/algol60)
 - [Job Sequencing in ALGOL 68](https://sampleprograms.io/projects/job-sequencing/algol68)
@@ -140,6 +140,7 @@ There are 28 articles:
 - [Job Sequencing in Pascal](https://sampleprograms.io/projects/job-sequencing/pascal)
 - [Job Sequencing in PowerShell](https://sampleprograms.io/projects/job-sequencing/powershell)
 - [Job Sequencing in Python](https://sampleprograms.io/projects/job-sequencing/python)
+- [Job Sequencing in Ruby](https://sampleprograms.io/projects/job-sequencing/ruby)
 - [Job Sequencing in Rust](https://sampleprograms.io/projects/job-sequencing/rust)
 - [Job Sequencing in Swift](https://sampleprograms.io/projects/job-sequencing/swift)
 - [Job Sequencing in Tcl](https://sampleprograms.io/projects/job-sequencing/tcl)
