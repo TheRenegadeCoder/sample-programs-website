@@ -53,7 +53,7 @@ framework which helps developers build web applications quickly and easily.
 
 ## Articles
 
-There are 37 articles:
+There are 38 articles:
 
 - [Baklava in Ruby](https://sampleprograms.io/projects/baklava/ruby)
 - [Base64 Encode Decode in Ruby](https://sampleprograms.io/projects/base64-encode-decode/ruby)
@@ -81,6 +81,7 @@ There are 37 articles:
 - [Maximum Array Rotation in Ruby](https://sampleprograms.io/projects/maximum-array-rotation/ruby)
 - [Maximum Subarray in Ruby](https://sampleprograms.io/projects/maximum-subarray/ruby)
 - [Merge Sort in Ruby](https://sampleprograms.io/projects/merge-sort/ruby)
+- [Minimum Spanning Tree in Ruby](https://sampleprograms.io/projects/minimum-spanning-tree/ruby)
 - [Palindromic Number in Ruby](https://sampleprograms.io/projects/palindromic-number/ruby)
 - [Prime Number in Ruby](https://sampleprograms.io/projects/prime-number/ruby)
 - [Quick Sort in Ruby](https://sampleprograms.io/projects/quick-sort/ruby)
