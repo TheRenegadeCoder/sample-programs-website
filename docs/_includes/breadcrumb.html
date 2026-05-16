@@ -2,26 +2,25 @@
   <ol class="breadcrumb">
     <li><a href="{{ '/' | relative_url }}">Home</a></li>
 
-    {% assign parts = page.url | split: "/" %}
-    {% assign current_path = "" %}
+    {% assign segments = page.url | split: '/' %}
+    {% assign path = '' %}
 
-    {% for part in parts %}
-      {% if part == "" %}{% continue %}{% endif %}
+    {% for segment in segments %}
+      {% if segment == '' %}{% continue %}{% endif %}
 
-      {% assign current_path = current_path | append: "/" | append: part %}
-      {% assign target_url = current_path | append: "/" %}
+      {% assign path = path | append: '/' | append: segment %}
 
-      {% assign match = site.pages | where: "url", target_url | first %}
-
-      {% if match %}
-        <li class="{% if forloop.last %}active{% endif %}">
-          {% if forloop.last %}
-            {{ match.title }}
-          {% else %}
-            <a href="{{ match.url | relative_url }}">{{ match.title }}</a>
-          {% endif %}
-        </li>
-      {% endif %}
+      <li>
+        {% if forloop.last %}
+          <span class="active">
+            {{ segment | replace: '-', ' ' | capitalize }}
+          </span>
+        {% else %}
+          <a href="{{ path | append: '/' | relative_url }}">
+            {{ segment | replace: '-', ' ' | capitalize }}
+          </a>
+        {% endif %}
+      </li>
     {% endfor %}
   </ol>
 </nav>
