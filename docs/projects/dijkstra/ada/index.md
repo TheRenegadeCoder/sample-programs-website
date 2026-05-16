@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Ada](https://sampleprograms.io/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Ada](https://sampleprograms.io/languages/ada)! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

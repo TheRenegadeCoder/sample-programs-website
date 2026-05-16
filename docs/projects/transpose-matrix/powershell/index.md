@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [PowerShell](https://sampleprograms.io/languages/powershell)! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

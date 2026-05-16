@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [m4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [m4](https://sampleprograms.io/languages/m4)! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

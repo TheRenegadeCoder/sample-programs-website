@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [R](https://sampleprograms.io/languages/r)everse String in [R](https://sampleprograms.io/languages/r) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [R](https://sampleprograms.io/languages/r)! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -46,7 +46,7 @@ if(length(args) > 0 ){
 
 {% endraw %}
 
-[R](https://sampleprograms.io/languages/r)everse String in [R](https://sampleprograms.io/languages/r) was written by:
+Reverse String in [R](https://sampleprograms.io/languages/r) was written by:
 
 - Veena ManikPrabhu
 

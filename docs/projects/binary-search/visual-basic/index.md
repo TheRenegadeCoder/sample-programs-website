@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Visual Basic](https://sampleprograms.io/languages/visual-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Visual Basic](https://sampleprograms.io/languages/visual-basic)! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

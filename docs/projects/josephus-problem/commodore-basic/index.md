@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic)! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Unicat](https://sampleprograms.io/languages/unicat) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Unicat](https://sampleprograms.io/languages/unicat)! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

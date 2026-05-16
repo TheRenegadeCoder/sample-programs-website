@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Dart](https://sampleprograms.io/languages/dart)! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
