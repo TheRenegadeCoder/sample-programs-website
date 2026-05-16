@@ -261,14 +261,21 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         PROGRAM_MD_FILENAMES,
     )
 
-    program_escaped = _markdown_escape(str(program))
+    project_name = program.project_name()
     language_escaped = _markdown_escape(program.language_name())
-    doc.add_paragraph(
-        f"Welcome to the {program_escaped} page! Here, you'll find the source code for this program "
-        f"as well as a description of how the program works."
-    ) \
-        .insert_link(language_escaped, program.language_collection().lang_docs_url()) \
-        .insert_link(program.project_name(), program.project().requirements_url())
+    language_docs_url = program.language_collection().lang_docs_url()
+    doc.add_block(
+        snakemd.Paragraph(
+            [
+                "Welcome to the ",
+                snakemd.Inline(project_name, link=program.project().requirements_url()),
+                " in ",
+                snakemd.Inline(language_escaped, link=language_docs_url),
+                "! Here, you'll find the source code for this program as well as a description ",
+                "of how the program works."
+            ]
+        )
+    )
     doc.add_heading("Current Solution", level=2)
 
     if program.image_type():
@@ -285,8 +292,14 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         doc.add_code(program.code(), lang=language_escaped.lower().replace(" ", "_"))
         doc.add_paragraph("{% endraw %}")
 
-    doc.add_paragraph(f"{program_escaped} was written by:").insert_link(
-        language_escaped, program.language_collection().lang_docs_url()
+    doc.add_block(
+        snakemd.Paragraph(
+            [
+                f"{project_name} in ",
+                snakemd.Inline(language_escaped, link=language_docs_url),
+                " was written by:",
+            ]
+        )
     )
     _add_authors_to_doc(doc, authors)
 
