@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [F#](https://sampleprograms.io/languages/f-sharp)! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [F#](https://sampleprograms.io/languages/f-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

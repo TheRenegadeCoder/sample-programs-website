@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Dg](https://sampleprograms.io/languages/dg)! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Dg](https://sampleprograms.io/languages/dg) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

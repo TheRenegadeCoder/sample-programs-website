@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Ruby](https://sampleprograms.io/languages/ruby)! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

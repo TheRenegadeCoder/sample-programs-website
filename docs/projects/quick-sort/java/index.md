@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Java](https://sampleprograms.io/languages/java)! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

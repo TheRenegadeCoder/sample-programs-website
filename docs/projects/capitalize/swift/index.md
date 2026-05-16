@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Swift](https://sampleprograms.io/languages/swift)! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

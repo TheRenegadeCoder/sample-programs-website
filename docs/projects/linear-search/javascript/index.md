@@ -26,7 +26,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search) in [JavaScript](https://sampleprograms.io/languages/javascript)! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

@@ -27,7 +27,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [C](https://sampleprograms.io/languages/c)! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Wren](https://sampleprograms.io/languages/wren)! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Wren](https://sampleprograms.io/languages/wren) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

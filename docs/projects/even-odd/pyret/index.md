@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Pyret](https://sampleprograms.io/languages/pyret)! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Pyret](https://sampleprograms.io/languages/pyret) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

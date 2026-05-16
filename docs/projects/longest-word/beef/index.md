@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Beef](https://sampleprograms.io/languages/beef)! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Beef](https://sampleprograms.io/languages/beef) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

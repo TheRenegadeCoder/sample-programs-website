@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Lisp](https://sampleprograms.io/languages/lisp)! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Lisp](https://sampleprograms.io/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

@@ -27,7 +27,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Python](https://sampleprograms.io/languages/python)! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 

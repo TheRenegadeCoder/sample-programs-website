@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Rexx](https://sampleprograms.io/languages/rexx)! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Rexx](https://sampleprograms.io/languages/rexx) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
