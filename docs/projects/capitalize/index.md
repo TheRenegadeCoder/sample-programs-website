@@ -1,7 +1,7 @@
 ---
 date: 2019-03-31
 featured-image: capitalize-in-every-language.jpg
-last-modified: 2026-05-15
+last-modified: 2026-05-16
 layout: default
 tags:
 - capitalize
@@ -91,7 +91,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 48 articles:
+There are 49 articles:
 
 - [Capitalize in ALGOL 60](https://sampleprograms.io/projects/capitalize/algol60)
 - [Capitalize in ALGOL 68](https://sampleprograms.io/projects/capitalize/algol68)
@@ -124,6 +124,7 @@ There are 48 articles:
 - [Capitalize in Lisp](https://sampleprograms.io/projects/capitalize/lisp)
 - [Capitalize in Lua](https://sampleprograms.io/projects/capitalize/lua)
 - [Capitalize in Mathematica](https://sampleprograms.io/projects/capitalize/mathematica)
+- [Capitalize in OCaml](https://sampleprograms.io/projects/capitalize/ocaml)
 - [Capitalize in Objective-C](https://sampleprograms.io/projects/capitalize/objective-c)
 - [Capitalize in Octave](https://sampleprograms.io/projects/capitalize/octave)
 - [Capitalize in PHP](https://sampleprograms.io/projects/capitalize/php)
