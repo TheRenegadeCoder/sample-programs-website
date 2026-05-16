@@ -1,10 +1,9 @@
 {% assign image_file = page.featured-image | default: site.title_image %}
-{% assign twitter_card_type = page.featured-image | default: false | if: "summary_large_image", "summary" %}
 
 <!-- Twitter cards -->
 <meta name="twitter:title" content="{{ page.title }}">
 <meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
 
 <meta name="twitter:card" content="{% if page.featured-image %}summary_large_image{% else %}summary{% endif %}">
-<meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ site.image_path }}{{ image_file }}">
+<meta name="twitter:image" content="{{ '/assets/images/' | append: image_file | absolute_url }}">
 <!-- end of Twitter cards -->
