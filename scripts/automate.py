@@ -271,7 +271,7 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
                 snakemd.Inline(project_name, link=program.project().requirements_url()),
                 " in ",
                 snakemd.Inline(language_escaped, link=language_docs_url),
-                "! Here, you'll find the source code for this program as well as a description ",
+                " page! Here, you'll find the source code for this program as well as a description ",
                 "of how the program works."
             ]
         )
