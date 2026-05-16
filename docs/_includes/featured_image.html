@@ -1,17 +1,23 @@
-{% assign img_filename = include.image | default: "sample-programs-in-every-language.jpg" %}
-{% assign img_path = img_filename | prepend: "/assets/images/" | relative_url %}
+{% assign img = include.image | default: "sample-programs-in-every-language.jpg" %}
 
 <div class="featured-image">
-  <img src="{{ img_path }}" alt="{{ include.name }}" loading="eager">
-  
-  <div class="image-container" id="title1">
-    <div class="image-title">{{ include.title1 }}</div>
-  </div>
+  <img
+    src="{{ '/assets/images/' | append: img | relative_url }}"
+    alt="{{ include.name | escape }}"
+    loading="eager"
+  >
 
-  {% if include.title2 and include.title2 != "" %}
-  <div class="image-container" id="title2">
-    <div class="image-title">{{ include.title2 }}</div>
-  </div>
+  {% if include.title1 %}
+    <div class="image-container" id="title1">
+      <div class="image-title">{{ include.title1 }}</div>
+    </div>
+  {% endif %}
+
+  {% if include.title2 %}
+    <div class="image-container" id="title2">
+      <div class="image-title">{{ include.title2 }}</div>
+    </div>
   {% endif %}
 </div>
+
 <p></p>
