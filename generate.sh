@@ -19,13 +19,14 @@ docker run --rm \
         bundle install && \
         chown $(id -u):$(id -g) Gemfile.lock && \
         jekyll clean --config _config.yml && \
-        jekyll build -V --config _config.yml && \
+        jekyll build -V --config _config.yml,_config.local.yml && \
         chown -R  $(id -u):$(id -g) _site"
 
 echo ""
 echo "*** Change Base URL For Generated Files ***"
 LOCAL_URL=http://localhost:8000
-find docs/_site -type f -name '*.html' -exec sed -i "s@https://sampleprograms\.io/@${LOCAL_URL}/@g" '{}' ';'
+find docs/_site -type f -name '*.html' -print0 \
+  | xargs -0 -P "$(nproc)" sed -i "s@https://sampleprograms\.io/@${LOCAL_URL}/@g"
 
 echo ""
 echo "*** Start Webserver ***"
