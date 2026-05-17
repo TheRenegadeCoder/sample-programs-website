@@ -2,6 +2,8 @@ import logging
 import shutil
 import subprocess
 import tempfile
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from dataclasses import dataclass
 from pathlib import Path
 
 import subete
@@ -13,111 +15,149 @@ from constants import (
 
 log = logging.getLogger(__name__)
 
+ASSETS_DIR = Path("docs/assets/images")
+LOGO_PATH = ASSETS_DIR / "icon-small.png"
+
+
+@dataclass(frozen=True)
+class ImageSpec:
+    src_dir: Path
+    dest_no_ext: str
+
 
 def generate_images(repo: subete.Repo) -> int:
-    """Use image-titler to resize and crop images and add logo
+    """Generate all processed images using image-titler.
 
-    :param subete.Repo repo: the repo to pull from.
-    :return: 0 if no error, non-zero otherwise
+    Returns:
+        0 if all succeeded, 1 if any failed.
+
     """
-    with tempfile.TemporaryDirectory() as temp_dir:
-        status_code = 0
-        status_code = generate_language_images(repo, temp_dir, status_code)
-        status_code = generate_project_images(repo, temp_dir, status_code)
-        status_code = generate_program_images(repo, temp_dir, status_code)
-    return status_code
+    specs = [
+        *_language_specs(repo),
+        *_project_specs(repo),
+        *_program_specs(repo),
+    ]
+
+    return 1 if _run_parallel(specs) else 0
 
 
-def generate_language_images(repo: subete.Repo, temp_dir: str, status_code: int) -> int:
-    status_code = generate_image(
-        temp_dir,
-        "sources/languages",
-        DEFAULT_LANGUAGE_IMAGE_NO_EXT,
-        status_code,
-    )
-    language: subete.LanguageCollection
-    for language in repo:
-        language_path = language.pathlike_name()
-        status_code = generate_image(
-            temp_dir,
-            f"sources/languages/{language_path}",
-            f"the-{language_path}-programming-language",
-            status_code,
-        )
+def _run_parallel(specs: list[ImageSpec], workers: int = 8) -> list[ImageSpec]:
+    failures: list[ImageSpec] = []
 
-    return status_code
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = {pool.submit(_process_spec, spec): spec for spec in specs}
 
+        for future in as_completed(futures):
+            spec = futures[future]
+            try:
+                if not future.result():
+                    failures.append(spec)
+            except Exception:
+                log.exception("Unexpected failure: %s", spec)
+                failures.append(spec)
 
-def generate_project_images(repo: subete.Repo, temp_dir: str, status_code: int) -> int:
-    status_code = generate_image(
-        temp_dir,
-        "sources/projects",
-        DEFAULT_PROJECT_IMAGE_NO_EXT,
-        status_code,
-    )
-    for project in repo.approved_projects():
-        project_path = project.pathlike_name()
-        status_code = generate_image(
-            temp_dir,
-            f"sources/projects/{project_path}",
-            f"{project_path}-in-every-language",
-            status_code,
-        )
+    for spec in failures:
+        log.error("Failed image: %s", spec)
 
-    return status_code
+    return failures
 
 
-def generate_program_images(repo: subete.Repo, temp_dir: str, status_code: int) -> int:
-    status_code = generate_image(
-        temp_dir,
-        "sources",
-        DEFAULT_PROGRAM_IMAGE_NO_EXT,
-        status_code,
-    )
-    language: subete.LanguageCollection
-    for language in repo:
-        language_path = language.pathlike_name()
-        program: subete.SampleProgram
-        for program in repo[str(language)]:
-            program_path = program.project_pathlike_name()
-            status_code = generate_image(
-                temp_dir,
-                f"sources/programs/{program_path}/{language_path}",
-                f"{program_path}-in-{language_path}",
-                status_code,
+def _process_spec(spec: ImageSpec) -> bool:
+    src_image = _find_featured_image(spec.src_dir)
+    if src_image is None:
+        return True  # treat missing as OK
+
+    dest_path = ASSETS_DIR / f"{spec.dest_no_ext}{src_image.suffix}"
+
+    log.info("Processing %s -> %s", src_image, dest_path)
+
+    with tempfile.TemporaryDirectory() as tmp:
+        tmp_dir = Path(tmp)
+
+        try:
+            subprocess.run(
+                [
+                    "image-titler",
+                    "--path",
+                    str(src_image),
+                    "--output",
+                    str(tmp_dir),
+                    "--logo",
+                    str(LOGO_PATH),
+                    "--no_title",
+                ],
+                check=True,
             )
 
-    return status_code
+            produced_files = list(tmp_dir.iterdir())
+            if not produced_files:
+                log.error("No output generated for %s", src_image)
+                return False
+
+            shutil.move(produced_files[0], dest_path)
+            return True
+
+        except subprocess.CalledProcessError:
+            log.exception("image-titler failed for %s", src_image)
+            return False
 
 
-def generate_image(temp_dir: str, src: str, dest_filename_no_ext: str, status_code: int) -> int:
-    src_image_path = next(Path(src).glob("featured-image.*"), None)
-    if not src_image_path:
-        return status_code
+def _find_featured_image(dir_path: Path) -> Path | None:
+    if not dir_path.exists():
+        return None
+    return next(dir_path.glob("featured-image.*"), None)
 
-    dest = Path("docs/assets/images")
-    logo = str(dest / "icon-small.png")
 
-    dest_image_path = dest / f"{dest_filename_no_ext}{src_image_path.suffix}"
-    log.info("Processing %s -> %s", str(src_image_path), str(dest_image_path))
-    try:
-        subprocess.run(
-            [
-                "image-titler",
-                "--path",
-                str(src_image_path),
-                "--output",
-                temp_dir,
-                "--logo",
-                logo,
-                "--no_title",
-            ],
-            check=True,
+def _language_specs(repo: subete.Repo) -> list[ImageSpec]:
+    specs = [
+        ImageSpec(Path("sources/languages"), DEFAULT_LANGUAGE_IMAGE_NO_EXT),
+    ]
+
+    for lang in repo:
+        name = lang.pathlike_name()
+        specs.append(
+            ImageSpec(
+                Path("sources/languages") / name,
+                f"the-{name}-programming-language",
+            ),
         )
-        temp_image_path = next(Path(temp_dir).iterdir())
-        shutil.move(temp_image_path, dest_image_path)
-    except subprocess.CalledProcessError as exc:
-        log.error("image-titler exited with %d status", exc.returncode)
-        status_code = 1
 
-    return status_code
+    return specs
+
+
+def _project_specs(repo: subete.Repo) -> list[ImageSpec]:
+    specs = [
+        ImageSpec(Path("sources/projects"), DEFAULT_PROJECT_IMAGE_NO_EXT),
+    ]
+
+    for project in repo.approved_projects():
+        name = project.pathlike_name()
+        specs.append(
+            ImageSpec(
+                Path("sources/projects") / name,
+                f"{name}-in-every-language",
+            ),
+        )
+
+    return specs
+
+
+def _program_specs(repo: subete.Repo) -> list[ImageSpec]:
+    specs = [
+        ImageSpec(Path("sources"), DEFAULT_PROGRAM_IMAGE_NO_EXT),
+    ]
+
+    for lang in repo:
+        lang_name = lang.pathlike_name()
+
+        for program in repo[str(lang)]:
+            proj = program.project_pathlike_name()
+
+            specs.append(
+                ImageSpec(
+                    Path("sources/programs") / proj / lang_name,
+                    f"{proj}-in-{lang_name}",
+                ),
+            )
+
+    return specs
