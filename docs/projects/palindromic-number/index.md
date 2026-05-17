@@ -1,7 +1,7 @@
 ---
 date: 2020-10-07
 featured-image: palindromic-number-in-every-language.jpg
-last-modified: 2026-05-14
+last-modified: 2026-05-17
 layout: default
 tags:
 - palindromic-number
@@ -84,7 +84,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 35 articles:
+There are 36 articles:
 
 - [Palindromic Number in ALGOL 60](https://sampleprograms.io/projects/palindromic-number/algol60)
 - [Palindromic Number in ALGOL 68](https://sampleprograms.io/projects/palindromic-number/algol68)
@@ -106,6 +106,7 @@ There are 35 articles:
 - [Palindromic Number in Julia](https://sampleprograms.io/projects/palindromic-number/julia)
 - [Palindromic Number in Kotlin](https://sampleprograms.io/projects/palindromic-number/kotlin)
 - [Palindromic Number in Mathematica](https://sampleprograms.io/projects/palindromic-number/mathematica)
+- [Palindromic Number in OCaml](https://sampleprograms.io/projects/palindromic-number/ocaml)
 - [Palindromic Number in PHP](https://sampleprograms.io/projects/palindromic-number/php)
 - [Palindromic Number in Pascal](https://sampleprograms.io/projects/palindromic-number/pascal)
 - [Palindromic Number in Perl](https://sampleprograms.io/projects/palindromic-number/perl)

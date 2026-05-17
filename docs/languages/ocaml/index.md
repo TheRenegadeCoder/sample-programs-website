@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 8 articles:
+There are 9 articles:
 
 - [Baklava in OCaml](https://sampleprograms.io/projects/baklava/ocaml)
 - [Capitalize in OCaml](https://sampleprograms.io/projects/capitalize/ocaml)
@@ -38,3 +38,4 @@ There are 8 articles:
 - [Fizz Buzz in OCaml](https://sampleprograms.io/projects/fizz-buzz/ocaml)
 - [Hello World in OCaml](https://sampleprograms.io/projects/hello-world/ocaml)
 - [Linear Search in OCaml](https://sampleprograms.io/projects/linear-search/ocaml)
+- [Palindromic Number in OCaml](https://sampleprograms.io/projects/palindromic-number/ocaml)
