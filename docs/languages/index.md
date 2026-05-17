@@ -1,14 +1,14 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2026-05-16
+last-modified: 2026-05-17
 layout: default
 title: Programming Languages
 title1: Programming
 title2: Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1626 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1627 code snippets.
 
 ## Language Breakdown
 
@@ -188,7 +188,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Kotlin</td>
-        <td class="right">0.97%</td>
+        <td class="right">0.96%</td>
         <td class="bar-graph"><div style="width: 10.66%; background-color: #A97BFF;"></div></td> 
     </tr>
 
@@ -439,6 +439,12 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
+        <td class="right nowrap">OCaml</td>
+        <td class="right">0.06%</td>
+        <td class="bar-graph"><div style="width: 0.64%; background-color: #EF7A08;"></div></td> 
+    </tr>
+
+    <tr>
         <td class="right nowrap">Racket</td>
         <td class="right">0.06%</td>
         <td class="bar-graph"><div style="width: 0.63%; background-color: #3C5CAA;"></div></td> 
@@ -562,12 +568,6 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Vimscript</td>
         <td class="right">0.04%</td>
         <td class="bar-graph"><div style="width: 0.40%; background-color: #199F4B;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">OCaml</td>
-        <td class="right">0.04%</td>
-        <td class="bar-graph"><div style="width: 0.40%; background-color: #EF7A08;"></div></td> 
     </tr>
 
     <tr>
@@ -1204,10 +1204,10 @@ The 'N' collection contains 3 languages, of which 3 are tested, and 12 code snip
 
 ### O
 
-The 'O' collection contains 7 languages, of which 7 are tested, and 44 code snippets.
+The 'O' collection contains 7 languages, of which 7 are tested, and 45 code snippets.
 
 - [Objective-C](https://sampleprograms.io/languages/objective-c) (11 code snippets)
-- [OCaml](https://sampleprograms.io/languages/ocaml) (4 code snippets)
+- [OCaml](https://sampleprograms.io/languages/ocaml) (5 code snippets)
 - [Octave](https://sampleprograms.io/languages/octave) (14 code snippets)
 - [Odin](https://sampleprograms.io/languages/odin) (9 code snippets)
 - [Opa](https://sampleprograms.io/languages/opa) (2 code snippets)

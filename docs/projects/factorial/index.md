@@ -1,7 +1,7 @@
 ---
 date: 2018-10-26
 featured-image: factorial-in-every-language.jpg
-last-modified: 2026-05-14
+last-modified: 2026-05-17
 layout: default
 tags:
 - factorial
@@ -85,7 +85,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 51 articles:
+There are 52 articles:
 
 - [Factorial in ALGOL 60](https://sampleprograms.io/projects/factorial/algol60)
 - [Factorial in ALGOL 68](https://sampleprograms.io/projects/factorial/algol68)
@@ -119,6 +119,7 @@ There are 51 articles:
 - [Factorial in Lua](https://sampleprograms.io/projects/factorial/lua)
 - [Factorial in Mathematica](https://sampleprograms.io/projects/factorial/mathematica)
 - [Factorial in Nim](https://sampleprograms.io/projects/factorial/nim)
+- [Factorial in OCaml](https://sampleprograms.io/projects/factorial/ocaml)
 - [Factorial in Objective-C](https://sampleprograms.io/projects/factorial/objective-c)
 - [Factorial in Octave](https://sampleprograms.io/projects/factorial/octave)
 - [Factorial in PHP](https://sampleprograms.io/projects/factorial/php)
