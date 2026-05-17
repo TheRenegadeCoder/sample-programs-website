@@ -14,7 +14,7 @@ from generators.tests import generate_auto_gen_test_docs
 from logging_setup import setup_logging
 from utils.files import clean
 
-log = logging.getLogger(__name__)
+log = logging.getLogger("automate")
 
 
 def main() -> None:
