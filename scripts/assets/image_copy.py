@@ -1,71 +1,98 @@
 import logging
-import os
 import shutil
+from collections.abc import Iterable
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from dataclasses import dataclass
 from pathlib import Path
 
 import subete
 from subete import imghdr
+from utils.files import mkdir
 
 log = logging.getLogger(__name__)
 
+SOURCE_DIR = Path("sources")
+ASSETS_ROOT = Path("docs/assets/images")
+
+
+@dataclass(frozen=True)
+class CopySpec:
+    src_dir: Path
+    dest_dir: Path
+
 
 def copy_article_images(repo: subete.Repo) -> None:
-    """Copy article images to the appropriate directory
+    """Copy all article images (languages, projects, programs)."""
+    specs = _build_specs(repo)
 
-    :param subete.Repo repo: the repo to pull from.
-    """
-    copy_language_images(repo)
-    copy_project_images(repo)
-    copy_program_images(repo)
+    with ThreadPoolExecutor(max_workers=8) as ex:
+        futures = [ex.submit(_copy_images, spec) for spec in specs]
+
+        for f in as_completed(futures):
+            try:
+                f.result()
+            except Exception:
+                log.exception("Failed copying images")
 
 
-def copy_language_images(repo: subete.Repo) -> None:
-    language: subete.LanguageCollection
-    for language in repo:
-        language_path = language.pathlike_name()
-        copy_image(
-            f"sources/languages/{language_path}",
-            f"docs/assets/images/languages/{language_path}",
+def _build_specs(repo: subete.Repo) -> Iterable[CopySpec]:
+    yield from _language_specs(repo)
+    yield from _project_specs(repo)
+    yield from _program_specs(repo)
+
+
+def _language_specs(repo: subete.Repo) -> Iterable[CopySpec]:
+    for lang in repo:
+        name = lang.pathlike_name()
+        yield CopySpec(
+            SOURCE_DIR / "languages" / name,
+            ASSETS_ROOT / "languages" / name,
         )
 
 
-def copy_project_images(repo: subete.Repo) -> None:
-    project: subete.Project
+def _project_specs(repo: subete.Repo) -> Iterable[CopySpec]:
     for project in repo.approved_projects():
-        project_path = project.pathlike_name()
-        copy_image(
-            f"sources/projects/{project_path}",
-            f"docs/assets/images/projects/{project_path}",
+        name = project.pathlike_name()
+        yield CopySpec(
+            SOURCE_DIR / "projects" / name,
+            ASSETS_ROOT / "projects" / name,
         )
 
 
-def copy_program_images(repo: subete.Repo) -> None:
-    language: subete.LanguageCollection
-    for language in repo:
-        language_path = language.pathlike_name()
-        program: subete.SampleProgram
-        for program in repo[str(language)]:
-            project_path = program.project_pathlike_name()
-            copy_image(
-                f"sources/programs/{project_path}/{language_path}",
-                f"docs/assets/images/projects/{project_path}/{language_path}",
+def _program_specs(repo: subete.Repo) -> Iterable[CopySpec]:
+    for lang in repo:
+        lang_name = lang.pathlike_name()
+
+        for program in repo[str(lang)]:
+            proj = program.project_pathlike_name()
+            yield CopySpec(
+                SOURCE_DIR / "programs" / proj / lang_name,
+                ASSETS_ROOT / "projects" / proj / lang_name,
             )
 
 
-def copy_image(src_dir: str, dest_dir: str) -> None:
-    src_dir_path = Path(src_dir)
-    dest_dir_path = Path(dest_dir)
-    if not src_dir_path.exists():
+def _copy_images(spec: CopySpec) -> None:
+    if not spec.src_dir.is_dir():
         return
 
-    src_image_paths = [
-        path
-        for path in src_dir_path.iterdir()
-        if path.is_file() and path.stem != "featured-image" and imghdr.what(path)
+    images = _list_images(spec.src_dir)
+    if not images:
+        return
+
+    _ = mkdir(spec.dest_dir)
+
+    for src in images:
+        dest = spec.dest_dir / src.name
+        log.info("Copying %s -> %s", src, dest)
+        shutil.copy2(src, dest)
+
+
+def _list_images(src_dir: Path) -> list[Path]:
+    if not src_dir.is_dir():
+        return []
+
+    return [
+        p
+        for p in src_dir.iterdir()
+        if p.is_file() and p.stem != "featured-image" and imghdr.what(p)
     ]
-    if src_image_paths:
-        os.makedirs(dest_dir, exist_ok=True)
-        for src_image_path in src_image_paths:
-            dest_image_path = dest_dir_path / src_image_path.name
-            log.info("Copying image %s -> %s", str(src_image_path), str(dest_image_path))
-            shutil.copy(src_image_path, dest_image_path)
