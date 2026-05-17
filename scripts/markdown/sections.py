@@ -2,7 +2,7 @@ import logging
 from pathlib import Path
 
 import snakemd
-from constants import *
+from constants import AUTO_GEN_TEST_DOC_DIR
 
 log = logging.getLogger(__name__)
 
