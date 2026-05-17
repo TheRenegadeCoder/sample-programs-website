@@ -12,6 +12,7 @@ from markdown.front_matter import generate_front_matter
 from markdown.note import generate_no_edit_note
 from markdown.sections import add_section, add_testing_section
 from repo.queries import get_program_datetimes
+from utils.files import mkdir
 
 log = logging.getLogger(__name__)
 
@@ -27,8 +28,7 @@ def generate_project_paths(repo: subete.Repo) -> None:
     for i, project in enumerate(projects):
         project: subete.Project
         log.info("Generating project paths for %s", str(project))
-        path = Path(f"docs/projects/{project.pathlike_name()}")
-        path.mkdir(exist_ok=True, parents=True)
+        _ = mkdir(f"docs/projects/{project.pathlike_name()}")
         generate_project_index(repo, project, projects[i - 1], projects[(i + 1) % len(projects)])
 
 

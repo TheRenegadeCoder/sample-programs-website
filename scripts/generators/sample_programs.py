@@ -12,6 +12,7 @@ from markdown.front_matter import generate_front_matter
 from markdown.note import generate_no_edit_note
 from markdown.sections import add_section
 from repo.queries import get_program_datetimes
+from utils.files import mkdir
 from utils.text import markdown_escape
 
 log = logging.getLogger(__name__)
@@ -27,10 +28,9 @@ def generate_sample_programs(repo: subete.Repo) -> None:
         for program in language:
             log.info("Generate sample programs for %s", str(program))
             program: subete.SampleProgram
-            path = Path(
+            path = mkdir(
                 f"docs/projects/{program.project_pathlike_name()}/{language.pathlike_name()}",
             )
-            path.mkdir(exist_ok=True, parents=True)
             generate_sample_program_index(program, path)
 
 

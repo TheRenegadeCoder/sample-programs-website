@@ -12,6 +12,7 @@ from markdown.front_matter import generate_front_matter
 from markdown.note import generate_no_edit_note
 from markdown.sections import add_section
 from repo.queries import get_program_datetimes
+from utils.files import mkdir
 from utils.plural import is_are, pluralize
 from utils.text import markdown_escape
 
@@ -69,8 +70,7 @@ def generate_language_paths(repo: subete.Repo) -> None:
     for language in repo:
         log.info("Generating language paths for %s", str(language))
         language: subete.LanguageCollection
-        path = Path(f"docs/languages/{language.pathlike_name()}")
-        path.mkdir(exist_ok=True, parents=True)
+        _ = mkdir(f"docs/languages/{language.pathlike_name()}")
         generate_language_index(repo, language)
 
 
