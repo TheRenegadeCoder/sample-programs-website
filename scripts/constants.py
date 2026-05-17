@@ -1,0 +1,9 @@
+AUTO_GEN_TEST_DOC_DIR = "sources/generated"
+DEFAULT_PROGRAM_IMAGE_NO_EXT = "sample-programs-in-every-language"
+DEFAULT_PROJECT_IMAGE_NO_EXT = "programming-projects-in-every-language"
+DEFAULT_LANGUAGE_IMAGE_NO_EXT = "programming-languages"
+AUTO_GEN_NOTE = "AUTO-GENERATED -- PLEASE DO NOT EDIT!"
+CONTRIBUTING_NOTE = "See .github/CONTRIBUTING.md for further details."
+PROGRAM_MD_FILENAMES = ["how-to-implement-the-solution.md", "how-to-run-the-solution.md"]
+PROJECT_MD_FILENAMES = ["description.md", "requirements.md"]
+LANGUAGE_MD_FILENAMES = ["description.md"]
