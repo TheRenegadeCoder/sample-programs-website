@@ -3,7 +3,8 @@ import logging
 import sys
 
 import subete
-from assets.images import copy_article_images, generate_images
+from assets.image_build import generate_images
+from assets.image_copy import copy_article_images
 from constants import AUTO_GEN_TEST_DOC_DIR
 from generators.languages import generate_language_paths, generate_languages_index
 from generators.main_page import generate_main_page

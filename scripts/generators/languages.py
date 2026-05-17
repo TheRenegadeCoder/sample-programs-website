@@ -4,7 +4,7 @@ from pathlib import Path
 
 import snakemd
 import subete
-from assets.images import get_default_language_image, get_language_image
+from assets.image_lookup import find_default_language_image, find_language_image
 from constants import LANGUAGE_MD_FILENAMES
 from markdown.articles import add_language_article_section
 from markdown.authors import add_authors_to_doc
@@ -38,7 +38,7 @@ def generate_language_index(repo: subete.Repo, language: subete.LanguageCollecti
         doc,
         f"The {language} Programming Language",
         times=times,
-        image=get_language_image(language),
+        image=find_language_image(language),
         authors=doc_authors,
         tags=[language.pathlike_name()],
     )
@@ -111,7 +111,7 @@ def generate_languages_index(repo: subete.Repo) -> None:
         language_index,
         "Programming Languages",
         times=times,
-        image=get_default_language_image(),
+        image=find_default_language_image(),
     )
     num_languages = len(list(repo))
     verb = pluralize(num_languages, "is", "are")

@@ -5,7 +5,7 @@ from pathlib import Path
 
 import snakemd
 import subete
-from assets.images import get_program_image
+from assets.image_lookup import find_program_image
 from constants import PROGRAM_MD_FILENAMES
 from markdown.authors import add_authors_to_doc
 from markdown.front_matter import generate_front_matter
@@ -50,7 +50,7 @@ def generate_sample_program_index(program: subete.SampleProgram, path: Path) -> 
         doc,
         str(program),
         times=get_program_datetimes(program),
-        image=get_program_image(program),
+        image=find_program_image(program),
         authors=authors | doc_authors,
         tags=[program.language_pathlike_name(), program.project_pathlike_name()],
     )
