@@ -3,3 +3,4 @@
 /docs/Gemfile.lock
 generated/
 /requirements-dev.txt
+__pycache__
