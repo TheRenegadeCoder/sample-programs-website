@@ -1,7 +1,7 @@
 ---
 date: 2025-03-25
 featured-image: base64-encode-decode-in-every-language.png
-last-modified: 2026-05-14
+last-modified: 2026-05-17
 layout: default
 tags:
 - base64-encode-decode
@@ -324,7 +324,7 @@ Usage: please provide a mode and a string to encode/decode
 
 ## Articles
 
-There are 28 articles:
+There are 29 articles:
 
 - [Base64 Encode Decode in ALGOL 60](https://sampleprograms.io/projects/base64-encode-decode/algol60)
 - [Base64 Encode Decode in ALGOL 68](https://sampleprograms.io/projects/base64-encode-decode/algol68)
@@ -340,6 +340,7 @@ There are 28 articles:
 - [Base64 Encode Decode in Euphoria](https://sampleprograms.io/projects/base64-encode-decode/euphoria)
 - [Base64 Encode Decode in F#](https://sampleprograms.io/projects/base64-encode-decode/f-sharp)
 - [Base64 Encode Decode in Go](https://sampleprograms.io/projects/base64-encode-decode/go)
+- [Base64 Encode Decode in Haskell](https://sampleprograms.io/projects/base64-encode-decode/haskell)
 - [Base64 Encode Decode in Java](https://sampleprograms.io/projects/base64-encode-decode/java)
 - [Base64 Encode Decode in JavaScript](https://sampleprograms.io/projects/base64-encode-decode/javascript)
 - [Base64 Encode Decode in Mathematica](https://sampleprograms.io/projects/base64-encode-decode/mathematica)

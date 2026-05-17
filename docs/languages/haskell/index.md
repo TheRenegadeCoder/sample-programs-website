@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-08
 featured-image: programming-languages.jpg
-last-modified: 2026-05-11
+last-modified: 2026-05-17
 layout: default
 tags:
 - haskell
@@ -57,9 +57,10 @@ At any rate, I think that's plenty of background for now.
 
 ## Articles
 
-There are 30 articles:
+There are 31 articles:
 
 - [Baklava in Haskell](https://sampleprograms.io/projects/baklava/haskell)
+- [Base64 Encode Decode in Haskell](https://sampleprograms.io/projects/base64-encode-decode/haskell)
 - [Binary Search in Haskell](https://sampleprograms.io/projects/binary-search/haskell)
 - [Bubble Sort in Haskell](https://sampleprograms.io/projects/bubble-sort/haskell)
 - [Capitalize in Haskell](https://sampleprograms.io/projects/capitalize/haskell)
