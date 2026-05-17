@@ -12,7 +12,7 @@ from markdown.front_matter import generate_front_matter
 from markdown.note import generate_no_edit_note
 from markdown.sections import add_section
 from repo.queries import get_program_datetimes
-from utils.plural import pluralize
+from utils.plural import is_are, pluralize
 from utils.text import markdown_escape
 
 log = logging.getLogger(__name__)
@@ -114,7 +114,7 @@ def generate_languages_index(repo: subete.Repo) -> None:
         image=find_default_language_image(),
     )
     num_languages = len(list(repo))
-    verb = pluralize(num_languages, "is", "are")
+    verb = is_are(num_languages)
     singular = pluralize(num_languages, "language")
     welcome_text = (
         "Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. "
@@ -122,7 +122,7 @@ def generate_languages_index(repo: subete.Repo) -> None:
     )
     untestables = repo.total_untestables()
     if untestables:
-        verb_untestables = pluralize(untestables, "is", "are")
+        verb_untestables = is_are(untestables)
         welcome_text += f", {untestables} {verb_untestables} untestable"
 
     num_programs = repo.total_programs()
@@ -155,10 +155,10 @@ def generate_languages_index(repo: subete.Repo) -> None:
         snippets = sum(language.total_programs() for language in languages)
         tests = sum(1 if language.has_testinfo() else 0 for language in languages)
         untestables = sum(1 if language.has_untestable_info() else 0 for language in languages)
-        verb = pluralize(tests, "is", "are")
+        verb = is_are(tests)
         num_languages = len(languages)
         singular = pluralize(tests, "language")
-        verb_untestables = pluralize(untestables, "is", "are")
+        verb_untestables = is_are(untestables)
         language_statement = (
             f"The '{letter.upper()}' collection contains {num_languages} {singular}, "
             f"of which {tests} {verb} tested"

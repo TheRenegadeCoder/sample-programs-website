@@ -2,7 +2,7 @@ import logging
 
 import snakemd
 import subete
-from utils.plural import pluralize
+from utils.plural import is_are, pluralize
 from utils.text import markdown_escape
 
 log = logging.getLogger(__name__)
@@ -37,7 +37,7 @@ def add_project_article_section(
 
     num_articles = len(articles)
     if num_articles > 0:
-        verb = pluralize(num_articles, "is", "are")
+        verb = is_are(num_articles)
         word = pluralize(num_articles, "article")
         doc.add_paragraph(f"There {verb} {num_articles} {word}:")
         doc.add_block(snakemd.MDList(articles))
@@ -60,7 +60,7 @@ def add_language_article_section(doc: snakemd.Document, repo: subete.Repo, langu
     """
     doc.add_heading("Articles", level=2)
     num_articles = len(list(repo[language]))
-    verb = pluralize(num_articles, "is", "are")
+    verb = is_are(num_articles)
     word = pluralize(num_articles, "article")
     doc.add_paragraph(f"There {verb} {num_articles} {word}:")
 
