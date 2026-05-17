@@ -1,7 +1,7 @@
 ---
 date: 2018-10-02
 featured-image: fibonacci-in-every-language.jpg
-last-modified: 2026-05-14
+last-modified: 2026-05-17
 layout: default
 tags:
 - fibonacci
@@ -90,7 +90,7 @@ Usage: please input the count of fibonacci numbers to output
 
 ## Articles
 
-There are 48 articles:
+There are 49 articles:
 
 - [Fibonacci in ALGOL 60](https://sampleprograms.io/projects/fibonacci/algol60)
 - [Fibonacci in ALGOL 68](https://sampleprograms.io/projects/fibonacci/algol68)
@@ -121,6 +121,7 @@ There are 48 articles:
 - [Fibonacci in Mathematica](https://sampleprograms.io/projects/fibonacci/mathematica)
 - [Fibonacci in MoonScript](https://sampleprograms.io/projects/fibonacci/moonscript)
 - [Fibonacci in Nim](https://sampleprograms.io/projects/fibonacci/nim)
+- [Fibonacci in OCaml](https://sampleprograms.io/projects/fibonacci/ocaml)
 - [Fibonacci in Objective-C](https://sampleprograms.io/projects/fibonacci/objective-c)
 - [Fibonacci in Octave](https://sampleprograms.io/projects/fibonacci/octave)
 - [Fibonacci in Odin](https://sampleprograms.io/projects/fibonacci/odin)

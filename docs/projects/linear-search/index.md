@@ -1,7 +1,7 @@
 ---
 date: 2019-10-17
 featured-image: linear-search-in-every-language.jpg
-last-modified: 2026-05-14
+last-modified: 2026-05-17
 layout: default
 tags:
 - linear-search
@@ -129,7 +129,7 @@ Usage: please provide a list of integers ("1, 4, 5, 11, 12") and the integer to 
 
 ## Articles
 
-There are 34 articles:
+There are 35 articles:
 
 - [Linear Search in ALGOL 60](https://sampleprograms.io/projects/linear-search/algol60)
 - [Linear Search in ALGOL 68](https://sampleprograms.io/projects/linear-search/algol68)
@@ -152,6 +152,7 @@ There are 34 articles:
 - [Linear Search in Kotlin](https://sampleprograms.io/projects/linear-search/kotlin)
 - [Linear Search in Lua](https://sampleprograms.io/projects/linear-search/lua)
 - [Linear Search in Mathematica](https://sampleprograms.io/projects/linear-search/mathematica)
+- [Linear Search in OCaml](https://sampleprograms.io/projects/linear-search/ocaml)
 - [Linear Search in PHP](https://sampleprograms.io/projects/linear-search/php)
 - [Linear Search in Pascal](https://sampleprograms.io/projects/linear-search/pascal)
 - [Linear Search in Perl](https://sampleprograms.io/projects/linear-search/perl)

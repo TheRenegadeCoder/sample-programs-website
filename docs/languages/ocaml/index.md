@@ -28,10 +28,12 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 5 articles:
+There are 7 articles:
 
 - [Baklava in OCaml](https://sampleprograms.io/projects/baklava/ocaml)
 - [Capitalize in OCaml](https://sampleprograms.io/projects/capitalize/ocaml)
 - [Factorial in OCaml](https://sampleprograms.io/projects/factorial/ocaml)
+- [Fibonacci in OCaml](https://sampleprograms.io/projects/fibonacci/ocaml)
 - [Fizz Buzz in OCaml](https://sampleprograms.io/projects/fizz-buzz/ocaml)
 - [Hello World in OCaml](https://sampleprograms.io/projects/hello-world/ocaml)
+- [Linear Search in OCaml](https://sampleprograms.io/projects/linear-search/ocaml)
