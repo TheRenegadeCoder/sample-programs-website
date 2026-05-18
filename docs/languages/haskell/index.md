@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-08
 featured-image: programming-languages.jpg
-last-modified: 2026-05-17
+last-modified: 2026-05-18
 layout: default
 tags:
 - haskell
@@ -57,7 +57,7 @@ At any rate, I think that's plenty of background for now.
 
 ## Articles
 
-There are 31 articles:
+There are 32 articles:
 
 - [Baklava in Haskell](https://sampleprograms.io/projects/baklava/haskell)
 - [Base64 Encode Decode in Haskell](https://sampleprograms.io/projects/base64-encode-decode/haskell)
@@ -69,6 +69,7 @@ There are 31 articles:
 - [Fibonacci in Haskell](https://sampleprograms.io/projects/fibonacci/haskell)
 - [File Input Output in Haskell](https://sampleprograms.io/projects/file-input-output/haskell)
 - [Fizz Buzz in Haskell](https://sampleprograms.io/projects/fizz-buzz/haskell)
+- [Fraction Math in Haskell](https://sampleprograms.io/projects/fraction-math/haskell)
 - [Hello World in Haskell](https://sampleprograms.io/projects/hello-world/haskell)
 - [Insertion Sort in Haskell](https://sampleprograms.io/projects/insertion-sort/haskell)
 - [Job Sequencing in Haskell](https://sampleprograms.io/projects/job-sequencing/haskell)
