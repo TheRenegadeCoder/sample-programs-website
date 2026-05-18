@@ -129,10 +129,14 @@ def _add_solution_block(
     path: Path,
     language_escaped: str,
 ) -> None:
-    """Renders either the embedded image asset or raw source code logic block."""
-    if program.image_type():
-        image_dest = path / Path(program.project_path()).name
-        shutil.copy(program.project_path(), image_dest)
+    """Renders either an embedded image asset or a raw source code logic block safely."""
+    VALID_IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp"}
+
+    project_path = Path(program.project_path())
+
+    if program.image_type() and project_path.suffix.lower() in VALID_IMAGE_EXTENSIONS:
+        image_dest = path / project_path.name
+        shutil.copy(project_path, image_dest)
 
         image_uri = "/" + "/".join(image_dest.parts[1:])
         doc.add_block(
@@ -140,7 +144,10 @@ def _add_solution_block(
         )
     else:
         doc.add_paragraph("{% raw %}")
-        doc.add_code(program.code(), lang=language_escaped.lower().replace(" ", "_"))
+        doc.add_code(
+            program.code(),
+            lang=language_escaped.lower().replace(" ", "_"),
+        )
         doc.add_paragraph("{% endraw %}")
 
 
