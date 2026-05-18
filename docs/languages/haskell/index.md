@@ -57,13 +57,14 @@ At any rate, I think that's plenty of background for now.
 
 ## Articles
 
-There are 32 articles:
+There are 33 articles:
 
 - [Baklava in Haskell](https://sampleprograms.io/projects/baklava/haskell)
 - [Base64 Encode Decode in Haskell](https://sampleprograms.io/projects/base64-encode-decode/haskell)
 - [Binary Search in Haskell](https://sampleprograms.io/projects/binary-search/haskell)
 - [Bubble Sort in Haskell](https://sampleprograms.io/projects/bubble-sort/haskell)
 - [Capitalize in Haskell](https://sampleprograms.io/projects/capitalize/haskell)
+- [Depth First Search in Haskell](https://sampleprograms.io/projects/depth-first-search/haskell)
 - [Even Odd in Haskell](https://sampleprograms.io/projects/even-odd/haskell)
 - [Factorial in Haskell](https://sampleprograms.io/projects/factorial/haskell)
 - [Fibonacci in Haskell](https://sampleprograms.io/projects/fibonacci/haskell)
