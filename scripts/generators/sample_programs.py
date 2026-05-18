@@ -1,4 +1,3 @@
-import datetime
 import logging
 import shutil
 from pathlib import Path
@@ -17,53 +16,100 @@ from utils.text import markdown_escape
 
 log = logging.getLogger(__name__)
 
+DOCS_PROJECTS_DIR = Path("docs/projects")
+PROGRAMS_BASE_DIR = Path("programs")
+DATETIME_FORMAT = "%b %d %Y %H:%M:%S"
+
 
 def generate_sample_programs(repo: subete.Repo) -> None:
     """Creates the language folders in each project directory.
 
-    :param subete.Repo repo: the repo to pull from.
+    Args:
+        repo: The subete Repository instance to pull data from.
+
     """
     for language in repo:
-        language: subete.LanguageCollection
         for program in language:
-            log.info("Generate sample programs for %s", str(program))
-            program: subete.SampleProgram
-            path = mkdir(
-                f"docs/projects/{program.project_pathlike_name()}/{language.pathlike_name()}",
+            log.info("Generate sample programs for %s", program)
+
+            project_dir = (
+                DOCS_PROJECTS_DIR / program.project_pathlike_name() / language.pathlike_name()
             )
-            generate_sample_program_index(program, path)
+            target_path = mkdir(project_dir)
+
+            generate_sample_program_index(program, target_path)
 
 
 def generate_sample_program_index(program: subete.SampleProgram, path: Path) -> None:
     """Creates a sample program documentation file.
 
-    :param subete.SampleProgram program: the sample program to create the documentation for.
-    :param pathlib.Path path: the path to the documentation file.
+    Args:
+        program: The sample program instance to document.
+        path: The directory Path where the documentation index will be saved.
+
     """
-    doc: snakemd.Document = snakemd.new_doc()
-    root_path = Path(
-        f"programs/{program.project_pathlike_name()}/{program.language_pathlike_name()}",
+    proj_path_name = program.project_pathlike_name()
+    lang_path_name = program.language_pathlike_name()
+    language_escaped = markdown_escape(program.language_name())
+    language_docs_url = program.language_collection().lang_docs_url()
+
+    program_root_str = str(PROGRAMS_BASE_DIR / proj_path_name)
+    doc = snakemd.new_doc()
+
+    _add_front_matter_and_notes(doc, program, proj_path_name, lang_path_name, program_root_str)
+    _add_welcome_paragraph(
+        doc,
+        program.project_name(),
+        language_escaped,
+        language_docs_url,
+        program,
     )
-    authors: set[str] = program.authors()
-    doc_authors: set[str] = program.doc_authors()
+    _add_solution_block(doc, program, path, language_escaped)
+    _add_author_credits(doc, program, language_escaped, language_docs_url)
+    _add_outdated_warning_if_needed(doc, program)
+
+    add_section(doc, program_root_str, lang_path_name, "How to Implement the Solution")
+    add_section(doc, program_root_str, lang_path_name, "How to Run the Solution")
+
+    try:
+        doc.dump("index", directory=str(path))
+    except Exception:
+        log.exception("Failed to write %s", path)
+
+
+def _add_front_matter_and_notes(
+    doc: snakemd.Document,
+    program: subete.SampleProgram,
+    proj_path_name: str,
+    lang_path_name: str,
+    program_root_str: str,
+) -> None:
+    """Generates the metadata front matter block and the non-editable note warning."""
     generate_front_matter(
         doc,
         str(program),
         times=get_program_datetimes(program),
         image=find_program_image(program),
-        authors=authors | doc_authors,
-        tags=[program.language_pathlike_name(), program.project_pathlike_name()],
+        authors=program.authors() | program.doc_authors(),
+        tags=[lang_path_name, proj_path_name],
     )
+
     generate_no_edit_note(
         doc,
-        str(root_path.parent),
-        program.language_pathlike_name(),
+        program_root_str,
+        lang_path_name,
         PROGRAM_MD_FILENAMES,
     )
 
-    project_name = program.project_name()
-    language_escaped = markdown_escape(program.language_name())
-    language_docs_url = program.language_collection().lang_docs_url()
+
+def _add_welcome_paragraph(
+    doc: snakemd.Document,
+    project_name: str,
+    language_escaped: str,
+    language_docs_url: str,
+    program: subete.SampleProgram,
+) -> None:
+    """Appends the standard introductory paragraph and main header."""
     doc.add_block(
         snakemd.Paragraph(
             [
@@ -78,24 +124,42 @@ def generate_sample_program_index(program: subete.SampleProgram, path: Path) -> 
     )
     doc.add_heading("Current Solution", level=2)
 
+
+def _add_solution_block(
+    doc: snakemd.Document,
+    program: subete.SampleProgram,
+    path: Path,
+    language_escaped: str,
+) -> None:
+    """Renders either the embedded image asset or raw source code logic block."""
     if program.image_type():
         image_dest = path / Path(program.project_path()).name
         shutil.copy(program.project_path(), image_dest)
+
         image_uri = "/" + "/".join(image_dest.parts[1:])
         doc.add_block(
-            snakemd.Raw(
-                f"""<img class="program-image" src="{image_uri}" alt="{program}">""",
-            ),
+            snakemd.Raw(f'<img class="program-image" src="{image_uri}" alt="{program}">'),
         )
     else:
         doc.add_paragraph("{% raw %}")
         doc.add_code(program.code(), lang=language_escaped.lower().replace(" ", "_"))
         doc.add_paragraph("{% endraw %}")
 
+
+def _add_author_credits(
+    doc: snakemd.Document,
+    program: subete.SampleProgram,
+    language_escaped: str,
+    language_docs_url: str,
+) -> None:
+    """Builds lists detailing code implementation authors vs documentation contributors."""
+    authors = program.authors()
+    doc_authors = program.doc_authors()
+
     doc.add_block(
         snakemd.Paragraph(
             [
-                f"{project_name} in ",
+                f"{program.project_name()} in ",
                 snakemd.Inline(language_escaped, link=language_docs_url),
                 " was written by:",
             ],
@@ -103,7 +167,6 @@ def generate_sample_program_index(program: subete.SampleProgram, path: Path) -> 
     )
     add_authors_to_doc(doc, authors)
 
-    doc_authors: set[str] = program.doc_authors()
     if doc_authors:
         doc.add_paragraph("This article was written by:")
         add_authors_to_doc(doc, doc_authors)
@@ -115,38 +178,24 @@ def generate_sample_program_index(program: subete.SampleProgram, path: Path) -> 
         "https://github.com/TheRenegadeCoder/sample-programs",
     )
 
-    created_at: datetime.datetime | None = program.created()
-    modified: datetime.datetime | None = program.modified()
-    doc_modified: datetime.datetime | None = program.doc_modified()
+
+def _add_outdated_warning_if_needed(doc: snakemd.Document, program: subete.SampleProgram) -> None:
+    """Appends an outdated documentation warning block if chronological mismatches exist."""
+    created_at = program.created()
+    modified = program.modified()
+    doc_modified = program.doc_modified()
+
     if (
         created_at
         and modified
-        and created_at != modified
         and doc_modified
-        and doc_modified < modified
+        and (created_at != modified)
+        and (doc_modified < modified)
     ):
-        datetime_format = "%b %d %Y %H:%M:%S"
         doc.add_paragraph(
             "**Note**: The solution shown above is the current solution in the Sample "
-            f"Programs repository as of {modified.strftime(datetime_format)}. "
-            f"The solution was first committed on {created_at.strftime(datetime_format)}. "
-            f"The documentation was last updated on {doc_modified.strftime(datetime_format)}. "
+            f"Programs repository as of {modified.strftime(DATETIME_FORMAT)}. "
+            f"The solution was first committed on {created_at.strftime(DATETIME_FORMAT)}. "
+            f"The documentation was last updated on {doc_modified.strftime(DATETIME_FORMAT)}. "
             "As a result, documentation below may be outdated.",
         )
-
-    add_section(
-        doc,
-        str(root_path.parent),
-        program.language_pathlike_name(),
-        "How to Implement the Solution",
-    )
-    add_section(
-        doc,
-        str(root_path.parent),
-        program.language_pathlike_name(),
-        "How to Run the Solution",
-    )
-    try:
-        doc.dump("index", directory=str(path))
-    except Exception:
-        log.exception(f"Failed to write {path}")

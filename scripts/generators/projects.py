@@ -4,7 +4,7 @@ from pathlib import Path
 
 import snakemd
 import subete
-from assets.image_lookup import get_default_project_image, find_project_image
+from assets.image_lookup import find_project_image, get_default_project_image
 from constants import PROJECT_MD_FILENAMES
 from markdown.articles import add_project_article_section
 from markdown.authors import add_authors_to_doc
