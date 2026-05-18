@@ -1,7 +1,7 @@
 ---
 date: 2018-09-10
 featured-image: file-input-output-in-every-language.jpg
-last-modified: 2026-05-14
+last-modified: 2026-05-18
 layout: default
 tags:
 - file-input-output
@@ -62,7 +62,7 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-There are 40 articles:
+There are 41 articles:
 
 - [File Input Output in ALGOL 68](https://sampleprograms.io/projects/file-input-output/algol68)
 - [File Input Output in AWK](https://sampleprograms.io/projects/file-input-output/awk)
@@ -87,6 +87,7 @@ There are 40 articles:
 - [File Input Output in Kotlin](https://sampleprograms.io/projects/file-input-output/kotlin)
 - [File Input Output in Lua](https://sampleprograms.io/projects/file-input-output/lua)
 - [File Input Output in Mathematica](https://sampleprograms.io/projects/file-input-output/mathematica)
+- [File Input Output in OCaml](https://sampleprograms.io/projects/file-input-output/ocaml)
 - [File Input Output in Objective-C](https://sampleprograms.io/projects/file-input-output/objective-c)
 - [File Input Output in Octave](https://sampleprograms.io/projects/file-input-output/octave)
 - [File Input Output in Odin](https://sampleprograms.io/projects/file-input-output/odin)

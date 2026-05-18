@@ -1,7 +1,7 @@
 ---
 date: 2018-10-17
 featured-image: programming-languages.jpg
-last-modified: 2026-05-17
+last-modified: 2026-05-18
 layout: default
 tags:
 - ocaml
@@ -28,13 +28,14 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 9 articles:
+There are 10 articles:
 
 - [Baklava in OCaml](https://sampleprograms.io/projects/baklava/ocaml)
 - [Capitalize in OCaml](https://sampleprograms.io/projects/capitalize/ocaml)
 - [Duplicate Character Counter in OCaml](https://sampleprograms.io/projects/duplicate-character-counter/ocaml)
 - [Factorial in OCaml](https://sampleprograms.io/projects/factorial/ocaml)
 - [Fibonacci in OCaml](https://sampleprograms.io/projects/fibonacci/ocaml)
+- [File Input Output in OCaml](https://sampleprograms.io/projects/file-input-output/ocaml)
 - [Fizz Buzz in OCaml](https://sampleprograms.io/projects/fizz-buzz/ocaml)
 - [Hello World in OCaml](https://sampleprograms.io/projects/hello-world/ocaml)
 - [Linear Search in OCaml](https://sampleprograms.io/projects/linear-search/ocaml)

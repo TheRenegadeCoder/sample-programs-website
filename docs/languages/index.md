@@ -1,14 +1,14 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2026-05-17
+last-modified: 2026-05-18
 layout: default
 title: Programming Languages
 title1: Programming
 title2: Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1632 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1633 code snippets.
 
 ## Language Breakdown
 
@@ -20,7 +20,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 60</td>
-        <td class="right">9.03%</td>
+        <td class="right">9.02%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
@@ -32,7 +32,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Commodore BASIC</td>
-        <td class="right">4.84%</td>
+        <td class="right">4.83%</td>
         <td class="bar-graph"><div style="width: 53.58%; background-color: #4F44D8;"></div></td> 
     </tr>
 
@@ -50,7 +50,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Beef</td>
-        <td class="right">4.12%</td>
+        <td class="right">4.11%</td>
         <td class="bar-graph"><div style="width: 45.60%; background-color: #A52F4E;"></div></td> 
     </tr>
 
@@ -74,7 +74,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C</td>
-        <td class="right">3.10%</td>
+        <td class="right">3.09%</td>
         <td class="bar-graph"><div style="width: 34.29%; background-color: #555555;"></div></td> 
     </tr>
 
@@ -104,7 +104,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Java</td>
-        <td class="right">2.75%</td>
+        <td class="right">2.74%</td>
         <td class="bar-graph"><div style="width: 30.42%; background-color: #B07219;"></div></td> 
     </tr>
 
@@ -307,15 +307,15 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
-        <td class="right nowrap">Odin</td>
-        <td class="right">0.22%</td>
-        <td class="bar-graph"><div style="width: 2.43%; background-color: #60AFFE;"></div></td> 
+        <td class="right nowrap">OCaml</td>
+        <td class="right">0.23%</td>
+        <td class="bar-graph"><div style="width: 2.58%; background-color: #EF7A08;"></div></td> 
     </tr>
 
     <tr>
-        <td class="right nowrap">OCaml</td>
-        <td class="right">0.20%</td>
-        <td class="bar-graph"><div style="width: 2.27%; background-color: #EF7A08;"></div></td> 
+        <td class="right nowrap">Odin</td>
+        <td class="right">0.22%</td>
+        <td class="bar-graph"><div style="width: 2.43%; background-color: #60AFFE;"></div></td> 
     </tr>
 
     <tr>
@@ -1204,10 +1204,10 @@ The 'N' collection contains 3 languages, of which 3 are tested, and 12 code snip
 
 ### O
 
-The 'O' collection contains 7 languages, of which 7 are tested, and 49 code snippets.
+The 'O' collection contains 7 languages, of which 7 are tested, and 50 code snippets.
 
 - [Objective-C](https://sampleprograms.io/languages/objective-c) (11 code snippets)
-- [OCaml](https://sampleprograms.io/languages/ocaml) (9 code snippets)
+- [OCaml](https://sampleprograms.io/languages/ocaml) (10 code snippets)
 - [Octave](https://sampleprograms.io/languages/octave) (14 code snippets)
 - [Odin](https://sampleprograms.io/languages/odin) (9 code snippets)
 - [Opa](https://sampleprograms.io/languages/opa) (2 code snippets)
