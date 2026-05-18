@@ -115,10 +115,10 @@ def generate_languages_index(repo: subete.Repo) -> None:
     )
     num_languages = len(list(repo))
     verb = is_are(num_languages)
-    singular = pluralize(num_languages, "language")
+    languages_str = pluralize(num_languages, "language")
     welcome_text = (
         "Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. "
-        f"At this time, there {verb} {num_languages} {singular}, of which {repo.total_tests()} are tested"
+        f"At this time, there {verb} {languages_str}, of which {repo.total_tests()} are tested"
     )
     untestables = repo.total_untestables()
     if untestables:
@@ -126,8 +126,8 @@ def generate_languages_index(repo: subete.Repo) -> None:
         welcome_text += f", {untestables} {verb_untestables} untestable"
 
     num_programs = repo.total_programs()
-    singular = pluralize(num_programs, "snippet")
-    welcome_text += f", and {num_programs} code {singular}."
+    snippets_str = pluralize(num_programs, "code snippet")
+    welcome_text += f", and {snippets_str}."
     language_index.add_paragraph(welcome_text)
 
     language_index.add_heading("Language Breakdown", level=2)
@@ -157,16 +157,17 @@ def generate_languages_index(repo: subete.Repo) -> None:
         untestables = sum(1 if language.has_untestable_info() else 0 for language in languages)
         verb = is_are(tests)
         num_languages = len(languages)
-        singular = pluralize(tests, "language")
+        languages_str = pluralize(num_languages, "language", plural="languages")
         verb_untestables = is_are(untestables)
         language_statement = (
-            f"The '{letter.upper()}' collection contains {num_languages} {singular}, "
+            f"The '{letter.upper()}' collection contains {languages_str}, "
             f"of which {tests} {verb} tested"
         )
         if untestables:
             language_statement += f", {untestables} {verb_untestables} untestable"
 
-        language_index.add_paragraph(f"{language_statement}, and {snippets} code snippets.")
+        snippets_str = pluralize(snippets, "code snippet")
+        language_index.add_paragraph(f"{language_statement}, and {snippets_str}.")
         languages.sort(key=lambda x: x.name().casefold())
         languages_list = [get_language_link_and_testability(x) for x in languages]
         language_index.add_block(snakemd.MDList(languages_list))
@@ -181,8 +182,7 @@ def get_language_link_and_testability(
     language_escaped = markdown_escape(language.name())
     language_link = snakemd.Inline(language_escaped, link=language.lang_docs_url())
     num_programs = language.total_programs()
-    singular = pluralize(num_programs, "code snippet")
-    phrase = f"{num_programs} {singular}"
+    phrase = pluralize(num_programs, "code snippet")
     if language.has_testinfo():
         return snakemd.Paragraph([language_link, f" ({phrase})"])
 

@@ -38,8 +38,7 @@ def add_project_article_section(
     num_articles = len(articles)
     if num_articles > 0:
         verb = is_are(num_articles)
-        word = pluralize(num_articles, "article")
-        doc.add_paragraph(f"There {verb} {num_articles} {word}:")
+        doc.add_paragraph(f"There {verb} {pluralize(num_articles, 'article')}:")
         doc.add_block(snakemd.MDList(articles))
     else:
         log.warning(f"Failed to find any articles for {project}")
@@ -61,8 +60,7 @@ def add_language_article_section(doc: snakemd.Document, repo: subete.Repo, langu
     doc.add_heading("Articles", level=2)
     num_articles = len(list(repo[language]))
     verb = is_are(num_articles)
-    word = pluralize(num_articles, "article")
-    doc.add_paragraph(f"There {verb} {num_articles} {word}:")
+    doc.add_paragraph(f"There {verb} {pluralize(num_articles, 'article')}:")
 
     articles = []
     for program in repo[language]:

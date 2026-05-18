@@ -14,7 +14,7 @@ def select(count: int, singular: str, plural: str) -> str:
 
 
 def pluralize(count: int, singular: str, plural: str | None = None) -> str:
-    """Return the appropriate singular or plural form based on a count.
+    """Return the count and appropriate word form based on a count.
 
     If `plural` is not provided, it defaults to the singular form plus "s".
 
@@ -25,10 +25,12 @@ def pluralize(count: int, singular: str, plural: str | None = None) -> str:
             defaults to `singular + "s"`.
 
     Returns:
-        The correct form (singular or plural) based on `count`.
+        A string combining the count and the correct word form (e.g., 
+        "1 project", "5 projects").
 
     """
-    return select(count, singular, plural or f"{singular}s")
+    word = select(count, singular, plural or f"{singular}s")
+    return f"{count} {word}"
 
 
 def is_are(count: int) -> str:
