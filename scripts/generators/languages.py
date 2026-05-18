@@ -4,7 +4,7 @@ from pathlib import Path
 
 import snakemd
 import subete
-from assets.image_lookup import find_default_language_image, find_language_image
+from assets.image_lookup import get_default_language_image, find_language_image
 from constants import LANGUAGE_MD_FILENAMES
 from markdown.articles import add_language_article_section
 from markdown.authors import add_authors_to_doc
@@ -111,7 +111,7 @@ def generate_languages_index(repo: subete.Repo) -> None:
         language_index,
         "Programming Languages",
         times=times,
-        image=find_default_language_image(),
+        image=get_default_language_image(),
     )
     num_languages = len(list(repo))
     verb = is_are(num_languages)

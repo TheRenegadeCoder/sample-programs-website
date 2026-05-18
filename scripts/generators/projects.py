@@ -4,7 +4,7 @@ from pathlib import Path
 
 import snakemd
 import subete
-from assets.image_lookup import find_default_project_image, find_project_image
+from assets.image_lookup import get_default_project_image, find_project_image
 from constants import PROJECT_MD_FILENAMES
 from markdown.articles import add_project_article_section
 from markdown.authors import add_authors_to_doc
@@ -131,7 +131,7 @@ def generate_projects_index(repo: subete.Repo) -> None:
         projects_index,
         "Programming Projects in Every Language",
         times=times,
-        image=find_default_project_image(),
+        image=get_default_project_image(),
     )
     project_tests = sum(1 if project.has_testing() else 0 for project in repo.approved_projects())
     projects_index.add_paragraph(

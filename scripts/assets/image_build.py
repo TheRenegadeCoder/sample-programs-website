@@ -12,11 +12,14 @@ from constants import (
     DEFAULT_PROGRAM_IMAGE_NO_EXT,
     DEFAULT_PROJECT_IMAGE_NO_EXT,
 )
+from utils.files import mkdir
 
 log = logging.getLogger(__name__)
 
 ASSETS_DIR = Path("docs/assets/images")
 LOGO_PATH = ASSETS_DIR / "icon-small.png"
+
+FEATURED_GLOB = "featured-image.*"
 
 
 @dataclass(frozen=True)
@@ -25,7 +28,7 @@ class ImageSpec:
     dest_no_ext: str
 
 
-def generate_images(repo: subete.Repo) -> int:
+def generate_images(repo: subete.Repo, workers: int = 8) -> int:
     """Generate all processed images using image-titler.
 
     Returns:
@@ -38,17 +41,18 @@ def generate_images(repo: subete.Repo) -> int:
         *_program_specs(repo),
     ]
 
-    return 1 if _run_parallel(specs) else 0
+    failures = _run_parallel(specs, workers=workers)
+    return 1 if failures else 0
 
 
-def _run_parallel(specs: list[ImageSpec], workers: int = 8) -> list[ImageSpec]:
+def _run_parallel(specs: list[ImageSpec], workers: int) -> list[ImageSpec]:
     failures: list[ImageSpec] = []
 
     with ThreadPoolExecutor(max_workers=workers) as pool:
-        futures = {pool.submit(_process_spec, spec): spec for spec in specs}
+        future_map = {pool.submit(_process_spec, spec): spec for spec in specs}
 
-        for future in as_completed(futures):
-            spec = futures[future]
+        for future in as_completed(future_map):
+            spec = future_map[future]
             try:
                 if not future.result():
                     failures.append(spec)
@@ -57,7 +61,7 @@ def _run_parallel(specs: list[ImageSpec], workers: int = 8) -> list[ImageSpec]:
                 failures.append(spec)
 
     for spec in failures:
-        log.error("Failed image: %s", spec)
+        log.error("Failed image spec: %s", spec)
 
     return failures
 
@@ -65,9 +69,10 @@ def _run_parallel(specs: list[ImageSpec], workers: int = 8) -> list[ImageSpec]:
 def _process_spec(spec: ImageSpec) -> bool:
     src_image = _find_featured_image(spec.src_dir)
     if src_image is None:
-        return True  # treat missing as OK
+        return True
 
     dest_path = ASSETS_DIR / f"{spec.dest_no_ext}{src_image.suffix}"
+    _ = mkdir(dest_path.parent)
 
     log.info("Processing %s -> %s", src_image, dest_path)
 
@@ -87,14 +92,16 @@ def _process_spec(spec: ImageSpec) -> bool:
                     "--no_title",
                 ],
                 check=True,
+                stdout=subprocess.DEVNULL,
+                stderr=subprocess.DEVNULL,
             )
 
-            produced_files = list(tmp_dir.iterdir())
-            if not produced_files:
-                log.error("No output generated for %s", src_image)
+            produced = _pick_output(tmp_dir)
+            if produced is None:
+                log.error("No output produced for %s", src_image)
                 return False
 
-            shutil.move(produced_files[0], dest_path)
+            _safe_move(produced, dest_path)
             return True
 
         except subprocess.CalledProcessError:
@@ -102,57 +109,59 @@ def _process_spec(spec: ImageSpec) -> bool:
             return False
 
 
+def _pick_output(tmp_dir: Path) -> Path | None:
+    """Pick deterministic output file."""
+    files = sorted(p for p in tmp_dir.iterdir() if p.is_file())
+    return files[0] if files else None
+
+
+def _safe_move(src: Path, dest: Path) -> None:
+    """Move file without crashing on existing destination."""
+    if dest.exists():
+        log.warning("Overwriting existing file: %s", dest)
+        dest.unlink()
+
+    shutil.move(str(src), str(dest))
+
+
 def _find_featured_image(dir_path: Path) -> Path | None:
-    if not dir_path.exists():
+    if not dir_path.is_dir():
         return None
-    return next(dir_path.glob("featured-image.*"), None)
+    return next(dir_path.glob(FEATURED_GLOB), None)
 
 
 def _language_specs(repo: subete.Repo) -> list[ImageSpec]:
-    specs = [
-        ImageSpec(Path("sources/languages"), DEFAULT_LANGUAGE_IMAGE_NO_EXT),
-    ]
+    specs = [ImageSpec(Path("sources/languages"), DEFAULT_LANGUAGE_IMAGE_NO_EXT)]
 
     for lang in repo:
         name = lang.pathlike_name()
         specs.append(
-            ImageSpec(
-                Path("sources/languages") / name,
-                f"the-{name}-programming-language",
-            ),
+            ImageSpec(Path("sources/languages") / name, f"the-{name}-programming-language"),
         )
 
     return specs
 
 
 def _project_specs(repo: subete.Repo) -> list[ImageSpec]:
-    specs = [
-        ImageSpec(Path("sources/projects"), DEFAULT_PROJECT_IMAGE_NO_EXT),
-    ]
+    specs = [ImageSpec(Path("sources/projects"), DEFAULT_PROJECT_IMAGE_NO_EXT)]
 
     for project in repo.approved_projects():
         name = project.pathlike_name()
         specs.append(
-            ImageSpec(
-                Path("sources/projects") / name,
-                f"{name}-in-every-language",
-            ),
+            ImageSpec(Path("sources/projects") / name, f"{name}-in-every-language"),
         )
 
     return specs
 
 
 def _program_specs(repo: subete.Repo) -> list[ImageSpec]:
-    specs = [
-        ImageSpec(Path("sources"), DEFAULT_PROGRAM_IMAGE_NO_EXT),
-    ]
+    specs = [ImageSpec(Path("sources"), DEFAULT_PROGRAM_IMAGE_NO_EXT)]
 
     for lang in repo:
         lang_name = lang.pathlike_name()
 
         for program in repo[str(lang)]:
             proj = program.project_pathlike_name()
-
             specs.append(
                 ImageSpec(
                     Path("sources/programs") / proj / lang_name,
