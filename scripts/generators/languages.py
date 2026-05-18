@@ -1,4 +1,3 @@
-import datetime
 import logging
 from pathlib import Path
 
@@ -18,23 +17,44 @@ from utils.text import markdown_escape
 
 log = logging.getLogger(__name__)
 
+DOCS_LANGUAGES_DIR = Path("docs/languages")
 
-def generate_language_index(repo: subete.Repo, language: subete.LanguageCollection) -> None:
-    """Creates a language file for a single language. The path is assumed
-    to be `languages/language/index.md`.
 
-    :param subete.LanguageCollection language: the collection sample programs for a language.
+def generate_language_paths(repo: subete.Repo) -> None:
+    """Creates the individual language directories and indexes.
+
+    Args:
+        repo: The subete Repository instance to pull data from.
+
     """
-    doc: snakemd.Document = snakemd.new_doc()
-    times: list[datetime.datetime | None] = []
-    for program in language:
-        program: subete.SampleProgram
-        times += get_program_datetimes(program)
+    for language in repo:
+        log.info("Generating language paths for %s", language)
+        target_dir = DOCS_LANGUAGES_DIR / language.pathlike_name()
+        _ = mkdir(target_dir)
+        generate_language_index(repo, language, target_dir)
 
-    times += [language.doc_created(), language.doc_modified()]
 
-    doc_authors: set[str] = language.doc_authors()
+def generate_language_index(
+    repo: subete.Repo,
+    language: subete.LanguageCollection,
+    target_dir: Path,
+) -> None:
+    """Creates a markdown language documentation index file for a single language.
+
+    Args:
+        repo: The subete Repository instance.
+        language: The targeted subete LanguageCollection.
+        target_dir: The target Path directory to dump files into.
+
+    """
+    doc = snakemd.new_doc()
+
+    times = [dt for program in language for dt in get_program_datetimes(program)]
+    times.extend([language.doc_created(), language.doc_modified()])
+
+    doc_authors = language.doc_authors()
     language_escaped = markdown_escape(language.name())
+
     generate_front_matter(
         doc,
         f"The {language} Programming Language",
@@ -44,67 +64,37 @@ def generate_language_index(repo: subete.Repo, language: subete.LanguageCollecti
         tags=[language.pathlike_name()],
     )
     generate_no_edit_note(doc, "languages", language.pathlike_name(), LANGUAGE_MD_FILENAMES)
+
     doc.add_paragraph(
         f"Welcome to the {language_escaped} page! Here, you'll find a description "
-        f"of the language as well as a list of sample programs "
-        f"in that language.",
+        f"of the language as well as a list of sample programs in that language.",
     )
+
     if doc_authors:
         doc.add_paragraph("This article was written by:")
         add_authors_to_doc(doc, doc_authors)
 
     add_section(doc, "languages", language.pathlike_name(), "Description")
     add_language_article_section(doc, repo, str(language))
+
     try:
-        doc.dump("index", directory=f"docs/languages/{language.pathlike_name()}")
+        doc.dump("index", directory=str(target_dir))
     except Exception:
-        log.exception(f"Failed to write {language.pathlike_name()}")
-
-
-def generate_language_paths(repo: subete.Repo) -> None:
-    """Creates the language directory which contains all of the language folders
-    and index.md files.
-
-    :param subete.Repo repo: the repo to pull from.
-    """
-    for language in repo:
-        log.info("Generating language paths for %s", str(language))
-        language: subete.LanguageCollection
-        _ = mkdir(f"docs/languages/{language.pathlike_name()}")
-        generate_language_index(repo, language)
-
-
-def get_language_letter_links(repo: subete.Repo) -> str:
-    # Have to use raw HTML for this since there is no way to add a class attribute
-    # in Markdown
-    language_letter_links = (
-        [
-            '<ul class="letter-link">',
-        ]
-        + [
-            f'    <li><a href="#{letter.lower()}">{letter.upper()}</a></li>'
-            for letter in repo.sorted_language_letters()
-        ]
-        + [
-            "</ul>",
-        ]
-    )
-    return "\n".join(language_letter_links)
+        log.exception("Failed to write %s", language.pathlike_name())
 
 
 def generate_languages_index(repo: subete.Repo) -> None:
-    """Creates the index.md files for the root directories.
+    """Creates the central main index.md landing page for all Programming Languages.
 
-    :param subete.Repo repo: the repo to pull from.
+    Args:
+        repo: The subete Repository instance.
+
     """
     log.info("Generating language index")
-    language_index_path = Path("docs/languages")
-    times: list[datetime.datetime | None] = []
-    for language in repo:
-        language: subete.LanguageCollection
-        for program in language:
-            program: subete.SampleProgram
-            times += get_program_datetimes(program)
+
+    times = [
+        dt for language in repo for program in language for dt in get_program_datetimes(program)
+    ]
 
     language_index = snakemd.new_doc()
     generate_front_matter(
@@ -113,21 +103,19 @@ def generate_languages_index(repo: subete.Repo) -> None:
         times=times,
         image=get_default_language_image(),
     )
-    num_languages = len(list(repo))
-    verb = is_are(num_languages)
-    languages_str = pluralize(num_languages, "language")
+
+    total_languages = len(list(repo))
     welcome_text = (
         "Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. "
-        f"At this time, there {verb} {languages_str}, of which {repo.total_tests()} are tested"
+        f"At this time, there {is_are(total_languages)} {pluralize(total_languages, 'language')}, "
+        f"of which {repo.total_tests()} are tested"
     )
-    untestables = repo.total_untestables()
-    if untestables:
-        verb_untestables = is_are(untestables)
-        welcome_text += f", {untestables} {verb_untestables} untestable"
 
-    num_programs = repo.total_programs()
-    snippets_str = pluralize(num_programs, "code snippet")
-    welcome_text += f", and {snippets_str}."
+    if untestables := repo.total_untestables():
+        welcome_text += f", {untestables} {is_are(untestables)} untestable"
+
+    total_programs = repo.total_programs()
+    welcome_text += f", and {pluralize(total_programs, 'code snippet')}."
     language_index.add_paragraph(welcome_text)
 
     language_index.add_heading("Language Breakdown", level=2)
@@ -151,38 +139,48 @@ def generate_languages_index(repo: subete.Repo) -> None:
 
     for letter in repo.sorted_language_letters():
         language_index.add_heading(letter.upper(), level=3)
-        languages: list[subete.LanguageCollection] = repo.languages_by_letter(letter)
-        snippets = sum(language.total_programs() for language in languages)
-        tests = sum(1 if language.has_testinfo() else 0 for language in languages)
-        untestables = sum(1 if language.has_untestable_info() else 0 for language in languages)
-        verb = is_are(tests)
-        num_languages = len(languages)
-        languages_str = pluralize(num_languages, "language", plural="languages")
-        verb_untestables = is_are(untestables)
-        language_statement = (
-            f"The '{letter.upper()}' collection contains {languages_str}, "
-            f"of which {tests} {verb} tested"
-        )
-        if untestables:
-            language_statement += f", {untestables} {verb_untestables} untestable"
+        languages = repo.languages_by_letter(letter)
 
-        snippets_str = pluralize(snippets, "code snippet")
-        language_index.add_paragraph(f"{language_statement}, and {snippets_str}.")
+        snippets = sum(lang.total_programs() for lang in languages)
+        tests = sum(1 for lang in languages if lang.has_testinfo())
+        letter_untestables = sum(1 for lang in languages if lang.has_untestable_info())
+
+        num_languages = len(languages)
+        language_statement = (
+            f"The '{letter.upper()}' collection contains {pluralize(num_languages, 'language')}, "
+            f"of which {tests} {is_are(tests)} tested"
+        )
+        if letter_untestables:
+            language_statement += f", {letter_untestables} {is_are(letter_untestables)} untestable"
+
+        language_index.add_paragraph(
+            f"{language_statement}, and {pluralize(snippets, 'code snippet')}.",
+        )
+
         languages.sort(key=lambda x: x.name().casefold())
         languages_list = [get_language_link_and_testability(x) for x in languages]
         language_index.add_block(snakemd.MDList(languages_list))
         language_index.add_block(snakemd.Paragraph(return_to_top))
 
-    language_index.dump("index", directory=str(language_index_path))
+    language_index.dump("index", directory=str(DOCS_LANGUAGES_DIR))
 
 
-def get_language_link_and_testability(
-    language: subete.LanguageCollection,
-) -> snakemd.Paragraph:
+def get_language_letter_links(repo: subete.Repo) -> str:
+    """Generates the sticky HTML fast-navigation link grid categorized by letter."""
+    links = [
+        f'    <li><a href="#{l.lower()}">{l.upper()}</a></li>'
+        for l in repo.sorted_language_letters()
+    ]
+    return "\n".join(['<ul class="letter-link">'] + links + ["</ul>"])
+
+
+def get_language_link_and_testability(language: subete.LanguageCollection) -> snakemd.Paragraph:
+    """Generates a dynamic markdown paragraph item containing metadata markers for a language link."""
     language_escaped = markdown_escape(language.name())
     language_link = snakemd.Inline(language_escaped, link=language.lang_docs_url())
-    num_programs = language.total_programs()
-    phrase = pluralize(num_programs, "code snippet")
+
+    phrase = pluralize(language.total_programs(), "code snippet")
+
     if language.has_testinfo():
         return snakemd.Paragraph([language_link, f" ({phrase})"])
 
@@ -193,40 +191,32 @@ def get_language_link_and_testability(
             ")",
         ]
     else:
-        testability = [snakemd.Inline(f" {phrase}, (untested)")]
+        testability = [snakemd.Inline(f" ({phrase}, untested)")]
 
     return snakemd.Paragraph([language_link] + testability)
 
 
-def generate_language_breakdown_percentage(repo: subete.Repo, doc: snakemd.Document):
+def generate_language_breakdown_percentage(repo: subete.Repo, doc: snakemd.Document) -> None:
+    """Renders the stylized, expanded HTML table displaying language layout distributions."""
     language_info = sorted(
-        ((language.name(), language.percentage(), language.color()) for language in repo),
+        ((lang.name(), lang.percentage(), lang.color()) for lang in repo),
         key=lambda x: (-x[1], x[0]),
     )
-    max_language_percentage = language_info[0][1]
+    max_percentage = language_info[0][1] if language_info else 1.0
 
     doc.add_paragraph("Here are the percentages for each language in the collection:")
     doc.add_raw(
-        """\
-<details>
-<summary>Click here to expand or collapse...</summary>
-<table class="bar-graph">""",
+        '<details>\n<summary>Click here to expand or collapse...</summary>\n<table class="bar-graph">',
     )
 
-    for language_name, percentage, color in language_info:
-        bar_graph_width = 100.0 * percentage / max_language_percentage
-        bar_graph_style = f"width: {bar_graph_width:.2f}%; background-color: {color};"
+    for name, percentage, color in language_info:
+        bar_width = 100.0 * percentage / max_percentage
         doc.add_raw(
-            f"""\
-    <tr>
-        <td class="right nowrap">{language_name}</td>
-        <td class="right">{percentage:.2f}%</td>
-        <td class="bar-graph"><div style="{bar_graph_style}"></div></td> 
-    </tr>""",
+            f"    <tr>\n"
+            f'        <td class="right nowrap">{name}</td>\n'
+            f'        <td class="right">{percentage:.2f}%</td>\n'
+            f'        <td class="bar-graph"><div style="width: {bar_width:.2f}%; background-color: {color};"></div></td>\n'
+            f"    </tr>",
         )
 
-    doc.add_raw(
-        """\
-</table>
-</details>""",
-    )
+    doc.add_raw("</table>\n</details>")

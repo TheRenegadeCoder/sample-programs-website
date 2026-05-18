@@ -25,7 +25,7 @@ def pluralize(count: int, singular: str, plural: str | None = None) -> str:
             defaults to `singular + "s"`.
 
     Returns:
-        A string combining the count and the correct word form (e.g., 
+        A string combining the count and the correct word form (e.g.,
         "1 project", "5 projects").
 
     """
