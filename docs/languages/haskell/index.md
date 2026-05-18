@@ -57,7 +57,7 @@ At any rate, I think that's plenty of background for now.
 
 ## Articles
 
-There are 33 articles:
+There are 34 articles:
 
 - [Baklava in Haskell](https://sampleprograms.io/projects/baklava/haskell)
 - [Base64 Encode Decode in Haskell](https://sampleprograms.io/projects/base64-encode-decode/haskell)
@@ -82,6 +82,7 @@ There are 33 articles:
 - [Maximum Array Rotation in Haskell](https://sampleprograms.io/projects/maximum-array-rotation/haskell)
 - [Maximum Subarray in Haskell](https://sampleprograms.io/projects/maximum-subarray/haskell)
 - [Merge Sort in Haskell](https://sampleprograms.io/projects/merge-sort/haskell)
+- [Minimum Spanning Tree in Haskell](https://sampleprograms.io/projects/minimum-spanning-tree/haskell)
 - [Palindromic Number in Haskell](https://sampleprograms.io/projects/palindromic-number/haskell)
 - [Prime Number in Haskell](https://sampleprograms.io/projects/prime-number/haskell)
 - [Quick Sort in Haskell](https://sampleprograms.io/projects/quick-sort/haskell)
