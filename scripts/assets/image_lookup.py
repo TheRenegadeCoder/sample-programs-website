@@ -2,12 +2,13 @@ from functools import cache
 from pathlib import Path
 
 import subete
-from constants import DEFAULT_LANGUAGE_IMAGE_NO_EXT, DEFAULT_PROJECT_IMAGE_NO_EXT
-
-BASE_DIR = Path("sources")
-PROJECTS_DIR = BASE_DIR / "projects"
-LANGUAGES_DIR = BASE_DIR / "languages"
-PROGRAMS_DIR = BASE_DIR / "programs"
+from constants import (
+    DEFAULT_LANGUAGE_IMAGE_NO_EXT,
+    DEFAULT_PROJECT_IMAGE_NO_EXT,
+    LANGUAGES_DIR,
+    PROGRAMS_DIR,
+    PROJECTS_DIR,
+)
 
 
 @cache

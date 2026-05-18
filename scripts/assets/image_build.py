@@ -11,6 +11,10 @@ from constants import (
     DEFAULT_LANGUAGE_IMAGE_NO_EXT,
     DEFAULT_PROGRAM_IMAGE_NO_EXT,
     DEFAULT_PROJECT_IMAGE_NO_EXT,
+    LANGUAGES_DIR,
+    PROGRAMS_DIR,
+    PROJECTS_DIR,
+    SOURCE_DIR,
 )
 from utils.files import mkdir
 
@@ -131,31 +135,31 @@ def _find_featured_image(dir_path: Path) -> Path | None:
 
 
 def _language_specs(repo: subete.Repo) -> list[ImageSpec]:
-    specs = [ImageSpec(Path("sources/languages"), DEFAULT_LANGUAGE_IMAGE_NO_EXT)]
+    specs = [ImageSpec(LANGUAGES_DIR, DEFAULT_LANGUAGE_IMAGE_NO_EXT)]
 
     for lang in repo:
         name = lang.pathlike_name()
         specs.append(
-            ImageSpec(Path("sources/languages") / name, f"the-{name}-programming-language"),
+            ImageSpec(LANGUAGES_DIR / name, f"the-{name}-programming-language"),
         )
 
     return specs
 
 
 def _project_specs(repo: subete.Repo) -> list[ImageSpec]:
-    specs = [ImageSpec(Path("sources/projects"), DEFAULT_PROJECT_IMAGE_NO_EXT)]
+    specs = [ImageSpec(PROJECTS_DIR, DEFAULT_PROJECT_IMAGE_NO_EXT)]
 
     for project in repo.approved_projects():
         name = project.pathlike_name()
         specs.append(
-            ImageSpec(Path("sources/projects") / name, f"{name}-in-every-language"),
+            ImageSpec(PROJECTS_DIR / name, f"{name}-in-every-language"),
         )
 
     return specs
 
 
 def _program_specs(repo: subete.Repo) -> list[ImageSpec]:
-    specs = [ImageSpec(Path("sources"), DEFAULT_PROGRAM_IMAGE_NO_EXT)]
+    specs = [ImageSpec(SOURCE_DIR, DEFAULT_PROGRAM_IMAGE_NO_EXT)]
 
     for lang in repo:
         lang_name = lang.pathlike_name()
@@ -164,7 +168,7 @@ def _program_specs(repo: subete.Repo) -> list[ImageSpec]:
             proj = program.project_pathlike_name()
             specs.append(
                 ImageSpec(
-                    Path("sources/programs") / proj / lang_name,
+                    PROGRAMS_DIR / proj / lang_name,
                     f"{proj}-in-{lang_name}",
                 ),
             )

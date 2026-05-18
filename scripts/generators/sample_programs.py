@@ -5,7 +5,7 @@ from pathlib import Path
 import snakemd
 import subete
 from assets.image_lookup import find_program_image
-from constants import PROGRAM_MD_FILENAMES
+from constants import DOCS_PROJECTS_DIR, PROGRAM_MD_FILES
 from markdown.authors import add_authors_to_doc
 from markdown.front_matter import generate_front_matter
 from markdown.note import generate_no_edit_note
@@ -16,8 +16,6 @@ from utils.text import markdown_escape
 
 log = logging.getLogger(__name__)
 
-DOCS_PROJECTS_DIR = Path("docs/projects")
-PROGRAMS_BASE_DIR = Path("programs")
 DATETIME_FORMAT = "%b %d %Y %H:%M:%S"
 
 
@@ -53,7 +51,7 @@ def generate_sample_program_index(program: subete.SampleProgram, path: Path) -> 
     language_escaped = markdown_escape(program.language_name())
     language_docs_url = program.language_collection().lang_docs_url()
 
-    program_root_str = str(PROGRAMS_BASE_DIR / proj_path_name)
+    program_root_str = str(Path("programs") / proj_path_name)
     doc = snakemd.new_doc()
 
     _add_front_matter_and_notes(doc, program, proj_path_name, lang_path_name, program_root_str)
@@ -98,7 +96,7 @@ def _add_front_matter_and_notes(
         doc,
         program_root_str,
         lang_path_name,
-        PROGRAM_MD_FILENAMES,
+        list(PROGRAM_MD_FILES),
     )
 
 

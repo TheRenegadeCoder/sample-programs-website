@@ -5,10 +5,16 @@ import sys
 import subete
 from assets.image_build import generate_images
 from assets.image_copy import copy_article_images
-from constants import AUTO_GEN_TEST_DOC_DIR
-from generators.languages import generate_language_paths, generate_languages_index
+from constants import DOCS_LANGUAGES_DIR, DOCS_PROJECTS_DIR, GENERATED_DIR
+from generators.languages import (
+    generate_language_paths,
+    generate_languages_index,
+)
 from generators.main_page import generate_main_page
-from generators.projects import generate_project_paths, generate_projects_index
+from generators.projects import (
+    generate_project_paths,
+    generate_projects_index,
+)
 from generators.sample_programs import generate_sample_programs
 from generators.tests import generate_auto_gen_test_docs
 from logging_setup import setup_logging
@@ -23,9 +29,9 @@ def main() -> None:
     parser.add_argument("--local", "-l", action="store_true", help="Use local contents of website")
     parsed_args = parser.parse_args()
 
-    clean("docs/projects")
-    clean("docs/languages")
-    clean(AUTO_GEN_TEST_DOC_DIR)
+    clean(DOCS_PROJECTS_DIR)
+    clean(DOCS_LANGUAGES_DIR)
+    clean(GENERATED_DIR)
 
     log.info("Loading repos (this may take several minutes)")
     website_repo_dir = "." if parsed_args.local else None

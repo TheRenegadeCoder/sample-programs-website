@@ -4,7 +4,7 @@ from pathlib import Path
 import snakemd
 import subete
 from assets.image_lookup import find_language_image, get_default_language_image
-from constants import LANGUAGE_MD_FILENAMES
+from constants import DOCS_LANGUAGES_DIR, LANGUAGE_MD_FILES
 from markdown.articles import add_language_article_section
 from markdown.authors import add_authors_to_doc
 from markdown.front_matter import generate_front_matter
@@ -16,8 +16,6 @@ from utils.plural import is_are, pluralize
 from utils.text import markdown_escape
 
 log = logging.getLogger(__name__)
-
-DOCS_LANGUAGES_DIR = Path("docs/languages")
 
 
 def generate_language_paths(repo: subete.Repo) -> None:
@@ -63,7 +61,7 @@ def generate_language_index(
         authors=doc_authors,
         tags=[language.pathlike_name()],
     )
-    generate_no_edit_note(doc, "languages", language.pathlike_name(), LANGUAGE_MD_FILENAMES)
+    generate_no_edit_note(doc, "languages", language.pathlike_name(), list(LANGUAGE_MD_FILES))
 
     doc.add_paragraph(
         f"Welcome to the {language_escaped} page! Here, you'll find a description "

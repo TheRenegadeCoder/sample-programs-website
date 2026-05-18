@@ -6,12 +6,12 @@ from dataclasses import dataclass
 from pathlib import Path
 
 import subete
+from constants import LANGUAGES_DIR, PROGRAMS_DIR, PROJECTS_DIR
 from subete import imghdr
 from utils.files import mkdir
 
 log = logging.getLogger(__name__)
 
-SOURCE_DIR = Path("sources")
 ASSETS_ROOT = Path("docs/assets/images")
 
 
@@ -45,7 +45,7 @@ def _language_specs(repo: subete.Repo) -> Iterable[CopySpec]:
     for lang in repo:
         name = lang.pathlike_name()
         yield CopySpec(
-            SOURCE_DIR / "languages" / name,
+            LANGUAGES_DIR / name,
             ASSETS_ROOT / "languages" / name,
         )
 
@@ -54,7 +54,7 @@ def _project_specs(repo: subete.Repo) -> Iterable[CopySpec]:
     for project in repo.approved_projects():
         name = project.pathlike_name()
         yield CopySpec(
-            SOURCE_DIR / "projects" / name,
+            PROJECTS_DIR / name,
             ASSETS_ROOT / "projects" / name,
         )
 
@@ -66,7 +66,7 @@ def _program_specs(repo: subete.Repo) -> Iterable[CopySpec]:
         for program in repo[str(lang)]:
             proj = program.project_pathlike_name()
             yield CopySpec(
-                SOURCE_DIR / "programs" / proj / lang_name,
+                PROGRAMS_DIR / proj / lang_name,
                 ASSETS_ROOT / "projects" / proj / lang_name,
             )
 

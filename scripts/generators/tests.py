@@ -4,7 +4,7 @@ from pathlib import Path
 
 import glotter
 import subete
-from constants import AUTO_GEN_TEST_DOC_DIR
+from constants import GENERATED_DIR
 
 log = logging.getLogger(__name__)
 
@@ -18,7 +18,7 @@ def generate_auto_gen_test_docs(repo: subete.Repo) -> None:
     """
     log.info("Generating test documentation")
 
-    doc_dir = Path(AUTO_GEN_TEST_DOC_DIR).resolve()
+    doc_dir = GENERATED_DIR.resolve()
     repo_dir = Path(repo.sample_programs_repo_dir())
 
     # Safely switch directories. The context manager guarantees the original

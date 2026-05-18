@@ -1,5 +1,5 @@
 import snakemd
-from constants import AUTO_GEN_NOTE, CONTRIBUTING_NOTE
+from constants import AUTO_GENERATED_NOTICE, CONTRIBUTING_NOTICE
 
 
 def generate_no_edit_note(
@@ -23,10 +23,10 @@ def generate_no_edit_note(
 
     note = (
         f"<!--\n"
-        f"{AUTO_GEN_NOTE}\n\n"
+        f"{AUTO_GENERATED_NOTICE}\n\n"
         f"Instead, please edit the following:\n\n"
         f"{note_filenames}\n\n"
-        f"{CONTRIBUTING_NOTE}\n"
+        f"{CONTRIBUTING_NOTICE}\n"
         f"-->"
     )
 

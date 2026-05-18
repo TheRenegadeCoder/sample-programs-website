@@ -5,7 +5,7 @@ from pathlib import Path
 import snakemd
 import subete
 from assets.image_lookup import find_project_image, get_default_project_image
-from constants import PROJECT_MD_FILENAMES
+from constants import DOCS_PROJECTS_DIR, PROJECT_MD_FILES
 from markdown.articles import add_project_article_section
 from markdown.authors import add_authors_to_doc
 from markdown.front_matter import generate_front_matter
@@ -16,8 +16,6 @@ from utils.files import mkdir
 from utils.plural import is_are, pluralize
 
 log = logging.getLogger(__name__)
-
-DOCS_PROJECTS_DIR = Path("docs/projects")
 
 
 def generate_project_paths(repo: subete.Repo) -> None:
@@ -81,7 +79,7 @@ def generate_project_index(
         times=times,
         tags=[path_name],
     )
-    generate_no_edit_note(doc, "projects", path_name, PROJECT_MD_FILENAMES)
+    generate_no_edit_note(doc, "projects", path_name, list(PROJECT_MD_FILES))
 
     doc.add_paragraph(
         f"Welcome to the {project.name()} page! Here, you'll find a description "

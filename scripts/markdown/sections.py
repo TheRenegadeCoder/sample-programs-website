@@ -1,12 +1,9 @@
 import logging
-from pathlib import Path
 
 import snakemd
-from constants import AUTO_GEN_TEST_DOC_DIR
+from constants import GENERATED_DIR, SOURCE_DIR
 
 log = logging.getLogger(__name__)
-
-SOURCES_DIR = Path("sources")
 
 
 def add_section(
@@ -29,7 +26,7 @@ def add_section(
     doc.add_heading(section, level=level)
 
     filename = f"{section.lower().replace(' ', '-')}.md"
-    file_path = SOURCES_DIR / source / source_instance / filename
+    file_path = SOURCE_DIR / source / source_instance / filename
 
     if file_path.exists():
         log.info("Adding %s section to document from source: %s", section, file_path)
@@ -54,11 +51,11 @@ def add_testing_section(doc: snakemd.Document, source: str, source_instance: str
         source_instance: The specific project/language target (e.g., "hello-world").
 
     """
-    instance_path = SOURCES_DIR / source / source_instance
+    instance_path = SOURCE_DIR / source / source_instance
     valid_path = instance_path / "valid-tests.md"
     invalid_path = instance_path / "invalid-tests.md"
 
-    auto_gen_base = Path(AUTO_GEN_TEST_DOC_DIR)
+    auto_gen_base = GENERATED_DIR
     auto_gen_path = auto_gen_base / source_instance / "testing.md"
 
     if auto_gen_path.exists():
