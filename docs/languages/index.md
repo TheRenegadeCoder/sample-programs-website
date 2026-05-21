@@ -1,14 +1,14 @@
 ---
 date: 2018-03-15
 featured-image: programming-languages.jpg
-last-modified: 2026-05-20
+last-modified: 2026-05-21
 layout: default
 title: Programming Languages
 title1: Programming
 title2: Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1637 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1638 code snippets.
 
 ## Language Breakdown
 
@@ -98,7 +98,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">PHP</td>
-        <td class="right">2.79%</td>
+        <td class="right">2.78%</td>
         <td class="bar-graph"><div style="width: 30.95%; background-color: #4F5D95;"></div></td> 
     </tr>
 
@@ -110,19 +110,19 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">x86-64</td>
-        <td class="right">2.66%</td>
+        <td class="right">2.65%</td>
         <td class="bar-graph"><div style="width: 29.51%; background-color: #6E4C13;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">F#</td>
-        <td class="right">2.56%</td>
+        <td class="right">2.55%</td>
         <td class="bar-graph"><div style="width: 28.39%; background-color: #B845FC;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">AWK</td>
-        <td class="right">2.43%</td>
+        <td class="right">2.42%</td>
         <td class="bar-graph"><div style="width: 26.95%; background-color: #C30E9B;"></div></td> 
     </tr>
 
@@ -140,7 +140,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">PowerShell</td>
-        <td class="right">2.03%</td>
+        <td class="right">2.02%</td>
         <td class="bar-graph"><div style="width: 22.50%; background-color: #012456;"></div></td> 
     </tr>
 
@@ -152,7 +152,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">C#</td>
-        <td class="right">1.84%</td>
+        <td class="right">1.83%</td>
         <td class="bar-graph"><div style="width: 20.39%; background-color: #178600;"></div></td> 
     </tr>
 
@@ -200,7 +200,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Objective-C</td>
-        <td class="right">0.76%</td>
+        <td class="right">0.75%</td>
         <td class="bar-graph"><div style="width: 8.39%; background-color: #438EFF;"></div></td> 
     </tr>
 
@@ -218,7 +218,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Brainfuck</td>
-        <td class="right">0.58%</td>
+        <td class="right">0.57%</td>
         <td class="bar-graph"><div style="width: 6.39%; background-color: #2F2530;"></div></td> 
     </tr>
 
@@ -283,6 +283,12 @@ Here are the percentages for each language in the collection:
     </tr>
 
     <tr>
+        <td class="right nowrap">OCaml</td>
+        <td class="right">0.27%</td>
+        <td class="bar-graph"><div style="width: 3.03%; background-color: #EF7A08;"></div></td> 
+    </tr>
+
+    <tr>
         <td class="right nowrap">TI-BASIC</td>
         <td class="right">0.27%</td>
         <td class="bar-graph"><div style="width: 3.00%; background-color: #A0AA87;"></div></td> 
@@ -298,12 +304,6 @@ Here are the percentages for each language in the collection:
         <td class="right nowrap">Lisp</td>
         <td class="right">0.26%</td>
         <td class="bar-graph"><div style="width: 2.88%; background-color: #3FB68B;"></div></td> 
-    </tr>
-
-    <tr>
-        <td class="right nowrap">OCaml</td>
-        <td class="right">0.25%</td>
-        <td class="bar-graph"><div style="width: 2.73%; background-color: #EF7A08;"></div></td> 
     </tr>
 
     <tr>
@@ -1204,10 +1204,10 @@ The 'N' collection contains 3 languages, of which 3 are tested, and 12 code snip
 
 ### O
 
-The 'O' collection contains 7 languages, of which 7 are tested, and 51 code snippets.
+The 'O' collection contains 7 languages, of which 7 are tested, and 52 code snippets.
 
 - [Objective-C](https://sampleprograms.io/languages/objective-c) (11 code snippets)
-- [OCaml](https://sampleprograms.io/languages/ocaml) (11 code snippets)
+- [OCaml](https://sampleprograms.io/languages/ocaml) (12 code snippets)
 - [Octave](https://sampleprograms.io/languages/octave) (14 code snippets)
 - [Odin](https://sampleprograms.io/languages/odin) (9 code snippets)
 - [Opa](https://sampleprograms.io/languages/opa) (2 code snippets)

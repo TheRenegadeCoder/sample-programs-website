@@ -1,7 +1,7 @@
 ---
 date: 2018-11-16
 featured-image: prime-number-in-every-language.jpg
-last-modified: 2026-05-14
+last-modified: 2026-05-21
 layout: default
 tags:
 - prime-number
@@ -85,7 +85,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 44 articles:
+There are 45 articles:
 
 - [Prime Number in ALGOL 60](https://sampleprograms.io/projects/prime-number/algol60)
 - [Prime Number in ALGOL 68](https://sampleprograms.io/projects/prime-number/algol68)
@@ -112,6 +112,7 @@ There are 44 articles:
 - [Prime Number in Lisp](https://sampleprograms.io/projects/prime-number/lisp)
 - [Prime Number in Lua](https://sampleprograms.io/projects/prime-number/lua)
 - [Prime Number in Mathematica](https://sampleprograms.io/projects/prime-number/mathematica)
+- [Prime Number in OCaml](https://sampleprograms.io/projects/prime-number/ocaml)
 - [Prime Number in Octave](https://sampleprograms.io/projects/prime-number/octave)
 - [Prime Number in Odin](https://sampleprograms.io/projects/prime-number/odin)
 - [Prime Number in PHP](https://sampleprograms.io/projects/prime-number/php)
