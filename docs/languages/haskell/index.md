@@ -4,7 +4,7 @@ authors:
 - Ron Zuckerman
 date: 2018-04-08
 featured-image: programming-languages.jpg
-last-modified: 2026-05-18
+last-modified: 2026-05-23
 layout: default
 tags:
 - haskell
@@ -57,7 +57,7 @@ At any rate, I think that's plenty of background for now.
 
 ## Articles
 
-There are 34 articles:
+There are 35 articles:
 
 - [Baklava in Haskell](/projects/baklava/haskell)
 - [Base64 Encode Decode in Haskell](/projects/base64-encode-decode/haskell)
@@ -93,3 +93,4 @@ There are 34 articles:
 - [Rot13 in Haskell](/projects/rot13/haskell)
 - [Selection Sort in Haskell](/projects/selection-sort/haskell)
 - [Transpose Matrix in Haskell](/projects/transpose-matrix/haskell)
+- [Zeckendorf in Haskell](/projects/zeckendorf/haskell)

@@ -1,7 +1,7 @@
 ---
 date: 2026-01-19
 featured-image: zeckendorf-in-every-language.png
-last-modified: 2026-05-14
+last-modified: 2026-05-23
 layout: default
 tags:
 - zeckendorf
@@ -143,7 +143,7 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-There are 27 articles:
+There are 28 articles:
 
 - [Zeckendorf in ALGOL 60](/projects/zeckendorf/algol60)
 - [Zeckendorf in ALGOL 68](/projects/zeckendorf/algol68)
@@ -157,6 +157,7 @@ There are 27 articles:
 - [Zeckendorf in Euphoria](/projects/zeckendorf/euphoria)
 - [Zeckendorf in F#](/projects/zeckendorf/f-sharp)
 - [Zeckendorf in Go](/projects/zeckendorf/go)
+- [Zeckendorf in Haskell](/projects/zeckendorf/haskell)
 - [Zeckendorf in Java](/projects/zeckendorf/java)
 - [Zeckendorf in JavaScript](/projects/zeckendorf/javascript)
 - [Zeckendorf in Mathematica](/projects/zeckendorf/mathematica)

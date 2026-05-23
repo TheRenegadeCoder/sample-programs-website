@@ -8,7 +8,7 @@ title1: Programming
 title2: Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1639 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1640 code snippets.
 
 ## Language Breakdown
 
@@ -20,7 +20,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">ALGOL 60</td>
-        <td class="right">8.99%</td>
+        <td class="right">8.98%</td>
         <td class="bar-graph"><div style="width: 100.00%; background-color: #D1E0DB;"></div></td> 
     </tr>
 
@@ -176,8 +176,8 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Haskell</td>
-        <td class="right">1.52%</td>
-        <td class="bar-graph"><div style="width: 16.89%; background-color: #5E5086;"></div></td> 
+        <td class="right">1.56%</td>
+        <td class="bar-graph"><div style="width: 17.32%; background-color: #5E5086;"></div></td> 
     </tr>
 
     <tr>
@@ -1123,10 +1123,10 @@ The 'G' collection contains 11 languages, of which 11 are tested, and 75 code sn
 
 ### H
 
-The 'H' collection contains 4 languages, of which 4 are tested, and 42 code snippets.
+The 'H' collection contains 4 languages, of which 4 are tested, and 43 code snippets.
 
 - [Hack](/languages/hack) (2 code snippets)
-- [Haskell](/languages/haskell) (34 code snippets)
+- [Haskell](/languages/haskell) (35 code snippets)
 - [Haxe](/languages/haxe) (4 code snippets)
 - [Hobbes](/languages/hobbes) (2 code snippets)
 
