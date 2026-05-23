@@ -1,5 +1,7 @@
 /venv
 /docs/_site
+/docs/languages
+/docs/projects
 /docs/Gemfile.lock
+/docs/index.md
 generated/
-/requirements-dev.txt
