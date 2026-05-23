@@ -40,17 +40,20 @@ jobs:
       - name: Generate Webpages and Images
         run: poetry run python scripts/automate.py
 
-      # Don't rebuild the website when changes are pushed to gh-pages branch
-      # since that branch contains the built HTML pages
-      - name: Add .nojekyll
-        run: touch docs/.nojekyll
-
       - name: Build Webpages with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: docs/
           destination: docs/_site
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Don't rebuild the website when changes are pushed to gh-pages branch
+      # since that branch contains the built HTML pages. Also, make sure
+      # the CNAME is in the gh-pages branch
+      - name: Add .nojekyll and CNAME
+        run: |
+          sudo touch docs/_site/.nojekyll
+          sudo cp docs/CNAME docs/_site/
 
       # Push the changes to the gh-pages branch
       - name: Publish Site
