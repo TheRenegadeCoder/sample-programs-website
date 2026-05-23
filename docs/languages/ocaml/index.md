@@ -1,7 +1,7 @@
 ---
 date: 2018-10-17
 featured-image: programming-languages.jpg
-last-modified: 2026-05-21
+last-modified: 2026-05-23
 layout: default
 tags:
 - ocaml
@@ -28,7 +28,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-There are 12 articles:
+There are 13 articles:
 
 - [Baklava in OCaml](https://sampleprograms.io/projects/baklava/ocaml)
 - [Capitalize in OCaml](https://sampleprograms.io/projects/capitalize/ocaml)
@@ -39,6 +39,7 @@ There are 12 articles:
 - [Fizz Buzz in OCaml](https://sampleprograms.io/projects/fizz-buzz/ocaml)
 - [Hello World in OCaml](https://sampleprograms.io/projects/hello-world/ocaml)
 - [Linear Search in OCaml](https://sampleprograms.io/projects/linear-search/ocaml)
+- [Merge Sort in OCaml](https://sampleprograms.io/projects/merge-sort/ocaml)
 - [Palindromic Number in OCaml](https://sampleprograms.io/projects/palindromic-number/ocaml)
 - [Prime Number in OCaml](https://sampleprograms.io/projects/prime-number/ocaml)
 - [Reverse String in OCaml](https://sampleprograms.io/projects/reverse-string/ocaml)
