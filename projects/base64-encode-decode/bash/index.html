@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang=" en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico">
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=7717a154c24ec799373814fffe320590e8ffa5f3">
+
+    <script src="/assets/js/image_titler.js"></script>
+    <script src="/assets/js/scale.fix.js"></script>
+
+    <script defer data-domain="sampleprograms.io" src="https://plausible.io/js/plausible.js"></script>
+
+    <link type="application/atom+xml" rel="alternate" href="https://sampleprograms.io/feed.xml" title="Sample Programs in Every Language" />
+    
+
+<!-- Twitter cards -->
+<meta name="twitter:title" content="Base64 Encode Decode in Bash">
+<meta name="twitter:description" content="">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://sampleprograms.io/assets/images/base64-encode-decode-in-every-language.png">
+<!-- end of Twitter cards -->
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Base64 Encode Decode in Bash | Sample Programs in Every Language</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Base64 Encode Decode in Bash" />
+<meta name="author" content="rzuckerm" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<meta property="og:description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<link rel="canonical" href="https://sampleprograms.io/projects/base64-encode-decode/bash/" />
+<meta property="og:url" content="https://sampleprograms.io/projects/base64-encode-decode/bash/" />
+<meta property="og:site_name" content="Sample Programs in Every Language" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-04-06T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Base64 Encode Decode in Bash" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"rzuckerm"},"dateModified":"2025-04-06T00:00:00+00:00","datePublished":"2025-04-06T00:00:00+00:00","description":"A Collection of Code Snippets in as Many Programming Languages as Possible","headline":"Base64 Encode Decode in Bash","mainEntityOfPage":{"@type":"WebPage","@id":"https://sampleprograms.io/projects/base64-encode-decode/bash/"},"url":"https://sampleprograms.io/projects/base64-encode-decode/bash/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="monetization" content="$ilp.uphold.com/qgNaxDa2QH77">
+
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+</head>
+
+<!-- Default document body -->
+<body>
+    <div class="wrapper">
+        <header class="page-header" role="banner">
+  <h1 class="header">
+    Sample Programs in Every Language
+  </h1>
+
+  <p class="header">
+    A Collection of Code Snippets in as Many Programming Languages as Possible
+  </p>
+
+  <ul>
+    
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/zipball/main">Download ZIP</a>
+    </li>
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/tarball/main">Download TAR</a>
+    </li>
+    
+
+    <li>
+      <a class="buttons github" href="https://github.com/TheRenegadeCoder/sample-programs-website">
+        View on GitHub
+      </a>
+    </li>
+  </ul>
+
+  
+  <p class="header">
+    This project is maintained by
+    <a class="header name" href="https://github.com/TheRenegadeCoder">
+      TheRenegadeCoder
+    </a>
+  </p>
+   
+</header>
+
+        <section>
+  <nav class="top-nav">
+    <ul>
+        <li><a href="/" id="home">Home</a></li>
+        <li><a href="/languages/" id="lang">Languages</a></li>
+        <li><a href="/projects/" id="proj">Projects</a></li>
+    </ul>
+</nav>
+ 
+  <nav aria-label="Breadcrumb" class="site-navigation">
+  <ol class="breadcrumb">
+    <li><a href="/">Home</a></li>
+
+    
+    
+
+    
+      
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/">
+            Projects
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/base64-encode-decode/">
+            Base64 encode decode
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <span class="active">
+            Bash
+          </span>
+        
+      </li>
+    
+  </ol>
+</nav>
+
+  <h1>Base64 Encode Decode in Bash</h1>
+
+  
+  <small>
+    
+        Published on 06 April 2025
+    
+
+    
+        (Updated: 06 April 2025)
+    
+    </small>
+  
+
+  
+
+<div class="featured-image">
+  <img
+    src="/assets/images/base64-encode-decode-in-every-language.png"
+    alt="Base64 Encode Decode in Bash"
+    loading="eager"
+  >
+
+  
+    <div class="image-container" id="title1">
+      <div class="image-title">Base64 Encode</div>
+    </div>
+  
+
+  
+    <div class="image-container" id="title2">
+      <div class="image-title">Decode in Bash</div>
+    </div>
+  
+</div>
+
+<p></p>
+
+  
+  <!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/base64-encode-decode/bash/how-to-implement-the-solution.md
+- sources/programs/base64-encode-decode/bash/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
+<p>Welcome to the <a href="/projects/base64-encode-decode">Base64 Encode Decode</a> in <a href="/languages/bash">Bash</a> page! Here, you'll find the source code for this program as well as a description of how the program works.</p>
+
+<h2 id="current-solution">Current Solution</h2>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
+
+<span class="c"># References:</span>
+<span class="c"># - Convert character to ASCII code, and ASCII code to character:</span>
+<span class="c">#   https://unix.stackexchange.com/questions/92447/bash-script-to-get-ascii-values-for-alphabet</span>
+
+<span class="nv">BASE64_CHARS</span><span class="o">=</span><span class="s2">"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"</span>
+
+<span class="k">function </span>usage<span class="o">()</span> <span class="o">{</span>
+    <span class="nb">echo</span> <span class="s2">"Usage: please provide a mode and a string to encode/decode"</span>
+    <span class="nb">exit </span>1
+<span class="o">}</span>
+
+<span class="c"># Base64 encode string</span>
+<span class="c">#</span>
+<span class="c"># Input:</span>
+<span class="c"># - $1 = string to encode</span>
+<span class="c"># Output: Base64 encoded string</span>
+<span class="k">function </span>base64_encode<span class="o">()</span> <span class="o">{</span>
+    <span class="nb">local </span><span class="nv">result</span><span class="o">=</span><span class="s2">""</span>
+    <span class="nb">local </span><span class="nv">len</span><span class="o">=</span><span class="k">${#</span><span class="nv">1</span><span class="k">}</span>
+    <span class="k">for</span> <span class="o">((</span><span class="nv">n</span><span class="o">=</span>0<span class="p">;</span> n&lt;<span class="k">${</span><span class="nv">len</span><span class="k">}</span><span class="p">;</span> n+<span class="o">=</span>3<span class="o">))</span>
+    <span class="k">do</span>
+        <span class="c"># Convert 3-character chunk into 24-bit value</span>
+        <span class="nb">local </span><span class="nv">n1</span><span class="o">=</span><span class="si">$(</span>ord <span class="s2">"</span><span class="k">${</span><span class="nv">1</span>:<span class="k">${</span><span class="nv">n</span><span class="k">}</span>:1<span class="k">}</span><span class="s2">"</span><span class="si">)</span>
+        <span class="nb">local </span><span class="nv">n2</span><span class="o">=</span><span class="si">$(</span>ord <span class="s2">"</span><span class="k">${</span><span class="nv">1</span>:<span class="k">$((${</span><span class="nv">n</span><span class="k">}</span><span class="o">+</span><span class="m">1</span><span class="k">))</span>:1<span class="k">}</span><span class="s2">"</span><span class="si">)</span>
+        <span class="nb">local </span><span class="nv">n3</span><span class="o">=</span><span class="si">$(</span>ord <span class="s2">"</span><span class="k">${</span><span class="nv">1</span>:<span class="k">$((${</span><span class="nv">n</span><span class="k">}</span><span class="o">+</span><span class="m">2</span><span class="k">))</span>:1<span class="k">}</span><span class="s2">"</span><span class="si">)</span>
+        <span class="nb">local </span><span class="nv">u</span><span class="o">=</span><span class="k">$((</span> <span class="o">(</span><span class="k">${</span><span class="nv">n1</span><span class="k">}</span><span class="o">&lt;&lt;</span><span class="no">16</span><span class="sh">)|(</span><span class="k">${</span><span class="nv">n2</span><span class="k">}</span><span class="sh">&lt;&lt;8)|</span><span class="k">${</span><span class="nv">n3</span><span class="k">}</span><span class="sh"> ))
+
+        # Convert 24-bit value to 4 Base64 characters
+        c1="</span><span class="si">$(</span>base64_encode_char <span class="k">${</span><span class="nv">u</span><span class="k">}</span> 18 <span class="k">${</span><span class="nv">n</span><span class="k">}</span> 0 <span class="k">${</span><span class="nv">len</span><span class="k">}</span><span class="si">)</span><span class="sh">"
+        c2="</span><span class="si">$(</span>base64_encode_char <span class="k">${</span><span class="nv">u</span><span class="k">}</span> 12 <span class="k">${</span><span class="nv">n</span><span class="k">}</span> 0 <span class="k">${</span><span class="nv">len</span><span class="k">}</span><span class="si">)</span><span class="sh">"
+        c3="</span><span class="si">$(</span>base64_encode_char <span class="k">${</span><span class="nv">u</span><span class="k">}</span> 6 <span class="k">${</span><span class="nv">n</span><span class="k">}</span> 1 <span class="k">${</span><span class="nv">len</span><span class="k">}</span><span class="si">)</span><span class="sh">"
+        c4="</span><span class="si">$(</span>base64_encode_char <span class="k">${</span><span class="nv">u</span><span class="k">}</span> 0 <span class="k">${</span><span class="nv">n</span><span class="k">}</span> 2 <span class="k">${</span><span class="nv">len</span><span class="k">}</span><span class="si">)</span><span class="sh">"
+        result="</span><span class="k">${</span><span class="nv">result</span><span class="k">}${</span><span class="nv">c1</span><span class="k">}${</span><span class="nv">c2</span><span class="k">}${</span><span class="nv">c3</span><span class="k">}${</span><span class="nv">c4</span><span class="k">}</span><span class="sh">"
+    done
+
+    echo "</span><span class="k">${</span><span class="nv">result</span><span class="k">}</span><span class="sh">"
+}
+
+# Base64 encode character
+#
+# Inputs:
+# - </span><span class="nv">$1</span><span class="sh"> = 24-bit value
+# - </span><span class="nv">$2</span><span class="sh"> = number of shifts
+# - </span><span class="nv">$3</span><span class="sh"> = string index
+# - </span><span class="nv">$4</span><span class="sh"> = string index offset (0 - 2)
+# - </span><span class="nv">$5</span><span class="sh"> = length of string
+# Output: Base64 encoded character
+function base64_encode_char() {
+    local u=</span><span class="k">${</span><span class="nv">1</span><span class="k">}</span><span class="sh">
+    local shifts=</span><span class="k">${</span><span class="nv">2</span><span class="k">}</span><span class="sh">
+    local index=</span><span class="k">$((${</span><span class="nv">3</span><span class="k">}</span><span class="o">+</span><span class="k">${</span><span class="nv">4</span><span class="k">}))</span><span class="sh">
+    local len=</span><span class="k">${</span><span class="nv">5</span><span class="k">}</span><span class="sh">
+    local result="="
+    if [[ </span><span class="k">${</span><span class="nv">index</span><span class="k">}</span><span class="sh"> -lt </span><span class="k">${</span><span class="nv">len</span><span class="k">}</span><span class="sh"> ]]
+    then
+        result="</span><span class="k">${</span><span class="nv">BASE64_CHARS</span>:<span class="k">$((</span> <span class="o">(</span><span class="k">${</span><span class="nv">u</span><span class="k">}</span><span class="o">&gt;&gt;</span><span class="k">${</span><span class="nv">shifts</span><span class="k">}</span><span class="o">)&amp;</span><span class="m">0</span>x3f <span class="k">))</span>:1<span class="k">}</span><span class="sh">"
+    fi
+
+    echo "</span><span class="k">${</span><span class="nv">result</span><span class="k">}</span><span class="sh">"
+}
+
+# Base64 decode string
+#
+# Input:
+# - </span><span class="nv">$1</span><span class="sh"> = Base64 string to decode
+# Output: Base64 decoded string
+# Exits if invalid Base64 string is invalid
+function base64_decode() {
+    # Error if string not a multiple of 4
+    local s="</span><span class="k">${</span><span class="nv">1</span><span class="k">}</span><span class="sh">"
+    local len=</span><span class="k">${#</span><span class="nv">s</span><span class="k">}</span><span class="sh">
+    if [[ </span><span class="k">$((${</span><span class="nv">len</span><span class="k">}</span><span class="o">%</span><span class="m">4</span><span class="k">))</span><span class="sh"> -ne 0 ]]
+    then
+        usage
+    fi
+
+    # Trim trailing pad characters
+    local pads=0
+    while [[ </span><span class="k">${</span><span class="nv">len</span><span class="k">}</span><span class="sh"> -gt 0 ]] &amp;&amp; [ "</span><span class="k">${</span><span class="nv">s</span>:<span class="k">$((${</span><span class="nv">len</span><span class="k">}</span><span class="o">-</span><span class="m">1</span><span class="k">))</span>:1<span class="k">}</span><span class="sh">" = "=" ]
+    do
+        len=</span><span class="k">$((${</span><span class="nv">len</span><span class="k">}</span><span class="o">-</span><span class="m">1</span><span class="k">))</span><span class="sh">
+        pads=</span><span class="k">$((${</span><span class="nv">pads</span><span class="k">}</span><span class="o">+</span><span class="m">1</span><span class="k">))</span><span class="sh">
+    done
+    s="</span><span class="k">${</span><span class="nv">s</span>:0:<span class="k">${</span><span class="nv">len</span><span class="k">}}</span><span class="sh">"
+
+    # Error if too many pad characters
+    if [[ </span><span class="k">${</span><span class="nv">pads</span><span class="k">}</span><span class="sh"> -gt 2 ]]
+    then
+        usage
+    fi
+
+    local result=""
+    for ((n=0; n&lt;</span><span class="k">${</span><span class="nv">len</span><span class="k">}</span><span class="sh">; n+=4))
+    do
+        # Convert 4-character chunk into indices
+        local n1=</span><span class="si">$(</span>base64_decode_index <span class="s2">"</span><span class="k">${</span><span class="nv">s</span>:<span class="k">${</span><span class="nv">n</span><span class="k">}</span>:1<span class="k">}</span><span class="s2">"</span><span class="si">)</span><span class="sh">
+        local n2=</span><span class="si">$(</span>base64_decode_index <span class="s2">"</span><span class="k">${</span><span class="nv">s</span>:<span class="k">$((${</span><span class="nv">n</span><span class="k">}</span><span class="o">+</span><span class="m">1</span><span class="k">))</span>:1<span class="k">}</span><span class="s2">"</span><span class="si">)</span><span class="sh">
+        local n3=</span><span class="si">$(</span>base64_decode_index <span class="s2">"</span><span class="k">${</span><span class="nv">s</span>:<span class="k">$((${</span><span class="nv">n</span><span class="k">}</span><span class="o">+</span><span class="m">2</span><span class="k">))</span>:1<span class="k">}</span><span class="s2">"</span><span class="si">)</span><span class="sh">
+        local n4=</span><span class="si">$(</span>base64_decode_index <span class="s2">"</span><span class="k">${</span><span class="nv">s</span>:<span class="k">$((${</span><span class="nv">n</span><span class="k">}</span><span class="o">+</span><span class="m">3</span><span class="k">))</span>:1<span class="k">}</span><span class="s2">"</span><span class="si">)</span><span class="sh">
+
+        # Exit if any invalid Base64 characters
+        if [[ </span><span class="k">${</span><span class="nv">n1</span><span class="k">}</span><span class="sh"> -lt 0 ]] || [[ </span><span class="k">${</span><span class="nv">n2</span><span class="k">}</span><span class="sh"> -lt 0 ]] || [[ </span><span class="k">${</span><span class="nv">n3</span><span class="k">}</span><span class="sh"> -lt 0 ]] || [[ </span><span class="k">${</span><span class="nv">n4</span><span class="k">}</span><span class="sh"> -lt 0 ]]
+        then
+            usage
+        fi
+
+        # Convert indices to 24-bit value
+        local u=</span><span class="k">$((</span> <span class="o">(</span><span class="k">${</span><span class="nv">n1</span><span class="k">}</span><span class="o">&lt;&lt;</span><span class="no">18</span><span class="sh">)|(</span><span class="k">${</span><span class="nv">n2</span><span class="k">}</span><span class="sh">&lt;&lt;12)|(</span><span class="k">${</span><span class="nv">n3</span><span class="k">}</span><span class="sh">&lt;&lt;6)|</span><span class="k">${</span><span class="nv">n4</span><span class="k">}</span><span class="sh"> ))
+
+        # Convert 24-bit value to Base64 decoded characters
+        c1="</span><span class="si">$(</span>base64_decode_char <span class="k">${</span><span class="nv">u</span><span class="k">}</span> 16 <span class="k">${</span><span class="nv">n</span><span class="k">}</span> 0 <span class="k">${</span><span class="nv">len</span><span class="k">}</span><span class="si">)</span><span class="sh">"
+        c2="</span><span class="si">$(</span>base64_decode_char <span class="k">${</span><span class="nv">u</span><span class="k">}</span> 8 <span class="k">${</span><span class="nv">n</span><span class="k">}</span> 2 <span class="k">${</span><span class="nv">len</span><span class="k">}</span><span class="si">)</span><span class="sh">"
+        c3="</span><span class="si">$(</span>base64_decode_char <span class="k">${</span><span class="nv">u</span><span class="k">}</span> 0 <span class="k">${</span><span class="nv">n</span><span class="k">}</span> 3 <span class="k">${</span><span class="nv">len</span><span class="k">}</span><span class="si">)</span><span class="sh">"
+        result="</span><span class="k">${</span><span class="nv">result</span><span class="k">}${</span><span class="nv">c1</span><span class="k">}${</span><span class="nv">c2</span><span class="k">}${</span><span class="nv">c3</span><span class="k">}</span><span class="sh">"
+    done
+
+    echo "</span><span class="k">${</span><span class="nv">result</span><span class="k">}</span><span class="sh">"
+}
+
+# Convert character to Base64 decode index
+#
+# Input:
+# - </span><span class="nv">$1</span><span class="sh"> = character
+# Output:
+# - Base64 decode index if character is a valid Base64 character,
+#   0 if empty string, -1 otherwise
+function base64_decode_index() {
+    result=</span><span class="si">$(</span>ord <span class="s2">"</span><span class="k">${</span><span class="nv">1</span><span class="k">}</span><span class="s2">"</span><span class="si">)</span><span class="sh">
+    case "</span><span class="k">${</span><span class="nv">1</span><span class="k">}</span><span class="sh">" in
+        "")
+            result=0
+            ;;
+        [A-Z])
+            # result = ord(char) - ord("A")
+            result=</span><span class="k">$((${</span><span class="nv">result</span><span class="k">}</span><span class="o">-</span><span class="m">65</span><span class="k">))</span><span class="sh">
+            ;;
+        [a-z])
+            # result = ord(char) - ord("a") + 26
+            result=</span><span class="k">$((${</span><span class="nv">result</span><span class="k">}</span><span class="o">-</span><span class="m">97</span><span class="o">+</span><span class="m">26</span><span class="k">))</span><span class="sh">
+            ;;
+        [0-9])
+            # result = ord(char) - ord("0") + 52
+            result=</span><span class="k">$((${</span><span class="nv">result</span><span class="k">}</span><span class="o">-</span><span class="m">48</span><span class="o">+</span><span class="m">52</span><span class="k">))</span><span class="sh">
+            ;;
+        +)
+            result=62
+            ;;
+        /)
+            result=63
+            ;;
+        *)
+            result=-1
+            ;;
+    esac
+
+    echo </span><span class="k">${</span><span class="nv">result</span><span class="k">}</span><span class="sh">
+}
+
+# Base64 decode character
+#
+# Inputs:
+# - </span><span class="nv">$1</span><span class="sh"> = 24-bit value
+# - </span><span class="nv">$2</span><span class="sh"> = number of shifts
+# - </span><span class="nv">$3</span><span class="sh"> = string index
+# - </span><span class="nv">$4</span><span class="sh"> = string index offset (0 - 3)
+# - </span><span class="nv">$5</span><span class="sh"> = length of string
+# Output: Base64 decoded character
+function base64_decode_char() {
+    local u=</span><span class="k">${</span><span class="nv">1</span><span class="k">}</span><span class="sh">
+    local shifts=</span><span class="k">${</span><span class="nv">2</span><span class="k">}</span><span class="sh">
+    local index=</span><span class="k">$((${</span><span class="nv">3</span><span class="k">}</span><span class="o">+</span><span class="k">${</span><span class="nv">4</span><span class="k">}))</span><span class="sh">
+    local len=</span><span class="k">${</span><span class="nv">5</span><span class="k">}</span><span class="sh">
+    local result=""
+    if [[ </span><span class="k">${</span><span class="nv">index</span><span class="k">}</span><span class="sh"> -lt </span><span class="k">${</span><span class="nv">len</span><span class="k">}</span><span class="sh"> ]]
+    then
+        result="</span><span class="si">$(</span>chr <span class="k">$((</span> <span class="o">(</span><span class="k">${</span><span class="nv">u</span><span class="k">}</span><span class="o">&gt;&gt;</span><span class="k">${</span><span class="nv">shifts</span><span class="k">}</span><span class="o">)&amp;</span><span class="m">0</span>xff <span class="k">))</span> <span class="si">)</span><span class="sh">"
+    fi
+
+    echo "</span><span class="k">${</span><span class="nv">result</span><span class="k">}</span><span class="sh">"
+}
+
+# Convert ASCII code to character
+#
+# Input:
+# - </span><span class="nv">$1</span><span class="sh"> = ASCII code
+# Output: character
+function chr() {
+    printf "</span><span class="se">\\</span><span class="si">$(</span><span class="nb">printf</span> <span class="s1">'%03o'</span> <span class="s2">"</span><span class="k">${</span><span class="nv">1</span><span class="k">}</span><span class="s2">"</span><span class="si">)</span><span class="sh">"
+}
+
+# Convert character to ASCII code
+#
+# Input:
+# - </span><span class="nv">$1</span><span class="sh"> = character
+# Output:
+# - ASCII code if character is not empty, 0 otherwise
+function ord() {
+    LC_CTYPE=C printf '%d' "'</span><span class="k">${</span><span class="nv">1</span><span class="k">}</span><span class="sh">"
+}
+
+# Error if string
+if [ -z "</span><span class="nv">$2</span><span class="sh">" ]
+then
+    usage
+fi
+
+# Base64 encode/decode string if valid mode, error otherwise
+case "</span><span class="nv">$1</span><span class="sh">" in
+    encode)
+        base64_encode "</span><span class="nv">$2</span><span class="sh">"
+        ;;
+
+    decode)
+        base64_decode "</span><span class="nv">$2</span><span class="sh">"
+        ;;
+
+    *)
+        usage
+        ;;
+esac
+
+</span></code></pre></div></div>
+
+<p>Base64 Encode Decode in <a href="/languages/bash">Bash</a> was written by:</p>
+
+<ul>
+  <li>rzuckerm</li>
+</ul>
+
+<p>If you see anything you'd like to change or update, <a href="https://github.com/TheRenegadeCoder/sample-programs">please consider contributing</a>.</p>
+
+<h2 id="how-to-implement-the-solution">How to Implement the Solution</h2>
+
+<p>No 'How to Implement the Solution' section available. <a href="https://github.com/TheRenegadeCoder/sample-programs-website">Please consider contributing</a>.</p>
+
+<h2 id="how-to-run-the-solution">How to Run the Solution</h2>
+
+<p>No 'How to Run the Solution' section available. <a href="https://github.com/TheRenegadeCoder/sample-programs-website">Please consider contributing</a>.</p>
+
+</section>
+
+        <footer class="site-footer" role="contentinfo">
+  
+  <span class="site-footer-owner">
+    <a href="https://github.com/TheRenegadeCoder/sample-programs-website">
+      sample-programs-website
+    </a>
+    is maintained by
+    <a href="https://github.com/TheRenegadeCoder">TheRenegadeCoder</a>.
+  </span>
+  
+</footer>
+
+    </div>
+</body>
+<!-- End of default document body -->
+
+</html>

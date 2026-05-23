@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang=" en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico">
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=7717a154c24ec799373814fffe320590e8ffa5f3">
+
+    <script src="/assets/js/image_titler.js"></script>
+    <script src="/assets/js/scale.fix.js"></script>
+
+    <script defer data-domain="sampleprograms.io" src="https://plausible.io/js/plausible.js"></script>
+
+    <link type="application/atom+xml" rel="alternate" href="https://sampleprograms.io/feed.xml" title="Sample Programs in Every Language" />
+    
+
+<!-- Twitter cards -->
+<meta name="twitter:title" content="Depth First Search in Tcl">
+<meta name="twitter:description" content="">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://sampleprograms.io/assets/images/depth-first-search-in-every-language.jpg">
+<!-- end of Twitter cards -->
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Depth First Search in Tcl | Sample Programs in Every Language</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Depth First Search in Tcl" />
+<meta name="author" content="Ștefan-Iulian Alecu" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<meta property="og:description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<link rel="canonical" href="https://sampleprograms.io/projects/depth-first-search/tcl/" />
+<meta property="og:url" content="https://sampleprograms.io/projects/depth-first-search/tcl/" />
+<meta property="og:site_name" content="Sample Programs in Every Language" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-10-08T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Depth First Search in Tcl" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Ștefan-Iulian Alecu"},"dateModified":"2025-10-08T00:00:00+00:00","datePublished":"2025-10-08T00:00:00+00:00","description":"A Collection of Code Snippets in as Many Programming Languages as Possible","headline":"Depth First Search in Tcl","mainEntityOfPage":{"@type":"WebPage","@id":"https://sampleprograms.io/projects/depth-first-search/tcl/"},"url":"https://sampleprograms.io/projects/depth-first-search/tcl/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="monetization" content="$ilp.uphold.com/qgNaxDa2QH77">
+
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+</head>
+
+<!-- Default document body -->
+<body>
+    <div class="wrapper">
+        <header class="page-header" role="banner">
+  <h1 class="header">
+    Sample Programs in Every Language
+  </h1>
+
+  <p class="header">
+    A Collection of Code Snippets in as Many Programming Languages as Possible
+  </p>
+
+  <ul>
+    
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/zipball/main">Download ZIP</a>
+    </li>
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/tarball/main">Download TAR</a>
+    </li>
+    
+
+    <li>
+      <a class="buttons github" href="https://github.com/TheRenegadeCoder/sample-programs-website">
+        View on GitHub
+      </a>
+    </li>
+  </ul>
+
+  
+  <p class="header">
+    This project is maintained by
+    <a class="header name" href="https://github.com/TheRenegadeCoder">
+      TheRenegadeCoder
+    </a>
+  </p>
+   
+</header>
+
+        <section>
+  <nav class="top-nav">
+    <ul>
+        <li><a href="/" id="home">Home</a></li>
+        <li><a href="/languages/" id="lang">Languages</a></li>
+        <li><a href="/projects/" id="proj">Projects</a></li>
+    </ul>
+</nav>
+ 
+  <nav aria-label="Breadcrumb" class="site-navigation">
+  <ol class="breadcrumb">
+    <li><a href="/">Home</a></li>
+
+    
+    
+
+    
+      
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/">
+            Projects
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/depth-first-search/">
+            Depth first search
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <span class="active">
+            Tcl
+          </span>
+        
+      </li>
+    
+  </ol>
+</nav>
+
+  <h1>Depth First Search in Tcl</h1>
+
+  
+  <small>
+    
+        Published on 08 October 2025
+    
+
+    
+        (Updated: 08 October 2025)
+    
+    </small>
+  
+
+  
+
+<div class="featured-image">
+  <img
+    src="/assets/images/depth-first-search-in-every-language.jpg"
+    alt="Depth First Search in Tcl"
+    loading="eager"
+  >
+
+  
+    <div class="image-container" id="title1">
+      <div class="image-title">Depth First</div>
+    </div>
+  
+
+  
+    <div class="image-container" id="title2">
+      <div class="image-title">Search in Tcl</div>
+    </div>
+  
+</div>
+
+<p></p>
+
+  
+  <!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/depth-first-search/tcl/how-to-implement-the-solution.md
+- sources/programs/depth-first-search/tcl/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
+<p>Welcome to the <a href="/projects/depth-first-search">Depth First Search</a> in <a href="/languages/tcl">Tcl</a> page! Here, you'll find the source code for this program as well as a description of how the program works.</p>
+
+<h2 id="current-solution">Current Solution</h2>
+
+<div class="language-tcl highlighter-rouge"><div class="highlight"><pre class="highlight"><code>package require Tcl 8.6
+package require struct <span class="p">;</span><span class="c1"># for struct::graph</span>
+
+proc usage <span class="p">{}</span> <span class="p">{</span>
+	puts stderr <span class="p">{</span>Usage: please provide a tree in an adjacency matrix form <span class="p">(</span><span class="s2">"0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0"</span><span class="p">)</span> together with a list of vertex values <span class="p">(</span><span class="s2">"1, 3, 5, 2, 4"</span><span class="p">)</span> and the integer to find <span class="p">(</span><span class="s2">"4"</span><span class="p">)}</span>
+	exit 1
+<span class="p">}</span>
+
+proc isInteger <span class="p">{</span>x<span class="p">}</span> <span class="p">{</span> return <span class="p">[</span>string is integer -strict $x<span class="p">]</span> <span class="p">}</span>
+
+proc parseList <span class="p">{</span>s<span class="p">}</span> <span class="p">{</span>
+	set s <span class="p">[</span>string trim $s<span class="p">]</span>
+	if <span class="p">{</span><span class="nv">$s</span> eq <span class="s2">""</span><span class="p">}</span> <span class="p">{</span> usage <span class="p">}</span>
+
+	lmap t <span class="p">[</span>split $s <span class="s2">","</span><span class="p">]</span> <span class="p">{</span>
+		set t <span class="p">[</span>string trim $t<span class="p">]</span>
+		if <span class="p">{</span>!<span class="p">[</span>isInteger $t<span class="p">]}</span> <span class="p">{</span> usage <span class="p">}</span>
+		set t
+	<span class="p">}</span>
+<span class="p">}</span>
+
+proc createGraph <span class="p">{</span>matrix vertices<span class="p">}</span> <span class="p">{</span>
+	set n <span class="p">[</span>llength $vertices<span class="p">]</span>
+	if <span class="p">{[</span>llength $matrix<span class="p">]</span> != <span class="p">[</span>expr <span class="p">{</span><span class="nv">$n</span> * $n<span class="p">}]}</span> <span class="p">{</span> usage <span class="p">}</span>
+
+	set g <span class="p">[</span>struct::graph<span class="p">]</span>
+	foreach v $vertices <span class="p">{</span> $g node insert $v <span class="p">}</span>
+
+	for <span class="p">{</span>set i 0<span class="p">}</span> <span class="p">{</span><span class="nv">$i</span> &lt; $n<span class="p">}</span> <span class="p">{</span>incr i<span class="p">}</span> <span class="p">{</span>
+		for <span class="p">{</span>set j 0<span class="p">}</span> <span class="p">{</span><span class="nv">$j</span> &lt; $n<span class="p">}</span> <span class="p">{</span>incr j<span class="p">}</span> <span class="p">{</span>
+			if <span class="p">{[</span>lindex $matrix <span class="p">[</span>expr <span class="p">{</span><span class="nv">$i</span>*$n + $j<span class="p">}]]</span> != 0<span class="p">}</span> <span class="p">{</span>
+				set a <span class="p">[</span>lindex $vertices $i<span class="p">]</span>
+				set b <span class="p">[</span>lindex $vertices $j<span class="p">]</span>
+				<span class="nv">$g</span> arc insert $a $b
+			<span class="p">}</span>
+		<span class="p">}</span>
+	<span class="p">}</span>
+	return $g
+<span class="p">}</span>
+
+proc dfsCommand <span class="p">{</span>target visitedRef foundRef args<span class="p">}</span> <span class="p">{</span>
+	upvar $visitedRef visited
+	upvar $foundRef found
+
+	set event  <span class="p">[</span>lindex $args 0<span class="p">]</span>
+	set graph  <span class="p">[</span>lindex $args 1<span class="p">]</span>
+	set node   <span class="p">[</span>lindex $args 2<span class="p">]</span>
+
+	# We're only interested in what happens once we enter a node, not when
+	# we leave it.
+	if <span class="p">{</span><span class="nv">$event</span> ne <span class="s2">"enter"</span><span class="p">}</span> <span class="p">{</span> return <span class="p">}</span>
+
+	if <span class="p">{[</span>lsearch -exact $visited $node<span class="p">]</span> &gt;= 0<span class="p">}</span> <span class="p">{</span> return <span class="p">}</span>
+
+	lappend visited $node
+	if <span class="p">{</span><span class="nv">$node</span> eq $target<span class="p">}</span> <span class="p">{</span> set found 1 <span class="p">}</span>
+<span class="p">}</span>
+
+proc dfs <span class="p">{</span>graph start target<span class="p">}</span> <span class="p">{</span>
+	set found 0
+	set visited <span class="p">{}</span>
+
+	# Tcllib has DFS directly in struct::graph. However, to use it for this
+	# I need a callback to tell me whether the target was found. It is quite
+	# flexible, in typical Tcl fashion, but I don't need it to do very much.	
+	<span class="nv">$graph</span> walk $start -type dfs -dir forward <span class="se">\
+</span>		-command <span class="p">[</span>list dfsCommand $target visited found<span class="p">]</span>
+
+	return $found
+<span class="p">}</span>
+
+if <span class="p">{</span><span class="nv">$argc</span> != 3<span class="p">}</span> <span class="p">{</span> usage <span class="p">}</span>
+
+set adjMatrix <span class="p">[</span>parseList <span class="p">[</span>lindex $argv 0<span class="p">]]</span>
+set vertices  <span class="p">[</span>parseList <span class="p">[</span>lindex $argv 1<span class="p">]]</span>
+set target	  <span class="p">[</span>lindex $argv 2<span class="p">]</span>
+
+if <span class="p">{</span>!<span class="p">[</span>isInteger $target<span class="p">]}</span> <span class="p">{</span> usage <span class="p">}</span>
+
+set graph <span class="p">[</span>createGraph $adjMatrix $vertices<span class="p">]</span>
+set root  <span class="p">[</span>lindex $vertices 0<span class="p">]</span>
+
+puts <span class="p">[</span>expr <span class="p">{[</span>dfs $graph $root $target<span class="p">]</span> ? <span class="s2">"true"</span> : <span class="s2">"false"</span><span class="p">}]</span>
+
+
+</code></pre></div></div>
+
+<p>Depth First Search in <a href="/languages/tcl">Tcl</a> was written by:</p>
+
+<ul>
+  <li>Ștefan-Iulian Alecu</li>
+</ul>
+
+<p>If you see anything you'd like to change or update, <a href="https://github.com/TheRenegadeCoder/sample-programs">please consider contributing</a>.</p>
+
+<h2 id="how-to-implement-the-solution">How to Implement the Solution</h2>
+
+<p>No 'How to Implement the Solution' section available. <a href="https://github.com/TheRenegadeCoder/sample-programs-website">Please consider contributing</a>.</p>
+
+<h2 id="how-to-run-the-solution">How to Run the Solution</h2>
+
+<p>No 'How to Run the Solution' section available. <a href="https://github.com/TheRenegadeCoder/sample-programs-website">Please consider contributing</a>.</p>
+
+</section>
+
+        <footer class="site-footer" role="contentinfo">
+  
+  <span class="site-footer-owner">
+    <a href="https://github.com/TheRenegadeCoder/sample-programs-website">
+      sample-programs-website
+    </a>
+    is maintained by
+    <a href="https://github.com/TheRenegadeCoder">TheRenegadeCoder</a>.
+  </span>
+  
+</footer>
+
+    </div>
+</body>
+<!-- End of default document body -->
+
+</html>

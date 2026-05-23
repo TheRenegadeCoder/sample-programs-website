@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang=" en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico">
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=7717a154c24ec799373814fffe320590e8ffa5f3">
+
+    <script src="/assets/js/image_titler.js"></script>
+    <script src="/assets/js/scale.fix.js"></script>
+
+    <script defer data-domain="sampleprograms.io" src="https://plausible.io/js/plausible.js"></script>
+
+    <link type="application/atom+xml" rel="alternate" href="https://sampleprograms.io/feed.xml" title="Sample Programs in Every Language" />
+    
+
+<!-- Twitter cards -->
+<meta name="twitter:title" content="File Input Output in GNU Make">
+<meta name="twitter:description" content="">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://sampleprograms.io/assets/images/file-input-output-in-every-language.jpg">
+<!-- end of Twitter cards -->
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>File Input Output in GNU Make | Sample Programs in Every Language</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="File Input Output in GNU Make" />
+<meta name="author" content="Ron Zuckerman" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<meta property="og:description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<link rel="canonical" href="https://sampleprograms.io/projects/file-input-output/gnu-make/" />
+<meta property="og:url" content="https://sampleprograms.io/projects/file-input-output/gnu-make/" />
+<meta property="og:site_name" content="Sample Programs in Every Language" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-07-13T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="File Input Output in GNU Make" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Ron Zuckerman"},"dateModified":"2023-07-13T00:00:00+00:00","datePublished":"2023-07-13T00:00:00+00:00","description":"A Collection of Code Snippets in as Many Programming Languages as Possible","headline":"File Input Output in GNU Make","mainEntityOfPage":{"@type":"WebPage","@id":"https://sampleprograms.io/projects/file-input-output/gnu-make/"},"url":"https://sampleprograms.io/projects/file-input-output/gnu-make/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="monetization" content="$ilp.uphold.com/qgNaxDa2QH77">
+
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+</head>
+
+<!-- Default document body -->
+<body>
+    <div class="wrapper">
+        <header class="page-header" role="banner">
+  <h1 class="header">
+    Sample Programs in Every Language
+  </h1>
+
+  <p class="header">
+    A Collection of Code Snippets in as Many Programming Languages as Possible
+  </p>
+
+  <ul>
+    
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/zipball/main">Download ZIP</a>
+    </li>
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/tarball/main">Download TAR</a>
+    </li>
+    
+
+    <li>
+      <a class="buttons github" href="https://github.com/TheRenegadeCoder/sample-programs-website">
+        View on GitHub
+      </a>
+    </li>
+  </ul>
+
+  
+  <p class="header">
+    This project is maintained by
+    <a class="header name" href="https://github.com/TheRenegadeCoder">
+      TheRenegadeCoder
+    </a>
+  </p>
+   
+</header>
+
+        <section>
+  <nav class="top-nav">
+    <ul>
+        <li><a href="/" id="home">Home</a></li>
+        <li><a href="/languages/" id="lang">Languages</a></li>
+        <li><a href="/projects/" id="proj">Projects</a></li>
+    </ul>
+</nav>
+ 
+  <nav aria-label="Breadcrumb" class="site-navigation">
+  <ol class="breadcrumb">
+    <li><a href="/">Home</a></li>
+
+    
+    
+
+    
+      
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/">
+            Projects
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/file-input-output/">
+            File input output
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <span class="active">
+            Gnu make
+          </span>
+        
+      </li>
+    
+  </ol>
+</nav>
+
+  <h1>File Input Output in GNU Make</h1>
+
+  
+  <small>
+    
+        Published on 13 July 2023
+    
+
+    
+        (Updated: 29 July 2023)
+    
+    </small>
+  
+
+  
+
+<div class="featured-image">
+  <img
+    src="/assets/images/file-input-output-in-every-language.jpg"
+    alt="File Input Output in GNU Make"
+    loading="eager"
+  >
+
+  
+    <div class="image-container" id="title1">
+      <div class="image-title">File Input Output</div>
+    </div>
+  
+
+  
+    <div class="image-container" id="title2">
+      <div class="image-title">in GNU Make</div>
+    </div>
+  
+</div>
+
+<p></p>
+
+  
+  <!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/file-input-output/gnu-make/how-to-implement-the-solution.md
+- sources/programs/file-input-output/gnu-make/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
+<p>Welcome to the <a href="/projects/file-input-output">File Input Output</a> in <a href="/languages/gnu-make">GNU Make</a> page! Here, you'll find the source code for this program as well as a description of how the program works.</p>
+
+<h2 id="current-solution">Current Solution</h2>
+
+<pre><code class="language-gnu_make">define TEXT
+Hello from GNU Make
+Here are some lines:
+This is line 1
+This is line 2
+Goodbye!
+endef
+
+$(file &gt;output.txt,$(TEXT))
+$(info $(file &lt;output.txt))
+
+.PHONY: all
+all: ;@:
+
+</code></pre>
+
+<p>File Input Output in <a href="/languages/gnu-make">GNU Make</a> was written by:</p>
+
+<ul>
+  <li>rzuckerm</li>
+</ul>
+
+<p>This article was written by:</p>
+
+<ul>
+  <li>Ron Zuckerman</li>
+  <li>rzuckerm</li>
+</ul>
+
+<p>If you see anything you'd like to change or update, <a href="https://github.com/TheRenegadeCoder/sample-programs">please consider contributing</a>.</p>
+
+<h2 id="how-to-implement-the-solution">How to Implement the Solution</h2>
+
+<p>The <a href="https://www.gnu.org/software/make/manual/html_node/Multi_002dLine.html">define</a> keyword assigns a multi-line value to a variable. The value
+is terminated with an <code class="language-plaintext highlighter-rouge">endef</code> keyword. For this sample program, this is the
+text that will be written to the output file:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="err">define</span> <span class="err">TEXT</span>
+<span class="err">Hello</span> <span class="err">from</span> <span class="err">GNU</span> <span class="err">Make</span>
+<span class="nl">Here are some lines</span><span class="o">:</span>
+<span class="err">This</span> <span class="err">is</span> <span class="err">line</span> <span class="err">1</span>
+<span class="err">This</span> <span class="err">is</span> <span class="err">line</span> <span class="err">2</span>
+<span class="err">Goodbye!</span>
+<span class="err">endef</span>
+</code></pre></div></div>
+
+<p>The <a href="https://www.gnu.org/software/make/manual/html_node/File-Function.html">file</a> function allows files to be read and written. The general form
+of this function is this:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="err">$(file</span> <span class="err">op</span> <span class="err">filename[,text])</span>
+</code></pre></div></div>
+
+<p>where:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">op</code> is the file operation:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">&lt;</code> means input from the specified file.</li>
+      <li><code class="language-plaintext highlighter-rouge">&gt;</code> means output to the specified file.</li>
+      <li><code class="language-plaintext highlighter-rouge">&gt;&gt;</code> means append to the specified file.</li>
+    </ul>
+  </li>
+  <li><code class="language-plaintext highlighter-rouge">filename</code> is the path to the file.</li>
+  <li><code class="language-plaintext highlighter-rouge">text</code> is the text to be written to the file for the <code class="language-plaintext highlighter-rouge">&gt;</code> and <code class="language-plaintext highlighter-rouge">&gt;&gt;</code> file
+operations.</li>
+</ul>
+
+<p>This writes the text (stored in the <code class="language-plaintext highlighter-rouge">TEXT</code> variable) to a file called
+<code class="language-plaintext highlighter-rouge">output.txt</code>:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="err">$(file</span> <span class="err">&gt;output.txt,$(TEXT))</span>
+</code></pre></div></div>
+
+<p>This reads the text from <code class="language-plaintext highlighter-rouge">output.txt</code> and displays it using the <a href="https://www.gnu.org/software/make/manual/html_node/Make-Control-Functions.html">info</a>
+function.</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="err">$(info</span> <span class="err">$(file</span> <span class="err">&lt;output.txt))</span>
+</code></pre></div></div>
+
+<p>Since GNU Make is a build system, it needs something to build, or else it will
+give this error:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>make: *** No targets.  Stop.
+</code></pre></div></div>
+
+<p>To give <code class="language-plaintext highlighter-rouge">make</code> something to do, a "do nothing" target called <code class="language-plaintext highlighter-rouge">all</code> is provided
+like this:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nl">.PHONY</span><span class="o">:</span> <span class="nf">all</span>
+<span class="nl">all</span><span class="o">:</span> <span class="nf">;@:</span>
+</code></pre></div></div>
+
+<p>The <a href="https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html">.PHONY</a> keyword specifies targets that will always be built, whether or
+not they exist. In this case, that is the <code class="language-plaintext highlighter-rouge">all</code> target. This target is written
+in the <a href="https://www.gnu.org/software/make/manual/html_node/Rule-Syntax.html">alternate form</a> for brevity:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nl">target</span><span class="o">:</span> <span class="nf">;command</span>
+</code></pre></div></div>
+
+<p>This means that whenever the target needs to be built, <code class="language-plaintext highlighter-rouge">make</code> will execute the
+command following the semicolon. By default, <code class="language-plaintext highlighter-rouge">make</code> <a href="https://www.gnu.org/software/make/manual/html_node/Echoing.html">echoes each command</a>
+that it executes. To suppress this, <code class="language-plaintext highlighter-rouge">@</code> may be used before the command. The
+<a href="https://man7.org/linux/man-pages/man1/colon.1p.html">colon (:) command</a> just exits with non-error status.</p>
+
+<h2 id="how-to-run-the-solution">How to Run the Solution</h2>
+
+<p>To run this program, download and install the latest GNU Make using these
+instructions:</p>
+
+<ul>
+  <li><a href="https://leangaurav.medium.com/how-to-setup-install-gnu-make-on-windows-324480f1da69">Windows</a></li>
+  <li>For <a href="https://www.incredibuild.com/integrations/gnu-make">Linux</a>, see "How to Download" section</li>
+  <li><a href="https://formulae.brew.sh/formula/make">Mac</a></li>
+</ul>
+
+<p>Download a copy of <a href="https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/g/gnu-make/file-input-output.mk">File Input Output in GNU Make</a>, and run this command:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>make -sf file-input-output.mk
+</code></pre></div></div>
+
+
+</section>
+
+        <footer class="site-footer" role="contentinfo">
+  
+  <span class="site-footer-owner">
+    <a href="https://github.com/TheRenegadeCoder/sample-programs-website">
+      sample-programs-website
+    </a>
+    is maintained by
+    <a href="https://github.com/TheRenegadeCoder">TheRenegadeCoder</a>.
+  </span>
+  
+</footer>
+
+    </div>
+</body>
+<!-- End of default document body -->
+
+</html>

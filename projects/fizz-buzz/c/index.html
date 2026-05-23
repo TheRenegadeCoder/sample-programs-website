@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang=" en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico">
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=7717a154c24ec799373814fffe320590e8ffa5f3">
+
+    <script src="/assets/js/image_titler.js"></script>
+    <script src="/assets/js/scale.fix.js"></script>
+
+    <script defer data-domain="sampleprograms.io" src="https://plausible.io/js/plausible.js"></script>
+
+    <link type="application/atom+xml" rel="alternate" href="https://sampleprograms.io/feed.xml" title="Sample Programs in Every Language" />
+    
+
+<!-- Twitter cards -->
+<meta name="twitter:title" content="Fizz Buzz in C">
+<meta name="twitter:description" content="">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://sampleprograms.io/assets/images/fizz-buzz-in-every-language.png">
+<!-- end of Twitter cards -->
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Fizz Buzz in C | Sample Programs in Every Language</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Fizz Buzz in C" />
+<meta name="author" content="Jeremy Grifski" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<meta property="og:description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<link rel="canonical" href="https://sampleprograms.io/projects/fizz-buzz/c/" />
+<meta property="og:url" content="https://sampleprograms.io/projects/fizz-buzz/c/" />
+<meta property="og:site_name" content="Sample Programs in Every Language" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-08-16T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Fizz Buzz in C" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Jeremy Grifski"},"dateModified":"2018-08-16T00:00:00+00:00","datePublished":"2018-08-16T00:00:00+00:00","description":"A Collection of Code Snippets in as Many Programming Languages as Possible","headline":"Fizz Buzz in C","mainEntityOfPage":{"@type":"WebPage","@id":"https://sampleprograms.io/projects/fizz-buzz/c/"},"url":"https://sampleprograms.io/projects/fizz-buzz/c/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="monetization" content="$ilp.uphold.com/qgNaxDa2QH77">
+
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+</head>
+
+<!-- Default document body -->
+<body>
+    <div class="wrapper">
+        <header class="page-header" role="banner">
+  <h1 class="header">
+    Sample Programs in Every Language
+  </h1>
+
+  <p class="header">
+    A Collection of Code Snippets in as Many Programming Languages as Possible
+  </p>
+
+  <ul>
+    
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/zipball/main">Download ZIP</a>
+    </li>
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/tarball/main">Download TAR</a>
+    </li>
+    
+
+    <li>
+      <a class="buttons github" href="https://github.com/TheRenegadeCoder/sample-programs-website">
+        View on GitHub
+      </a>
+    </li>
+  </ul>
+
+  
+  <p class="header">
+    This project is maintained by
+    <a class="header name" href="https://github.com/TheRenegadeCoder">
+      TheRenegadeCoder
+    </a>
+  </p>
+   
+</header>
+
+        <section>
+  <nav class="top-nav">
+    <ul>
+        <li><a href="/" id="home">Home</a></li>
+        <li><a href="/languages/" id="lang">Languages</a></li>
+        <li><a href="/projects/" id="proj">Projects</a></li>
+    </ul>
+</nav>
+ 
+  <nav aria-label="Breadcrumb" class="site-navigation">
+  <ol class="breadcrumb">
+    <li><a href="/">Home</a></li>
+
+    
+    
+
+    
+      
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/">
+            Projects
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/fizz-buzz/">
+            Fizz buzz
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <span class="active">
+            C
+          </span>
+        
+      </li>
+    
+  </ol>
+</nav>
+
+  <h1>Fizz Buzz in C</h1>
+
+  
+  <small>
+    
+        Published on 16 August 2018
+    
+
+    
+        (Updated: 15 April 2026)
+    
+    </small>
+  
+
+  
+
+<div class="featured-image">
+  <img
+    src="/assets/images/fizz-buzz-in-every-language.png"
+    alt="Fizz Buzz in C"
+    loading="eager"
+  >
+
+  
+    <div class="image-container" id="title1">
+      <div class="image-title">Fizz Buzz</div>
+    </div>
+  
+
+  
+    <div class="image-container" id="title2">
+      <div class="image-title">in C</div>
+    </div>
+  
+</div>
+
+<p></p>
+
+  
+  <!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/fizz-buzz/c/how-to-implement-the-solution.md
+- sources/programs/fizz-buzz/c/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
+<p>Welcome to the <a href="/projects/fizz-buzz">Fizz Buzz</a> in <a href="/languages/c">C</a> page! Here, you'll find the source code for this program as well as a description of how the program works.</p>
+
+<h2 id="current-solution">Current Solution</h2>
+
+<div class="language-c highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">#include</span> <span class="cpf">&lt;stdio.h&gt;</span><span class="cp">
+</span>
+<span class="kt">int</span> <span class="nf">main</span><span class="p">(</span><span class="kt">void</span><span class="p">)</span>
+<span class="p">{</span>
+    <span class="k">for</span> <span class="p">(</span><span class="kt">unsigned</span> <span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;=</span> <span class="mi">100</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span>
+        <span class="k">if</span> <span class="p">(</span><span class="n">i</span> <span class="o">%</span> <span class="mi">15</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span>
+            <span class="n">puts</span><span class="p">(</span><span class="s">"FizzBuzz"</span><span class="p">);</span>
+        <span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="n">i</span> <span class="o">%</span> <span class="mi">3</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span>
+            <span class="n">puts</span><span class="p">(</span><span class="s">"Fizz"</span><span class="p">);</span>
+        <span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="n">i</span> <span class="o">%</span> <span class="mi">5</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span>
+            <span class="n">puts</span><span class="p">(</span><span class="s">"Buzz"</span><span class="p">);</span>
+        <span class="k">else</span>
+            <span class="n">printf</span><span class="p">(</span><span class="s">"%u</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="n">i</span><span class="p">);</span>
+    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+
+</code></pre></div></div>
+
+<p>Fizz Buzz in <a href="/languages/c">C</a> was written by:</p>
+
+<ul>
+  <li>Jeremy Grifski</li>
+  <li>Ștefan-Iulian Alecu</li>
+</ul>
+
+<p>This article was written by:</p>
+
+<ul>
+  <li>Jeremy Grifski</li>
+  <li>rzuckerm</li>
+  <li>shubhragupta-code</li>
+</ul>
+
+<p>If you see anything you'd like to change or update, <a href="https://github.com/TheRenegadeCoder/sample-programs">please consider contributing</a>.</p>
+
+<p><strong>Note</strong>: The solution shown above is the current solution in the Sample Programs repository as of Apr 15 2026 00:50:56. The solution was first committed on Aug 16 2018 16:34:06. The documentation was last updated on May 15 2023 15:51:23. As a result, documentation below may be outdated.</p>
+
+<h2 id="how-to-implement-the-solution">How to Implement the Solution</h2>
+
+<blockquote>
+  <p>Write a program that prints the numbers 1 to 100. However, for multiples of three,
+print "Fizz" instead of the number. Meanwhile, for multiples of five, print "Buzz"
+instead of the number. For numbers which are multiples of both three and five,
+print "FizzBuzz"</p>
+</blockquote>
+
+<p>Now, let us take a look at the code for FizzBuzz in C.</p>
+
+<p>Let's understand this code block by block.</p>
+
+<h3 id="main-function">Main Function</h3>
+
+<div class="language-c highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">#include</span> <span class="cpf">&lt;stdio.h&gt;</span><span class="cp">
+</span></code></pre></div></div>
+
+<p>Here, we are including Standard Input/Output header file (<code class="language-plaintext highlighter-rouge">.h</code> files) using <a href="https://en.wikipedia.org/wiki/Include_directive">include directive</a> in order to use <strong>printf()</strong> and <strong>puts()</strong> function later in the program.</p>
+
+<div class="language-c highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kt">int</span> <span class="nf">main</span><span class="p">(</span><span class="kt">void</span><span class="p">)</span>
+<span class="p">{</span>
+</code></pre></div></div>
+
+<p>In C, we declare a function using general form:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>return_type function_name(parameter){
+  ...
+}
+</code></pre></div></div>
+
+<p>So, here we are declaring <strong>main</strong> function with return type integer and void as a parameter, i.e., no input from the user.</p>
+
+<h3 id="for-loop">For Loop</h3>
+
+<div class="language-c highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">for</span> <span class="p">(</span><span class="kt">unsigned</span> <span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;=</span> <span class="mi">100</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+    <span class="p">...</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>In this block, we first created a <strong>for</strong> loop initializing <em>i</em> as an unsigned integer(non-negative integers) as 1 and increasing it by 1 every time the <em>for loop</em> iterates. This <strong>for</strong> loop will iterate until the value of <em>i</em> is equal to 100.</p>
+
+<p>Before moving onto <em>if-elseif</em> statements, we should consider <strong>puts()</strong> and <strong>printf()</strong> functions. <strong>puts()</strong> writes null-terminated string into stdout(standard output - a file descriptor where a process can write output) and adding a newline at the end. <strong>printf()</strong> prints formatted string. In this program, we are using <strong>%u</strong> as a format specifier for unsigned integers.</p>
+
+<h3 id="control-flow">Control flow</h3>
+
+<div class="language-c highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">if</span> <span class="p">(</span><span class="n">i</span> <span class="o">%</span> <span class="mi">15</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+    <span class="n">puts</span><span class="p">(</span><span class="s">"FizzBuzz"</span><span class="p">);</span>
+<span class="p">}</span> <span class="k">else</span> <span class="nf">if</span> <span class="p">(</span><span class="n">i</span> <span class="o">%</span> <span class="mi">3</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+    <span class="n">puts</span><span class="p">(</span><span class="s">"Fizz"</span><span class="p">);</span>
+<span class="p">}</span> <span class="k">else</span> <span class="nf">if</span> <span class="p">(</span><span class="n">i</span> <span class="o">%</span> <span class="mi">5</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+    <span class="n">puts</span><span class="p">(</span><span class="s">"Buzz"</span><span class="p">);</span>
+<span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+    <span class="n">printf</span><span class="p">(</span><span class="s">"%u</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="n">i</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>Now, variable <em>i</em> which we initialized in for loop, will check for following conditions:</p>
+<ul>
+  <li>If <em>i</em> is divisible by 15, <strong>FizzBuzz</strong> is printed. Otherwise,</li>
+  <li>if <em>i</em> is divisible by 3, <strong>Fizz</strong> is printed.Otherwise,</li>
+  <li>If <em>i</em> is divisible by 5, <strong>Buzz</strong> is printed. Otherwise,</li>
+  <li>That number, i.e., <em>i</em> gets printed.</li>
+</ul>
+
+<p>Finally, <code class="language-plaintext highlighter-rouge">return 0;</code> returns 0 to main program, which indicates zero errors.</p>
+
+<h2 id="how-to-run-the-solution">How to Run the Solution</h2>
+
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">gcc -o fizz-buzz fizz-buzz.c
+./fizz-buzz
+</span></code></pre></div></div>
+<p>Another handy option is to compile and run using online C Compiler such as <a href="https://www.onlinegdb.com/">OnlineGDB</a>, <a href="https://replit.com/languages/c">Repl</a></p>
+
+
+</section>
+
+        <footer class="site-footer" role="contentinfo">
+  
+  <span class="site-footer-owner">
+    <a href="https://github.com/TheRenegadeCoder/sample-programs-website">
+      sample-programs-website
+    </a>
+    is maintained by
+    <a href="https://github.com/TheRenegadeCoder">TheRenegadeCoder</a>.
+  </span>
+  
+</footer>
+
+    </div>
+</body>
+<!-- End of default document body -->
+
+</html>

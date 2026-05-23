@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang=" en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico">
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=7717a154c24ec799373814fffe320590e8ffa5f3">
+
+    <script src="/assets/js/image_titler.js"></script>
+    <script src="/assets/js/scale.fix.js"></script>
+
+    <script defer data-domain="sampleprograms.io" src="https://plausible.io/js/plausible.js"></script>
+
+    <link type="application/atom+xml" rel="alternate" href="https://sampleprograms.io/feed.xml" title="Sample Programs in Every Language" />
+    
+
+<!-- Twitter cards -->
+<meta name="twitter:title" content="Selection Sort in Python">
+<meta name="twitter:description" content="">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://sampleprograms.io/assets/images/selection-sort-in-every-language.jpg">
+<!-- end of Twitter cards -->
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Selection Sort in Python | Sample Programs in Every Language</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Selection Sort in Python" />
+<meta name="author" content="Haseeb Majid" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<meta property="og:description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<link rel="canonical" href="https://sampleprograms.io/projects/selection-sort/python/" />
+<meta property="og:url" content="https://sampleprograms.io/projects/selection-sort/python/" />
+<meta property="og:site_name" content="Sample Programs in Every Language" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-12-23T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Selection Sort in Python" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Haseeb Majid"},"dateModified":"2018-12-23T00:00:00+00:00","datePublished":"2018-12-23T00:00:00+00:00","description":"A Collection of Code Snippets in as Many Programming Languages as Possible","headline":"Selection Sort in Python","mainEntityOfPage":{"@type":"WebPage","@id":"https://sampleprograms.io/projects/selection-sort/python/"},"url":"https://sampleprograms.io/projects/selection-sort/python/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="monetization" content="$ilp.uphold.com/qgNaxDa2QH77">
+
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+</head>
+
+<!-- Default document body -->
+<body>
+    <div class="wrapper">
+        <header class="page-header" role="banner">
+  <h1 class="header">
+    Sample Programs in Every Language
+  </h1>
+
+  <p class="header">
+    A Collection of Code Snippets in as Many Programming Languages as Possible
+  </p>
+
+  <ul>
+    
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/zipball/main">Download ZIP</a>
+    </li>
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/tarball/main">Download TAR</a>
+    </li>
+    
+
+    <li>
+      <a class="buttons github" href="https://github.com/TheRenegadeCoder/sample-programs-website">
+        View on GitHub
+      </a>
+    </li>
+  </ul>
+
+  
+  <p class="header">
+    This project is maintained by
+    <a class="header name" href="https://github.com/TheRenegadeCoder">
+      TheRenegadeCoder
+    </a>
+  </p>
+   
+</header>
+
+        <section>
+  <nav class="top-nav">
+    <ul>
+        <li><a href="/" id="home">Home</a></li>
+        <li><a href="/languages/" id="lang">Languages</a></li>
+        <li><a href="/projects/" id="proj">Projects</a></li>
+    </ul>
+</nav>
+ 
+  <nav aria-label="Breadcrumb" class="site-navigation">
+  <ol class="breadcrumb">
+    <li><a href="/">Home</a></li>
+
+    
+    
+
+    
+      
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/">
+            Projects
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/selection-sort/">
+            Selection sort
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <span class="active">
+            Python
+          </span>
+        
+      </li>
+    
+  </ol>
+</nav>
+
+  <h1>Selection Sort in Python</h1>
+
+  
+  <small>
+    
+        Published on 23 December 2018
+    
+
+    
+        (Updated: 15 May 2023)
+    
+    </small>
+  
+
+  
+
+<div class="featured-image">
+  <img
+    src="/assets/images/selection-sort-in-every-language.jpg"
+    alt="Selection Sort in Python"
+    loading="eager"
+  >
+
+  
+    <div class="image-container" id="title1">
+      <div class="image-title">Selection Sort</div>
+    </div>
+  
+
+  
+    <div class="image-container" id="title2">
+      <div class="image-title">in Python</div>
+    </div>
+  
+</div>
+
+<p></p>
+
+  
+  <!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/selection-sort/python/how-to-implement-the-solution.md
+- sources/programs/selection-sort/python/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
+<p>Welcome to the <a href="/projects/selection-sort">Selection Sort</a> in <a href="/languages/python">Python</a> page! Here, you'll find the source code for this program as well as a description of how the program works.</p>
+
+<h2 id="current-solution">Current Solution</h2>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">sys</span>
+
+
+<span class="k">def</span> <span class="nf">selection_sort</span><span class="p">(</span><span class="n">xs</span><span class="p">,</span> <span class="n">sorted_xs</span><span class="o">=</span><span class="bp">None</span><span class="p">):</span>
+    <span class="n">sorted_xs</span> <span class="o">=</span> <span class="n">sorted_xs</span> <span class="ow">or</span> <span class="p">[]</span>
+    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">xs</span><span class="p">)</span> <span class="o">&lt;=</span> <span class="mi">0</span><span class="p">:</span>
+        <span class="k">return</span> <span class="n">sorted_xs</span>
+    <span class="n">x</span> <span class="o">=</span> <span class="nb">min</span><span class="p">(</span><span class="n">xs</span><span class="p">)</span>
+    <span class="n">sorted_xs</span><span class="p">.</span><span class="n">append</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
+    <span class="n">xs</span><span class="p">.</span><span class="n">remove</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
+    <span class="k">return</span> <span class="n">selection_sort</span><span class="p">(</span><span class="n">xs</span><span class="p">,</span> <span class="n">sorted_xs</span><span class="p">)</span>
+
+
+<span class="k">def</span> <span class="nf">input_list</span><span class="p">(</span><span class="n">list_str</span><span class="p">):</span>
+    <span class="k">return</span> <span class="p">[</span><span class="nb">int</span><span class="p">(</span><span class="n">x</span><span class="p">.</span><span class="n">strip</span><span class="p">(</span><span class="s">" "</span><span class="p">),</span> <span class="mi">10</span><span class="p">)</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">list_str</span><span class="p">.</span><span class="n">split</span><span class="p">(</span><span class="s">','</span><span class="p">)]</span>
+
+
+<span class="k">def</span> <span class="nf">exit_with_error</span><span class="p">():</span>
+    <span class="k">print</span><span class="p">(</span><span class="s">'Usage: please provide a list of at least two integers to sort in the format "1, 2, 3, 4, 5"'</span><span class="p">)</span>
+    <span class="n">sys</span><span class="p">.</span><span class="nb">exit</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
+
+
+<span class="k">def</span> <span class="nf">main</span><span class="p">(</span><span class="n">args</span><span class="p">):</span>
+    <span class="k">try</span><span class="p">:</span>
+        <span class="n">xs</span> <span class="o">=</span> <span class="n">input_list</span><span class="p">(</span><span class="n">args</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
+        <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">xs</span><span class="p">)</span> <span class="o">&lt;=</span> <span class="mi">1</span><span class="p">:</span>
+            <span class="n">exit_with_error</span><span class="p">()</span>
+        <span class="k">print</span><span class="p">(</span><span class="n">selection_sort</span><span class="p">(</span><span class="n">xs</span><span class="p">))</span>
+    <span class="k">except</span> <span class="p">(</span><span class="nb">IndexError</span><span class="p">,</span> <span class="nb">ValueError</span><span class="p">):</span>
+        <span class="n">exit_with_error</span><span class="p">()</span>
+
+
+<span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">"__main__"</span><span class="p">:</span>
+    <span class="n">main</span><span class="p">(</span><span class="n">sys</span><span class="p">.</span><span class="n">argv</span><span class="p">[</span><span class="mi">1</span><span class="p">:])</span>
+
+</code></pre></div></div>
+
+<p>Selection Sort in <a href="/languages/python">Python</a> was written by:</p>
+
+<ul>
+  <li>Jeremy Grifski</li>
+  <li>Parker Johansen</li>
+</ul>
+
+<p>This article was written by:</p>
+
+<ul>
+  <li>Haseeb Majid</li>
+  <li>Jeremy Grifski</li>
+  <li>rzuckerm</li>
+</ul>
+
+<p>If you see anything you'd like to change or update, <a href="https://github.com/TheRenegadeCoder/sample-programs">please consider contributing</a>.</p>
+
+<h2 id="how-to-implement-the-solution">How to Implement the Solution</h2>
+
+<p>Let's dig into the code a bit. The following sections break
+down the Selection Sort in Python functionality.</p>
+
+<h3 id="the-main-function">The Main Function</h3>
+
+<p>Breaking down this solution bottom up,</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">"__main__"</span><span class="p">:</span>
+    <span class="n">main</span><span class="p">(</span><span class="n">sys</span><span class="p">.</span><span class="n">argv</span><span class="p">[</span><span class="mi">1</span><span class="p">:])</span>
+</code></pre></div></div>
+
+<p>This bit of code checks to see if this is the <code class="language-plaintext highlighter-rouge">main</code> module run. If it is it then calls the <code class="language-plaintext highlighter-rouge">main</code>
+function and passes user input to it. In this case the user input would be a string of numbers to sort
+like so: <code class="language-plaintext highlighter-rouge">"2, 1, 10, 5, 3"</code>.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">main</span><span class="p">(</span><span class="n">args</span><span class="p">):</span>
+    <span class="k">try</span><span class="p">:</span>
+        <span class="n">xs</span> <span class="o">=</span> <span class="n">input_list</span><span class="p">(</span><span class="n">args</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
+        <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">xs</span><span class="p">)</span> <span class="o">&lt;=</span> <span class="mi">1</span><span class="p">:</span>
+            <span class="n">exit_with_error</span><span class="p">()</span>
+        <span class="k">print</span><span class="p">(</span><span class="n">selection_sort</span><span class="p">(</span><span class="n">xs</span><span class="p">))</span>
+    <span class="k">except</span> <span class="p">(</span><span class="nb">IndexError</span><span class="p">,</span> <span class="nb">ValueError</span><span class="p">):</span>
+        <span class="n">exit_with_error</span><span class="p">()</span>
+</code></pre></div></div>
+
+<p>This is the <code class="language-plaintext highlighter-rouge">main</code> function of this file. It parses the input, then calls our selection sort
+function (and prints the results). It also deals with any errors raised.</p>
+
+<h3 id="transform-input-parameters">Transform Input Parameters</h3>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">input_list</span><span class="p">(</span><span class="n">list_str</span><span class="p">):</span>
+    <span class="k">return</span> <span class="p">[</span><span class="nb">int</span><span class="p">(</span><span class="n">x</span><span class="p">.</span><span class="n">strip</span><span class="p">(</span><span class="s">" "</span><span class="p">),</span> <span class="mi">10</span><span class="p">)</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">list_str</span><span class="p">.</span><span class="n">split</span><span class="p">(</span><span class="s">','</span><span class="p">)]</span>
+</code></pre></div></div>
+
+<p>This function takes a string like <code class="language-plaintext highlighter-rouge">"2, 1, 10, 5, 3"</code>, and turns into a list of numbers.
+It does this using a list comprehension, first we need to convert our string into a
+list <code class="language-plaintext highlighter-rouge">list_str.split(',')</code> which is a list of strings split by comma (<code class="language-plaintext highlighter-rouge">,</code>).
+So our original input string becomes <code class="language-plaintext highlighter-rouge">["2", " 1", " 10", " 5", " 3"]</code>. Then for each
+element in the list <code class="language-plaintext highlighter-rouge">for x in ...</code> ,  we do something to it.</p>
+
+<p>In this example we convert it into a decimal integer, <code class="language-plaintext highlighter-rouge">int(x.strip(" "), 10)</code>. Then <code class="language-plaintext highlighter-rouge">x.strip(" ")</code>,
+removes any whitespace so <code class="language-plaintext highlighter-rouge">" 1"</code> becomes <code class="language-plaintext highlighter-rouge">"1"</code>. Then <code class="language-plaintext highlighter-rouge">int("1", 10)</code>
+converts the string <code class="language-plaintext highlighter-rouge">"1"</code> into a decimal number in this case <code class="language-plaintext highlighter-rouge">1</code>. This is done
+for every item in the list so our original input of <code class="language-plaintext highlighter-rouge">"2, 1, 10, 5, 3"</code> becomes <code class="language-plaintext highlighter-rouge">[2, 1, 10, 5, 3]</code>.</p>
+
+<h3 id="throw-errors">Throw Errors</h3>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">exit_with_error</span><span class="p">():</span>
+    <span class="k">print</span><span class="p">(</span><span class="s">'Usage: please provide a list of at least two integers to sort in the format "1, 2, 3, 4, 5"'</span><span class="p">)</span>
+    <span class="n">sys</span><span class="p">.</span><span class="nb">exit</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>This function prints a message and then exits the script with an error, <code class="language-plaintext highlighter-rouge">sys.exit(1)</code>.
+If any non-zero value is returned then the program didn't complete properly. This function is called
+if the user input isn't correct.</p>
+
+<h3 id="selection-sort">Selection Sort</h3>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">selection_sort</span><span class="p">(</span><span class="n">xs</span><span class="p">,</span> <span class="n">sorted_xs</span><span class="o">=</span><span class="bp">None</span><span class="p">):</span>
+    <span class="n">sorted_xs</span> <span class="o">=</span> <span class="n">sorted_xs</span> <span class="ow">or</span> <span class="p">[]</span>
+    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">xs</span><span class="p">)</span> <span class="o">&lt;=</span> <span class="mi">0</span><span class="p">:</span>
+        <span class="k">return</span> <span class="n">sorted_xs</span>
+    <span class="n">x</span> <span class="o">=</span> <span class="nb">min</span><span class="p">(</span><span class="n">xs</span><span class="p">)</span>
+    <span class="n">sorted_xs</span><span class="p">.</span><span class="n">append</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
+    <span class="n">xs</span><span class="p">.</span><span class="n">remove</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
+    <span class="k">return</span> <span class="n">selection_sort</span><span class="p">(</span><span class="n">xs</span><span class="p">,</span> <span class="n">sorted_xs</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>Now onto the main part of the program, this is the function that actually sorts our list.
+The <code class="language-plaintext highlighter-rouge">selection_sort()</code> takes two parameters <code class="language-plaintext highlighter-rouge">xs</code> which is the unsorted list and <code class="language-plaintext highlighter-rouge">sorted_xs</code>
+which funnily enough is the current sorted list. When you first call the <code class="language-plaintext highlighter-rouge">selection_sort()</code>
+function you then pass it to your unsorted list as <code class="language-plaintext highlighter-rouge">sorted_xs=None</code> by default.</p>
+
+<p>If the <code class="language-plaintext highlighter-rouge">sorted_xs</code> value is set (not <code class="language-plaintext highlighter-rouge">None</code>) then we make <code class="language-plaintext highlighter-rouge">sorted_xs</code> equal itself, else
+<code class="language-plaintext highlighter-rouge">sorted_xs</code> equals <code class="language-plaintext highlighter-rouge">[]</code> (an empty list). You should never make a mutable object a default
+argument in Python as you get can get unexpected result. You can get more
+information <a href="http://effbot.org/zone/default-values.htm">here</a>. Therefore we set
+<code class="language-plaintext highlighter-rouge">sorted_xs=None</code> instead of <code class="language-plaintext highlighter-rouge">sorted_xs=[]</code>.</p>
+
+<p>Then we check if xs is empty (<code class="language-plaintext highlighter-rouge">&lt;=0</code>), which would mean we have sorted every element,
+then we return the <code class="language-plaintext highlighter-rouge">sorted_xs</code> which is the sorted this. We can do this because
+as we sort element we move them from <code class="language-plaintext highlighter-rouge">xs</code> to <code class="language-plaintext highlighter-rouge">sorted_xs</code> ( items get removed from the <code class="language-plaintext highlighter-rouge">xs</code> list).</p>
+
+<p>If <code class="language-plaintext highlighter-rouge">xs</code> still has items then that means we haven't completely sorted the list.
+We found the smallest value in <code class="language-plaintext highlighter-rouge">x = min(xs)</code>. We append that value to <code class="language-plaintext highlighter-rouge">sorted_xs</code> and then we
+remove it from the <code class="language-plaintext highlighter-rouge">xs</code> list. Finally, we call the selection sort function with the new <code class="language-plaintext highlighter-rouge">xs</code> and
+<code class="language-plaintext highlighter-rouge">sorted_xs</code> values. This repeats until <code class="language-plaintext highlighter-rouge">xs</code> is empty and you are left with a completely sorted
+<code class="language-plaintext highlighter-rouge">sorted_xs</code>.</p>
+
+<p>Taking a look at a simple example where we want to sort <code class="language-plaintext highlighter-rouge">[5, 1, 3]</code>.</p>
+
+<p>1st:</p>
+
+<ul>
+  <li>Call <code class="language-plaintext highlighter-rouge">selection_sort([5, 1, 3])</code></li>
+  <li><code class="language-plaintext highlighter-rouge">xs = [5, 1, 3]</code>, <code class="language-plaintext highlighter-rouge">sorted_xs=[]</code></li>
+  <li>Minimum value is <code class="language-plaintext highlighter-rouge">1</code></li>
+  <li><code class="language-plaintext highlighter-rouge">xs = [5, 3]</code>, <code class="language-plaintext highlighter-rouge">sorted_xs = [1]</code></li>
+  <li><code class="language-plaintext highlighter-rouge">selection_sort([5, 3], [1])</code></li>
+</ul>
+
+<p>2nd:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">xs = [5, 3]</code>, <code class="language-plaintext highlighter-rouge">sorted_xs = [1]</code></li>
+  <li>Minimum value is <code class="language-plaintext highlighter-rouge">3</code></li>
+  <li><code class="language-plaintext highlighter-rouge">xs = [5]</code>, <code class="language-plaintext highlighter-rouge">sorted_xs = [1, 3]</code></li>
+  <li><code class="language-plaintext highlighter-rouge">selection_sort([5], [1, 3])</code></li>
+</ul>
+
+<p>3rd:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">xs = [5]</code>, <code class="language-plaintext highlighter-rouge">sorted_xs = [1, 3]</code></li>
+  <li>Minimum value is <code class="language-plaintext highlighter-rouge">5</code></li>
+  <li><code class="language-plaintext highlighter-rouge">xs = []</code>, <code class="language-plaintext highlighter-rouge">sorted_xs = [1, 3, 5]</code></li>
+  <li><code class="language-plaintext highlighter-rouge">selection_sort([], [1, 3, 5])</code></li>
+</ul>
+
+<p>4th:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">xs = []</code>, <code class="language-plaintext highlighter-rouge">sorted_xs = [1, 3, 5]</code></li>
+  <li><code class="language-plaintext highlighter-rouge">len(xs) &lt;= 0</code>, as we have 0 elements</li>
+  <li>So we return <code class="language-plaintext highlighter-rouge">sorted_xs = [1, 3, 5]</code></li>
+</ul>
+
+<h2 id="how-to-run-the-solution">How to Run the Solution</h2>
+
+<p>If we want to run this program, we should probably download a copy of <a href="https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/p/python/selection_sort.py">Selection Sort in Python</a>.
+After that, we should make sure we have the <a href="https://www.python.org/downloads/">latest Python interpreter</a>. From there, we can run the following command in the terminal:</p>
+
+<p><code class="language-plaintext highlighter-rouge">python selection-sort.py "3, 2, 10, 6, 1, 7"</code></p>
+
+<p>Alternatively, we can copy the solution into an <a href="https://www.online-python.com/">online Python interpreter</a> and hit run.</p>
+
+</section>
+
+        <footer class="site-footer" role="contentinfo">
+  
+  <span class="site-footer-owner">
+    <a href="https://github.com/TheRenegadeCoder/sample-programs-website">
+      sample-programs-website
+    </a>
+    is maintained by
+    <a href="https://github.com/TheRenegadeCoder">TheRenegadeCoder</a>.
+  </span>
+  
+</footer>
+
+    </div>
+</body>
+<!-- End of default document body -->
+
+</html>

@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang=" en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico">
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=7717a154c24ec799373814fffe320590e8ffa5f3">
+
+    <script src="/assets/js/image_titler.js"></script>
+    <script src="/assets/js/scale.fix.js"></script>
+
+    <script defer data-domain="sampleprograms.io" src="https://plausible.io/js/plausible.js"></script>
+
+    <link type="application/atom+xml" rel="alternate" href="https://sampleprograms.io/feed.xml" title="Sample Programs in Every Language" />
+    
+
+<!-- Twitter cards -->
+<meta name="twitter:title" content="Fizz Buzz in PowerShell">
+<meta name="twitter:description" content="">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://sampleprograms.io/assets/images/fizz-buzz-in-every-language.png">
+<!-- end of Twitter cards -->
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Fizz Buzz in PowerShell | Sample Programs in Every Language</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Fizz Buzz in PowerShell" />
+<meta name="author" content="Devin Leaman" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<meta property="og:description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<link rel="canonical" href="https://sampleprograms.io/projects/fizz-buzz/powershell/" />
+<meta property="og:url" content="https://sampleprograms.io/projects/fizz-buzz/powershell/" />
+<meta property="og:site_name" content="Sample Programs in Every Language" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-08-04T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Fizz Buzz in PowerShell" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Devin Leaman"},"dateModified":"2018-08-04T00:00:00+00:00","datePublished":"2018-08-04T00:00:00+00:00","description":"A Collection of Code Snippets in as Many Programming Languages as Possible","headline":"Fizz Buzz in PowerShell","mainEntityOfPage":{"@type":"WebPage","@id":"https://sampleprograms.io/projects/fizz-buzz/powershell/"},"url":"https://sampleprograms.io/projects/fizz-buzz/powershell/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="monetization" content="$ilp.uphold.com/qgNaxDa2QH77">
+
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+</head>
+
+<!-- Default document body -->
+<body>
+    <div class="wrapper">
+        <header class="page-header" role="banner">
+  <h1 class="header">
+    Sample Programs in Every Language
+  </h1>
+
+  <p class="header">
+    A Collection of Code Snippets in as Many Programming Languages as Possible
+  </p>
+
+  <ul>
+    
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/zipball/main">Download ZIP</a>
+    </li>
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/tarball/main">Download TAR</a>
+    </li>
+    
+
+    <li>
+      <a class="buttons github" href="https://github.com/TheRenegadeCoder/sample-programs-website">
+        View on GitHub
+      </a>
+    </li>
+  </ul>
+
+  
+  <p class="header">
+    This project is maintained by
+    <a class="header name" href="https://github.com/TheRenegadeCoder">
+      TheRenegadeCoder
+    </a>
+  </p>
+   
+</header>
+
+        <section>
+  <nav class="top-nav">
+    <ul>
+        <li><a href="/" id="home">Home</a></li>
+        <li><a href="/languages/" id="lang">Languages</a></li>
+        <li><a href="/projects/" id="proj">Projects</a></li>
+    </ul>
+</nav>
+ 
+  <nav aria-label="Breadcrumb" class="site-navigation">
+  <ol class="breadcrumb">
+    <li><a href="/">Home</a></li>
+
+    
+    
+
+    
+      
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/">
+            Projects
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/fizz-buzz/">
+            Fizz buzz
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <span class="active">
+            Powershell
+          </span>
+        
+      </li>
+    
+  </ol>
+</nav>
+
+  <h1>Fizz Buzz in PowerShell</h1>
+
+  
+  <small>
+    
+        Published on 04 August 2018
+    
+
+    
+        (Updated: 15 May 2023)
+    
+    </small>
+  
+
+  
+
+<div class="featured-image">
+  <img
+    src="/assets/images/fizz-buzz-in-every-language.png"
+    alt="Fizz Buzz in PowerShell"
+    loading="eager"
+  >
+
+  
+    <div class="image-container" id="title1">
+      <div class="image-title">Fizz Buzz in</div>
+    </div>
+  
+
+  
+    <div class="image-container" id="title2">
+      <div class="image-title">PowerShell</div>
+    </div>
+  
+</div>
+
+<p></p>
+
+  
+  <!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/fizz-buzz/powershell/how-to-implement-the-solution.md
+- sources/programs/fizz-buzz/powershell/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
+<p>Welcome to the <a href="/projects/fizz-buzz">Fizz Buzz</a> in <a href="/languages/powershell">PowerShell</a> page! Here, you'll find the source code for this program as well as a description of how the program works.</p>
+
+<h2 id="current-solution">Current Solution</h2>
+
+<div class="language-powershell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cm">&lt;#
+</span><span class="cs">.SYNOPSIS</span><span class="cm">
+  A simple script that solves the standard FizzBuzz interview problem.
+
+</span><span class="cs">.DESCRIPTION</span><span class="cm">
+  A simple script that solves the FizzBuzz interview problem to illustrate flow
+control within a PowerShell script.
+
+</span><span class="cs">.PARAMETER</span><span class="cm"> Min
+  The minimium value to start counting at (inclusive). Defaults to 1.
+
+</span><span class="cs">.PARAMETER</span><span class="cm"> Max
+  The maximum value to count to (inclusive). Defaults to 100.
+
+</span><span class="cs">.EXAMPLE</span><span class="cm">
+  .\FizzBuzz.ps1
+1
+2
+Fizz
+4
+Buzz
+Fizz
+...
+
+</span><span class="cs">.EXAMPLE</span><span class="cm">
+  .\FizzBuzz.ps1 -Min 0 -Max 75
+FizzBuzz
+1
+2
+Fizz
+4
+...
+
+</span><span class="cs">.NOTES</span><span class="cm">
+  For reference, here's a copy of the FizzBuzz problem that this script solves,
+the only difference between the requested solution and this script is the script
+will let you determine the minimum and maximum values if you desire:
+
+"Write a program that prints the numbers 1 to 100. However, for multiples of
+three, print "Fizz" instead of the number. Meanwhile, for multiples of five,
+print "Buzz" instead of the number. For numbers which are multiples of both,
+print "FizzBuzz"
+#&gt;</span><span class="w">
+</span><span class="p">[</span><span class="n">CmdletBinding</span><span class="p">()]</span><span class="w">
+</span><span class="kr">param</span><span class="w"> </span><span class="p">(</span><span class="w">
+  </span><span class="p">[</span><span class="n">Parameter</span><span class="p">(</span><span class="n">Mandatory</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="bp">$false</span><span class="p">,</span><span class="w"> </span><span class="n">Position</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">)]</span><span class="w">
+  </span><span class="p">[</span><span class="n">int</span><span class="p">]</span><span class="nv">$Min</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span><span class="w">
+
+  </span><span class="p">[</span><span class="n">Parameter</span><span class="p">(</span><span class="n">Mandatory</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="bp">$false</span><span class="p">,</span><span class="w"> </span><span class="n">Position</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">1</span><span class="p">)]</span><span class="w">
+  </span><span class="p">[</span><span class="n">int</span><span class="p">]</span><span class="nv">$Max</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">100</span><span class="w">
+</span><span class="p">)</span><span class="w">
+
+</span><span class="kr">for</span><span class="w"> </span><span class="p">(</span><span class="nv">$X</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">$Min</span><span class="p">;</span><span class="w"> </span><span class="nv">$X</span><span class="w"> </span><span class="o">-le</span><span class="w"> </span><span class="nv">$Max</span><span class="p">;</span><span class="w"> </span><span class="nv">$X</span><span class="o">++</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+  </span><span class="nv">$Output</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">""</span><span class="w">
+
+  </span><span class="kr">if</span><span class="w"> </span><span class="p">(</span><span class="nv">$X</span><span class="w"> </span><span class="o">%</span><span class="w"> </span><span class="mi">3</span><span class="w"> </span><span class="o">-eq</span><span class="w"> </span><span class="mi">0</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nv">$Output</span><span class="w"> </span><span class="o">+=</span><span class="w"> </span><span class="s2">"Fizz"</span><span class="w"> </span><span class="p">}</span><span class="w">
+  </span><span class="kr">if</span><span class="w"> </span><span class="p">(</span><span class="nv">$X</span><span class="w"> </span><span class="o">%</span><span class="w"> </span><span class="mi">5</span><span class="w"> </span><span class="o">-eq</span><span class="w"> </span><span class="mi">0</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nv">$Output</span><span class="w"> </span><span class="o">+=</span><span class="w"> </span><span class="s2">"Buzz"</span><span class="w"> </span><span class="p">}</span><span class="w">
+  </span><span class="kr">if</span><span class="w"> </span><span class="p">(</span><span class="nv">$Output</span><span class="w"> </span><span class="o">-eq</span><span class="w"> </span><span class="s2">""</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nv">$Output</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">$X</span><span class="w"> </span><span class="p">}</span><span class="w">
+
+  </span><span class="n">Write-Output</span><span class="w"> </span><span class="nv">$Output</span><span class="w">
+</span><span class="p">}</span><span class="w">
+
+</span></code></pre></div></div>
+
+<p>Fizz Buzz in <a href="/languages/powershell">PowerShell</a> was written by:</p>
+
+<ul>
+  <li>Devin Leaman</li>
+  <li>rzuckerm</li>
+</ul>
+
+<p>This article was written by:</p>
+
+<ul>
+  <li>Jeremy Grifski</li>
+  <li>rzuckerm</li>
+</ul>
+
+<p>If you see anything you'd like to change or update, <a href="https://github.com/TheRenegadeCoder/sample-programs">please consider contributing</a>.</p>
+
+<h2 id="how-to-implement-the-solution">How to Implement the Solution</h2>
+
+<p>I'm going to start with a little anecdote before getting started on the meaty
+portion of this article, so feel free to skip ahead to <a href="#no-more-anecdote">No More Anecdote</a>
+if you're just not that interested 😅, I completely understand.</p>
+
+<p>I realized about two weeks ago that I hadn't written anything in a while and had
+a bit of a desire to write, with nothing coming to mind on what to write. I was
+also dealing with a nagging feeling in my brain of "Should I really write another
+article?", and if I did, "Who really cares if I write another article? There are
+countless others writing about the same stuff", among other negative thoughts.</p>
+
+<p>I went to a get together with some of my best friends to eat tacos, drink some
+tequila, and just enjoy each others company. While I was there, one of my more
+technically oriented friends came up to me and we began talking about my work,
+playing Overwatch, and other nerdy things, when he mentions to me that he enjoyed
+reading my past articles. While he may not be a currently active developer and
+that some of the stuff goes over his head, I've "got a knack for it" as he said.</p>
+
+<blockquote>
+  <p>Tron that are heavily requested by the user base. It was enough to remind me the
+whole reason I started writing these is for the off-chance that someone like that
+would enjoy my writing and possibly get them more interested in programming, learn
+something new, or simply enjoy the read for the sake of reading something interesting.</p>
+</blockquote>
+
+<p>In the end, I'd like to say thank you again to that friend of mine for the
+encouraging words, as I probably wouldn't have had the motivation to start on
+this without them 💗.</p>
+
+<h3 id="no-more-anecdote">No More Anecdote</h3>
+
+<p>And now we're off to the juicy bits of the article! 🤤 If you're unfamiliar with
+the Fizz Buzz interview problem, it's a relatively simple problem that is adept
+at testing your knowledge and fundamental understanding of a given programming
+language as well as showing the interviewer what kind of developer you are.</p>
+
+<p>For example, do you prefer to toss a bunch of things at the wall and see what
+works and whittle away the excess? Or do you prefer to lay out a plan for the
+program before you even write some code? If you'd like more information on the
+things interviewers can glean from a Fizz Buzz solution, feel free to check out
+this article from Lionell Pack on Forbes.</p>
+
+<h3 id="whats-the-problem">What's The Problem?</h3>
+
+<p>The actual problem was (from what I can tell, please correct me if I'm wrong)
+initially put forth by Imron Ghory over on his blog and it was based on a "group
+word game for children to teach them about division." While there's a number of
+different ways to word this problem, here's the wording we're going to be working
+with:</p>
+
+<blockquote>
+  <p>Write a program that prints the numbers 1 to 100. However, for multiples of
+three, print "Fizz" instead of the number. Meanwhile, for multiples of five,
+print "Buzz" instead of the number. For numbers which are multiples of both,
+print "FizzBuzz."</p>
+</blockquote>
+
+<p>This means there are a few things we need to keep in mind or consider:</p>
+
+<ul>
+  <li>The minimum value of 1.</li>
+  <li>The maximum value of 100.</li>
+  <li>Determine which order to check for multiples to avoid missing edge cases.</li>
+  <li>Write the output to the console.</li>
+</ul>
+
+<p>Where to Start?</p>
+
+<p>Well, this is where it varies for everyone. Depending on how you tend to work
+as a developer, your entry point will vary. Personally, I'll be starting by
+creating the for loop that will iterate through all the numbers we need to analyze.
+This starts us off with something like the following for PowerShell:</p>
+
+<div class="language-powershell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kr">for</span><span class="w"> </span><span class="p">(</span><span class="nv">$x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">1</span><span class="p">;</span><span class="w"> </span><span class="nv">$x</span><span class="w"> </span><span class="o">-le</span><span class="w"> </span><span class="mi">100</span><span class="p">;</span><span class="w"> </span><span class="nv">$x</span><span class="o">++</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+  </span><span class="n">Write-Output</span><span class="w"> </span><span class="nv">$x</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p>This will get us a starting point of outputting every number from 1 to 100. Now
+we should start putting in some if statements to determine if $x is a multiple
+of 3, 5, or both. As is the case with most modern programming languages, PowerShell
+has a modulus operator that will return the remainder of the division between two
+numbers.</p>
+
+<p>For example, doing <code class="language-plaintext highlighter-rouge">Write-Output (25 % 5)</code> would output <code class="language-plaintext highlighter-rouge">0</code>, since 25 divided by 5
+has no remainder. This also happens to mean the first value is a multiple of
+the second, which we can use to determine the multiples of <code class="language-plaintext highlighter-rouge">$x</code>. When I first
+wrote this script, my solution looked like so:</p>
+
+<div class="language-powershell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kr">for</span><span class="p">(</span><span class="nv">$x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">1</span><span class="p">;</span><span class="w"> </span><span class="nv">$x</span><span class="w"> </span><span class="o">-le</span><span class="w"> </span><span class="mi">100</span><span class="p">;</span><span class="w"> </span><span class="nv">$x</span><span class="o">++</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+  </span><span class="nv">$Threes</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">$x</span><span class="o">%</span><span class="mi">3</span><span class="w">
+  </span><span class="nv">$Fives</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">$x</span><span class="o">%</span><span class="mi">5</span><span class="w">
+  </span><span class="kr">if</span><span class="w"> </span><span class="p">((</span><span class="nv">$Threes</span><span class="w"> </span><span class="o">-eq</span><span class="w"> </span><span class="mi">0</span><span class="p">)</span><span class="w"> </span><span class="o">-and</span><span class="w"> </span><span class="p">(</span><span class="nv">$Fives</span><span class="w"> </span><span class="o">-eq</span><span class="w"> </span><span class="mi">0</span><span class="p">))</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="n">Write-Output</span><span class="w"> </span><span class="s2">"FizzBuzz"</span><span class="w">
+  </span><span class="p">}</span><span class="w"> </span><span class="kr">else</span><span class="w"> </span><span class="kr">if</span><span class="w"> </span><span class="p">(</span><span class="nv">$Threes</span><span class="w"> </span><span class="o">-eq</span><span class="w"> </span><span class="mi">0</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="n">Write-Output</span><span class="w"> </span><span class="s2">"Fizz"</span><span class="w">
+  </span><span class="p">}</span><span class="w"> </span><span class="kr">else</span><span class="w"> </span><span class="kr">if</span><span class="w"> </span><span class="p">(</span><span class="nv">$Fives</span><span class="w"> </span><span class="o">-eq</span><span class="w"> </span><span class="mi">0</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="n">Write-Output</span><span class="w"> </span><span class="s2">"Buzz"</span><span class="w">
+  </span><span class="p">}</span><span class="w"> </span><span class="kr">else</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="n">Write-Output</span><span class="w"> </span><span class="nv">$x</span><span class="w">
+  </span><span class="p">}</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<h3 id="cleaning-up-our-first-draft">Cleaning Up Our First Draft</h3>
+
+<p>While this works, it's a bit clunky and doesn't allow for us to easily modify it
+in the future if we want to add cases other than being a multiple of 3 or 5. I
+hadn't quite realized this until I went looking for more information on this
+problem and found a video by Tom Scott. He pointed out that you could easily
+account for future adjustments by combining the output as a single variable for
+each number.</p>
+
+<p>While he used JavaScript, the solution should be easily understandable and looks
+like so:</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">for</span> <span class="p">(</span><span class="kd">var</span> <span class="nx">i</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span> <span class="nx">i</span> <span class="o">&lt;=</span> <span class="mi">100</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+  <span class="kd">var</span> <span class="nx">output</span> <span class="o">=</span> <span class="dl">""</span>
+  <span class="k">if</span> <span class="p">(</span><span class="nx">i</span> <span class="o">%</span> <span class="mi">3</span> <span class="o">===</span> <span class="mi">0</span><span class="p">)</span> <span class="nx">output</span> <span class="o">+=</span> <span class="dl">"</span><span class="s2">Fizz</span><span class="dl">"</span>
+  <span class="k">if</span> <span class="p">(</span><span class="nx">i</span> <span class="o">%</span> <span class="mi">5</span> <span class="o">===</span> <span class="mi">0</span><span class="p">)</span> <span class="nx">output</span> <span class="o">+=</span> <span class="dl">"</span><span class="s2">Buzz</span><span class="dl">"</span>
+  <span class="k">if</span> <span class="p">(</span><span class="nx">output</span> <span class="o">===</span> <span class="dl">""</span><span class="p">)</span> <span class="nx">output</span> <span class="o">=</span> <span class="nx">i</span>
+  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">output</span><span class="p">)</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>As you can see, he creates the output variable for each iteration of <code class="language-plaintext highlighter-rouge">$x</code> and
+depending on the multiples, adds or replaces values to that variable. Then, in
+the end, he outputs it to the console using console.log.</p>
+
+<p>Translating this to PowerShell, we get something like so:</p>
+
+<div class="language-powershell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kr">for</span><span class="w"> </span><span class="p">(</span><span class="nv">$x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">1</span><span class="p">;</span><span class="w"> </span><span class="nv">$x</span><span class="w"> </span><span class="o">-le</span><span class="w"> </span><span class="mi">100</span><span class="p">;</span><span class="w"> </span><span class="nv">$x</span><span class="o">++</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+  </span><span class="nv">$Output</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">""</span><span class="w">
+  </span><span class="kr">if</span><span class="w"> </span><span class="p">(</span><span class="nv">$x</span><span class="o">%</span><span class="mi">3</span><span class="w"> </span><span class="o">-eq</span><span class="w"> </span><span class="mi">0</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nv">$Output</span><span class="w"> </span><span class="o">+=</span><span class="w"> </span><span class="s2">"Fizz"</span><span class="w"> </span><span class="p">}</span><span class="w">
+  </span><span class="kr">if</span><span class="w"> </span><span class="p">(</span><span class="nv">$x</span><span class="o">%</span><span class="mi">5</span><span class="w"> </span><span class="o">-eq</span><span class="w"> </span><span class="mi">0</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nv">$Output</span><span class="w"> </span><span class="o">+=</span><span class="w"> </span><span class="s2">"Buzz"</span><span class="w"> </span><span class="p">}</span><span class="w">
+  </span><span class="kr">if</span><span class="w"> </span><span class="p">(</span><span class="nv">$Output</span><span class="w"> </span><span class="o">-eq</span><span class="w"> </span><span class="s2">""</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nv">$Output</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">$x</span><span class="w"> </span><span class="p">}</span><span class="w">
+  </span><span class="n">Write-Output</span><span class="w"> </span><span class="nv">$Output</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p>At this point, we have a working solution to the Fizz Buzz problem written in
+PowerShell.</p>
+
+<h3 id="finally-a-script">Finally, A Script!</h3>
+
+<p>Now, since this is PowerShell, it's no fun just having a for loop that we need
+to copy paste. No, we need a script! 😈</p>
+
+<p>I created a file simply titled  FizzBuzz.ps1` and got to work by adding the standard
+goodies at the top of a PowerShell script:</p>
+
+<div class="language-powershell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">[</span><span class="n">CmdletBinding</span><span class="p">()]</span><span class="w">
+</span><span class="kr">param</span><span class="w"> </span><span class="p">()</span><span class="w">
+</span></code></pre></div></div>
+
+<p>Since I was initially writing this script for the sample programs repository I
+contribute to, I knew I wanted to support more than going from 1 to 100. Instead,
+I wanted users to be able to provide a minimum and maximum parameter that would
+let them modify the output. This simply means adding two parameters to the <code class="language-plaintext highlighter-rouge">param()</code>
+field like so:</p>
+
+<div class="language-powershell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kr">param</span><span class="w"> </span><span class="p">(</span><span class="w">
+  </span><span class="p">[</span><span class="n">Parameter</span><span class="p">(</span><span class="n">Mandatory</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="bp">$false</span><span class="p">,</span><span class="w"> </span><span class="n">Position</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">)]</span><span class="w">
+  </span><span class="p">[</span><span class="n">int</span><span class="p">]</span><span class="nv">$Min</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span><span class="w">
+  </span><span class="p">[</span><span class="n">Parameter</span><span class="p">(</span><span class="n">Mandatory</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="bp">$false</span><span class="p">,</span><span class="w"> </span><span class="n">Position</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">1</span><span class="p">)]</span><span class="w">
+  </span><span class="p">[</span><span class="n">int</span><span class="p">]</span><span class="nv">$Max</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">100</span><span class="w">
+</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
+
+<p>The Mandatory and Position attributes tell PowerShell that the parameters have
+default values and that they aren't mandatory, and the position attribute makes
+it possible to do something like .\FizzBuzz.ps1 0 75 to adjust the min and max
+without having to specify the parameter names. Then, with some minor changes to
+the for loop, we have our finished result!</p>
+
+<div class="language-powershell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cm">&lt;#
+</span><span class="cs">.SYNOPSIS</span><span class="cm">
+  A simple script that solves the standard FizzBuzz interview problem.
+</span><span class="cs">.DESCRIPTION</span><span class="cm">
+  A simple script that solves the FizzBuzz interview problem to illustrate flow
+control within a PowerShell script.
+</span><span class="cs">.PARAMETER</span><span class="cm"> Min
+  The minimium value to start counting at (inclusive). Defaults to 1.
+</span><span class="cs">.PARAMETER</span><span class="cm"> Max
+  The maximum value to count to (inclusive). Defaults to 100.
+</span><span class="cs">.EXAMPLE</span><span class="cm">
+  .\FizzBuzz.ps1
+1
+2
+Fizz
+4
+Buzz
+[[[Fizz][0]][0]][0]
+...
+</span><span class="cs">.EXAMPLE</span><span class="cm">
+  .\FizzBuzz.ps1 -Min 10 -Max 75
+Buzz
+11
+Fizz
+13
+14
+FizzBuzz
+16
+...
+</span><span class="cs">.NOTES</span><span class="cm">
+  For reference, here's a copy of the FizzBuzz problem that this script solves,
+the only difference between the requested solution and this script is the script
+will let you determine the minimum and maximum values if you desire:
+"Write a program that prints the numbers 1 to 100. However, for multiples of
+three, print "Fizz" instead of the number. Meanwhile, for multiples of five,
+print "Buzz" instead of the number. For numbers which are multiples of both,
+print "FizzBuzz"
+#&gt;</span><span class="w">
+</span><span class="p">[</span><span class="n">CmdletBinding</span><span class="p">()]</span><span class="w">
+</span><span class="kr">param</span><span class="w"> </span><span class="p">(</span><span class="w">
+  </span><span class="p">[</span><span class="n">Parameter</span><span class="p">(</span><span class="n">Mandatory</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="bp">$false</span><span class="p">,</span><span class="w"> </span><span class="n">Position</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">)]</span><span class="w">
+  </span><span class="p">[</span><span class="n">int</span><span class="p">]</span><span class="nv">$Min</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span><span class="w">
+  </span><span class="p">[</span><span class="n">Parameter</span><span class="p">(</span><span class="n">Mandatory</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="bp">$false</span><span class="p">,</span><span class="w"> </span><span class="n">Position</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">1</span><span class="p">)]</span><span class="w">
+  </span><span class="p">[</span><span class="n">int</span><span class="p">]</span><span class="nv">$Max</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">100</span><span class="w">
+</span><span class="p">)</span><span class="w">
+</span><span class="kr">for</span><span class="w"> </span><span class="p">(</span><span class="nv">$X</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">$Min</span><span class="p">;</span><span class="w"> </span><span class="nv">$X</span><span class="w"> </span><span class="o">-le</span><span class="w"> </span><span class="nv">$Max</span><span class="p">;</span><span class="w"> </span><span class="nv">$X</span><span class="o">++</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+  </span><span class="nv">$Output</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">""</span><span class="w">
+  </span><span class="kr">if</span><span class="w"> </span><span class="p">(</span><span class="nv">$X</span><span class="w"> </span><span class="o">%</span><span class="w"> </span><span class="mi">3</span><span class="w"> </span><span class="o">-eq</span><span class="w"> </span><span class="mi">0</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nv">$Output</span><span class="w"> </span><span class="o">+=</span><span class="w"> </span><span class="s2">"Fizz"</span><span class="w"> </span><span class="p">}</span><span class="w">
+  </span><span class="kr">if</span><span class="w"> </span><span class="p">(</span><span class="nv">$X</span><span class="w"> </span><span class="o">%</span><span class="w"> </span><span class="mi">5</span><span class="w"> </span><span class="o">-eq</span><span class="w"> </span><span class="mi">0</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nv">$Output</span><span class="w"> </span><span class="o">+=</span><span class="w"> </span><span class="s2">"Buzz"</span><span class="w"> </span><span class="p">}</span><span class="w">
+  </span><span class="kr">if</span><span class="w"> </span><span class="p">(</span><span class="nv">$Output</span><span class="w"> </span><span class="o">-eq</span><span class="w"> </span><span class="s2">""</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nv">$Output</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">$X</span><span class="w"> </span><span class="p">}</span><span class="w">
+  </span><span class="n">Write-Output</span><span class="w"> </span><span class="nv">$Output</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<h2 id="how-to-run-the-solution">How to Run the Solution</h2>
+
+<p>To run the Fizz Buzz script, launch a PowerShell console, grab a copy of the
+Fizz Buzz script from the repository (or copy/paste the code from above 😉),
+and then execute it.</p>
+
+<p>NOTE: If you have a secure Execution Policy, you'll have to set it to unrestricted
+before executing this script.</p>
+
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">$</span>Url <span class="o">=</span> <span class="s2">"https://raw.githubusercontent.com/TheRenegadeCoder/sample-programs/main/archive/p/powershell/FizzBuzz.ps1"</span>
+<span class="gp">$</span>CurrPath <span class="o">=</span> <span class="o">(</span>Get-Location<span class="o">)</span>.Path
+<span class="gp">$</span>FilePath <span class="o">=</span> <span class="s2">"</span><span class="nv">$CurrPath</span><span class="se">\F</span><span class="s2">izzBuzz.ps1"</span>
+<span class="gp">$</span>WebClient <span class="o">=</span> New-Object System.Net.WebClient
+<span class="gp">$</span>WebClient.DownloadFile<span class="o">(</span><span class="nv">$Url</span>, <span class="nv">$FilePath</span><span class="o">)</span>
+<span class="gp">#</span><span class="w"> </span>Only use option 2 <span class="k">if </span>you<span class="s1">'re unable to execute the script due to an ExecutionPolicy restriction.
+</span><span class="gp">#</span><span class="w"> </span><span class="s1">Afterward, reconfigure your policy to something more secure, such as options 2 or 3.
+</span><span class="gp">#</span><span class="w">
+</span><span class="gp">#</span><span class="w"> </span><span class="s1">Option 1:
+</span><span class="gp">#</span><span class="w"> </span><span class="s1">Set-ExecutionPolicy Unrestricted
+</span><span class="gp">#</span><span class="w">
+</span><span class="gp">#</span><span class="w"> </span><span class="s1">Option 2:
+</span><span class="gp">#</span><span class="w"> </span><span class="s1">Set-ExecutionPolicy AllSigned
+</span><span class="gp">#</span><span class="w">
+</span><span class="gp">#</span><span class="w"> </span><span class="s1">Option 3:
+</span><span class="gp">#</span><span class="w"> </span><span class="s1">Set-ExecutionPolicy RemoteSigned
+</span><span class="go">.\FizzBuzz.ps1
+</span><span class="gp">#</span><span class="w"> </span>Output:
+<span class="gp">#</span><span class="w"> </span>1
+<span class="gp">#</span><span class="w"> </span>2
+<span class="gp">#</span><span class="w"> </span>Fizz
+<span class="gp">#</span><span class="w"> </span>4
+<span class="gp">#</span><span class="w"> </span>Buzz
+<span class="gp">#</span><span class="w"> </span>Fizz
+<span class="gp">#</span><span class="w"> </span>7
+<span class="gp">#</span><span class="w"> </span>8
+<span class="gp">#</span><span class="w"> </span>Fizz
+<span class="gp">#</span><span class="w"> </span>Buzz
+<span class="gp">#</span><span class="w"> </span>11
+<span class="gp">#</span><span class="w"> </span>Fizz
+</code></pre></div></div>
+
+</section>
+
+        <footer class="site-footer" role="contentinfo">
+  
+  <span class="site-footer-owner">
+    <a href="https://github.com/TheRenegadeCoder/sample-programs-website">
+      sample-programs-website
+    </a>
+    is maintained by
+    <a href="https://github.com/TheRenegadeCoder">TheRenegadeCoder</a>.
+  </span>
+  
+</footer>
+
+    </div>
+</body>
+<!-- End of default document body -->
+
+</html>

@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang=" en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico">
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=7717a154c24ec799373814fffe320590e8ffa5f3">
+
+    <script src="/assets/js/image_titler.js"></script>
+    <script src="/assets/js/scale.fix.js"></script>
+
+    <script defer data-domain="sampleprograms.io" src="https://plausible.io/js/plausible.js"></script>
+
+    <link type="application/atom+xml" rel="alternate" href="https://sampleprograms.io/feed.xml" title="Sample Programs in Every Language" />
+    
+
+<!-- Twitter cards -->
+<meta name="twitter:title" content="Fizz Buzz in Lisp">
+<meta name="twitter:description" content="">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://sampleprograms.io/assets/images/fizz-buzz-in-lisp.jpg">
+<!-- end of Twitter cards -->
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Fizz Buzz in Lisp | Sample Programs in Every Language</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Fizz Buzz in Lisp" />
+<meta name="author" content="Jeremy Grifski" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<meta property="og:description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<link rel="canonical" href="https://sampleprograms.io/projects/fizz-buzz/lisp/" />
+<meta property="og:url" content="https://sampleprograms.io/projects/fizz-buzz/lisp/" />
+<meta property="og:site_name" content="Sample Programs in Every Language" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-10-18T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Fizz Buzz in Lisp" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Jeremy Grifski"},"dateModified":"2019-10-18T00:00:00+00:00","datePublished":"2019-10-18T00:00:00+00:00","description":"A Collection of Code Snippets in as Many Programming Languages as Possible","headline":"Fizz Buzz in Lisp","mainEntityOfPage":{"@type":"WebPage","@id":"https://sampleprograms.io/projects/fizz-buzz/lisp/"},"url":"https://sampleprograms.io/projects/fizz-buzz/lisp/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="monetization" content="$ilp.uphold.com/qgNaxDa2QH77">
+
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+</head>
+
+<!-- Default document body -->
+<body>
+    <div class="wrapper">
+        <header class="page-header" role="banner">
+  <h1 class="header">
+    Sample Programs in Every Language
+  </h1>
+
+  <p class="header">
+    A Collection of Code Snippets in as Many Programming Languages as Possible
+  </p>
+
+  <ul>
+    
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/zipball/main">Download ZIP</a>
+    </li>
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/tarball/main">Download TAR</a>
+    </li>
+    
+
+    <li>
+      <a class="buttons github" href="https://github.com/TheRenegadeCoder/sample-programs-website">
+        View on GitHub
+      </a>
+    </li>
+  </ul>
+
+  
+  <p class="header">
+    This project is maintained by
+    <a class="header name" href="https://github.com/TheRenegadeCoder">
+      TheRenegadeCoder
+    </a>
+  </p>
+   
+</header>
+
+        <section>
+  <nav class="top-nav">
+    <ul>
+        <li><a href="/" id="home">Home</a></li>
+        <li><a href="/languages/" id="lang">Languages</a></li>
+        <li><a href="/projects/" id="proj">Projects</a></li>
+    </ul>
+</nav>
+ 
+  <nav aria-label="Breadcrumb" class="site-navigation">
+  <ol class="breadcrumb">
+    <li><a href="/">Home</a></li>
+
+    
+    
+
+    
+      
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/">
+            Projects
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/fizz-buzz/">
+            Fizz buzz
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <span class="active">
+            Lisp
+          </span>
+        
+      </li>
+    
+  </ol>
+</nav>
+
+  <h1>Fizz Buzz in Lisp</h1>
+
+  
+  <small>
+    
+        Published on 18 October 2019
+    
+
+    
+        (Updated: 15 May 2023)
+    
+    </small>
+  
+
+  
+
+<div class="featured-image">
+  <img
+    src="/assets/images/fizz-buzz-in-lisp.jpg"
+    alt="Fizz Buzz in Lisp"
+    loading="eager"
+  >
+
+  
+    <div class="image-container" id="title1">
+      <div class="image-title">Fizz Buzz</div>
+    </div>
+  
+
+  
+    <div class="image-container" id="title2">
+      <div class="image-title">in Lisp</div>
+    </div>
+  
+</div>
+
+<p></p>
+
+  
+  <!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/fizz-buzz/lisp/how-to-implement-the-solution.md
+- sources/programs/fizz-buzz/lisp/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
+<p>Welcome to the <a href="/projects/fizz-buzz">Fizz Buzz</a> in <a href="/languages/lisp">Lisp</a> page! Here, you'll find the source code for this program as well as a description of how the program works.</p>
+
+<h2 id="current-solution">Current Solution</h2>
+
+<div class="language-lisp highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">(</span><span class="nb">defun</span> <span class="nv">divides-by</span> <span class="p">(</span><span class="nv">num</span> <span class="nv">divisor</span><span class="p">)</span>
+    <span class="p">(</span><span class="nb">=</span> <span class="p">(</span><span class="nb">mod</span> <span class="nv">num</span> <span class="nv">divisor</span><span class="p">)</span> <span class="mi">0</span><span class="p">))</span>
+
+<span class="p">(</span><span class="nb">dotimes</span> <span class="p">(</span><span class="nv">num</span> <span class="mi">100</span><span class="p">)</span>
+    <span class="p">(</span><span class="nb">write-line</span>
+      <span class="p">(</span><span class="nb">cond</span>
+        <span class="p">((</span><span class="nb">and</span> <span class="p">(</span><span class="nv">divides-by</span> <span class="p">(</span><span class="nb">+</span> <span class="nv">num</span> <span class="mi">1</span><span class="p">)</span> <span class="mi">3</span><span class="p">)</span> <span class="p">(</span><span class="nv">divides-by</span> <span class="p">(</span><span class="nb">+</span> <span class="nv">num</span> <span class="mi">1</span><span class="p">)</span> <span class="mi">5</span><span class="p">))</span> <span class="s">"FizzBuzz"</span><span class="p">)</span>
+        <span class="p">((</span><span class="nv">divides-by</span> <span class="p">(</span><span class="nb">+</span> <span class="nv">num</span> <span class="mi">1</span><span class="p">)</span> <span class="mi">3</span><span class="p">)</span> <span class="s">"Fizz"</span><span class="p">)</span>
+        <span class="p">((</span><span class="nv">divides-by</span> <span class="p">(</span><span class="nb">+</span> <span class="nv">num</span> <span class="mi">1</span><span class="p">)</span> <span class="mi">5</span><span class="p">)</span> <span class="s">"Buzz"</span><span class="p">)</span>
+        <span class="p">(</span><span class="no">t</span> <span class="p">(</span><span class="nb">write-to-string</span> <span class="p">(</span><span class="nb">+</span> <span class="nv">num</span> <span class="mi">1</span><span class="p">))))))</span>
+</code></pre></div></div>
+
+<p>Fizz Buzz in <a href="/languages/lisp">Lisp</a> was written by:</p>
+
+<ul>
+  <li>Parker Johansen</li>
+</ul>
+
+<p>This article was written by:</p>
+
+<ul>
+  <li>Jeremy Grifski</li>
+  <li>rzuckerm</li>
+  <li>shubhragupta-code</li>
+  <li>Stuart Irwin</li>
+</ul>
+
+<p>If you see anything you'd like to change or update, <a href="https://github.com/TheRenegadeCoder/sample-programs">please consider contributing</a>.</p>
+
+<h2 id="how-to-implement-the-solution">How to Implement the Solution</h2>
+
+<p>Lisp has many flavors and variations, so we will be using Clisp, the most common and general form.
+The code follows a pre-fix format, where a function or operator is followed by its arguments, even in the case of <code class="language-plaintext highlighter-rouge">+</code> or <code class="language-plaintext highlighter-rouge">=</code>.
+Every set of parenthesis is its own function.</p>
+
+<p>As a quick note, here are the rules to the problem:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>If a number is divisible by 3, print the word 'Fizz' instead of the number.
+If the number is divisible by 5, print the word 'Buzz' instead of the number.
+Finally, if the number is divisible by both 3 and 5, print 'FizzBuzz' instead
+of the number. Otherwise, just print the number.
+</code></pre></div></div>
+
+<h3 id="the-loop">The Loop</h3>
+
+<p>The first line of code sets up the loop, running the functions inside 100 times, with an index variable named <code class="language-plaintext highlighter-rouge">run</code>.</p>
+
+<div class="language-lisp highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">(</span><span class="nb">dotimes</span> <span class="p">(</span><span class="nv">run</span> <span class="mi">100</span><span class="p">)</span> <span class="o">...</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>The dots show where more lines of code will be placed, such as <code class="language-plaintext highlighter-rouge">setq</code> which creates a new integer variable.</p>
+
+<div class="language-lisp highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">(</span><span class="nb">dotimes</span> <span class="p">(</span><span class="nv">run</span> <span class="mi">100</span><span class="p">)</span> <span class="p">(</span><span class="k">setq</span> <span class="nv">num</span> <span class="p">(</span><span class="nb">+</span> <span class="nv">run</span> <span class="mi">1</span><span class="p">))</span> <span class="o">...</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>The new variable is named <code class="language-plaintext highlighter-rouge">num</code>, and set to the current <code class="language-plaintext highlighter-rouge">run</code> value + 1.</p>
+
+<h3 id="the-output">The output</h3>
+
+<p>The next lines are used to print out the actual ouput, but only one of those is a print statement.
+<code class="language-plaintext highlighter-rouge">write-line</code> will take a string input and print it out as a line to console. Inside it is <code class="language-plaintext highlighter-rouge">cond</code>, which creates essentially a list of if-else statements, expecting pairs of boolean + executable.</p>
+
+<div class="language-lisp highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">(</span><span class="nb">write-line</span> <span class="p">(</span><span class="nb">cond</span>
+	<span class="o">...</span>
+<span class="p">))</span>
+</code></pre></div></div>
+
+<p>Each following line is one possible output, starting with the <code class="language-plaintext highlighter-rouge">"FizzBuzz"</code> phrase.</p>
+
+<div class="language-lisp highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">((</span><span class="nb">and</span> <span class="p">(</span><span class="nb">=</span> <span class="p">(</span><span class="nb">mod</span> <span class="nv">num</span> <span class="mi">3</span><span class="p">)</span> <span class="mi">0</span><span class="p">)</span> <span class="p">(</span><span class="nb">=</span> <span class="p">(</span><span class="nb">mod</span> <span class="nv">num</span> <span class="mi">5</span><span class="p">)</span> <span class="mi">0</span><span class="p">))</span> <span class="s">"FizzBuzz"</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>To restate this in a more traditional format,</p>
+
+<div class="language-c highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">if</span><span class="p">(</span><span class="n">num</span> <span class="o">%</span> <span class="mi">3</span> <span class="o">==</span> <span class="mi">0</span> <span class="o">&amp;&amp;</span> <span class="n">num</span> <span class="o">%</span> <span class="mi">5</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span> <span class="n">then</span> <span class="s">"FizzBuzz"</span>
+</code></pre></div></div>
+
+<p>The next two checks are simaler, just testing for each option.</p>
+
+<div class="language-lisp highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">((</span><span class="nb">=</span> <span class="p">(</span><span class="nb">mod</span> <span class="nv">num</span> <span class="mi">3</span><span class="p">)</span> <span class="mi">0</span><span class="p">)</span> <span class="s">"Fizz"</span><span class="p">)</span>
+<span class="p">((</span><span class="nb">=</span> <span class="p">(</span><span class="nb">mod</span> <span class="nv">num</span> <span class="mi">5</span><span class="p">)</span> <span class="mi">0</span><span class="p">)</span> <span class="s">"Buzz"</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>Finally, the last line in the set has no if statement, and is the default alternative, just writing the <code class="language-plaintext highlighter-rouge">num</code> variable to a string.</p>
+
+<div class="language-lisp highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">(</span><span class="no">t</span> <span class="p">(</span><span class="nb">write-to-string</span> <span class="nv">num</span><span class="p">))</span>
+</code></pre></div></div>
+
+<p>The code will run through each if statement until one of them is true, then use the connected string as an argument for <code class="language-plaintext highlighter-rouge">write-line</code>, printing it out to the console.</p>
+
+<h2 id="how-to-run-the-solution">How to Run the Solution</h2>
+
+<p>There are many options for running the code, though make sure to be using a CLisp based tool.</p>
+
+<p>To run on a local machine, we can download a copy of <a href="https://www.sbcl.org/">Steel Bank Common Lisp</a>
+as well as a copy of the solution. Assuming SBCL is in the path,
+we can run a lisp file like a script as follows:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sbcl --script fizz-buzz.lsp
+</code></pre></div></div>
+
+<p>For an easy online interpreter, here are some options:</p>
+
+<ul>
+  <li><a href="https://ideone.com/l/clips">CompileOnline CLISP</a></li>
+  <li><a href="https://www.jdoodle.com/execute-clisp-online/">Jdoodle CLISP</a></li>
+</ul>
+
+
+</section>
+
+        <footer class="site-footer" role="contentinfo">
+  
+  <span class="site-footer-owner">
+    <a href="https://github.com/TheRenegadeCoder/sample-programs-website">
+      sample-programs-website
+    </a>
+    is maintained by
+    <a href="https://github.com/TheRenegadeCoder">TheRenegadeCoder</a>.
+  </span>
+  
+</footer>
+
+    </div>
+</body>
+<!-- End of default document body -->
+
+</html>

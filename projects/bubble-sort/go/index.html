@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang=" en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico">
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=7717a154c24ec799373814fffe320590e8ffa5f3">
+
+    <script src="/assets/js/image_titler.js"></script>
+    <script src="/assets/js/scale.fix.js"></script>
+
+    <script defer data-domain="sampleprograms.io" src="https://plausible.io/js/plausible.js"></script>
+
+    <link type="application/atom+xml" rel="alternate" href="https://sampleprograms.io/feed.xml" title="Sample Programs in Every Language" />
+    
+
+<!-- Twitter cards -->
+<meta name="twitter:title" content="Bubble Sort in Go">
+<meta name="twitter:description" content="">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://sampleprograms.io/assets/images/bubble-sort-in-every-language.jpg">
+<!-- end of Twitter cards -->
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Bubble Sort in Go | Sample Programs in Every Language</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Bubble Sort in Go" />
+<meta name="author" content="Jeremy Grifski" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<meta property="og:description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<link rel="canonical" href="https://sampleprograms.io/projects/bubble-sort/go/" />
+<meta property="og:url" content="https://sampleprograms.io/projects/bubble-sort/go/" />
+<meta property="og:site_name" content="Sample Programs in Every Language" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-03-05T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Bubble Sort in Go" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Jeremy Grifski"},"dateModified":"2019-03-05T00:00:00+00:00","datePublished":"2019-03-05T00:00:00+00:00","description":"A Collection of Code Snippets in as Many Programming Languages as Possible","headline":"Bubble Sort in Go","mainEntityOfPage":{"@type":"WebPage","@id":"https://sampleprograms.io/projects/bubble-sort/go/"},"url":"https://sampleprograms.io/projects/bubble-sort/go/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="monetization" content="$ilp.uphold.com/qgNaxDa2QH77">
+
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+</head>
+
+<!-- Default document body -->
+<body>
+    <div class="wrapper">
+        <header class="page-header" role="banner">
+  <h1 class="header">
+    Sample Programs in Every Language
+  </h1>
+
+  <p class="header">
+    A Collection of Code Snippets in as Many Programming Languages as Possible
+  </p>
+
+  <ul>
+    
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/zipball/main">Download ZIP</a>
+    </li>
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/tarball/main">Download TAR</a>
+    </li>
+    
+
+    <li>
+      <a class="buttons github" href="https://github.com/TheRenegadeCoder/sample-programs-website">
+        View on GitHub
+      </a>
+    </li>
+  </ul>
+
+  
+  <p class="header">
+    This project is maintained by
+    <a class="header name" href="https://github.com/TheRenegadeCoder">
+      TheRenegadeCoder
+    </a>
+  </p>
+   
+</header>
+
+        <section>
+  <nav class="top-nav">
+    <ul>
+        <li><a href="/" id="home">Home</a></li>
+        <li><a href="/languages/" id="lang">Languages</a></li>
+        <li><a href="/projects/" id="proj">Projects</a></li>
+    </ul>
+</nav>
+ 
+  <nav aria-label="Breadcrumb" class="site-navigation">
+  <ol class="breadcrumb">
+    <li><a href="/">Home</a></li>
+
+    
+    
+
+    
+      
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/">
+            Projects
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/bubble-sort/">
+            Bubble sort
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <span class="active">
+            Go
+          </span>
+        
+      </li>
+    
+  </ol>
+</nav>
+
+  <h1>Bubble Sort in Go</h1>
+
+  
+  <small>
+    
+        Published on 05 March 2019
+    
+
+    
+        (Updated: 15 May 2023)
+    
+    </small>
+  
+
+  
+
+<div class="featured-image">
+  <img
+    src="/assets/images/bubble-sort-in-every-language.jpg"
+    alt="Bubble Sort in Go"
+    loading="eager"
+  >
+
+  
+    <div class="image-container" id="title1">
+      <div class="image-title">Bubble</div>
+    </div>
+  
+
+  
+    <div class="image-container" id="title2">
+      <div class="image-title">Sort in Go</div>
+    </div>
+  
+</div>
+
+<p></p>
+
+  
+  <!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/bubble-sort/go/how-to-implement-the-solution.md
+- sources/programs/bubble-sort/go/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
+<p>Welcome to the <a href="/projects/bubble-sort">Bubble Sort</a> in <a href="/languages/go">Go</a> page! Here, you'll find the source code for this program as well as a description of how the program works.</p>
+
+<h2 id="current-solution">Current Solution</h2>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">package</span> <span class="n">main</span>
+
+<span class="k">import</span> <span class="p">(</span>
+	<span class="s">"encoding/json"</span>
+	<span class="s">"fmt"</span>
+	<span class="s">"os"</span>
+	<span class="s">"regexp"</span>
+	<span class="s">"strconv"</span>
+	<span class="s">"strings"</span>
+<span class="p">)</span>
+
+<span class="k">func</span> <span class="n">bubbleSort</span><span class="p">(</span><span class="n">list</span> <span class="p">[]</span><span class="kt">int</span><span class="p">)</span> <span class="p">[]</span><span class="kt">int</span> <span class="p">{</span>
+	<span class="n">swapped</span> <span class="o">:=</span> <span class="no">true</span>
+	<span class="k">for</span> <span class="n">swapped</span> <span class="p">{</span>
+		<span class="n">swapped</span> <span class="o">=</span> <span class="no">false</span>
+		<span class="k">for</span> <span class="n">i</span> <span class="o">:=</span> <span class="m">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="nb">len</span><span class="p">(</span><span class="n">list</span><span class="p">)</span><span class="o">-</span><span class="m">1</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span> <span class="p">{</span>
+			<span class="k">if</span> <span class="n">list</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">&gt;</span> <span class="n">list</span><span class="p">[</span><span class="n">i</span><span class="o">+</span><span class="m">1</span><span class="p">]</span> <span class="p">{</span>
+				<span class="n">n</span> <span class="o">:=</span> <span class="n">list</span><span class="p">[</span><span class="n">i</span><span class="p">]</span>
+				<span class="n">list</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">=</span> <span class="n">list</span><span class="p">[</span><span class="n">i</span><span class="o">+</span><span class="m">1</span><span class="p">]</span>
+				<span class="n">list</span><span class="p">[</span><span class="n">i</span><span class="o">+</span><span class="m">1</span><span class="p">]</span> <span class="o">=</span> <span class="n">n</span>
+				<span class="n">swapped</span> <span class="o">=</span> <span class="no">true</span>
+			<span class="p">}</span>
+		<span class="p">}</span>
+	<span class="p">}</span>
+	<span class="k">return</span> <span class="n">list</span>
+<span class="p">}</span>
+
+<span class="k">func</span> <span class="n">strToSliceInt</span><span class="p">(</span><span class="n">strList</span> <span class="kt">string</span><span class="p">)</span> <span class="p">[]</span><span class="kt">int</span> <span class="p">{</span>
+	<span class="n">list</span> <span class="o">:=</span> <span class="n">regexp</span><span class="o">.</span><span class="n">MustCompile</span><span class="p">(</span><span class="s">", ?"</span><span class="p">)</span><span class="o">.</span><span class="n">Split</span><span class="p">(</span><span class="n">strList</span><span class="p">,</span> <span class="o">-</span><span class="m">1</span><span class="p">)</span>
+	<span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">list</span><span class="p">)</span> <span class="o">&lt;</span> <span class="m">2</span> <span class="p">{</span>
+		<span class="n">exitWithError</span><span class="p">()</span>
+	<span class="p">}</span>
+	<span class="k">var</span> <span class="n">nums</span> <span class="p">[]</span><span class="kt">int</span>
+	<span class="k">for</span> <span class="n">_</span><span class="p">,</span> <span class="n">num</span> <span class="o">:=</span> <span class="k">range</span> <span class="n">list</span> <span class="p">{</span>
+		<span class="n">n</span><span class="p">,</span> <span class="n">err</span> <span class="o">:=</span> <span class="n">strconv</span><span class="o">.</span><span class="n">Atoi</span><span class="p">(</span><span class="n">num</span><span class="p">)</span>
+		<span class="k">if</span> <span class="n">err</span> <span class="o">!=</span> <span class="no">nil</span> <span class="p">{</span>
+			<span class="n">exitWithError</span><span class="p">()</span>
+		<span class="p">}</span>
+		<span class="n">nums</span> <span class="o">=</span> <span class="nb">append</span><span class="p">(</span><span class="n">nums</span><span class="p">,</span> <span class="n">n</span><span class="p">)</span>
+	<span class="p">}</span>
+	<span class="k">return</span> <span class="n">nums</span>
+<span class="p">}</span>
+
+<span class="k">func</span> <span class="n">sliceIntToString</span><span class="p">(</span><span class="n">list</span> <span class="p">[]</span><span class="kt">int</span><span class="p">)</span> <span class="p">(</span><span class="n">out</span> <span class="kt">string</span><span class="p">)</span> <span class="p">{</span>
+	<span class="n">bytes</span><span class="p">,</span> <span class="n">_</span> <span class="o">:=</span> <span class="n">json</span><span class="o">.</span><span class="n">Marshal</span><span class="p">(</span><span class="n">list</span><span class="p">)</span>
+	<span class="n">out</span> <span class="o">=</span> <span class="n">strings</span><span class="o">.</span><span class="n">Replace</span><span class="p">(</span><span class="kt">string</span><span class="p">(</span><span class="n">bytes</span><span class="p">),</span> <span class="s">","</span><span class="p">,</span> <span class="s">", "</span><span class="p">,</span> <span class="o">-</span><span class="m">1</span><span class="p">)</span>
+	<span class="n">out</span> <span class="o">=</span> <span class="n">strings</span><span class="o">.</span><span class="n">Trim</span><span class="p">(</span><span class="n">out</span><span class="p">,</span> <span class="s">"[]"</span><span class="p">)</span>
+	<span class="k">return</span>
+<span class="p">}</span>
+
+<span class="k">func</span> <span class="n">exitWithError</span><span class="p">()</span> <span class="p">{</span>
+	<span class="n">fmt</span><span class="o">.</span><span class="n">Println</span><span class="p">(</span><span class="s">"Usage: please provide a list of at least two integers to sort in the format </span><span class="se">\"</span><span class="s">1, 2, 3, 4, 5</span><span class="se">\"</span><span class="s">"</span><span class="p">)</span>
+	<span class="n">os</span><span class="o">.</span><span class="n">Exit</span><span class="p">(</span><span class="m">1</span><span class="p">)</span>
+<span class="p">}</span>
+
+<span class="k">func</span> <span class="n">main</span><span class="p">()</span> <span class="p">{</span>
+	<span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">Args</span><span class="p">)</span> <span class="o">!=</span> <span class="m">2</span> <span class="p">{</span>
+		<span class="n">exitWithError</span><span class="p">()</span>
+	<span class="p">}</span>
+
+	<span class="n">nums</span> <span class="o">:=</span> <span class="n">strToSliceInt</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">Args</span><span class="p">[</span><span class="m">1</span><span class="p">])</span>
+	<span class="n">nums</span> <span class="o">=</span> <span class="n">bubbleSort</span><span class="p">(</span><span class="n">nums</span><span class="p">)</span>
+	<span class="n">fmt</span><span class="o">.</span><span class="n">Println</span><span class="p">(</span><span class="n">sliceIntToString</span><span class="p">(</span><span class="n">nums</span><span class="p">))</span>
+<span class="p">}</span>
+
+</code></pre></div></div>
+
+<p>Bubble Sort in <a href="/languages/go">Go</a> was written by:</p>
+
+<ul>
+  <li>Parker Johansen</li>
+</ul>
+
+<p>This article was written by:</p>
+
+<ul>
+  <li>Jeremy Grifski</li>
+  <li>rzuckerm</li>
+  <li>Thomas Braccia</li>
+</ul>
+
+<p>If you see anything you'd like to change or update, <a href="https://github.com/TheRenegadeCoder/sample-programs">please consider contributing</a>.</p>
+
+<h2 id="how-to-implement-the-solution">How to Implement the Solution</h2>
+
+<p>At this point, let's dig into the code a bit. The following sections break
+down the Bubble Sort in Go functionality.</p>
+
+<h3 id="the-main-function">The Main Function</h3>
+
+<p>Breaking down this solution bottom up,</p>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">func</span> <span class="n">main</span><span class="p">()</span> <span class="p">{</span>
+    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">Args</span><span class="p">)</span> <span class="o">!=</span> <span class="m">2</span> <span class="p">{</span>
+        <span class="n">exitWithError</span><span class="p">()</span>
+    <span class="p">}</span>
+
+    <span class="n">nums</span> <span class="o">:=</span> <span class="n">strToSliceInt</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">Args</span><span class="p">[</span><span class="m">1</span><span class="p">])</span>
+    <span class="n">nums</span> <span class="o">=</span> <span class="n">bubbleSort</span><span class="p">(</span><span class="n">nums</span><span class="p">)</span>
+    <span class="n">fmt</span><span class="o">.</span><span class="n">Println</span><span class="p">(</span><span class="n">sliceIntToString</span><span class="p">(</span><span class="n">nums</span><span class="p">))</span>
+<span class="p">}</span>
+</code></pre></div></div>
+<p>This is the <code class="language-plaintext highlighter-rouge">main</code> function of this file. It parses the form <code class="language-plaintext highlighter-rouge">Args</code>, assures that there is enough elements for it to be sorted, the converts the string to integers, then calls our bubble sort function, and finally prints the results.
+It also deals with any errors raised.</p>
+
+<h3 id="transform-input-parameters">Transform Input Parameters</h3>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">func</span> <span class="n">strToSliceInt</span><span class="p">(</span><span class="n">strList</span> <span class="kt">string</span><span class="p">)</span> <span class="p">[]</span><span class="kt">int</span> <span class="p">{</span>
+    <span class="n">list</span> <span class="o">:=</span> <span class="n">regexp</span><span class="o">.</span><span class="n">MustCompile</span><span class="p">(</span><span class="s">", ?"</span><span class="p">)</span><span class="o">.</span><span class="n">Split</span><span class="p">(</span><span class="n">strList</span><span class="p">,</span> <span class="o">-</span><span class="m">1</span><span class="p">)</span>
+    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">list</span><span class="p">)</span> <span class="o">&lt;</span> <span class="m">2</span> <span class="p">{</span>
+        <span class="n">exitWithError</span><span class="p">()</span>
+    <span class="p">}</span>
+    <span class="k">var</span> <span class="n">nums</span> <span class="p">[]</span><span class="kt">int</span>
+    <span class="k">for</span> <span class="n">_</span><span class="p">,</span> <span class="n">num</span> <span class="o">:=</span> <span class="k">range</span> <span class="n">list</span> <span class="p">{</span>
+        <span class="n">n</span><span class="p">,</span> <span class="n">err</span> <span class="o">:=</span> <span class="n">strconv</span><span class="o">.</span><span class="n">Atoi</span><span class="p">(</span><span class="n">num</span><span class="p">)</span>
+        <span class="k">if</span> <span class="n">err</span> <span class="o">!=</span> <span class="no">nil</span> <span class="p">{</span>
+            <span class="n">exitWithError</span><span class="p">()</span>
+        <span class="p">}</span>
+        <span class="n">nums</span> <span class="o">=</span> <span class="nb">append</span><span class="p">(</span><span class="n">nums</span><span class="p">,</span> <span class="n">n</span><span class="p">)</span>
+    <span class="p">}</span>
+    <span class="k">return</span> <span class="n">nums</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>This function takes a string like <code class="language-plaintext highlighter-rouge">"2, 1, 10, 5, 3"</code>, and turns into a list of numbers.
+First we need to convert our string into a
+list <code class="language-plaintext highlighter-rouge">Split(strList, -1)</code> which is a list of strings split by comma (,). So our
+original input string becomes <code class="language-plaintext highlighter-rouge">["2", " 1", " 10", " 5", " 3"]</code>.
+Then for each element in the list <code class="language-plaintext highlighter-rouge">for _, num := ...</code> ,  we do something to it.</p>
+
+<p>In this example we convert it into a decimal integer, <code class="language-plaintext highlighter-rouge">strconv.Atoi(num)</code>. After that each of the newly converted integers are converted added to the new list <code class="language-plaintext highlighter-rouge">nums</code>.</p>
+
+<h3 id="transform-output-result">Transform Output Result</h3>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">func</span> <span class="n">sliceIntToString</span><span class="p">(</span><span class="n">list</span> <span class="p">[]</span><span class="kt">int</span><span class="p">)</span> <span class="p">(</span><span class="n">out</span> <span class="kt">string</span><span class="p">)</span> <span class="p">{</span>
+    <span class="n">bytes</span><span class="p">,</span> <span class="n">_</span> <span class="o">:=</span> <span class="n">json</span><span class="o">.</span><span class="n">Marshal</span><span class="p">(</span><span class="n">list</span><span class="p">)</span>
+    <span class="n">out</span> <span class="o">=</span> <span class="n">strings</span><span class="o">.</span><span class="n">Replace</span><span class="p">(</span><span class="kt">string</span><span class="p">(</span><span class="n">bytes</span><span class="p">),</span> <span class="s">","</span><span class="p">,</span> <span class="s">", "</span><span class="p">,</span> <span class="o">-</span><span class="m">1</span><span class="p">)</span>
+    <span class="n">out</span> <span class="o">=</span> <span class="n">strings</span><span class="o">.</span><span class="n">Trim</span><span class="p">(</span><span class="n">out</span><span class="p">,</span> <span class="s">"[]"</span><span class="p">)</span>
+    <span class="k">return</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>This function takes a list of integers like <code class="language-plaintext highlighter-rouge">[2, 1, 10,  5, 3]</code>, and turns into a string.
+First we need to convert our list of integers into a
+string <code class="language-plaintext highlighter-rouge">bytes, _ := json.Marshal(list)</code>. So our
+original input string becomes <code class="language-plaintext highlighter-rouge">"[2,1,10,5,3]"</code>.
+Then we replace the commas with commas and a space <code class="language-plaintext highlighter-rouge">"[2, 1, 10, 5, 3]"</code>. Finally, we remove the square brackets before returning the string <code class="language-plaintext highlighter-rouge">out = strings.Trim(out, "[]")</code>.</p>
+
+<h3 id="throw-errors">Throw Errors</h3>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">func</span> <span class="n">exitWithError</span><span class="p">()</span> <span class="p">{</span>
+    <span class="n">fmt</span><span class="o">.</span><span class="n">Println</span><span class="p">(</span><span class="s">"Usage: please provide a list of at least two integers to sort in the format </span><span class="se">\"</span><span class="s">1, 2, 3, 4, 5</span><span class="se">\"</span><span class="s">"</span><span class="p">)</span>
+    <span class="n">os</span><span class="o">.</span><span class="n">Exit</span><span class="p">(</span><span class="m">1</span><span class="p">)</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>This function prints a message and then exits the script with an error, <code class="language-plaintext highlighter-rouge">os.Exit(1)</code>.
+If any non-zero value is returned then the program didn't complete properly.
+This function is called if the user input isn't correct.</p>
+
+<h3 id="bubble-sort">Bubble Sort</h3>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">func</span> <span class="n">bubbleSort</span><span class="p">(</span><span class="n">list</span> <span class="p">[]</span><span class="kt">int</span><span class="p">)</span> <span class="p">[]</span><span class="kt">int</span> <span class="p">{</span>
+    <span class="n">swapped</span> <span class="o">:=</span> <span class="no">true</span>
+    <span class="k">for</span> <span class="n">swapped</span> <span class="p">{</span>
+        <span class="n">swapped</span> <span class="o">=</span> <span class="no">false</span>
+        <span class="k">for</span> <span class="n">i</span> <span class="o">:=</span> <span class="m">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="nb">len</span><span class="p">(</span><span class="n">list</span><span class="p">)</span><span class="o">-</span><span class="m">1</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span> <span class="p">{</span>
+            <span class="k">if</span> <span class="n">list</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">&gt;</span> <span class="n">list</span><span class="p">[</span><span class="n">i</span><span class="o">+</span><span class="m">1</span><span class="p">]</span> <span class="p">{</span>
+                <span class="n">n</span> <span class="o">:=</span> <span class="n">list</span><span class="p">[</span><span class="n">i</span><span class="p">]</span>
+                <span class="n">list</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">=</span> <span class="n">list</span><span class="p">[</span><span class="n">i</span><span class="o">+</span><span class="m">1</span><span class="p">]</span>
+                <span class="n">list</span><span class="p">[</span><span class="n">i</span><span class="o">+</span><span class="m">1</span><span class="p">]</span> <span class="o">=</span> <span class="n">n</span>
+                <span class="n">swapped</span> <span class="o">=</span> <span class="no">true</span>
+            <span class="p">}</span>
+        <span class="p">}</span>
+    <span class="p">}</span>
+    <span class="k">return</span> <span class="n">list</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>Finally we're at the real meat and potatoes of the script. This function takes an unsorted integer
+list and returns a sorted list, using the bubble sort algorithm. This function <code class="language-plaintext highlighter-rouge">bubbleSort</code> has two nested for loops inside of it. The <code class="language-plaintext highlighter-rouge">for swapped</code> loop will run as long as the variable gets swapped in each run of the loop. The <code class="language-plaintext highlighter-rouge">for</code> loop nested inside will run from the first element in the list (<code class="language-plaintext highlighter-rouge">i=0</code>) to the last minus one (<code class="language-plaintext highlighter-rouge">len(list)-1</code>). As it runs through it compares every element to the one after it and if it is larger it swaps them</p>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">n</span> <span class="o">:=</span> <span class="n">list</span><span class="p">[</span><span class="n">i</span><span class="p">]</span>
+<span class="n">list</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">=</span> <span class="n">list</span><span class="p">[</span><span class="n">i</span><span class="o">+</span><span class="m">1</span><span class="p">]</span>
+<span class="n">list</span><span class="p">[</span><span class="n">i</span><span class="o">+</span><span class="m">1</span><span class="p">]</span> <span class="o">=</span> <span class="n">n</span>
+</code></pre></div></div>
+
+<p>After that it marks <code class="language-plaintext highlighter-rouge">swapped</code> as true to notify the outer loop it should keep running. If <code class="language-plaintext highlighter-rouge">swapped</code> was not changed to <code class="language-plaintext highlighter-rouge">true</code> the list would stop there because it checked every element and determined none of them needed to be moved.</p>
+
+<p>For example, if <code class="language-plaintext highlighter-rouge">[3, 2, 5, 1]</code> is the input:</p>
+
+<ul>
+  <li>First we compare 3 and 2</li>
+  <li>3 is greater than 2</li>
+  <li>Store 3 to a temporary variable: <code class="language-plaintext highlighter-rouge">n := list[i]</code></li>
+  <li>Places 2 where 3 was: <code class="language-plaintext highlighter-rouge">list[i] = list[i+1]</code></li>
+  <li>
+    <p>Places 3 where 2 was: <code class="language-plaintext highlighter-rouge">list[i+1] = n</code></p>
+  </li>
+  <li>Next we compare 3 and 5</li>
+  <li>
+    <p>Nothing happens because 5 is greater than 3.</p>
+  </li>
+  <li>First we compare 5, 1</li>
+  <li>5 is greater than 1</li>
+  <li>Store 5 to a temporary variable: <code class="language-plaintext highlighter-rouge">n := list[i]</code></li>
+  <li>Places 1 where 5 was: <code class="language-plaintext highlighter-rouge">list[i] = list[i+1]</code></li>
+  <li>Places 5 where 1 was: <code class="language-plaintext highlighter-rouge">list[i+1] = n</code></li>
+</ul>
+
+<p>At this point, <code class="language-plaintext highlighter-rouge">list</code> is <code class="language-plaintext highlighter-rouge">[2, 3, 1, 5]</code>. The process repeats starting at the beginning of the list until there are no more items to swap:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">[2, 3, 1, 5]</code> becomes <code class="language-plaintext highlighter-rouge">[2, 1, 3, 5]</code></li>
+  <li><code class="language-plaintext highlighter-rouge">[2, 1, 3, 5]</code> becomes <code class="language-plaintext highlighter-rouge">[1, 2, 3, 5]</code>, and we're done</li>
+</ul>
+
+<h2 id="how-to-run-the-solution">How to Run the Solution</h2>
+
+<p>If we want to run this program, we should probably download a copy of <a href="https://github.com/TheRenegadeCoder/sample-programs/blob/master/archive/g/go/bubble-sort.go">Bubble Sort in Go</a>.
+After that, we should make sure we have the latest Go interpreter.
+From there, we can run the following command in the terminal:</p>
+
+<p><code class="language-plaintext highlighter-rouge">go run bubble-sort.go "3, 2, 10, 6, 1, 7"</code></p>
+
+<p>Alternatively, we can copy the solution into an online Go interpreter and hit run.</p>
+
+</section>
+
+        <footer class="site-footer" role="contentinfo">
+  
+  <span class="site-footer-owner">
+    <a href="https://github.com/TheRenegadeCoder/sample-programs-website">
+      sample-programs-website
+    </a>
+    is maintained by
+    <a href="https://github.com/TheRenegadeCoder">TheRenegadeCoder</a>.
+  </span>
+  
+</footer>
+
+    </div>
+</body>
+<!-- End of default document body -->
+
+</html>

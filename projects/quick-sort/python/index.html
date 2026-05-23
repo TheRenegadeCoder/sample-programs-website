@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang=" en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico">
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=7717a154c24ec799373814fffe320590e8ffa5f3">
+
+    <script src="/assets/js/image_titler.js"></script>
+    <script src="/assets/js/scale.fix.js"></script>
+
+    <script defer data-domain="sampleprograms.io" src="https://plausible.io/js/plausible.js"></script>
+
+    <link type="application/atom+xml" rel="alternate" href="https://sampleprograms.io/feed.xml" title="Sample Programs in Every Language" />
+    
+
+<!-- Twitter cards -->
+<meta name="twitter:title" content="Quick Sort in Python">
+<meta name="twitter:description" content="">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://sampleprograms.io/assets/images/quick-sort-in-every-language.jpg">
+<!-- end of Twitter cards -->
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Quick Sort in Python | Sample Programs in Every Language</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Quick Sort in Python" />
+<meta name="author" content="Haseeb Majid" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<meta property="og:description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<link rel="canonical" href="https://sampleprograms.io/projects/quick-sort/python/" />
+<meta property="og:url" content="https://sampleprograms.io/projects/quick-sort/python/" />
+<meta property="og:site_name" content="Sample Programs in Every Language" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-12-23T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Quick Sort in Python" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Haseeb Majid"},"dateModified":"2018-12-23T00:00:00+00:00","datePublished":"2018-12-23T00:00:00+00:00","description":"A Collection of Code Snippets in as Many Programming Languages as Possible","headline":"Quick Sort in Python","mainEntityOfPage":{"@type":"WebPage","@id":"https://sampleprograms.io/projects/quick-sort/python/"},"url":"https://sampleprograms.io/projects/quick-sort/python/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="monetization" content="$ilp.uphold.com/qgNaxDa2QH77">
+
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+</head>
+
+<!-- Default document body -->
+<body>
+    <div class="wrapper">
+        <header class="page-header" role="banner">
+  <h1 class="header">
+    Sample Programs in Every Language
+  </h1>
+
+  <p class="header">
+    A Collection of Code Snippets in as Many Programming Languages as Possible
+  </p>
+
+  <ul>
+    
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/zipball/main">Download ZIP</a>
+    </li>
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/tarball/main">Download TAR</a>
+    </li>
+    
+
+    <li>
+      <a class="buttons github" href="https://github.com/TheRenegadeCoder/sample-programs-website">
+        View on GitHub
+      </a>
+    </li>
+  </ul>
+
+  
+  <p class="header">
+    This project is maintained by
+    <a class="header name" href="https://github.com/TheRenegadeCoder">
+      TheRenegadeCoder
+    </a>
+  </p>
+   
+</header>
+
+        <section>
+  <nav class="top-nav">
+    <ul>
+        <li><a href="/" id="home">Home</a></li>
+        <li><a href="/languages/" id="lang">Languages</a></li>
+        <li><a href="/projects/" id="proj">Projects</a></li>
+    </ul>
+</nav>
+ 
+  <nav aria-label="Breadcrumb" class="site-navigation">
+  <ol class="breadcrumb">
+    <li><a href="/">Home</a></li>
+
+    
+    
+
+    
+      
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/">
+            Projects
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/quick-sort/">
+            Quick sort
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <span class="active">
+            Python
+          </span>
+        
+      </li>
+    
+  </ol>
+</nav>
+
+  <h1>Quick Sort in Python</h1>
+
+  
+  <small>
+    
+        Published on 23 December 2018
+    
+
+    
+        (Updated: 15 May 2023)
+    
+    </small>
+  
+
+  
+
+<div class="featured-image">
+  <img
+    src="/assets/images/quick-sort-in-every-language.jpg"
+    alt="Quick Sort in Python"
+    loading="eager"
+  >
+
+  
+    <div class="image-container" id="title1">
+      <div class="image-title">Quick Sort</div>
+    </div>
+  
+
+  
+    <div class="image-container" id="title2">
+      <div class="image-title">in Python</div>
+    </div>
+  
+</div>
+
+<p></p>
+
+  
+  <!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/quick-sort/python/how-to-implement-the-solution.md
+- sources/programs/quick-sort/python/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
+<p>Welcome to the <a href="/projects/quick-sort">Quick Sort</a> in <a href="/languages/python">Python</a> page! Here, you'll find the source code for this program as well as a description of how the program works.</p>
+
+<h2 id="current-solution">Current Solution</h2>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">sys</span>
+
+
+<span class="k">def</span> <span class="nf">quick_sort</span><span class="p">(</span><span class="n">xs</span><span class="p">):</span>
+    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">xs</span><span class="p">)</span> <span class="o">&lt;=</span> <span class="mi">0</span><span class="p">:</span>
+        <span class="k">return</span> <span class="p">[]</span>
+
+    <span class="n">left</span> <span class="o">=</span> <span class="n">quick_sort</span><span class="p">([</span><span class="n">l</span> <span class="k">for</span> <span class="n">l</span> <span class="ow">in</span> <span class="n">xs</span><span class="p">[</span><span class="mi">1</span><span class="p">:]</span> <span class="k">if</span> <span class="n">l</span> <span class="o">&lt;=</span> <span class="n">xs</span><span class="p">[</span><span class="mi">0</span><span class="p">]])</span>
+    <span class="n">right</span> <span class="o">=</span> <span class="n">quick_sort</span><span class="p">([</span><span class="n">r</span> <span class="k">for</span> <span class="n">r</span> <span class="ow">in</span> <span class="n">xs</span><span class="p">[</span><span class="mi">1</span><span class="p">:]</span> <span class="k">if</span> <span class="n">r</span> <span class="o">&gt;</span> <span class="n">xs</span><span class="p">[</span><span class="mi">0</span><span class="p">]])</span>
+    <span class="k">return</span> <span class="n">left</span> <span class="o">+</span> <span class="n">xs</span><span class="p">[:</span><span class="mi">1</span><span class="p">]</span> <span class="o">+</span> <span class="n">right</span>
+
+
+<span class="k">def</span> <span class="nf">input_list</span><span class="p">(</span><span class="n">list_str</span><span class="p">):</span>
+    <span class="k">return</span> <span class="p">[</span><span class="nb">int</span><span class="p">(</span><span class="n">x</span><span class="p">.</span><span class="n">strip</span><span class="p">(</span><span class="s">" "</span><span class="p">),</span> <span class="mi">10</span><span class="p">)</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">list_str</span><span class="p">.</span><span class="n">split</span><span class="p">(</span><span class="s">','</span><span class="p">)]</span>
+
+
+<span class="k">def</span> <span class="nf">exit_with_error</span><span class="p">():</span>
+    <span class="k">print</span><span class="p">(</span><span class="s">'Usage: please provide a list of at least two integers to sort in the format "1, 2, 3, 4, 5"'</span><span class="p">)</span>
+    <span class="n">sys</span><span class="p">.</span><span class="nb">exit</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
+
+
+<span class="k">def</span> <span class="nf">main</span><span class="p">(</span><span class="n">args</span><span class="p">):</span>
+    <span class="k">try</span><span class="p">:</span>
+        <span class="n">xs</span> <span class="o">=</span> <span class="n">input_list</span><span class="p">(</span><span class="n">args</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
+        <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">xs</span><span class="p">)</span> <span class="o">&lt;=</span> <span class="mi">1</span><span class="p">:</span>
+            <span class="n">exit_with_error</span><span class="p">()</span>
+        <span class="k">print</span><span class="p">(</span><span class="n">quick_sort</span><span class="p">(</span><span class="n">xs</span><span class="p">))</span>
+    <span class="k">except</span> <span class="p">(</span><span class="nb">IndexError</span><span class="p">,</span> <span class="nb">ValueError</span><span class="p">):</span>
+        <span class="n">exit_with_error</span><span class="p">()</span>
+
+
+<span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">"__main__"</span><span class="p">:</span>
+    <span class="n">main</span><span class="p">(</span><span class="n">sys</span><span class="p">.</span><span class="n">argv</span><span class="p">[</span><span class="mi">1</span><span class="p">:])</span>
+
+</code></pre></div></div>
+
+<p>Quick Sort in <a href="/languages/python">Python</a> was written by:</p>
+
+<ul>
+  <li>Jeremy Grifski</li>
+  <li>Parker Johansen</li>
+</ul>
+
+<p>This article was written by:</p>
+
+<ul>
+  <li>Haseeb Majid</li>
+  <li>Jeremy Grifski</li>
+  <li>rzuckerm</li>
+</ul>
+
+<p>If you see anything you'd like to change or update, <a href="https://github.com/TheRenegadeCoder/sample-programs">please consider contributing</a>.</p>
+
+<h2 id="how-to-implement-the-solution">How to Implement the Solution</h2>
+
+<p>Let's dig into the code a bit. The following sections break
+down the Quick Sort in Python functionality.</p>
+
+<h3 id="the-main-function">The Main Function</h3>
+
+<p>Breaking down this solution bottom up,</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">"__main__"</span><span class="p">:</span>
+    <span class="n">main</span><span class="p">(</span><span class="n">sys</span><span class="p">.</span><span class="n">argv</span><span class="p">[</span><span class="mi">1</span><span class="p">:])</span>
+</code></pre></div></div>
+
+<p>This bit of code checks to see if this is the <code class="language-plaintext highlighter-rouge">main</code> module run. If it is, it then calls the <code class="language-plaintext highlighter-rouge">main</code>
+function and passes user input to it. In this case the user input would be a string of numbers
+like so <code class="language-plaintext highlighter-rouge">"2, 1, 10, 5, 3"</code> (to sort).</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">main</span><span class="p">(</span><span class="n">args</span><span class="p">):</span>
+    <span class="k">try</span><span class="p">:</span>
+        <span class="n">xs</span> <span class="o">=</span> <span class="n">input_list</span><span class="p">(</span><span class="n">args</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
+        <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">xs</span><span class="p">)</span> <span class="o">&lt;=</span> <span class="mi">1</span><span class="p">:</span>
+            <span class="n">exit_with_error</span><span class="p">()</span>
+        <span class="k">print</span><span class="p">(</span><span class="n">quick_sort</span><span class="p">(</span><span class="n">xs</span><span class="p">))</span>
+    <span class="k">except</span> <span class="p">(</span><span class="nb">IndexError</span><span class="p">,</span> <span class="nb">ValueError</span><span class="p">):</span>
+        <span class="n">exit_with_error</span><span class="p">()</span>
+</code></pre></div></div>
+
+<p>This is the <code class="language-plaintext highlighter-rouge">main</code> function of this file. It parses the input, then calls our quick sort
+function (and prints the results). It also deals with any errors raised.</p>
+
+<p>Finally we wrap this entire block in a <code class="language-plaintext highlighter-rouge">try ... except</code>, and we catch two exceptions: <code class="language-plaintext highlighter-rouge">IndexError</code>
+and <code class="language-plaintext highlighter-rouge">ValueError</code>. <code class="language-plaintext highlighter-rouge">IndexError</code> will be thrown if <code class="language-plaintext highlighter-rouge">args</code> is empty, and we try to access <code class="language-plaintext highlighter-rouge">args[0]</code>.
+<code class="language-plaintext highlighter-rouge">ValueError</code> will be thrown if we try to convert a non-integer string into an integer.
+For example if <code class="language-plaintext highlighter-rouge">args[0]</code> was "a" -&gt; <code class="language-plaintext highlighter-rouge">int("a")</code>. If any exceptions are raised, then we call
+the <code class="language-plaintext highlighter-rouge">exit_with_error()</code> function.</p>
+
+<h3 id="transform-input-parameters">Transform Input Parameters</h3>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">input_list</span><span class="p">(</span><span class="n">list_str</span><span class="p">):</span>
+    <span class="k">return</span> <span class="p">[</span><span class="nb">int</span><span class="p">(</span><span class="n">x</span><span class="p">.</span><span class="n">strip</span><span class="p">(</span><span class="s">" "</span><span class="p">),</span> <span class="mi">10</span><span class="p">)</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">list_str</span><span class="p">.</span><span class="n">split</span><span class="p">(</span><span class="s">','</span><span class="p">)]</span>
+</code></pre></div></div>
+
+<p>This function takes a string like <code class="language-plaintext highlighter-rouge">"2, 1, 10, 5, 3"</code>, and turns into a list of numbers.
+It does this using a list comprehension. First, we need to convert our string into a
+list <code class="language-plaintext highlighter-rouge">list_str.split(',')</code> which is a list of strings split by comma (<code class="language-plaintext highlighter-rouge">,</code>).
+So our original input string becomes <code class="language-plaintext highlighter-rouge">["2", " 1", " 10", " 5", " 3"]</code>. Then for each
+element in the list <code class="language-plaintext highlighter-rouge">for x in ...</code> ,  we do something to it.</p>
+
+<p>In this example we convert it into a decimal integer, <code class="language-plaintext highlighter-rouge">int(x.strip(" "), 10)</code>
+<code class="language-plaintext highlighter-rouge">x.strip(" ")</code>, removes any whitespace so <code class="language-plaintext highlighter-rouge">" 1"</code> becomes <code class="language-plaintext highlighter-rouge">"1"</code>, then <code class="language-plaintext highlighter-rouge">int("1", 10)</code>
+converts the string <code class="language-plaintext highlighter-rouge">"1"</code> into a decimal number in this case <code class="language-plaintext highlighter-rouge">1</code>. This is done
+for every item in the list, so our original input of <code class="language-plaintext highlighter-rouge">"2, 1, 10, 5, 3"</code>
+becomes <code class="language-plaintext highlighter-rouge">[2, 1, 10, 5, 3]</code>.</p>
+
+<h3 id="throw-errors">Throw Errors</h3>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">exit_with_error</span><span class="p">():</span>
+    <span class="k">print</span><span class="p">(</span><span class="s">'Usage: please provide a list of at least two integers to sort in the format "1, 2, 3, 4, 5"'</span><span class="p">)</span>
+    <span class="n">sys</span><span class="p">.</span><span class="nb">exit</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>This function prints a message and then exits the script with an error, <code class="language-plaintext highlighter-rouge">sys.exit(1)</code>.
+If any non-zero value is returned, then the program didn't complete properly. This function is called
+if the user input isn't correct.</p>
+
+<h3 id="quick-sort">Quick Sort</h3>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">quick_sort</span><span class="p">(</span><span class="n">xs</span><span class="p">):</span>
+    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">xs</span><span class="p">)</span> <span class="o">&lt;=</span> <span class="mi">0</span><span class="p">:</span>
+        <span class="k">return</span> <span class="p">[]</span>
+
+    <span class="n">left</span> <span class="o">=</span> <span class="n">quick_sort</span><span class="p">([</span><span class="n">l</span> <span class="k">for</span> <span class="n">l</span> <span class="ow">in</span> <span class="n">xs</span><span class="p">[</span><span class="mi">1</span><span class="p">:]</span> <span class="k">if</span> <span class="n">l</span> <span class="o">&lt;=</span> <span class="n">xs</span><span class="p">[</span><span class="mi">0</span><span class="p">]])</span>
+    <span class="n">right</span> <span class="o">=</span> <span class="n">quick_sort</span><span class="p">([</span><span class="n">r</span> <span class="k">for</span> <span class="n">r</span> <span class="ow">in</span> <span class="n">xs</span><span class="p">[</span><span class="mi">1</span><span class="p">:]</span> <span class="k">if</span> <span class="n">r</span> <span class="o">&gt;</span> <span class="n">xs</span><span class="p">[</span><span class="mi">0</span><span class="p">]])</span>
+    <span class="k">return</span> <span class="n">left</span> <span class="o">+</span> <span class="n">xs</span><span class="p">[:</span><span class="mi">1</span><span class="p">]</span> <span class="o">+</span> <span class="n">right</span>
+</code></pre></div></div>
+
+<p>Now onto the main part of the program. This is the function that actually sorts our list.
+The first part <code class="language-plaintext highlighter-rouge">len(xs) &lt;= 0</code> checks if the list is empty. If it is, then it returns an
+empty list <code class="language-plaintext highlighter-rouge">return []</code>.</p>
+
+<p>In each iteration of the quicksort we have to pick a pivot element. This element is used to break
+down the current list into two smaller lists. One list contains all numbers larger than the pivot
+and the other list contains all elements smaller (or equal) to the pivot. There are a few ways to
+pick a pivot element but in our code we will be using the first element of each list (<code class="language-plaintext highlighter-rouge">xs[0]</code>).</p>
+
+<p>We create two sub-lists from our list. <code class="language-plaintext highlighter-rouge">left</code> will contain all elements smaller than <code class="language-plaintext highlighter-rouge">xs[0]</code>,
+the first element in our list. <code class="language-plaintext highlighter-rouge">right</code> will contain all elements larger than <code class="language-plaintext highlighter-rouge">xs[0]</code>.
+These lists aren't actually sorted yet so we call the <code class="language-plaintext highlighter-rouge">quick_sort()</code> function on these sub-lists
+recursively until they are sorted. Each of these sub-lists is broken down into two lists every
+time the <code class="language-plaintext highlighter-rouge">quick_sort()</code> function is called.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">left</span> <span class="o">=</span> <span class="n">quick_sort</span><span class="p">([</span><span class="n">l</span> <span class="k">for</span> <span class="n">l</span> <span class="ow">in</span> <span class="n">xs</span><span class="p">[</span><span class="mi">1</span><span class="p">:]</span> <span class="k">if</span> <span class="n">l</span> <span class="o">&lt;=</span> <span class="n">xs</span><span class="p">[</span><span class="mi">0</span><span class="p">]])</span>
+</code></pre></div></div>
+
+<p>Taking a closer look at how we generate the left sub-list, we use a list comprehension
+which is a way to generate lists in Python. In this example <code class="language-plaintext highlighter-rouge">[l for l in xs[1:] if l &lt;= xs[0]]</code>
+we loop through the unsorted list <code class="language-plaintext highlighter-rouge">xs</code>. Examining the first part <code class="language-plaintext highlighter-rouge">[l for l in xs[1:]]</code> this would
+generate a list which would contain every element in <code class="language-plaintext highlighter-rouge">xs</code> except the first one. <code class="language-plaintext highlighter-rouge">xs[1:]</code> means that
+the list includes every element except the first one, hence the <code class="language-plaintext highlighter-rouge">[1:]</code>. This is called index
+splicing in Python, and you can learn more about it <a href="https://www.pythoncentral.io/how-to-slice-listsarrays-and-tuples-in-python/">here</a>.</p>
+
+<p>For example, if <code class="language-plaintext highlighter-rouge">xs = [3, 2, 4, 1]</code>, then the generated list would be <code class="language-plaintext highlighter-rouge">left = [2, 4, 1]</code>.
+Now including the final part of the list comprehension <code class="language-plaintext highlighter-rouge">[l for l in xs[1:] if l &lt;= xs[0]]</code>,
+<code class="language-plaintext highlighter-rouge">l</code> is only added to the list if it's less or equal to the first element of <code class="language-plaintext highlighter-rouge">xs</code>, <code class="language-plaintext highlighter-rouge">if l &lt;= xs[0]</code>.
+So again using our example <code class="language-plaintext highlighter-rouge">xs = [3, 2, 4, 1]</code> the generated list would be<code class="language-plaintext highlighter-rouge">left = [2, 1]</code>,
+since <code class="language-plaintext highlighter-rouge">4 &gt; 3</code> and <code class="language-plaintext highlighter-rouge">xs[0] = 3</code>. This new list is then passed to our quick sort function.</p>
+
+<p>The <code class="language-plaintext highlighter-rouge">right = quick_sort([r for r in xs[1:] if r &gt; xs[0]])</code> is very similar except it stores elements
+strictly greater than <code class="language-plaintext highlighter-rouge">xs[0]</code>. But other than that it generates the list in much the same way <code class="language-plaintext highlighter-rouge">left</code>
+does. So using the same example <code class="language-plaintext highlighter-rouge">xs = [3, 2, 4, 1]</code> then <code class="language-plaintext highlighter-rouge">right = [4]</code>. Since <code class="language-plaintext highlighter-rouge">4</code> is the only element
+great then <code class="language-plaintext highlighter-rouge">xs[0] = 3</code>.</p>
+
+<p>Finally, those two lists are combined into a single list and returned
+<code class="language-plaintext highlighter-rouge">return left + xs[:1] + right</code>, where left contains all elements less than or equal to
+<code class="language-plaintext highlighter-rouge">xs[0]</code> and right contains all the items great than <code class="language-plaintext highlighter-rouge">xs[0]</code>. <code class="language-plaintext highlighter-rouge">xs[:1]</code> in this example gets
+the first element, except this also works if <code class="language-plaintext highlighter-rouge">xs</code> is empty. If <code class="language-plaintext highlighter-rouge">xs = []</code> and you try to get
+<code class="language-plaintext highlighter-rouge">xs[0]</code> the program will throw an <code class="language-plaintext highlighter-rouge">IndexError</code> whereas <code class="language-plaintext highlighter-rouge">xs[:1] = []</code> an empty list.</p>
+
+<p>Let's take a look at an example where <code class="language-plaintext highlighter-rouge">xs = [5, 1, 10]</code></p>
+
+<h4 id="main-quick-sort">Main Quick Sort</h4>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">xs[0] = 5</code></li>
+  <li><code class="language-plaintext highlighter-rouge">left = quick_sort([1])</code></li>
+  <li><code class="language-plaintext highlighter-rouge">right = quick_sort([10])</code></li>
+</ul>
+
+<h5 id="left-quick-sort">Left Quick Sort</h5>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">xs[0] = 1</code></li>
+  <li><code class="language-plaintext highlighter-rouge">left = quick_sort([])</code></li>
+  <li><code class="language-plaintext highlighter-rouge">right = quick_sort([])</code></li>
+</ul>
+
+<p>Since the lists are empty <code class="language-plaintext highlighter-rouge">quick_sort</code> will return <code class="language-plaintext highlighter-rouge">[]</code> an empty list back so.</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">left = []</code></li>
+  <li><code class="language-plaintext highlighter-rouge">right = []</code></li>
+  <li><code class="language-plaintext highlighter-rouge">return [] + [1] + []</code></li>
+</ul>
+
+<h4 id="right-quick-sort">Right Quick Sort</h4>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">xs[0] = 10</code></li>
+  <li><code class="language-plaintext highlighter-rouge">left = quick_sort([])</code></li>
+  <li><code class="language-plaintext highlighter-rouge">right = quick_sort([])</code></li>
+</ul>
+
+<p>Since the lists are empty <code class="language-plaintext highlighter-rouge">quick_sort</code> will return <code class="language-plaintext highlighter-rouge">[]</code> an empty list back so.</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">left = []</code></li>
+  <li><code class="language-plaintext highlighter-rouge">right = []</code></li>
+  <li><code class="language-plaintext highlighter-rouge">return [] + [10] + []</code></li>
+</ul>
+
+<h4 id="back-to-main-quick-sort">Back to Main Quick Sort</h4>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">left = [1]</code></li>
+  <li><code class="language-plaintext highlighter-rouge">right = [10]</code></li>
+  <li><code class="language-plaintext highlighter-rouge">xs[0] = 5</code></li>
+  <li><code class="language-plaintext highlighter-rouge">return [1] + [5] + [10]</code></li>
+</ul>
+
+<p>So the final sorted list is [1, 5, 10]</p>
+
+<h2 id="how-to-run-the-solution">How to Run the Solution</h2>
+
+<p>If we want to run this program, we should probably download a copy of <a href="https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/p/python/quick_sort.py">Quick Sort in Python</a>.
+After that, we should make sure we have the <a href="https://www.python.org/downloads/">latest Python interpreter</a>. From there, we can run the following command in the terminal:</p>
+
+<p><code class="language-plaintext highlighter-rouge">python quick-sort.py "3, 2, 10, 6, 1, 7"</code></p>
+
+<p>Alternatively, we can copy the solution into an <a href="https://www.online-python.com/">online Python interpreter</a> and hit run.</p>
+
+</section>
+
+        <footer class="site-footer" role="contentinfo">
+  
+  <span class="site-footer-owner">
+    <a href="https://github.com/TheRenegadeCoder/sample-programs-website">
+      sample-programs-website
+    </a>
+    is maintained by
+    <a href="https://github.com/TheRenegadeCoder">TheRenegadeCoder</a>.
+  </span>
+  
+</footer>
+
+    </div>
+</body>
+<!-- End of default document body -->
+
+</html>

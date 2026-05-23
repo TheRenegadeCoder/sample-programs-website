@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang=" en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico">
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=7717a154c24ec799373814fffe320590e8ffa5f3">
+
+    <script src="/assets/js/image_titler.js"></script>
+    <script src="/assets/js/scale.fix.js"></script>
+
+    <script defer data-domain="sampleprograms.io" src="https://plausible.io/js/plausible.js"></script>
+
+    <link type="application/atom+xml" rel="alternate" href="https://sampleprograms.io/feed.xml" title="Sample Programs in Every Language" />
+    
+
+<!-- Twitter cards -->
+<meta name="twitter:title" content="Binary Search in Python">
+<meta name="twitter:description" content="">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://sampleprograms.io/assets/images/binary-search-in-every-language.jpg">
+<!-- end of Twitter cards -->
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Binary Search in Python | Sample Programs in Every Language</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Binary Search in Python" />
+<meta name="author" content="Jeremy Grifski" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<meta property="og:description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<link rel="canonical" href="https://sampleprograms.io/projects/binary-search/python/" />
+<meta property="og:url" content="https://sampleprograms.io/projects/binary-search/python/" />
+<meta property="og:site_name" content="Sample Programs in Every Language" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-10-27T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Binary Search in Python" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Jeremy Grifski"},"dateModified":"2019-10-27T00:00:00+00:00","datePublished":"2019-10-27T00:00:00+00:00","description":"A Collection of Code Snippets in as Many Programming Languages as Possible","headline":"Binary Search in Python","mainEntityOfPage":{"@type":"WebPage","@id":"https://sampleprograms.io/projects/binary-search/python/"},"url":"https://sampleprograms.io/projects/binary-search/python/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="monetization" content="$ilp.uphold.com/qgNaxDa2QH77">
+
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+</head>
+
+<!-- Default document body -->
+<body>
+    <div class="wrapper">
+        <header class="page-header" role="banner">
+  <h1 class="header">
+    Sample Programs in Every Language
+  </h1>
+
+  <p class="header">
+    A Collection of Code Snippets in as Many Programming Languages as Possible
+  </p>
+
+  <ul>
+    
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/zipball/main">Download ZIP</a>
+    </li>
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/tarball/main">Download TAR</a>
+    </li>
+    
+
+    <li>
+      <a class="buttons github" href="https://github.com/TheRenegadeCoder/sample-programs-website">
+        View on GitHub
+      </a>
+    </li>
+  </ul>
+
+  
+  <p class="header">
+    This project is maintained by
+    <a class="header name" href="https://github.com/TheRenegadeCoder">
+      TheRenegadeCoder
+    </a>
+  </p>
+   
+</header>
+
+        <section>
+  <nav class="top-nav">
+    <ul>
+        <li><a href="/" id="home">Home</a></li>
+        <li><a href="/languages/" id="lang">Languages</a></li>
+        <li><a href="/projects/" id="proj">Projects</a></li>
+    </ul>
+</nav>
+ 
+  <nav aria-label="Breadcrumb" class="site-navigation">
+  <ol class="breadcrumb">
+    <li><a href="/">Home</a></li>
+
+    
+    
+
+    
+      
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/">
+            Projects
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/binary-search/">
+            Binary search
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <span class="active">
+            Python
+          </span>
+        
+      </li>
+    
+  </ol>
+</nav>
+
+  <h1>Binary Search in Python</h1>
+
+  
+  <small>
+    
+        Published on 27 October 2019
+    
+
+    
+        (Updated: 15 May 2023)
+    
+    </small>
+  
+
+  
+
+<div class="featured-image">
+  <img
+    src="/assets/images/binary-search-in-every-language.jpg"
+    alt="Binary Search in Python"
+    loading="eager"
+  >
+
+  
+    <div class="image-container" id="title1">
+      <div class="image-title">Binary Search</div>
+    </div>
+  
+
+  
+    <div class="image-container" id="title2">
+      <div class="image-title">in Python</div>
+    </div>
+  
+</div>
+
+<p></p>
+
+  
+  <!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/binary-search/python/how-to-implement-the-solution.md
+- sources/programs/binary-search/python/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
+<p>Welcome to the <a href="/projects/binary-search">Binary Search</a> in <a href="/languages/python">Python</a> page! Here, you'll find the source code for this program as well as a description of how the program works.</p>
+
+<h2 id="current-solution">Current Solution</h2>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">sys</span>
+
+
+<span class="k">def</span> <span class="nf">binary_search</span><span class="p">(</span><span class="n">array_list</span><span class="p">,</span> <span class="n">key</span><span class="p">):</span>
+    <span class="n">start</span> <span class="o">=</span> <span class="mi">0</span>
+    <span class="n">end</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">array_list</span><span class="p">)</span>
+    <span class="k">while</span> <span class="n">start</span> <span class="o">&lt;</span> <span class="n">end</span><span class="p">:</span>
+        <span class="n">mid</span> <span class="o">=</span> <span class="p">(</span><span class="n">start</span> <span class="o">+</span> <span class="n">end</span><span class="p">)</span> <span class="o">//</span> <span class="mi">2</span>
+        <span class="k">if</span> <span class="n">array_list</span><span class="p">[</span><span class="n">mid</span><span class="p">]</span> <span class="o">&gt;</span> <span class="n">key</span><span class="p">:</span>
+            <span class="n">end</span> <span class="o">=</span> <span class="n">mid</span>
+        <span class="k">elif</span> <span class="n">array_list</span><span class="p">[</span><span class="n">mid</span><span class="p">]</span> <span class="o">&lt;</span> <span class="n">key</span><span class="p">:</span>
+            <span class="n">start</span> <span class="o">=</span> <span class="n">mid</span> <span class="o">+</span> <span class="mi">1</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="k">return</span> <span class="n">mid</span>
+    <span class="k">return</span> <span class="o">-</span><span class="mi">1</span>
+
+
+<span class="k">def</span> <span class="nf">input_list</span><span class="p">(</span><span class="n">list_str</span><span class="p">):</span>
+    <span class="n">array_of_numbers</span> <span class="o">=</span> <span class="n">list_str</span>
+    <span class="n">array_of_numbers</span> <span class="o">=</span> <span class="n">array_of_numbers</span><span class="p">.</span><span class="n">split</span><span class="p">(</span><span class="s">","</span><span class="p">)</span>
+    <span class="n">array_of_numbers</span> <span class="o">=</span> <span class="p">[</span><span class="nb">int</span><span class="p">(</span><span class="n">x</span><span class="p">)</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">array_of_numbers</span><span class="p">]</span>
+    <span class="k">return</span> <span class="n">array_of_numbers</span>
+
+
+<span class="k">def</span> <span class="nf">exit_with_error</span><span class="p">():</span>
+    <span class="k">print</span><span class="p">(</span><span class="s">'Usage: please provide a list of sorted integers ("1, 4, 5, 11, 12") and the integer to find ("11")'</span><span class="p">)</span>
+    <span class="n">sys</span><span class="p">.</span><span class="nb">exit</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
+
+
+<span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">"__main__"</span><span class="p">:</span>
+    <span class="k">try</span><span class="p">:</span>
+        <span class="n">array_of_numbers</span> <span class="o">=</span> <span class="n">sys</span><span class="p">.</span><span class="n">argv</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span>
+        <span class="n">value_to_be_found</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">sys</span><span class="p">.</span><span class="n">argv</span><span class="p">[</span><span class="mi">2</span><span class="p">])</span>
+        <span class="n">array_of_numbers</span> <span class="o">=</span> <span class="n">input_list</span><span class="p">(</span><span class="n">array_of_numbers</span><span class="p">)</span>
+
+        <span class="k">if</span> <span class="n">array_of_numbers</span> <span class="o">!=</span> <span class="nb">sorted</span><span class="p">(</span>
+                <span class="n">array_of_numbers</span><span class="p">)</span> <span class="ow">or</span> <span class="nb">len</span><span class="p">(</span><span class="n">array_of_numbers</span><span class="p">)</span> <span class="o">&lt;</span> <span class="mi">1</span><span class="p">:</span>
+            <span class="n">exit_with_error</span><span class="p">()</span>
+        <span class="n">index</span> <span class="o">=</span> <span class="n">binary_search</span><span class="p">(</span><span class="n">array_of_numbers</span><span class="p">,</span> <span class="n">value_to_be_found</span><span class="p">)</span>
+        <span class="k">if</span> <span class="n">index</span> <span class="o">&lt;</span> <span class="mi">0</span><span class="p">:</span>
+            <span class="k">print</span><span class="p">(</span><span class="bp">False</span><span class="p">)</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="k">print</span><span class="p">(</span><span class="bp">True</span><span class="p">)</span>
+    <span class="k">except</span> <span class="p">(</span><span class="nb">IndexError</span><span class="p">,</span> <span class="nb">ValueError</span><span class="p">):</span>
+        <span class="n">exit_with_error</span><span class="p">()</span>
+
+</code></pre></div></div>
+
+<p>Binary Search in <a href="/languages/python">Python</a> was written by:</p>
+
+<ul>
+  <li>Jeremy Grifski</li>
+  <li>Vikram Rayavarapu</li>
+</ul>
+
+<p>This article was written by:</p>
+
+<ul>
+  <li>Jeremy Grifski</li>
+  <li>rzuckerm</li>
+  <li>shubhragupta-code</li>
+  <li>Vikram Rayavarapu</li>
+</ul>
+
+<p>If you see anything you'd like to change or update, <a href="https://github.com/TheRenegadeCoder/sample-programs">please consider contributing</a>.</p>
+
+<h2 id="how-to-implement-the-solution">How to Implement the Solution</h2>
+
+<h3 id="the-main-function">The Main Function</h3>
+
+<p>Breaking down this solution from bottom to top,</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">"__main__"</span><span class="p">:</span>
+    <span class="k">try</span><span class="p">:</span>
+        <span class="n">array_of_numbers</span> <span class="o">=</span> <span class="n">sys</span><span class="p">.</span><span class="n">argv</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span>
+        <span class="n">value_to_be_found</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">sys</span><span class="p">.</span><span class="n">argv</span><span class="p">[</span><span class="mi">2</span><span class="p">])</span>
+        <span class="n">array_of_numbers</span> <span class="o">=</span> <span class="n">input_list</span><span class="p">(</span><span class="n">array_of_numbers</span><span class="p">)</span>
+
+        <span class="k">if</span> <span class="n">array_of_numbers</span> <span class="o">!=</span> <span class="nb">sorted</span><span class="p">(</span>
+                <span class="n">array_of_numbers</span><span class="p">)</span> <span class="ow">or</span> <span class="nb">len</span><span class="p">(</span><span class="n">array_of_numbers</span><span class="p">)</span> <span class="o">&lt;</span> <span class="mi">1</span><span class="p">:</span>
+            <span class="n">exit_with_error</span><span class="p">()</span>
+        <span class="n">index</span> <span class="o">=</span> <span class="n">binary_search</span><span class="p">(</span><span class="n">array_of_numbers</span><span class="p">,</span> <span class="n">value_to_be_found</span><span class="p">)</span>
+        <span class="k">if</span> <span class="n">index</span> <span class="o">&lt;</span> <span class="mi">0</span><span class="p">:</span>
+            <span class="k">print</span><span class="p">(</span><span class="bp">False</span><span class="p">)</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="k">print</span><span class="p">(</span><span class="bp">True</span><span class="p">)</span>
+    <span class="k">except</span> <span class="p">(</span><span class="nb">IndexError</span><span class="p">,</span> <span class="nb">ValueError</span><span class="p">):</span>
+        <span class="n">exit_with_error</span><span class="p">()</span>
+</code></pre></div></div>
+
+<p>This bit of code checks to see if this is the main module run. If it is then it starts exectuing the code
+function and passes user input to main program. In this case the user inputs are two strings
+for example they are like as follows<code class="language-plaintext highlighter-rouge">"1, 4, 5, 11, 12"</code> <code class="language-plaintext highlighter-rouge">"11"</code>.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">binary_search</span><span class="p">(</span><span class="n">alist</span><span class="p">,</span> <span class="n">key_value</span><span class="p">):</span>
+    <span class="n">start</span> <span class="o">=</span> <span class="mi">0</span>
+    <span class="n">end</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">alist</span><span class="p">)</span>
+    <span class="k">while</span> <span class="n">start</span> <span class="o">&lt;</span> <span class="n">end</span><span class="p">:</span>
+        <span class="n">mid</span> <span class="o">=</span> <span class="p">(</span><span class="n">start</span> <span class="o">+</span> <span class="n">end</span><span class="p">)</span><span class="o">//</span><span class="mi">2</span>
+        <span class="k">if</span> <span class="n">alist</span><span class="p">[</span><span class="n">mid</span><span class="p">]</span> <span class="o">&gt;</span> <span class="n">key_value</span><span class="p">:</span>
+            <span class="n">end</span> <span class="o">=</span> <span class="n">mid</span>
+        <span class="k">elif</span> <span class="n">alist</span><span class="p">[</span><span class="n">mid</span><span class="p">]</span> <span class="o">&lt;</span> <span class="n">key_value</span><span class="p">:</span>
+            <span class="n">start</span> <span class="o">=</span> <span class="n">mid</span> <span class="o">+</span> <span class="mi">1</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="k">return</span> <span class="n">mid</span>
+    <span class="k">return</span> <span class="o">-</span><span class="mi">1</span>
+
+</code></pre></div></div>
+
+<p>This is the main function of this file. It parses the input, then calls our binary search function
+(and returns mid (index of our key_value) or -1 (If key_value is not avaliable)).</p>
+
+<h3 id="transform-input-parameters">Transform Input Parameters</h3>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">input_list</span><span class="p">(</span><span class="n">list_str</span><span class="p">):</span>
+    <span class="n">array_of_numbers</span> <span class="o">=</span> <span class="n">list_str</span>
+    <span class="n">array_of_numbers</span> <span class="o">=</span> <span class="n">array_of_numbers</span><span class="p">.</span><span class="n">split</span><span class="p">(</span><span class="s">","</span><span class="p">)</span>
+    <span class="n">array_of_numbers</span> <span class="o">=</span> <span class="p">[</span><span class="nb">int</span><span class="p">(</span><span class="n">x</span><span class="p">)</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">array_of_numbers</span><span class="p">]</span>
+    <span class="k">return</span> <span class="n">array_of_numbers</span>
+</code></pre></div></div>
+
+<p>This function takes a string like <code class="language-plaintext highlighter-rouge">"1, 4, 5, 11, 12"</code>, and turns into a list of numbers.
+It does this using a list comprehension, first we need to convert our string into a
+list <code class="language-plaintext highlighter-rouge">array_of_numbers.split(',')</code> which is a list of strings split by comma (,). So our
+original input string becomes <code class="language-plaintext highlighter-rouge">["1", " 4", " 5", " 11", " 12"]</code>.
+Then for each element in the list <code class="language-plaintext highlighter-rouge">for x in ...</code> ,  we convert it to an <code class="language-plaintext highlighter-rouge">int</code>. For example,
+the string <code class="language-plaintext highlighter-rouge">" 4"</code> is converted into a decimal number in this case <code class="language-plaintext highlighter-rouge">4</code> (it removes the " "(space) too). This is done
+for every item in the list so our original input <code class="language-plaintext highlighter-rouge">"1, 4, 5, 11, 12"</code> becomes <code class="language-plaintext highlighter-rouge">[1, 4, 5, 11, 12]</code>.</p>
+
+<h3 id="throws-error">Throws Error</h3>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">exit_with_error</span><span class="p">():</span>
+    <span class="k">print</span><span class="p">(</span><span class="s">'Usage: please provide a list of at least two integers to sort in the format "1, 2, 3, 4, 5"'</span><span class="p">)</span>
+    <span class="n">sys</span><span class="p">.</span><span class="nb">exit</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>This function prints a message and then exits the script with an error, <code class="language-plaintext highlighter-rouge">sys.exit(1)</code>.
+If any non-zero value is returned after execution of program then the program didn't complete properly.
+The above function (<code class="language-plaintext highlighter-rouge">exit_with_error()</code>) is called everytime whenever the user input isn't correct.</p>
+
+<h3 id="binary-search">Binary Search</h3>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">binary_search</span><span class="p">(</span><span class="n">alist</span><span class="p">,</span> <span class="n">key_value</span><span class="p">):</span>
+    <span class="n">start</span> <span class="o">=</span> <span class="mi">0</span>
+    <span class="n">end</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">alist</span><span class="p">)</span>
+    <span class="k">while</span> <span class="n">start</span> <span class="o">&lt;</span> <span class="n">end</span><span class="p">:</span>
+        <span class="n">mid</span> <span class="o">=</span> <span class="p">(</span><span class="n">start</span> <span class="o">+</span> <span class="n">end</span><span class="p">)</span> <span class="o">//</span> <span class="mi">2</span>
+        <span class="k">if</span> <span class="n">alist</span><span class="p">[</span><span class="n">mid</span><span class="p">]</span> <span class="o">&gt;</span> <span class="n">key_value</span><span class="p">:</span>
+            <span class="n">end</span> <span class="o">=</span> <span class="n">mid</span>
+        <span class="k">elif</span> <span class="n">alist</span><span class="p">[</span><span class="n">mid</span><span class="p">]</span> <span class="o">&lt;</span> <span class="n">key_value</span><span class="p">:</span>
+            <span class="n">start</span> <span class="o">=</span> <span class="n">mid</span> <span class="o">+</span> <span class="mi">1</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="k">return</span> <span class="n">mid</span>
+    <span class="k">return</span> <span class="o">-</span><span class="mi">1</span>
+</code></pre></div></div>
+
+<p>This function takes a sorted integer list and a value and returns the index of the item found (or <code class="language-plaintext highlighter-rouge">-1</code> if not)
+using the binary search algorithm.</p>
+
+<p>For example, if <code class="language-plaintext highlighter-rouge">[1, 4, 5, 11, 12]</code> is the input:</p>
+
+<ul>
+  <li>
+    <p>First we take <code class="language-plaintext highlighter-rouge">start = 0</code>, <code class="language-plaintext highlighter-rouge">end = len(alist)</code></p>
+  </li>
+  <li>
+    <p>while <code class="language-plaintext highlighter-rouge">start</code> is less than <code class="language-plaintext highlighter-rouge">end</code>, we keep on iterating loop</p>
+  </li>
+  <li>
+    <p>first we take middle value of array with the expression (<code class="language-plaintext highlighter-rouge">mid = (start + end) // 2</code>)</p>
+  </li>
+  <li>
+    <p>Then we compare the middle value that we got (<code class="language-plaintext highlighter-rouge">mid</code>) with <code class="language-plaintext highlighter-rouge">key_value</code></p>
+  </li>
+  <li>
+    <p>If the middle value (<code class="language-plaintext highlighter-rouge">mid</code>) is greater than <code class="language-plaintext highlighter-rouge">key_value</code> then we take <code class="language-plaintext highlighter-rouge">end</code> as middle value (<code class="language-plaintext highlighter-rouge">mid</code>) and continue searching.</p>
+  </li>
+  <li>
+    <p>If the middle value (<code class="language-plaintext highlighter-rouge">mid</code>) is less than <code class="language-plaintext highlighter-rouge">key_value</code> then we take end as middle value + 1 (<code class="language-plaintext highlighter-rouge">mid + 1</code>) and continue searching.</p>
+  </li>
+  <li>
+    <p>If key_value is neither greater nor lesser than that of the middle value, then it means that the value that we are searching is at <code class="language-plaintext highlighter-rouge">mid</code>. So we return the index of the <code class="language-plaintext highlighter-rouge">key_value</code> (if value in the given list) or <code class="language-plaintext highlighter-rouge">-1</code> (if not).</p>
+  </li>
+</ul>
+
+<h2 id="how-to-run-the-solution">How to Run the Solution</h2>
+
+<p>If we want to run this program, we should probably download a copy of Binary Search in Python.
+After that, we should make sure we have the latest Python interpreter.
+From there, we can run the following command in the terminal:</p>
+
+<p><code class="language-plaintext highlighter-rouge">python binary_search.py "1, 4, 5, 11, 12" "11"</code></p>
+
+<p>Alternatively, we can copy the solution into an online Python interpreter and hit run then you need to modify <code class="language-plaintext highlighter-rouge">sys.argv[i]</code> to your inputs.</p>
+
+</section>
+
+        <footer class="site-footer" role="contentinfo">
+  
+  <span class="site-footer-owner">
+    <a href="https://github.com/TheRenegadeCoder/sample-programs-website">
+      sample-programs-website
+    </a>
+    is maintained by
+    <a href="https://github.com/TheRenegadeCoder">TheRenegadeCoder</a>.
+  </span>
+  
+</footer>
+
+    </div>
+</body>
+<!-- End of default document body -->
+
+</html>

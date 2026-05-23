@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html lang=" en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico">
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=7717a154c24ec799373814fffe320590e8ffa5f3">
+
+    <script src="/assets/js/image_titler.js"></script>
+    <script src="/assets/js/scale.fix.js"></script>
+
+    <script defer data-domain="sampleprograms.io" src="https://plausible.io/js/plausible.js"></script>
+
+    <link type="application/atom+xml" rel="alternate" href="https://sampleprograms.io/feed.xml" title="Sample Programs in Every Language" />
+    
+
+<!-- Twitter cards -->
+<meta name="twitter:title" content="Fizz Buzz in GNU Make">
+<meta name="twitter:description" content="">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://sampleprograms.io/assets/images/fizz-buzz-in-every-language.png">
+<!-- end of Twitter cards -->
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Fizz Buzz in GNU Make | Sample Programs in Every Language</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Fizz Buzz in GNU Make" />
+<meta name="author" content="rzuckerm" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<meta property="og:description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<link rel="canonical" href="https://sampleprograms.io/projects/fizz-buzz/gnu-make/" />
+<meta property="og:url" content="https://sampleprograms.io/projects/fizz-buzz/gnu-make/" />
+<meta property="og:site_name" content="Sample Programs in Every Language" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-07-17T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Fizz Buzz in GNU Make" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"rzuckerm"},"dateModified":"2023-07-17T00:00:00+00:00","datePublished":"2023-07-17T00:00:00+00:00","description":"A Collection of Code Snippets in as Many Programming Languages as Possible","headline":"Fizz Buzz in GNU Make","mainEntityOfPage":{"@type":"WebPage","@id":"https://sampleprograms.io/projects/fizz-buzz/gnu-make/"},"url":"https://sampleprograms.io/projects/fizz-buzz/gnu-make/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="monetization" content="$ilp.uphold.com/qgNaxDa2QH77">
+
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+</head>
+
+<!-- Default document body -->
+<body>
+    <div class="wrapper">
+        <header class="page-header" role="banner">
+  <h1 class="header">
+    Sample Programs in Every Language
+  </h1>
+
+  <p class="header">
+    A Collection of Code Snippets in as Many Programming Languages as Possible
+  </p>
+
+  <ul>
+    
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/zipball/main">Download ZIP</a>
+    </li>
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/tarball/main">Download TAR</a>
+    </li>
+    
+
+    <li>
+      <a class="buttons github" href="https://github.com/TheRenegadeCoder/sample-programs-website">
+        View on GitHub
+      </a>
+    </li>
+  </ul>
+
+  
+  <p class="header">
+    This project is maintained by
+    <a class="header name" href="https://github.com/TheRenegadeCoder">
+      TheRenegadeCoder
+    </a>
+  </p>
+   
+</header>
+
+        <section>
+  <nav class="top-nav">
+    <ul>
+        <li><a href="/" id="home">Home</a></li>
+        <li><a href="/languages/" id="lang">Languages</a></li>
+        <li><a href="/projects/" id="proj">Projects</a></li>
+    </ul>
+</nav>
+ 
+  <nav aria-label="Breadcrumb" class="site-navigation">
+  <ol class="breadcrumb">
+    <li><a href="/">Home</a></li>
+
+    
+    
+
+    
+      
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/">
+            Projects
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/fizz-buzz/">
+            Fizz buzz
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <span class="active">
+            Gnu make
+          </span>
+        
+      </li>
+    
+  </ol>
+</nav>
+
+  <h1>Fizz Buzz in GNU Make</h1>
+
+  
+  <small>
+    
+        Published on 17 July 2023
+    
+
+    
+        (Updated: 12 August 2023)
+    
+    </small>
+  
+
+  
+
+<div class="featured-image">
+  <img
+    src="/assets/images/fizz-buzz-in-every-language.png"
+    alt="Fizz Buzz in GNU Make"
+    loading="eager"
+  >
+
+  
+    <div class="image-container" id="title1">
+      <div class="image-title">Fizz Buzz</div>
+    </div>
+  
+
+  
+    <div class="image-container" id="title2">
+      <div class="image-title">in GNU Make</div>
+    </div>
+  
+</div>
+
+<p></p>
+
+  
+  <!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/fizz-buzz/gnu-make/how-to-implement-the-solution.md
+- sources/programs/fizz-buzz/gnu-make/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
+<p>Welcome to the <a href="/projects/fizz-buzz">Fizz Buzz</a> in <a href="/languages/gnu-make">GNU Make</a> page! Here, you'll find the source code for this program as well as a description of how the program works.</p>
+
+<h2 id="current-solution">Current Solution</h2>
+
+<pre><code class="language-gnu_make"># Numbers are represented as x's so that they can be manipulated with text functions.
+# This idea is based on how the GNU Make Standard Library (https://github.com/jgrahamc/gmsl)
+# handles numbers.
+ZERO :=
+ONE := x
+TWO := x x
+THREE := x x x
+FIVE := $(THREE) $(TWO)
+TEN := $(FIVE) $(FIVE)
+FIFTEEN := $(TEN) $(FIVE)
+HUNDRED := $(TEN) $(TEN) $(TEN) $(TEN) $(TEN) $(TEN) $(TEN) $(TEN) $(TEN) $(TEN)
+
+# Is divisible function
+# Arg 1: Number encoded as x's
+# Arg 2: Divisor encoded as x's
+# Return: $(ONE) if divisible, $(ZERO) otherwise
+IS_DIVISIBLE = $(if $(strip $(subst $(2),,$(1))),$(ZERO),$(ONE))
+
+# Is less than function
+# Arg 1: Number 1 encoded as x's
+# Arg 2: Number 2 encoded as x's
+# Return: $(ONE) if Number 1 &lt; Number 2, $(ZERO) otherwise
+IS_LESS_THAN = $(if $(wordlist $(words $(call INC,$(1))),$(words $(2)),$(2)),$(ONE),$(ZERO))
+
+# Increment function
+# Arg 1: Number encoded as x's
+# Return: Number + 1 encoded as x's
+INC = $(strip $(1) $(ONE))
+
+# Fizz Buzz function
+# Arg 1: Number encoded as x's
+# Return: One of the following:
+# - FizzBuzz if Number is divisible by 15
+# - Fizz if Number is divisible by 3
+# - Buzz if Number if divisible 5
+# - Otherwise, Number converted to decimal representation
+FIZZ_BUZZ = $(strip \
+    $(if $(call IS_DIVISIBLE,$(1),$(FIFTEEN)),FizzBuzz,\
+        $(if $(call IS_DIVISIBLE,$(1),$(THREE)),Fizz,\
+            $(if $(call IS_DIVISIBLE,$(1),$(FIVE)),Buzz,$(words $(1)))\
+        ) \
+    ) \
+)
+
+# Fizz Buzz loop
+#
+# Outputs result of Fizz Buzz function starting at starting number and ending
+# at the ending number
+#
+# Arg 1: Starting number encoded as x's
+# Arg 2: Ending number encoded as x's
+define FIZZ_BUZZ_LOOP
+$(info $(call FIZZ_BUZZ,$(1)))
+$(if $(call IS_LESS_THAN,$(1),$(2)),$(call FIZZ_BUZZ_LOOP,$(call INC,$(1)),$(2)))
+endef
+
+# Run Fizz Buzz loop from 1 to 100
+$(call FIZZ_BUZZ_LOOP,$(ONE),$(HUNDRED))
+
+.PHONY: all
+all: ;@:
+
+</code></pre>
+
+<p>Fizz Buzz in <a href="/languages/gnu-make">GNU Make</a> was written by:</p>
+
+<ul>
+  <li>rzuckerm</li>
+</ul>
+
+<p>This article was written by:</p>
+
+<ul>
+  <li>rzuckerm</li>
+</ul>
+
+<p>If you see anything you'd like to change or update, <a href="https://github.com/TheRenegadeCoder/sample-programs">please consider contributing</a>.</p>
+
+<h2 id="how-to-implement-the-solution">How to Implement the Solution</h2>
+
+<h3 id="introduction">Introduction</h3>
+
+<p>GNU Make has very few functions that accept or return numbers, so doing
+anything that requires math is challenging. After doing some Google searches,
+I discovered the <a href="https://github.com/jgrahamc/gmsl">GNU Make Standard Library</a>. This library does some
+amazing things with the functions available in GNU Make. I studied the code,
+and the way they handle numbers is to convert them with a sequence of <code class="language-plaintext highlighter-rouge">x</code>'s
+separated by spaces. In other words, the number <code class="language-plaintext highlighter-rouge">n</code> is represented as
+<code class="language-plaintext highlighter-rouge">n</code> <code class="language-plaintext highlighter-rouge">x</code>'s separated by spaces. For <code class="language-plaintext highlighter-rouge">0</code>, an empty string is used. For example,
+<code class="language-plaintext highlighter-rouge">5</code> would be represented like this:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>x x x x x
+</code></pre></div></div>
+
+<p>Before we start digging into the code, let's explain some concepts and
+built-in functions that will be used in this code sample.</p>
+
+<h3 id="immediate-vs-deferred-assignment">Immediate vs. Deferred Assignment</h3>
+
+<p>Throughout the code, there are <a href="https://www.gnu.org/software/make/manual/html_node/Reading-Makefiles.html">two types of assignment</a>:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">:=</code> means immediate assignment.</li>
+  <li><code class="language-plaintext highlighter-rouge">=</code> means deferred assignment.</li>
+</ul>
+
+<p>As the name implies, immediate assignment means the value of the variable
+is assigned immediately, and any variables referenced are immediately
+expanded. For example:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">HELLO</span> <span class="o">:=</span> hello
+<span class="nv">WORLD</span> <span class="o">:=</span> world
+<span class="nv">HELLO_WORLD</span> <span class="o">:=</span> <span class="nv">$(HELLO)</span> <span class="nv">$(WORLD)</span>
+</code></pre></div></div>
+
+<p>For the above, the value of <code class="language-plaintext highlighter-rouge">HELLO</code> is the string <code class="language-plaintext highlighter-rouge">hello</code>, the value of
+<code class="language-plaintext highlighter-rouge">WORLD</code> is the string <code class="language-plaintext highlighter-rouge">world</code>. The variable <code class="language-plaintext highlighter-rouge">HELLO_WORLD</code> is the value
+of <code class="language-plaintext highlighter-rouge">HELLO</code>, a space, and then the value of <code class="language-plaintext highlighter-rouge">WORLD</code> – i.e., the string
+<code class="language-plaintext highlighter-rouge">hello world</code>.</p>
+
+<h3 id="user-defined-functions">User-Defined Functions</h3>
+
+<p>A user-defined function is set up as a variable with a deferred assignment.
+Function arguments are represented as the one-based argument number enclosed
+in <code class="language-plaintext highlighter-rouge">$()</code> – e.g., <code class="language-plaintext highlighter-rouge">$(2)</code> is the second argument. The <a href="https://www.gnu.org/software/make/manual/html_node/Call-Function.html">call</a> function is
+used to invoked these functions. For example. let's set up this function:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">GREET</span> <span class="o">=</span> <span class="nv">$(1)</span>, <span class="nv">$(2)</span><span class="nb">.</span> How are you?
+</code></pre></div></div>
+
+<p>This function takes two argument: a greeting and a name. It returns a value
+that is equal to the first argument, a comma, a space, the second argument,
+and <code class="language-plaintext highlighter-rouge">. How are you?</code>.</p>
+
+<p>We would call this function like this:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">GREETING</span> <span class="o">:=</span> <span class="nf">$(</span><span class="nb">call</span> GREET,Hello,Joe Smith<span class="nf">)</span>
+</code></pre></div></div>
+
+<p>The first argument is <code class="language-plaintext highlighter-rouge">Hello</code>, and the second argument is <code class="language-plaintext highlighter-rouge">Joe Smith</code>. This
+would set the variable <code class="language-plaintext highlighter-rouge">GREETING</code> to the value of
+<code class="language-plaintext highlighter-rouge">Hello, Joe Smith. How are you?</code>.</p>
+
+<h3 id="built-in-numeric-functions">Built-In Numeric Functions</h3>
+
+<p>There are a few functions in GNU Make that handle numbers. Of those, only
+the following are used:</p>
+
+<ul>
+  <li><a href="https://www.gnu.org/software/make/manual/html_node/Text-Functions.html#index-wordlist">wordlist</a></li>
+  <li><a href="https://www.gnu.org/software/make/manual/html_node/Text-Functions.html#index-words">words</a></li>
+</ul>
+
+<h3 id="wordlist-function">wordlist Function</h3>
+
+<p>First, let's take a look at the <a href="https://www.gnu.org/software/make/manual/html_node/Text-Functions.html#index-wordlist">wordlist</a> function. This function takes
+three arguments:</p>
+
+<ol>
+  <li>The one-based starting index. Let's call this <code class="language-plaintext highlighter-rouge">s</code>.</li>
+  <li>The one-based ending index. Let's call this <code class="language-plaintext highlighter-rouge">e</code>.</li>
+  <li>A space-separated list.</li>
+</ol>
+
+<p>It returns a space-separated list that contains elements <code class="language-plaintext highlighter-rouge">s</code> through <code class="language-plaintext highlighter-rouge">e</code>
+(inclusive) of the original list. These values are constrained to the length
+of the list. For the case where <code class="language-plaintext highlighter-rouge">s</code> is greater than <code class="language-plaintext highlighter-rouge">e</code>, an empty string is
+returned.</p>
+
+<p>For example, let's create a variable called <code class="language-plaintext highlighter-rouge">SOME_LIST</code> with 5 elements:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">SOME_LIST</span> <span class="o">:=</span> first second third fourth fifth
+</code></pre></div></div>
+
+<p>If you did this:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">ANSWER1</span> <span class="o">:=</span> <span class="nf">$(</span><span class="nb">wordlist</span> 2,4,<span class="nv">$(SOME_LIST)</span><span class="nf">)</span>
+</code></pre></div></div>
+
+<p>Then, <code class="language-plaintext highlighter-rouge">ANSWER1</code> would equal <code class="language-plaintext highlighter-rouge">two three four</code>, which is the 2nd through 4th
+element.</p>
+
+<p>If you did this:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">ANSWER2</span> <span class="o">:=</span> <span class="nf">$(</span><span class="nb">wordlist</span> 4,1000,<span class="nv">$(SOME_LIST)</span><span class="nf">)</span>
+</code></pre></div></div>
+
+<p>Then, <code class="language-plaintext highlighter-rouge">ANSWER2</code> would equal <code class="language-plaintext highlighter-rouge">four five</code>, which is the 4th and 5th element
+since the value returned by <code class="language-plaintext highlighter-rouge">wordlist</code> stops at the last element.</p>
+
+<p>If you did any of these:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">ANSWER3A</span> <span class="o">:=</span> <span class="nf">$(</span><span class="nb">wordlist</span> 6,7,<span class="nv">$(SOME_LIST)</span><span class="nf">)</span>
+<span class="nv">ANSWER3B</span> <span class="o">:=</span> <span class="nf">$(</span><span class="nb">wordlist</span> 5,4,<span class="nv">$(SOME_LIST)</span><span class="nf">)</span>
+</code></pre></div></div>
+
+<p>Then, you would get an empty string because:</p>
+
+<ul>
+  <li>For <code class="language-plaintext highlighter-rouge">ANSWER3A</code>, there is no 6th element.</li>
+  <li>For <code class="language-plaintext highlighter-rouge">ANSWER3B</code>, <code class="language-plaintext highlighter-rouge">5</code> is greater than <code class="language-plaintext highlighter-rouge">4</code>.</li>
+</ul>
+
+<h4 id="words-function">words Function</h4>
+
+<p>The <a href="https://www.gnu.org/software/make/manual/html_node/Text-Functions.html#index-words">words</a> function accepts a single argument: a space-separated list. The
+function returns the number of elements in that list. For example:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">$(words a b c)</code> returns <code class="language-plaintext highlighter-rouge">3</code></li>
+  <li><code class="language-plaintext highlighter-rouge">$(words)</code> returns <code class="language-plaintext highlighter-rouge">0</code></li>
+</ul>
+
+<h3 id="built-in-conditional-function">Built-In Conditional Function</h3>
+
+<p>The <a href="https://www.gnu.org/software/make/manual/html_node/Conditional-Functions.html#index-if-1">if</a> function is a conditional function that returns one of two
+values: one for the "true" case, one for the "false" case. It take three
+arguments:</p>
+
+<ol>
+  <li>The value to compare</li>
+  <li>The value to return if "true"</li>
+  <li>The value to return if "false"</li>
+</ol>
+
+<p>A value is considered "true" if it is non-empty. For example:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="err">$(if</span> <span class="err">$(SOME_VALUE),It</span><span class="s1">'s True,It'</span><span class="err">s</span> <span class="err">False)</span>
+</code></pre></div></div>
+
+<p>If that value of the variable <code class="language-plaintext highlighter-rouge">SOME_VALUE</code> is non-empty, then <code class="language-plaintext highlighter-rouge">It's True</code> is
+returned. Otherwise, <code class="language-plaintext highlighter-rouge">It's False</code> is returned.</p>
+
+<h3 id="numbers">Numbers</h3>
+
+<p>This code sets up the numbers that are used in the Fizz Buzz algorithm:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">ZERO</span> <span class="o">:=</span>
+<span class="nv">ONE</span> <span class="o">:=</span> x
+<span class="nv">TWO</span> <span class="o">:=</span> x x
+<span class="nv">THREE</span> <span class="o">:=</span> x x x
+<span class="nv">FIVE</span> <span class="o">:=</span> <span class="nv">$(THREE)</span> <span class="nv">$(TWO)</span>
+<span class="nv">TEN</span> <span class="o">:=</span> <span class="nv">$(FIVE)</span> <span class="nv">$(FIVE)</span>
+<span class="nv">FIFTEEN</span> <span class="o">:=</span> <span class="nv">$(TEN)</span> <span class="nv">$(FIVE)</span>
+<span class="nv">HUNDRED</span> <span class="o">:=</span> <span class="nv">$(TEN)</span> <span class="nv">$(TEN)</span> <span class="nv">$(TEN)</span> <span class="nv">$(TEN)</span> <span class="nv">$(TEN)</span> <span class="nv">$(TEN)</span> <span class="nv">$(TEN)</span> <span class="nv">$(TEN)</span> <span class="nv">$(TEN)</span> <span class="nv">$(TEN)</span>
+</code></pre></div></div>
+
+<p>From the names, it's obvious as to which number each variable represents –
+e.g., <code class="language-plaintext highlighter-rouge">FIVE</code> (which is effectively <code class="language-plaintext highlighter-rouge">THREE</code> plus <code class="language-plaintext highlighter-rouge">TWO</code>) is 5 <code class="language-plaintext highlighter-rouge">x</code>'s separated by
+spaces.</p>
+
+<h3 id="math-functions">Math Functions</h3>
+
+<p>A number of math functions are needed in order to support the Fizz Buzz
+algorithm:</p>
+
+<ul>
+  <li>Increment (<code class="language-plaintext highlighter-rouge">INC</code>)</li>
+  <li>Is less than (<code class="language-plaintext highlighter-rouge">IS_LESS_THAN</code>)</li>
+  <li>Is divisible by (<code class="language-plaintext highlighter-rouge">IS_DIVISIBLE_BY</code>)</li>
+</ul>
+
+<h4 id="inc-function">INC Function</h4>
+
+<p>Let's look at the <code class="language-plaintext highlighter-rouge">INC</code> function first since it is the simplest, and it is
+used elsewhere. It takes a single argument which is a number represented as
+<code class="language-plaintext highlighter-rouge">x</code>'s and returns the number plus one represented as <code class="language-plaintext highlighter-rouge">x</code>'s. Here the function:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">INC</span> <span class="o">=</span> <span class="nf">$(</span><span class="nb">strip</span> <span class="nv">$(1)</span> <span class="nv">$(ONE)</span><span class="nf">)</span>
+</code></pre></div></div>
+
+<p>Incrementing just involves append a space and a single <code class="language-plaintext highlighter-rouge">x</code> (the value of
+<code class="language-plaintext highlighter-rouge">ONE</code>) to the passed in argument. The <a href="https://www.gnu.org/software/make/manual/html_node/Text-Functions.html#index-stripping-whitespace">strip</a> function removes leading
+and trailing whitespace. This is needed for the case whether the argument has
+the value of zero, which is an empty string. Without this, ` x<code class="language-plaintext highlighter-rouge"> would be
+returned instead of just </code>x`.</p>
+
+<h4 id="is_less_than-function">IS_LESS_THAN Function</h4>
+
+<p>The <code class="language-plaintext highlighter-rouge">IS_LESS_THAN</code> function takes a two arguments which are numbers
+represented as <code class="language-plaintext highlighter-rouge">x</code>'s and returns a <code class="language-plaintext highlighter-rouge">$(ONE)</code> (which is <code class="language-plaintext highlighter-rouge">x</code>) as a true value,
+and <code class="language-plaintext highlighter-rouge">$(ZERO)</code> (which is empty) as a false value. Here is the function:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">IS_LESS_THAN</span> <span class="o">=</span> <span class="nf">$(</span><span class="nb">if</span> <span class="nf">$(</span><span class="nb">wordlist</span> <span class="nf">$(</span><span class="nb">words</span> <span class="nf">$(</span><span class="nb">call</span> INC,<span class="nv">$(1)</span><span class="nf">))</span>,<span class="nf">$(</span><span class="nb">words</span> <span class="nv">$(2)</span><span class="nf">)</span>,<span class="nv">$(2)</span><span class="nf">)</span>,<span class="nv">$(ONE)</span>,<span class="nv">$(ZERO)</span><span class="nf">)</span>
+</code></pre></div></div>
+
+<p>Whoa! That's a lot to digest here! Let's break it down. Effectively, the way
+this works if to remove each item in the first argument from the second until
+the first or second argument is exhausted, whichever comes first. When the
+first argument is less than the second, a non-empty list will remain, and
+<code class="language-plaintext highlighter-rouge">$(ONE)</code> is returned. Otherwise, it will be an empty list, and <code class="language-plaintext highlighter-rouge">$(ZERO)</code> is
+returned.</p>
+
+<p>Let's work through a couple of examples. Let <code class="language-plaintext highlighter-rouge">ARG1</code> be <code class="language-plaintext highlighter-rouge">3</code> and <code class="language-plaintext highlighter-rouge">ARG2</code> be <code class="language-plaintext highlighter-rouge">5</code>,
+each represented as <code class="language-plaintext highlighter-rouge">x</code>'s:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">ARG1</span> <span class="o">:=</span> x x x
+<span class="nv">ARG2</span> <span class="o">:=</span> x x x x x
+<span class="nv">RESULT</span> <span class="o">:=</span> <span class="nf">$(</span><span class="nb">call</span> IS_LESS_THAN,<span class="nv">$(ARG1)</span>,<span class="nv">$(ARG2)</span><span class="nf">)</span>
+</code></pre></div></div>
+
+<p>For this case <code class="language-plaintext highlighter-rouge">$(words $(call INC,$(ARG1)))</code> is <code class="language-plaintext highlighter-rouge">4</code> (<code class="language-plaintext highlighter-rouge">3 + 1</code>), and
+<code class="language-plaintext highlighter-rouge">$(words $(ARG2))</code> is <code class="language-plaintext highlighter-rouge">5</code>, so <code class="language-plaintext highlighter-rouge">$(wordlist 4,5,$(ARG2))</code> can be visualized as
+the right-hand side of this:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1 2 3 | 4 5
+x x x | x x
+</code></pre></div></div>
+
+<p>Since the result is non-empty, <code class="language-plaintext highlighter-rouge">$(ONE)</code> is returned.</p>
+
+<p>Let's work through the reverse of the previous example:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">ARG1</span> <span class="o">:=</span> x x x x x
+<span class="nv">ARG2</span> <span class="o">:=</span> x x x
+<span class="nv">RESULT</span> <span class="o">:=</span> <span class="nf">$(</span><span class="nb">call</span> IS_LESS_THAN,<span class="nv">$(ARG1)</span>,<span class="nv">$(ARG2)</span><span class="nf">)</span>
+</code></pre></div></div>
+
+<p>For this case <code class="language-plaintext highlighter-rouge">$(words $(call INC,$(ARG1)))</code> is <code class="language-plaintext highlighter-rouge">6</code>, and <code class="language-plaintext highlighter-rouge">$(words $(ARG2))</code> is
+<code class="language-plaintext highlighter-rouge">3</code>, so <code class="language-plaintext highlighter-rouge">$(wordlist 6,3,$(ARG2))</code> can be visualized as the right-hand side of
+this:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1 2 3 | 4 5 6
+x x x |
+</code></pre></div></div>
+
+<p>Since the result is empty, <code class="language-plaintext highlighter-rouge">$(ZERO)</code> is returned.</p>
+
+<h4 id="is_divisible_by-function">IS_DIVISIBLE_BY Function</h4>
+
+<p>The <code class="language-plaintext highlighter-rouge">IS_DIVISIBLE_BY</code> function take two arguments:</p>
+
+<ul>
+  <li>Dividend represented as <code class="language-plaintext highlighter-rouge">x</code>'s</li>
+  <li>Divisor represented as <code class="language-plaintext highlighter-rouge">x</code>'s</li>
+</ul>
+
+<p>If the dividend is divisible by the divisor, <code class="language-plaintext highlighter-rouge">$(ONE)</code> is returned. Otherwise,
+<code class="language-plaintext highlighter-rouge">$(ZERO)</code> is returned. Here is the function:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">IS_DIVISIBLE_BY</span> <span class="o">=</span> <span class="nf">$(</span><span class="nb">if</span> <span class="nf">$(</span><span class="nb">strip</span> <span class="nf">$(</span><span class="nb">subst</span> <span class="nv">$(2)</span>,,<span class="nv">$(1)</span><span class="nf">))</span>,<span class="nv">$(ZERO)</span>,<span class="nv">$(ONE)</span><span class="nf">)</span>
+</code></pre></div></div>
+
+<p>While this isn't as scary as the <code class="language-plaintext highlighter-rouge">IS_LESS_THAN</code> function, there is an
+interesting trick at work here. The <a href="https://www.gnu.org/software/make/manual/html_node/Text-Functions.html#index-subst-1">subst</a> take three arguments:</p>
+
+<ol>
+  <li>The search string</li>
+  <li>The replace string</li>
+  <li>The string to modify</li>
+</ol>
+
+<p>This is used to remove all instances of the divisor from the dividend. If the
+result is non-empty, then the dividend is not divisible by the divisor.
+Otherwise, it is divisible.</p>
+
+<p>Let's work through a couple of examples. Let <code class="language-plaintext highlighter-rouge">ARG1</code> be <code class="language-plaintext highlighter-rouge">8</code> and <code class="language-plaintext highlighter-rouge">ARG2</code> be <code class="language-plaintext highlighter-rouge">3</code>,
+each represented as <code class="language-plaintext highlighter-rouge">x</code>'s:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ARG1 := x x x x x x x x
+ARG2 := x x x
+RESULT := $(call IS_DIVISIBLE_BY,$(ARG1),$(ARG2))
+</code></pre></div></div>
+
+<p>The <code class="language-plaintext highlighter-rouge">subst</code> function would look like this:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="err">$(subst</span> <span class="err">x</span> <span class="err">x</span> <span class="err">x,,x</span> <span class="err">x</span> <span class="err">x</span> <span class="err">x</span> <span class="err">x</span> <span class="err">x</span> <span class="err">x</span> <span class="err">x)</span>
+</code></pre></div></div>
+
+<p>In other words, substitute 3 <code class="language-plaintext highlighter-rouge">x</code>'s with nothing. The return value of <code class="language-plaintext highlighter-rouge">subst</code>
+would be the right-most side of this:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1 2 3 | 4 5 6 | 7 8
+x x x | x x x | x x
+</code></pre></div></div>
+
+<p>Since this is non-empty (<code class="language-plaintext highlighter-rouge">x x</code>), the return value of <code class="language-plaintext highlighter-rouge">IS_DIVISIBLE_BY</code> is
+<code class="language-plaintext highlighter-rouge">$(ZERO)</code>.</p>
+
+<p>Let's change <code class="language-plaintext highlighter-rouge">ARG1</code> to <code class="language-plaintext highlighter-rouge">9</code> represented as <code class="language-plaintext highlighter-rouge">x</code>'s:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">ARG1</span> <span class="o">:=</span> x x x x x x x x x
+<span class="nv">ARG2</span> <span class="o">:=</span> x x x
+<span class="nv">RESULT</span> <span class="o">:=</span> <span class="nf">$(</span><span class="nb">call</span> IS_DIVISIBLE_BY,<span class="nv">$(ARG1)</span>,<span class="nv">$(ARG2)</span><span class="nf">)</span>
+</code></pre></div></div>
+
+<p>For this case, the right-most side of <code class="language-plaintext highlighter-rouge">subst</code> would be this:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1 2 3 | 4 5 6 | 7 8 9 |
+x x x | x x x | x x x |
+</code></pre></div></div>
+
+<p>Since this is empty, the return value of <code class="language-plaintext highlighter-rouge">IS_DIVISIBLE_BY</code> is <code class="language-plaintext highlighter-rouge">$(ONE)</code>.</p>
+
+<h3 id="the-fizz-buzz-algorithm">The Fizz Buzz Algorithm</h3>
+
+<p>Finally, we're at the meat of the matter! Thanks for sticking with me so far.</p>
+
+<h4 id="fizz_buzz-function">FIZZ_BUZZ Function</h4>
+
+<p>The <code class="language-plaintext highlighter-rouge">FIZZ_BUZZ</code> function takes a single argument that is a number represented
+as <code class="language-plaintext highlighter-rouge">x</code>'s. Let's call this argument <code class="language-plaintext highlighter-rouge">n</code>. This function returns on of the following:</p>
+
+<ul>
+  <li>If <code class="language-plaintext highlighter-rouge">n</code> is divisible by 3 and 5 (i.e., 15), return <code class="language-plaintext highlighter-rouge">FizzBuzz</code>.</li>
+  <li>Else if <code class="language-plaintext highlighter-rouge">n</code> is divisible by 3, return <code class="language-plaintext highlighter-rouge">Fizz</code>.</li>
+  <li>Else if <code class="language-plaintext highlighter-rouge">n</code> is divisible by 5, return <code class="language-plaintext highlighter-rouge">Buzz</code>.</li>
+  <li>Else return <code class="language-plaintext highlighter-rouge">n</code> represented as a regular number.</li>
+</ul>
+
+<p>Here is the implementation:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">FIZZ_BUZZ</span> <span class="o">=</span> <span class="nf">$(</span><span class="nb">strip</span> <span class="se">\</span>
+    <span class="nf">$(</span><span class="nb">if</span> <span class="nf">$(</span><span class="nb">call</span> IS_DIVISIBLE,<span class="nv">$(1)</span>,<span class="nv">$(FIFTEEN)</span><span class="nf">)</span>,FizzBuzz,<span class="se">\</span>
+        <span class="nf">$(</span><span class="nb">if</span> <span class="nf">$(</span><span class="nb">call</span> IS_DIVISIBLE,<span class="nv">$(1)</span>,<span class="nv">$(THREE)</span><span class="nf">)</span>,Fizz,<span class="se">\</span>
+            <span class="nf">$(</span><span class="nb">if</span> <span class="nf">$(</span><span class="nb">call</span> IS_DIVISIBLE,<span class="nv">$(1)</span>,<span class="nv">$(FIVE)</span><span class="nf">)</span>,Buzz,<span class="nf">$(</span><span class="nb">words</span> <span class="nv">$(1)</span><span class="nf">))</span><span class="se">\</span>
+        <span class="nf">)</span> <span class="se">\</span>
+    <span class="nf">)</span> <span class="se">\</span>
+<span class="nf">)</span>
+</code></pre></div></div>
+
+<p>The <code class="language-plaintext highlighter-rouge">strip</code> function is needed to remove any extraneous spaces that are added
+by the formatting of the code, which is done for readability. The <code class="language-plaintext highlighter-rouge">words</code>
+function is needed to convert the argument into a regular number.</p>
+
+<h4 id="fizz_buzz_loop-function">FIZZ_BUZZ_LOOP Function</h4>
+
+<p>The <code class="language-plaintext highlighter-rouge">FIZZ_BUZZ_LOOP</code> function has two arguments: the starting and end numbers
+represented as <code class="language-plaintext highlighter-rouge">x</code>'s. Here is the function:</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="err">define</span> <span class="err">FIZZ_BUZZ_LOOP</span>
+<span class="err">$(info</span> <span class="err">$(call</span> <span class="err">FIZZ_BUZZ,$(1)))</span>
+<span class="err">$(if</span> <span class="err">$(call</span> <span class="err">IS_LESS_THAN,$(1),$(2)),$(call</span> <span class="err">FIZZ_BUZZ_LOOP,$(call</span> <span class="err">INC,$(1)),$(2)))</span>
+<span class="err">endef</span>
+</code></pre></div></div>
+
+<p>The <a href="https://www.gnu.org/software/make/manual/html_node/Multi_002dLine.html">define</a> keyword assigns a multi-line value to a variable. The value
+is terminated with an <code class="language-plaintext highlighter-rouge">endef</code> keyword. The <a href="https://www.gnu.org/software/make/manual/html_node/Make-Control-Functions.html#index-info">info</a> function takes a single
+value: the value to be displayed.</p>
+
+<p>Here is what this function would look like in pseudocode:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>function FIZZ_BUZZ_LOOP(start, end)
+    display FIZZ_BUZZ(start)
+    if start &lt; end:
+        call FIZZ_BUZZ_LOOP(start + 1, end)
+</code></pre></div></div>
+
+<p>You'll notice that this is using recursion. That is the only way to implement
+loops in GNU Make.</p>
+
+<h4 id="the-final-step">The Final Step</h4>
+
+<p>In order to make all this run the Fizz Buzz algorithm and display results, one
+final piece is needed, and that is to call <code class="language-plaintext highlighter-rouge">FIZZ_BUZZ_LOOP</code> with a starting
+value of 1 (<code class="language-plaintext highlighter-rouge">$(ONE)</code>) and ending value of 100 (<code class="language-plaintext highlighter-rouge">$(HUNDRED)</code>):</p>
+
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="err">$(call</span> <span class="err">FIZZ_BUZZ_LOOP,$(ONE),$(HUNDRED))</span>
+</code></pre></div></div>
+
+<p>And that's it! Wow, that was exhausting! I think I'll take a nap now.</p>
+
+<h2 id="how-to-run-the-solution">How to Run the Solution</h2>
+
+<p>To run this program, download and install the latest GNU Make using these
+instructions:</p>
+
+<ul>
+  <li><a href="https://leangaurav.medium.com/how-to-setup-install-gnu-make-on-windows-324480f1da69">Windows</a></li>
+  <li>For <a href="https://www.incredibuild.com/integrations/gnu-make">Linux</a>, see "How to Download" section</li>
+  <li><a href="https://formulae.brew.sh/formula/make">Mac</a></li>
+</ul>
+
+<p>Download a copy of <a href="https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/g/gnu-make/fizz-buzz.mk">Fizz Buzz in GNU Make</a>, and run this command:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>make -sf fizz-buzz.mk
+</code></pre></div></div>
+
+
+</section>
+
+        <footer class="site-footer" role="contentinfo">
+  
+  <span class="site-footer-owner">
+    <a href="https://github.com/TheRenegadeCoder/sample-programs-website">
+      sample-programs-website
+    </a>
+    is maintained by
+    <a href="https://github.com/TheRenegadeCoder">TheRenegadeCoder</a>.
+  </span>
+  
+</footer>
+
+    </div>
+</body>
+<!-- End of default document body -->
+
+</html>

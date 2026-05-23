@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang=" en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico">
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=7717a154c24ec799373814fffe320590e8ffa5f3">
+
+    <script src="/assets/js/image_titler.js"></script>
+    <script src="/assets/js/scale.fix.js"></script>
+
+    <script defer data-domain="sampleprograms.io" src="https://plausible.io/js/plausible.js"></script>
+
+    <link type="application/atom+xml" rel="alternate" href="https://sampleprograms.io/feed.xml" title="Sample Programs in Every Language" />
+    
+
+<!-- Twitter cards -->
+<meta name="twitter:title" content="Maximum Subarray in Python">
+<meta name="twitter:description" content="">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://sampleprograms.io/assets/images/maximum-subarray-in-every-language.jpg">
+<!-- end of Twitter cards -->
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Maximum Subarray in Python | Sample Programs in Every Language</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Maximum Subarray in Python" />
+<meta name="author" content="Divyansh Agarwal" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<meta property="og:description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
+<link rel="canonical" href="https://sampleprograms.io/projects/maximum-subarray/python/" />
+<meta property="og:url" content="https://sampleprograms.io/projects/maximum-subarray/python/" />
+<meta property="og:site_name" content="Sample Programs in Every Language" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-10-14T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Maximum Subarray in Python" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Divyansh Agarwal"},"dateModified":"2020-10-14T00:00:00+00:00","datePublished":"2020-10-14T00:00:00+00:00","description":"A Collection of Code Snippets in as Many Programming Languages as Possible","headline":"Maximum Subarray in Python","mainEntityOfPage":{"@type":"WebPage","@id":"https://sampleprograms.io/projects/maximum-subarray/python/"},"url":"https://sampleprograms.io/projects/maximum-subarray/python/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="monetization" content="$ilp.uphold.com/qgNaxDa2QH77">
+
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+</head>
+
+<!-- Default document body -->
+<body>
+    <div class="wrapper">
+        <header class="page-header" role="banner">
+  <h1 class="header">
+    Sample Programs in Every Language
+  </h1>
+
+  <p class="header">
+    A Collection of Code Snippets in as Many Programming Languages as Possible
+  </p>
+
+  <ul>
+    
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/zipball/main">Download ZIP</a>
+    </li>
+    <li class="download">
+      <a class="buttons" href="https://github.com/TheRenegadeCoder/sample-programs-website/tarball/main">Download TAR</a>
+    </li>
+    
+
+    <li>
+      <a class="buttons github" href="https://github.com/TheRenegadeCoder/sample-programs-website">
+        View on GitHub
+      </a>
+    </li>
+  </ul>
+
+  
+  <p class="header">
+    This project is maintained by
+    <a class="header name" href="https://github.com/TheRenegadeCoder">
+      TheRenegadeCoder
+    </a>
+  </p>
+   
+</header>
+
+        <section>
+  <nav class="top-nav">
+    <ul>
+        <li><a href="/" id="home">Home</a></li>
+        <li><a href="/languages/" id="lang">Languages</a></li>
+        <li><a href="/projects/" id="proj">Projects</a></li>
+    </ul>
+</nav>
+ 
+  <nav aria-label="Breadcrumb" class="site-navigation">
+  <ol class="breadcrumb">
+    <li><a href="/">Home</a></li>
+
+    
+    
+
+    
+      
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/">
+            Projects
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/maximum-subarray/">
+            Maximum subarray
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <span class="active">
+            Python
+          </span>
+        
+      </li>
+    
+  </ol>
+</nav>
+
+  <h1>Maximum Subarray in Python</h1>
+
+  
+  <small>
+    
+        Published on 14 October 2020
+    
+
+    
+        (Updated: 15 May 2023)
+    
+    </small>
+  
+
+  
+
+<div class="featured-image">
+  <img
+    src="/assets/images/maximum-subarray-in-every-language.jpg"
+    alt="Maximum Subarray in Python"
+    loading="eager"
+  >
+
+  
+    <div class="image-container" id="title1">
+      <div class="image-title">Maximum Subarray</div>
+    </div>
+  
+
+  
+    <div class="image-container" id="title2">
+      <div class="image-title">in Python</div>
+    </div>
+  
+</div>
+
+<p></p>
+
+  
+  <!--
+AUTO-GENERATED -- PLEASE DO NOT EDIT!
+
+Instead, please edit the following:
+
+- sources/programs/maximum-subarray/python/how-to-implement-the-solution.md
+- sources/programs/maximum-subarray/python/how-to-run-the-solution.md
+
+See .github/CONTRIBUTING.md for further details.
+-->
+
+<p>Welcome to the <a href="/projects/maximum-subarray">Maximum Subarray</a> in <a href="/languages/python">Python</a> page! Here, you'll find the source code for this program as well as a description of how the program works.</p>
+
+<h2 id="current-solution">Current Solution</h2>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">sys</span>
+<span class="kn">from</span> <span class="nn">typing</span> <span class="kn">import</span> <span class="n">List</span>
+
+
+<span class="k">def</span> <span class="nf">error_handling</span><span class="p">(</span><span class="n">argv</span><span class="p">:</span> <span class="n">List</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="n">List</span><span class="p">[</span><span class="nb">int</span><span class="p">]:</span>
+    <span class="n">str_input</span> <span class="o">=</span> <span class="p">(</span><span class="s">','</span><span class="p">.</span><span class="n">join</span><span class="p">(</span><span class="n">i</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">argv</span><span class="p">[</span><span class="mi">1</span><span class="p">:])).</span><span class="n">strip</span><span class="p">()</span>
+    <span class="k">if</span> <span class="n">str_input</span> <span class="o">==</span> <span class="s">""</span><span class="p">:</span>
+        <span class="k">print</span><span class="p">(</span><span class="s">'Usage: Please provide a list of integers in the format: "1, 2, 3, 4, 5"'</span><span class="p">)</span>
+        <span class="n">sys</span><span class="p">.</span><span class="nb">exit</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
+    <span class="n">nums</span> <span class="o">=</span> <span class="p">[</span><span class="nb">int</span><span class="p">(</span><span class="n">num</span><span class="p">)</span> <span class="k">for</span> <span class="n">num</span> <span class="ow">in</span> <span class="n">str_input</span><span class="p">.</span><span class="n">split</span><span class="p">(</span><span class="s">','</span><span class="p">)]</span>
+    <span class="k">return</span> <span class="n">nums</span>
+
+
+<span class="k">def</span> <span class="nf">maximum_subarray</span><span class="p">(</span><span class="n">nums</span><span class="p">:</span> <span class="n">List</span><span class="p">[</span><span class="nb">int</span><span class="p">])</span> <span class="o">-&gt;</span> <span class="nb">int</span><span class="p">:</span>
+    <span class="n">local_max</span> <span class="o">=</span> <span class="mi">0</span>
+    <span class="n">global_max</span> <span class="o">=</span> <span class="n">nums</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+    <span class="k">for</span> <span class="n">num</span> <span class="ow">in</span> <span class="n">nums</span><span class="p">:</span>
+        <span class="n">local_max</span> <span class="o">+=</span> <span class="n">num</span>
+        <span class="k">if</span> <span class="p">(</span><span class="n">local_max</span> <span class="o">&lt;</span> <span class="mi">0</span><span class="p">):</span>
+            <span class="n">local_max</span> <span class="o">=</span> <span class="mi">0</span>
+        <span class="k">elif</span> <span class="n">global_max</span> <span class="o">&lt;</span> <span class="n">local_max</span><span class="p">:</span>
+            <span class="n">global_max</span> <span class="o">=</span> <span class="n">local_max</span>
+    <span class="k">return</span> <span class="n">global_max</span>
+
+
+<span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">"__main__"</span><span class="p">:</span>
+    <span class="n">nums</span> <span class="o">=</span> <span class="n">error_handling</span><span class="p">(</span><span class="n">sys</span><span class="p">.</span><span class="n">argv</span><span class="p">)</span>
+    <span class="k">print</span><span class="p">(</span><span class="n">maximum_subarray</span><span class="p">(</span><span class="n">nums</span><span class="p">))</span>
+
+</code></pre></div></div>
+
+<p>Maximum Subarray in <a href="/languages/python">Python</a> was written by:</p>
+
+<ul>
+  <li>Divyansh Agarwal</li>
+  <li>Jeremy Grifski</li>
+  <li>rzuckerm</li>
+</ul>
+
+<p>This article was written by:</p>
+
+<ul>
+  <li>Divyansh Agarwal</li>
+  <li>Jeremy Grifski</li>
+  <li>rzuckerm</li>
+</ul>
+
+<p>If you see anything you'd like to change or update, <a href="https://github.com/TheRenegadeCoder/sample-programs">please consider contributing</a>.</p>
+
+<h2 id="how-to-implement-the-solution">How to Implement the Solution</h2>
+
+<p>Let's look at the code in detail.</p>
+
+<h3 id="main-function">Main Function</h3>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">"__main__"</span><span class="p">:</span>
+    <span class="n">nums</span> <span class="o">=</span> <span class="n">error_handling</span><span class="p">(</span><span class="n">sys</span><span class="p">.</span><span class="n">argv</span><span class="p">)</span>
+    <span class="k">print</span><span class="p">(</span><span class="n">maximum_subarray</span><span class="p">(</span><span class="n">nums</span><span class="p">))</span>
+</code></pre></div></div>
+
+<p>This bit of code checks to see if this is the <code class="language-plaintext highlighter-rouge">main</code> module run. If true, then it calls the <code class="language-plaintext highlighter-rouge">error_handling</code>
+function to convert the command-line arguments to a list of integers. It calls the <code class="language-plaintext highlighter-rouge">maximum_subarray</code>
+function to calculate the maximum subarray value. Finally, it calls the <code class="language-plaintext highlighter-rouge">print</code> function to display
+the value.</p>
+
+<h3 id="error-handling-function">Error Handling Function</h3>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">error_handling</span><span class="p">(</span><span class="n">argv</span><span class="p">:</span> <span class="n">List</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="n">List</span><span class="p">[</span><span class="nb">int</span><span class="p">]:</span>
+    <span class="n">str_input</span> <span class="o">=</span> <span class="p">(</span><span class="s">','</span><span class="p">.</span><span class="n">join</span><span class="p">(</span><span class="n">i</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">argv</span><span class="p">[</span><span class="mi">1</span><span class="p">:])).</span><span class="n">strip</span><span class="p">()</span>
+    <span class="k">if</span> <span class="n">str_input</span> <span class="o">==</span> <span class="s">""</span><span class="p">:</span>
+        <span class="k">print</span><span class="p">(</span><span class="s">'Usage: Please provide a list of integers in the format: "1, 2, 3, 4, 5"'</span><span class="p">)</span>
+        <span class="n">sys</span><span class="p">.</span><span class="nb">exit</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
+    <span class="n">nums</span> <span class="o">=</span> <span class="p">[</span><span class="nb">int</span><span class="p">(</span><span class="n">num</span><span class="p">)</span> <span class="k">for</span> <span class="n">num</span> <span class="ow">in</span> <span class="n">str_input</span><span class="p">.</span><span class="n">split</span><span class="p">(</span><span class="s">','</span><span class="p">)]</span>
+    <span class="k">return</span> <span class="n">nums</span>
+</code></pre></div></div>
+
+<p>This bit of code takes a comma-separated string of integers from the command-line (via the <code class="language-plaintext highlighter-rouge">sys.argv</code>). It then converts the string into an array of integer. It also deals with the edge case which arises when there is no input or the input string is empty (blank string).
+If it is empty, the usage is displayed, and the program exits. Otherwise, the command-separated string is converted to a list of integers.</p>
+
+<h3 id="maximum-subarray">Maximum Subarray</h3>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">maximum_subarray</span><span class="p">(</span><span class="n">nums</span><span class="p">:</span> <span class="n">List</span><span class="p">[</span><span class="nb">int</span><span class="p">])</span> <span class="o">-&gt;</span> <span class="nb">int</span><span class="p">:</span>
+    <span class="n">local_max</span> <span class="o">=</span> <span class="mi">0</span>
+    <span class="n">global_max</span> <span class="o">=</span> <span class="n">nums</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+    <span class="k">for</span> <span class="n">num</span> <span class="ow">in</span> <span class="n">nums</span><span class="p">:</span>
+        <span class="n">local_max</span> <span class="o">+=</span> <span class="n">num</span>
+        <span class="k">if</span> <span class="p">(</span><span class="n">local_max</span> <span class="o">&lt;</span> <span class="mi">0</span><span class="p">):</span>
+            <span class="n">local_max</span> <span class="o">=</span> <span class="mi">0</span>
+        <span class="k">elif</span> <span class="n">global_max</span> <span class="o">&lt;</span> <span class="n">local_max</span><span class="p">:</span>
+            <span class="n">global_max</span> <span class="o">=</span> <span class="n">local_max</span>
+    <span class="k">return</span> <span class="n">global_max</span>
+</code></pre></div></div>
+
+<p>This function implements Kadane's algorithm. It first initializes <code class="language-plaintext highlighter-rouge">global_max</code>
+(the final value to be returned from the function) to the first element of the array (<code class="language-plaintext highlighter-rouge">nums</code>)
+and <code class="language-plaintext highlighter-rouge">local_max</code> as 0. It then iterates through the array, keeps adding values to <code class="language-plaintext highlighter-rouge">local_max</code>.
+If <code class="language-plaintext highlighter-rouge">local_max</code> goes to less than 0, then <code class="language-plaintext highlighter-rouge">local_max</code> is set to 0. Otherwise, if <code class="language-plaintext highlighter-rouge">local_max</code>
+is greater than <code class="language-plaintext highlighter-rouge">global_max</code>, <code class="language-plaintext highlighter-rouge">global_max</code> is set to the value of <code class="language-plaintext highlighter-rouge">local_max</code>.</p>
+
+<p>Once all the values are processed, <code class="language-plaintext highlighter-rouge">global_max</code> is returned.</p>
+
+<p>For example, if <code class="language-plaintext highlighter-rouge">-1, -2, 1, 2, 3</code> is the input:</p>
+
+<ul>
+  <li>Initialize <code class="language-plaintext highlighter-rouge">local_max</code> to <code class="language-plaintext highlighter-rouge">-1</code> (the first value) and <code class="language-plaintext highlighter-rouge">global_max</code> to <code class="language-plaintext highlighter-rouge">0</code>.</li>
+  <li>Now, iterator through all of the values.</li>
+  <li>For the first two values, the value of <code class="language-plaintext highlighter-rouge">local_max</code> is <code class="language-plaintext highlighter-rouge">0</code>: <code class="language-plaintext highlighter-rouge">0 + (-1) &lt; 0</code> and <code class="language-plaintext highlighter-rouge">0 + (-2) &lt; 0</code>, so <code class="language-plaintext highlighter-rouge">-1</code> and <code class="language-plaintext highlighter-rouge">-2</code> are skipped.</li>
+  <li>For the remaining values, <code class="language-plaintext highlighter-rouge">local_max</code> is accumulated and <code class="language-plaintext highlighter-rouge">global_max</code> is updated with <code class="language-plaintext highlighter-rouge">local_max</code>:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">local_max</code> is <code class="language-plaintext highlighter-rouge">0 + 1 = 1</code>, and <code class="language-plaintext highlighter-rouge">1 &lt; 0</code> is false, so <code class="language-plaintext highlighter-rouge">local_max</code> is not reset, and <code class="language-plaintext highlighter-rouge">-1 &lt; 1</code>, so <code class="language-plaintext highlighter-rouge">global_max</code> is set to <code class="language-plaintext highlighter-rouge">1</code></li>
+      <li><code class="language-plaintext highlighter-rouge">local_max</code> is <code class="language-plaintext highlighter-rouge">1 + 2 = 3</code>, and <code class="language-plaintext highlighter-rouge">3 &lt; 0</code> is false, so <code class="language-plaintext highlighter-rouge">local_max</code> is not reset, and <code class="language-plaintext highlighter-rouge">1 &lt; 3</code>, so <code class="language-plaintext highlighter-rouge">global_max</code> is set to <code class="language-plaintext highlighter-rouge">3</code></li>
+      <li><code class="language-plaintext highlighter-rouge">local_max</code> is <code class="language-plaintext highlighter-rouge">3 + 3 = 6</code>, and <code class="language-plaintext highlighter-rouge">6 &lt; 0</code> is false, so <code class="language-plaintext highlighter-rouge">local_max</code> is not reset, and <code class="language-plaintext highlighter-rouge">3 &lt; 6</code>, so <code class="language-plaintext highlighter-rouge">global_max</code> is set to <code class="language-plaintext highlighter-rouge">6</code></li>
+    </ul>
+  </li>
+  <li>Finally, <code class="language-plaintext highlighter-rouge">global_max</code> (<code class="language-plaintext highlighter-rouge">6</code>) is returned</li>
+</ul>
+
+<h2 id="how-to-run-the-solution">How to Run the Solution</h2>
+
+<p>If you want to run this program, you can download a copy of <a href="https://github.com/TheRenegadeCoder/sample-programs/blob/main/archive/p/python/maximum_subarray.py">Maximum Subarray in Python</a>.</p>
+
+<p>Next, make sure you have the <a href="https://www.python.org/downloads/">latest Python interpreter</a>.</p>
+
+<p>Finally, open a terminal in the directory of the downloaded file and run the following command:</p>
+
+<p><code class="language-plaintext highlighter-rouge">python maximum_subarray.py 1,2,3,4</code></p>
+
+<p>Replace <code class="language-plaintext highlighter-rouge">1,2,3,4</code> with input of your choice (comma separated integers).</p>
+
+<p>Alternatively, copy the solution into an online <a href="https://www.online-python.com/">Python interpreter</a> and hit run.</p>
+
+</section>
+
+        <footer class="site-footer" role="contentinfo">
+  
+  <span class="site-footer-owner">
+    <a href="https://github.com/TheRenegadeCoder/sample-programs-website">
+      sample-programs-website
+    </a>
+    is maintained by
+    <a href="https://github.com/TheRenegadeCoder">TheRenegadeCoder</a>.
+  </span>
+  
+</footer>
+
+    </div>
+</body>
+<!-- End of default document body -->
+
+</html>
