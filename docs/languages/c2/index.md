@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in C2](https://sampleprograms.io/projects/baklava/c2)
-- [Hello World in C2](https://sampleprograms.io/projects/hello-world/c2)
+- [Baklava in C2](/projects/baklava/c2)
+- [Hello World in C2](/projects/hello-world/c2)

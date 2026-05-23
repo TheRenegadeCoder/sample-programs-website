@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Convex Hull](/projects/convex-hull) in [Mathematica](/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -116,7 +116,7 @@ convexHullMain["100, 1A0, 240", "220, 120, 20"]
 
 {% endraw %}
 
-Convex Hull in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Convex Hull in [Mathematica](/languages/mathematica) was written by:
 
 - Ben Hekster
 

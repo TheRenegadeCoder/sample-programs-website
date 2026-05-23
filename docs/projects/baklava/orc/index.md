@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Orc](https://sampleprograms.io/languages/orc) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Orc](/languages/orc) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -50,7 +50,7 @@ stop
 
 {% endraw %}
 
-Baklava in [Orc](https://sampleprograms.io/languages/orc) was written by:
+Baklava in [Orc](/languages/orc) was written by:
 
 - rzuckerm
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Elvish](https://sampleprograms.io/languages/elvish) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](/projects/prime-number) in [Elvish](/languages/elvish) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -77,7 +77,7 @@ echo 'prime'
 
 {% endraw %}
 
-Prime Number in [Elvish](https://sampleprograms.io/languages/elvish) was written by:
+Prime Number in [Elvish](/languages/elvish) was written by:
 
 - Zia
 

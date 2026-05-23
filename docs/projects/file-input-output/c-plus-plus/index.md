@@ -27,7 +27,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Input Output](/projects/file-input-output) in [C++](/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -81,7 +81,7 @@ int main() {
 
 {% endraw %}
 
-File Input Output in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+File Input Output in [C++](/languages/c-plus-plus) was written by:
 
 - Noah Nichols
 - Ștefan-Iulian Alecu

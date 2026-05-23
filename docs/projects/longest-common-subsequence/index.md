@@ -102,36 +102,36 @@ Usage: please provide two lists in the format "1, 2, 3, 4, 5"
 
 There are 30 articles:
 
-- [Longest Common Subsequence in ALGOL 60](https://sampleprograms.io/projects/longest-common-subsequence/algol60)
-- [Longest Common Subsequence in ALGOL 68](https://sampleprograms.io/projects/longest-common-subsequence/algol68)
-- [Longest Common Subsequence in AWK](https://sampleprograms.io/projects/longest-common-subsequence/awk)
-- [Longest Common Subsequence in Ada](https://sampleprograms.io/projects/longest-common-subsequence/ada)
-- [Longest Common Subsequence in Beef](https://sampleprograms.io/projects/longest-common-subsequence/beef)
-- [Longest Common Subsequence in C](https://sampleprograms.io/projects/longest-common-subsequence/c)
-- [Longest Common Subsequence in C#](https://sampleprograms.io/projects/longest-common-subsequence/c-sharp)
-- [Longest Common Subsequence in C++](https://sampleprograms.io/projects/longest-common-subsequence/c-plus-plus)
-- [Longest Common Subsequence in COBOL](https://sampleprograms.io/projects/longest-common-subsequence/cobol)
-- [Longest Common Subsequence in Commodore BASIC](https://sampleprograms.io/projects/longest-common-subsequence/commodore-basic)
-- [Longest Common Subsequence in Elixir](https://sampleprograms.io/projects/longest-common-subsequence/elixir)
-- [Longest Common Subsequence in Euphoria](https://sampleprograms.io/projects/longest-common-subsequence/euphoria)
-- [Longest Common Subsequence in F#](https://sampleprograms.io/projects/longest-common-subsequence/f-sharp)
-- [Longest Common Subsequence in Go](https://sampleprograms.io/projects/longest-common-subsequence/go)
-- [Longest Common Subsequence in Haskell](https://sampleprograms.io/projects/longest-common-subsequence/haskell)
-- [Longest Common Subsequence in Java](https://sampleprograms.io/projects/longest-common-subsequence/java)
-- [Longest Common Subsequence in JavaScript](https://sampleprograms.io/projects/longest-common-subsequence/javascript)
-- [Longest Common Subsequence in Kotlin](https://sampleprograms.io/projects/longest-common-subsequence/kotlin)
-- [Longest Common Subsequence in Mathematica](https://sampleprograms.io/projects/longest-common-subsequence/mathematica)
-- [Longest Common Subsequence in PHP](https://sampleprograms.io/projects/longest-common-subsequence/php)
-- [Longest Common Subsequence in Pascal](https://sampleprograms.io/projects/longest-common-subsequence/pascal)
-- [Longest Common Subsequence in PowerShell](https://sampleprograms.io/projects/longest-common-subsequence/powershell)
-- [Longest Common Subsequence in Python](https://sampleprograms.io/projects/longest-common-subsequence/python)
-- [Longest Common Subsequence in Ruby](https://sampleprograms.io/projects/longest-common-subsequence/ruby)
-- [Longest Common Subsequence in Rust](https://sampleprograms.io/projects/longest-common-subsequence/rust)
-- [Longest Common Subsequence in Swift](https://sampleprograms.io/projects/longest-common-subsequence/swift)
-- [Longest Common Subsequence in Tcl](https://sampleprograms.io/projects/longest-common-subsequence/tcl)
-- [Longest Common Subsequence in TypeScript](https://sampleprograms.io/projects/longest-common-subsequence/typescript)
-- [Longest Common Subsequence in Visual Basic](https://sampleprograms.io/projects/longest-common-subsequence/visual-basic)
-- [Longest Common Subsequence in m4](https://sampleprograms.io/projects/longest-common-subsequence/m4)
+- [Longest Common Subsequence in ALGOL 60](/projects/longest-common-subsequence/algol60)
+- [Longest Common Subsequence in ALGOL 68](/projects/longest-common-subsequence/algol68)
+- [Longest Common Subsequence in AWK](/projects/longest-common-subsequence/awk)
+- [Longest Common Subsequence in Ada](/projects/longest-common-subsequence/ada)
+- [Longest Common Subsequence in Beef](/projects/longest-common-subsequence/beef)
+- [Longest Common Subsequence in C](/projects/longest-common-subsequence/c)
+- [Longest Common Subsequence in C#](/projects/longest-common-subsequence/c-sharp)
+- [Longest Common Subsequence in C++](/projects/longest-common-subsequence/c-plus-plus)
+- [Longest Common Subsequence in COBOL](/projects/longest-common-subsequence/cobol)
+- [Longest Common Subsequence in Commodore BASIC](/projects/longest-common-subsequence/commodore-basic)
+- [Longest Common Subsequence in Elixir](/projects/longest-common-subsequence/elixir)
+- [Longest Common Subsequence in Euphoria](/projects/longest-common-subsequence/euphoria)
+- [Longest Common Subsequence in F#](/projects/longest-common-subsequence/f-sharp)
+- [Longest Common Subsequence in Go](/projects/longest-common-subsequence/go)
+- [Longest Common Subsequence in Haskell](/projects/longest-common-subsequence/haskell)
+- [Longest Common Subsequence in Java](/projects/longest-common-subsequence/java)
+- [Longest Common Subsequence in JavaScript](/projects/longest-common-subsequence/javascript)
+- [Longest Common Subsequence in Kotlin](/projects/longest-common-subsequence/kotlin)
+- [Longest Common Subsequence in Mathematica](/projects/longest-common-subsequence/mathematica)
+- [Longest Common Subsequence in PHP](/projects/longest-common-subsequence/php)
+- [Longest Common Subsequence in Pascal](/projects/longest-common-subsequence/pascal)
+- [Longest Common Subsequence in PowerShell](/projects/longest-common-subsequence/powershell)
+- [Longest Common Subsequence in Python](/projects/longest-common-subsequence/python)
+- [Longest Common Subsequence in Ruby](/projects/longest-common-subsequence/ruby)
+- [Longest Common Subsequence in Rust](/projects/longest-common-subsequence/rust)
+- [Longest Common Subsequence in Swift](/projects/longest-common-subsequence/swift)
+- [Longest Common Subsequence in Tcl](/projects/longest-common-subsequence/tcl)
+- [Longest Common Subsequence in TypeScript](/projects/longest-common-subsequence/typescript)
+- [Longest Common Subsequence in Visual Basic](/projects/longest-common-subsequence/visual-basic)
+- [Longest Common Subsequence in m4](/projects/longest-common-subsequence/m4)
 
 ***
 
@@ -139,13 +139,13 @@ There are 30 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Linear Search)](https://sampleprograms.io/projects/linear-search)
+[<-- Previous Project (Linear Search)](/projects/linear-search)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Longest Palindromic Substring) -->](https://sampleprograms.io/projects/longest-palindromic-substring)
+[Next Project (Longest Palindromic Substring) -->](/projects/longest-palindromic-substring)
 
 </div>
 

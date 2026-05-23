@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Fortran](https://sampleprograms.io/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](/projects/bubble-sort) in [Fortran](/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -107,7 +107,7 @@ end program bubblesort
 
 {% endraw %}
 
-Bubble Sort in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
+Bubble Sort in [Fortran](/languages/fortran) was written by:
 
 - leoraggy
 

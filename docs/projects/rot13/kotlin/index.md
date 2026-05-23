@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Rot13](/projects/rot13) in [Kotlin](/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -90,7 +90,7 @@ fun main(args: Array<String>) {
 
 {% endraw %}
 
-Rot13 in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
+Rot13 in [Kotlin](/languages/kotlin) was written by:
 
 - Cristiano Lopes
 - Jeremy Grifski

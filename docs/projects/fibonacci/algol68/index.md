@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](/projects/fibonacci) in [ALGOL 68](/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -119,7 +119,7 @@ show fibonacci values(n)
 
 {% endraw %}
 
-Fibonacci in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
+Fibonacci in [ALGOL 68](/languages/algol68) was written by:
 
 - rzuckerm
 

@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](/projects/prime-number) in [Lua](/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -71,7 +71,7 @@ isPrime(arg[1])
 
 {% endraw %}
 
-Prime Number in [Lua](https://sampleprograms.io/languages/lua) was written by:
+Prime Number in [Lua](/languages/lua) was written by:
 
 - bhaskar_datta
 - Jeremy Grifski

@@ -57,8 +57,8 @@ MoonScript and Lua APIs called Lapis.
 
 There are 5 articles:
 
-- [Baklava in MoonScript](https://sampleprograms.io/projects/baklava/moonscript)
-- [Fibonacci in MoonScript](https://sampleprograms.io/projects/fibonacci/moonscript)
-- [Fizz Buzz in MoonScript](https://sampleprograms.io/projects/fizz-buzz/moonscript)
-- [Hello World in MoonScript](https://sampleprograms.io/projects/hello-world/moonscript)
-- [Reverse String in MoonScript](https://sampleprograms.io/projects/reverse-string/moonscript)
+- [Baklava in MoonScript](/projects/baklava/moonscript)
+- [Fibonacci in MoonScript](/projects/fibonacci/moonscript)
+- [Fizz Buzz in MoonScript](/projects/fizz-buzz/moonscript)
+- [Hello World in MoonScript](/projects/hello-world/moonscript)
+- [Reverse String in MoonScript](/projects/reverse-string/moonscript)

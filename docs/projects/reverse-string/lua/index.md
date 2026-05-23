@@ -26,7 +26,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](/projects/reverse-string) in [Lua](/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -41,7 +41,7 @@ end
 
 {% endraw %}
 
-Reverse String in [Lua](https://sampleprograms.io/languages/lua) was written by:
+Reverse String in [Lua](/languages/lua) was written by:
 
 - Jeremy Grifski
 - Matt Wiley

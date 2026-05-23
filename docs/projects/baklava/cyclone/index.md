@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Cyclone](https://sampleprograms.io/languages/cyclone) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Cyclone](/languages/cyclone) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -64,7 +64,7 @@ int main() {
 
 {% endraw %}
 
-Baklava in [Cyclone](https://sampleprograms.io/languages/cyclone) was written by:
+Baklava in [Cyclone](/languages/cyclone) was written by:
 
 - rzuckerm
 

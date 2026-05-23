@@ -65,43 +65,43 @@ Verify that the actual output matches the expected output
 
 There are 37 articles:
 
-- [Quine in ALGOL 60](https://sampleprograms.io/projects/quine/algol60)
-- [Quine in ALGOL 68](https://sampleprograms.io/projects/quine/algol68)
-- [Quine in AWK](https://sampleprograms.io/projects/quine/awk)
-- [Quine in Bash](https://sampleprograms.io/projects/quine/bash)
-- [Quine in Beef](https://sampleprograms.io/projects/quine/beef)
-- [Quine in Befunge](https://sampleprograms.io/projects/quine/befunge)
-- [Quine in C](https://sampleprograms.io/projects/quine/c)
-- [Quine in C#](https://sampleprograms.io/projects/quine/c-sharp)
-- [Quine in C++](https://sampleprograms.io/projects/quine/c-plus-plus)
-- [Quine in COBOL](https://sampleprograms.io/projects/quine/cobol)
-- [Quine in CoffeeScript](https://sampleprograms.io/projects/quine/coffeescript)
-- [Quine in Commodore BASIC](https://sampleprograms.io/projects/quine/commodore-basic)
-- [Quine in Cython](https://sampleprograms.io/projects/quine/cython)
-- [Quine in Dg](https://sampleprograms.io/projects/quine/dg)
-- [Quine in Euphoria](https://sampleprograms.io/projects/quine/euphoria)
-- [Quine in F#](https://sampleprograms.io/projects/quine/f-sharp)
-- [Quine in GNU Make](https://sampleprograms.io/projects/quine/gnu-make)
-- [Quine in Go](https://sampleprograms.io/projects/quine/go)
-- [Quine in Haskell](https://sampleprograms.io/projects/quine/haskell)
-- [Quine in Java](https://sampleprograms.io/projects/quine/java)
-- [Quine in JavaScript](https://sampleprograms.io/projects/quine/javascript)
-- [Quine in Kotlin](https://sampleprograms.io/projects/quine/kotlin)
-- [Quine in Mathematica](https://sampleprograms.io/projects/quine/mathematica)
-- [Quine in PHP](https://sampleprograms.io/projects/quine/php)
-- [Quine in Pascal](https://sampleprograms.io/projects/quine/pascal)
-- [Quine in Perl](https://sampleprograms.io/projects/quine/perl)
-- [Quine in PowerShell](https://sampleprograms.io/projects/quine/powershell)
-- [Quine in Python](https://sampleprograms.io/projects/quine/python)
-- [Quine in Ruby](https://sampleprograms.io/projects/quine/ruby)
-- [Quine in Rust](https://sampleprograms.io/projects/quine/rust)
-- [Quine in Swift](https://sampleprograms.io/projects/quine/swift)
-- [Quine in Tcl](https://sampleprograms.io/projects/quine/tcl)
-- [Quine in TypeScript](https://sampleprograms.io/projects/quine/typescript)
-- [Quine in Visual Basic](https://sampleprograms.io/projects/quine/visual-basic)
-- [Quine in Whitespace](https://sampleprograms.io/projects/quine/whitespace)
-- [Quine in m4](https://sampleprograms.io/projects/quine/m4)
-- [Quine in x86-64](https://sampleprograms.io/projects/quine/x86-64)
+- [Quine in ALGOL 60](/projects/quine/algol60)
+- [Quine in ALGOL 68](/projects/quine/algol68)
+- [Quine in AWK](/projects/quine/awk)
+- [Quine in Bash](/projects/quine/bash)
+- [Quine in Beef](/projects/quine/beef)
+- [Quine in Befunge](/projects/quine/befunge)
+- [Quine in C](/projects/quine/c)
+- [Quine in C#](/projects/quine/c-sharp)
+- [Quine in C++](/projects/quine/c-plus-plus)
+- [Quine in COBOL](/projects/quine/cobol)
+- [Quine in CoffeeScript](/projects/quine/coffeescript)
+- [Quine in Commodore BASIC](/projects/quine/commodore-basic)
+- [Quine in Cython](/projects/quine/cython)
+- [Quine in Dg](/projects/quine/dg)
+- [Quine in Euphoria](/projects/quine/euphoria)
+- [Quine in F#](/projects/quine/f-sharp)
+- [Quine in GNU Make](/projects/quine/gnu-make)
+- [Quine in Go](/projects/quine/go)
+- [Quine in Haskell](/projects/quine/haskell)
+- [Quine in Java](/projects/quine/java)
+- [Quine in JavaScript](/projects/quine/javascript)
+- [Quine in Kotlin](/projects/quine/kotlin)
+- [Quine in Mathematica](/projects/quine/mathematica)
+- [Quine in PHP](/projects/quine/php)
+- [Quine in Pascal](/projects/quine/pascal)
+- [Quine in Perl](/projects/quine/perl)
+- [Quine in PowerShell](/projects/quine/powershell)
+- [Quine in Python](/projects/quine/python)
+- [Quine in Ruby](/projects/quine/ruby)
+- [Quine in Rust](/projects/quine/rust)
+- [Quine in Swift](/projects/quine/swift)
+- [Quine in Tcl](/projects/quine/tcl)
+- [Quine in TypeScript](/projects/quine/typescript)
+- [Quine in Visual Basic](/projects/quine/visual-basic)
+- [Quine in Whitespace](/projects/quine/whitespace)
+- [Quine in m4](/projects/quine/m4)
+- [Quine in x86-64](/projects/quine/x86-64)
 
 ***
 
@@ -109,13 +109,13 @@ There are 37 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Quick Sort)](https://sampleprograms.io/projects/quick-sort)
+[<-- Previous Project (Quick Sort)](/projects/quick-sort)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Remove All Whitespace) -->](https://sampleprograms.io/projects/remove-all-whitespace)
+[Next Project (Remove All Whitespace) -->](/projects/remove-all-whitespace)
 
 </div>
 

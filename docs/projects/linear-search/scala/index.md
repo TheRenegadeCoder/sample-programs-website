@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search) in [Scala](https://sampleprograms.io/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Linear Search](/projects/linear-search) in [Scala](/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -60,7 +60,7 @@ object LinearSearch:
 
 {% endraw %}
 
-Linear Search in [Scala](https://sampleprograms.io/languages/scala) was written by:
+Linear Search in [Scala](/languages/scala) was written by:
 
 - konradkelly
 - Ștefan-Iulian Alecu

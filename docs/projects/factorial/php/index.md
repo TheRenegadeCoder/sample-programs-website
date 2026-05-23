@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [PHP](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](/projects/factorial) in [PHP](/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -57,7 +57,7 @@ echo ("$factorial\n");
 
 {% endraw %}
 
-Factorial in [PHP](https://sampleprograms.io/languages/php) was written by:
+Factorial in [PHP](/languages/php) was written by:
 
 - Italo Sousa
 - Jeremy Grifski

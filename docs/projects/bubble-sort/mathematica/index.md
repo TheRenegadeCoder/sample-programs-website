@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](/projects/bubble-sort) in [Mathematica](/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -86,7 +86,7 @@ bubbleSortMain[""]
 
 {% endraw %}
 
-Bubble Sort in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Bubble Sort in [Mathematica](/languages/mathematica) was written by:
 
 - Ben Hekster
 

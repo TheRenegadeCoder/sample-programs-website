@@ -30,9 +30,9 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 6 articles:
 
-- [Baklava in Rexx](https://sampleprograms.io/projects/baklava/rexx)
-- [Even Odd in Rexx](https://sampleprograms.io/projects/even-odd/rexx)
-- [Fizz Buzz in Rexx](https://sampleprograms.io/projects/fizz-buzz/rexx)
-- [Hello World in Rexx](https://sampleprograms.io/projects/hello-world/rexx)
-- [Prime Number in Rexx](https://sampleprograms.io/projects/prime-number/rexx)
-- [Reverse String in Rexx](https://sampleprograms.io/projects/reverse-string/rexx)
+- [Baklava in Rexx](/projects/baklava/rexx)
+- [Even Odd in Rexx](/projects/even-odd/rexx)
+- [Fizz Buzz in Rexx](/projects/fizz-buzz/rexx)
+- [Hello World in Rexx](/projects/hello-world/rexx)
+- [Prime Number in Rexx](/projects/prime-number/rexx)
+- [Reverse String in Rexx](/projects/reverse-string/rexx)

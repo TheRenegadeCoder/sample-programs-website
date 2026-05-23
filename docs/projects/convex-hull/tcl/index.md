@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Tcl](https://sampleprograms.io/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Convex Hull](/projects/convex-hull) in [Tcl](/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -128,7 +128,7 @@ foreach pt $hull {
 
 {% endraw %}
 
-Convex Hull in [Tcl](https://sampleprograms.io/languages/tcl) was written by:
+Convex Hull in [Tcl](/languages/tcl) was written by:
 
 - Ștefan-Iulian Alecu
 

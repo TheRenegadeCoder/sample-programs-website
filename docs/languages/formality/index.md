@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Formality](https://sampleprograms.io/projects/baklava/formality)
-- [Hello World in Formality](https://sampleprograms.io/projects/hello-world/formality)
+- [Baklava in Formality](/projects/baklava/formality)
+- [Hello World in Formality](/projects/hello-world/formality)

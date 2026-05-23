@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Prolog](https://sampleprograms.io/projects/baklava/prolog)
-- [Fizz Buzz in Prolog](https://sampleprograms.io/projects/fizz-buzz/prolog)
-- [Hello World in Prolog](https://sampleprograms.io/projects/hello-world/prolog)
+- [Baklava in Prolog](/projects/baklava/prolog)
+- [Fizz Buzz in Prolog](/projects/fizz-buzz/prolog)
+- [Hello World in Prolog](/projects/hello-world/prolog)

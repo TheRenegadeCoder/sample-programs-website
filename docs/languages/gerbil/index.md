@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Gerbil](https://sampleprograms.io/projects/baklava/gerbil)
-- [Hello World in Gerbil](https://sampleprograms.io/projects/hello-world/gerbil)
+- [Baklava in Gerbil](/projects/baklava/gerbil)
+- [Hello World in Gerbil](/projects/hello-world/gerbil)

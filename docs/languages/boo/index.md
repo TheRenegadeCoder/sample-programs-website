@@ -30,7 +30,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 4 articles:
 
-- [Baklava in Boo](https://sampleprograms.io/projects/baklava/boo)
-- [Fibonacci in Boo](https://sampleprograms.io/projects/fibonacci/boo)
-- [Fizz Buzz in Boo](https://sampleprograms.io/projects/fizz-buzz/boo)
-- [Hello World in Boo](https://sampleprograms.io/projects/hello-world/boo)
+- [Baklava in Boo](/projects/baklava/boo)
+- [Fibonacci in Boo](/projects/fibonacci/boo)
+- [Fizz Buzz in Boo](/projects/fizz-buzz/boo)
+- [Hello World in Boo](/projects/hello-world/boo)

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](/projects/even-odd) in [Mathematica](/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -62,7 +62,7 @@ evenOddMain["a"]
 
 {% endraw %}
 
-Even Odd in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Even Odd in [Mathematica](/languages/mathematica) was written by:
 
 - Ben Hekster
 

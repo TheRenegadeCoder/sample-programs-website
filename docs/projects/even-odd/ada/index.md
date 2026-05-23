@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Ada](https://sampleprograms.io/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](/projects/even-odd) in [Ada](/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -64,7 +64,7 @@ end Even_Odd;
 
 {% endraw %}
 
-Even Odd in [Ada](https://sampleprograms.io/languages/ada) was written by:
+Even Odd in [Ada](/languages/ada) was written by:
 
 - Ștefan-Iulian Alecu
 

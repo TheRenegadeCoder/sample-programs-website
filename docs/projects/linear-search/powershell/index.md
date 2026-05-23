@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Linear Search](/projects/linear-search) in [PowerShell](/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -62,7 +62,7 @@ Write-Output (($idx -ge 0) ? "true" : "false")
 
 {% endraw %}
 
-Linear Search in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
+Linear Search in [PowerShell](/languages/powershell) was written by:
 
 - rzuckerm
 

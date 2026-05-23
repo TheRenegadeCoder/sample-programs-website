@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](/projects/even-odd) in [Dart](/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -46,7 +46,7 @@ void main(List<String> args) {
 
 {% endraw %}
 
-Even Odd in [Dart](https://sampleprograms.io/languages/dart) was written by:
+Even Odd in [Dart](/languages/dart) was written by:
 
 - Parker Johansen
 

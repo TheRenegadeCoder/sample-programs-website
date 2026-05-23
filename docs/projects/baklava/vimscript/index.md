@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Vimscript](https://sampleprograms.io/languages/vimscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Vimscript](/languages/vimscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -46,7 +46,7 @@ endfunc
 
 {% endraw %}
 
-Baklava in [Vimscript](https://sampleprograms.io/languages/vimscript) was written by:
+Baklava in [Vimscript](/languages/vimscript) was written by:
 
 - rzuckerm
 

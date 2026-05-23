@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Red](https://sampleprograms.io/languages/red) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Red](/languages/red) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -47,7 +47,7 @@ repeat i 100 [
 
 {% endraw %}
 
-Fizz Buzz in [Red](https://sampleprograms.io/languages/red) was written by:
+Fizz Buzz in [Red](/languages/red) was written by:
 
 - rzuckerm
 

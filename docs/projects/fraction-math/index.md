@@ -94,35 +94,35 @@ Usage: ./fraction-math operand1 operator operand2
 
 There are 29 articles:
 
-- [Fraction Math in ALGOL 60](https://sampleprograms.io/projects/fraction-math/algol60)
-- [Fraction Math in ALGOL 68](https://sampleprograms.io/projects/fraction-math/algol68)
-- [Fraction Math in AWK](https://sampleprograms.io/projects/fraction-math/awk)
-- [Fraction Math in Ada](https://sampleprograms.io/projects/fraction-math/ada)
-- [Fraction Math in Beef](https://sampleprograms.io/projects/fraction-math/beef)
-- [Fraction Math in C](https://sampleprograms.io/projects/fraction-math/c)
-- [Fraction Math in C#](https://sampleprograms.io/projects/fraction-math/c-sharp)
-- [Fraction Math in C++](https://sampleprograms.io/projects/fraction-math/c-plus-plus)
-- [Fraction Math in COBOL](https://sampleprograms.io/projects/fraction-math/cobol)
-- [Fraction Math in Commodore BASIC](https://sampleprograms.io/projects/fraction-math/commodore-basic)
-- [Fraction Math in Euphoria](https://sampleprograms.io/projects/fraction-math/euphoria)
-- [Fraction Math in F#](https://sampleprograms.io/projects/fraction-math/f-sharp)
-- [Fraction Math in Go](https://sampleprograms.io/projects/fraction-math/go)
-- [Fraction Math in Haskell](https://sampleprograms.io/projects/fraction-math/haskell)
-- [Fraction Math in Java](https://sampleprograms.io/projects/fraction-math/java)
-- [Fraction Math in JavaScript](https://sampleprograms.io/projects/fraction-math/javascript)
-- [Fraction Math in Mathematica](https://sampleprograms.io/projects/fraction-math/mathematica)
-- [Fraction Math in Modula-2](https://sampleprograms.io/projects/fraction-math/modula2)
-- [Fraction Math in PHP](https://sampleprograms.io/projects/fraction-math/php)
-- [Fraction Math in Pascal](https://sampleprograms.io/projects/fraction-math/pascal)
-- [Fraction Math in PowerShell](https://sampleprograms.io/projects/fraction-math/powershell)
-- [Fraction Math in Python](https://sampleprograms.io/projects/fraction-math/python)
-- [Fraction Math in Ruby](https://sampleprograms.io/projects/fraction-math/ruby)
-- [Fraction Math in Rust](https://sampleprograms.io/projects/fraction-math/rust)
-- [Fraction Math in Swift](https://sampleprograms.io/projects/fraction-math/swift)
-- [Fraction Math in Tcl](https://sampleprograms.io/projects/fraction-math/tcl)
-- [Fraction Math in TypeScript](https://sampleprograms.io/projects/fraction-math/typescript)
-- [Fraction Math in Visual Basic](https://sampleprograms.io/projects/fraction-math/visual-basic)
-- [Fraction Math in m4](https://sampleprograms.io/projects/fraction-math/m4)
+- [Fraction Math in ALGOL 60](/projects/fraction-math/algol60)
+- [Fraction Math in ALGOL 68](/projects/fraction-math/algol68)
+- [Fraction Math in AWK](/projects/fraction-math/awk)
+- [Fraction Math in Ada](/projects/fraction-math/ada)
+- [Fraction Math in Beef](/projects/fraction-math/beef)
+- [Fraction Math in C](/projects/fraction-math/c)
+- [Fraction Math in C#](/projects/fraction-math/c-sharp)
+- [Fraction Math in C++](/projects/fraction-math/c-plus-plus)
+- [Fraction Math in COBOL](/projects/fraction-math/cobol)
+- [Fraction Math in Commodore BASIC](/projects/fraction-math/commodore-basic)
+- [Fraction Math in Euphoria](/projects/fraction-math/euphoria)
+- [Fraction Math in F#](/projects/fraction-math/f-sharp)
+- [Fraction Math in Go](/projects/fraction-math/go)
+- [Fraction Math in Haskell](/projects/fraction-math/haskell)
+- [Fraction Math in Java](/projects/fraction-math/java)
+- [Fraction Math in JavaScript](/projects/fraction-math/javascript)
+- [Fraction Math in Mathematica](/projects/fraction-math/mathematica)
+- [Fraction Math in Modula-2](/projects/fraction-math/modula2)
+- [Fraction Math in PHP](/projects/fraction-math/php)
+- [Fraction Math in Pascal](/projects/fraction-math/pascal)
+- [Fraction Math in PowerShell](/projects/fraction-math/powershell)
+- [Fraction Math in Python](/projects/fraction-math/python)
+- [Fraction Math in Ruby](/projects/fraction-math/ruby)
+- [Fraction Math in Rust](/projects/fraction-math/rust)
+- [Fraction Math in Swift](/projects/fraction-math/swift)
+- [Fraction Math in Tcl](/projects/fraction-math/tcl)
+- [Fraction Math in TypeScript](/projects/fraction-math/typescript)
+- [Fraction Math in Visual Basic](/projects/fraction-math/visual-basic)
+- [Fraction Math in m4](/projects/fraction-math/m4)
 
 ***
 
@@ -130,13 +130,13 @@ There are 29 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Fizz Buzz)](https://sampleprograms.io/projects/fizz-buzz)
+[<-- Previous Project (Fizz Buzz)](/projects/fizz-buzz)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Hello World) -->](https://sampleprograms.io/projects/hello-world)
+[Next Project (Hello World) -->](/projects/hello-world)
 
 </div>
 

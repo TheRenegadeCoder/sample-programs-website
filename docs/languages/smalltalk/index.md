@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Smalltalk](https://sampleprograms.io/projects/baklava/smalltalk)
-- [Fizz Buzz in Smalltalk](https://sampleprograms.io/projects/fizz-buzz/smalltalk)
-- [Hello World in Smalltalk](https://sampleprograms.io/projects/hello-world/smalltalk)
+- [Baklava in Smalltalk](/projects/baklava/smalltalk)
+- [Fizz Buzz in Smalltalk](/projects/fizz-buzz/smalltalk)
+- [Hello World in Smalltalk](/projects/hello-world/smalltalk)

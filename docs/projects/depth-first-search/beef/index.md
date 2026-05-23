@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Beef](https://sampleprograms.io/languages/beef) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Depth First Search](/projects/depth-first-search) in [Beef](/languages/beef) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -233,7 +233,7 @@ class Program
 
 {% endraw %}
 
-Depth First Search in [Beef](https://sampleprograms.io/languages/beef) was written by:
+Depth First Search in [Beef](/languages/beef) was written by:
 
 - rzuckerm
 

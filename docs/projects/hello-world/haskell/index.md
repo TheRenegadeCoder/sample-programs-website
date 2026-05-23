@@ -26,7 +26,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Haskell](/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -41,7 +41,7 @@ main = putStrLn "Hello, World!"
 
 {% endraw %}
 
-Hello World in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+Hello World in [Haskell](/languages/haskell) was written by:
 
 - Jeremy Griffith
 

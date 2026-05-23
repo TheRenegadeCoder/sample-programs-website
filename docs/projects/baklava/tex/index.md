@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [TeX](https://sampleprograms.io/languages/tex) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [TeX](/languages/tex) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -114,7 +114,7 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [TeX](ht
 
 {% endraw %}
 
-Baklava in [TeX](https://sampleprograms.io/languages/tex) was written by:
+Baklava in [TeX](/languages/tex) was written by:
 
 - rzuckerm
 

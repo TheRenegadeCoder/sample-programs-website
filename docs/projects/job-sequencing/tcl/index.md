@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Tcl](https://sampleprograms.io/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](/projects/job-sequencing) in [Tcl](/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -108,7 +108,7 @@ puts [jobSequencing $profits $deadlines]
 
 {% endraw %}
 
-Job Sequencing in [Tcl](https://sampleprograms.io/languages/tcl) was written by:
+Job Sequencing in [Tcl](/languages/tcl) was written by:
 
 - Ștefan-Iulian Alecu
 

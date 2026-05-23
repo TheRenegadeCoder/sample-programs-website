@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Flix](https://sampleprograms.io/projects/baklava/flix)
-- [Hello World in Flix](https://sampleprograms.io/projects/hello-world/flix)
+- [Baklava in Flix](/projects/baklava/flix)
+- [Hello World in Flix](/projects/hello-world/flix)

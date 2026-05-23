@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Convex Hull](https://sampleprograms.io/projects/convex-hull) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Convex Hull](/projects/convex-hull) in [PowerShell](/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -134,7 +134,7 @@ Write-Output ($hullPoints -join "`n")
 
 {% endraw %}
 
-Convex Hull in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
+Convex Hull in [PowerShell](/languages/powershell) was written by:
 
 - rzuckerm
 

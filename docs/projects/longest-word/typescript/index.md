@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [TypeScript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](/projects/longest-word) in [TypeScript](/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -56,7 +56,7 @@ console.log(wordLength);
 
 {% endraw %}
 
-Longest Word in [TypeScript](https://sampleprograms.io/languages/typescript) was written by:
+Longest Word in [TypeScript](/languages/typescript) was written by:
 
 - TiaMarieG
 

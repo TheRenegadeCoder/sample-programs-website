@@ -76,7 +76,7 @@ language feature.
 
 There are 4 articles:
 
-- [Baklava in D](https://sampleprograms.io/projects/baklava/d)
-- [Factorial in D](https://sampleprograms.io/projects/factorial/d)
-- [Fizz Buzz in D](https://sampleprograms.io/projects/fizz-buzz/d)
-- [Hello World in D](https://sampleprograms.io/projects/hello-world/d)
+- [Baklava in D](/projects/baklava/d)
+- [Factorial in D](/projects/factorial/d)
+- [Fizz Buzz in D](/projects/fizz-buzz/d)
+- [Hello World in D](/projects/hello-world/d)

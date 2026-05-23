@@ -90,34 +90,34 @@ Usage: Please provide a list of integers in the format: "1, 2, 3, 4, 5"
 
 There are 28 articles:
 
-- [Maximum Subarray in ALGOL 60](https://sampleprograms.io/projects/maximum-subarray/algol60)
-- [Maximum Subarray in ALGOL 68](https://sampleprograms.io/projects/maximum-subarray/algol68)
-- [Maximum Subarray in AWK](https://sampleprograms.io/projects/maximum-subarray/awk)
-- [Maximum Subarray in Ada](https://sampleprograms.io/projects/maximum-subarray/ada)
-- [Maximum Subarray in Beef](https://sampleprograms.io/projects/maximum-subarray/beef)
-- [Maximum Subarray in C](https://sampleprograms.io/projects/maximum-subarray/c)
-- [Maximum Subarray in C#](https://sampleprograms.io/projects/maximum-subarray/c-sharp)
-- [Maximum Subarray in C++](https://sampleprograms.io/projects/maximum-subarray/c-plus-plus)
-- [Maximum Subarray in COBOL](https://sampleprograms.io/projects/maximum-subarray/cobol)
-- [Maximum Subarray in Commodore BASIC](https://sampleprograms.io/projects/maximum-subarray/commodore-basic)
-- [Maximum Subarray in Euphoria](https://sampleprograms.io/projects/maximum-subarray/euphoria)
-- [Maximum Subarray in F#](https://sampleprograms.io/projects/maximum-subarray/f-sharp)
-- [Maximum Subarray in Go](https://sampleprograms.io/projects/maximum-subarray/go)
-- [Maximum Subarray in Haskell](https://sampleprograms.io/projects/maximum-subarray/haskell)
-- [Maximum Subarray in Java](https://sampleprograms.io/projects/maximum-subarray/java)
-- [Maximum Subarray in JavaScript](https://sampleprograms.io/projects/maximum-subarray/javascript)
-- [Maximum Subarray in Mathematica](https://sampleprograms.io/projects/maximum-subarray/mathematica)
-- [Maximum Subarray in PHP](https://sampleprograms.io/projects/maximum-subarray/php)
-- [Maximum Subarray in Pascal](https://sampleprograms.io/projects/maximum-subarray/pascal)
-- [Maximum Subarray in PowerShell](https://sampleprograms.io/projects/maximum-subarray/powershell)
-- [Maximum Subarray in Python](https://sampleprograms.io/projects/maximum-subarray/python)
-- [Maximum Subarray in Ruby](https://sampleprograms.io/projects/maximum-subarray/ruby)
-- [Maximum Subarray in Rust](https://sampleprograms.io/projects/maximum-subarray/rust)
-- [Maximum Subarray in Swift](https://sampleprograms.io/projects/maximum-subarray/swift)
-- [Maximum Subarray in Tcl](https://sampleprograms.io/projects/maximum-subarray/tcl)
-- [Maximum Subarray in TypeScript](https://sampleprograms.io/projects/maximum-subarray/typescript)
-- [Maximum Subarray in Visual Basic](https://sampleprograms.io/projects/maximum-subarray/visual-basic)
-- [Maximum Subarray in m4](https://sampleprograms.io/projects/maximum-subarray/m4)
+- [Maximum Subarray in ALGOL 60](/projects/maximum-subarray/algol60)
+- [Maximum Subarray in ALGOL 68](/projects/maximum-subarray/algol68)
+- [Maximum Subarray in AWK](/projects/maximum-subarray/awk)
+- [Maximum Subarray in Ada](/projects/maximum-subarray/ada)
+- [Maximum Subarray in Beef](/projects/maximum-subarray/beef)
+- [Maximum Subarray in C](/projects/maximum-subarray/c)
+- [Maximum Subarray in C#](/projects/maximum-subarray/c-sharp)
+- [Maximum Subarray in C++](/projects/maximum-subarray/c-plus-plus)
+- [Maximum Subarray in COBOL](/projects/maximum-subarray/cobol)
+- [Maximum Subarray in Commodore BASIC](/projects/maximum-subarray/commodore-basic)
+- [Maximum Subarray in Euphoria](/projects/maximum-subarray/euphoria)
+- [Maximum Subarray in F#](/projects/maximum-subarray/f-sharp)
+- [Maximum Subarray in Go](/projects/maximum-subarray/go)
+- [Maximum Subarray in Haskell](/projects/maximum-subarray/haskell)
+- [Maximum Subarray in Java](/projects/maximum-subarray/java)
+- [Maximum Subarray in JavaScript](/projects/maximum-subarray/javascript)
+- [Maximum Subarray in Mathematica](/projects/maximum-subarray/mathematica)
+- [Maximum Subarray in PHP](/projects/maximum-subarray/php)
+- [Maximum Subarray in Pascal](/projects/maximum-subarray/pascal)
+- [Maximum Subarray in PowerShell](/projects/maximum-subarray/powershell)
+- [Maximum Subarray in Python](/projects/maximum-subarray/python)
+- [Maximum Subarray in Ruby](/projects/maximum-subarray/ruby)
+- [Maximum Subarray in Rust](/projects/maximum-subarray/rust)
+- [Maximum Subarray in Swift](/projects/maximum-subarray/swift)
+- [Maximum Subarray in Tcl](/projects/maximum-subarray/tcl)
+- [Maximum Subarray in TypeScript](/projects/maximum-subarray/typescript)
+- [Maximum Subarray in Visual Basic](/projects/maximum-subarray/visual-basic)
+- [Maximum Subarray in m4](/projects/maximum-subarray/m4)
 
 ***
 
@@ -125,13 +125,13 @@ There are 28 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Maximum Array Rotation)](https://sampleprograms.io/projects/maximum-array-rotation)
+[<-- Previous Project (Maximum Array Rotation)](/projects/maximum-array-rotation)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Merge Sort) -->](https://sampleprograms.io/projects/merge-sort)
+[Next Project (Merge Sort) -->](/projects/merge-sort)
 
 </div>
 

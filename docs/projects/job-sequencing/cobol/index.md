@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [COBOL](https://sampleprograms.io/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](/projects/job-sequencing) in [COBOL](/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -177,7 +177,7 @@ show-usage.
 
 {% endraw %}
 
-Job Sequencing in [COBOL](https://sampleprograms.io/languages/cobol) was written by:
+Job Sequencing in [COBOL](/languages/cobol) was written by:
 
 - Ștefan-Iulian Alecu
 

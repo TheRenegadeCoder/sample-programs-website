@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Verve](https://sampleprograms.io/languages/verve) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Verve](/languages/verve) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -53,7 +53,7 @@ fizz_buzz(1, 100)
 
 {% endraw %}
 
-Fizz Buzz in [Verve](https://sampleprograms.io/languages/verve) was written by:
+Fizz Buzz in [Verve](/languages/verve) was written by:
 
 - rzuckerm
 

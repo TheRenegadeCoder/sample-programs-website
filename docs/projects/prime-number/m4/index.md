@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [m4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](/projects/prime-number) in [m4](/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -65,7 +65,7 @@ ifelse(is_prime(ARGV1), 1, `prime', `composite')
 
 {% endraw %}
 
-Prime Number in [m4](https://sampleprograms.io/languages/m4) was written by:
+Prime Number in [m4](/languages/m4) was written by:
 
 - rzuckerm
 

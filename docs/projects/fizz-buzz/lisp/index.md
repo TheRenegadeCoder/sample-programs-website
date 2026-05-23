@@ -28,7 +28,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Lisp](https://sampleprograms.io/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Lisp](/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -49,7 +49,7 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Lis
 
 {% endraw %}
 
-Fizz Buzz in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
+Fizz Buzz in [Lisp](/languages/lisp) was written by:
 
 - Parker Johansen
 

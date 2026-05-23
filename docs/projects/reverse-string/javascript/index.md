@@ -27,7 +27,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](/projects/reverse-string) in [JavaScript](/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -44,7 +44,7 @@ if (process.argv.length > 2) {
 
 {% endraw %}
 
-Reverse String in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
+Reverse String in [JavaScript](/languages/javascript) was written by:
 
 - rzuckerm
 - Trever Shick

@@ -123,34 +123,34 @@ Usage: please provide a string that contains at least one palindrome
 
 There are 28 articles:
 
-- [Longest Palindromic Substring in ALGOL 60](https://sampleprograms.io/projects/longest-palindromic-substring/algol60)
-- [Longest Palindromic Substring in ALGOL 68](https://sampleprograms.io/projects/longest-palindromic-substring/algol68)
-- [Longest Palindromic Substring in AWK](https://sampleprograms.io/projects/longest-palindromic-substring/awk)
-- [Longest Palindromic Substring in Ada](https://sampleprograms.io/projects/longest-palindromic-substring/ada)
-- [Longest Palindromic Substring in Beef](https://sampleprograms.io/projects/longest-palindromic-substring/beef)
-- [Longest Palindromic Substring in C](https://sampleprograms.io/projects/longest-palindromic-substring/c)
-- [Longest Palindromic Substring in C#](https://sampleprograms.io/projects/longest-palindromic-substring/c-sharp)
-- [Longest Palindromic Substring in C++](https://sampleprograms.io/projects/longest-palindromic-substring/c-plus-plus)
-- [Longest Palindromic Substring in COBOL](https://sampleprograms.io/projects/longest-palindromic-substring/cobol)
-- [Longest Palindromic Substring in Commodore BASIC](https://sampleprograms.io/projects/longest-palindromic-substring/commodore-basic)
-- [Longest Palindromic Substring in Euphoria](https://sampleprograms.io/projects/longest-palindromic-substring/euphoria)
-- [Longest Palindromic Substring in F#](https://sampleprograms.io/projects/longest-palindromic-substring/f-sharp)
-- [Longest Palindromic Substring in Go](https://sampleprograms.io/projects/longest-palindromic-substring/go)
-- [Longest Palindromic Substring in Haskell](https://sampleprograms.io/projects/longest-palindromic-substring/haskell)
-- [Longest Palindromic Substring in Java](https://sampleprograms.io/projects/longest-palindromic-substring/java)
-- [Longest Palindromic Substring in JavaScript](https://sampleprograms.io/projects/longest-palindromic-substring/javascript)
-- [Longest Palindromic Substring in Mathematica](https://sampleprograms.io/projects/longest-palindromic-substring/mathematica)
-- [Longest Palindromic Substring in PHP](https://sampleprograms.io/projects/longest-palindromic-substring/php)
-- [Longest Palindromic Substring in Pascal](https://sampleprograms.io/projects/longest-palindromic-substring/pascal)
-- [Longest Palindromic Substring in PowerShell](https://sampleprograms.io/projects/longest-palindromic-substring/powershell)
-- [Longest Palindromic Substring in Python](https://sampleprograms.io/projects/longest-palindromic-substring/python)
-- [Longest Palindromic Substring in Ruby](https://sampleprograms.io/projects/longest-palindromic-substring/ruby)
-- [Longest Palindromic Substring in Rust](https://sampleprograms.io/projects/longest-palindromic-substring/rust)
-- [Longest Palindromic Substring in Swift](https://sampleprograms.io/projects/longest-palindromic-substring/swift)
-- [Longest Palindromic Substring in Tcl](https://sampleprograms.io/projects/longest-palindromic-substring/tcl)
-- [Longest Palindromic Substring in TypeScript](https://sampleprograms.io/projects/longest-palindromic-substring/typescript)
-- [Longest Palindromic Substring in Visual Basic](https://sampleprograms.io/projects/longest-palindromic-substring/visual-basic)
-- [Longest Palindromic Substring in m4](https://sampleprograms.io/projects/longest-palindromic-substring/m4)
+- [Longest Palindromic Substring in ALGOL 60](/projects/longest-palindromic-substring/algol60)
+- [Longest Palindromic Substring in ALGOL 68](/projects/longest-palindromic-substring/algol68)
+- [Longest Palindromic Substring in AWK](/projects/longest-palindromic-substring/awk)
+- [Longest Palindromic Substring in Ada](/projects/longest-palindromic-substring/ada)
+- [Longest Palindromic Substring in Beef](/projects/longest-palindromic-substring/beef)
+- [Longest Palindromic Substring in C](/projects/longest-palindromic-substring/c)
+- [Longest Palindromic Substring in C#](/projects/longest-palindromic-substring/c-sharp)
+- [Longest Palindromic Substring in C++](/projects/longest-palindromic-substring/c-plus-plus)
+- [Longest Palindromic Substring in COBOL](/projects/longest-palindromic-substring/cobol)
+- [Longest Palindromic Substring in Commodore BASIC](/projects/longest-palindromic-substring/commodore-basic)
+- [Longest Palindromic Substring in Euphoria](/projects/longest-palindromic-substring/euphoria)
+- [Longest Palindromic Substring in F#](/projects/longest-palindromic-substring/f-sharp)
+- [Longest Palindromic Substring in Go](/projects/longest-palindromic-substring/go)
+- [Longest Palindromic Substring in Haskell](/projects/longest-palindromic-substring/haskell)
+- [Longest Palindromic Substring in Java](/projects/longest-palindromic-substring/java)
+- [Longest Palindromic Substring in JavaScript](/projects/longest-palindromic-substring/javascript)
+- [Longest Palindromic Substring in Mathematica](/projects/longest-palindromic-substring/mathematica)
+- [Longest Palindromic Substring in PHP](/projects/longest-palindromic-substring/php)
+- [Longest Palindromic Substring in Pascal](/projects/longest-palindromic-substring/pascal)
+- [Longest Palindromic Substring in PowerShell](/projects/longest-palindromic-substring/powershell)
+- [Longest Palindromic Substring in Python](/projects/longest-palindromic-substring/python)
+- [Longest Palindromic Substring in Ruby](/projects/longest-palindromic-substring/ruby)
+- [Longest Palindromic Substring in Rust](/projects/longest-palindromic-substring/rust)
+- [Longest Palindromic Substring in Swift](/projects/longest-palindromic-substring/swift)
+- [Longest Palindromic Substring in Tcl](/projects/longest-palindromic-substring/tcl)
+- [Longest Palindromic Substring in TypeScript](/projects/longest-palindromic-substring/typescript)
+- [Longest Palindromic Substring in Visual Basic](/projects/longest-palindromic-substring/visual-basic)
+- [Longest Palindromic Substring in m4](/projects/longest-palindromic-substring/m4)
 
 ***
 
@@ -158,13 +158,13 @@ There are 28 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Longest Common Subsequence)](https://sampleprograms.io/projects/longest-common-subsequence)
+[<-- Previous Project (Longest Common Subsequence)](/projects/longest-common-subsequence)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Longest Word) -->](https://sampleprograms.io/projects/longest-word)
+[Next Project (Longest Word) -->](/projects/longest-word)
 
 </div>
 

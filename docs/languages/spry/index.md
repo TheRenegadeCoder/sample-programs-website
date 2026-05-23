@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Spry](https://sampleprograms.io/projects/baklava/spry)
-- [Hello World in Spry](https://sampleprograms.io/projects/hello-world/spry)
+- [Baklava in Spry](/projects/baklava/spry)
+- [Hello World in Spry](/projects/hello-world/spry)

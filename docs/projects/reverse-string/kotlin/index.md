@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](/projects/reverse-string) in [Kotlin](/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -47,7 +47,7 @@ fun main(args: Array<String>){
 
 {% endraw %}
 
-Reverse String in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
+Reverse String in [Kotlin](/languages/kotlin) was written by:
 
 - Barry Rowe
 - rzuckerm

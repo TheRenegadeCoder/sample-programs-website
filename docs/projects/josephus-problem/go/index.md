@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Josephus Problem](/projects/josephus-problem) in [Go](/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -73,7 +73,7 @@ func main() {
 
 {% endraw %}
 
-Josephus Problem in [Go](https://sampleprograms.io/languages/go) was written by:
+Josephus Problem in [Go](/languages/go) was written by:
 
 - Zia
 

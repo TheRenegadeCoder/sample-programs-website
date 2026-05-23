@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Euphoria](/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -45,7 +45,7 @@ end for
 
 {% endraw %}
 
-Baklava in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Baklava in [Euphoria](/languages/euphoria) was written by:
 
 - rzuckerm
 

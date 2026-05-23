@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Elena](https://sampleprograms.io/languages/elena) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Elena](/languages/elena) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -50,7 +50,7 @@ public program()
 
 {% endraw %}
 
-Baklava in [Elena](https://sampleprograms.io/languages/elena) was written by:
+Baklava in [Elena](/languages/elena) was written by:
 
 - rzuckerm
 

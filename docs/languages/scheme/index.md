@@ -60,6 +60,6 @@ education, Scheme is mainly used by hobbyists for scripting purposes.
 
 There are 3 articles:
 
-- [Baklava in Scheme](https://sampleprograms.io/projects/baklava/scheme)
-- [Hello World in Scheme](https://sampleprograms.io/projects/hello-world/scheme)
-- [Reverse String in Scheme](https://sampleprograms.io/projects/reverse-string/scheme)
+- [Baklava in Scheme](/projects/baklava/scheme)
+- [Hello World in Scheme](/projects/hello-world/scheme)
+- [Reverse String in Scheme](/projects/reverse-string/scheme)

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](/projects/quine) in [Swift](/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ print("let s = \(s.debugDescription)\n\(s)")
 
 {% endraw %}
 
-Quine in [Swift](https://sampleprograms.io/languages/swift) was written by:
+Quine in [Swift](/languages/swift) was written by:
 
 - Ștefan-Iulian Alecu
 

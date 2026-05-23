@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Selection Sort](/projects/selection-sort) in [Mathematica](/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -83,7 +83,7 @@ selectionSortMain["4 5 3"]
 
 {% endraw %}
 
-Selection Sort in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Selection Sort in [Mathematica](/languages/mathematica) was written by:
 
 - Ben Hekster
 

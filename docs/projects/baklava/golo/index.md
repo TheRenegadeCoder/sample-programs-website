@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Golo](https://sampleprograms.io/languages/golo) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Golo](/languages/golo) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -45,7 +45,7 @@ function main = |args| {
 
 {% endraw %}
 
-Baklava in [Golo](https://sampleprograms.io/languages/golo) was written by:
+Baklava in [Golo](/languages/golo) was written by:
 
 - rzuckerm
 

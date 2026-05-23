@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](/projects/factorial) in [Rust](/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -70,7 +70,7 @@ fn main() {
 
 {% endraw %}
 
-Factorial in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Factorial in [Rust](/languages/rust) was written by:
 
 - Mallikarjuna S J
 - rzuckerm

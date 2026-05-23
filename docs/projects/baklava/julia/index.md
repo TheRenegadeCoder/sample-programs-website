@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Julia](https://sampleprograms.io/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Julia](/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -52,7 +52,7 @@ main()
 
 {% endraw %}
 
-Baklava in [Julia](https://sampleprograms.io/languages/julia) was written by:
+Baklava in [Julia](/languages/julia) was written by:
 
 - germmand
 - Jeremy Grifski

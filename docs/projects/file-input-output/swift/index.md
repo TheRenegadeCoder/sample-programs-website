@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Input Output](/projects/file-input-output) in [Swift](/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -48,7 +48,7 @@ if let content = try? String(contentsOf: url, encoding: .utf8) {
 
 {% endraw %}
 
-File Input Output in [Swift](https://sampleprograms.io/languages/swift) was written by:
+File Input Output in [Swift](/languages/swift) was written by:
 
 - Ștefan-Iulian Alecu
 

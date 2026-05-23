@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [C#](https://sampleprograms.io/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](/projects/job-sequencing) in [C#](/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -124,7 +124,7 @@ readonly record struct Job(int Profit, int Deadline);
 
 {% endraw %}
 
-Job Sequencing in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
+Job Sequencing in [C#](/languages/c-sharp) was written by:
 
 - alstondsouza1
 - Ștefan-Iulian Alecu

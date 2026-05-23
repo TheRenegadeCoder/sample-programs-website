@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Wu](https://sampleprograms.io/projects/baklava/wu)
-- [Fizz Buzz in Wu](https://sampleprograms.io/projects/fizz-buzz/wu)
-- [Hello World in Wu](https://sampleprograms.io/projects/hello-world/wu)
+- [Baklava in Wu](/projects/baklava/wu)
+- [Fizz Buzz in Wu](/projects/fizz-buzz/wu)
+- [Hello World in Wu](/projects/hello-world/wu)

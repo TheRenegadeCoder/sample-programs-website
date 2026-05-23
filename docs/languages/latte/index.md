@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Latte](https://sampleprograms.io/projects/baklava/latte)
-- [Hello World in Latte](https://sampleprograms.io/projects/hello-world/latte)
+- [Baklava in Latte](/projects/baklava/latte)
+- [Hello World in Latte](/projects/hello-world/latte)

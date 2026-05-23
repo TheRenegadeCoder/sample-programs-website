@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Fortran](https://sampleprograms.io/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Fortran](/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -60,7 +60,7 @@ end program fizzbuzz
 
 {% endraw %}
 
-Fizz Buzz in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
+Fizz Buzz in [Fortran](/languages/fortran) was written by:
 
 - sniklas142
 - Ștefan-Iulian Alecu

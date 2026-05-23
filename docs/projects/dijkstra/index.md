@@ -133,34 +133,34 @@ Usage: please provide three inputs: a serialized matrix, a source node and a des
 
 There are 28 articles:
 
-- [Dijkstra in ALGOL 60](https://sampleprograms.io/projects/dijkstra/algol60)
-- [Dijkstra in ALGOL 68](https://sampleprograms.io/projects/dijkstra/algol68)
-- [Dijkstra in AWK](https://sampleprograms.io/projects/dijkstra/awk)
-- [Dijkstra in Ada](https://sampleprograms.io/projects/dijkstra/ada)
-- [Dijkstra in Beef](https://sampleprograms.io/projects/dijkstra/beef)
-- [Dijkstra in C](https://sampleprograms.io/projects/dijkstra/c)
-- [Dijkstra in C#](https://sampleprograms.io/projects/dijkstra/c-sharp)
-- [Dijkstra in C++](https://sampleprograms.io/projects/dijkstra/c-plus-plus)
-- [Dijkstra in COBOL](https://sampleprograms.io/projects/dijkstra/cobol)
-- [Dijkstra in Commodore BASIC](https://sampleprograms.io/projects/dijkstra/commodore-basic)
-- [Dijkstra in Euphoria](https://sampleprograms.io/projects/dijkstra/euphoria)
-- [Dijkstra in F#](https://sampleprograms.io/projects/dijkstra/f-sharp)
-- [Dijkstra in Go](https://sampleprograms.io/projects/dijkstra/go)
-- [Dijkstra in Java](https://sampleprograms.io/projects/dijkstra/java)
-- [Dijkstra in JavaScript](https://sampleprograms.io/projects/dijkstra/javascript)
-- [Dijkstra in Mathematica](https://sampleprograms.io/projects/dijkstra/mathematica)
-- [Dijkstra in PHP](https://sampleprograms.io/projects/dijkstra/php)
-- [Dijkstra in Pascal](https://sampleprograms.io/projects/dijkstra/pascal)
-- [Dijkstra in PowerShell](https://sampleprograms.io/projects/dijkstra/powershell)
-- [Dijkstra in Python](https://sampleprograms.io/projects/dijkstra/python)
-- [Dijkstra in Ruby](https://sampleprograms.io/projects/dijkstra/ruby)
-- [Dijkstra in Rust](https://sampleprograms.io/projects/dijkstra/rust)
-- [Dijkstra in Swift](https://sampleprograms.io/projects/dijkstra/swift)
-- [Dijkstra in Tcl](https://sampleprograms.io/projects/dijkstra/tcl)
-- [Dijkstra in TypeScript](https://sampleprograms.io/projects/dijkstra/typescript)
-- [Dijkstra in Visual Basic](https://sampleprograms.io/projects/dijkstra/visual-basic)
-- [Dijkstra in m4](https://sampleprograms.io/projects/dijkstra/m4)
-- [Dijkstra in x86-64](https://sampleprograms.io/projects/dijkstra/x86-64)
+- [Dijkstra in ALGOL 60](/projects/dijkstra/algol60)
+- [Dijkstra in ALGOL 68](/projects/dijkstra/algol68)
+- [Dijkstra in AWK](/projects/dijkstra/awk)
+- [Dijkstra in Ada](/projects/dijkstra/ada)
+- [Dijkstra in Beef](/projects/dijkstra/beef)
+- [Dijkstra in C](/projects/dijkstra/c)
+- [Dijkstra in C#](/projects/dijkstra/c-sharp)
+- [Dijkstra in C++](/projects/dijkstra/c-plus-plus)
+- [Dijkstra in COBOL](/projects/dijkstra/cobol)
+- [Dijkstra in Commodore BASIC](/projects/dijkstra/commodore-basic)
+- [Dijkstra in Euphoria](/projects/dijkstra/euphoria)
+- [Dijkstra in F#](/projects/dijkstra/f-sharp)
+- [Dijkstra in Go](/projects/dijkstra/go)
+- [Dijkstra in Java](/projects/dijkstra/java)
+- [Dijkstra in JavaScript](/projects/dijkstra/javascript)
+- [Dijkstra in Mathematica](/projects/dijkstra/mathematica)
+- [Dijkstra in PHP](/projects/dijkstra/php)
+- [Dijkstra in Pascal](/projects/dijkstra/pascal)
+- [Dijkstra in PowerShell](/projects/dijkstra/powershell)
+- [Dijkstra in Python](/projects/dijkstra/python)
+- [Dijkstra in Ruby](/projects/dijkstra/ruby)
+- [Dijkstra in Rust](/projects/dijkstra/rust)
+- [Dijkstra in Swift](/projects/dijkstra/swift)
+- [Dijkstra in Tcl](/projects/dijkstra/tcl)
+- [Dijkstra in TypeScript](/projects/dijkstra/typescript)
+- [Dijkstra in Visual Basic](/projects/dijkstra/visual-basic)
+- [Dijkstra in m4](/projects/dijkstra/m4)
+- [Dijkstra in x86-64](/projects/dijkstra/x86-64)
 
 ***
 
@@ -168,13 +168,13 @@ There are 28 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Depth First Search)](https://sampleprograms.io/projects/depth-first-search)
+[<-- Previous Project (Depth First Search)](/projects/depth-first-search)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Duplicate Character Counter) -->](https://sampleprograms.io/projects/duplicate-character-counter)
+[Next Project (Duplicate Character Counter) -->](/projects/duplicate-character-counter)
 
 </div>
 

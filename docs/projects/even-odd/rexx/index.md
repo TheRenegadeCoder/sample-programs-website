@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Rexx](https://sampleprograms.io/languages/rexx) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](/projects/even-odd) in [Rexx](/languages/rexx) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -47,7 +47,7 @@ say 'Usage: please input a number'; exit
 
 {% endraw %}
 
-Even Odd in [Rexx](https://sampleprograms.io/languages/rexx) was written by:
+Even Odd in [Rexx](/languages/rexx) was written by:
 
 - Sudhanshu Dubey
 

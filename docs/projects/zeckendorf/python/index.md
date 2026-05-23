@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Zeckendorf](https://sampleprograms.io/projects/zeckendorf) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Zeckendorf](/projects/zeckendorf) in [Python](/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -90,7 +90,7 @@ if __name__ == "__main__":
 
 {% endraw %}
 
-Zeckendorf in [Python](https://sampleprograms.io/languages/python) was written by:
+Zeckendorf in [Python](/languages/python) was written by:
 
 - rzuckerm
 

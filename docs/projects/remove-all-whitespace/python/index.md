@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Remove All Whitespace](/projects/remove-all-whitespace) in [Python](/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -46,7 +46,7 @@ print("".join(input_string.split()))
 
 {% endraw %}
 
-Remove All Whitespace in [Python](https://sampleprograms.io/languages/python) was written by:
+Remove All Whitespace in [Python](/languages/python) was written by:
 
 - Jeremy Grifski
 

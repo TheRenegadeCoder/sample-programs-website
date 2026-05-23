@@ -24,13 +24,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Piet](https://sampleprograms.io/languages/piet) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Piet](/languages/piet) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 <img class="program-image" src="/projects/hello-world/piet/hello-world.png" alt="Hello World in Piet">
 
-Hello World in [Piet](https://sampleprograms.io/languages/piet) was written by:
+Hello World in [Piet](/languages/piet) was written by:
 
 - alope107
 

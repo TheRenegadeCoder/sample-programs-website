@@ -102,33 +102,33 @@ Usage: please provide at least 3 x and y coordinates as separate lists (e.g. "10
 
 There are 27 articles:
 
-- [Convex Hull in ALGOL 60](https://sampleprograms.io/projects/convex-hull/algol60)
-- [Convex Hull in ALGOL 68](https://sampleprograms.io/projects/convex-hull/algol68)
-- [Convex Hull in AWK](https://sampleprograms.io/projects/convex-hull/awk)
-- [Convex Hull in Ada](https://sampleprograms.io/projects/convex-hull/ada)
-- [Convex Hull in Beef](https://sampleprograms.io/projects/convex-hull/beef)
-- [Convex Hull in C](https://sampleprograms.io/projects/convex-hull/c)
-- [Convex Hull in C#](https://sampleprograms.io/projects/convex-hull/c-sharp)
-- [Convex Hull in C++](https://sampleprograms.io/projects/convex-hull/c-plus-plus)
-- [Convex Hull in COBOL](https://sampleprograms.io/projects/convex-hull/cobol)
-- [Convex Hull in Commodore BASIC](https://sampleprograms.io/projects/convex-hull/commodore-basic)
-- [Convex Hull in Euphoria](https://sampleprograms.io/projects/convex-hull/euphoria)
-- [Convex Hull in F#](https://sampleprograms.io/projects/convex-hull/f-sharp)
-- [Convex Hull in Go](https://sampleprograms.io/projects/convex-hull/go)
-- [Convex Hull in Java](https://sampleprograms.io/projects/convex-hull/java)
-- [Convex Hull in JavaScript](https://sampleprograms.io/projects/convex-hull/javascript)
-- [Convex Hull in Mathematica](https://sampleprograms.io/projects/convex-hull/mathematica)
-- [Convex Hull in PHP](https://sampleprograms.io/projects/convex-hull/php)
-- [Convex Hull in Pascal](https://sampleprograms.io/projects/convex-hull/pascal)
-- [Convex Hull in PowerShell](https://sampleprograms.io/projects/convex-hull/powershell)
-- [Convex Hull in Python](https://sampleprograms.io/projects/convex-hull/python)
-- [Convex Hull in Ruby](https://sampleprograms.io/projects/convex-hull/ruby)
-- [Convex Hull in Rust](https://sampleprograms.io/projects/convex-hull/rust)
-- [Convex Hull in Swift](https://sampleprograms.io/projects/convex-hull/swift)
-- [Convex Hull in Tcl](https://sampleprograms.io/projects/convex-hull/tcl)
-- [Convex Hull in TypeScript](https://sampleprograms.io/projects/convex-hull/typescript)
-- [Convex Hull in Visual Basic](https://sampleprograms.io/projects/convex-hull/visual-basic)
-- [Convex Hull in m4](https://sampleprograms.io/projects/convex-hull/m4)
+- [Convex Hull in ALGOL 60](/projects/convex-hull/algol60)
+- [Convex Hull in ALGOL 68](/projects/convex-hull/algol68)
+- [Convex Hull in AWK](/projects/convex-hull/awk)
+- [Convex Hull in Ada](/projects/convex-hull/ada)
+- [Convex Hull in Beef](/projects/convex-hull/beef)
+- [Convex Hull in C](/projects/convex-hull/c)
+- [Convex Hull in C#](/projects/convex-hull/c-sharp)
+- [Convex Hull in C++](/projects/convex-hull/c-plus-plus)
+- [Convex Hull in COBOL](/projects/convex-hull/cobol)
+- [Convex Hull in Commodore BASIC](/projects/convex-hull/commodore-basic)
+- [Convex Hull in Euphoria](/projects/convex-hull/euphoria)
+- [Convex Hull in F#](/projects/convex-hull/f-sharp)
+- [Convex Hull in Go](/projects/convex-hull/go)
+- [Convex Hull in Java](/projects/convex-hull/java)
+- [Convex Hull in JavaScript](/projects/convex-hull/javascript)
+- [Convex Hull in Mathematica](/projects/convex-hull/mathematica)
+- [Convex Hull in PHP](/projects/convex-hull/php)
+- [Convex Hull in Pascal](/projects/convex-hull/pascal)
+- [Convex Hull in PowerShell](/projects/convex-hull/powershell)
+- [Convex Hull in Python](/projects/convex-hull/python)
+- [Convex Hull in Ruby](/projects/convex-hull/ruby)
+- [Convex Hull in Rust](/projects/convex-hull/rust)
+- [Convex Hull in Swift](/projects/convex-hull/swift)
+- [Convex Hull in Tcl](/projects/convex-hull/tcl)
+- [Convex Hull in TypeScript](/projects/convex-hull/typescript)
+- [Convex Hull in Visual Basic](/projects/convex-hull/visual-basic)
+- [Convex Hull in m4](/projects/convex-hull/m4)
 
 ***
 
@@ -136,13 +136,13 @@ There are 27 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Capitalize)](https://sampleprograms.io/projects/capitalize)
+[<-- Previous Project (Capitalize)](/projects/capitalize)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Depth First Search) -->](https://sampleprograms.io/projects/depth-first-search)
+[Next Project (Depth First Search) -->](/projects/depth-first-search)
 
 </div>
 

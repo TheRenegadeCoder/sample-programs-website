@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Vimscript](https://sampleprograms.io/languages/vimscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](/projects/reverse-string) in [Vimscript](/languages/vimscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -44,7 +44,7 @@ endfunc
 
 {% endraw %}
 
-Reverse String in [Vimscript](https://sampleprograms.io/languages/vimscript) was written by:
+Reverse String in [Vimscript](/languages/vimscript) was written by:
 
 - Christoph Böhmwalder
 - rzuckerm

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Ada](https://sampleprograms.io/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](/projects/capitalize) in [Ada](/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -61,7 +61,7 @@ end Capitalize;
 
 {% endraw %}
 
-Capitalize in [Ada](https://sampleprograms.io/languages/ada) was written by:
+Capitalize in [Ada](/languages/ada) was written by:
 
 - Ștefan-Iulian Alecu
 

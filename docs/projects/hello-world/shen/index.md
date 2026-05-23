@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Shen](https://sampleprograms.io/languages/shen) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Shen](/languages/shen) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 {% endraw %}
 
-Hello World in [Shen](https://sampleprograms.io/languages/shen) was written by:
+Hello World in [Shen](/languages/shen) was written by:
 
 - rzuckerm
 

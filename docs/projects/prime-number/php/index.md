@@ -26,7 +26,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [PHP](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](/projects/prime-number) in [PHP](/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -77,7 +77,7 @@ exit(0);
 
 {% endraw %}
 
-Prime Number in [PHP](https://sampleprograms.io/languages/php) was written by:
+Prime Number in [PHP](/languages/php) was written by:
 
 - Jeremy Grifski
 - Juan D Frias

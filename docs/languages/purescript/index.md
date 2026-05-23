@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in PureScript](https://sampleprograms.io/projects/baklava/purescript)
-- [Hello World in PureScript](https://sampleprograms.io/projects/hello-world/purescript)
+- [Baklava in PureScript](/projects/baklava/purescript)
+- [Hello World in PureScript](/projects/hello-world/purescript)

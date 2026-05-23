@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [D](https://sampleprograms.io/languages/d) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [D](/languages/d) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -47,7 +47,7 @@ void main()
 
 {% endraw %}
 
-Fizz Buzz in [D](https://sampleprograms.io/languages/d) was written by:
+Fizz Buzz in [D](/languages/d) was written by:
 
 - Zia
 

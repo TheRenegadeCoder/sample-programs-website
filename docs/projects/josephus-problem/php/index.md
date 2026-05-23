@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [PHP](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Josephus Problem](/projects/josephus-problem) in [PHP](/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -110,7 +110,7 @@ echo "$g\n";
 
 {% endraw %}
 
-Josephus Problem in [PHP](https://sampleprograms.io/languages/php) was written by:
+Josephus Problem in [PHP](/languages/php) was written by:
 
 - rzuckerm
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Depth First Search](/projects/depth-first-search) in [Rust](/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -199,7 +199,7 @@ fn main() {
 
 {% endraw %}
 
-Depth First Search in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Depth First Search in [Rust](/languages/rust) was written by:
 
 - rzuckerm
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [m4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](/projects/job-sequencing) in [m4](/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -252,7 +252,7 @@ get_total_profit(`jobs', `slots')
 
 {% endraw %}
 
-Job Sequencing in [m4](https://sampleprograms.io/languages/m4) was written by:
+Job Sequencing in [m4](/languages/m4) was written by:
 
 - rzuckerm
 

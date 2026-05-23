@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Koka](https://sampleprograms.io/languages/koka) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Koka](/languages/koka) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -41,7 +41,7 @@ fun main()
 
 {% endraw %}
 
-Hello World in [Koka](https://sampleprograms.io/languages/koka) was written by:
+Hello World in [Koka](/languages/koka) was written by:
 
 - rzuckerm
 

@@ -138,35 +138,35 @@ Usage: please input the total number of people and number of people to skip.
 
 There are 29 articles:
 
-- [Josephus Problem in ALGOL 60](https://sampleprograms.io/projects/josephus-problem/algol60)
-- [Josephus Problem in ALGOL 68](https://sampleprograms.io/projects/josephus-problem/algol68)
-- [Josephus Problem in AWK](https://sampleprograms.io/projects/josephus-problem/awk)
-- [Josephus Problem in Ada](https://sampleprograms.io/projects/josephus-problem/ada)
-- [Josephus Problem in Beef](https://sampleprograms.io/projects/josephus-problem/beef)
-- [Josephus Problem in C](https://sampleprograms.io/projects/josephus-problem/c)
-- [Josephus Problem in C#](https://sampleprograms.io/projects/josephus-problem/c-sharp)
-- [Josephus Problem in C++](https://sampleprograms.io/projects/josephus-problem/c-plus-plus)
-- [Josephus Problem in COBOL](https://sampleprograms.io/projects/josephus-problem/cobol)
-- [Josephus Problem in Commodore BASIC](https://sampleprograms.io/projects/josephus-problem/commodore-basic)
-- [Josephus Problem in Euphoria](https://sampleprograms.io/projects/josephus-problem/euphoria)
-- [Josephus Problem in F#](https://sampleprograms.io/projects/josephus-problem/f-sharp)
-- [Josephus Problem in Go](https://sampleprograms.io/projects/josephus-problem/go)
-- [Josephus Problem in Haskell](https://sampleprograms.io/projects/josephus-problem/haskell)
-- [Josephus Problem in Java](https://sampleprograms.io/projects/josephus-problem/java)
-- [Josephus Problem in JavaScript](https://sampleprograms.io/projects/josephus-problem/javascript)
-- [Josephus Problem in Mathematica](https://sampleprograms.io/projects/josephus-problem/mathematica)
-- [Josephus Problem in PHP](https://sampleprograms.io/projects/josephus-problem/php)
-- [Josephus Problem in Pascal](https://sampleprograms.io/projects/josephus-problem/pascal)
-- [Josephus Problem in PowerShell](https://sampleprograms.io/projects/josephus-problem/powershell)
-- [Josephus Problem in Python](https://sampleprograms.io/projects/josephus-problem/python)
-- [Josephus Problem in Ruby](https://sampleprograms.io/projects/josephus-problem/ruby)
-- [Josephus Problem in Rust](https://sampleprograms.io/projects/josephus-problem/rust)
-- [Josephus Problem in Swift](https://sampleprograms.io/projects/josephus-problem/swift)
-- [Josephus Problem in TI-BASIC](https://sampleprograms.io/projects/josephus-problem/ti-basic)
-- [Josephus Problem in Tcl](https://sampleprograms.io/projects/josephus-problem/tcl)
-- [Josephus Problem in TypeScript](https://sampleprograms.io/projects/josephus-problem/typescript)
-- [Josephus Problem in Visual Basic](https://sampleprograms.io/projects/josephus-problem/visual-basic)
-- [Josephus Problem in m4](https://sampleprograms.io/projects/josephus-problem/m4)
+- [Josephus Problem in ALGOL 60](/projects/josephus-problem/algol60)
+- [Josephus Problem in ALGOL 68](/projects/josephus-problem/algol68)
+- [Josephus Problem in AWK](/projects/josephus-problem/awk)
+- [Josephus Problem in Ada](/projects/josephus-problem/ada)
+- [Josephus Problem in Beef](/projects/josephus-problem/beef)
+- [Josephus Problem in C](/projects/josephus-problem/c)
+- [Josephus Problem in C#](/projects/josephus-problem/c-sharp)
+- [Josephus Problem in C++](/projects/josephus-problem/c-plus-plus)
+- [Josephus Problem in COBOL](/projects/josephus-problem/cobol)
+- [Josephus Problem in Commodore BASIC](/projects/josephus-problem/commodore-basic)
+- [Josephus Problem in Euphoria](/projects/josephus-problem/euphoria)
+- [Josephus Problem in F#](/projects/josephus-problem/f-sharp)
+- [Josephus Problem in Go](/projects/josephus-problem/go)
+- [Josephus Problem in Haskell](/projects/josephus-problem/haskell)
+- [Josephus Problem in Java](/projects/josephus-problem/java)
+- [Josephus Problem in JavaScript](/projects/josephus-problem/javascript)
+- [Josephus Problem in Mathematica](/projects/josephus-problem/mathematica)
+- [Josephus Problem in PHP](/projects/josephus-problem/php)
+- [Josephus Problem in Pascal](/projects/josephus-problem/pascal)
+- [Josephus Problem in PowerShell](/projects/josephus-problem/powershell)
+- [Josephus Problem in Python](/projects/josephus-problem/python)
+- [Josephus Problem in Ruby](/projects/josephus-problem/ruby)
+- [Josephus Problem in Rust](/projects/josephus-problem/rust)
+- [Josephus Problem in Swift](/projects/josephus-problem/swift)
+- [Josephus Problem in TI-BASIC](/projects/josephus-problem/ti-basic)
+- [Josephus Problem in Tcl](/projects/josephus-problem/tcl)
+- [Josephus Problem in TypeScript](/projects/josephus-problem/typescript)
+- [Josephus Problem in Visual Basic](/projects/josephus-problem/visual-basic)
+- [Josephus Problem in m4](/projects/josephus-problem/m4)
 
 ***
 
@@ -174,13 +174,13 @@ There are 29 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Job Sequencing)](https://sampleprograms.io/projects/job-sequencing)
+[<-- Previous Project (Job Sequencing)](/projects/job-sequencing)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Linear Search) -->](https://sampleprograms.io/projects/linear-search)
+[Next Project (Linear Search) -->](/projects/linear-search)
 
 </div>
 

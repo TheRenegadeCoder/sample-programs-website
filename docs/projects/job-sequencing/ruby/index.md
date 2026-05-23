@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](/projects/job-sequencing) in [Ruby](/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -89,7 +89,7 @@ puts schedule(profits, deadlines)
 
 {% endraw %}
 
-Job Sequencing in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Job Sequencing in [Ruby](/languages/ruby) was written by:
 
 - Ștefan-Iulian Alecu
 

@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Scilab](https://sampleprograms.io/projects/baklava/scilab)
-- [Hello World in Scilab](https://sampleprograms.io/projects/hello-world/scilab)
+- [Baklava in Scilab](/projects/baklava/scilab)
+- [Hello World in Scilab](/projects/hello-world/scilab)

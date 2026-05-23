@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Wren](https://sampleprograms.io/languages/wren) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](/projects/prime-number) in [Wren](/languages/wren) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -69,7 +69,7 @@ System.print("prime")
 
 {% endraw %}
 
-Prime Number in [Wren](https://sampleprograms.io/languages/wren) was written by:
+Prime Number in [Wren](/languages/wren) was written by:
 
 - Zia
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Octave](https://sampleprograms.io/languages/octave) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Insertion Sort](/projects/insertion-sort) in [Octave](/languages/octave) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -79,7 +79,7 @@ end
 
 {% endraw %}
 
-Insertion Sort in [Octave](https://sampleprograms.io/languages/octave) was written by:
+Insertion Sort in [Octave](/languages/octave) was written by:
 
 - rzuckerm
 

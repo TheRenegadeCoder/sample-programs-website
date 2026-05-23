@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fraction Math](/projects/fraction-math) in [Rust](/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -246,7 +246,7 @@ fn main() {
 
 {% endraw %}
 
-Fraction Math in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Fraction Math in [Rust](/languages/rust) was written by:
 
 - rzuckerm
 

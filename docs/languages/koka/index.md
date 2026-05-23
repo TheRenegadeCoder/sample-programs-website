@@ -51,5 +51,5 @@ Fun Fact: the word 'Koka' (or 効果) means "effect" or "effective" in Japanese.
 
 There are 2 articles:
 
-- [Baklava in Koka](https://sampleprograms.io/projects/baklava/koka)
-- [Hello World in Koka](https://sampleprograms.io/projects/hello-world/koka)
+- [Baklava in Koka](/projects/baklava/koka)
+- [Hello World in Koka](/projects/hello-world/koka)

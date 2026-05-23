@@ -30,7 +30,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 4 articles:
 
-- [Baklava in Haxe](https://sampleprograms.io/projects/baklava/haxe)
-- [Fizz Buzz in Haxe](https://sampleprograms.io/projects/fizz-buzz/haxe)
-- [Hello World in Haxe](https://sampleprograms.io/projects/hello-world/haxe)
-- [Merge Sort in Haxe](https://sampleprograms.io/projects/merge-sort/haxe)
+- [Baklava in Haxe](/projects/baklava/haxe)
+- [Fizz Buzz in Haxe](/projects/fizz-buzz/haxe)
+- [Hello World in Haxe](/projects/hello-world/haxe)
+- [Merge Sort in Haxe](/projects/merge-sort/haxe)

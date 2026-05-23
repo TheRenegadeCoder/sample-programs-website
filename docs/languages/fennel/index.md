@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Fennel](https://sampleprograms.io/projects/baklava/fennel)
-- [Fizz Buzz in Fennel](https://sampleprograms.io/projects/fizz-buzz/fennel)
-- [Hello World in Fennel](https://sampleprograms.io/projects/hello-world/fennel)
+- [Baklava in Fennel](/projects/baklava/fennel)
+- [Fizz Buzz in Fennel](/projects/fizz-buzz/fennel)
+- [Hello World in Fennel](/projects/hello-world/fennel)

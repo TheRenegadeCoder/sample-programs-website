@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Elvish](https://sampleprograms.io/languages/elvish) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Elvish](/languages/elvish) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ echo "Hello, World!"
 
 {% endraw %}
 
-Hello World in [Elvish](https://sampleprograms.io/languages/elvish) was written by:
+Hello World in [Elvish](/languages/elvish) was written by:
 
 - Jeremy Grifski
 

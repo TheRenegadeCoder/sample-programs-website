@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Idris](https://sampleprograms.io/languages/idris) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Idris](/languages/idris) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -49,7 +49,7 @@ main = sequence_ $ map (putStrLn . baklavaLine) [-10..10]
 
 {% endraw %}
 
-Baklava in [Idris](https://sampleprograms.io/languages/idris) was written by:
+Baklava in [Idris](/languages/idris) was written by:
 
 - rzuckerm
 

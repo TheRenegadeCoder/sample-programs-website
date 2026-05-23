@@ -26,7 +26,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](/projects/reverse-string) in [C++](/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -52,7 +52,7 @@ int main(int argc, char* argv[]) {
 
 {% endraw %}
 
-Reverse String in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+Reverse String in [C++](/languages/c-plus-plus) was written by:
 
 - Jeremy Grifski
 - Noah

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Base64 Encode Decode](https://sampleprograms.io/projects/base64-encode-decode) in [Ada](https://sampleprograms.io/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Base64 Encode Decode](/projects/base64-encode-decode) in [Ada](/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -346,7 +346,7 @@ end Base64_Encode_Decode;
 
 {% endraw %}
 
-Base64 Encode Decode in [Ada](https://sampleprograms.io/languages/ada) was written by:
+Base64 Encode Decode in [Ada](/languages/ada) was written by:
 
 - Ștefan-Iulian Alecu
 

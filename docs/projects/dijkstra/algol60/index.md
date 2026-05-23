@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [ALGOL 60](https://sampleprograms.io/languages/algol60) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Dijkstra](/projects/dijkstra) in [ALGOL 60](/languages/algol60) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -353,7 +353,7 @@ end
 
 {% endraw %}
 
-Dijkstra in [ALGOL 60](https://sampleprograms.io/languages/algol60) was written by:
+Dijkstra in [ALGOL 60](/languages/algol60) was written by:
 
 - rzuckerm
 

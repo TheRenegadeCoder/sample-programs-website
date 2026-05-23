@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Duplicate Character Counter](/projects/duplicate-character-counter) in [Mathematica](/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -61,7 +61,7 @@ duplicateCharacterCounterMain /@ {
 
 {% endraw %}
 
-Duplicate Character Counter in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Duplicate Character Counter in [Mathematica](/languages/mathematica) was written by:
 
 - Ben Hekster
 

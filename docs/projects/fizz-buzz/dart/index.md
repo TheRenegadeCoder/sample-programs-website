@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Dart](/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -55,7 +55,7 @@ void main() {
 
 {% endraw %}
 
-Fizz Buzz in [Dart](https://sampleprograms.io/languages/dart) was written by:
+Fizz Buzz in [Dart](/languages/dart) was written by:
 
 - Sanchit Sahay
 

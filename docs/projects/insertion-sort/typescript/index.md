@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [TypeScript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Insertion Sort](/projects/insertion-sort) in [TypeScript](/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -74,7 +74,7 @@ console.log(sortedArray.join(", "));
 
 {% endraw %}
 
-Insertion Sort in [TypeScript](https://sampleprograms.io/languages/typescript) was written by:
+Insertion Sort in [TypeScript](/languages/typescript) was written by:
 
 - Raakesh.R
 

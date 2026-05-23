@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Pineapple](https://sampleprograms.io/projects/baklava/pineapple)
-- [Fizz Buzz in Pineapple](https://sampleprograms.io/projects/fizz-buzz/pineapple)
-- [Hello World in Pineapple](https://sampleprograms.io/projects/hello-world/pineapple)
+- [Baklava in Pineapple](/projects/baklava/pineapple)
+- [Fizz Buzz in Pineapple](/projects/fizz-buzz/pineapple)
+- [Hello World in Pineapple](/projects/hello-world/pineapple)

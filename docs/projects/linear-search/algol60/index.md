@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search) in [ALGOL 60](https://sampleprograms.io/languages/algol60) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Linear Search](/projects/linear-search) in [ALGOL 60](/languages/algol60) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -217,7 +217,7 @@ end
 
 {% endraw %}
 
-Linear Search in [ALGOL 60](https://sampleprograms.io/languages/algol60) was written by:
+Linear Search in [ALGOL 60](/languages/algol60) was written by:
 
 - rzuckerm
 

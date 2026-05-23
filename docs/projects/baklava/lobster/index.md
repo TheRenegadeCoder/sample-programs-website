@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Lobster](https://sampleprograms.io/languages/lobster) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Lobster](/languages/lobster) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -42,7 +42,7 @@ for (21) n:
 
 {% endraw %}
 
-Baklava in [Lobster](https://sampleprograms.io/languages/lobster) was written by:
+Baklava in [Lobster](/languages/lobster) was written by:
 
 - rzuckerm
 

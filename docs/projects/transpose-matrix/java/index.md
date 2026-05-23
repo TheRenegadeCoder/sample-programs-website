@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Transpose Matrix](/projects/transpose-matrix) in [Java](/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -105,7 +105,7 @@ public class TransposeMatrix {
 
 {% endraw %}
 
-Transpose Matrix in [Java](https://sampleprograms.io/languages/java) was written by:
+Transpose Matrix in [Java](/languages/java) was written by:
 
 - Apurva Vats
 

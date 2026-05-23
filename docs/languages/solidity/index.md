@@ -88,5 +88,5 @@ Welcome to solidity!
 
 There are 2 articles:
 
-- [Baklava in Solidity](https://sampleprograms.io/projects/baklava/solidity)
-- [Hello World in Solidity](https://sampleprograms.io/projects/hello-world/solidity)
+- [Baklava in Solidity](/projects/baklava/solidity)
+- [Hello World in Solidity](/projects/hello-world/solidity)

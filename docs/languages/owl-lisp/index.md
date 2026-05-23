@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Owl Lisp](https://sampleprograms.io/projects/baklava/owl-lisp)
-- [Hello World in Owl Lisp](https://sampleprograms.io/projects/hello-world/owl-lisp)
+- [Baklava in Owl Lisp](/projects/baklava/owl-lisp)
+- [Hello World in Owl Lisp](/projects/hello-world/owl-lisp)

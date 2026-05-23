@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search) in [TypeScript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Linear Search](/projects/linear-search) in [TypeScript](/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -58,7 +58,7 @@ console.log(found ? "true" : "false");
 
 {% endraw %}
 
-Linear Search in [TypeScript](https://sampleprograms.io/languages/typescript) was written by:
+Linear Search in [TypeScript](/languages/typescript) was written by:
 
 - Vipin Yadav
 

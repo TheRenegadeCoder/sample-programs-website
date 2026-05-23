@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](/projects/job-sequencing) in [Swift](/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -91,7 +91,7 @@ print(sequenceJobs(profits: profits, deadlines: deadlines))
 
 {% endraw %}
 
-Job Sequencing in [Swift](https://sampleprograms.io/languages/swift) was written by:
+Job Sequencing in [Swift](/languages/swift) was written by:
 
 - Ștefan-Iulian Alecu
 

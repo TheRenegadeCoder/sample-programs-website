@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [TypeScript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Depth First Search](/projects/depth-first-search) in [TypeScript](/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -138,7 +138,7 @@ main();
 
 {% endraw %}
 
-Depth First Search in [TypeScript](https://sampleprograms.io/languages/typescript) was written by:
+Depth First Search in [TypeScript](/languages/typescript) was written by:
 
 - Ștefan-Iulian Alecu
 

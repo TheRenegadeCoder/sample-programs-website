@@ -30,12 +30,12 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 9 articles:
 
-- [Baklava in Odin](https://sampleprograms.io/projects/baklava/odin)
-- [Even Odd in Odin](https://sampleprograms.io/projects/even-odd/odin)
-- [Fibonacci in Odin](https://sampleprograms.io/projects/fibonacci/odin)
-- [File Input Output in Odin](https://sampleprograms.io/projects/file-input-output/odin)
-- [Fizz Buzz in Odin](https://sampleprograms.io/projects/fizz-buzz/odin)
-- [Hello World in Odin](https://sampleprograms.io/projects/hello-world/odin)
-- [Longest Word in Odin](https://sampleprograms.io/projects/longest-word/odin)
-- [Prime Number in Odin](https://sampleprograms.io/projects/prime-number/odin)
-- [Reverse String in Odin](https://sampleprograms.io/projects/reverse-string/odin)
+- [Baklava in Odin](/projects/baklava/odin)
+- [Even Odd in Odin](/projects/even-odd/odin)
+- [Fibonacci in Odin](/projects/fibonacci/odin)
+- [File Input Output in Odin](/projects/file-input-output/odin)
+- [Fizz Buzz in Odin](/projects/fizz-buzz/odin)
+- [Hello World in Odin](/projects/hello-world/odin)
+- [Longest Word in Odin](/projects/longest-word/odin)
+- [Prime Number in Odin](/projects/prime-number/odin)
+- [Reverse String in Odin](/projects/reverse-string/odin)

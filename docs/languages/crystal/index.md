@@ -57,7 +57,7 @@ lower-level languages like C.
 
 There are 4 articles:
 
-- [Baklava in Crystal](https://sampleprograms.io/projects/baklava/crystal)
-- [Factorial in Crystal](https://sampleprograms.io/projects/factorial/crystal)
-- [Fizz Buzz in Crystal](https://sampleprograms.io/projects/fizz-buzz/crystal)
-- [Hello World in Crystal](https://sampleprograms.io/projects/hello-world/crystal)
+- [Baklava in Crystal](/projects/baklava/crystal)
+- [Factorial in Crystal](/projects/factorial/crystal)
+- [Fizz Buzz in Crystal](/projects/fizz-buzz/crystal)
+- [Hello World in Crystal](/projects/hello-world/crystal)

@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Discus](https://sampleprograms.io/projects/baklava/discus)
-- [Hello World in Discus](https://sampleprograms.io/projects/hello-world/discus)
+- [Baklava in Discus](/projects/baklava/discus)
+- [Hello World in Discus](/projects/hello-world/discus)

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](/projects/prime-number) in [Euphoria](/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -113,7 +113,7 @@ puts(STDOUT, iif(is_prime(value), "Prime\n", "Composite\n"))
 
 {% endraw %}
 
-Prime Number in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Prime Number in [Euphoria](/languages/euphoria) was written by:
 
 - rzuckerm
 

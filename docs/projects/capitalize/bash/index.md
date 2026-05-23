@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](/projects/capitalize) in [Bash](/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -45,7 +45,7 @@ echo ${1^}
 
 {% endraw %}
 
-Capitalize in [Bash](https://sampleprograms.io/languages/bash) was written by:
+Capitalize in [Bash](/languages/bash) was written by:
 
 - Jeremy Grifski
 - lohxx

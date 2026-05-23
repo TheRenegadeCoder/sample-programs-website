@@ -27,7 +27,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](/projects/capitalize) in [Dart](/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -53,7 +53,7 @@ String capitalize(String input) =>
 
 {% endraw %}
 
-Capitalize in [Dart](https://sampleprograms.io/languages/dart) was written by:
+Capitalize in [Dart](/languages/dart) was written by:
 
 - Jeremy Grifski
 - Paddy

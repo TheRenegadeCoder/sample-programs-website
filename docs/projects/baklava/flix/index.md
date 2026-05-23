@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Flix](https://sampleprograms.io/languages/flix) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Flix](/languages/flix) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -45,7 +45,7 @@ def main(): Unit \ IO =
 
 {% endraw %}
 
-Baklava in [Flix](https://sampleprograms.io/languages/flix) was written by:
+Baklava in [Flix](/languages/flix) was written by:
 
 - rzuckerm
 

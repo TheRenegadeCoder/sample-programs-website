@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Bracmat](https://sampleprograms.io/projects/baklava/bracmat)
-- [Hello World in Bracmat](https://sampleprograms.io/projects/hello-world/bracmat)
+- [Baklava in Bracmat](/projects/baklava/bracmat)
+- [Hello World in Bracmat](/projects/hello-world/bracmat)

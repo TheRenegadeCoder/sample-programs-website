@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [ALGOL 60](https://sampleprograms.io/languages/algol60) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [ALGOL 60](/languages/algol60) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -54,7 +54,7 @@ end
 
 {% endraw %}
 
-Fizz Buzz in [ALGOL 60](https://sampleprograms.io/languages/algol60) was written by:
+Fizz Buzz in [ALGOL 60](/languages/algol60) was written by:
 
 - rzuckerm
 

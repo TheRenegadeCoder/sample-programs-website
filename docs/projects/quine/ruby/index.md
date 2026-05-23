@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](/projects/quine) in [Ruby](/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ s="s=%c%s%c; printf s,34,s,34,10%c"; printf s,34,s,34,10
 
 {% endraw %}
 
-Quine in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Quine in [Ruby](/languages/ruby) was written by:
 
 - Jeremy Grifski
 

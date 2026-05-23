@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Chapel](https://sampleprograms.io/projects/baklava/chapel)
-- [Fizz Buzz in Chapel](https://sampleprograms.io/projects/fizz-buzz/chapel)
-- [Hello World in Chapel](https://sampleprograms.io/projects/hello-world/chapel)
+- [Baklava in Chapel](/projects/baklava/chapel)
+- [Fizz Buzz in Chapel](/projects/fizz-buzz/chapel)
+- [Hello World in Chapel](/projects/hello-world/chapel)

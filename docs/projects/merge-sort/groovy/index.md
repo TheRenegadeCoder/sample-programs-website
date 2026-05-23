@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Groovy](https://sampleprograms.io/languages/groovy) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](/projects/merge-sort) in [Groovy](/languages/groovy) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -105,7 +105,7 @@ class MergeSort {
 
 {% endraw %}
 
-Merge Sort in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
+Merge Sort in [Groovy](/languages/groovy) was written by:
 
 - Mykhaylo Samonov
 - rzuckerm

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Transpose Matrix](/projects/transpose-matrix) in [Euphoria](/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -188,7 +188,7 @@ show_matrix_as_list(matrix_t)
 
 {% endraw %}
 
-Transpose Matrix in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Transpose Matrix in [Euphoria](/languages/euphoria) was written by:
 
 - rzuckerm
 

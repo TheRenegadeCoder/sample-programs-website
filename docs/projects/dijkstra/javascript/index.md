@@ -26,7 +26,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Dijkstra](/projects/dijkstra) in [JavaScript](/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -125,7 +125,7 @@ main();
 
 {% endraw %}
 
-Dijkstra in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
+Dijkstra in [JavaScript](/languages/javascript) was written by:
 
 - Jeremy Grifski
 - Matteo Planchet

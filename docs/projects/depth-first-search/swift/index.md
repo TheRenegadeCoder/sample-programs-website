@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Depth First Search](/projects/depth-first-search) in [Swift](/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -108,7 +108,7 @@ print(depthFirstSearch(adj: adj, labels: labels, target: target))
 
 {% endraw %}
 
-Depth First Search in [Swift](https://sampleprograms.io/languages/swift) was written by:
+Depth First Search in [Swift](/languages/swift) was written by:
 
 - Ștefan-Iulian Alecu
 

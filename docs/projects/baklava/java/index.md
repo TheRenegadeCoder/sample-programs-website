@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Java](/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -61,7 +61,7 @@ public class Baklava {
 
 {% endraw %}
 
-Baklava in [Java](https://sampleprograms.io/languages/java) was written by:
+Baklava in [Java](/languages/java) was written by:
 
 - Jeremy Grifski
 - Parker Johansen

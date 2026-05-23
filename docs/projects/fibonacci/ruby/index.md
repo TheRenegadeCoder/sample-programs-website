@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](/projects/fibonacci) in [Ruby](/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -62,7 +62,7 @@ fibonacci(num)
 
 {% endraw %}
 
-Fibonacci in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Fibonacci in [Ruby](/languages/ruby) was written by:
 
 - Noah Nichols
 - Ștefan-Iulian Alecu

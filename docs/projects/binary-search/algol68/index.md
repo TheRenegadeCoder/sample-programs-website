@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Binary Search](/projects/binary-search) in [ALGOL 68](/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -204,7 +204,7 @@ printf(($gl$, (index > 0 | "true" | "false")))
 
 {% endraw %}
 
-Binary Search in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
+Binary Search in [ALGOL 68](/languages/algol68) was written by:
 
 - rzuckerm
 

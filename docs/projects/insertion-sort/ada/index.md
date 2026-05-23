@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Ada](https://sampleprograms.io/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Insertion Sort](/projects/insertion-sort) in [Ada](/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -168,7 +168,7 @@ end Insertion_Sort;
 
 {% endraw %}
 
-Insertion Sort in [Ada](https://sampleprograms.io/languages/ada) was written by:
+Insertion Sort in [Ada](/languages/ada) was written by:
 
 - Ștefan-Iulian Alecu
 

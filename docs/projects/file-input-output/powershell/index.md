@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Input Output](/projects/file-input-output) in [PowerShell](/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -75,7 +75,7 @@ if (-not (Get-File($Filename))) {
 
 {% endraw %}
 
-File Input Output in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
+File Input Output in [PowerShell](/languages/powershell) was written by:
 
 - rzuckerm
 

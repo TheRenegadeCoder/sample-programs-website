@@ -30,7 +30,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 4 articles:
 
-- [Baklava in Pyret](https://sampleprograms.io/projects/baklava/pyret)
-- [Even Odd in Pyret](https://sampleprograms.io/projects/even-odd/pyret)
-- [Fizz Buzz in Pyret](https://sampleprograms.io/projects/fizz-buzz/pyret)
-- [Hello World in Pyret](https://sampleprograms.io/projects/hello-world/pyret)
+- [Baklava in Pyret](/projects/baklava/pyret)
+- [Even Odd in Pyret](/projects/even-odd/pyret)
+- [Fizz Buzz in Pyret](/projects/fizz-buzz/pyret)
+- [Hello World in Pyret](/projects/hello-world/pyret)

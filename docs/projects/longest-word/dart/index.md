@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](/projects/longest-word) in [Dart](/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -57,7 +57,7 @@ void main(List<String> argv){
 
 {% endraw %}
 
-Longest Word in [Dart](https://sampleprograms.io/languages/dart) was written by:
+Longest Word in [Dart](/languages/dart) was written by:
 
 - gangaasoonu
 

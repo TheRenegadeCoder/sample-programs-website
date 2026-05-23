@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Linear Search](/projects/linear-search) in [Ruby](/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -49,7 +49,7 @@ puts numbers.include?(target)
 
 {% endraw %}
 
-Linear Search in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Linear Search in [Ruby](/languages/ruby) was written by:
 
 - Elvin Hrytsyuk
 - Ștefan-Iulian Alecu

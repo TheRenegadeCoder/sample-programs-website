@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [CoffeeScript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](/projects/reverse-string) in [CoffeeScript](/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -48,7 +48,7 @@ console.log(main())
 
 {% endraw %}
 
-Reverse String in [CoffeeScript](https://sampleprograms.io/languages/coffeescript) was written by:
+Reverse String in [CoffeeScript](/languages/coffeescript) was written by:
 
 - Brendan Villaraza
 

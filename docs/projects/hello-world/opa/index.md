@@ -26,7 +26,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Opa](https://sampleprograms.io/languages/opa) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Opa](/languages/opa) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -46,7 +46,7 @@ Server.start(
 
 {% endraw %}
 
-Hello World in [Opa](https://sampleprograms.io/languages/opa) was written by:
+Hello World in [Opa](/languages/opa) was written by:
 
 - Nico Villanueva
 - rzuckerm

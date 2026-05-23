@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [m4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Depth First Search](/projects/depth-first-search) in [m4](/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -201,7 +201,7 @@ ifelse(eval(node >= 0), 1, `true', `false')
 
 {% endraw %}
 
-Depth First Search in [m4](https://sampleprograms.io/languages/m4) was written by:
+Depth First Search in [m4](/languages/m4) was written by:
 
 - rzuckerm
 

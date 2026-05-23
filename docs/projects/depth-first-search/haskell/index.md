@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Depth First Search](/projects/depth-first-search) in [Haskell](/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -91,7 +91,7 @@ main = do
 
 {% endraw %}
 
-Depth First Search in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+Depth First Search in [Haskell](/languages/haskell) was written by:
 
 - Ricardo Mapurunga Junior
 

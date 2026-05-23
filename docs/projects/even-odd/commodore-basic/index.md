@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](/projects/even-odd) in [Commodore BASIC](/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -92,7 +92,7 @@ Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Commo
 
 {% endraw %}
 
-Even Odd in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) was written by:
+Even Odd in [Commodore BASIC](/languages/commodore-basic) was written by:
 
 - rzuckerm
 

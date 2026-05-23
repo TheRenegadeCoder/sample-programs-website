@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](/projects/roman-numeral) in [Go](/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -106,7 +106,7 @@ func main() {
 
 {% endraw %}
 
-Roman Numeral in [Go](https://sampleprograms.io/languages/go) was written by:
+Roman Numeral in [Go](/languages/go) was written by:
 
 - clarkimusmax
 - Parker Johansen

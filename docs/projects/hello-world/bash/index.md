@@ -26,7 +26,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Bash](/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -41,7 +41,7 @@ echo Hello, World!
 
 {% endraw %}
 
-Hello World in [Bash](https://sampleprograms.io/languages/bash) was written by:
+Hello World in [Bash](/languages/bash) was written by:
 
 - Abdus
 - Jeremy Grifski

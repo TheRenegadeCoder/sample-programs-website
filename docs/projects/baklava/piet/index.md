@@ -24,13 +24,13 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Piet](https://sampleprograms.io/languages/piet) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Piet](/languages/piet) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 <img class="program-image" src="/projects/baklava/piet/baklava.png" alt="Baklava in Piet">
 
-Baklava in [Piet](https://sampleprograms.io/languages/piet) was written by:
+Baklava in [Piet](/languages/piet) was written by:
 
 - rzuckerm
 

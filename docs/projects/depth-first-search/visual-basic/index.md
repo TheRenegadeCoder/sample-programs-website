@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Visual Basic](https://sampleprograms.io/languages/visual-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Depth First Search](/projects/depth-first-search) in [Visual Basic](/languages/visual-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -230,7 +230,7 @@ End Module
 
 {% endraw %}
 
-Depth First Search in [Visual Basic](https://sampleprograms.io/languages/visual-basic) was written by:
+Depth First Search in [Visual Basic](/languages/visual-basic) was written by:
 
 - Ștefan-Iulian Alecu
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [x86-64](https://sampleprograms.io/languages/x86-64) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Dijkstra](/projects/dijkstra) in [x86-64](/languages/x86-64) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -1560,7 +1560,7 @@ atoi:
 
 {% endraw %}
 
-Dijkstra in [x86-64](https://sampleprograms.io/languages/x86-64) was written by:
+Dijkstra in [x86-64](/languages/x86-64) was written by:
 
 - Raymond Marx
 

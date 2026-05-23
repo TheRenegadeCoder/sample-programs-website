@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Carp](https://sampleprograms.io/projects/baklava/carp)
-- [Hello World in Carp](https://sampleprograms.io/projects/hello-world/carp)
+- [Baklava in Carp](/projects/baklava/carp)
+- [Hello World in Carp](/projects/hello-world/carp)

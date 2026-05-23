@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [TypeScript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](/projects/merge-sort) in [TypeScript](/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -120,7 +120,7 @@ console.log(numbers.join(", "))
 
 {% endraw %}
 
-Merge Sort in [TypeScript](https://sampleprograms.io/languages/typescript) was written by:
+Merge Sort in [TypeScript](/languages/typescript) was written by:
 
 - Aaron
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [R](https://sampleprograms.io/languages/r) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Palindromic Number](/projects/palindromic-number) in [R](/languages/r) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -54,7 +54,7 @@ cat(tolower(orig == rev_num), "\n")
 
 {% endraw %}
 
-Palindromic Number in [R](https://sampleprograms.io/languages/r) was written by:
+Palindromic Number in [R](/languages/r) was written by:
 
 - Ștefan-Iulian Alecu
 

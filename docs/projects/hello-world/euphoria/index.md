@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Euphoria](/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -39,7 +39,7 @@ puts(STDOUT, "Hello, World!\n")
 
 {% endraw %}
 
-Hello World in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Hello World in [Euphoria](/languages/euphoria) was written by:
 
 - rzuckerm
 

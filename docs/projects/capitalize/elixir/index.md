@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Elixir](https://sampleprograms.io/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](/projects/capitalize) in [Elixir](/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -65,7 +65,7 @@ Capitalize.main(System.argv()) |> IO.puts
 
 {% endraw %}
 
-Capitalize in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
+Capitalize in [Elixir](/languages/elixir) was written by:
 
 - Jonas Halstrup
 

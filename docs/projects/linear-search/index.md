@@ -131,41 +131,41 @@ Usage: please provide a list of integers ("1, 4, 5, 11, 12") and the integer to 
 
 There are 35 articles:
 
-- [Linear Search in ALGOL 60](https://sampleprograms.io/projects/linear-search/algol60)
-- [Linear Search in ALGOL 68](https://sampleprograms.io/projects/linear-search/algol68)
-- [Linear Search in AWK](https://sampleprograms.io/projects/linear-search/awk)
-- [Linear Search in Ada](https://sampleprograms.io/projects/linear-search/ada)
-- [Linear Search in Beef](https://sampleprograms.io/projects/linear-search/beef)
-- [Linear Search in C](https://sampleprograms.io/projects/linear-search/c)
-- [Linear Search in C#](https://sampleprograms.io/projects/linear-search/c-sharp)
-- [Linear Search in C++](https://sampleprograms.io/projects/linear-search/c-plus-plus)
-- [Linear Search in COBOL](https://sampleprograms.io/projects/linear-search/cobol)
-- [Linear Search in Commodore BASIC](https://sampleprograms.io/projects/linear-search/commodore-basic)
-- [Linear Search in Elvish](https://sampleprograms.io/projects/linear-search/elvish)
-- [Linear Search in Euphoria](https://sampleprograms.io/projects/linear-search/euphoria)
-- [Linear Search in F#](https://sampleprograms.io/projects/linear-search/f-sharp)
-- [Linear Search in Fortran](https://sampleprograms.io/projects/linear-search/fortran)
-- [Linear Search in Go](https://sampleprograms.io/projects/linear-search/go)
-- [Linear Search in Haskell](https://sampleprograms.io/projects/linear-search/haskell)
-- [Linear Search in Java](https://sampleprograms.io/projects/linear-search/java)
-- [Linear Search in JavaScript](https://sampleprograms.io/projects/linear-search/javascript)
-- [Linear Search in Kotlin](https://sampleprograms.io/projects/linear-search/kotlin)
-- [Linear Search in Lua](https://sampleprograms.io/projects/linear-search/lua)
-- [Linear Search in Mathematica](https://sampleprograms.io/projects/linear-search/mathematica)
-- [Linear Search in OCaml](https://sampleprograms.io/projects/linear-search/ocaml)
-- [Linear Search in PHP](https://sampleprograms.io/projects/linear-search/php)
-- [Linear Search in Pascal](https://sampleprograms.io/projects/linear-search/pascal)
-- [Linear Search in Perl](https://sampleprograms.io/projects/linear-search/perl)
-- [Linear Search in PowerShell](https://sampleprograms.io/projects/linear-search/powershell)
-- [Linear Search in Python](https://sampleprograms.io/projects/linear-search/python)
-- [Linear Search in Ruby](https://sampleprograms.io/projects/linear-search/ruby)
-- [Linear Search in Rust](https://sampleprograms.io/projects/linear-search/rust)
-- [Linear Search in Scala](https://sampleprograms.io/projects/linear-search/scala)
-- [Linear Search in Swift](https://sampleprograms.io/projects/linear-search/swift)
-- [Linear Search in Tcl](https://sampleprograms.io/projects/linear-search/tcl)
-- [Linear Search in TypeScript](https://sampleprograms.io/projects/linear-search/typescript)
-- [Linear Search in Visual Basic](https://sampleprograms.io/projects/linear-search/visual-basic)
-- [Linear Search in m4](https://sampleprograms.io/projects/linear-search/m4)
+- [Linear Search in ALGOL 60](/projects/linear-search/algol60)
+- [Linear Search in ALGOL 68](/projects/linear-search/algol68)
+- [Linear Search in AWK](/projects/linear-search/awk)
+- [Linear Search in Ada](/projects/linear-search/ada)
+- [Linear Search in Beef](/projects/linear-search/beef)
+- [Linear Search in C](/projects/linear-search/c)
+- [Linear Search in C#](/projects/linear-search/c-sharp)
+- [Linear Search in C++](/projects/linear-search/c-plus-plus)
+- [Linear Search in COBOL](/projects/linear-search/cobol)
+- [Linear Search in Commodore BASIC](/projects/linear-search/commodore-basic)
+- [Linear Search in Elvish](/projects/linear-search/elvish)
+- [Linear Search in Euphoria](/projects/linear-search/euphoria)
+- [Linear Search in F#](/projects/linear-search/f-sharp)
+- [Linear Search in Fortran](/projects/linear-search/fortran)
+- [Linear Search in Go](/projects/linear-search/go)
+- [Linear Search in Haskell](/projects/linear-search/haskell)
+- [Linear Search in Java](/projects/linear-search/java)
+- [Linear Search in JavaScript](/projects/linear-search/javascript)
+- [Linear Search in Kotlin](/projects/linear-search/kotlin)
+- [Linear Search in Lua](/projects/linear-search/lua)
+- [Linear Search in Mathematica](/projects/linear-search/mathematica)
+- [Linear Search in OCaml](/projects/linear-search/ocaml)
+- [Linear Search in PHP](/projects/linear-search/php)
+- [Linear Search in Pascal](/projects/linear-search/pascal)
+- [Linear Search in Perl](/projects/linear-search/perl)
+- [Linear Search in PowerShell](/projects/linear-search/powershell)
+- [Linear Search in Python](/projects/linear-search/python)
+- [Linear Search in Ruby](/projects/linear-search/ruby)
+- [Linear Search in Rust](/projects/linear-search/rust)
+- [Linear Search in Scala](/projects/linear-search/scala)
+- [Linear Search in Swift](/projects/linear-search/swift)
+- [Linear Search in Tcl](/projects/linear-search/tcl)
+- [Linear Search in TypeScript](/projects/linear-search/typescript)
+- [Linear Search in Visual Basic](/projects/linear-search/visual-basic)
+- [Linear Search in m4](/projects/linear-search/m4)
 
 ***
 
@@ -173,13 +173,13 @@ There are 35 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Josephus Problem)](https://sampleprograms.io/projects/josephus-problem)
+[<-- Previous Project (Josephus Problem)](/projects/josephus-problem)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Longest Common Subsequence) -->](https://sampleprograms.io/projects/longest-common-subsequence)
+[Next Project (Longest Common Subsequence) -->](/projects/longest-common-subsequence)
 
 </div>
 

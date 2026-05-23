@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Frege](https://sampleprograms.io/projects/baklava/frege)
-- [Hello World in Frege](https://sampleprograms.io/projects/hello-world/frege)
+- [Baklava in Frege](/projects/baklava/frege)
+- [Hello World in Frege](/projects/hello-world/frege)

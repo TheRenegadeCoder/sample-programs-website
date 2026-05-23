@@ -26,7 +26,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Duplicate Character Counter](/projects/duplicate-character-counter) in [C++](/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -73,7 +73,7 @@ int main(int argc, char* argv[]) {
 
 {% endraw %}
 
-Duplicate Character Counter in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+Duplicate Character Counter in [C++](/languages/c-plus-plus) was written by:
 
 - Jeremy Grifski
 - Vipin Yadav

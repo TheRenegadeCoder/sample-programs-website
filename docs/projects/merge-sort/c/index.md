@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](/projects/merge-sort) in [C](/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -188,7 +188,7 @@ void merge_array(long *arr_sort, int a, int b, int c, int d)
 
 {% endraw %}
 
-Merge Sort in [C](https://sampleprograms.io/languages/c) was written by:
+Merge Sort in [C](/languages/c) was written by:
 
 - panda311
 - Ștefan-Iulian Alecu

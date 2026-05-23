@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [CoffeeScript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](/projects/capitalize) in [CoffeeScript](/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -54,7 +54,7 @@ console.log main()
 
 {% endraw %}
 
-Capitalize in [CoffeeScript](https://sampleprograms.io/languages/coffeescript) was written by:
+Capitalize in [CoffeeScript](/languages/coffeescript) was written by:
 
 - Brendan V
 

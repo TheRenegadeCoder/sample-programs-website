@@ -86,42 +86,42 @@ Usage: please input a non-negative integer
 
 There are 36 articles:
 
-- [Palindromic Number in ALGOL 60](https://sampleprograms.io/projects/palindromic-number/algol60)
-- [Palindromic Number in ALGOL 68](https://sampleprograms.io/projects/palindromic-number/algol68)
-- [Palindromic Number in AWK](https://sampleprograms.io/projects/palindromic-number/awk)
-- [Palindromic Number in Beef](https://sampleprograms.io/projects/palindromic-number/beef)
-- [Palindromic Number in C](https://sampleprograms.io/projects/palindromic-number/c)
-- [Palindromic Number in C#](https://sampleprograms.io/projects/palindromic-number/c-sharp)
-- [Palindromic Number in C++](https://sampleprograms.io/projects/palindromic-number/c-plus-plus)
-- [Palindromic Number in COBOL](https://sampleprograms.io/projects/palindromic-number/cobol)
-- [Palindromic Number in Commodore BASIC](https://sampleprograms.io/projects/palindromic-number/commodore-basic)
-- [Palindromic Number in Dart](https://sampleprograms.io/projects/palindromic-number/dart)
-- [Palindromic Number in Elvish](https://sampleprograms.io/projects/palindromic-number/elvish)
-- [Palindromic Number in Euphoria](https://sampleprograms.io/projects/palindromic-number/euphoria)
-- [Palindromic Number in F#](https://sampleprograms.io/projects/palindromic-number/f-sharp)
-- [Palindromic Number in Go](https://sampleprograms.io/projects/palindromic-number/go)
-- [Palindromic Number in Haskell](https://sampleprograms.io/projects/palindromic-number/haskell)
-- [Palindromic Number in Java](https://sampleprograms.io/projects/palindromic-number/java)
-- [Palindromic Number in JavaScript](https://sampleprograms.io/projects/palindromic-number/javascript)
-- [Palindromic Number in Julia](https://sampleprograms.io/projects/palindromic-number/julia)
-- [Palindromic Number in Kotlin](https://sampleprograms.io/projects/palindromic-number/kotlin)
-- [Palindromic Number in Mathematica](https://sampleprograms.io/projects/palindromic-number/mathematica)
-- [Palindromic Number in OCaml](https://sampleprograms.io/projects/palindromic-number/ocaml)
-- [Palindromic Number in PHP](https://sampleprograms.io/projects/palindromic-number/php)
-- [Palindromic Number in Pascal](https://sampleprograms.io/projects/palindromic-number/pascal)
-- [Palindromic Number in Perl](https://sampleprograms.io/projects/palindromic-number/perl)
-- [Palindromic Number in PowerShell](https://sampleprograms.io/projects/palindromic-number/powershell)
-- [Palindromic Number in Python](https://sampleprograms.io/projects/palindromic-number/python)
-- [Palindromic Number in R](https://sampleprograms.io/projects/palindromic-number/r)
-- [Palindromic Number in Ruby](https://sampleprograms.io/projects/palindromic-number/ruby)
-- [Palindromic Number in Rust](https://sampleprograms.io/projects/palindromic-number/rust)
-- [Palindromic Number in Swift](https://sampleprograms.io/projects/palindromic-number/swift)
-- [Palindromic Number in TI-BASIC](https://sampleprograms.io/projects/palindromic-number/ti-basic)
-- [Palindromic Number in Tcl](https://sampleprograms.io/projects/palindromic-number/tcl)
-- [Palindromic Number in TypeScript](https://sampleprograms.io/projects/palindromic-number/typescript)
-- [Palindromic Number in Visual Basic](https://sampleprograms.io/projects/palindromic-number/visual-basic)
-- [Palindromic Number in Wren](https://sampleprograms.io/projects/palindromic-number/wren)
-- [Palindromic Number in m4](https://sampleprograms.io/projects/palindromic-number/m4)
+- [Palindromic Number in ALGOL 60](/projects/palindromic-number/algol60)
+- [Palindromic Number in ALGOL 68](/projects/palindromic-number/algol68)
+- [Palindromic Number in AWK](/projects/palindromic-number/awk)
+- [Palindromic Number in Beef](/projects/palindromic-number/beef)
+- [Palindromic Number in C](/projects/palindromic-number/c)
+- [Palindromic Number in C#](/projects/palindromic-number/c-sharp)
+- [Palindromic Number in C++](/projects/palindromic-number/c-plus-plus)
+- [Palindromic Number in COBOL](/projects/palindromic-number/cobol)
+- [Palindromic Number in Commodore BASIC](/projects/palindromic-number/commodore-basic)
+- [Palindromic Number in Dart](/projects/palindromic-number/dart)
+- [Palindromic Number in Elvish](/projects/palindromic-number/elvish)
+- [Palindromic Number in Euphoria](/projects/palindromic-number/euphoria)
+- [Palindromic Number in F#](/projects/palindromic-number/f-sharp)
+- [Palindromic Number in Go](/projects/palindromic-number/go)
+- [Palindromic Number in Haskell](/projects/palindromic-number/haskell)
+- [Palindromic Number in Java](/projects/palindromic-number/java)
+- [Palindromic Number in JavaScript](/projects/palindromic-number/javascript)
+- [Palindromic Number in Julia](/projects/palindromic-number/julia)
+- [Palindromic Number in Kotlin](/projects/palindromic-number/kotlin)
+- [Palindromic Number in Mathematica](/projects/palindromic-number/mathematica)
+- [Palindromic Number in OCaml](/projects/palindromic-number/ocaml)
+- [Palindromic Number in PHP](/projects/palindromic-number/php)
+- [Palindromic Number in Pascal](/projects/palindromic-number/pascal)
+- [Palindromic Number in Perl](/projects/palindromic-number/perl)
+- [Palindromic Number in PowerShell](/projects/palindromic-number/powershell)
+- [Palindromic Number in Python](/projects/palindromic-number/python)
+- [Palindromic Number in R](/projects/palindromic-number/r)
+- [Palindromic Number in Ruby](/projects/palindromic-number/ruby)
+- [Palindromic Number in Rust](/projects/palindromic-number/rust)
+- [Palindromic Number in Swift](/projects/palindromic-number/swift)
+- [Palindromic Number in TI-BASIC](/projects/palindromic-number/ti-basic)
+- [Palindromic Number in Tcl](/projects/palindromic-number/tcl)
+- [Palindromic Number in TypeScript](/projects/palindromic-number/typescript)
+- [Palindromic Number in Visual Basic](/projects/palindromic-number/visual-basic)
+- [Palindromic Number in Wren](/projects/palindromic-number/wren)
+- [Palindromic Number in m4](/projects/palindromic-number/m4)
 
 ***
 
@@ -129,13 +129,13 @@ There are 36 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Minimum Spanning Tree)](https://sampleprograms.io/projects/minimum-spanning-tree)
+[<-- Previous Project (Minimum Spanning Tree)](/projects/minimum-spanning-tree)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Prime Number) -->](https://sampleprograms.io/projects/prime-number)
+[Next Project (Prime Number) -->](/projects/prime-number)
 
 </div>
 

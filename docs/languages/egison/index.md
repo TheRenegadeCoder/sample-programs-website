@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Egison](https://sampleprograms.io/projects/baklava/egison)
-- [Hello World in Egison](https://sampleprograms.io/projects/hello-world/egison)
+- [Baklava in Egison](/projects/baklava/egison)
+- [Hello World in Egison](/projects/hello-world/egison)

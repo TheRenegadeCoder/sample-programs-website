@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Base64 Encode Decode](https://sampleprograms.io/projects/base64-encode-decode) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Base64 Encode Decode](/projects/base64-encode-decode) in [C](/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -252,7 +252,7 @@ static unsigned char *base64_decode(const unsigned char *input, size_t length,
 
 {% endraw %}
 
-Base64 Encode Decode in [C](https://sampleprograms.io/languages/c) was written by:
+Base64 Encode Decode in [C](/languages/c) was written by:
 
 - Ștefan-Iulian Alecu
 

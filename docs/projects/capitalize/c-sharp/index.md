@@ -26,7 +26,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [C#](https://sampleprograms.io/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](/projects/capitalize) in [C#](/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -49,7 +49,7 @@ Console.WriteLine(input);
 
 {% endraw %}
 
-Capitalize in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
+Capitalize in [C#](/languages/c-sharp) was written by:
 
 - Jeremy Grifski
 - Renato Ramos Nascimento

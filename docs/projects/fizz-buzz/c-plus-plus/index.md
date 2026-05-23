@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [C++](/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -57,7 +57,7 @@ int main() {
 
 {% endraw %}
 
-Fizz Buzz in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+Fizz Buzz in [C++](/languages/c-plus-plus) was written by:
 
 - Ford Smith
 - Ștefan-Iulian Alecu

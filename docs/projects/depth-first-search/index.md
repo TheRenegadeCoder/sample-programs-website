@@ -128,34 +128,34 @@ Usage: please provide a tree in an adjacency matrix form ("0, 1, 1, 0, 0, 1, 0, 
 
 There are 28 articles:
 
-- [Depth First Search in ALGOL 60](https://sampleprograms.io/projects/depth-first-search/algol60)
-- [Depth First Search in ALGOL 68](https://sampleprograms.io/projects/depth-first-search/algol68)
-- [Depth First Search in AWK](https://sampleprograms.io/projects/depth-first-search/awk)
-- [Depth First Search in Ada](https://sampleprograms.io/projects/depth-first-search/ada)
-- [Depth First Search in Beef](https://sampleprograms.io/projects/depth-first-search/beef)
-- [Depth First Search in C](https://sampleprograms.io/projects/depth-first-search/c)
-- [Depth First Search in C#](https://sampleprograms.io/projects/depth-first-search/c-sharp)
-- [Depth First Search in C++](https://sampleprograms.io/projects/depth-first-search/c-plus-plus)
-- [Depth First Search in COBOL](https://sampleprograms.io/projects/depth-first-search/cobol)
-- [Depth First Search in Commodore BASIC](https://sampleprograms.io/projects/depth-first-search/commodore-basic)
-- [Depth First Search in Euphoria](https://sampleprograms.io/projects/depth-first-search/euphoria)
-- [Depth First Search in F#](https://sampleprograms.io/projects/depth-first-search/f-sharp)
-- [Depth First Search in Go](https://sampleprograms.io/projects/depth-first-search/go)
-- [Depth First Search in Haskell](https://sampleprograms.io/projects/depth-first-search/haskell)
-- [Depth First Search in Java](https://sampleprograms.io/projects/depth-first-search/java)
-- [Depth First Search in JavaScript](https://sampleprograms.io/projects/depth-first-search/javascript)
-- [Depth First Search in Mathematica](https://sampleprograms.io/projects/depth-first-search/mathematica)
-- [Depth First Search in PHP](https://sampleprograms.io/projects/depth-first-search/php)
-- [Depth First Search in Pascal](https://sampleprograms.io/projects/depth-first-search/pascal)
-- [Depth First Search in PowerShell](https://sampleprograms.io/projects/depth-first-search/powershell)
-- [Depth First Search in Python](https://sampleprograms.io/projects/depth-first-search/python)
-- [Depth First Search in Ruby](https://sampleprograms.io/projects/depth-first-search/ruby)
-- [Depth First Search in Rust](https://sampleprograms.io/projects/depth-first-search/rust)
-- [Depth First Search in Swift](https://sampleprograms.io/projects/depth-first-search/swift)
-- [Depth First Search in Tcl](https://sampleprograms.io/projects/depth-first-search/tcl)
-- [Depth First Search in TypeScript](https://sampleprograms.io/projects/depth-first-search/typescript)
-- [Depth First Search in Visual Basic](https://sampleprograms.io/projects/depth-first-search/visual-basic)
-- [Depth First Search in m4](https://sampleprograms.io/projects/depth-first-search/m4)
+- [Depth First Search in ALGOL 60](/projects/depth-first-search/algol60)
+- [Depth First Search in ALGOL 68](/projects/depth-first-search/algol68)
+- [Depth First Search in AWK](/projects/depth-first-search/awk)
+- [Depth First Search in Ada](/projects/depth-first-search/ada)
+- [Depth First Search in Beef](/projects/depth-first-search/beef)
+- [Depth First Search in C](/projects/depth-first-search/c)
+- [Depth First Search in C#](/projects/depth-first-search/c-sharp)
+- [Depth First Search in C++](/projects/depth-first-search/c-plus-plus)
+- [Depth First Search in COBOL](/projects/depth-first-search/cobol)
+- [Depth First Search in Commodore BASIC](/projects/depth-first-search/commodore-basic)
+- [Depth First Search in Euphoria](/projects/depth-first-search/euphoria)
+- [Depth First Search in F#](/projects/depth-first-search/f-sharp)
+- [Depth First Search in Go](/projects/depth-first-search/go)
+- [Depth First Search in Haskell](/projects/depth-first-search/haskell)
+- [Depth First Search in Java](/projects/depth-first-search/java)
+- [Depth First Search in JavaScript](/projects/depth-first-search/javascript)
+- [Depth First Search in Mathematica](/projects/depth-first-search/mathematica)
+- [Depth First Search in PHP](/projects/depth-first-search/php)
+- [Depth First Search in Pascal](/projects/depth-first-search/pascal)
+- [Depth First Search in PowerShell](/projects/depth-first-search/powershell)
+- [Depth First Search in Python](/projects/depth-first-search/python)
+- [Depth First Search in Ruby](/projects/depth-first-search/ruby)
+- [Depth First Search in Rust](/projects/depth-first-search/rust)
+- [Depth First Search in Swift](/projects/depth-first-search/swift)
+- [Depth First Search in Tcl](/projects/depth-first-search/tcl)
+- [Depth First Search in TypeScript](/projects/depth-first-search/typescript)
+- [Depth First Search in Visual Basic](/projects/depth-first-search/visual-basic)
+- [Depth First Search in m4](/projects/depth-first-search/m4)
 
 ***
 
@@ -163,13 +163,13 @@ There are 28 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Convex Hull)](https://sampleprograms.io/projects/convex-hull)
+[<-- Previous Project (Convex Hull)](/projects/convex-hull)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Dijkstra) -->](https://sampleprograms.io/projects/dijkstra)
+[Next Project (Dijkstra) -->](/projects/dijkstra)
 
 </div>
 

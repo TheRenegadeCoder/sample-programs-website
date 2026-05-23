@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Eta](https://sampleprograms.io/languages/eta) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Eta](/languages/eta) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -50,7 +50,7 @@ main = putStr (baklava "" 20)
 
 {% endraw %}
 
-Baklava in [Eta](https://sampleprograms.io/languages/eta) was written by:
+Baklava in [Eta](/languages/eta) was written by:
 
 - rzuckerm
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Pascal](https://sampleprograms.io/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Pascal](/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -50,7 +50,7 @@ end.
 
 {% endraw %}
 
-Fizz Buzz in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
+Fizz Buzz in [Pascal](/languages/pascal) was written by:
 
 - Eduardo Rodríguez
 

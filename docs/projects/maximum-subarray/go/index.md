@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Maximum Subarray](/projects/maximum-subarray) in [Go](/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -82,7 +82,7 @@ func main() {
 
 {% endraw %}
 
-Maximum Subarray in [Go](https://sampleprograms.io/languages/go) was written by:
+Maximum Subarray in [Go](/languages/go) was written by:
 
 - Jessica Hebert
 

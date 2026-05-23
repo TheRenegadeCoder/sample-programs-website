@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [TypeScript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Dijkstra](/projects/dijkstra) in [TypeScript](/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -166,7 +166,7 @@ main();
 
 {% endraw %}
 
-Dijkstra in [TypeScript](https://sampleprograms.io/languages/typescript) was written by:
+Dijkstra in [TypeScript](/languages/typescript) was written by:
 
 - Ștefan-Iulian Alecu
 

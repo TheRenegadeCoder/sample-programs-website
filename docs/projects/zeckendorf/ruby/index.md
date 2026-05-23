@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Zeckendorf](https://sampleprograms.io/projects/zeckendorf) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Zeckendorf](/projects/zeckendorf) in [Ruby](/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -88,7 +88,7 @@ puts zeckendorf(n).join(", ")
 
 {% endraw %}
 
-Zeckendorf in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Zeckendorf in [Ruby](/languages/ruby) was written by:
 
 - Ștefan-Iulian Alecu
 

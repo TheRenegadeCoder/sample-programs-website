@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Pony](https://sampleprograms.io/projects/baklava/pony)
-- [Fizz Buzz in Pony](https://sampleprograms.io/projects/fizz-buzz/pony)
-- [Hello World in Pony](https://sampleprograms.io/projects/hello-world/pony)
+- [Baklava in Pony](/projects/baklava/pony)
+- [Fizz Buzz in Pony](/projects/fizz-buzz/pony)
+- [Hello World in Pony](/projects/hello-world/pony)

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Bracmat](https://sampleprograms.io/languages/bracmat) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Bracmat](/languages/bracmat) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -56,7 +56,7 @@ Resources:
 
 {% endraw %}
 
-Baklava in [Bracmat](https://sampleprograms.io/languages/bracmat) was written by:
+Baklava in [Bracmat](/languages/bracmat) was written by:
 
 - rzuckerm
 

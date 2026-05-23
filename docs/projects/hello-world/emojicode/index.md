@@ -26,7 +26,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Emojicode](https://sampleprograms.io/languages/emojicode) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Emojicode](/languages/emojicode) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -41,7 +41,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 {% endraw %}
 
-Hello World in [Emojicode](https://sampleprograms.io/languages/emojicode) was written by:
+Hello World in [Emojicode](/languages/emojicode) was written by:
 
 - Jeremy Grifski
 - rzuckerm

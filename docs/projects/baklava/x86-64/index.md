@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [x86-64](https://sampleprograms.io/languages/x86-64) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [x86-64](/languages/x86-64) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -148,7 +148,7 @@ end:
 
 {% endraw %}
 
-Baklava in [x86-64](https://sampleprograms.io/languages/x86-64) was written by:
+Baklava in [x86-64](/languages/x86-64) was written by:
 
 - alope107
 

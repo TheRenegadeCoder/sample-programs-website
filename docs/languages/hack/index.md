@@ -90,5 +90,5 @@ Once again, I think I've explored a topic a bit too deeply, so I'll stop there.
 
 There are 2 articles:
 
-- [Baklava in Hack](https://sampleprograms.io/projects/baklava/hack)
-- [Hello World in Hack](https://sampleprograms.io/projects/hello-world/hack)
+- [Baklava in Hack](/projects/baklava/hack)
+- [Hello World in Hack](/projects/hello-world/hack)

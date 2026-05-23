@@ -84,11 +84,11 @@ we have to get to our implementation of Hello World in Elixir.
 
 There are 8 articles:
 
-- [Baklava in Elixir](https://sampleprograms.io/projects/baklava/elixir)
-- [Bubble Sort in Elixir](https://sampleprograms.io/projects/bubble-sort/elixir)
-- [Capitalize in Elixir](https://sampleprograms.io/projects/capitalize/elixir)
-- [Even Odd in Elixir](https://sampleprograms.io/projects/even-odd/elixir)
-- [Factorial in Elixir](https://sampleprograms.io/projects/factorial/elixir)
-- [Fizz Buzz in Elixir](https://sampleprograms.io/projects/fizz-buzz/elixir)
-- [Hello World in Elixir](https://sampleprograms.io/projects/hello-world/elixir)
-- [Longest Common Subsequence in Elixir](https://sampleprograms.io/projects/longest-common-subsequence/elixir)
+- [Baklava in Elixir](/projects/baklava/elixir)
+- [Bubble Sort in Elixir](/projects/bubble-sort/elixir)
+- [Capitalize in Elixir](/projects/capitalize/elixir)
+- [Even Odd in Elixir](/projects/even-odd/elixir)
+- [Factorial in Elixir](/projects/factorial/elixir)
+- [Fizz Buzz in Elixir](/projects/fizz-buzz/elixir)
+- [Hello World in Elixir](/projects/hello-world/elixir)
+- [Longest Common Subsequence in Elixir](/projects/longest-common-subsequence/elixir)

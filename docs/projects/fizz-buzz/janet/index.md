@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Janet](https://sampleprograms.io/languages/janet) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Janet](/languages/janet) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -42,7 +42,7 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Jan
 
 {% endraw %}
 
-Fizz Buzz in [Janet](https://sampleprograms.io/languages/janet) was written by:
+Fizz Buzz in [Janet](/languages/janet) was written by:
 
 - Zia
 

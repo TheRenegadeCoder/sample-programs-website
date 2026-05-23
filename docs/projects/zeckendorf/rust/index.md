@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Zeckendorf](https://sampleprograms.io/projects/zeckendorf) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Zeckendorf](/projects/zeckendorf) in [Rust](/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -105,7 +105,7 @@ fn main() {
 
 {% endraw %}
 
-Zeckendorf in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Zeckendorf in [Rust](/languages/rust) was written by:
 
 - rzuckerm
 

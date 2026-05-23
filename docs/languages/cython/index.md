@@ -30,7 +30,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 4 articles:
 
-- [Baklava in Cython](https://sampleprograms.io/projects/baklava/cython)
-- [Fizz Buzz in Cython](https://sampleprograms.io/projects/fizz-buzz/cython)
-- [Hello World in Cython](https://sampleprograms.io/projects/hello-world/cython)
-- [Quine in Cython](https://sampleprograms.io/projects/quine/cython)
+- [Baklava in Cython](/projects/baklava/cython)
+- [Fizz Buzz in Cython](/projects/fizz-buzz/cython)
+- [Hello World in Cython](/projects/hello-world/cython)
+- [Quine in Cython](/projects/quine/cython)

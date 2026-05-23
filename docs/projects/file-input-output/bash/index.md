@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Input Output](/projects/file-input-output) in [Bash](/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -48,7 +48,7 @@ read_file
 
 {% endraw %}
 
-File Input Output in [Bash](https://sampleprograms.io/languages/bash) was written by:
+File Input Output in [Bash](/languages/bash) was written by:
 
 - Parker Johansen
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [PHP](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Maximum Subarray](/projects/maximum-subarray) in [PHP](/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -123,7 +123,7 @@ echo "$max_value\n";
 
 {% endraw %}
 
-Maximum Subarray in [PHP](https://sampleprograms.io/languages/php) was written by:
+Maximum Subarray in [PHP](/languages/php) was written by:
 
 - rzuckerm
 

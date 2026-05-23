@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Wu](https://sampleprograms.io/languages/wu) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Wu](/languages/wu) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -52,7 +52,7 @@ while i <= 10 {
 
 {% endraw %}
 
-Baklava in [Wu](https://sampleprograms.io/languages/wu) was written by:
+Baklava in [Wu](/languages/wu) was written by:
 
 - rzuckerm
 

@@ -26,7 +26,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Never](https://sampleprograms.io/languages/never) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](/projects/reverse-string) in [Never](/languages/never) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -50,7 +50,7 @@ func main(argv[argc]: string) -> int
 
 {% endraw %}
 
-Reverse String in [Never](https://sampleprograms.io/languages/never) was written by:
+Reverse String in [Never](/languages/never) was written by:
 
 - Ron Zuckerman
 - rzuckerm

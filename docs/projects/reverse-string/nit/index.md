@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Nit](https://sampleprograms.io/languages/nit) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](/projects/reverse-string) in [Nit](/languages/nit) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -45,7 +45,7 @@ end
 
 {% endraw %}
 
-Reverse String in [Nit](https://sampleprograms.io/languages/nit) was written by:
+Reverse String in [Nit](/languages/nit) was written by:
 
 - liliann19
 

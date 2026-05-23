@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](/projects/job-sequencing) in [Java](/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -131,7 +131,7 @@ public class JobSequencing {
 
 {% endraw %}
 
-Job Sequencing in [Java](https://sampleprograms.io/languages/java) was written by:
+Job Sequencing in [Java](/languages/java) was written by:
 
 - JaneLiu
 - Jeremy Grifski

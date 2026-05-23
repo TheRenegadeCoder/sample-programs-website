@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Shen](https://sampleprograms.io/projects/baklava/shen)
-- [Hello World in Shen](https://sampleprograms.io/projects/hello-world/shen)
+- [Baklava in Shen](/projects/baklava/shen)
+- [Hello World in Shen](/projects/hello-world/shen)

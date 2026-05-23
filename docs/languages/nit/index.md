@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Nit](https://sampleprograms.io/projects/baklava/nit)
-- [Hello World in Nit](https://sampleprograms.io/projects/hello-world/nit)
-- [Reverse String in Nit](https://sampleprograms.io/projects/reverse-string/nit)
+- [Baklava in Nit](/projects/baklava/nit)
+- [Hello World in Nit](/projects/hello-world/nit)
+- [Reverse String in Nit](/projects/reverse-string/nit)

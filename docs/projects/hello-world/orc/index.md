@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Orc](https://sampleprograms.io/languages/orc) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Orc](/languages/orc) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -38,7 +38,7 @@ stop
 
 {% endraw %}
 
-Hello World in [Orc](https://sampleprograms.io/languages/orc) was written by:
+Hello World in [Orc](/languages/orc) was written by:
 
 - Bassem Mohamed
 

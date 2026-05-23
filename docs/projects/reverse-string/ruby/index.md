@@ -26,7 +26,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](/projects/reverse-string) in [Ruby](/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -39,7 +39,7 @@ puts ARGV.first.reverse if ARGV.first
 
 {% endraw %}
 
-Reverse String in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Reverse String in [Ruby](/languages/ruby) was written by:
 
 - Ștefan-Iulian Alecu
 

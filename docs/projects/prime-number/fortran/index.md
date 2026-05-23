@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Fortran](https://sampleprograms.io/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](/projects/prime-number) in [Fortran](/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -105,7 +105,7 @@ end program prime_check
 
 {% endraw %}
 
-Prime Number in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
+Prime Number in [Fortran](/languages/fortran) was written by:
 
 - Mallikarjuna S J
 - Ștefan-Iulian Alecu

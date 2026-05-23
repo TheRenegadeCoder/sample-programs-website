@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Groovy](https://sampleprograms.io/languages/groovy) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Groovy](/languages/groovy) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ println "Hello, World!"
 
 {% endraw %}
 
-Hello World in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
+Hello World in [Groovy](/languages/groovy) was written by:
 
 - Jeremy Griffith
 

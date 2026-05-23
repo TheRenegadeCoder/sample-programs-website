@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Fortran](https://sampleprograms.io/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](/projects/fibonacci) in [Fortran](/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -80,7 +80,7 @@ end program fibonacci
 
 {% endraw %}
 
-Fibonacci in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
+Fibonacci in [Fortran](/languages/fortran) was written by:
 
 - Butenkite
 - Ștefan-Iulian Alecu

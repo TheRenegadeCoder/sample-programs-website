@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Kitten](https://sampleprograms.io/languages/kitten) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Kitten](/languages/kitten) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -59,7 +59,7 @@ define baklava (Int32, Int32 -> +IO):
 
 {% endraw %}
 
-Baklava in [Kitten](https://sampleprograms.io/languages/kitten) was written by:
+Baklava in [Kitten](/languages/kitten) was written by:
 
 - rzuckerm
 

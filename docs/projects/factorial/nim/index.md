@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Nim](https://sampleprograms.io/languages/nim) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](/projects/factorial) in [Nim](/languages/nim) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -78,7 +78,7 @@ block:
 
 {% endraw %}
 
-Factorial in [Nim](https://sampleprograms.io/languages/nim) was written by:
+Factorial in [Nim](/languages/nim) was written by:
 
 - allenres
 

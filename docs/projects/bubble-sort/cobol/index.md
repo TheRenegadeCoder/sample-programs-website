@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [COBOL](https://sampleprograms.io/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](/projects/bubble-sort) in [COBOL](/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -152,7 +152,7 @@ show-usage.
 
 {% endraw %}
 
-Bubble Sort in [COBOL](https://sampleprograms.io/languages/cobol) was written by:
+Bubble Sort in [COBOL](/languages/cobol) was written by:
 
 - Ștefan-Iulian Alecu
 

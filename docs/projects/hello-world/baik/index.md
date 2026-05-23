@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [BAIK](https://sampleprograms.io/languages/baik) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [BAIK](/languages/baik) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ tulis "Hello, World!\n"
 
 {% endraw %}
 
-Hello World in [BAIK](https://sampleprograms.io/languages/baik) was written by:
+Hello World in [BAIK](/languages/baik) was written by:
 
 - rzuckerm
 

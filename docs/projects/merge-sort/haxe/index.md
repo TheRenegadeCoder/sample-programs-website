@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Haxe](https://sampleprograms.io/languages/haxe) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](/projects/merge-sort) in [Haxe](/languages/haxe) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -114,7 +114,7 @@ class MergeSort {
 
 {% endraw %}
 
-Merge Sort in [Haxe](https://sampleprograms.io/languages/haxe) was written by:
+Merge Sort in [Haxe](/languages/haxe) was written by:
 
 - Fredrick Karau
 

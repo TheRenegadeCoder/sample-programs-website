@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [COBOL](https://sampleprograms.io/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](/projects/longest-word) in [COBOL](/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -99,7 +99,7 @@ show-usage.
 
 {% endraw %}
 
-Longest Word in [COBOL](https://sampleprograms.io/languages/cobol) was written by:
+Longest Word in [COBOL](/languages/cobol) was written by:
 
 - Ștefan-Iulian Alecu
 

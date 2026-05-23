@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Dijkstra](/projects/dijkstra) in [C++](/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -167,7 +167,7 @@ int main(int argc, char* argv[]) {
 
 {% endraw %}
 
-Dijkstra in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+Dijkstra in [C++](/languages/c-plus-plus) was written by:
 
 - Ajay Maheshwari
 - Ștefan-Iulian Alecu

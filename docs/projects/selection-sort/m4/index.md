@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [m4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Selection Sort](/projects/selection-sort) in [m4](/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -129,7 +129,7 @@ show_int_list(`arr')
 
 {% endraw %}
 
-Selection Sort in [m4](https://sampleprograms.io/languages/m4) was written by:
+Selection Sort in [m4](/languages/m4) was written by:
 
 - rzuckerm
 

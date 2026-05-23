@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Lua](/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -51,7 +51,7 @@ diamondStarPattern(11)
 
 {% endraw %}
 
-Baklava in [Lua](https://sampleprograms.io/languages/lua) was written by:
+Baklava in [Lua](/languages/lua) was written by:
 
 - bhaskar_datta
 - Jeremy Grifski

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Chapel](https://sampleprograms.io/languages/chapel) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Chapel](/languages/chapel) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ writeln("Hello, World!");
 
 {% endraw %}
 
-Hello World in [Chapel](https://sampleprograms.io/languages/chapel) was written by:
+Hello World in [Chapel](/languages/chapel) was written by:
 
 - Jeremy Grifski
 

@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Forth](https://sampleprograms.io/projects/baklava/forth)
-- [Fizz Buzz in Forth](https://sampleprograms.io/projects/fizz-buzz/forth)
-- [Hello World in Forth](https://sampleprograms.io/projects/hello-world/forth)
+- [Baklava in Forth](/projects/baklava/forth)
+- [Fizz Buzz in Forth](/projects/fizz-buzz/forth)
+- [Hello World in Forth](/projects/hello-world/forth)

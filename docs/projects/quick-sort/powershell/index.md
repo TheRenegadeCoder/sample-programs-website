@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quick Sort](/projects/quick-sort) in [PowerShell](/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -103,7 +103,7 @@ Write-Output ($values -join ', ')
 
 {% endraw %}
 
-Quick Sort in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
+Quick Sort in [PowerShell](/languages/powershell) was written by:
 
 - rzuckerm
 

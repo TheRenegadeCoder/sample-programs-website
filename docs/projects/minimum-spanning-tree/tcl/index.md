@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [Tcl](https://sampleprograms.io/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Minimum Spanning Tree](/projects/minimum-spanning-tree) in [Tcl](/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -108,7 +108,7 @@ try {
 
 {% endraw %}
 
-Minimum Spanning Tree in [Tcl](https://sampleprograms.io/languages/tcl) was written by:
+Minimum Spanning Tree in [Tcl](/languages/tcl) was written by:
 
 - Ștefan-Iulian Alecu
 

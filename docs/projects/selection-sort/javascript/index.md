@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Selection Sort](/projects/selection-sort) in [JavaScript](/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -74,7 +74,7 @@ main(process.argv[2]);
 
 {% endraw %}
 
-Selection Sort in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
+Selection Sort in [JavaScript](/languages/javascript) was written by:
 
 - mericleac
 - rzuckerm

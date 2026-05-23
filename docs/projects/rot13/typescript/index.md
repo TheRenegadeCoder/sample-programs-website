@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [TypeScript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Rot13](/projects/rot13) in [TypeScript](/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -66,7 +66,7 @@ if (args.length !== 1) {
 
 {% endraw %}
 
-Rot13 in [TypeScript](https://sampleprograms.io/languages/typescript) was written by:
+Rot13 in [TypeScript](/languages/typescript) was written by:
 
 - Ferrel John Fernando
 

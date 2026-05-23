@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Pascal](https://sampleprograms.io/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](/projects/longest-word) in [Pascal](/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -92,7 +92,7 @@ end.
 
 {% endraw %}
 
-Longest Word in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
+Longest Word in [Pascal](/languages/pascal) was written by:
 
 - Ștefan-Iulian Alecu
 

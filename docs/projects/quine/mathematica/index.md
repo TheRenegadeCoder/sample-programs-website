@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](/projects/quine) in [Mathematica](/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -41,7 +41,7 @@ Print[ToString[#0][]] &[]
 
 {% endraw %}
 
-Quine in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Quine in [Mathematica](/languages/mathematica) was written by:
 
 - Ben Hekster
 

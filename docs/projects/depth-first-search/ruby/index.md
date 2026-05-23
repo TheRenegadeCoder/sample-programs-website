@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Depth First Search](/projects/depth-first-search) in [Ruby](/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -87,7 +87,7 @@ puts dfs(mat, vals, 0, target, {})
 
 {% endraw %}
 
-Depth First Search in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Depth First Search in [Ruby](/languages/ruby) was written by:
 
 - Ștefan-Iulian Alecu
 

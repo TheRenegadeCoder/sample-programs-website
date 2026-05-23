@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Transpose Matrix](/projects/transpose-matrix) in [C++](/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -124,7 +124,7 @@ int main(int argc, char* argv[]) {
 
 {% endraw %}
 
-Transpose Matrix in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+Transpose Matrix in [C++](/languages/c-plus-plus) was written by:
 
 - Meet Thakur
 - Ștefan-Iulian Alecu

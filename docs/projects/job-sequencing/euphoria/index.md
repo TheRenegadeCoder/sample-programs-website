@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](/projects/job-sequencing) in [Euphoria](/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -185,7 +185,7 @@ printf(STDOUT, "%d\n", total_profit)
 
 {% endraw %}
 
-Job Sequencing in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Job Sequencing in [Euphoria](/languages/euphoria) was written by:
 
 - rzuckerm
 

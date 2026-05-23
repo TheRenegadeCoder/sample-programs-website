@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Beef](https://sampleprograms.io/languages/beef) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Remove All Whitespace](/projects/remove-all-whitespace) in [Beef](/languages/beef) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -67,7 +67,7 @@ class Program
 
 {% endraw %}
 
-Remove All Whitespace in [Beef](https://sampleprograms.io/languages/beef) was written by:
+Remove All Whitespace in [Beef](/languages/beef) was written by:
 
 - rzuckerm
 

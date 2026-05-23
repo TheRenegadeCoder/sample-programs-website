@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [TI-BASIC](https://sampleprograms.io/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](/projects/even-odd) in [TI-BASIC](/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -60,7 +60,7 @@ End
 
 {% endraw %}
 
-Even Odd in [TI-BASIC](https://sampleprograms.io/languages/ti-basic) was written by:
+Even Odd in [TI-BASIC](/languages/ti-basic) was written by:
 
 - rzuckerm
 

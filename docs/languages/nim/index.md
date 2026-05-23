@@ -30,9 +30,9 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 6 articles:
 
-- [Baklava in Nim](https://sampleprograms.io/projects/baklava/nim)
-- [Factorial in Nim](https://sampleprograms.io/projects/factorial/nim)
-- [Fibonacci in Nim](https://sampleprograms.io/projects/fibonacci/nim)
-- [Fizz Buzz in Nim](https://sampleprograms.io/projects/fizz-buzz/nim)
-- [Hello World in Nim](https://sampleprograms.io/projects/hello-world/nim)
-- [Reverse String in Nim](https://sampleprograms.io/projects/reverse-string/nim)
+- [Baklava in Nim](/projects/baklava/nim)
+- [Factorial in Nim](/projects/factorial/nim)
+- [Fibonacci in Nim](/projects/fibonacci/nim)
+- [Fizz Buzz in Nim](/projects/fizz-buzz/nim)
+- [Hello World in Nim](/projects/hello-world/nim)
+- [Reverse String in Nim](/projects/reverse-string/nim)

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Phix](https://sampleprograms.io/languages/phix) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Phix](/languages/phix) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -39,7 +39,7 @@ end for
 
 {% endraw %}
 
-Baklava in [Phix](https://sampleprograms.io/languages/phix) was written by:
+Baklava in [Phix](/languages/phix) was written by:
 
 - Pete Lomax
 

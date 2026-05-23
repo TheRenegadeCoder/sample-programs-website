@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Batch](https://sampleprograms.io/languages/batch) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Batch](/languages/batch) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -56,7 +56,7 @@ ENDLOCAL
 
 {% endraw %}
 
-Fizz Buzz in [Batch](https://sampleprograms.io/languages/batch) was written by:
+Fizz Buzz in [Batch](/languages/batch) was written by:
 
 - rzuckerm
 

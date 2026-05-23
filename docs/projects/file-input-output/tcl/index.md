@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Tcl](https://sampleprograms.io/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Input Output](/projects/file-input-output) in [Tcl](/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -90,7 +90,7 @@ exit 0
 
 {% endraw %}
 
-File Input Output in [Tcl](https://sampleprograms.io/languages/tcl) was written by:
+File Input Output in [Tcl](/languages/tcl) was written by:
 
 - Ștefan-Iulian Alecu
 

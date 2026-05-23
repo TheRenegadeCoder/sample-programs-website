@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Emojicode](https://sampleprograms.io/languages/emojicode) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Emojicode](/languages/emojicode) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -65,7 +65,7 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Emojico
 
 {% endraw %}
 
-Baklava in [Emojicode](https://sampleprograms.io/languages/emojicode) was written by:
+Baklava in [Emojicode](/languages/emojicode) was written by:
 
 - rzuckerm
 

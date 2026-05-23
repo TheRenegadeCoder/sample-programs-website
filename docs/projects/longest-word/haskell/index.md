@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](/projects/longest-word) in [Haskell](/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -59,7 +59,7 @@ main = do
 
 {% endraw %}
 
-Longest Word in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+Longest Word in [Haskell](/languages/haskell) was written by:
 
 - Ricardo Mapurunga Junior
 

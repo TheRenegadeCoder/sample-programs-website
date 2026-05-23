@@ -26,7 +26,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Kotlin](/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -41,7 +41,7 @@ fun main(args: Array<String>) {
 
 {% endraw %}
 
-Hello World in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
+Hello World in [Kotlin](/languages/kotlin) was written by:
 
 - Jeremy Griffith
 

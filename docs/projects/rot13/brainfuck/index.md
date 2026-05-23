@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Brainfuck](https://sampleprograms.io/languages/brainfuck) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Rot13](/projects/rot13) in [Brainfuck](/languages/brainfuck) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -113,7 +113,7 @@ Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Brainfuck](
 
 {% endraw %}
 
-Rot13 in [Brainfuck](https://sampleprograms.io/languages/brainfuck) was written by:
+Rot13 in [Brainfuck](/languages/brainfuck) was written by:
 
 - Jatin Pandey
 

@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Kitten](https://sampleprograms.io/projects/baklava/kitten)
-- [Hello World in Kitten](https://sampleprograms.io/projects/hello-world/kitten)
+- [Baklava in Kitten](/projects/baklava/kitten)
+- [Hello World in Kitten](/projects/hello-world/kitten)

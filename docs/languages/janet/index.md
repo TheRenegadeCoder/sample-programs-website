@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Janet](https://sampleprograms.io/projects/baklava/janet)
-- [Fizz Buzz in Janet](https://sampleprograms.io/projects/fizz-buzz/janet)
-- [Hello World in Janet](https://sampleprograms.io/projects/hello-world/janet)
+- [Baklava in Janet](/projects/baklava/janet)
+- [Fizz Buzz in Janet](/projects/fizz-buzz/janet)
+- [Hello World in Janet](/projects/hello-world/janet)

@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Cyclone](https://sampleprograms.io/projects/baklava/cyclone)
-- [Hello World in Cyclone](https://sampleprograms.io/projects/hello-world/cyclone)
+- [Baklava in Cyclone](/projects/baklava/cyclone)
+- [Hello World in Cyclone](/projects/hello-world/cyclone)

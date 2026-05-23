@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in TeX](https://sampleprograms.io/projects/baklava/tex)
-- [Fizz Buzz in TeX](https://sampleprograms.io/projects/fizz-buzz/tex)
-- [Hello World in TeX](https://sampleprograms.io/projects/hello-world/tex)
+- [Baklava in TeX](/projects/baklava/tex)
+- [Fizz Buzz in TeX](/projects/fizz-buzz/tex)
+- [Hello World in TeX](/projects/hello-world/tex)

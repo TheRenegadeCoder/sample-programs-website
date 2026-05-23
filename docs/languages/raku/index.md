@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Raku](https://sampleprograms.io/projects/baklava/raku)
-- [Fizz Buzz in Raku](https://sampleprograms.io/projects/fizz-buzz/raku)
-- [Hello World in Raku](https://sampleprograms.io/projects/hello-world/raku)
+- [Baklava in Raku](/projects/baklava/raku)
+- [Fizz Buzz in Raku](/projects/fizz-buzz/raku)
+- [Hello World in Raku](/projects/hello-world/raku)

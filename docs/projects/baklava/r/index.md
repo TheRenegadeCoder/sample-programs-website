@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [R](https://sampleprograms.io/languages/r) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [R](/languages/r) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -42,7 +42,7 @@ for (i in -10:10) {
 
 {% endraw %}
 
-Baklava in [R](https://sampleprograms.io/languages/r) was written by:
+Baklava in [R](/languages/r) was written by:
 
 - rzuckerm
 

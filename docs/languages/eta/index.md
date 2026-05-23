@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Eta](https://sampleprograms.io/projects/baklava/eta)
-- [Hello World in Eta](https://sampleprograms.io/projects/hello-world/eta)
+- [Baklava in Eta](/projects/baklava/eta)
+- [Hello World in Eta](/projects/hello-world/eta)

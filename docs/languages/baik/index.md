@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in BAIK](https://sampleprograms.io/projects/baklava/baik)
-- [Hello World in BAIK](https://sampleprograms.io/projects/hello-world/baik)
+- [Baklava in BAIK](/projects/baklava/baik)
+- [Hello World in BAIK](/projects/hello-world/baik)

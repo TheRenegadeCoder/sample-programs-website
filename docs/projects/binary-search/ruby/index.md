@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Binary Search](/projects/binary-search) in [Ruby](/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -67,7 +67,7 @@ end
 
 {% endraw %}
 
-Binary Search in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Binary Search in [Ruby](/languages/ruby) was written by:
 
 - Tyler Gilmore
 - Ștefan-Iulian Alecu

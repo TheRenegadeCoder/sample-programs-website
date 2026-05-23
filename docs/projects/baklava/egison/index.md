@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Egison](https://sampleprograms.io/languages/egison) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Egison](/languages/egison) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -49,7 +49,7 @@ def main args := do
 
 {% endraw %}
 
-Baklava in [Egison](https://sampleprograms.io/languages/egison) was written by:
+Baklava in [Egison](/languages/egison) was written by:
 
 - rzuckerm
 

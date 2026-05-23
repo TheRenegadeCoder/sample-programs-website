@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Quackery](https://sampleprograms.io/projects/baklava/quackery)
-- [Hello World in Quackery](https://sampleprograms.io/projects/hello-world/quackery)
+- [Baklava in Quackery](/projects/baklava/quackery)
+- [Hello World in Quackery](/projects/hello-world/quackery)

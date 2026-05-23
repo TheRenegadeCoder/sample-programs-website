@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search) in [Ada](https://sampleprograms.io/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Linear Search](/projects/linear-search) in [Ada](/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -120,7 +120,7 @@ end Linear_Search;
 
 {% endraw %}
 
-Linear Search in [Ada](https://sampleprograms.io/languages/ada) was written by:
+Linear Search in [Ada](/languages/ada) was written by:
 
 - Ștefan-Iulian Alecu
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Remove All Whitespace](/projects/remove-all-whitespace) in [Ruby](/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -41,7 +41,7 @@ puts input.delete(" \t\r\n")
 
 {% endraw %}
 
-Remove All Whitespace in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Remove All Whitespace in [Ruby](/languages/ruby) was written by:
 
 - Ștefan-Iulian Alecu
 

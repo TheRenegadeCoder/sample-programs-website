@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Elixir](https://sampleprograms.io/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](/projects/even-odd) in [Elixir](/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -65,7 +65,7 @@ EvenOdd.main(System.argv()) |> IO.puts
 
 {% endraw %}
 
-Even Odd in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
+Even Odd in [Elixir](/languages/elixir) was written by:
 
 - Zapnuk
 

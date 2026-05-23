@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Linear Search](/projects/linear-search) in [Swift](/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -79,7 +79,7 @@ print(values.linearSearch(for: target) != nil)
 
 {% endraw %}
 
-Linear Search in [Swift](https://sampleprograms.io/languages/swift) was written by:
+Linear Search in [Swift](/languages/swift) was written by:
 
 - Ștefan-Iulian Alecu
 

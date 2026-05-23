@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Dijkstra](/projects/dijkstra) in [Euphoria](/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -284,7 +284,7 @@ printf(STDOUT, "%d\n", dist)
 
 {% endraw %}
 
-Dijkstra in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Dijkstra in [Euphoria](/languages/euphoria) was written by:
 
 - rzuckerm
 

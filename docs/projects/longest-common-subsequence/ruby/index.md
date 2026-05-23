@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Common Subsequence](/projects/longest-common-subsequence) in [Ruby](/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -92,7 +92,7 @@ puts lcs(a, b).join(", ")
 
 {% endraw %}
 
-Longest Common Subsequence in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Longest Common Subsequence in [Ruby](/languages/ruby) was written by:
 
 - Ștefan-Iulian Alecu
 

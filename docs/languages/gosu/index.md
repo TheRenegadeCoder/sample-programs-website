@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Gosu](https://sampleprograms.io/projects/baklava/gosu)
-- [Fizz Buzz in Gosu](https://sampleprograms.io/projects/fizz-buzz/gosu)
-- [Hello World in Gosu](https://sampleprograms.io/projects/hello-world/gosu)
+- [Baklava in Gosu](/projects/baklava/gosu)
+- [Fizz Buzz in Gosu](/projects/fizz-buzz/gosu)
+- [Hello World in Gosu](/projects/hello-world/gosu)

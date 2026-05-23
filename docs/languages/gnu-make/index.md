@@ -113,12 +113,12 @@ Loops can be simulated using macros that invoke themselves recursively.
 
 There are 9 articles:
 
-- [Baklava in GNU Make](https://sampleprograms.io/projects/baklava/gnu-make)
-- [Capitalize in GNU Make](https://sampleprograms.io/projects/capitalize/gnu-make)
-- [Even Odd in GNU Make](https://sampleprograms.io/projects/even-odd/gnu-make)
-- [File Input Output in GNU Make](https://sampleprograms.io/projects/file-input-output/gnu-make)
-- [Fizz Buzz in GNU Make](https://sampleprograms.io/projects/fizz-buzz/gnu-make)
-- [Hello World in GNU Make](https://sampleprograms.io/projects/hello-world/gnu-make)
-- [Prime Number in GNU Make](https://sampleprograms.io/projects/prime-number/gnu-make)
-- [Quine in GNU Make](https://sampleprograms.io/projects/quine/gnu-make)
-- [Remove All Whitespace in GNU Make](https://sampleprograms.io/projects/remove-all-whitespace/gnu-make)
+- [Baklava in GNU Make](/projects/baklava/gnu-make)
+- [Capitalize in GNU Make](/projects/capitalize/gnu-make)
+- [Even Odd in GNU Make](/projects/even-odd/gnu-make)
+- [File Input Output in GNU Make](/projects/file-input-output/gnu-make)
+- [Fizz Buzz in GNU Make](/projects/fizz-buzz/gnu-make)
+- [Hello World in GNU Make](/projects/hello-world/gnu-make)
+- [Prime Number in GNU Make](/projects/prime-number/gnu-make)
+- [Quine in GNU Make](/projects/quine/gnu-make)
+- [Remove All Whitespace in GNU Make](/projects/remove-all-whitespace/gnu-make)

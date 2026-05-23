@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](/projects/prime-number) in [Perl](/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -59,7 +59,7 @@ say "Prime";
 
 {% endraw %}
 
-Prime Number in [Perl](https://sampleprograms.io/languages/perl) was written by:
+Prime Number in [Perl](/languages/perl) was written by:
 
 - Mallikarjuna S J
 - Ștefan-Iulian Alecu

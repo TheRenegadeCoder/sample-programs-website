@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Depth First Search](/projects/depth-first-search) in [JavaScript](/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -114,7 +114,7 @@ run();
 
 {% endraw %}
 
-Depth First Search in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
+Depth First Search in [JavaScript](/languages/javascript) was written by:
 
 - Ștefan-Iulian Alecu
 

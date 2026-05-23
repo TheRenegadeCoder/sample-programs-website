@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Zeckendorf](https://sampleprograms.io/projects/zeckendorf) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Zeckendorf](/projects/zeckendorf) in [Go](/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -78,7 +78,7 @@ func main() {
 
 {% endraw %}
 
-Zeckendorf in [Go](https://sampleprograms.io/languages/go) was written by:
+Zeckendorf in [Go](/languages/go) was written by:
 
 - Ștefan-Iulian Alecu
 

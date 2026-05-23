@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Tcl](https://sampleprograms.io/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Tcl](/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -61,7 +61,7 @@ fizzbuzz {3 Fizz 5 Buzz}
 
 {% endraw %}
 
-Fizz Buzz in [Tcl](https://sampleprograms.io/languages/tcl) was written by:
+Fizz Buzz in [Tcl](/languages/tcl) was written by:
 
 - Ștefan-Iulian Alecu
 

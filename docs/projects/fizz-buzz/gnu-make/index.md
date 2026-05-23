@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [GNU Make](https://sampleprograms.io/languages/gnu-make) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [GNU Make](/languages/gnu-make) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -97,7 +97,7 @@ all: ;@:
 
 {% endraw %}
 
-Fizz Buzz in [GNU Make](https://sampleprograms.io/languages/gnu-make) was written by:
+Fizz Buzz in [GNU Make](/languages/gnu-make) was written by:
 
 - rzuckerm
 

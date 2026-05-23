@@ -326,35 +326,35 @@ Usage: please provide a mode and a string to encode/decode
 
 There are 29 articles:
 
-- [Base64 Encode Decode in ALGOL 60](https://sampleprograms.io/projects/base64-encode-decode/algol60)
-- [Base64 Encode Decode in ALGOL 68](https://sampleprograms.io/projects/base64-encode-decode/algol68)
-- [Base64 Encode Decode in AWK](https://sampleprograms.io/projects/base64-encode-decode/awk)
-- [Base64 Encode Decode in Ada](https://sampleprograms.io/projects/base64-encode-decode/ada)
-- [Base64 Encode Decode in Bash](https://sampleprograms.io/projects/base64-encode-decode/bash)
-- [Base64 Encode Decode in Beef](https://sampleprograms.io/projects/base64-encode-decode/beef)
-- [Base64 Encode Decode in C](https://sampleprograms.io/projects/base64-encode-decode/c)
-- [Base64 Encode Decode in C#](https://sampleprograms.io/projects/base64-encode-decode/c-sharp)
-- [Base64 Encode Decode in C++](https://sampleprograms.io/projects/base64-encode-decode/c-plus-plus)
-- [Base64 Encode Decode in COBOL](https://sampleprograms.io/projects/base64-encode-decode/cobol)
-- [Base64 Encode Decode in Commodore BASIC](https://sampleprograms.io/projects/base64-encode-decode/commodore-basic)
-- [Base64 Encode Decode in Euphoria](https://sampleprograms.io/projects/base64-encode-decode/euphoria)
-- [Base64 Encode Decode in F#](https://sampleprograms.io/projects/base64-encode-decode/f-sharp)
-- [Base64 Encode Decode in Go](https://sampleprograms.io/projects/base64-encode-decode/go)
-- [Base64 Encode Decode in Haskell](https://sampleprograms.io/projects/base64-encode-decode/haskell)
-- [Base64 Encode Decode in Java](https://sampleprograms.io/projects/base64-encode-decode/java)
-- [Base64 Encode Decode in JavaScript](https://sampleprograms.io/projects/base64-encode-decode/javascript)
-- [Base64 Encode Decode in Mathematica](https://sampleprograms.io/projects/base64-encode-decode/mathematica)
-- [Base64 Encode Decode in PHP](https://sampleprograms.io/projects/base64-encode-decode/php)
-- [Base64 Encode Decode in Pascal](https://sampleprograms.io/projects/base64-encode-decode/pascal)
-- [Base64 Encode Decode in PowerShell](https://sampleprograms.io/projects/base64-encode-decode/powershell)
-- [Base64 Encode Decode in Python](https://sampleprograms.io/projects/base64-encode-decode/python)
-- [Base64 Encode Decode in Ruby](https://sampleprograms.io/projects/base64-encode-decode/ruby)
-- [Base64 Encode Decode in Rust](https://sampleprograms.io/projects/base64-encode-decode/rust)
-- [Base64 Encode Decode in Swift](https://sampleprograms.io/projects/base64-encode-decode/swift)
-- [Base64 Encode Decode in Tcl](https://sampleprograms.io/projects/base64-encode-decode/tcl)
-- [Base64 Encode Decode in TypeScript](https://sampleprograms.io/projects/base64-encode-decode/typescript)
-- [Base64 Encode Decode in Visual Basic](https://sampleprograms.io/projects/base64-encode-decode/visual-basic)
-- [Base64 Encode Decode in Zig](https://sampleprograms.io/projects/base64-encode-decode/zig)
+- [Base64 Encode Decode in ALGOL 60](/projects/base64-encode-decode/algol60)
+- [Base64 Encode Decode in ALGOL 68](/projects/base64-encode-decode/algol68)
+- [Base64 Encode Decode in AWK](/projects/base64-encode-decode/awk)
+- [Base64 Encode Decode in Ada](/projects/base64-encode-decode/ada)
+- [Base64 Encode Decode in Bash](/projects/base64-encode-decode/bash)
+- [Base64 Encode Decode in Beef](/projects/base64-encode-decode/beef)
+- [Base64 Encode Decode in C](/projects/base64-encode-decode/c)
+- [Base64 Encode Decode in C#](/projects/base64-encode-decode/c-sharp)
+- [Base64 Encode Decode in C++](/projects/base64-encode-decode/c-plus-plus)
+- [Base64 Encode Decode in COBOL](/projects/base64-encode-decode/cobol)
+- [Base64 Encode Decode in Commodore BASIC](/projects/base64-encode-decode/commodore-basic)
+- [Base64 Encode Decode in Euphoria](/projects/base64-encode-decode/euphoria)
+- [Base64 Encode Decode in F#](/projects/base64-encode-decode/f-sharp)
+- [Base64 Encode Decode in Go](/projects/base64-encode-decode/go)
+- [Base64 Encode Decode in Haskell](/projects/base64-encode-decode/haskell)
+- [Base64 Encode Decode in Java](/projects/base64-encode-decode/java)
+- [Base64 Encode Decode in JavaScript](/projects/base64-encode-decode/javascript)
+- [Base64 Encode Decode in Mathematica](/projects/base64-encode-decode/mathematica)
+- [Base64 Encode Decode in PHP](/projects/base64-encode-decode/php)
+- [Base64 Encode Decode in Pascal](/projects/base64-encode-decode/pascal)
+- [Base64 Encode Decode in PowerShell](/projects/base64-encode-decode/powershell)
+- [Base64 Encode Decode in Python](/projects/base64-encode-decode/python)
+- [Base64 Encode Decode in Ruby](/projects/base64-encode-decode/ruby)
+- [Base64 Encode Decode in Rust](/projects/base64-encode-decode/rust)
+- [Base64 Encode Decode in Swift](/projects/base64-encode-decode/swift)
+- [Base64 Encode Decode in Tcl](/projects/base64-encode-decode/tcl)
+- [Base64 Encode Decode in TypeScript](/projects/base64-encode-decode/typescript)
+- [Base64 Encode Decode in Visual Basic](/projects/base64-encode-decode/visual-basic)
+- [Base64 Encode Decode in Zig](/projects/base64-encode-decode/zig)
 
 ***
 
@@ -362,13 +362,13 @@ There are 29 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Baklava)](https://sampleprograms.io/projects/baklava)
+[<-- Previous Project (Baklava)](/projects/baklava)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Binary Search) -->](https://sampleprograms.io/projects/binary-search)
+[Next Project (Binary Search) -->](/projects/binary-search)
 
 </div>
 

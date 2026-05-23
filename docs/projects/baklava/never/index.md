@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Never](https://sampleprograms.io/languages/never) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Never](/languages/never) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -60,7 +60,7 @@ func main() -> int {
 
 {% endraw %}
 
-Baklava in [Never](https://sampleprograms.io/languages/never) was written by:
+Baklava in [Never](/languages/never) was written by:
 
 - rzuckerm
 

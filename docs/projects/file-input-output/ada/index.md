@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Ada](https://sampleprograms.io/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Input Output](/projects/file-input-output) in [Ada](/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -87,7 +87,7 @@ end File_IO;
 
 {% endraw %}
 
-File Input Output in [Ada](https://sampleprograms.io/languages/ada) was written by:
+File Input Output in [Ada](/languages/ada) was written by:
 
 - Ștefan-Iulian Alecu
 

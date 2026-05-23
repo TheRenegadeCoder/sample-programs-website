@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Palindromic Number](/projects/palindromic-number) in [Java](/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -63,7 +63,7 @@ public class PalindromicNumber {
 
 {% endraw %}
 
-Palindromic Number in [Java](https://sampleprograms.io/languages/java) was written by:
+Palindromic Number in [Java](/languages/java) was written by:
 
 - Jeremy Grifski
 - smallblack9

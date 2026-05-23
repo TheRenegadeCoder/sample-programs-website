@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Objective-C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Input Output](/projects/file-input-output) in [Objective-C](/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -87,7 +87,7 @@ int main(int argc, const char* argv[]) {
 
 {% endraw %}
 
-File Input Output in [Objective-C](https://sampleprograms.io/languages/objective-c) was written by:
+File Input Output in [Objective-C](/languages/objective-c) was written by:
 
 - Cristiano Lopes
 - Ștefan-Iulian Alecu

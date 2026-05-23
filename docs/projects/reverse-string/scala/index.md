@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Scala](https://sampleprograms.io/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](/projects/reverse-string) in [Scala](/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -40,7 +40,7 @@ object ReverseString:
 
 {% endraw %}
 
-Reverse String in [Scala](https://sampleprograms.io/languages/scala) was written by:
+Reverse String in [Scala](/languages/scala) was written by:
 
 - Ștefan-Iulian Alecu
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Linear Search](/projects/linear-search) in [Kotlin](/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -63,7 +63,7 @@ fun main(args: Array<String>)
 
 {% endraw %}
 
-Linear Search in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
+Linear Search in [Kotlin](/languages/kotlin) was written by:
 
 - Matthew Larsen
 

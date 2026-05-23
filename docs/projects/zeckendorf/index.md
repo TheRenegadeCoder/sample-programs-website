@@ -145,33 +145,33 @@ Usage: please input a non-negative integer
 
 There are 27 articles:
 
-- [Zeckendorf in ALGOL 60](https://sampleprograms.io/projects/zeckendorf/algol60)
-- [Zeckendorf in ALGOL 68](https://sampleprograms.io/projects/zeckendorf/algol68)
-- [Zeckendorf in AWK](https://sampleprograms.io/projects/zeckendorf/awk)
-- [Zeckendorf in Beef](https://sampleprograms.io/projects/zeckendorf/beef)
-- [Zeckendorf in C](https://sampleprograms.io/projects/zeckendorf/c)
-- [Zeckendorf in C#](https://sampleprograms.io/projects/zeckendorf/c-sharp)
-- [Zeckendorf in C++](https://sampleprograms.io/projects/zeckendorf/c-plus-plus)
-- [Zeckendorf in COBOL](https://sampleprograms.io/projects/zeckendorf/cobol)
-- [Zeckendorf in Commodore BASIC](https://sampleprograms.io/projects/zeckendorf/commodore-basic)
-- [Zeckendorf in Euphoria](https://sampleprograms.io/projects/zeckendorf/euphoria)
-- [Zeckendorf in F#](https://sampleprograms.io/projects/zeckendorf/f-sharp)
-- [Zeckendorf in Go](https://sampleprograms.io/projects/zeckendorf/go)
-- [Zeckendorf in Java](https://sampleprograms.io/projects/zeckendorf/java)
-- [Zeckendorf in JavaScript](https://sampleprograms.io/projects/zeckendorf/javascript)
-- [Zeckendorf in Mathematica](https://sampleprograms.io/projects/zeckendorf/mathematica)
-- [Zeckendorf in PHP](https://sampleprograms.io/projects/zeckendorf/php)
-- [Zeckendorf in Pascal](https://sampleprograms.io/projects/zeckendorf/pascal)
-- [Zeckendorf in PowerShell](https://sampleprograms.io/projects/zeckendorf/powershell)
-- [Zeckendorf in Python](https://sampleprograms.io/projects/zeckendorf/python)
-- [Zeckendorf in Ruby](https://sampleprograms.io/projects/zeckendorf/ruby)
-- [Zeckendorf in Rust](https://sampleprograms.io/projects/zeckendorf/rust)
-- [Zeckendorf in Swift](https://sampleprograms.io/projects/zeckendorf/swift)
-- [Zeckendorf in TI-BASIC](https://sampleprograms.io/projects/zeckendorf/ti-basic)
-- [Zeckendorf in Tcl](https://sampleprograms.io/projects/zeckendorf/tcl)
-- [Zeckendorf in TypeScript](https://sampleprograms.io/projects/zeckendorf/typescript)
-- [Zeckendorf in Visual Basic](https://sampleprograms.io/projects/zeckendorf/visual-basic)
-- [Zeckendorf in m4](https://sampleprograms.io/projects/zeckendorf/m4)
+- [Zeckendorf in ALGOL 60](/projects/zeckendorf/algol60)
+- [Zeckendorf in ALGOL 68](/projects/zeckendorf/algol68)
+- [Zeckendorf in AWK](/projects/zeckendorf/awk)
+- [Zeckendorf in Beef](/projects/zeckendorf/beef)
+- [Zeckendorf in C](/projects/zeckendorf/c)
+- [Zeckendorf in C#](/projects/zeckendorf/c-sharp)
+- [Zeckendorf in C++](/projects/zeckendorf/c-plus-plus)
+- [Zeckendorf in COBOL](/projects/zeckendorf/cobol)
+- [Zeckendorf in Commodore BASIC](/projects/zeckendorf/commodore-basic)
+- [Zeckendorf in Euphoria](/projects/zeckendorf/euphoria)
+- [Zeckendorf in F#](/projects/zeckendorf/f-sharp)
+- [Zeckendorf in Go](/projects/zeckendorf/go)
+- [Zeckendorf in Java](/projects/zeckendorf/java)
+- [Zeckendorf in JavaScript](/projects/zeckendorf/javascript)
+- [Zeckendorf in Mathematica](/projects/zeckendorf/mathematica)
+- [Zeckendorf in PHP](/projects/zeckendorf/php)
+- [Zeckendorf in Pascal](/projects/zeckendorf/pascal)
+- [Zeckendorf in PowerShell](/projects/zeckendorf/powershell)
+- [Zeckendorf in Python](/projects/zeckendorf/python)
+- [Zeckendorf in Ruby](/projects/zeckendorf/ruby)
+- [Zeckendorf in Rust](/projects/zeckendorf/rust)
+- [Zeckendorf in Swift](/projects/zeckendorf/swift)
+- [Zeckendorf in TI-BASIC](/projects/zeckendorf/ti-basic)
+- [Zeckendorf in Tcl](/projects/zeckendorf/tcl)
+- [Zeckendorf in TypeScript](/projects/zeckendorf/typescript)
+- [Zeckendorf in Visual Basic](/projects/zeckendorf/visual-basic)
+- [Zeckendorf in m4](/projects/zeckendorf/m4)
 
 ***
 
@@ -179,13 +179,13 @@ There are 27 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Transpose Matrix)](https://sampleprograms.io/projects/transpose-matrix)
+[<-- Previous Project (Transpose Matrix)](/projects/transpose-matrix)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Baklava) -->](https://sampleprograms.io/projects/baklava)
+[Next Project (Baklava) -->](/projects/baklava)
 
 </div>
 

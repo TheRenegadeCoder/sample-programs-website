@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](/projects/quine) in [Euphoria](/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ constant s="constant s=%s%s%sprintf(1,s&10,{34,s,34})"printf(1,s&10,{34,s,34})
 
 {% endraw %}
 
-Quine in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Quine in [Euphoria](/languages/euphoria) was written by:
 
 - rzuckerm
 

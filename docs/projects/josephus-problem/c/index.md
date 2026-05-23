@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Josephus Problem](/projects/josephus-problem) in [C](/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -79,7 +79,7 @@ int main(int argc, char *argv[])
 
 {% endraw %}
 
-Josephus Problem in [C](https://sampleprograms.io/languages/c) was written by:
+Josephus Problem in [C](/languages/c) was written by:
 
 - Maximillian Naza
 - Ștefan-Iulian Alecu

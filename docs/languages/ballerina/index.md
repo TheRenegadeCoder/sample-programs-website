@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Ballerina](https://sampleprograms.io/projects/baklava/ballerina)
-- [Fizz Buzz in Ballerina](https://sampleprograms.io/projects/fizz-buzz/ballerina)
-- [Hello World in Ballerina](https://sampleprograms.io/projects/hello-world/ballerina)
+- [Baklava in Ballerina](/projects/baklava/ballerina)
+- [Fizz Buzz in Ballerina](/projects/fizz-buzz/ballerina)
+- [Hello World in Ballerina](/projects/hello-world/ballerina)

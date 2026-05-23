@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](/projects/reverse-string) in [Euphoria](/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -50,7 +50,7 @@ printf(STDOUT, "%s\n", {t})
 
 {% endraw %}
 
-Reverse String in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Reverse String in [Euphoria](/languages/euphoria) was written by:
 
 - rzuckerm
 

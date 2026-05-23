@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Beef](https://sampleprograms.io/languages/beef) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](/projects/job-sequencing) in [Beef](/languages/beef) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -236,7 +236,7 @@ class Program
 
 {% endraw %}
 
-Job Sequencing in [Beef](https://sampleprograms.io/languages/beef) was written by:
+Job Sequencing in [Beef](/languages/beef) was written by:
 
 - rzuckerm
 

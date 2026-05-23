@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [ALGOL 60](https://sampleprograms.io/languages/algol60) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](/projects/quine) in [ALGOL 60](/languages/algol60) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -36,7 +36,7 @@ begin procedure q(a,b,c);string a,b,c;begin outstring(1,c);outchar(1,a,2);outcha
 
 {% endraw %}
 
-Quine in [ALGOL 60](https://sampleprograms.io/languages/algol60) was written by:
+Quine in [ALGOL 60](/languages/algol60) was written by:
 
 - rzuckerm
 

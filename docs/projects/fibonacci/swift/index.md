@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](/projects/fibonacci) in [Swift](/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -66,7 +66,7 @@ fibonacciProgram(number)
 
 {% endraw %}
 
-Fibonacci in [Swift](https://sampleprograms.io/languages/swift) was written by:
+Fibonacci in [Swift](/languages/swift) was written by:
 
 - smallblack9
 

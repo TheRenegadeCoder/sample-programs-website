@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Orc](https://sampleprograms.io/projects/baklava/orc)
-- [Hello World in Orc](https://sampleprograms.io/projects/hello-world/orc)
+- [Baklava in Orc](/projects/baklava/orc)
+- [Hello World in Orc](/projects/hello-world/orc)

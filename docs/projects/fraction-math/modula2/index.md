@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Modula-2](https://sampleprograms.io/languages/modula2) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fraction Math](/projects/fraction-math) in [Modula-2](/languages/modula2) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -240,7 +240,7 @@ END FractionMath.
 
 {% endraw %}
 
-Fraction Math in [Modula-2](https://sampleprograms.io/languages/modula2) was written by:
+Fraction Math in [Modula-2](/languages/modula2) was written by:
 
 - Ștefan-Iulian Alecu
 

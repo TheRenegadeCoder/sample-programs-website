@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in LOLCODE](https://sampleprograms.io/projects/baklava/lolcode)
-- [Fizz Buzz in LOLCODE](https://sampleprograms.io/projects/fizz-buzz/lolcode)
-- [Hello World in LOLCODE](https://sampleprograms.io/projects/hello-world/lolcode)
+- [Baklava in LOLCODE](/projects/baklava/lolcode)
+- [Fizz Buzz in LOLCODE](/projects/fizz-buzz/lolcode)
+- [Hello World in LOLCODE](/projects/hello-world/lolcode)

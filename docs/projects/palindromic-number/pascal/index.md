@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Pascal](https://sampleprograms.io/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Palindromic Number](/projects/palindromic-number) in [Pascal](/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -95,7 +95,7 @@ end.  (* Begin Program Block*)
 
 {% endraw %}
 
-Palindromic Number in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
+Palindromic Number in [Pascal](/languages/pascal) was written by:
 
 - Jeremy Grifski
 - manasmithamn

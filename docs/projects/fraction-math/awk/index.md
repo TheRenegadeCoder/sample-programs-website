@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [AWK](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fraction Math](/projects/fraction-math) in [AWK](/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -214,7 +214,7 @@ BEGIN {
 
 {% endraw %}
 
-Fraction Math in [AWK](https://sampleprograms.io/languages/awk) was written by:
+Fraction Math in [AWK](/languages/awk) was written by:
 
 - rzuckerm
 

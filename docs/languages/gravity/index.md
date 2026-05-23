@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Gravity](https://sampleprograms.io/projects/baklava/gravity)
-- [Fizz Buzz in Gravity](https://sampleprograms.io/projects/fizz-buzz/gravity)
-- [Hello World in Gravity](https://sampleprograms.io/projects/hello-world/gravity)
+- [Baklava in Gravity](/projects/baklava/gravity)
+- [Fizz Buzz in Gravity](/projects/fizz-buzz/gravity)
+- [Hello World in Gravity](/projects/hello-world/gravity)

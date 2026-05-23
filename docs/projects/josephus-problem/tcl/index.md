@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Tcl](https://sampleprograms.io/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Josephus Problem](/projects/josephus-problem) in [Tcl](/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -76,7 +76,7 @@ puts [josephus $total $skip]
 
 {% endraw %}
 
-Josephus Problem in [Tcl](https://sampleprograms.io/languages/tcl) was written by:
+Josephus Problem in [Tcl](/languages/tcl) was written by:
 
 - Ștefan-Iulian Alecu
 

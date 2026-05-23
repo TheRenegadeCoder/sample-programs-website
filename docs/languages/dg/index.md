@@ -30,9 +30,9 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 6 articles:
 
-- [Baklava in Dg](https://sampleprograms.io/projects/baklava/dg)
-- [File Input Output in Dg](https://sampleprograms.io/projects/file-input-output/dg)
-- [Fizz Buzz in Dg](https://sampleprograms.io/projects/fizz-buzz/dg)
-- [Hello World in Dg](https://sampleprograms.io/projects/hello-world/dg)
-- [Quine in Dg](https://sampleprograms.io/projects/quine/dg)
-- [Reverse String in Dg](https://sampleprograms.io/projects/reverse-string/dg)
+- [Baklava in Dg](/projects/baklava/dg)
+- [File Input Output in Dg](/projects/file-input-output/dg)
+- [Fizz Buzz in Dg](/projects/fizz-buzz/dg)
+- [Hello World in Dg](/projects/hello-world/dg)
+- [Quine in Dg](/projects/quine/dg)
+- [Reverse String in Dg](/projects/reverse-string/dg)

@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Go](/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -54,7 +54,7 @@ func main() {
 
 {% endraw %}
 
-Fizz Buzz in [Go](https://sampleprograms.io/languages/go) was written by:
+Fizz Buzz in [Go](/languages/go) was written by:
 
 - Jeremy Grifski
 - Parker Johansen

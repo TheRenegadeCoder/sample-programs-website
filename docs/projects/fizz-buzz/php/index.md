@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [PHP](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [PHP](/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -55,7 +55,7 @@ for ($i = 1; $i < 101; $i++) {
 
 {% endraw %}
 
-Fizz Buzz in [PHP](https://sampleprograms.io/languages/php) was written by:
+Fizz Buzz in [PHP](/languages/php) was written by:
 
 - Jeremy Grifski
 

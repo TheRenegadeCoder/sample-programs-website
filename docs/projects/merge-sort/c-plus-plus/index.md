@@ -26,7 +26,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](/projects/merge-sort) in [C++](/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -123,7 +123,7 @@ int main(int argc, char* argv[]) {
 
 {% endraw %}
 
-Merge Sort in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+Merge Sort in [C++](/languages/c-plus-plus) was written by:
 
 - Jeremy Grifski
 - Sailok Chinta

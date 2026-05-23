@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Duplicate Character Counter](/projects/duplicate-character-counter) in [JavaScript](/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -76,7 +76,7 @@ run();
 
 {% endraw %}
 
-Duplicate Character Counter in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
+Duplicate Character Counter in [JavaScript](/languages/javascript) was written by:
 
 - Ștefan-Iulian Alecu
 

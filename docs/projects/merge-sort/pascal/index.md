@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Pascal](https://sampleprograms.io/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](/projects/merge-sort) in [Pascal](/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -201,7 +201,7 @@ end.
 
 {% endraw %}
 
-Merge Sort in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
+Merge Sort in [Pascal](/languages/pascal) was written by:
 
 - Ștefan-Iulian Alecu
 

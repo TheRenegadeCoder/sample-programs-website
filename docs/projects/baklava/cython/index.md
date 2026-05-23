@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Cython](https://sampleprograms.io/languages/cython) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Cython](/languages/cython) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -53,7 +53,7 @@ if __name__ == "__main__":
 
 {% endraw %}
 
-Baklava in [Cython](https://sampleprograms.io/languages/cython) was written by:
+Baklava in [Cython](/languages/cython) was written by:
 
 - rzuckerm
 

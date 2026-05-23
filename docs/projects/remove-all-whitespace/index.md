@@ -99,42 +99,42 @@ Usage: please provide a string
 
 There are 36 articles:
 
-- [Remove All Whitespace in ALGOL 60](https://sampleprograms.io/projects/remove-all-whitespace/algol60)
-- [Remove All Whitespace in ALGOL 68](https://sampleprograms.io/projects/remove-all-whitespace/algol68)
-- [Remove All Whitespace in AWK](https://sampleprograms.io/projects/remove-all-whitespace/awk)
-- [Remove All Whitespace in Beef](https://sampleprograms.io/projects/remove-all-whitespace/beef)
-- [Remove All Whitespace in Brainfuck](https://sampleprograms.io/projects/remove-all-whitespace/brainfuck)
-- [Remove All Whitespace in C](https://sampleprograms.io/projects/remove-all-whitespace/c)
-- [Remove All Whitespace in C#](https://sampleprograms.io/projects/remove-all-whitespace/c-sharp)
-- [Remove All Whitespace in C++](https://sampleprograms.io/projects/remove-all-whitespace/c-plus-plus)
-- [Remove All Whitespace in COBOL](https://sampleprograms.io/projects/remove-all-whitespace/cobol)
-- [Remove All Whitespace in CoffeeScript](https://sampleprograms.io/projects/remove-all-whitespace/coffeescript)
-- [Remove All Whitespace in Commodore BASIC](https://sampleprograms.io/projects/remove-all-whitespace/commodore-basic)
-- [Remove All Whitespace in Dart](https://sampleprograms.io/projects/remove-all-whitespace/dart)
-- [Remove All Whitespace in Elvish](https://sampleprograms.io/projects/remove-all-whitespace/elvish)
-- [Remove All Whitespace in Euphoria](https://sampleprograms.io/projects/remove-all-whitespace/euphoria)
-- [Remove All Whitespace in F#](https://sampleprograms.io/projects/remove-all-whitespace/f-sharp)
-- [Remove All Whitespace in GNU Make](https://sampleprograms.io/projects/remove-all-whitespace/gnu-make)
-- [Remove All Whitespace in Go](https://sampleprograms.io/projects/remove-all-whitespace/go)
-- [Remove All Whitespace in Haskell](https://sampleprograms.io/projects/remove-all-whitespace/haskell)
-- [Remove All Whitespace in Java](https://sampleprograms.io/projects/remove-all-whitespace/java)
-- [Remove All Whitespace in JavaScript](https://sampleprograms.io/projects/remove-all-whitespace/javascript)
-- [Remove All Whitespace in Julia](https://sampleprograms.io/projects/remove-all-whitespace/julia)
-- [Remove All Whitespace in Kotlin](https://sampleprograms.io/projects/remove-all-whitespace/kotlin)
-- [Remove All Whitespace in Mathematica](https://sampleprograms.io/projects/remove-all-whitespace/mathematica)
-- [Remove All Whitespace in PHP](https://sampleprograms.io/projects/remove-all-whitespace/php)
-- [Remove All Whitespace in Pascal](https://sampleprograms.io/projects/remove-all-whitespace/pascal)
-- [Remove All Whitespace in PowerShell](https://sampleprograms.io/projects/remove-all-whitespace/powershell)
-- [Remove All Whitespace in Python](https://sampleprograms.io/projects/remove-all-whitespace/python)
-- [Remove All Whitespace in R](https://sampleprograms.io/projects/remove-all-whitespace/r)
-- [Remove All Whitespace in Ruby](https://sampleprograms.io/projects/remove-all-whitespace/ruby)
-- [Remove All Whitespace in Rust](https://sampleprograms.io/projects/remove-all-whitespace/rust)
-- [Remove All Whitespace in Swift](https://sampleprograms.io/projects/remove-all-whitespace/swift)
-- [Remove All Whitespace in Tcl](https://sampleprograms.io/projects/remove-all-whitespace/tcl)
-- [Remove All Whitespace in TypeScript](https://sampleprograms.io/projects/remove-all-whitespace/typescript)
-- [Remove All Whitespace in Visual Basic](https://sampleprograms.io/projects/remove-all-whitespace/visual-basic)
-- [Remove All Whitespace in Wren](https://sampleprograms.io/projects/remove-all-whitespace/wren)
-- [Remove All Whitespace in m4](https://sampleprograms.io/projects/remove-all-whitespace/m4)
+- [Remove All Whitespace in ALGOL 60](/projects/remove-all-whitespace/algol60)
+- [Remove All Whitespace in ALGOL 68](/projects/remove-all-whitespace/algol68)
+- [Remove All Whitespace in AWK](/projects/remove-all-whitespace/awk)
+- [Remove All Whitespace in Beef](/projects/remove-all-whitespace/beef)
+- [Remove All Whitespace in Brainfuck](/projects/remove-all-whitespace/brainfuck)
+- [Remove All Whitespace in C](/projects/remove-all-whitespace/c)
+- [Remove All Whitespace in C#](/projects/remove-all-whitespace/c-sharp)
+- [Remove All Whitespace in C++](/projects/remove-all-whitespace/c-plus-plus)
+- [Remove All Whitespace in COBOL](/projects/remove-all-whitespace/cobol)
+- [Remove All Whitespace in CoffeeScript](/projects/remove-all-whitespace/coffeescript)
+- [Remove All Whitespace in Commodore BASIC](/projects/remove-all-whitespace/commodore-basic)
+- [Remove All Whitespace in Dart](/projects/remove-all-whitespace/dart)
+- [Remove All Whitespace in Elvish](/projects/remove-all-whitespace/elvish)
+- [Remove All Whitespace in Euphoria](/projects/remove-all-whitespace/euphoria)
+- [Remove All Whitespace in F#](/projects/remove-all-whitespace/f-sharp)
+- [Remove All Whitespace in GNU Make](/projects/remove-all-whitespace/gnu-make)
+- [Remove All Whitespace in Go](/projects/remove-all-whitespace/go)
+- [Remove All Whitespace in Haskell](/projects/remove-all-whitespace/haskell)
+- [Remove All Whitespace in Java](/projects/remove-all-whitespace/java)
+- [Remove All Whitespace in JavaScript](/projects/remove-all-whitespace/javascript)
+- [Remove All Whitespace in Julia](/projects/remove-all-whitespace/julia)
+- [Remove All Whitespace in Kotlin](/projects/remove-all-whitespace/kotlin)
+- [Remove All Whitespace in Mathematica](/projects/remove-all-whitespace/mathematica)
+- [Remove All Whitespace in PHP](/projects/remove-all-whitespace/php)
+- [Remove All Whitespace in Pascal](/projects/remove-all-whitespace/pascal)
+- [Remove All Whitespace in PowerShell](/projects/remove-all-whitespace/powershell)
+- [Remove All Whitespace in Python](/projects/remove-all-whitespace/python)
+- [Remove All Whitespace in R](/projects/remove-all-whitespace/r)
+- [Remove All Whitespace in Ruby](/projects/remove-all-whitespace/ruby)
+- [Remove All Whitespace in Rust](/projects/remove-all-whitespace/rust)
+- [Remove All Whitespace in Swift](/projects/remove-all-whitespace/swift)
+- [Remove All Whitespace in Tcl](/projects/remove-all-whitespace/tcl)
+- [Remove All Whitespace in TypeScript](/projects/remove-all-whitespace/typescript)
+- [Remove All Whitespace in Visual Basic](/projects/remove-all-whitespace/visual-basic)
+- [Remove All Whitespace in Wren](/projects/remove-all-whitespace/wren)
+- [Remove All Whitespace in m4](/projects/remove-all-whitespace/m4)
 
 ***
 
@@ -142,13 +142,13 @@ There are 36 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Quine)](https://sampleprograms.io/projects/quine)
+[<-- Previous Project (Quine)](/projects/quine)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Reverse String) -->](https://sampleprograms.io/projects/reverse-string)
+[Next Project (Reverse String) -->](/projects/reverse-string)
 
 </div>
 

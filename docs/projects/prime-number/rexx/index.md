@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Rexx](https://sampleprograms.io/languages/rexx) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](/projects/prime-number) in [Rexx](/languages/rexx) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -61,7 +61,7 @@ say 'Usage: please input a non-negative integer'; exit
 
 {% endraw %}
 
-Prime Number in [Rexx](https://sampleprograms.io/languages/rexx) was written by:
+Prime Number in [Rexx](/languages/rexx) was written by:
 
 - Sudhanshu Dubey
 

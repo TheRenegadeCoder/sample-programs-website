@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [OCaml](https://sampleprograms.io/languages/ocaml) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](/projects/fibonacci) in [OCaml](/languages/ocaml) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -59,7 +59,7 @@ let () =
 
 {% endraw %}
 
-Fibonacci in [OCaml](https://sampleprograms.io/languages/ocaml) was written by:
+Fibonacci in [OCaml](/languages/ocaml) was written by:
 
 - alope107
 

@@ -102,37 +102,37 @@ Usage: please provide a list of sorted integers ("1, 4, 5, 11, 12") and the inte
 
 There are 31 articles:
 
-- [Binary Search in ALGOL 60](https://sampleprograms.io/projects/binary-search/algol60)
-- [Binary Search in ALGOL 68](https://sampleprograms.io/projects/binary-search/algol68)
-- [Binary Search in AWK](https://sampleprograms.io/projects/binary-search/awk)
-- [Binary Search in Ada](https://sampleprograms.io/projects/binary-search/ada)
-- [Binary Search in Beef](https://sampleprograms.io/projects/binary-search/beef)
-- [Binary Search in C](https://sampleprograms.io/projects/binary-search/c)
-- [Binary Search in C#](https://sampleprograms.io/projects/binary-search/c-sharp)
-- [Binary Search in C++](https://sampleprograms.io/projects/binary-search/c-plus-plus)
-- [Binary Search in COBOL](https://sampleprograms.io/projects/binary-search/cobol)
-- [Binary Search in Commodore BASIC](https://sampleprograms.io/projects/binary-search/commodore-basic)
-- [Binary Search in Euphoria](https://sampleprograms.io/projects/binary-search/euphoria)
-- [Binary Search in F#](https://sampleprograms.io/projects/binary-search/f-sharp)
-- [Binary Search in Fortran](https://sampleprograms.io/projects/binary-search/fortran)
-- [Binary Search in Go](https://sampleprograms.io/projects/binary-search/go)
-- [Binary Search in Haskell](https://sampleprograms.io/projects/binary-search/haskell)
-- [Binary Search in Java](https://sampleprograms.io/projects/binary-search/java)
-- [Binary Search in JavaScript](https://sampleprograms.io/projects/binary-search/javascript)
-- [Binary Search in Kotlin](https://sampleprograms.io/projects/binary-search/kotlin)
-- [Binary Search in Mathematica](https://sampleprograms.io/projects/binary-search/mathematica)
-- [Binary Search in PHP](https://sampleprograms.io/projects/binary-search/php)
-- [Binary Search in Pascal](https://sampleprograms.io/projects/binary-search/pascal)
-- [Binary Search in Perl](https://sampleprograms.io/projects/binary-search/perl)
-- [Binary Search in PowerShell](https://sampleprograms.io/projects/binary-search/powershell)
-- [Binary Search in Python](https://sampleprograms.io/projects/binary-search/python)
-- [Binary Search in Ruby](https://sampleprograms.io/projects/binary-search/ruby)
-- [Binary Search in Rust](https://sampleprograms.io/projects/binary-search/rust)
-- [Binary Search in Swift](https://sampleprograms.io/projects/binary-search/swift)
-- [Binary Search in Tcl](https://sampleprograms.io/projects/binary-search/tcl)
-- [Binary Search in TypeScript](https://sampleprograms.io/projects/binary-search/typescript)
-- [Binary Search in Visual Basic](https://sampleprograms.io/projects/binary-search/visual-basic)
-- [Binary Search in m4](https://sampleprograms.io/projects/binary-search/m4)
+- [Binary Search in ALGOL 60](/projects/binary-search/algol60)
+- [Binary Search in ALGOL 68](/projects/binary-search/algol68)
+- [Binary Search in AWK](/projects/binary-search/awk)
+- [Binary Search in Ada](/projects/binary-search/ada)
+- [Binary Search in Beef](/projects/binary-search/beef)
+- [Binary Search in C](/projects/binary-search/c)
+- [Binary Search in C#](/projects/binary-search/c-sharp)
+- [Binary Search in C++](/projects/binary-search/c-plus-plus)
+- [Binary Search in COBOL](/projects/binary-search/cobol)
+- [Binary Search in Commodore BASIC](/projects/binary-search/commodore-basic)
+- [Binary Search in Euphoria](/projects/binary-search/euphoria)
+- [Binary Search in F#](/projects/binary-search/f-sharp)
+- [Binary Search in Fortran](/projects/binary-search/fortran)
+- [Binary Search in Go](/projects/binary-search/go)
+- [Binary Search in Haskell](/projects/binary-search/haskell)
+- [Binary Search in Java](/projects/binary-search/java)
+- [Binary Search in JavaScript](/projects/binary-search/javascript)
+- [Binary Search in Kotlin](/projects/binary-search/kotlin)
+- [Binary Search in Mathematica](/projects/binary-search/mathematica)
+- [Binary Search in PHP](/projects/binary-search/php)
+- [Binary Search in Pascal](/projects/binary-search/pascal)
+- [Binary Search in Perl](/projects/binary-search/perl)
+- [Binary Search in PowerShell](/projects/binary-search/powershell)
+- [Binary Search in Python](/projects/binary-search/python)
+- [Binary Search in Ruby](/projects/binary-search/ruby)
+- [Binary Search in Rust](/projects/binary-search/rust)
+- [Binary Search in Swift](/projects/binary-search/swift)
+- [Binary Search in Tcl](/projects/binary-search/tcl)
+- [Binary Search in TypeScript](/projects/binary-search/typescript)
+- [Binary Search in Visual Basic](/projects/binary-search/visual-basic)
+- [Binary Search in m4](/projects/binary-search/m4)
 
 ***
 
@@ -140,13 +140,13 @@ There are 31 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Base64 Encode Decode)](https://sampleprograms.io/projects/base64-encode-decode)
+[<-- Previous Project (Base64 Encode Decode)](/projects/base64-encode-decode)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Bubble Sort) -->](https://sampleprograms.io/projects/bubble-sort)
+[Next Project (Bubble Sort) -->](/projects/bubble-sort)
 
 </div>
 

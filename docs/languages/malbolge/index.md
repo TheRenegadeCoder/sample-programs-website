@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Malbolge](https://sampleprograms.io/projects/baklava/malbolge)
-- [Hello World in Malbolge](https://sampleprograms.io/projects/hello-world/malbolge)
+- [Baklava in Malbolge](/projects/baklava/malbolge)
+- [Hello World in Malbolge](/projects/hello-world/malbolge)

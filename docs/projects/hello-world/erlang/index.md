@@ -26,7 +26,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Erlang](https://sampleprograms.io/languages/erlang) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Erlang](/languages/erlang) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -43,7 +43,7 @@ main(_) ->
 
 {% endraw %}
 
-Hello World in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
+Hello World in [Erlang](/languages/erlang) was written by:
 
 - Jeremy Grifski
 - Nick Keers

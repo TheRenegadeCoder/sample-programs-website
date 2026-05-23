@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](/projects/longest-word) in [Swift](/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -74,7 +74,7 @@ func longestWord(input : String) -> Void
 
 {% endraw %}
 
-Longest Word in [Swift](https://sampleprograms.io/languages/swift) was written by:
+Longest Word in [Swift](/languages/swift) was written by:
 
 - ShawnN003
 

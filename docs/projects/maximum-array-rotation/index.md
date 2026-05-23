@@ -108,34 +108,34 @@ Usage: please provide a list of integers (e.g. "8, 3, 1, 2")
 
 There are 28 articles:
 
-- [Maximum Array Rotation in ALGOL 60](https://sampleprograms.io/projects/maximum-array-rotation/algol60)
-- [Maximum Array Rotation in ALGOL 68](https://sampleprograms.io/projects/maximum-array-rotation/algol68)
-- [Maximum Array Rotation in AWK](https://sampleprograms.io/projects/maximum-array-rotation/awk)
-- [Maximum Array Rotation in Ada](https://sampleprograms.io/projects/maximum-array-rotation/ada)
-- [Maximum Array Rotation in Beef](https://sampleprograms.io/projects/maximum-array-rotation/beef)
-- [Maximum Array Rotation in C](https://sampleprograms.io/projects/maximum-array-rotation/c)
-- [Maximum Array Rotation in C#](https://sampleprograms.io/projects/maximum-array-rotation/c-sharp)
-- [Maximum Array Rotation in C++](https://sampleprograms.io/projects/maximum-array-rotation/c-plus-plus)
-- [Maximum Array Rotation in COBOL](https://sampleprograms.io/projects/maximum-array-rotation/cobol)
-- [Maximum Array Rotation in Commodore BASIC](https://sampleprograms.io/projects/maximum-array-rotation/commodore-basic)
-- [Maximum Array Rotation in Euphoria](https://sampleprograms.io/projects/maximum-array-rotation/euphoria)
-- [Maximum Array Rotation in F#](https://sampleprograms.io/projects/maximum-array-rotation/f-sharp)
-- [Maximum Array Rotation in Go](https://sampleprograms.io/projects/maximum-array-rotation/go)
-- [Maximum Array Rotation in Haskell](https://sampleprograms.io/projects/maximum-array-rotation/haskell)
-- [Maximum Array Rotation in Java](https://sampleprograms.io/projects/maximum-array-rotation/java)
-- [Maximum Array Rotation in JavaScript](https://sampleprograms.io/projects/maximum-array-rotation/javascript)
-- [Maximum Array Rotation in Mathematica](https://sampleprograms.io/projects/maximum-array-rotation/mathematica)
-- [Maximum Array Rotation in PHP](https://sampleprograms.io/projects/maximum-array-rotation/php)
-- [Maximum Array Rotation in Pascal](https://sampleprograms.io/projects/maximum-array-rotation/pascal)
-- [Maximum Array Rotation in PowerShell](https://sampleprograms.io/projects/maximum-array-rotation/powershell)
-- [Maximum Array Rotation in Python](https://sampleprograms.io/projects/maximum-array-rotation/python)
-- [Maximum Array Rotation in Ruby](https://sampleprograms.io/projects/maximum-array-rotation/ruby)
-- [Maximum Array Rotation in Rust](https://sampleprograms.io/projects/maximum-array-rotation/rust)
-- [Maximum Array Rotation in Swift](https://sampleprograms.io/projects/maximum-array-rotation/swift)
-- [Maximum Array Rotation in Tcl](https://sampleprograms.io/projects/maximum-array-rotation/tcl)
-- [Maximum Array Rotation in TypeScript](https://sampleprograms.io/projects/maximum-array-rotation/typescript)
-- [Maximum Array Rotation in Visual Basic](https://sampleprograms.io/projects/maximum-array-rotation/visual-basic)
-- [Maximum Array Rotation in m4](https://sampleprograms.io/projects/maximum-array-rotation/m4)
+- [Maximum Array Rotation in ALGOL 60](/projects/maximum-array-rotation/algol60)
+- [Maximum Array Rotation in ALGOL 68](/projects/maximum-array-rotation/algol68)
+- [Maximum Array Rotation in AWK](/projects/maximum-array-rotation/awk)
+- [Maximum Array Rotation in Ada](/projects/maximum-array-rotation/ada)
+- [Maximum Array Rotation in Beef](/projects/maximum-array-rotation/beef)
+- [Maximum Array Rotation in C](/projects/maximum-array-rotation/c)
+- [Maximum Array Rotation in C#](/projects/maximum-array-rotation/c-sharp)
+- [Maximum Array Rotation in C++](/projects/maximum-array-rotation/c-plus-plus)
+- [Maximum Array Rotation in COBOL](/projects/maximum-array-rotation/cobol)
+- [Maximum Array Rotation in Commodore BASIC](/projects/maximum-array-rotation/commodore-basic)
+- [Maximum Array Rotation in Euphoria](/projects/maximum-array-rotation/euphoria)
+- [Maximum Array Rotation in F#](/projects/maximum-array-rotation/f-sharp)
+- [Maximum Array Rotation in Go](/projects/maximum-array-rotation/go)
+- [Maximum Array Rotation in Haskell](/projects/maximum-array-rotation/haskell)
+- [Maximum Array Rotation in Java](/projects/maximum-array-rotation/java)
+- [Maximum Array Rotation in JavaScript](/projects/maximum-array-rotation/javascript)
+- [Maximum Array Rotation in Mathematica](/projects/maximum-array-rotation/mathematica)
+- [Maximum Array Rotation in PHP](/projects/maximum-array-rotation/php)
+- [Maximum Array Rotation in Pascal](/projects/maximum-array-rotation/pascal)
+- [Maximum Array Rotation in PowerShell](/projects/maximum-array-rotation/powershell)
+- [Maximum Array Rotation in Python](/projects/maximum-array-rotation/python)
+- [Maximum Array Rotation in Ruby](/projects/maximum-array-rotation/ruby)
+- [Maximum Array Rotation in Rust](/projects/maximum-array-rotation/rust)
+- [Maximum Array Rotation in Swift](/projects/maximum-array-rotation/swift)
+- [Maximum Array Rotation in Tcl](/projects/maximum-array-rotation/tcl)
+- [Maximum Array Rotation in TypeScript](/projects/maximum-array-rotation/typescript)
+- [Maximum Array Rotation in Visual Basic](/projects/maximum-array-rotation/visual-basic)
+- [Maximum Array Rotation in m4](/projects/maximum-array-rotation/m4)
 
 ***
 
@@ -143,13 +143,13 @@ There are 28 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Longest Word)](https://sampleprograms.io/projects/longest-word)
+[<-- Previous Project (Longest Word)](/projects/longest-word)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Maximum Subarray) -->](https://sampleprograms.io/projects/maximum-subarray)
+[Next Project (Maximum Subarray) -->](/projects/maximum-subarray)
 
 </div>
 

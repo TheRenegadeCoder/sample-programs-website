@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Palindromic Substring](/projects/longest-palindromic-substring) in [Euphoria](/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -121,7 +121,7 @@ printf(STDOUT, "%s\n", {longest})
 
 {% endraw %}
 
-Longest Palindromic Substring in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Longest Palindromic Substring in [Euphoria](/languages/euphoria) was written by:
 
 - rzuckerm
 

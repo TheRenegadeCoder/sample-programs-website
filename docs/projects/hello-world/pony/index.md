@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Pony](https://sampleprograms.io/languages/pony) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Pony](/languages/pony) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -39,7 +39,7 @@ actor Main
 
 {% endraw %}
 
-Hello World in [Pony](https://sampleprograms.io/languages/pony) was written by:
+Hello World in [Pony](/languages/pony) was written by:
 
 - Jeremy Grifski
 

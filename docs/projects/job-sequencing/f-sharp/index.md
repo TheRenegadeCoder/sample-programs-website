@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [F#](https://sampleprograms.io/languages/f-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](/projects/job-sequencing) in [F#](/languages/f-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -104,7 +104,7 @@ let main argv =
 
 {% endraw %}
 
-Job Sequencing in [F#](https://sampleprograms.io/languages/f-sharp) was written by:
+Job Sequencing in [F#](/languages/f-sharp) was written by:
 
 - Ștefan-Iulian Alecu
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [V](https://sampleprograms.io/languages/v) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](/projects/factorial) in [V](/languages/v) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -67,7 +67,7 @@ fn main() {
 
 {% endraw %}
 
-Factorial in [V](https://sampleprograms.io/languages/v) was written by:
+Factorial in [V](/languages/v) was written by:
 
 - Zia
 

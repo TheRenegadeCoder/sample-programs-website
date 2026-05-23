@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Batch](https://sampleprograms.io/projects/baklava/batch)
-- [Fizz Buzz in Batch](https://sampleprograms.io/projects/fizz-buzz/batch)
-- [Hello World in Batch](https://sampleprograms.io/projects/hello-world/batch)
+- [Baklava in Batch](/projects/baklava/batch)
+- [Fizz Buzz in Batch](/projects/fizz-buzz/batch)
+- [Hello World in Batch](/projects/hello-world/batch)

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Grain](https://sampleprograms.io/languages/grain) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Grain](/languages/grain) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -51,7 +51,7 @@ Range.forEach(n => print(baklavaLine(n)), {rangeStart: -10, rangeEnd: 11})
 
 {% endraw %}
 
-Baklava in [Grain](https://sampleprograms.io/languages/grain) was written by:
+Baklava in [Grain](/languages/grain) was written by:
 
 - rzuckerm
 

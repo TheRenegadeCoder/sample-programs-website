@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Nim](https://sampleprograms.io/languages/nim) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](/projects/fibonacci) in [Nim](/languages/nim) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -62,7 +62,7 @@ for i in 1..n:
 
 {% endraw %}
 
-Fibonacci in [Nim](https://sampleprograms.io/languages/nim) was written by:
+Fibonacci in [Nim](/languages/nim) was written by:
 
 - Michael Olson
 

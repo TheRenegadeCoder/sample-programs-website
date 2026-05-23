@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Wyvern](https://sampleprograms.io/languages/wyvern) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Wyvern](/languages/wyvern) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -54,7 +54,7 @@ baklava(-10, 10)
 
 {% endraw %}
 
-Baklava in [Wyvern](https://sampleprograms.io/languages/wyvern) was written by:
+Baklava in [Wyvern](/languages/wyvern) was written by:
 
 - rzuckerm
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Julia](https://sampleprograms.io/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](/projects/longest-word) in [Julia](/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -52,7 +52,7 @@ println(longest_word_length(input_string))
 
 {% endraw %}
 
-Longest Word in [Julia](https://sampleprograms.io/languages/julia) was written by:
+Longest Word in [Julia](/languages/julia) was written by:
 
 - brittLiban
 

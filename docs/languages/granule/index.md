@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Granule](https://sampleprograms.io/projects/baklava/granule)
-- [Hello World in Granule](https://sampleprograms.io/projects/hello-world/granule)
+- [Baklava in Granule](/projects/baklava/granule)
+- [Hello World in Granule](/projects/hello-world/granule)

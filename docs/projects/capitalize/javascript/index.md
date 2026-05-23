@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](/projects/capitalize) in [JavaScript](/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -51,7 +51,7 @@ main();
 
 {% endraw %}
 
-Capitalize in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
+Capitalize in [JavaScript](/languages/javascript) was written by:
 
 - Daniel Luna
 - Jeremy Grifski

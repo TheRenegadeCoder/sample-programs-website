@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Lucee](https://sampleprograms.io/projects/baklava/lucee)
-- [Hello World in Lucee](https://sampleprograms.io/projects/hello-world/lucee)
+- [Baklava in Lucee](/projects/baklava/lucee)
+- [Hello World in Lucee](/projects/hello-world/lucee)

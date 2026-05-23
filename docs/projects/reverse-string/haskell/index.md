@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](/projects/reverse-string) in [Haskell](/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -48,7 +48,7 @@ main = do
 
 {% endraw %}
 
-Reverse String in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+Reverse String in [Haskell](/languages/haskell) was written by:
 
 - Panagiotis Georgiadis
 - rzuckerm

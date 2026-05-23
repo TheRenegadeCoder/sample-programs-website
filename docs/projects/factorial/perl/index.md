@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](/projects/factorial) in [Perl](/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -52,7 +52,7 @@ say $factorial;
 
 {% endraw %}
 
-Factorial in [Perl](https://sampleprograms.io/languages/perl) was written by:
+Factorial in [Perl](/languages/perl) was written by:
 
 - Gabriela Kandová
 - Ștefan-Iulian Alecu

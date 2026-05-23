@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in MojiScript](https://sampleprograms.io/projects/baklava/mojiscript)
-- [Hello World in MojiScript](https://sampleprograms.io/projects/hello-world/mojiscript)
+- [Baklava in MojiScript](/projects/baklava/mojiscript)
+- [Hello World in MojiScript](/projects/hello-world/mojiscript)

@@ -26,7 +26,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [ALGOL 68](/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -39,7 +39,7 @@ printf(($gl$, "Hello, World!"))
 
 {% endraw %}
 
-Hello World in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
+Hello World in [ALGOL 68](/languages/algol68) was written by:
 
 - Jeremy Grifski
 

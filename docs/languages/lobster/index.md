@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Lobster](https://sampleprograms.io/projects/baklava/lobster)
-- [Fizz Buzz in Lobster](https://sampleprograms.io/projects/fizz-buzz/lobster)
-- [Hello World in Lobster](https://sampleprograms.io/projects/hello-world/lobster)
+- [Baklava in Lobster](/projects/baklava/lobster)
+- [Fizz Buzz in Lobster](/projects/fizz-buzz/lobster)
+- [Hello World in Lobster](/projects/hello-world/lobster)

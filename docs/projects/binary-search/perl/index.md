@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Binary Search](/projects/binary-search) in [Perl](/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -86,7 +86,7 @@ say binary_search( $list, $num );
 
 {% endraw %}
 
-Binary Search in [Perl](https://sampleprograms.io/languages/perl) was written by:
+Binary Search in [Perl](/languages/perl) was written by:
 
 - Meet Thakur
 - Ștefan-Iulian Alecu

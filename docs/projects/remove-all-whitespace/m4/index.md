@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [m4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Remove All Whitespace](/projects/remove-all-whitespace) in [m4](/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -44,7 +44,7 @@ ifelse(eval(ARGC < 1 || len(ARGV1) < 1), 1, `show_usage()', `remove_all_whitespa
 
 {% endraw %}
 
-Remove All Whitespace in [m4](https://sampleprograms.io/languages/m4) was written by:
+Remove All Whitespace in [m4](/languages/m4) was written by:
 
 - rzuckerm
 

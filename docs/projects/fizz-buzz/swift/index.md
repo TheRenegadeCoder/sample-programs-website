@@ -26,7 +26,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Swift](/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -61,7 +61,7 @@ fizzBuzz();
 
 {% endraw %}
 
-Fizz Buzz in [Swift](https://sampleprograms.io/languages/swift) was written by:
+Fizz Buzz in [Swift](/languages/swift) was written by:
 
 - Marty Hernandez Avedon
 

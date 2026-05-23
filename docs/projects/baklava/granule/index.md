@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Granule](https://sampleprograms.io/languages/granule) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Granule](/languages/granule) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -61,7 +61,7 @@ main = toStdout (baklava [""] [-10] [10])
 
 {% endraw %}
 
-Baklava in [Granule](https://sampleprograms.io/languages/granule) was written by:
+Baklava in [Granule](/languages/granule) was written by:
 
 - rzuckerm
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [PHP](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](/projects/quine) in [PHP](/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [PHP](https:
 
 {% endraw %}
 
-Quine in [PHP](https://sampleprograms.io/languages/php) was written by:
+Quine in [PHP](/languages/php) was written by:
 
 - Juan D Frias
 

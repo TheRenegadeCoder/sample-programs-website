@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Zeckendorf](https://sampleprograms.io/projects/zeckendorf) in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Zeckendorf](/projects/zeckendorf) in [Commodore BASIC](/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -148,7 +148,7 @@ Welcome to the [Zeckendorf](https://sampleprograms.io/projects/zeckendorf) in [C
 
 {% endraw %}
 
-Zeckendorf in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) was written by:
+Zeckendorf in [Commodore BASIC](/languages/commodore-basic) was written by:
 
 - rzuckerm
 

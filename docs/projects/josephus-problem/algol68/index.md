@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Josephus Problem](/projects/josephus-problem) in [ALGOL 68](/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -122,7 +122,7 @@ printf(($gl$, whole(g, 0)))
 
 {% endraw %}
 
-Josephus Problem in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
+Josephus Problem in [ALGOL 68](/languages/algol68) was written by:
 
 - rzuckerm
 

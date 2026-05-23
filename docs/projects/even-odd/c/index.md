@@ -28,7 +28,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](/projects/even-odd) in [C](/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -63,7 +63,7 @@ int main(int argc, char **argv)
 
 {% endraw %}
 
-Even Odd in [C](https://sampleprograms.io/languages/c) was written by:
+Even Odd in [C](/languages/c) was written by:
 
 - AceKnight
 - Jeremy Grifski

@@ -67,6 +67,6 @@ the language in action.
 
 There are 3 articles:
 
-- [Baklava in Goby](https://sampleprograms.io/projects/baklava/goby)
-- [Fizz Buzz in Goby](https://sampleprograms.io/projects/fizz-buzz/goby)
-- [Hello World in Goby](https://sampleprograms.io/projects/hello-world/goby)
+- [Baklava in Goby](/projects/baklava/goby)
+- [Fizz Buzz in Goby](/projects/fizz-buzz/goby)
+- [Hello World in Goby](/projects/hello-world/goby)

@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Rot13](/projects/rot13) in [C++](/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -63,7 +63,7 @@ int main(int argc, char* argv[]) {
 
 {% endraw %}
 
-Rot13 in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+Rot13 in [C++](/languages/c-plus-plus) was written by:
 
 - Himanshu Raheja
 - Ștefan-Iulian Alecu

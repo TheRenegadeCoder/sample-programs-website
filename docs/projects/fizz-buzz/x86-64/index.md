@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [x86-64](https://sampleprograms.io/languages/x86-64) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [x86-64](/languages/x86-64) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -170,7 +170,7 @@ print_val:
 
 {% endraw %}
 
-Fizz Buzz in [x86-64](https://sampleprograms.io/languages/x86-64) was written by:
+Fizz Buzz in [x86-64](/languages/x86-64) was written by:
 
 - alope107
 

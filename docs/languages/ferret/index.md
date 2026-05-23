@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Ferret](https://sampleprograms.io/projects/baklava/ferret)
-- [Hello World in Ferret](https://sampleprograms.io/projects/hello-world/ferret)
+- [Baklava in Ferret](/projects/baklava/ferret)
+- [Hello World in Ferret](/projects/hello-world/ferret)

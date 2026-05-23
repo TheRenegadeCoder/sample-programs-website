@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Common Subsequence](/projects/longest-common-subsequence) in [Haskell](/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -77,7 +77,7 @@ main = do
 
 {% endraw %}
 
-Longest Common Subsequence in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+Longest Common Subsequence in [Haskell](/languages/haskell) was written by:
 
 - Parker Johansen
 

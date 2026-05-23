@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Base64 Encode Decode](https://sampleprograms.io/projects/base64-encode-decode) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Base64 Encode Decode](/projects/base64-encode-decode) in [Bash](/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -258,7 +258,7 @@ esac
 
 {% endraw %}
 
-Base64 Encode Decode in [Bash](https://sampleprograms.io/languages/bash) was written by:
+Base64 Encode Decode in [Bash](/languages/bash) was written by:
 
 - rzuckerm
 

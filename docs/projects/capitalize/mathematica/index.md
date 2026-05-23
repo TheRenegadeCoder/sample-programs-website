@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](/projects/capitalize) in [Mathematica](/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -66,7 +66,7 @@ capitalizeMain[""]
 
 {% endraw %}
 
-Capitalize in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Capitalize in [Mathematica](/languages/mathematica) was written by:
 
 - Ben Hekster
 

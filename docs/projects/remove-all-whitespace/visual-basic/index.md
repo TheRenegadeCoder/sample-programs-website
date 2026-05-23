@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Visual Basic](https://sampleprograms.io/languages/visual-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Remove All Whitespace](/projects/remove-all-whitespace) in [Visual Basic](/languages/visual-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -73,7 +73,7 @@ End Module
 
 {% endraw %}
 
-Remove All Whitespace in [Visual Basic](https://sampleprograms.io/languages/visual-basic) was written by:
+Remove All Whitespace in [Visual Basic](/languages/visual-basic) was written by:
 
 - Ștefan-Iulian Alecu
 

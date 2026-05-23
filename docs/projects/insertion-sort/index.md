@@ -142,38 +142,38 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 There are 32 articles:
 
-- [Insertion Sort in ALGOL 60](https://sampleprograms.io/projects/insertion-sort/algol60)
-- [Insertion Sort in ALGOL 68](https://sampleprograms.io/projects/insertion-sort/algol68)
-- [Insertion Sort in AWK](https://sampleprograms.io/projects/insertion-sort/awk)
-- [Insertion Sort in Ada](https://sampleprograms.io/projects/insertion-sort/ada)
-- [Insertion Sort in Beef](https://sampleprograms.io/projects/insertion-sort/beef)
-- [Insertion Sort in C](https://sampleprograms.io/projects/insertion-sort/c)
-- [Insertion Sort in C#](https://sampleprograms.io/projects/insertion-sort/c-sharp)
-- [Insertion Sort in C++](https://sampleprograms.io/projects/insertion-sort/c-plus-plus)
-- [Insertion Sort in COBOL](https://sampleprograms.io/projects/insertion-sort/cobol)
-- [Insertion Sort in Commodore BASIC](https://sampleprograms.io/projects/insertion-sort/commodore-basic)
-- [Insertion Sort in Euphoria](https://sampleprograms.io/projects/insertion-sort/euphoria)
-- [Insertion Sort in F#](https://sampleprograms.io/projects/insertion-sort/f-sharp)
-- [Insertion Sort in Fortran](https://sampleprograms.io/projects/insertion-sort/fortran)
-- [Insertion Sort in Go](https://sampleprograms.io/projects/insertion-sort/go)
-- [Insertion Sort in Haskell](https://sampleprograms.io/projects/insertion-sort/haskell)
-- [Insertion Sort in Java](https://sampleprograms.io/projects/insertion-sort/java)
-- [Insertion Sort in JavaScript](https://sampleprograms.io/projects/insertion-sort/javascript)
-- [Insertion Sort in Kotlin](https://sampleprograms.io/projects/insertion-sort/kotlin)
-- [Insertion Sort in Mathematica](https://sampleprograms.io/projects/insertion-sort/mathematica)
-- [Insertion Sort in Octave](https://sampleprograms.io/projects/insertion-sort/octave)
-- [Insertion Sort in PHP](https://sampleprograms.io/projects/insertion-sort/php)
-- [Insertion Sort in Pascal](https://sampleprograms.io/projects/insertion-sort/pascal)
-- [Insertion Sort in Perl](https://sampleprograms.io/projects/insertion-sort/perl)
-- [Insertion Sort in PowerShell](https://sampleprograms.io/projects/insertion-sort/powershell)
-- [Insertion Sort in Python](https://sampleprograms.io/projects/insertion-sort/python)
-- [Insertion Sort in Ruby](https://sampleprograms.io/projects/insertion-sort/ruby)
-- [Insertion Sort in Rust](https://sampleprograms.io/projects/insertion-sort/rust)
-- [Insertion Sort in Swift](https://sampleprograms.io/projects/insertion-sort/swift)
-- [Insertion Sort in Tcl](https://sampleprograms.io/projects/insertion-sort/tcl)
-- [Insertion Sort in TypeScript](https://sampleprograms.io/projects/insertion-sort/typescript)
-- [Insertion Sort in Visual Basic](https://sampleprograms.io/projects/insertion-sort/visual-basic)
-- [Insertion Sort in m4](https://sampleprograms.io/projects/insertion-sort/m4)
+- [Insertion Sort in ALGOL 60](/projects/insertion-sort/algol60)
+- [Insertion Sort in ALGOL 68](/projects/insertion-sort/algol68)
+- [Insertion Sort in AWK](/projects/insertion-sort/awk)
+- [Insertion Sort in Ada](/projects/insertion-sort/ada)
+- [Insertion Sort in Beef](/projects/insertion-sort/beef)
+- [Insertion Sort in C](/projects/insertion-sort/c)
+- [Insertion Sort in C#](/projects/insertion-sort/c-sharp)
+- [Insertion Sort in C++](/projects/insertion-sort/c-plus-plus)
+- [Insertion Sort in COBOL](/projects/insertion-sort/cobol)
+- [Insertion Sort in Commodore BASIC](/projects/insertion-sort/commodore-basic)
+- [Insertion Sort in Euphoria](/projects/insertion-sort/euphoria)
+- [Insertion Sort in F#](/projects/insertion-sort/f-sharp)
+- [Insertion Sort in Fortran](/projects/insertion-sort/fortran)
+- [Insertion Sort in Go](/projects/insertion-sort/go)
+- [Insertion Sort in Haskell](/projects/insertion-sort/haskell)
+- [Insertion Sort in Java](/projects/insertion-sort/java)
+- [Insertion Sort in JavaScript](/projects/insertion-sort/javascript)
+- [Insertion Sort in Kotlin](/projects/insertion-sort/kotlin)
+- [Insertion Sort in Mathematica](/projects/insertion-sort/mathematica)
+- [Insertion Sort in Octave](/projects/insertion-sort/octave)
+- [Insertion Sort in PHP](/projects/insertion-sort/php)
+- [Insertion Sort in Pascal](/projects/insertion-sort/pascal)
+- [Insertion Sort in Perl](/projects/insertion-sort/perl)
+- [Insertion Sort in PowerShell](/projects/insertion-sort/powershell)
+- [Insertion Sort in Python](/projects/insertion-sort/python)
+- [Insertion Sort in Ruby](/projects/insertion-sort/ruby)
+- [Insertion Sort in Rust](/projects/insertion-sort/rust)
+- [Insertion Sort in Swift](/projects/insertion-sort/swift)
+- [Insertion Sort in Tcl](/projects/insertion-sort/tcl)
+- [Insertion Sort in TypeScript](/projects/insertion-sort/typescript)
+- [Insertion Sort in Visual Basic](/projects/insertion-sort/visual-basic)
+- [Insertion Sort in m4](/projects/insertion-sort/m4)
 
 ***
 
@@ -181,13 +181,13 @@ There are 32 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Hello World)](https://sampleprograms.io/projects/hello-world)
+[<-- Previous Project (Hello World)](/projects/hello-world)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Job Sequencing) -->](https://sampleprograms.io/projects/job-sequencing)
+[Next Project (Job Sequencing) -->](/projects/job-sequencing)
 
 </div>
 

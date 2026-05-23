@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](/projects/quine) in [Bash](/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ echo $BASH_COMMAND
 
 {% endraw %}
 
-Quine in [Bash](https://sampleprograms.io/languages/bash) was written by:
+Quine in [Bash](/languages/bash) was written by:
 
 - Jeng
 

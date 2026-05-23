@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Erlang](https://sampleprograms.io/languages/erlang) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](/projects/reverse-string) in [Erlang](/languages/erlang) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -56,7 +56,7 @@ main(Args) ->
 
 {% endraw %}
 
-Reverse String in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
+Reverse String in [Erlang](/languages/erlang) was written by:
 
 - Mark Magahis
 - rzuckerm

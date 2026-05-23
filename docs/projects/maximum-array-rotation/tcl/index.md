@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [Tcl](https://sampleprograms.io/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Maximum Array Rotation](/projects/maximum-array-rotation) in [Tcl](/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -83,7 +83,7 @@ puts [maximumRotationSum $numbers]
 
 {% endraw %}
 
-Maximum Array Rotation in [Tcl](https://sampleprograms.io/languages/tcl) was written by:
+Maximum Array Rotation in [Tcl](/languages/tcl) was written by:
 
 - Ștefan-Iulian Alecu
 

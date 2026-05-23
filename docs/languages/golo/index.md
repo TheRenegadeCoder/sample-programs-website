@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Golo](https://sampleprograms.io/projects/baklava/golo)
-- [Hello World in Golo](https://sampleprograms.io/projects/hello-world/golo)
+- [Baklava in Golo](/projects/baklava/golo)
+- [Hello World in Golo](/projects/hello-world/golo)

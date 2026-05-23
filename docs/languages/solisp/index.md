@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Solisp](https://sampleprograms.io/projects/baklava/solisp)
-- [Fizz Buzz in Solisp](https://sampleprograms.io/projects/fizz-buzz/solisp)
-- [Hello World in Solisp](https://sampleprograms.io/projects/hello-world/solisp)
+- [Baklava in Solisp](/projects/baklava/solisp)
+- [Fizz Buzz in Solisp](/projects/fizz-buzz/solisp)
+- [Hello World in Solisp](/projects/hello-world/solisp)

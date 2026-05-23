@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fraction Math](/projects/fraction-math) in [Haskell](/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -78,7 +78,7 @@ main = do
 
 {% endraw %}
 
-Fraction Math in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+Fraction Math in [Haskell](/languages/haskell) was written by:
 
 - Ricardo Mapurunga Junior
 

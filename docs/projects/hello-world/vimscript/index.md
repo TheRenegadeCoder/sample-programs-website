@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Vimscript](https://sampleprograms.io/languages/vimscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Vimscript](/languages/vimscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -40,7 +40,7 @@ endfunc
 
 {% endraw %}
 
-Hello World in [Vimscript](https://sampleprograms.io/languages/vimscript) was written by:
+Hello World in [Vimscript](/languages/vimscript) was written by:
 
 - Christoph Böhmwalder
 - rzuckerm

@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Selection Sort](/projects/selection-sort) in [Ruby](/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -66,7 +66,7 @@ puts input.selection_sort.join(", ")
 
 {% endraw %}
 
-Selection Sort in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Selection Sort in [Ruby](/languages/ruby) was written by:
 
 - Ahmed
 - Ștefan-Iulian Alecu

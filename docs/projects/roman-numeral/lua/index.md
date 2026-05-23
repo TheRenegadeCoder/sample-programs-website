@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](/projects/roman-numeral) in [Lua](/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -106,7 +106,7 @@ print(convertToDecimal(input))
 
 {% endraw %}
 
-Roman Numeral in [Lua](https://sampleprograms.io/languages/lua) was written by:
+Roman Numeral in [Lua](/languages/lua) was written by:
 
 - Jeremy Grifski
 - jketterer

@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Eiffel](https://sampleprograms.io/projects/baklava/eiffel)
-- [Fizz Buzz in Eiffel](https://sampleprograms.io/projects/fizz-buzz/eiffel)
-- [Hello World in Eiffel](https://sampleprograms.io/projects/hello-world/eiffel)
+- [Baklava in Eiffel](/projects/baklava/eiffel)
+- [Fizz Buzz in Eiffel](/projects/fizz-buzz/eiffel)
+- [Hello World in Eiffel](/projects/hello-world/eiffel)

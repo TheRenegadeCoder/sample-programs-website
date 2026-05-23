@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [ALGOL 60](https://sampleprograms.io/languages/algol60) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Common Subsequence](/projects/longest-common-subsequence) in [ALGOL 60](/languages/algol60) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -282,7 +282,7 @@ end
 
 {% endraw %}
 
-Longest Common Subsequence in [ALGOL 60](https://sampleprograms.io/languages/algol60) was written by:
+Longest Common Subsequence in [ALGOL 60](/languages/algol60) was written by:
 
 - rzuckerm
 

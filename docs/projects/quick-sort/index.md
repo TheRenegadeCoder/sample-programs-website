@@ -137,40 +137,40 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 There are 34 articles:
 
-- [Quick Sort in ALGOL 60](https://sampleprograms.io/projects/quick-sort/algol60)
-- [Quick Sort in ALGOL 68](https://sampleprograms.io/projects/quick-sort/algol68)
-- [Quick Sort in AWK](https://sampleprograms.io/projects/quick-sort/awk)
-- [Quick Sort in Bash](https://sampleprograms.io/projects/quick-sort/bash)
-- [Quick Sort in Beef](https://sampleprograms.io/projects/quick-sort/beef)
-- [Quick Sort in C](https://sampleprograms.io/projects/quick-sort/c)
-- [Quick Sort in C#](https://sampleprograms.io/projects/quick-sort/c-sharp)
-- [Quick Sort in C++](https://sampleprograms.io/projects/quick-sort/c-plus-plus)
-- [Quick Sort in COBOL](https://sampleprograms.io/projects/quick-sort/cobol)
-- [Quick Sort in Commodore BASIC](https://sampleprograms.io/projects/quick-sort/commodore-basic)
-- [Quick Sort in Dart](https://sampleprograms.io/projects/quick-sort/dart)
-- [Quick Sort in Euphoria](https://sampleprograms.io/projects/quick-sort/euphoria)
-- [Quick Sort in F#](https://sampleprograms.io/projects/quick-sort/f-sharp)
-- [Quick Sort in Go](https://sampleprograms.io/projects/quick-sort/go)
-- [Quick Sort in Haskell](https://sampleprograms.io/projects/quick-sort/haskell)
-- [Quick Sort in Java](https://sampleprograms.io/projects/quick-sort/java)
-- [Quick Sort in JavaScript](https://sampleprograms.io/projects/quick-sort/javascript)
-- [Quick Sort in Kotlin](https://sampleprograms.io/projects/quick-sort/kotlin)
-- [Quick Sort in Lisp](https://sampleprograms.io/projects/quick-sort/lisp)
-- [Quick Sort in Mathematica](https://sampleprograms.io/projects/quick-sort/mathematica)
-- [Quick Sort in Objective-C](https://sampleprograms.io/projects/quick-sort/objective-c)
-- [Quick Sort in PHP](https://sampleprograms.io/projects/quick-sort/php)
-- [Quick Sort in Pascal](https://sampleprograms.io/projects/quick-sort/pascal)
-- [Quick Sort in Perl](https://sampleprograms.io/projects/quick-sort/perl)
-- [Quick Sort in PowerShell](https://sampleprograms.io/projects/quick-sort/powershell)
-- [Quick Sort in Python](https://sampleprograms.io/projects/quick-sort/python)
-- [Quick Sort in Ruby](https://sampleprograms.io/projects/quick-sort/ruby)
-- [Quick Sort in Rust](https://sampleprograms.io/projects/quick-sort/rust)
-- [Quick Sort in Scala](https://sampleprograms.io/projects/quick-sort/scala)
-- [Quick Sort in Swift](https://sampleprograms.io/projects/quick-sort/swift)
-- [Quick Sort in Tcl](https://sampleprograms.io/projects/quick-sort/tcl)
-- [Quick Sort in TypeScript](https://sampleprograms.io/projects/quick-sort/typescript)
-- [Quick Sort in Visual Basic](https://sampleprograms.io/projects/quick-sort/visual-basic)
-- [Quick Sort in m4](https://sampleprograms.io/projects/quick-sort/m4)
+- [Quick Sort in ALGOL 60](/projects/quick-sort/algol60)
+- [Quick Sort in ALGOL 68](/projects/quick-sort/algol68)
+- [Quick Sort in AWK](/projects/quick-sort/awk)
+- [Quick Sort in Bash](/projects/quick-sort/bash)
+- [Quick Sort in Beef](/projects/quick-sort/beef)
+- [Quick Sort in C](/projects/quick-sort/c)
+- [Quick Sort in C#](/projects/quick-sort/c-sharp)
+- [Quick Sort in C++](/projects/quick-sort/c-plus-plus)
+- [Quick Sort in COBOL](/projects/quick-sort/cobol)
+- [Quick Sort in Commodore BASIC](/projects/quick-sort/commodore-basic)
+- [Quick Sort in Dart](/projects/quick-sort/dart)
+- [Quick Sort in Euphoria](/projects/quick-sort/euphoria)
+- [Quick Sort in F#](/projects/quick-sort/f-sharp)
+- [Quick Sort in Go](/projects/quick-sort/go)
+- [Quick Sort in Haskell](/projects/quick-sort/haskell)
+- [Quick Sort in Java](/projects/quick-sort/java)
+- [Quick Sort in JavaScript](/projects/quick-sort/javascript)
+- [Quick Sort in Kotlin](/projects/quick-sort/kotlin)
+- [Quick Sort in Lisp](/projects/quick-sort/lisp)
+- [Quick Sort in Mathematica](/projects/quick-sort/mathematica)
+- [Quick Sort in Objective-C](/projects/quick-sort/objective-c)
+- [Quick Sort in PHP](/projects/quick-sort/php)
+- [Quick Sort in Pascal](/projects/quick-sort/pascal)
+- [Quick Sort in Perl](/projects/quick-sort/perl)
+- [Quick Sort in PowerShell](/projects/quick-sort/powershell)
+- [Quick Sort in Python](/projects/quick-sort/python)
+- [Quick Sort in Ruby](/projects/quick-sort/ruby)
+- [Quick Sort in Rust](/projects/quick-sort/rust)
+- [Quick Sort in Scala](/projects/quick-sort/scala)
+- [Quick Sort in Swift](/projects/quick-sort/swift)
+- [Quick Sort in Tcl](/projects/quick-sort/tcl)
+- [Quick Sort in TypeScript](/projects/quick-sort/typescript)
+- [Quick Sort in Visual Basic](/projects/quick-sort/visual-basic)
+- [Quick Sort in m4](/projects/quick-sort/m4)
 
 ***
 
@@ -178,13 +178,13 @@ There are 34 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Prime Number)](https://sampleprograms.io/projects/prime-number)
+[<-- Previous Project (Prime Number)](/projects/prime-number)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Quine) -->](https://sampleprograms.io/projects/quine)
+[Next Project (Quine) -->](/projects/quine)
 
 </div>
 

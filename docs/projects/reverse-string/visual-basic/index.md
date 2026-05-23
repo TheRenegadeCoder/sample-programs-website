@@ -27,7 +27,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Visual Basic](https://sampleprograms.io/languages/visual-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](/projects/reverse-string) in [Visual Basic](/languages/visual-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -55,7 +55,7 @@ End Module
 
 {% endraw %}
 
-Reverse String in [Visual Basic](https://sampleprograms.io/languages/visual-basic) was written by:
+Reverse String in [Visual Basic](/languages/visual-basic) was written by:
 
 - AaronLenoir
 - Andrew Reid

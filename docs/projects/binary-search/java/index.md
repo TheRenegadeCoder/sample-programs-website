@@ -27,7 +27,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Binary Search](/projects/binary-search) in [Java](/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -82,7 +82,7 @@ public class BinarySearch {
 
 {% endraw %}
 
-Binary Search in [Java](https://sampleprograms.io/languages/java) was written by:
+Binary Search in [Java](/languages/java) was written by:
 
 - Jeremy Grifski
 - Vipin Yadav

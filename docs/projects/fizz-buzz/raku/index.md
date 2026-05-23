@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Raku](https://sampleprograms.io/languages/raku) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Raku](/languages/raku) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -49,7 +49,7 @@ for 1..100 -> $i {
 
 {% endraw %}
 
-Fizz Buzz in [Raku](https://sampleprograms.io/languages/raku) was written by:
+Fizz Buzz in [Raku](/languages/raku) was written by:
 
 - xavierb117
 

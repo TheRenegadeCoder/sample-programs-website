@@ -30,7 +30,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 4 articles:
 
-- [Baklava in Zig](https://sampleprograms.io/projects/baklava/zig)
-- [Base64 Encode Decode in Zig](https://sampleprograms.io/projects/base64-encode-decode/zig)
-- [Fizz Buzz in Zig](https://sampleprograms.io/projects/fizz-buzz/zig)
-- [Hello World in Zig](https://sampleprograms.io/projects/hello-world/zig)
+- [Baklava in Zig](/projects/baklava/zig)
+- [Base64 Encode Decode in Zig](/projects/base64-encode-decode/zig)
+- [Fizz Buzz in Zig](/projects/fizz-buzz/zig)
+- [Hello World in Zig](/projects/hello-world/zig)

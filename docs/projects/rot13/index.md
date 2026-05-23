@@ -103,40 +103,40 @@ Usage: please provide a string to encrypt
 
 There are 34 articles:
 
-- [Rot13 in ALGOL 60](https://sampleprograms.io/projects/rot13/algol60)
-- [Rot13 in ALGOL 68](https://sampleprograms.io/projects/rot13/algol68)
-- [Rot13 in AWK](https://sampleprograms.io/projects/rot13/awk)
-- [Rot13 in Beef](https://sampleprograms.io/projects/rot13/beef)
-- [Rot13 in Brainfuck](https://sampleprograms.io/projects/rot13/brainfuck)
-- [Rot13 in C](https://sampleprograms.io/projects/rot13/c)
-- [Rot13 in C#](https://sampleprograms.io/projects/rot13/c-sharp)
-- [Rot13 in C++](https://sampleprograms.io/projects/rot13/c-plus-plus)
-- [Rot13 in COBOL](https://sampleprograms.io/projects/rot13/cobol)
-- [Rot13 in Commodore BASIC](https://sampleprograms.io/projects/rot13/commodore-basic)
-- [Rot13 in Dart](https://sampleprograms.io/projects/rot13/dart)
-- [Rot13 in Elvish](https://sampleprograms.io/projects/rot13/elvish)
-- [Rot13 in Euphoria](https://sampleprograms.io/projects/rot13/euphoria)
-- [Rot13 in F#](https://sampleprograms.io/projects/rot13/f-sharp)
-- [Rot13 in Go](https://sampleprograms.io/projects/rot13/go)
-- [Rot13 in Haskell](https://sampleprograms.io/projects/rot13/haskell)
-- [Rot13 in Java](https://sampleprograms.io/projects/rot13/java)
-- [Rot13 in JavaScript](https://sampleprograms.io/projects/rot13/javascript)
-- [Rot13 in Kotlin](https://sampleprograms.io/projects/rot13/kotlin)
-- [Rot13 in Lua](https://sampleprograms.io/projects/rot13/lua)
-- [Rot13 in Mathematica](https://sampleprograms.io/projects/rot13/mathematica)
-- [Rot13 in PHP](https://sampleprograms.io/projects/rot13/php)
-- [Rot13 in Pascal](https://sampleprograms.io/projects/rot13/pascal)
-- [Rot13 in Perl](https://sampleprograms.io/projects/rot13/perl)
-- [Rot13 in PowerShell](https://sampleprograms.io/projects/rot13/powershell)
-- [Rot13 in Python](https://sampleprograms.io/projects/rot13/python)
-- [Rot13 in Ruby](https://sampleprograms.io/projects/rot13/ruby)
-- [Rot13 in Rust](https://sampleprograms.io/projects/rot13/rust)
-- [Rot13 in Swift](https://sampleprograms.io/projects/rot13/swift)
-- [Rot13 in TI-BASIC](https://sampleprograms.io/projects/rot13/ti-basic)
-- [Rot13 in Tcl](https://sampleprograms.io/projects/rot13/tcl)
-- [Rot13 in TypeScript](https://sampleprograms.io/projects/rot13/typescript)
-- [Rot13 in Visual Basic](https://sampleprograms.io/projects/rot13/visual-basic)
-- [Rot13 in m4](https://sampleprograms.io/projects/rot13/m4)
+- [Rot13 in ALGOL 60](/projects/rot13/algol60)
+- [Rot13 in ALGOL 68](/projects/rot13/algol68)
+- [Rot13 in AWK](/projects/rot13/awk)
+- [Rot13 in Beef](/projects/rot13/beef)
+- [Rot13 in Brainfuck](/projects/rot13/brainfuck)
+- [Rot13 in C](/projects/rot13/c)
+- [Rot13 in C#](/projects/rot13/c-sharp)
+- [Rot13 in C++](/projects/rot13/c-plus-plus)
+- [Rot13 in COBOL](/projects/rot13/cobol)
+- [Rot13 in Commodore BASIC](/projects/rot13/commodore-basic)
+- [Rot13 in Dart](/projects/rot13/dart)
+- [Rot13 in Elvish](/projects/rot13/elvish)
+- [Rot13 in Euphoria](/projects/rot13/euphoria)
+- [Rot13 in F#](/projects/rot13/f-sharp)
+- [Rot13 in Go](/projects/rot13/go)
+- [Rot13 in Haskell](/projects/rot13/haskell)
+- [Rot13 in Java](/projects/rot13/java)
+- [Rot13 in JavaScript](/projects/rot13/javascript)
+- [Rot13 in Kotlin](/projects/rot13/kotlin)
+- [Rot13 in Lua](/projects/rot13/lua)
+- [Rot13 in Mathematica](/projects/rot13/mathematica)
+- [Rot13 in PHP](/projects/rot13/php)
+- [Rot13 in Pascal](/projects/rot13/pascal)
+- [Rot13 in Perl](/projects/rot13/perl)
+- [Rot13 in PowerShell](/projects/rot13/powershell)
+- [Rot13 in Python](/projects/rot13/python)
+- [Rot13 in Ruby](/projects/rot13/ruby)
+- [Rot13 in Rust](/projects/rot13/rust)
+- [Rot13 in Swift](/projects/rot13/swift)
+- [Rot13 in TI-BASIC](/projects/rot13/ti-basic)
+- [Rot13 in Tcl](/projects/rot13/tcl)
+- [Rot13 in TypeScript](/projects/rot13/typescript)
+- [Rot13 in Visual Basic](/projects/rot13/visual-basic)
+- [Rot13 in m4](/projects/rot13/m4)
 
 ***
 
@@ -144,13 +144,13 @@ There are 34 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Roman Numeral)](https://sampleprograms.io/projects/roman-numeral)
+[<-- Previous Project (Roman Numeral)](/projects/roman-numeral)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Selection Sort) -->](https://sampleprograms.io/projects/selection-sort)
+[Next Project (Selection Sort) -->](/projects/selection-sort)
 
 </div>
 

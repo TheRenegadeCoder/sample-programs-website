@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Pascal](https://sampleprograms.io/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](/projects/quine) in [Pascal](/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -48,7 +48,7 @@ a,a,a,ab,aaa,ba);writeln(a,b,a,ab,aba,ba);writeln(a,b,b,ab,abb,ba
 
 {% endraw %}
 
-Quine in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
+Quine in [Pascal](/languages/pascal) was written by:
 
 - Ștefan-Iulian Alecu
 

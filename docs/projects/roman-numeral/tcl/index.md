@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Tcl](https://sampleprograms.io/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](/projects/roman-numeral) in [Tcl](/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -58,7 +58,7 @@ if {[catch {math::roman::tointeger $input} err]} {
 
 {% endraw %}
 
-Roman Numeral in [Tcl](https://sampleprograms.io/languages/tcl) was written by:
+Roman Numeral in [Tcl](/languages/tcl) was written by:
 
 - Ștefan-Iulian Alecu
 

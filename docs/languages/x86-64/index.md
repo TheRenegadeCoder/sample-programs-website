@@ -30,10 +30,10 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 7 articles:
 
-- [Baklava in x86-64](https://sampleprograms.io/projects/baklava/x86-64)
-- [Dijkstra in x86-64](https://sampleprograms.io/projects/dijkstra/x86-64)
-- [Even Odd in x86-64](https://sampleprograms.io/projects/even-odd/x86-64)
-- [Fizz Buzz in x86-64](https://sampleprograms.io/projects/fizz-buzz/x86-64)
-- [Hello World in x86-64](https://sampleprograms.io/projects/hello-world/x86-64)
-- [Quine in x86-64](https://sampleprograms.io/projects/quine/x86-64)
-- [Reverse String in x86-64](https://sampleprograms.io/projects/reverse-string/x86-64)
+- [Baklava in x86-64](/projects/baklava/x86-64)
+- [Dijkstra in x86-64](/projects/dijkstra/x86-64)
+- [Even Odd in x86-64](/projects/even-odd/x86-64)
+- [Fizz Buzz in x86-64](/projects/fizz-buzz/x86-64)
+- [Hello World in x86-64](/projects/hello-world/x86-64)
+- [Quine in x86-64](/projects/quine/x86-64)
+- [Reverse String in x86-64](/projects/reverse-string/x86-64)

@@ -30,10 +30,10 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 7 articles:
 
-- [Baklava in V](https://sampleprograms.io/projects/baklava/v)
-- [Duplicate Character Counter in V](https://sampleprograms.io/projects/duplicate-character-counter/v)
-- [Even Odd in V](https://sampleprograms.io/projects/even-odd/v)
-- [Factorial in V](https://sampleprograms.io/projects/factorial/v)
-- [Fizz Buzz in V](https://sampleprograms.io/projects/fizz-buzz/v)
-- [Hello World in V](https://sampleprograms.io/projects/hello-world/v)
-- [Reverse String in V](https://sampleprograms.io/projects/reverse-string/v)
+- [Baklava in V](/projects/baklava/v)
+- [Duplicate Character Counter in V](/projects/duplicate-character-counter/v)
+- [Even Odd in V](/projects/even-odd/v)
+- [Factorial in V](/projects/factorial/v)
+- [Fizz Buzz in V](/projects/fizz-buzz/v)
+- [Hello World in V](/projects/hello-world/v)
+- [Reverse String in V](/projects/reverse-string/v)

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [PHP](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Depth First Search](/projects/depth-first-search) in [PHP](/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -213,7 +213,7 @@ printf("%s\n", (!is_null($node) ? "true" : "false"));
 
 {% endraw %}
 
-Depth First Search in [PHP](https://sampleprograms.io/languages/php) was written by:
+Depth First Search in [PHP](/languages/php) was written by:
 
 - rzuckerm
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Convex Hull](https://sampleprograms.io/projects/convex-hull) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Convex Hull](/projects/convex-hull) in [ALGOL 68](/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -267,7 +267,7 @@ show points(hull points)
 
 {% endraw %}
 
-Convex Hull in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
+Convex Hull in [ALGOL 68](/languages/algol68) was written by:
 
 - rzuckerm
 

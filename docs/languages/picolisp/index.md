@@ -55,6 +55,6 @@ information, check out the [PicoLisp Official Website][5].
 
 There are 3 articles:
 
-- [Baklava in PicoLisp](https://sampleprograms.io/projects/baklava/picolisp)
-- [Hello World in PicoLisp](https://sampleprograms.io/projects/hello-world/picolisp)
-- [Reverse String in PicoLisp](https://sampleprograms.io/projects/reverse-string/picolisp)
+- [Baklava in PicoLisp](/projects/baklava/picolisp)
+- [Hello World in PicoLisp](/projects/hello-world/picolisp)
+- [Reverse String in PicoLisp](/projects/reverse-string/picolisp)

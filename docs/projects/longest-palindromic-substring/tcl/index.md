@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Tcl](https://sampleprograms.io/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Palindromic Substring](/projects/longest-palindromic-substring) in [Tcl](/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -94,7 +94,7 @@ puts $result
 
 {% endraw %}
 
-Longest Palindromic Substring in [Tcl](https://sampleprograms.io/languages/tcl) was written by:
+Longest Palindromic Substring in [Tcl](/languages/tcl) was written by:
 
 - Ștefan-Iulian Alecu
 

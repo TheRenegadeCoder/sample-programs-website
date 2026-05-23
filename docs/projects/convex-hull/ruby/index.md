@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Convex Hull](/projects/convex-hull) in [Ruby](/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -89,7 +89,7 @@ end
 
 {% endraw %}
 
-Convex Hull in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Convex Hull in [Ruby](/languages/ruby) was written by:
 
 - Ștefan-Iulian Alecu
 

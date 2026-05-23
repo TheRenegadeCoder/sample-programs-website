@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Tcl](https://sampleprograms.io/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](/projects/merge-sort) in [Tcl](/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -122,7 +122,7 @@ puts [formatList $numbers]
 
 {% endraw %}
 
-Merge Sort in [Tcl](https://sampleprograms.io/languages/tcl) was written by:
+Merge Sort in [Tcl](/languages/tcl) was written by:
 
 - Ștefan-Iulian Alecu
 

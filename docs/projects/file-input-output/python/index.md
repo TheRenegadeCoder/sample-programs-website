@@ -27,7 +27,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Input Output](/projects/file-input-output) in [Python](/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -62,7 +62,7 @@ if __name__ == '__main__':
 
 {% endraw %}
 
-File Input Output in [Python](https://sampleprograms.io/languages/python) was written by:
+File Input Output in [Python](/languages/python) was written by:
 
 - Ganesh Naik
 - Jeremy Grifski

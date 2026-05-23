@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Fortran](https://sampleprograms.io/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](/projects/even-odd) in [Fortran](/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -67,7 +67,7 @@ end program evenodd
 
 {% endraw %}
 
-Even Odd in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
+Even Odd in [Fortran](/languages/fortran) was written by:
 
 - Mallikarjuna S J
 - Ștefan-Iulian Alecu

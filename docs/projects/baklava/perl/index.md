@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Perl](/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -48,7 +48,7 @@ for my $i ( -$size .. $size ) {
 
 {% endraw %}
 
-Baklava in [Perl](https://sampleprograms.io/languages/perl) was written by:
+Baklava in [Perl](/languages/perl) was written by:
 
 - Kateryna Tokar
 - Ștefan-Iulian Alecu

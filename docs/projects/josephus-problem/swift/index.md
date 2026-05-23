@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Josephus Problem](/projects/josephus-problem) in [Swift](/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -80,7 +80,7 @@ print(solveJosephus(n, k))
 
 {% endraw %}
 
-Josephus Problem in [Swift](https://sampleprograms.io/languages/swift) was written by:
+Josephus Problem in [Swift](/languages/swift) was written by:
 
 - Ștefan-Iulian Alecu
 

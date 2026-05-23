@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Wren](https://sampleprograms.io/languages/wren) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](/projects/factorial) in [Wren](/languages/wren) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -62,7 +62,7 @@ System.print(res)
 
 {% endraw %}
 
-Factorial in [Wren](https://sampleprograms.io/languages/wren) was written by:
+Factorial in [Wren](/languages/wren) was written by:
 
 - Zia
 

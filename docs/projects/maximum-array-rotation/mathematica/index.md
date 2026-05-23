@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Maximum Array Rotation](/projects/maximum-array-rotation) in [Mathematica](/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -74,7 +74,7 @@ longestArrayRotationMain[""]
 
 {% endraw %}
 
-Maximum Array Rotation in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Maximum Array Rotation in [Mathematica](/languages/mathematica) was written by:
 
 - Ben Hekster
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Insertion Sort](/projects/insertion-sort) in [Ruby](/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -73,7 +73,7 @@ puts parse_input.insertion_sort!.join(", ")
 
 {% endraw %}
 
-Insertion Sort in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Insertion Sort in [Ruby](/languages/ruby) was written by:
 
 - Ștefan-Iulian Alecu
 

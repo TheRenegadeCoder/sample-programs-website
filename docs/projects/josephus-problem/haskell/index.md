@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Josephus Problem](/projects/josephus-problem) in [Haskell](/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -58,7 +58,7 @@ main = do
 
 {% endraw %}
 
-Josephus Problem in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+Josephus Problem in [Haskell](/languages/haskell) was written by:
 
 - Ricardo Mapurunga Junior
 

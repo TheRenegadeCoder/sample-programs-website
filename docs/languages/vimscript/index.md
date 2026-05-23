@@ -30,7 +30,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 4 articles:
 
-- [Baklava in Vimscript](https://sampleprograms.io/projects/baklava/vimscript)
-- [Fizz Buzz in Vimscript](https://sampleprograms.io/projects/fizz-buzz/vimscript)
-- [Hello World in Vimscript](https://sampleprograms.io/projects/hello-world/vimscript)
-- [Reverse String in Vimscript](https://sampleprograms.io/projects/reverse-string/vimscript)
+- [Baklava in Vimscript](/projects/baklava/vimscript)
+- [Fizz Buzz in Vimscript](/projects/fizz-buzz/vimscript)
+- [Hello World in Vimscript](/projects/hello-world/vimscript)
+- [Reverse String in Vimscript](/projects/reverse-string/vimscript)

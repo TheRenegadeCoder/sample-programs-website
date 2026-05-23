@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Whitespace](https://sampleprograms.io/languages/whitespace) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Whitespace](/languages/whitespace) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -91,7 +91,7 @@ T	L
 
 {% endraw %}
 
-Fizz Buzz in [Whitespace](https://sampleprograms.io/languages/whitespace) was written by:
+Fizz Buzz in [Whitespace](/languages/whitespace) was written by:
 
 - rzuckerm
 

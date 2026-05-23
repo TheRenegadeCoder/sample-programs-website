@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Flix](https://sampleprograms.io/languages/flix) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Flix](/languages/flix) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -36,7 +36,7 @@ def main(): Unit \ IO = println("Hello, World!")
 
 {% endraw %}
 
-Hello World in [Flix](https://sampleprograms.io/languages/flix) was written by:
+Hello World in [Flix](/languages/flix) was written by:
 
 - rzuckerm
 

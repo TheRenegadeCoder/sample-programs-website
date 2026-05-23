@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [MoonScript](https://sampleprograms.io/languages/moonscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](/projects/fibonacci) in [MoonScript](/languages/moonscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -51,7 +51,7 @@ else
 
 {% endraw %}
 
-Fibonacci in [MoonScript](https://sampleprograms.io/languages/moonscript) was written by:
+Fibonacci in [MoonScript](/languages/moonscript) was written by:
 
 - RJ Fredrick Rico
 

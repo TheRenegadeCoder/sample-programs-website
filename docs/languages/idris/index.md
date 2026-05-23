@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Idris](https://sampleprograms.io/projects/baklava/idris)
-- [Hello World in Idris](https://sampleprograms.io/projects/hello-world/idris)
+- [Baklava in Idris](/projects/baklava/idris)
+- [Hello World in Idris](/projects/hello-world/idris)

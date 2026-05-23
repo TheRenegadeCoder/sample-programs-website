@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Hobbes](https://sampleprograms.io/projects/baklava/hobbes)
-- [Hello World in Hobbes](https://sampleprograms.io/projects/hello-world/hobbes)
+- [Baklava in Hobbes](/projects/baklava/hobbes)
+- [Hello World in Hobbes](/projects/hello-world/hobbes)

@@ -155,33 +155,33 @@ Usage: please enter the dimension of the matrix and the serialized matrix
 
 There are 27 articles:
 
-- [Transpose Matrix in ALGOL 60](https://sampleprograms.io/projects/transpose-matrix/algol60)
-- [Transpose Matrix in ALGOL 68](https://sampleprograms.io/projects/transpose-matrix/algol68)
-- [Transpose Matrix in AWK](https://sampleprograms.io/projects/transpose-matrix/awk)
-- [Transpose Matrix in Beef](https://sampleprograms.io/projects/transpose-matrix/beef)
-- [Transpose Matrix in C](https://sampleprograms.io/projects/transpose-matrix/c)
-- [Transpose Matrix in C#](https://sampleprograms.io/projects/transpose-matrix/c-sharp)
-- [Transpose Matrix in C++](https://sampleprograms.io/projects/transpose-matrix/c-plus-plus)
-- [Transpose Matrix in COBOL](https://sampleprograms.io/projects/transpose-matrix/cobol)
-- [Transpose Matrix in Commodore BASIC](https://sampleprograms.io/projects/transpose-matrix/commodore-basic)
-- [Transpose Matrix in Euphoria](https://sampleprograms.io/projects/transpose-matrix/euphoria)
-- [Transpose Matrix in F#](https://sampleprograms.io/projects/transpose-matrix/f-sharp)
-- [Transpose Matrix in Go](https://sampleprograms.io/projects/transpose-matrix/go)
-- [Transpose Matrix in Haskell](https://sampleprograms.io/projects/transpose-matrix/haskell)
-- [Transpose Matrix in Java](https://sampleprograms.io/projects/transpose-matrix/java)
-- [Transpose Matrix in JavaScript](https://sampleprograms.io/projects/transpose-matrix/javascript)
-- [Transpose Matrix in Mathematica](https://sampleprograms.io/projects/transpose-matrix/mathematica)
-- [Transpose Matrix in PHP](https://sampleprograms.io/projects/transpose-matrix/php)
-- [Transpose Matrix in Pascal](https://sampleprograms.io/projects/transpose-matrix/pascal)
-- [Transpose Matrix in PowerShell](https://sampleprograms.io/projects/transpose-matrix/powershell)
-- [Transpose Matrix in Python](https://sampleprograms.io/projects/transpose-matrix/python)
-- [Transpose Matrix in Ruby](https://sampleprograms.io/projects/transpose-matrix/ruby)
-- [Transpose Matrix in Rust](https://sampleprograms.io/projects/transpose-matrix/rust)
-- [Transpose Matrix in Swift](https://sampleprograms.io/projects/transpose-matrix/swift)
-- [Transpose Matrix in Tcl](https://sampleprograms.io/projects/transpose-matrix/tcl)
-- [Transpose Matrix in TypeScript](https://sampleprograms.io/projects/transpose-matrix/typescript)
-- [Transpose Matrix in Visual Basic](https://sampleprograms.io/projects/transpose-matrix/visual-basic)
-- [Transpose Matrix in m4](https://sampleprograms.io/projects/transpose-matrix/m4)
+- [Transpose Matrix in ALGOL 60](/projects/transpose-matrix/algol60)
+- [Transpose Matrix in ALGOL 68](/projects/transpose-matrix/algol68)
+- [Transpose Matrix in AWK](/projects/transpose-matrix/awk)
+- [Transpose Matrix in Beef](/projects/transpose-matrix/beef)
+- [Transpose Matrix in C](/projects/transpose-matrix/c)
+- [Transpose Matrix in C#](/projects/transpose-matrix/c-sharp)
+- [Transpose Matrix in C++](/projects/transpose-matrix/c-plus-plus)
+- [Transpose Matrix in COBOL](/projects/transpose-matrix/cobol)
+- [Transpose Matrix in Commodore BASIC](/projects/transpose-matrix/commodore-basic)
+- [Transpose Matrix in Euphoria](/projects/transpose-matrix/euphoria)
+- [Transpose Matrix in F#](/projects/transpose-matrix/f-sharp)
+- [Transpose Matrix in Go](/projects/transpose-matrix/go)
+- [Transpose Matrix in Haskell](/projects/transpose-matrix/haskell)
+- [Transpose Matrix in Java](/projects/transpose-matrix/java)
+- [Transpose Matrix in JavaScript](/projects/transpose-matrix/javascript)
+- [Transpose Matrix in Mathematica](/projects/transpose-matrix/mathematica)
+- [Transpose Matrix in PHP](/projects/transpose-matrix/php)
+- [Transpose Matrix in Pascal](/projects/transpose-matrix/pascal)
+- [Transpose Matrix in PowerShell](/projects/transpose-matrix/powershell)
+- [Transpose Matrix in Python](/projects/transpose-matrix/python)
+- [Transpose Matrix in Ruby](/projects/transpose-matrix/ruby)
+- [Transpose Matrix in Rust](/projects/transpose-matrix/rust)
+- [Transpose Matrix in Swift](/projects/transpose-matrix/swift)
+- [Transpose Matrix in Tcl](/projects/transpose-matrix/tcl)
+- [Transpose Matrix in TypeScript](/projects/transpose-matrix/typescript)
+- [Transpose Matrix in Visual Basic](/projects/transpose-matrix/visual-basic)
+- [Transpose Matrix in m4](/projects/transpose-matrix/m4)
 
 ***
 
@@ -189,13 +189,13 @@ There are 27 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Selection Sort)](https://sampleprograms.io/projects/selection-sort)
+[<-- Previous Project (Selection Sort)](/projects/selection-sort)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Zeckendorf) -->](https://sampleprograms.io/projects/zeckendorf)
+[Next Project (Zeckendorf) -->](/projects/zeckendorf)
 
 </div>
 

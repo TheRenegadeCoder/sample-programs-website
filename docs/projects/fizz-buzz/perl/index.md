@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Perl](/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -50,7 +50,7 @@ say fizzbuzz($_) for 1 .. 100;
 
 {% endraw %}
 
-Fizz Buzz in [Perl](https://sampleprograms.io/languages/perl) was written by:
+Fizz Buzz in [Perl](/languages/perl) was written by:
 
 - Jeremy Grifski
 - Ștefan-Iulian Alecu

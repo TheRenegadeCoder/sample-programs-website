@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Common Subsequence](/projects/longest-common-subsequence) in [JavaScript](/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -100,7 +100,7 @@ else{
 
 {% endraw %}
 
-Longest Common Subsequence in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
+Longest Common Subsequence in [JavaScript](/languages/javascript) was written by:
 
 - Sayantan Sarkar
 

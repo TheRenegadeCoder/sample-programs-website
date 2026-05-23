@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Pinecone](https://sampleprograms.io/projects/baklava/pinecone)
-- [Fizz Buzz in Pinecone](https://sampleprograms.io/projects/fizz-buzz/pinecone)
-- [Hello World in Pinecone](https://sampleprograms.io/projects/hello-world/pinecone)
+- [Baklava in Pinecone](/projects/baklava/pinecone)
+- [Fizz Buzz in Pinecone](/projects/fizz-buzz/pinecone)
+- [Hello World in Pinecone](/projects/hello-world/pinecone)

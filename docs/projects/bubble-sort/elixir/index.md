@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Elixir](https://sampleprograms.io/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](/projects/bubble-sort) in [Elixir](/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -82,7 +82,7 @@ Bubble.main(System.argv())
 
 {% endraw %}
 
-Bubble Sort in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
+Bubble Sort in [Elixir](/languages/elixir) was written by:
 
 - Jeremy Grifski
 - Sree Siva Sandeep Palaparthi

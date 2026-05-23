@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Boo](https://sampleprograms.io/languages/boo) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Boo](/languages/boo) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -40,7 +40,7 @@ for n in range(-10, 11):
 
 {% endraw %}
 
-Baklava in [Boo](https://sampleprograms.io/languages/boo) was written by:
+Baklava in [Boo](/languages/boo) was written by:
 
 - rzuckerm
 

@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Clojure](https://sampleprograms.io/languages/clojure) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](/projects/bubble-sort) in [Clojure](/languages/clojure) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -83,7 +83,7 @@ Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in 
 
 {% endraw %}
 
-Bubble Sort in [Clojure](https://sampleprograms.io/languages/clojure) was written by:
+Bubble Sort in [Clojure](/languages/clojure) was written by:
 
 - Kateryna Tokar
 - Tobias Schröder

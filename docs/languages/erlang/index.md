@@ -30,9 +30,9 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 6 articles:
 
-- [Baklava in Erlang](https://sampleprograms.io/projects/baklava/erlang)
-- [Bubble Sort in Erlang](https://sampleprograms.io/projects/bubble-sort/erlang)
-- [Factorial in Erlang](https://sampleprograms.io/projects/factorial/erlang)
-- [Fizz Buzz in Erlang](https://sampleprograms.io/projects/fizz-buzz/erlang)
-- [Hello World in Erlang](https://sampleprograms.io/projects/hello-world/erlang)
-- [Reverse String in Erlang](https://sampleprograms.io/projects/reverse-string/erlang)
+- [Baklava in Erlang](/projects/baklava/erlang)
+- [Bubble Sort in Erlang](/projects/bubble-sort/erlang)
+- [Factorial in Erlang](/projects/factorial/erlang)
+- [Fizz Buzz in Erlang](/projects/fizz-buzz/erlang)
+- [Hello World in Erlang](/projects/hello-world/erlang)
+- [Reverse String in Erlang](/projects/reverse-string/erlang)

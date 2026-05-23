@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Koka](https://sampleprograms.io/languages/koka) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Koka](/languages/koka) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -49,7 +49,7 @@ fun main() {
 
 {% endraw %}
 
-Baklava in [Koka](https://sampleprograms.io/languages/koka) was written by:
+Baklava in [Koka](/languages/koka) was written by:
 
 - rzuckerm
 

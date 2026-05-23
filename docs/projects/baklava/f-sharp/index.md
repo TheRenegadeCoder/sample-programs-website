@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [F#](https://sampleprograms.io/languages/f-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [F#](/languages/f-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -52,7 +52,7 @@ let main argv =
 
 {% endraw %}
 
-Baklava in [F#](https://sampleprograms.io/languages/f-sharp) was written by:
+Baklava in [F#](/languages/f-sharp) was written by:
 
 - Parker Johansen
 - Ștefan-Iulian Alecu

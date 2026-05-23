@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Dale](https://sampleprograms.io/projects/baklava/dale)
-- [Hello World in Dale](https://sampleprograms.io/projects/hello-world/dale)
+- [Baklava in Dale](/projects/baklava/dale)
+- [Hello World in Dale](/projects/hello-world/dale)

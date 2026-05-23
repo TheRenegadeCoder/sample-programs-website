@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](/projects/roman-numeral) in [JavaScript](/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -112,7 +112,7 @@ if (args.length < 1) {
 
 {% endraw %}
 
-Roman Numeral in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
+Roman Numeral in [JavaScript](/languages/javascript) was written by:
 
 - Rani Kheir
 

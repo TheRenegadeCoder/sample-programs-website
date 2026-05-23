@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](/projects/reverse-string) in [Commodore BASIC](/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -56,7 +56,7 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 
 {% endraw %}
 
-Reverse String in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) was written by:
+Reverse String in [Commodore BASIC](/languages/commodore-basic) was written by:
 
 - rzuckerm
 

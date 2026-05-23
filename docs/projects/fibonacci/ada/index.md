@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Ada](https://sampleprograms.io/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](/projects/fibonacci) in [Ada](/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -87,7 +87,7 @@ end Fibonacci;
 
 {% endraw %}
 
-Fibonacci in [Ada](https://sampleprograms.io/languages/ada) was written by:
+Fibonacci in [Ada](/languages/ada) was written by:
 
 - Ștefan-Iulian Alecu
 

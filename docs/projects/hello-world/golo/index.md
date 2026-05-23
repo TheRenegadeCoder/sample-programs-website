@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Golo](https://sampleprograms.io/languages/golo) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Golo](/languages/golo) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -41,7 +41,7 @@ function main = |args| {
 
 {% endraw %}
 
-Hello World in [Golo](https://sampleprograms.io/languages/golo) was written by:
+Hello World in [Golo](/languages/golo) was written by:
 
 - Jeremy Grifski
 

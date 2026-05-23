@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Remove All Whitespace](/projects/remove-all-whitespace) in [Mathematica](/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -69,7 +69,7 @@ removeAllWhitespaceMain[""]
 
 {% endraw %}
 
-Remove All Whitespace in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Remove All Whitespace in [Mathematica](/languages/mathematica) was written by:
 
 - Ben Hekster
 

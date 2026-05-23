@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Crystal](https://sampleprograms.io/languages/crystal) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Crystal](/languages/crystal) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -48,7 +48,7 @@ end
 
 {% endraw %}
 
-Fizz Buzz in [Crystal](https://sampleprograms.io/languages/crystal) was written by:
+Fizz Buzz in [Crystal](/languages/crystal) was written by:
 
 - Noah Nichols
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Pascal](https://sampleprograms.io/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quick Sort](/projects/quick-sort) in [Pascal](/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -243,7 +243,7 @@ end.
 
 {% endraw %}
 
-Quick Sort in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
+Quick Sort in [Pascal](/languages/pascal) was written by:
 
 - Ștefan-Iulian Alecu
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Duplicate Character Counter](/projects/duplicate-character-counter) in [ALGOL 68](/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -90,7 +90,7 @@ show duplicate character counts(s, char counter)
 
 {% endraw %}
 
-Duplicate Character Counter in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
+Duplicate Character Counter in [ALGOL 68](/languages/algol68) was written by:
 
 - rzuckerm
 

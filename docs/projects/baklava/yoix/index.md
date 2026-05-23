@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Yoix](https://sampleprograms.io/languages/yoix) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Yoix](/languages/yoix) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -54,7 +54,7 @@ for (i = -10; i <= 10; i++) {
 
 {% endraw %}
 
-Baklava in [Yoix](https://sampleprograms.io/languages/yoix) was written by:
+Baklava in [Yoix](/languages/yoix) was written by:
 
 - rzuckerm
 

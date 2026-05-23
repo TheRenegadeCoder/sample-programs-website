@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](/projects/roman-numeral) in [Ruby](/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -74,7 +74,7 @@ puts roman_to_int(ARGV.first)
 
 {% endraw %}
 
-Roman Numeral in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Roman Numeral in [Ruby](/languages/ruby) was written by:
 
 - Allan Klaus
 - Ștefan-Iulian Alecu

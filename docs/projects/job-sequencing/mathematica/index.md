@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](/projects/job-sequencing) in [Mathematica](/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -89,7 +89,7 @@ scheduleMain["1, 2, 3, 4", "1, 2, 3, 4, 5"]
 
 {% endraw %}
 
-Job Sequencing in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Job Sequencing in [Mathematica](/languages/mathematica) was written by:
 
 - Ben Hekster
 

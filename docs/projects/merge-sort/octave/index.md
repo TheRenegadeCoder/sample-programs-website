@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Octave](https://sampleprograms.io/languages/octave) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](/projects/merge-sort) in [Octave](/languages/octave) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -129,7 +129,7 @@ end
 
 {% endraw %}
 
-Merge Sort in [Octave](https://sampleprograms.io/languages/octave) was written by:
+Merge Sort in [Octave](/languages/octave) was written by:
 
 - rzuckerm
 

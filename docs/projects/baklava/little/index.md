@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Little](https://sampleprograms.io/languages/little) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Little](/languages/little) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -52,7 +52,7 @@ for (n = -10; n <= 10; n++) {
 
 {% endraw %}
 
-Baklava in [Little](https://sampleprograms.io/languages/little) was written by:
+Baklava in [Little](/languages/little) was written by:
 
 - rzuckerm
 

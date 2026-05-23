@@ -26,7 +26,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Goby](https://sampleprograms.io/languages/goby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Goby](/languages/goby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -39,7 +39,7 @@ puts("Hello, World!")
 
 {% endraw %}
 
-Hello World in [Goby](https://sampleprograms.io/languages/goby) was written by:
+Hello World in [Goby](/languages/goby) was written by:
 
 - Jeremy Griffith
 

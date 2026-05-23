@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [BAIK](https://sampleprograms.io/languages/baik) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [BAIK](/languages/baik) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -83,7 +83,7 @@ fungsi tulis_senar_ulangi(senar, beberapa_kali)
 
 {% endraw %}
 
-Baklava in [BAIK](https://sampleprograms.io/languages/baik) was written by:
+Baklava in [BAIK](/languages/baik) was written by:
 
 - rzuckerm
 

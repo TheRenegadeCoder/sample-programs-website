@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Modula-2](https://sampleprograms.io/projects/baklava/modula2)
-- [Fraction Math in Modula-2](https://sampleprograms.io/projects/fraction-math/modula2)
-- [Hello World in Modula-2](https://sampleprograms.io/projects/hello-world/modula2)
+- [Baklava in Modula-2](/projects/baklava/modula2)
+- [Fraction Math in Modula-2](/projects/fraction-math/modula2)
+- [Hello World in Modula-2](/projects/hello-world/modula2)

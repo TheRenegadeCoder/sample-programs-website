@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Carp](https://sampleprograms.io/languages/carp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Carp](/languages/carp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -48,7 +48,7 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Carp](h
 
 {% endraw %}
 
-Baklava in [Carp](https://sampleprograms.io/languages/carp) was written by:
+Baklava in [Carp](/languages/carp) was written by:
 
 - rzuckerm
 

@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](/projects/quine) in [Rust](/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -38,7 +38,7 @@ fn main(){println!("fn main(){{println!({0:?},{0:?})}}","fn main(){{println!({0:
 
 {% endraw %}
 
-Quine in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Quine in [Rust](/languages/rust) was written by:
 
 - rzuckerm
 

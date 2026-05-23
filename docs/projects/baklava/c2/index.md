@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [C2](https://sampleprograms.io/languages/c2) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [C2](/languages/c2) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -61,7 +61,7 @@ public fn i32 main(i32 argc, char** argv) {
 
 {% endraw %}
 
-Baklava in [C2](https://sampleprograms.io/languages/c2) was written by:
+Baklava in [C2](/languages/c2) was written by:
 
 - rzuckerm
 

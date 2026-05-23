@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Zeckendorf](https://sampleprograms.io/projects/zeckendorf) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Zeckendorf](/projects/zeckendorf) in [ALGOL 68](/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -188,7 +188,7 @@ show list values(results)
 
 {% endraw %}
 
-Zeckendorf in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
+Zeckendorf in [ALGOL 68](/languages/algol68) was written by:
 
 - rzuckerm
 

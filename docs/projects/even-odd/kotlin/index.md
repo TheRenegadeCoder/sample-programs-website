@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](/projects/even-odd) in [Kotlin](/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -48,7 +48,7 @@ fun main(args: Array<String>) {
 
 {% endraw %}
 
-Even Odd in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
+Even Odd in [Kotlin](/languages/kotlin) was written by:
 
 - Blake.Ke
 - mikenmo

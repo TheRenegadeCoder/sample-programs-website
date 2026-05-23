@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Zig](https://sampleprograms.io/languages/zig) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Zig](/languages/zig) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -49,7 +49,7 @@ pub fn main() !void {
 
 {% endraw %}
 
-Baklava in [Zig](https://sampleprograms.io/languages/zig) was written by:
+Baklava in [Zig](/languages/zig) was written by:
 
 - rzuckerm
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Josephus Problem](/projects/josephus-problem) in [Python](/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -59,7 +59,7 @@ print(josephus(n, k))
 
 {% endraw %}
 
-Josephus Problem in [Python](https://sampleprograms.io/languages/python) was written by:
+Josephus Problem in [Python](/languages/python) was written by:
 
 - Sriniketh J
 

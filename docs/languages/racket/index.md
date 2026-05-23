@@ -63,7 +63,7 @@ of Racket, there's a module for that: typed/racket.
 
 There are 4 articles:
 
-- [Baklava in Racket](https://sampleprograms.io/projects/baklava/racket)
-- [Fibonacci in Racket](https://sampleprograms.io/projects/fibonacci/racket)
-- [Fizz Buzz in Racket](https://sampleprograms.io/projects/fizz-buzz/racket)
-- [Hello World in Racket](https://sampleprograms.io/projects/hello-world/racket)
+- [Baklava in Racket](/projects/baklava/racket)
+- [Fibonacci in Racket](/projects/fibonacci/racket)
+- [Fizz Buzz in Racket](/projects/fizz-buzz/racket)
+- [Hello World in Racket](/projects/hello-world/racket)

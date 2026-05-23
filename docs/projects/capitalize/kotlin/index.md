@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](/projects/capitalize) in [Kotlin](/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -46,7 +46,7 @@ fun main(args: Array<String>) {
 
 {% endraw %}
 
-Capitalize in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
+Capitalize in [Kotlin](/languages/kotlin) was written by:
 
 - Blake.Ke
 - Saurabh

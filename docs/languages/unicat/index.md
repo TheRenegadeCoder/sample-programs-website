@@ -360,7 +360,7 @@ In the meantime, happy coding <span class="cat">😸</span>!
 
 There are 4 articles:
 
-- [Baklava in Unicat](https://sampleprograms.io/projects/baklava/unicat)
-- [Fizz Buzz in Unicat](https://sampleprograms.io/projects/fizz-buzz/unicat)
-- [Hello World in Unicat](https://sampleprograms.io/projects/hello-world/unicat)
-- [Reverse String in Unicat](https://sampleprograms.io/projects/reverse-string/unicat)
+- [Baklava in Unicat](/projects/baklava/unicat)
+- [Fizz Buzz in Unicat](/projects/fizz-buzz/unicat)
+- [Hello World in Unicat](/projects/hello-world/unicat)
+- [Reverse String in Unicat](/projects/reverse-string/unicat)

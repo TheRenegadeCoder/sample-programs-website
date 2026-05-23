@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Tcl](https://sampleprograms.io/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](/projects/quine) in [Tcl](/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ proc q {} {foreach {p a} [info level 0] {puts "[list proc $p $a [info body $p]];
 
 {% endraw %}
 
-Quine in [Tcl](https://sampleprograms.io/languages/tcl) was written by:
+Quine in [Tcl](/languages/tcl) was written by:
 
 - Ștefan-Iulian Alecu
 

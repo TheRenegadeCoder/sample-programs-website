@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [F#](https://sampleprograms.io/languages/f-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](/projects/even-odd) in [F#](/languages/f-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -68,7 +68,7 @@ let main argv =
 
 {% endraw %}
 
-Even Odd in [F#](https://sampleprograms.io/languages/f-sharp) was written by:
+Even Odd in [F#](/languages/f-sharp) was written by:
 
 - Ștefan-Iulian Alecu
 

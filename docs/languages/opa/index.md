@@ -69,5 +69,5 @@ Luckily, there's this cute technology called containers.
 
 There are 2 articles:
 
-- [Baklava in Opa](https://sampleprograms.io/projects/baklava/opa)
-- [Hello World in Opa](https://sampleprograms.io/projects/hello-world/opa)
+- [Baklava in Opa](/projects/baklava/opa)
+- [Hello World in Opa](/projects/hello-world/opa)

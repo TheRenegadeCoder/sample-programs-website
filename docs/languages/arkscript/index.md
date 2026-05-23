@@ -74,6 +74,6 @@ Then on line 6 we call `print` with the function call `(fibo 28)` as its argumen
 
 There are 3 articles:
 
-- [Baklava in ArkScript](https://sampleprograms.io/projects/baklava/arkscript)
-- [Fizz Buzz in ArkScript](https://sampleprograms.io/projects/fizz-buzz/arkscript)
-- [Hello World in ArkScript](https://sampleprograms.io/projects/hello-world/arkscript)
+- [Baklava in ArkScript](/projects/baklava/arkscript)
+- [Fizz Buzz in ArkScript](/projects/fizz-buzz/arkscript)
+- [Hello World in ArkScript](/projects/hello-world/arkscript)

@@ -28,7 +28,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](/projects/prime-number) in [C](/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -87,7 +87,7 @@ int main(int ac, char **av)
 
 {% endraw %}
 
-Prime Number in [C](https://sampleprograms.io/languages/c) was written by:
+Prime Number in [C](/languages/c) was written by:
 
 - Matias
 - Ștefan-Iulian Alecu

@@ -118,35 +118,35 @@ Usage: please provide a list of profits and a list of deadlines
 
 There are 29 articles:
 
-- [Job Sequencing in ALGOL 60](https://sampleprograms.io/projects/job-sequencing/algol60)
-- [Job Sequencing in ALGOL 68](https://sampleprograms.io/projects/job-sequencing/algol68)
-- [Job Sequencing in AWK](https://sampleprograms.io/projects/job-sequencing/awk)
-- [Job Sequencing in Ada](https://sampleprograms.io/projects/job-sequencing/ada)
-- [Job Sequencing in Beef](https://sampleprograms.io/projects/job-sequencing/beef)
-- [Job Sequencing in C](https://sampleprograms.io/projects/job-sequencing/c)
-- [Job Sequencing in C#](https://sampleprograms.io/projects/job-sequencing/c-sharp)
-- [Job Sequencing in C++](https://sampleprograms.io/projects/job-sequencing/c-plus-plus)
-- [Job Sequencing in COBOL](https://sampleprograms.io/projects/job-sequencing/cobol)
-- [Job Sequencing in Commodore BASIC](https://sampleprograms.io/projects/job-sequencing/commodore-basic)
-- [Job Sequencing in Euphoria](https://sampleprograms.io/projects/job-sequencing/euphoria)
-- [Job Sequencing in F#](https://sampleprograms.io/projects/job-sequencing/f-sharp)
-- [Job Sequencing in Go](https://sampleprograms.io/projects/job-sequencing/go)
-- [Job Sequencing in Haskell](https://sampleprograms.io/projects/job-sequencing/haskell)
-- [Job Sequencing in Java](https://sampleprograms.io/projects/job-sequencing/java)
-- [Job Sequencing in JavaScript](https://sampleprograms.io/projects/job-sequencing/javascript)
-- [Job Sequencing in Kotlin](https://sampleprograms.io/projects/job-sequencing/kotlin)
-- [Job Sequencing in Mathematica](https://sampleprograms.io/projects/job-sequencing/mathematica)
-- [Job Sequencing in PHP](https://sampleprograms.io/projects/job-sequencing/php)
-- [Job Sequencing in Pascal](https://sampleprograms.io/projects/job-sequencing/pascal)
-- [Job Sequencing in PowerShell](https://sampleprograms.io/projects/job-sequencing/powershell)
-- [Job Sequencing in Python](https://sampleprograms.io/projects/job-sequencing/python)
-- [Job Sequencing in Ruby](https://sampleprograms.io/projects/job-sequencing/ruby)
-- [Job Sequencing in Rust](https://sampleprograms.io/projects/job-sequencing/rust)
-- [Job Sequencing in Swift](https://sampleprograms.io/projects/job-sequencing/swift)
-- [Job Sequencing in Tcl](https://sampleprograms.io/projects/job-sequencing/tcl)
-- [Job Sequencing in TypeScript](https://sampleprograms.io/projects/job-sequencing/typescript)
-- [Job Sequencing in Visual Basic](https://sampleprograms.io/projects/job-sequencing/visual-basic)
-- [Job Sequencing in m4](https://sampleprograms.io/projects/job-sequencing/m4)
+- [Job Sequencing in ALGOL 60](/projects/job-sequencing/algol60)
+- [Job Sequencing in ALGOL 68](/projects/job-sequencing/algol68)
+- [Job Sequencing in AWK](/projects/job-sequencing/awk)
+- [Job Sequencing in Ada](/projects/job-sequencing/ada)
+- [Job Sequencing in Beef](/projects/job-sequencing/beef)
+- [Job Sequencing in C](/projects/job-sequencing/c)
+- [Job Sequencing in C#](/projects/job-sequencing/c-sharp)
+- [Job Sequencing in C++](/projects/job-sequencing/c-plus-plus)
+- [Job Sequencing in COBOL](/projects/job-sequencing/cobol)
+- [Job Sequencing in Commodore BASIC](/projects/job-sequencing/commodore-basic)
+- [Job Sequencing in Euphoria](/projects/job-sequencing/euphoria)
+- [Job Sequencing in F#](/projects/job-sequencing/f-sharp)
+- [Job Sequencing in Go](/projects/job-sequencing/go)
+- [Job Sequencing in Haskell](/projects/job-sequencing/haskell)
+- [Job Sequencing in Java](/projects/job-sequencing/java)
+- [Job Sequencing in JavaScript](/projects/job-sequencing/javascript)
+- [Job Sequencing in Kotlin](/projects/job-sequencing/kotlin)
+- [Job Sequencing in Mathematica](/projects/job-sequencing/mathematica)
+- [Job Sequencing in PHP](/projects/job-sequencing/php)
+- [Job Sequencing in Pascal](/projects/job-sequencing/pascal)
+- [Job Sequencing in PowerShell](/projects/job-sequencing/powershell)
+- [Job Sequencing in Python](/projects/job-sequencing/python)
+- [Job Sequencing in Ruby](/projects/job-sequencing/ruby)
+- [Job Sequencing in Rust](/projects/job-sequencing/rust)
+- [Job Sequencing in Swift](/projects/job-sequencing/swift)
+- [Job Sequencing in Tcl](/projects/job-sequencing/tcl)
+- [Job Sequencing in TypeScript](/projects/job-sequencing/typescript)
+- [Job Sequencing in Visual Basic](/projects/job-sequencing/visual-basic)
+- [Job Sequencing in m4](/projects/job-sequencing/m4)
 
 ***
 
@@ -154,13 +154,13 @@ There are 29 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Insertion Sort)](https://sampleprograms.io/projects/insertion-sort)
+[<-- Previous Project (Insertion Sort)](/projects/insertion-sort)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Josephus Problem) -->](https://sampleprograms.io/projects/josephus-problem)
+[Next Project (Josephus Problem) -->](/projects/josephus-problem)
 
 </div>
 

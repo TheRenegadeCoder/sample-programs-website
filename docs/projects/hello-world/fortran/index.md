@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Fortran](https://sampleprograms.io/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Fortran](/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -40,7 +40,7 @@ end program helloworld
 
 {% endraw %}
 
-Hello World in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
+Hello World in [Fortran](/languages/fortran) was written by:
 
 - Ștefan-Iulian Alecu
 

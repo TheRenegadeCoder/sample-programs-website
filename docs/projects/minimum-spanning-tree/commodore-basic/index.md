@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Minimum Spanning Tree](/projects/minimum-spanning-tree) in [Commodore BASIC](/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -207,7 +207,7 @@ Welcome to the [Minimum Spanning Tree](https://sampleprograms.io/projects/minimu
 
 {% endraw %}
 
-Minimum Spanning Tree in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) was written by:
+Minimum Spanning Tree in [Commodore BASIC](/languages/commodore-basic) was written by:
 
 - rzuckerm
 

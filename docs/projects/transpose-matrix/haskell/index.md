@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Transpose Matrix](/projects/transpose-matrix) in [Haskell](/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -71,7 +71,7 @@ main = do
 
 {% endraw %}
 
-Transpose Matrix in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+Transpose Matrix in [Haskell](/languages/haskell) was written by:
 
 - Ricardo Mapurunga Junior
 

@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Piet](https://sampleprograms.io/projects/baklava/piet)
-- [Hello World in Piet](https://sampleprograms.io/projects/hello-world/piet)
+- [Baklava in Piet](/projects/baklava/piet)
+- [Hello World in Piet](/projects/hello-world/piet)

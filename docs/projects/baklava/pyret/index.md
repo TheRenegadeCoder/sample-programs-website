@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Pyret](https://sampleprograms.io/languages/pyret) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Pyret](/languages/pyret) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -43,7 +43,7 @@ range-by(9, -1, -1).each(print-row)
 
 {% endraw %}
 
-Baklava in [Pyret](https://sampleprograms.io/languages/pyret) was written by:
+Baklava in [Pyret](/languages/pyret) was written by:
 
 - Jeremy Grifski
 

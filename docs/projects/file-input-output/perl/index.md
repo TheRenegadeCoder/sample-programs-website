@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Input Output](/projects/file-input-output) in [Perl](/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -58,7 +58,7 @@ $r->close or die "Cannot close after read: $!";
 
 {% endraw %}
 
-File Input Output in [Perl](https://sampleprograms.io/languages/perl) was written by:
+File Input Output in [Perl](/languages/perl) was written by:
 
 - Ewerton Queiroz
 - Ștefan-Iulian Alecu

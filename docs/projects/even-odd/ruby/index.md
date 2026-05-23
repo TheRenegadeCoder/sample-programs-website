@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](/projects/even-odd) in [Ruby](/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -47,7 +47,7 @@ end
 
 {% endraw %}
 
-Even Odd in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Even Odd in [Ruby](/languages/ruby) was written by:
 
 - Mallikarjuna S J
 - Ștefan-Iulian Alecu

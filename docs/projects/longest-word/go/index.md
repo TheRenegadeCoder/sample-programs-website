@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](/projects/longest-word) in [Go](/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -80,7 +80,7 @@ func main() {
 
 {% endraw %}
 
-Longest Word in [Go](https://sampleprograms.io/languages/go) was written by:
+Longest Word in [Go](/languages/go) was written by:
 
 - alope107
 

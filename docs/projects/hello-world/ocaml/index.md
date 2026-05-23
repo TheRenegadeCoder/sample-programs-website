@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [OCaml](https://sampleprograms.io/languages/ocaml) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [OCaml](/languages/ocaml) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ print_string "Hello, World!\n";;
 
 {% endraw %}
 
-Hello World in [OCaml](https://sampleprograms.io/languages/ocaml) was written by:
+Hello World in [OCaml](/languages/ocaml) was written by:
 
 - Jeremy Grifski
 

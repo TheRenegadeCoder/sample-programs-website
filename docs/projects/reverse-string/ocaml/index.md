@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [OCaml](https://sampleprograms.io/languages/ocaml) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](/projects/reverse-string) in [OCaml](/languages/ocaml) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -44,7 +44,7 @@ let () =
 
 {% endraw %}
 
-Reverse String in [OCaml](https://sampleprograms.io/languages/ocaml) was written by:
+Reverse String in [OCaml](/languages/ocaml) was written by:
 
 - alope107
 

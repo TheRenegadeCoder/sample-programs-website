@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Rot13](/projects/rot13) in [Lua](/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -56,7 +56,7 @@ io.write("\n")
 
 {% endraw %}
 
-Rot13 in [Lua](https://sampleprograms.io/languages/lua) was written by:
+Rot13 in [Lua](/languages/lua) was written by:
 
 - Alex Gustafsson
 - Jeremy Grifski

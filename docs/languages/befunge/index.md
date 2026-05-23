@@ -59,7 +59,7 @@ character instead.
 
 There are 4 articles:
 
-- [Baklava in Befunge](https://sampleprograms.io/projects/baklava/befunge)
-- [Fizz Buzz in Befunge](https://sampleprograms.io/projects/fizz-buzz/befunge)
-- [Hello World in Befunge](https://sampleprograms.io/projects/hello-world/befunge)
-- [Quine in Befunge](https://sampleprograms.io/projects/quine/befunge)
+- [Baklava in Befunge](/projects/baklava/befunge)
+- [Fizz Buzz in Befunge](/projects/fizz-buzz/befunge)
+- [Hello World in Befunge](/projects/hello-world/befunge)
+- [Quine in Befunge](/projects/quine/befunge)

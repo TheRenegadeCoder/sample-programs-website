@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Lily](https://sampleprograms.io/projects/baklava/lily)
-- [Hello World in Lily](https://sampleprograms.io/projects/hello-world/lily)
+- [Baklava in Lily](/projects/baklava/lily)
+- [Hello World in Lily](/projects/hello-world/lily)

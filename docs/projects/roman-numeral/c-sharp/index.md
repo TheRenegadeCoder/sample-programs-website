@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [C#](https://sampleprograms.io/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](/projects/roman-numeral) in [C#](/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -91,7 +91,7 @@ static int ExitWith(string message)
 
 {% endraw %}
 
-Roman Numeral in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
+Roman Numeral in [C#](/languages/c-sharp) was written by:
 
 - Parker Johansen
 - Ștefan-Iulian Alecu

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Zig](https://sampleprograms.io/languages/zig) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Zig](/languages/zig) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -53,7 +53,7 @@ pub fn main() !void {
 
 {% endraw %}
 
-Fizz Buzz in [Zig](https://sampleprograms.io/languages/zig) was written by:
+Fizz Buzz in [Zig](/languages/zig) was written by:
 
 - Zia
 

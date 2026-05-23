@@ -28,7 +28,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](/projects/prime-number) in [Python](/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -67,7 +67,7 @@ if __name__ == "__main__":
 
 {% endraw %}
 
-Prime Number in [Python](https://sampleprograms.io/languages/python) was written by:
+Prime Number in [Python](/languages/python) was written by:
 
 - Haseeb Majid
 - Parker Johansen

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [R](https://sampleprograms.io/languages/r) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](/projects/prime-number) in [R](/languages/r) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -74,7 +74,7 @@ if(length(args) > 0){
 
 {% endraw %}
 
-Prime Number in [R](https://sampleprograms.io/languages/r) was written by:
+Prime Number in [R](/languages/r) was written by:
 
 - Veena ManikPrabhu
 

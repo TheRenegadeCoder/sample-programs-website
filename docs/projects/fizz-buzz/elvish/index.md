@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Elvish](https://sampleprograms.io/languages/elvish) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Elvish](/languages/elvish) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -47,7 +47,7 @@ for i [(range 1 101)] {
 
 {% endraw %}
 
-Fizz Buzz in [Elvish](https://sampleprograms.io/languages/elvish) was written by:
+Fizz Buzz in [Elvish](/languages/elvish) was written by:
 
 - Zia
 

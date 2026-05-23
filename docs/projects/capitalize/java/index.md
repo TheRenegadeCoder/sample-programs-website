@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](/projects/capitalize) in [Java](/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -64,7 +64,7 @@ public class Capitalize {
 
 {% endraw %}
 
-Capitalize in [Java](https://sampleprograms.io/languages/java) was written by:
+Capitalize in [Java](/languages/java) was written by:
 
 - dyllew3
 - Jeremy Grifski

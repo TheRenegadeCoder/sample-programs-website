@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Gluon](https://sampleprograms.io/projects/baklava/gluon)
-- [Hello World in Gluon](https://sampleprograms.io/projects/hello-world/gluon)
+- [Baklava in Gluon](/projects/baklava/gluon)
+- [Hello World in Gluon](/projects/hello-world/gluon)

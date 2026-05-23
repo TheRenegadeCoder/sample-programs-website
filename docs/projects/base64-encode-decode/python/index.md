@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Base64 Encode Decode](https://sampleprograms.io/projects/base64-encode-decode) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Base64 Encode Decode](/projects/base64-encode-decode) in [Python](/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -77,7 +77,7 @@ if __name__ == "__main__":
 
 {% endraw %}
 
-Base64 Encode Decode in [Python](https://sampleprograms.io/languages/python) was written by:
+Base64 Encode Decode in [Python](/languages/python) was written by:
 
 - rzuckerm
 - Zia

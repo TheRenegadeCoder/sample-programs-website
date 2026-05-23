@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Base64 Encode Decode](https://sampleprograms.io/projects/base64-encode-decode) in [COBOL](https://sampleprograms.io/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Base64 Encode Decode](/projects/base64-encode-decode) in [COBOL](/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -234,7 +234,7 @@ show-usage.
 
 {% endraw %}
 
-Base64 Encode Decode in [COBOL](https://sampleprograms.io/languages/cobol) was written by:
+Base64 Encode Decode in [COBOL](/languages/cobol) was written by:
 
 - Ștefan-Iulian Alecu
 

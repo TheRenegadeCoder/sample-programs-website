@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](/projects/even-odd) in [Java](/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -66,7 +66,7 @@ public class EvenOdd {
 
 {% endraw %}
 
-Even Odd in [Java](https://sampleprograms.io/languages/java) was written by:
+Even Odd in [Java](/languages/java) was written by:
 
 - Jeremy Grifski
 - Parker Johansen

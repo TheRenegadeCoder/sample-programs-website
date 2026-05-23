@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](/projects/reverse-string) in [Perl](/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -42,7 +42,7 @@ say scalar reverse $str if defined $str;
 
 {% endraw %}
 
-Reverse String in [Perl](https://sampleprograms.io/languages/perl) was written by:
+Reverse String in [Perl](/languages/perl) was written by:
 
 - Christoph Böhmwalder
 - Ștefan-Iulian Alecu

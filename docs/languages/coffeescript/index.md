@@ -30,13 +30,13 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 10 articles:
 
-- [Baklava in CoffeeScript](https://sampleprograms.io/projects/baklava/coffeescript)
-- [Capitalize in CoffeeScript](https://sampleprograms.io/projects/capitalize/coffeescript)
-- [Even Odd in CoffeeScript](https://sampleprograms.io/projects/even-odd/coffeescript)
-- [Factorial in CoffeeScript](https://sampleprograms.io/projects/factorial/coffeescript)
-- [Fizz Buzz in CoffeeScript](https://sampleprograms.io/projects/fizz-buzz/coffeescript)
-- [Hello World in CoffeeScript](https://sampleprograms.io/projects/hello-world/coffeescript)
-- [Longest Word in CoffeeScript](https://sampleprograms.io/projects/longest-word/coffeescript)
-- [Quine in CoffeeScript](https://sampleprograms.io/projects/quine/coffeescript)
-- [Remove All Whitespace in CoffeeScript](https://sampleprograms.io/projects/remove-all-whitespace/coffeescript)
-- [Reverse String in CoffeeScript](https://sampleprograms.io/projects/reverse-string/coffeescript)
+- [Baklava in CoffeeScript](/projects/baklava/coffeescript)
+- [Capitalize in CoffeeScript](/projects/capitalize/coffeescript)
+- [Even Odd in CoffeeScript](/projects/even-odd/coffeescript)
+- [Factorial in CoffeeScript](/projects/factorial/coffeescript)
+- [Fizz Buzz in CoffeeScript](/projects/fizz-buzz/coffeescript)
+- [Hello World in CoffeeScript](/projects/hello-world/coffeescript)
+- [Longest Word in CoffeeScript](/projects/longest-word/coffeescript)
+- [Quine in CoffeeScript](/projects/quine/coffeescript)
+- [Remove All Whitespace in CoffeeScript](/projects/remove-all-whitespace/coffeescript)
+- [Reverse String in CoffeeScript](/projects/reverse-string/coffeescript)

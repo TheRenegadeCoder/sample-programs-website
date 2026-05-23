@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](/projects/longest-word) in [JavaScript](/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -59,7 +59,7 @@ console.log(longestWordLength);
 
 {% endraw %}
 
-Longest Word in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
+Longest Word in [JavaScript](/languages/javascript) was written by:
 
 - Raakesh.R
 

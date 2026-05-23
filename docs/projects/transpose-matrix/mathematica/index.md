@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Transpose Matrix](/projects/transpose-matrix) in [Mathematica](/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -72,7 +72,7 @@ transposeMain["3", "3", ""]
 
 {% endraw %}
 
-Transpose Matrix in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Transpose Matrix in [Mathematica](/languages/mathematica) was written by:
 
 - Ben Hekster
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](/projects/even-odd) in [Euphoria](/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -93,7 +93,7 @@ puts(STDOUT, iif(is_even(value), "Even\n", "Odd\n"))
 
 {% endraw %}
 
-Even Odd in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Even Odd in [Euphoria](/languages/euphoria) was written by:
 
 - rzuckerm
 

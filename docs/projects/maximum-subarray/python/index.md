@@ -26,7 +26,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Maximum Subarray](/projects/maximum-subarray) in [Python](/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -66,7 +66,7 @@ if __name__ == "__main__":
 
 {% endraw %}
 
-Maximum Subarray in [Python](https://sampleprograms.io/languages/python) was written by:
+Maximum Subarray in [Python](/languages/python) was written by:
 
 - Divyansh Agarwal
 - Jeremy Grifski

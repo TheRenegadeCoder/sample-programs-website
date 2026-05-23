@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Wu](https://sampleprograms.io/languages/wu) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Wu](/languages/wu) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ print("Hello, World!\n")
 
 {% endraw %}
 
-Hello World in [Wu](https://sampleprograms.io/languages/wu) was written by:
+Hello World in [Wu](/languages/wu) was written by:
 
 - rzuckerm
 

@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Erlang](https://sampleprograms.io/languages/erlang) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Erlang](/languages/erlang) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -84,7 +84,7 @@ print(N, star) ->
 
 {% endraw %}
 
-Baklava in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
+Baklava in [Erlang](/languages/erlang) was written by:
 
 - Mark Magahis
 - rzuckerm

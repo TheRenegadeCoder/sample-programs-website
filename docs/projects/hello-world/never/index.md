@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Never](https://sampleprograms.io/languages/never) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Never](/languages/never) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -41,7 +41,7 @@ func main() -> int {
 
 {% endraw %}
 
-Hello World in [Never](https://sampleprograms.io/languages/never) was written by:
+Hello World in [Never](/languages/never) was written by:
 
 - Ron Zuckerman
 - smaludzi

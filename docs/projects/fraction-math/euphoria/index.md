@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fraction Math](/projects/fraction-math) in [Euphoria](/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -243,7 +243,7 @@ show_fraction_result(fraction_result)
 
 {% endraw %}
 
-Fraction Math in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Fraction Math in [Euphoria](/languages/euphoria) was written by:
 
 - rzuckerm
 

@@ -121,33 +121,33 @@ Usage: please provide a comma-separated list of integers
 
 There are 27 articles:
 
-- [Minimum Spanning Tree in ALGOL 60](https://sampleprograms.io/projects/minimum-spanning-tree/algol60)
-- [Minimum Spanning Tree in ALGOL 68](https://sampleprograms.io/projects/minimum-spanning-tree/algol68)
-- [Minimum Spanning Tree in AWK](https://sampleprograms.io/projects/minimum-spanning-tree/awk)
-- [Minimum Spanning Tree in Beef](https://sampleprograms.io/projects/minimum-spanning-tree/beef)
-- [Minimum Spanning Tree in C](https://sampleprograms.io/projects/minimum-spanning-tree/c)
-- [Minimum Spanning Tree in C#](https://sampleprograms.io/projects/minimum-spanning-tree/c-sharp)
-- [Minimum Spanning Tree in C++](https://sampleprograms.io/projects/minimum-spanning-tree/c-plus-plus)
-- [Minimum Spanning Tree in COBOL](https://sampleprograms.io/projects/minimum-spanning-tree/cobol)
-- [Minimum Spanning Tree in Commodore BASIC](https://sampleprograms.io/projects/minimum-spanning-tree/commodore-basic)
-- [Minimum Spanning Tree in Euphoria](https://sampleprograms.io/projects/minimum-spanning-tree/euphoria)
-- [Minimum Spanning Tree in F#](https://sampleprograms.io/projects/minimum-spanning-tree/f-sharp)
-- [Minimum Spanning Tree in Go](https://sampleprograms.io/projects/minimum-spanning-tree/go)
-- [Minimum Spanning Tree in Haskell](https://sampleprograms.io/projects/minimum-spanning-tree/haskell)
-- [Minimum Spanning Tree in Java](https://sampleprograms.io/projects/minimum-spanning-tree/java)
-- [Minimum Spanning Tree in JavaScript](https://sampleprograms.io/projects/minimum-spanning-tree/javascript)
-- [Minimum Spanning Tree in Mathematica](https://sampleprograms.io/projects/minimum-spanning-tree/mathematica)
-- [Minimum Spanning Tree in PHP](https://sampleprograms.io/projects/minimum-spanning-tree/php)
-- [Minimum Spanning Tree in Pascal](https://sampleprograms.io/projects/minimum-spanning-tree/pascal)
-- [Minimum Spanning Tree in PowerShell](https://sampleprograms.io/projects/minimum-spanning-tree/powershell)
-- [Minimum Spanning Tree in Python](https://sampleprograms.io/projects/minimum-spanning-tree/python)
-- [Minimum Spanning Tree in Ruby](https://sampleprograms.io/projects/minimum-spanning-tree/ruby)
-- [Minimum Spanning Tree in Rust](https://sampleprograms.io/projects/minimum-spanning-tree/rust)
-- [Minimum Spanning Tree in Swift](https://sampleprograms.io/projects/minimum-spanning-tree/swift)
-- [Minimum Spanning Tree in Tcl](https://sampleprograms.io/projects/minimum-spanning-tree/tcl)
-- [Minimum Spanning Tree in TypeScript](https://sampleprograms.io/projects/minimum-spanning-tree/typescript)
-- [Minimum Spanning Tree in Visual Basic](https://sampleprograms.io/projects/minimum-spanning-tree/visual-basic)
-- [Minimum Spanning Tree in m4](https://sampleprograms.io/projects/minimum-spanning-tree/m4)
+- [Minimum Spanning Tree in ALGOL 60](/projects/minimum-spanning-tree/algol60)
+- [Minimum Spanning Tree in ALGOL 68](/projects/minimum-spanning-tree/algol68)
+- [Minimum Spanning Tree in AWK](/projects/minimum-spanning-tree/awk)
+- [Minimum Spanning Tree in Beef](/projects/minimum-spanning-tree/beef)
+- [Minimum Spanning Tree in C](/projects/minimum-spanning-tree/c)
+- [Minimum Spanning Tree in C#](/projects/minimum-spanning-tree/c-sharp)
+- [Minimum Spanning Tree in C++](/projects/minimum-spanning-tree/c-plus-plus)
+- [Minimum Spanning Tree in COBOL](/projects/minimum-spanning-tree/cobol)
+- [Minimum Spanning Tree in Commodore BASIC](/projects/minimum-spanning-tree/commodore-basic)
+- [Minimum Spanning Tree in Euphoria](/projects/minimum-spanning-tree/euphoria)
+- [Minimum Spanning Tree in F#](/projects/minimum-spanning-tree/f-sharp)
+- [Minimum Spanning Tree in Go](/projects/minimum-spanning-tree/go)
+- [Minimum Spanning Tree in Haskell](/projects/minimum-spanning-tree/haskell)
+- [Minimum Spanning Tree in Java](/projects/minimum-spanning-tree/java)
+- [Minimum Spanning Tree in JavaScript](/projects/minimum-spanning-tree/javascript)
+- [Minimum Spanning Tree in Mathematica](/projects/minimum-spanning-tree/mathematica)
+- [Minimum Spanning Tree in PHP](/projects/minimum-spanning-tree/php)
+- [Minimum Spanning Tree in Pascal](/projects/minimum-spanning-tree/pascal)
+- [Minimum Spanning Tree in PowerShell](/projects/minimum-spanning-tree/powershell)
+- [Minimum Spanning Tree in Python](/projects/minimum-spanning-tree/python)
+- [Minimum Spanning Tree in Ruby](/projects/minimum-spanning-tree/ruby)
+- [Minimum Spanning Tree in Rust](/projects/minimum-spanning-tree/rust)
+- [Minimum Spanning Tree in Swift](/projects/minimum-spanning-tree/swift)
+- [Minimum Spanning Tree in Tcl](/projects/minimum-spanning-tree/tcl)
+- [Minimum Spanning Tree in TypeScript](/projects/minimum-spanning-tree/typescript)
+- [Minimum Spanning Tree in Visual Basic](/projects/minimum-spanning-tree/visual-basic)
+- [Minimum Spanning Tree in m4](/projects/minimum-spanning-tree/m4)
 
 ***
 
@@ -155,13 +155,13 @@ There are 27 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Merge Sort)](https://sampleprograms.io/projects/merge-sort)
+[<-- Previous Project (Merge Sort)](/projects/merge-sort)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Palindromic Number) -->](https://sampleprograms.io/projects/palindromic-number)
+[Next Project (Palindromic Number) -->](/projects/palindromic-number)
 
 </div>
 

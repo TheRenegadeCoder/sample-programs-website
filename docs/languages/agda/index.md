@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Agda](https://sampleprograms.io/projects/baklava/agda)
-- [Hello World in Agda](https://sampleprograms.io/projects/hello-world/agda)
+- [Baklava in Agda](/projects/baklava/agda)
+- [Hello World in Agda](/projects/hello-world/agda)

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](/projects/factorial) in [Commodore BASIC](/languages/commodore-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -95,7 +95,7 @@ Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Com
 
 {% endraw %}
 
-Factorial in [Commodore BASIC](https://sampleprograms.io/languages/commodore-basic) was written by:
+Factorial in [Commodore BASIC](/languages/commodore-basic) was written by:
 
 - rzuckerm
 

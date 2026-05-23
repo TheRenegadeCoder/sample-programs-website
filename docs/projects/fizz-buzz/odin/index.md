@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Odin](https://sampleprograms.io/languages/odin) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Odin](/languages/odin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -53,7 +53,7 @@ main :: proc() {
 
 {% endraw %}
 
-Fizz Buzz in [Odin](https://sampleprograms.io/languages/odin) was written by:
+Fizz Buzz in [Odin](/languages/odin) was written by:
 
 - Zia
 

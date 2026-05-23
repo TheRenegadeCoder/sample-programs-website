@@ -118,5 +118,5 @@ If you'd like more information about this language, please see the
 
 There are 2 articles:
 
-- [Baklava in Phix](https://sampleprograms.io/projects/baklava/phix)
-- [Hello World in Phix](https://sampleprograms.io/projects/hello-world/phix)
+- [Baklava in Phix](/projects/baklava/phix)
+- [Hello World in Phix](/projects/hello-world/phix)

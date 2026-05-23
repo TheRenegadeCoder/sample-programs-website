@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](/projects/merge-sort) in [Perl](/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -95,7 +95,7 @@ say join ', ', @$a;
 
 {% endraw %}
 
-Merge Sort in [Perl](https://sampleprograms.io/languages/perl) was written by:
+Merge Sort in [Perl](/languages/perl) was written by:
 
 - Mr Anand Somashekhara Rao Somavarapete
 - Ștefan-Iulian Alecu

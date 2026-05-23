@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](/projects/prime-number) in [Ruby](/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -48,7 +48,7 @@ puts Prime.prime?(number) ? "prime" : "composite"
 
 {% endraw %}
 
-Prime Number in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+Prime Number in [Ruby](/languages/ruby) was written by:
 
 - MSJ
 - Ștefan-Iulian Alecu

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [ArkScript](https://sampleprograms.io/languages/arkscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [ArkScript](/languages/arkscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -62,7 +62,7 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [ArkScri
 
 {% endraw %}
 
-Baklava in [ArkScript](https://sampleprograms.io/languages/arkscript) was written by:
+Baklava in [ArkScript](/languages/arkscript) was written by:
 
 - rzuckerm
 

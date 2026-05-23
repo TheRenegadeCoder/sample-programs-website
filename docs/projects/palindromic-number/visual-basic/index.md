@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Visual Basic](https://sampleprograms.io/languages/visual-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Palindromic Number](/projects/palindromic-number) in [Visual Basic](/languages/visual-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -80,7 +80,7 @@ End Module
 
 {% endraw %}
 
-Palindromic Number in [Visual Basic](https://sampleprograms.io/languages/visual-basic) was written by:
+Palindromic Number in [Visual Basic](/languages/visual-basic) was written by:
 
 - Ștefan-Iulian Alecu
 

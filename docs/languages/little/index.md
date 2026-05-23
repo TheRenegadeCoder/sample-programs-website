@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Little](https://sampleprograms.io/projects/baklava/little)
-- [Hello World in Little](https://sampleprograms.io/projects/hello-world/little)
+- [Baklava in Little](/projects/baklava/little)
+- [Hello World in Little](/projects/hello-world/little)

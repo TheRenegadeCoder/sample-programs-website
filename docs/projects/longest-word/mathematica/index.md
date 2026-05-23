@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](/projects/longest-word) in [Mathematica](/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -63,7 +63,7 @@ longestWordMain[""]
 
 {% endraw %}
 
-Longest Word in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Longest Word in [Mathematica](/languages/mathematica) was written by:
 
 - Ben Hekster
 

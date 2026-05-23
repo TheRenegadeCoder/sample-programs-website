@@ -73,6 +73,6 @@ For further information on this language, see the [C* documentation][5].
 
 There are 3 articles:
 
-- [Baklava in C\*](https://sampleprograms.io/projects/baklava/c-star)
-- [Fizz Buzz in C\*](https://sampleprograms.io/projects/fizz-buzz/c-star)
-- [Hello World in C\*](https://sampleprograms.io/projects/hello-world/c-star)
+- [Baklava in C\*](/projects/baklava/c-star)
+- [Fizz Buzz in C\*](/projects/fizz-buzz/c-star)
+- [Hello World in C\*](/projects/hello-world/c-star)

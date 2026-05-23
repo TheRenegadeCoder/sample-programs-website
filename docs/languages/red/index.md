@@ -69,7 +69,7 @@ Now, that's awesome!
 
 There are 4 articles:
 
-- [Baklava in Red](https://sampleprograms.io/projects/baklava/red)
-- [Fizz Buzz in Red](https://sampleprograms.io/projects/fizz-buzz/red)
-- [Hello World in Red](https://sampleprograms.io/projects/hello-world/red)
-- [Prime Number in Red](https://sampleprograms.io/projects/prime-number/red)
+- [Baklava in Red](/projects/baklava/red)
+- [Fizz Buzz in Red](/projects/fizz-buzz/red)
+- [Hello World in Red](/projects/hello-world/red)
+- [Prime Number in Red](/projects/prime-number/red)

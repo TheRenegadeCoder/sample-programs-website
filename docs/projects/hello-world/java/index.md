@@ -26,7 +26,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Java](/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -42,7 +42,7 @@ class HelloWorld {
 
 {% endraw %}
 
-Hello World in [Java](https://sampleprograms.io/languages/java) was written by:
+Hello World in [Java](/languages/java) was written by:
 
 - Jeremy Griffith
 - Jeremy Grifski

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [TI-BASIC](https://sampleprograms.io/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](/projects/reverse-string) in [TI-BASIC](/languages/ti-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -42,7 +42,7 @@ Disp Str2
 
 {% endraw %}
 
-Reverse String in [TI-BASIC](https://sampleprograms.io/languages/ti-basic) was written by:
+Reverse String in [TI-BASIC](/languages/ti-basic) was written by:
 
 - rzuckerm
 

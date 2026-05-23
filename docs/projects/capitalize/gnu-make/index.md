@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [GNU Make](https://sampleprograms.io/languages/gnu-make) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](/projects/capitalize) in [GNU Make](/languages/gnu-make) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -90,7 +90,7 @@ all: ;@:
 
 {% endraw %}
 
-Capitalize in [GNU Make](https://sampleprograms.io/languages/gnu-make) was written by:
+Capitalize in [GNU Make](/languages/gnu-make) was written by:
 
 - rzuckerm
 

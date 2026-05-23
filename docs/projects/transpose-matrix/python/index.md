@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Transpose Matrix](/projects/transpose-matrix) in [Python](/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -49,7 +49,7 @@ print(serial_transposed_matrix)
 
 {% endraw %}
 
-Transpose Matrix in [Python](https://sampleprograms.io/languages/python) was written by:
+Transpose Matrix in [Python](/languages/python) was written by:
 
 - Jeremy Grifski
 

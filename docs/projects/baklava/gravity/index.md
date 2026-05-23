@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Gravity](https://sampleprograms.io/languages/gravity) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Gravity](/languages/gravity) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -45,7 +45,7 @@ func main() {
 
 {% endraw %}
 
-Baklava in [Gravity](https://sampleprograms.io/languages/gravity) was written by:
+Baklava in [Gravity](/languages/gravity) was written by:
 
 - rzuckerm
 

@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Emojicode](https://sampleprograms.io/projects/baklava/emojicode)
-- [Hello World in Emojicode](https://sampleprograms.io/projects/hello-world/emojicode)
+- [Baklava in Emojicode](/projects/baklava/emojicode)
+- [Hello World in Emojicode](/projects/hello-world/emojicode)

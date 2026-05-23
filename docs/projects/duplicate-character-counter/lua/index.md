@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Duplicate Character Counter](/projects/duplicate-character-counter) in [Lua](/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -73,7 +73,7 @@ duplicateCharacterCounter(arg[1])
 
 {% endraw %}
 
-Duplicate Character Counter in [Lua](https://sampleprograms.io/languages/lua) was written by:
+Duplicate Character Counter in [Lua](/languages/lua) was written by:
 
 - abdirashidexe
 

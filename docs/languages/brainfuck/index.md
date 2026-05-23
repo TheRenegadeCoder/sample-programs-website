@@ -59,11 +59,11 @@ That's it!
 
 There are 8 articles:
 
-- [Baklava in Brainfuck](https://sampleprograms.io/projects/baklava/brainfuck)
-- [Capitalize in Brainfuck](https://sampleprograms.io/projects/capitalize/brainfuck)
-- [Fizz Buzz in Brainfuck](https://sampleprograms.io/projects/fizz-buzz/brainfuck)
-- [Hello World in Brainfuck](https://sampleprograms.io/projects/hello-world/brainfuck)
-- [Longest Word in Brainfuck](https://sampleprograms.io/projects/longest-word/brainfuck)
-- [Remove All Whitespace in Brainfuck](https://sampleprograms.io/projects/remove-all-whitespace/brainfuck)
-- [Reverse String in Brainfuck](https://sampleprograms.io/projects/reverse-string/brainfuck)
-- [Rot13 in Brainfuck](https://sampleprograms.io/projects/rot13/brainfuck)
+- [Baklava in Brainfuck](/projects/baklava/brainfuck)
+- [Capitalize in Brainfuck](/projects/capitalize/brainfuck)
+- [Fizz Buzz in Brainfuck](/projects/fizz-buzz/brainfuck)
+- [Hello World in Brainfuck](/projects/hello-world/brainfuck)
+- [Longest Word in Brainfuck](/projects/longest-word/brainfuck)
+- [Remove All Whitespace in Brainfuck](/projects/remove-all-whitespace/brainfuck)
+- [Reverse String in Brainfuck](/projects/reverse-string/brainfuck)
+- [Rot13 in Brainfuck](/projects/rot13/brainfuck)

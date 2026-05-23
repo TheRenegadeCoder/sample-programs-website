@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Io](https://sampleprograms.io/projects/baklava/io)
-- [Fizz Buzz in Io](https://sampleprograms.io/projects/fizz-buzz/io)
-- [Hello World in Io](https://sampleprograms.io/projects/hello-world/io)
+- [Baklava in Io](/projects/baklava/io)
+- [Fizz Buzz in Io](/projects/fizz-buzz/io)
+- [Hello World in Io](/projects/hello-world/io)

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fraction Math](/projects/fraction-math) in [ALGOL 68](/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -251,7 +251,7 @@ show fraction result(fraction result)
 
 {% endraw %}
 
-Fraction Math in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
+Fraction Math in [ALGOL 68](/languages/algol68) was written by:
 
 - rzuckerm
 

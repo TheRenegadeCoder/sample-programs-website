@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](/projects/longest-word) in [Perl](/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -46,7 +46,7 @@ say max map length, split /\s+/, $input;
 
 {% endraw %}
 
-Longest Word in [Perl](https://sampleprograms.io/languages/perl) was written by:
+Longest Word in [Perl](/languages/perl) was written by:
 
 - Ștefan-Iulian Alecu
 

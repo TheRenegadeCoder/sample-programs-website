@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [ALGOL 60](https://sampleprograms.io/languages/algol60) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Depth First Search](/projects/depth-first-search) in [ALGOL 60](/languages/algol60) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -302,7 +302,7 @@ end
 
 {% endraw %}
 
-Depth First Search in [ALGOL 60](https://sampleprograms.io/languages/algol60) was written by:
+Depth First Search in [ALGOL 60](/languages/algol60) was written by:
 
 - rzuckerm
 

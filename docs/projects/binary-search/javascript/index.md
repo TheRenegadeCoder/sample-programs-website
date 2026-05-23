@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [JavaScript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Binary Search](/projects/binary-search) in [JavaScript](/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -57,7 +57,7 @@ console.log(array && target ? binarySearch(array.split(', '), target) : error);
 
 {% endraw %}
 
-Binary Search in [JavaScript](https://sampleprograms.io/languages/javascript) was written by:
+Binary Search in [JavaScript](/languages/javascript) was written by:
 
 - izexi
 

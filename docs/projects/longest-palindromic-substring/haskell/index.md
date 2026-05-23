@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Palindromic Substring](/projects/longest-palindromic-substring) in [Haskell](/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -60,7 +60,7 @@ main = do
 
 {% endraw %}
 
-Longest Palindromic Substring in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+Longest Palindromic Substring in [Haskell](/languages/haskell) was written by:
 
 - Ricardo Mapurunga Junior
 

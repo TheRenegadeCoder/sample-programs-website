@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](/projects/quine) in [Perl](/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ $s='$s=%c%s%c;printf($s,39,$s,39,10);%c';printf($s,39,$s,39,10);
 
 {% endraw %}
 
-Quine in [Perl](https://sampleprograms.io/languages/perl) was written by:
+Quine in [Perl](/languages/perl) was written by:
 
 - Juan D Frias
 

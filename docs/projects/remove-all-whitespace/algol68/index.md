@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Remove All Whitespace](/projects/remove-all-whitespace) in [ALGOL 68](/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -63,7 +63,7 @@ printf(($gl$, s))
 
 {% endraw %}
 
-Remove All Whitespace in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
+Remove All Whitespace in [ALGOL 68](/languages/algol68) was written by:
 
 - rzuckerm
 

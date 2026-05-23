@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Mirth](https://sampleprograms.io/projects/baklava/mirth)
-- [Hello World in Mirth](https://sampleprograms.io/projects/hello-world/mirth)
+- [Baklava in Mirth](/projects/baklava/mirth)
+- [Hello World in Mirth](/projects/hello-world/mirth)

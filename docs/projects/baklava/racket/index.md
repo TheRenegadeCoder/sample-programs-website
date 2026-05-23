@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Racket](https://sampleprograms.io/languages/racket) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Racket](/languages/racket) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -44,7 +44,7 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Racket]
 
 {% endraw %}
 
-Baklava in [Racket](https://sampleprograms.io/languages/racket) was written by:
+Baklava in [Racket](/languages/racket) was written by:
 
 - rzuckerm
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [OCaml](https://sampleprograms.io/languages/ocaml) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [OCaml](/languages/ocaml) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -45,7 +45,7 @@ done
 
 {% endraw %}
 
-Baklava in [OCaml](https://sampleprograms.io/languages/ocaml) was written by:
+Baklava in [OCaml](/languages/ocaml) was written by:
 
 - rzuckerm
 

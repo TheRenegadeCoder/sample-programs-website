@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quick Sort](/projects/quick-sort) in [Rust](/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -72,7 +72,7 @@ fn main() {
 
 {% endraw %}
 
-Quick Sort in [Rust](https://sampleprograms.io/languages/rust) was written by:
+Quick Sort in [Rust](/languages/rust) was written by:
 
 - Paolo Cretaro
 

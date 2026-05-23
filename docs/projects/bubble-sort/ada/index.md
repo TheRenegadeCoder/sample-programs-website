@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Ada](https://sampleprograms.io/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](/projects/bubble-sort) in [Ada](/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -157,7 +157,7 @@ end Bubble_Sort;
 
 {% endraw %}
 
-Bubble Sort in [Ada](https://sampleprograms.io/languages/ada) was written by:
+Bubble Sort in [Ada](/languages/ada) was written by:
 
 - Ștefan-Iulian Alecu
 

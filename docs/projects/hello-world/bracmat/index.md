@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Bracmat](https://sampleprograms.io/languages/bracmat) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Bracmat](/languages/bracmat) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -36,7 +36,7 @@ put$"Hello, World!"
 
 {% endraw %}
 
-Hello World in [Bracmat](https://sampleprograms.io/languages/bracmat) was written by:
+Hello World in [Bracmat](/languages/bracmat) was written by:
 
 - Shivam Choudhary
 

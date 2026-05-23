@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Convex Hull](/projects/convex-hull) in [Swift](/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -123,7 +123,7 @@ print(convexHull(from: points).map { "(\($0.x), \($0.y))" }.joined(separator: "\
 
 {% endraw %}
 
-Convex Hull in [Swift](https://sampleprograms.io/languages/swift) was written by:
+Convex Hull in [Swift](/languages/swift) was written by:
 
 - Ștefan-Iulian Alecu
 

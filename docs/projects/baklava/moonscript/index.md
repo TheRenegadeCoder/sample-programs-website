@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [MoonScript](https://sampleprograms.io/languages/moonscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [MoonScript](/languages/moonscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -46,7 +46,7 @@ for i = -10, 10
 
 {% endraw %}
 
-Baklava in [MoonScript](https://sampleprograms.io/languages/moonscript) was written by:
+Baklava in [MoonScript](/languages/moonscript) was written by:
 
 - rzuckerm
 

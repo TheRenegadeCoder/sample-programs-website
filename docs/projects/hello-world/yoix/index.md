@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Yoix](https://sampleprograms.io/languages/yoix) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Yoix](/languages/yoix) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -39,7 +39,7 @@ printf("Hello, World!\n");
 
 {% endraw %}
 
-Hello World in [Yoix](https://sampleprograms.io/languages/yoix) was written by:
+Hello World in [Yoix](/languages/yoix) was written by:
 
 - rzuckerm
 

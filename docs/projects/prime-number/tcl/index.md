@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Tcl](https://sampleprograms.io/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](/projects/prime-number) in [Tcl](/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -69,7 +69,7 @@ if {$n < 2} {
 
 {% endraw %}
 
-Prime Number in [Tcl](https://sampleprograms.io/languages/tcl) was written by:
+Prime Number in [Tcl](/languages/tcl) was written by:
 
 - Ștefan-Iulian Alecu
 

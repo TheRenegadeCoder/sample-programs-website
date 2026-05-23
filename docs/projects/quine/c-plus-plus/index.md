@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](/projects/quine) in [C++](/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -38,7 +38,7 @@ int main(){printf(s,10,34,s,34,10,10);}
 
 {% endraw %}
 
-Quine in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+Quine in [C++](/languages/c-plus-plus) was written by:
 
 - Ștefan-Iulian Alecu
 

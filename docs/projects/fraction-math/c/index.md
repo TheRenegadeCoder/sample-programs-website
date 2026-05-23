@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fraction Math](/projects/fraction-math) in [C](/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -193,7 +193,7 @@ int main(int argc, char *argv[])
 
 {% endraw %}
 
-Fraction Math in [C](https://sampleprograms.io/languages/c) was written by:
+Fraction Math in [C](/languages/c) was written by:
 
 - Maximillian Naza
 - Ștefan-Iulian Alecu

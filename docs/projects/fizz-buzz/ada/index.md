@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Ada](https://sampleprograms.io/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Ada](/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -54,7 +54,7 @@ end Fizz_Buzz;
 
 {% endraw %}
 
-Fizz Buzz in [Ada](https://sampleprograms.io/languages/ada) was written by:
+Fizz Buzz in [Ada](/languages/ada) was written by:
 
 - Rebecca Riffle
 

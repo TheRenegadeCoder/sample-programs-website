@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Modula-2](https://sampleprograms.io/languages/modula2) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Modula-2](/languages/modula2) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -44,7 +44,7 @@ END HelloWorld.
 
 {% endraw %}
 
-Hello World in [Modula-2](https://sampleprograms.io/languages/modula2) was written by:
+Hello World in [Modula-2](/languages/modula2) was written by:
 
 - rzuckerm
 

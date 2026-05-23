@@ -80,41 +80,41 @@ Usage: please provide a string
 
 There are 35 articles:
 
-- [Duplicate Character Counter in ALGOL 60](https://sampleprograms.io/projects/duplicate-character-counter/algol60)
-- [Duplicate Character Counter in ALGOL 68](https://sampleprograms.io/projects/duplicate-character-counter/algol68)
-- [Duplicate Character Counter in AWK](https://sampleprograms.io/projects/duplicate-character-counter/awk)
-- [Duplicate Character Counter in Ada](https://sampleprograms.io/projects/duplicate-character-counter/ada)
-- [Duplicate Character Counter in Beef](https://sampleprograms.io/projects/duplicate-character-counter/beef)
-- [Duplicate Character Counter in C](https://sampleprograms.io/projects/duplicate-character-counter/c)
-- [Duplicate Character Counter in C#](https://sampleprograms.io/projects/duplicate-character-counter/c-sharp)
-- [Duplicate Character Counter in C++](https://sampleprograms.io/projects/duplicate-character-counter/c-plus-plus)
-- [Duplicate Character Counter in COBOL](https://sampleprograms.io/projects/duplicate-character-counter/cobol)
-- [Duplicate Character Counter in Commodore BASIC](https://sampleprograms.io/projects/duplicate-character-counter/commodore-basic)
-- [Duplicate Character Counter in Dart](https://sampleprograms.io/projects/duplicate-character-counter/dart)
-- [Duplicate Character Counter in Euphoria](https://sampleprograms.io/projects/duplicate-character-counter/euphoria)
-- [Duplicate Character Counter in F#](https://sampleprograms.io/projects/duplicate-character-counter/f-sharp)
-- [Duplicate Character Counter in Go](https://sampleprograms.io/projects/duplicate-character-counter/go)
-- [Duplicate Character Counter in Java](https://sampleprograms.io/projects/duplicate-character-counter/java)
-- [Duplicate Character Counter in JavaScript](https://sampleprograms.io/projects/duplicate-character-counter/javascript)
-- [Duplicate Character Counter in Kotlin](https://sampleprograms.io/projects/duplicate-character-counter/kotlin)
-- [Duplicate Character Counter in Lua](https://sampleprograms.io/projects/duplicate-character-counter/lua)
-- [Duplicate Character Counter in Mathematica](https://sampleprograms.io/projects/duplicate-character-counter/mathematica)
-- [Duplicate Character Counter in OCaml](https://sampleprograms.io/projects/duplicate-character-counter/ocaml)
-- [Duplicate Character Counter in PHP](https://sampleprograms.io/projects/duplicate-character-counter/php)
-- [Duplicate Character Counter in Pascal](https://sampleprograms.io/projects/duplicate-character-counter/pascal)
-- [Duplicate Character Counter in PowerShell](https://sampleprograms.io/projects/duplicate-character-counter/powershell)
-- [Duplicate Character Counter in Python](https://sampleprograms.io/projects/duplicate-character-counter/python)
-- [Duplicate Character Counter in R](https://sampleprograms.io/projects/duplicate-character-counter/r)
-- [Duplicate Character Counter in Ruby](https://sampleprograms.io/projects/duplicate-character-counter/ruby)
-- [Duplicate Character Counter in Rust](https://sampleprograms.io/projects/duplicate-character-counter/rust)
-- [Duplicate Character Counter in Swift](https://sampleprograms.io/projects/duplicate-character-counter/swift)
-- [Duplicate Character Counter in TI-BASIC](https://sampleprograms.io/projects/duplicate-character-counter/ti-basic)
-- [Duplicate Character Counter in Tcl](https://sampleprograms.io/projects/duplicate-character-counter/tcl)
-- [Duplicate Character Counter in TypeScript](https://sampleprograms.io/projects/duplicate-character-counter/typescript)
-- [Duplicate Character Counter in V](https://sampleprograms.io/projects/duplicate-character-counter/v)
-- [Duplicate Character Counter in Visual Basic](https://sampleprograms.io/projects/duplicate-character-counter/visual-basic)
-- [Duplicate Character Counter in Wren](https://sampleprograms.io/projects/duplicate-character-counter/wren)
-- [Duplicate Character Counter in m4](https://sampleprograms.io/projects/duplicate-character-counter/m4)
+- [Duplicate Character Counter in ALGOL 60](/projects/duplicate-character-counter/algol60)
+- [Duplicate Character Counter in ALGOL 68](/projects/duplicate-character-counter/algol68)
+- [Duplicate Character Counter in AWK](/projects/duplicate-character-counter/awk)
+- [Duplicate Character Counter in Ada](/projects/duplicate-character-counter/ada)
+- [Duplicate Character Counter in Beef](/projects/duplicate-character-counter/beef)
+- [Duplicate Character Counter in C](/projects/duplicate-character-counter/c)
+- [Duplicate Character Counter in C#](/projects/duplicate-character-counter/c-sharp)
+- [Duplicate Character Counter in C++](/projects/duplicate-character-counter/c-plus-plus)
+- [Duplicate Character Counter in COBOL](/projects/duplicate-character-counter/cobol)
+- [Duplicate Character Counter in Commodore BASIC](/projects/duplicate-character-counter/commodore-basic)
+- [Duplicate Character Counter in Dart](/projects/duplicate-character-counter/dart)
+- [Duplicate Character Counter in Euphoria](/projects/duplicate-character-counter/euphoria)
+- [Duplicate Character Counter in F#](/projects/duplicate-character-counter/f-sharp)
+- [Duplicate Character Counter in Go](/projects/duplicate-character-counter/go)
+- [Duplicate Character Counter in Java](/projects/duplicate-character-counter/java)
+- [Duplicate Character Counter in JavaScript](/projects/duplicate-character-counter/javascript)
+- [Duplicate Character Counter in Kotlin](/projects/duplicate-character-counter/kotlin)
+- [Duplicate Character Counter in Lua](/projects/duplicate-character-counter/lua)
+- [Duplicate Character Counter in Mathematica](/projects/duplicate-character-counter/mathematica)
+- [Duplicate Character Counter in OCaml](/projects/duplicate-character-counter/ocaml)
+- [Duplicate Character Counter in PHP](/projects/duplicate-character-counter/php)
+- [Duplicate Character Counter in Pascal](/projects/duplicate-character-counter/pascal)
+- [Duplicate Character Counter in PowerShell](/projects/duplicate-character-counter/powershell)
+- [Duplicate Character Counter in Python](/projects/duplicate-character-counter/python)
+- [Duplicate Character Counter in R](/projects/duplicate-character-counter/r)
+- [Duplicate Character Counter in Ruby](/projects/duplicate-character-counter/ruby)
+- [Duplicate Character Counter in Rust](/projects/duplicate-character-counter/rust)
+- [Duplicate Character Counter in Swift](/projects/duplicate-character-counter/swift)
+- [Duplicate Character Counter in TI-BASIC](/projects/duplicate-character-counter/ti-basic)
+- [Duplicate Character Counter in Tcl](/projects/duplicate-character-counter/tcl)
+- [Duplicate Character Counter in TypeScript](/projects/duplicate-character-counter/typescript)
+- [Duplicate Character Counter in V](/projects/duplicate-character-counter/v)
+- [Duplicate Character Counter in Visual Basic](/projects/duplicate-character-counter/visual-basic)
+- [Duplicate Character Counter in Wren](/projects/duplicate-character-counter/wren)
+- [Duplicate Character Counter in m4](/projects/duplicate-character-counter/m4)
 
 ***
 
@@ -122,13 +122,13 @@ There are 35 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Dijkstra)](https://sampleprograms.io/projects/dijkstra)
+[<-- Previous Project (Dijkstra)](/projects/dijkstra)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Even Odd) -->](https://sampleprograms.io/projects/even-odd)
+[Next Project (Even Odd) -->](/projects/even-odd)
 
 </div>
 

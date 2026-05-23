@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](/projects/capitalize) in [Swift](/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -51,7 +51,7 @@ print(result)
 
 {% endraw %}
 
-Capitalize in [Swift](https://sampleprograms.io/languages/swift) was written by:
+Capitalize in [Swift](/languages/swift) was written by:
 
 - Ștefan-Iulian Alecu
 

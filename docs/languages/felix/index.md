@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Felix](https://sampleprograms.io/projects/baklava/felix)
-- [Hello World in Felix](https://sampleprograms.io/projects/hello-world/felix)
+- [Baklava in Felix](/projects/baklava/felix)
+- [Hello World in Felix](/projects/hello-world/felix)

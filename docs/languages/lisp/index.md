@@ -144,13 +144,13 @@ implement Hello World in Lisp, so we should probably get to that.
 
 There are 10 articles:
 
-- [Baklava in Lisp](https://sampleprograms.io/projects/baklava/lisp)
-- [Capitalize in Lisp](https://sampleprograms.io/projects/capitalize/lisp)
-- [Even Odd in Lisp](https://sampleprograms.io/projects/even-odd/lisp)
-- [Factorial in Lisp](https://sampleprograms.io/projects/factorial/lisp)
-- [Fibonacci in Lisp](https://sampleprograms.io/projects/fibonacci/lisp)
-- [Fizz Buzz in Lisp](https://sampleprograms.io/projects/fizz-buzz/lisp)
-- [Hello World in Lisp](https://sampleprograms.io/projects/hello-world/lisp)
-- [Prime Number in Lisp](https://sampleprograms.io/projects/prime-number/lisp)
-- [Quick Sort in Lisp](https://sampleprograms.io/projects/quick-sort/lisp)
-- [Reverse String in Lisp](https://sampleprograms.io/projects/reverse-string/lisp)
+- [Baklava in Lisp](/projects/baklava/lisp)
+- [Capitalize in Lisp](/projects/capitalize/lisp)
+- [Even Odd in Lisp](/projects/even-odd/lisp)
+- [Factorial in Lisp](/projects/factorial/lisp)
+- [Fibonacci in Lisp](/projects/fibonacci/lisp)
+- [Fizz Buzz in Lisp](/projects/fizz-buzz/lisp)
+- [Hello World in Lisp](/projects/hello-world/lisp)
+- [Prime Number in Lisp](/projects/prime-number/lisp)
+- [Quick Sort in Lisp](/projects/quick-sort/lisp)
+- [Reverse String in Lisp](/projects/reverse-string/lisp)

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [OCaml](https://sampleprograms.io/languages/ocaml) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Input Output](/projects/file-input-output) in [OCaml](/languages/ocaml) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -57,7 +57,7 @@ let () =
 
 {% endraw %}
 
-File Input Output in [OCaml](https://sampleprograms.io/languages/ocaml) was written by:
+File Input Output in [OCaml](/languages/ocaml) was written by:
 
 - alope107
 

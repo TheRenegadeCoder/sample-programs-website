@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Elena](https://sampleprograms.io/projects/baklava/elena)
-- [Hello World in Elena](https://sampleprograms.io/projects/hello-world/elena)
+- [Baklava in Elena](/projects/baklava/elena)
+- [Hello World in Elena](/projects/hello-world/elena)

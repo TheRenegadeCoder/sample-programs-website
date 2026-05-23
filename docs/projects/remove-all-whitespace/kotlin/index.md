@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Remove All Whitespace](/projects/remove-all-whitespace) in [Kotlin](/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -58,7 +58,7 @@ fun removeWhitespace(phrase: String): String {
 
 {% endraw %}
 
-Remove All Whitespace in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
+Remove All Whitespace in [Kotlin](/languages/kotlin) was written by:
 
 - Jeremy Grifski
 

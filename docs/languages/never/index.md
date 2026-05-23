@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Never](https://sampleprograms.io/projects/baklava/never)
-- [Hello World in Never](https://sampleprograms.io/projects/hello-world/never)
-- [Reverse String in Never](https://sampleprograms.io/projects/reverse-string/never)
+- [Baklava in Never](/projects/baklava/never)
+- [Hello World in Never](/projects/hello-world/never)
+- [Reverse String in Never](/projects/reverse-string/never)

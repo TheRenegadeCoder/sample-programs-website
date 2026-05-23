@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Whitespace](https://sampleprograms.io/languages/whitespace) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Whitespace](/languages/whitespace) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -65,7 +65,7 @@ L
 
 {% endraw %}
 
-Hello World in [Whitespace](https://sampleprograms.io/languages/whitespace) was written by:
+Hello World in [Whitespace](/languages/whitespace) was written by:
 
 - Jayden Thrasher
 

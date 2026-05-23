@@ -102,43 +102,43 @@ Usage: please provide a string
 
 There are 37 articles:
 
-- [Longest Word in ALGOL 60](https://sampleprograms.io/projects/longest-word/algol60)
-- [Longest Word in ALGOL 68](https://sampleprograms.io/projects/longest-word/algol68)
-- [Longest Word in AWK](https://sampleprograms.io/projects/longest-word/awk)
-- [Longest Word in Ada](https://sampleprograms.io/projects/longest-word/ada)
-- [Longest Word in Beef](https://sampleprograms.io/projects/longest-word/beef)
-- [Longest Word in Brainfuck](https://sampleprograms.io/projects/longest-word/brainfuck)
-- [Longest Word in C](https://sampleprograms.io/projects/longest-word/c)
-- [Longest Word in C#](https://sampleprograms.io/projects/longest-word/c-sharp)
-- [Longest Word in C++](https://sampleprograms.io/projects/longest-word/c-plus-plus)
-- [Longest Word in COBOL](https://sampleprograms.io/projects/longest-word/cobol)
-- [Longest Word in CoffeeScript](https://sampleprograms.io/projects/longest-word/coffeescript)
-- [Longest Word in Commodore BASIC](https://sampleprograms.io/projects/longest-word/commodore-basic)
-- [Longest Word in Dart](https://sampleprograms.io/projects/longest-word/dart)
-- [Longest Word in Euphoria](https://sampleprograms.io/projects/longest-word/euphoria)
-- [Longest Word in F#](https://sampleprograms.io/projects/longest-word/f-sharp)
-- [Longest Word in Go](https://sampleprograms.io/projects/longest-word/go)
-- [Longest Word in Haskell](https://sampleprograms.io/projects/longest-word/haskell)
-- [Longest Word in Java](https://sampleprograms.io/projects/longest-word/java)
-- [Longest Word in JavaScript](https://sampleprograms.io/projects/longest-word/javascript)
-- [Longest Word in Julia](https://sampleprograms.io/projects/longest-word/julia)
-- [Longest Word in Kotlin](https://sampleprograms.io/projects/longest-word/kotlin)
-- [Longest Word in Lua](https://sampleprograms.io/projects/longest-word/lua)
-- [Longest Word in Mathematica](https://sampleprograms.io/projects/longest-word/mathematica)
-- [Longest Word in Odin](https://sampleprograms.io/projects/longest-word/odin)
-- [Longest Word in PHP](https://sampleprograms.io/projects/longest-word/php)
-- [Longest Word in Pascal](https://sampleprograms.io/projects/longest-word/pascal)
-- [Longest Word in Perl](https://sampleprograms.io/projects/longest-word/perl)
-- [Longest Word in PowerShell](https://sampleprograms.io/projects/longest-word/powershell)
-- [Longest Word in Python](https://sampleprograms.io/projects/longest-word/python)
-- [Longest Word in R](https://sampleprograms.io/projects/longest-word/r)
-- [Longest Word in Ruby](https://sampleprograms.io/projects/longest-word/ruby)
-- [Longest Word in Rust](https://sampleprograms.io/projects/longest-word/rust)
-- [Longest Word in Swift](https://sampleprograms.io/projects/longest-word/swift)
-- [Longest Word in Tcl](https://sampleprograms.io/projects/longest-word/tcl)
-- [Longest Word in TypeScript](https://sampleprograms.io/projects/longest-word/typescript)
-- [Longest Word in Visual Basic](https://sampleprograms.io/projects/longest-word/visual-basic)
-- [Longest Word in m4](https://sampleprograms.io/projects/longest-word/m4)
+- [Longest Word in ALGOL 60](/projects/longest-word/algol60)
+- [Longest Word in ALGOL 68](/projects/longest-word/algol68)
+- [Longest Word in AWK](/projects/longest-word/awk)
+- [Longest Word in Ada](/projects/longest-word/ada)
+- [Longest Word in Beef](/projects/longest-word/beef)
+- [Longest Word in Brainfuck](/projects/longest-word/brainfuck)
+- [Longest Word in C](/projects/longest-word/c)
+- [Longest Word in C#](/projects/longest-word/c-sharp)
+- [Longest Word in C++](/projects/longest-word/c-plus-plus)
+- [Longest Word in COBOL](/projects/longest-word/cobol)
+- [Longest Word in CoffeeScript](/projects/longest-word/coffeescript)
+- [Longest Word in Commodore BASIC](/projects/longest-word/commodore-basic)
+- [Longest Word in Dart](/projects/longest-word/dart)
+- [Longest Word in Euphoria](/projects/longest-word/euphoria)
+- [Longest Word in F#](/projects/longest-word/f-sharp)
+- [Longest Word in Go](/projects/longest-word/go)
+- [Longest Word in Haskell](/projects/longest-word/haskell)
+- [Longest Word in Java](/projects/longest-word/java)
+- [Longest Word in JavaScript](/projects/longest-word/javascript)
+- [Longest Word in Julia](/projects/longest-word/julia)
+- [Longest Word in Kotlin](/projects/longest-word/kotlin)
+- [Longest Word in Lua](/projects/longest-word/lua)
+- [Longest Word in Mathematica](/projects/longest-word/mathematica)
+- [Longest Word in Odin](/projects/longest-word/odin)
+- [Longest Word in PHP](/projects/longest-word/php)
+- [Longest Word in Pascal](/projects/longest-word/pascal)
+- [Longest Word in Perl](/projects/longest-word/perl)
+- [Longest Word in PowerShell](/projects/longest-word/powershell)
+- [Longest Word in Python](/projects/longest-word/python)
+- [Longest Word in R](/projects/longest-word/r)
+- [Longest Word in Ruby](/projects/longest-word/ruby)
+- [Longest Word in Rust](/projects/longest-word/rust)
+- [Longest Word in Swift](/projects/longest-word/swift)
+- [Longest Word in Tcl](/projects/longest-word/tcl)
+- [Longest Word in TypeScript](/projects/longest-word/typescript)
+- [Longest Word in Visual Basic](/projects/longest-word/visual-basic)
+- [Longest Word in m4](/projects/longest-word/m4)
 
 ***
 
@@ -146,13 +146,13 @@ There are 37 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Longest Palindromic Substring)](https://sampleprograms.io/projects/longest-palindromic-substring)
+[<-- Previous Project (Longest Palindromic Substring)](/projects/longest-palindromic-substring)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Maximum Array Rotation) -->](https://sampleprograms.io/projects/maximum-array-rotation)
+[Next Project (Maximum Array Rotation) -->](/projects/maximum-array-rotation)
 
 </div>
 

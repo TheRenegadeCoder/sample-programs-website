@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [C#](https://sampleprograms.io/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Josephus Problem](/projects/josephus-problem) in [C#](/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -56,7 +56,7 @@ Console.WriteLine(survivor + 1);
 
 {% endraw %}
 
-Josephus Problem in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
+Josephus Problem in [C#](/languages/c-sharp) was written by:
 
 - Ben Mojo
 - Ștefan-Iulian Alecu

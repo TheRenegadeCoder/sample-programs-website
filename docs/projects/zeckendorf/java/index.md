@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Zeckendorf](https://sampleprograms.io/projects/zeckendorf) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Zeckendorf](/projects/zeckendorf) in [Java](/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -93,7 +93,7 @@ public class Zeckendorf {
 
 {% endraw %}
 
-Zeckendorf in [Java](https://sampleprograms.io/languages/java) was written by:
+Zeckendorf in [Java](/languages/java) was written by:
 
 - Ștefan-Iulian Alecu
 

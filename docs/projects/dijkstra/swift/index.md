@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Dijkstra](/projects/dijkstra) in [Swift](/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -143,7 +143,7 @@ if let result = shortestPath(matrix: matrix, from: source, to: destination) {
 
 {% endraw %}
 
-Dijkstra in [Swift](https://sampleprograms.io/languages/swift) was written by:
+Dijkstra in [Swift](/languages/swift) was written by:
 
 - Ștefan-Iulian Alecu
 

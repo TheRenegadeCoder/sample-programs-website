@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](/projects/fibonacci) in [Euphoria](/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -111,7 +111,7 @@ show_fibonacci_values(value)
 
 {% endraw %}
 
-Fibonacci in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Fibonacci in [Euphoria](/languages/euphoria) was written by:
 
 - rzuckerm
 

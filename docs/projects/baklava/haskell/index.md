@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Haskell](/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -59,7 +59,7 @@ line space asterisk = replicate space ' ' ++ replicate asterisk '*'
 
 {% endraw %}
 
-Baklava in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+Baklava in [Haskell](/languages/haskell) was written by:
 
 - Parker Johansen
 

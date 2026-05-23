@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Cython](https://sampleprograms.io/languages/cython) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](/projects/quine) in [Cython](/languages/cython) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -51,7 +51,7 @@ if __name__ == "__main__":
 
 {% endraw %}
 
-Quine in [Cython](https://sampleprograms.io/languages/cython) was written by:
+Quine in [Cython](/languages/cython) was written by:
 
 - rzuckerm
 

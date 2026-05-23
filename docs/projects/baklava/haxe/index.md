@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Haxe](https://sampleprograms.io/languages/haxe) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Haxe](/languages/haxe) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -51,7 +51,7 @@ class Baklava {
 
 {% endraw %}
 
-Baklava in [Haxe](https://sampleprograms.io/languages/haxe) was written by:
+Baklava in [Haxe](/languages/haxe) was written by:
 
 - rzuckerm
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Zeckendorf](https://sampleprograms.io/projects/zeckendorf) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Zeckendorf](/projects/zeckendorf) in [Swift](/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -72,7 +72,7 @@ print(zeckendorf(n))
 
 {% endraw %}
 
-Zeckendorf in [Swift](https://sampleprograms.io/languages/swift) was written by:
+Zeckendorf in [Swift](/languages/swift) was written by:
 
 - Ștefan-Iulian Alecu
 

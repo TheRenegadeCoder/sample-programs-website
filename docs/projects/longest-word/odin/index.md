@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Odin](https://sampleprograms.io/languages/odin) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](/projects/longest-word) in [Odin](/languages/odin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -75,7 +75,7 @@ usage :: proc() {
 
 {% endraw %}
 
-Longest Word in [Odin](https://sampleprograms.io/languages/odin) was written by:
+Longest Word in [Odin](/languages/odin) was written by:
 
 - nallovint
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Pony](https://sampleprograms.io/languages/pony) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Pony](/languages/pony) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -54,7 +54,7 @@ actor Main
 
 {% endraw %}
 
-Fizz Buzz in [Pony](https://sampleprograms.io/languages/pony) was written by:
+Fizz Buzz in [Pony](/languages/pony) was written by:
 
 - Zia
 

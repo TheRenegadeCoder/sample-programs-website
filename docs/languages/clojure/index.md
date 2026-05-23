@@ -30,9 +30,9 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 6 articles:
 
-- [Baklava in Clojure](https://sampleprograms.io/projects/baklava/clojure)
-- [Bubble Sort in Clojure](https://sampleprograms.io/projects/bubble-sort/clojure)
-- [Capitalize in Clojure](https://sampleprograms.io/projects/capitalize/clojure)
-- [Fizz Buzz in Clojure](https://sampleprograms.io/projects/fizz-buzz/clojure)
-- [Hello World in Clojure](https://sampleprograms.io/projects/hello-world/clojure)
-- [Reverse String in Clojure](https://sampleprograms.io/projects/reverse-string/clojure)
+- [Baklava in Clojure](/projects/baklava/clojure)
+- [Bubble Sort in Clojure](/projects/bubble-sort/clojure)
+- [Capitalize in Clojure](/projects/capitalize/clojure)
+- [Fizz Buzz in Clojure](/projects/fizz-buzz/clojure)
+- [Hello World in Clojure](/projects/hello-world/clojure)
+- [Reverse String in Clojure](/projects/reverse-string/clojure)

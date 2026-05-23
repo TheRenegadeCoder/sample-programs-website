@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Malbolge](https://sampleprograms.io/languages/malbolge) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Malbolge](/languages/malbolge) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -36,7 +36,7 @@ D'`N$">7mYX{V7UB43cs=<_:]\I6jigg$B"ybP_N):[qpotsrk10/.-,+*)(`H^cba`Y}W?[ZSRv9ONS
 
 {% endraw %}
 
-Baklava in [Malbolge](https://sampleprograms.io/languages/malbolge) was written by:
+Baklava in [Malbolge](/languages/malbolge) was written by:
 
 - Auberon López
 

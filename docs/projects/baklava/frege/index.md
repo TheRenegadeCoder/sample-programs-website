@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Frege](https://sampleprograms.io/languages/frege) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Frege](/languages/frege) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -51,7 +51,7 @@ baklavaLine n = do
 
 {% endraw %}
 
-Baklava in [Frege](https://sampleprograms.io/languages/frege) was written by:
+Baklava in [Frege](/languages/frege) was written by:
 
 - rzuckerm
 

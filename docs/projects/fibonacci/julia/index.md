@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Julia](https://sampleprograms.io/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](/projects/fibonacci) in [Julia](/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -57,7 +57,7 @@ end
 
 {% endraw %}
 
-Fibonacci in [Julia](https://sampleprograms.io/languages/julia) was written by:
+Fibonacci in [Julia](/languages/julia) was written by:
 
 - Jeremy Grifski
 - Michael King

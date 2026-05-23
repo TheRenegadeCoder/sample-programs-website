@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [m4](https://sampleprograms.io/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Palindromic Substring](/projects/longest-palindromic-substring) in [m4](/languages/m4) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -102,7 +102,7 @@ ifelse(eval(len(result) < 2), 1, `show_usage()', `result')
 
 {% endraw %}
 
-Longest Palindromic Substring in [m4](https://sampleprograms.io/languages/m4) was written by:
+Longest Palindromic Substring in [m4](/languages/m4) was written by:
 
 - rzuckerm
 

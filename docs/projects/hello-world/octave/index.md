@@ -26,7 +26,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Octave](https://sampleprograms.io/languages/octave) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Octave](/languages/octave) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -39,7 +39,7 @@ disp('Hello, World!');
 
 {% endraw %}
 
-Hello World in [Octave](https://sampleprograms.io/languages/octave) was written by:
+Hello World in [Octave](/languages/octave) was written by:
 
 - Jeremy Griffith
 

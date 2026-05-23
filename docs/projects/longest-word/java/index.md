@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](/projects/longest-word) in [Java](/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -61,7 +61,7 @@ class LongestWord {
 
 {% endraw %}
 
-Longest Word in [Java](https://sampleprograms.io/languages/java) was written by:
+Longest Word in [Java](/languages/java) was written by:
 
 - Jeremy Grifski
 - Vipin Yadav

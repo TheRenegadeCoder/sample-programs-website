@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Granule](https://sampleprograms.io/languages/granule) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Granule](/languages/granule) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -39,7 +39,7 @@ main = toStdout "Hello, World!\n"
 
 {% endraw %}
 
-Hello World in [Granule](https://sampleprograms.io/languages/granule) was written by:
+Hello World in [Granule](/languages/granule) was written by:
 
 - Dominic Orchard
 - rzuckerm

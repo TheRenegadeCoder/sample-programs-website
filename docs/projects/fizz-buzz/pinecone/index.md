@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Pinecone](https://sampleprograms.io/languages/pinecone) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Pinecone](/languages/pinecone) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -49,7 +49,7 @@ i: 1 | i <= 100 | i: i + 1 @ (
 
 {% endraw %}
 
-Fizz Buzz in [Pinecone](https://sampleprograms.io/languages/pinecone) was written by:
+Fizz Buzz in [Pinecone](/languages/pinecone) was written by:
 
 - rzuckerm
 

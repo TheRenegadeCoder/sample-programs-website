@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](/projects/bubble-sort) in [Perl](/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -82,7 +82,7 @@ say join ', ', @$a;
 
 {% endraw %}
 
-Bubble Sort in [Perl](https://sampleprograms.io/languages/perl) was written by:
+Bubble Sort in [Perl](/languages/perl) was written by:
 
 - SourabhBadhya
 - Ștefan-Iulian Alecu

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fraction Math](/projects/fraction-math) in [Java](/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -141,7 +141,7 @@ public class FractionMath {
 
 {% endraw %}
 
-Fraction Math in [Java](https://sampleprograms.io/languages/java) was written by:
+Fraction Math in [Java](/languages/java) was written by:
 
 - Ștefan-Iulian Alecu
 

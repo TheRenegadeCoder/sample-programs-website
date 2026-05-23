@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Ada](https://sampleprograms.io/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](/projects/longest-word) in [Ada](/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -84,7 +84,7 @@ end Longest_Word;
 
 {% endraw %}
 
-Longest Word in [Ada](https://sampleprograms.io/languages/ada) was written by:
+Longest Word in [Ada](/languages/ada) was written by:
 
 - Ștefan-Iulian Alecu
 

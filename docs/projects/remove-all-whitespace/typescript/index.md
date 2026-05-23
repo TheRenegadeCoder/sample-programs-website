@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [TypeScript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Remove All Whitespace](/projects/remove-all-whitespace) in [TypeScript](/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -53,7 +53,7 @@ main();
 
 {% endraw %}
 
-Remove All Whitespace in [TypeScript](https://sampleprograms.io/languages/typescript) was written by:
+Remove All Whitespace in [TypeScript](/languages/typescript) was written by:
 
 - Ștefan-Iulian Alecu
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [MojiScript](https://sampleprograms.io/languages/mojiscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [MojiScript](/languages/mojiscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -53,7 +53,7 @@ run({main})
 
 {% endraw %}
 
-Baklava in [MojiScript](https://sampleprograms.io/languages/mojiscript) was written by:
+Baklava in [MojiScript](/languages/mojiscript) was written by:
 
 - rzuckerm
 

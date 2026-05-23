@@ -27,7 +27,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [COBOL](https://sampleprograms.io/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [COBOL](/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -46,7 +46,7 @@ main.
 
 {% endraw %}
 
-Hello World in [COBOL](https://sampleprograms.io/languages/cobol) was written by:
+Hello World in [COBOL](/languages/cobol) was written by:
 
 - Ștefan-Iulian Alecu
 

@@ -30,12 +30,12 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 9 articles:
 
-- [Baklava in Groovy](https://sampleprograms.io/projects/baklava/groovy)
-- [Capitalize in Groovy](https://sampleprograms.io/projects/capitalize/groovy)
-- [Even Odd in Groovy](https://sampleprograms.io/projects/even-odd/groovy)
-- [Factorial in Groovy](https://sampleprograms.io/projects/factorial/groovy)
-- [Fibonacci in Groovy](https://sampleprograms.io/projects/fibonacci/groovy)
-- [Fizz Buzz in Groovy](https://sampleprograms.io/projects/fizz-buzz/groovy)
-- [Hello World in Groovy](https://sampleprograms.io/projects/hello-world/groovy)
-- [Merge Sort in Groovy](https://sampleprograms.io/projects/merge-sort/groovy)
-- [Reverse String in Groovy](https://sampleprograms.io/projects/reverse-string/groovy)
+- [Baklava in Groovy](/projects/baklava/groovy)
+- [Capitalize in Groovy](/projects/capitalize/groovy)
+- [Even Odd in Groovy](/projects/even-odd/groovy)
+- [Factorial in Groovy](/projects/factorial/groovy)
+- [Fibonacci in Groovy](/projects/fibonacci/groovy)
+- [Fizz Buzz in Groovy](/projects/fizz-buzz/groovy)
+- [Hello World in Groovy](/projects/hello-world/groovy)
+- [Merge Sort in Groovy](/projects/merge-sort/groovy)
+- [Reverse String in Groovy](/projects/reverse-string/groovy)

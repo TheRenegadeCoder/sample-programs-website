@@ -128,40 +128,40 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 There are 34 articles:
 
-- [Merge Sort in ALGOL 60](https://sampleprograms.io/projects/merge-sort/algol60)
-- [Merge Sort in ALGOL 68](https://sampleprograms.io/projects/merge-sort/algol68)
-- [Merge Sort in AWK](https://sampleprograms.io/projects/merge-sort/awk)
-- [Merge Sort in Beef](https://sampleprograms.io/projects/merge-sort/beef)
-- [Merge Sort in C](https://sampleprograms.io/projects/merge-sort/c)
-- [Merge Sort in C#](https://sampleprograms.io/projects/merge-sort/c-sharp)
-- [Merge Sort in C++](https://sampleprograms.io/projects/merge-sort/c-plus-plus)
-- [Merge Sort in COBOL](https://sampleprograms.io/projects/merge-sort/cobol)
-- [Merge Sort in Commodore BASIC](https://sampleprograms.io/projects/merge-sort/commodore-basic)
-- [Merge Sort in Euphoria](https://sampleprograms.io/projects/merge-sort/euphoria)
-- [Merge Sort in F#](https://sampleprograms.io/projects/merge-sort/f-sharp)
-- [Merge Sort in Go](https://sampleprograms.io/projects/merge-sort/go)
-- [Merge Sort in Groovy](https://sampleprograms.io/projects/merge-sort/groovy)
-- [Merge Sort in Haskell](https://sampleprograms.io/projects/merge-sort/haskell)
-- [Merge Sort in Haxe](https://sampleprograms.io/projects/merge-sort/haxe)
-- [Merge Sort in Java](https://sampleprograms.io/projects/merge-sort/java)
-- [Merge Sort in JavaScript](https://sampleprograms.io/projects/merge-sort/javascript)
-- [Merge Sort in Kotlin](https://sampleprograms.io/projects/merge-sort/kotlin)
-- [Merge Sort in Mathematica](https://sampleprograms.io/projects/merge-sort/mathematica)
-- [Merge Sort in OCaml](https://sampleprograms.io/projects/merge-sort/ocaml)
-- [Merge Sort in Objective-C](https://sampleprograms.io/projects/merge-sort/objective-c)
-- [Merge Sort in Octave](https://sampleprograms.io/projects/merge-sort/octave)
-- [Merge Sort in PHP](https://sampleprograms.io/projects/merge-sort/php)
-- [Merge Sort in Pascal](https://sampleprograms.io/projects/merge-sort/pascal)
-- [Merge Sort in Perl](https://sampleprograms.io/projects/merge-sort/perl)
-- [Merge Sort in PowerShell](https://sampleprograms.io/projects/merge-sort/powershell)
-- [Merge Sort in Python](https://sampleprograms.io/projects/merge-sort/python)
-- [Merge Sort in Ruby](https://sampleprograms.io/projects/merge-sort/ruby)
-- [Merge Sort in Rust](https://sampleprograms.io/projects/merge-sort/rust)
-- [Merge Sort in Swift](https://sampleprograms.io/projects/merge-sort/swift)
-- [Merge Sort in Tcl](https://sampleprograms.io/projects/merge-sort/tcl)
-- [Merge Sort in TypeScript](https://sampleprograms.io/projects/merge-sort/typescript)
-- [Merge Sort in Visual Basic](https://sampleprograms.io/projects/merge-sort/visual-basic)
-- [Merge Sort in m4](https://sampleprograms.io/projects/merge-sort/m4)
+- [Merge Sort in ALGOL 60](/projects/merge-sort/algol60)
+- [Merge Sort in ALGOL 68](/projects/merge-sort/algol68)
+- [Merge Sort in AWK](/projects/merge-sort/awk)
+- [Merge Sort in Beef](/projects/merge-sort/beef)
+- [Merge Sort in C](/projects/merge-sort/c)
+- [Merge Sort in C#](/projects/merge-sort/c-sharp)
+- [Merge Sort in C++](/projects/merge-sort/c-plus-plus)
+- [Merge Sort in COBOL](/projects/merge-sort/cobol)
+- [Merge Sort in Commodore BASIC](/projects/merge-sort/commodore-basic)
+- [Merge Sort in Euphoria](/projects/merge-sort/euphoria)
+- [Merge Sort in F#](/projects/merge-sort/f-sharp)
+- [Merge Sort in Go](/projects/merge-sort/go)
+- [Merge Sort in Groovy](/projects/merge-sort/groovy)
+- [Merge Sort in Haskell](/projects/merge-sort/haskell)
+- [Merge Sort in Haxe](/projects/merge-sort/haxe)
+- [Merge Sort in Java](/projects/merge-sort/java)
+- [Merge Sort in JavaScript](/projects/merge-sort/javascript)
+- [Merge Sort in Kotlin](/projects/merge-sort/kotlin)
+- [Merge Sort in Mathematica](/projects/merge-sort/mathematica)
+- [Merge Sort in OCaml](/projects/merge-sort/ocaml)
+- [Merge Sort in Objective-C](/projects/merge-sort/objective-c)
+- [Merge Sort in Octave](/projects/merge-sort/octave)
+- [Merge Sort in PHP](/projects/merge-sort/php)
+- [Merge Sort in Pascal](/projects/merge-sort/pascal)
+- [Merge Sort in Perl](/projects/merge-sort/perl)
+- [Merge Sort in PowerShell](/projects/merge-sort/powershell)
+- [Merge Sort in Python](/projects/merge-sort/python)
+- [Merge Sort in Ruby](/projects/merge-sort/ruby)
+- [Merge Sort in Rust](/projects/merge-sort/rust)
+- [Merge Sort in Swift](/projects/merge-sort/swift)
+- [Merge Sort in Tcl](/projects/merge-sort/tcl)
+- [Merge Sort in TypeScript](/projects/merge-sort/typescript)
+- [Merge Sort in Visual Basic](/projects/merge-sort/visual-basic)
+- [Merge Sort in m4](/projects/merge-sort/m4)
 
 ***
 
@@ -169,13 +169,13 @@ There are 34 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Maximum Subarray)](https://sampleprograms.io/projects/maximum-subarray)
+[<-- Previous Project (Maximum Subarray)](/projects/maximum-subarray)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Minimum Spanning Tree) -->](https://sampleprograms.io/projects/minimum-spanning-tree)
+[Next Project (Minimum Spanning Tree) -->](/projects/minimum-spanning-tree)
 
 </div>
 

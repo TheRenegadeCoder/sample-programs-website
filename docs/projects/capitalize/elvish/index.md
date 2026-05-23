@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Elvish](https://sampleprograms.io/languages/elvish) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](/projects/capitalize) in [Elvish](/languages/elvish) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -54,7 +54,7 @@ echo (str:join '' [(str:to-upper $s[0]) $s[1..]])
 
 {% endraw %}
 
-Capitalize in [Elvish](https://sampleprograms.io/languages/elvish) was written by:
+Capitalize in [Elvish](/languages/elvish) was written by:
 
 - Zia
 

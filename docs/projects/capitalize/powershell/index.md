@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [PowerShell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](/projects/capitalize) in [PowerShell](/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -50,7 +50,7 @@ Write-Host (Get-Capitalize $args[0])
 
 {% endraw %}
 
-Capitalize in [PowerShell](https://sampleprograms.io/languages/powershell) was written by:
+Capitalize in [PowerShell](/languages/powershell) was written by:
 
 - rzuckerm
 

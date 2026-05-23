@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [TypeScript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [TypeScript](/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -51,7 +51,7 @@ for (let i = 1; i <= 100; i++) {
 
 {% endraw %}
 
-Fizz Buzz in [TypeScript](https://sampleprograms.io/languages/typescript) was written by:
+Fizz Buzz in [TypeScript](/languages/typescript) was written by:
 
 - Nadir Fayazov
 - rzuckerm

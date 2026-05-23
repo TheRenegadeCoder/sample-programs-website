@@ -170,38 +170,38 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 There are 32 articles:
 
-- [Selection Sort in ALGOL 60](https://sampleprograms.io/projects/selection-sort/algol60)
-- [Selection Sort in ALGOL 68](https://sampleprograms.io/projects/selection-sort/algol68)
-- [Selection Sort in AWK](https://sampleprograms.io/projects/selection-sort/awk)
-- [Selection Sort in Bash](https://sampleprograms.io/projects/selection-sort/bash)
-- [Selection Sort in Beef](https://sampleprograms.io/projects/selection-sort/beef)
-- [Selection Sort in C](https://sampleprograms.io/projects/selection-sort/c)
-- [Selection Sort in C#](https://sampleprograms.io/projects/selection-sort/c-sharp)
-- [Selection Sort in C++](https://sampleprograms.io/projects/selection-sort/c-plus-plus)
-- [Selection Sort in COBOL](https://sampleprograms.io/projects/selection-sort/cobol)
-- [Selection Sort in Commodore BASIC](https://sampleprograms.io/projects/selection-sort/commodore-basic)
-- [Selection Sort in Euphoria](https://sampleprograms.io/projects/selection-sort/euphoria)
-- [Selection Sort in F#](https://sampleprograms.io/projects/selection-sort/f-sharp)
-- [Selection Sort in Go](https://sampleprograms.io/projects/selection-sort/go)
-- [Selection Sort in Haskell](https://sampleprograms.io/projects/selection-sort/haskell)
-- [Selection Sort in Java](https://sampleprograms.io/projects/selection-sort/java)
-- [Selection Sort in JavaScript](https://sampleprograms.io/projects/selection-sort/javascript)
-- [Selection Sort in Julia](https://sampleprograms.io/projects/selection-sort/julia)
-- [Selection Sort in Kotlin](https://sampleprograms.io/projects/selection-sort/kotlin)
-- [Selection Sort in Mathematica](https://sampleprograms.io/projects/selection-sort/mathematica)
-- [Selection Sort in Octave](https://sampleprograms.io/projects/selection-sort/octave)
-- [Selection Sort in PHP](https://sampleprograms.io/projects/selection-sort/php)
-- [Selection Sort in Pascal](https://sampleprograms.io/projects/selection-sort/pascal)
-- [Selection Sort in Perl](https://sampleprograms.io/projects/selection-sort/perl)
-- [Selection Sort in PowerShell](https://sampleprograms.io/projects/selection-sort/powershell)
-- [Selection Sort in Python](https://sampleprograms.io/projects/selection-sort/python)
-- [Selection Sort in Ruby](https://sampleprograms.io/projects/selection-sort/ruby)
-- [Selection Sort in Rust](https://sampleprograms.io/projects/selection-sort/rust)
-- [Selection Sort in Swift](https://sampleprograms.io/projects/selection-sort/swift)
-- [Selection Sort in Tcl](https://sampleprograms.io/projects/selection-sort/tcl)
-- [Selection Sort in TypeScript](https://sampleprograms.io/projects/selection-sort/typescript)
-- [Selection Sort in Visual Basic](https://sampleprograms.io/projects/selection-sort/visual-basic)
-- [Selection Sort in m4](https://sampleprograms.io/projects/selection-sort/m4)
+- [Selection Sort in ALGOL 60](/projects/selection-sort/algol60)
+- [Selection Sort in ALGOL 68](/projects/selection-sort/algol68)
+- [Selection Sort in AWK](/projects/selection-sort/awk)
+- [Selection Sort in Bash](/projects/selection-sort/bash)
+- [Selection Sort in Beef](/projects/selection-sort/beef)
+- [Selection Sort in C](/projects/selection-sort/c)
+- [Selection Sort in C#](/projects/selection-sort/c-sharp)
+- [Selection Sort in C++](/projects/selection-sort/c-plus-plus)
+- [Selection Sort in COBOL](/projects/selection-sort/cobol)
+- [Selection Sort in Commodore BASIC](/projects/selection-sort/commodore-basic)
+- [Selection Sort in Euphoria](/projects/selection-sort/euphoria)
+- [Selection Sort in F#](/projects/selection-sort/f-sharp)
+- [Selection Sort in Go](/projects/selection-sort/go)
+- [Selection Sort in Haskell](/projects/selection-sort/haskell)
+- [Selection Sort in Java](/projects/selection-sort/java)
+- [Selection Sort in JavaScript](/projects/selection-sort/javascript)
+- [Selection Sort in Julia](/projects/selection-sort/julia)
+- [Selection Sort in Kotlin](/projects/selection-sort/kotlin)
+- [Selection Sort in Mathematica](/projects/selection-sort/mathematica)
+- [Selection Sort in Octave](/projects/selection-sort/octave)
+- [Selection Sort in PHP](/projects/selection-sort/php)
+- [Selection Sort in Pascal](/projects/selection-sort/pascal)
+- [Selection Sort in Perl](/projects/selection-sort/perl)
+- [Selection Sort in PowerShell](/projects/selection-sort/powershell)
+- [Selection Sort in Python](/projects/selection-sort/python)
+- [Selection Sort in Ruby](/projects/selection-sort/ruby)
+- [Selection Sort in Rust](/projects/selection-sort/rust)
+- [Selection Sort in Swift](/projects/selection-sort/swift)
+- [Selection Sort in Tcl](/projects/selection-sort/tcl)
+- [Selection Sort in TypeScript](/projects/selection-sort/typescript)
+- [Selection Sort in Visual Basic](/projects/selection-sort/visual-basic)
+- [Selection Sort in m4](/projects/selection-sort/m4)
 
 ***
 
@@ -209,13 +209,13 @@ There are 32 articles:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Rot13)](https://sampleprograms.io/projects/rot13)
+[<-- Previous Project (Rot13)](/projects/rot13)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Transpose Matrix) -->](https://sampleprograms.io/projects/transpose-matrix)
+[Next Project (Transpose Matrix) -->](/projects/transpose-matrix)
 
 </div>
 

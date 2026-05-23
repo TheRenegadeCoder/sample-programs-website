@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Duplicate Character Counter](/projects/duplicate-character-counter) in [Euphoria](/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -90,7 +90,7 @@ show_duplicate_character_counts(s, char_counter)
 
 {% endraw %}
 
-Duplicate Character Counter in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Duplicate Character Counter in [Euphoria](/languages/euphoria) was written by:
 
 - rzuckerm
 

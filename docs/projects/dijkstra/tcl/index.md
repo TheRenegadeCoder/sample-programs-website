@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Tcl](https://sampleprograms.io/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Dijkstra](/projects/dijkstra) in [Tcl](/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -125,7 +125,7 @@ main $argv
 
 {% endraw %}
 
-Dijkstra in [Tcl](https://sampleprograms.io/languages/tcl) was written by:
+Dijkstra in [Tcl](/languages/tcl) was written by:
 
 - Ștefan-Iulian Alecu
 

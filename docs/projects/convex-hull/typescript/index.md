@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Convex Hull](https://sampleprograms.io/projects/convex-hull) in [TypeScript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Convex Hull](/projects/convex-hull) in [TypeScript](/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -122,7 +122,7 @@ main();
 
 {% endraw %}
 
-Convex Hull in [TypeScript](https://sampleprograms.io/languages/typescript) was written by:
+Convex Hull in [TypeScript](/languages/typescript) was written by:
 
 - Ștefan-Iulian Alecu
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Ada](https://sampleprograms.io/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Maximum Subarray](/projects/maximum-subarray) in [Ada](/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -146,7 +146,7 @@ end Maximum_Array_Rotation;
 
 {% endraw %}
 
-Maximum Subarray in [Ada](https://sampleprograms.io/languages/ada) was written by:
+Maximum Subarray in [Ada](/languages/ada) was written by:
 
 - Ștefan-Iulian Alecu
 

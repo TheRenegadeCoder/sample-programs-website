@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [ALGOL 68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](/projects/quine) in [ALGOL 68](/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ STRINGs:="STRINGs:="";printf(($gl$,s[:10]*2+s[10:]*2))";printf(($gl$,s[:10]*2+s[
 
 {% endraw %}
 
-Quine in [ALGOL 68](https://sampleprograms.io/languages/algol68) was written by:
+Quine in [ALGOL 68](/languages/algol68) was written by:
 
 - rzuckerm
 

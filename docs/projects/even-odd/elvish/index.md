@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Elvish](https://sampleprograms.io/languages/elvish) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](/projects/even-odd) in [Elvish](/languages/elvish) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -53,7 +53,7 @@ if (== 0 (% $args[0] 2)) {
 
 {% endraw %}
 
-Even Odd in [Elvish](https://sampleprograms.io/languages/elvish) was written by:
+Even Odd in [Elvish](/languages/elvish) was written by:
 
 - Zia
 

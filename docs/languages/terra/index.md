@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Terra](https://sampleprograms.io/projects/baklava/terra)
-- [Hello World in Terra](https://sampleprograms.io/projects/hello-world/terra)
+- [Baklava in Terra](/projects/baklava/terra)
+- [Hello World in Terra](/projects/hello-world/terra)

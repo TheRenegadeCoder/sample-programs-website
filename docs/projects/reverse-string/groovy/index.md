@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Groovy](https://sampleprograms.io/languages/groovy) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](/projects/reverse-string) in [Groovy](/languages/groovy) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -44,7 +44,7 @@ class ReverseString {
 
 {% endraw %}
 
-Reverse String in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
+Reverse String in [Groovy](/languages/groovy) was written by:
 
 - robin
 - rzuckerm

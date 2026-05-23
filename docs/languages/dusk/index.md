@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in Dusk](https://sampleprograms.io/projects/baklava/dusk)
-- [Hello World in Dusk](https://sampleprograms.io/projects/hello-world/dusk)
+- [Baklava in Dusk](/projects/baklava/dusk)
+- [Hello World in Dusk](/projects/hello-world/dusk)

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [AWK](https://sampleprograms.io/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](/projects/job-sequencing) in [AWK](/languages/awk) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -140,7 +140,7 @@ BEGIN {
 
 {% endraw %}
 
-Job Sequencing in [AWK](https://sampleprograms.io/languages/awk) was written by:
+Job Sequencing in [AWK](/languages/awk) was written by:
 
 - rzuckerm
 

@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](/projects/even-odd) in [Perl](/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -50,7 +50,7 @@ say $number % 2 == 0 ? "Even" : "Odd";
 
 {% endraw %}
 
-Even Odd in [Perl](https://sampleprograms.io/languages/perl) was written by:
+Even Odd in [Perl](/languages/perl) was written by:
 
 - Gabriela Kandová
 - Ștefan-Iulian Alecu

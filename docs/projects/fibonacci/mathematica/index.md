@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](/projects/fibonacci) in [Mathematica](/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -69,7 +69,7 @@ fibonacciSequenceMain["word"]
 
 {% endraw %}
 
-Fibonacci in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+Fibonacci in [Mathematica](/languages/mathematica) was written by:
 
 - Ben Hekster
 

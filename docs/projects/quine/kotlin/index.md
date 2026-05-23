@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](/projects/quine) in [Kotlin](/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -42,7 +42,7 @@ fun main(args: Array<String>) { //Prints out it's own code
 
 {% endraw %}
 
-Quine in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
+Quine in [Kotlin](/languages/kotlin) was written by:
 
 - Stuart Irwin
 

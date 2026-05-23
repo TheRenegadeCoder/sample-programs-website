@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Phix](https://sampleprograms.io/languages/phix) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Phix](/languages/phix) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ puts(1, "Hello, World!")
 
 {% endraw %}
 
-Hello World in [Phix](https://sampleprograms.io/languages/phix) was written by:
+Hello World in [Phix](/languages/phix) was written by:
 
 - rzuckerm
 

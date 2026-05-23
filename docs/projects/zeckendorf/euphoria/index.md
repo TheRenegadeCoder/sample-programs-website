@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Zeckendorf](https://sampleprograms.io/projects/zeckendorf) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Zeckendorf](/projects/zeckendorf) in [Euphoria](/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -154,7 +154,7 @@ show_list_values(values)
 
 {% endraw %}
 
-Zeckendorf in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+Zeckendorf in [Euphoria](/languages/euphoria) was written by:
 
 - rzuckerm
 

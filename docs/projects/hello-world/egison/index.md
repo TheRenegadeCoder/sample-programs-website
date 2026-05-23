@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Egison](https://sampleprograms.io/languages/egison) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](/projects/hello-world) in [Egison](/languages/egison) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -39,7 +39,7 @@ def main args := do
 
 {% endraw %}
 
-Hello World in [Egison](https://sampleprograms.io/languages/egison) was written by:
+Hello World in [Egison](/languages/egison) was written by:
 
 - rzuckerm
 

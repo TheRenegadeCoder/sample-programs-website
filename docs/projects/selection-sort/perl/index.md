@@ -25,7 +25,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Selection Sort](/projects/selection-sort) in [Perl](/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -80,7 +80,7 @@ say join ', ', @$a;
 
 {% endraw %}
 
-Selection Sort in [Perl](https://sampleprograms.io/languages/perl) was written by:
+Selection Sort in [Perl](/languages/perl) was written by:
 
 - Mr Anand Somashekhara Rao Somavarapete
 - Ștefan-Iulian Alecu

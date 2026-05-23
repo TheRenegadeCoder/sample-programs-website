@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [ChaiScript](https://sampleprograms.io/languages/chaiscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [ChaiScript](/languages/chaiscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -50,7 +50,7 @@ for (var n = -10; n <= 10; ++n) {
 
 {% endraw %}
 
-Baklava in [ChaiScript](https://sampleprograms.io/languages/chaiscript) was written by:
+Baklava in [ChaiScript](/languages/chaiscript) was written by:
 
 - rzuckerm
 

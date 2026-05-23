@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Tcl](https://sampleprograms.io/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Tcl](/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -41,7 +41,7 @@ for {set i -10} {$i <= 10} {incr i} {
 
 {% endraw %}
 
-Baklava in [Tcl](https://sampleprograms.io/languages/tcl) was written by:
+Baklava in [Tcl](/languages/tcl) was written by:
 
 - rzuckerm
 

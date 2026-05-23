@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Brainfuck](https://sampleprograms.io/languages/brainfuck) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Brainfuck](/languages/brainfuck) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -117,7 +117,7 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Brainfu
 
 {% endraw %}
 
-Baklava in [Brainfuck](https://sampleprograms.io/languages/brainfuck) was written by:
+Baklava in [Brainfuck](/languages/brainfuck) was written by:
 
 - rzuckerm
 

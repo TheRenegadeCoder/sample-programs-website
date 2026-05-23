@@ -30,5 +30,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 2 articles:
 
-- [Baklava in ChaiScript](https://sampleprograms.io/projects/baklava/chaiscript)
-- [Hello World in ChaiScript](https://sampleprograms.io/projects/hello-world/chaiscript)
+- [Baklava in ChaiScript](/projects/baklava/chaiscript)
+- [Hello World in ChaiScript](/projects/hello-world/chaiscript)

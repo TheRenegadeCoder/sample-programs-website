@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Terra](https://sampleprograms.io/languages/terra) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](/projects/baklava) in [Terra](/languages/terra) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -57,7 +57,7 @@ baklava()
 
 {% endraw %}
 
-Baklava in [Terra](https://sampleprograms.io/languages/terra) was written by:
+Baklava in [Terra](/languages/terra) was written by:
 
 - rzuckerm
 

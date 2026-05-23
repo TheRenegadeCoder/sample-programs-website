@@ -97,7 +97,7 @@ you can use a [Whitespace assembler][3] instead.
 
 There are 4 articles:
 
-- [Baklava in Whitespace](https://sampleprograms.io/projects/baklava/whitespace)
-- [Fizz Buzz in Whitespace](https://sampleprograms.io/projects/fizz-buzz/whitespace)
-- [Hello World in Whitespace](https://sampleprograms.io/projects/hello-world/whitespace)
-- [Quine in Whitespace](https://sampleprograms.io/projects/quine/whitespace)
+- [Baklava in Whitespace](/projects/baklava/whitespace)
+- [Fizz Buzz in Whitespace](/projects/fizz-buzz/whitespace)
+- [Hello World in Whitespace](/projects/hello-world/whitespace)
+- [Quine in Whitespace](/projects/quine/whitespace)

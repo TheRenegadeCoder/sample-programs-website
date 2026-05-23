@@ -30,6 +30,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 There are 3 articles:
 
-- [Baklava in Fetlang](https://sampleprograms.io/projects/baklava/fetlang)
-- [Fizz Buzz in Fetlang](https://sampleprograms.io/projects/fizz-buzz/fetlang)
-- [Hello World in Fetlang](https://sampleprograms.io/projects/hello-world/fetlang)
+- [Baklava in Fetlang](/projects/baklava/fetlang)
+- [Fizz Buzz in Fetlang](/projects/fizz-buzz/fetlang)
+- [Hello World in Fetlang](/projects/hello-world/fetlang)

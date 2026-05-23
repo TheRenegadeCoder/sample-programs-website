@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Smalltalk](https://sampleprograms.io/languages/smalltalk) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Smalltalk](/languages/smalltalk) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -50,7 +50,7 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Sma
 
 {% endraw %}
 
-Fizz Buzz in [Smalltalk](https://sampleprograms.io/languages/smalltalk) was written by:
+Fizz Buzz in [Smalltalk](/languages/smalltalk) was written by:
 
 - Augy Markham
 

@@ -24,7 +24,7 @@ Instead, please edit the following:
 See .github/CONTRIBUTING.md for further details.
 -->
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Scala](https://sampleprograms.io/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](/projects/fizz-buzz) in [Scala](/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -44,7 +44,7 @@ object FizzBuzz:
 
 {% endraw %}
 
-Fizz Buzz in [Scala](https://sampleprograms.io/languages/scala) was written by:
+Fizz Buzz in [Scala](/languages/scala) was written by:
 
 - Ștefan-Iulian Alecu
 
