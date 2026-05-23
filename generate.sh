@@ -23,12 +23,6 @@ docker run --rm \
         chown -R  $(id -u):$(id -g) _site"
 
 echo ""
-echo "*** Change Base URL For Generated Files ***"
-LOCAL_URL=http://localhost:8000
-find docs/_site -type f -name '*.html' -print0 \
-  | xargs -0 -P "$(nproc)" sed -i "s@https://sampleprograms\.io/@${LOCAL_URL}/@g"
-
-echo ""
 echo "*** Start Webserver ***"
 cd docs/_site
 python -m http.server >/dev/null &
@@ -43,6 +37,7 @@ sleep 5
 echo ""
 echo "*** Open Index ***"
 echo "Press Ctrl+C to exit"
+LOCAL_URL=http://localhost:8000
 INDEX_URL="${LOCAL_URL}/index.html"
 # Linux
 if command -V xdg-open >/dev/null 2>&1

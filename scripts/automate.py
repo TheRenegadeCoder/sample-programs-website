@@ -1,4 +1,5 @@
 from typing import Optional, Iterable, List, Set
+from urllib.parse import urlparse
 import argparse
 import datetime
 import functools
@@ -97,7 +98,7 @@ def _add_project_article_section(doc: snakemd.Document, repo: subete.Repo, proje
         program_escaped = _markdown_escape(str(program))
         link = snakemd.Inline(
             program_escaped,
-            link=program.documentation_url()
+            link=_get_url_path(program.documentation_url())
         )
         articles.append(link)
     
@@ -112,6 +113,10 @@ def _add_project_article_section(doc: snakemd.Document, repo: subete.Repo, proje
         doc.add_paragraph(
             f"No articles available. Please consider contributing."
         ).insert_link("Please consider contributing", "https://github.com/TheRenegadeCoder/sample-programs-website")
+
+
+def _get_url_path(url: str) -> str:
+    return urlparse(url).path
 
 
 def _add_language_article_section(doc: snakemd.Document, repo: subete.Repo, language: str):
@@ -133,7 +138,7 @@ def _add_language_article_section(doc: snakemd.Document, repo: subete.Repo, lang
         program_escaped = _markdown_escape(str(program))
         link = snakemd.Inline(
             program_escaped,
-            link=program._sample_program_doc_url
+            link=_get_url_path(program._sample_program_doc_url)
         )
         articles.append(link)
     doc.add_block(snakemd.MDList(articles))
@@ -263,14 +268,15 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
 
     project_name = program.project_name()
     language_escaped = _markdown_escape(program.language_name())
-    language_docs_url = program.language_collection().lang_docs_url()
+    language_docs_url_path = _get_url_path(program.language_collection().lang_docs_url())
+    requirements_url_path = _get_url_path(program.project().requirements_url())
     doc.add_block(
         snakemd.Paragraph(
             [
                 "Welcome to the ",
-                snakemd.Inline(project_name, link=program.project().requirements_url()),
+                snakemd.Inline(project_name, link=requirements_url_path),
                 " in ",
-                snakemd.Inline(language_escaped, link=language_docs_url),
+                snakemd.Inline(language_escaped, link=language_docs_url_path),
                 " page! Here, you'll find the source code for this program as well as a description ",
                 "of how the program works."
             ]
@@ -296,7 +302,7 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
         snakemd.Paragraph(
             [
                 f"{project_name} in ",
-                snakemd.Inline(language_escaped, link=language_docs_url),
+                snakemd.Inline(language_escaped, link=language_docs_url_path),
                 " was written by:",
             ]
         )
@@ -471,14 +477,16 @@ def _generate_project_index(
             f" {project.name()} is not currently tested by Glotter2. Consider contributing!"
         ]))
 
+    previous_url_path = _get_url_path(previous.requirements_url())
+    next_url_path = _get_url_path(next.requirements_url())
     _add_project_article_section(doc, repo, project)
     doc.add_horizontal_rule()
     doc.add_paragraph("<nav class=\"project-nav\">")
     doc.add_paragraph("<div id=\"prev\" markdown=\"1\">")
-    doc.add_block(snakemd.Paragraph([snakemd.Inline(f"<-- Previous Project ({previous})", link=previous.requirements_url())]))
+    doc.add_block(snakemd.Paragraph([snakemd.Inline(f"<-- Previous Project ({previous})", link=previous_url_path)]))
     doc.add_paragraph("</div>")
     doc.add_paragraph("<div id=\"next\" markdown=\"1\">")
-    doc.add_block(snakemd.Paragraph([snakemd.Inline(f"Next Project ({next}) -->", link=next.requirements_url())]))
+    doc.add_block(snakemd.Paragraph([snakemd.Inline(f"Next Project ({next}) -->", link=next_url_path)]))
     doc.add_paragraph("</div>")
     doc.add_paragraph("</nav>")
     doc.dump("index", directory=f"docs/projects/{project.pathlike_name()}")
@@ -803,7 +811,8 @@ def _get_language_link_and_testability(
     language: subete.LanguageCollection
 ) -> snakemd.Paragraph:
     language_escaped = _markdown_escape(language.name())
-    language_link = snakemd.Inline(language_escaped, link=language.lang_docs_url())
+    language_url_path = _get_url_path(language.lang_docs_url())
+    language_link = snakemd.Inline(language_escaped, link=language_url_path)
     num_programs = language.total_programs()
     singular = pluralize(num_programs, "code snippet")
     phrase = f"{num_programs} {singular}"
@@ -891,7 +900,7 @@ def generate_projects_index(repo: subete.Repo):
     projects = [
         snakemd.Inline(
             project.name(),
-            link=project.requirements_url()
+            link=_get_url_path(project.requirements_url())
         )
         for project in repo.approved_projects()
     ]
