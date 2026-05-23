@@ -8,7 +8,7 @@ title1: Programming
 title2: Languages
 ---
 
-Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1640 code snippets.
+Welcome to the Languages page! Here, you'll find a list of all of the languages represented in the collection. At this time, there are 158 languages, of which 157 are tested, 1 is untestable, and 1641 code snippets.
 
 ## Language Breakdown
 
@@ -50,13 +50,13 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Beef</td>
-        <td class="right">4.10%</td>
+        <td class="right">4.09%</td>
         <td class="bar-graph"><div style="width: 45.60%; background-color: #A52F4E;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">COBOL</td>
-        <td class="right">3.98%</td>
+        <td class="right">3.97%</td>
         <td class="bar-graph"><div style="width: 44.26%; background-color: #CCCCCC;"></div></td> 
     </tr>
 
@@ -92,7 +92,7 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Visual Basic</td>
-        <td class="right">2.87%</td>
+        <td class="right">2.86%</td>
         <td class="bar-graph"><div style="width: 31.90%; background-color: #945DB7;"></div></td> 
     </tr>
 
@@ -170,14 +170,14 @@ Here are the percentages for each language in the collection:
 
     <tr>
         <td class="right nowrap">Go</td>
-        <td class="right">1.71%</td>
+        <td class="right">1.70%</td>
         <td class="bar-graph"><div style="width: 18.99%; background-color: #00ADD8;"></div></td> 
     </tr>
 
     <tr>
         <td class="right nowrap">Haskell</td>
-        <td class="right">1.56%</td>
-        <td class="bar-graph"><div style="width: 17.32%; background-color: #5E5086;"></div></td> 
+        <td class="right">1.60%</td>
+        <td class="bar-graph"><div style="width: 17.77%; background-color: #5E5086;"></div></td> 
     </tr>
 
     <tr>
@@ -1123,10 +1123,10 @@ The 'G' collection contains 11 languages, of which 11 are tested, and 75 code sn
 
 ### H
 
-The 'H' collection contains 4 languages, of which 4 are tested, and 43 code snippets.
+The 'H' collection contains 4 languages, of which 4 are tested, and 44 code snippets.
 
 - [Hack](/languages/hack) (2 code snippets)
-- [Haskell](/languages/haskell) (35 code snippets)
+- [Haskell](/languages/haskell) (36 code snippets)
 - [Haxe](/languages/haxe) (4 code snippets)
 - [Hobbes](/languages/hobbes) (2 code snippets)
 

@@ -57,7 +57,7 @@ At any rate, I think that's plenty of background for now.
 
 ## Articles
 
-There are 35 articles:
+There are 36 articles:
 
 - [Baklava in Haskell](/projects/baklava/haskell)
 - [Base64 Encode Decode in Haskell](/projects/base64-encode-decode/haskell)
@@ -65,6 +65,7 @@ There are 35 articles:
 - [Bubble Sort in Haskell](/projects/bubble-sort/haskell)
 - [Capitalize in Haskell](/projects/capitalize/haskell)
 - [Depth First Search in Haskell](/projects/depth-first-search/haskell)
+- [Duplicate Character Counter in Haskell](/projects/duplicate-character-counter/haskell)
 - [Even Odd in Haskell](/projects/even-odd/haskell)
 - [Factorial in Haskell](/projects/factorial/haskell)
 - [Fibonacci in Haskell](/projects/fibonacci/haskell)

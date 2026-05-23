@@ -1,7 +1,7 @@
 ---
 date: 2022-05-14
 featured-image: duplicate-character-counter-in-every-language.jpg
-last-modified: 2026-05-17
+last-modified: 2026-05-23
 layout: default
 tags:
 - duplicate-character-counter
@@ -78,7 +78,7 @@ Usage: please provide a string
 
 ## Articles
 
-There are 35 articles:
+There are 36 articles:
 
 - [Duplicate Character Counter in ALGOL 60](/projects/duplicate-character-counter/algol60)
 - [Duplicate Character Counter in ALGOL 68](/projects/duplicate-character-counter/algol68)
@@ -94,6 +94,7 @@ There are 35 articles:
 - [Duplicate Character Counter in Euphoria](/projects/duplicate-character-counter/euphoria)
 - [Duplicate Character Counter in F#](/projects/duplicate-character-counter/f-sharp)
 - [Duplicate Character Counter in Go](/projects/duplicate-character-counter/go)
+- [Duplicate Character Counter in Haskell](/projects/duplicate-character-counter/haskell)
 - [Duplicate Character Counter in Java](/projects/duplicate-character-counter/java)
 - [Duplicate Character Counter in JavaScript](/projects/duplicate-character-counter/javascript)
 - [Duplicate Character Counter in Kotlin](/projects/duplicate-character-counter/kotlin)
