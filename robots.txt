@@ -1,1 +1,1 @@
-Sitemap: https://sampleprograms.io/sitemap.xml
+Sitemap: https://therenegadecoder.github.io/sample-programs-website/sitemap.xml
