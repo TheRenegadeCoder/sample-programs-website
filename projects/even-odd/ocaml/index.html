@@ -17,28 +17,29 @@
     
 
 <!-- Twitter cards -->
-<meta name="twitter:title" content="The OCaml Programming Language">
+<meta name="twitter:title" content="Even Odd in OCaml">
 <meta name="twitter:description" content="">
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://sampleprograms.io/assets/images/programming-languages.jpg">
+<meta name="twitter:image" content="https://sampleprograms.io/assets/images/even-odd-in-every-language.jpg">
 <!-- end of Twitter cards -->
     <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>The OCaml Programming Language | Sample Programs in Every Language</title>
+<title>Even Odd in OCaml | Sample Programs in Every Language</title>
 <meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="The OCaml Programming Language" />
+<meta property="og:title" content="Even Odd in OCaml" />
+<meta name="author" content="alope107" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
 <meta property="og:description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
-<link rel="canonical" href="https://sampleprograms.io/languages/ocaml/" />
-<meta property="og:url" content="https://sampleprograms.io/languages/ocaml/" />
+<link rel="canonical" href="https://sampleprograms.io/projects/even-odd/ocaml/" />
+<meta property="og:url" content="https://sampleprograms.io/projects/even-odd/ocaml/" />
 <meta property="og:site_name" content="Sample Programs in Every Language" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2018-10-17T00:00:00+00:00" />
+<meta property="article:published_time" content="2026-05-25T00:00:00+00:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="The OCaml Programming Language" />
+<meta property="twitter:title" content="Even Odd in OCaml" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2018-10-17T00:00:00+00:00","datePublished":"2018-10-17T00:00:00+00:00","description":"A Collection of Code Snippets in as Many Programming Languages as Possible","headline":"The OCaml Programming Language","mainEntityOfPage":{"@type":"WebPage","@id":"https://sampleprograms.io/languages/ocaml/"},"url":"https://sampleprograms.io/languages/ocaml/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"alope107"},"dateModified":"2026-05-25T00:00:00+00:00","datePublished":"2026-05-25T00:00:00+00:00","description":"A Collection of Code Snippets in as Many Programming Languages as Possible","headline":"Even Odd in OCaml","mainEntityOfPage":{"@type":"WebPage","@id":"https://sampleprograms.io/projects/even-odd/ocaml/"},"url":"https://sampleprograms.io/projects/even-odd/ocaml/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -122,8 +123,20 @@
 
       <li>
         
-          <a href="/languages/">
-            Languages
+          <a href="/projects/">
+            Projects
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/even-odd/">
+            Even odd
           </a>
         
       </li>
@@ -143,12 +156,12 @@
   </ol>
 </nav>
 
-  <h1>The OCaml Programming Language</h1>
+  <h1>Even Odd in OCaml</h1>
 
   
   <small>
     
-        Published on 17 October 2018
+        Published on 25 May 2026
     
 
     
@@ -161,20 +174,20 @@
 
 <div class="featured-image">
   <img
-    src="/assets/images/programming-languages.jpg"
-    alt="The OCaml Programming Language"
+    src="/assets/images/even-odd-in-every-language.jpg"
+    alt="Even Odd in OCaml"
     loading="eager"
   >
 
   
     <div class="image-container" id="title1">
-      <div class="image-title">The OCaml Programming</div>
+      <div class="image-title">Even Odd</div>
     </div>
   
 
   
     <div class="image-container" id="title2">
-      <div class="image-title">Language</div>
+      <div class="image-title">in OCaml</div>
     </div>
   
 </div>
@@ -187,37 +200,42 @@ AUTO-GENERATED -- PLEASE DO NOT EDIT!
 
 Instead, please edit the following:
 
-- sources/languages/ocaml/description.md
+- sources/programs/even-odd/ocaml/how-to-implement-the-solution.md
+- sources/programs/even-odd/ocaml/how-to-run-the-solution.md
 
 See .github/CONTRIBUTING.md for further details.
 -->
 
-<p>Welcome to the OCaml page! Here, you'll find a description of the language as well as a list of sample programs in that language.</p>
+<p>Welcome to the <a href="/projects/even-odd">Even Odd</a> in <a href="/languages/ocaml">OCaml</a> page! Here, you'll find the source code for this program as well as a description of how the program works.</p>
 
-<h2 id="description">Description</h2>
+<h2 id="current-solution">Current Solution</h2>
 
-<p>No 'Description' section available. <a href="https://github.com/TheRenegadeCoder/sample-programs-website">Please consider contributing</a>.</p>
+<div class="language-ocaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">let</span> <span class="n">even_odd</span> <span class="n">n</span> <span class="o">=</span> <span class="k">if</span> <span class="n">n</span> <span class="ow">mod</span> <span class="mi">2</span> <span class="o">=</span> <span class="mi">0</span> <span class="k">then</span> <span class="s2">"Even"</span> <span class="k">else</span> <span class="s2">"Odd"</span>
+<span class="k">let</span> <span class="n">parse_args</span> <span class="o">=</span> <span class="k">function</span> <span class="p">[</span><span class="o">|</span> <span class="n">_</span><span class="p">;</span> <span class="n">n</span> <span class="o">|</span><span class="p">]</span> <span class="o">-&gt;</span> <span class="n">int_of_string_opt</span> <span class="n">n</span> <span class="o">|</span> <span class="n">_</span> <span class="o">-&gt;</span> <span class="nc">None</span>
 
-<h2 id="articles">Articles</h2>
+<span class="k">let</span> <span class="bp">()</span> <span class="o">=</span>
+  <span class="n">print_endline</span>
+    <span class="p">(</span><span class="k">match</span> <span class="n">parse_args</span> <span class="nn">Sys</span><span class="p">.</span><span class="n">argv</span> <span class="k">with</span>
+    <span class="o">|</span> <span class="nc">Some</span> <span class="n">num</span> <span class="o">-&gt;</span> <span class="n">even_odd</span> <span class="n">num</span>
+    <span class="o">|</span> <span class="nc">None</span> <span class="o">-&gt;</span> <span class="s2">"Usage: please input a number"</span><span class="p">)</span>
 
-<p>There are 14 articles:</p>
+</code></pre></div></div>
+
+<p>Even Odd in <a href="/languages/ocaml">OCaml</a> was written by:</p>
 
 <ul>
-  <li><a href="/projects/baklava/ocaml">Baklava in OCaml</a></li>
-  <li><a href="/projects/capitalize/ocaml">Capitalize in OCaml</a></li>
-  <li><a href="/projects/duplicate-character-counter/ocaml">Duplicate Character Counter in OCaml</a></li>
-  <li><a href="/projects/even-odd/ocaml">Even Odd in OCaml</a></li>
-  <li><a href="/projects/factorial/ocaml">Factorial in OCaml</a></li>
-  <li><a href="/projects/fibonacci/ocaml">Fibonacci in OCaml</a></li>
-  <li><a href="/projects/file-input-output/ocaml">File Input Output in OCaml</a></li>
-  <li><a href="/projects/fizz-buzz/ocaml">Fizz Buzz in OCaml</a></li>
-  <li><a href="/projects/hello-world/ocaml">Hello World in OCaml</a></li>
-  <li><a href="/projects/linear-search/ocaml">Linear Search in OCaml</a></li>
-  <li><a href="/projects/merge-sort/ocaml">Merge Sort in OCaml</a></li>
-  <li><a href="/projects/palindromic-number/ocaml">Palindromic Number in OCaml</a></li>
-  <li><a href="/projects/prime-number/ocaml">Prime Number in OCaml</a></li>
-  <li><a href="/projects/reverse-string/ocaml">Reverse String in OCaml</a></li>
+  <li>alope107</li>
 </ul>
+
+<p>If you see anything you'd like to change or update, <a href="https://github.com/TheRenegadeCoder/sample-programs">please consider contributing</a>.</p>
+
+<h2 id="how-to-implement-the-solution">How to Implement the Solution</h2>
+
+<p>No 'How to Implement the Solution' section available. <a href="https://github.com/TheRenegadeCoder/sample-programs-website">Please consider contributing</a>.</p>
+
+<h2 id="how-to-run-the-solution">How to Run the Solution</h2>
+
+<p>No 'How to Run the Solution' section available. <a href="https://github.com/TheRenegadeCoder/sample-programs-website">Please consider contributing</a>.</p>
 
 </section>
 
