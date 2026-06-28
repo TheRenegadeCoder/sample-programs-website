@@ -17,28 +17,29 @@
     
 
 <!-- Twitter cards -->
-<meta name="twitter:title" content="The Forth Programming Language">
+<meta name="twitter:title" content="Fibonacci in Forth">
 <meta name="twitter:description" content="">
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://sampleprograms.io/assets/images/programming-languages.jpg">
+<meta name="twitter:image" content="https://sampleprograms.io/assets/images/fibonacci-in-every-language.jpg">
 <!-- end of Twitter cards -->
     <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>The Forth Programming Language | Sample Programs in Every Language</title>
+<title>Fibonacci in Forth | Sample Programs in Every Language</title>
 <meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="The Forth Programming Language" />
+<meta property="og:title" content="Fibonacci in Forth" />
+<meta name="author" content="Ricardo Mapurunga Junior" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
 <meta property="og:description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
-<link rel="canonical" href="https://sampleprograms.io/languages/forth/" />
-<meta property="og:url" content="https://sampleprograms.io/languages/forth/" />
+<link rel="canonical" href="https://sampleprograms.io/projects/fibonacci/forth/" />
+<meta property="og:url" content="https://sampleprograms.io/projects/fibonacci/forth/" />
 <meta property="og:site_name" content="Sample Programs in Every Language" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2023-11-16T00:00:00+00:00" />
+<meta property="article:published_time" content="2026-06-28T00:00:00+00:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="The Forth Programming Language" />
+<meta property="twitter:title" content="Fibonacci in Forth" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-11-16T00:00:00+00:00","datePublished":"2023-11-16T00:00:00+00:00","description":"A Collection of Code Snippets in as Many Programming Languages as Possible","headline":"The Forth Programming Language","mainEntityOfPage":{"@type":"WebPage","@id":"https://sampleprograms.io/languages/forth/"},"url":"https://sampleprograms.io/languages/forth/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Ricardo Mapurunga Junior"},"dateModified":"2026-06-28T00:00:00+00:00","datePublished":"2026-06-28T00:00:00+00:00","description":"A Collection of Code Snippets in as Many Programming Languages as Possible","headline":"Fibonacci in Forth","mainEntityOfPage":{"@type":"WebPage","@id":"https://sampleprograms.io/projects/fibonacci/forth/"},"url":"https://sampleprograms.io/projects/fibonacci/forth/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -122,8 +123,20 @@
 
       <li>
         
-          <a href="/languages/">
-            Languages
+          <a href="/projects/">
+            Projects
+          </a>
+        
+      </li>
+    
+      
+
+      
+
+      <li>
+        
+          <a href="/projects/fibonacci/">
+            Fibonacci
           </a>
         
       </li>
@@ -143,12 +156,12 @@
   </ol>
 </nav>
 
-  <h1>The Forth Programming Language</h1>
+  <h1>Fibonacci in Forth</h1>
 
   
   <small>
     
-        Published on 16 November 2023
+        Published on 28 June 2026
     
 
     
@@ -161,20 +174,20 @@
 
 <div class="featured-image">
   <img
-    src="/assets/images/programming-languages.jpg"
-    alt="The Forth Programming Language"
+    src="/assets/images/fibonacci-in-every-language.jpg"
+    alt="Fibonacci in Forth"
     loading="eager"
   >
 
   
     <div class="image-container" id="title1">
-      <div class="image-title">The Forth Programming</div>
+      <div class="image-title">Fibonacci</div>
     </div>
   
 
   
     <div class="image-container" id="title2">
-      <div class="image-title">Language</div>
+      <div class="image-title">in Forth</div>
     </div>
   
 </div>
@@ -187,28 +200,51 @@ AUTO-GENERATED -- PLEASE DO NOT EDIT!
 
 Instead, please edit the following:
 
-- sources/languages/forth/description.md
+- sources/programs/fibonacci/forth/how-to-implement-the-solution.md
+- sources/programs/fibonacci/forth/how-to-run-the-solution.md
 
 See .github/CONTRIBUTING.md for further details.
 -->
 
-<p>Welcome to the Forth page! Here, you'll find a description of the language as well as a list of sample programs in that language.</p>
+<p>Welcome to the <a href="/projects/fibonacci">Fibonacci</a> in <a href="/languages/forth">Forth</a> page! Here, you'll find the source code for this program as well as a description of how the program works.</p>
 
-<h2 id="description">Description</h2>
+<h2 id="current-solution">Current Solution</h2>
 
-<p>No 'Description' section available. <a href="https://github.com/TheRenegadeCoder/sample-programs-website">Please consider contributing</a>.</p>
+<pre><code class="language-forth">: fibonacci ( n --  )
+   0 1 rot 0 ?do       \ prepare the stack and loop
+      tuck +           \ calculate the next fibonacci number
+      i 1+ 0 .r ." : " \ print the current index
+      over 0 .r cr     \ print the current fibonacci number
+   loop
+   2drop ;
 
-<h2 id="articles">Articles</h2>
+: usage ( -- ) ." Usage: please input the count of fibonacci numbers to output" cr ;
 
-<p>There are 5 articles:</p>
+: main
+   argc @ 2 &lt; if usage exit then
+   1 arg s&gt;number? 0= if usage exit else drop then
+   fibonacci ;
+
+main
+bye
+
+</code></pre>
+
+<p>Fibonacci in <a href="/languages/forth">Forth</a> was written by:</p>
 
 <ul>
-  <li><a href="/projects/baklava/forth">Baklava in Forth</a></li>
-  <li><a href="/projects/even-odd/forth">Even Odd in Forth</a></li>
-  <li><a href="/projects/fibonacci/forth">Fibonacci in Forth</a></li>
-  <li><a href="/projects/fizz-buzz/forth">Fizz Buzz in Forth</a></li>
-  <li><a href="/projects/hello-world/forth">Hello World in Forth</a></li>
+  <li>Ricardo Mapurunga Junior</li>
 </ul>
+
+<p>If you see anything you'd like to change or update, <a href="https://github.com/TheRenegadeCoder/sample-programs">please consider contributing</a>.</p>
+
+<h2 id="how-to-implement-the-solution">How to Implement the Solution</h2>
+
+<p>No 'How to Implement the Solution' section available. <a href="https://github.com/TheRenegadeCoder/sample-programs-website">Please consider contributing</a>.</p>
+
+<h2 id="how-to-run-the-solution">How to Run the Solution</h2>
+
+<p>No 'How to Run the Solution' section available. <a href="https://github.com/TheRenegadeCoder/sample-programs-website">Please consider contributing</a>.</p>
 
 </section>
 
