@@ -61,4 +61,6 @@ jobs:
         with:
           folder: docs/_site
           token: ${{ secrets.GITHUB_TOKEN }}
+          git-config-name: github-actions[bot]
+          git-config-email: 41898282+github-actions[bot]@users.noreply.github.com
         if: ${{ github.ref == 'refs/heads/main' }}
