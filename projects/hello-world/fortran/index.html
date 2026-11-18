@@ -6,7 +6,7 @@
 
     <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico">
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=dcd13ee18a7578898dcdefb843e87c1719bce3d1">
+    <link rel="stylesheet" href="/assets/css/style.css?v=9bc6754a25547f92b8a1d8f0c39f7404d2eebfec">
 
     <script src="/assets/js/image_titler.js"></script>
     <script src="/assets/js/scale.fix.js"></script>
@@ -27,7 +27,7 @@
 <title>Hello World in Fortran | Sample Programs in Every Language</title>
 <meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="Hello World in Fortran" />
-<meta name="author" content="Ștefan-Iulian Alecu" />
+<meta name="author" content="Ashwin Kumar" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
 <meta property="og:description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
@@ -39,7 +39,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Hello World in Fortran" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Ștefan-Iulian Alecu"},"dateModified":"2025-10-15T00:00:00+00:00","datePublished":"2025-10-15T00:00:00+00:00","description":"A Collection of Code Snippets in as Many Programming Languages as Possible","headline":"Hello World in Fortran","mainEntityOfPage":{"@type":"WebPage","@id":"https://sampleprograms.io/projects/hello-world/fortran/"},"url":"https://sampleprograms.io/projects/hello-world/fortran/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Ashwin Kumar"},"dateModified":"2025-10-15T00:00:00+00:00","datePublished":"2025-10-15T00:00:00+00:00","description":"A Collection of Code Snippets in as Many Programming Languages as Possible","headline":"Hello World in Fortran","mainEntityOfPage":{"@type":"WebPage","@id":"https://sampleprograms.io/projects/hello-world/fortran/"},"url":"https://sampleprograms.io/projects/hello-world/fortran/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -165,7 +165,7 @@
     
 
     
-        (Updated: 15 October 2025)
+        (Updated: 18 November 2026)
     
     </small>
   
@@ -223,15 +223,66 @@ See .github/CONTRIBUTING.md for further details.
   <li>Ștefan-Iulian Alecu</li>
 </ul>
 
+<p>This article was written by:</p>
+
+<ul>
+  <li>Ashwin Kumar</li>
+</ul>
+
 <p>If you see anything you'd like to change or update, <a href="https://github.com/TheRenegadeCoder/sample-programs">please consider contributing</a>.</p>
 
 <h2 id="how-to-implement-the-solution">How to Implement the Solution</h2>
 
-<p>No 'How to Implement the Solution' section available. <a href="https://github.com/TheRenegadeCoder/sample-programs-website">Please consider contributing</a>.</p>
+<p>Let's dig into Hello World in Fortran, line by line.</p>
+
+<p>First, we have the <code class="language-plaintext highlighter-rouge">program</code> statement, which starts the main program and
+gives it a name, <code class="language-plaintext highlighter-rouge">helloworld</code>. Every Fortran executable has exactly one main
+program.</p>
+
+<p>Next is <code class="language-plaintext highlighter-rouge">implicit none</code>. Without it, Fortran guesses the type of any
+undeclared variable from its first letter: names starting with I through N
+are integers, and everything else is real. That rule dates back to the
+earliest Fortran, and it turns a typo into a brand new variable instead of an
+error. <code class="language-plaintext highlighter-rouge">implicit none</code> switches the rule off, so every variable has to be
+declared. This program has no variables, but the line is a good habit, and
+most modern Fortran code starts with it.</p>
+
+<p>Then comes the line that does the work:</p>
+
+<div class="language-fortran highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">print</span><span class="w"> </span><span class="s1">'(A)'</span><span class="p">,</span><span class="w"> </span><span class="s1">'Hello, World!'</span><span class="w">
+</span></code></pre></div></div>
+
+<p>The <code class="language-plaintext highlighter-rouge">print</code> statement writes to standard output. Its first argument is a
+format: <code class="language-plaintext highlighter-rouge">'(A)'</code> says to write one character value exactly as it is. We could
+have written <code class="language-plaintext highlighter-rouge">print *, 'Hello, World!'</code> instead, where <code class="language-plaintext highlighter-rouge">*</code> means "list-directed"
+output and the compiler picks the layout. Many compilers, gfortran among them,
+then start the line with a space, so the explicit format keeps the output to
+exactly <code class="language-plaintext highlighter-rouge">Hello, World!</code>.</p>
+
+<p>Finally, <code class="language-plaintext highlighter-rouge">end program helloworld</code> closes the main program. Repeating the name
+is optional, but it makes the end of a long program easy to match with its
+start.</p>
 
 <h2 id="how-to-run-the-solution">How to Run the Solution</h2>
 
-<p>No 'How to Run the Solution' section available. <a href="https://github.com/TheRenegadeCoder/sample-programs-website">Please consider contributing</a>.</p>
+<p>If we just want to see it run, we can paste the solution into an
+<a href="https://onlinecompiler.io/fortran-online-compiler">online Fortran compiler</a> and press Run.</p>
+
+<p>To run it locally, we need a Fortran compiler. The free option is gfortran,
+which is part of GCC, and the Fortran community keeps
+<a href="https://fortran-lang.org/learn/os_setup/install_gfortran/">install instructions for Windows, macOS and Linux</a>. With gfortran on our
+path and a copy of the solution, we can compile and run it from the folder
+that holds it:</p>
+
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">gfortran -o hello-world hello-world.f95
+./hello-world
+</span></code></pre></div></div>
+
+<p>On Windows, the second command is <code class="language-plaintext highlighter-rouge">hello-world.exe</code>. The <code class="language-plaintext highlighter-rouge">.f95</code> extension
+tells gfortran the source uses the free-form layout of Fortran 90 and later,
+so no special flags are needed. When the program runs, <code class="language-plaintext highlighter-rouge">Hello, World!</code> prints
+to the console.</p>
+
 
 </section>
 
