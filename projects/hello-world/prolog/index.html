@@ -6,7 +6,7 @@
 
     <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico">
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=9bc6754a25547f92b8a1d8f0c39f7404d2eebfec">
+    <link rel="stylesheet" href="/assets/css/style.css?v=17e335698ab04e0a378cdccebcbba6a5903ed129">
 
     <script src="/assets/js/image_titler.js"></script>
     <script src="/assets/js/scale.fix.js"></script>
@@ -27,7 +27,7 @@
 <title>Hello World in Prolog | Sample Programs in Every Language</title>
 <meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="Hello World in Prolog" />
-<meta name="author" content="rzuckerm" />
+<meta name="author" content="Ashwin Kumar" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
 <meta property="og:description" content="A Collection of Code Snippets in as Many Programming Languages as Possible" />
@@ -39,7 +39,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Hello World in Prolog" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"rzuckerm"},"dateModified":"2024-05-26T00:00:00+00:00","datePublished":"2024-05-26T00:00:00+00:00","description":"A Collection of Code Snippets in as Many Programming Languages as Possible","headline":"Hello World in Prolog","mainEntityOfPage":{"@type":"WebPage","@id":"https://sampleprograms.io/projects/hello-world/prolog/"},"url":"https://sampleprograms.io/projects/hello-world/prolog/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Ashwin Kumar"},"dateModified":"2024-05-26T00:00:00+00:00","datePublished":"2024-05-26T00:00:00+00:00","description":"A Collection of Code Snippets in as Many Programming Languages as Possible","headline":"Hello World in Prolog","mainEntityOfPage":{"@type":"WebPage","@id":"https://sampleprograms.io/projects/hello-world/prolog/"},"url":"https://sampleprograms.io/projects/hello-world/prolog/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -165,7 +165,7 @@
     
 
     
-        (Updated: 26 May 2024)
+        (Updated: 19 November 2026)
     
     </small>
   
@@ -223,15 +223,65 @@ See .github/CONTRIBUTING.md for further details.
   <li>rzuckerm</li>
 </ul>
 
+<p>This article was written by:</p>
+
+<ul>
+  <li>Ashwin Kumar</li>
+</ul>
+
 <p>If you see anything you'd like to change or update, <a href="https://github.com/TheRenegadeCoder/sample-programs">please consider contributing</a>.</p>
 
 <h2 id="how-to-implement-the-solution">How to Implement the Solution</h2>
 
-<p>No 'How to Implement the Solution' section available. <a href="https://github.com/TheRenegadeCoder/sample-programs-website">Please consider contributing</a>.</p>
+<p>Let's walk through Hello World in Prolog, line by line.</p>
+
+<p>A Prolog file is a set of facts and rules, plus directives that run while the
+file loads. The first line is a directive:</p>
+
+<div class="language-prolog highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">:-</span> <span class="ss">initialization</span><span class="p">(</span><span class="ss">main</span><span class="p">).</span>
+</code></pre></div></div>
+
+<p>It tells Prolog to call <code class="language-plaintext highlighter-rouge">main</code> once the whole file has been loaded. Without
+it, loading the file would only define <code class="language-plaintext highlighter-rouge">main</code>, and nothing would print until
+someone asked for it at the interactive prompt.</p>
+
+<p>Next comes the rule that does the work. Its head is <code class="language-plaintext highlighter-rouge">main()</code>, and the body
+after <code class="language-plaintext highlighter-rouge">:-</code> is a list of goals separated by commas, which Prolog runs in order.
+The empty brackets are SWI-Prolog syntax for a term with no arguments; in a
+rule head, SWI-Prolog treats <code class="language-plaintext highlighter-rouge">main()</code> the same as plain <code class="language-plaintext highlighter-rouge">main</code>, so this
+defines <code class="language-plaintext highlighter-rouge">main/0</code>, the predicate the directive calls.</p>
+
+<p>The first goal writes the greeting:</p>
+
+<div class="language-prolog highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="ss">write</span><span class="p">(</span><span class="s2">"Hello, World!\n"</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>In SWI-Prolog, text in double quotes is a <a href="https://www.swi-prolog.org/pldoc/man?section=strings">string</a>, and <code class="language-plaintext highlighter-rouge">write</code> prints it
+as it is, with <code class="language-plaintext highlighter-rouge">\n</code> ending the line. That detail matters because Prolog
+systems disagree here: under the older convention, the same quotes make a
+list of character codes, and <code class="language-plaintext highlighter-rouge">write</code> would print a list of numbers instead of
+the greeting.</p>
+
+<p>The last goal, <code class="language-plaintext highlighter-rouge">halt</code>, ends the program. Otherwise SWI-Prolog would finish
+loading the file and then wait at its interactive prompt.</p>
 
 <h2 id="how-to-run-the-solution">How to Run the Solution</h2>
 
-<p>No 'How to Run the Solution' section available. <a href="https://github.com/TheRenegadeCoder/sample-programs-website">Please consider contributing</a>.</p>
+<p>If we just want to see it run, we can paste the solution into an
+<a href="https://onlinecompiler.io/prolog-online-compiler">online Prolog compiler</a> and press Run.</p>
+
+<p>To run it locally, we need a Prolog system. The solution uses SWI-Prolog's
+string syntax, so SWI-Prolog is the one to <a href="https://www.swi-prolog.org/download/stable">download</a>; it has installers
+for Windows and macOS, and many Linux distributions package it as <code class="language-plaintext highlighter-rouge">swi-prolog</code>.
+With <code class="language-plaintext highlighter-rouge">swipl</code> on our path and a copy of the solution, we can run it from the
+folder that holds it:</p>
+
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">swipl hello-world.pl
+</span></code></pre></div></div>
+
+<p>SWI-Prolog loads the file, the <code class="language-plaintext highlighter-rouge">initialization</code> directive calls <code class="language-plaintext highlighter-rouge">main</code>, and
+<code class="language-plaintext highlighter-rouge">Hello, World!</code> prints to the console before <code class="language-plaintext highlighter-rouge">halt</code> ends the program.</p>
+
 
 </section>
 
